@@ -1,0 +1,938 @@
+{{short description|Olympic canoeing event}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox Olympic event
+| event       = Women's C-1 200 metres
+| games       = 2020 Summer
+| image       = Women's C-1 200 metres at the 2020 Summer Olympics podium (2).jpg
+| image_size  = 300px
+| caption     = 
+| venue       = [[Sea Forest Waterway]]
+| dates       = 4 August 2021 (heats and quarterfinal)<br />5 August 2021 (semifinal & final)
+| competitors = 32
+| nations     = 22
+| win_value   = 45.932 
+| gold        = [[Nevin Harrison]]
+| goldNOC     = USA
+| silver      = [[Laurence Vincent Lapointe]]
+| silverNOC   = CAN
+| bronze      = [[Liudmyla Luzan]]
+| bronzeNOC   = UKR
+| longnames   = yes
+| prev        = 
+| next        = [[Canoeing at the 2024 Summer Olympics – Women's C-1 200 metres|2024]]
+}}
+{{Canoeing at the 2020 Summer Olympics}}
+
+The women's C-1 200 metres sprint canoeing event at the [[2020 Summer Olympics]] took place on 4 and 5 August 2021 at the [[Sea Forest Waterway]].<ref name="Dates">{{cite web |url=https://olympics.com/tokyo-2020/olympic-games/en/results/canoe-sprint/event-schedule-women-s-canoe-single-200m.htm |title=Canoe Sprint - Women's Canoe Single 200m Schedule |publisher=Tokyo 2020 |access-date=3 August 2021 |archive-date=3 August 2021 |archive-url=https://web.archive.org/web/20210803203929/https://olympics.com/tokyo-2020/olympic-games/en/results/canoe-sprint/event-schedule-women-s-canoe-single-200m.htm |url-status=dead }}</ref> At least 12 canoeists from at least 12 nations competed.<ref name=Qualifying>{{cite news |url=https://www.canoeicf.com/sites/default/files/fin2021_covid_final_-_tokyo_2020_-_revised_qualification_system_-_canoe_sprint_-_eng.pdf |title=Qualification System – Games of the XXXI Olympiad – ''Canoe Sprint''|publisher=[[International Canoe Federation]]|access-date=25 June 2021}}</ref>
+{{TOC limit|3}}
+
+==Background==
+This was the debut appearance of the event, replacing the men's C-1 200 metres as the Olympics moved towards gender equality.<ref name=ProgrammeChange>{{cite news |url=https://www.canoeicf.com/news/ioc-announcement-confirms-changes-canoeing-program-tokyo |title=The IOC's final approval of the event programme for the 2020 Olympics confirms changes to the canoe sprint and slalom rundown for Tokyo. |publisher=International Canoe Federation |date=9 June 2017 |access-date=24 June 2021}}</ref> The women's C-1 200 metres has been an event at the [[ICF Canoe Sprint World Championships]] in 2010.<ref name=Harrison>{{cite news |url=https://www.teamusa.com/news/2021/march/20/sprint-canoer-nevin-harrison-qualifies-for-tokyo-at-the-aca-sprint-olympic-national-team-trials |publisher=USOPC |author=Lisa Costantini |title=Sprint Canoer Nevin Harrison Qualifies for Tokyo at the ACA Sprint Olympics & National Team Trials |date=20 March 2021 |access-date=25 June 2021}}</ref>
+
+[[2019 ICF Canoe Sprint World Championships|2019 World Champion]] teenager [[Nevin Harrison]] of the United States qualified for the event.<ref name=Harrison/>
+
+==Qualification==
+{{main|Canoeing at the 2020 Summer Olympics – Qualification}}
+
+A [[National Olympic Committee]] (NOC) could only qualify one boat (and thus earn one women's canoe quota place) in the event; however, NOCs could enter up to 2 boats in the event if they had enough women's canoe quota places from other events (that is, the C-2). A total of 12 qualification places were available, initially allocated as follows:
+
+* 1 place for the host nation, Japan, if it did not qualify any women's canoe quota places
+* 5 places awarded through the [[2019 ICF Canoe Sprint World Championships]]
+* 5 places awarded through continental tournaments, 1 per continent
+* 1 place awarded through the 2021 [[Canoe Sprint World Cup]] Stage 2.
+
+Qualifying places were awarded to the NOC, not to the individual canoeist who earned the place.<ref name=Qualifying/>
+
+The Oceania spot was re-allocated to the World Championships, going to China. As the Americas continental tournament was cancelled, that place was also allocated through the World Championships, but the place ultimately went to Bulgaria because insufficient athletes had entered from the Americas.<ref name=Americas>{{cite news |url=https://www.canoeicf.com/news/mexico-make-olympic-slalom-debut-after-quota-allocations |publisher=ICF |title=Mexico to make Olympic slalom debut after quota allocations |date=30 April 2021 |access-date=25 June 2021}}</ref>
+
+As Japan qualified a boat in the [[Canoeing at the 2020 Summer Olympics – Women's C-2 500 metres|women's C-2 event]],  its host nation place was also reallocated through the World Championships. This made a total of eight World Championship places that were awarded as follows:<ref name=Grid>[https://www.canoeicf.com/sites/default/files/canoe_sprint_quota_allocation_-_tokyo_2020_-_media_format.pdf Canoe Sprint Quota Allocation]</ref>
+
+{| class="wikitable" style="text-align:center"
+! Rank
+! Canoeist
+! Nation
+! Qualification || Selected competitor
+|- bgcolor=bbf3bb
+| 1
+| align="left"| [[Nevin Harrison]]
+| align="left"| {{flagIOC|USA|2020 Summer}}
+| Quota #1 in C-1 200 m || [[Nevin Harrison]]<ref name=Harrison/>
+|- bgcolor=bbf3bb
+| 2
+| align="left"|[[Olesia Romasenko]]
+| align="left"|{{flagIOC|ROC|2020 Summer}}
+| Quota #2 in C-1 200 m || 
+|- bgcolor=bbf3bb
+| 3
+| align="left"|[[Alena Nazdrova]]
+| align="left"|{{flagIOC|BLR|2020 Summer}}
+| Quota #3 in C-1 200 m || 
+|-
+| 4
+| align="left"|[[María Mailliard]]
+| align="left"|{{flagIOC|CHI|2020 Summer}}
+| Earned quota in C-2 500 m || {{n/a|Could enter via C-2}}
+|- bgcolor=bbf3bb
+| 5
+| align="left"|[[Katie Vincent (canoeist)|Katie Vincent]]
+| align="left"|{{flagIOC|CAN|2020 Summer}}
+| Quota #4 in C-1 200 m || [[Katie Vincent (canoeist)|Katie Vincent]]<ref name=CAN>{{cite web |url=https://canoekayak.ca/six-canadian-sprint-paddlers-punch-ticket-to-tokyo/ |title=Six Canadian Sprint Paddlers Punch Ticket to Tokyo |access-date=25 June 2021 |archive-date=15 May 2021 |archive-url=https://web.archive.org/web/20210515225138/https://canoekayak.ca/six-canadian-sprint-paddlers-punch-ticket-to-tokyo/ |url-status=dead }}</ref>
+|- bgcolor=bbf3bb
+| 6
+| align="left"|[[Dorota Borowska]]
+| align="left"|{{flagIOC|POL|2020 Summer}}
+| Quota #5 in C-1 200 m || 
+|-
+| 7
+| align="left"|[[Anastasiia Chetverikova]]
+| align="left"|{{flagIOC|UKR|2020 Summer}}
+| Earned quota in C-2 500 m || {{n/a|Could enter via C-2}}
+|- bgcolor=bbf3bb
+| 8
+| align="left"|[[Zhang Luqi]]
+| align="left"|{{flagIOC|CHN|2020 Summer}}
+| Reallocated Oceania quota in C-1 200 m || 
+|- bgcolor=bbf3bb
+| 9
+| align="left"|[[Staniliya Stamenova]]
+| align="left"|{{flagIOC|BUL|2020 Summer}}
+| Reallocated Americas quota in C-1 200 m || 
+|- bgcolor=bbf3bb
+| 10
+| align="left"|[[Bianka Nagy]]
+| align="left"|{{flagIOC|HUN|2020 Summer}}
+| Reallocated host quota in C-1 200 m || 
+|}
+
+Asia's continental place was earned by Thailand, Europe's by Spain, and Africa's by Nigeria. Croatia earned the final spot at the World Cup.:<ref name=Grid/>
+
+{| class="wikitable" style="text-align:center"
+! Nation
+! Qualification || Selected competitor
+|- bgcolor=bbf3bb
+| align="left"| {{flagIOC|NGR|2020 Summer}}
+| Africa quota in C-1 200 m || 
+|- bgcolor=bbf3bb
+| align="left"| {{flagIOC|THA|2020 Summer}}
+| Asia quota in C-1 200 m || [[Orasa Thiangkathok]]<ref name=Thailand>{{cite web |url=https://www.canoeicf.com/news/thailand-set-olympic-canoe-sprint-debut |title=Thailand set for Olympic canoe sprint debut}}</ref>
+|- bgcolor=bbf3bb
+| align="left"| {{flagIOC|ESP|2020 Summer}}
+| Europe quota in C-1 200 m || 
+|- bgcolor=bbf3bb
+| align="left"| {{flagIOC|CRO|2020 Summer}}
+| World Cup quota in C-1 200 m || 
+|}
+
+Nations that could enter (additional) boats due to qualifying in the C-2:
+
+{| class="wikitable"
+! Nation
+! Selected competitor 1 || Selected competitor 2
+|-
+| {{flagIOC|AUS|2020 Summer}} || || 
+|-
+| {{flagIOC|BLR|2020 Summer}} || || {{n/a|2 boat limit}}
+|-
+| {{flagIOC|CHI|2020 Summer}} || || 
+|-
+| {{flagIOC|CHN|2020 Summer}} || || {{n/a|2 boat limit}}
+|-
+| {{flagIOC|CUB|2020 Summer}} || || 
+|-
+| {{flagIOC|GER|2020 Summer}} || || 
+|-
+| {{flagIOC|HUN|2020 Summer}} || || {{n/a|2 boat limit}}
+|-
+| {{flagIOC|JPN|2020 Summer}} || || 
+|-
+| {{flagIOC|KAZ|2020 Summer}} || || 
+|-
+| {{flagIOC|MDA|2020 Summer}} || || 
+|-
+| {{flagIOC|ROC|2020 Summer}} || || {{n/a|2 boat limit}}
+|-
+| {{flagIOC|UKR|2020 Summer}} || || 
+|-
+| {{flagIOC|UZB|2020 Summer}} || || 
+|}
+
+==Competition format==
+Sprint canoeing uses a four-round format for events with at least 11 boats, with heats, quarterfinals, semifinals, and finals. The details for each round depend on how many boats ultimately enter.<ref name=Progression>{{cite web |url=https://www.canoeicf.com/sites/default/files/tokyo_2020_canoe_sprint_progression_system.pdf |publisher=ICF |title=Canoe Sprint Progression System |access-date=25 June 2021}}</ref>
+
+The course is a flatwater course 9 metres wide. The name of the event describes the particular format within sprint canoeing. The "C" format means a canoe, with the canoeist kneeling and using a single-bladed paddle to paddle and steer (as opposed to a kayak, with a seated canoeist, double-bladed paddle, and foot-operated rudder). The "1" is the number of canoeists in each boat. The "200 metres" is the distance of each race.<ref name=Tokyo2020Summary>{{cite web |url=https://olympics.com/tokyo-2020/en/sports/canoe-sprint/ |title=Canoe Sprint |publisher=IOC |access-date=25 June 2021 |archive-date=3 July 2021 |archive-url=https://web.archive.org/web/20210703154152/https://olympics.com/tokyo-2020/en/sports/canoe-sprint/ |url-status=dead }}</ref>
+
+==Schedule==
+The event was held over two consecutive days, with two rounds per day. All sessions started at 9:30&nbsp;a.m. local time, though there are multiple events with races in each session.<ref>{{cite web |title=Canoe Sprint Competition Schedule |url=https://tokyo2020.org/en/schedule/canoe-sprint-schedule |publisher=[[2020 Summer Olympics|Tokyo 2020]] |access-date=1 March 2020}}</ref>
+
+{{Olympic schedule legend|sport=canoeing}}
+{| class="wikitable olympic-schedule canoeing"
+|+Sprint
+|-
+! Event↓/Date → || colspan="2" | Mon 2 || colspan="2" | Tue 3 || colspan="2" | Wed 4 || colspan="2" | Thu 5 ||  colspan="2" | Fri 6 || colspan="2" | Sat 7 
+|-
+| class="event" | Women's C-1 200 m || colspan="2" | || colspan="2" | || class="heats" | H || class="quarterfinals" | ¼ || class="semifinals" | ½ || class="final" | F || colspan="2" | || colspan="2" |   
+|}
+
+==Results==
+===Heats===
+Progression System: 1st-2nd to SF, rest to QF 
+{{col-begin}}
+{{col-2}}
+
+====Heat 1====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|3
+|align=left|[[Liudmyla Luzan]]
+|align=left|{{flagIOC|UKR|2020 Summer}}
+|45.571
+|OB, SF
+|- bgcolor=bbf3bb
+|2
+|6
+|align=left|[[Lin Wenjun]]
+|align=left|{{flagIOC|CHN|2020 Summer}}
+|46.449
+|SF
+|-
+|3
+|2
+|align=left|[[Antía Jácome]]
+|align=left|{{flagIOC|ESP|2020 Summer}}
+|46.691
+|QF
+|-
+|4
+|5
+|align=left|[[María Mailliard]]
+|align=left|{{flagIOC|CHI|2020 Summer}}
+|47.557
+|QF
+|-
+|5
+|4
+|align=left|[[Irina Andreeva]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|48.192
+|QF
+|-
+|6
+|1
+|align=left|[[Nilufar Zokirova]]
+|align=left|{{flagIOC|UZB|2020 Summer}}
+|49.686
+|QF
+|-
+|7
+|7
+|align=left|[[Manaka Kubota]]
+|align=left|{{flagIOC|JPN|2020 Summer}}
+|50.608
+|QF
+|}
+{{col-2}}
+
+====Heat 2====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|5
+|align=left|[[Nevin Harrison]]
+|align=left|{{flagIOC|USA|2020 Summer}}
+|44.938
+|OB, SF
+|- bgcolor=bbf3bb
+|2
+|3
+|align=left|[[Katherin Nuevo Segura]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|46.533
+|SF
+|-
+|3
+|1
+|align=left|[[Virág Balla]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|46.852
+|QF
+|-
+|4
+|4
+|align=left|[[Anastasiia Chetverikova]]
+|align=left|{{flagIOC|UKR|2020 Summer}}
+|47.472
+|QF
+|-
+|5
+|7
+|align=left|[[Bernadette Wallace]]
+|align=left|{{flagIOC|AUS|2020 Summer}}
+|48.209
+|QF
+|-
+|6
+|2
+|align=left|[[Margarita Torlopova]]
+|align=left|{{flagIOC|KAZ|2020 Summer}}
+| 49.721
+|QF
+|-
+|7
+|6
+|align=left|[[Maria Olărașu]]
+|align=left|{{flagIOC|MDA|2020 Summer}}
+|50.607
+|QF
+|}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+====Heat 3====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|3
+|align=left|[[Katie Vincent (canoeist)|Katie Vincent]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|46.391
+|SF
+|- bgcolor=bbf3bb
+|2
+|5
+|align=left|[[Yarisleidis Cirilo Duboys]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|47.267
+|SF
+|-
+|3
+|1
+|align=left|[[Ayomide Emmanuel Bello]]
+|align=left|{{flagIOC|NGR|2020 Summer}}
+|47.539
+|QF
+|-
+|4
+|4
+|align=left|[[Katie Reid (canoeist)|Katie Reid]]
+|align=left|{{flagIOC|GBR|2020 Summer}}
+|47.876
+|QF
+|-
+|5
+|6
+|align=left|[[Orasa Thiangkathok]]
+|align=left|{{flagIOC|THA|2020 Summer}}
+|48.262
+|QF
+|-
+|6
+|2
+|align=left|[[Josephine Bulmer]]
+|align=left|{{flagIOC|AUS|2020 Summer}}
+|53.354
+|QF
+|}
+{{col-2}}
+
+====Heat 4====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|2
+|align=left|[[Laurence Vincent Lapointe]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|45.408
+|SF
+|- bgcolor=bbf3bb
+|2
+|5
+|align=left|[[Olesia Romasenko]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|46.126
+|SF
+|-
+|3
+|4
+|align=left|[[Alena Nazdrova]]
+|align=left|{{flagIOC|BLR|2020 Summer}}
+|46.731
+|QF
+|-
+|4
+|3
+|align=left|[[Lisa Jahn]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|47.439
+|QF
+|-
+|5
+|1
+|align=left|[[Dilnoza Rakhmatova]]
+|align=left|{{flagIOC|UZB|2020 Summer}}
+|47.716
+|QF
+|-
+|6
+|6
+|align=left|[[Teruko Kiriake]]
+|align=left|{{flagIOC|JPN|2020 Summer}}
+|50.326
+|QF
+|}
+{{col-end}}
+
+====Heat 5====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|5
+|align=left|[[Dorota Borowska]]
+|align=left|{{flagIOC|POL|2020 Summer}}
+|47.655
+|SF
+|- bgcolor=bbf3bb
+|2
+|6
+|align=left|[[Kincső Takács]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|47.977
+|SF
+|-
+|3
+|1
+|align=left|[[Daniela Cociu]]
+|align=left|{{flagIOC|MDA|2020 Summer}}
+|48.338
+|QF
+|-
+|4
+|3
+|align=left|[[Staniliya Stamenova]]
+|align=left|{{flagIOC|BUL|2020 Summer}}
+|48.477
+|QF
+|-
+|5
+|2
+|align=left|[[Sophie Koch (canoeist)|Sophie Koch]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|48.601
+|QF
+|-
+|6
+|4
+|align=left|[[Vanesa Tot]]
+|align=left|{{flagIOC|CRO|2020 Summer}}
+|49.280
+|QF
+|}
+
+===Quarterfinals===
+Progression System: 1st-2nd to SF, rest out.
+{{col-begin}}
+{{col-2}}
+
+====Quarterfinal 1====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|6
+|align=left|[[Antía Jácome]]
+|align=left|{{flagIOC|ESP|2020 Summer}}
+|45.668
+|SF
+|- bgcolor=bbf3bb
+|2
+|3
+|align=left|[[María Mailliard]]
+|align=left|{{flagIOC|CHI|2020 Summer}}
+|46.122
+|SF
+|-
+|3
+|4
+|align=left|[[Anastasiia Chetverikova]]
+|align=left|{{flagIOC|UKR|2020 Summer}}
+|46.509
+|
+|-
+|4
+|7
+|align=left|[[Bernadette Wallace]]
+|align=left|{{flagIOC|AUS|2020 Summer}}
+|48.330
+|
+|-
+|5
+|2
+|align=left|[[Orasa Thiangkathok]]
+|align=left|{{flagIOC|THA|2020 Summer}}
+|48.559
+|
+|-
+|6
+|8
+|align=left|[[Nilufar Zokirova]]
+|align=left|{{flagIOC|UZB|2020 Summer}}
+|48.995
+|
+|-
+|7
+|9
+|align=left|Maria Olărașu
+|align=left|{{flagIOC|MDA|2020 Summer}}
+|49.002
+|
+|-
+|8
+|1
+|align=left|[[Teruko Kiriake]]
+|align=left|{{flagIOC|JPN|2020 Summer}}
+|49.413
+|
+|}
+{{col-2}}
+
+====Quarterfinal 2====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|5
+|align=left|[[Virág Balla]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|46.218
+|SF
+|- bgcolor=bbf3bb
+|2
+|6
+|align=left|[[Irina Andreeva]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|46.637
+|SF
+|-
+|3
+|2
+|align=left|[[Dilnoza Rakhmatova]]
+|align=left|{{flagIOC|UZB|2020 Summer}}
+|46.645
+|
+|-
+|4
+|3
+|align=left|[[Katie Reid (canoeist)|Katie Reid]]
+|align=left|{{flagIOC|GBR|2020 Summer}}
+|47.821
+|
+|-
+|5
+|1
+|align=left|[[Vanesa Tot]]
+|align=left|{{flagIOC|CRO|2020 Summer}}
+|48.375
+|
+|-
+|6
+|4
+|align=left|[[Daniela Cociu]]
+|align=left|{{flagIOC|MDA|2020 Summer}}
+|48.594
+|
+|-
+|7
+|6
+|align=left|[[Margarita Torlopova]]
+|align=left|{{flagIOC|KAZ|2020 Summer}}
+|49.051
+|
+|}
+{{col-end}}
+
+====Quarterfinal 3====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|4
+|align=left|[[Alena Nazdrova]]
+|align=left|{{flagIOC|BLR|2020 Summer}}
+|46.950
+|SF
+|- bgcolor=bbf3bb
+|2
+|6
+|align=left|[[Lisa Jahn]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|47.049
+|SF
+|-
+|3
+|5
+|align=left|[[Ayomide Emmanuel Bello]]
+|align=left|{{flagIOC|NGR|2020 Summer}}
+|47.326
+|
+|-
+|4
+|2
+|align=left|[[Sophie Koch (canoeist)|Sophie Koch]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|48.891
+|
+|-
+|5
+|3
+|align=left|[[Staniliya Stamenova]]
+|align=left|{{flagIOC|BUL|2020 Summer}}
+|48.939
+|
+|-
+|6
+|1
+|align=left|Manaka Kubota
+|align=left|{{flagIOC|JPN|2020 Summer}}
+|49.769
+|
+|-
+|7
+|7
+|align=left|[[Josephine Bulmer]]
+|align=left|{{flagIOC|AUS|2020 Summer}}
+|51.474
+|
+|}
+
+===Semifinals===
+Progression System: 1st-4th to Final A, rest to Final B.
+{{col-begin}}
+{{col-2}}
+
+====Semifinal 1====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|5
+|align=left|[[Liudmyla Luzan]]
+|align=left|{{flagIOC|UKR|2020 Summer}}
+|47.339
+|FA
+|- bgcolor=bbf3bb
+|2
+|2
+|align=left|[[Olesia Romasenko]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|47.368
+|FA
+|- bgcolor=bbf3bb
+|3
+|4
+|align=left|[[Katie Vincent (canoeist)|Katie Vincent]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|47.604
+|FA
+|- bgcolor=bbf3bb
+|4
+|3
+|align=left|[[Dorota Borowska]]
+|align=left|{{flagIOC|POL|2020 Summer}}
+|47.703
+|FA
+|-
+|5
+|1
+|align=left|[[María Mailliard]]
+|align=left|{{flagIOC|CHI|2020 Summer}}
+|48.198
+|FB
+|-
+|6
+|7
+|align=left|[[Virág Balla]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|48.257
+|FB
+|-
+|7
+|8
+|align=left|[[Lisa Jahn]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|49.136
+|FB
+|-
+|8
+|6
+|align=left|[[Katherin Nuevo Segura]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|49.242
+|FB
+|}
+{{col-2}}
+
+====Semifinal 2====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|- bgcolor=bbf3bb
+|1
+|4
+|align=left|[[Nevin Harrison]]
+|align=left|{{flagIOC|USA|2020 Summer}}
+|46.697
+|FA
+|- bgcolor=bbf3bb
+|2
+|3
+|align=left|[[Lin Wenjun]]
+|align=left|{{flagIOC|CHN|2020 Summer}}
+|47.161
+|FA
+|- bgcolor=bbf3bb
+|3
+|5
+|align=left|[[Laurence Vincent Lapointe]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|47.294
+|FA
+|- bgcolor=bbf3bb
+|4
+|7
+|align=left|[[Antía Jácome]]
+|align=left|{{flagIOC|ESP|2020 Summer}}
+|47.414
+|FA
+|-
+|5
+|1
+|align=left|[[Alena Nazdrova]]
+|align=left|{{flagIOC|BLR|2020 Summer}}
+|48.120
+|FB
+|-
+|6
+|6
+|align=left|[[Yarisleidis Cirilo Duboys]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|48.375
+|FB
+|-
+|7
+|8
+|align=left|[[Irina Andreeva]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|49.147
+|FB
+|-
+|8
+|2
+|align=left|[[Kincső Takács]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|49.178
+|FB
+|}
+{{col-end}}
+
+===Finals===
+{{col-begin}}
+{{col-2}}
+
+====Final A====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|-
+|{{gold1}}
+|4
+|align=left|[[Nevin Harrison]]
+|align=left|{{flagIOC|USA|2020 Summer}}
+|45.932
+|
+|-
+|{{silver2}}
+|2
+|align=left|[[Laurence Vincent Lapointe]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|46.786
+|
+|-
+|{{bronze3}}
+|5
+|align=left|[[Liudmyla Luzan]]
+|align=left|{{flagIOC|UKR|2020 Summer}}
+|47.034
+|
+|-
+|4
+|1
+|align=left|[[Dorota Borowska]]
+|align=left|{{flagIOC|POL|2020 Summer}}
+|47.116
+|
+|-
+|5
+|8
+|align=left|[[Antía Jácome]]
+|align=left|{{flagIOC|ESP|2020 Summer}}
+|47.226
+|
+|-
+|6
+|6
+|align=left|[[Lin Wenjun]]
+|align=left|{{flagIOC|CHN|2020 Summer}}
+|47.608
+|
+|-
+|7
+|3
+|align=left|[[Olesia Romasenko]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|47.777
+|
+|-
+|8
+|7
+|align=left|[[Katie Vincent (canoeist)|Katie Vincent]]
+|align=left|{{flagIOC|CAN|2020 Summer}}
+|47.834
+|
+|}
+{{col-2}}
+
+====Final B====
+{|class="wikitable" style="text-align:center;"
+!width=30|Rank
+!width=30|Lane
+!width=175|Canoer
+!width=150|Country
+!width=30|Time
+!width=50|Notes
+|-
+|9
+|3
+|align=left|[[Virág Balla]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|47.560
+|
+|-
+|10
+|5
+|align=left|[[María Mailliard]]
+|align=left|{{flagIOC|CHI|2020 Summer}}
+|47.610
+|
+|-
+|11
+|4
+|align=left|[[Alena Nazdrova]]
+|align=left|{{flagIOC|BLR|2020 Summer}}
+|48.085
+|
+|-
+|12
+|6
+|align=left|[[Yarisleidis Cirilo Duboys]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|48.582
+|
+|-
+|13
+|7
+|align=left|[[Lisa Jahn]]
+|align=left|{{flagIOC|GER|2020 Summer}}
+|48.798
+|
+|-
+|14
+|8
+|align=left|[[Kincső Takács]]
+|align=left|{{flagIOC|HUN|2020 Summer}}
+|48.921
+|
+|-
+|15
+|2
+|align=left|[[Irina Andreeva]]
+|align=left|{{flagIOC|ROC|2020 Summer}}
+|48.930
+|
+|-
+|16
+|1
+|align=left|[[Katherin Nuevo Segura]]
+|align=left|{{flagIOC|CUB|2020 Summer}}
+|49.024
+|
+|}
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+{{Footer Olympic Champions Women C-1 200 m}}
+
+{{DEFAULTSORT:Canoeing at the 2020 Summer Olympics - Women's C-1 200 metres}}
+[[Category:Canoeing at the 2020 Summer Olympics|Women's C-1 200 metres]]
+[[Category:Women's events at the 2020 Summer Olympics]]

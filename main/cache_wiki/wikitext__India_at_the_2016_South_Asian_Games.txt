@@ -1,0 +1,7500 @@
+{{Use dmy dates|date=August 2018}}
+{{Use Indian English|date=August 2018}}
+{{Infobox country at games
+| NOC          = IND
+| NOCname      = [[Indian Olympic Association]]
+| oldcode      = 
+| year         = 2016
+| date         = 
+| games        = South Asian Games
+| location     = [[Guwahati]] and [[Shillong]]
+| competitors  = 519
+| sports       = 
+| flagbearer   = [[Saurav Ghosal]] (In Guwahati)<br>[[P. V. Sindhu]] (In Shilong)
+| officials    = 
+| gold         = 188
+| silver       = 92
+| bronze       = 28
+| rank         = 1
+| appearances  = * [[India at the 1984 South Asian Games|1984]]
+* [[India at the 1985 South Asian Games|1985]]
+* [[India at the 1987 South Asian Games|1987]]
+* [[India at the 1989 South Asian Games|1989]]
+* [[India at the 1991 South Asian Games|1991]]
+* [[India at the 1993 South Asian Games|1993]]
+* [[India at the 1995 South Asian Games|1995]]
+* [[India at the 1999 South Asian Games|1999]]
+* [[India at the 2004 South Asian Games|2004]]
+* [[India at the 2006 South Asian Games|2006]]
+* [[India at the 2010 South Asian Games|2010]]
+* 2016
+* [[India at the 2019 South Asian Games|2019]]
+* [[India at the 2023 South Asian Games|2023]]
+| seealso      = 
+| website      = 
+}}
+
+'''[[India]]''' participated in the '''[[2016 South Asian Games]]''' in [[Guwahati]] and [[Shillong]], [[India]] from 5 to 16 February 2016.<ref>{{cite web|date=17 February 2016|title=SAG 2016 Final Result|url=http://southasiangames2016.nic.in/includes/SAG_Final_Results.pdf|url-status=bot: unknown|archive-url=https://web.archive.org/web/20221028114701/http://southasiangames2016.nic.in/includes/SAG_Final_Results.pdf|archive-date=28 October 2022|access-date=16 November 2021}}</ref>
+
+==Medal summary==
+India won 188 gold medals and a total of 308 medals.<ref>{{cite web|title=Results: Medal Tally|url=http://www.southasiangames2016.com/|publisher=[[South Asian Games]]|accessdate=14 February 2016|archive-url=https://web.archive.org/web/20160320184016/http://www.southasiangames2016.com/|archive-date=20 March 2016|url-status=dead}}</ref>
+
+===Medals by sports===
+{{Medals table
+ | caption     = 
+ | team        = Sport
+ | hide_rank   = yes
+ | leading     = 
+ | gold_1  = 10 | silver_1  = 4  | bronze_1  = 0  | name_1  = {{GamesSport|Archery|Format=d}}
+ | gold_2  = 28 | silver_2  = 22 | bronze_2  = 8  | name_2  = {{GamesSport|Athletics|Format=d}}
+ | gold_3  = 7  | silver_3  = 5  | bronze_3  = 0  | name_3  = {{GamesSport|Badminton|Format=d}}
+ | gold_4  = 10 | silver_4  = 0  | bronze_4  = 0  | name_4  = {{GamesSport|Boxing|Format=d}}
+ | gold_5  = 6  | silver_5  = 5  | bronze_5  = 2  | name_5  = {{GamesSport|Cycling|Format=d}}
+ | gold_6  = 1  | silver_6  = 1  | bronze_6  = 0  | name_6  = {{GamesSport|Field hockey|Format=d}}
+ | gold_7  = 1  | silver_7  = 1  | bronze_7  = 0  | name_7  = {{GamesSport|Football|Format=d}}
+ | gold_8  = 2  | silver_8  = 0  | bronze_8  = 0  | name_8  = {{GamesSport|Handball|Format=d}}
+ | gold_9  = 9  | silver_9  = 3  | bronze_9  = 0  | name_9  = {{GamesSport|Judo|Format=d}}
+ | gold_10 = 2  | silver_10 = 0  | bronze_10 = 0  | name_10 = {{GamesSport|Kabaddi|Format=d}}
+ | gold_11 = 2  | silver_11 = 0  | bronze_11 = 0  | name_11 = {{GamesSport|Kho-Kho|Format=d}}
+ | gold_12 = 25 | silver_12 = 10 | bronze_12 = 10 | name_12 = {{GamesSport|Shooting|Format=d}}
+ | gold_13 = 3  | silver_13 = 2  | bronze_13 = 0  | name_13 = {{GamesSport|Squash|Format=d}}
+ | gold_14 = 23 | silver_14 = 19 | bronze_14 = 3  | name_14 = {{GamesSport|Swimming|Format=d}}
+ | gold_15 = 7  | silver_15 = 5  | bronze_15 = 0  | name_15 = {{GamesSport|Table tennis|Format=d}}
+ | gold_16 = 5  | silver_16 = 3  | bronze_16 = 2  | name_16 = {{GamesSport|Taekwondo|Format=d}}
+ | gold_17 = 5  | silver_17 = 5  | bronze_17 = 0  | name_17 = {{GamesSport|Tennis|Format=d}}
+ | gold_18 = 3  | silver_18 = 2  | bronze_18 = 0  | name_18 = {{GamesSport|Triathlon|Format=d}}
+ | gold_19 = 2  | silver_19 = 0  | bronze_19 = 0  | name_19 = {{GamesSport|Volleyball|Format=d}}
+ | gold_20 = 12 | silver_20 = 1  | bronze_20 = 0  | name_20 = {{GamesSport|Weightlifting|Format=d}}
+ | gold_21 = 14 | silver_21 = 2  | bronze_21 = 0  | name_21 = {{GamesSport|Wrestling|Format=d}}
+ | gold_22 = 11 | silver_22 = 2  | bronze_22 = 3  | name_22 = {{GamesSport|Wushu|Format=d}}
+}}
+
+=== Medals by Date ===
+{| class="wikitable"
+|+
+!Date
+!{{Gold1}} Gold
+!{{Silver2}} Silver
+!{{Bronze3}} Bronze
+!Total
+|-
+|6 February
+|14
+|5
+|0
+|19
+|-
+|7 February
+|16
+|7
+|3
+|26
+|-
+|8 February
+|23
+|10
+|1
+|34
+|-
+|9 February
+|25
+|16
+|4
+|45
+|-
+|10 February
+|40
+|27
+|7
+|74
+|-
+|11 February
+|20
+|12 
+|3
+|35
+|-
+|12 February
+|6
+|2
+|3
+|11
+|-
+|13 February
+|9
+|5
+|4
+|18
+|-
+|14 February
+|4
+|3
+|1
+|8
+|-
+|15 February
+|26
+|3
+|2
+|31
+|-
+|16 February
+|5
+|2
+|0
+|7
+|-
+|Total
+|188
+|92
+|28
+|308
+|}
+
+==Medalists==
+{|class="wikitable sortable" style="text-align:center; font-size:90%"
+|-
+! width="65"|Medal
+! width="150"|Name
+! width="100"|Sport
+! width="130"|Event
+! width="70"|Date
+|-
+|{{Gold medal}}
+|[[Bidayuluxmi Tourangbam]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 30km Individual Time Trial]]
+|6 February
+|-
+|{{Gold medal}}
+|[[Saikhom Mirabai Chanu]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 48 Kg]]
+|6 February
+|-
+|{{Gold medal}}
+|[[Arvind Panvar]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Men's 40km Individual Time Trial]]
+|6 February
+|-
+|{{Gold medal}}
+|[[Guru Raja]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 56 Kg]]
+|6 February
+|-
+|{{Gold medal}}
+|[[Harshdeep Kaur (weightlifter)|Harshdeep Kaur]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 53 Kg]]
+|6 February
+|-
+|{{Gold medal}}
+|[[Shivani Kataria]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 200m Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Sandeep Sejwal]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 200m Breaststroke]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Damini Gowda]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 100m Butterfly]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Avantika Chavan]], [[V Malvika]], [[Maana Patel]], [[Shivani Kataria]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 4x100m Fresstyle Relay]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Priyanka Singh]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 48Kg Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Archana Tomar]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 55Kg Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Manisha (wrestler)|Manisha]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 60Kg Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Ravindra (wrestler)|Ravindra]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 57Kg Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Rajneesh (wrestler)|Rajneesh]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 65Kg Freestyle]]
+| 6 February
+|-
+|{{Gold medal}}
+|[[Lidiyamol Sunny Menamparambil]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 40 Km Criterium]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Saraswati Raut]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 56 Kg]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Sambo Lapung]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 69 Kg]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Sandeep Sejwal]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Breaststroke]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Sajan Prakash]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 1500m Freestyle]]
+| 7 February
+|-
+|{{Gold medal}}
+|[[Sayani Ghosh (swimmer)|Sayani Ghosh]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 400m Individual Medley]]
+|7 February
+|-
+|{{Gold medal}}
+|[[M. Arvind]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 200m Backstroke]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Amit Kumar Dhankar]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 70Kg Freestyle]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Pradeep (wrestler)|Pradeep]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 61Kg Freestyle]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Mamata (wrestler)|Mamata]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 53Kg Freestyle]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Manisha (wrestler)|Manisha]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 60K Freestyle|Women's 60Kg Freestyle]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Ajay Singh (weightlifter)|Ajay Singh]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 77Kg]] 
+|7 February
+|-
+|{{Gold medal}}
+|[[Y Sapna Devi]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Changquan|Taolu-Changquan]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Rakhi Haler]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 69Kg]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Anthony Amalraj]], [[Sathiyan Gunasekaran]], [[Devesh Karia]],
+[[Sanil Sankar Shetty]], [[Sudhanshu Grover]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Men's Team]]
+|7 February
+|-
+|{{Gold medal}}
+|[[Manika Batra]], [[Mouma Das]], [[Pooja Vijay Sahasrabudhe]],
+[[Madhurika Patkar]], [[Shamini Kumaresan]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Women's Team]]
+|7 February
+|-
+|{{Gold medal}}
+|[[K Srikanth]], [[Ajay Jayaram|Ajay jayaram]], [[Manu Attri]], [[Akshay Dewalkar]],
+[[Sai Praneeth]], [[Prannoy Haseena Sunil Kumar|H S Prannoy]], [[Sumeeth Reddy]],
+
+[[Pranaav Jerry Chopra]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Men's Team]]
+|8 February
+|-
+|{{Gold medal}}
+|[[P.V.Sindhu|P V Sindhu]], [[Thulasi P.C.|P C Thulasi]], [[Ashwini Ponnappa]], [[Jwala Gutta]],
+[[Ruthvika Shivani]], [[K. Maneesha]], [[N. Sikki Reddy]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Women's Team]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Chaoba Devi Eangbam]], [[Bidayuluxmi Tourangbam]],
+[[G Manisha]], [[Rutuja Satpute]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 40km Team Time Trial]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Manjeet Singh (cyclist)|Manjeet Singh]], [[Arvind Panvar]],
+[[Deepak Kumar Rahi]], [[Manohar lal Bishnoi]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 40km Team Time Trial|Men's 70km Team Time Trial]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Joshna Chinappa]]
+|[[Squash at the 2016 South Asian Games|Squash]]
+|Women's Singles
+|8 February
+|-
+|{{Gold medal}}
+|[[V Malvika]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 800m Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|[[P. S. Madhu]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Backstroke]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Sandeep Sejwal]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[50m Breaststroke]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Kavita Devi (wrestler)|Kavita Devi]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 75Kg]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Vikas Thakur]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 85Kg]]
+|8 February
+|-
+|{{Gold medal}}
+|Pradeep Singh
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 94 Kg]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Victor Abhilash Christopher]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 105Kg]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Shilpi Seron]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 63Kg Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Pradeep (wrestler)|Pradeep]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 74 Kg Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|Rajani
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 69Kg Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Mausam Khatri]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 97Kg Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Nikki (wrestling)|Nikki]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Women's 75Kg Freestyle]]
+|8 February
+|-
+|{{Gold medal}}
+|[[M. Punshiva Meitei]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Taolu- Nanquan & Nangun]] 
+|8 February
+|-
+|{{Gold medal}}
+|[[Purvasha Sudhir Shende]], [[Jyothi Surekha Vennam]],
+[[Lily Chanu Paonam]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+| [[Women's Compound Team|Compound Men's Team]] 
+|8 February
+|-
+|{{Gold medal}}
+|[[Abhishek Verma (archer)|Abhishek Verma]], [[Rajat Chauhan]], [[Manash Jyoti Changmai]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Men's Compound Team|Compound Men's Team]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Abhishek Verma (archer)|Abhishek Verma]], [[Purvasha Sudhir Shende]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Compound Mixed Team]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Rajat Chauhan]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Compound Men's Individual]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Purvasha Sudhir Shende]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Compound Women's Individual]]
+|8 February
+|-
+|{{Gold medal}}
+|[[Chirag Sharma]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men;s Taolu- Daushu & Gunshu]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Bidayuluxmi Tourangbam]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 80Km Individual Road Race]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Tarundeep Rai]], [[Deepika Kumari]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Mixed Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Tarundeep Rai]], [[Gurucharan Besra]], [[Jayanta Talukdar]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Men's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Deepika Kumari]], [[Laishram Bombayla Devi]], [[Laxmirani Majhi]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Women's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Tarundeep Rai]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Men's Individual]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Deepika Kumari]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Women's Individual]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Saurabh Sangvekar]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 400m Freestyle]]
+|9 February
+|-
+|{{Gold medal}}
+|[[V Malvika]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 800m Freestyle|Women's 400m Freestyle]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Sajan Prakash]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 200m Butterfly]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Damini Gowda]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 200m Butterfly]]
+|9 February
+|-
+|{{Gold medal}}
+|[[P. S. Madhu]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Backstroke|Men's 50m Backstroke]]
+|9 February
+|-
+|{{Gold medal}}
+|[[SAURABH SANGVEKAR|Saurab Sangvekar]], [[Raj Bhanwadia]], [[Neil Contractor]], 
+[[Sajan Prakash]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 4x200m Freestyle Relay]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Shraddha Sudhir]], [[V Malvika]], [[Damini Gowda]], [[Shivani Kataria]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 4x200m Freestyle Relay]]
+|9 February
+|-
+|{{Gold medal}}
+|[[India women's national volleyball team|Women's Volleyball Team]]
+|[[Volleyball at the 2016 South Asian Games|Volleyball]]
+|[[Women's team foil at the 2011 World Fencing Championships|Women's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Manpreet Kaur Sr]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Shot put]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Mayookha Johny]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Long Jump]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Neeraj Kumar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Hammer Throw]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Man Singh]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 5000m]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Surya L]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 5000m]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Sushila Panwar]]
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Women's 75+ Kg]]
+|9 February
+|-
+|{{Gold medal}}
+|[[India men's national volleyball team|Men's Volleyball Team]]
+|[[Volleyball at the 2016 South Asian Games|Volleyball]]
+|[[Men's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Indian Kho-Kho Men's Team|Kho-Kho Men's Team]]
+|[[Kho-Kho at the 2016 South Asian Games|Kho Kho]]
+|[[Men's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Indian Kho-Kho Women's Team|Kho-Kho Women's Team]]
+|[[Kho-Kho at the 2016 South Asian Games|Kho Kho]]
+|[[Men's Team|Women's Team]]
+|9 February
+|-
+|{{Gold medal}}
+|[[Anthony Amalraj]], [[Manika Batra]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Table tennis#Double game|Mixed Doubles]]
+|9 February
+|-
+|{{Gold medal}}
+|[[M Gyandash Singh]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Taolu-Taijiquan & Taijijian|Men's Taolu-Taijiquan & Taijijian]]
+|10 February
+|-
+|{{Gold medal}}
+|[[L Sanatombi Chanu]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Taolu-Taijiquan & Taijijian|Women's Taolu-Taijiquan & Taijijian]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ankita Raina]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Singles tennis|Women's Singles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Omkar Singh]], [[P.N. Prakash]], [[Om Prakash (sport shooter)|Om Prakash]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Pistol Team]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ankita Raina]], [[Divij Sharan]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Mixed doubles (tennis)|Mixed Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Saurav Ghosal|Saurav Ghoshal]], [[Kush Kumar]], [[Ravi Dixit]], [[Harinder Pal Sandhu]]
+|[[Squash at the 2016 South Asian Games|Squash]]
+|[[Men's Team]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Joshna Chinappa]], [[Dipika Karthik]], [[Sunayna Kuruvilla]] and [[Akanksha Salunkhe]]
+|[[Squash at the 2016 South Asian Games|Squash]]
+|[[Women's Team]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Shraddha Sudhir]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 200m Individual Medley]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Virdhawal Khade]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50m Butterfly]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Jyotsna Pansare]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50m Butterfly|Women's 50m Butterfly]]
+|10 February
+|-
+|{{Gold medal}}
+|[[P.S.Madhu]], [[Sandeep Sejwal]], [[Supriyo Mondal]],
+[[Anshul Kothari]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 4x100m Medley Relay]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Maana Patel]], [[Chahat Arora]], [[Damini Gowda]],
+[[Shivani Kataria]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 4x100m Medley Relay|Women's 4x100m Medley Relay]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Anthony Amalraj]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|Men's Singles
+|10 February
+|-
+|{{Gold medal}}
+|[[Sathiyan Gunasekaran]], [[Devesh Karia]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Mouma Das]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Singles tennis|Women's Singles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Manika Batra]], [[Pooja Vijay Sahasrabudhe]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Women's Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Gayathri Govindaraj]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 110m Hurdles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Surendhar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 110m Hurdles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Arokia Rajiv|Akoria Rajiv]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 400m]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Neeraj Chopra]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Javelin Throw]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ankit Sharma (athlete)|Ankit Sharma]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Long Jump]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Sahana Kumari]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's High Jump]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Arjun (athlete)|Arjun]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Discus Throw]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ramkumar Ramanathan]] / [[Prashanth Vijay Sunder]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ruthvika Shivani]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Badminton at the 2016 South Asian Games|Women's Singles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Srikanth Kidambi|Kidambi Srikanth]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|Men's Singles
+|10 February
+|-
+|{{Gold medal}}
+|[[Jwala Gutta]], [[Ashwini Ponnappa|Ashwini Ponappa]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Women's Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Manu Attri]], [[B. Sumeeth Reddy]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Pranav Chopra|Pranav J Chopra]], [[N. Sikki Reddy]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Badminton#Mixed doubles|Mixed Doubles]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Mayookha Johny]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Triple Jump]]
+|10 February
+|-
+|{{Gold medal}}
+|[[M. R. Poovamma]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 400m]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Surender (athlete)|Surender]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 10000m]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Apurvi Chandela]], [[Pooja Ghatkar]]
+
+[[Koshy Elizabeth Susan]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10m Air Rifle Women Team]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Apurvi Chandela]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10m Air Rifle Women Team|10m Air Rifle Women]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Uchit Sharma]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Ravi panchal]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg|Men's Sanshou 56 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Surya Bhanu Pratap Singh]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg|Men's Sanshou 60 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Y. Sanathoi Devi]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg|Women's Sanshou 52 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Anupama Devi]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg|Women's Sanshou 60 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Puja Kadian]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's Sanshou 52 Kg|Women's Sanshou 70 Kg]]
+|10 February
+|-
+|{{Gold medal}}
+|[[Prarthana Thombare]], [[Sarmada Balu]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Women's Doubles]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Ramkumar Ramanathan]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|Men's Singles
+|11 February
+|-
+|{{Gold medal}}
+|[[Dharun A]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 400m Hurdles]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Joana Murmu]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 400m Hurdles]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Gagan Narang]], [[Chain Singh]], [[Rathod Surendra Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Rifle Prone Team]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Gagan Narang]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Rifle Prone Team|Men's 50m Rifle Prone]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Samaresh Jung]], [[Vijay Kumar (sport shooter)|Vijay Kumar]], [[Pemba Tamang]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Standard Pistol Men Team|25 M Center Fire Pistol Men Team]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Samaresh Jung]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25m Rapid Fire Pistol Men|Men's 25m Center Fire Pistol Men]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Gangulee Kuheli|Kuheli Gangulee]], [[Lajja Goswami|Lajja Gauswami]], [[Jung Anuja|Anuja Jung]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Rifle Prone Team|Women's 50m Rifle Prone Team]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Kuheli Gangulee]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 50m Rifle Prone]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Om Prakash Singh Karhana]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Shot put]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Suman Devi]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Javeline Throw]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Renjith Maheswary]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Triple Jump]]
+|11 February
+|-
+|{{Gold medal}}
+|[[PU Chitra]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 1500m]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Ajay Kumar saroj]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 1500m]] 
+|11 February
+|-
+|{{Gold medal}}
+|[[Surya L]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 5000m|Women's 10000m]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Kunhu Mohamed]], [[Mohamed Anaz]], [[Chandan Bauri]], [[Sumith kumar]], [[A.Dharun]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 4x100m Relay|Men's 4x400m Relay]]
+|11 February
+|-
+|{{Gold medal}}
+|[[M. R. Poovamma]], [[Priyanka Panwar]], [[Sini Jose]], [[Debashree Maajumdar]], [[Anju Thomas]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 4x100m Relay|Women's 4x400m Relay]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Srabani Nanda]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 200m]]
+|11 February
+|-
+|{{Gold medal}}
+|[[India women's national field hockey team|Women's Hockey Team]]
+|[[Field hockey at the 2016 South Asian Games|Field Hockey]]
+|[[Women's Team]]
+|11 February
+|-
+|{{Gold medal}}
+|[[Nitender Singh Rawat]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Marathon]]
+|12 February
+|-
+|{{Gold medal}}
+|[[Kavita Raut]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Marathon]]
+|12 February
+|-
+|{{Gold medal}}
+|Kumar Neeraj
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Standard Pistol Men]]
+|12 February
+|-
+|{{Gold medal}}
+|Kumar Neeraj, [[Gurpreet Singh (sport shooter)|Gurpreet Singh]], [[Mahender Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Standard Pistol Men Team]]
+|12 February
+|-
+|{{Gold medal}}
+|[[Chain Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Rifle Men]]
+|12 February
+|-
+|{{Gold medal}}
+|[[Chain Singh]], [[Gagan Narang]], [[Khan Imran Hasan]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Rifle Men Team]]
+|12 February
+|-
+|{{Gold medal}}
+|[[Anjum Modgil]], [[Koshy Elizabeth Susan]], [[Lajja Goswami|Lajja Gauswami]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[50 M Rifle 3 Position Women Team]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Anjum Modglil]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[50 M Rifle 3 Position Women Team|50 M Rifle 3 Position Women]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Omkar Singh]], [[Gurpreet Singh (sport shooter)|Gurpreet Singh]], [[Jitendra Vibhute]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Pistol|10 M Air Pistol Team]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Omkar Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Pistol]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Rahi Sarnobat]], [[Anisa Sayyed]], [[Annu Raj Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Psitol Women Team|25 M Pistol Women Team]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Rahi Sarnobal]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Psitol Women Team|25 M Pistol Women]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Dilip Kumar]]
+|[[Triathlon at the 2016 South Asian Games|Triathlon]]
+|[[Men's Individual]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Pallavi Retiwala]]
+|[[Triathlon at the 2016 South Asian Games|Triathlon]]
+|[[Women's Individual]]
+|13 February
+|-
+|{{Gold medal}}
+|[[P. Anand]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's 80-87Kg|Men's 80–87 Kg]]
+|13 February
+|-
+|{{Gold medal}}
+|[[Pallawi Retiwala]], [[Dilip Kumar]]
+[[Sorohni DeviI Thoudam]], [[Dhiraj Sawant]]
+|[[Triathlon at the 2016 South Asian Games|Triathlon]]
+|[[Mixed Relay]]
+|14 February
+|-
+|{{Gold medal}}
+|[[Chain Singh]], [[Gagan Narang]], [[Surendra Singh Rathore]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[50 M Rifle 3 Position Team]]
+|14 February
+|-
+|{{Gold medal}}
+|[[Chain Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50 M Rifle 3 Position]]
+|14 February
+|-
+|{{Gold medal}}
+|[[Purva Dixit]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Women's 49 Kg|Women's 46–49 Kg]]
+|14 February
+|-
+|{{Gold medal}}
+|[[Navjeet Maan]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's U-80 Kg|Men's 74–80 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Margerita Regi]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Women's U-62 Kg|Women's 57–62 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Latika Bhandari]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Women's U-53 Kg|Women's 49–53 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Devendro Singh|L. Devendro Singh]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Madan Lal]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg|Men's 52 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Shiva Thapa]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg|Men's 56 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Dheeraj Rangi]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg|Men's 60 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Manoj Kumar (boxer)|Manoj Kumar]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg|Men's 64 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[India women's national football team|Women's Football Team]]
+|[[Football at the 2016 South Asian Games|Football]]
+|[[Women's Football Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Sushila Devi|L. Shushila Devi]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -48 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[T, Kalpana Devi]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -52 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[India women's national kabaddi team|Women's Kabaddi Team]]
+|[[Kabaddi at the 2016 South Asian Games|Kabaddi]]
+|[[Women's Kabaddi Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Heena Sidhu]], [[Yashashwini Singh Deswal]], [[Shweta Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 10 M Air Pistol Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Shweta Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 10 M Air Pistol Team|Women's 10 M Air Pistol]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]], [[Gurpreet Singh (sport shooter)|Gurpreet Singh]], [[Akshay Suhas Ashaputre]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25 M Rapid Fire Pistol Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25 M Rapid Fire Pistol Team|Men's 25 M Rapid Fire Pistol]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Vikas Krishan Yadav|Vikas Krishnan]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Men's 49 Kg|Men's 75 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[India national kabaddi team|Men's Kabaddi Team]]
+|[[Kabaddi at the 2016 South Asian Games|Kabaddi]]
+|[[Men's Kabaddi|Men's Kabaddi Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Angom Anita Chanu]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -57 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Bupinder Singh]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -60 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Jasleen Singh Saini]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -66 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Manjeet Nandal]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -73 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Karanjit Singh Maan]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -81 Kg]]
+|15 February
+|-
+|{{Gold medal}}
+|[[India Women's national Handball Team|Women's Handball Team]]
+|[[Handball at the 2016 South Asian Games|Handball]]
+|[[Women's Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[India national Handball Team|Men's Handball Team]]
+|[[Handball at the 2016 South Asian Games|Handball]]
+|[[Men's Team]]
+|15 February
+|-
+|{{Gold medal}}
+|[[Avtar Singh (judoka)|Avtar Singh]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -90 Kg]]
+|16 February
+|-
+|{{Gold medal}}
+|[[Pooja (judoka)|Pooja]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -70 Kg]]
+|16 February
+|-
+|{{Gold medal}}
+|[[Mary Kom|M. C. Marykom]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Women's -70 Kg|Women's 51 Kg]]
+|16 February
+|-
+|{{Gold medal}}
+|[[Laishram Sarita Devi|L. Sarita Devi]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Women's -70 Kg|Women's 60 Kg]]
+|16 February
+|-
+|{{Gold medal}}
+|[[Pooja Rani|Pooja Rani Bohra]]
+|[[Boxing at the 2016 South Asian Games|Boxing]]
+|[[Women's -70 Kg|Women's 75 Kg]]
+|16 February
+|-
+|{{Silver medal}}
+|[[Chaoba Devi Eangbam]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 30km Individual Time Trial]]
+|6 February
+|-
+|{{Silver medal}}
+|[[Manjeet Singh (cyclist)|Manjeet Singh]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Men's 40km Individual Time Trial]]
+|6 February
+|-
+|{{Silver medal}}
+|[[Saurabh Sangavekar|Saurabh Sangvekar]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 200m Freestyle]]
+|6 February
+|-
+|{{Silver medal}}
+|[[Supriyo Mondal]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Butterfly]]
+|6 February
+|-
+|{{Silver medal}}
+|[[Neil Contractor]], [[S P Nair Sharma]], [[Sahil Chopra]],
+[[Anshul Kothari]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 4x100m Freestyle Relay]]
+|6 February
+|-
+|{{Silver medal}}
+|[[Manorama Devi Tongbram]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 40 Km Criterium]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Saurabh Sangvekar]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 1500m Freestyle]]
+| 7 February
+|-
+|{{Silver medal}}
+|[[Shradha Bhosale|Shradha Sudhir]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 400m Individual Medley]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Punit Rana]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100 Breaststroke]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Gopal Yadav]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 86Kg Freestyle]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Virdhawal Khade]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50m Freestyle]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Maana Patel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 200m Backstroke]]
+|7 February
+|-
+|{{Silver medal}}
+|[[Sanu Debnath]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 400m Individual Medley]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Sethu Manickavel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Backstroke]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Maana Patel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 100m Backstroke]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Punit Rana]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50 Breaststroke]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Mandeep]]
+|[[Wrestling at the 2016 South Asian Games|Wrestling]]
+|[[Men's 125Kg Freestyle]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Swechcha Jatav]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Taolu- Nanquan & Nando]]
+|8 February
+|-
+|{{Silver2|Silver}} Silver
+|[[Saurav Ghosal|Saurav Ghoshal]]
+|[[Squash at the 2016 South Asian Games|Squash]]
+|Men's Singles
+|8 February
+|-
+|{{Silver2}} Silver
+|[[Harinder Pal Sandhu|Harinder Pal Singh]]
+|[[Squash at the 2016 South Asian Games|Squash]]
+|Men's Singles
+|8 February
+|-
+|{{Silver medal}}
+|[[Abhishek Verma (archer)|Abhishek Verma]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Compound Men's Individual]]
+|8 February
+|-
+|{{Silver medal}}
+|[[Jyothi Surekha Vennam]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Compound Women's Individual]]
+|8 February
+|-
+|{{Silver medal}}
+|Gurdeep Singh
+|[[Weightlifting at the 2016 South Asian Games|Weightlifting]]
+|[[Men's 105+ Kg]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Lidiyamol Sunny Menamparambil]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 80Km Individual Road Race]]
+|9 February
+|-
+|{{Silver medal}}
+|Pankaj Kumar
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Men's 100Km Individual Road Race]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Gurucharan Besra]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Men's Individual]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Laishram Bombayla Devi]]
+|[[Archery at the 2016 South Asian Games|Archery]]
+|[[Recurve Women's Individual]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Sajan Prakash]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 400m Freestyle]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Shivani Kataria]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 800m Freestyle|Women's 400m Freestyle]]
+|9 February
+|-
+|{{Silver medal}}
+|[[M Arvind]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 100m Backstroke|Men's 50m Backstroke]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Maana Patel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 200m Backstroke|Women's 5m Backstroke]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Manpreet Kaur Sr|Manpreet Kaur Jr]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Shot put]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Shrada Gule Bhaskar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Long Jump]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Suresh Kumar Patil]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 5000m]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Swathy Gadhave]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 5000m]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Thejeswar Sankar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's High Jump]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Srabani Nanda]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 100m]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Sathiyan Gunasekaran]], [[Mouma Das]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Table tennis#Double game|Mixed Doubles]]
+|9 February
+|-
+|{{Silver medal}}
+|[[Prerna Bhambri]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Singles tennis|Women's Singles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Prarthana Thombare]], [[Sanam Singh]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Mixed doubles (tennis)|Mixed Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Sanu Debnath]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 200m Individual Medley]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Anshul Kothari]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50m Butterfly]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Avantika Chavan]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Men's 50m Butterfly|Women's 50m Butterfly]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Sathiyan Gunasekaran]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|Men's Singles
+|10 February
+|-
+|{{Silver medal}}
+|[[Anthony Amalraj]], [[Sanil Sankar Shetty]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Manika Batra]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Singles tennis|Women's Singles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Mouma Das]], [[Shamini Kumaresan]]
+|[[Table tennis at the 2016 South Asian Games|Table Tennis]]
+|[[Women's Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Sajitha KV]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 110m Hurdles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Prem Kumar (athlete)|Prem Kumar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 110m Hurdles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Kuhu Muhammad]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 400m]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Prem Kumar Kumaravel]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Long Jump]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Swapna Burman]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's High Jump]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Sonu Saini]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Paul Vault]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Kripal Singh]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Discus Throw]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Divij Sharan]], [[Sanam Singh]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[P. V. Sindhu]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Badminton at the 2016 South Asian Games|Women's Singles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Prannoy Kumar|H. S. Prannoy]]
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|Men's Singles
+|10 February
+|-
+|{{Silver medal}}
+|[[K. Maneesha]], [[N. Sikki Reddy]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Women's Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Akshay Dewalkar]], [[Pranav Chopra|Pranav J Chopra]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Men's Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Manu Attri]], [[Ashwini Ponnappa|Ashwini Ponappa]] 
+|[[Badminton at the 2016 South Asian Games|Badminton]]
+|[[Badminton#Mixed doubles|Mixed Doubles]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Dutee Chand]], [[Srabani Nanda]], [[Neethu Mathew]],
+[[Hemashree Roy]], [[Situi Singh]], [[Sinin s]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 4x100 m|Women's 4x100 m Relay]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Gopi T]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 10000m]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Om Prakash (sport shooter)|Om Prakash]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Pistol Team]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Koshy Elizabeth Susan]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10m Air Rifle Women Team|10m Air Rifle Women]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Mukesh Choudhary Gora|Mukesh Choudhary]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's 70Kg|Men's Sanshou 70Kg]]
+|10 February
+|-
+|{{Silver medal}}
+|[[Rishika Sunkura]], [[Natasha Palha]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|[[Women's Doubles]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Saketh Myneni]]
+|[[Tennis at the 2016 South Asian Games|Tennis]]
+|Men's Singles
+|11 February
+|-
+|{{Silver medal}}
+|[[Jithin Paul]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 400m Hurdles]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Ashwini Akkunji]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 400m Hurdles]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Chain Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50m Rifle Prone Team|Men's 50m Rifle Prone]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Pemba Tamang]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25m Rapid Fire Pistol Men|Men's 25m Center Fire Pistol Men]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Lajja Gauswami]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 50m Rifle Prone]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Annu Rani]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Javeline Throw]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Surendher J]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Triple Jump]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Swathy Gadhave]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 5000m|Women's 10000m]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Dutee Chand]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 200m]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Jasdeep Singh (shot put)|Jasdeep Singh]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's Shot put]]
+|11 February
+|-
+|{{Silver medal}}
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Standard Pistol Men]]
+|12 February
+|-
+|{{Silver medal}}
+|[[India men's national field hockey team|Men's Field Hockey Team]]
+|[[Field hockey at the 2016 South Asian Games|Field Hockey]]
+|[[Men's Team]]
+|12 February
+|-
+|{{Silver medal}}
+|[[Koshy Elizabeth Susan]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[50 M Rifle 3 Position Women Team|50 M Rifle 3 Position Women]]
+|13 February
+|-
+|{{Silver medal}}
+|[[Annu Raj Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Psitol Women Team|25 M Pistol Women]]
+|13 February
+|-
+|{{Silver medal}}
+|[[Guru Datt]]
+|[[Triathlon at the 2016 South Asian Games|Triathlon]]
+|[[Women's Individual|Men's Individual]]
+|13 February
+|-
+|{{Silver medal}}
+|[[Pooja Chaurushi]]
+|[[Triathlon at the 2016 South Asian Games|Triathlon]]
+|[[Women's Individual]]
+|13 February
+|-
+|{{Silver medal}}
+|[[Abrar Khan]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's -54Kg]]
+|13 February
+|-
+|{{Silver medal}}
+|[[Gagan Narang]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 50 M Rifle 3 Position]]
+|14 February
+|-
+|{{Silver medal}}
+|[[Gajendra Parihar]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's -54Kg|Men's 54-58Kg]]
+|14 February
+|-
+|{{Silver medal}}
+|[[Manu George]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's -54Kg|Men's 68-74Kg]]
+|14 February
+|-
+|{{Silver medal}}
+|[[Heena Sidhu]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 10 M Air Pistol Team|Women's 10 M Air Pistol]]
+|15 February
+|-
+|{{Silver medal}}
+|[[Huidrom Sunibala Devi]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -63 Kg]]
+|15 February
+|-
+|{{Silver medal}}
+|[[India national football team|Men's Football Team]]
+|[[Football at the 2016 South Asian Games|Football]]
+|[[Men's Team]]
+|15 February
+|-
+|{{Silver medal}}
+|[[Shubham Kumar]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Men's -100 Kg]]
+|16 February
+|-
+|{{Silver medal}}
+|[[Aruna (judoka)|Aruna]]
+|[[Judo at the 2016 South Asian Games|Judo]]
+|[[Women's -70 Kg|Women's −78 Kg]]
+|16 February
+|-
+|{{Bronze medal}}
+|Pankaj Kumar
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Men's 60Km Criterium]]
+|7 February
+|-
+|{{Bronze medal}}
+|[[Chaht Arora]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 100m Backstroke]]
+|7 February
+|-
+|{{Bronze medal}}
+|[[Anjul Namdeo]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Changquan|Taolu-Changquan]]
+|7 February
+|-
+|{{Bronze medal}}
+|[[Maana Patel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 50m Freestyle]]
+|8 February
+|-
+|{{Bronze medal}}
+|[[Geethu Raj N]]
+|[[Cycling at the 2016 South Asian Games|Cycling]]
+|[[Women's 80Km Individual Road Race]]
+|9 February
+|-
+|{{Bronze medal}}
+|[[Gomathi M]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 800m]]
+|9 February
+|-
+|{{Bronze medal}}
+|[[Ajay Kumar (athlete)|Ajay Kumar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's High Jump]]
+|9 February
+|-
+|{{Bronze medal}}
+|[[Dutee Chand]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's 100m]]
+|9 February
+|-
+|{{Bronze medal}}
+|[[Maana Patel]]
+|[[Swimming at the 2016 South Asian Games|Swimming]]
+|[[Women's 100m Freestyle]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Ajay kumar saroj]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 800m]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Gaurav kumar]], [[Akshy khot]], [[Adhitya Vardan]],
+[[Rahul Kumar (athlete)|Rahul Kumar]], [[Sujith Kuttan]], [[Vidya Sagar (athlete)|Vidya Sagar]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 4x100m Relay]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[M. A. Prajusha]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Women's Triple Jump]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Pooja Ghatkar]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10m Air Rifle Women Team|10m Air Rifle Women]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Arun Nagar]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's 65Kg|Men's Sanshou 65Kg]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Pradeep Kumar (wushu)|Pradeep Kumar]]
+|[[Wushu at the 2016 South Asian Games|Wushu]]
+|[[Men's 65Kg|Men's Sanshou 75Kg]]
+|10 February
+|-
+|{{Bronze medal}}
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25m Rapid Fire Pistol Men|Men's 25m Center Fire Pistol Men]]
+|11 February
+|-
+|{{Bronze medal}}
+|[[Anuja Jung]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 50m Rifle Prone]]
+|11 February
+|-
+|{{Bronze medal}}
+|Rahul
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's 1500m]]
+|11 February
+|-
+|{{Bronze medal}}
+|[[Khetha Ram]]
+|[[Athletics at the 2016 South Asian Games|Athletics]]
+|[[Men's marathon]]
+|12 February
+|-
+|{{Bronze medal}}
+|[[Mahender Singh]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Standard Pistol Men]]
+|12 February
+|-
+|{{Bronze medal}}
+|[[Gagan Narang]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Rifle Men]]
+|12 February
+|-
+|{{Bronze medal}}
+|[[Lajja Gauswami]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[50 M Rifle 3 Position Women Team|50 M Rifle 3 Position Women]]
+|13 February
+|-
+|{{Bronze medal}}
+|[[Jitendra Vibhute]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[10 M Air Pistol]]
+|13 February
+|-
+|{{Bronze medal}}
+|[[Anisa Sayyed]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[25 M Psitol Women Team|25 M Pistol Women]]
+|13 February
+|-
+|{{Bronze medal}}
+|[[Naveen]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Men's 63-68Kg|Men's 63–68 Kg]]
+|13 February
+|-
+|{{Bronze medal}}
+|[[S Ramchiary]]
+|[[Taekwondo at the 2016 South Asian Games|Taekwondo]]
+|[[Women's U-54Kg|Women's 53-57Kg]]
+|14 February
+|-
+|{{Bronze medal}}
+|[[Yashaswini Singh Deswal]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Women's 10 M Air Pistol Team|Women's 10 M Air Pistol]]
+|15 February
+|-
+|{{Bronze medal}}
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|[[Shooting at the 2016 South Asian Games|Shooting]]
+|[[Men's 25 M Rapid Fire Pistol Team|Men's 25 M Rapid Fire Pistol]]
+|15 February
+|}
+
+==Archery==
+{{Main article|Archery at the 2016 South Asian Games}}
+
+===Men===
+
+====Recurve====
+{| class="wikitable" style="text-align: center; font-size:90%"
+|-
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Ranking Round
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2" |Finals / BM
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Rank
+|-align=center
+|[[Tarundeep Rai]]
+| Individual
+|676
+|1st
+|{{n/a}}
+|{{flagicon|BHU}} [[Kinly Tshering]]<br> '''W''' 6-5
+|{{flagicon|NEP}} [[Prem Prasad Pun]]<br> '''W''' 6-0
+|{{flagicon|IND}} [[Gurucharan Besra]]<br> '''W''' 6-2
+|{{gold01}}
+|-align=center
+|[[Gurucharan Besra]]
+|Individual
+|666
+|2nd
+|{{n/a}}
+|{{flagicon|BHU}} [[Jigme Norbu]]<br> '''W''' 7-1
+|{{flagicon|SL}} [[Nipuna Senevirathne]]<br> '''W''' 7-3
+|{{flagicon|IND}} [[Tarundeep Rai]]<br> '''L''' 2-6
+|{{silver02}}
+|-align=center
+|[[Jayanta Talukdar]]
+| Individual
+|665
+|3rd
+| colspan="9" |Did Not Advance
+|-align=center
+|[[Binod Swansi]]
+| Individual
+|653
+|5th
+| colspan="9" |Did Not Advance
+|-
+|[[Tarundeep Rai]]
+[[Gurucharan Besra]]
+
+[[Jayanta Talukdar]]
+|Team
+|2007
+|1st
+|NIL
+|NIL
+|Bye
+|
+|{{flagIOC2team|BHU|2016 South Asian Games}}
+|5–1
+'''W'''
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|5–1
+'''W'''
+|{{gold01}}
+|}
+
+====Compound====
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2 | Athlete
+!rowspan=2 | Event
+!colspan=2 | Ranking Round
+!colspan="2"|1/16 Elimination
+! colspan="2" |Quarterfinals
+! colspan="2" |Semifinals
+! colspan="2" |Finals / Bronze medal playoffs
+!Rank
+|-
+!Score
+!Seed
+!Opposition
+!Score
+!Opposition
+!Score
+!Opposition 
+!Score
+!Opposition
+!Score
+!
+|-align=center
+|[[Abhishek Verma (archer)|Abhishek Verma]]
+| Individual
+|704
+|1st
+|Bye
+|
+|[[Kishore Kumar Gurung]]<br>{{flagIOC2team|NEP|2016 South Asian Games}}
+|144–138<br>'''W'''
+|[[Tshewang Dorji]]<br>{{flagIOC2team|BHU|2016 South Asian Games}}
+|148–135<br>'''W'''
+|[[Rajat Chauhan]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|142–144
+'''L'''
+|{{silver02}}
+|-align=center
+|[[Rajat Chauhan]]
+|Individual
+|693
+|2nd
+|Bye
+|
+|[[Udaya Indrajith]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|146–134<br>'''W'''
+|[[Tashi Deljor]]<br>{{flagIOC2team|BHU|2016 South Asian Games}}
+|145–142<br>'''W'''
+|[[Abhishek Verma (archer)|Abhishek Verma]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|144–142
+'''W'''
+|{{gold01}}
+|-align=center
+|[[Manash Jyoti Changmai]]
+| Individual
+|692
+|3rd
+| colspan="9" |Did Not Advance
+|-align=center
+|[[Chinna Raju Srithar]]
+| Individual
+|689
+|4th
+| colspan="9" |Did Not Advance
+|-
+|[[Abhishek Verma (archer)|Abhishek Verma]]
+[[Rajat Chauhan]]
+
+[[Manash Jyoti Changmai]]
+|Team
+|2089
+|1st
+|NIL
+|NIL
+|Bye
+|
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|233–215
+'''W'''
+|{{flagIOC2team|BHU|2016 South Asian Games}}
+|230–219
+'''W'''
+|{{gold01}}
+|}
+
+===Women===
+
+====Recurve====
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2 | Athlete
+!rowspan=2 | Event
+!colspan=2 | Ranking Round
+!colspan=2|1/16 Elimination
+! colspan="2" |Quarterfinals
+! colspan="2" |Semifinals
+! colspan="2" |Finals / Bronze medal playoffs
+!Rank
+|-
+!Score
+!Seed
+!Opposition
+!Score
+!Opposition
+!Score
+!Opposition
+!Score
+!Opposition
+!Score
+!
+|-align=center
+|[[Deepika Kumari]]
+| Individual
+|668
+|1st
+|Bye
+|
+|[[Sonam Deki]]<br>{{flagIOC2team|BHU|2016 South Asian Games}}
+|6–2<br>'''W'''
+|[[Beauty Ray]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|6–0<br>'''W'''
+|[[Laishram Bombayla Devi]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|6–4<br>'''W'''
+|{{gold01}}
+|-align=center
+|[[Laishram Bombayla Devi]]
+|Individual
+|646
+|2nd
+|Bye
+|
+|[[Anuradha Karunaratne]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|6–5<br>'''W'''
+|[[Karma (archer)|Karma]]<br>{{flagIOC2team|BHU|2016 South Asian Games}}
+|6–2<br>'''W'''
+|[[Deepika Kumari]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|4–6<br>'''L'''
+|{{silver02}}
+|-align=center
+|[[Laxmirani Majhi]]
+| Individual
+|632
+|3rd
+| colspan="9" |Did Not Advance
+|-align=center
+|[[Madhu Vedwan]]
+| Individual
+|614
+|6th
+| colspan="9" |Did Not Advance
+|-
+|[[Deepika Kumari]]
+
+[[Laishram Bombayla Devi]]
+
+[[Laxmirani Majhi]]
+|Team
+|1946
+|1st
+|NIL
+|NIL
+|Bye
+|
+|{{flagIOC2team|BHU|2016 South Asian Games}}
+|6–0
+'''W'''
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|6–0
+'''W'''
+|{{gold01}}
+|}
+
+====Compound====
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2 | Athlete
+!rowspan=2 | Event
+!colspan=2 | Ranking Round
+! colspan="2" |Quarterfinals
+! colspan="2" |Semifinals
+! colspan="2" |Finals / Bronze medal playoffs
+!Rank
+|-
+!Score
+!Seed
+!Opposition
+!Score
+!Opposition
+!Score
+!Opposition
+!Score
+!Rank
+|-align=center
+| [[Purvasha Sudhir Shende]]
+| Individual
+|686
+|1st
+|BYE
+|
+|[[Tamanna Parvin]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|139–139<br>'''W'''
+|[[Jyothi Surekha Vennam]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|138–133
+'''W'''
+|{{gold01}}
+|-align=center
+| [[Jyothi Surekha Vennam]]
+| Individual
+|684
+|2nd
+|BYE
+|
+|[[Sushmita Banik]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|145–134<br>'''W'''
+|[[Purvasha Sudhir Shende]]<br>{{flagIOC2team|IND|2016 South Asian Games}}
+|133–138
+'''L'''
+|{{silver02}}
+|-align=center
+| [[Lily Chanu Paonam]]
+| Individual
+|678
+|4th
+| colspan="7" |Did Not Advance
+|-align=center
+| [[Swati Dudhwal]]
+| Individual
+|677
+|5th
+| colspan="7" |Did Not Advance
+|-
+|[[Purvasha Sudhir Shende]]
+
+[[Jyothi Surekha Vennam]]
+
+[[Lily Chanu Paonam]]
+|Team
+|2048
+|1st
+|NIL
+|NIL
+|Bye
+|
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|228–217
+'''W'''
+|{{gold01}}
+|}
+
+===Mixed===
+'''Recurve'''
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athletes
+! colspan="2" |Qualifications
+! colspan="2" |Quarterfinals
+! colspan="2" |Semifinals
+! colspan="2" |Finals
+! rowspan="2" |Rank
+|-
+|'''Score'''
+|'''Seed'''
+|'''Opposition'''
+|'''Score'''
+|'''Opposition'''
+|'''Score'''
+|'''Opposition'''
+|'''Score'''
+|-
+|[[Tarundeep Rai]] / [[Deepika Kumari]]
+|1344
+|1st
+|Bye
+|
+|[[Nipuna Senevirathne]] / [[Dilhara Salgado]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|5–4
+'''W'''
+|[[Sojeb Sheik]] /
+[[Beauty Ray]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|6–0
+'''W'''
+|{{gold01}}
+|}
+<br>
+'''Compound'''
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athletes
+! colspan="2" |Qualification
+! colspan="2" |Semifinals
+! colspan="2" |Finals
+! rowspan="2" |Rank
+|-
+|'''Score'''
+|'''Seed'''
+|'''Opposition'''
+|'''Score'''
+|'''Opposition'''
+|'''Score'''
+|-
+|[[Abhishek Verma (archer)|Abhishek Verma]] /
+[[Purvasha Sudhir Shende]]
+|1390
+|1st
+|Bye
+|
+|[[Md. Anowerul Kadar]] /
+[[Sushmita Banik]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|156–138
+'''W'''
+|{{gold01}}
+|}
+
+==Athletics==
+{{Main article|Athletics at the 2016 South Asian Games}}
+;Key
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+
+===Men===
+;Track & road events
+{| class="wikitable" style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left| [[Gaurav kumar]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 100 metres|100 m]]
+|10.95
+|4th '''Q'''
+|10.96
+|7th
+|- align="center"
+|align=left| [[Akshy khot]]
+|11:12
+|5th
+| colspan="2" |Did Not Advance
+|- align=center
+|align=left| [[Adhitya Vardan]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 200 metres|200 m]]
+|22.26 '''q'''
+|5th
+|22.43
+|8th
+|- align=center
+|align=left| [[Vidaya Sagar]]
+|21.70 '''Q'''
+|2nd
+|21.61 
+|5th
+|- align=center
+|align=left| [[Arokia Rajiv]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 400 metres|400 m]]
+|47.87
+|1st '''Q'''
+|46.23
+|{{gold01}}
+|- align=center
+|align=left| [[Kunhu mohamed]]
+|47.42
+|1st '''Q'''
+|46.73
+|{{silver02}}
+|- align=center
+|align=left| [[Ajay Kumar Saroj]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 800 metres|800 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|1:52:4
+|{{bronze03}}
+|- align=center
+|align=left| [[Rahul]]
+|1:53:87
+|5th
+|- align=center
+|align=left| [[Ajay Kumar Saroj]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 1500 metres|1500 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|3:53:46
+|{{gold01}}
+|- align=center
+|align=left| [[Rahul]]
+|3:55:07
+|{{bronze03}}
+|- align=center
+|align=left| [[Suresh Kumar Patil]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 5000 metres|5000 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|14:02:70
+|{{silver02}}
+|- align=center
+|align=left| [[Man Singh]]
+|14:02:04 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Suresh Kumar (athlete)|Suresh Kumar]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 10000 metres|10000 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|29:10:53 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Thonakal Gopi]]
+|29:20:49
+|{{silver02}}
+|- align=center
+|align=left| [[Surendhar]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 110 metres hurdles|110 m hurdle]]
+|
+|
+|14.13
+|{{gold01}}
+|- align=center
+|align=left| [[Prem Kumar K]]
+|
+|
+|14.18
+|{{silver02}}
+|- align=center
+|align=left| [[Jitin Paul]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's 400 metres hurdles|400 m hurdle]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|50.57
+|{{silver02}}
+|- align=center
+|align=left| [[Ayyasamy Dharun]]
+|50.54
+|{{gold01}}
+|- align=center
+|align=left| [[Nitendra Singh Rawat]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's marathon|marathon]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|2:15:18.00
+|{{gold01}}
+|- align=center
+|align=left| [[Kheta Ram]]
+|2:21:14.00
+|{{bronze03}}
+|- align=center
+|align=left| [[Gaurav kumar]]
+|align=left rowspan=6|[[Athletics at the 2016 South Asian Games – Men's 4 × 100 metres relay|4×100 m relay]]
+|align=left rowspan=6 colspan=2 {{n/a}}
+|align=left rowspan=6|41.9
+| rowspan="6" align="center" |{{bronze03}}
+|- align=center
+|align=left| [[Akshy Khot]]
+|- align=center
+|align=left| [[Adhitya Vardan]]
+|- align=center
+|align=left| [[Rahul Kumar (athlete)|Rahul Kumar]]
+|- align=center
+|align=left| [[Sujith Kuttan]]
+|- align=center
+|align=left| [[Vidya Sagar (athlete)|Vidya Sagar]]
+|- align="center"
+|align=left| [[Arokia Rajiv]]
+|align=left rowspan=6|[[Athletics at the 2016 South Asian Games – Men's 4 × 400 metres relay|4×400 m relay]]
+|align=left rowspan=6 colspan=2 {{n/a}}
+|align=left rowspan=6|3:06:74
+|rowspan=6 align="center" |{{gold01}}
+|- align=center
+|align=left| [[Kunhu Muhammed]]
+|- align=center
+|align=left| [[Mohammad Anas]]
+|- align=center
+|align=left| [[Chandan Bauri]]
+|- align=center
+|align=left| [[Sumith kumar]]
+|- align=center
+|align=left| [[Ayyasamy Dharun]] 
+|}
+
+;Field events
+{|class=wikitable style="font-size:90%; text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|- style="font-size:95%"
+!Distance
+!Position
+|-
+|align=left| [[Ankit Sharma (athlete)|Ankit Sharma]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's long jump|Long jump]]
+|7.89 '''GR'''
+|{{gold01}}
+|-
+|align=left| [[Prem Kumar Kumaravel]]
+|7.62
+|{{silver02}}
+|-
+|align=left| [[Renjith Maheswary]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's triple jump|Triple jump]]
+|16.45 '''GR'''
+|{{gold01}}
+|-
+|align=left| [[Surendhar T]]
+|15.89
+|{{silver02}}
+|-
+|align=left| [[Tejaswin Shankar]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's high jump|High jump]]
+|2.17
+|{{silver02}}
+|-
+|align=left| [[Ajay Kumar (athlete)|Ajay Kumar]]
+|2.08
+|{{bronze03}}
+|-
+|align=left| [[Anuj (athlete)|Anuj]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's pole vault|Pole vault]]
+|NM
+|NM
+|-
+|align=left| [[Sonu Saini]]
+|4.80
+|{{silver02}}
+|-
+|align=left|[[Jasdeep Singh (shot put)|Jasdeep Singh]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's shot put|Shot put]]
+|17.56
+|{{silver02}}
+|-
+|align=left| [[Om Prakash Singh Karhana]]
+|18.45
+|{{gold01}}
+|-
+|align=left| [[Kripal Singh]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's discus throw|Discus throw]]
+|56.59
+|{{silver02}}
+|-
+|align=left| [[Arjun (athlete)|Arjun]]
+|57.21
+|{{gold01}}
+|-
+|align=left| [[Neeraj Kumar]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Men's hammer throw|Hammer throw]]
+|66.14
+|{{gold01}}
+|-
+|align=left| [[Pragat Singh]]
+|NA
+|NA
+|-
+|align=left| [[Neeraj Chopra]]
+|align=left| [[Athletics at the 2016 South Asian Games – Men's javelin throw|Javelin throw]]
+|86.46
+|{{gold01}}
+|-
+|align=left| [[Akshay Chaudhary]]
+|align=left| [[Athletics at the 2016 South Asian Games – Men's javelin throw|Javelin throw]]
+|85.46
+|{{silver02}}
+|}
+
+===Women===
+;Track & road events
+{| class="wikitable" style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left| [[Dutee Chand]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 100 metres|100 m]]
+|11.88
+|1st '''Q'''
+|11.75
+|{{bronze03}}
+|- align=center
+|align=left| [[Srabani Nanda]]
+|11.71
+|2nd '''Q'''
+|11.72
+|{{silver02}}
+|- align=center
+|align=left| [[Dutee Chand]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 200 metres|200 m]]
+|24.60
+|1st '''Q'''
+|24.14
+|{{silver02}}
+|- align=center
+|align=left| [[Srabani Nanda]]
+|24.29
+|1st '''Q'''
+|23.91
+|{{gold01}}
+|- align=center
+|align=left| [[M. R. Poovamma]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 400 metres|400 m]]
+|
+|
+|54.1
+|{{gold01}}
+|- align=center
+|align=left| [[Priyanka Panwar]]
+|
+|
+|56.5
+|4th
+|- align=center
+|align=left| [[Gomathi M]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 800 metres|800 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|2:10:99
+|{{bronze03}}
+|- align=center
+|align=left| [[Sipra Sarkar]]
+|2:11:13
+|4th
+|- align=center
+|align=left| [[Sugandha Kumari]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 1500 metres|1500 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|4:27:39
+|4th
+|- align=center
+|align=left| [[PU Chitra]]
+|4:25:59
+|{{gold01}}
+|- align=center
+|align=left| [[Surya L]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 5000 metres|5000 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|15:45:75 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Swathy Gadhave]]
+|16:14:57
+|{{silver02}}
+|- align=center
+|align=left| [[Surya L]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 10000 metres|10000 m]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|32:39:86 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Swathy Gadhave]]
+|33:57:09
+|{{silver02}}
+|- align=center
+|align=left| [[Gayathri Govindaraj]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 110 metres hurdles|110 m hurdle]]
+|
+|
+|13.83
+|{{gold01}}
+|- align=center
+|align=left| [[Sajitha KV]]
+|
+|
+|14.26
+|{{silver02}}
+|- align=center
+|align=left| [[Joana Murmu]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's 400 metres hurdles|400 m hurdle]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|57.69
+|{{gold01}}
+|- align=center
+|align=left| [[Ashwini Akkunji]]
+|58.92
+|{{silver02}}
+|- align=center
+|align=left| [[Kavitha Raut]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's marathon|marathon]]
+|align=center colspan=2 rowspan=2 {{n/a}}
+|2:38:38.00
+|{{gold01}}
+|- align=center
+|align=left| [[Jyothi Gawate]]
+|2:54:33.00
+|4th
+|- align=center
+|align=left| [[Dutee Chand]]
+|align=left rowspan=6|[[Athletics at the 2016 South Asian Games – Women's 4 × 100 metres relay|4×100 m relay]]
+|align=left rowspan=6 colspan=2 {{n/a}}
+|align=left rowspan=6|45.79
+|align=left rowspan=6|{{silver02}}
+|- align=center
+|align=left| [[Srabani Nanda]]
+|- align=center
+|align=left| [[Neethu Mathew]]
+|- align=center
+|align=left| [[Hemashree Roy]]
+|- align=center
+|align=left| [[Situi Singh]]
+|- align=center
+|align=left| [[Sinin s]]
+|- align=center
+|align=left| [[M. R. Poovamma]]
+|align=left rowspan=6|[[Athletics at the 2016 South Asian Games – Women's 4 × 400 metres relay|4×400 m relay]]
+|align=left rowspan=6 colspan=2 {{n/a}}
+|align=left rowspan=6|3:35:44
+|align=left rowspan=6|{{gold01}}
+|- align=center
+|align=left| [[Priyanka Panwar]]
+|- align=center
+|align=left| [[Sini Jose]]
+|- align=center
+|align=left| [[Debashree Maajumdar]]
+|- align=center
+|align=left| [[Anju Thomas]]
+|}
+
+;Field events
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|- style="font-size:95%"
+!Distance
+!Position
+|- align=center
+|align=left| [[Mayookha Johny]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's long jump|Long jump]]
+|6.43 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Shrada Gule Bhaskar]]
+|6.19
+|{{silver02}}
+|- align=center
+|align=left| [[Mayookha Johny]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's triple jump|Triple jump]]
+|13.85 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[M. A. Prajusha]]
+|12.95
+|{{bronze03}}
+|- align=center
+|align=left| [[Sahana Kumari]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's high jump|High jump]]
+|1.78
+|{{gold01}}
+|- align=center
+|align=left| [[Swapna Burman]]
+|1.75
+|{{silver02}}
+|- align=center
+|align=left| [[Manpreeth Kaur|Manpreeth Kaur Sr]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's shot put|Shot put]]
+|17.94 '''GR'''
+|{{gold01}}
+|- align=center
+|align=left| [[Manpreeth Kaur|Manpreeth Kaur Jr]]
+|15.94
+|{{silver02}}
+|- align=center
+|align=left| [[Annu Rani]]
+|align=left rowspan=2|[[Athletics at the 2016 South Asian Games – Women's javelin throw|Javelin throw]]
+|57.13
+|{{silver02}}
+|- align=center
+|align=left| [[Suman Devi]]
+|59.45 '''GR'''
+|{{gold01}}
+|}
+
+==Badminton==
+{{Main article|Badminton at the 2016 South Asian Games}}
+
+===Men===
+
+1. [[Srikanth Kidambi]],<br>
+2. [[Ajay Jayaram]],<br>
+3. [[Prannoy Kumar|H S Prannoy]],<br>
+4. [[B. Sai Praneeth]],<br>
+5. [[Manu Attri]],<br>
+6. [[B. Sumeeth Reddy]],<br>
+7. [[Akshay Dewalkar]],<br>
+8. [[Pranav Chopra|Pranav J Chopra]]
+
+'''Team:'''
+
+{|-align=center class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|Opponent
+!|Result
+!|Singles-1
+!|Singles-2
+!|Doubles-1
+!|Singles-3
+!|Doubles-2
+|-align=center
+| 6 February
+|{{flagIOC2team|MDV|2016 South Asian Games}}<br>'''Group-A'''
+|3–0 <br> '''W'''
+|[[Srikanth Kidambi]] 
+vs
+
+[[Mohamad Ajfan Rasheed]]<br> 21–17 21–12
+
+'''W'''
+|[[Ajay Jayaram]] 
+vs
+
+[[Hussain Zayan Shaheed Zaki]]<br>21–8 21–5
+
+'''W'''
+|[[Manu Attri]] / [[B. Sumeeth Reddy]] 
+vs
+
+[[Mohamad Ajfan Rasheed]] / [[Hussain Zayan Shaheed Zaki]]<br>21–8 21–10
+
+'''W'''
+| 
+|
+|-align=center
+| 6 February 
+|{{flagIOC2team|BAN|2016 South Asian Games}}<br>'''Group-A'''
+|3–0 <br> '''W'''
+|[[Prannoy Kumar|H. S.Prannoy]] 
+vs
+
+[[Ayman Jaman]]<br> 21–14 21–13
+
+'''W'''
+|[[B. Sai Praneeth]] 
+vs
+
+[[Rais Uddin]]<br>21–17 21–18
+
+'''W'''
+|[[Manu Attri]] / [[B. Sumeeth Reddy]] 
+vs
+
+[[Ayman Jaman]] / [[Rais Uddin]]<br>21–8 21–9
+
+'''W'''
+| 
+|
+|-align=center
+|7 February
+|{{flagIOC2team|AFG|2016 South Asian Games}}
+
+'''Group-A'''
+|3–0
+'''W'''
+|[[Ajay Jayaram]]
+vs
+
+[[Sayid Mohd Kabir Mirzad]]
+
+21–4 21–4
+
+'''W'''
+|[[Prannoy Kumar|H. S.Prannoy]]
+vs
+
+[[Ahmed Fahim Yari]]
+
+21–8 21–11
+
+'''W'''
+|[[Akshay Dewalkar]] / [[Pranav Chopra|Pranav J Chopra]]
+vs
+
+[[Syind Imran Miri]] / [[Ahmed Fahim Yari]]
+
+21–9 21–9
+
+'''W'''
+| 
+|
+|-align=center
+|8 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+
+'''Semifinal'''
+|3–0
+'''W'''
+|[[K. Srikanth]]
+vs
+
+[[Md Irfan]]
+
+21–19 21–15
+
+'''W'''
+|[[Ajay Jayaram]]
+vs
+
+[[Murad Aliq]]
+
+21–11 21–16
+
+'''W'''
+|[[Manu Attri]] / [[B. Sumeeth Reddy]] 
+vs
+
+[[Kashif Sulhari]] / [[Rizwan Azam]]
+
+21–9 21–18
+
+'''W'''
+| 
+|
+|-align=center
+|8 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+
+'''Final'''
+
+{{gold01}}
+|3–0
+'''W'''
+|[[K. Srikanth]]
+vs
+
+[[Buwanaka Goonathileka]]
+
+21–14 21–14
+
+'''W'''
+|[[Prannoy Kumar|H. S.Prannoy]]
+vs
+
+[[Sachin Dias]]
+
+21–13 21–16
+
+'''W'''
+|[[Manu Attri]] / [[B. Sumeeth Reddy]] 
+vs
+
+[[Buwanaka Goonathileka]] / [[Sachin Dias]]
+
+21–12 21–11
+
+'''W'''
+| 
+|
+|}
+'''Singles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!R16
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[Srikanth Kidambi|Kidambi Srikanth [1]]]
+|[[Bikash Shrestha]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+21–14 21–10
+
+'''W'''
+|[[Ahmed Thoif Mohamed]]
+{{flagIOC2team|MDV|2016 South Asian Games}}<br>21–11 21–7
+
+'''W'''
+|[[Muhammad Irfan Saeed Bhatti]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+'''W'''
+|[[Prannoy Kumar|H. S. Prannoy [2]]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–21 21–14 21–6
+
+'''W'''
+|{{gold01}}
+|-
+|[[Prannoy Kumar|H. S. Prannoy [2]]]
+|[[Karma Chendru]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+21–13 21–7
+
+'''W'''
+|[[Munad Ali]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–11 21–15
+
+'''W'''
+|[[Sachin Dias]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+14–21 21–13 21–16
+
+'''W'''
+|[[Srikanth Kidambi|Kidambi Srikanth [1]]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+21–11 14–21 6–21
+
+'''L'''
+|{{silver02}}
+|}
+'''Doubles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!R16
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[Manu Attri]] / [[B. Sumeeth Reddy]]
+|Bye
+|[[Azeem Sarwar (badminton)|Azeem Sarwar]] / [[Muhammad Irfan Saeed Bhatti]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–14 21–17
+
+'''W'''
+|
+|[[Akshay Dewalkar]] / [[Pranav Chopra]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+21–18 21–17
+
+'''W'''
+|{{gold01}}
+|-
+|[[Akshay Dewalkar]] / [[Pranav Chopra]]
+|Bye
+|[[Enam Enamul Haq]] / [[Parash Ahsun Habib]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+21–10 21–11
+
+'''W'''
+|
+|[[Manu Attri]] / [[B. Sumeeth Reddy]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+18–21 17–21
+
+'''L'''
+|{{silver02}}
+|}
+
+===Women===
+1. [[P. V. Sindhu]]<br />
+2. [[P. C. Thulasi]]<br />
+3. [[Gadde Ruthvika Shivani|Ruthvika Shivani]]<br />
+4. [[Jwala Gutta]]<br />
+5. [[Ashwini Ponnappa|Ashwini Ponappa]]<br />
+6. [[K. Maneesha]]<br />
+7. [[N. Sikki Reddy]]
+
+'''Team:'''
+{| class="wikitable" border="1" style="text-align:center;" -align="center"
+!|Date
+!|Opponent
+!|Result
+!|Singles-1
+!|Singles-2
+!|Doubles-1
+!|Singles-3
+!|Doubles-2
+|-
+|7 February 
+|{{flagIOC2team|NEP|2016 South Asian Games}}<br>'''Group-A'''
+|3–0
+
+'''W'''
+|[[P. V. Sindhu|P. V Sindhu]] 
+vs
+
+[[Sara Devi Tamang]]
+
+21–2 21–8
+
+'''W'''
+|[[Gadde Ruthvika Shivani|Ruthvika Shivani]]
+
+vs
+
+[[Nagsal Tamang]]
+
+21–6 21–2
+
+'''W'''
+|[[Ashwini Ponnappa|Ashwni Ponnappa]] / [[P. V. Sindhu]] 
+vs
+
+[[Sara Devi Tamang|Sara Devi Tamang / Nagsal Tamang]]
+
+21–10 21–8
+
+'''W'''
+|
+|
+|-align=center
+|7 February 
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+'''Semifinal'''
+|3–0
+'''W'''
+|[[P. V. Sindhu|P. V Sindhu]] 
+vs
+
+[[Alina Sultana|Alina]]
+
+21–7 21–5
+
+'''W'''
+|[[Gadde Ruthvika Shivani|Ruthvika Shivani]]
+
+vs
+
+[[Dulaly]]
+
+21–5 21–6
+
+'''W'''
+|[[Ashwini Ponnappa|Ashwni Ponnappa]] / [[P. V. Sindhu]] 
+vs
+
+[[Brishty]] / [[Dulaly]]
+
+21–11 21–12
+'''W'''
+| 
+|
+|-align=center
+|8 February 
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+'''Final'''
+
+{{gold01}}
+|3–0
+'''W'''
+|[[P. V. Sindhu|P. V Sindhu]] 
+vs
+
+[[Kavindi Ishadika Sirimannage]]
+
+21–7 21–5
+
+'''W'''
+|[[Gadde Ruthvika Shivani|Ruthvika Shivani]]
+
+vs
+
+[[Thilini Pramodika]]
+
+23–21 21–13
+
+'''W'''
+|[[Ashwini Ponnappa|Ashwni Ponnappa]] / [[P. V. Sindhu]] 
+vs
+
+[[Achini Rathnasiri]] / [[Upuli Samathika]]
+
+21–13 21–13
+
+'''W'''
+| 
+|
+|}
+'''Singles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!R16
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[P. V. Sindhu|P. V. Sindhu [1]]]
+|Bye
+|[[Aishath Afnaan Rasheed]]
+{{flagIOC2team|MDV|2016 South Asian Games}}<br>21–7 21–7
+
+'''W'''
+|
+|[[Gadde Ruthvika Shivani|Ruthvika Shivani [2]]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–21 20–22
+
+'''L'''
+|{{silver02}}
+|-
+|[[Gadde Ruthvika Shivani|Ruthvika Shivani [2]]]
+|[[Thilini Hendahewa]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+21–9 21–8
+
+'''W'''
+|[[Khijana]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–6 21–7
+
+'''W'''
+|
+|[[P. V. Sindhu|P. V. Sindhu [1]]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+21–11 22–20
+
+'''W'''
+|{{gold01}}
+|}
+'''Doubles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!R16
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[Jwala Gutta]] / [[Ashwini Ponnappa]]
+|Bye
+|[[Chandrika De Silva]] / [[Nadeesha Gayanthi]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+21–11 21–12
+
+'''W'''
+| / 
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–9 21–3
+
+'''W'''
+|[[K. Maneesha]]/  [[N. Sikki Reddy|N. Sikki Reddy [2]]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+21–9 21–17
+
+'''W'''
+|{{gold01}}
+|-
+|[[K. Maneesha]]/  [[N. Sikki Reddy|N. Sikki Reddy [2]]]
+|Bye
+|[[Saima Wagas]] / [[Sara (badminton player)|Sara]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–9 21–9
+
+'''W'''
+|
+|[[Jwala Gutta]] / [[Ashwini Ponnappa]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+9–21 17–21
+
+'''L'''
+|{{silver02}}
+|}
+
+===Mixed===
+'''Mixed doubles'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!R16
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[Pranav Chopra]] /  [[N. Sikki Reddy]]
+|Bye
+|[[Ratnajit Tamang]] / [[Sara Devi Tamang]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+21–9 21–10
+
+'''W'''
+|
+|[[Manu Attri]] / [[Jwala Gutta|Ashwini Ponappa [2]]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+30–29 21–17
+
+'''W'''
+|{{gold01}}
+|-
+|[[Manu Attri]] / [[Jwala Gutta|Ashwini Ponappa [2]]]
+|Bye
+|[[Shabar Hussain]] / [[Saima Wagas]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+21–7 21–4
+
+'''W'''
+|
+|[[Pranav Chopra]] /  [[N. Sikki Reddy]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+29–30 17–21
+
+'''L'''
+|{{silver02}}
+|}
+
+==Boxing==
+{{Main article|Boxing at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Event
+!Quarterfinals
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Devendro Singh|L. Devendro Singh]]
+|49Kg
+|[[Tashi Wangdi]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Thiwanka Ranasinghe]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Mohib Ulla]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+2–1
+
+'''W'''
+|{{gold01}}
+|-
+|[[Madan Lal]]
+|52Kg
+|[[Prem Choudhary]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Nazari Mohammad Arif]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}2–1
+
+'''W'''
+|[[Mohammad Syed Asif]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Shiva Thapa]]
+|56Kg
+|[[Shreshtha Dinesh]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Mohammad Ohiduzzaman]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[W Ruwan Thilina]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Dheeraj Rangi]]
+|60Kg
+|[[Sonam Tshewang]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Nooristani Khibar]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}3–0
+
+'''W'''
+|[[Ahmed Ali (boxer)|Ahmed Ali]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Manoj Kumar (boxer)|Manoj Kumar]]
+|64Kg
+|Bye
+|[[Tshering Wangchuk]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Dinidu Saparamadu]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Mandeep Jangra]]
+|69Kg
+|[[Arshad Hussain (boxer, born 1990)|Arshad Hussain]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Ruwangala Gedra Sisira]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[Rahemi Alla Dad]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}3–0
+
+'''W'''
+
+|{{gold01}}
+|-
+|[[Vikas Krishan Yadav|Vikas Krishnan]]
+|75Kg
+|[[Jony Jewel Ahmed]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|[[Folad S Wali Shah Ali]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}3–0
+
+'''W'''
+|[[Tanveer Ahmed (boxer)|Tanveer Ahmed]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Event
+!Quarterfinals
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Mary Kom|M. C. Marykom]]
+|51Kg
+|Bye
+|[[Akter Shamina]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|[[K Anusha Dilrukshi]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|{{gold01}}
+|-
+|[[Laishram Sarita Devi|L. Sarita Devi]]
+|60Kg
+|[[Akter Saki]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|[[Rana Saraswati]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|[[M Vidushika Prabadhi]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+3–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Pooja Rani|Pooja Rani Bohra]]
+|75Kg
+|[[Sunar Sangita]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|[[Javed Sofiya]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|[[Nilanthi Andaraweer]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+'''W'''
+
+(TKO)
+|{{gold01}}
+|}
+
+==Cycling==
+{{Main article|Cycling at the 2016 South Asian Games}}
+
+=== Women ===
+;<nowiki>Road:</nowiki>
+'''[[Cycling at the 2016 South Asian Games#Women's 30 km Individual time trial|Women's 30 Km Individual time trial]]'''
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!Athlete
+!Finish Time
+!Final Time
+!Rank
+|-
+|[[Bidayuluxmi Tourangbam]]
+|align=center|1::11:24.573
+|align=center|49:24.573
+|align=center|{{gold01}}
+|-
+|[[Chaoba Devi Eangbam]]
+|align=center|1::05:31.311
+|align=center|49:31.311
+|align=center|{{silver02}}
+|}
+'''[[Cycling at the 2016 South Asian Games#Women's 40 km Criterium Individual|Women's 40 km Criterium Individual]]'''
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!Athlete
+!Points
+!Rank
+|-
+|[[Lidiyamol Sunny Menamparambil]]
+|30
+|{{gold01}}
+|-
+|[[Manorama Devi Tongbram]]
+|26
+|{{silver02}}
+|-
+|[[Suyena Puthenpurayil]]
+|9
+|4th
+|-
+|[[Bidyaluxmi Tourangbam]]
+|2
+|8th
+|}
+'''[[Cycling at the 2016 South Asian Games#Women's 40 km Team time trial|Women's 40 Km Team time trial]]'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Finish Time
+!Final Time
+!Ranking
+|-
+|[[Bidayuluxmi Tourangbam]]
+| rowspan="4" |1:05:23.52
+| rowspan="4" |0:59:23.52
+| rowspan="4" |{{gold01}}
+|-
+|[[Chaoba Devi Eangbam]]
+|-
+|[[G Manisha]]
+|-
+|[[Rutuja Satpute]]
+|}
+'''[[Cycling at the 2016 South Asian Games|Women's 80 Km Individual Road Race]]'''
+{| class="wikitable"
+!Athletes
+!Finish Time
+!Rank
+|-
+|[[Bidayuluxmi Tourangbam]]
+|2:30:55.350
+|{{gold01}}
+|-
+|[[Lidiyamol Sunny Menamparambil]]
+|2:30:55.690
+|{{silver02}}
+|-
+|[[Geethu Raj N]]
+|2:30:55.900
+|{{bronze03}}
+|-
+|[[Sayona Puthenpuayil]]
+|NA
+|5th
+|-
+|[[Manorama Devi Tongbram]]
+|NA
+|8th
+|-
+|[[Rutuja Satpute]]
+|NA
+|22nd
+|}
+
+=== Men ===
+
+;<nowiki>Track:</nowiki>
+'''[[Cycling at the 2016 South Asian Games#Men's 40 km Individual time trial|Men's 40 Km Individual time trial]]'''
+{|class=wikitable style="font-size:90%" style="text-align:center;"
+|-
+!Athlete
+!Finish Time
+!Final Time
+!Rank
+|-
+|[[Arvind Pawar]]
+|align=center|1::08:28.800
+|align=center|0::52:28.800
+|align=center|{{gold01}}
+|-
+|[[Manjeet Singh (cyclist)|Manjeet Singh]]
+|align=center|1::16:01.183
+|align=center|0::54:01.183
+|align=center|{{silver02}}
+|}
+
+'''[[Cycling at the 2016 South Asian Games|Men's 60km Criterium Individual]]'''
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Points
+!Rank
+|-
+|[[Pankaj Kumar (cyclist)|Pankaj Kumar]]
+|21
+|{{bronze03}}
+|-
+|[[Ganesh Pawar]]
+|20
+|4th
+|-
+|[[Dilawar Singh|Dilawar]]
+|8
+|6th
+|-
+|[[Abhinandan Bhosale]]
+|7
+|7th
+|}
+
+'''[[Cycling at the 2016 South Asian Games|Men's 70 Km Team time trial]]'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Finish Time
+!Final Time
+!Rank
+|-
+|[[Arvind Pawar]]
+| rowspan="4" |1:37:37.840
+| rowspan="4" |1:29:37.840
+| rowspan="4" |{{gold01}}
+|-
+|[[Manjeet Singh (cyclist)|Manjeet Singh]]
+|-
+|[[Deepak Kumar Rahi]]
+|-
+|[[Manohar Lal Bishnoi]]
+|}
+'''[[Cycling at the 2016 South Asian Games|Men's 100 Km Individual Road Race]]'''
+{| class="wikitable"
+!Athlete
+!Finish Time
+!Rank
+|-
+|[[Pankaj Kumar (cyclist)|Pankaj Kumar]]
+|NA
+|{{silver02}}
+|-
+|[[Manjeet Singh (cyclist)|Manjeet Singh]]
+|NA
+|5th
+|-
+|[[Ganesh Pawar]]
+|NA
+|9th
+|-
+|[[Arvind Pawar]]
+|NA
+|16th
+|-
+|[[Deepak Kumar Rahi]]
+|NA
+|18th
+|-
+|[[Abhinandan Bhosale]]
+|DNF
+|DNF
+|}
+
+==Field hockey==
+{{Main article|Field hockey at the 2016 South Asian Games}}
+
+===Men===
+*'''[[Vikas Dahiya]]'''
+*'''[[Pankaj Kumar Rajak]]'''
+*'''[[Gaganpreet Singh]]'''
+*'''[[Chiyanna AB]]'''
+*'''[[Sukhmanjeet Singh]]'''
+*'''[[Nilam Sanjip Xess]]'''
+*'''[[Ajitesh Roy]]'''
+*'''[[Gurbaj Singh]]'''
+*'''[[Vikas Chaudhary]]'''
+*'''[[Mangal Singh Chahal]]'''
+*'''[[Manpreet Singh (field hockey)|Manpreet Singh]]'''
+*'''[[Ajay Yadav (field hockey)|Ajay Yadav]]'''
+*'''[[Ajit Kumar Pandey]]'''
+*'''[[Gagandeep Singh (field hockey)|Gagandeep Singh]]'''
+*'''[[PL Thimmanna]]'''
+*'''[[Mandeep Antil]]'''
+*'''[[Pradhan Sommanna P.]]'''
+*'''[[Mohd Umar]]'''
+*'''[[Anup Amarpal Valmiki]]'''
+{| class="wikitable"  border="1" style="font-size:90%;" style="text-align:center;"
+!Teams
+!Pld
+!W
+!D
+!L
+!GF
+!GA
+!GD
+!Rank
+|-
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|3
+|3
+|0
+|0
+|11
+|1
+|10
+|1st
+|-
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3
+|2
+|0
+|1
+|8
+|3
+|5
+|2nd
+|-
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|3
+|1
+|0
+|2
+|3
+|10
+| −7
+|3rd
+|-
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|3
+|0
+|0
+|3
+|8
+|0
+| −8
+|4th
+|}
+{{fieldhockeybox
+|date= 7 February 
+|time=20:00
+|team1={{fh-rt|India}}
+|score=4–1
+|team2={{fh|Bangladesh}}
+|goals1=[[Pradhan Somanna]] 10' FG<br>[[Gaganpreet Singh]] 27' PC<br>[[Nilam Xess]] 30' PC<br>[[Mohammad Umar (field hockey)|Mohammad Umar]] 69' FG
+|report=
+|goals2=[[Milon Hossain]] 42' FG
+|umpires=
+|stadium= }}
+{{fieldhockeybox
+|date= 8 February 
+|time=15:00
+|team1={{fh-rt|India}}
+|score=1–2
+|team2={{fh|Pakistan}}
+|goals1=[[Mandeep Antil]] 53' FG
+|report=
+|goals2=[[Muhammad Arslan Qadir]]11' FG, 37' FG
+|umpires=
+|stadium= }}
+{{fieldhockeybox
+|date= 10 February 
+|time=20:00
+|team1={{fh-rt|India}}
+|score=3–0
+|team2={{fh|SRI}}
+|goals1=[[Gagandeep Singh (field hockey)|Gagandeep Singh]] 11' FG<br> [[Gaganpreet Singh]] 34' PC, 64' PC
+|report=
+|goals2=
+|umpires=
+|stadium= }}
+{{fieldhockeybox
+|date= 12 February ''' Final''' 
+|time=20:00
+|team1={{fh-rt|India}}
+|score=0–1 <br> L<br> {{silver02}}
+|team2={{fh|Pakistan}}
+|goals1=
+|report=
+|goals2=[[Rehman (field hockey)|Rehman]] 35' FG
+|umpires=
+|stadium= }}
+
+===Women===
+*'''[[Yogita Bali (field hockey)|Yogita Bali]]'''
+*'''[[Sonal Minz]]'''
+*'''[[Jaspreet Kaur (field hockey)|Jaspreet Kaur]]'''
+*'''[[Renuka Yadav]]'''
+*'''[[Gurjit Kaur]]'''
+*'''[[Hnialum Lalruatfeli]]'''
+*'''[[Sushila Chanu]]'''
+*'''[[M. N. Ponnamma]]'''
+*'''[[Ritu Rani]]'''
+*'''[[Deepika (field hockey)|Deepika]]'''
+*'''[[Sonika Tandi|Sonica]]'''
+*'''[[Preeti Dubey]]'''
+*'''[[Shyama Tirgam]]'''
+*'''[[Jyoti Gupta]]'''
+*'''[[Punam Barla]]'''
+*'''[[Rani Rampal]]'''
+*'''[[Neha Goyal]]'''
+*'''[[Soundarya Yendala]]'''
+
+'''Preliminary'''
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!Team
+!Pld
+!W
+!L
+!D
+!GF
+!GA
+!GD
+!Rank
+|-
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|2
+|2
+|0
+|0
+|36
+|1
+|35
+|1ST
+|-
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|2
+|1
+|1
+|0
+|16
+|12
+|4
+|2nd
+|-
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|2
+|0
+|2
+|0
+|0
+|39
+| −39
+|3rd
+|}
+{{fieldhockeybox
+|date= 7 February 
+|time=15:00
+|team1={{fh-rt|India}}
+|score=24–0
+|team2={{fh|Nepal}}
+|goals1=[[Rani Rampal|Rani]] 2' 46' 58' <br> [[Jaspreet Kaur]] 4' 35' 56'<br> [[Punam Barla|Barla]]7' 42' 43' 51' <br>[[Neha (field hockey)|Neha]]14' 22' 70+'<br>[[Soundarya Yendala|Yendala]]15' 52' 62' 64'<br>[[Gurjeet Kaur]] 21' 41'<br>[[Preeti (field hockey)|Preeti]] 23' 29' <br> [[Deepika]] 53' 62' 67'
+|report=
+|goals2=
+|umpires=
+|stadium= }}
+{{fieldhockeybox
+|date= 8 February 
+|time=15:00
+|team1={{fh-rt|India}}
+|score=12–1
+|team2={{fh|SRI}}
+|goals1=[[Rani Rampal|Rani]] 4' FG<br> [[Jaspreet Kaur]] 8' PC, 32' PC,  38' FG, 42' PS, 57' PC<br>[[Sonika (field hockey)|Sonika]]13' FG<br>[[Yendala Soundarya|Yendala]]14' FG, 27' FG<br>[[Jyoti Gupta|Jyoti]]19' FG<br>[[Deepika]]47' FG<br>[[Gurjeet Kaur]]65' PC
+|report=
+|goals2=[[P. A. C. D. Premasiri]] 58' FG
+|umpires=
+|stadium= }}
+{{fieldhockeybox
+|date= 10 February ''' Final''' 
+|time=15:00
+|team1={{fh-rt|India}}
+|score=10–0<br>'''W'''<br>{{gold01}}
+|team2={{fh|SRI}}
+|goals1=[[Rani Rampal|Rani]] 2' 4' 56'  FG <br> [[Preeti (field hockey)|Preeti]] 8' FG<br>[[Soundarya Yendala|Yendala]] 21' FG 64 PC '<br>[[Punam Barla|Barla]] 29' PC <br>[[Deepika]] 31' FG <br>[[Ritu Rani]] 47' PC<br>[[Jaspreet Kaur]] 68' PC
+|report=
+|goals2=
+|umpires=
+|stadium= }}
+
+==Football==
+{{Main article|Football at the 2016 South Asian Games}}
+
+===Men===
+'''Group-A'''
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|-align=center
+| 6 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|0–1
+|{{flagIOC2team|SRI|2016 South Asian Games}}<br/>[[Zarwan Johar]] 12'
+| '''Lost'''
+|-
+| 10 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}<br />[[Udanta Singh]] 4' 31' +
+[[Pritam Kotal]] 11'
+
+|3–2
+|{{flagIOC2team|MDV|2016 South Asian Games}}<br/>[[Muruthala Adnan]] 9'
+[[Pritam Kotal]] 59' (Own Goal) 
+| '''Win'''
+|}
+'''Semifinal'''
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|-align=center
+| 13 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}<br/>[[Udanta Singh]] 22'
+
+[[Jerry Mawihmingthanga]] 40'
+
+[[Jayesh Rane]] 65'
+|3–0
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+| '''Win'''
+|}
+'''Final'''
+{| class="wikitable" border="1" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|- align="center"
+| 14 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}<br/>[[Holicharan Nazary]] 31' (pen.)
+|1–2
+|{{flagIOC2team|NEP|2016 South Asian Games}}[[Prakash Thapa]] 66'
+
+[[Nawayug Shreshtha]] 72'
+|'''Lost'''
+{{silver02}}
+|}
+
+===Women===
+'''Goalkeepers:''' [[Aditi Chauhan]], [[Roshini Devi]], [[Panthoi Chanu]],
+
+'''Defenders:''' [[Ashalata Devi]], [[Radharani Devi]], [[Manisa Panna]], [[Supriya Routray]], [[Umapati Devi]], [[Dalima Chibber]],
+
+'''Midfielders:''' [[Bembem Devi]], [[Premi Devi]], [[Sangita Basfore]], [[Margaret Devi]], [[Sasmita Malik]], [[Prameshwori Devi, Sanju]],
+
+'''Forwards:''' [[Bala Devi]], [[Dangmei Grace]], [[Kamala Devi (footballer)|Kamala Devi]], [[Pyari Xaxa]]
+
+'''Group Matches'''
+
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|-align=center
+| 5 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|0–0
+|{{flagIOC2team|MDV|2016 South Asian Games}}
+| '''Draw'''
+|-
+|9 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}<br>[[Hasara Dilrangi]] 24' (own goal)
+[[Dangmei Grace]]  45+1' 58'<br>[[Yumnam Kamala Devi|Kamala Devi]] 60'
+
+[[Sasmita Malik]] 73' (pen.)
+|5–0
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|'''Win'''
+|-
+|11 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|0–0
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|'''Draw'''
+|}
+'''Semifinal'''
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|-align=center
+| 13 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}<br>[[Yumnam Kamala Devi|Kamala Devi]] 6' 37'
+
+[[Ngangom Bala Devi|Bala Devi]] 13' 75'
+
+[[Sanju]] 74'
+|5–1
+|{{flagIOC2team|BAN|2016 South Asian Games}}<br>[[Sabina Khatun]] 65'
+| '''Win'''
+|}
+'''Final'''
+{| class="wikitable" border="1" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Result
+|- align="center"
+| 14 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}[[Yumnam Kamala Devi|Kamala Devi]] 31' 55'
+
+[[Sushmita Malik]] 71'
+
+[[Ashalata Devi]] 78'
+|4–0
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|'''Win'''
+
+{{gold01}}
+|}
+
+==Handball==
+{{Main article|Handball at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Half
+!2nd Half
+!Final Score
+!Result
+|-
+|10 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}<br>'''Group B'''
+|18–8
+|30–8
+|48–16
+|'''Win'''
+|-
+|12 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}<br>'''Group B'''
+|22–10
+|18–7
+|40–17
+|'''Win'''
+|-
+|14 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}<br>'''Semifinal'''
+|28–15
+|23–8
+|51–23
+|'''Win'''
+|-
+|15 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+'''Final'''
+|15–11
+|17–20
+|32–31
+|'''Win'''
+{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Half
+!2nd Half
+!Final Score
+!Result
+|-
+|12 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}<br>'''Group A'''
+|20–8
+|27–12
+|47–20
+|'''Win'''
+|-
+|13 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}<br>'''Group A'''
+|35–5
+|35–5
+|70–10
+|'''Win'''
+|-
+|14 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}<br>'''Semifinal'''
+|26–11
+|18–12
+|44–23
+|'''Win'''
+|-
+|15 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+'''Final'''
+|24–13
+|21–12
+|45–25
+|'''Win'''
+{{gold01}}
+|}
+
+==Judo==
+{{Main article|Judo at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Event
+!Quarterfinal
+!Semifinal
+!Final
+!Rank
+|-
+|[[Bupinder Singh]]
+| −60Kg
+|Bye
+|[[Ngawang Namgyel]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[Ali Popalzai]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+001–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Jasleen Singh Saini]]
+| −66Kg
+|Bye
+|[[Roshan Madusanka Thenne Gedara]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+110–000
+
+'''W'''
+|[[M. Aryan]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+2–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Manjeet Nandal]]
+| −73Kg
+|[[Tandin Wangchuk]]
+{{flagIOC2team|BHU|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[Imtiaz Hussain]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+010–000
+
+'''W'''
+|[[RCN D]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+001–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Karanjit Singh Maan]]
+| −81Kg
+|[[Habibur Rahman (judoka)|Md.Habibur Rehman]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Qaiser Khan]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+111–000
+
+'''W'''
+|[[Faiz zada Ajmal]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+101–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Avtar Singh (judoka)|Avtar Singh]]
+| −90Kg
+|[[Sanjay Mahrjan]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+010–000
+
+'''W'''
+|[[Mhd. jahagir Alam]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[M. Kakar]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+101–001
+
+'''W'''
+|{{gold01}}
+|-
+|[[Shubham Kumar]]
+| −100Kg
+|Bye
+|[[Mhd. Mamunur Rashid]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+001–000
+
+'''W'''
+|[[Hussain Shah]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+000–100
+
+'''L'''
+|{{silver02}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Event
+!Round Robin
+!Quarterfinal / Round Robin
+!Semifinal / Round Robin
+!Final / Round Robin 
+!Rank
+|-
+|[[Sushila Devi|L. Shushila Devi]]
+| −48Kg
+|NIL
+|Bye
+|[[M. P. Sandamali]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Ashiq Humara]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+001–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[T, Kalpana Devi]]
+| −52Kg
+|[[Thamida Tabassum Jerin]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+010–000
+
+'''W''' 
+|[[Iran Shahzadi]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[H. M. K. T. Karunarathne]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Lila Adhikari]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Angom Anita Chanu]]
+| −57Kg
+|[[Singma Pru Marma]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[K.L.M.P. Liyange]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Manita Pradhan Shreshta]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Shumaila Gull]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+001–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Huidrom Sunibala Devi]]
+| −63Kg
+|[[Mashih Abreen]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Dousuising Cho Kanta]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[DYL Wijewardene]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+100–000
+
+'''W'''
+|[[Phupu Lahmu Khatri]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+010–001
+
+'''W'''
+|{{silver02}}
+|-
+|[[Pooja (judoka)|Pooja]]
+| −70Kg
+|NIL
+|Bye
+|[[W A P R J Jayarathne]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[Beenesh Khan]]
+
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|{{gold01}}
+|-
+|[[Aruna (judoka)|Aruna]] 
+| −78Kg
+|NIL
+|[[W G L D Jayawardhana]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[Punam Shreshtha]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+101–000
+
+'''W'''
+|[[Fouzia Mumtaz]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+000–010
+
+'''L'''
+|{{silver02}}
+|}
+
+==Kabbadi==
+{{Main article|Kabbadi at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Half
+!2nd Half
+!Score
+|-
+|12 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|19–11
+|28–12
+|47–23
+'''W'''
+|-
+|12 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|19–12
+|16–9
+|35–21
+'''W'''
+|-
+|13 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|16–7
+|14–10
+|30–17
+'''W'''
+|-
+|13 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|9–7
+|0–1
+|9–8
+'''W'''
+|-
+|14 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+'''Semifinal'''
+|15–3
+|14–6
+|29–9
+'''W'''
+|-
+|15 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+'''Final'''
+|5–5
+|4–2
+|9–7
+'''W'''
+
+{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Half
+!2nd Half
+!Score
+|-
+|11 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|32–6
+|19–11
+|51–17
+'''W'''
+|-
+|12 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|18–7
+|19–6
+|37–13
+'''W'''
+|-
+|13 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|29–15
+|27–8
+|56–23
+'''W'''
+|-
+|13 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|23–5
+|20–6
+|43–11
+'''W'''
+|-
+|14 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+'''Semifinal'''
+|25–5
+|20–10
+|45–15
+'''W'''
+|-
+|15 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}'''Final'''
+|21–7
+|15–5
+|36–12
+'''W'''
+
+{{gold01}}
+|}
+
+==Kho-Kho==
+{{Main article|Kho-Kho at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Inning
+!2nd Inning
+!Score
+!Capton (Naresh sawant)
+|-
+|6 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+| 23–11
+|0–10
+|23–21
+'''W'''
+|-
+|7 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|16–9
+|3–8
+|19–17
+'''W'''
+|-
+|7 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|23–7
+|0–10
+|23–17
+'''W'''
+|-
+|8 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|10–4
+|11–9
+|21–13
+'''W'''
+|-
+|8 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''Semifinal'''
+|22–5
+|0–5
+|22–10
+'''W'''
+|-
+|9 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+
+'''Final'''
+|15–7
+|22–5
+|37–14
+'''W'''
+
+{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!1st Inning
+!2nd Inning
+!Score
+!Captain (Sarika kale)
+|-
+|6 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+| 16–6
+|0–8
+|16–14 
+'''W'''
+|-
+|7 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|15–9
+|0–3
+|15–12
+'''W'''
+|-
+|7 February
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|16–8
+|0–6
+|16–14
+'''W'''
+|-
+|8 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+|18–4
+|0–8
+|18–12
+'''W'''
+|-
+|8 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+
+'''Semifinal'''
+|24–5
+|0–9
+|24–14
+'''W'''
+|-
+|9 February
+|{{flagIOC2team|BAN|2016 South Asian Games}}
+
+'''Final'''
+|16–8
+|0–6
+|16–14
+'''W'''
+
+{{gold01}}
+|}
+
+==Shooting==
+{{Main article|Shooting at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athlete
+!Event
+! colspan="2" |Qualification
+! colspan="2" |Final
+|-
+!
+|'''Score'''
+|'''Rank'''
+|'''Score'''
+|'''Rank'''
+|-
+|[[Omkar Singh]]
+|[[50 m Pistol Men]]
+|550-9x
+|1st '''Q'''
+|86.1
+|7th
+|-
+|[[P.N. Prakash]]
+|[[50 m Pistol Men]]
+|540-7x
+|2nd '''Q'''
+|146.9
+|4th
+|-
+|[[Om Prakash (sport shooter)|Om Prakash]]
+|[[50 m Pistol Men]]
+|532-4x
+|4th '''Q'''
+|187.3
+|{{silver02}}
+|-
+|[[Omkar Singh]]
+[[P.N. Prakash]]
+
+[[Om Prakash (sport shooter)|Om Prakash]]
+|[[50 m Pistol Men|50 m Pistol Men Team]]
+|NIL
+|NIL
+|1622
+|{{gold01}}
+|-
+|[[Gagan Narang]]
+|[[50 m Rifle Prone Men]]
+|628.9
+|1st '''Q'''
+|203.7
+|{{silver02}}
+|-
+|[[Singh Chain]]
+|[[50 m Rifle Prone Men]]
+|625.7
+|2nd '''Q'''
+|204.6
+|{{gold01}}
+|-
+|[[Rathod Surendra Singh]]
+|[[50 m Rifle Prone Men]]
+|616.9
+|3rd '''Q'''
+|140.6
+|5th
+|-
+|[[Gagan Narang]]
+[[Singh Chain]]
+
+[[Rathod Surendra Singh]]
+|[[50 m Rifle Prone Men|50 M Rifle Prone Men Team]]
+|NIL
+|NIL
+|1871.5
+|{{gold01}}
+|-
+|[[Samaresh Jung]]
+|[[25 m Center Fire Pistol Men]]
+|NIL
+|NIL
+|580
+|{{gold01}}
+|-
+|[[Tamang Pemba]]
+|[[25 m Center Fire Pistol Men]]
+|NIL
+|NIL
+|579
+|{{silver02}}
+|-
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|[[25 m Center Fire Pistol Men]]
+|NIL
+|NIL
+|577
+|{{bronze03}}
+|-
+|[[Samaresh Jung]]
+[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+
+[[Pemba Tamang]]
+|[[25 m Center Fire Pistol Men|25 m Center Fire Pistol Men Team]]
+|NIL
+|NIL
+|1736
+|{{gold01}}
+|-
+|Kumar Neeraj
+|[[25 m Standard Pistol Men]]
+|NIL
+|NIL
+|569-7X
+|{{gold01}}
+|-
+|[[Singh Gurpreet]]
+|[[25 m Standard Pistol Men]]
+|NIL
+|NIL
+|566-11X
+|{{silver02}}
+|-
+|[[Singh Mahender]]
+|[[25 m Standard Pistol Men]]
+|NIL
+|NIL
+|563-12X
+|{{bronze03}}
+|-
+|Kumar Neeraj
+[[Singh Gurpreet]]
+
+[[Singh Mahender]]
+|[[25 m Standard Pistol Men|25 m Standard Pistol Men Team]]
+|NIL
+|NIL
+|1698-30X
+|{{gold01}}
+|-
+|[[Chain Singh]]
+|[[10 m Air Rifle Men]]
+|621.9
+|2nd '''Q'''
+|204.6
+|{{gold01}}
+|-
+|[[Gagan Narang]]
+|[[10 m Air Rifle Men]]
+|623.2
+|1st '''Q'''
+|182
+|{{bronze03}}
+|-
+|[[Khan Imran Hasan]]
+|[[10 m Air Rifle Men]]
+|618.3
+|1st '''Q'''
+|162.1
+|4th
+|-
+|[[Chain Singh]]
+[[Gagan Narang]]
+
+[[Khan Imran Hasan]]
+|[[10 m Air Rifle Men|10 m Air Rifle Men Team]]
+|NIL
+|NIL
+|1863.4
+|{{gold01}}
+|-
+|[[Omkar Singh]]
+|[[10 m Air Pistol|10 m Air Men Pistol]]
+|583-21X
+|1st '''Q'''
+|198.8
+|{{gold01}}
+|-
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|[[10 m Air Pistol|10 m Air Men Pistol]]
+|576-20X
+|2nd '''Q'''
+|115.1
+|6th
+|-
+|[[Jitendra Vibhute]]
+|[[10 m Air Pistol|10 m Air Men Pistol]]
+|576-14X
+|3rd '''Q'''
+|175.1
+|{{bronze03}}
+|-
+|[[Omkar Singh]]
+[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+
+[[Jitendra Vibhute]]
+|[[10 m Air Pistol|10 m Air Pistol Men Team]]
+|NIL
+|NIL
+|1735-55X
+|{{gold01}}
+|-
+|[[Chain Singh]]
+|[[50 m Rifle 3 Position|50 m Rifle 3 Position Men]] 
+|1170-71X
+|1st '''Q'''
+|453.3
+|{{gold01}}
+|-
+|[[Gagan Narang]]
+|[[50 m Rifle 3 Position|50 m Rifle 3 Position Men]] 
+|1167-54X
+|2nd '''Q'''
+|450.3
+|{{silver02}}
+|-
+|[[Surendra Singh Rathore]]
+|[[50 m Rifle 3 Position|50 m Rifle 3 Position Men]] 
+|1153-49X
+|3rd '''Q'''
+|387.2
+|7th
+|-
+|[[Chain Singh]]
+[[Gagan Narang]]
+
+[[Surendra Singh Rathore]]
+|[[50 m Rifle 3 Position Team|50 m Rifle 3 Position Men Team]]
+|NIL
+|NIL
+|3490
+|{{gold01}}
+|-
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|[[25 m Rapid Fire Pistol Men]]
+|572-15X
+|1st '''Q'''
+|20
+|{{bronze03}}
+|-
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|[[25 m Rapid Fire Pistol Men]]
+|571-20X
+|2nd '''Q'''
+|28
+|{{gold01}}
+|-
+|[[Akshay Suhas Ashaputre]]
+|[[25 m Rapid Fire Pistol Men]]
+|559-10X
+|4th '''Q'''
+|9
+|6th
+|-
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+
+[[Akshay Suhas Ashaputre]]
+|[[25 m Rapid Fire Pistol Men|25 m Rapid Fire Pistol Men Team]]
+|NIL
+|NIL
+|1702-45X
+|{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athlete
+!Event
+! colspan="2" |Qualification
+! colspan="2" |Final
+|-
+!
+|'''Score'''
+|'''Rank'''
+|'''Score'''
+|'''Rank'''
+|-
+|[[Apurvi Chandela]]
+|[[10m Air Rifle Women]]
+|419.8
+|1st '''Q'''
+|209
+|{{gold01}}
+|-
+|[[Pooja Ghatkar]]
+|[[10m Air Rifle Women]]
+|417.7
+|2nd '''Q'''
+|185.9
+|{{bronze03}}
+|-
+|[[Koshy Elizabeth Susan]]
+|[[10m Air Rifle Women]]
+|411
+|3rd '''Q'''
+|207.1
+|{{silver02}}
+|-
+|[[Apurvi Chandela]]
+[[Pooja Ghatkar]]
+
+[[Koshy Elizabeth Susan]]
+|[[10m Air Rifle Women|10m Air Rifle Women Team]]
+|NIL
+|NIL
+|1248.5
+|{{gold01}}
+|-
+|[[Gangulee Kuheli]]
+|[[50m Rifle Prone Women]]
+|NIL
+|NIL
+|619.9
+|{{gold01}}
+|-
+|[[Lajja Goswami|Lajja Gauswami]]
+|[[50m Rifle Prone Women]]
+|NIL
+|NIL
+|608.2
+|{{silver02}}
+|-
+|[[Jung Anuja]]
+|[[50m Rifle Prone Women]]
+|NIL
+|NIL
+|607.5
+|{{bronze03}}
+|-
+|[[Gangulee Kuheli]]
+[[Lajja Goswami|Lajja Gauswami]]
+
+[[Jung Anuja]]
+|[[50m Rifle Prone Women|50m Rifle Prone Women Team]]
+|NIL
+|NIL
+|1835.6
+|{{gold01}}
+|-
+|[[Anjum Modgil]]
+|[[50m Rifle 3 Position Women]]
+|NIL
+|NIL
+|452.2
+|{{gold01}}
+|-
+|[[Koshy Elizabeth Susan]]
+|[[50m Rifle 3 Position Women]]
+|NIL
+|NIL
+|451.9
+|{{silver02}}
+|-
+|[[Lajja Goswami|Lajja Gauswami]]
+|[[50m Rifle 3 Position Women]]
+|NIL
+|NIL
+|429.9
+|{{bronze03}}
+|-
+|[[Anjum Modgil]]
+
+[[Koshy Elizabeth Susan]]
+
+[[Lajja Goswami|Lajja Gauswami]] 
+|[[50m Rifle 3 Position Women|50m Rifle 3 Position Women Team]]
+|NIL
+|NIL
+|1726-69X
+|{{gold01}}
+|-
+|[[Rahi Sarnobat]]
+|[[25m Pistol Women]]
+|NIL
+|NIL
+|584-16X
+|{{gold01}}
+|-
+|[[Anisa Sayyed]]
+|[[25m Pistol Women]]
+|NIL
+|NIL
+|582-20X
+|{{silver02}}
+|-
+|[[Annu Raj Singh]]
+|[[25m Pistol Women]]
+|NIL
+|NIL
+|575-16X
+|{{bronze03}}
+|-
+|[[Rahi Sarnobat]]
+[[Anisa Sayyed]]
+
+[[Annu Raj Singh]]
+|[[25m Pistol Women|25m Pistol Women Team]]
+|NIL
+|NIL
+|1741-52X
+|{{gold01}}
+|-
+|[[Heena Sidhu]]
+|[[10m Air Pistol Women]]
+|386-10X
+|1st '''Q'''
+|192.5
+|{{silver02}}
+|-
+|[[Yashashwini Singh Deswal]]
+|[[10m Air Pistol Women]]
+|374-7X
+|2nd '''Q'''
+|171.3
+|{{bronze03}}
+|-
+|[[Shweta Singh]]
+|[[10m Air Pistol Women]]
+|373-8X
+|3rd '''Q'''
+|194.4
+|{{gold01}}
+|-
+|[[Heena Sidhu]]
+[[Yashashwini Singh Deswal]]
+
+[[Shweta Singh]]
+|[[10m Air Pistol Women|10m Air Pistol Women Team]]
+|NIL
+|NIL
+|1133-25X
+|{{gold01}}
+|}
+
+==Squash==
+{{Main article|Squash at the 2016 South Asian Games}}
+
+===Men===
+[[Saurav Ghosal]], [[Harinder Pal Sandhu]], [[Kush Kumar]] and [[Ravi Dixit]]
+
+'''Individual'''
+{| class="wikitable" style="text-align:center; font-size:90%"
+!Athlete
+!Pre-Quarterfinals
+!Quarterfinals
+!Semifinals
+!Finals
+!Rank
+!Rank Upgrade(After Doping Test)
+|-
+|[[Saurav Ghosal]]
+|Bye
+|Md Shumon{{flagIOC2team|BAN|2016 South Asian Games}}
+11–5 11–1 11–3
+
+'''W'''
+|
+[[Farhan Zaman]]{{flagIOC2team|PAK|2016 South Asian Games}}
+
+4–11 5–11 12–10 5–11
+
+'''L'''
+|Did Not Advance
+|{{bronze03}}
+|{{Silver2}}
+|-
+|[[Harinder Pal Sandhu]]
+|Bye
+|Md Shamil Wakeel{{flagIOC2team|SRI|2016 South Asian Games}}
+11–3 11–8 11–3
+
+'''W'''
+|[[Nasir Iqbal]] {{flagIOC2team|PAK|2016 South Asian Games}}
+7–11 14–12 7–11 6–11
+
+'''L'''
+|Did Not Advance
+|{{bronze03}}
+|{{Silver2}}
+|}
+'''Team'''
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!Score
+!Match-1
+!Match-2
+!Match-3
+|-
+|8 February 2016
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''Round Robin'''
+|3–0
+'''W'''
+|[[Saurav Ghosal]]
+vs
+
+[[Arhant Keshar Simha]]
+
+9–11 11–6 11–6
+
+'''W'''
+|[[Kush Kumar]]
+vs
+
+[[Hira B Thapa]]
+
+11–5 11–4 11–8
+
+'''W'''
+|[[Ravi Dixit]]
+vs
+
+[[Sujan Jwarchan]]
+
+11–4 11–6 11–6
+
+'''W'''
+|-
+|9 February 2016
+|{{flagIOC2team|SRI|2016 South Asian Games}}'''Round Robin'''
+|3–0
+'''W'''
+|[[Saurav Ghosal]]
+
+vs
+
+[[Ravindu Laksiri]]
+
+13–11 11–5 11–8
+
+'''W'''
+|[[Kush Kumar]]
+
+vs
+
+[[Shamil Wakeel]]
+
+10–12 11–3 11–9 11–9
+
+'''W'''
+|[[Ravi Dixit]]
+
+vs
+
+[[Dilshan Gunwardane]]
+
+11–7 11–6 11–9
+
+'''W'''
+|-
+|9 February 2016
+|{{flagIOC2team|BAN|2016 South Asian Games}}'''Round Robin'''
+|3–0
+'''W'''
+|[[Saurav Ghosal]]
+vs
+
+[[Md Shumon]]
+
+11–2 11–0 11–2
+
+'''W'''
+|
+[[Kush Kumar]]
+
+vs
+
+[[Shahid Islam]]
+
+11–5 11–6 11–7
+
+'''W'''
+|[[Ravi Dixit]]
+
+vs
+
+[[Rajon Kumar]]
+
+11–2 11–8 11–8
+
+'''W'''
+|-
+|10 February 2016
+|{{flagIOC2team|PAK|2016 South Asian Games}} '''Round Robin'''
+|2–1
+'''W'''
+
+{{gold01}}
+|[[Saurav Ghosal]]
+
+vs
+
+[[Nasir Iqbal]]
+
+11–7 11–8 11–7
+
+'''W'''
+|[[Kush Kumar]]
+vs
+
+[[Farhan Zaman]]
+
+11–3 11–8 12–10
+
+'''W'''
+|[[Ravi Dixit]]
+vs
+
+[[Danish Atlas Khan]]
+
+3–11 8–11 11–6 6–11
+
+'''L'''
+|}
+
+===Women===
+[[Joshna Chinappa]], [[Dipika Karthik]], [[Sunayna Kuruvilla]] and [[Akanksha Salunkhe]]<ref>{{Cite web|url=http://www.indiasquash.com/players-team-india.aspx|title=Squash Rackets Federation of India|access-date=3 June 2016|archive-date=12 May 2016|archive-url=https://web.archive.org/web/20160512084155/http://www.indiasquash.com/players-team-india.aspx|url-status=dead}}</ref>
+
+'''Individual'''
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Pre-Quarterfinals
+!Quarterfinals
+!Semifinals
+!Finals 
+!Rank
+|-
+|[[Joshna Chinappa]]
+|Bye
+|[[Krishna Thapa]]{{flagIOC2team|NEP|2016 South Asian Games}}
+11–6 11–4 11–4
+
+'''W'''
+|[[Sadia Gul]]{{flagIOC2team|PAK|2016 South Asian Games}}
+11–7 11–9 11–7
+
+'''W'''
+|[[Maria Toorpaki Wazeer]]{{flagIOC2team|PAK|2016 South Asian Games}}
+10–12 11–7 11–9 11–7
+|{{gold01}}
+|-
+|Sunayna Kuruvilla
+|Bye
+|Mihilya Methsarani{{flagIOC2team|SRI|2016 South Asian Games}}
+11–6 9–11 11–4 5–11 10–12
+
+'''L'''
+| colspan="2" |Did Not Advance
+|
+|}
+'''Team'''
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!Score
+!Match-1
+!Match-2
+!Match-3
+|-
+|8 February
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''Round Robin'''
+|3–0
+'''W'''
+|[[Dipika Karthik]]
+vs
+
+[[Bhavana Sunwar]]
+
+11–2 11–3 11–9
+
+'''W'''
+|[[Sunayna Kuruvilla]]
+
+vs
+
+[[Krishna Thapa]]
+
+11–3 11–1 11–0
+
+'''W'''
+|
+[[Akanksha Salunkhe]]
+
+vs
+
+[[Bipana Blon]]
+
+11–2 11–5 11–6
+
+'''W'''
+
+|-
+|9 February
+|{{flagIOC2team|SRI|2016 South Asian Games}}'''Round Robin'''
+|3–0
+'''W'''
+|[[Dipika Karthik]]
+vs
+[[Mihilya Methsarani]]
+
+11–4 11–7 11–7
+
+'''W'''
+|[[Sunayna Kuruvilla]]
+
+vs
+
+[[Naduni Gunawardane]]
+
+11–6 11–3 11–3
+
+'''W'''
+|[[Akanksha Salunkhe]]
+
+vs
+
+[[Fathima Issadeen]]
+
+11–1 11–3 11–4
+
+'''W'''
+|-
+|10 February 2016
+|{{flagIOC2team|PAK|2016 South Asian Games}} '''Round Robin'''
+|2–0
+'''W'''
+
+{{gold01}}
+|[[Dipika Karthik]]
+vs
+
+[[Sadia Gul]]
+
+Not Played
+|[[Joshna Chinappa]]
+vs
+
+[[Maria Toorpaki Wazir]]
+
+11–8 4–11 11–5 11–9
+
+'''W'''
+|[[Sunayna Kuruvilla]]
+vs
+
+[[Sammer Anjum]]
+
+10–12 11–7 11–7 8–11 11–6
+
+'''W'''
+|}
+
+==Swimming==
+{{Main article|Swimming at the 2016 South Asian Games}}
+
+===Men===
+{|class=wikitable style=font-size:90% style="text-align:center;"
+|-align=center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|- style=font-size:95%
+!Time
+!Rank
+|-align=center
+| [[Saurabh Sangvekar]]
+| [[Swimming at the 2016 South Asian Games – Men's 200 Freestyle|200 m Freestyle]]
+| 1:53:03
+| {{silver02}}
+|-align=center
+| [[Sandeep Sejwal]]
+| [[Swimming at the 2016 South Asian Games – Men's 200 metre breaststroke|200 m Breastroke]]
+| 2:20:66 '''GR'''
+| {{gold01}}
+|-align=center
+| [[Supriyo Mondal]]
+| [[Swimming at the 2016 South Asian Games – Men's 100 metre butterfly|100 m Butterfly]]
+| 55:86
+| {{silver02}}
+|-align=center
+| [[Neil Contractor]],<br> [[S P Nair Sharma]],<br> [[Sahil Chopra]],<br> [[Anshul Kothari]],<br>
+| [[Swimming at the 2016 South Asian Games – Men's 4x100 metre freestyle relay|4x100 m Freestyle relay]]
+| 3:30:78
+| {{silver02}}
+|-
+|[[Sandeep Sejwal]]
+|[[100m breaststroke|100m Breaststroke]]
+|1:03:14 '''GR'''
+|{{gold01}}
+|-
+|[[Puneet Rana]]
+|[[100m breaststroke|100m Breaststroke]]
+|1:03:80
+|{{silver02}}
+|-
+|[[Sajan Prakash]]
+|[[1500m Freestyle]]
+|15:55:3 '''GR'''
+|{{gold01}}
+|-
+|[[Saurabh Sangvekar]]
+|[[1500m Freestyle]]
+|16:13:2
+|{{silver02}}
+|-
+|[[Neil Contractor]]
+|[[50m Freestyle]]
+|24:06
+|5th
+|-
+|[[Virdhawal Khade]]
+|[[50m Freestyle]]
+|23:54
+|{{silver02}}
+|-
+|[[M Arvind]]
+|[[200m Backstroke]]
+|2:08:00
+|{{gold01}}
+|-
+|[[Sanu Debnath]]
+|[[400m Individual Medley]]
+|4:40:85
+|{{silver02}}
+|-
+|[[P. S. Madhu]]
+|[[100 Backstroke]]
+|57:94
+|{{gold01}}
+|-
+|[[Sethu Manickavel]]
+|[[100 Backstroke]]
+|59.47
+|{{silver02}}
+|-
+|[[Sandeep Sejwal]]
+|[[50m Breaststroke]]
+|28:79
+|{{gold01}}
+|-
+|[[Puneet Rana]]
+|[[50m Breaststroke]]
+|29:11
+|{{silver02}}
+|-
+|[[Saurabh Sangvekar]]
+|[[400m Freestyle]]
+|3:58:84'''GR'''
+|{{gold01}}
+|-
+|[[Sajan Prakash]]
+|[[400m Freestyle]]
+|4:03:79
+|{{silver02}}
+|-
+|[[Sajan Prakash]]
+|[[200m Butterfly]]
+|2:03:02
+|{{gold01}}
+|-
+|[[P. S. Madhu]]
+|[[50m Backstroke]]
+|26:86
+|{{gold01}}
+|-
+|[[M Arvind]]
+|[[50m Backstroke]]
+|27:18
+|{{silver02}}
+|-
+|[[SAURABH SANGVEKAR|Saurab Sangvekar]],
+[[Raj Bhanwadia]],
+
+[[Neil Contractor]],
+
+[[Sajan Prakash]]
+|[[4x200m Freestyle Relay]]
+|07:43.42'''GR'''
+|{{gold01}}
+|-
+|[[Sanu Debnath]]
+|[[200m Individual Medley]]
+|2:11:65
+|{{silver02}}
+|-
+|[[Neil Contractor]]
+|[[100m Freestyle]]
+|52.47
+|4th
+|-
+|[[Virdhawal Khade]]
+|[[50m Butterfly]]
+|24:54 '''GR'''
+|{{gold01}}
+|-
+|[[Anshul Kothari]]
+|[[50m Butterfly]]
+|25:24 
+|{{silver02}}
+|-
+|[[P.S.Madhu]], 
+[[Sandeep Sejwal]],
+
+[[Supriyo Mondal]],
+
+[[Anshul Kothari]]
+|[[4x100m Medley Relay]]
+|3:49:78
+|{{gold01}}
+|}
+
+===Women===
+{|class=wikitable style=font-size:90% style="text-align:center;"
+|-align=center
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|- style=font-size:95%
+!Time
+!Rank
+|-align=center
+| [[Shivani Kataria]]
+| [[Swimming at the 2016 South Asian Games – Women's 200 metre freestyle|200 m Freestyle]]
+| 2:08:68
+| {{gold01}}
+|-align=center
+| [[Kalyani Saxena]]
+| [[Swimming at the 2016 South Asian Games – Women's 200 metre breaststroek|200 m Breaststroke]]
+| 2:51:2
+| 4th
+|-align=center
+| [[Harshita Jayram]]
+| [[Swimming at the 2016 South Asian Games – Women's 200 metre breaststroek|200 m Breaststroke]]
+| 2:51:6
+| 5th
+|-align=center
+| [[Damini Gowda]]
+| [[Swimming at the 2016 South Asian Games – Women's 100 metre butterfly|100 m Butterfly]]
+| 1:04:9
+| {{gold01}}
+|-align=center
+|[[Avantika Chavan]],<br> [[V Malvika]],<br>[[Maana Patel]],<br>[[Shivani Kataria]],<br>
+| [[Swimming at the 2016 South Asian Games – Women's 4x100 metre freestyle relay|4x100 m Freestyle relay]]
+|4:01:95
+| {{gold01}}
+|-
+|[[Chahat Arora]]
+|[[100m breaststroke|100m Breaststroke]]
+|1:18:77
+|{{bronze03}}
+|-
+|[[Harshita Jayaram]]
+|[[100m breaststroke|100m Breaststroke]]
+|1:19:93
+|6th
+|-
+|[[Maana Patel]]
+|[[200m Backstroke]]
+|2:22:06
+|{{silver02}}
+|-
+|[[Sayani Ghosh (swimmer)|Sayani Ghosh]]
+|[[400m Individual Medley]]
+|5:14:51 '''GR'''
+|{{gold01}}
+|-
+|[[Shraddha Sudhir]]
+|[[400m Individual Medley]]
+|5:23:32
+|{{silver02}}
+|-
+|[[V Malvika]]
+|[[800m Freestyle]]
+|9:19:48
+|{{gold01}}
+|-
+|[[Maana Patel]]
+|[[100m Backstroke]]
+|1:06:00
+|{{silver02}}
+|-
+|[[Jyotsna Pansare]]
+|[[100m Backstroke]]
+|1:07:42
+|4th
+|-
+|[[Chahat Arora]]
+|[[50m Breaststroke]]
+|36:15
+|4th
+|-
+|[[Maana Patel]]
+|[[50m Freestyle]]
+|27:44
+|{{bronze03}}
+|-
+|[[Avantika Chavan]]
+|[[50m Freestyle]]
+|27:64
+|4th
+|-
+|[[V Malvika]]
+|[[400m Freestyle Women]]
+|4:30:08
+|{{gold01}}
+|-
+|[[Shivani Kataria]]
+|[[400m Freestyle Women]]
+|4:38:43
+|{{silver02}}
+|-
+|[[Damini Gowda]]
+|[[200m Butterfly]]
+|2:21:12
+|{{gold01}}
+|-
+|[[Maana Patel]]
+|[[50m Freestyle|50m Backstroke]]
+|30:06
+|{{silver02}}
+|-
+|[[Shraddha Sudhir]],
+[[V Malvika]],
+
+[[Damini Gowda]],
+
+[[Shivani Kataria]]
+
+|[[4x200m Freestyle Relay]]
+|08:55.98
+|{{gold01}}
+|-
+|[[Shraddha Sudhir]]
+|[[200m Individual Medley]]
+|2:31:18
+|{{gold01}}
+|-
+|[[Shivani Kataria]]
+|[[100m Freestyle]]
+|1:00:14
+|{{bronze03}}
+|-
+|[[Maana Patel]]
+|[[100m Freestyle]]
+|1:01:25
+|4th
+|-
+|[[Jyotsna Pansare]]
+|[[50m Butterfly]]
+|29:19
+|{{gold01}}
+|-
+|[[Avantika Chavan]]
+|[[50m Butterfly]]
+|29:67
+|{{silver02}}
+|-
+|[[Maana Patel]]
+[[Chahat Arora]]
+
+[[Damini Gowda]],
+
+[[Shivani Kataria]]
+|[[4x100m Medley Relay]]
+|4:30:91
+|{{gold01}}
+|}
+
+==Table tennis==
+{{Main article|Table tennis at the 2016 South Asian Games}}
+
+===Men===
+# [[Anthony Amalraj]],
+# [[Sathiyan Gnanasekaran]], 
+# [[Devesh Karia]],
+# [[Sanil Sankar Shetty]] 
+# [[Sudhanshu Grover]]
+'''Team:'''
+{|-align=center class="wikitable" border="1" style="text-align:center;"
+!Date 
+!Opponent
+!Score 
+!Match-1 
+!Match-2 
+!Match-3 
+!Match-4 
+!Match-5 
+|-align=center
+|6 February 2016 
+|{{flagIOC2team|BAN|2016 South Asian Games}}<br>'''Group-A''' 
+|3–0
+'''W''' 
+|[[Sathiyan Ganasekaran]]
+vs
+
+[[Mahbub Billah]]
+
+11–5 11–7 11–6
+
+''' W '''
+|[[Sanil Shankar Shetty]]
+vs
+
+[[Manash Choudhary]]
+
+11–7 13–11 8–11 11–8
+
+''' W''' 
+|[[Sudhanshu Grover]]
+vs
+
+[[Mohammed Zaved]]
+
+6–11 11–5 11–6 11–4
+
+''' W '''
+| 
+|
+|-align=center
+|6 February 2016
+|{{flagIOC2team|NEP|2016 South Asian Games}}<br>'''Group-A''' 
+|3–0
+'''W''' 
+|[[Devesh Karia]]
+vs
+
+[[Deep Saun]]
+
+11–7 11–1 11–5
+
+'''  W '''
+|[[Anthony Amalraj]]
+vs
+
+[[Shiv Sundar Gathe]]
+
+2–11 11–7 11–5 11–6
+
+''' W ''' 
+|[[Sudhanshu Grover]]
+vs
+
+[[Amar Lal Malla]]
+
+11–7 11–5 5–11 12–10
+
+'''  W '''
+| 
+| 
+|-
+|7 February 2016
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+'''Semifinal'''
+|3–0
+'''W'''
+|[[Sathiyan Gunasekaran]]
+vs
+
+[[M Ramees]]
+
+11–7 11–1 11–4
+
+'''W'''
+|[[Anthony Amalraj]]
+vs
+
+[[Asim Qureshi (table tennis)|Asim Qureshi]]
+
+11–6 11–4 11–5
+
+'''W'''
+|[[Devesh Karia]]
+
+vs
+
+[[Ali Sajad Faisal]]
+
+11–7 11–3 11–8
+
+'''W'''
+|
+|
+|-
+|7 February 2016
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+'''Final'''
+|3–0
+'''W'''
+
+{{gold01}}
+|[[Anthony Amalraj]]
+
+vs
+
+[[Udaya Ranasinghe]]
+
+11–9 13–11 6–11 11–8
+
+'''W'''
+|[[Sathiyan Gunasekaran]]
+
+vs
+
+[[Rohan Sirisena]]
+
+11–3 11–3 11–3
+
+'''W'''
+|[[Sanil Shankar Shetty]]
+
+vs
+
+[[Nirmala Jayasinghe]]
+
+8–11 11–3 11–7 13–11
+
+'''W'''
+|
+|
+|}
+'''Singles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!Semifinal
+!Final
+!Rank
+|-
+|[[Anthony Amalraj]]
+|[[Rohan Sirisena]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–9 11–4 11–3 11–7
+
+'''W'''
+|[[Sathiyan Gunasekaran]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+6–11 11–6 11–6 2–2(Retd)
+
+'''W'''
+|{{gold01}}
+|-
+|[[Sathiyan Gunasekaran]]
+|[[Udaya Ranasinghe]]
+
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–5 14–12 12–10 11–6
+
+'''W'''
+|[[Anthony Amalraj]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–6 6–11 6–11 2–2(Retd.)
+
+'''L'''
+|{{silver02}}
+|}
+
+'''Doubles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!Semifinal
+!Final
+!Rank
+|-
+|[[Anthony Amalraj]] / [[Sanil Sankar Shetty]]
+|[[Rohan Sirisena]] / [[Chameern Ginge]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–8 14–12 11–9
+
+'''W'''
+|[[Sathiyan Gunasekaran]] / [[Devesh Karia]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+1–11 8–11 6–11
+
+'''L'''
+|{{silver02}}
+|-
+|[[Sathiyan Gunasekaran]] / [[Devesh Karia]]
+|[[Udaya Ranasinghe]] / [[Nirmala Jayasinghe]]
+
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–7 11–4 11–4
+
+'''W'''
+|[[Anthony Amalraj]] / [[Sanil Sankar Shetty]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–1 11–8 11–6
+
+'''W'''
+|{{gold01}}
+|}
+
+===Women===
+# [[Manika Batra]],
+# [[Mouma Das]],
+# [[Pooja Vijay Sahasrabudhe]],
+# [[Madhurika Patkar]]
+# [[Shamini Kumaresan]]
+'''Team:'''
+{| class="wikitable" style="text-align:center;"
+!Date
+!Opponent
+!Score
+!Match-1
+!Match-2
+!Match-3
+!Match-4
+!Match-5
+|-align=center
+|6 February 2016
+|{{flagIOC2team|MDV|2016 South Asian Games}}<br>'''Group A'''
+|3–0
+'''W'''
+|[[Madhurika Patkar]]
+vs
+
+[[Nimaal Fathimal Jumana]]
+
+11–6 11–4 11–8
+
+'''W'''
+|[[Manika Batra]]
+vs
+
+[[Mohamed Mueena]]
+
+11–8 11–4 11–3
+
+'''W'''
+|[[Pooja Vijay Sahasrabudhe]]
+vs
+
+[[Nazeem Aishath Rafa]]
+
+11–2 11–6 11–8
+
+'''W'''
+|
+|
+|-align=center
+|6 February 2016
+|{{flagIOC2team|PAK|2016 South Asian Games}}<br>'''Group A'''
+|3–0
+'''W'''
+|[[Mouma Das]]
+vs
+
+[[Rahila Kashif]]
+
+11–7 11–3 11–4
+
+'''W'''
+|[[Shamini Kumaresan]]
+vs
+
+[[Shabnam Bilal]]
+
+11–1 11–5 11–7
+
+'''W'''
+|[[Madhurika Patkar]]
+vs
+
+[[Ayesha Ansari]]
+
+11–2 11–3 11–4
+
+'''W'''
+|
+|
+|-
+|7 February 2016
+|{{flagIOC2team|BAN|2016 South Asian Games}}<br>'''Semifinal'''
+|3–0
+'''W'''
+|[[Pooja Vijay Sahasrabudhe]]
+
+vs
+
+[[Moumita Alam]]
+
+11–4 11–5 11–7
+
+'''W'''
+|[[Shamini Kumaresan]]
+
+vs
+
+[[Rahima Akhter]]
+
+11–3 11–5 11–5
+
+'''W'''
+|[[Madhurika Patkar]]
+
+vs
+
+[[Snigaha Sultana]]
+
+11–2 11–5 11–7
+|
+|
+|-
+|7 February 2016
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+'''Final'''
+|3–0
+'''W'''
+
+{{gold01}}
+|[[Manika Batra]]
+
+vs
+
+[[Rahila Kashif]]
+
+11–2 11–6 11–6
+
+'''W'''
+|[[Mouma Das]]
+
+vs
+
+[[Shabnam Bilal]]
+
+11–7 11–4 11–4
+
+'''W'''
+|[[Shamini Kumaresan]]
+
+vs
+
+[[Ayesha Ansari]]
+
+11–3 11–3 11–7
+
+'''W'''
+|
+|
+|}
+'''Singles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!Semifinal
+!Final
+!Rank
+|-
+|[[Manika Batra]]
+|[[Ishara Madhurangi]]
+
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+12–10 9–11 11–2 11–5 11–8
+
+'''W'''
+|[[Mouma Das]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+13–11, 10–12, 11–7, 11–13, 8–11, 13–11, 9–11
+|{{silver02}}
+|-
+|[[Mouma Das]]
+|[[Ruvini Kannangura]]
+
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–4 11–9 11–3 11–7
+
+'''W'''
+|[[Manika Batra]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–13 12–10 7–11 13–11 11–8 11–13 11–9
+|{{gold01}}
+|}
+'''Doubles:'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!Semifinal
+!Final
+!Rank
+|-
+|[[Mouma Das]] / [[Shamini Kumaresan]]
+|[[Nabita Shrestha]] / [[Elina Maharjan]] 
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+11–4 11–6 11–7
+
+'''W'''
+|[[Manika Batra]] / [[Pooja Vijay Sahasrabudhe]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+7–11 11–13 5–11
+
+'''L'''
+|{{silver02}}
+|-
+|[[Manika Batra]] / [[Pooja Vijay Sahasrabudhe]]
+|[[Ishara Madhurangi]] / [[Erandi]]
+
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+12–10 11–9 11–4
+
+'''W'''
+|[[Mouma Das]] / [[Shamini Kumaresan]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–7 13–11 11–5
+
+'''W'''
+|{{gold01}}
+|}
+
+===Mixed===
+'''Mixed doubles'''
+{| class="wikitable" style="font-size:90%;" style="text-align:center;"
+!Athlete
+!Semifinal
+!Final
+!Rank
+|-
+|[[Anthony Amalraj]] / [[Manika Batra]]
+|[[Udaya Ranasinghe]] / [[Ruvini Kannangura]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–7 10–12 13–11 11–6
+
+'''W'''
+|[[Sathiyan Gunasekaran]] / [[Mouma Das]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+11–5 4–11 11–7 8–11 12–10
+
+'''W'''
+|{{gold01}}
+|-
+|[[Sathiyan Gunasekaran]] / [[Mouma Das]]
+|[[Rohan Sirisena]] / [[Ishara Madhurang]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+11–4 11–13 11–6 11–5
+
+'''W'''
+|[[Anthony Amalraj]] / [[Manika Batra]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+5–11 11–4 7–11 11–8 10–12
+
+'''L'''
+|{{silver02}}
+|}
+
+==Taekwondo==
+{{Main article|Taekwondo at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Event
+!Semifinal
+!Final
+!Rank
+|-
+|[[Abrar Khan]]
+| −54 Kg
+|NA
+|[[Mohsen Razaei]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+'''L'''
+|{{silver02}}
+|-
+|[[Gajendra Parihar]]
+|54–58 Kg
+|NA
+|[[Mahmood Haidari]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+'''L'''
+|{{silver02}}
+|-
+|[[Naveen]]
+|63–68 Kg
+|NA
+|NA
+|{{bronze03}}
+|-
+|[[Manu George]]
+|68–74 Kg
+|NA
+|[[M Sharif Muradi]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+'''L'''
+|{{silver02}}
+|-
+|[[Navjeet Maan]]
+|74–80 Kg
+|NA
+|[[Saksham Karki]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''W'''
+|{{gold01}}
+|-
+|[[P. Anand]]
+|80–87 Kg
+|NA
+|[[Ramesh Hossani]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+'''W'''
+|{{gold01}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Event
+!Semifinal
+!Final
+!Rank
+|-
+|[[Purva Dixit]]
+|46–49 Kg
+|NA
+|[[Y K Chaulagain]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''W'''
+|{{gold01}}
+|-
+|[[Latika Bhandari]]
+|49–53 Kg
+|NA
+|[[Neema Gurung]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''W'''
+|{{gold01}}
+|-
+|[[S Ramchiary]]
+|53–57 Kg
+|NA
+|NA
+|{{bronze03}}
+|-
+|[[Margerita Regi]]
+|57-62Kg
+|NA
+|[[Ayesha Shakya]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+'''W'''
+|{{gold01}}
+|}
+
+==Tennis==
+{{Main article|Tennis at the 2016 South Asian Games}}
+
+===Men===
+'''Singles'''<br>
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Round-1
+!Round-2
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Saketh Myneni]]
+|[[Abdullah Faaih Fazeel]]
+{{flagIOC2team|MDV|2016 South Asian Games}}
+
+6–1 6–0
+
+'''W'''
+|[[Lal D]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+6–0 6–1
+
+'''W'''
+|[[Aisam Ul Haq Quereshi]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–2 6–1
+
+'''W'''
+|[[Ramkumar Ramanathan]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+5–7 2–6
+
+'''L'''
+|{{silver02}}
+|-
+|[[Ramkumar Ramanathan]]
+|[[Samrakshyak Bajr.]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+6–1 6–0
+
+'''W'''
+|[[Aqeel Khan]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–3 6–3
+
+'''W'''
+|[[Shamal Dissanayake]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–4 7–5
+
+'''W'''
+|[[Saketh Myneni]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+7–5 6–2
+
+'''W'''
+|{{gold01}}
+|}
+
+'''Doubles'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Round-1
+!Round-2
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Divij Sharan]] /
+[[Sanam Singh]]
+|Bye
+|Roy / [[Ram (tennis)|Ram]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+6–1 6–1
+
+'''W'''
+|[[Godamanna H]] / [[Dassanayeke S]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–3 6–1
+
+'''W'''
+
+|[[Ramkumar Ramanathan]] / [[Prashanth Vijay Sunder]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+3–6 4–6
+
+'''L'''
+|{{silver02}}
+|-
+|[[Ramkumar Ramanathan]] / [[Prashanth Vijay Sunder]]
+|[[Dipu Lal]] / [[Md. Anwar Hossain]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+6–0 6–2
+
+'''W'''
+||[[Aisam Qureshi]] / [[Aqeel Khan]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–4 6–1
+
+'''W'''
+|[[Thengarajan D]] / [[Yasitha de Silva|De Silva]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–3 6–1
+
+'''W'''
+
+|[[Divij Sharan]] /
+[[Sanam Singh]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+6–3 6–4
+
+'''W'''
+|{{gold01}}
+|}
+
+===Women===
+'''Singles'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Round-1
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Ankita Raina]]
+|[[Thisuri Molligoda]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–0 6–2
+
+'''W'''
+|[[Sara Mansoor]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–1 6–1
+
+'''W'''
+|[[Prerna Bhambri]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+6–1 6–0
+
+'''W'''
+|{{gold01}}
+|-
+|[[Prerna Bhambri]]
+|[[Bibhuti Karki]]
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+6–0 6–0
+
+'''W'''
+|[[Ushna Suhail]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–1 6–2
+
+'''W'''
+|[[Ankita Rana]]
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+1–6 0–6
+
+'''L'''
+|{{silver02}}
+|}
+
+'''Doubles'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Round-1
+!Round-2
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Prarthana Thombare]] / 
+[[Sarmada Balu]]
+|Bye
+|[[Sara Mansoor]] / Iman Qureshi
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–0 6–2
+
+'''W'''
+|[[Amritha Muttiah]] / [[Medhira Samarasinghe]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–1 6–1
+
+'''W'''
+|[[Rishika Sunkura]] / 
+[[Natasha Palha]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+7–5 2–6 10–4
+
+'''W'''
+|{{gold01}}
+|-
+|[[Rishika Sunkura]] / 
+[[Natasha Palha]]
+|Bye
+|[[Ushna Suhail]] / [[Sarah Mahboob Khan]]
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+6–1 6–2
+
+'''W'''
+|[[Thisuri Molligoda]] / [[Nethmie Waduge]]
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–2 6–0
+
+'''W'''
+|[[Prarthana Thombare]] / 
+[[Sarmada Balu]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+5–7 6–2 4–10
+
+'''L'''
+|{{silver02}}
+|}
+
+===Mixed===
+'''Mixed doubles'''
+{| class="wikitable" style="text-align:center;"
+!Athletes
+!Round-1
+!Round-2
+!Semifinals
+!Finals
+!Rank
+|-
+|[[Ankita Raina]] / 
+[[Divij Sharan]]
+|Bye
+|[[Ram R]] / [[Islam A]]
+{{flagIOC2team|BAN|2016 South Asian Games}}
+
+6–2 6–1
+
+'''W'''
+|[[Aisam Qureshi]] / [[Ushna Suhail]]
+
+{{flagIOC2team|PAK|2016 South Asian Games}}
+
+[[Aisam Qureshi|6–1 6–4]]
+
+'''W'''
+|[[Prarthana Thombare]] /
+[[Sanam Singh]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+6–2 7–6
+
+'''W'''
+|
+{{gold01}}
+|-
+|[[Prarthana Thombare]] /
+[[Sanam Singh]]
+|Bye
+|Magar S / Rawat I M
+{{flagIOC2team|NEP|2016 South Asian Games}}
+
+6–0 6–0
+
+'''W'''
+|Godamanna / Muttiah
+{{flagIOC2team|SRI|2016 South Asian Games}}
+
+6–3 6–1
+
+'''W'''
+|[[Ankita Raina]] / 
+[[Divij Sharan]]
+
+{{flagIOC2team|IND|2016 South Asian Games}}
+
+2–6 6–7
+
+'''L'''
+|{{silver02}}
+|}
+
+==Triathlon==
+{{Main article|Triathlon at the 2016 South Asian Games}}
+
+===Men===
+'''Individual'''
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Timing
+!Rank
+|-
+|[[Dilip Kumar]]
+|2:02:53
+|{{gold01}}
+|-
+|[[Guru Datt]]
+|2:05:31
+|{{silver02}}
+|}
+
+===Women===
+'''Individual'''
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Timing
+!Rank
+|-
+|[[Pallawi Retiwala]]
+|1:11:57
+|{{gold01}}
+|-
+|[[Pooja Chaurushi]]
+|1:12:26
+|{{silver02}}
+|}
+
+===Mixed===
+'''Mixed Relay'''
+{| class="wikitable" style="text-align:center"
+!Athlete
+!Timing
+!Rank
+|-
+|[[Pallawi Retiwala]]
+[[Dilip Kumar]]
+
+[[Sorohni DeviI Thoudam]]
+
+[[Dhiraj Sawant]]
+|01:24:31
+|{{gold01}}
+|}
+
+==Volleyball==
+{{Main article|Volleyball at the 2016 South Asian Games}}
+
+===Men===
+1.[[G.R. Vaishnav]],<br>
+2.[[Naveen Raja Jacob]],<br>
+3.[[Ukkrapandian]],<br>
+4.[[Lavmeet Kataria]],<br>
+5.[[Karthik (volleyball)|Karthik]],<br>
+6.[[Prabagaran]],<br>
+7.[[Prabakaran Pattani]],<br>
+8.[[Hardeep Singh (volleyball)|Hardeep Singh]],<br>
+9.[[Gurinder Singh (volleyball)|Gurinder Singh]],<br>
+10.[[Vinit Kumar (volleyball)|Vinit Kumar]],<br>
+11.[[Ranjit Singh (volleyball)|Ranjit Singh]], <br>
+12.[[C. Jerome Vinith]]<br>
+Head coach: G.E. Sridharan.
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Set-1
+!|Set-2
+!|Set-3
+!|Set-4
+!|Set-5
+!|Result
+|-align=center
+| 6 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|25–15
+|25–16
+|25–16
+| 
+|
+| '''Win'''
+|-
+|7 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|25–19
+|25–18
+|25–19
+|
+|
+|'''Win'''
+|-
+|8 February 2016
+'''Semifinal'''
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|MDV|2016 South Asian Games}}
+|25–17
+|25–20
+|25–19
+|
+|
+|'''Win'''
+|-
+|9 February 2016
+'''Final'''
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|25–19
+|25–22
+|28–26
+|
+|
+|'''Win'''
+{{gold01}}
+|}
+
+===Women===
+1.[[Tiji Raju]],<br>
+2.[[S. Rekha]],<br>
+3.[[M. Sruthi]],<br>
+4.[[K.S. Jini]], <br>
+5.[[Anusri Ghosh]],<br>
+6.[[K.S. Smisha]],<br>
+7.[[Nirmal (volleyball)|Nirmal]],<br>
+8.[[M.S. Poornima]],<br>
+9.[[Preeti Singh (volleyball)|Preeti Singh]],<br>
+10.[[Priyanka Khedkar]],<br>
+11.[[Terin Antony]],<br>
+12.[[P. Narmada]]<br>
+Head coach: [[R.P. Tailor]]
+{| class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+!|Date
+!|
+!|Score
+!|
+!|Set-1
+!|Set-2
+!|Set-3
+!|Set-4
+!|Set-5
+!|Result
+|-align=center
+| 6 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|MDV|2016 South Asian Games}}
+|25–9
+|25–9
+|25–10
+| 
+|
+| '''Win'''
+|-
+|7 February 2016
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|PAK|2016 South Asian Games}}
+|25–5
+|25–7
+|25–6
+|
+|
+|'''Win'''
+|-
+|8 February 2016
+'''Semifinal'''
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|NEP|2016 South Asian Games}}
+|25–10
+|25–9
+|25–15
+|
+|
+|'''Win'''
+|-
+|9 February 2016
+'''Final'''
+|{{flagIOC2team|IND|2016 South Asian Games}}
+|3–0
+|{{flagIOC2team|SRI|2016 South Asian Games}}
+|25–14
+|25–21
+|25–14
+|
+|
+|'''Win'''<br>{{gold01}}
+|}
+
+==Weightlifting==
+{{Main article|Weightlifting at the 2016 South Asian Games}}
+
+===Women===
+{|class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+|-
+!|Athlete
+!|Event
+!|Snatch
+!|Clean & Jerk
+!|Total
+!|Rank
+|-
+|[[Saikhom Mirabai Chanu]]
+|[[Weightlifting at the 2016 South Asian Games – Women's 48 kg|Women's 48 kg]]
+|style="text-align:center;" |79	
+|style="text-align:center;" |90
+|style="text-align:center;" |169
+|style="text-align:center;" |{{gold01}}
+|-
+|[[Harshdeep Kaur (weightlifter)|Harshdeep Kaur]]
+|[[Weightlifting at the 2016 South Asian Games – Women's 53 kg|Women's 53 kg]]
+|style="text-align:center;" | 73
+|style="text-align:center;" |98
+|style="text-align:center;" |171
+|style="text-align:center;" |{{gold01}}
+|-
+|[[Saraswati Raut]]
+|[[Women's 58 Kg]]
+|80
+|107
+|187
+|{{gold01}}
+|-
+|[[Reena (weightlifter)|Reena]]
+|[[Women's 63 Kg]]
+|89
+|NM
+|NM
+|NR
+|-
+|[[Rakhi Haler]]
+|[[Women's 69 Kg]]
+|86
+|108
+|194
+|{{gold01}}
+|-
+|[[Kavita Devi (wrestler)|Kavita Devi]]
+|[[Women's 75 Kg]]
+|92
+|118
+|210
+|{{gold01}}
+|-
+|[[Sushila Panwar]]
+|[[Women's 75+ Kg]]
+|88
+|110
+|198
+|{{gold01}}
+|}
+
+===Men===
+{|class="wikitable" border="1" style="font-size:90%;" style="text-align:center;"
+|-
+!|Athlete
+!|Event
+!|Snatch
+!|Clean & Jerk
+!|Total
+!|Rank
+|-
+|[[Guru Raja]]
+|[[Weightlifting at the 2016 South Asian Games – Men's 56 kg|Men's 56 kg]]
+|style="text-align:center;" |104	
+|style="text-align:center;" |137
+|style="text-align:center;" |241
+|style="text-align:center;" |{{gold01}}
+|-
+|[[Gopal Anbarasu]]
+|[[Weightlifting at the 2016 South Asian Games – Men's 62 kg|Men's 62 kg]]
+|style="text-align:center;" |110	
+|style="text-align:center;" |NM
+|style="text-align:center;" |NM
+|style="text-align:center;" |NR
+|-
+|[[Sambo Lapung]]
+|[[Weightlifting at the 2016 South Asian Games – Men's 69 kg|Men's 69 kg]]
+|style="text-align:center;" |123	
+|style="text-align:center;" |158
+|style="text-align:center;" |281
+|style="text-align:center;" |{{gold01}}
+|-
+|[[Ajay Singh (weightlifter)|Ajay Singh]]
+|[[Men's 77 Kg]]
+|136
+|169
+|305
+|{{gold01}}
+|-
+|[[Vikas Thakur]]
+|[[Men's 85 Kg]]
+|140
+|160
+|300
+|{{gold01}}
+|-
+|[[Pardeep Singh]]
+|[[Men's 94 Kg]]
+|145
+|186
+|331
+|{{gold01}}
+|-
+|[[Victor Abilash Christopher]]
+|[[Men's 105 Kg]]
+|135
+|182
+|317
+|{{gold01}}
+|-
+|Gurdeep Singh
+|[[Men's 105+ Kg]]
+|155
+|190
+|345
+|{{silver02}}
+|}
+
+==Wrestling==
+{{Main article|Wrestling at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Event
+!Opponent 
+!Score
+!Opponent 
+!Score
+!Opponent 
+!Score
+!Opponent
+!Score
+!Result
+|-
+|[[Ravindra (wrestler)|Ravindra]]
+|57 Kg Freestyle
+|NIL
+|NIL
+|NIL
+|NIL
+|[[Faisal (wrestler)|Faisal]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|11–0
+'''W'''
+|[[Mohammad Bilal (wrestler)|Mohammad Bilal]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|5–0
+'''W''' 
+|{{gold01}}
+|-
+|[[Pradeep (wrestler)|Pradeep]]
+|61 Kg Freestyle
+|NIL
+|NIL
+|[[Rum Fernato]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|11–0
+'''W'''
+|[[Ali Mohd]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|12–2
+'''W'''
+|[[Abdul Wahali]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|10–0
+'''W'''
+|{{gold01}}
+|-
+|[[Rajneesh (wrestler)|Rajneesh]]
+|65 Kg Freestyle
+|NIL
+|NIL
+|[[Zamir (wrestler)|Zamir]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|10–0
+'''W'''
+|[[W. M. C. Parera]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Nadar (wrestler)|Nadar]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|11–0
+'''W'''
+|{{gold01}}
+|-
+|[[Amit Kumar Dhankar]]
+|70 Kg Freestyle
+|[[TKS Madurunga]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|10–0
+'''W'''
+|[[Mohammed Ali Amzad]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|10–0
+'''W'''
+|[[Malak Jan]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|10–0
+'''W'''
+|[[Baijnath Yadav]]<br>{{flagIOC2team|NEP|2016 South Asian Games}}
+|10–0
+'''W'''
+|{{gold01}}
+|-
+|[[Pradeep (wrestler)|Pradeep]]
+|74 Kg Freestyle
+|NIL
+|NIL
+|NIL
+|NIL
+|[[B R Rathnayanka]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|10–1
+'''W'''
+|[[Mohd. Azad Butt]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|6–3
+'''W'''
+|{{gold01}}
+|-
+|[[Gopal Yadav]]
+|86 Kg Freestyle
+|NIL
+|NIL
+|NIL
+|NIL
+|[[Mohammed Ali Amzad|Mohammed A Rahman]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|11–0
+'''W'''
+|[[Mohammad Imam]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|4–10
+'''L'''
+|{{silver02}}
+|-
+|[[Mausam Khatri]]
+|97 Kg Freestyle
+|NIL
+|NIL
+|[[AMPS Adikari]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Mohammad Umair]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|12–0
+'''W'''
+|[[Rajeb Naseri]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|12–2
+|{{gold01}}
+|-
+|[[Mandeep Singh (wrestler)|Mandeep]]
+|125 Kg Freestyle
+|[[R Rasoole]]<br>{{flagIOC2team|AFG|2016 South Asian Games}}
+|2–1
+'''W'''
+|[[Zamam Anwar]]<br>{{flagIOC2team|PAK|2016 South Asian Games}}
+|11–5
+'''L'''
+|[[Mongno Marma]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Satinra Prasad]]<br>{{flagIOC2team|NEP|2016 South Asian Games}}
+|7–0
+'''W'''
+|{{silver02}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Event 
+!Opponent
+!Score
+!Opponent
+!Score
+!Opponent
+!Score
+!Result
+|-
+|[[Priyanka Singh]]
+|48 Kg Freestyle
+|[[Nadi Chamka]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|6–0
+'''W'''
+|[[S. P. S. Niroshani]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Sumitra]]<br>{{flagIOC2team|NEP|2016 South Asian Games}}
+|2–0
+'''W'''
+|{{gold01}}
+|-
+|[[Mamata (wrestler)|Mamata]]
+|53 Kg Freestyle
+|[[Nadi Chamka|Nasima Akhtar]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|5–0
+'''W'''
+|[[Ishwarinath]]<br>{{flagIOC2team|NEP|2016 South Asian Games}}
+|2–0
+'''W'''
+|[[PPak Wijesinghe]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|{{gold01}}
+|-
+|[[Archana Tomar]]
+|55 Kg Freestyle
+|[[Sarmila Rai]] <br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|2–0
+'''W'''
+|[[M. W. M. P. Kumari]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|6–0
+'''W'''
+|[[S. Chaowdhary]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|6–0
+'''W'''
+|{{gold01}}
+|-
+|[[Manju Kumari]]
+|58 Kg Freestyle
+|[[Luximi Kattri]]<br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|10–0
+'''W'''
+|[[Tanjina Masudi]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[WMDDK Weerbahu]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|10–0
+'''W'''
+|{{gold01}}
+|-
+|[[Manisha (wrestler)|Manisha]]
+|60 Kg Freestyle
+|[[M. W. D. M. Priyanka Kumari]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|6–0
+'''W'''
+|[[Rina Khatar]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|6–0
+'''W'''
+|[[X Kabita]] <br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|2–0
+'''W'''
+|{{gold01}}
+|-
+|[[Shilpi Seron]]
+|63&nbsp;kg Freestyle
+|[[Santi Choudhary]]<br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|2–0
+'''W'''
+|[[Farzana Shamrin]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|2–0
+'''W'''
+|[[Ramm Rupa Singh]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|{{gold01}}
+|-
+|Rajani
+|69 Kg Freestyle
+|[[Shirin Sultana]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|8–0
+'''W'''
+|[[GG Senevera]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Lila Singh]]<br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|4–0
+'''W'''
+|{{gold01}}
+|-
+|[[Nikki (wrestler)|Nikki]]
+|75 Kg Freestyle
+|[[Min Khutn]]<br>{{flagIOC2team|BAN|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[Bhanu Thapalia]]<br> {{flagIOC2team|NEP|2016 South Asian Games}}
+|4–0
+'''W'''
+|[[WPCKR WeeraSingh]]<br>{{flagIOC2team|SRI|2016 South Asian Games}}
+|6–0
+'''W'''
+|{{gold01}}
+|}
+
+==Wushu==
+{{Main article|Wushu at the 2016 South Asian Games}}
+
+===Men===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+!Event
+!Points
+!Rank
+|-
+|[[Anjul Namdeo]]
+|[[Wushu at the 2016 South Asian Games|Taolu-Changquan]]
+|8.66
+|{{bronze03}}
+|}
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Points
+! rowspan="2" |Total
+! rowspan="2" |Rank
+|-
+|'''Nanquan'''
+|'''Nangun'''
+|-
+|[[M. Punshiva Meitei]]
+|[[Taolu- Nanquan & Nangun]] 
+|9.4
+|9.2
+|18.6
+|{{gold01}}
+|}
+{| class="wikitable"
+!Athletes
+!Event
+!Total Points
+!Rank
+|-
+|[[Chirag Sharma]]
+|[[Taolu- Daoshu & Gunshu]] 
+|18.42
+|{{gold01}}
+
+|}
+{| class="wikitable"
+!Athletes
+!Event
+!Total Points
+!Rank
+|-
+|[[M Gyandash Singh]]
+|[[Taolu-Taijiquan & Taijijian]]
+|18.53
+|{{gold01}}
+
+|}
+{| class="wikitable"
+!Athletes
+!Event
+!Opponent
+!Rank
+|-
+|[[Uchit Sharma]]
+|[[Sanshou Men's 52Kg]]
+|
+|{{gold01}}
+|-
+|[[Ravi panchal]]
+|[[Sanshou Men's 56Kg]]
+|
+|{{gold01}}
+|-
+|[[Surya Bhanu Pratap Singh]]
+|[[Sanshou Men's 60Kg]]
+|
+|{{gold01}}
+|-
+|[[Arun Nagar]]
+|[[Sanshou Men's 65Kg]]
+|
+|{{bronze03}}
+|-
+|[[Mukesh Choudhary Gora|Mukesh Choudhary]]
+|[[Sanshou Men's 70Kg]]
+|
+|{{silver02}}
+|-
+|[[Pradeep Kumar (wushu)|Pradeep Kumar]]
+|[[Sanshou Men's 75Kg]]
+|
+|{{bronze03}}
+|}
+
+===Women===
+{| class="wikitable" style="text-align:center;"
+!Athlete
+|'''Event'''
+!Points
+!Rank
+|-
+|[[Y Sapana Devi]]
+|[[Wushu at the 2016 South Asian Games|Taolu-Changquan]]
+|9.45
+|{{gold01}}
+|}
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Points
+! rowspan="2" |Total
+! rowspan="2" |Rank
+|-
+|'''Nanquan'''
+|'''Nandao'''
+|-
+|[[Swechcha Jatav]]
+|[[Taolu- Nanquan & Nando]] 
+|8.2
+|8.13
+|16.33
+|{{silver02}}
+
+|}
+{| class="wikitable"
+!Athletes
+!Event
+!Total Points
+!Rank
+|-
+|[[L Sanatombi Chanu]]
+|[[Taolu-Taijiquan & Taijijian]]
+|18.62
+|{{gold01}}
+
+|}
+{| class="wikitable"
+!Athlete
+!Event
+!Opponent
+!Result
+|-
+|[[Y. Sanathoi Devi]]
+|[[Sanshou Women's 56 Kg]]
+|
+|{{gold01}}
+|-
+|[[Anupama Devi]]
+|[[Sanshou Women's 60 Kg]]
+|
+|{{gold01}}
+|-
+|[[Puja Kadian]]
+|[[Sanshou Women's 70 Kg]]
+|
+|{{gold01}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2016 South Asian Games}}
+
+[[Category:Nations at the 2016 South Asian Games]]
+[[Category:India at the South Asian Games|2016]]

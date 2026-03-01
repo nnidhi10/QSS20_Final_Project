@@ -1,0 +1,53 @@
+{{short description|None}}
+
+Twelve men's teams and eight women's teams qualified for [[Water polo at the 2008 Summer Olympics]].
+
+== Men ==
+{{main|Water polo at the 2008 Summer Olympics – Men's tournament}}
+
+{| class="wikitable" 
+! Water Polo Men !! Date !! Host !! Vacancies !! Qualified
+|-
+| Host nation || – || – || align="center"|1 || {{flagicon|CHN}} [[China men's national water polo team|China]]
+|-
+| [[Water polo at the 2007 World Aquatics Championships – Men's tournament|2007 FINA World Championships]] || Mar 17 – Apr 1, 2007 || {{flagicon|AUS}} [[Melbourne]] ||  align="center"|3 ||{{flagicon|CRO}} [[Croatia national water polo team|Croatia]]<br>{{flagicon|HUN}} [[Hungary national water polo team|Hungary]]<br>{{wp|ESP}}
+|-
+| [[2007 FINA Men's Water Polo World League|2007 World League]] || Jul 3 – Aug 12, 2007 || {{flagicon|GER}} [[Berlin]]^ || align="center"|1 ||{{flagicon|SRB|2004}} [[Serbia national water polo team|Serbia]]
+|-
+| [[2007 European Water Polo Olympic Qualification Tournament|European Qualification Tournament]] || Sep 2–9, 2007 || {{flagicon|SVK}} [[Bratislava]]  || align="center"|1 ||{{flagicon|MNE}} [[Montenegro national water polo team|Montenegro]]
+|-
+| [[Water polo at the 2007 Pan American Games|2007 Pan American Games]] || Jul 13–29, 2007 || {{flagicon|BRA}} [[Rio de Janeiro]] || align="center"|1 || {{flagicon|USA}} [[United States men's national water polo team|United States]]
+|-
+| [http://www.australianwaterpolo.com.au/content/view/431/1 Oceania Qualification Tournament] {{Webarchive|url=https://web.archive.org/web/20080801155344/http://www.australianwaterpolo.com.au/content/view/431/1 |date=2008-08-01 }} || Nov 30 – Dec 2, 2007 || {{flagicon|NZL}} [[Auckland]] || align="center"|1 || {{flagicon|AUS}} [[Australia national water polo team|Australia]]
+|-
+| [[2008 Men's Water Polo Olympic Qualifier|Olympic Qualification Tournament]] || Mar 2–9, 2008 || {{flagicon|ROM}} [[Oradea]] || align="center"|4 || {{flagicon|GER}} [[Germany men's national water polo team|Germany]] <br/> {{flagicon|ITA}} [[Italy men's national water polo team|Italy]] <br/> {{flagicon|GRE}} [[Greece men's national water polo team|Greece]] <br/> {{flagicon|CAN}} [[Canada men's national water polo team|Canada]]
+|-
+! TOTAL !! colspan="2"| !! 12 !!
+|}
+^Berlin is the host of the super-final only.
+
+== Women ==
+{{main|Water polo at the 2008 Summer Olympics – Women's tournament}}
+
+{| class="wikitable" 
+! Water Polo Women !! Date !! Host !! Vacancies !! Qualified
+|-
+| Host nation || – || – || align="center"|1 || {{flagicon|CHN}} [[China women's national water polo team|China]]
+|-
+| [[2007 Women's European Water Polo Olympic Qualifier|European Qualification Tournament]] || Aug 19–26, 2007 || {{flagicon|RUS}} [[Kirishi]] || align="center"|1 ||{{flagicon|NED}} [[Netherlands women's national water polo team|Netherlands]]
+|-
+| [[Water polo at the 2007 Pan American Games|2007 Pan American Games]] || Jul 13–29, 2007 || {{flagicon|BRA}} [[Rio de Janeiro]] || align="center"|1 ||{{flagicon|USA}} [[United States women's national water polo team|United States]]
+|-
+| [http://www.australianwaterpolo.com.au/content/view/440/1 Oceania Qualification Tournament] {{Webarchive|url=https://web.archive.org/web/20080731030806/http://www.australianwaterpolo.com.au/content/view/440/1 |date=2008-07-31 }} || Dec 17–19, 2007 || {{flagicon|AUS}} [[Brisbane]] || align="center"|1 || {{flagicon|AUS}} [[Australia women's national water polo team|Australia]]
+|-
+| [[2008 Women's Water Polo Olympic Qualifier|Olympic Qualification Tournament]]|| Feb 17–24, 2008 || {{flagicon|ITA}} [[Imperia (city)|Imperia]] || align="center"|4 ||{{flagicon|ITA}} [[Italy women's national water polo team|Italy]]<br>{{flagicon|RUS}} [[Russia women's national water polo team|Russia]] <br>{{flagicon|HUN}} [[Hungary women's national water polo team|Hungary]]<br>{{flagicon|GRE}} [[Greece women's national water polo team|Greece]]
+|-
+! TOTAL !! colspan="2"| !! 8 !!
+|}
+
+{{Qualification for the 2008 Summer Olympics}}
+
+{{DEFAULTSORT:Water polo at the 2008 Summer Olympics - Qualification}}
+[[Category:2008 in water polo|Olympic]]
+[[Category:Qualification for the 2008 Summer Olympics]]
+[[Category:Water polo at the 2008 Summer Olympics|Q]]

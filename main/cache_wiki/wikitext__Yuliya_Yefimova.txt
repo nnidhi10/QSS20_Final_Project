@@ -1,0 +1,939 @@
+{{short description|Russian swimmer}}
+{{Use dmy dates|date=July 2019}}
+{{family name hatnote|Yefimova|Efimova|lang=Slavic}}
+{{Infobox swimmer
+| name = Yuliya Yefimova
+| image = Yulia Efimova MoscowTass 08-2016cr.jpg
+| image_size = 
+| alt = 
+| caption = Yefimova in 2016
+| fullname = Yuliya Andreyevna Yefimova
+| nicknames = 
+| national_team = Russia
+| birth_date = {{birth date and age|1992|4|3|df=y}}
+| birth_place = [[Grozny]], [[Chechen Republic of Ichkeria|Chechen Republic]]<ref name=sr>{{cite Sports-Reference |url=https://www.sports-reference.com/olympics/athletes/ye/yuliya-yefimova-1.html|archive-url=https://web.archive.org/web/20200417090300/https://www.sports-reference.com/olympics/athletes/ye/yuliya-yefimova-1.html|url-status=dead|archive-date=2020-04-17}}</ref>
+| death_date = 
+| death_place = 
+| height = 1.78 m<ref name="London2012">{{citation |url=http://www.london2012.com/athlete/efimova-iuliia-1016284/ |title=Iuliia Efimova |website=London2012.com |access-date=8 September 2016 |url-status=dead |archive-date=26 April 2013 |archive-url=https://web.archive.org/web/20130426062447/http://www.london2012.com/athlete/efimova-iuliia-1016284/ }}</ref>
+| weight = 64 kg<ref name="London2012" />
+| strokes = [[Breaststroke]], [[Medley swimming|individual medley]]
+| club = Volgodonsk Swim Club
+| coach = [[Dave Salo]]<br>{{Small|Formerly}} [[Andrey Yefimov]]
+| medaltemplates = 
+{{MedalCountry | {{RUS}} }}
+{{MedalCompetition | [[Swimming at the Summer Olympics|Olympic Games]] }}
+{{MedalSilver | {{GamesName|SOG|2016|Swimming}} | [[Swimming at the 2016 Summer Olympics – Women's 100 metre breaststroke|{{nowrap|100 m breaststroke}}]] }}
+{{MedalSilver | {{GamesName|SOG|2016|Swimming}} | [[Swimming at the 2016 Summer Olympics – Women's 200 metre breaststroke|{{nowrap|200 m breaststroke}}]] }}
+{{MedalBronze | {{GamesName|SOG|2012|Swimming}} | [[Swimming at the 2012 Summer Olympics – Women's 200 metre breaststroke|{{nowrap|200 m breaststroke}}]] }}
+{{MedalCompetition | [[FINA World Aquatics Championships|World Championships (LC)]] }}
+{{MedalGold | [[2009 World Aquatics Championships|2009 Rome]] | [[Swimming at the 2009 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]] }}
+{{MedalGold | [[2013 World Aquatics Championships|2013 Barcelona]] | [[Swimming at the 2013 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]] }}
+{{MedalGold | 2013 Barcelona | [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]] }}
+{{MedalGold | [[2015 World Aquatics Championships|2015 Kazan]] | [[Swimming at the 2015 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]] }}
+{{MedalGold | [[2017 World Aquatics Championships|2017 Budapest]]|[[Swimming at the 2017 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]}}
+{{MedalGold | [[2019 World Aquatics Championships|2019 Gwangju]]|[[Swimming at the 2019 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]}}
+{{MedalSilver | 2009 Rome | [[Swimming at the 2009 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]] }}
+{{MedalSilver | [[2011 World Aquatics Championships|2011 Shanghai]] | [[Swimming at the 2011 World Aquatics Championships – Women's 50 metre breaststroke|50&nbsp;m breaststroke]] }}
+{{MedalSilver | 2011 Shanghai | [[Swimming at the 2011 World Aquatics Championships – Women's 200 metre breaststroke|200&nbsp;m breaststroke]] }}
+{{MedalSilver | 2013 Barcelona | [[Swimming at the 2013 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]] }}
+{{MedalSilver | 2017 Budapest | [[Swimming at the 2017 World Aquatics Championships – Women's 50 metre breaststroke|50 m  breaststroke]] }}
+{{MedalSilver | 2017 Budapest | [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalSilver | 2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]}}
+{{MedalBronze | 2013 Barcelona | [[Swimming at the 2013 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] }}
+{{MedalBronze | 2015 Kazan | [[Swimming at the 2015 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]] }}
+{{MedalBronze | 2017 Budapest | [[Swimming at the 2017 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]}}
+{{MedalBronze | 2019 Gwangju|[[Swimming at the 2019 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]}}
+{{MedalCompetition | [[FINA World Swimming Championships (25 m)|World Championships (SC)]] }}
+{{MedalBronze | [[2008 FINA World Swimming Championships (25 m)|{{nowrap|2008 Manchester}}]] | 200 m breaststroke }}
+{{MedalCompetition | [[LEN European Aquatics Championships|European Championships (LC)]] }}
+{{MedalGold | [[2008 European Aquatics Championships|2008 Eindhoven]] | 200 m breaststroke }}
+{{MedalGold | [[2010 European Aquatics Championships|2010 Budapest]] | 50 m breaststroke }}
+{{MedalGold | 2010 Budapest | 100 m breaststroke }}
+{{MedalGold|[[2018 European Aquatics Championships|2018 Glasgow]]|[[Swimming at the 2018 European Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]}}
+{{MedalGold|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]}}
+{{MedalGold|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]}}
+{{MedalGold|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalSilver | 2008 Eindhoven | 50 m breaststroke }}
+{{MedalSilver | 2008 Eindhoven | 4×100 m medley }}
+{{MedalSilver|2018 Glasgow|[[Swimming at the 2018 European Aquatics Championships – Mixed 4 × 100 metre medley relay|4×100 m mixed medley]]}}
+{{MedalSilver|[[2020 European Aquatics Championships|2020 Budapest]]|[[Swimming at the 2020 European Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]]}}
+{{MedalBronze | 2020 Budapest | [[Swimming at the 2020 European Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]}}
+{{MedalBronze | 2020 Budapest | [[Swimming at the 2020 European Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]}}
+{{MedalCompetition | [[European Short Course Swimming Championships|European Championships (SC)]] }}
+{{MedalGold | [[2007 European Short Course Swimming Championships|2007 Debrecen]] | 50 m breaststroke }}
+{{MedalGold | 2007 Debrecen | 100 m breaststroke }}
+{{MedalGold | 2007 Debrecen | 200 m breaststroke }}
+{{MedalCompetition | [[Swimming at the Summer Universiade|Universiade]] }}
+{{MedalGold | [[Swimming at the 2013 Summer Universiade|2013 Kazan]] | 50 m breaststroke }}
+{{MedalGold | 2013 Kazan | 100 m breaststroke }}
+{{MedalGold | 2013 Kazan | 200 m breaststroke }}
+{{MedalGold | 2013 Kazan | 4×100 m medley }}
+}}
+
+'''Yuliya Andreyevna Yefimova''' ({{langx|ru|Юлия Андреевна Ефимова}}, also [[Romanization of Russian|romanized]] '''Efimova'''; born 3 April 1992) is a Russian competitive [[Swimming (sport)|swimmer]]. She is the [[List of Russian records in swimming|Russian record]] holder in the 200 metre [[Medley swimming|individual medley]] ([[Short course (swimming)|short course]]), 50 metre [[breaststroke]] (short course and [[Olympic-size swimming pool|long course]]), 100 metre breaststroke (short course and long course), and 200 metre breaststroke (short course and long course). After making her Olympic debut in [[2008 Summer Olympics|2008]], she went on to win the bronze medal in the [[Swimming at the 2012 Summer Olympics – Women's 200 metre breaststroke|200 metre breaststroke]] in [[2012 Summer Olympics|2012]], and silver medals in the [[Swimming at the 2016 Summer Olympics – Women's 100 metre breaststroke|100 metre]] and [[Swimming at the 2016 Summer Olympics – Women's 200 metre breaststroke|200 metre breaststroke]] in [[2016 Summer Olympics|2016]]. She is a six-time [[List of World Aquatics Championships medalists in swimming (women)|World Champion]], winning the 50 metre breaststroke in [[Swimming at the 2009 World Aquatics Championships – Women's 50 metre breaststroke|2009]] and [[Swimming at the 2013 World Aquatics Championships – Women's 50 metre breaststroke|2013]], the 100 metre breaststroke in [[Swimming at the 2015 World Aquatics Championships – Women's 100 metre breaststroke|2015]], and the 200 metre breaststroke in [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre breaststroke|2013]], [[Swimming at the 2017 World Aquatics Championships – Women's 200 metre breaststroke|2017]], and [[Swimming at the 2019 World Aquatics Championships – Women's 200 metre breaststroke|2019]]. In 2019, she became the first woman to win the 200 metre breaststroke at a [[FINA World Aquatics Championships]] three times. She is a former [[List of world records in swimming|world record]] holder in the long course [[World record progression 50 metres breaststroke|50 metre breaststroke]]. She has won 109 medals, including 48 gold medals, at [[FINA Swimming World Cup|Swimming World Cups]].
+
+After failing a drug test, Yefimova was disqualified from competition for 16 months, from October 2013 to February 2015, was stripped of her results and medals at the [[2013 European Short Course Swimming Championships|2013 European Short Course Championships]], and four of her world short-course records were invalidated.
+
+==Personal life==
+Yefimova was born in [[Grozny]]. However, due to the [[First Chechen War]], her family moved to [[Volgodonsk]] soon after. There she took up swimming at the age of six, coached by her father [[Andrey Yefimov]].<ref name=nbc /> Until 2011, she lived in [[Taganrog]], where she trained under Irina Vyatchanina and studied at the [[Southern Federal University]].<ref name=nbc>[http://results.nbcolympics.com/athletes/athlete=efimova-yulia-7260002/index.html Yulia Efimova] {{Webarchive|url=https://web.archive.org/web/20161011064017/http://results.nbcolympics.com/athletes/athlete=efimova-yulia-7260002/index.html |date=11 October 2016 }}. nbcolympics.com/</ref> In March 2011, she moved to [[California]], United States, where she was coached by [[Dave Salo]], the head coach of the [[University of Southern California]] swimming team.<ref>{{cite web |url=https://www.sport-express.ru/swimming/reviews/794411/ |title=Ефимова уехала тренироваться в США |trans-title=Yefimova moved to USA for training |publisher=Sport-Express |date=6 March 2011 |access-date=9 August 2016 |language=ru}}</ref>
+
+==Career==
+===2007–2009: World record at 17 years of age===
+Yefimova's first notable achievement was winning the 50&nbsp;metre, 100&nbsp;metre, and 200&nbsp;metre breaststroke titles at the [[2007 European Short Course Swimming Championships]]. At 15 years of age, she set her first [[List of European records in swimming|European record]] and [[List of Russian records in swimming|Russian national record]] in the short course 200 metre breaststroke with her time of 2:19.08 in the final that won her the gold medal in the event.<ref name="LEN14Dec2007">[[LEN]] (14 December 2007). [https://www.omegatiming.com/File/000107000027000000FFFFFFFFFFFF01.pdf "European Short Course Swimming Championships Debrecen 2007: Women's 200m Breaststroke Finals Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref> At the [[2008 European Aquatics Championships]] she was the gold medalist in the 200&nbsp;metre breaststroke and the silver medalist in the 50&nbsp;metre breaststroke. Yefimova competed at the [[2008 Summer Olympics]] in [[Beijing]] when she was 16, placing fourth in the [[Swimming at the 2008 Summer Olympics – Women's 100 metre breaststroke|100&nbsp;metre breaststroke]] and fifth in the [[Swimming at the 2008 Summer Olympics – Women's 200 metre breaststroke|200&nbsp;metre breaststroke]].<ref name=sr /> In the prelims heats of the 100 metre breaststroke, she ranked second overall, swimming a new European record and Russian record time of 1:06.08 and finishing behind only [[Leisel Jones]] of [[Australia]].<ref name="USAS2008r">[https://www.usaswimming.org/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2008-olympic-games.pdf "2008 Olympic Games Results"]. ''[[USA Swimming]]''. 2008. Retrieved 19 October 2021.</ref> At the [[2009 World Aquatics Championships]] in [[Rome]], [[Italy]], Yefimova won the gold medal in the [[Swimming at the 2009 World Aquatics Championships – Women's 50 metre breaststroke|50&nbsp;metre breaststroke]] in a [[List of world records in swimming|world record]] time of 30.09 seconds at 17 years of age.<ref name="FINA2Aug2009">[[FINA]] (2 August 2009). [https://www.omegatiming.com/File/0001090B0067000000FFFFFFFFFFFF01.pdf "13th FINA World Championships 2009 Rome (ITA): Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 17 October 2021.</ref>
+
+===2010–2013===
+Yefimova won gold medals at the [[2010 European Aquatics Championships]] in the 50 metre and 100 metre breaststroke events. The following year, at the [[2011 World Aquatics Championships]], she won the silver medal in the [[Swimming at the 2011 World Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]] with a Russian record time of 2:22.22, finishing less than one second behind the gold medalist in the event [[Rebecca Soni]] of the [[United States]].<ref name="FINA29Jul2011"/><ref name="DN29Jul2011">[https://www.deseret.com/2011/7/29/20206538/ryan-lochte-wins-3rd-and-4th-golds-at-swim-worlds "Ryan Lochte wins 3rd and 4th golds at swim worlds"]. ''[[Deseret News]]''. 29 July 2011. Retrieved 24 May 2022.</ref><ref name="Reuters24May2022">[https://www.reuters.com/article/swimming-world-women-breaststroke/swimming-soni-wins-200-breaststroke-world-title-completes-100-200-double-idUSL3E7IT1A820110729 "Swimming-Soni wins 200 breaststroke world title, completes 100-200 double"]. ''[[Reuters]]''. 29 July 2011. Retrieved 24 May 2022.</ref><ref name="TN29Jul2011">[https://www.taiwannews.com.tw/en/news/1666522 "Soni wins women's 200 breaststroke at worlds"]{{Dead link|date=May 2023 |bot=InternetArchiveBot |fix-attempted=yes }}. ''[[Taiwan News]]''. 29 July 2011. Retrieved 24 May 2022.</ref> In 2012, she earned the bronze medal in the [[Swimming at the 2012 Summer Olympics – Women's 200 metre breaststroke|200 metre breaststroke]] at the [[2012 Summer Olympics]] with a new European record time of 2:20.92.<ref name="USAS2012r">[[Omega Timing]]; [[Atos]]; [[Acer Inc.|Acer]] (10 August 2012). [https://www.usaswimming.org/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2012-olympic-games.pdf "2012 Olympic Games: Official results book Swimming"]. ''[[USA Swimming]]''. Retrieved 19 October 2021.</ref> A year later, at the [[2013 World Aquatics Championships]] in [[Barcelona]], Yefimova triumphed in the 200 metre breaststroke with a time of 2:19.41.<ref name="FINA2Aug2013">[[FINA]] (2 August 2013). [https://www.omegatiming.com/File/00010D020101021F02FFFFFFFFFFFF02.pdf "15th FINA World Championships Barcelona (ESP): Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref> In the 50 metre breaststroke prelims heats, she achieved a new [[World record progression 50 metres breaststroke|world record]] of 29.78 seconds.<ref name="FINA3Aug2013">[[FINA]] (3 August 2013). [https://www.omegatiming.com/File/00010D020101021D00FFFFFFFFFFFF02.pdf "15th FINA World Championships 2013 Barcelona (ESP): Women's 50m Breaststroke Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 17 October 2021.</ref> She won the finals, finishing first in 29.52 seconds.<ref name="OTfin50br2013WAC">[http://www.omegatiming.com/File/Download?id=00010D020101021D02FFFFFFFFFFFF02 Women's 50m Breaststroke Final]. 5th FINA WORLD CHAMPIONSHIPS Barcelona (ESP) 19 July – 4 August 2013. [[Omega Timing]].</ref>
+
+===Suspension, disqualifications===
+In January 2014, it was announced that Yefimova had failed an out of competition drug test in October 2013.<ref name="suspension">{{cite news |title=Yuliya Efimova Banned for 16 Months; Stripped of World Records |url=https://www.swimmingworldmagazine.com/news/yuliya-efimova-banned-for-16-months-stripped-of-world-records/ |access-date=12 August 2016 |work=[[Swimming World]] |date=13 May 2014}}</ref> Her positive test was for [[DHEA]], an [[endogenous]] [[steroid hormone]] banned in professional sports.<ref name="en.ria.ru">[http://en.ria.ru/sports/20140117/186628638/Russian-Olympic-Medal-Winning-Swimmer-Yefimova-Fails-Doping-Test.html Russian Olympic Medal-Winning Swimmer Efimova Fails Doping Test – Report]. En.ria.ru (17 January 2014). Retrieved 8 September 2016.</ref> On 13 May 2014, she was disqualified by [[FINA]] for 16 months, from 31 October 2013 to 28 February 2015.<ref name="suspension" /><ref name="en.itar-tass.com">{{cite news |url=http://en.itar-tass.com/sports/731362 |title=Russian swimmer Yulia Yefimova disqualified for 1 year and 4 months for doping |date=13 May 2014 |agency=[[Information Telegraph Agency of Russia]] |access-date=13 May 2014}}</ref> She was stripped of her results and medals at the [[2013 European Short Course Swimming Championships|2013 European Short Course Championships]]. Her four world short-course records (two relays and the 50 metre and 200 metre breaststroke set in November/December 2013) were also invalidated.<ref name="suspension" /><ref>{{cite web |title=Omega Timing – Results – FINA Swimming World Cup 2013 Tokyo 7/8 Tokyo Japan 11/9/2013 – 11/10/2013 |url=http://www.omegatiming.com/File/Download?id=00010D020B01021D02FFFFFFFFFFFF02 |publisher=[[Omega Timing]] |access-date=10 November 2013}}</ref><ref>{{cite web |url=http://84.33.2.65/Herning2013/pdf/Results_day2_A.pdf |title=2013 European Short Course Swimming Championships. Results Day 2 |publisher=[[LEN]] |access-date=13 December 2013 |archive-date=8 December 2015 |archive-url=https://web.archive.org/web/20151208063440/http://84.33.2.65/Herning2013/pdf/Results_day2_A.pdf |url-status=dead }}</ref><ref>[https://www.swimmingworldmagazine.com/news/yuliya-efimova-banned-for-16-months-stripped-of-world-records/ "Yuliya Efimova Banned for 16 Months; Stripped of World Records"]. ''[[Swimming World]]''. 13 May 2014. Retrieved 13 August 2016.</ref>
+
+===2015 World Aquatics Championships===
+{{see also|Swimming at the 2015 World Aquatics Championships}}
+[[File:Kazan 2015 - Efimova before her 100m breast final.JPG|thumb|upright|right|Yefimova during the 100 m event at the [[2015 World Aquatics Championships]]]]
+In August 2015, after 16 months of disqualification due to the positive drug test, Yefimova competed at the [[Swimming at the 2015 World Aquatics Championships|World Aquatics Championships]] in [[Kazan]]. She won a gold medal in the [[Swimming at the 2015 World Aquatics Championships – Women's 100 metre breaststroke|100 metre breaststroke]] with a time of 1:05.66 that was seven tenths of a second faster than the next fastest swimmer, [[Rūta Meilutytė]] of [[Lithuania]].<ref name="FINA4Aug2015">[[FINA]] (4 August 2015). [https://www.omegatiming.com/File/00010F020001021E02FFFFFFFFFFFF02.pdf "16th FINA World Championships Kazan (RUS): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 16 October 2021.</ref> In the [[Swimming at the 2015 World Aquatics Championships – Women's 50 metre breaststroke|50 metre breaststroke]] Yefimova won the bronze medal at 30.13 seconds.<ref name="FINA9Aug2015">[[FINA]] (9 August 2015). [https://www.omegatiming.com/File/00010F020001021D02FFFFFFFFFFFF02.pdf "16th FINA World Championships Kazan (RUS): Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 16 October 2021.</ref> In the [[Swimming at the 2015 World Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]] she placed 17th in the prelims heats with a time of 2:26.11 and did not advance to the semifinals.<ref name="FINA6Aug2015">[[FINA]] (6 August 2015). [https://www.omegatiming.com/File/00010F020001021F00FFFFFFFFFFFF02.pdf "16th FINA World Championships Kazan (RUS): Women's 200m Breaststroke Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 16 October 2021.</ref> She also placed fifth in the [[Swimming at the 2015 World Aquatics Championships – 4 × 100 metre mixed medley relay|4 × 100 metre mixed medley relay]], splitting a 1:05.46 for the breaststroke leg of the relay.<ref name="FINA5Aug2015">[[FINA]] (5 August 2015). [https://www.omegatiming.com/File/00010F020002043E02FFFFFFFFFFFF02.pdf "16th FINA World Championships Kazan (RUS): Mixed 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 16 October 2021.</ref>
+
+===2016===
+Between 15 February and 30 March 2016, Yefimova tested positive for [[meldonium]] six times in total.<ref name="FINA2">{{cite news |last1=FINA |first1=Communications Department |title=July 15, 2016 FINA Statement on Yulia Efimova |url=https://www.fina.org/news/statement-yulia-efimova-rus |access-date=16 August 2016 |publisher=[[FINA]] |date=15 July 2016}}</ref> She was provisionally suspended from international competition by the [[International Swimming Federation]] (FINA) on 14 March.<ref name="FINA1">{{cite news |last1=FINA |first1=Communications Department |title=May 15, 2016, PR 46 – FINA statement on Ms Yulia Efimova |url=https://www.fina.org/news/pr-46-fina-statement-ms-yulia-efimova-rus |access-date=16 August 2016 |publisher=[[FINA]] |date=16 July 2016}}</ref> With no research on how long the drug stayed in a person's system, she was not banned or given a suspension.<ref>{{cite web |last1=Rogers |first1=Martin |title=U.S. swimmer Lilly King calls out Russian drug cheat with strong words, finger wag |url=https://www.usatoday.com/story/sports/2016/08/07/finger-pointing-sets-up-us-russian-womens-swim-showdown/88381764/|work=[[USA Today]] |access-date=9 August 2016 |date=8 August 2016}}</ref><ref name="NBC_olympics">{{cite news |agency=Associated Press |title=Russian swimmer Yulia Efimova on 100m breaststroke start list |url=http://www.nbcolympics.com/news/russian-swimmer-yulia-efimova-100m-breaststroke-start-list |access-date=7 August 2016 |publisher=[[NBC Olympics]] |date=6 August 2016 |archive-date=31 July 2017 |archive-url=https://web.archive.org/web/20170731221203/http://www.nbcolympics.com/news/russian-swimmer-yulia-efimova-100m-breaststroke-start-list |url-status=dead }}</ref><ref name="FINA_3">{{cite news |last1=FINA |first1=Communications Department |title=July 15, 1016 FINA Statement on Yulia Efimova |url=https://www.fina.org/news/statement-yulia-efimova-rus |access-date=16 August 2016 |publisher=[[FINA]] |date=15 July 2016}}</ref> In June 2016, Yefimova returned to competition at the [[Los Angeles]] Invitational, winning the 200 metre breaststroke with a time of 2:22.77.<ref>{{cite web |url=https://www.swimmingworldmagazine.com/news/yuliya-efimova-returns-to-competition-in-los-angeles/ |title=Yuliya Efimova Returns to Competition in Los Angeles |date=17 July 2016 |publisher=[[Swimming World]] |access-date=17 July 2016}}</ref>
+
+====2016 Summer Olympics====
+{{See also|Swimming at the 2016 Summer Olympics}}
+
+Yefimova was the silver medalist at the [[2016 Summer Olympics]] in the [[Swimming at the 2016 Summer Olympics – Women's 100 metre breaststroke|100 metre breaststroke]] and [[Swimming at the 2016 Summer Olympics – Women's 200 metre breaststroke|200 metre breaststroke]].<ref>{{cite web |url=http://www.championat.com/olympic/article-253474-olimpiada-2016-kak-juliju-efimovu-travili-na-press-konferencii-posle-medali.html |title=Одна капля сочувствия. Почему Юля Ефимова – повод для гордости |trans-title=A Mite of Consolation. Why Yuliya Yefimova is a Ground for Pride |publisher=Championat.com |language=ru |author=Yevgeny Slyusarenko |author-link=Yevgeny Slyusarenko |date=9 August 2016 |access-date=9 August 2016 |archive-date=22 November 2016 |archive-url=https://web.archive.org/web/20161122190516/https://www.championat.com/olympic/article-253474-olimpiada-2016-kak-juliju-efimovu-travili-na-press-konferencii-posle-medali.html |url-status=dead }}</ref><ref>{{cite news |title=Rie Kaneto wins gold in women's 200m breaststroke |url=http://www.nbcolympics.com/video/rie-kaneto-wins-gold-womens-200m-breaststroke |access-date=12 August 2016 |publisher=[[NBC Olympics]] |date=11 August 2016 |archive-date=24 October 2016 |archive-url=https://web.archive.org/web/20161024222952/http://www.nbcolympics.com/video/rie-kaneto-wins-gold-womens-200m-breaststroke |url-status=dead }}</ref> She also helped set a new Russian national record as part of the [[Swimming at the 2016 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 metre medley relay]] that placed sixth with a time of 3:55.66 in the finals, splitting the fastest breaststroke leg of all finals relays with a time of 1:04.98.<ref name="Mendes19Aug16">Mendes, Rodrigo (19 August 2016). [https://library.olympic.org/Default/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?parentDocumentId=165312&documentId=165357 "Rio 2016 Swimming 6 - 13: Results Book"]. ''[[Omega Timing]]''; ''[[Atos]]''. Version 1.1. Retrieved 19 October 2021.</ref>
+
+Yefimova's participation in the 2016 Summer Olympics was controversial due to [[Russia at the 2016 Summer Olympics#Russian doping scandal|doping within the Russian Olympic team]].<ref name="NBC_olympics" /><ref>{{Cite web|url=https://www.vox.com/2016/8/9/12408430/yulia-efimova-lilly-king-olympics-swimming|title = How Russian swimmer Yulia Efimova became the Olympics' biggest villain|date = 9 August 2016}}</ref> She was initially banned from participation due to her previous doping suspension,<ref>{{cite news |last1=Baldwin |first1=Alan |title=Efimova, six other Russians ruled out of Rio |url=https://www.reuters.com/article/us-olympics-rio-swimming-russia-idUSKCN1051RU |access-date=7 August 2016 |work=[[Reuters]] |date=25 July 2016}}</ref> but this ban was overturned by the [[Court of Arbitration for Sport]],<ref>{{cite news |title=Rio 2016 Olympics: Yulia Efimova cleared to compete after appeal |url=https://www.bbc.com/sport/olympics/36998249 |access-date=12 August 2016 |work=[[BBC Sport]] |date=6 August 2016}}</ref> allowing her to compete. During the Games, she was booed by spectators during each of her races.<ref>{{Cite web|url=https://www.themoscowtimes.com/2016/08/09/russian-swimmer-yefimova-gets-second-silver-and-lilly-kings-apologies-a54912|title = Russian Swimmer Yefimova Breaks Down After Silver Medal Win|date = 9 August 2016}}</ref> Yefimova was also criticized for taking performance-enhancing drugs by other swimmers, including [[Lilly King]], who won the gold medal in the 100 metre breaststroke. Yefimova won the silver, and during the news conference afterwards, she was "on the verge of tears from the opening question about the boos directed at her."<ref name=nyt>Clarey, Christopher; Crouse, Karen (9 August 2016) [https://www.nytimes.com/2016/08/10/sports/olympics/doping-swimming-russia-lilly-king-yulia-efimova.html?_r=0 "In the Olympic Pool, Contempt for Drug Cheats Rises to the Surface"]. ''[[The New York Times]]''.</ref><ref>{{cite news |title=American Beats Russian Swimming Star Yefimova Amid Snipes Over Doping |url=https://www.rferl.org/content/american-lilly-king-beats-russian-swimming-star-yefimova-amid-snipes-over-doping/27909945.html |access-date=11 August 2016 |publisher=Radio Free Europe/Radio Liberty |date=11 August 2016}}</ref> After Yefimova won silver in the 100 metre breaststroke, [[ESPN]] pushed back directly against her presence at the 2016 Olympic Games, stating "Yulia Efimova shouldn't have been in Rio at all".<ref name="Ford8Aug2016">Ford, Bonnie D. (8 August 2016). [https://www.espn.com/olympics/swimming/story/_/id/17252376/2016-rio-olympics-lilly-king-beats-yulia-efimova-controversial-spotlight "Lilly King bangs drum, but others need to clean up the mess"]. ''[[ESPN]]''. Retrieved 16 October 2021.</ref> The treatment of Yefimova was also covered by ''[[The Washington Post]]'', which pointed out the asymmetry in how people responded to Yefimova competing at the 2016 Summer Olympics compared to the response when [[Jessica Hardy]] of the [[United States]] competed at the 2012 Summer Olympics.<ref name="Jenkins10Aug2016">Jenkins, Sally (10 August 2016). [https://www.washingtonpost.com/sports/olympics/in-villifying-russian-swimmer-yulia-efimova-americans-are-splashing-murky-waters/2016/08/10/0ccdba8a-5eef-11e6-8e45-477372e89d78_story.html "In vilifying Russian swimmer Yulia Efimova, Americans are splashing murky waters"]. ''[[The Washington Post]]''. Retrieved 8 December 2021.</ref>
+
+===2017===
+At the 2017 New South Wales State Open Championships in March in [[Sydney]], [[Australia]], Yefimova won the 200 metre breaststroke event with a time of 2:28.80.<ref>{{Cite news|url=https://www.swimmingworldmagazine.com/news/emily-seebohm-yulia-efimova-strong-on-second-day-of-nsw-open-championships/|title=Emily Seebohm, Yulia Efimova Strong on Second Day of NSW Open|date=4 March 2017|work=[[Swimming World]]|access-date=10 April 2017}}</ref> She also won the 100 metre breaststroke with a time of 1:06.55.<ref>{{Cite web|url=https://nsw.swimming.org.au/article.php?group_id=7802&id=2|title=2017 SNSW State Open Championships – Day 1|website=nsw.swimming.org.au|access-date=10 April 2017|archive-date=5 August 2018|archive-url=https://web.archive.org/web/20180805203926/https://nsw.swimming.org.au/article.php?group_id=7802&id=2|url-status=dead}}</ref> A month later, she won the 50 metre breaststroke at the 2017 Russian Championships with a time of 29.88 seconds.<ref>{{Cite web|url=http://www.swimvortex.com/yuliya-efimova-guns-for-more-honours-29-88-dash-books-tickets-to-world-titles/|title=Yuliya Efimova* Guns For More Honours: 29.88 Dash Books Ticket To World Titles|website=SwimVortex|access-date=10 April 2017|archive-date=10 June 2017|archive-url=https://web.archive.org/web/20170610024302/http://www.swimvortex.com/yuliya-efimova-guns-for-more-honours-29-88-dash-books-tickets-to-world-titles/|url-status=dead}}</ref>
+
+====2017 World Aquatics Championships====
+{{see also|Swimming at the 2017 World Aquatics Championships}}
+{{MedalTableTop|name=no|header=[[Swimming at the 2017 World Aquatics Championships – Women's 50 metre breaststroke|2017 World Championships]]}}
+{{MedalGold| [[Swimming at the 2017 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]] | 2:19.64 }}
+{{MedalSilver| [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|50 m breaststroke]] | 29.57 }}
+{{MedalSilver| [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|4×100 m medley]] | 3:53.38 (ER) }}
+{{MedalBronze| [[Swimming at the 2017 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]] | 1:05.05 }}
+{{MedalBottom}}
+
+In July, at the [[Swimming at the 2017 World Aquatics Championships|2017 World Aquatics Championships]] in [[Budapest]], [[Hungary]], Yefimova won the bronze medal in the [[Swimming at the 2017 World Aquatics Championships – Women's 100 metre breaststroke|100 metre breaststroke]] in 1:05.05, finishing 0.92 seconds after the gold medalist, Lilly King, and 0.02 seconds after the silver medalist, [[Katie Meili]].<ref name="FINA25Jul2017f100br">[[FINA]] (25 July 2017). [https://www.omegatiming.com/File/000111010A0203EC04FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 100m Breaststroke Final Results Summary"]. ''[[Omega Timing]]''. Retrieved 12 January 2022.</ref> Her time of 1:04.36 in the semifinals set a new Russian record in the event.<ref name="FINA24Jul2017sf100br"/><ref name="Lepesant24Jul2017">Lepesant, Anne (24 July 2017). [https://swimswam.com/race-video-efimova-misses-100-breast-wr-01-wags-finger/ "Efimova Misses 100 Breast WR By .01 (Then Wags Finger…)"]. ''[[SwimSwam]]''. Retrieved 23 May 2022.</ref><ref name="Ross24Jul2017">Ross, Andy (24 July 2017). [https://www.swimmingworldmagazine.com/news/yulia-efimova-gets-within-0-01-of-100-breast-world-record-in-semi-finals/ "Yulia Efimova Gets Within 0.01 of 100 Breast World Record in Semi-Finals; Lilly King Right Behind Her"]. ''[[Swimming World]]''. Retrieved 23 May 2022.</ref><ref name="Woods24Jul2017">Woods, David (24 July 2017). [https://www.indystar.com/story/sports/2017/07/24/yulia-efimova-wags-back-lilly-king/504839001/ "Lilly King and Yulia Efimova resume finger-wagging battle"]. ''[[The Indianapolis Star|IndyStar]]''. Retrieved 23 May 2022.</ref> Three days later, she won the [[Swimming at the 2017 World Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]] in 2:19.64, which was over two seconds faster than the next fastest swimmer and silver medalist in the event, [[Bethany Galat]], and gave her the fifth World Championships title of her career.<ref name="EFE28Jul2017">[https://www.efe.com/efe/english/destacada/yuliya-efimova-wins-women-s-200m-breaststroke-title-at-budapest/50000261-3338794 "Yuliya Efimova wins women's 200m breaststroke title at Budapest"]. ''[[EFE]]''. 28 July 2017. Retrieved 12 January 2022.</ref><ref name="FINA28Jul2017f200br">[[FINA]] (28 July 2017). [https://www.omegatiming.com/File/000111010A0203EE04FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 200m Breaststroke Final Results Summary"]. ''[[Omega Timing]]''. Retrieved 12 January 2022.</ref><ref name="F2428Jul2017">[https://www.france24.com/en/20170728-efimova-wins-fifth-career-world-swimming-gold "Efimova wins fifth career world swimming gold"]. ''[[France 24]]''. 28 July 2017. Retrieved 12 January 2022.</ref> In the [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 metre medley relay]], Yefimova won a silver medal and set a new European record and a new national record with her relay teammates in a time of 3:53.58; she split the fastest breaststroke leg out of all finals relays by over four tenths of a second with a time of 1:04.03.<ref name="FINA30Jul2017finMRr"/> For the [[Swimming at the 2017 World Aquatics Championships – Women's 50 metre breaststroke|50 metre breaststroke]] Yefimova won the silver medal in a time of 29.57 seconds, which was less than two tenths of a second slower than gold medalist Lilly King and over four tenths of a second faster than bronze medalist Katie Meili.<ref name="FINA30Jul2017f50br">[[FINA]] (30 July 2017). [https://www.omegatiming.com/File/000111010A0203EB04FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 50m Breaststroke Final Results Summary"]. ''[[Omega Timing]]''. Retrieved 12 January 2022.</ref> In the [[Swimming at the 2017 World Aquatics Championships – Women's 200 metre individual medley|200 metre individual medley]], Yefimova placed 14th in the semifinals with a time of 2:12.88 and did not qualify for the final.<ref name="FINA23Jul2017sf200im">[[FINA]] (23 July 2017). [https://www.omegatiming.com/File/000111010A0205EE02FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 200m Individual Medley Semifinals Results Summary"]. ''[[Omega Timing]]''. Retrieved 12 January 2022.</ref>
+
+===2018 European Aquatics Championships===
+In August 2018, at the [[2018 European Aquatics Championships]], held at [[Tollcross International Swimming Centre]] in [[Glasgow]], [[Scotland]], Yefimova won the gold medal in the [[Swimming at the 2018 European Aquatics Championships – Women's 100 metre breaststroke|100 metre breaststroke]] with a [[List of European Championships records in swimming|championships record]] time of 1:05.53 in the final, breaking her own championships record she set in the semifinals at 1:05.87.<ref name="LEN9Aug2018cr">[[LEN]] (9 August 2018). [https://glasgow2018.microplustiming.com/export/NU_Glasgow2018/NU/pdf/Book.pdf?v=002850 "Glasgow 2018 European Aquatics Championships Swimming: Complete Results"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> In the [[Swimming at the 2018 European Aquatics Championships – Mixed 4 × 100 metre medley relay|4 × 100 metre mixed medley relay]], Yefimova split a 1:05.07 for the breaststroke leg of the relay, helping achieve a time of 3:42.71 with [[Kliment Kolesnikov]], [[Svetlana Chimrova]], and [[Vladimir Morozov (swimmer)|Vladimir Morozov]] to win the silver medal and set a new [[List of Russian records in swimming|Russian record]].<ref name="LEN6Aug2018">[[LEN]] (6 August 2018). [https://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMX4X100MMD----------FNL-000100--_73B1%201.0.pdf "2018 LEN European Aquatics Championships Swimming Results: 4 X 100m Medley Relay Mixed Final"]. ''Microplus Informatica''. Retrieved 19 October 2021.</ref><ref name="Sutherland6Aug2018">Sutherland, James (6 August 2018). [https://swimswam.com/2018-european-championships-day-4-finals-live-recap/ "2018 European Championships: Day 4 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 14 December 2021.</ref> Yefimova ranked fourteenth in the prelims heats of the [[Swimming at the 2018 European Aquatics Championships – Women's 200 metre individual medley|200 metre individual medley]], qualified for the semifinals, and withdrew from competition, forgoing competing in the semifinals.<ref name="LEN9Aug2018cr"/> She won the gold medal in the [[Swimming at the 2018 European Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]] with a time of 2:21.31.<ref name="LEN7Aug2018f200br">[[LEN]] (7 August 2018). [https://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMW200MBR------------FNL-000100--_73A1%201.0.pdf "2018 LEN European Aquatics Championships Swimming Results: 200m Breaststroke Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> In the [[Swimming at the 2018 European Aquatics Championships – Women's 50 metre breaststroke|50 metre breaststroke]], Yefimova won the gold medal after setting a championships record of 29.66 seconds in the semifinals.<ref name="LEN9Aug2018cr"/> For the breaststroke leg of the [[Swimming at the 2018 European Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 metre medley relay]], Yefimova split a 1:03.95, helping win the gold medal and set a new championships record at 3:54.22.<ref name="LEN9Aug2018f4100mr">[[LEN]] (9 August 2018). [https://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMW4X100MMD----------FNL-000100--_73B1%201.0.pdf "2018 LEN European Aquatics Championships Swimming Results: 4 X 100m Medley Relay Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> Yefimova was one of three swimmers to win four gold medals at the 2018 European Aquatics Championships along with [[Adam Peaty]] of [[Great Britain]] and [[Sarah Sjöström]] of [[Sweden]].<ref name="Chadband9Aug2018">Chadband, Ian (9 August 2018). [https://www.reuters.com/article/csports-us-european-championships-aquati-idCAKBN1KU2BZ-OCASP "Sjoestroem, Peaty and Efimova end Euros with fourth golds"]. ''[[Reuters]]''. Retrieved 14 December 2021.</ref>
+
+===2019 World Aquatics Championships===
+{{see also|Swimming at the 2019 World Aquatics Championships}}
+{{MedalTableTop|name=no|header=[[Swimming at the 2019 World Aquatics Championships|2019 World Championships]]}}
+{{MedalGold| [[Swimming at the 2019 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]] | 2:20.17 }}
+{{MedalSilver| [[Swimming at the 2019 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]] | 1:05.49 }}
+{{MedalBronze| [[Swimming at the 2019 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]] | 30.15 }}
+{{MedalBottom}}
+
+At the [[2019 World Aquatics Championships]] in [[Gwangju]], [[South Korea]] in July, Yefimova won the silver medal in the [[Swimming at the 2019 World Aquatics Championships – Women's 100 metre breaststroke|100 metre breaststroke]], finishing less than six-tenths of a second behind Lilly King of the United States with a time of 1:05.49.<ref name="FINA23Jul2019">[[FINA]] (23 July 2019). [https://www.omegatiming.com/File/00011301070203EC04FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 14 December 2021.</ref><ref name="Carlson23Jul2019">Carlson, Reid (23 July 2019). [https://swimswam.com/2019-fina-world-aquatics-championships-day-3-finals-live-recap/ "2019 FINA World Aquatics Championships: Day 3 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 14 December 2021.</ref> In the [[Swimming at the 2019 World Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]], Yefimova won the gold medal and became the first woman to win the 200 metre breaststroke world title at a World Aquatics Championships three times, finishing over two seconds ahead of [[Tatjana Schoenmaker]] of [[South Africa]] with a time of 2:20.17.<ref name="FINA26Jul2019">[[FINA]] (26 July 2019). [https://www.omegatiming.com/File/00011301070203EE04FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 14 December 2021.</ref><ref name="Ross26Jul2019">Ross, Andy (26 July 2019). [https://www.swimmingworldmagazine.com/news/yulia-efimova-wins-historic-third-200-breast-world-title-schoenmaker-wins-south-africas-first-womens-worlds-medal/ "Yulia Efimova Wins Historic Third 200 Breast World Title; Schoenmaker Wins South Africa's First Women’s World's Medal"]. ''[[Swimming World]]''. Retrieved 14 December 2021.</ref> Yefimova won the bronze medal in the [[Swimming at the 2019 World Aquatics Championships – Women's 50 metre breaststroke|50 metre breaststroke]], finishing third behind gold medalist Lilly King and silver medalist [[Benedetta Pilato]] of [[Italy]] in 30.15 seconds.<ref name="FINA28Jul2019">[[FINA]] (28 July 2019). [https://www.omegatiming.com/File/00011301070203EB04FFFFFFFFFFFF01.pdf "18th FINA World Championships Gwangju (KOR): Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 14 December 2021.</ref><ref name="OT21Jul2019">OlympicTalk (21 July 2019). [https://olympics.nbcsports.com/2019/07/21/swimming-world-championships-results/ "2019 World Swimming Championships results"]. ''[[NBC Sports]]''. Retrieved 14 December 2021.</ref>
+
+===2020 European Aquatics Championships===
+On 19 May 2021, Yefimova placed fourth in the [[Swimming at the 2020 European Aquatics Championships – Women's 100 metre breaststroke|100 metre breaststroke]] at the [[2020 European Aquatics Championships]] held at [[Danube Arena]] in Budapest, Hungary.<ref name="LEN19May2021f100br">[[LEN]] (19 May 2021). [https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW100MBR------------FNL-000100--_73A1%201.0.pdf "2020 LEN European Aquatics Championships Swimming Results: 100m Breaststroke Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> The next day, Yefimova placed fourth as part of the [[Swimming at the 2020 European Aquatics Championships – Mixed 4 × 100 metre medley relay|4 × 100 metre mixed medley relay]], swimming the breaststroke leg of the relay and helping to finish in a time of 3:43.60.<ref name="LEN20May2021f4100mmr">[[LEN]] (20 May 2021). [https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMX4X100MMD----------FNL-000100--_73B1%201.0.pdf "2020 LEN European Aquatics Championships Swimming Results: 4 x 100m Medley Mixed Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> In the [[Swimming at the 2020 European Aquatics Championships – Women's 200 metre breaststroke|200 metre breaststroke]] final on 21 May 2021, Yefimova won the bronze medal with a time of 2:22.16.<ref name="LEN21May2021f200br">[[LEN]] (21 May 2021). [https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW200MBR------------FNL-000100--_73A1%201.0.pdf "2020 LEN European Aquatics Championships Swimming Results: 200m Breaststroke Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref><ref name="OLYcom17May2021">[https://olympics.com/en/news/2021-european-aquatics-championships-in-budapest-results "2021 European Aquatics Championships in Budapest: Results"]. ''[[Olympics.com]]''. 17 May 2021. Retrieved 14 December 2021.</ref> She won a bronze medal in the [[Swimming at the 2020 European Aquatics Championships – Women's 50 metre breaststroke|50 metre breaststroke]] as well, finishing with a 30.22 after gold medalist Benedetta Pilato and silver medalist [[Ida Hulkko]] of [[Finland]].<ref name="OLYcom17May2021"/><ref name="LEN23May2021f50br">[[LEN]] (23 May 2021). [https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW50MBR-------------FNL-000100--_73A1%201.0.pdf "2020 LEN European Aquatics Championships Swimming Results: 50m Breaststroke Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref> In the [[Swimming at the 2020 European Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 metre medley relay]], Yefimova won a silver medal, splitting a 1:05.77 for the breaststroke leg of the relay.<ref name="LEN23May2021f4100mr">[[LEN]] (23 May 2021). [https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW4X100MMD----------FNL-000100--_73B1%201.0.pdf "2020 LEN European Aquatics Championships Swimming Results: 4 x 100 m Medley Women Final"]. ''Microplus Informatica''. Retrieved 14 December 2021.</ref>
+
+===2020 Summer Olympics===
+{{See also|Swimming at the 2020 Summer Olympics}}
+With her, and all other Russians's, outfit, national song, and cohort name selected by the [[International Olympic Committee]], Yefimova competed in the 2020 Summer Olympic Games for the [[Russian Olympic Committee athletes at the 2020 Summer Olympics|Russian Olympic Committee]].<ref name="Grohmann19Feb2021">Grohmann, Karolos (19 February 2021). [https://www.reuters.com/article/us-olympics-2020-russia/olympics-russia-to-compete-under-roc-acronym-in-tokyo-as-part-of-doping-sanctions-idUSKBN2AJ1UZ "Olympics: Russia to compete under ROC acronym in Tokyo as part of doping sanctions"]. ''[[Reuters]]''. Retrieved 6 November 2022.</ref><ref name="TAP14Apr2021">[[The Associated Press]] (14 April 2021). [https://www.cbc.ca/sports/olympics/olympics-russia-uniform-colours-1.5988161 "No flag allowed, but Russian colors plastered on uniforms for Tokyo Olympics"]. ''[[CBC.ca]]''. Retrieved 6 November 2022.</ref><ref name="OlympicTalk22Apr2021">OlympicTalk (22 April 2021). [https://olympics.nbcsports.com/2021/04/22/tchaikovsky-russia-olympics-anthem/ "Tchaikovsky music replaces Russia anthem at Olympics in Tokyo, Beijing"]. ''[[NBC Sports]]''. Retrieved 6 November 2022.</ref><ref name="IOC1Aug2021"/> These representation items stemmed from the [[Court of Arbitration for Sport]] ban on Russians due to widespread doping in Russia and lasting 24 months from December 2020 to December 2022.<ref name="Dunbar17Dec2020">Dunbar, Graham (17 December 2020). [https://apnews.com/article/russia-banned-name-flag-olympic-games-a8bd342806883f66152859701d5ae5d4 "Russia can't use its name and flag at the next 2 Olympics"]. ''[[The Associated Press]]''. Retrieved 6 November 2022.</ref><ref name="WamKen17Dec2020">Wamsley, Laurel; Kennedy, Merrit (17 December 2020). [https://www.npr.org/2020/12/17/947504052/russia-suspended-from-next-2-olympic-games-over-anti-doping-violations "Russia Gets Its Doping Ban Reduced But Will Miss Next 2 Olympics"]. ''[[NPR]]''. Retrieved 6 November 2022.</ref>
+
+At the [[2020 Summer Olympics]] in [[Tokyo]], Japan, held in the summer of 2021 due to the [[COVID-19 pandemic]], Yefimova competed in two events. For the preliminary heats of the [[Swimming at the 2020 Summer Olympics – Women's 100 metre breaststroke|100 metre breaststroke]], she ranked eighth with a time of 1:06.21 and advanced to the semifinals, where she qualified for the final with a time of 1:06.47 and overall fifth-rank.<ref name="IOC1Aug2021"/> In the final, she placed fifth with her time of 1:06.02.<ref name="ESPN25Jul2021">[https://www.espn.com/olympics/summer/2020/results/_/discipline/39/event/331 "2020 Summer Olympics Results - Swimming: Women's 100m Breaststroke"]. ''[[ESPN]]''. 25 July 2021. Retrieved 23 May 2022.</ref> Her team was seventh in the prelims heats of the [[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 metre medley relay]] and then placed seventh in the finals relay, as well.<ref name="IOC1Aug2021">[[Omega Timing]]; [[Atos]] (1 August 2021). [https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf "Tokyo 2020 Olympic Games: Swimming Results Book"] {{Webarchive|url=https://web.archive.org/web/20210807054827/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf |date=7 August 2021 }}. ''[[International Olympic Committee]]''. Retrieved 17 October 2021.</ref>
+
+===2021 Swimming World Cup===
+====Stop 3: Doha====
+{{MedalTableTop|name=no|header=[[2021 FINA Swimming World Cup|2021 World Cup — Doha]]}}
+{{MedalGold| 200 m breaststroke | 2:22.19 }}
+{{MedalGold| 100 m breaststroke | 1:06.08 }}
+{{MedalGold| 50 m breaststroke | 30.11 }}
+{{MedalBottom}}
+
+Yefimova competed in the third stop of the short course [[2021 FINA Swimming World Cup]] in [[Doha]], [[Qatar]].<ref name="Lohn16Oct2021">Lohn, John (16 October 2021). [https://www.swimmingworldmagazine.com/news/star-powered-field-on-tap-as-fina-world-cup-set-for-move-to-doha/ "Star-Powered Field On Tap As FINA World Cup Set For Move To Doha"]. ''[[Swimming World]]''. Retrieved 16 October 2021.</ref> She joined the competition at the Doha stop, the third of four stops in the year's World Cup circuit, after deciding not to compete at the first two stops.<ref name="Race15Oct2021">Race, Retta (15 October 2021). [https://swimswam.com/doha-stage-set-for-matt-sates-hwang-sunwoo-200free-battle/ "Doha Stage Set For Matt Sates & Hwang Sunwoo 200 Free Battle"]. ''[[SwimSwam]]''. Retrieved 17 October 2021.</ref> Yefimova entered to compete in all breaststroke events available to female swimmers at the Doha stop, which were the 50 metre breaststroke, 100 metre breaststroke, and 200 metre breaststroke races.<ref name="FINA20Oct2021">[[FINA]] (20 October 2021). [https://www.omegatiming.com/File/0001150011FFFFFFFFFFFFFFFFFFFF20.pdf "FINA Swimming World Cup 2021 Doha (QAT): Entries Book"]. ''[[Omega Timing]]''. Retrieved 20 October 2021.</ref>
+
+On the first day of competition, Yefomiva won the gold medal in the final of the 200 metre breaststroke, finishing over one second ahead of the next fastest swimmer with her time of 2:22.19.<ref name="FINA21Oct2021f200br">[[FINA]] (21 October 2021). [https://www.omegatiming.com/File/00011500110203EE04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Doha (QAT): Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 21 October 2021.</ref><ref name="Sutherland21Oct2021fin">Sutherland, James (21 October 2021). [https://swimswam.com/2021-fina-world-cup-doha-day-1-finals-live-recap/ "2021 FINA World Cup — Doha: Day 1 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 21 October 2021.</ref> The next day she backed up her gold medal performance with another, this time winning the gold medal in the 100 metre breaststroke in a time of 1:06.08.<ref name="FINA22Oct2021f100br">[[FINA]] (22 October 2021). [https://www.omegatiming.com/File/00011500110203EC04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Doha (QAT): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 22 October 2021.</ref><ref name="Sutherland22Oct2021fin">Sutherland, James (22 October 2021). [https://swimswam.com/2021-fina-world-cup-doha-day-2-finals-live-recap/ "2021 FINA World Cup — Doha: Day 2 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 22 October 2021.</ref> In her final race of the Doha World Cup stop on day three, Yefimova won her third gold medal, swimming a time of 30.11 seconds in the final of the 50 metre breaststroke to win the event.<ref name="FINA23Oct2021f50br">[[FINA]] (23 October 2021). [https://www.omegatiming.com/File/00011500110203EB04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Doha (QAT): Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 23 October 2021.</ref><ref name="Edmund23Oct2021fin">Edmund, Emma (23 October 2021). [https://swimswam.com/2021-fina-world-cup-doha-day-3-finals-live-recap/ "2021 FINA World Cup — Doha: Day 3 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 23 October 2021.</ref>
+
+====Stop 4: Kazan====
+{{MedalTableTop|name=no|header=[[2021 FINA Swimming World Cup|2021 World Cup — Kazan]]}}
+{{MedalGold| 100 m breaststroke | 1:04.56 }}
+{{MedalSilver| 200 m breaststroke | 2:20.49 }}
+{{MedalSilver| 50 m breaststroke | 29.65 }}
+{{MedalBottom}}
+
+For the fourth and final stop of the World Cup circuit, and Yefimova's second stop, FINA noted her as someone to follow in the breaststroke events before the start of competition on 28 October at the [[Palace of Water Sports]] in [[Kazan]].<ref name="Kamardina25Oct2021">Kamardina, Olga (25 October 2021). [https://www.fina.org/news/2309531/final-leg-of-the-swimming-world-cup-is-ready-to-go-in-kazan "Final leg of the Swimming World Cup is ready to go in Kazan"]. ''[[FINA]]''. Retrieved 26 October 2021.</ref>
+
+In the morning of day one of competition, Yefimova ranked third across all prelims heats in the 200 metre breaststroke with her time of 2:25.54 and qualified for the final in the evening.<ref name="FINA28Oct2021h200br">[[FINA]] (28 October 2021). [https://www.omegatiming.com/File/00011500120203EE01FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 200m Breaststroke Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 28 October 2021.</ref> She finished second in the final with a time of 2:20.49, winning the silver medal in the event.<ref name="FINA28Oct2021f200br">[[FINA]] (28 October 2021). [https://www.omegatiming.com/File/00011500120203EE04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 28 October 2021.</ref><ref name="Sutherland28Oct2021fin">Sutherland, James (28 October 2021). [https://swimswam.com/2021-fina-world-cup-kazan-day-1-finals-live-recap/ "2021 FINA World Cup — Kazan: Day 1 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 28 October 2021.</ref> The following morning, on 29 October, Yefimova advanced to the final ranked second for the 100 metre breaststroke from the prelims heats where she swam a 1:06.24.<ref name="FINA29Oct2021h100br">[[FINA]] (29 October 2021). [https://www.omegatiming.com/File/00011500120203EC01FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 100m Breaststroke Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 29 October 2021.</ref> She dropped almost two seconds off her time from the prelims heats to win the gold medal in the final of the 100 metre breaststroke with a time of 1:04.56 that was one-hundredth of a second faster than the second-place finisher.<ref name="FINA29Oct2021f100br">[[FINA]] (29 October 2021). [https://www.omegatiming.com/File/00011500120203EC04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 29 October 2021.</ref><ref name="Sutherland29Oct2021fin">Sutherland, James (29 October 2021). [https://swimswam.com/2021-fina-world-cup-kazan-day-2-finals-live-recap/ "2021 FINA World Cup — Kazan: Day 2 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 29 October 2021.</ref> On the last day of World Cup competition, Yefimova ranked first in the prelims heats of the 50 metre breaststroke with a time of 30.21, two-hundredths of a second ahead of the next-fastest competitor.<ref name="FINA30Oct2021h50br">[[FINA]] (30 October 2021). [https://www.omegatiming.com/File/00011500120203EB01FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 50m Breaststroke Heats Results Summary"]. ''[[Omega Timing]]''. Retrieved 30 October 2021.</ref> In the final of the 50 metre breaststroke, she won the silver medal with a time of 29.65 seconds, one-hundredth of a second behind the gold medal winner in the event, [[Nika Godun]].<ref name="FINA30Oct2021f50br">[[FINA]] (30 October 2021). [https://www.omegatiming.com/File/00011500120203EB04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2021 Kazan (RUS): Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 30 October 2021.</ref><ref name="Race30Oct2021fin">Race, Retta (30 October 2021). [https://swimswam.com/2021-fina-world-cup-kazan-day3-finals-live-recap/ "2021 FINA World Cup Kazan: Day 3 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 30 October 2021.</ref> When points were summed across all four World Cup stops, Yefimova ranked tenth in terms of overall score for female competitors, second for female competitors from a country that hosted at least one World Cup stop, and first for female Russian competitors.<ref name="FINArank30Oct2021">[https://www.fina.org/competitions/1383/fina-swimming-world-cup-2021/rankings?scoringId=3af19871-08a2-49a4-95a7-c4b161d366ed "FINA Swimming World Cup: Women Individual Ranking 2021 - Rankings"]. ''[[FINA]]''. 30 October 2021. Retrieved 30 October 2021.</ref> Her total of six medals, four gold medals and two silver medals, ranked her eighth in total medals won by a female competitor.<ref name="Takata1Nov2021">Takata, Daniel (1 November 2021). [https://swimswam.com/the-swimmers-with-the-most-medals-at-the-2021-fina-world-cup/ "The Swimmers With The Most Medals At The 2021 FINA World Cup"]. ''[[SwimSwam]]''. Retrieved 1 November 2021.</ref>
+
+===2022–2023===
+Yefimova was impacted by a nationality ban enacted by [[LEN]] and implemented on 3 March 2022, which permanently banned all Russians and Belarusians from their competitions, including the [[2022 European Aquatics Championships]], with no date of re-entry communicated at the time the ban took effect.<ref name="LEN3Mar2022">[http://www.len.eu/?p=19198 "LEN agrees not to invite Russian and Belarusian teams and supports Ukrainian athletes"] {{Webarchive|url=https://web.archive.org/web/20220303202413/http://www.len.eu/?p=19198 |date=3 March 2022 }}. ''[[LEN]]''. 3 March 2022. Retrieved 31 October 2022.</ref> The second ban for her nationality came from [[FINA]], which barred all Russians and Belarusians from their competitions effective 21 April 2022 and lasting at least through 31 December 2022.<ref name="Koos21Apr2022">Koos, Torin (21 April 2022). [https://www.fina.org/news/2584646/press-release-fina-bureau-meets-acknowledges-decision-to-suspend-russian-swimmer-evgeny-rylov "PRESS RELEASE | FINA Bureau meets, acknowledges decision to suspend Russian swimmer Evgeny Rylov"]. ''[[FINA]]''. Retrieved 31 October 2022.</ref> For non-FINA events from which she and other Russians were not banned, their times did not count towards world rankings nor world records.<ref name="Keith23Apr2022">Keith, Braden (23 April 2022). [https://swimswam.com/russia-confirms-that-suspended-rylov-will-be-allowed-at-russian-championships/ "Russia Confirms that Suspended Rylov Will Be Allowed at Russian Championships"]. ''[[SwimSwam]]''. Retrieved 6 November 2022.</ref> In April 2023, [[World Aquatics]] (formerly FINA) provided clarity that it had extended its 2022 ban in a back-acting manner, and the sanctions were indefinitely still in effect.<ref name="WAqua5Apr2023">[https://www.worldaquatics.com/news/3137952/press-release-world-aquatics-bureau-meets-discusses-the-status-of-athletes-from-russia-and-belarus "PRESS RELEASE | World Aquatics Bureau meets, discusses the status of athletes from Russia and Belarus"]. ''[[World Aquatics]]''. 5 April 2023. Retrieved 17 April 2023.</ref>
+
+==Olympic Games and world championships results==
+{| {{AchievementTable|width=auto|Event=yes}}
+|-
+! colspan=6 | Representing {{RUS}}
+|-
+| rowspan=4 | 2008
+| rowspan=4 | [[2008 FINA World Swimming Championships (25 m)|World Championships (SC)]]
+| rowspan=4 | [[Manchester]], United Kingdom
+| DSQ
+| 50 m breaststroke
+| —
+|-
+| 5th
+| 100 m breaststroke
+| 1:05.71
+|-
+| style="background:#c96;" | 3rd
+| 200 m breaststroke
+| 2:20.48
+|-
+| 5th
+| 4 × 100 m medley relay
+| 3:58.38
+|-
+| rowspan=3 | 2008
+| rowspan=3 | [[Swimming at the 2008 Summer Olympics|Olympic Games]]
+| rowspan=3 | [[Beijing]], China
+| 4th
+| [[Swimming at the 2008 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:07.43
+|-
+| 5th
+| [[Swimming at the 2008 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:23.76
+|-
+| 5th
+| [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+| 3:57.84
+|-
+| rowspan=3 | 2009
+| rowspan=3 | [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+| rowspan=3 | [[Rome]], Italy
+| bgcolor=gold | 1st
+| [[Swimming at the 2009 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+| 30.09
+|-
+| style="background:silver;" | 2nd
+| [[Swimming at the 2009 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:05.41
+|-
+| 14th (sf)
+| [[Swimming at the 2009 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:26.39
+|-
+| rowspan=4 | 2011
+| rowspan=4 | [[Swimming at the 2011 World Aquatics Championships|World Championships]]
+| rowspan=4 | [[Shanghai]], China
+| style="background:silver;" | 2nd
+| [[Swimming at the 2011 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+| 30.49
+|-
+| 4th
+| [[Swimming at the 2011 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:06.56
+|-
+| style="background:silver;" | 2nd
+| [[Swimming at the 2011 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:22.22
+|-
+| 4th
+| [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+| 3:57.38
+|-
+| rowspan=3 | 2012
+| rowspan=3 | [[Swimming at the 2012 Summer Olympics|Olympic Games]]
+| rowspan=3 | [[London]], United Kingdom
+| 7th
+| [[Swimming at the 2012 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:06.98
+|-
+| style="background:#c96;" | 3rd
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:20.92
+|-
+| 4th
+| [[Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100  m medley relay]]
+| 3:56.03
+|-
+| rowspan=4 | 2013
+| rowspan=4 | [[Swimming at the 2013 World Aquatics Championships|World Championships]]
+| rowspan=4 | [[Barcelona]], Spain
+| bgcolor=gold | 1st
+| [[Swimming at the 2013 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+| 29.52
+|-
+| style="background:silver;" | 2nd
+| [[Swimming at the 2013 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:05.02
+|-
+| bgcolor=gold | 1st
+| [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:19.41
+|-
+| style="background:#c96;" | 3rd
+| [[Swimming at the 2013 World Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+| 3:56.47
+|-
+| rowspan=4 | 2015
+| rowspan=4 | [[Swimming at the 2015 World Aquatics Championships|World Championships]]
+| rowspan=4 | [[Kazan]], Russia
+| style="background:#c96;" | 3rd
+| [[Swimming at the 2015 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+| 30.13
+|-
+| bgcolor=gold | 1st
+| [[Swimming at the 2015 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:05.66
+|-
+| 17th (h)
+| [[Swimming at the 2015 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:26.11
+|-
+| 5th
+| [[Swimming at the 2015 World Aquatics Championships – 4 × 100 metre mixed medley relay|4 × 100 m mixed medley relay]]
+| 3:44.83
+|-
+| rowspan=3 | 2016
+| rowspan=3 | [[Swimming at the 2016 Summer Olympics|Olympic Games]]
+| rowspan=3 | [[Rio de Janeiro]], Brazil
+| style="background:silver;" | 2nd
+| [[Swimming at the 2016 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+| 1:05.50
+|-
+| style="background:silver;" | 2nd
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+| 2:21.97
+|-
+| 6th
+| [[Swimming at the 2016 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+| 3:55.66
+|-
+|rowspan=5|2017
+|rowspan=5|[[Swimming at the 2017 World Aquatics Championships|World Championships]]
+|rowspan=5|[[Budapest]], Hungary
+|bgcolor=silver|2nd
+|[[Swimming at the 2017 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+|29.57
+|-
+|bgcolor=cc9966|3rd
+|[[Swimming at the 2017 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:05.05
+|-
+|bgcolor=gold|1st
+|[[Swimming at the 2017 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+|2:19.64
+|-
+|14th (sf)
+|[[Swimming at the 2017 World Aquatics Championships – Women's 200 metre individual medley|200 m individual medley]]
+|2:12.88
+|-
+|bgcolor=silver|2nd
+|[[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|3:53.38
+|-
+|rowspan=3|2019
+|rowspan=3|[[Swimming at the 2019 World Aquatics Championships|World Championships]]
+|rowspan=3|[[Gwangju]], Korea
+|bgcolor=cc9966|3rd
+|[[Swimming at the 2019 World Aquatics Championships – Women's 50 metre breaststroke|50 m breaststroke]]
+|30.15
+|-
+|bgcolor=silver|2nd
+|[[Swimming at the 2019 World Aquatics Championships – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:05.49
+|-
+|bgcolor=gold|1st
+|[[Swimming at the 2019 World Aquatics Championships – Women's 200 metre breaststroke|200 m breaststroke]]
+|2:20.17
+|-
+|rowspan=2|2021
+|rowspan=2|[[Swimming at the 2020 Summer Olympics|Olympic Games]]
+|rowspan=2|[[Tokyo]], Japan
+|5th
+|[[Swimming at the 2020 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:06.02
+|-
+|7th
+|[[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|3:56.93
+|-
+!colspan=6|<small>'''(#) Indicates overall position achieved in the qualifying heats (h) or semifinals (sf)'''</small>
+|}
+
+==Career best times==
+===Long course metres (50 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Notes
+! Ref
+|-
+| 50&nbsp;m breaststroke
+| align="center" | '''29.52'''
+| 
+| [[2013 World Aquatics Championships]]
+| [[Barcelona]], [[Spain]]
+| 4 August 2013
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="OTfin50br2013WAC"/>
+|-
+| 100&nbsp;m breaststroke
+| align="center" | '''1:04.36'''
+| '''sf'''
+| [[2017 World Aquatics Championships]]
+| [[Budapest]], [[Hungary]]
+| 24 July 2017
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA24Jul2017sf100br"/>
+|-
+| 200&nbsp;m breaststroke
+| align="center" | '''2:19.41'''
+| 
+| [[2013 World Aquatics Championships]]
+| Barcelona, Spain
+| 2 August 2013
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA2Aug2013"/>
+|}
+{{Swimmingrecordlegend|NR=yes|nation=Russian}}
+
+===Short course metres (25 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! Meet
+! Location
+! Date
+! Notes
+! Ref
+|-
+| 50&nbsp;m breaststroke
+| align="center" | '''29.08'''
+| [[2016 FINA Swimming World Cup]]
+| [[Berlin]], [[Germany]]
+| 31 August 2016
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA31Aug2016"/>
+|-
+| 100&nbsp;m breaststroke
+| align="center" | '''1:02.91'''
+| [[2016 FINA Swimming World Cup]]
+| [[Moscow]]
+| 3 September 2016
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA3Sep2016f100br"/>
+|-
+| 200&nbsp;m breaststroke
+| align="center" | '''2:15.62'''
+| [[2018 FINA Swimming World Cup]]
+| [[Eindhoven]], [[Netherlands]]
+| 28 September 2018
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA28Sep2018f200br"/>
+|-
+| 200&nbsp;m individual medley
+| align="center" | '''2:06.79'''
+| [[2016 FINA Swimming World Cup]]
+| Moscow
+| 3 September 2016
+| '''[[List of Russian records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINA3Sep2016f1200im"/>
+|}
+<span style="font-size:95%">Legend: '''NR''' — [[List of Russian records in swimming|Russian record]]</span>
+
+==Swimming World Cup circuits==
+The following medals Yefimova has won at [[FINA Swimming World Cup|Swimming World Cup]] circuits.<ref name="FINAmedals">[https://www.fina.org/athletes/1010658/yuliya-efimova/medals "Yuliya Efimova: Medals"]. ''[[FINA]]''. Retrieved 9 July 2022.</ref>
+
+{| class="wikitable"
+|-
+! Edition !! Gold medals !! Silver medals !! Bronze medals !! Total 
+|-
+| [[2007 FINA Swimming World Cup|2007]] || style="text-align:center;" | 8 || style="text-align:center;" | 1 || style="text-align:center;" | 0 || style="text-align:center;" | 9 
+|-
+| [[2010 FINA Swimming World Cup|2010]] || style="text-align:center;" | 4 || style="text-align:center;" | 1 || style="text-align:center;" | 0 || style="text-align:center;" | 5 
+|-
+| [[2011 FINA Swimming World Cup|2011]] || style="text-align:center;" | 0 || style="text-align:center;" | 2 || style="text-align:center;" | 2 || style="text-align:center;" | 4 
+|-
+| [[2013 FINA Swimming World Cup|2013]] || style="text-align:center;" | 4 || style="text-align:center;" | 5 || style="text-align:center;" | 0 || style="text-align:center;" | 9 
+|-
+| [[2016 FINA Swimming World Cup|2016]] || style="text-align:center;" | 15 || style="text-align:center;" | 26 || style="text-align:center;" | 10 || style="text-align:center;" | 51 
+|-
+| [[2017 FINA Swimming World Cup|2017]] || style="text-align:center;" | 1 || style="text-align:center;" | 0 || style="text-align:center;" | 1 || style="text-align:center;" | 2 
+|-
+| [[2018 FINA Swimming World Cup|2018]] || style="text-align:center;" | 12 || style="text-align:center;" | 10 || style="text-align:center;" | 1 || style="text-align:center;" | 23 
+|-
+| [[2021 FINA Swimming World Cup|2021]] || style="text-align:center;" | 4 || style="text-align:center;" | 2 || style="text-align:center;" | 0 || style="text-align:center;" | 6 
+|-
+! Total !! style="text-align:center;" | 48 !! style="text-align:center;" | 47 !! style="text-align:center;" | 14 !! style="text-align:center;" | 109 
+|}
+
+==World records==
+===Long course metres===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Age
+! Status
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| 50&nbsp;m breaststroke
+| style="text-align:center;" | '''30.09'''
+| 
+| [[2009 World Aquatics Championships]]
+| [[Rome]], [[Italy]]
+| 2 August 2009
+| style="text-align:center;" | 17
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="FINA2Aug2009"/>
+|-
+| 2
+| 50&nbsp;m breaststroke (2)
+| style="text-align:center;" | '''29.78'''
+| '''h'''
+| [[2013 World Aquatics Championships]]
+| [[Barcelona]], [[Spain]]
+| 3 August 2013
+| style="text-align:center;" | 21
+| style="text-align:center;" | Former
+| style="text-align:center;" | <ref name="FINA3Aug2013"/>
+|}
+<span style="font-size:95%">Legend: '''h''' — heat</span>
+
+==Continental and national records==
+===Long course metres===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Age
+! Type
+! Status
+! Notes
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| 100&nbsp;m breaststroke
+| align="center" | '''1:06.08'''
+| '''h'''
+| [[2008 Summer Olympics]]
+| [[Beijing]], [[China]]
+| align="center" | 10 August 2008
+| align="center" | 16
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="USAS2008r"/>
+|-
+| 2
+| 4 × 100&nbsp;m medley relay
+| align="center" | '''3:57.84'''
+| 
+| 2008 Summer Olympics
+| Beijing, China
+| align="center" | 17 August 2008
+| align="center" | 16
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="USAS2008r"/>
+|-
+| 3
+| 100&nbsp;m breaststroke (2)
+| align="center" | '''1:05.41'''
+| 
+| [[2009 World Aquatics Championships|2009 World Championships]]
+| [[Rome]], [[Italy]]
+| align="center" | 28 July 2009
+| align="center" | 17
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="FINA28Jul2009">[[FINA]] (28 July 2009). [https://www.omegatiming.com/File/0001090B0029000000FFFFFFFFFFFF01.pdf "13th FINA World Championships ROME (ITA): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 4
+| 50&nbsp;m breaststroke
+| align="center" | '''30.09'''
+| 
+| 2009 World Championships
+| Rome, Italy
+| align="center" | 2 August 2009
+| align="center" | 17
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| Former '''[[List of world records in swimming|WR]]'''
+| align="center" | <ref name="FINA2Aug2009"/>
+|-
+| 5
+| 200&nbsp;m breaststroke
+| align="center" | '''2:22.22'''
+| 
+| [[2011 World Aquatics Championships|2011 World Championships]]
+| [[Shanghai]], [[China]]
+| align="center" | 29 July 2011
+| align="center" | 19
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="FINA29Jul2011">[[FINA]] (29 July 2011). [https://www.omegatiming.com/File/00010B0D0051000000FFFFFFFFFFFF01.pdf "14th FINA World Championships Shanghai (CHN): Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 6
+| 4 × 100&nbsp;m medley relay (2)
+| align="center" | '''3:57.38'''
+| 
+| 2011 World Championships
+| Shanghai, China
+| align="center" | 30 July 2011
+| align="center" | 19
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="FINA30Jul2011">[[FINA]] (30 July 2011). [https://www.omegatiming.com/File/00010B0D0064000000FFFFFFFFFFFF01.pdf "14th FINA World Championships Shanghai (CHN): Women's 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 7
+| 200&nbsp;m breaststroke (2)
+| align="center" | '''2:20.92'''
+| 
+| [[2012 Summer Olympics]]
+| [[London]], [[England]]
+| align="center" | 2 August 2012
+| align="center" | 20
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="USAS2012r"/>
+|-
+| 8
+| 4 × 100&nbsp;m medley relay (3)
+| align="center" | '''3:56.03'''
+| 
+| 2012 Summer Olympics
+| London, England
+| align="center" | 4 August 2012
+| align="center" | 20
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="USAS2012r"/>
+|-
+| 9
+| 100&nbsp;m breaststroke (3)
+| align="center" | '''1:05.02'''
+| 
+| [[2013 World Aquatics Championships|2013 World Championships]]
+| [[Barcelona]], [[Spain]]
+| align="center" | 30 July 2013
+| align="center" | 21
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="FINA30Jul2013">[[FINA]] (30 July 2013). [https://www.omegatiming.com/File/00010D020101021E02FFFFFFFFFFFF02.pdf "15th FINA World Championships Barcelona (ESP): Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 10
+| 200&nbsp;m breaststroke (3)
+| align="center" | '''2:19.41'''
+| 
+| 2013 World Championships
+| Barcelona, Spain
+| align="center" | 2 August 2013
+| align="center" | 21
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| 
+| align="center" | <ref name="FINA2Aug2013"/>
+|-
+| 11
+| 50&nbsp;m breaststroke (2)
+| align="center" | '''29.78'''
+| '''h'''
+| 2013 World Championships
+| Barcelona, Spain
+| align="center" | 3 August 2013
+| align="center" | 21
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| Former '''[[List of world records in swimming|WR]]'''
+| align="center" | <ref name="FINA3Aug2013"/>
+|-
+| 12
+| 50&nbsp;m breaststroke (3)
+| align="center" | '''29.52'''
+| 
+| 2013 World Championships
+| Barcelona, Spain
+| align="center" | 4 August 2013
+| align="center" | 21
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| 
+| align="center" | <ref name="OTfin50br2013WAC"/>
+|-
+|13
+| 4 × 100&nbsp;m medley relay (4)
+| align="center" | '''3:55.66'''
+| 
+| [[2016 Summer Olympics]]
+| [[Rio de Janeiro]], [[Brazil]]
+| align="center" | 13 August 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="Mendes19Aug16"/>
+|-
+| 14
+| 100&nbsp;m breaststroke (4)
+| align="center" | '''1:04.82'''
+| 
+| 2017 [[Mare Nostrum (swimming)|Mare Nostrum]]
+| [[Canet-en-Roussillon]], [[France]]
+| align="center" | 17 June 2017
+| align="center" | 25
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="Sutherland17Jun2017">Sutherland, James (17 June 2017). [https://swimswam.com/efimova-drops-104-8-100-breast-moves-3rd-time-list/ "Efimova Drops 1:04.8 100 Breast, Moves Into 3rd On All-Time List"]. ''[[SwimSwam]]''. Retrieved 19 October 2021.</ref>
+|-
+| 15
+| 100&nbsp;m breaststroke (5)
+| align="center" | '''1:04.36'''
+| '''sf'''
+| [[2017 World Aquatics Championships|2017 World Championships]]
+| [[Budapest]], [[Hungary]]
+| align="center" | 24 July 2017
+| align="center" | 25
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| 
+| align="center" | <ref name="FINA24Jul2017sf100br">[[FINA]] (24 July 2017). [https://www.omegatiming.com/File/000111010A0203EC02FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 100m Breaststroke Semifinals Results Summary"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref><ref name="Lepesant24Jul2017"/><ref name="Ross24Jul2017"/>
+|-
+| 16
+| 4 × 100&nbsp;m medley relay (5)
+| align="center" | '''3:53.38'''
+| 
+| 2017 World Championships
+| Budapest, Hungary
+| align="center" | 30 July 2017
+| align="center" | 25
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| 
+| align="center" | <ref name="FINA30Jul2017finMRr">[[FINA]] (30 July 2017). [https://www.omegatiming.com/File/000111010A0205F704FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 4x100m Medley Relay Final Results Summary"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 17
+| 4 × 100&nbsp;m mixed medley relay
+| align="center" | '''3:42.71'''
+| 
+| [[2018 European Aquatics Championships|2018 European Championships]]
+| [[Glasgow]], [[Scotland]]
+| align="center" | 6 August 2018
+| align="center" | 26
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| 
+| align="center" | <ref name="LEN6Aug2018"/>
+|}
+{{Swimmingrecordlegend|WR=yes|ER=yes|NR=yes|nation=Russian}}
+
+===Short course metres===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! Meet
+! Location
+! Date
+! Age
+! Type
+! Status
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| 200&nbsp;m breaststroke
+| align="center" | '''2:19.08'''
+| [[2007 European Short Course Swimming Championships|2007 European Championships]]
+| [[Debrecen]], [[Hungary]]
+| align="center" | 14 December 2007
+| align="center" | 15
+| '''[[List of European records in swimming|ER]]''', '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| align="center" | <ref name="LEN14Dec2007"/>
+|-
+| 2
+| 4 × 100&nbsp;m medley relay
+| align="center" | '''3:53.08'''
+| [[FINA World Swimming Championships (25 m)|2010 World Championships]]
+| [[Dubai]], [[United Arab Emirates]]
+| align="center" | 17 December 2010
+| align="center" | 18
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| align="center" | <ref name="FINA17Dec2010">[[FINA]] (17 December 2010). [https://www.omegatiming.com/File/00010A00003F000000FFFFFFFFFFFF01.pdf "10th FINA World Swimming Championships (25m) 2010 Dubai (UAE): Women's 4x100m Medley Relay Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 3
+| 50&nbsp;m breaststroke
+| align="center" | '''29.08'''
+| [[2016 FINA Swimming World Cup|2016 Swimming World Cup]]
+| [[Berlin]], [[Germany]]
+| align="center" | 31 August 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| align="center" | <ref name="FINA31Aug2016">[[FINA]] (31 August 2016). [https://www.omegatiming.com/File/000110000501021D02FFFFFFFFFFFF02.pdf "FINA/airweave Swimming World Cup 2016 Berlin: Women's 50m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 4
+| 100&nbsp;m breaststroke
+| align="center" | '''1:02.91'''
+| 2016 Swimming World Cup
+| [[Moscow]]
+| align="center" | 3 September 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| align="center" | <ref name="FINA3Sep2016f100br">[[FINA]] (3 September 2016). [https://www.omegatiming.com/File/000110000601021E02FFFFFFFFFFFF02.pdf "FINA/airweave Swimming World Cup 2016 Moscow: Women's 100m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 5
+| 200&nbsp;m individual medley
+| align="center" | '''2:06.79'''
+| 2016 Swimming World Cup
+| Moscow
+| align="center" | 3 September 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| align="center" | <ref name="FINA3Sep2016f1200im">[[FINA]] (3 September 2016). [https://www.omegatiming.com/File/000110000601042402FFFFFFFFFFFF02.pdf "FINA/airweave Swimming World Cup 2016 Moscow: Women's 200m Individual medley Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 6
+| 200&nbsp;m breaststroke (2)
+| align="center" | '''2:16.54'''
+| 2016 Swimming World Cup
+| Moscow
+| align="center" | 4 September 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| align="center" | <ref name="FINA4Sep2016f200br">[[FINA]] (4 September 2016). [https://www.omegatiming.com/File/000110000601021F02FFFFFFFFFFFF02.pdf "FINA/airweave Swimming World Cup 2016 Moscow: Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 7
+| 200&nbsp;m breaststroke (3)
+| align="center" | '''2:16.39'''
+| 2016 Swimming World Cup
+| [[Doha]], [[Qatar]]
+| align="center" | 9 October 2016
+| align="center" | 24
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | Former
+| align="center" | <ref name="FINA9Oct2016f200br">[[FINA]] (9 October 2016). [https://www.omegatiming.com/File/000110000901021F02FFFFFFFFFFFF02.pdf "FINA/airweave Swimming World Cup 2016 Doha: Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|-
+| 8
+| 200&nbsp;m breaststroke (4)
+| align="center" | '''2:15.62'''
+| [[2018 FINA Swimming World Cup|2018 Swimming World Cup]]
+| [[Eindhoven]], [[Netherlands]]
+| align="center" | 28 September 2018
+| align="center" | 26
+| '''[[List of Russian records in swimming|NR]]'''
+| align="center" | '''Current'''
+| align="center" | <ref name="FINA28Sep2018f200br">[[FINA]] (28 September 2018). [https://www.omegatiming.com/File/00011201070203EE04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2018 Eindhoven: Women's 200m Breaststroke Final Results"]. ''[[Omega Timing]]''. Retrieved 19 October 2021.</ref>
+|}
+{{Swimmingrecordlegend|ER=yes|NR=yes|nation=Russian}}
+
+==Awards and honours==
+* Russian Female Swimmer of the Year (2008 and 2015)<ref name=nbc />
+* Honorary citizen of Volgodonsk (since 2008)<ref>[http://gorduma.org/duma/reshenia/202-s-84-4-08-8.html РЕШЕНИЕ № 84 от 4 июня 2008 года] {{Webarchive|url=https://web.archive.org/web/20160916032205/http://gorduma.org/duma/reshenia/202-s-84-4-08-8.html |date=16 September 2016 }}. gorduma.org (4 June 2008)</ref>
+* [[Medal of the Order "For Merit to the Fatherland"]] (2012)<ref name=nbc />
+* [[Order of Friendship]] (2016)<ref>[http://publication.pravo.gov.ru/Document/View/0001201608250016 Указ Президента Российской Федерации от 25 August 2016 № 429 «О награждении государственными наградами Российской Федерации»]. pravo.gov.ru (25 August 2016)</ref>
+* [[Sportsperson of the Year|Sportswoman of the Year]] from the All-Russia Swimming Federation (2017)<ref name="Keith25Dec2017">Keith, Braden (25 December 2017). [https://swimswam.com/efimova-wins-top-russian-honor-rylov-chupkov-share-mens-award/ "Efimova Wins Top Russian Honor: Rylov, Chupkov Share Men's Award"]. ''[[SwimSwam]]''. Retrieved 12 January 2022.</ref>
+* ''[[SwimSwam]]'', Top 100 (Women's): 2021 (#7),<ref name="Ortegon16Feb2021">Ortegon, Karl (16 February 2021). [https://swimswam.com/swimmings-top-100-for-2021-women-10-1/ "SwimSwam's Top 100 For 2021: Women's #10-1"]. ''[[SwimSwam]]''. Retrieved 20 January 2022.</ref> 2022 (#85)<ref name="Sutherland5Jan2022">Sutherland, James (5 January 2022). [https://swimswam.com/swimswams-top-100-for-2022-womens-100-76/ "SwimSwam's Top 100 For 2022: Women's #100-76"]. ''[[SwimSwam]]''. Retrieved 20 January 2022.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{World Aquatics}}
+* {{Swimrankings}}
+* {{Olympedia}}
+* {{Olympics.com}}
+
+{{S-start-collapsible|header={{S-ach|rec}}}}
+{{succession box
+| before = {{flagicon|CAN}} [[Amanda Reason]]<br />{{flagicon|USA}} [[Jessica Hardy]]
+| title = [[World record progression 50 metres breaststroke|Women's 50 m breaststroke<br />world record holder]] (long course)
+| years = 2 – 6 August 2009<br />3 August 2013
+| after = {{flagicon|USA}} [[Jessica Hardy]]<br />{{flagicon|LTU}} [[Rūta Meilutytė]]
+}}
+{{succession box
+| before = {{flagicon|LTU}} [[Rūta Meilutytė]]
+| title = [[List of European records in swimming|Women's 100 m breaststroke<br />European record holder]] (long course)
+| years = 5 August 2018 – present
+| after = Incumbent
+}}
+{{succession box
+| before = {{flagicon|SRB}} [[Nađa Higl]]
+| title = [[List of European records in swimming|Women's 200 m breaststroke<br />European record holder]] (long course)
+| years = 2 August 2012 – 29 March 2013
+| after = {{flagicon|DEN}} [[Rikke Møller Pedersen]]
+}}
+{{s-end}}
+
+{{navboxes
+| title = Achievements
+| list1 = 
+{{Footer World LC Champions 50m Breaststroke Women}}
+{{Footer World LC Champions 100m Breaststroke Women}}
+{{Footer World LC Champions 200m Breaststroke Women}}
+{{Footer European Champions 50m Breaststroke Women}}
+{{Footer European Champions 100m Breaststroke Women}}
+{{Footer European Champions 200m Breaststroke Women}}
+{{Footer European Champions 4x100m Medley Women}}
+{{Footer European SC Champions 50m Breaststroke Women}}
+{{Footer European SC Champions 100m Breaststroke Women}}
+{{Footer European SC Champions 200m Breaststroke Women}}
+{{Footer Universiade Champions 50m Breaststroke Women}}
+{{Footer Universiade Champions 100m Breaststroke Women}}
+{{Footer Universiade Champions 200m Breaststroke Women}}
+{{Footer Universiade Champions 4x100m Medley Women}}
+}}
+
+{{DEFAULTSORT:Yefimova, Yuliya}}
+[[Category:1992 births]]
+[[Category:Living people]]
+[[Category:Doping cases in swimming]]
+[[Category:European Aquatics Championships medalists in swimming]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Medalists at the 2013 Summer Universiade]]
+[[Category:Medalists at the 2016 Summer Olympics]]
+[[Category:Medalists at the FINA World Swimming Championships (25 m)]]
+[[Category:Olympic bronze medalists for Russia]]
+[[Category:Olympic bronze medalists in swimming]]
+[[Category:Olympic silver medalists for Russia]]
+[[Category:Olympic silver medalists in swimming]]
+[[Category:Olympic swimmers for Russia]]
+[[Category:Russian female breaststroke swimmers]]
+[[Category:Russian female medley swimmers]]
+[[Category:Russian sportspeople in doping cases]]
+[[Category:Sportspeople from Grozny]]
+[[Category:Swimmers at the 2008 Summer Olympics]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:Swimmers at the 2020 Summer Olympics]]
+[[Category:FISU World University Games gold medalists for Russia]]
+[[Category:Summer World University Games medalists in swimming]]
+[[Category:World Aquatics Championships medalists in swimming]]
+[[Category:World record setters in swimming]]
+[[Category:21st-century Russian sportswomen]]

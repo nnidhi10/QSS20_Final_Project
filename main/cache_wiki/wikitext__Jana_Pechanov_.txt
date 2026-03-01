@@ -1,0 +1,60 @@
+{{Short description|Czech swimmer (born 1981)}}
+{{Infobox swimmer
+| name = Jana Pechanová
+| image = 
+| imagesize = 150px
+| caption = 
+| fullname = 
+| nicknames = 
+| nationality = {{CZE}}
+| strokes = Freestyle
+| club = 
+| collegeteam = 
+| birth_date = {{birth date and age|1981|03|03|df=yes}}
+| birth_place = [[Rakovník|Rakovník, Czechoslovakia]]
+| death_date =
+| death_place =
+| height = 
+| weight = 
+| medaltemplates =
+{{MedalCompetition|[[World Aquatics Championships|World Championships]]}}
+{{MedalSilver| [[2003 World Aquatics Championships|2003 Barcelona]] | 5 km open water}}
+{{MedalCompetition|[[LEN European Aquatics Championships|European Championships]]}}
+{{MedalBronze| [[2000 European Aquatics Championships|2000 Helsinki]] | 5 km open water}}
+{{MedalBronze| [[2006 European Aquatics Championships|2006 Budapest]] | 5 km open water}}
+{{MedalBronze| [[2006 European Aquatics Championships|2006 Budapest]] | 10 km open water}}
+{{MedalCompetition|[[European Short Course Swimming Championships|European Championships (SC)]]}}
+{{MedalSilver| [[European Short Course Swimming Championships 2000|2000 Valencia]] | 400 m freestyle}}
+{{MedalBronze| [[European Short Course Swimming Championships 2000|2000 Valencia]] | 800 m freestyle}}
+{{MedalCompetition|Universiade}}
+{{MedalSilver|[[Swimming at the 1999 Summer Universiade|Mallorca 1999]]|400 free}}
+{{MedalSilver|[[Swimming at the 1999 Summer Universiade|Mallorca 1999]]|800 free}}
+{{MedalSilver|[[Swimming at the 2001 Summer Universiade|Beijing 2001]]|800 free}}
+{{MedalBronze|[[Swimming at the 2001 Summer Universiade|Beijing 2001]]|1500 free}}
+}}
+
+'''Jana Pechanová''' ({{IPA|cs|ˈjana ˈpɛxanovaː}}; born 3 March 1981<ref>{{in lang|cs}} [http://www.sportovci.cz/plavani/pechanova-jana/ Pechanová's entry] {{webarchive|url=https://web.archive.org/web/20110716104243/http://www.sportovci.cz/plavani/pechanova-jana/ |date=2011-07-16 }} from sportovci.cz; retrieved 2010-02-20.</ref> in [[Rakovník|Rakovník, Czechoslovakia]])<ref name=":0">[https://www.sports-reference.com/olympics/athletes/pe/jana-pechanova-1.html Pechanová's entry] {{webarchive|url=https://web.archive.org/web/20121025075725/http://www.sports-reference.com/olympics/athletes/pe/jana-pechanova-1.html |date=2012-10-25 }} at sports-reference.com; retrieved 2010-02-20.</ref> is an Olympic distance swimmer from the [[Czech Republic]]. She swam for the Czech Olympic team at the [[Czech Republic at the 2004 Summer Olympics|2004]], [[Czech Republic at the 2008 Summer Olympics|2008]], [[Czech Republic at the 2012 Summer Olympics|2012]] and [[Czech Republic at the 2016 Summer Olympics|2016]].
+
+At the 2004 Summer Olympics, she in 19th in the 10 km open water marathon.<ref name=":0" />  At the 2008 Summer Olympics, Pechanová finished 8th in [[Swimming at the 2008 Summer Olympics – Women's marathon 10 kilometre|10&nbsp;km distance]].  At the 2012 Summer Olympics, she finished 9th in the [[Swimming at the 2008 Summer Olympics – Women's marathon 10 kilometre|same event]].<ref>{{Cite web|url=http://www.olympic.org/olympic-results/london-2012/swimming/marathon-10km-w|title=London 2012 Marathon - 10 km women Results - Olympic marathon-swimming}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Pechanova, Jana}}
+[[Category:1981 births]]
+[[Category:Living people]]
+[[Category:Female long-distance swimmers]]
+[[Category:Czech female swimmers]]
+[[Category:Olympic swimmers for the Czech Republic]]
+[[Category:Swimmers at the 2004 Summer Olympics]]
+[[Category:Swimmers at the 2008 Summer Olympics]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:World Aquatics Championships medalists in open water swimming]]
+[[Category:Summer World University Games medalists in swimming]]
+[[Category:FISU World University Games silver medalists for the Czech Republic]]
+[[Category:Medalists at the 1999 Summer Universiade]]
+[[Category:Medalists at the 2001 Summer Universiade]]
+[[Category:Medalists at the 2005 Summer Universiade]]
+[[Category:Sportspeople from Rakovník]]
+{{CzechRepublic-swimming-bio-stub}}

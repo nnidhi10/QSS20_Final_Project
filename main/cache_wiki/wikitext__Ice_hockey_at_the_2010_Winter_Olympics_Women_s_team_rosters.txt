@@ -1,0 +1,484 @@
+{{Short description|none}}
+{{Ice hockey at the 2010 Winter Olympics}}
+These are the '''team rosters''' of the nations participating in the '''[[Ice hockey at the 2010 Winter Olympics – Women's tournament|women's ice hockey tournament]] of the [[2010 Winter Olympics]]'''.
+
+==Group A==
+
+==={{ihw|Canada}}===
+<section begin=CAN />{{Anchor|Canada}}The following is the Canadian roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>[http://www.hockeycanada.ca/index.php/ci_id/69249/la_id/1.htm CANADA ROSTER - 2010 OLYMPIC WINTER GAMES], [[Hockey Canada]], 21 December 2009.</ref>
+
+'''Head Coach''': {{flagicon|CAN}} [[Melody Davidson]]
+
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+!No.
+! width="08%" | Position
+! width="18%" | Name
+! width="08%" | Height (cm)
+! width="08%" | Weight (kg)
+! width="15%" | Birthdate
+! width="19%" | Birthplace
+! width="28%" | 2009–10 team
+|-
+|32
+| G || style="text-align:left;" | {{sortname|Charline|Labonté||Labonte, Charline}} || 175 || 78 || style="text-align:right;" | {{dts|format=dmy|1982|10|15}} || [[Boisbriand, Quebec]] || style="text-align:left;" | [[McGill University|McGill Martlets]]
+|-
+|33
+| G || style="text-align:left;" | {{sortname|Kim|St-Pierre}} || 175 || 70 || style="text-align:right;" | {{dts|format=dmy|1978|12|14}} || [[Châteauguay]], [[Quebec]] || style="text-align:left;" | [[Montreal Stars]]
+|-
+|1
+| G || style="text-align:left;" | {{sortname|Shannon|Szabados}} || 172 || 66 || style="text-align:right;" | {{dts|format=dmy|1986|8|6}} || [[Edmonton]], [[Alberta]] || style="text-align:left;" | [[MacEwan University|Grant MacEwan Griffins]]
+|-
+|25
+| D || style="text-align:left;" | {{sortname|Tessa|Bonhomme}} || 170 || 63 || style="text-align:right;" | {{dts|format=dmy|1985|7|23}} || [[Greater Sudbury|Sudbury]], [[Ontario]] || style="text-align:left;" | [[Calgary Oval X-Treme]]
+|-
+|3
+| D || style="text-align:left;" | {{sortname|Carla|MacLeod||Macleod, Carla}} || 162 || 60 || style="text-align:right;" | {{dts|format=dmy|1982|6|16}} || [[Spruce Grove]], [[Alberta]] || style="text-align:left;" | [[Calgary Oval X-Treme]]
+|-
+|4
+| D || style="text-align:left;" | {{sortname|Becky|Kellar}} || 170 || 70 || style="text-align:right;" | {{dts|format=dmy|1975|1|1}} || [[Hagersville, Ontario]] || style="text-align:left;" | [[Burlington Barracudas]]
+|-
+|5
+| D || style="text-align:left;" | {{sortname|Colleen|Sostorics}} || 162 || 78 || style="text-align:right;" | {{dts|format=dmy|1979|12|17}} || [[Kennedy, Saskatchewan]] || style="text-align:left;" | [[Calgary Oval X-Treme]]
+|-
+|12
+| D || style="text-align:left;" | {{sortname|Meaghan|Mikkelson}} || 175 || 74 || style="text-align:right;" | {{dts|format=dmy|1985|1|4}} || [[Regina, Saskatchewan]] || style="text-align:left;" | [[Edmonton Chimos]]
+|-
+|18
+| D || style="text-align:left;" | {{sortname|Catherine|Ward}} || 167 || 61 || style="text-align:right;" | {{dts|format=dmy|1987|2|27}} || [[Montreal]], [[Quebec]] || style="text-align:left;" | [[McGill University|McGill Martlets]]
+|-
+|2
+| F || style="text-align:left;" | {{sortname|Meghan|Agosta}} || 167 || 66 || style="text-align:right;" | {{dts|format=dmy|1987|2|12}} || [[Ruthven, Ontario]] || style="text-align:left;" | [[Mercyhurst College|Mercyhurst Lakers]]
+|-
+|10
+| F || style="text-align:left;" | {{sortname|Gillian|Apps}} || 182 || 78 || style="text-align:right;" | {{dts|format=dmy|1983|11|2}} || [[Toronto]], [[Ontario]] || style="text-align:left;" | [[Brampton Thunder]]
+|-
+|17
+| F || style="text-align:left;" | {{sortname|Jennifer|Botterill}} || 175 || 69 || style="text-align:right;" | {{dts|format=dmy|1979|5|1}} || [[Winnipeg]], [[Manitoba]] || style="text-align:left;" | [[Mississauga Chiefs]]
+|-
+|16
+| F || style="text-align:left;" | {{sortname|Jayna|Hefford}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 165 || 63 || style="text-align:right;" | {{dts|format=dmy|1977|5|14}} || [[Kingston, Ontario]] || style="text-align:left;" | [[Brampton Thunder]]
+|-
+|21
+| F || style="text-align:left;" | {{sortname|Haley|Irwin}} || 170 || 74 || style="text-align:right;" | {{dts|format=dmy|1988|6|6}} || [[Thunder Bay]], [[Ontario]] || style="text-align:left;" | [[University of Minnesota Duluth|Minnesota Duluth Bulldogs]]
+|-
+|6
+| F || style="text-align:left;" | {{sortname|Rebecca|Johnston}} || 170 || 61 || style="text-align:right;" | {{dts|format=dmy|1989|9|24}} || [[Greater Sudbury|Sudbury]], [[Ontario]] || style="text-align:left;" | [[Cornell University|Cornell Big Red]]
+|-
+|27
+| F || style="text-align:left;" | {{sortname|Gina|Kingsbury}} || 172 || 62 || style="text-align:right;" | {{dts|format=dmy|1981|11|26}} || [[Uranium City, Saskatchewan]] || style="text-align:left;" | [[Calgary Oval X-Treme]]
+|-
+|13
+| F || style="text-align:left;" | {{sortname|Caroline|Ouellette}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 180 || 78 || style="text-align:right;" | {{dts|format=dmy|1979|5|25}} || [[Montreal]], [[Quebec]] || style="text-align:left;" | [[Montreal Stars]]
+|-
+|7
+| F || style="text-align:left;" | {{sortname|Cherie|Piper}} || 167 || 75 || style="text-align:right;" | {{dts|format=dmy|1981|6|29}} || [[Toronto]], [[Ontario]] || style="text-align:left;" | [[Calgary Oval X-Treme]]
+|-
+|29
+| F || style="text-align:left;" | {{sortname|Marie-Philip|Poulin}} || 167 || 73 || style="text-align:right;" | {{dts|format=dmy|1991|3|28}} || [[Beauceville, Quebec]] || style="text-align:left;" | [[Dawson College|Dawson Blues]]
+|-
+|26
+| F || style="text-align:left;" | {{sortname|Sarah|Vaillancourt}} || 167 || 63 || style="text-align:right;" | {{dts|format=dmy|1985|5|8}} || [[Sherbrooke]], [[Quebec]] || style="text-align:left;" | [[Harvard University|Harvard Crimson]]
+|-
+|22
+| F || style="text-align:left;" | {{sortname|Hayley|Wickenheiser}} – '''[[Captain (ice hockey)|C]]''' || 177 || 77 || style="text-align:right;" | {{dts|format=dmy|1978|8|12}} || [[Shaunavon, Saskatchewan]] || style="text-align:left;" | [[Eskilstuna Linden]]
+|}<section end=CAN />
+
+==={{ihw|Slovakia}}===
+<section begin=SVK />{{Anchor|Slovakia}}The following is the Slovak roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>Place a reference to a reliable source - presumably the national Olympic committee's announcement of the team - here.</ref>
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+! width="08%" | Position
+! width="20%" | Name
+! width="08%" | Height
+! width="08%" | Weight
+! width="15%" | Birthdate
+! width="15%" | Birthplace
+! width="30%" | 2009–10 team
+|-
+| G || style="text-align:left;" | {{sortname|Jana|Budajová||Budajova, Jana}} || 166 || 53 || style="text-align:right;" | {{dts|format=dmy|1992|11|16}} || {{sort|Liptovsky Mikulas|[[Liptovský Mikuláš]]}} || style="text-align:left;" | [[HK Poprad]]
+|-
+| G || style="text-align:left;" | {{sortname|Monika|Kvaková||Kvakova, Monika}} || 164 || 58 || style="text-align:right;" | {{dts|format=dmy|1988|12|15}} || {{sort|Ziar nad Hronom|[[Žiar nad Hronom]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| G || style="text-align:left;" | {{sortname|Zuzana|Tomčíková||Tomcikova, Zuzana}} || 179 || 72 || style="text-align:right;" | {{dts|format=dmy|1988|4|23}} || [[Zvolen]] || style="text-align:left;" | [[Bemidji State University|Bemidji State Beavers]]
+|-
+| D || style="text-align:left;" | {{sortname|Petra|Babiaková||Babiakova, Petra}} || 175 || 70 || style="text-align:right;" | {{dts|format=dmy|1977|7|27}} || [[Zvolen]] || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| D || style="text-align:left;" | {{sortname|Barbora|Brémová||Bremova, Barbora}} || 168 || 60 || style="text-align:right;" | {{dts|format=dmy|1991|8|24}} || {{sort|Kosice|[[Košice]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| D || style="text-align:left;" | {{sortname|Iveta|Karafiátová||Karafiatova, Iveta}} – '''[[Captain (ice hockey)|C]]''' || 178 || 75 || style="text-align:right;" | {{dts|format=dmy|1988|5|14}} || [[Bratislava]] || style="text-align:left;" | [[Linköpings HC]]
+|-
+| D || style="text-align:left;" | {{sortname|Michaela|Matejová||Matejova, Michaela}} || 169 || 57 || style="text-align:right;" | {{dts|format=dmy|1986|3|2}} || [[Martin, Slovakia|Martin]] || style="text-align:left;" | [[SC Reinach]]
+|-
+| D || style="text-align:left;" | {{sortname|Petra|Országhová||Orszagova, Petra}} || 168 || 58 || style="text-align:right;" | {{dts|format=dmy|1981|4|7}} || {{sort|Banska Bystrica|[[Banská Bystrica]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| D || style="text-align:left;" | {{sortname|Edita|Raková||Rakova, Edita}} || 171 || 62 || style="text-align:right;" | {{dts|format=dmy|1978|5|18}} || {{sort|Humenne|[[Humenné]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Natalie|Babonyová||Babonyova, Natalie}} || 175 || 70 || style="text-align:right;" | {{dts|format=dmy|1983|10|22}} || [[Oshawa]], [[Canada]] || style="text-align:left;" | [[Toronto Crush]]
+|-
+| F || style="text-align:left;" | {{sortname|Nikoleta|Celárová||Celarova, Nikoleta}} || 168 || 60 || style="text-align:right;" | {{dts|format=dmy|1983|2|27}} || {{sort|Kezmarok|[[Kežmarok]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Janka|Čulíková||Culikova, Janka}} || 178 || 75 || style="text-align:right;" | {{dts|format=dmy|1983|6|30}} || [[Martin, Slovakia|Martin]] || style="text-align:left;" | [[HK Spišská Nová Ves]]
+|-
+| F || style="text-align:left;" | {{sortname|Nicol|Čupková||Cupkova, Nicol}} || 169 || 57 || style="text-align:right;" | {{dts|format=dmy|1992|11|4}} || {{sort|Kosice|[[Košice]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Anna|Džurňáková||Dzurnakova, Anna}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 168 || 58 || style="text-align:right;" | {{dts|format=dmy|1983|1|24}} || {{sort|Kezmarok|[[Kežmarok]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Nikola|Gápová||Gapova, Nikola}} || 171 || 62 || style="text-align:right;" | {{dts|format=dmy|1989|6|19}} || [[Poprad]] || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Maria|Herichová||Herichova, Maria}} || 175 || 70 || style="text-align:right;" | {{dts|format=dmy|1990|6|12}} || [[Poprad]] || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Petra|Jurčová||Jurcova, Petra}} || 168 || 60 || style="text-align:right;" | {{dts|format=dmy|1987|6|22}} || {{sort|Kosice|[[Košice]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Jana|Kapustová||Kapustova, Jana}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 178 || 75 || style="text-align:right;" | {{dts|format=dmy|1983|8|11}} || {{sort|Zilina|[[Žilina]]}} || style="text-align:left;" | [[Tornado Moscow]]
+|-
+| F || style="text-align:left;" | {{sortname|Zuzana|Moravčíková|Zuzana Moravčíková (ice hockey)|Moravcikova, Zuzana}} || 169 || 57 || style="text-align:right;" | {{dts|format=dmy|1980|10|23}} || {{sort|Ruzomberok|[[Ružomberok]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|-
+| F || style="text-align:left;" | {{sortname|Petra|Pravlíková||Pravlikova, Petra}} || 168 || 58 || style="text-align:right;" | {{dts|format=dmy|1985|6|4}} || {{sort|Levoca|[[Levoča]]}} || style="text-align:left;" | [[Tornado Moscow]]
+|-
+| F || style="text-align:left;" | {{sortname|Martina|Veličková||Velickova, Martina}} || 171 || 62 || style="text-align:right;" | {{dts|format=dmy|1989|2|17}} || {{sort|Presov|[[Prešov]]}} || style="text-align:left;" | [[HC Slovan Bratislava]]
+|}<section end=SVK />
+
+==={{ihw|Sweden}}===
+<section begin=SWE />{{Anchor|Sweden}}The following is the Swedish roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>{{cite web | title="Ja vi kan", säger Damkronorna om OS | url=http://svt.se/2.19785/1.1798494/ja_vi_kan_sager_damkronorna_om_os |language=sv | publisher=[[Sveriges Television]] | date=3 February 2010 | access-date=5 February 2010}}</ref>
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+!Position
+!Name
+!Height
+!Weight
+!Birthdate
+!Birthplace
+!2009–10 team
+|-
+| G || style="text-align:left;" | {{sortname|Sara|Grahn}} || {{convert|171|cm|ftin|frac=2|abbr=on}} || {{convert|71|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1988|9|25}} || {{sort|Orebro|[[Örebro]]}} || style="text-align:left;" | [[Linköpings HC]]
+|-
+| G || style="text-align:left;" | {{sortname|Valentina|Lizana|Valentina Wallner}} || {{convert|170|cm|ftin|frac=2|abbr=on}} || {{convert|68|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1990|3|30}} || {{sort|Trangsund|[[Trångsund]]}} || style="text-align:left;" | [[AIK IF|AIK]]
+|-
+| G || style="text-align:left;" | {{sortname|Kim|Martin}} || {{convert|166|cm|ftin|frac=2|abbr=on}} || {{convert|66|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1986|2|28}} || [[Stockholm]] || style="text-align:left;" | [[University of Minnesota Duluth|Minnesota Duluth Bulldogs]]
+|-
+| D || style="text-align:left;" | {{sortname|Emilia|Andersson|Emilia Ramboldt}} || {{convert|175|cm|ftin|frac=2|abbr=on}} || {{convert|73|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1988|8|31}} || [[Stockholm]] || style="text-align:left;" | [[Segeltorps IF]]
+|-
+| D || style="text-align:left;" | {{sortname|Gunilla|Andersson}} || {{convert|169|cm|ftin|frac=2|abbr=on}} || {{convert|69|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1975|4|26}} || {{sort|Skutskar|[[Skutskär]]}} || style="text-align:left;" | [[Segeltorps IF]]
+|-
+| D || style="text-align:left;" | {{sortname|Jenni|Asserholt}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|172|cm|ftin|frac=2|abbr=on}} || {{convert|73|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1988|4|8}} || {{sort|Orebro|[[Örebro]]}} || style="text-align:left;" | [[Linköpings HC]]
+|- style="text-align:center;"
+| D || style="text-align:left;" | {{sortname|Emma|Eliasson}} || {{convert|166|cm|ftin|frac=2|abbr=on}} || {{convert|70|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1989|6|12}} || [[Kiruna]] || style="text-align:left;" | [[Brynäs IF]]
+|-
+| D || style="text-align:left;" | {{sortname|Frida|Nevalainen}} || {{convert|165|cm|ftin|frac=2|abbr=on}} || {{convert|64|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1987|1|27}} || {{sort|Umea|[[Umeå]]}} || style="text-align:left;" | [[Modo Hockey]]
+|-
+| D || style="text-align:left;" | {{sortname|Emma|Nordin}} || {{convert|168|cm|ftin|frac=2|abbr=on}} || {{convert|69|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1991|3|22}} || {{sort|Ornskoldsvik|[[Örnsköldsvik]]}} || style="text-align:left;" | [[Modo Hockey]]
+|-
+| F || style="text-align:left;" | {{sortname|Tina|Enström||Enstrom, Tina}} || {{convert|166|cm|ftin|frac=2|abbr=on}} || {{convert|64|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1991|3|23}} || {{sort|Ornskoldsvik|[[Örnsköldsvik]]}} || style="text-align:left;" | [[Modo Hockey]]
+|-
+| F || style="text-align:left;" | {{sortname|Elin|Holmlöv||Holmlov, Elin}} || {{convert|173|cm|ftin|frac=2|abbr=on}} || {{convert|73|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1987|5|8}} || [[Knivsta]] || style="text-align:left;" | [[Segeltorps IF]]
+|-
+| F || style="text-align:left;" | {{sortname|Erika|Holst}} – '''[[Captain (ice hockey)|C]]''' || {{convert|179|cm|ftin|frac=2|abbr=on}} || {{convert|82|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1979|4|8}} || [[Varberg]] || style="text-align:left;" | [[Segeltorps IF]]
+|-
+| F || style="text-align:left;" | {{sortname|Isabelle|Jordansson}} || {{convert|170|cm|ftin|frac=2|abbr=on}} || {{convert|70|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1991|3|8}} || [[Danderyd Municipality|Danderyd]] || style="text-align:left;" | [[AIK IF|AIK]]
+|- style="text-align:center;"
+| F || style="text-align:left;" | {{sortname|Klara|Myrén||Myren, Klara}} || {{convert|172|cm|ftin|frac=2|abbr=on}} || {{convert|69|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1991|5|25}} || {{sort|Borlange|[[Borlänge]]}} || style="text-align:left;" | [[Leksands IF]]
+|-
+| F || style="text-align:left;" | {{sortname|Cecilia|Östberg||Ostberg, Cecilia}} || {{convert|166|cm|ftin|frac=2|abbr=on}} || {{convert|64|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1991|1|15}} || [[Leksand]] || style="text-align:left;" | [[Leksands IF]]
+|-
+| F || style="text-align:left;" | {{sortname|Maria|Rooth}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|176|cm|ftin|frac=2|abbr=on}} || {{convert|72|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1979|11|2}} || {{sort|Angelholm|[[Ängelholm]]}} || style="text-align:left;" | [[AIK IF|AIK]]
+|-
+| F || style="text-align:left;" | {{sortname|Danijela|Rundqvist}} || {{convert|178|cm|ftin|frac=2|abbr=on}} || {{convert|75|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1984|9|26}} || [[Stockholm]] || style="text-align:left;" | [[AIK IF|AIK]]
+|-
+| F || style="text-align:left;" | {{sortname|Frida|Svedin Thunström||Svedin Thunstrom, Frida}} || {{convert|172|cm|ftin|frac=2|abbr=on}} || {{convert|75|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1989|11|4}} || [[Sundsvall]] || style="text-align:left;" | [[Modo Hockey]]
+|-
+| F || style="text-align:left;" | {{sortname|Katarina|Timglas}} || {{convert|168|cm|ftin|frac=2|abbr=on}} || {{convert|63|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1985|11|24}} || {{sort|Malmo|[[Malmö]]}} || style="text-align:left;" | [[AIK IF|AIK]]
+|- style="text-align:center;"
+| F || style="text-align:left;" | {{sortname|Erica|Udén Johansson||Uden Johansson, Erica}} || {{convert|170|cm|ftin|frac=2|abbr=on}} || {{convert|69|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1989|7|20}} || [[Sundsvall]] || style="text-align:left;" | [[Segeltorps IF]]
+|-
+| F || style="text-align:left;" | {{sortname|Pernilla|Winberg}} || {{convert|165|cm|ftin|frac=2|abbr=on}} || {{convert|63|kg|lb st|abbr=on}} || style="text-align:right;" | {{dts|format=dmy|1989|2|24}} || [[Limhamn]] || style="text-align:left;" | [[Segeltorps IF]]
+|}<section end=SWE />
+
+==={{ihw|Switzerland}}===
+<section begin=SUI />{{Anchor|Switzerland}}The following is the Swiss roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>{{cite web |url= http://www.vancouver2010.com/olympic-hockey/schedule-and-results/women_ihw400000nSUI-vtour_team_stats-fp.html |title= Women's Ice Hockey: Team Switzerland Tournamement Standings and Statistics |publisher= International Olympic Committee |access-date= 2023-02-21 |archive-date= 2010-04-09 |archive-url= https://web.archive.org/web/20100409122905/http://www.vancouver2010.com/olympic-hockey/schedule-and-results/women_ihw400000nSUI-vtour_team_stats-fp.html |url-status= dead }}</ref>
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+! width="08%" | Position
+! width="20%" | Name
+! width="08%" | Height (cm)
+! width="08%" | Weight (kg)
+! width="15%" | Birthdate
+! width="15%" | Birthplace
+! width="30%" | 2009–10 team
+|-
+| G || style="text-align:left;" | {{sortname|Sophie|Anthamatten}} || 172 || 74 || style="text-align:right;" | {{dts|format=dmy|1991|7|26}} || [[Visp]] || style="text-align:left;" | [[EHC Saastal]]
+|-
+| G || style="text-align:left;" | {{sortname|Florence|Schelling}} || 174 || 68 || style="text-align:right;" | {{dts|format=dmy|1989|3|9}} || {{sort|Zurich|[[Zürich]]}} || style="text-align:left;" | [[Northeastern Huskies women's ice hockey|Northeastern Huskies]]
+|-
+| G || style="text-align:left;" | {{sortname|Dominique|Slongo}} || 160 || 53 || style="text-align:right;" | {{dts|format=dmy|1988|10|13}} || [[Bern]] || style="text-align:left;" | [[EHC Brandis]]
+|-
+| D || style="text-align:left;" | {{sortname|Laura|Benz}} || 170 || 57 || style="text-align:right;" | {{dts|format=dmy|1992|8|25}} || {{sort|Zurich|[[Zürich]]}} || style="text-align:left;" | [[EHC Winterthur]]
+|-
+| D || style="text-align:left;" | {{sortname|Angela|Frautschi}} || 169 || 73 || style="text-align:right;" | {{dts|format=dmy|1987|6|5}} || [[Interlaken]] || style="text-align:left;" | [[ZSC Lions]]
+|-
+| D || style="text-align:left;" | {{sortname|Julia|Marty}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 170 || 72 || style="text-align:right;" | {{dts|format=dmy|1988|4|16}} || [[Nussbaumen]] || style="text-align:left;" | [[Northeastern Huskies women's ice hockey|Northeastern Huskies]]
+|-
+| D || style="text-align:left;" | {{sortname|Lucrèce|Nussbaum||Nussbaum, Lucrece}} || 173 || 67 || style="text-align:right;" | {{dts|format=dmy|1986|10|7}} || [[Scherzingen]] || style="text-align:left;" | [[St. Thomas University (New Brunswick)|St. Thomas Tommies]]
+|-
+| D || style="text-align:left;" | {{sortname|Claudia|Riechsteiner}} || 168 || 65 || style="text-align:right;" | {{dts|format=dmy|1986|1|3}} || [[Sursee]] || style="text-align:left;" | [[SC Reinach]]
+|-
+| D || style="text-align:left;" | {{sortname|Sandra|Thalmann}} || 162 || 66 || style="text-align:right;" | {{dts|format=dmy|1992|12|18}} || [[Basel]] || style="text-align:left;" | [[EHC Basel]]
+|-
+| D || style="text-align:left;" | {{sortname|Stefanie|Wyss}} || 164 || 62 || style="text-align:right;" | {{dts|format=dmy|1985|10|19}} || [[Bern]] || style="text-align:left;" | [[EV Bomo Thun]]
+|-
+| F || style="text-align:left;" | {{sortname|Sara|Benz}} || 163 || 54 || style="text-align:right;" | {{dts|format=dmy|1992|8|25}} || {{sort|Zurich|[[Zürich]]}} || style="text-align:left;" | [[EHC Winterthur]]
+|-
+| F || style="text-align:left;" | {{sortname|Nicole|Bullo}} || 160 || 54 || style="text-align:right;" | {{dts|format=dmy|1987|7|18}} || [[Bellinzona]] || style="text-align:left;" | [[HC Lugano]]
+|-
+| F || style="text-align:left;" | {{sortname|Melanie|Häfliger||Hafliger, Melanie}} || 160 || 52 || style="text-align:right;" | {{dts|format=dmy|1982|9|29}} || [[Schenkon]] || style="text-align:left;" | [[SC Reinach]]
+|-
+| F || style="text-align:left;" | {{sortname|Kathrin|Lehmann}} – '''[[Captain (ice hockey)|C]]''' || 172 || 70 || style="text-align:right;" | {{dts|format=dmy|1980|2|27}} || {{sort|Zurich|[[Zürich]]}} || style="text-align:left;" | [[AIK IF|AIK]]
+|-
+| F || style="text-align:left;" | {{sortname|Darcia|Leimgruber}} || 162 || 62 || style="text-align:right;" | {{dts|format=dmy|1989|5|19}} || [[Basel]] || style="text-align:left;" | [[Maine Black Bears women's ice hockey|Maine Black Bears]]
+|-
+| F || style="text-align:left;" | {{sortname|Stefanie|Marty}} || 168 || 70 || style="text-align:right;" | {{dts|format=dmy|1988|4|16}} || [[Nussbaumen]] || style="text-align:left;" | [[Syracuse Orange women's ice hockey|Syracuse Orange]]
+|-
+| F || style="text-align:left;" | {{sortname|Christine|Meier}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 169 || 68 || style="text-align:right;" | {{dts|format=dmy|1986|5|24}} || {{sort|Bulach|[[Bülach]]}} || style="text-align:left;" | [[ZSC Lions]]
+|-
+| F || style="text-align:left;" | {{sortname|Rahel|Michielin}} || 165 || 52 || style="text-align:right;" | {{dts|format=dmy|1990|10|11}} || [[Frauenfeld]] || style="text-align:left;" | [[ZSC Lions]]
+|-
+| F || style="text-align:left;" | {{sortname|Katrin|Nabholz}} || 167 || 57 || style="text-align:right;" | {{dts|format=dmy|1986|4|3}} || [[Basel]] || style="text-align:left;" | [[ZSC Lions]]
+|-
+| F || style="text-align:left;" | {{sortname|Anja|Stiefel}} || 160 || 56 || style="text-align:right;" | {{dts|format=dmy|1990|8|9}} || [[Frauenfeld]] || style="text-align:left;" | [[SC Reinach]]
+|-
+| F || style="text-align:left;" | {{sortname|Sabrina|Zollinger}} || 162 || 65 || style="text-align:right;" | {{dts|format=dmy|1993|3|27}} || {{sort|Zurich|[[Zürich]]}} || style="text-align:left;" | [[EHC Winterthur]]
+|}<section end=SUI />
+
+==Group B==
+
+==={{ihw|China}}===
+<section begin=CHN />{{Anchor|China}}The following is the Chinese roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>{{Cite web |url=http://2010wgh.olympic.cn/index.php/projectview/projects/47 |title=2010 China Team |access-date=2023-02-21 |archive-date=2010-02-11 |archive-url=https://web.archive.org/web/20100211124022/http://2010wgh.olympic.cn/index.php/projectview/projects/47 |url-status=dead }}</ref>
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+! width="08%" | Position
+! width="20%" | Name
+! width="08%" | Height
+! width="08%" | Weight
+! width="15%" | Birthdate
+! width="15%" | Birthplace
+! width="30%" | 2009–10 team
+|-
+| G || style="text-align:left;" | [[Han Danni]] || 165 || 58 || style="text-align:right;" | {{dts|format=dmy|1991|01|09}} || [[Harbin]] || style="text-align:left;" | Qiqihar
+|-
+| G || style="text-align:left;" | [[Jia Dandan]] || 163 || 55 || style="text-align:right;" | {{dts|format=dmy|1982|05|05}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| G || style="text-align:left;" | [[Shi Yao]] || 178 || 70 || style="text-align:right;" | {{dts|format=dmy|1987|01|13}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Jiang Na]] || 174 || 75 || style="text-align:right;" | {{dts|format=dmy|1988|10|18}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Liu Zhixin]] || 174 || 68 || style="text-align:right;" | {{dts|format=dmy|1993|04|25}} || [[Qiqihar]] || style="text-align:left;" | Qiqihar
+|-
+| D || style="text-align:left;" | [[Lou Yue]] || 160 || 60 || style="text-align:right;" | {{dts|format=dmy|1987|04|22}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Qi Xueting]] || 158 || 58 || style="text-align:right;" | {{dts|format=dmy|1986|11|07}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Tan Anqi]] || 175 || 67 || style="text-align:right;" | {{dts|format=dmy|1986|06|10}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Wang Nan (ice hockey)|Wang Nan]] || 164 || 67 || style="text-align:right;" | {{dts|format=dmy|1988|04|22}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Yu Baiwei]] || 166 || 68 || style="text-align:right;" | {{dts|format=dmy|1988|07|17}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| D || style="text-align:left;" | [[Zhang Shuang (ice hockey)|Zhang Shuang]] || 162 || 58 || style="text-align:right;" | {{dts|format=dmy|1987|03|07}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Cui Shanshan]] || 177 || 67 || style="text-align:right;" | {{dts|format=dmy|1987|05|08}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Gao Fujin]] || 162 || 65 || style="text-align:right;" | {{dts|format=dmy|1984|07|15}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Huang Haijing]] || 172 || 72 || style="text-align:right;" | {{dts|format=dmy|1988|07|03}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Huo Cui]] || 160 || 54 || style="text-align:right;" | {{dts|format=dmy|1988|09|13}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Jin Fengling]] – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 166 || 56 || style="text-align:right;" | {{dts|format=dmy|1982|11|20}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Ma Rui]] || 172 || 69 || style="text-align:right;" | {{dts|format=dmy|1989|03|29}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Su Ziwei]] || 162 || 65 || style="text-align:right;" | {{dts|format=dmy|1984|12|09}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Sun Rui (ice hockey)|Sun Rui]] – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 169 || 60 || style="text-align:right;" | {{dts|format=dmy|1982|05|14}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Tang Liang (ice hockey)|Tang Liang]] || 163 || 54 || style="text-align:right;" | {{dts|format=dmy|1985|08|26}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Wang Linuo]] – '''[[Captain (ice hockey)|C]]''' || 160 || 57 || style="text-align:right;" | {{dts|format=dmy|1979|08|28}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Zhang Ben]] || 170 || 61 || style="text-align:right;" | {{dts|format=dmy|1985|07|22}} || [[Harbin]] || style="text-align:left;" | Harbin
+|-
+| F || style="text-align:left;" | [[Zhang Mengying]] || 166 || 55 || style="text-align:right;" | {{dts|format=dmy|1993|12|22}} || [[Qiqihar]] || style="text-align:left;" | Qiqihar
+|}<section end=CHN />
+
+==={{ihw|Finland}}===
+<section begin=FIN />{{Anchor|Finland}}The following is the Finnish roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>[http://79.125.21.88/statistics/hockey/rt_team_roster.php?LID=307&GID=2083&TID=278055144&LANG=EN&TYPE=81&SEASON=2010&TIG=1000021889&BIND= Women National Team - Olympic Games 6.2.2010-28.2.2010] {{Webarchive|url=https://web.archive.org/web/20110706023928/http://79.125.21.88/statistics/hockey/rt_team_roster.php?LID=307&GID=2083&TID=278055144&LANG=EN&TYPE=81&SEASON=2010&TIG=1000021889&BIND= |date=2011-07-06 }}, Finnish Ice Hockey Association, 13 January 2010.</ref>
+{| class="wikitable sortable" style="width:100%;text-align:center;"
+! width="08%" | Position
+! width="20%" | Name
+! width="08%" | Height
+! width="08%" | Weight
+! width="15%" | Birthdate
+! width="15%" | Birthplace
+! width="30%" | 2009–10 team
+|-
+| G || style="text-align:left;" | {{sortname|Mira|Kuisma}} || 168 || 65 || style="text-align:right;" | {{dts|format=dmy|1987|5|6}} || [[Kuopio]] || style="text-align:left;" | [[Kärpät Naiset|Oulun Kärpät]]
+|-
+| G || style="text-align:left;" | {{sortname|Noora|Räty||Raty, Noora}} || 164 || 68 || style="text-align:right;" | {{dts|format=dmy|1989|5|29}} || [[Espoo]] || style="text-align:left;" | [[Minnesota Golden Gophers women's ice hockey|Minnesota Golden Gophers]]
+|-
+| G || style="text-align:left;" | {{sortname|Anna|Vanhatalo}} || 178 || 65 || style="text-align:right;" | {{dts|format=dmy|1984|2|29}} || [[Helsinki]] || style="text-align:left;" | [[Espoo Blues Naiset|Espoo Blues]]
+|-
+| D || style="text-align:left;" | {{sortname|Jenni|Hiirikoski}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 161 || 60 || style="text-align:right;" | {{dts|format=dmy|1987|3|30}} || {{sort|Lempaala|[[Lempäälä]]}} || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| D || style="text-align:left;" | {{sortname|Emma|Laaksonen}} – '''[[Captain (ice hockey)|C]]''' || 159 || 59 || style="text-align:right;" | {{dts|format=dmy|1981|12|17}} || [[Washington, D.C.]], United States || style="text-align:left;" | [[Espoo Blues Naiset|Espoo Blues]]
+|-
+| D || style="text-align:left;" | {{sortname|Rosa|Lindstedt}} || 186 || 78 || style="text-align:right;" | {{dts|format=dmy|1988|1|24}} || {{sort|Ylojarvi|[[Ylöjärvi]]}} || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| D || style="text-align:left;" | {{sortname|Terhi|Mertanen}} || 166 || 68 || style="text-align:right;" | {{dts|format=dmy|1981|4|4}} || [[Joensuu]] || style="text-align:left;" | [[Espoo Blues Naiset|Espoo Blues]]
+|-
+| D || style="text-align:left;" | {{sortname|Heidi|Pelttari}} || 166 || 69 || style="text-align:right;" | {{dts|format=dmy|1985|8|2}} || [[Tampere]] || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| D || style="text-align:left;" | {{sortname|Mariia|Posa}} || 164 || 58 || style="text-align:right;" | {{dts|format=dmy|1988|2|21}} || {{sort|Hyvinkaa|[[Hyvinkää]]}} || style="text-align:left;" | [[Minnesota Duluth Bulldogs women's ice hockey|Minnesota Duluth Bulldogs]]
+|-
+| D || style="text-align:left;" | {{sortname|Saija|Sirviö||Sirvio, Saija}} || 172 || 62 || style="text-align:right;" | {{dts|format=dmy|1982|12|29}} || [[Oulu]] || style="text-align:left;" | [[Kärpät Naiset|Oulun Kärpät]]
+|-
+| F || style="text-align:left;" | {{sortname|Anne|Helin}} || 170 || 68 || style="text-align:right;" | {{dts|format=dmy|1987|1|28}} || [[Helsinki]] || style="text-align:left;" | [[Kärpät Naiset|Oulun Kärpät]]
+|-
+| F || style="text-align:left;" | {{sortname|Venla|Hovi}} || 169 || 62 || style="text-align:right;" | {{dts|format=dmy|1987|10|28}} || [[Tampere]] || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| F || style="text-align:left;" | {{sortname|Michelle|Karvinen}} || 166 || 70 || style="text-align:right;" | {{dts|format=dmy|1990|3|27}} || {{sort|Rodovre|[[Rødovre]]}}, [[Denmark]] || style="text-align:left;" | HC Rødovre
+|-
+| F || style="text-align:left;" | {{sortname|Annina|Rajahuhta}} || 164 || 62 || style="text-align:right;" | {{dts|format=dmy|1989|3|8}} || [[Helsinki]] || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| F || style="text-align:left;" | {{sortname|Karoliina|Rantamäki||Rantamaki, Karoliina}} || 163 || 65 || style="text-align:right;" | {{dts|format=dmy|1978|2|23}} || [[Espoo]] || style="text-align:left;" | [[SKIF Nizhny Novgorod]]
+|-
+| F || style="text-align:left;" | {{sortname|Mari|Saarinen}} || 172 || 67 || style="text-align:right;" | {{dts|format=dmy|1981|7|30}} || [[Kangasala]] || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|-
+| F || style="text-align:left;" | {{sortname|Nina|Tikkinen}} || 170 || 67 || style="text-align:right;" | {{dts|format=dmy|1987|2|6}} || [[Salo, Finland|Salo]] || style="text-align:left;" | [[Minnesota State University, Mankato|Minnesota State Mavericks]]
+|-
+| F || style="text-align:left;" | {{sortname|Minnamari|Tuominen}} || 165 || 67 || style="text-align:right;" | {{dts|format=dmy|1990|6|26}} || [[Helsinki]] || style="text-align:left;" | [[Ohio State Buckeyes women's ice hockey|Ohio State Buckeyes]]
+|-
+| F || style="text-align:left;" | {{sortname|Saara|Tuominen}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || 169 || 65 || style="text-align:right;" | {{dts|format=dmy|1986|1|1}} || {{sort|Ylojarvi|[[Ylöjärvi]]}} || style="text-align:left;" | [[Minnesota Duluth Bulldogs women's ice hockey|Minnesota Duluth Bulldogs]]
+|-
+| F || style="text-align:left;" | {{sortname|Marjo|Voutilainen}} || 168 || 70 || style="text-align:right;" | {{dts|format=dmy|1981|3|22}} || [[Kuopio]] || style="text-align:left;" | [[Espoo Blues Naiset|Espoo Blues]]
+|-
+| F || style="text-align:left;" | {{sortname|Linda|Välimäki||Valimaki, Linda}} || 165 || 62 || style="text-align:right;" | {{dts|format=dmy|1990|5|31}} || {{sort|Ylojarvi|[[Ylöjärvi]]}} || style="text-align:left;" | [[Ilves Naiset|Ilves Tampere]]
+|}<section end=FIN />
+
+==={{ihw|Russia}}===
+<section begin=RUS />{{Anchor|Russia}}The following is the Russian roster in the women's ice hockey tournament of the [[Ice hockey at the 2010 Winter Olympics – Women's tournament|2010 Winter Olympics]].<ref>{{cite web|url=http://stats.iihf.com/og2010/IHW400004_33_2_0.pdf|title=Ice Hockey Women – Team roster – RUS - Russian Federation|publisher=[[International Ice Hockey Federation|IIHF]]|date=14 February 2010|access-date=5 March 2018}}</ref>
+
+'''Head coach:''' {{flagicon|RUS}} [[Valentin Gureev]]    '''Assistant coach:''' {{flagicon|RUS}} [[Alexei Chistyakov]]
+{| class="wikitable sortable" style="width:100%;font-size: 90%; text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 12%;" | Birthdate
+! style="width: 18%;" | Birthplace
+! style="width: 22%;" | 2009–10 team
+|-
+| 1 || G || style="text-align:left;" | {{sortname|Anna|Prugova}} || {{convert|1.74|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1993|11|20}} || [[Khabarovsk]] || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 4 || D || style="text-align:left;" | {{sortname|Alena|Khomich}} || {{convert|1.68|m|ftin|abbr=on}} || {{convert|55|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1981|02|26}} || [[Pervouralsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 7 || F|| style="text-align:left;" | {{sortname|Olga|Sosina}} || {{convert|1.60|m|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1992|07|27}} || [[Almetyevsk]] || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 8 || F|| style="text-align:left;" | {{sortname|Iya|Gavrilova}} – '''[[Captain (ice hockey)#Alternate Captains|A]]''' || {{convert|1.73|m|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1987|09|03}} || [[Krasnoyarsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 9 || F|| style="text-align:left;" | {{sortname|Alexandra|Vafina}} || {{convert|1.68|m|ftin|abbr=on}} || {{convert|57|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1990|07|28}} || [[Almaty]], [[Kazakh SSR]], [[Soviet Union]] || style="text-align:left;" |{{flagicon|RUS}} [[Fakel Chelyabinsk]]
+|-
+| 11 || F || style="text-align:left;" | {{sortname|Marina|Sergina}} || {{convert|1.68|m|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1986|03|02}} || [[Polyarnye Zori]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 13 || D || style="text-align:left;" | {{sortname|Kristina|Petrovskaya}} || {{convert|1.70|m|ftin|abbr=on}} || {{convert|64|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1980|06|03}} || [[Moscow]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 15 || D || style="text-align:left;" | {{sortname|Olga|Permyakova}} – '''[[Captain (ice hockey)#Alternate Captains|A]]''' || {{convert|1.71|m|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1982|04|12}} || [[Chelyabinsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 17 || F || style="text-align:left;" | {{sortname|Yekaterina|Smolentseva}} – '''[[Captain (ice hockey)|C]]''' || {{convert|1.76|m|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1981|09|15}} || [[Pervouralsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 20 || G || style="text-align:left;" | {{sortname|Irina|Gashennikova}} || {{convert|1.64|m|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1975|05|11}} || [[Pushkino, Pushkinsky District, Moscow Oblast|Pushkino]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 22 || F || style="text-align:left;" | {{sortname|Yulia|Deulina}} || {{convert|1.73|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1984|04|14}} || [[Krasnogorsk, Moscow Oblast|Krasnogorsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 23 || F || style="text-align:left;" | {{sortname|Tatiana|Burina}} || {{convert|1.65|m|ftin|abbr=on}} || {{convert|70|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1980|03|20}} || [[Novosibirsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 25 || F || style="text-align:left;" | {{sortname|Yekaterina|Lebedeva}} || {{convert|1.66|m|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1989|09|14}} || [[Yekaterinburg|Sverdlovsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Dinamo Yekaterinburg]]
+|-
+| 26 || D || style="text-align:left;" | {{sortname|Zoya|Polunina}} || {{convert|1.70|m|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1991|06|12}} || [[Bogoroditsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|-
+| 28 || F || style="text-align:left;" | {{sortname|Svetlana|Terentieva}} || {{convert|1.63|m|ftin|abbr=on}} || {{convert|69|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1983|09|25}} || [[Pervouralsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 29 || F || style="text-align:left;" | {{sortname|Tatiana|Sotnikova}} || {{convert|1.67|m|ftin|abbr=on}} || {{convert|59|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1981|01|20}} || [[Moscow]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 30 || G || style="text-align:left;" | {{sortname|Mariya|Onolbayeva}} || {{convert|1.78|m|ftin|abbr=on}} || {{convert|78|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1978|12|25}} || [[Murmansk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Fakel Chelyabinsk]]
+|-
+| 34 || D || style="text-align:left;" | {{sortname|Svetlana|Tkacheva}} || {{convert|1.70|m|ftin|abbr=on}} || {{convert|63|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1984|11|03}} || [[Moscow]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 44 || D || style="text-align:left;" | {{sortname|Alexandra|Kapustina}} || {{convert|1.66|m|ftin|abbr=on}} || {{convert|74|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1984|4|7}} || [[Pervouralsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[SKIF Nizhny Novgorod]]
+|-
+| 91 || F || style="text-align:left;" | {{sortname|Yekaterina|Ananina}} || {{convert|1.72|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1991|06|13}} || [[Yekaterinburg|Sverdlovsk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Spartak-Merkury Yekaterinburg]]
+|-
+| 95 || D || style="text-align:left;" | {{sortname|Inna|Dyubanok}} || {{convert|1.66|m|ftin|abbr=on}} || {{convert|63|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{dts|format=dmy|1990|02|20}} || [[Mozhaysk]], [[Soviet Union]]  || style="text-align:left;" |{{flagicon|RUS}} [[Tornado Dmitrov]]
+|}<section end=RUS />
+
+==={{ihw|United States}}===
+<section begin=USA />{{Anchor|United States}}The following is the American roster in the women's ice hockey tournament of the 2010 Winter Olympics.<ref>{{cite web |url=https://teamusa.usahockey.com/page/show/2908085-2010-vancouver-olympic-winter-games-women-s-tournament |title=2010 Vancouver Olympic Winter Games Women's Tournament |website=USAHockey.com |publisher=USA Hockey |access-date=February 24, 2022}}</ref>
+
+'''Head coach:''' {{flagicon|USA}} [[Mark Johnson (ice hockey)|Mark Johnson]]    '''Assistant coaches:''' {{flagicon|USA}} [[Dave Flint]], {{flagicon|USA}} [[Jodi McKenna]]
+
+{| width="100%" class="wikitable sortable" style="text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 2009–10 team
+|-
+| 1 || G || style="text-align:left;" | {{sortname|Molly|Schaus}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1988|7|29}} || [[Natick, Massachusetts]] || style="text-align:left;" | [[Boston College|Boston College Eagles]]
+|-
+| 2 || F || style="text-align:left;" | {{sortname|Erika|Lawler}} || {{convert|152|cm|ftin|abbr=on}} || {{convert|59|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1987|2|5|df=y}} || [[Fitchburg, Massachusetts]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 4 || D || style="text-align:left;" | {{sortname|Angela|Ruggiero}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|175|cm|ftin|abbr=on}} || {{convert|87|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1980|1|3|df=y}} || [[Los Angeles]], [[California]] || style="text-align:left;" | [[Harvard University|Harvard Crimson]]
+|-
+| 5 || F || style="text-align:left;" | {{sortname|Karen|Thatcher}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|74|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1984|2|29|df=y}} || [[Blaine, Washington]] || style="text-align:left;" | [[Providence College|Providence Friars]]
+|-
+| 7 || F || style="text-align:left;" | {{sortname|Monique|Lamoureux}} || {{convert|168|cm|ftin|abbr=on}} || {{convert|71|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1989|7|3|df=y}} || [[Grand Forks, North Dakota]] || style="text-align:left;" | [[University of North Dakota|North Dakota Fighting Sioux]]
+|-
+| 8 || D || style="text-align:left;" | {{sortname|Caitlin|Cahow}} || {{convert|163|cm|ftin|abbr=on}} || {{convert|71|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1985|5|20|df=y}} || [[New Haven, Connecticut]] || style="text-align:left;" | [[Harvard University|Harvard Crimson]]
+|-
+| 9 || D || style="text-align:left;" | {{sortname|Molly|Engstrom}} || {{convert|175|cm|ftin|abbr=on}} || {{convert|81|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1983|3|1|df=y}} || [[Siren, Wisconsin]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 10 || F || style="text-align:left;" | {{sortname|Meghan|Duggan}} || {{convert|175|cm|ftin|abbr=on}} || {{convert|74|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1987|9|3|df=y}} || [[Danvers, Massachusetts]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 11 || D || style="text-align:left;" | {{sortname|Lisa|Chesson}} || {{convert|169|cm|ftin|abbr=on}} || {{convert|69|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1986|8|18|df=y}} || [[Plainfield, Illinois]] || style="text-align:left;" | [[Ohio State University|Ohio State Buckeyes]]
+|-
+| 12 || F || style="text-align:left;" | {{sortname|Jenny|Potter|Jenny Schmidgall-Potter}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|163|cm|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1979|1|12|df=y}} || [[Edina, Minnesota]] || style="text-align:left;" | [[University of Minnesota|Minnesota Golden Gophers]]
+|-
+| 13 || F || style="text-align:left;" | {{sortname|Julie|Chu}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|174|cm|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1982|3|13|df=y}} || [[Bridgeport, Connecticut]] || style="text-align:left;" | [[Harvard University|Harvard Crimson]]
+|-
+| 16 || F || style="text-align:left;" | {{sortname|Kelli|Stack}} || {{convert|165|cm|ftin|abbr=on}} || {{convert|59|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1988|1|13|df=y}} || [[Brooklyn Heights, Ohio]] || style="text-align:left;" | [[Boston College|Boston College Eagles]]
+|-
+| 17 || F || style="text-align:left;" | {{sortname|Jocelyne|Lamoureux}} || {{convert|168|cm|ftin|abbr=on}} || {{convert|70|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1989|7|3|df=y}} || [[Grand Forks, North Dakota]] || style="text-align:left;" | [[University of North Dakota|North Dakota Fighting Sioux]]
+|-
+| 19 || F || style="text-align:left;" | {{sortname|Gigi|Marvin}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|75|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1987|3|7|df=y}} || [[Warroad, Minnesota]] || style="text-align:left;" | [[University of Minnesota|Minnesota Golden Gophers]]
+|-
+| 20 || F || style="text-align:left;" | {{sortname|Natalie|Darwitz}} – '''[[Captain (ice hockey)|C]]''' || {{convert|160|cm|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1983|10|13|df=y}} || [[Eagan, Minnesota]] || style="text-align:left;" | [[University of Minnesota|Minnesota Golden Gophers]]
+|-
+| 21 || F || style="text-align:left;" | {{sortname|Hilary|Knight}} || {{convert|178|cm|ftin|abbr=on}} || {{convert|78|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1989|7|12|df=y}} || [[Hanover, New Hampshire]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 22 || D || style="text-align:left;" | {{sortname|Kacey|Bellamy}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1987|4|22|df=y}} || [[Westfield, Massachusetts]] || style="text-align:left;" | [[University of New Hampshire|New Hampshire Wildcats]]
+|-
+| 23 || D || style="text-align:left;" | {{sortname|Kerry|Weiland}} || {{convert|163|cm|ftin|abbr=on}} || {{convert|64|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1980|10|18|df=y}} || [[Palmer, Alaska]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 27 || F || style="text-align:left;" | {{sortname|Jinelle|Zaugg-Siergiej}} || {{convert|183|cm|ftin|abbr=on}} || {{convert|82|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1986|3|27|df=y}} || [[Eagle River, Wisconsin]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|-
+| 29 || G || style="text-align:left;" | {{sortname|Brianne|McLaughlin||Maclaughlin, Brianne}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|59|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1987|6|20|df=y}} || [[Sheffield, Ohio]] || style="text-align:left;" | [[Robert Morris University|Robert Morris Colonials]]
+|-
+| 31 || G || style="text-align:left;" | {{sortname|Jessie|Vetter}} || {{convert|174|cm|ftin|abbr=on}} || {{convert|77|kg|lb|abbr=on|sortable=on}} || style="text-align:right;" | {{birth date and age2|2010|2|25|1985|12|19|df=y}} || [[Cottage Grove, Wisconsin]] || style="text-align:left;" | [[University of Wisconsin–Madison|Wisconsin Badgers]]
+|}<section end=USA />
+
+==See also==
+* [[Ice hockey at the 2010 Winter Olympics – Men's team rosters]]
+
+==References==
+{{reflist}}{{Olympic Games women's ice hockey players|state=collapsed}}{{DEFAULTSORT:Ice hockey at the 2010 Winter Olympics - Women's team rosters}}
+[[Category:Ice hockey at the 2010 Winter Olympics – Women's tournament|rosters]]
+[[Category:Ice hockey players at the 2010 Winter Olympics|*]]
+[[Category:Olympic ice hockey rosters|2010]]

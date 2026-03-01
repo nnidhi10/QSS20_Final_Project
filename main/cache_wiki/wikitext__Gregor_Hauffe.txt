@@ -1,0 +1,38 @@
+{{short description|German rower}}
+{{Use dmy dates|date=May 2018}}
+{{MedalTableTop}}
+{{MedalSport | Men's [[rowing (sport)|rowing]] }}
+{{MedalCountry | {{GER}} }}
+{{MedalCompetition | [[World Rowing Championships|World Championships]] }}
+{{MedalGold | [[2009 World Rowing Championships|2009 Poznań]] | M8+ }}
+{{MedalGold | [[2010 World Rowing Championships|2010 Karapiro]] | M8+ }}
+{{MedalGold | [[2011 World Rowing Championships|2011 Bled]] | M8+ }}
+{{MedalBottom}}
+
+'''Gregor Hauffe''' (born 20 May 1982 in [[Magdeburg]], [[East Germany]]) is a German former representative rower. He is a three time world champion and a dual Olympian. Hauffe competed at [[2008 Summer Olympics|Beijing 2008]] and [[2012 Summer Olympics|London 2012]] in the men's coxless four with both those crews making the Olympic final.<ref>{{cite web|url=http://www.olympic.org/olympic-results/beijing-2008/rowing/four-without-coxswain-4-m|title=Beijing 2008 four without coxswain 4 men – Olympic Beijing 2008 Rowing|date=3 June 2017|website=Olympic.org|access-date=29 October 2017}}</ref><ref>{{cite web|url=http://www.olympic.org/olympic-results/london-2012/rowing/four-without-coxswain-4-m|title=London 2012 four without coxswain 4 men – Olympic Rowing|date=3 June 2017|website=Olympic.org|access-date=29 October 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{FISA|16006}}
+* {{Olympics.com profile|gregor-hauffe}}
+* {{DOSB profile|gregor-hauffe}}
+* {{SR/Olympics profile|ha/gregor-hauffe-1}}
+
+{{World champions – Men's eight}}
+
+{{DEFAULTSORT:Hauffe, Gregor}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Olympic rowers for Germany]]
+[[Category:Rowers at the 2008 Summer Olympics]]
+[[Category:Rowers at the 2012 Summer Olympics]]
+[[Category:Sportspeople from Magdeburg]]
+[[Category:Rowers from Saxony-Anhalt]]
+[[Category:World Rowing Championships medalists for Germany]]
+[[Category:German male rowers]]
+[[Category:21st-century German sportsmen]]
+
+
+{{Germany-rowing-bio-stub}}

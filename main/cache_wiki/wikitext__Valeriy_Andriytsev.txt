@@ -1,0 +1,69 @@
+{{short description|Ukrainian freestyle wrestler}}
+{{Infobox sportsperson
+| image          = Valeri Andritsev.jpg
+| image_size     = <!--Only for images narrower than 220 pixels.-->
+| caption        = 
+| fullname       = Valerii Andriitsev
+| nationality    = [[Ukraine|Ukrainian]]
+| residence      = 
+| birth_date     = {{birth date and age|1987|02|27}}
+| birth_place    = [[Kozelets]], [[Ukrainian SSR]], [[Soviet Union]]
+| death_date     = 
+| death_place    = 
+| height         = {{convert|6|ft|2|in|m|2|abbr=on}}
+| weight         = {{convert|225|lb|kg|abbr=on}}
+| sport          = [[Wrestling]]
+| event          = [[Freestyle wrestling|Freestyle]]
+| collegeteam    =
+| club           = Dynamo
+| coach          = 
+| pb             = 
+| medaltemplates = 
+{{MedalSport | Men's [[freestyle wrestling]]}}
+{{MedalCountry| {{UKR}}}}
+{{MedalCompetition|[[Olympic Games]]}}
+
+{{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Wrestling at the 2012 Summer Olympics - Men's freestyle 96 kg|96 kg]]}}
+{{MedalCompetition|[[FILA Wrestling World Championships|World Championships]]}}
+{{MedalBronze|[[2014 World Wrestling Championships|Tashkent 2014]]|[[2014 World Wrestling Championships – Men's freestyle 97 kg|97 kg]]}}
+{{MedalCompetition|[[European Games]]}}
+{{MedalBronze|[[2015 European Games|2015 Baku]]|[[Wrestling at the 2015 European Games – Men's freestyle 97 kg|97 kg]]}}
+{{MedalCompetition|[[FILA Wrestling European Championships|European Championships]]}}
+{{MedalSilver|[[2012 European Wrestling Championships|2012 Belgrade]]|96 kg}}
+| show-medals    = 
+| updated        = September 7, 2012
+}}
+
+'''Valerii Oleksandrovych Andriitsev''' ({{langx|uk|Валерій Олександрович Андрійцев}}; born 27 February 1987 in [[Kozelets]]) is a male freestyle wrestler from [[Ukraine]]. He won the silver medal in the [[Wrestling at the 2012 Summer Olympics - Men's freestyle 96 kg|Men's freestyle 96 kg]] at [[2012 Summer Olympics]]. He won the silver in the [[2012 European Wrestling Championships]].<ref>{{cite web|url=http://www.foxnews.com/sports/2012/08/12/usa-varner-wins-wrestling-gold/|title=USA's Varner wins wrestling gold|publisher=Fox News|date= 12 August 2012 |access-date=7 September 2012}}</ref><ref>{{cite web|url=http://www.london2012.com/athlete/andriitsev-valerii-1051018/|publisher=www.london2012.com|title=Valerii Andriitsev Profile London Olympics 2012|date=7 September 2012|access-date=12 August 2012|archive-date=3 January 2013|archive-url=https://archive.today/20130103184336/http://www.london2012.com/athlete/andriitsev-valerii-1051018/|url-status=dead}}</ref><ref>{{cite web|url=http://timesofindia.indiatimes.com/sports/london-olympics-2012/news/Lonon-Olympics-Varner-wins-96kg-freestyle-gold-for-US/articleshow/15461790.cms?prtpage=1|title=London Olympics: Varner wins 96kg freestyle gold for US|publisher=Times of India|date= 12 August 2012 |access-date=7 September 2012}}</ref> At the [[2014 World Wrestling Championships]] he took the bronze medal after winning a rematch against American [[Jake Varner]], who beat him in the gold medal match at the 2012 Olympics.<ref>{{Cite web|url=https://www.olympic.org/london-2012/wrestling/freestyle-96-kg-men|title=London 2012 Freestyle 96 kg men - Olympic Wrestling|date=2016-06-27|access-date=2016-07-30}}</ref><ref>{{Cite web|url=http://intermatwrestle.com/articles/13440|title=Men's freestyle World medalists|access-date=2016-07-30|archive-date=2020-10-25|archive-url=https://web.archive.org/web/20201025101626/https://intermatwrestle.com/articles/13440|url-status=dead}}</ref>  In June 2015, he earned bronze at the [[European Games 2015|inaugural European Games]] for [[Ukraine at the 2015 European Games|Ukraine]] in [[Wrestling at the 2015 European Games|wrestling]], more specifically, in the men's freestyle in the - 97&nbsp;kg division.<ref>{{Cite web|url=http://www.baku2015.com/en_externalmodules/WR/pdf/WRM297000_C75_155.pdf|archive-url=https://web.archive.org/web/20150617190949/http://www.baku2015.com/en_externalmodules/WR/pdf/WRM297000_C75_155.pdf|url-status=usurped|archive-date=June 17, 2015|title=2015 European Games - Men's Freestyle 97kg|date=17 June 2015|access-date=30 July 2016}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://archive.today/20130123140022/http://www.fila-official.com/index.php?option=com_database&act=ficheLutteur&Itemid=&id_lutteur=541292AEAD694461859547227A254C9F&filtre_pays=Ukraine&lettre=A&recherche_lutteur=&lang=en bio on fila-wrestling.com]
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Andriytsev, Valerii}}
+[[Category:1987 births]]
+[[Category:Martial artists from Kyiv]]
+[[Category:Living people]]
+[[Category:Wrestlers at the 2012 Summer Olympics]]
+[[Category:Wrestlers at the 2016 Summer Olympics]]
+[[Category:Ukrainian male sport wrestlers]]
+[[Category:Olympic wrestlers for Ukraine]]
+[[Category:Olympic silver medalists for Ukraine]]
+[[Category:Olympic medalists in wrestling]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:European Games bronze medalists for Ukraine]]
+[[Category:Wrestlers at the 2015 European Games]]
+[[Category:Medalists at the 2015 European Games]]
+[[Category:European Games medalists in wrestling]]
+[[Category:World Wrestling Championships medalists]]
+[[Category:European Wrestling Championships medalists]]
+[[Category:21st-century Ukrainian sportsmen]]
+
+
+{{ukraine-martialart-bio-stub}}
+{{Ukraine-Olympic-medalist-stub}}

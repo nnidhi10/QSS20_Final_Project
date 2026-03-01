@@ -1,0 +1,161 @@
+{{Short description|Turkish yacht racer}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox sportsperson
+| headercolor       =
+| name              = Alican Kaynar
+| image             = <!-- name.jpg -->
+| image_size        = <!--Only for images narrower than 220 pixels.-->
+| caption           =
+| birth_name        =
+| full_name         =
+| nickname          =
+| nationality       = Turkish
+| citizenship       =
+| birth_date        = {{birth date and age|df=yes|1988|10|30}}
+| birth_place       = [[Istanbul]], Turkey
+| death_date        = <!-- {{death date and age|df=yes|death year|death month|death day|birth year|birth month|birth day}} -->
+| death_place       =
+| monuments         =
+| education         = [[Industrial engineering]]
+| alma_mater        = [[Bahçeşehir University]]
+| occupation        =
+| yearsactive       =
+| other_interests   =
+| website           =
+| country           = [[Turkey]]
+| sport             = [[Sailing (sport)|Sailing]]
+| event             = [[Finn (dinghy)|Finn]] class
+| league            =
+| league_type       =
+| employer          =
+| agent             =
+| height            = 1.91 m (2012)
+| weight            = 100 kg (2012)
+| universityteam    =
+| collegeteam       =
+| club              = [[Fenerbahçe Sailing]]
+| team              =
+| turnedpro         =
+| partner           =
+| former_partner     =
+| coach             = Mehmet Dinçay
+| coaching          =
+| retired           =
+| worlds            =
+| regionals         =
+| nationals         =
+| olympics          =
+| paralympics       =
+| highestranking    =
+| pb                =
+| medaltemplates    =
+{{MedalSport |Men's [[sailing (sport)|sailing]]}}
+{{MedalCountry |{{TUR}} }}
+{{MedalCompetition|Balkan Championships}}
+{{MedalGold |2010 Burgas |J [[Finn (dinghy)|Finn]] }}
+{{MedalSilver |2009 Donji Milanovac |J [[Finn (dinghy)|Finn]] }}
+| show-medals       = 
+| module            =
+| module2           =
+| updated           = 
+}}
+
+'''Alican Kaynar''' (born 30 October 1988) is a Turkish [[yacht racing|yacht racer]] competing in the [[Finn (dinghy)|Finn]] class. The {{convert|1.91|m|ftin|abbr=on}} tall athlete at {{convert|100|kg|lb|abbr=on}} is a member of [[Fenerbahçe Sailing]], where he is coached by Mehmet Dinçay.<ref name="gsb">{{cite web |url=http://www.gsb.gov.tr/londra2012/site/sporcular.asp?nameid=446 |archive-url=https://archive.today/20121222044845/http://www.gsb.gov.tr/londra2012/site/sporcular.asp?nameid=446 |url-status=dead |archive-date=2012-12-22 |publisher=GSB |title=Türk Sporcular 2012 Londra Olimpiyatlarında-Yelken-Alican Kaynar |language=Turkish |accessdate=2012-07-10}}</ref>
+
+Alican Kaynar is a student of [[Industrial engineering]] at the [[Bahçeşehir University]], Istanbul.<ref>{{cite web |url=http://www.tyf.org.tr/Content/335/2010-yili |publisher=TYF |title=2010 Yılı-Alican Kaynar |language=Turkish |accessdate=2012-07-11 |archive-url=https://web.archive.org/web/20111102212856/http://www.tyf.org.tr/Content/335/2010-yili |archive-date=2011-11-02 |url-status=dead }}</ref>
+
+He qualified for participation at the [[Turkey at the 2012 Summer Olympics|2012 Summer Olympics]],<ref name="gsb"/> in the [[Sailing at the 2012 Summer Olympics – Finn class|Finn class]] event, he placed 18th with 154 points.<ref name="o2012">{{cite web |url=http://www.olympic.org/olympic-results/london-2012/sailing/finn-one-person-dinghy-heavyweight-m |website=Olympic.org |title=London 2012 Sailing, Finn - One Person Dinghy (Heavyweight) men Final |accessdate=2013-10-26}}</ref>  He competed in the same event at the [[2016 Summer Olympics|2016 Olympics]], finishing in 13th.<ref name="Rio2016">{{Cite news |url=https://www.bbc.co.uk/sport/olympics |title=Results - Finn Men - Sailing - Rio 2016 - Olympics |work=BBC Sport |access-date=2017-09-27}}</ref><ref>{{cite Sports-Reference}}</ref>
+
+==Achievements==
+{| {{AchievementTable|Event=yes}}
+|-
+!colspan="6"|Representing {{TUR}}
+|-
+|rowspan=3 |2009
+|Athens Eurolymp Week
+|[[Athens]], [[Greece]]
+|8th
+|[[Finn (dinghy)|Finn]]
+|<ref name="gsb"/>
+|-
+|Istanbul Sail Week
+|[[Istanbul]], Turkey
+|style="background:silver;" |2nd
+|[[Finn (dinghy)|Finn]]
+|<ref name="gsb"/>
+|-
+|Balkan & Open Sailing Championship
+|[[Donji Milanovac]], [[Serbia]]
+|style="background:silver;" |2nd
+|Junior [[Finn (dinghy)|Finn]]
+|<ref>{{cite web |url=http://www.turksail.com/index.php?option=com_content&view=article&catid=41:yurtd-haberleri&id=1941:yelkencilerimiz-balkanda-frtna-gibi-esti&Itemid=68 |publisher=Turk Sail |title=Yelkencilerimiz Balkan'da fırtına gibi esti |date=2009-09-09 |language=Turkish |accessdate=2012-07-11}}</ref>
+|-
+|2010
+|Balkan & Open Sailing Championship
+|[[Burgas]], [[Bulgaria]]
+|style="background:gold;" |1st
+|Junior [[Finn (dinghy)|Finn]]
+|<ref name="gsb"/>
+|-
+|2011
+|Expert Garda Week
+|[[Lake Garda|Garda]], [[Italy]]
+|14th
+|[[Finn (dinghy)|Finn]]
+|<ref name="gsb"/>
+|-
+|2012
+|[[2012 London Olympic Games|London Olympic Games]]
+|[[Weymouth, Dorset|Weymouth]], [[Great Britain]]
+|18th
+|[[Finn (dinghy)|Finn]]
+|<ref name="o2012"/>
+|-
+|2013
+|[[2013 Finn European Championship]]
+|[[Warnemünde]], [[Germany]]
+|10th
+|[[Finn (dinghy)|Finn]]
+|<ref name="gsb"/>
+|-
+|2016
+|[[2016 Olympic Games|Rio Olympic Games]]
+|[[Marina da Glória]], [[Brazil]]
+|13th
+|[[Finn (dinghy)|Finn]]
+|<ref name="Rio2016"/>
+|-
+|2017
+|[[2017 Sailing World Cup|Sailing World Cup]]
+|[[Hyères]], [[France]]
+|style="background:gold;" | 1st
+|[[Finn (dinghy)|Finn]]
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{World Sailing|id=TURAK2|www=alican-kaynar}}
+* {{Olympics.com|alican-kaynar}}
+* [https://olympics.com/en/paris-2024/athlete/alican-kaynar_1567059 Alican Kaynar] at the [[Paris 2024 Summer Olympics]]
+* {{Olympedia}}
+* {{Olimpedya|534/alican-kaynar}}
+* {{TMOK profile|alican-kaynar/4890}}
+
+{{DEFAULTSORT:Kaynar, Alican}}
+[[Category:1988 births]]
+[[Category:Living people]]
+[[Category:Turkish male sailors (sport)]]
+[[Category:Olympic sailors for Turkey]]
+[[Category:Sailors at the 2012 Summer Olympics – Finn]]
+[[Category:Sailors at the 2016 Summer Olympics – Finn]]
+[[Category:Sailors at the 2020 Summer Olympics – Finn]]
+[[Category:Sailors at the 2024 Summer Olympics – Nacra 17]]
+[[Category:Fenerbahçe sailors]]
+[[Category:Sailors (sport) from Istanbul]]
+[[Category:21st-century Turkish sportsmen]]
+
+
+{{Turkey-yachtracing-bio-stub}}

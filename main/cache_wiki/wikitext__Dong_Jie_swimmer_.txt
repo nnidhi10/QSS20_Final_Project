@@ -1,0 +1,54 @@
+{{Short description|Chinese swimmer (born 1998)}}
+{{Family name hatnote|[[Dǒng|Dong]]|lang=Chinese}}
+{{use dmy dates|date=August 2016}}
+{{Infobox swimmer
+| name           = Dong Jie
+| image          = 
+| caption        = 
+| fullname       = 
+| nationality    = Chinese
+| strokes        =Freestyle 
+| birth_date     = {{birth date and age|1998|10|31|df=yes}}
+| birth_place    = [[Huai'an]], China
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| medaltemplates =
+{{MedalSport|Women's swimming}}
+{{MedalCountry | {{CHN}}}}
+{{MedalCompetition|[[Olympic Games]]}}
+[[File:Olympic rings.svg|center|80px]]
+{{MedalGold|[[Swimming at the 2020 Summer Olympics|2020 Tokyo]]|[[Swimming at the 2020 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]]}}
+|show-medals={{MedalSport|Women's swimming}}
+{{MedalCountry | {{CHN}}}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalGold|[[Swimming at the 2020 Summer Olympics|2020 Tokyo]]|[[Swimming at the 2020 Summer Olympics – Women's 4 × 200 metre freestyle relay|4×200 m freestyle]]}}}}
+
+'''Dong Jie''' ({{zh|c=董洁}}, born 31 October 1998) is a Chinese [[Swimming (sport)|swimmer]]. She competed in the [[Swimming at the 2016 Summer Olympics – Women's 4 × 200 metre freestyle relay|women's 4 × 200 metre freestyle relay]] event at the [[2016 Summer Olympics]].<ref name="Bio">{{cite web|url=https://www.rio2016.com/en/athlete/jie-dong |title=Dong Jie |accessdate=11 August 2016 |work=Rio 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160824234947/https://www.rio2016.com/en/athlete/jie-dong |archive-date=24 August 2016}}</ref> She won the gold medal in the [[Swimming at the 2020 Summer Olympics – Women's 4 × 200 metre freestyle relay|women's 4 × 200 metre freestyle relay]] at the [[2020 Summer Olympics]] as a swimmer in the preliminary series.<ref>{{cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMW4X200MFR----------HEAT000100--.pdf |title=Women's 4 x 200m Freestyle Relay: Results |work=Tokyo 2020 |access-date=28 July 2021 |archive-date=28 July 2021 |archive-url=https://web.archive.org/web/20210728115347/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMW4X200MFR----------HEAT000100--.pdf |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Olympic champions in women's 4 × 200 m freestyle relay}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dong, Jie}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Olympic swimmers for China]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:Swimmers from Jiangsu]]
+[[Category:Sportspeople from Huai'an]]
+[[Category:Chinese female freestyle swimmers]]
+[[Category:Swimmers at the 2020 Summer Olympics]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:Olympic gold medalists in swimming]]
+[[Category:Olympic gold medalists for China]]
+[[Category:21st-century Chinese sportswomen]]
+
+
+{{PRChina-swimming-Olympic-medalist-stub}}

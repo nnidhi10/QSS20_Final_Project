@@ -1,0 +1,1648 @@
+{{short description|none}}
+{{Shooting at the 2016 Summer Olympics}}
+This article details the qualifying phase for '''[[shooting at the 2016 Summer Olympics]]'''. 366 quota places for the Games are entitled to the shooters coming from their respective NOCs, based on the results at designated ISSF supervised Championships subjected to the ISSF rules from August 1, 2014, to March 31, 2016, while the remaining twenty-four are available to the eligible NOCs under the Tripartite Commission Invitation to get a total quota of 390. Host nation [[Brazil at the 2016 Summer Olympics|Brazil]] has been guaranteed nine quota places with one in each of the following events: 50 m rifle prone, 25 m rapid fire pistol, 10 m air pistol (both men and women), 10 m air rifle (women), trap (both men and women), and skeet (both men and women).<ref name="shooting qual"/><ref name=wch-shooting>{{cite news|title=Rio 2016 Quota Places: the distribution rules|url=http://www.issf-sports.org/news.ashx?newsid=2002|publisher=[[International Shooting Sport Federation|ISSF]]|date=5 February 2014|accessdate=21 October 2015}}</ref>
+
+Quota places can be obtained at the [[2014 ISSF World Shooting Championships|2014]] and 2015 ISSF World Championships, the [[2015 ISSF World Cup]] series, and the designated Continental Championships or Games during the qualifying period.<ref name=wch-shooting/>
+
+==Summary==
+{| class="wikitable" width=900 style="text-align:center; font-size:90%"
+! rowspan="2" style="text-align:center;"| Nation !! colspan="9" | Men !! colspan="6" | Women !! colspan="2"|Total
+|-style="font-size:95%"
+! width=30|[[#50 m rifle 3 positions men|FR 3x40]] || width=30|[[#50 m rifle prone men|FR 60PR]] ||width=30|[[#10 m air rifle men|AR 60]] || width=30|[[#50 m pistol men|FP]] || width=30|[[#25 m rapid fire pistol men|RFP]] || width=30|[[#10 m air pistol men|AP 60]] || width=30|[[#Trap men|TR 125]] || width=30|[[#Double trap men|DT 150]] || width=30|[[#Skeet men|SK 125]] || width=30|[[#50 m rifle 3 positions women|STR 3x20]] || width=30|[[#10 m air rifle women|AR 40]] || width=30|[[#25 m pistol women|SP]] || width=30|[[#10 m air pistol women|AP 40]] || width=30|[[#Trap women|TR 75]] || width=30|[[#Skeet women|SK 75]] || width=50| Quotas || width=50| Athletes
+|-
+| style="text-align:left;" |{{flagIOC|ALG|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|AND|2016 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ANG|2016 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ARG|2016 Summer}} || || || || || || ||1|| ||1||1||1|| || || ||1||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|ARM|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|AUS|2016 Summer}} ||1||2||1||1||1||1||2||1||2|| ||1||1||1||2||1||'''18'''||'''18'''
+|-
+| style="text-align:left;" |{{flagIOC|AUT|2016 Summer}} ||1||1||1|| || || || || ||1|| ||1|| || || || ||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|AZE|2016 Summer}} || || || || ||1|| || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BRN|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BAN|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BAR|2016 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BLR|2016 Summer}} || ||1||2|| || || || || || || || || ||1|| || ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|BEL|2016 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BHU|2016 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BOL|2016 Summer}} || || || || || ||1|| || || || ||1|| || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|BIH|2016 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BRA|2016 Summer}} || ||1|| || ||1||2||1|| ||1|| ||1|| || ||1||1||'''9'''||'''9'''
+|-
+| style="text-align:left;" |{{flagIOC|BUL|2016 Summer}} || || ||1|| || ||1|| || || || || ||1|| || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|CAN|2016 Summer}} || || || || || |||| || || || || ||1||1||1|| ||'''3'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|CHI|2016 Summer}} || || || || || |||| || || || || || || || ||1||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|CHN|2016 Summer}} ||2||1||2||2||2||2|| ||2|| ||2||2||2||2||1||2||'''24'''||'''22'''
+|-
+| style="text-align:left;" |{{flagIOC|COL|2016 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|CRO|2016 Summer}} || || ||1|| || || ||2|| || ||1||2|| ||1|| || ||'''7'''||'''7'''
+|-
+| style="text-align:left;" |{{flagIOC|CUB|2016 Summer}} ||1||1|| ||1||1|| || || ||1||1||1|| || || || ||'''7'''||'''7'''
+|-
+| style="text-align:left;" |{{flagIOC|CYP|2016 Summer}} || || || || || || || || ||1|| || || || || ||1||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|CZE|2016 Summer}} || ||1|| || || || ||1|| || ||2|| || || || ||1||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|DEN|2016 Summer}} || ||1|| || || || || || ||1|| ||1|| || || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|DOM|2016 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ECU|2016 Summer}} || || || || || || || || || || || ||1|| || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|EGY|2016 Summer}} ||1||1|| ||1||1||1||2|| ||2||1||2|| ||1|| || ||'''13'''||'''12'''
+|-
+| style="text-align:left;" |{{flagIOC|ESA|2016 Summer}} || || || || || |||| || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|EST|2016 Summer}} || || || || ||1|| || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|FIJ|2016 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|FIN|2016 Summer}} || || || || || || ||1|| || || || || || ||1|| ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|FRA|2016 Summer}} ||2||1||1|| ||1|| || || ||2||1|| ||2||1|| || ||'''11'''||'''11'''
+|-
+| style="text-align:left;" |{{flagIOC|GEO|2016 Summer}} || || || || || ||1|| || || || || ||1|| || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|GER|2016 Summer}} ||2||2||2|| ||2|| || ||1||1||2||2||1|| ||1||1||'''17'''||'''15'''
+|-
+| style="text-align:left;" |{{flagIOC|GBR|2016 Summer}} || || || || || || ||1||2|| ||1|| || || || ||2||'''6'''||'''6'''
+|-
+| style="text-align:left;" |{{flagIOC|GRE|2016 Summer}} || || || || || || || || ||1|| || || ||1|| || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|GUA|2016 Summer}} || || || || || || || ||2|| || || || || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|HUN|2016 Summer}} || ||1||2|| || ||1|| || || || ||1||2||1|| || ||'''8'''||'''8'''
+|-
+| style="text-align:left;" |{{flagIOC|IND|2016 Summer}} ||2||1||1||2|| ||1||2|| ||1|| ||2|| ||1|| || ||'''13'''||'''12'''
+|-
+| style="text-align:left;" |{{flagIOC|IRI|2016 Summer}} || || ||1|| || || || || || ||1||2|| ||1|| || ||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|ISR|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ITA|2016 Summer}} ||1||1|| ||1||1|| ||2||2||2|| ||1|| || ||1||2||'''14'''||'''14'''
+|-
+| style="text-align:left;" |{{flagIOC|JPN|2016 Summer}} ||1|| ||1||1||2|| || || || || || ||1|| ||1||1||'''8'''||'''8'''
+|-
+| style="text-align:left;" |{{flagIOC|KAZ|2016 Summer}} ||1|| || || || ||2|| || || ||1|| || || ||1|| ||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|KOS|2016 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|KUW|2016 Summer}} || || || || || || ||2||2||2|| || || || || || ||'''6'''||'''6'''
+|-
+| style="text-align:left;" |{{flagIOC|LAT|2016 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|LIB|2016 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|LTU|2016 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MKD|2016 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MAS|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MLT|2016 Summer}} || || || || || || ||1|| || || || || ||1|| || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|MEX|2016 Summer}} || || || || || || || || || || ||1|| ||1|| || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|MGL|2016 Summer}} || || || || || || || || || || ||1||2|| || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|MAR|2016 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MYA|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NAM|2016 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NZL|2016 Summer}} || ||1|| || || || || || || || || || || ||1||1||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|NCA|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PRK|2016 Summer}} || || || ||2|| || || || || || || ||1|| ||1|| ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|NOR|2016 Summer}} ||2|| ||1|| || || || || || ||1|| || || || || ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|OMA|2016 Summer}} ||1|| || || || |||| || || || || || ||1|| || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|PAK|2016 Summer}} || || || || || ||1|| || || || ||1|| || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|PAN|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PAR|2016 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PER|2016 Summer}} || || || ||1|| || ||1|| || || || || || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|POL|2016 Summer}} || || || || || ||1|| || || ||2|| || ||1|| ||1||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|POR|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PUR|2016 Summer}} || || || || || || || || || ||1|| || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|QAT|2016 Summer}} || || || || || || || || ||2|| || || || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|ROU|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|RUS|2016 Summer}} ||1||2||2||1||1||2||1||2||1|| ||1||2||2||2||1||'''21'''||'''19'''
+|-
+| style="text-align:left;" |{{flagIOC|SMR|2016 Summer}} || || || || || || ||1|| || || || || || ||2|| ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|KSA|2016 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|SRB|2016 Summer}} ||1|| ||2||1|| ||1|| || || || ||2|| ||2|| || ||'''9'''||'''9'''
+|-
+| style="text-align:left;" |{{flagIOC|SIN|2016 Summer}} || || || || || || || || || ||1|| ||1|| || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|SVK|2016 Summer}} || || || ||1|| ||1||2|| || || || || || || ||1||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|SLO|2016 Summer}} || || || || || || ||1|| || || ||1|| || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|KOR|2016 Summer}} ||1||2||1||2||2||2|| || || ||2||2||2||2|| || ||'''18'''||'''17'''
+|-
+| style="text-align:left;" |{{flagIOC|ESP|2016 Summer}} || || ||1||1||1|| ||1|| || || || || ||1||1|| ||'''6'''||'''6'''
+|-
+| style="text-align:left;" |{{flagIOC|SRI|2016 Summer}} || ||1|| || || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|SWE|2016 Summer}} || || || || || || || ||1||2|| || || || || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|SUI|2016 Summer}} ||1|| || || || || || || || ||1||2||1|| || || ||'''5'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|TPE|2016 Summer}} || || || || || || ||1|| || || || || ||2||1|| ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|THA|2016 Summer}} ||1||1|| || || || || || || || || ||1||1|| ||1||'''5'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|TUN|2016 Summer}} || || || || || || || || || || || ||1|| || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|TUR|2016 Summer}} || || || || || ||2||2|| || || || || || || || ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|UKR|2016 Summer}} ||1|| ||1|| ||1||2|| || ||1||1|| || ||1|| || ||'''8'''||'''8'''
+|-
+| style="text-align:left;" |{{flagIOC|UAE|2016 Summer}} || || || || || || || ||1||2|| || || || || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|USA|2016 Summer}} ||1||2||2||1||2||1|| ||2||2||1||1||1||1||1||2||'''20'''||'''20'''
+|-	
+| style="text-align:left;" |{{flagIOC|UZB|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|VEN|2016 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|VIE|2016 Summer}} || || || ||1|| ||1|| || || || || || || || || ||'''2'''|'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|ZIM|2016 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+! style="text-align:center;" |'''Total: 97 [[National Olympic Committee|NOCs]]''' ||25||26||33||22||22||30||31||22||32||24||38||24||29||21||21||'''400'''||'''390'''
+|}
+
+==Qualification timeline==
+
+{|class="wikitable" width=620
+|-
+! Event !! Date !! Venue
+|-
+| [[2014 ISSF World Shooting Championships]] || September 8–19, 2014 || {{flagicon|ESP}} [[Granada]]
+|-
+| 2014 American Continental Championships || October 11–20, 2014 || {{flagicon|MEX}} [[Guadalajara]]
+|-
+| 2015 ISSF World Cup # 1 || March 2–9, 2015 || {{flagicon|MEX}} [[Acapulco]]
+|-
+| 2015 ISSF World Cup # 2 || March 21–28, 2015 || {{flagicon|UAE}} [[Al Ain]]
+|-
+| 2015 ISSF World Cup # 3 || April 10–15, 2015 || {{flagicon|KOR}} [[Changwon]]
+|-
+| 2015 ISSF World Cup # 4 || April 26 – May 3, 2015 || {{flagicon|CYP}} [[Larnaca]]
+|-
+| 2015 ISSF World Cup # 5 || May 13–18, 2015 || {{flagicon|USA}} [[Fort Benning]]
+|-
+| 2015 ISSF World Cup # 6 || May 28 – June 1, 2015 || {{flagicon|GER}} [[Munich]]
+|-
+| [[Shooting at the 2015 European Games|2015 European Games]] || June 16–21, 2015 || {{flagicon|AZE}} [[Baku]]
+|-
+| [[Shooting at the 2015 Pan American Games|2015 Pan American Games]] || July 12–19, 2015 || {{flagicon|CAN}} [[Toronto]]
+|-
+| 2015 European Shooting Championships || July 21–31, 2015 || {{flagicon|SLO}} [[Maribor]]
+|-
+| 2015 ISSF World Cup # 7 || August 8–15, 2015 || {{flagicon|AZE}} [[Qabala|Gabala]]
+|-
+| 2015 ISSF World Shotgun Championships || September 11–17, 2015 || {{flagicon|ITA}} [[Lonato]]
+|-
+| 2015 Oceania Continental Championships || November 27 – December 2, 2015 || {{flagicon|AUS}} [[Sydney]]
+|-
+| 2015 African Continental Championships || November 30 – December 6, 2015 || {{flagicon|EGY}} [[Cairo]]
+|-
+| [[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]*|| January 25 – February 3, 2016<ref>{{cite news|url=http://www.issf-sports.org/news.ashx?newsid=2451|title="Asia Olympic Qualifying Competition for Shooting" to take place in New Delhi|publisher=[[International Shooting Sport Federation|ISSF]]|date=24 November 2015|accessdate=25 November 2015}}</ref>|| {{flagicon|IND}} [[New Delhi]]
+|-
+| 2016 European Championships 10m events || February 24–27, 2016 || {{flagicon|HUN}} [[Győr]]
+|-
+| Re-allocation of unused quota places || July 18, 2016 ||
+|}
+<small><nowiki>*</nowiki> The Asian Championships were scheduled to take place on November 1 to 12, 2015 in [[Kuwait City, Kuwait]], and served as a final Olympic qualifier for the aforementioned continent, but the IOC had stripped the nation of its rights and revoked the Olympic qualifying status of the competition, following the Kuwait NOC's suspension for government interference and the denial of visa for the ISSF technical delegate from Israel.</small>
+
+== 50&nbsp;m rifle three positions men ==
+<ref name="QuotaPlaces">{{Cite web |url=http://www.issf-sports.org/media/calendar/2016/1664/OG%20BRA%202016%20Entry%20List%20by%20NOC%2020160718.pdf|title=ISSF Rio 2016 Olympics – Entry List by NOC|format=PDF|publisher=[[International Shooting Sport Federation|ISSF]]|accessdate=25 July 2016}}</ref>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2014 World Championships 
+|{{flagIOC|CHN|2016 Summer}} || [[Zhu Qinan]] || [[Zhu Qinan]]
+|-
+|{{flagIOC|UKR|2016 Summer}} || [[Serhiy Kulish]] || [[Serhiy Kulish]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Han Jin-seop]] || [[Kim Hyeon-jun]]
+|-
+|{{flagIOC|NOR|2016 Summer}} || [[Are Hansen]] || [[Odd Arne Brekne]]
+|-
+|{{flagIOC|ITA|2016 Summer}} || [[Niccolò Campriani]] || [[Niccolò Campriani]]
+|-
+| 2014 American Continental Championships
+|{{flagIOC|CUB|2016 Summer}} || [[Alexander Molerio]] || [[Alexander Molerio]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 
+|{{flagIOC|CHN|2016 Summer}} || [[Hui Zicheng]] || [[Hui Zicheng]]
+|-
+|{{flagIOC|NOR|2016 Summer}} || [[Ole Kristian Bryhn]] || [[Ole Kristian Bryhn]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 
+|{{flagIOC|JPN|2016 Summer}} || [[Toshikazu Yamashita]] || [[Toshikazu Yamashita]]
+|-
+|{{flagIOC|KAZ|2016 Summer}} || [[Yuriy Yurkov]] || [[Yuriy Yurkov]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6
+|{{flagIOC|GER|2016 Summer}} || [[Andre Link]] || [[Andre Link]]
+|-
+|{{flagIOC|FRA|2016 Summer}} || [[Alexis Raynaud]] || [[Alexis Raynaud]]
+|-
+| 2015 European Games 
+|{{flagIOC|FRA|2016 Summer}} || [[Valérian Sauveplane]] || [[Valérian Sauveplane]]
+|-
+| [[Shooting at the 2015 Pan American Games – Men's 50 metre rifle three positions|2015 Pan American Games]] 
+|{{flagIOC|USA|2016 Summer}} || [[George Norton (sport shooter)|George Norton]] || [[Matthew Emmons]]
+|-
+| rowspan="3"| 2015 European Championships 
+|{{flagIOC|SRB|2016 Summer}} || [[Milenko Sebić]] || [[Stevan Pletikosić]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Michael Janker]] || [[Daniel Brodmeier]]
+|-
+|{{flagIOC|AUT|2016 Summer}} || [[Gernot Rumpler]]|| [[Gernot Rumpler]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 
+|{{flagIOC|RUS|2016 Summer}} || [[Fedor Vlasov]] || [[Fedor Vlasov]]
+|-
+|{{flagIOC|IND|2016 Summer}} || [[Chain Singh]] || [[Chain Singh]]
+|-
+| rowspan="1"|  2015 Oceania Championships 
+|{{flagIOC|AUS|2016 Summer}} || [[Dane Sampson]] || [[William Godward]]
+|-
+| rowspan="1"|  2015 African Championships 
+|{{flagIOC|EGY|2016 Summer}} || [[Hamada Talat]] || [[Hamada Talat]]
+|-
+| rowspan="3"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+|{{flagIOC|IND|2016 Summer}} || [[Sanjeev Rajput]]{{ref label|IND|a|a}} || —
+|-
+|{{flagIOC|QAT|2016 Summer}} || [[Vitaliy Dovgun]]{{ref label|QAT|f|f}} || —
+|-
+|{{flagIOC|THA|2016 Summer}} || [[Napis Tortungpanich]] || [[Napis Tortungpanich]]
+|-
+| Exchange of quota places 
+|{{flagIOC|SUI|2016 Summer}} || {{n/a}} || [[Jan Lochbichler]]{{ref label|SUI|i|i}}
+|-
+| Tripartite Commission Invitation 
+|{{flagIOC|OMA|2016 Summer}} || {{n/a}} || [[Hamed Said Al-Khatri]]
+|-
+| rowspan=20|Athletes qualified in other events
+| {{flagIOC|AUS|2016 Summer}} ||  rowspan=20 {{n/a}}|| [[Dane Sampson]]
+|-
+| {{flagIOC|AUT|2016 Summer}} || [[Alexander Schmirl]]
+|-
+| {{flagIOC|BLR|2016 Summer}} || [[Illia Charheika]]
+|-
+| {{flagIOC|BLR|2016 Summer}} || [[Yury Shcherbatsevich]]
+|-
+| {{flagIOC|BRA|2016 Summer}} || [[Cassio Rippel]]
+|-
+| {{flagIOC|BUL|2016 Summer}} || [[Anton Rizov]]
+|-
+| {{flagIOC|CRO|2016 Summer}} || [[Petar Gorša]]
+|-
+| {{flagIOC|CUB|2016 Summer}} || [[Reinier Estpinan]]
+|-
+| {{flagIOC|CZE|2016 Summer}} || [[Filip Nepejchal]]
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[István Péni]] 
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[Péter Sidi]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Gagan Narang]]{{ref label|IND|a|a}}
+|-
+| {{flagIOC|IRN|2016 Summer}} || [[Pouria Norouzian]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Marco de Nicolo]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Kim Jong-hyun (sport shooter)|Kim Jong-hyun]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Sergey Kamenskiy]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Milenko Sebić]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Oleh Tsarkov]]
+|-
+| {{flagIOC|USA|2016 Summer}} || [[Daniel Lowe]]
+|-
+| {{flagIOC|VEN|2016 Summer}} || [[Julio Iemma]]
+|-
+! Total !! !! !! 44
+|}
+
+== 50&nbsp;m rifle prone men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2014 World Championships 
+|{{flagIOC|AUS|2016 Summer}} || [[Warren Potent]] || [[Warren Potent]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Daniel Brodmeier]] || [[Daniel Brodmeier]]
+|-
+|{{flagIOC|BLR|2016 Summer}} || [[Yury Shcherbatsevich]] || [[Yury Shcherbatsevich]]
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Sergey Kamenskiy]] || [[Sergey Kamenskiy]]
+|-
+|{{flagIOC|ITA|2016 Summer}} || [[Marco de Nicolo]] || [[Marco de Nicolo]]
+|-
+| 2014 American Continental Championships
+|{{flagIOC|CUB|2016 Summer}} || [[Reinier Estpinan]] || [[Reinier Estpinan]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 
+|{{flagIOC|USA|2016 Summer}} || [[Matthew Emmons]] || [[David Higgins (sport shooter)|David Higgins]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Kim Hak-man]] || [[Kwon Jun-cheol]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 
+|{{flagIOC|USA|2016 Summer}}  || [[Michael McPhail]] || [[Michael McPhail]]
+|-
+|{{flagIOC|IND|2016 Summer}} || [[Gagan Narang]] || [[Gagan Narang]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6 
+|{{flagIOC|FRA|2016 Summer}} || [[Cyril Graff]] || [[Cyril Graff]]
+|-
+|{{flagIOC|AUT|2016 Summer}} || [[Stefan Raser]] || [[Thomas Mathis (sport shooter)|Thomas Mathis]]
+|-
+| rowspan="1"|  2015 European Games 
+|{{flagIOC|GER|2016 Summer}} || [[Henri Junghänel]] || [[Henri Junghänel]]
+|-
+| rowspan="1"|  [[Shooting at the 2015 Pan American Games – Men's 50 metre rifle prone|2015 Pan American Games]] 
+|{{flagIOC|BRA|2016 Summer}}|| [[Cassio Rippel]] || [[Cassio Rippel]]
+|-
+| rowspan="2"| 2015 European Championships 
+|{{flagIOC|RUS|2016 Summer}} || [[Sergei Kovalenko (sport shooter)|Sergei Kovalenko]] || [[Kirill Grigoryan]]
+|-
+|{{flagIOC|HUN|2016 Summer}} || [[Norbert Szabián]] || [[Norbert Szabián]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 
+|{{flagIOC|DEN|2016 Summer}} || [[Torben Grimmel]] || [[Torben Grimmel]]
+|-
+|{{flagIOC|CZE|2016 Summer}} || [[Tomáš Jeřábek]] || [[Filip Nepejchal]]
+|-
+| rowspan="2"|  2015 Oceania Championships 
+|{{flagIOC|NZL|2016 Summer}} || [[Ryan Taylor (sport shooter)|Ryan Taylor]] || [[Ryan Taylor (sport shooter)|Ryan Taylor]]
+|-
+|{{flagIOC|AUS|2016 Summer}} || [[Frederyk Woodhouse]] || [[Dane Sampson]]
+|-
+| rowspan="1"|  2015 African Championships 
+|{{flagIOC|EGY|2016 Summer}} || [[Ahmed Darwish (sport shooter)|Ahmed Darwish]] || [[Ahmed Darwish (sport shooter)|Ahmed Darwish]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+|{{flagIOC|KOR|2016 Summer}} || [[Kim Jong-hyun (sport shooter)|Kim Jong-hyun]] || [[Kim Jong-hyun (sport shooter)|Kim Jong-hyun]]
+|-
+|{{flagIOC|THA|2016 Summer}} || [[Attapon Uea-aree]] || [[Attapon Uea-aree]]
+|-
+| Exchange of quota places 
+|{{flagIOC|CHN|2016 Summer}} ||  {{n/a}} || [[Zhao Shengbo]]{{ref label|CHN|b|b}}
+|-
+| Tripartite Commission Invitation 
+|{{flagIOC|SRI|2016 Summer}} || {{n/a}} || [[Mangala Samarakoon]]
+|-
+| Re-allocation of unused quota 
+|{{flagIOC|BRN|2016 Summer}} || {{n/a}} || [[Mahmood Haji]]
+|-
+| rowspan=21|Athletes qualified in other events
+| {{flagIOC|AUT|2016 Summer}} ||  rowspan=21 {{n/a}}|| [[Alexander Schmirl]]
+|-
+| {{flagIOC|BLR|2016 Summer}} || [[Vitali Bubnovich]]
+|-
+| {{flagIOC|BUL|2016 Summer}} || [[Anton Rizov]]
+|-
+| {{flagIOC|CHN|2016 Summer}} || [[Cao Yifei]]
+|-
+| {{flagIOC|CRO|2016 Summer}} || [[Petar Gorša]]
+|-
+| {{flagIOC|FRA|2016 Summer}} || [[Jérémy Monnier]]
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[Péter Sidi]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Chain Singh]]
+|-
+| {{flagIOC|ISR|2016 Summer}} || [[Sergey Richter]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Niccolò Campriani]]
+|-
+| {{flagIOC|JPN|2016 Summer}} || [[Toshikazu Yamashita]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Yuriy Yurkov]]
+|-
+| {{flagIOC|NOR|2016 Summer}} || [[Odd Arne Brekne]]
+|-
+| {{flagIOC|NOR|2016 Summer}} || [[Ole Kristian Bryhn]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Stevan Pletikosic]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Milenko Sebić]]
+|-
+| {{flagIOC|SUI|2016 Summer}} || [[Jan Lochbihler]]
+|-
+| {{flagIOC|THA|2016 Summer}} || [[Napis Tortungpanich]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Serhiy Kulish]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Oleh Tsarkov]]
+|-
+| {{flagIOC|VEN|2016 Summer}} || [[Julio Iemma]]
+|-
+! Total !! !! !! 47
+|}
+
+== 10&nbsp;m air rifle men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="6"| 2014 World Championships 
+|{{flagIOC|CHN|2016 Summer}} || [[Yang Haoran]] || [[Yang Haoran]]
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Nazar Louginets]] || [[Sergey Kamenskiy]]
+|-
+|{{flagIOC|BLR|2016 Summer}} || [[Vitali Bubnovich]] || [[Vitali Bubnovich]]
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Sergei Kruglov (sport shooter)|Sergei Kruglov]] || [[Vladimir Maslennikov]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Cao Yifei]] || [[Cao Yifei]]
+|-
+|{{flagIOC|FRA|2016 Summer}} || [[Jérémy Monnier]] || [[Jérémy Monnier]]
+|-
+| 2014 American Continental Championships
+|{{flagIOC|USA|2016 Summer}} || [[Dempster Christenson]] || [[Daniel Lowe (sport shooter)|Daniel Lowe]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 3 
+|{{flagIOC|HUN|2016 Summer}} || [[Péter Sidi]] || [[Péter Sidi]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Kim Sang-do]] || [[Jung Ji-geun]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Nicolas Schallenberger]] || [[Michael Janker]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 5 
+|{{flagIOC|SRB|2016 Summer}}  || [[Milutin Stefanović]]  || [[Milutin Stefanović]]
+|-
+|{{flagIOC|BUL|2016 Summer}} ||[[Anton Rizov]]  || [[Anton Rizov]]
+|-
+|{{flagIOC|AUT|2016 Summer}} ||[[Alexander Schmirl]]  || [[Alexander Schmirl]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 6 
+|{{flagIOC|IND|2016 Summer}}  || [[Abhinav Bindra]]  || [[Abhinav Bindra]]
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Stevan Pletikosić]] || [[Milenko Sebić]]
+|-
+|{{flagIOC|UKR|2016 Summer}} || [[Oleh Tsarkov]] || [[Oleh Tsarkov]]
+|-
+| rowspan="1"|  2015 European Games 
+|{{flagIOC|ISR|2016 Summer}} || [[Sergey Richter]]  || [[Sergey Richter]]
+|-
+| rowspan="2"|  [[Shooting at the 2015 Pan American Games – Men's 10 metre air rifle|2015 Pan American Games]] 
+|{{flagIOC|USA|2016 Summer}} || [[Connor Davis]]  || [[Lucas Kozeniesky]]
+|-
+|{{flagIOC|VEN|2016 Summer}} || [[Julio Iemma]]  || [[Julio Iemma]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 7 
+|{{flagIOC|CRO|2016 Summer}}  || [[Petar Gorša]]  || [[Petar Gorša]]
+|-
+|{{flagIOC|BLR|2016 Summer}} ||[[Illia Charheika]]  || [[Illia Charheika]]
+|-
+|{{flagIOC|HUN|2016 Summer}} ||[[István Péni]]  || [[István Péni]] 
+|-
+| rowspan="1"|  2015 Oceania Championships 
+|{{flagIOC|AUS|2016 Summer}} || [[Jack Rossiter]] || [[Jack Rossiter]]
+|-
+| rowspan="1"|  2015 African Championships 
+|{{flagIOC|ALG|2016 Summer}} || [[Chafik Bouaoud]] || [[Chafik Bouaoud]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+|{{flagIOC|JPN|2016 Summer}} || [[Naoya Okada]] || [[Naoya Okada]]
+|-
+|{{flagIOC|IRI|2016 Summer}} || [[Pouria Norouzian]] || [[Pouria Norouzian]] 
+|-
+| rowspan="3"| 2016 European Championships 10m events 
+|{{flagIOC|NOR|2016 Summer}} || [[Ole Magnus Bakken]] || [[Are Hansen]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Julian Justus]] || [[Julian Justus]]
+|-
+|{{flagIOC|ESP|2016 Summer}} || [[Jorge Díaz (sport shooter)|Jorge Díaz]] || [[Jorge Díaz (sport shooter)|Jorge Díaz]]
+|-
+| Tripartite Commission Invitation 
+|{{flagIOC|BAN|2016 Summer}} || {{n/a}}|| [[Abdullah Hel Baki]]
+|-
+| rowspan=3|Re-allocation of unused quota
+|{{flagIOC|ARM|2016 Summer}} || rowspan=3 {{n/a}}|| [[Hrachik Babayan]]
+|-
+|{{flagIOC|ROU|2016 Summer}} || [[Alin Moldoveanu]]
+|-
+|{{flagIOC|UZB|2016 Summer}} || [[Vadim Skorovarov]]
+|-
+| rowspan=17|Athletes qualified in other events
+| {{flagIOC|AUS|2016 Summer}} ||  rowspan=17 {{n/a}}|| [[Dane Sampson]]
+|-
+| {{flagIOC|AUT|2016 Summer}} ||  [[Gernot Rumpler]]
+|-
+| {{flagIOC|CUB|2016 Summer}} || [[Reinier Estpinan]]
+|-
+| {{flagIOC|CUB|2016 Summer}} || [[Alexander Molerio]]
+|-
+| {{flagIOC|CZE|2016 Summer}} || [[Filip Nepejchal]]
+|-
+| {{flagIOC|EGY|2016 Summer}} || [[Hamada Talat]]
+|-
+| {{flagIOC|FRA|2016 Summer}} || [[Valérian Sauveplane]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Gagan Narang]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Niccolò Campriani]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Marco de Nicolo]]
+|-
+| {{flagIOC|JPN|2016 Summer}} || [[Toshikazu Yamashita]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Yuriy Yurkov]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Kim Hyeon-jun]]
+|-
+| {{flagIOC|NOR|2016 Summer}} || [[Ole Kristian Bryhn]]
+|-
+| {{flagIOC|SRI|2016 Summer}} ||[[Mangala Samarakoon]]
+|-
+| {{flagIOC|THA|2016 Summer}} ||[[Napis Tortungpanich]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Serhiy Kulish]]
+|-
+! Total !! !! !! 50
+|}
+
+== 50 m pistol men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="4"| 2014 World Championships 
+|{{flagIOC|KOR|2016 Summer}} || [[Jin Jong-oh]] || [[Jin Jong-oh]]
+|-
+|{{flagIOC|IND|2016 Summer}} || [[Jitu Rai]] || [[Jitu Rai]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Pang Wei]] || [[Pang Wei]]
+|-
+|{{flagIOC|VIE|2016 Summer}} || [[Hoàng Xuân Vinh]] || [[Hoàng Xuân Vinh]]
+|-
+| 2014 American Continental Championships
+|{{flagIOC|CUB|2016 Summer}} || [[Jorge Grau (sport shooter)|Jorge Grau]]|| [[Jorge Grau (sport shooter)|Jorge Grau]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 
+|{{flagIOC|CHN|2016 Summer}} || [[Zhang Bowen]]|| [[Wang Zhiwei (sport shooter)|Wang Zhiwei]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Park Dae-hun]] || [[Han Seung-woo (sport shooter)|Han Seung-woo]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 
+|{{flagIOC|SRB|2016 Summer}} || [[Damir Mikec]] || [[Damir Mikec]]
+|-
+|{{flagIOC|USA|2016 Summer}} || [[James Henderson (sport shooter)|James Henderson]] || [[Jay Shi]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6 
+|{{flagIOC|ITA|2016 Summer}} || [[Giuseppe Giordano]] || [[Giuseppe Giordano]]
+|-
+|{{flagIOC|JPN|2016 Summer}} || [[Tomoyuki Matsuda]] || [[Tomoyuki Matsuda]]
+|-
+| rowspan="1"|  2015 European Games || {{flagIOC|SVK|2016 Summer}} || [[Pavol Kopp]] || [[Pavol Kopp]]
+|-
+| rowspan="1"|  [[Shooting at the 2015 Pan American Games – Men's 50 metre pistol|2015 Pan American Games]] 
+|{{flagIOC|PER|2016 Summer}} || [[Marko Carrillo]] || [[Marko Carrillo]]
+|-
+| rowspan="2"| 2015 European Championships  
+|{{flagIOC|ITA|2016 Summer}} || [[Francesco Bruno (sport shooter)|Francesco Bruno]]{{ref label|ITA|k|k}} || —
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Sergey Chervyakovskiy]] || [[Denis Kulakov (shooting)|Denis Kulakov]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 
+|{{flagIOC|ESP|2016 Summer}} || [[Pablo Carrera]] || [[Pablo Carrera]]
+|-
+|{{flagIOC|IND|2016 Summer}} || [[Prakash Nanjappa]] || [[Prakash Nanjappa]]
+|-
+| rowspan="1"|  2015 Oceania Championships 
+|{{flagIOC|AUS|2016 Summer}} || [[Daniel Repacholi]] || [[Daniel Repacholi]]
+|-
+| rowspan="1"|  2015 African Championships 
+|{{flagIOC|EGY|2016 Summer}} || [[Samy Abdel Razek]] || [[Samy Abdel Razek]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+|{{flagIOC|PRK|2016 Summer}} || [[Kim Song-guk (sport shooter)|Kim Song-guk]] || [[Kim Song-guk (sport shooter)|Kim Song-guk]]
+|-
+|{{flagIOC|PRK|2016 Summer}} || [[Kim Jong-su]] ||[[Kim Jong-su]] 
+|-
+| Exchange of quota places 
+|{{flagIOC|BRA|2016 Summer}} ||{{n/a}}  || [[Júlio Almeida]]{{ref label|BRA|c|c}}
+|-
+| Tripartite Commission Invitation 
+|{{flagIOC|BOL|2016 Summer}} ||{{n/a}} || [[Rudolf Knijnenburg]]
+|-
+| rowspan=19|Athletes qualified in other events
+| {{flagIOC|BRA|2016 Summer}} || rowspan=19 {{n/a}}|| [[Felipe Almeida Wu]]
+|-
+| {{flagIOC|BUL|2016 Summer}} || [[Samuil Donkov]]
+|-
+| {{flagIOC|GEO|2016 Summer}} ||  [[Tsotne Machavariani]]
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[Miklós Tátrai]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Vladimir Issachenko]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Rashid Yunusmetov]]
+|-
+| {{flagIOC|MAS|2016 Summer}} || [[Johnathan Wong]]
+|-
+| {{flagIOC|MYA|2016 Summer}} || [[Ye Tun Naung]]
+|-
+| {{flagIOC|PAN|2016 Summer}} || [[David Muñoz (sport shooter)|David Muñoz]]
+|-
+| {{flagIOC|POR|2016 Summer}} || [[João Costa (sport shooter)|João Costa]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Vladimir Gontcharov]]
+|-
+| {{flagIOC|KSA|2016 Summer}} || [[Atallah Al-Anazi]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Dimitrije Grgić]]
+|-
+| {{flagIOC|SVK|2016 Summer}} || [[Juraj Tužinský]]
+|-
+| {{flagIOC|TUR|2016 Summer}} || [[Yusuf Dikeç]]
+|-
+| {{flagIOC|TUR|2016 Summer}} || [[İsmail Keleş]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Oleh Omelchuk]]
+|-
+| {{flagIOC|USA|2016 Summer}} || [[Will Brown (sport shooter)|Will Brown]]
+|-
+| {{flagIOC|VIE|2016 Summer}} || [[Trần Quốc Cường]]
+|-
+! Total !! !! !! 41
+|}
+
+== 25 m rapid fire pistol men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Emerson Duarte]]
+|-
+| rowspan="2"| 2014 World Championships || {{flagIOC|KOR|2016 Summer}}  || [[Kim Seo-jun (sport shooter)|Kim Jun-hong]] || [[Kim Seo-jun (sport shooter)|Kim Jun-hong]]
+|-
+| {{flagIOC|GER|2016 Summer}} || [[Oliver Geis]] || [[Oliver Geis]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 || {{flagIOC|FRA|2016 Summer}} || [[Jean Quiquampoix]] || [[Jean Quiquampoix]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Song Jong-ho (sport shooter)|Song Jong-ho]] || [[Kang Min-su]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 || {{flagIOC|CUB|2016 Summer}} || [[Leuris Pupo]] || [[Leuris Pupo]]
+|-
+| {{flagIOC|GER|2016 Summer}} || [[Christian Reitz]] || [[Christian Reitz]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6 || {{flagIOC|RUS|2016 Summer}} || [[Alexei Klimov]] || [[Alexei Klimov]]
+|-
+| {{flagIOC|USA|2016 Summer}} || [[Keith Sanderson (sport shooter)|Keith Sanderson]] || [[Keith Sanderson (sport shooter)|Keith Sanderson]]
+|-
+| 2015 European Games || {{flagIOC|ESP|2016 Summer}} || [[Jorge Llames]] || [[Jorge Llames]]
+|-
+| rowspan="1"|  [[Shooting at the 2015 Pan American Games – Men's 25 metre rapid fire pistol|2015 Pan American Games]] || {{flagIOC|USA|2016 Summer}} || [[Brad Balsley]] || [[Emil Milev]]
+|-
+| rowspan="1"| 2015 European Championships  || {{flagIOC|UKR|2016 Summer}} || [[Roman Bondaruk]] || [[Roman Bondaruk]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|CHN|2016 Summer}} || [[Hu Haozhe]] || [[Li Yuehong]]
+|-
+| {{flagIOC|CHN|2016 Summer}} || [[Lao Jiajie]] || [[Zhang Fusheng]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|AUS|2016 Summer}} || [[David Chapman (sport shooter)|David Chapman]] || [[David Chapman (sport shooter)|David Chapman]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|EGY|2016 Summer}} || [[Ahmed Shaban]] || [[Ahmed Shaban]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|JPN|2016 Summer}} || [[Teruyoshi Akiyama]] || [[Teruyoshi Akiyama]]
+|-
+|{{flagIOC|JPN|2016 Summer}} || [[Eita Mori]] || [[Eita Mori]]
+|-
+| Exchange of quota places || {{flagIOC|ITA|2016 Summer}} || {{n/a}} || [[Riccardo Mazzetti]]{{ref label|ITA|k|k}}
+|-
+| Tripartite Commission Invitation || {{flagIOC|PAK|2016 Summer}} ||{{n/a}} || [[Ghulam Mustafa Bashir]]
+|-
+| rowspan=2|Re-allocation of unused quota || {{flagIOC|AZE|2016 Summer}} || rowspan=2 {{n/a}}|| [[Ruslan Lunev]]
+|-
+| {{flagIOC|EST|2016 Summer}}  || [[Peeter Olesk (sport shooter)|Peeter Olesk]]
+|-
+| rowspan=4|Athletes qualified in other events|| {{flagIOC|IND|2016 Summer}} || rowspan=4  {{n/a}}|| [[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|-
+| {{flagIOC|PER|2016 Summer}} || [[Marko Carrillo]]
+|-
+| {{flagIOC|POL|2016 Summer}} || [[Piotr Daniluk]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Pavlo Korostylov]]
+|-
+! Total !! !! !! 26
+|}
+
+== 10&nbsp;m air pistol men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="6"| 2014 World Championships 
+|{{flagIOC|TUR|2016 Summer}} || [[Yusuf Dikeç]] || [[Yusuf Dikeç]]
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Vladimir Gontcharov]] || [[Vladimir Gontcharov]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Pu Qifeng]] || [[Pu Qifeng]]
+|-
+|{{flagIOC|VIE|2016 Summer}} || [[Trần Quốc Cường]] || [[Trần Quốc Cường]]
+|-
+|{{flagIOC|SVK|2016 Summer}} || [[Juraj Tužinský]] || [[Juraj Tužinský]]
+|-
+|{{flagIOC|BUL|2016 Summer}} || [[Samuil Donkov]] || [[Samuil Donkov]]
+|-
+| 2014 American Continental Championships
+| {{flagIOC|USA|2016 Summer}} || [[Will Brown (sport shooter)|Will Brown]] || [[Will Brown (sport shooter)|Will Brown]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 3 
+| {{flagIOC|MYA|2016 Summer}} || [[Ye Tun Naung]] || [[Ye Tun Naung]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Dimitrije Grgić]] || [[Dimitrije Grgić]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Leonid Ekimov]] || [[Vladimir Isakov (sport shooter)|Vladimir Isakov]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 5 
+| {{flagIOC|POR|2016 Summer}} || [[João Costa (sport shooter)|João Costa]] || [[João Costa (sport shooter)|João Costa]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Oleh Omelchuk]] || [[Oleh Omelchuk]]
+|-
+| {{flagIOC|TUR|2016 Summer}} || [[İsmail Keleş]] || [[İsmail Keleş]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 6 
+|{{flagIOC|CHN|2016 Summer}}  || [[Sun Yang (shooter)|Sun Yang]]  || [[Pang Wei]]
+|-
+|{{flagIOC|IND|2016 Summer}} || [[Gurpreet Singh (sport shooter)|Gurpreet Singh]] || [[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|-
+|{{flagIOC|KOR|2016 Summer}} ||[[Lee Dae-myung]]  || [[Lee Dae-myung]]
+|-
+| rowspan="1"|  2015 European Games 
+| {{flagIOC|UKR|2016 Summer}} || [[Pavlo Korostylov]] || [[Pavlo Korostylov]]
+|-
+| rowspan="1"|  [[Shooting at the 2015 Pan American Games – Men's 10 metre air pistol|2015 Pan American Games]] 
+| {{flagIOC|BRA|2016 Summer}} || [[Felipe Almeida Wu]] || [[Felipe Almeida Wu]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 7 
+| {{flagIOC|KAZ|2016 Summer}} || [[Rashid Yunusmetov]] || [[Rashid Yunusmetov]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Vladimir Issachenko]] || [[Vladimir Issachenko]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Kim Cheong-yong]]{{ref label|KOR|l|l}} || —
+|-
+| rowspan="1"|  2015 Oceania Championships 
+| {{flagIOC|AUS|2016 Summer}} || [[Chris Summerell]] || [[Blake Blackburn]]
+|-
+| rowspan="1"|  2015 African Championships 
+| {{flagIOC|EGY|2016 Summer}} || [[Ahmed Mohamed (sport shooter)|Ahmed Mohamed]] || [[Ahmed Mohamed (sport shooter)|Ahmed Mohamed]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+| {{flagIOC|MAS|2016 Summer}} || [[Johnathan Wong]] || [[Johnathan Wong]]
+|-
+| {{flagIOC|KSA|2016 Summer}} || [[Atallah Al-Anazi]] || [[Atallah Al-Anazi]]
+|-
+| rowspan="3"| 2016 European Championships 10m events 
+| {{flagIOC|POL|2016 Summer}} || [[Wojciech Knapik]] || [[Piotr Daniluk]]
+|-
+| {{flagIOC|GEO|2016 Summer}} || [[Tsotne Machavariani]] || [[Tsotne Machavariani]]
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[Miklós Tátrai]] || [[Miklós Tátrai]]
+|-
+| rowspan=2|Tripartite Commission Invitation 
+| {{flagIOC|NCA|2016 Summer}} || rowspan=2 {{n/a}} || [[Rafael Lacayo]]
+|-
+| {{flagIOC|PAN|2016 Summer}} || [[David Muñoz (sport shooter)|David Muñoz]]
+|-
+| rowspan=17|Athletes qualified in other events
+| {{flagIOC|AUS|2016 Summer}} ||  rowspan=17 {{n/a}}|| [[Daniel Repacholi]]
+|-
+| {{flagIOC|AZE|2016 Summer}} || [[Ruslan Lunev]]
+|-
+| {{flagIOC|BRA|2016 Summer}} || [[Júlio Almeida]]
+|-
+| {{flagIOC|CUB|2016 Summer}} || [[Jorge Grau (sport shooter)|Jorge Grau]]
+|-
+| {{flagIOC|EGY|2016 Summer}} || [[Samy Abdel Razek]]
+|-
+| {{flagIOC|ESP|2016 Summer}} || [[Pablo Carrera]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Jitu Rai]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Giuseppe Giordano]]
+|-
+| {{flagIOC|JPN|2016 Summer}} || [[Tomoyuki Matsuda]]
+|-
+| {{flagIOC|PRK|2016 Summer}} || [[Kim Song-guk (sport shooter)|Kim Song-guk]]
+|-
+| {{flagIOC|PRK|2016 Summer}} || [[Kim Jong-su]] 
+|-
+| {{flagIOC|PER|2016 Summer}} || [[Marko Carrillo]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Damir Mikec]]
+|-
+| {{flagIOC|SVK|2016 Summer}} || [[Pavol Kopp]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Jin Jong-oh]]{{ref label|KOR|l|l}}
+|-
+| {{flagIOC|USA|2016 Summer}} || [[Jay Shi]]
+|-
+| {{flagIOC|VIE|2016 Summer}} || [[Hoàng Xuân Vinh]]
+|-
+! Total !! !! !! 46
+|}
+
+== Trap men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Roberto Schmits]]
+|-
+| rowspan="3"| 2014 World Championships || {{flagIOC|SVK|2016 Summer}} || [[Erik Varga]] || [[Erik Varga]]
+|-
+| {{flagIOC|GBR|2016 Summer}} || [[Edward Ling]] || [[Edward Ling]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Giovanni Pellielo]] || [[Giovanni Pellielo]]
+|-
+| 2014 American Continental Championships || {{flagIOC|DOM|2016 Summer}} || [[Eduardo Lorenzo]] || [[Eduardo Lorenzo]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 1 ||  {{flagIOC|AUS|2016 Summer}} || [[Michael Diamond (sport shooter)|Michael Diamond]] || [[Mitchell Iles]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Massimo Fabbrizi]] || [[Massimo Fabbrizi]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 2 || {{flagIOC|CRO|2016 Summer}} || [[Josip Glasnović]] || [[Josip Glasnović]]
+|-
+| {{flagIOC|CZE|2016 Summer}} || [[David Kostelecký]] || [[David Kostelecký]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 4 || {{flagIOC|TUR|2016 Summer}} || [[Yavuz İlnam]] || [[Yavuz İlnam]]
+|-
+| {{flagIOC|FIN|2016 Summer}}  || [[Vesa Törnroos]] || [[Vesa Törnroos]]
+|-
+| 2015 European Games ||  {{flagIOC|RUS|2016 Summer}} || [[Alexey Alipov]] || [[Alexey Alipov]]
+|-
+| rowspan="2"| [[Shooting at the 2015 Pan American Games – Men's trap|2015 Pan American Games]] || {{flagIOC|PER|2016 Summer}} || [[Francisco Boza]]  || [[Francisco Boza]]
+|-
+| {{flagIOC|ARG|2016 Summer}} || [[Fernando Borello]] || [[Fernando Borello]]
+|-
+| rowspan="3"| 2015 European Championships  || {{flagIOC|ESP|2016 Summer}} || [[Alberto Fernández (sport shooter)|Alberto Fernández]] || [[Alberto Fernández (sport shooter)|Alberto Fernández]]
+|-
+| {{flagIOC|SLO|2016 Summer}} || [[Boštjan Maček]] || [[Boštjan Maček]]
+|-
+| {{flagIOC|SMR|2016 Summer}} || [[Stefano Selva]] || [[Stefano Selva]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|CRO|2016 Summer}} || [[Giovanni Cernogoraz]] || [[Giovanni Cernogoraz]]
+|-
+| {{flagIOC|TUR|2016 Summer}} || [[Erdinç Kebapçı]] || [[Erdinç Kebapçı]]
+|-
+| rowspan="2"| 2015 World Shotgun Championships || {{flagIOC|KUW|2016 Summer}} || [[Khaled Al-Mudhaf]] || [[Khaled Al-Mudhaf]]
+|-
+| {{flagIOC|BEL|2016 Summer}} || [[Maxime Mottet]] || [[Maxime Mottet]]
+|-
+| rowspan="2"|  2015 Oceania Championships || {{flagIOC|FIJ|2016 Summer}} || [[Glenn Kable]] || [[Glenn Kable]]
+|-
+| {{flagIOC|AUS|2016 Summer}} || [[Adam Vella (sport shooter)|Adam Vella]] || [[Adam Vella (sport shooter)|Adam Vella]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|EGY|2016 Summer}} || [[Abdel Aziz Mehelba]] || [[Abdel Aziz Mehelba]]
+|-
+| rowspan="4"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]] || {{flagIOC|KUW|2016 Summer}} || [[Abdulrahman Al-Faihan]] || [[Abdulrahman Al-Faihan]]
+|-
+| {{flagIOC|TPE|2016 Summer}} || [[Yang Kun-pi]] || [[Yang Kun-pi]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Kynan Chenai]] || [[Kynan Chenai]]
+|-
+| {{flagIOC|KAZ|2016 Summer}} || [[Andrey Mogilevskiy]]{{ref label|KAZ|m|m}} || —
+|-
+| rowspan=3|Exchange of quota places || {{flagIOC|EGY|2016 Summer}} || rowspan=3 {{n/a}}  || [[Ahmed Kamar]]{{ref label|EGY|n|n}}
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Manavjit Singh Sandhu]]{{ref label|IND|a|a}}
+|-
+| {{flagIOC|SVK|2016 Summer}} || [[Marián Kovačócy]]{{ref label|SVK|d|d}} 
+|-
+| Tripartite Commission Invitation || {{flagIOC|ANG|2016 Summer}} || {{n/a}} || [[João Paulo de Silva]]
+|-
+| Re-allocation of unused quota || {{flagIOC|COL|2016 Summer}} || {{n/a}} || [[Danilo Caro]]
+|-
+| Athletes qualified in other events|| {{flagIOC|MAR|2016 Summer}} || {{n/a}} || 	[[Mohamed Ramah]]
+|-
+! Total !! !! !! 33
+|}
+
+== Double trap men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota Places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="2"| 2014 World Championships || {{flagIOC|USA|2016 Summer}} || [[Joshua Richmond]] || [[Joshua Richmond]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Antonino Barillà (sport shooter)|Antonino Barillà]] || [[Antonino Barillà (sport shooter)|Antonino Barillà]] 
+|-
+| rowspan="2"| 2015 ISSF World Cup # 1 || {{flagIOC|USA|2016 Summer}} || [[Jeffrey Holguin]] || [[Walton Eller]]
+|-
+| {{flagIOC|CHN|2016 Summer}} || [[Hu Binyuan]] || [[Hu Binyuan]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 2 || {{flagIOC|ITA|2016 Summer}}  || [[Marco Innocenti]] || [[Marco Innocenti]]
+|-
+| {{flagIOC|RUS|2016 Summer}}  || [[Vasily Mosin]] || [[Vasily Mosin]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 4 || {{flagIOC|GUA|2016 Summer}} || [[Enrique Brol]] || [[Enrique Brol]]
+|-
+| {{flagIOC|CHN|2016 Summer}} || [[Pan Qiang]] || [[Pan Qiang]]
+|-
+| 2015 European Games || {{flagIOC|RUS|2016 Summer}} || [[Vitaly Fokeev]] || [[Vitaly Fokeev]]
+|-
+| rowspan="1"|  [[Shooting at the 2015 Pan American Games – Men's double trap|2015 Pan American Games]] || {{flagIOC|GUA|2016 Summer}} || [[Hebert Brol]] || [[Hebert Brol]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|GER|2016 Summer}} || [[Michael Goldbrunner]] || [[Andreas Löw]]
+|-
+| {{flagIOC|GBR|2016 Summer}} || [[Steven Scott]] || [[Steven Scott]]
+|-
+| rowspan="2"| 2015 World Shotgun Championships || {{flagIOC|GBR|2016 Summer}} || [[Tim Kneale (sport shooter)|Tim Kneale]] || [[Tim Kneale (sport shooter)|Tim Kneale]]
+|-
+| {{flagIOC|KUW|2016 Summer}} || [[Ahmad Al-Afasi]] || [[Ahmad Al-Afasi]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|AUS|2016 Summer}} || [[James Willett (sport shooter)|James Willett]] || [[James Willett (sport shooter)|James Willett]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|ZIM|2016 Summer}} || [[Sean Nicholson]] || [[Sean Nicholson]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]||  {{flagIOC|UAE|2016 Summer}} || [[Khaled Al-Kaabi]] || [[Khaled Al-Kaabi]]
+|-
+| {{flagIOC|KUW|2016 Summer}} || [[Fehaid Al-Deehani]] || [[Fehaid Al-Deehani]]
+|-
+| Exchange of quota places || {{flagIOC|SWE|2016 Summer}} || {{n/a}} || [[Håkan Dahlby]]{{ref label|SWE|e|e}} 
+|-
+| rowspan=2|Tripartite Commission Invitation || {{flagIOC|MLT|2016 Summer}} || rowspan=2 {{n/a}} ||[[William Chetcuti]]
+|-
+| {{flagIOC|PAR|2016 Summer}} || [[Paulo Reichardt]]
+|-
+| Re-allocation of unused quota || {{flagIOC|MAR|2016 Summer}} || {{n/a}} || [[Mohamed Ramah]]
+|-
+! Total !! !! !! 22
+|}
+
+== Skeet men ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Renato Portella]]
+|-
+| rowspan="3"| 2014 World Championships || {{flagIOC|RUS|2016 Summer}} || [[Alexander Zemlin]] || [[Anton Astakhov]]
+|-
+| {{flagIOC|FRA|2016 Summer}} || [[Anthony Terras]] || [[Anthony Terras]]
+|-
+| {{flagIOC|EGY|2016 Summer}} || [[Azmy Mehelba]] || [[Azmy Mehelba]]
+|-
+| 2014 American Continental Championships || {{flagIOC|USA|2016 Summer}} || [[Vincent Hancock]] || [[Vincent Hancock]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 1 || {{flagIOC|ITA|2016 Summer}} || [[Valerio Luchini]] || [[Luigi Lodde]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Riccardo Filippelli]] || [[Gabriele Rossetti (sport shooter)|Gabriele Rossetti]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 2 || {{flagIOC|CYP|2016 Summer}} || [[Andreas Chasikos]] || [[Andreas Chasikos]]
+|-
+| {{flagIOC|DEN|2016 Summer}} || [[Jesper Hansen (sport shooter)|Jesper Hansen]] || [[Jesper Hansen (sport shooter)|Jesper Hansen]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 4 || {{flagIOC|SWE|2016 Summer}} || [[Marcus Svensson]] || [[Marcus Svensson]]
+|-
+| {{flagIOC|UAE|2016 Summer}} || [[Saif bin Futtais]] || [[Saif bin Futtais]]
+|-
+| 2015 European Games || {{flagIOC|SWE|2016 Summer}} || [[Stefan Nilsson (sport shooter)|Stefan Nilsson]] || [[Stefan Nilsson (sport shooter)|Stefan Nilsson]]
+|-
+| rowspan="2"|  [[Shooting at the 2015 Pan American Games – Men's skeet|2015 Pan American Games]] || {{flagIOC|USA|2016 Summer}} || [[Thomas Bayer]] || [[Frank Thompson (sport shooter)|Frank Thompson]]
+|-
+| {{flagIOC|CUB|2016 Summer}} || [[Juan Miguel Rodríguez]] || [[Juan Miguel Rodríguez]]
+|-
+| rowspan="3"| 2015 European Championships  || {{flagIOC|GRE|2016 Summer}} || [[Efthimios Mitas]] || [[Efthimios Mitas]]
+|-
+| {{flagIOC|FRA|2016 Summer}} || [[Éric Delaunay]] || [[Éric Delaunay]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Mykola Milchev]] || [[Mykola Milchev]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|ARG|2016 Summer}} || [[Federico Gil (sport shooter)|Federico Gil]] || [[Federico Gil (sport shooter)|Federico Gil]]
+|-
+| {{flagIOC|AUT|2016 Summer}} || [[Sebastian Kuntschik]] || [[Sebastian Kuntschik]]
+|-
+| rowspan="2"| 2015 World Shotgun Championships || {{flagIOC|IND|2016 Summer}} || [[Mairaj Ahmad Khan]] || [[Mairaj Ahmad Khan]]
+|-
+| {{flagIOC|GER|2016 Summer}} || [[Ralf Buchheim]] || [[Ralf Buchheim]]
+|-
+| rowspan="2"|  2015 Oceania Championships || {{flagIOC|AUS|2016 Summer}} || [[Keith Ferguson (sport shooter)|Keith Ferguson]] || [[Keith Ferguson (sport shooter)|Keith Ferguson]]
+|-
+| {{flagIOC|AUS|2016 Summer}} || [[James Bolding]] || [[Paul Adams (sport shooter)|Paul Adams]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|EGY|2016 Summer}} || [[Franco Donato]] || [[Franco Donato]]
+|-
+| rowspan="4"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|KUW|2016 Summer}} || [[Saud Habib]] || [[Saud Habib]]
+|-
+| {{flagIOC|UAE|2016 Summer}} || [[Saeed bin Maktoum bin Rashid Al Maktoum|Saeed Al-Maktoum]] || [[Saeed bin Maktoum bin Rashid Al Maktoum|Saeed Al-Maktoum]]
+|-
+| {{flagIOC|QAT|2016 Summer}} || [[Rashid Saleh Hamad]] || [[Rashid Saleh Hamad]] 
+|-
+| {{flagIOC|KUW|2016 Summer}} || [[Abdullah Al-Rashidi]] ||  [[Abdullah Al-Rashidi]]
+|-
+| Exchange of quota places || {{flagIOC|QAT|2016 Summer}} || {{n/a}} || [[Nasser Al-Attiyah]]{{ref label|QAT|f|f}}
+|-
+| Tripartite Commission Invitation || {{flagIOC|BAR|2016 Summer}} ||{{n/a}} || [[Michael Maskell (sport shooter)|Michael Maskell]]
+|-
+| rowspan=2|Re-allocation of unused quota || {{flagIOC|LAT|2016 Summer}} || rowspan=2 {{n/a}}  || [[Dainis Upelnieks]]
+|-
+| {{flagIOC|LTU|2016 Summer}} || [[Ronaldas Račinskas]]
+|-
+! Total !! !! !! 32
+|}
+
+== 50&nbsp;m rifle three positions women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2014 World Championships 
+|{{flagIOC|GER|2016 Summer}} || [[Beate Gauß]] || [[Barbara Engleder]]
+|-
+|{{flagIOC|CRO|2016 Summer}} || [[Snježana Pejčić]] || [[Tanja Perec]]
+|-
+|{{flagIOC|NOR|2016 Summer}} || [[Malin Westerheim]] || [[Malin Westerheim]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Chen Dongqi]] || [[Du Li]]
+|-
+|{{flagIOC|CZE|2016 Summer}} || [[Nikola Mazurová]] || [[Nikola Mazurová]]
+|-
+| 2014 American Continental Championships 
+|{{flagIOC|CUB|2016 Summer}} || [[Dianelys Pérez]] || [[Dianelys Pérez]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 
+|{{flagIOC|GER|2016 Summer}} || [[Selina Gschwandtner]] || [[Eva Rösken]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Zhao Huixin]] || [[Zhang Binbin]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 
+|{{flagIOC|USA|2016 Summer}} || [[Amy Sowash]] || [[Virginia Thrasher]]
+|-
+|{{flagIOC|KAZ|2016 Summer}} || [[Yelizaveta Korol]] || [[Yelizaveta Korol]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6 
+|{{flagIOC|KOR|2016 Summer}} || [[Yoo Seo-young]] || [[Jang Geum-young]]
+|-
+|{{flagIOC|UKR|2016 Summer}} || [[Natallia Kalnysh]] || [[Natallia Kalnysh]]
+|-
+| rowspan="1"|  2015 European Games 
+|{{flagIOC|FRA|2016 Summer}} || [[Laurence Brize]] || [[Laurence Brize]]
+|-
+| rowspan="2"|  [[Shooting at the 2015 Pan American Games – Women's 50 metre rifle three positions|2015 Pan American Games]] 
+|{{flagIOC|ARG|2016 Summer}} || [[Amelia Fournel]] || [[Amelia Fournel]]
+|-
+|{{flagIOC|PUR|2016 Summer}} || [[Yarimar Mercado]] || [[Yarimar Mercado]]
+|-
+| rowspan="3"| 2015 European Championships 
+|{{flagIOC|GBR|2016 Summer}} || [[Jennifer McIntosh]] || [[Jennifer McIntosh]]
+|-
+|{{flagIOC|POL|2016 Summer}} || [[Agnieszka Nagay]] ||  [[Agnieszka Nagay]]
+|-
+|{{flagIOC|CZE|2016 Summer}} || [[Lucie Švecová]] || [[Adéla Sýkorová]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 
+|{{flagIOC|POL|2016 Summer}} || [[Sylwia Bogacka]] ||[[Sylwia Bogacka]]
+|-
+|{{flagIOC|SUI|2016 Summer}} || [[Jasmin Michler]] || [[Nina Christen]]
+|-
+| rowspan="1"|  2015 Oceania Championships 
+|{{flagIOC|AUS|2016 Summer}} || [[Emma Woodroofe]]{{ref label|AUS|g|g}} || —
+|-
+| rowspan="1"|  2015 African Championships 
+|{{flagIOC|EGY|2016 Summer}} || [[Nourhan Amer]]{{ref label|EGY|n|n}} || —
+|-
+| rowspan="3"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+|{{flagIOC|SIN|2016 Summer}} || [[Jasmine Ser Xiang Wei]] || [[Jasmine Ser Xiang Wei]]
+|-
+|{{flagIOC|IRI|2016 Summer}} || [[Mahlagha Jambozorg]] || [[Mahlagha Jambozorg]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Lee Kye-rim]] || [[Lee Kye-rim]]
+|-
+| rowspan=14 |Athletes qualified in other events|| {{flagIOC|AUT|2016 Summer}} || rowspan=14 {{n/a}} || [[Olivia Hofmann]]
+|-
+|{{flagIOC|BRA|2016 Summer}} || [[Rosane Ewald]]
+|-
+|{{flagIOC|CRO|2016 Summer}} || [[Snježana Pejčić]]
+|-
+|{{flagIOC|CUB|2016 Summer}} || [[Eglis Yaima Cruz]]
+|-
+|{{flagIOC|DEN|2016 Summer}} || [[Stine Nielsen]]
+|-
+|{{flagIOC|HUN|2016 Summer}} || [[Julianna Miskolczi]]
+|-
+|{{flagIOC|IRN|2016 Summer}} || [[Najmeh Khedmati]]
+|-
+|{{flagIOC|ITA|2016 Summer}} ||  [[Petra Zublasing]] 
+|-
+|{{flagIOC|MGL|2016 Summer}} || [[Gankhuyagiin Nandinzayaa]]
+|-
+|{{flagIOC|RUS|2016 Summer}} || [[Daria Vdovina]] 
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Andrea Arsović]]
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Ivana Maksimović]]
+|-
+|{{flagIOC|SLO|2016 Summer}} || [[Živa Dvoršak]]
+|-
+|{{flagIOC|USA|2016 Summer}} ||[[Sarah Scherer]]
+|-
+! Total !! !! !! 37
+|}
+
+== 10&nbsp;m air rifle women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Rosane Ewald]]
+|-
+| rowspan="6"| 2014 World Championships || {{flagIOC|ITA|2016 Summer}} || [[Petra Zublasing]] || [[Petra Zublasing]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Yi Siling]] || [[Yi Siling]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Sonja Pfeilschifter]]{{ref label|GER|j|j}} || —
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Zhang Binbin]] || [[Du Li]]
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Andrea Arsović]] || [[Andrea Arsović]]
+|-
+|{{flagIOC|DEN|2016 Summer}} || [[Stine Nielsen]] || [[Stine Nielsen]]
+|-
+| 2014 American Continental Championships 
+| {{flagIOC|CUB|2016 Summer}} || [[Eglis Yaima Cruz]]  || [[Eglis Yaima Cruz]]
+|-
+| rowspan=3| 2015 ISSF World Cup # 3 
+| {{flagIOC|SRB|2016 Summer}} || [[Ivana Maksimović]] || [[Ivana Maksimović]]
+|-
+| {{flagIOC|IND|2016 Summer}} || [[Apurvi Chandela]] || [[Apurvi Chandela]]
+|-
+| {{flagIOC|SWE|2016 Summer}} || [[Michaela Arvidsson]]{{ref label|SWE|e|e}} || —
+|-
+| rowspan="3"| 2015 ISSF World Cup # 5 
+|{{flagIOC|MGL|2016 Summer}} || [[Gankhuyagiin Nandinzayaa]] || [[Gankhuyagiin Nandinzayaa]]
+|-
+|{{flagIOC|USA|2016 Summer}} || [[Sarah Beard (sport shooter)|Sarah Beard]] || [[Sarah Scherer]]
+|-
+|{{flagIOC|EGY|2016 Summer}} || [[Shimaa Hashad]] || [[Shimaa Hashad]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 6 || {{flagIOC|CRO|2016 Summer}} || [[Valentina Gustin]] || [[Valentina Gustin]]
+|-
+|{{flagIOC|AUT|2016 Summer}} || [[Olivia Hofmann]] || [[Olivia Hofmann]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Nina Laura Kreutzer]] || [[Selina Gschwandtner]]
+|-
+| rowspan="1"|  2015 European Games 
+| {{flagIOC|SUI|2016 Summer}} || [[Sarah Hornung]] || [[Sarah Hornung]]
+|-
+| rowspan="2"|  [[Shooting at the 2015 Pan American Games – Women's 10 metre air rifle|2015 Pan American Games]] 
+| {{flagIOC|MEX|2016 Summer}} || [[Goretti Zumaya]] || [[Goretti Zumaya]]
+|-
+| {{flagIOC|ARG|2016 Summer}} || [[Fernanda Russo]] || [[Fernanda Russo]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 7 
+|{{flagIOC|IRI|2016 Summer}} || [[Elaheh Ahmadi]] || [[Elaheh Ahmadi]]
+|-
+| {{flagIOC|IRI|2016 Summer}} || [[Najmeh Khedmati]] || [[Najmeh Khedmati]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Anna Zhukova]] || [[Daria Vdovina]] 
+|-
+| rowspan="1"|  2015 Oceania Championships 
+| {{flagIOC|AUS|2016 Summer}} || [[Jennifer Hens]] || [[Jennifer Hens]]
+|-
+| rowspan="1"|  2015 African Championships 
+| {{flagIOC|EGY|2016 Summer}} || [[Hadir Mekhimar]] || [[Hadir Mekhimar]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]
+| {{flagIOC|IND|2016 Summer}} || [[Ayonika Paul]] || [[Ayonika Paul]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Lee Eun-seo]] || [[Kim Eun-hye (sport shooter)|Kim Eun-hye]]
+|-
+| rowspan="3"| 2016 European Championships 10m events 
+| {{flagIOC|SUI|2016 Summer}} || [[Petra Lustenberger]]{{ref label|SUI|i|i}} || —
+|-
+| {{flagIOC|CRO|2016 Summer}} || [[Tanja Perec]] || [[Snježana Pejčić]]
+|-
+| {{flagIOC|HUN|2016 Summer}} || [[Julianna Miskolczi]] || [[Julianna Miskolczi]]
+|-
+| rowspan=2|Exchange of quota places 
+| {{flagIOC|SLO|2016 Summer}} || rowspan=2 {{n/a}} || [[Živa Dvoršak]]{{ref label|SLO|h|h}}
+|-
+|{{flagIOC|KOR|2016 Summer}} ||  [[Park Hae-mi (sport shooter)|Park Hae-mi]]{{ref label|KOR|l|l}}
+|-
+| rowspan=7|Tripartite Commission Invitation 
+| {{flagIOC|AND|2016 Summer}} || rowspan=7 {{n/a}} || [[Esther Barrugués]]
+|-
+| {{flagIOC|BHU|2016 Summer}} || [[Kunzang Lenchu]]
+|-
+| {{flagIOC|BOL|2016 Summer}} || [[Carina García]]
+|-
+| {{nowrap|{{flagIOC|BIH|2016 Summer}}}} || [[Tatjana Đekanović]]
+|-
+| {{flagIOC|KOS|2016 Summer}} || [[Urata Rama]]
+|-
+| {{flagIOC|MKD|2016 Summer}} || [[Nina Balaban]]
+|-
+| {{flagIOC|PAK|2016 Summer}} || [[Minhal Sohail]]
+|-
+| rowspan=15 |Athletes qualified in other events|| {{flagIOC|ARG|2016 Summer}} || rowspan=15 {{n/a}} || [[Amelia Fournel]]
+|-
+|{{flagIOC|CUB|2016 Summer}} || [[Dianelys Pérez]]
+|-
+|{{flagIOC|CZE|2016 Summer}} || [[Nikola Mazurová]]
+|-
+|{{flagIOC|CZE|2016 Summer}} || [[Adéla Sýkorová]]
+|-
+|{{flagIOC|GER|2016 Summer}} || [[Barbara Engleder]]{{ref label|GER|j|j}}
+|-
+|{{flagIOC|GBR|2016 Summer}} || [[Jennifer McIntosh]]
+|-
+|{{flagIOC|KAZ|2016 Summer}} || [[Yelizaveta Korol]]
+|-
+|{{flagIOC|NOR|2016 Summer}} || [[Malin Westerheim]]
+|-
+|{{flagIOC|POL|2016 Summer}} || [[Sylwia Bogacka]]  
+|-
+|{{flagIOC|POL|2016 Summer}} || [[Agnieszka Nagay]] 
+|-
+|{{flagIOC|PUR|2016 Summer}} || [[Yarimar Mercado]]
+|-
+|{{flagIOC|SIN|2016 Summer}} || [[Jasmine Ser]]
+|-
+|{{flagIOC|SUI|2016 Summer}} || [[Nina Christen]]{{ref label|SUI|i|i}}
+|-
+|{{flagIOC|UKR|2016 Summer}} || [[Natallia Kalnysh]]
+|-
+|{{flagIOC|USA|2016 Summer}} || [[Virginia Thrasher]]
+|-
+! Total !! !! !! 51
+|}
+
+== 25&nbsp;m pistol women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2014 World Championships || {{flagIOC|CHN|2016 Summer}} || [[Zhang Jingjing]] || [[Zhang Jingjing]]
+|-
+|{{flagIOC|KOR|2016 Summer}} || [[Kim Jang-mi]] || [[Kim Jang-mi]]
+|-
+|{{flagIOC|HUN|2016 Summer}} || [[Renáta Tobai-Sike]] || [[Renáta Tobai-Sike]]
+|-
+|{{flagIOC|PRK|2016 Summer}} || [[Jo Yong-suk]] || [[Jo Yong-suk]]
+|-
+|{{flagIOC|FRA|2016 Summer}} || [[Stéphanie Tirode]] || [[Stéphanie Tirode]]
+|-
+| 2014 American Continental Championships || {{flagIOC|ECU|2016 Summer}} || [[Andrea Pérez Peña]] || [[Andrea Pérez Peña]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 3 
+|{{flagIOC|MGL|2016 Summer}} || [[Otryadyn Gündegmaa]] || [[Otryadyn Gündegmaa]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Lin Yuemei]] || [[Chen Ying (sport shooter)|Chen Ying]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 5 || {{flagIOC|FRA|2016 Summer}} || [[Mathilde Lamolle]] || [[Mathilde Lamolle]]
+|-
+| {{flagIOC|BUL|2016 Summer}} || [[Antoaneta Boneva]] || [[Antoaneta Boneva]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 6 || {{flagIOC|THA|2016 Summer}} || [[Tanyaporn Prucksakorn]] || [[Tanyaporn Prucksakorn]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Yuliya Alipava]] || [[Ekaterina Korshunova]]
+|-
+| 2015 European Games || {{flagIOC|SUI|2016 Summer}} || [[Heidi Diethelm Gerber]] || [[Heidi Diethelm Gerber]]
+|-
+| [[Shooting at the 2015 Pan American Games – Women's 25 metre pistol|2015 Pan American Games]] || {{flagIOC|USA|2016 Summer}} || [[Sandra Uptagrafft]] || [[Enkelejda Shehu]]
+|-
+| rowspan="2"| 2015 European Championships  || {{flagIOC|HUN|2016 Summer}} || [[Zsófia Csonka]] || [[Zsófia Csonka]]
+|-
+| {{flagIOC|GEO|2016 Summer}} || [[Nino Salukvadze]] || [[Nino Salukvadze]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|RUS|2016 Summer}} || [[Vitalina Batsarashkina]] || [[Vitalina Batsarashkina]]
+|-
+|{{flagIOC|MGL|2016 Summer}} || [[Tsogbadrakhyn Mönkhzul]] || [[Tsogbadrakhyn Mönkhzul]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|AUS|2016 Summer}} || [[Elena Galiabovitch]] || [[Elena Galiabovitch]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|TUN|2016 Summer}} || [[Olfa Charni]] || [[Olfa Charni]]
+|-
+| rowspan=3|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|KOR|2016 Summer}} || [[Koh Eun]] || [[Hwang Seong-eun]]
+|-
+| {{flagIOC|JPN|2016 Summer}} || [[Akiko Sato]] || [[Akiko Sato]]
+|-
+| {{flagIOC|SIN|2016 Summer}} || [[Teo Shun Xie]] || [[Teo Shun Xie]]
+|-
+| Exchange of quota places || {{flagIOC|GER|2016 Summer}} || {{n/a}} || [[Monika Karsch]]{{ref label|GER|j|j}}
+|-
+| rowspan="16"| Athletes qualified in other events||  {{flagIOC|AUS|2016 Summer}} || rowspan=16 {{n/a}} || [[Lalita Yauhleuskaya]]
+|-
+|{{flagIOC|BLR|2016 Summer}} ||  [[Viktoria Chaika]]
+|-
+|{{flagIOC|CAN|2016 Summer}} ||  [[Lynda Kiejko]]
+|-
+| {{flagIOC|EGY|2016 Summer}} ||[[Afaf El-Hodhod]]
+|-
+| {{flagIOC|ESP|2016 Summer}} ||  [[Sonia Franquet]]
+|-
+| {{flagIOC|GRE|2016 Summer}} || [[Anna Korakaki]]
+|-
+|  {{flagIOC|IND|2016 Summer}} || [[Heena Sidhu]]
+|-
+| {{flagIOC|IRN|2016 Summer}}|| [[Golnoush Sebghatollahi]]
+|-
+| {{flagIOC|MLT|2016 Summer}} || [[Eleanor Bezzina]]
+|-
+| {{flagIOC|POL|2016 Summer}} || [[Klaudia Breś]]
+|-
+|  {{flagIOC|SRB|2016 Summer}} || [[Zorana Arunović]]
+|-
+| {{flagIOC|SRB|2016 Summer}} || [[Bobana Veličković]]
+|-
+| {{flagIOC|TPE|2016 Summer}} || [[Wu Chia-ying]]
+|-
+| {{flagIOC|TPE|2016 Summer}} || [[Yu Ai-wen]]
+|-
+| {{flagIOC|THA|2016 Summer}} ||  [[Pim-on Klaisuban]]
+|-
+| {{flagIOC|UKR|2016 Summer}} || [[Olena Kostevych]]
+|-
+! Total !! !! !! 40
+|}
+
+== 10&nbsp;m air pistol women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="6"| 2014 World Championships 
+| {{flagIOC|KOR|2016 Summer}} || [[Jung Jee-hae]] || [[Kim Min-jung (sport shooter)|Kim Min-jung]]
+|-
+|{{flagIOC|UKR|2016 Summer}} || [[Olena Kostevych]] || [[Olena Kostevych]]
+|-
+|{{flagIOC|TPE|2016 Summer}} || [[Wu Chia-ying]] || [[Wu Chia-ying]]
+|-
+|{{flagIOC|SLO|2016 Summer}} || [[Petra Dobravec]]{{ref label|SLO|h|h}} || —
+|-
+|{{flagIOC|ESP|2016 Summer}} || [[Sonia Franquet]] || [[Sonia Franquet]]
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Jasna Šekarić]] || [[Zorana Arunović]]
+|-
+| 2014 American Continental Championships || {{flagIOC|ESA|2016 Summer}} || [[Lilian Castro]] || [[Lilian Castro]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 3 || {{flagIOC|RUS|2016 Summer}} || [[Liubov Yaskevich]] || [[Ekaterina Korshunova]]
+|-
+| {{flagIOC|CHN|2016 Summer}} || [[Zhang Mengxue]] || [[Zhang Mengxue]]
+|-
+| {{flagIOC|KOR|2016 Summer}} || [[Kwak Jung-hye]] || [[Kwak Jung-hye]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 5 || {{flagIOC|GRE|2016 Summer}} || [[Anna Korakaki]] || [[Anna Korakaki]]
+|-
+| {{flagIOC|MEX|2016 Summer}} || [[Alejandra Zavala]] || [[Alejandra Zavala]]
+|-
+| {{flagIOC|TPE|2016 Summer}} || [[Yu Ai-wen]] || [[Yu Ai-wen]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 6 || {{flagIOC|CHN|2016 Summer}} || [[Guo Wenjun]] || [[Guo Wenjun]]
+|-
+|{{flagIOC|SRB|2016 Summer}} || [[Bobana Veličković]] || [[Bobana Veličković]]
+|-
+|{{flagIOC|USA|2016 Summer}} || [[Lydia Paterson]] || [[Lydia Paterson]]
+|-
+| 2015 European Games ||{{flagIOC|BLR|2016 Summer}} || [[Viktoria Chaika]] || [[Viktoria Chaika]]
+|-
+| [[Shooting at the 2015 Pan American Games – Women's 10 metre air pistol|2015 Pan American Games]] ||{{flagIOC|CAN|2016 Summer}} || [[Lynda Kiejko]] ||[[Lynda Kiejko]]
+|-
+| rowspan="3"| 2015 ISSF World Cup # 7 || {{flagIOC|RUS|2016 Summer}} || [[Olga Gennadyevna Kuznetsova|Olga Kuznetsova]] || [[Vitalina Batsarashkina]]
+|-
+|{{flagIOC|FRA|2016 Summer}} || [[Céline Goberville]] || [[Céline Goberville]]
+|-
+|{{flagIOC|THA|2016 Summer}} || [[Pim-on Klaisuban]] || [[Pim-on Klaisuban]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|AUS|2016 Summer}} || [[Lalita Yauhleuskaya]] || [[Lalita Yauhleuskaya]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|EGY|2016 Summer}} || [[Afaf El-Hodhod]] || [[Afaf El-Hodhod]]
+|-
+| rowspan="2"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|IND|2016 Summer}} || [[Heena Sidhu]] ||[[Heena Sidhu]]
+|-
+| {{flagIOC|IRI|2016 Summer}} || [[Golnoush Sebghatollahi]] || [[Golnoush Sebghatollahi]]
+|-
+| rowspan="3"| 2016 European Championships 10m events || {{flagIOC|HUN|2016 Summer}} || [[Viktória Egri]] || [[Viktória Egri]]
+|-
+| {{flagIOC|CRO|2016 Summer}} || [[Marija Marović]] || [[Marija Marović]]
+|-
+| {{flagIOC|POL|2016 Summer}} || [[Beata Bartków-Kwiatkowska]] || [[Klaudia Breś]]
+|-
+| rowspan="2"|Tripartite Commission Invitation || {{flagIOC|MLT|2016 Summer}}  || rowspan=2 {{n/a}} || [[Eleanor Bezzina]]
+|-
+| {{flagIOC|OMA|2016 Summer}} || [[Wadha Al-Balushi]]
+|-
+| rowspan="15"| Athletes qualified in other events||  {{flagIOC|AUS|2016 Summer}} || rowspan=15 {{n/a}} || [[Elena Galiabovitch]]
+|-
+| {{flagIOC|BUL|2016 Summer}} ||  [[Antoaneta Boneva]]
+|-
+| {{flagIOC|FRA|2016 Summer}} || [[Stéphanie Tirode]]
+|-
+|  {{flagIOC|GEO|2016 Summer}} ||  [[Nino Salukvadze]]
+|-
+|  {{flagIOC|GER|2016 Summer}} || [[Monika Karsch]]
+|-
+| {{flagIOC|HUN|2016 Summer}}|| [[Renáta Tobai-Sike]]
+|-
+| {{flagIOC|JPN|2016 Summer}} || [[Akiko Sato]]
+|-
+| {{flagIOC|MGL|2016 Summer}} || [[Otryadyn Gündegmaa]]
+|-
+| {{flagIOC|MGL|2016 Summer}} ||  [[Tsogbadrakhyn Mönkhzul]]
+|-
+|  {{flagIOC|PRK|2016 Summer}} || [[Jo Yong-suk]] 
+|-
+|  {{flagIOC|SIN|2016 Summer}} || [[Teo Shun Xie]]
+|-
+| {{flagIOC|SUI|2016 Summer}} || [[Heidi Diethelm Gerber]]
+|-
+| {{flagIOC|THA|2016 Summer}} ||  [[Tanyaporn Prucksakorn]]
+|-
+|  {{flagIOC|TUN|2016 Summer}} ||  [[Olfa Charni]]
+|-
+|  {{flagIOC|USA|2016 Summer}} ||  [[Enkelejda Shehu]]
+|-
+! Total !! !! !! 44
+|}
+
+== Trap women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Janice Teixeira]]
+|-
+| rowspan="3"| 2014 World Championships || {{flagIOC|GER|2016 Summer}} || [[Katrin Quooß]] || [[Jana Beckmann]]
+|-
+| {{flagIOC|ESP|2016 Summer}} || [[Fátima Gálvez]] || [[Fátima Gálvez]]
+|-
+| {{flagIOC|AUS|2016 Summer}} || [[Catherine Skinner]] || [[Catherine Skinner]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 1 ||  {{flagIOC|USA|2016 Summer}}|| [[Corey Cogdell]] || [[Corey Cogdell]]
+|-
+| {{flagIOC|AUS|2016 Summer}} || [[Laetisha Scanlan]] || [[Laetisha Scanlan]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 2 || {{flagIOC|ITA|2016 Summer}} || [[Silvana Stanco]] || [[Jessica Rossi]]
+|-
+| {{flagIOC|SMR|2016 Summer}} || [[Alessandra Perilli]]|| [[Alessandra Perilli]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 4 ||{{flagIOC|FIN|2016 Summer}} || [[Satu Mäkelä-Nummela]] || [[Satu Mäkelä-Nummela]]
+|-
+| {{flagIOC|RUS|2016 Summer}} || [[Tatiana Barsuk]]|| [[Tatiana Barsuk]]
+|-
+| 2015 European Games || {{flagIOC|SMR|2016 Summer}} || [[Arianna Perilli]] || [[Arianna Perilli]]
+|-
+| rowspan="1"| [[Shooting at the 2015 Pan American Games – Women's trap|2015 Pan American Games]] || {{flagIOC|CAN|2016 Summer}} || [[Amanda Chudoba]] || [[Cynthia Meyer (sport shooter)|Cynthia Meyer]]
+|-
+| rowspan="1"| 2015 European Championships  || {{flagIOC|SVK|2016 Summer}} || [[Zuzana Štefečeková]]{{ref label|SVK|d|d}} || —
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|JPN|2016 Summer}} || [[Yukie Nakayama]] || [[Yukie Nakayama]]
+|-
+| {{flagIOC|TPE|2016 Summer}} || [[Lin Yi-chun (sport shooter)|Lin Yi-chun]] || [[Lin Yi-chun (sport shooter)|Lin Yi-chun]]
+|-
+| rowspan="2"| 2015 World Shotgun Championships || {{flagIOC|RUS|2016 Summer}} || [[Elena Tkach]] || [[Ekaterina Rabaya]]
+|-
+| {{flagIOC|PRK|2016 Summer}} || [[Pak Yong-hui]] ||  [[Pak Yong-hui]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|NZL|2016 Summer}} || [[Natalie Rooney]] || [[Natalie Rooney]]
+|-
+| rowspan="1"|  2015 African Championships || {{flagIOC|NAM|2016 Summer}} || [[Gaby Ahrens]] || [[Gaby Ahrens]]
+|-
+| rowspan="1"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|CHN|2016 Summer}} || [[Li Qingnian]] || [[Chen Fang (sport shooter)|Chen Fang]]
+|-
+| Exchange of quota places || {{flagIOC|KAZ|2016 Summer}} ||{{n/a}} || [[Mariya Dmitriyenko]]{{ref label|KAZ|m|m}}
+|-
+| Tripartite Commission Invitation || {{flagIOC|LIB|2016 Summer}} ||{{n/a}} || [[Ray Bassil]] 
+|-
+! Total !! !! !! 21
+|}
+
+== Skeet women ==
+<ref name="QuotaPlaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|BRA|2016 Summer}} || {{n/a}} || [[Daniela Carraro]]
+|-≤
+| rowspan="3"| 2014 World Championships || {{flagIOC|USA|2016 Summer}} || [[Brandy Drozd]] || [[Morgan Craft]]
+|-
+| {{flagIOC|GBR|2016 Summer}} || [[Elena Allen]] || [[Elena Allen]]
+|-
+| {{flagIOC|SVK|2016 Summer}} || [[Danka Barteková]] || [[Danka Barteková]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 1 ||  {{flagIOC|USA|2016 Summer}} || [[Kimberly Rhode]] || [[Kimberly Rhode]]
+|-
+|{{flagIOC|CHN|2016 Summer}} || [[Wei Meng]] || [[Wei Meng]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 2 || {{flagIOC|ITA|2016 Summer}} || [[Diana Bacosi]] || [[Diana Bacosi]]
+|-
+| {{flagIOC|ITA|2016 Summer}} || [[Chiara Cainero]] || [[Chiara Cainero]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 4 || {{flagIOC|CHN|2016 Summer}} || [[Yu Xiumin]] || [[Wei Ning]]
+|-
+| {{flagIOC|THA|2016 Summer}} || [[Sutiya Jiewchaloemmit]] || [[Sutiya Jiewchaloemmit]]
+|-
+| 2015 European Games || {{flagIOC|GBR|2016 Summer}} || [[Amber Hill (sport shooter)|Amber Hill]] || [[Amber Hill (sport shooter)|Amber Hill]]
+|-
+| rowspan="1"| [[Shooting at the 2015 Pan American Games – Women's skeet|2015 Pan American Games]] || {{flagIOC|ARG|2016 Summer}} || [[Melisa Gil]] 
+|| [[Melisa Gil]] 
+|-
+| rowspan="1"| 2015 European Championships  || {{flagIOC|GER|2016 Summer}} || [[Christine Wenzel]] || [[Christine Wenzel]]
+|-
+| rowspan="2"| 2015 ISSF World Cup # 7 || {{flagIOC|POL|2016 Summer}} || [[Aleksandra Jarmolińska]] || [[Aleksandra Jarmolińska]]
+|-
+|{{flagIOC|CHI|2016 Summer}} || [[Francisca Crovetto]] || [[Francisca Crovetto]] 
+|-
+| rowspan="2"| 2015 World Shotgun Championships || {{flagIOC|CYP|2016 Summer}} || [[Andri Eleftheriou]] || [[Andri Eleftheriou]]
+|-
+| {{flagIOC|CZE|2016 Summer}} || [[Libuše Jahodová]] ||  [[Libuše Jahodová]]
+|-
+| rowspan="1"|  2015 Oceania Championships || {{flagIOC|NZL|2016 Summer}} || [[Chloe Tipple]] || [[Chloe Tipple]]
+|-
+| rowspan="1"|[[2016 Asian Olympic Shooting Qualifying Tournament|2016 Asian Olympic Qualifying Tournament]]|| {{flagIOC|JPN|2016 Summer}} || [[Naoko Ishihara]] || [[Naoko Ishihara]]
+|-
+| rowspan=2|Exchange of quota places || {{flagIOC|AUS|2016 Summer}} ||rowspan=2 {{n/a}}  || [[Aislin Jones]]{{ref label|AUS|g|g}}
+|-
+| {{flagIOC|RUS|2016 Summer}}  || [[Albina Shakirova]]
+|-
+! Total !! !! !! 21
+|}
+
+==Notes==
+*{{note label|IND|a|a}} Sanjeev Rajput secured a second quota place for India in the men's 50 m rifle positions, but the slot was occupied by Gagan Narang as a double starter based on his cumulative scores at the national selection trials. As a result, the NRAI decided to exchange it with an additional men's trap spot, which was awarded to Manavjit Singh Sandhu.<ref>{{cite news|title=Manavjit Singh Sandhu in for Sanjeev Rajput in Indian shooting team for Rio Olympic Games|url=http://indianexpress.com/article/sports/sport-others/manavjit-singh-sandhuin-for-rajput-in-indian-shooting-team-for-rio-olympic-games/|work=[[The Indian Express]]|date=19 March 2016|accessdate=19 March 2016}}</ref>
+*{{note label|CHN|b|b}} A total of eighteen shooters were provisionally named to the Chinese team, including two double starters, at the end of Olympic trials for rifle and shooting. As per ISSF rules, China had decided to exchange one of them with the men's 50 m rifle prone spot, which was awarded to Zhao Shengbo. Hence, the remaining berth was returned to ISSF for reallocation.<ref>{{cite news|url=http://sports.sina.com.cn/others/shoot/2016-03-31/doc-ifxqxcnr5097938.shtml|title=射击队17人奥运阵容确定 下月奔赴里约战世界杯|trans-title=A team of 17 shooters will go to the Olympics|language=zh|work=[[Sina Weibo]]|date=31 March 2016|accessdate=9 April 2016}}</ref>
+*{{note label|BRA|c|c}} Host nation Brazil had been awarded a minimum of nine quota places in select events with only six shooters using the vacancies for the Games. Almeida Wu and Rippel attained a direct nomination to the Olympic team to leave the vacancies unused for reallocation. With a lack of shooters in women's 10 m air pistol, the Brazilian Shooting Federation decided to exchange it with the men's 50 m pistol, which was awarded to Júlio Almeida.<ref>{{cite news|title=Julio Almeida completa seleção brasileira de tiro nos Jogos do Rio|trans-title=Julio Almeida completes the Brazil selection for Rio|language=pt|url=http://globoesporte.globo.com/olimpiadas/noticia/2016/04/julio-almeida-completa-selecao-brasileira-de-tiro-nos-jogos-do-rio.html|work=[[Globo Esporte]]|date=23 April 2016|accessdate=24 April 2016}}</ref>
+*{{note label|SVK|d|d}} Slovakia secured a quota place in the women's trap at the 2015 European Shooting Championships, but Zuzana Štefečeková withdrew from the Games due to her pregnancy. Instead, Slovak Olympic Committee chose to exchange it with an additional spot in its counterpart based on performances throughout the qualifying period. The slot was occupied by Marián Kovačócy.<ref>{{cite news|title=Strelec Kovačócy obsadil v trape na olympijskej strelnici 5. priečku|trans-title=Shooter Kovačócy conquers the Olympic shooting range in men's trap with a fifth place finish|language=sk|url=http://www.teraz.sk/sport/strelec-kovacocy-postupil-v-riu-do-se/192273-clanok.html|publisher=Teraz.sk|date=17 April 2016|accessdate=14 May 2016}}</ref>
+*{{note label|SWE|e|e}} Sweden secured a quota place in the women's 10 m air rifle at the 2015 ISSF World Cup meet in Changwon, but the Swedish Olympic Committee chose to exchange it with the men's double trap instead based on performances throughout the qualifying period. The slot was occupied by London 2012 silver medalist Håkan Dahlby.<ref>{{cite news|title=Håkan Dahlby klar för OS Rio|trans-title=Håkan Dahlby is ready for Rio Olympics|language=sv|url=http://na.se/sporten/sporttt/1.3826521-hakan-dahlby-klar-for-os-rio|publisher=[[Nerikes Allehanda]]|date=2 May 2016|accessdate=2 May 2016|url-status=dead|archiveurl=https://archive.today/20160824203603/http://na.se/sporten/sporttt/1.3826521-hakan-dahlby-klar-for-os-rio|archivedate=24 August 2016}}</ref>
+*{{note label|QAT|f|f}} Qatar secured a quota place in the men's 50 m rifle 3 positions at the 2016 Asian Olympic Qualifying Tournament in Delhi, but the Qatar Olympic Committee chose to exchange it with an additional spot in the men's skeet instead based on performances throughout the qualifying period. The slot was occupied by five-time Olympian and London 2012 bronze medalist Nasser Al-Attiyah.<ref>{{cite news|title=Barshim, Al Attiyah to lead Qatar's gold quest in Rio|url=http://thepeninsulaqatar.com/sports/qatar-sport/379922/barshim-al-attiyah-to-lead-qatar-s-gold-quest-in-rio|work=[[The Peninsula (newspaper)|The Peninsula]]|date=27 April 2016|accessdate=30 April 2016}}</ref>
+*{{note label|AUS|g|g}} Australia secured a quota place in the women's 50 m rifle 3 positions at the 2016 Oceania Championships in Sydney, but Shooting Australia, in conjunction with the Australian Olympic Committee, chose to exchange it with the women's skeet instead based on performances throughout the qualifying period and selection trials. The slot was occupied by Aislin Jones.<ref>{{cite news|title=Shooting team on target for Rio success|url=http://rio2016.olympics.com.au/news/shooting-team-on-target-for-rio-success|publisher=[[Australian Olympic Committee]]|date=8 April 2016|accessdate=8 April 2016}}</ref>
+*{{note label|SLO|h|h}} Slovenia secured a quota place in the women's 10 m air pistol at the 2014 ISSF World Championships in Granada, Spain, but the Slovenian Olympic Committee chose to exchange it with the women's rifle events instead based on performances throughout the qualifying period. The slot was occupied by London 2012 Olympian Živa Dvoršak.<ref>{{cite news|title=Bo Debevec le videl Rio? Pri ženskah se zapleta.|trans-title=Will we witness Debevec in Rio? So many complications for women|language=sl|url=http://siol.net/sportal/drugi-sporti/bo-debevec-le-videl-rio-pri-zenskah-se-zapleta-406927|work=[[Siol]]|date=11 March 2016|accessdate=30 May 2016}}</ref>
+*{{note label|SUI|i|i}} Two shooters secured quota places (won by Petra Lustenberger and Jasmin Michler) for Switzerland in the women's rifle events, but both of these places were occupied by Nina Christen as a double starter. Therefore, the Swiss Olympic Association decided to exchange one of them with the men's 50 m rifle three positions, which was awarded to Jan Lochbichler.<ref>{{cite news|title=Vier Schützen für das Swiss Olympic Team Rio 2016 selektioniert|trans-title=Four shooters were selected to the Olympic team for Rio 2016|language=de|url=http://www.swissolympicteam.ch/olympische-spiele/sommerspiele/rio-2016/news/Schiessen-Swiss-Olympic-Team-Rio2016-selektioniert.html|publisher=[[Swiss Olympic Association]]|date=2 June 2016|accessdate=3 June 2016}}</ref>
+*{{note label|GER|j|j}} Two shooters secured quota places (won by Beate Gauss and Sonja Pfeilschifter) for Germany in the women's rifle events, but both of these places were occupied by Barbara Engleder as a double starter. Therefore, the German Shooting Federation had decided to exchange one of them with the women's 25 m pistol which was awarded to Monika Karsch.<ref>{{cite news|first=Claus-Dieter|last=Wotruba|url=http://www.mittelbayerische.de/sport-nachrichten/monika-karsch-ist-in-rio-stimmung-21510-art1391419.html|title=Monika Karsch ist in Rio-Stimmung|trans-title=Monika Karsch is going to Rio|language=de|work=[[Mittelbayerische Zeitung]]|date=14 June 2016|accessdate=19 June 2016}}</ref>
+*{{note label|ITA|k|k}} Italy secured an additional quota place in the men's 50 m pistol at the 2015 European Shooting Championships, but the Italian Olympic Committee and the Italian Sport Shooting Federation (UITS) chose to exchange it with the men's 25 m rapid fire pistol instead based on performances throughout the qualifying period. The slot was occupied by Riccardo Mazzetti.<ref>{{cite news|title=Presentata la squadra olimpica di tiro a segno: 5 azzurri mettono i Giochi nel mirino|trans-title=Presentation of the Olympic shooting team; 5 Italians will be put to the Games in action|language=it|url=http://www.coni.it/it/news/primo-piano/11984-presentata-la-squadra-di-tiro-a-segno-5-azzurri-mettono-i-giochi-nel-mirino.html|publisher=[[Italian Olympic Committee]]|date=21 June 2016|accessdate=22 June 2016}}</ref>
+*{{note label|KOR|l|l}} Kim Cheong-yong secured a second quota place for Korea in the men's 10 m air pistol, but the slot was occupied by Jin Jong-oh as a double starter based on his cumulative scores at the national selection trials. As a result, the Korean Shooting Federation decided to exchange it with an additional women's 10 m air rifle spot, which was awarded to Park Hae-mi.<ref>{{cite news|last=Yun|first=Eun-young|title=박해미 바쿠 월드컵 女 10m 공기소총 동메달|trans-title=Park Hae-mi wins bronze medal in the 10 m air rifle at the WC Baku Cup|url=http://sports.khan.co.kr/news/sk_index.html?art_id=201606242230003&sec_id=530101|publisher=[[Kyunghyang Shinmun]]|date=24 June 2016|accessdate=24 June 2016}}</ref>
+*{{note label|KAZ|m|m}} Kazakhstan secured a quota place in the men's trap at the 2015 Asia Olympic Qualifying Competition and exchanged it for a women's trap quota place. The slot was occupied by Mariya Dmitriyenko.
+*{{note label|EGY|n|n}} Nourhan Amer secured a quota place for Egypt in the women's 50 m rifle three positions, but her quota place was exchanged for a second place in the men's trap, which was awarded to Ahmed Kamar.
+
+==References==
+{{reflist|2}}
+
+{{Qualifying standards in shooting}}
+{{Qualification for the 2016 Summer Olympics}}
+
+{{DEFAULTSORT:Shooting at the 2016 Summer Olympics - Qualification}}
+[[Category:Qualification for the 2016 Summer Olympics]]
+[[Category:Shooting at the 2016 Summer Olympics|Qualification]]

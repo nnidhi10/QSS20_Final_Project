@@ -1,0 +1,1190 @@
+{{Infobox country at games
+| NOC            = ITA
+| fedname        = [[Italian Winter Sports Federation|FISI]]
+| year           = 
+| games          = FIS Alpine World Ski Championships
+| location       = 
+| competitors    = 
+| gold           = 24
+| silver         = 26
+| bronze         = 27
+| rank           = 7
+| appearances    = 
+| app_begin_year = 1931
+| website        = {{URL|http://www.fisi.org/}}
+}}
+'''[[Italy national alpine ski team|Italy]]''' has participated in all editions of the [[FIS Alpine World Ski Championships]], held since the first edition of [[FIS Alpine World Ski Championships 1931]],<ref>{{cite web|url=https://www.fis-ski.com/DB/general/statistics.html?statistictype=positions&positionstype=nation-position&sectorcode=AL&seasoncode=&categorycode=WSC&disciplinecode=&gendercode=&competitornationcode=ITA|title=Statistics Italy|publisher=fis-ski.com|access-date=13 February 2021}}</ref> winning 73 podiums, including 22 world titles, 25 silver medals and 26 bronze medals.<ref>{{cite web|url=https://www.fis-ski.com/DB/general/statistics.html?statistictype=positions&positionstype=position&offset=50&sectorcode=AL&seasoncode=&categorycode=WSC&gendercode=&competitornationcode=ITA&place=&nationcode=&position=4&disciplinecode=|title=Italy World Championships Podium|publisher=fis-ski.com|access-date=13 February 2021}}</ref>
+
+==History==
+The Italian team participated for the first time in the [[Alpine World Ski Championships]] already starting from the first edition, however with a single athlete, [[Carlo Barassi]], who finished 20th in slalom, 25th in downhill and 16th in combined.<ref>{{cite web|url=http://www.todor66.com/skiing/alpine/World/1931/Men_Combination.html|title=Men Combination Alipne Skiing I World Championship 1931 Mürren, Switzerland|publisher=todor66.com|access-date=13 February 2021}}</ref> The first medal of ever was a gold medal won by a women, [[Paula Wiesinger]] in [[Cortina 1932]].<ref>{{cite web|url=https://www.fisi.org/sci-alpino/news/flash-news/7749-tutte-le-medaglie-conquistate-dall-italia-nei-mondiali|archive-url=https://web.archive.org/web/20150204121145/http://www.fisi.org/sci-alpino/news/flash-news/7749-tutte-le-medaglie-conquistate-dall-italia-nei-mondiali|url-status=dead|archive-date=February 4, 2015|title=Tutte le medaglie conquistate dall'Italia nei Mondiali|publisher=fisi.org|language=it|date=2 February 2015|access-date=13 February 2021}}</ref>
+
+Following the [[WWII]], the championships were connected with the Olympics for several decades. From [[Alpine skiing at the 1948 Winter Olympics|1948]] through [[FIS Alpine World Ski Championships 1982|1982]], the competition was held in even-numbered years, with the [[Alpine skiing at the Winter Olympics|Winter Olympics]] acting as the World Championships through [[Alpine skiing at the 1980 Winter Olympics|1980]], and a separate competition held in even-numbered non-Olympic years.
+
+==Medal count==
+{{See also|FIS_Alpine_World_Ski_Championships#Total|l1=Alpine ski world championships all-time medal table}}
+{{legend|khaki|The edition coincided with the Winter Olympics}}
+{{legend|lightgrey|Edition with no medals won}}
+{{legend|palegreen|Italy won the Medal table}}
+[[File:Paula Wiesinger.jpg|thumb|220px|[[Paula Wiesinger]], first medal of ever for the [[Italy national alpine ski team]] won in downhill in [[Cortina 1932]].]]
+[[File:Zeno Colo, Fernand Grosjean, James Couttet 1950.jpg|thumb|220px|[[Zeno Colò]], first from left, with [[Fernand Grosjean]] and [[James Couttet]] after his gold medal the giant slalom in [[Aspen 1950]].]]
+{| class="wikitable" width=70% style="font-size:90%; text-align:center"
+! width=23% rowspan=2|Edition
+! colspan=3|Competitors
+! colspan=3|Men
+! colspan=3|Women
+! colspan=5|Total
+|-
+!Tot.
+!M
+!W
+!{{Gold1}}
+!{{Silver2}}
+!{{Bronze3}}
+!{{Gold1}}
+!{{Silver2}}
+!{{Bronze3}}
+!{{Gold1}}
+!{{Silver2}}
+!{{Bronze3}}
+!Tot.
+!Rank
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1931|Mürren 1931]] 
+|1 || 0 || 0
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 1932|Cortina 1932]] 
+|11||6||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|1 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|1 || 0 || 0 || 1 || 3
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1933|Innsbruck 1933]]
+|11||7||4
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1934|St. Moritz 1934]]
+|11||6||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 0 || 1 || 1 || 3
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1935|Mürren 1935]]
+|colspan=3 bgcolor=lightgrey|''did not participate''
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1936|Innsbruck 1936]]
+|8||5||4
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 1 || 0 || 1 || 4
+|-
+|align=left|{{flagicon|FRA}} [[Italy at the FIS Alpine World Ski Championships 1937|Chamonix 1937]]
+|3||3||0
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 1 || 0 || 1 || 4
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1938|Engelberg 1938]]
+|5||5||0
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|POL}} [[Italy at the FIS Alpine World Ski Championships 1939|Zakopane 1939]]
+|4||4||0
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left bgcolor=khaki|{{flagicon|SUI|civil}} [[Italy at the 1948 Winter Olympics|St. Moritz 1948]]
+|8||6||2
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|USA}} [[Italy at the FIS Alpine World Ski Championships 1950|Aspen 1950]]
+|5||4||1
+|bgcolor=#cedff2|2 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|2 || 1 || 1 || 4 || 2
+|-
+|align=left bgcolor=khaki|{{flagicon|NOR}} [[Italy at the 1952 Winter Olympics|Oslo 1952]]
+|8||5||3
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|1 || 0 || 1 || 2 || 4
+|-
+|align=left|{{flagicon|SWE}} [[Italy at the FIS Alpine World Ski Championships 1954|Åre 1954]]
+|8||5||3 
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left bgcolor=khaki|{{flagicon|ITA}} [[Italy at the 1956 Winter Olympics|Cortina 1956]]
+|13||7||6 
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 7
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1958|Badgastein 1958]]
+|10||5||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 7
+|-
+|align=left bgcolor=khaki|{{flagicon|USA}} [[Italy at the 1960 Winter Olympics|Squaw Valley 1960]]
+|10||5||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 7
+|-
+|align=left|{{flagicon|FRA}} [[Italy at the FIS Alpine World Ski Championships 1962|Chamonix 1962]]
+|10||7||3
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|0
+|0 || 1 || 0 || 1 || 3
+|-
+|align=left bgcolor=khaki|{{flagicon|AUT}} [[Italy at the 1964 Winter Olympics|Innsbruck 1964]]
+|11||6||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|CHL}} [[Italy at the FIS Alpine World Ski Championships 1966|Portillo 1966]]
+|9||7||2
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|1 || 0 || 0 || 1 || 2
+|-
+|align=left bgcolor=khaki|{{flagicon|FRA}} [[Italy at the 1968 Winter Olympics|Grenoble 1968]]
+|10||6||4 
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 1970|Val Gardena 1970]]
+|13||8||5
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left bgcolor=khaki|{{flagicon|JPN}} [[Italy at the FIS Alpine World Ski Championships 1972|Sapporo 1972]]
+|8||8||  0
+|bgcolor=#cedff2|2 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|2 || 1 || 1 || 4 || 2
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1974|St. Moritz 1974]]
+|14||8|| 6 
+|bgcolor=#cedff2|2 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|2 || 0 || 1 || 3 || 3
+|-
+|align=left bgcolor=khaki|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1976|Innsbruck 1976]]
+|12||7||5
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|0
+|2 || 2 || 1 || 5 || 2
+|-
+|align=left|{{flagicon|GER}} [[Italy at the FIS Alpine World Ski Championships 1978|Garmisch 1978]]
+|15||8||  7
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 1 || 0 || 1 || 6
+|-
+|align=left bgcolor=khaki|{{flagicon|USA}} [[Italy at the FIS Alpine World Ski Championships 1980|Lake Placid 1980]]
+|14||8||6
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1982|Schladming 1982]]
+|18||12||  6
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 8
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 1985|Bormio 1985]]
+|17||10|| 7 
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 8
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 1987|Crans-Montana 1987]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|1
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 0 || 1 || 1 || 6
+|-
+|align=left|{{flagicon|USA}} [[Italy at the FIS Alpine World Ski Championships 1989|Vail 1989]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 1991|Saalbach 1991]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|2 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|0 || 2 || 0 || 2 || 6
+|-
+|align=left|{{flagicon|JPN}} [[Italy at the FIS Alpine World Ski Championships 1993|Morioka 1993]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|ESP}} [[Italy at the FIS Alpine World Ski Championships 1996|Sierra Nevada 1996]]
+|  ||   ||
+|bgcolor=#cedff2|2 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|2 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=palegreen|4 ||bgcolor=palegreen|1 ||bgcolor=palegreen|0 ||bgcolor=palegreen|5 ||bgcolor=palegreen|1
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 1997|Sestriere 1997]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|2 
+|bgcolor=MistyRose|3 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|0
+|3 || 1 || 2 || 6 || 2
+|-
+|align=left|{{flagicon|USA}} [[Italy at the FIS Alpine World Ski Championships 1999|Vail 1999]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 2001|St. Anton 2001]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|2 ||bgcolor=MistyRose|1
+|0 || 2 || 1 || 3 || 8
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 2003|St. Moritz 2003]]
+|  ||   ||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|0
+|0 || 1 || 1 || 2 || 8
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 2005|Bormio 2005]]
+|  ||10||
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|2 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|2 ||bgcolor=MistyRose|0
+|0 || 2 || 2 || 2 || 4
+|-
+|align=left|{{flagicon|SWE}} [[Italy at the FIS Alpine World Ski Championships 2007|Åre 2007]]
+|22 ||11||11
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|1 || 1 || 1 || 3 || 5
+|-
+|align=left|{{flagicon|FRA}} [[Italy at the FIS Alpine World Ski Championships 2009|Val d'Isère 2009]]
+|23 || 12 || 11
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 1 || 1 || 2 || 8
+|-
+|align=left|{{flagicon|GER}} [[Italy at the FIS Alpine World Ski Championships 2011|Garmisch 2011]]
+|24 || 13 || 11
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|3 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|3 ||bgcolor=MistyRose|0
+|1 || 2 || 3 || 6 || 3
+|-
+|align=left|{{flagicon|AUT}} [[Italy at the FIS Alpine World Ski Championships 2013|Schladming 2013]]
+|22 || 13 || 9
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|1 ||bgcolor=#cedff2|1 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|0
+|0 || 2 || 1 || 3 || 7
+|-
+|align=left|{{flagicon|USA}} [[Italy at the FIS Alpine World Ski Championships 2015|Vail/Beaver Creek 2015]]
+|22 || 12 || 10
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|0
+|bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|0 ||bgcolor=Lightgrey|-
+|-
+|align=left|{{flagicon|SUI|civil}} [[Italy at the FIS Alpine World Ski Championships 2017|St. Moritz 2017]]
+|24 || 13 || 11
+|bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|0 ||bgcolor=MistyRose|1
+|0 || 0 || 1 || 1 || 11
+|-
+|align=left|{{flagicon|SWE}} [[Italy at the FIS Alpine World Ski Championships 2019|Åre 2019]]
+|20 || 11 || 9
+|bgcolor=#cedff2|1 ||bgcolor=#cedff2|0 ||bgcolor=#cedff2|0 
+|bgcolor=MistyRose|0 ||bgcolor=MistyRose|1 ||bgcolor=MistyRose|1
+|1 || 1 || 1 || 3 || 5
+|-
+|align=left|{{flagicon|ITA}} [[Italy at the FIS Alpine World Ski Championships 2021|Cortina 2021]]
+|23 || 13 || 10
+|bgcolor=#cedff2|0||bgcolor=#cedff2|1||bgcolor=#cedff2|0
+|bgcolor=MistyRose|1||bgcolor=MistyRose|0||bgcolor=MistyRose|0
+|1||1||0||2||6 
+|-
+|
+! || || 
+!   ||   ||
+!   ||   ||
+! 22 || 25 || 26 || 73 || 7
+|}
+
+==Skiers appearances==
+{{legend|Moccasin|Participated}} 
+
+===Men 1931-1970===
+{| class="wikitable" width= style="font-size:90%; text-align:center"
+!Skier|| [[FIS Alpine World Ski Championships 1931|31]] || [[FIS Alpine World Ski Championships 1932|32]] || [[FIS Alpine World Ski Championships 1933|33]] || [[FIS Alpine World Ski Championships 1934|34]] || [[FIS Alpine World Ski Championships 1935|35]] || [[FIS Alpine World Ski Championships 1936|36]] || [[FIS Alpine World Ski Championships 1937|37]] || [[FIS Alpine World Ski Championships 1938|38]] || [[FIS Alpine World Ski Championships 1939|39]] || [[Alpine skiing at the 1948 Winter Olympics|48]] || [[FIS Alpine World Ski Championships 1950|50]] || [[Alpine skiing at the 1952 Winter Olympics|52]] || [[FIS Alpine World Ski Championships 1954|54]] || [[Alpine skiing at the 1956 Winter Olympics|56]] || [[FIS Alpine World Ski Championships 1958|58]] || [[Alpine skiing at the 1960 Winter Olympics|60]] || [[FIS Alpine World Ski Championships 1962|62]] || [[Alpine skiing at the 1964 Winter Olympics|64]] || [[FIS Alpine World Ski Championships 1966|66]] || [[Alpine skiing at the 1968 Winter Olympics|68]] || [[FIS Alpine World Ski Championships 1970|70]] !!Tot.||Notes
+|-
+|[[Carlo Barassi]]||bgcolor=moccasin| || || || || || || || || || || |||| || || || || || || || ||
+!1
+|<ref name=MUE1931DH>{{Cite web|url=http://alpineskiworld.net/worlds31dhm.pdf|title= 20.02.1931. Muerren Downhill, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref><ref name=MUE1931SL>{{Cite web|url=http://alpineskiworld.net/worlds31slm.pdf|title=23.02.1931. Muerren Slalom, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref><ref name=MUE1931K>{{Cite web|url=http://alpineskiworld.net/worlds31acm.pdf|title=23.02.1931. Muerren Alpine Combined, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref>
+|-
+|[[Renato Valle]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || |||| || || || || || || || ||
+!2
+|<ref name=COR1932DH>{{Cite web|url=http://alpineskiworld.net/worlds32dhm.pdf|title=04.02.1932. Cortina d Ampezzo Downhill, men
+|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932SL>{{Cite web|url=http://alpineskiworld.net/worlds32slm.pdf|title=06.02.1932. Cortina d'Ampezzo Slalom, men|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932K>{{Cite web|url=http://alpineskiworld.net/worlds32acm.pdf|title=06.02.1932. Cortina d'Ampezzo Alpine Combined, men
+|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933DH>{{Cite web|url=http://alpineskiworld.net/worlds33dhm.pdf|title=08.02.1933. Innsbruck Downhill, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref><ref name=INN1933SL>{{Cite web|url=http://alpineskiworld.net/worlds33slm.pdf|title=09.02.1933. Innsbruck Slalom, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref><ref name=INN1933K>{{Cite web|url=http://alpineskiworld.net/worlds33acm.pdf|title=09.02.1933. Innsbruck Alpine Combined, men|publisher=alpineskiworld.net|access-date=13 February 2021}}</ref>
+|-
+|[[Sisto Gillarduzzi]]|| || ||bgcolor=moccasin| || || || || || || || || || || |||| || || || || || ||
+!1
+|<ref name=INN1933DH/><ref name=INN1933SL/><ref name=INN1933K/>
+|-
+|[[Ferdinando Valle]]|| ||bgcolor=moccasin| || || || || || || || || || || || |||| || || || || || ||
+!1
+|<ref name=COR1932DH/><ref name=COR1932SL/><ref name=COR1932K/>
+|-
+|[[Roberto Zardini]]|| ||bgcolor=moccasin| || || || || || || || || || || || |||| || || || || || ||
+!1
+|<ref name=COR1932DH/><ref name=COR1932SL/><ref name=COR1932K/>
+|-
+|[[Francesco Kostner]]|| ||bgcolor=moccasin| || || || || || || || || || || || |||| || || || || || ||
+!1
+|<ref name=COR1932DH/><ref name=COR1932SL/><ref name=COR1932K/>
+|-
+|[[Dario Demenego]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || |||| || || || || || ||
+!2
+|<ref name=COR1932DH/><ref name=COR1932SL/><ref name=COR1932K/><ref name=INN1933DH/><ref name=INN1933SL/><ref name=INN1933K/>
+|-
+|[[Andrea Lacedelli]]|| || ||bgcolor=moccasin| || || || || || || || || || || |||| || || || || || ||
+!1
+|<ref name=INN1933DH/><ref name=INN1933SL/><ref name=INN1933K/>
+|-
+|[[Ido Cattaneo]]|| || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!2
+|<ref name=INN1933DH/><ref name=STM1934DH_MEN>{{Cite web|url=http://alpineskiworld.net/worlds34dhm.pdf|title=15.02.1934. Sankt Moritz Downhill, men|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934SL_MEN/><ref name=STM1934K_MEN/>
+|-
+|[[Enrico Lacedelli]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!3
+|<ref name=COR1932DH/><ref name=INN1933DH/><ref name=INN1933SL/><ref name=INN1933K/><ref name=STM1934DH_MEN/><ref name=STM1934SL_MEN/><ref name=STM1934K_MEN/>
+|-
+|[[Severino Menardi]]|| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!2
+|<ref name=STM1934DH_MEN/><ref name=STM1934SL_MEN>{{Cite web|url=http://alpineskiworld.net/worlds34slm.pdf|title=17.02.1934. Sankt Moritz Slalom, men
+|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934K_MEN>{{Cite web|url=http://alpineskiworld.net/worlds34acm.pdf|title=17.02.1934. Sankt Moritz Alpine Combined, men|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Renato Dimai]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!3
+|<ref name=STM1934DH_MEN/><ref name=STM1934SL_MEN/><ref name=STM1934K_MEN/><ref name=INN1933DH/><ref name=INN1933SL/><ref name=INN1933K/>
+|-
+|[[Ettore Nani]]|| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!2
+|<ref name=STM1934DH_MEN/><ref name=STM1934SL_MEN/><ref name=STM1934K_MEN/>
+|-
+|[[Guglielmo Holzner]]|| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || |||| || || || || || ||
+!2
+|<ref name=STM1934DH_MEN/><ref name=STM1934SL_MEN/><ref name=STM1934K_MEN/>
+|-
+|[[Giacinto Sertorelli]]|| || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || |||| || || || || || ||
+!2
+|
+|-
+|[[Rolando Zanni]]|| || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || |||| || || || || || ||
+!3
+|
+|-
+|[[Federico Pariani]]|| || || || || ||bgcolor=moccasin| || || || || || || || |||| || || || || || ||
+!1
+|
+|-
+|[[Vittorio Chierroni]]|| || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || |||| || || || || || ||
+!5
+|<ref name=ZAK1939>{{Cite web|url=http://alpineskiworld.net/WORLDS1939.html|title= 12-15.02.1939. Zakopane, Poland|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1948/>
+|-
+|[[Cesare Chiogna]]|| || || || || ||bgcolor=moccasin| || || || || || || || |||| || || || || || ||
+!1
+|
+|-
+|[[Giovanni Paluselli]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || |||| || || || || || ||
+!2
+|
+|-
+|[[Giovanni Nogler]]|| || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || |||| || || || || || ||
+!2
+|<ref name=ZAK1939/>
+|-
+|[[Roberto Lacedelli]]|| || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| || |||| || || || || || ||
+!4
+|<ref name=ZAK1939/><ref name=STM1948/><ref name=OSL1952/>
+|-
+|[[Alberto Marcellin]]|| || || || || || || || ||bgcolor=moccasin| || || || || |||| || || || || || ||
+!1
+|<ref name=ZAK1939/>
+|-
+|[[Silvio Alverà]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || ||
+!2
+|<ref name=STM1948>{{Cite web|url=http://alpineskiworld.net/OLYMP1948.html|title=02-07.02.1948. Sankt Moritz, Switzerland|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=ASP1950/>
+|-
+|[[Carlo Gartner]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || ||
+!4
+|<ref name=STM1948/><ref name=ASP1950/><ref name=OSL1952/><ref name=ARE1954/>
+|-
+|[[Eugenio Bonicco]]|| || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || ||
+!1
+|<ref name=STM1948/>
+|-
+|[[Zeno Colò]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || ||
+!3
+|<ref name=STM1948/><ref name=ASP1950/><ref name=OSL1952/>
+|-
+|[[Albino Alverà]]|| || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || ||
+!2
+|<ref name=ASP1950>{{Cite web|url=http://alpineskiworld.net/WORLDS1950.html|title=13-18.02.1950. Aspen, U.S.A.|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=OSL1952/>
+|-
+|[[Ilio Colli]]|| || || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || ||
+!1
+|<ref name=OSL1952>{{Cite web|url=http://alpineskiworld.net/OLYMP1952.html|title=14-20.02.1952. Oslo/Norefjel, Norway|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Otto Glueck]]|| || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || || ||
+!1
+|<ref name=ARE1954>{{Cite web|url=http://alpineskiworld.net/WORLDS1954.html|title=01–07.03.1954. Aare, Sweden|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Lino Zecchini]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || ||
+!2
+|<ref name=ARE1954/><ref name=COR1956/>
+|-
+|[[Gino Burrini]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!3
+|<ref name=ARE1954/><ref name=COR1956/><ref name=BAD1958/>
+|-
+|[[Paride Milianti]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!6
+|<ref name=ARE1954/><ref name=COR1956/><ref name=BAD1958/><ref name=SVA1960/><ref name=CHA1962/><ref name=INN1964/>
+|-
+|[[Guido Ghedina]]|| || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || ||
+!1
+|<ref name=COR1956>{{Cite web|url=http://alpineskiworld.net/OLYMP1956.html|title=26.01-05.02.1956. Cortina d'Ampezzo, Italy|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Dino Pompanin]]|| || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || ||
+!1
+|<ref name=COR1956/>
+|-
+|[[Bruno Burrini]]|| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!2
+|<ref name=COR1956/><ref name=BAD1958/>
+|-
+|[[Italo Pedroncelli]]|| || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| || ||bgcolor=moccasin| || || ||
+!3
+|<ref name=COR1956/><ref name=SVA1960/><ref name=INN1964/>
+|-
+|[[Bruno Alberti]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!4
+|<ref name=BAD1958>{{Cite web|url=http://alpineskiworld.net/WORLDS1958.html|title=02-09.02.1958. Bad Gastein, Austria|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=SVA1960/><ref name=CHA1962/><ref name=INN1964/>
+|-
+|[[Roberto Siorpaes]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || ||
+!1
+|<ref name=BAD1958/>
+|-
+|[[Carlo Senoner]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!4
+|<ref name=SVA1960>{{Cite web|url=http://alpineskiworld.net/OLYMP1960.html|title=19-27.02.1960. Squaw Valley, U.S.A.|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=CHA1962>{{Cite web|url=http://alpineskiworld.net/WORLDS1962.html|title=10-18.02.1962. Chamonix, France|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=POR1966/><ref name=GRE1968/>
+|-
+|[[Felice De Nicolò]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| 
+!5
+|<ref name=SVA1960/><ref name=CHA1962/><ref name=INN1964/><ref name=POR1966/><ref name=GAR1970/>
+|-
+|[[Helmuth Gartner]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || ||
+!1
+|<ref name=CHA1962/>
+|-
+|[[Martino Fill]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!2
+|<ref name=CHA1962/><ref name=INN1964/>
+|-
+|[[Ivo Mahlknecht]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!4
+|<ref name=CHA1962/><ref name=INN1964>{{Cite web|url=http://alpineskiworld.net/OLYMP1964.html|title=29.01– 09.02.1964. Innsbruck, Austria|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=POR1966/><ref name=GRE1968/>
+|-
+|[[Gerhard Mussner]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!2
+|<ref name=POR1966>{{Cite web|url=http://alpineskiworld.net/WORLDS1966.html|title=05-14.08.1966. Portillo, Chile|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=GRE1968/>
+|-
+|[[Giovanni Dibona]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||
+!1
+|<ref name=POR1966/>
+|-
+|[[Giuseppe Compagnoni (alpine skier)|Giuseppe Compagnoni]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| 
+!2
+|<ref name=POR1966/><ref name=GAR1970/>
+|-
+|[[Claudio De Tassis]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||
+!1
+|<ref name=POR1966/>
+|-
+|[[Teresio Vachet]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||
+!1
+|<ref name=GRE1968>{{Cite web|url=https://www.olympedia.org/countries/ITA/editions/38|title=Italy at the 1968 Winter Olympics - Alpine Skiing|publisher=olympedia.org|access-date=14 February 2021}}</ref>
+|-
+|[[Renato Valentini]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||
+!1
+|<ref name=GRE1968/>
+|-
+|[[Bruno Piazzalunga]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||
+!1
+|<ref name=GRE1968/>
+|-
+|[[Gustav Thöni]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970>{{Cite web|url=http://alpineskiworld.net/WORLDS1970.html|title=07-15.02.1970. Val Gardena, Italy|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Pier Lorenzo Clataud]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Eberhard Schmalzl]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Helmuth Schmalzl]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Stefano Anzi]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Marcello Varallo]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+! !!1!!6!!7!!6!!0!!5!!4!!5!!4!!6!!4!!5!!5!!7!!5!!5!!7!!6!!7!!6!!8
+|}
+
+===Men 1972-2021===
+{{legend|orange|Representing Moldova}} 
+{| class="wikitable" width= style="font-size:90%; text-align:center"
+!Skier|||[[Alpine skiing at the 1972 Winter Olympics|72]] || [[FIS Alpine World Ski Championships 1974|74]] || [[Alpine skiing at the 1976 Winter Olympics|76]] || [[FIS Alpine World Ski Championships 1978|78]] || [[Alpine skiing at the 1980 Winter Olympics|80]] || [[FIS Alpine World Ski Championships 1982|82]] || [[FIS Alpine World Ski Championships 1985|85]] || [[FIS Alpine World Ski Championships 1987|87]] || [[FIS Alpine World Ski Championships 1989|89]] || [[FIS Alpine World Ski Championships 1991|91]] || [[FIS Alpine World Ski Championships 1993|93]] || [[FIS Alpine World Ski Championships 1996|96]] || [[FIS Alpine World Ski Championships 1997|97]] || [[FIS Alpine World Ski Championships 1999|99]] || [[FIS Alpine World Ski Championships 2001|01]] || [[FIS Alpine World Ski Championships 2003|03]] || [[FIS Alpine World Ski Championships 2005|05]] || [[FIS Alpine World Ski Championships 2007|07]] || [[FIS Alpine World Ski Championships 2009|09]] || [[FIS Alpine World Ski Championships 2011|11]] || [[FIS Alpine World Ski Championships 2013|13]]  || [[FIS Alpine World Ski Championships 2015|15]]  || [[FIS Alpine World Ski Championships 2017|17]]   || [[FIS Alpine World Ski Championships 2019|19]]   || [[FIS Alpine World Ski Championships 2021|21]]||Tot.||Notes
+|-
+|[[Gustav Thöni]]||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || 
+!5
+|<ref name=STM1974>{{Cite web|url=http://alpineskiworld.net/WORLDS1974.html|title=03-10.02.1974. St. Moritz, Switzerland|publisher=alpineskiworld.net|access-date=25 February 2021}}</ref><ref name=GAR1978>{{Cite web|url=http://alpineskiworld.net/WORLDS1978.html|title=29.01-05.02.1978. Garmisch-Partenkirchen, Germany|publisher=alpineskiworld.net|access-date=25 February 2021}}</ref>
+|-
+|[[Stefano Anzi]]||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=GAR1978/>
+|-
+|[[Giuliano Besson]]||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=GAR1978/>
+|-
+|[[Marcello Varallo]]||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=GAR1978/>
+|-
+|[[Roland Thöni]]||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || 
+!2
+|
+|-
+|[[Helmuth Schmalzl]]||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=STM1974/>
+|-
+|[[Eberhard Schmalzl]]||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Erwin Stricker]]||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=STM1974/>
+|-
+|[[Fausto Radici]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=STM1974/><ref name=GAR1978/>
+|-
+|[[Piero Gros]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!5
+|<ref name=STM1974/><ref name=GAR1978/><ref name=SCH1982/>
+|-
+|[[Herbert Plank]]|| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=GAR1978/>
+|-
+|[[Franco Bieler]]|| || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Renato Antonioli]]|| || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=GAR1978/>
+|-
+|[[Giuliano Giardini]]|| || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=GAR1978/><ref name=SCH1982/>
+|-
+|[[Mauro Bernardi]]|| || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=GAR1978/>
+|-
+|[[Bruno Nöckler]]|| || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=GAR1978/><ref name=SCH1982>{{Cite web|url=http://alpineskiworld.net/WORLDS1982.html|title=28.01-07.02.1982. Schladming/Haus im Ennstal, Austria|publisher=alpineskiworld.net|access-date=25 February 2021}}</ref>
+|-
+|[[Alex Giorgi]]|| || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=SCH1982/><ref name=BOR1985/>
+|-
+|[[Paolo De Chiesa]]|| || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || 
+!3
+|<ref name=SCH1982/><ref name=BOR1985/>
+|-
+|[[Riccardo Foppa]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=SCH1982/>
+|-
+|[[Giuseppe Carletti]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=SCH1982/>
+|-
+|[[Peter Mally]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=SCH1982/>
+|-
+|[[Marco Tonazzi]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=SCH1982/>
+|-
+|[[Michael Mair]]|| || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=SCH1982/><ref name=GAR1978/><ref name=BOR1985>{{Cite web|url=http://alpineskiworld.net/WORLDS1985.html|title=31.01-10.02.1985. Bormio, Italy|publisher=alpineskiworld.net|access-date=25 February 2021}}</ref>
+|-
+|[[Oskar Delago]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=SCH1982/>
+|-
+|[[Mauro Cornaz]]|| || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=SCH1982/><ref name=BOR1985/>
+|-
+|[[Danilo Sbardellotto]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || 
+!3
+|<ref name=BOR1985/>
+|-
+|[[Ivano Edalini]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=BOR1985/>
+|-
+|[[Oswald Tötsch]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=BOR1985/>
+|-
+|[[Robert Erlacher]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=BOR1985/>
+|-
+|[[Richard Pramotton]]|| || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || 
+!2
+|<ref name=BOR1985/>
+|-
+|[[Giacomo Erlacher]]|| || || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || 
+!1
+|<ref name=BOR1985/>
+|-
+|[[Alberto Tomba]]|| || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || bgcolor=moccasin| || bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || 
+!6
+|
+|-
+|[[Giorgio Piantanida]]|| || || || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Josef Polig]]|| || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Kristian Ghedina]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || ||
+!8
+|
+|-
+|[[Peter Runggaldier]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || 
+!5
+|
+|-
+|[[Pietro Vitalini]]|| || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || 
+!4
+|
+|-
+|[[Werner Perathoner]]|| || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || 
+!3
+|
+|-
+|[[Matteo Belfrond]]|| || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Alberto Senigagliesi]]|| || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || 
+!1
+|
+|-
+|[[Patrick Holzer]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || 
+!4
+|
+|-
+|[[Fabrizio Tescari]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || 
+!3
+|
+|-
+|[[Konrad Kurt Ladstätter]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || 
+!2
+|
+|-
+|[[Fabio De Crignis]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || 
+!2
+|
+|-
+|[[Gerhard Königsrainer]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || 
+!2
+|
+|-
+|[[Alessandro Fattori]]|| || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || ||
+!4
+|
+|-
+|[[Luca Cattaneo]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || 
+!2
+|
+|-
+|[[Ivan Bormolini]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || 
+!3
+|
+|-
+|[[Matteo Nana]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || 
+!2
+|
+|-
+|[[Erik Seletto]]|| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || 
+!3
+|
+|-
+|[[Giorgio Rocca]]|| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!6
+|
+|-
+|[[Angelo Weiss]]|| || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || || 
+!1
+|
+|-
+|[[Sergio Bergamelli]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || 
+!1
+|
+|-
+|[[Davide Simoncelli]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!7
+|
+|-
+|[[Massimiliano Blardone|Max Blardone]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| |||| || ||
+!7
+|
+|-
+|[[Peter Fill]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| || ||
+!7
+|
+|-
+|[[Giancarlo Bergamelli]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || 
+!2
+|
+|-
+|[[Alberto Schieppati]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || ||
+!2
+|
+|-
+|[[Giancarlo Bergamelli]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || ||
+!2
+|
+|-
+|[[Arnold Rieder]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || || || 
+!1
+|
+|-
+|[[Mirko Deflorian]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || ||bgcolor=orange| ||bgcolor=orange| || || || ||
+!3
+|
+|-
+|[[Cristian Deville]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin|  ||bgcolor=moccasin|  || ||bgcolor=moccasin|  || || || || ||
+!3
+|
+|-
+|[[Kurt Sulzenbacher]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || ||
+!2
+|
+|-
+|[[Patrick Staudacher]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!2
+|
+|-
+|[[Manfred Mölgg]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!8
+|
+|-
+|[[Christof Innerhofer]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| 
+!7
+|
+|-
+|[[Patrick Thaler]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||
+!5
+|
+|-
+|[[Werner Heel]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!5
+|
+|-
+|[[Giuliano Razzoli]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!7
+|
+|-
+|[[Alexander Ploner]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || 
+!1
+|
+|-
+|[[Stefan Thanei]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || ||
+!1
+|
+|-
+|[[Stefano Gross]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!6
+|
+|-
+|[[Matteo Marsaglia]]|| || || || || || || || || || || || || || || || || || ||  ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!6
+|
+|-
+|[[Dominik Paris]]|| || || || || || || || || || || || || || || || || || ||  ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!6
+|
+|-
+|[[Giovanni Borsotti]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| || || ||bgcolor=moccasin|
+!3
+|
+|-
+|[[Paolo Pangrazzi]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || 
+!1
+|
+|-
+|[[Roberto Nani]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!2
+|
+|-
+|[[Siegmar Klotz]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || 
+!1
+|
+|-
+|[[Florian Eisath]]|| || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||
+!2
+|
+|-
+|[[Simon Maurberger]]|| || || || || || || || || || || || || || || || || || ||  || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!2
+|
+|-
+|[[Mattia Casse]]|| || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || 
+!2
+|
+|-
+|[[Riccardo Tonetti]]|| || || || || || || || || || || || || || || || || || ||  || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!3
+|
+|-
+|[[Emanuele Buzzi]]|| || || || || || || || || || || || || || || || || || ||  || || || ||bgcolor=moccasin| || ||bgcolor=moccasin|
+!2
+|
+|-
+|[[Luca De Aliprandini]]|| || || || || || || || || || || || || || || || || || ||  || || || || ||bgcolor=moccasin| ||bgcolor=moccasin|
+!2
+|
+|-
+|[[Alex Vinatzer]]|| || || || || || || || || || || || || || || || || || ||  || || || || ||bgcolor=moccasin| ||bgcolor=moccasin|
+!2
+|
+|-
+|[[Giovanni Franzoni (alpine skier)|Giovanni Franzoni]]|| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin|
+!1
+|
+|-
+|[[Florian Schieder]]|| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|-
+! !!8!!8!!7!!8!!8!!12!!10!!  !!  !!  !!  !!  !!  !!  !!  !!  !!10!!11!!12!!13!!13!!12!!13!!11!!13
+|}
+
+===Women 1931-1970===
+{| class="wikitable" width= style="font-size:90%; text-align:center"
+!Skier|| [[FIS Alpine World Ski Championships 1931|31]] || [[FIS Alpine World Ski Championships 1932|32]] || [[FIS Alpine World Ski Championships 1933|33]] || [[FIS Alpine World Ski Championships 1934|34]] || [[FIS Alpine World Ski Championships 1935|35]] || [[FIS Alpine World Ski Championships 1936|36]] || [[FIS Alpine World Ski Championships 1937|37]] || [[FIS Alpine World Ski Championships 1938|38]] || [[FIS Alpine World Ski Championships 1939|39]] || [[Alpine skiing at the 1948 Winter Olympics|48]] || [[FIS Alpine World Ski Championships 1950|50]] || [[Alpine skiing at the 1952 Winter Olympics|52]] || [[FIS Alpine World Ski Championships 1954|54]] || [[Alpine skiing at the 1956 Winter Olympics|56]] || [[FIS Alpine World Ski Championships 1958|58]] || [[Alpine skiing at the 1960 Winter Olympics|60]] || [[FIS Alpine World Ski Championships 1962|62]] || [[Alpine skiing at the 1964 Winter Olympics|64]] || [[FIS Alpine World Ski Championships 1966|66]] || [[Alpine skiing at the 1968 Winter Olympics|68]] || [[FIS Alpine World Ski Championships 1970|70]] !!Tot.||Notes
+|-
+|[[Paula Wiesinger]]
+| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || || || || || || ||
+!4
+|<ref name=COR1932DHW>{{Cite web|url=http://alpineskiworld.net/worlds32dhw.pdf|title=04.02.1932. Cortina d'Ampezzo Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932SLW>{{Cite web|url=http://alpineskiworld.net/worlds32slw.pdf|title=05.02.1932. Cortina d'Ampezzo Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932KW>{{Cite web|url=http://alpineskiworld.net/worlds32acw.pdf|title= 05.02.1932. Cortina d'Ampezzo Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933DHW>{{Cite web|url=http://alpineskiworld.net/worlds33dhw.pdf|title=08.02.1933. Innsbruck Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933SLW>{{Cite web|url=http://alpineskiworld.net/worlds33slw.pdf|title=10.02.1933. Innsbruck/Seegrube Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933KW>{{Cite web|url=http://alpineskiworld.net/worlds33acw.pdf|title=10.02.1933. Innsbruck Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934DHW>{{Cite web|url=http://alpineskiworld.net/worlds34dhw.pdf|title=15.02.1934. Sankt Moritz Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934SL>{{Cite web|url=http://alpineskiworld.net/worlds34slw.pdf|title=16.02.1934. Sankt Moritz Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934K>{{Cite web|url=http://alpineskiworld.net/worlds34acw.pdf|title=16.02.1934. Sankt Moritz Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref>
+|-
+|[[Elena Schott]]||| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || ||
+!3
+|<ref name=COR1932DHW/><ref name=COR1932SLW/><ref name=COR1932KW/><ref name=INN1933DHW/><ref name=INN1933SLW/><ref name=INN1933KW/><ref name=STM1934DHW/><ref name=STM1934SL/>
+|-
+|[[Isalina Crivelli]]|| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || ||
+!2
+|<ref name=COR1932DHW/><ref name=COR1932SLW/><ref name=INN1933DHW/><ref name=INN1933SLW/><ref name=INN1933KW/>
+|-
+|[[Livia Bertolini]]||| ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || ||
+!2
+|<ref name=COR1932DHW/><ref name=COR1932SLW/><ref name=COR1932KW/><ref name=STM1934DHW/><ref name=STM1934SL/><ref name=STM1934K/>
+|-
+|[[Velo Delly]]|| ||bgcolor=moccasin| || || || || || || || || || || || || || || || || || || ||
+!1
+|<ref name=COR1932DHW/><ref name=COR1932SLW/><ref name=COR1932KW/>
+|-
+|[[Ofelia Zardini]]|| || ||bgcolor=moccasin| || || || || || || || || |||| || || || || || || || ||
+!1
+|<ref name=INN1933DHW/><ref name=INN1933SLW/><ref name=INN1933KW/>
+|-
+|[[Oda Gadda]]|| || || ||bgcolor=moccasin|  || || || || || || || || || || || || || || || || ||
+!1
+|<ref name=STM1934DHW/><ref name=STM1934SL/><ref name=STM1934K/>
+|-
+|[[Lina Gadda]]|| || || ||bgcolor=moccasin| || || || || || || || || || || || || || || || || ||
+!1
+|<ref name=STM1934DHW/>
+|-
+|[[Clara Frida]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || ||
+!1
+|<ref name=INN1936SLW>{{Cite web|url=http://alpineskiworld.net/worlds36slw.pdf|title=22.02.1936. Innsbruck/Seefeld Slalom, women|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref><ref name=INN1936DHW>{{Cite web|url=http://alpineskiworld.net/worlds36dhw.pdf|title=21.02.1936. Innsbruck Downhill, women|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref><ref name=INN1936KW>{{Cite web|url=http://alpineskiworld.net/worlds36acw.pdf|title=22.02.1936. Innsbruck Alpine Combined, women
+|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref>
+|-
+|[[Nives Dei Rossi]]|| || || || || ||bgcolor=moccasin| || || || || || || || || || || || || || || ||
+!1
+|
+|-
+|[[Celina Seghi]]|| || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || || ||
+!4
+|<ref name=STM1948/><ref name=ASP1950/><ref name=OSL1952/><ref name=ARE1954/>
+|-
+|[[Renata Carraretto]]|| || || || || || || || || ||bgcolor=moccasin| || || || || || || || || || || ||
+!1
+|<ref name=STM1948/>
+|-
+|[[Giuliana Minuzzo]]|| || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| || ||bgcolor=moccasin| || || || || ||
+!3
+|<ref name=OSL1952/><ref name=COR1956/><ref name=SVA1960/>
+|-
+|[[Maria Grazia Marchelli]]|| || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || ||
+!3
+|<ref name=OSL1952/><ref name=ARE1954/><ref name=COR1956/>
+|-
+|[[Anna Pellissier]]|| || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || || ||
+!2
+|<ref name=ARE1954/><ref name=COR1956/>
+|-
+|[[Vera Schenone]]|| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!2
+|<ref name=COR1956/><ref name=BAD1958/>
+|-
+|[[Cristina Ebner]]|| || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || ||
+!1
+|<ref name=COR1956/>
+|-
+|[[Carla Marchelli]]|| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || ||
+!3
+|<ref name=COR1956/><ref name=BAD1958/><ref name=SVA1960/>
+|-
+|[[Jole Poloni]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || ||
+!1
+|<ref name=BAD1958/>
+|-
+|[[Jerta Schir]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || ||
+!3
+|<ref name=BAD1958/><ref name=SVA1960/><ref name=CHA1962/>
+|-
+|[[Pia Riva]]|| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!4
+|<ref name=BAD1958/><ref name=SVA1960/><ref name=CHA1962/><ref name=INN1964/>
+|-
+|[[Jole Schir]]|| || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || ||
+!1
+|<ref name=SVA1960/>
+|-
+|[[Inge Senoner]]|| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||
+!2
+|<ref name=CHA1962/><ref name=INN1964/>
+|-
+|[[Lidia Barbieri Sacconaghi]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || ||
+!1
+|<ref name=INN1964/>
+|-
+|[[Giustina Demetz]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!3
+|<ref name=INN1964/>
+|-
+|[[Patrizia Medail]]|| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || ||
+!1
+|<ref name=INN1964/>
+|-
+|[[Glorianda Cipolla]]|| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!2
+|<ref name=POR1966/>
+|-
+|[[Clotilde Fasolis]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| 
+!2
+|<ref name=GRE1968/><ref name=GAR1970/>
+|-
+|[[Lotte Nogler]]|| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||
+!1
+|<ref name=GRE1968/>
+|-
+|[[Eva Pitscheider]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Lidia Pellissier]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Maria Roberta Schranz]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+|[[Roselda Joux]]|| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| 
+!1
+|<ref name=GAR1970/>
+|-
+! !!0!!5!!4!!5!!0!!3!!0!!0!!0!!2!!1!!3!!3!!6!!5!!5!!3!!5!!2!!4!!5
+|}
+
+===Women 1972-2021===
+{| class="wikitable" width= style="font-size:90%; text-align:center"
+!Skier|||[[Alpine skiing at the 1972 Winter Olympics|72]] || [[FIS Alpine World Ski Championships 1974|74]] || [[Alpine skiing at the 1976 Winter Olympics|76]] || [[FIS Alpine World Ski Championships 1978|78]] || [[Alpine skiing at the 1980 Winter Olympics|80]] || [[FIS Alpine World Ski Championships 1982|82]] || [[FIS Alpine World Ski Championships 1985|85]] || [[FIS Alpine World Ski Championships 1987|87]] || [[FIS Alpine World Ski Championships 1989|89]] || [[FIS Alpine World Ski Championships 1991|91]] || [[FIS Alpine World Ski Championships 1993|93]] || [[FIS Alpine World Ski Championships 1996|96]] || [[FIS Alpine World Ski Championships 1997|97]] || [[FIS Alpine World Ski Championships 1999|99]] || [[FIS Alpine World Ski Championships 2001|01]] || [[FIS Alpine World Ski Championships 2003|03]] || [[FIS Alpine World Ski Championships 2005|05]] || [[FIS Alpine World Ski Championships 2007|07]] || [[FIS Alpine World Ski Championships 2009|09]] || [[FIS Alpine World Ski Championships 2011|11]] || [[FIS Alpine World Ski Championships 2013|13]]  || [[FIS Alpine World Ski Championships 2015|15]]  || [[FIS Alpine World Ski Championships 2017|17]]   || [[FIS Alpine World Ski Championships 2019|19]]   || [[FIS Alpine World Ski Championships 2021|21]]||Tot.
+|-
+|[[Nicole Gius]]
+| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || ||
+!7
+|-
+|[[Karen Putzer]]
+| || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!6
+|-
+|[[Denise Karbon]]
+| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || ||
+!6
+|-
+|[[Lucia Recchia]]
+| || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || || || || || ||
+!5
+|-
+|[[Manuela Mölgg]]
+| || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||
+!7
+|-
+|[[Chiara Costazza]]
+| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!6
+|-
+|[[Nadia Fanchini]]
+| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||
+!6
+|-
+|[[Elena Fanchini]]
+| || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||
+!6
+|-
+|[[Johanna Schnarf]]
+| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| || ||
+!5
+|-
+|[[Daniela Merighetti]]
+| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| |||| ||
+!5
+|-
+|[[Annalisa Ceresa]]
+| || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || || ||
+!1
+|-
+|[[Irene Curtoni]]
+| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!6
+|-
+|[[Verena Stuffer]]
+| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| || || ||bgcolor=moccasin| || ||
+!3
+|-
+|[[Wendy Siorpaes]]
+| || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || || || || || ||
+!1
+|-
+|[[Federica Brignone]]
+| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!5
+|-
+|[[Elena Curtoni]]
+| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| || ||bgcolor=moccasin|
+!5
+|-
+|[[Francesca Marsaglia]]
+| || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!5
+|-
+|[[Sofia Goggia]]
+| || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| || ||bgcolor=moccasin| ||bgcolor=moccasin| ||
+!3
+|-
+|[[Marta Bassino]]
+| || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin| ||bgcolor=moccasin|
+!4
+|-
+|[[Lara Della Mea]]
+| || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||bgcolor=moccasin|
+!2
+|-
+|[[Nicol Delago]]
+| || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin| ||
+!1
+|-
+|[[Nadia Delago]]
+| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin|
+!1
+|-
+|[[Anita Gulli]]
+| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin|
+!1
+|-
+|[[Martina Peterlini]]
+| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin|
+!1
+|-
+|[[Laura Pirovano]]
+| || || || || || || || || || || || || || || || || || || || || || || || ||bgcolor=moccasin|
+!1
+|-
+! !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !!  !! !!11!!11!!11!!9!!10!!11!!9!!10
+|}
+
+==See also==
+*[[Italy national alpine ski team]]
+*[[Italian Winter Sports Federation]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.fisi.org/ Italian Winter Sports Federation] {{in lang|it}}
+* [https://ski-db.com/db/stats/ita_wm_med.php Italy World Ski Championships Medals] at Ski Database
+
+[[Category:Italy at the FIS Alpine World Ski Championships| ]]

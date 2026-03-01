@@ -1,0 +1,1634 @@
+{{use dmy dates|date=May 2016}}
+{{infobox country at games
+| NOC               = DEN
+| NOCname           = [[National Olympic Committee and Sports Confederation of Denmark]]
+| games             = Summer Olympics
+| year              = 2020
+| start_date        = {{start date|2021|7|23}}
+| end_date          = {{end date|2021|8|8}}
+| flagcaption       = 
+| oldcode           = 
+| website           = {{URL|www.dif.dk }}&nbsp;{{in lang|da|en}}
+| location          = [[Tokyo]], Japan
+| competitors       = 108
+| sports            = 16
+| flagbearer_open   = [[Sara Petersen (hurdler)|Sara Slott Petersen]]<br />[[Jonas Warrer]] 
+| flagbearer_close  = [[Emma Jørgensen]] 
+| rank              = 25
+| gold              = 3
+| silver            = 4
+| bronze            = 4
+| officials         = 
+| appearances       = auto
+| app_begin_year    = 
+| app_end_year      = 
+| summerappearances = 
+| winterappearances = 
+| seealso           = [[Denmark at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+[[Denmark]] competed at the [[2020 Summer Olympics]] in [[Tokyo]]. Originally scheduled to take place from 24 July to 9 August 2020, the Games were postponed to 23 July to 8 August 2021, because of the [[COVID-19 pandemic]].<ref>{{cite news |title=Joint Statement from the International Olympic Committee and the Tokyo 2020 Organising Committee |url=https://www.olympic.org/news/joint-statement-from-the-international-olympic-committee-and-the-tokyo-2020-organising-committee |access-date=28 March 2020 |publisher=[[Olympic Games]] |date=24 March 2020}}</ref> Danish athletes have appeared in every edition of the [[Summer Olympic Games]], with the exception of the [[1904 Summer Olympics]] in St. Louis. Before the start of the games, [[National Olympic Committee and Sports Confederation of Denmark|DIF]] sat an official medal goal of 8–10 medals for the Tokyo games.<ref>{{cite web |url=https://www.dr.dk/sporten/ol/danmarks-ol-atleter-er-langt-fra-naa-medaljemaalsaetningen |title=Danmarks OL-atleter er langt fra at nå medaljemålsætningen}}</ref>
+
+Denmark stood with 108 athletes in 16 sports. Danish athletes won a total of 11 medals (3 gold, 4 silver and 4 bronze) at the Tokyo Olympiad. This was the most gold medals won by Denmark since the [[1996 Summer Olympics]], and the fifth highest amount of medals won in the Summer Olympics. Three of these 11 medals were won in cycling, two in canoeing and one each in badminton, handball, rowing, sailing, shooting and swimming.<ref>{{cite web |title=Guld, guld og mere guld: Det danske OL er det mest gyldne i 25 år |url=https://www.dr.dk/sporten/ol/guld-guld-og-mere-guld-det-danske-ol-er-det-mest-gyldne-i-25-aar |website=Dr.dk |date=8 August 2021 |access-date=8 August 2021}}</ref><ref name="Entries">{{cite web |title=NOC Entries - Team Denmark |url=https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/noc-entries-denmark.htm |work=Tokyo 2020 Olympics |publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games]] |access-date=9 August 2021 |archive-date=23 July 2021 |archive-url=https://web.archive.org/web/20210723100039/https://olympics.com/tokyo-2020/olympic-games/en/results/all-sports/noc-entries-denmark.htm |url-status=dead}}</ref>
+
+Among the Danish medalists were [[Viktor Axelsen]], winning gold in [[Badminton at the 2020 Summer Olympics – Men's singles|men's singles in badminton]]. He became the second Danish gold medalist in badminton, the first being [[Poul-Erik Høyer Larsen]] in 1996. Former gold medalist [[Pernille Blume]] won bronze in [[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|Women's 50 m freestyle swimming]], marking her third Olympic medal in her career. [[Emma Jørgensen]] also reached three Olympic medals, having a silver medal from the [[2016 Summer Olympics|2016 Olympics]] and winning two bronze medals in canoeing at the 2020 Olympics. The [[Denmark men's national handball team|Danish national handball team]] won Denmark's first silver medal in handball, having previously won four gold medals. [[Lasse Norman Hansen]] won his fourth and fifth Olympic medals, winning silver in [[Cycling at the 2020 Summer Olympics – Men's team pursuit|men's team pursuit]] and gold in [[Cycling at the 2020 Summer Olympics – Men's Madison|men's madison]]. This tied Hansen for most medals won by an individual Danish athlete, tying with [[Niels Larsen]], [[Eskild Ebbesen]] and [[Lars Jørgen Madsen]].<ref>{{cite web |title=Viktor Axelsen vinder OL-guld |url=https://sport.tv2.dk/badminton/2021-08-02-viktor-axelsen-vinder-ol-guld |website=Sport.tv2.dk |date=2 August 2021 |access-date=8 August 2021}}</ref><ref>{{cite web |title=Stolt Lasse Norman: En ordentligt streg i regningen |url=https://www.feltet.dk/nyheder/stolt_lasse_norman_en_ordentligt_streg_i_regningen/ |website=Feltet.dk |access-date=8 August 2021}}</ref>
+
+The [[National Olympic Committee and Sports Confederation of Denmark|Danish NOC]] represented not only Denmark, but also the constituent countries of [[Greenland]] and the [[Faroe Islands]], neither of which have their own NOC. With the men's handball team winning a silver medal, Faroese handball player [[Jóhan Hansen]] became the first Faroese athlete to win a medal.<ref>{{cite web |title=Danmarks færing har skrevet OL-historie |url=https://sport.tv2.dk/haandbold/2021-08-06-danmarks-faering-har-skrevet-ol-historie |website=Sport.tv2.dk |date=6 August 2021 |access-date=9 August 2021}}</ref>
+
+==Medalists==
+{{further|2020 Summer Olympics medal table|List of 2020 Summer Olympics medal winners}}
+{{col-begin}}
+| width="78%" align="left" valign="top" |
+
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}} || [[Anne-Marie Rindom]] || [[Sailing at the 2020 Summer Olympics|Sailing]] ||[[Sailing at the 2020 Summer Olympics – Laser Radial|Women's Laser Radial]] || {{dts|1 August}}
+|-
+| {{gold medal}} || [[Viktor Axelsen]] || [[Badminton at the 2020 Summer Olympics|Badminton]] ||[[Badminton at the 2020 Summer Olympics – Men's singles|Men's singles]] || {{dts|2 August}}
+|-
+| {{gold medal}} || [[Lasse Norman Hansen]] <br /> [[Michael Mørkøv]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Men's Madison|Men's madison]] || {{dts|7 August}}
+|-
+| {{silver medal}} || [[Jesper Hansen (sport shooter)|Jesper Hansen]] || [[Shooting at the 2020 Summer Olympics|Shooting]] ||[[Shooting at the 2020 Summer Olympics – Men's skeet|Men's skeet]] || {{dts|26 July}}
+|-
+| {{silver medal}} || [[Lasse Norman Hansen]] <br /> [[Niklas Larsen]]<br />[[Frederik Rodenberg]]<br />[[Rasmus Pedersen]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Men's team pursuit|Men's team pursuit]] || {{dts|4 August}}
+|-
+| {{silver medal}} || [[Amalie Dideriksen]] <br /> [[Julie Leth]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's Madison|Women's madison]] || {{dts|6 August}}
+|-
+| {{silver medal}} || {{sortname|Denmark|men's national handball team|Denmark men's national handball team}}<br />{{columns-list|colwidth=10em|small=yes|style=width:22em|{{ubl|[[Niklas Landin Jacobsen]]|[[Magnus Landin Jacobsen]]|[[Emil Jakobsen]]|[[Magnus Saugstrup]]|[[Lasse Svan Hansen]]|[[Kevin Møller]]|[[Henrik Møllgaard]]|[[Mads Mensah Larsen]]|[[Henrik Toft Hansen]]|[[Mikkel Hansen]]|[[Morten Olsen (handballer)|Morten Olsen]]|[[Jóhan Hansen]]|[[Lasse Andersson]]|[[Jacob Holm (handballer)|Jacob Holm]]|[[Mathias Gidsel]]}}}}
+|| [[Handball at the 2020 Summer Olympics|Handball]] || [[Handball at the 2020 Summer Olympics – Men's tournament|Men's tournament]] || {{dts|7 August}}
+|-
+| {{bronze medal}} || [[Joachim Sutton]]<br />[[Frederik Vystavel]] || [[Rowing at the 2020 Summer Olympics|Rowing]] ||[[Rowing at the 2020 Summer Olympics – Men's coxless pair|Men's coxless pair]] || {{dts|29 July}}
+|-
+| {{bronze medal}} || [[Pernille Blume]] || [[Swimming at the 2020 Summer Olympics|Swimming]] ||[[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|Women's 50 m freestyle]] || {{dts|1 August}}
+|-
+| {{bronze medal}} || [[Emma Jørgensen]] || [[Canoeing at the 2020 Summer Olympics|Canoeing]] || [[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|Women's K-1 200 metres]] || {{dts|3 August|addkey=1}}
+|-
+| {{bronze medal}} || [[Emma Jørgensen]] || [[Canoeing at the 2020 Summer Olympics|Canoeing]] || [[Canoeing at the 2020 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 metres]] || {{dts|5 August|addkey=1}}
+|}
+
+| width="22%" align="left" valign="top" |
+{| class="wikitable" style="font-size:85%"
+|-
+!colspan=7|'''Medals by sport'''
+|-align=center
+|'''Sport'''
+| bgcolor=#f7f6a8 | {{gold01}}
+| bgcolor=#dce5e5 | {{silver02}}
+| bgcolor=#ffdab9 | {{bronze03}}
+|'''Total'''
+|-align=center
+|[[#Badminton|Badminton]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Canoeing|Canoeing]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |2
+|'''2'''
+|-align=center
+|[[#Cycling|Cycling]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |2
+| style="background:#FFDAB9;" |0
+|'''3'''
+|-align=center
+|[[#Handball|Handball]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Rowing|Rowing]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+|[[#Sailing|Sailing]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Shooting|Shooting]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Swimming|Swimming]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+!'''Total'''
+! style="background:gold;" |'''3'''
+! style="background:silver;" |'''4'''
+! style="background:#c96;" |'''4'''
+!'''11'''
+|}
+{{col-end}}
+
+==Competitors==
+The following is the list of number of competitors participating in the Games:<ref name="Entries" />
+{| class="wikitable sortable" style="text-align:center;"
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Archery at the 2020 Summer Olympics|Archery]]
+| 0 || 1 || 1
+|-
+| align=left|[[Athletics at the 2020 Summer Olympics|Athletics]]
+| 9 || 8 || 17
+|-
+| align=left|[[Badminton at the 2020 Summer Olympics|Badminton]]
+| 5 || 4 || 9
+|-
+| align=left|[[Canoeing at the 2020 Summer Olympics|Canoeing]]
+| 0 || 4 || 4
+|-
+| align=left|[[Cycling at the 2020 Summer Olympics|Cycling]]
+| 11 || 7 || 18
+|-
+| align=left|[[Equestrian at the 2020 Summer Olympics|Equestrian]]
+| 2 || 3 || 5
+|-
+| align=left|[[Golf at the 2020 Summer Olympics|Golf]]
+| 2 || 2 || 4
+|-
+| align=left|[[Handball at the 2020 Summer Olympics|Handball]]
+| 14 || 0 || 14
+|-
+| align=left|[[Judo at the 2020 Summer Olympics|Judo]]
+| 0 || 1 || 1
+|-
+| align=left|[[Rowing at the 2020 Summer Olympics|Rowing]]
+| 3 || 6 || 9
+|-
+| align=left|[[Sailing at the 2020 Summer Olympics|Sailing]]
+| 3 || 5 || 8
+|-
+| align=left|[[Shooting at the 2020 Summer Olympics|Shooting]]
+| 2 || 2 || 4
+|-
+| align=left|[[Skateboarding at the 2020 Summer Olympics|Skateboarding]]
+| 1 || 0 || 1
+|-
+| align=left|[[Swimming at the 2020 Summer Olympics|Swimming]]
+| 3 || 8 || 11
+|-
+| align=left|[[Table tennis at the 2020 Summer Olympics|Table tennis]]
+| 1 || 0 || 1
+|-
+| align=left|[[Wrestling at the 2020 Summer Olympics|Wrestling]]
+| 1 || 0 || 1
+|-
+|-class="sortbottom"
+! Total || 57 || 51 || 108
+|}
+
+==Archery==
+{{main|Archery at the 2020 Summer Olympics|Archery at the 2020 Summer Olympics – Qualification}}
+One Danish archer qualified for the women's individual recurve by securing one of three remaining spots available in the secondary tournament at the [[2019 World Archery Championships]] in [['s-Hertogenbosch]], [[Netherlands]].<ref>{{cite news |title=Denmark, Mexico and Sweden win last three Olympic quota places at 2019 world championships |url=https://worldarchery.org/news/170844/denmark-mexico-and-sweden-win-last-three-olympic-quota-places-2019-world-championships |publisher=[[World Archery]] |date=14 June 2019 |access-date=14 June 2019}}</ref> On 8 October 2019, London 2012 Olympian and 2013 world champion [[Maja Jager]] became the first Danish athlete to be officially selected to the roster for Tokyo 2020.<ref>{{cite news |author=Wells, Chriss |title=Maja Jager becomes first archer selected for Tokyo 2020 Olympics |url=https://worldarchery.org/news/176056/maja-jager-becomes-first-archer-selected-tokyo-2020-olympics |publisher=[[World Archery]] |date=8 October 2019 |access-date=12 October 2019}}</ref><ref>{{cite news |title=Den første OL-atlet er udtaget |trans-title=The first athlete has been selected for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2019/10/20191008_denfrsteolatleterudtaget |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=8 October 2019 |access-date=12 October 2019}}</ref>
+
+Jager was seeded 25th after the initial ranking round, which left her to compete against Indonesian [[Diananda Choirunisa]] in the first tournament round. Jager won this round 6–2. In the second round against [[Ksenia Perova]], Jager and Perova started out by winning a set each and had a set draw. Perova won the fourth and fifth sets, eliminating Jager from the tournament.<ref>{{cite web |title=Maja Jager ryger ud af OL |url=https://sport.tv2.dk/bueskydning/2021-07-29-maja-jager-ryger-ud-af-ol |website=Sport.tv2.dk |date=29 July 2021 |access-date=9 August 2021}}</ref><ref>{{cite web |title=Brackets - Elimination Rounds |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ARC/OG2020-_ARC_C75A_ARCWINDIVID-----------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=9 August 2021 |archive-date=9 August 2021 |archive-url=https://web.archive.org/web/20210809145619/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ARC/OG2020-_ARC_C75A_ARCWINDIVID-----------------------.pdf |url-status=dead}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Maja Jager]]
+|align=left|[[Archery at the 2020 Summer Olympics – Women's individual|Women's individual]]
+|649
+|25
+|{{flagIOCathlete|[[Diananda Choirunisa|Choirunisa]]|INA|2020 Summer}}<br />'''W''' 6–2
+|{{flagIOCathlete|[[Ksenia Perova|Perova]]|ROC|2020 Summer}}<br /> '''L''' 3–7
+|colspan=5|Did not advance
+|}
+
+==Athletics==
+{{main|Athletics at the 2020 Summer Olympics|Athletics at the 2020 Summer Olympics – Qualification}}
+[[File:Sara Petersen Beijing 2015.jpg|thumb|Sara Slott Petersen]]
+Danish athletes further achieved the entry standards, either by qualifying time or by world ranking, in the following track and field events (up to a maximum of 3 athletes in each event):<ref>{{cite web |title=iaaf.org – Top Lists |url=http://www.iaaf.org/statistics/toplists/index.html |publisher=IAAF |access-date=8 April 2019}}</ref><ref>{{cite web |title=IAAF Games of the XXXII Olympiad – Tokyo 2020 Entry Standards |url=https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/internationale_Qualifikationskriterien/IAAF_-_Athletics_20180806.pdf |publisher=[[World Athletics|IAAF]] |access-date=8 April 2019 |archive-date=8 April 2019 |archive-url=https://web.archive.org/web/20190408160334/https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/internationale_Qualifikationskriterien/IAAF_-_Athletics_20180806.pdf |url-status=dead}}</ref>
+
+On 27 March 2020, Rio 2016 silver medalist [[Sara Petersen (hurdler)|Sara Slott Petersen]] (women's 400 m hurdles) and steeplechaser [[Anna Emilie Møller]] became the first Danish track and field athletes to be named to the rescheduled Tokyo 2020 squad, with marathon runners [[Abdi Hakin Ulad]] and [[Thijs Nijhuis]] joining them nearly a month later.<ref name=team-danmark-03272020>{{cite news |title=Allerede udtagne atleter beholder deres OL-pladser |trans-title=Selected athletes already retained their Olympic slots |language=da |url=https://ol2020.dif.dk/da/nyt/2020/3/20200327_alleredeudtagneatleterbeholderderesolpladser |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=27 March 2020 |access-date=18 April 2020}}</ref><ref>{{cite news |title=To danske maratonløbere udtaget til OL |trans-title=Two Danish marathon runners selected for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2020/5/20200508_todanskemaratonlbereudtagettilol |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=8 May 2020 |access-date=9 May 2020}}</ref>
+
+Both the [[Athletics at the 2020 Summer Olympics – Men's 4 × 100 metres relay|men's]] and [[Athletics at the 2020 Summer Olympics – Women's 4 × 100 metres relay|women's]] relay teams broke the Danish national records, despite neither qualifying for the final.<ref>{{cite web |title=Athletics - Round 1 - Heat 2 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-4-x-100m-relay-rnd1-000200-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=9 August 2021 |archive-date=5 August 2021 |archive-url=https://web.archive.org/web/20210805064123/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-4-x-100m-relay-rnd1-000200-.htm |url-status=dead}}</ref><ref>{{cite web |title=Athletics - Round 1 - Heat 2 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-4-x-100m-relay-rnd1-000200-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=9 August 2021 |archive-date=9 August 2021 |archive-url=https://web.archive.org/web/20210809182657/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-4-x-100m-relay-rnd1-000200-.htm |url-status=dead}}</ref><ref>{{cite web |title=Lynhurtige stafethold slår danske rekorder og 'viser vi hører til ved OL' |url=https://www.dr.dk/sporten/ol/danskerne/lynhurtige-stafethold-slaar-danske-rekorder-og-viser-vi-hoerer-til-ved-ol |website=Dr.dk |date=5 August 2021 |access-date=9 August 2021}}</ref> Silver medalist from 2016 Sara Slott Petersen competed in [[Athletics at the 2020 Summer Olympics – Women's 400 metres hurdles|women's 400 m hurdles]], qualifying to the semifinal after finishing 3rd in her initial heat. In the semi final, rain caused the field to get slippery and Slott crashed. As a result she didn't qualify to the final.<ref>{{cite web |title=Athletics - Round 1 - Heat 3 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-rnd1-000300-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=9 August 2021 |archive-date=31 July 2021 |archive-url=https://web.archive.org/web/20210731033700/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-rnd1-000300-.htm |url-status=dead}}</ref><ref>{{cite web |title=Athletics - Semi-Final 3 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-sfnl-000300-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=9 August 2021 |archive-date=1 August 2021 |archive-url=https://web.archive.org/web/20210801015955/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-sfnl-000300-.htm |url-status=dead}}</ref><ref>{{cite web |title=Sara Slott styrter i semifinalen: 'Det er den værst tænkelige afslutning på karrieren' |url=https://www.dr.dk/sporten/ol/sara-slott-styrter-i-semifinalen-det-er-den-vaerst-taenkelige-afslutning-paa-karrieren |website=Dr.dk |date=2 August 2021 |access-date=9 August 2021}}</ref> [[Ole Hesselbjerg]] and Anna Emilie Møller competed in the 3000 metres steeplechase, [[Athletics at the 2020 Summer Olympics – Men's 3000 metres steeplechase|men's]] and [[Athletics at the 2020 Summer Olympics – Women's 3000 metres steeplechase|women's]] respectively. Neither qualified from their initial heats, Hesselbjerg finishing 8th and Møller finishing 9th. Møller's time of 9:31.99 was her season's best.<ref>{{cite web |title=Athletics - Round 1 - Heat 3 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-3000m-steeplechase-rnd1-000300-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=10 August 2021 |archive-date=3 August 2021 |archive-url=https://web.archive.org/web/20210803204952/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-3000m-steeplechase-rnd1-000300-.htm |url-status=dead}}</ref><ref>{{cite web |title=Athletics - Round 1 - Heat 3 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-3000m-steeplechase-rnd1-000300-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=10 August 2021 |archive-date=10 August 2021 |archive-url=https://web.archive.org/web/20210810095719/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-3000m-steeplechase-rnd1-000300-.htm |url-status=dead}}</ref> [[Kojo Musah]] ran in the [[Athletics at the 2020 Summer Olympics – Men's 100 metres|men's 100 m]], as the first Danish athlete since [[1928 Summer Olympics|1928]]. He had reached the qualifying standard and was able to skip the preliminary rounds, moving straight to the round one heats. In his heat he finished in fifth place and didn't qualify for the semifinal.<ref>{{cite web |title=Athletics - Round 1 - Heat 7 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-100m-rnd1-000700-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=10 August 2021 |archive-date=31 July 2021 |archive-url=https://web.archive.org/web/20210731142228/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-100m-rnd1-000700-.htm |url-status=dead}}</ref><ref>{{cite web |title=Som den første dansker i 93 år skal Kojo Musah løbe om kap med klodens hurtigste mænd |url=https://www.dr.dk/sporten/ol/som-den-foerste-dansker-i-93-aar-skal-kojo-musah-loebe-om-kap-med-klodens-hurtigste-maend |website=Dr.dk |date=31 July 2021 |access-date=10 August 2021}}</ref> Two Danish athletes competed in the [[Athletics at the 2020 Summer Olympics – Men's marathon|men's marathon]]: Thijs Nijhuis and Abdi Hakin Ulad. Both completed the marathon. Nijhuis finished in 70th place with a time of 2:26:59, and Ulad finished in 23rd place with a time of 2:15:50. For both men, this was their season's best.<ref>{{cite web |title=Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73K_ATHMMARATHON----------FNL-000100--.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=10 August 2021 |archive-date=8 August 2021 |archive-url=https://web.archive.org/web/20210808002334/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73K_ATHMMARATHON----------FNL-000100--.pdf |url-status=dead}}</ref><ref>{{cite web |title=Athletics - Final Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-marathon-fnl-000100-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=10 August 2021 |archive-date=8 August 2021 |archive-url=https://web.archive.org/web/20210808000255/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-marathon-fnl-000100-.htm |url-status=dead}}</ref><ref>{{cite web |title=Favorit triumferer og dansker løber flot maraton ved OL |url=https://www.berlingske.dk/sport/favorit-triumferer-og-dansker-loeber-flot-maraton-ved-ol |website=Olympics.com |date=8 August 2021 |access-date=10 August 2021}}</ref>
+
+{{smalldiv|1=<nowiki/>
+
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track & road events
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Kojo Musah]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Men's 100 metres|100 m]]
+|colspan=2 {{bye}}
+|10.20
+|5
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Ole Hesselbjerg]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Men's 3000 metres steeplechase|3000 m steeplechase]]
+|8:24.08
+|8
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Simon Hansen (athlete)|Simon Hansen]]<br />[[Tazana Kamanga-Dyrbak]]<br />[[Kojo Musah]]<br />[[Frederik Schou-Nielsen]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Men's 4 × 100 metres relay|4 × 100 m relay]]
+|38.16
+|7 '''{{AthAbbr|NR|Danish}}'''
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Thijs Nijhuis]]
+|align=left rowspan=2|[[Athletics at the 2020 Summer Olympics – Men's marathon|Marathon]]
+|colspan=6 rowspan=2 {{n/a}}
+|2:26:59
+|70
+|-align=center
+|align=left|[[Abdi Hakin Ulad]]
+|2:15:50
+|23
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat 
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Sara Slott Petersen]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 400 metres hurdles|400 m hurdles]]
+|55.52
+|3 '''Q'''
+|colspan=2|{{abbr|DNF|Did not finish}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Anna Emilie Møller]]	
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 3000 metres steeplechase|3000 m steeplechase]]
+|9:31.99 '''SB'''
+|9 
+|colspan=2 {{n/a}}
+|colspan=2| Did not advance
+|-align=center
+|align=left|[[Emma Beiter Bomme]]<br />[[Astrid Glenner-Frandsen]]<br />[[Ida Karstoft]]<br />[[Mathilde Kramer]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 4 × 100 metres relay|4 × 100 m relay]]
+|43.51 '''{{AthAbbr|NR|Danish}}'''
+|7
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|}
+
+==Badminton==
+{{main|Badminton at the 2020 Summer Olympics|Badminton at the 2020 Summer Olympics – Qualification}}
+Denmark entered nine badminton players (five men and nine women) for the following events based on the [[Badminton World Federation|BWF]] Race to Tokyo Rankings; two entries in the men's singles, one in the women's singles, and a pair each in the men's, women's, and mixed doubles.<ref>{{cite web |last=Rasmussen |first=Jonas Kildegaard |title=Danmark kvalificerer sig i alle badmintonkategorier til OL i Tokyo |trans-title=Denmark qualifies in all badminton categories for the Olympics in Tokyo |url=https://badminton.dk/2021/05/28/danmark-kvalificerer-sig-i-alle-badmintonkategorier-til-ol-i-tokyo/ |website=Badminton Denmark |date=28 May 2021 |access-date=16 July 2021 |language=da |url-status=live |archive-url=https://web.archive.org/web/20210528092339/https://badminton.dk/2021/05/28/danmark-kvalificerer-sig-i-alle-badmintonkategorier-til-ol-i-tokyo/ |archive-date=28 May 2021}}</ref>
+
+In the [[Badminton at the 2020 Summer Olympics – Mixed doubles|mixed doubles]] event Denmark stood with one team consisting of [[Mathias Christiansen]] and [[Alexandra Bøje]]. In the initial group stage they lost two matches and won. Their one win was not enough to qualify to the quarter finals.<ref>{{cite web |title=Christiansen/Bøje slutter OL af med overbevisende sejr |url=https://badminton.dk/2021/07/26/christiansen-boeje-slutter-ol-af-med-overbevisende-sejr/ |website=Badminton.dk |date=26 July 2021 |access-date=13 August 2021}}</ref> Two other teams represented Denmark, one in [[Badminton at the 2020 Summer Olympics – Men's doubles|men's doubles]] and one in [[Badminton at the 2020 Summer Olympics – Women's doubles|women's doubles]]. The women's team consisted of [[Maiken Fruergaard]] and [[Sara Thygesen]]. They lost two matches in the group stage, but won against the fourth-seeded [[Lee So-hee]] and [[Shin Seung-chan]].<ref>{{cite web |title=Thygesen/Fruergaard slår fjerdeseedede sydkoreanere: De viser deres topniveau |url=https://badminton.dk/2021/07/25/thygesen-fruergaard-slaar-fjerdeseedede-sydkoreanere-de-viser-deres-topniveau/ |website=Badminton.dk |date=25 July 2021 |access-date=13 August 2021}}</ref> [[Kim Astrup]] and [[Anders Skaarup Rasmussen]] made up the team for the men's doubles. In the group stage they won two matches and lost one, which allowed them to qualify to the quarterfinals. Here they faced Chinese [[Li Junhui]] and [[Liu Yuchen]]. The Danish double won one set, as did the Chinese. In the final set the two Danes lost in a close 19–21 finish.<ref>{{cite web |title=Kim Astrup og Anders Skaarup Rasmussen spiller sig overbevisende i OL-kvartfinalen: – Vi er klar til at æde os selv |url=https://badminton.dk/2021/07/26/kim-astrup-og-anders-skaarup-rasmussen-spiller-sig-overbevisende-i-ol-kvartfinalen-vi-er-klar-til-at-aede-os-selv/ |website=Badminton.dk |date=26 July 2021 |access-date=13 August 2021}}</ref><ref name="Badminton">{{cite web |title=Badminton - Olympic Schedule & Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/badminton/olympic-schedule-and-results.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=13 August 2021 |archive-date=9 August 2021 |archive-url=https://web.archive.org/web/20210809182630/https://olympics.com/tokyo-2020/olympic-games/en/results/badminton/olympic-schedule-and-results.htm |url-status=dead}}</ref>
+
+Three Danish badminton players took part in the singles events. [[Mia Blichfeldt]] competed in the [[Badminton at the 2020 Summer Olympics – Women's singles|women's singles]], winning both matches in the group stage and qualifying to the elimination stage. In the elimination stage she faced off against Indian [[P. V. Sindhu]], who she had previously competed against on five different occasions, four of which she had lost. She also lost this match against her, losing both sets.<ref>{{cite web |title=Trist Blichfeldt blev sin egen værste fjende i OL-exit |url=https://sport.tv2.dk/badminton/2021-07-29-trist-blichfeldt-blev-sin-egen-vaerste-fjende-i-ol-exit |website=Sport.tv2.dk |date=29 July 2021 |access-date=13 August 2021}}</ref> Two Danish athletes competed in the [[Badminton at the 2020 Summer Olympics – Men's singles|men's singles]]: [[Anders Antonsen]] and [[Viktor Axelsen]]. Antonsen won both matches in the group stage, qualifying him for the elimination stage where he faced off against British [[Toby Penty]]. Antonsen won both sets and the match, moving him on to the quarterfinals. Here he was to compete against Indonesian [[Anthony Sinisuka Ginting]]. Antonsen and Ginting each won a set, and in the final set Ginting defeated Antonsen 21–18.<ref>{{cite web |title=Antonsen ude af OL efter stort drama |url=https://sport.tv2.dk/badminton/2021-07-31-antonsen-ude-af-ol-efter-stort-drama |website=Sport.tv2.dk |date=31 July 2021 |access-date=13 August 2021}}</ref> Viktor Axelsen also won both matches in the group stage, and defeated Taiwanese [[Wang Tzu-wei]] in the elimination stage. In the quarterfinal he defeated Chinese [[Shi Yuqi]] and in the semifinal he beat Guatemalan [[Kevin Cordón]]. This left him in a final against Chinese [[Chen Long]]. He won both sets in the final, winning him a gold medal. This was the first Danish gold medal in badminton since the [[1996 Summer Olympics]], where [[Poul-Erik Høyer Larsen]] won. Axelsen went through the Tokyo Olympics without losing a single set.<ref>{{cite web |title=Fænomenale Viktor Axelsen er olympisk mester |url=https://www.dr.dk/sporten/ol/faenomenale-viktor-axelsen-er-olympisk-mester |website=Dr.dk |date=2 August 2021 |access-date=13 August 2021}}</ref><ref name="Badminton" />
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Elimination
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Anders Antonsen]]
+| rowspan="2" align="left" |[[Badminton at the 2020 Summer Olympics – Men's singles|Singles]]
+|{{flagIOCathlete|[[Nguyễn Tiến Minh|Nguyễn]]|VIE|2020 Summer}}<br />'''W''' (21–13, 21–13)
+|{{flagIOCathlete|[[Ade Resky Dwicahyo|Dwicahyo]]|AZE|2020 Summer}}<br />'''W''' (21–16, 21–15)
+|{{n/a}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Toby Penty|Penty]]|GBR|2020 Summer}}<br />'''W''' (21–10, 21–15)
+|{{flagIOCathlete|[[Anthony Sinisuka Ginting|Ginting]]|INA|2020 Summer}}<br />'''L''' (18–21, 21–15, 18–21)
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Viktor Axelsen]]'''
+|{{flagIOCathlete|[[Luka Wraber|Wraber]]|AUT|2020 Summer}}<br />'''W''' (21–12, 21–11)
+|{{flagIOCathlete|[[Kalle Koljonen|Koljonen]]|FIN|2020 Summer}}<br />'''W''' (21–9, 21–13)
+|{{n/a}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Wang Tzu-wei|Wang T-w]]|TPE|2020 Summer}}<br />'''W''' (21–16, 21–14)
+|{{flagIOCathlete|[[Shi Yuqi|Shi Yq]]|CHN|2020 Summer}}<br />'''W''' (21–13, 21–13)
+|{{flagIOCathlete|[[Kevin Cordón|Cordón]]|GUA|2020 Summer}}<br />'''W''' (21–18, 21–11)
+|{{flagIOCathlete|[[Chen Long|Chen L]]|CHN|2020 Summer}}<br />'''W''' (21–15, 21–12)
+|{{gold1}}
+|- align=center
+|align=left|[[Kim Astrup]]<br />[[Anders Skaarup Rasmussen]]
+|align=left|[[Badminton at the 2020 Summer Olympics – Men's doubles|Doubles]]
+|{{flagIOCathlete|[[Vladimir Ivanov (badminton)|Ivanov]] / <br />[[Ivan Sozonov|Sozonov]]|ROC|2020 Summer}}<br />'''W''' (21–13, 21–18)
+|{{flagIOCathlete|[[Godwin Olofua|Olofua]] / <br />[[Anuoluwapo Juwon Opeyori|Opeyori]]|NGR|2020 Summer}}<br />'''W''' (21–7, 21–10)
+|{{flagIOCathlete|[[Hiroyuki Endo|Endo]] / <br />[[Yuta Watanabe (badminton)|Watanabe]]|JPN|2020 Summer}}<br />'''L''' (14–21, 12–21)
+|2 '''Q'''
+|{{n/a}}
+|{{flagIOCathlete|[[Li Junhui|Li Jh]] / [[Liu Yuchen|Liu Yc]]|CHN|2020 Summer}}<br />'''L''' (21–12, 14–21, 19–21)
+|colspan=3|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Elimination
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{tooltip|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Mia Blichfeldt]]
+|align=left|[[Badminton at the 2020 Summer Olympics – Women's singles|Singles]]
+|{{flagIOCathlete|[[Chen Hsuan-yu|Chen]]|AUS|2020 Summer}}<br />'''W''' (21–7, 21–14)
+|{{flagIOCathlete|[[Linda Zechiri|Zechiri]]|BUL|2020 Summer}}<br />'''W''' (21–10, 21–3)
+|{{n/a}}
+|1 '''Q'''
+|{{flagIOCathlete|[[P. V. Sindhu|Sindhu]]|IND|2020 Summer}}<br />'''L''' (15–21, 13–21)
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Maiken Fruergaard]]<br />[[Sara Thygesen]]
+|align=left|[[Badminton at the 2020 Summer Olympics – Women's doubles|Doubles]]
+|{{flagIOCathlete|[[Du Yue|Du Y]] / <br />[[Li Yinhui|Li Yh]]|CHN|2020 Summer}}<br />'''L''' (13–21, 15–21)
+|{{flagIOCathlete|[[Lee So-hee|Lee S-h]] / <br />[[Shin Seung-chan|Shin S-c]]|KOR|2020 Summer}}<br />'''W''' (15–21, 21–19, 22–20)
+|{{flagIOCathlete|[[Setyana Mapasa|Mapasa]] / <br />[[Gronya Somerville|Somerville]]|AUS|2020 Summer}}<br />'''L''' (19–21, 21–13, 12–21)
+|4
+|{{n/a}}
+|colspan=4|Did not advance
+|}
+
+;Mixed
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{tooltip|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Mathias Christiansen]]<br />[[Alexandra Bøje]]
+|align=left|[[Badminton at the 2020 Summer Olympics – Mixed doubles|Doubles]]
+|{{flagIOCathlete|[[Yuta Watanabe (badminton)|Watanabe]] / <br />[[Arisa Higashino|Higashino]]|JPN|2020 Summer}}<br />'''L''' (22–20, 11–21, 15–21)
+|{{flagIOCathlete|[[Praveen Jordan|Jordan]] / <br />[[Melati Daeva Oktavianti|Oktavianti]]|INA|2020 Summer}}<br />'''L''' (22–24, 19–21)
+|{{flagIOCathlete|[[Simon Leung|Leung]] / <br />[[Gronya Somerville|Somerville]]|AUS|2020 Summer}}<br />'''W''' (21–6, 21–14)
+|3
+|colspan=4|Did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2020 Summer Olympics|Canoeing at the 2020 Summer Olympics – Qualification}}
+
+===Sprint===
+Danish canoeists qualified three boats in each of the following distances for the Games through the [[2019 ICF Canoe Sprint World Championships]] in [[Szeged]], [[Hungary]].<ref>{{cite news |title=First round of Olympic canoe sprint quotas allocated |url=https://www.canoeicf.com/noticies/first-round-olympic-canoe-sprint-quotas-allocated |publisher=[[International Canoe Federation]] |date=30 August 2019 |access-date=30 August 2019}}</ref> The women's kayaking squad, led by Rio 2016 silver medalist [[Emma Åstrand Jørgensen]], was named to the Danish roster on 28 May 2021.<ref>{{cite news |title=Fire kajakroere udtaget til OL |trans-title=Four kayakers selected for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2021/5/20210528_firekajakroereudtagettilol |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=28 May 2021 |access-date=8 June 2021}}</ref>
+
+[[Sara Milthers]] and Emma Åstrand Jørgensen both competed in the [[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|women's K-1 200 m]]. Milthers finished 6th in the initial heat, meaning she had to compete in the quarterfinals. Here she finished fifth, which wasn't enough to qualify to the semifinals. Jørgensen meanwhile finished 1st in her initial heat, qualifying her straight to the semifinals. Here she finished 2nd, which allowed her to compete in the medal-giving final, where she finished 3rd and won bronze. Jørgensen also won bronze in [[Canoeing at the 2020 Summer Olympics – Women's K-1 500 metres|women's K-1 500 m]]. She finished 2nd in the initial heat and 2nd again in the semifinals, then third in the final. She became the only Danish athlete to win more than one medal in the Tokyo Olympics.<ref>{{cite web |title=Enestående Emma Aastrand Jørgensen vinder sin anden OL-medalje: Se danskerens vilde slutspurt her |url=https://www.dr.dk/sporten/ol/danskerne/enestaaende-emma-aastrand-joergensen-vinder-sin-anden-ol-medalje-se-danskerens |website=Dr.dk |date=5 August 2021 |access-date=13 August 2021}}</ref> [[Julie Frølund Funch]] and [[Bolette Nyvang Iversen]] competed in the [[Canoeing at the 2020 Summer Olympics – Women's K-2 500 metres|women's K-2 500 m]]. They finished fifth in the initial heat, which wasn't enough to qualify to the semifinals. They instead had to try and qualify from the quarterfinals, though finished fifth again and didn't manage to qualify to the semifinals.<ref>{{cite web |title=Højdepunkter OL Tokyo 2020 |url=https://www.kano-kajak.dk/hoejdepunkter-ol-tokyo-2020/ |website=Kano-kajak.dk |date=2 August 2021 |access-date=13 August 2021}}</ref> All four canoers competed together in the [[Canoeing at the 2020 Summer Olympics – Women's K-4 500 metres|women's K-4 500 m]]. They came in fifth place in their initial heat, meaning they had to take part in the quarterfinals. Here they finished 6th, qualifying them for the semifinals. In the semifinal they came in fourth place, allowing them to take part in the medal-giving final race. In the final they finished last, in 8th place.<ref name="Canoe">{{cite web |title=Canoe Sprint - Olympic Schedule & Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/canoe-sprint/olympic-schedule-and-results.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=13 August 2021 |archive-date=11 August 2021 |archive-url=https://web.archive.org/web/20210811095057/https://olympics.com/tokyo-2020/olympic-games/en/results/canoe-sprint/olympic-schedule-and-results.htm |url-status=dead}}</ref>
+
+{|class=wikitable style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Heats
+!colspan=2|Quarterfinals
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Sara Milthers]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|Women's K-1 200 m]]
+|43.863
+|6 '''QF'''
+|43.675
+|5
+|colspan=4|Did not advance
+|-align=center
+|align=left rowspan=2|'''[[Emma Aastrand Jørgensen]]'''
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|Women's K-1 200 m]]
+|41.572
+|1 '''SF'''
+|colspan=2 {{bye}}
+|38.457	
+|2 '''FA'''
+|38.901
+|{{bronze3}}
+|-align=center
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 m]]
+|1:49.231
+|2 '''SF'''
+|colspan=2 {{bye}}
+|1:52.931
+|2 '''FA'''
+|1:52.773
+|{{bronze3}}
+|-align=center
+|align=left|[[Julie Funch]]<br />[[Bolette Nyvang Iversen]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's K-2 500 metres|Women's K-2 500 m]]
+|1:52.730
+|5 '''QF'''
+|1:52.678
+|5
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Julie Funch]]<br />[[Bolette Nyvang Iversen]]<br />[[Emma Åstrand Jørgensen]]<br />[[Sara Milthers]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's K-4 500 metres|Women's K-4 500 m]]
+|1:38.453
+|5 '''QF'''
+|1:37.682
+|6 '''SF'''
+|1:37.386
+|4 '''FA'''
+|1:41.141
+|8
+|}
+<small>Qualification Legend: '''FA''' = Qualify to final (medal); '''FB''' = Qualify to final B (non-medal)</small>
+
+==Cycling==
+{{main|Cycling at the 2020 Summer Olympics|Cycling at the 2020 Summer Olympics – Qualification}}
+
+===Road===
+Denmark entered a squad of six riders (four men and two women) to compete in their respective Olympic road races, by virtue of their top 50 national finish (for men) and top 22 (for women) in the [[UCI World Ranking]].<ref>{{cite news |title=Athletes' quotas for Road Cycling events at the Tokyo 2020 Olympic Games |url=https://www.uci.org/inside-uci/press-releases/athletes--quotas-for-road-cycling-events-at-the-tokyo-2020-olympic-games |publisher=[[International Cycling Union|UCI]] |date=18 November 2019 |access-date=23 November 2019}}</ref>
+
+[[Kasper Asgreen]] competed in [[Cycling at the 2020 Summer Olympics – Men's road time trial|men's time trial]]. Asgreen had won the [[2021 Tour of Flanders (men's race)|2021 Tour of Flanders]] earlier in the year, and had competed in the [[2021 Tour de France]] a month earlier. He finished 7th in the Olympic time trial, with a time of 56:52.21.<ref>{{cite web |title=Kasper Asgreen missede medaljerne: 'Svær rute og Tour-ben var ikke optimalt' |url=https://www.dr.dk/sporten/ol/kasper-asgreen-missede-medaljerne-svaer-rute-og-tour-ben-var-ikke-optimalt |website=Dr.dk |date=28 July 2021 |access-date=15 August 2021}}</ref> Four Danish athletes competed in the [[Cycling at the 2020 Summer Olympics – Men's individual road race|men's road race]]: Kasper Asgreen, [[Jakob Fuglsang]], [[Christopher Juul Jensen]] and [[Michael Valgren]]. Fuglsang, like Asgreen, had competed in the 2021 Tour de France a month earlier. Fuglsang finished the Olympic road race in 12th place, and Valgreen finished in 78th. Asgreen and Jensen did not complete the race.<ref>{{cite web |title=KILOMETER FOR KILOMETER Ecuador sikrer sig guld - Jakob Fulgsang bliver nummer 12 |url=https://www.dr.dk/sporten/ol/kilometer-kilometer-ecuador-sikrer-sig-guld-jakob-fulgsang-bliver-nummer-12 |website=Dr.dk |date=24 July 2021 |access-date=15 August 2021}}</ref> In the [[Cycling at the 2020 Summer Olympics – Women's individual road race|women's road race]], 2 athletes competed: [[Emma Norsgaard Jørgensen]] and [[Cecilie Uttrup Ludwig]]. Jørgensen crashed during the race  and didn't finish. Ludwig finished in 10th place with the leading group of the race.<ref>{{cite web |title=- Det er så dårligt for kvindecykling, siger vred Uttrup |url=https://sport.tv2.dk/cykling/2021-07-25-det-er-saa-daarligt-for-kvindecykling-siger-vred-uttrup |website=Sport.tv2.dk |date=25 July 2021 |access-date=15 August 2021}}</ref><ref>{{cite web |title=FAKTA: Sådan gik det Danmark ved OL søndag |url=https://www.avisen.dk/fakta-saadan-gik-det-danmark-ved-ol-soendag_655211.aspx |website=Avisen.dk |date=25 July 2021 |access-date=15 August 2021}}</ref> Jørgensen also competed in [[Cycling at the 2020 Summer Olympics – Women's road time trial|women's time trial]], where she finished in 17th place with a time of 33:50.18.<ref>{{cite web |title=Dansk cykelrytter slagtede sig selv foran pressen |url=https://jyllands-posten.dk/sport/ECE13158984/dansk-cykelrytter-slagtede-sig-selv-foran-pressen/ |website=Jyllands-posten.dk |date=28 July 2021 |access-date=15 August 2021}}</ref><ref>{{cite web |title=Cycling Road - Olympic Schedule & Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-road/olympic-schedule-and-results.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=15 August 2021 |archive-date=11 August 2021 |archive-url=https://web.archive.org/web/20210811115324/https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-road/olympic-schedule-and-results.htm |url-status=dead}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|[[Kasper Asgreen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's individual road race|Men's road race]]
+|colspan=2|Did not finish
+|-align=center
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's road time trial|Men's time trial]]
+|56:52.21
+|7
+|-align=center
+|align=left|[[Jakob Fuglsang]]
+|align=left rowspan=3|[[Cycling at the 2020 Summer Olympics – Men's individual road race|Men's road race]]
+|6:08:09
+|12
+|-align=center
+|align=left|[[Christopher Juul Jensen]]
+|colspan=2|Did not finish
+|-align=center
+|align=left|[[Michael Valgren]]
+|6:21:46
+|78
+|-align=center
+|align=left rowspan=2|[[Emma Norsgaard Jørgensen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's individual road race|Women's road race]]
+|colspan=2|Did not finish
+|-align=center
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's road time trial|Women's time trial]]
+|33:50.18
+|17
+|-align=center
+|align=left|[[Cecilie Uttrup Ludwig]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's individual road race|Women's road race]]
+|3:54:31
+|10
+|}
+
+===Track===
+[[File:2019 UEC Track Elite European Championships 015.jpg|thumb|Lasse Norman Hansen]]
+Following the completion of the [[2020 UCI Track Cycling World Championships]], Danish riders accumulated spots for both men and women in madison and omnium, as well as the men's team pursuit, based on their country's results in the final UCI Olympic rankings. The track cycling squad, highlighted by multiple Olympic medalist [[Lasse Norman Hansen]] in the men's pursuit and omnium, was named on 2 June 2021.<ref>{{cite news |title=Otte baneryttere klar til medaljejagt i Tokyo |trans-title=Eight track cyclists ready for the medal hunt in Tokyo |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2021/6/20210602_ottebaneryttereklartilmedaljejagtitokyo |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=2 June 2021 |access-date=8 June 2021}}</ref>
+
+The Danish [[Cycling at the 2020 Summer Olympics – Men's team pursuit|men's pursuit team]] consisted of Hansen, [[Niklas Larsen]], [[Rasmus Pedersen]] and [[Frederik Rodenberg]]. [[Julius Johansen]] was chosen as reserve. Larsen, Hansen and Rodenberg had all won medals in the 2016 Olympics. In the qualification heat of the team pursuit, the team finished in first place with a time of 3:45.014, setting an Olympic record. The first place finish qualified them for the semifinals, where they were up against the [[Great Britain at the 2020 Summer Olympics|British]] team, made up of [[Ethan Hayter]], [[Ed Clancy]], [[Ethan Vernon]], [[Oliver Wood (cyclist)|Oliver Wood]] and [[Charlie Tanfield]]. In the semifinal Denmark was in the lead, an on route to win the match, but Frederik Rodenberg collided with British Charlie Tanfield, who had fallen behind the rest of his team. The crew were supposed to announce that a British cyclist had fallen behind, and without the announcement that Rodenberg was not looking up and crashed into Tanfield. Denmark had already won the match when the crash happened, but the contest's crew had failed to end the race. The Danish team moved on to the gold medal race, while Great Britain ended in the seventh-place final. The Danish team went up against the [[Italy at the 2020 Summer Olympics|Italian]] team in the final. The Italian team consisted of [[Simone Consonni]], [[Filippo Ganna]], [[Francesco Lamon]] and [[Jonathan Milan]]. Denmark got a time of 3:42.198 and Italy got a time of 3:42.032, both teams breaking the world record. Italy's time was faster, and their team won the gold medal while the Danish team won silver.<ref>{{cite web |title=Cycling Track - Qualifying Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-qual-000100-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=4 August 2021 |archive-url=https://web.archive.org/web/20210804154148/https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-qual-000100-.htm |url-status=dead}}</ref><ref>{{cite web |title=Cycling Track - First Round - Heat 4 Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-rnd1-000400-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=16 August 2021 |archive-url=https://web.archive.org/web/20210816144750/https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-rnd1-000400-.htm |url-status=dead}}</ref><ref>{{cite web |title=Cycling Track - Finals - Gold Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-fnl-000100-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=31 July 2021 |archive-url=https://web.archive.org/web/20210731190013/https://olympics.com/tokyo-2020/olympic-games/en/results/cycling-track/results-men-s-team-pursuit-fnl-000100-.htm |url-status=dead}}</ref><ref>{{cite web |title=- Jeg har aldrig oplevet noget lignende, siger banelandstræneren |url=https://sport.tv2.dk/cykling/2021-08-03-jeg-har-aldrig-oplevet-noget-lignende-siger-banelandstraeneren |website=Sport.tv2.dk |date=3 August 2021 |access-date=16 August 2021}}</ref><ref>{{cite web |title=Banelandsholdet slemt skuffede efter OL-sølv: 'Jeg troede, vi havde vundet' |url=https://www.dr.dk/sporten/ol/banelandsholdet-slemt-skuffede-efter-ol-soelv-jeg-troede-vi-havde-vundet |website=Dr |date=4 August 2021 |access-date=16 August 2021}}</ref><ref>{{cite web |title=Landstræner skifter rytter ud hos dansk guldhåb |url=https://sport.tv2.dk/cykling/2021-07-31-landstraener-skifter-rytter-ud-hos-dansk-guldhaab |website=Sport.tv2.dk |date=31 July 2021 |access-date=16 August 2021}}</ref>
+
+Two of the members on the Danish men's pursuit team also competed in other events. Niklas Larsen competed in [[Cycling at the 2020 Summer Olympics – Men's omnium|men's omnium]]. He finished fifth in the scratch race, sixth in the tempo race, eighth in the elimination race and sixth in the points race, giving him a final placement of 5th, behind French [[Benjamin Thomas (cyclist)|Benjamin Thomas]].<ref>{{cite web |title=Men's omnium - Final Classification |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRMOMNIUM------------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=5 August 2021 |archive-url=https://web.archive.org/web/20210805115411/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRMOMNIUM------------------------.pdf |url-status=dead}}</ref> [[Amalie Dideriksen]] competed in the [[Cycling at the 2020 Summer Olympics – Women's omnium|women's omnium]], placing 8th in the scratch race, 6th in the tempo race, 3rd in the elimination race and 4th in the points race. This gave her a final placement of 4th place, five points behind bronze medalist [[Kirsten Wild]] from the [[Netherlands at the 2020 Summer Olympics|Netherlands]].<ref>{{cite web |title=Women's omnium - Final Classification |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRWOMNIUM------------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=8 August 2021 |archive-url=https://web.archive.org/web/20210808041851/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRWOMNIUM------------------------.pdf |url-status=dead}}</ref>
+
+The other member of the Danish pursuit team to compete in another event was Lasse Norman Hansen, who competed in the [[Cycling at the 2020 Summer Olympics – Men's Madison|men's madison]] with [[Michael Mørkøv]]. They finished with 43 points in first place, winning a gold medal.<ref>{{cite web |title=Men's madison - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73H_CTRMMADISON-----------FNL-000100--.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=7 August 2021 |archive-url=https://web.archive.org/web/20210807120254/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73H_CTRMMADISON-----------FNL-000100--.pdf |url-status=dead}}</ref> Amalie Dideriksen, who competed in the women's omnium, also competed in the [[Cycling at the 2020 Summer Olympics – Women's Madison|women's madison]]. She paired up with [[Julie Leth]]. The two of them won 35 points, finishing in second place and winning a silver medal. First place was won by British [[Katie Archibald]] and [[Laura Kenny]] with 78 points.<ref>{{cite web |title=Women's madison - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73H_CTRWMADISON-----------FNL-000100--.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=6 August 2021 |archive-url=https://web.archive.org/web/20210806191816/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73H_CTRWMADISON-----------FNL-000100--.pdf |url-status=dead}}</ref>
+
+;Pursuit
+{|class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Opponent<br />Results
+!Rank
+!Opponent<br />Results
+!Rank
+|-align=center
+|align=left|'''[[Niklas Larsen]]<br />[[Lasse Norman Hansen]]<br />[[Rasmus Pedersen]]<br />[[Frederik Rodenberg]]'''
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|3:45.014 {{OlyR|cycling}}
+|1 '''Q'''
+|{{flagIOC|GBR|2020 Summer}}<br />''No time''
+|2 '''Q'''
+|{{flagIOC|ITA|2020 Summer}}<br />3:42.198
+|{{silver2}}
+|}
+
+;Omnium
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Scratch race
+!colspan=2|Tempo race
+!colspan=2|Elimination race
+!colspan=2|Points race
+!rowspan=2|Total points
+!rowspan=2|Rank
+|-style="font-size:95%"
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Points
+|- align=center
+|align=left|[[Niklas Larsen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's omnium|Men's omnium]]
+|5
+|32
+|6
+|30
+|8
+|26
+|6
+|25
+|113
+|5
+|- align=center
+|align=left|[[Amalie Dideriksen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's omnium|Women's omnium]]
+|8
+|26
+|6
+|32
+|3
+|36
+|4
+|11
+|103
+|4
+|}
+
+;Madison
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Points
+!Laps
+!Rank
+|-
+|align=left|'''[[Lasse Norman Hansen]]<br />[[Michael Mørkøv]]'''
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's Madison|Men's madison]]
+|43
+|—
+|{{gold1}}
+|-
+|align=left|'''[[Amalie Dideriksen]]<br />[[Julie Leth]]'''
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's Madison|Women's madison]]
+|35
+|20
+|{{silver2}}
+|}
+
+===Mountain biking===
+Danish mountain bikers qualified for three quota places (one men's and two women's) into the Olympic cross-country race, as a result of the nation's thirteenth-place-finish for men and fourteenth for women, respectively, in the UCI Olympic Ranking List of 16 May 2021. The mountain biking squad was named to the Olympic roster on 27 May 2021.<ref>{{cite news |title=Tre MTB-ryttere udtaget til OL |trans-title=Three mountain bike riders selected for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2021/5/20210527_tremtbryttereudtagettilol |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=27 May 2021 |access-date=8 June 2021}}</ref>
+
+[[Sebastian Fini Carstensen]] competed in the [[Cycling at the 2020 Summer Olympics – Men's cross-country|men's cross-country]]. He finished with a time of 1:30:28, 5 minutes and 14 seconds after winner [[Thomas Pidcock]] from Great Britain. This gave Carstensen a 22nd place.<ref>{{cite web |title=Men's Cross-country - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/MTB/OG2020-_MTB_C73_MTBMXCTRY-------------FNL-000100--.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=26 July 2021 |archive-url=https://web.archive.org/web/20210726081256/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/MTB/OG2020-_MTB_C73_MTBMXCTRY-------------FNL-000100--.pdf |url-status=dead}}</ref> Two Danish athletes competed in the [[Cycling at the 2020 Summer Olympics – Women's cross-country|women's cross-country]], those being [[Malene Degn]] and [[Caroline Bohé]]. The two Danish cyclists finished in 12th and 13th respectively, with Degn's time of 1:20:34 being 4 minutes and 48 seconds slower than the winner [[Jolanda Neff]] from [[Switzerland at the 2020 Summer Olympics|Switzerland]]. Bohé finished 23 seconds after Degn, with a time of 1:20:57.<ref>{{cite web |title=Women's Cross-country - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/MTB/OG2020-_MTB_C73_MTBWXCTRY-------------FNL-000100--.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727111820/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/MTB/OG2020-_MTB_C73_MTBWXCTRY-------------FNL-000100--.pdf |url-status=dead}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|align=left|[[Sebastian Fini Carstensen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's cross-country|Men's cross-country]]
+|1:30:28
+|22
+|-
+|align=left|[[Caroline Bohé]]
+|align=left rowspan=2|[[Cycling at the 2020 Summer Olympics – Women's cross-country|Women's cross-country]]
+|1:20:57
+|13
+|-
+|align=left|[[Malene Degn]]
+|1:20:34
+|12
+|}
+
+===BMX===
+Danish riders qualified for one women's quota place in BMX at the Olympics, as a result of the nation's ninth-place finish in the UCI BMX Olympic Qualification Ranking List of 1 June 2021.<ref>{{cite news |title=Tokyo 2020 Olympic Games - BMX Racing - Olympic Qualification Women Ranking - Final - As of 01.06.2021 |url=https://www.uci.org/docs/default-source/official-documents/tokyo-2020---olympic-games/bmx-nationalranking-women---final.pdf |publisher=[[Union Cycliste Internationale|UCI]] |date=1 June 2021 |access-date=2 June 2021}}</ref>
+
+[[Simone Tetsche Christensen]] was the only Danish athlete competing in BMX. She competed in the [[Cycling at the 2020 Summer Olympics – Women's BMX racing|women's race]]. In the quarterfinals she finished in 2nd place, which qualified her for the semifinals. Here she again finished 2nd, and qualified for the final. In the final she finished in 6th place with a time of 45.582, finishing under Australian [[Lauren Reynolds]].<ref>{{cite web |title=Women's Cycling BMX Racing - Competition Bracket |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/BMX/OG2020-_BMX_C75_BMXWINDVRACE----------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=16 August 2021 |archive-date=29 July 2021 |archive-url=https://web.archive.org/web/20210729220735/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/BMX/OG2020-_BMX_C75_BMXWINDVRACE----------------------.pdf |url-status=dead}}</ref><ref>{{cite web |title=Tilfreds Tetsche overvejer stop efter sjetteplads ved OL |url=https://www.tvmidtvest.dk/ol-i-tokyo/tilfreds-tetsche-overvejer-stop-efter-sjetteplads-ved-ol |website=Tvmidtvest.dk |access-date=16 August 2021}}</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Simone Tetsche Christensen]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's BMX racing|Women's race]]
+|7
+|2 '''Q'''
+|10 
+|2 '''Q'''
+|45.582
+|6
+|}
+
+==Equestrian==
+{{main|Equestrian at the 2020 Summer Olympics|Equestrian at the 2020 Summer Olympics – Qualification}}
+Denmark fielded a squad of three equestrian riders into the Olympic team dressage competition by finishing fourth overall and securing the first of three available berths for Group A and B at the European Championships in [[Rotterdam]], [[Netherlands]].<ref>{{cite news |first=Louise |last=Parkes |title=Germany gets Dressage gold again on roller-coaster day in Rotterdam |url=https://inside.fei.org/content/germany-gets-dressage-gold-again-roller-coaster-day-rotterdam |publisher=[[International Federation for Equestrian Sports|FEI]] |date=20 August 2019 |access-date=21 August 2019}}</ref> Meanwhile, two more riders were added to the Danish roster by securing the fourth of six available slots, outside the group and continental selection, in the individual FEI Olympic dressage rankings and by finishing in the top two, outside the group selection of the individual FEI Olympic jumping rankings for Group A (North Western Europe), respectively.<ref>{{cite news |title=Tokyo 2020 team and individual quota places confirmed by FEI |url=https://inside.fei.org/content/tokyo-2020-team-and-individual-quota-places-confirmed-fei |publisher=[[International Federation for Equestrian Sports|FEI]] |date=17 February 2020 |access-date=1 March 2020}}</ref>
+
+===Dressage===
+The Danish dressage team was revealed on June 25, 2021. Charlotte Heering and Bufranco were named the team alternates.<ref>{{cite web |url=https://www.eurodressage.com/2021/06/25/danish-olympic-dressage-team-tokyo-announced |title=Danish Olympic Dressage Team for Tokyo Announced |language=en |publisher=Eurodressage |date=2021-06-25 |access-date=2021-06-27}}</ref>
+
+The three Danish dressage athletes competed individually in the [[Equestrian at the 2020 Summer Olympics – Individual dressage|individual dressage]] and competed together in the [[Equestrian at the 2020 Summer Olympics – Team dressage|team dressage]]. [[Cathrine Dufour]] and Bohemian finished in overall 3rd place after the Grand Prix, and finished 1st in their group, giving them a direct spot in the Grand Prix Freestyle. [[Carina Cassøe Krüth]] and Heiline's Danciera also won their group, giving them a direct spot in the Grand Prix Freestyle. They finished 10th overall in the Grand Prix. [[Nanna Skodborg Merrald]] and Zack place 3rd in their group, which was initially not enough to advance in the competition, but their score of 73.168 was high enough to qualify them to the Grand Prix Freestyle. In the Grand Prix Freestyle, Merrald finished in 11th place and Krüth finished in 7th place. Dufour placed 4th, finishing below bronze medalist [[Charlotte Dujardin]] from Great Britain.<ref>{{cite web |title=Dressage Individual - Results Summary |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C74(D)I_EQUODRESINDV----------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=17 August 2021 |archive-date=28 July 2021 |archive-url=https://web.archive.org/web/20210728123257/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C74(D)I_EQUODRESINDV----------------------.pdf |url-status=dead}}</ref> In the team dressage the Danish team finished 3rd in the Grand Prix, qualifying them for the Grand Prix Special. Here they finished in 4th place, below the British team.<ref>{{cite web |title=Dressage Team - Results Summary |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C74(D)T_EQUODRESTEAM----------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=17 August 2021 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727213503/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C74(D)T_EQUODRESTEAM----------------------.pdf |url-status=dead}}</ref>
+
+{|class=wikitable style=font-size:90%;
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Grand Prix 
+!colspan="2"|Grand Prix Special
+!colspan="2"|Grand Prix Freestyle
+!colspan="2"|Overall
+|-style="font-size:95%"
+!Score
+!Rank
+!Score
+!Rank
+!Technical
+!Artistic
+!Score
+!Rank
+|-align=center
+|align=left|[[Cathrine Dufour]]
+|align=left|Bohemian
+|rowspan=3 align=left|[[Equestrian at the 2020 Summer Olympics – Individual dressage|Individual]]
+|81.056
+|3 '''Q'''
+|colspan=2 rowspan=3 {{n/a}}
+|81.929
+|93.086
+|87.507
+|4
+|-align=center
+|align=left|[[Carina Cassøe Krüth]]
+|align=left|Heiline's Danciera 
+|76.677
+|10 '''Q'''
+|78.286
+|88.371
+|83.329	
+|7
+|-align=center
+|align=left|[[Nanna Skodborg Merrald]]
+|align=left|Zack
+|73.168
+|16 '''q'''
+|76.357
+|85.429
+|80.893
+|11
+|-align=center
+|align=left|[[Cathrine Dufour]]<br />[[Carina Cassøe Krüth]]<br />[[Nanna Skodborg Merrald]]
+|align=left|''See above''
+|align=left|[[Equestrian at the 2020 Summer Olympics – Team dressage|Team]]
+|7435.0
+|3 '''Q'''
+|7540.0
+|4
+|colspan=2 {{n/a}}
+|7540.0
+|4
+|}
+<small>Qualification Legend: '''Q''' = Qualified for the final; '''q''' = Qualified for the final as a lucky loser</small>
+
+===Eventing===
+One Danish athletes qualified for eventing. This athlete was [[Peter Flarup]], who had previously competed in the [[Equestrian at the 2008 Summer Olympics – Individual eventing|individual eventing]] at the [[2008 Summer Olympics]].<ref>{{cite web |title=Endnu et OL: Peter Flarup klar til at gøre sit bedste |url=https://www.ridehesten.com/nyheder/endnu-et-ol-peter-flarup-klar-til-at-gore-sit-bedste/82640 |website=Ridehesten.com |access-date=17 August 2021}}</ref>
+
+Peter Flarup and Fascination competed in the [[Equestrian at the 2020 Summer Olympics – Individual eventing|individual eventing]], along with 62 other athletes. Flarup finished 34th in dressage, 47th in cross-country and 40th in jumping. This was not enough for Flarup and Fascination to qualify for the final, as only the top 25 athletes would qualify.<ref>{{cite web |title=Eventing Individual - Final Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C73(C)G_EQUOEVENINDV----------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=17 August 2021 |archive-date=2 August 2021 |archive-url=https://web.archive.org/web/20210802155337/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/EQU/OG2020-_EQU_C73(C)G_EQUOEVENINDV----------------------.pdf |url-status=dead}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="3"|Athlete
+!rowspan="3"|Horse
+!rowspan="3"|Event
+!colspan="2" rowspan="2"|Dressage
+!colspan="3" rowspan="2"|Cross-country
+!colspan="6"|Jumping
+!colspan="2" rowspan="2"|Total
+|-style="font-size:95%"
+!colspan="3"|Qualifier
+!colspan="3"|Final
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+|-align=center
+|align=left|[[Peter Flarup]]
+|align=left|Fascination
+|align=left|[[Equestrian at the 2020 Summer Olympics – Individual eventing|Individual]]
+|33.70
+|34
+|67.20
+|100.90
+|47
+|4.00
+|104.90
+|40
+|colspan=5|Did not advance
+|}
+
+===Jumping===
+One Danish athlete qualified for equestrian jumping: [[Andreas Schou]] with the horse Darc de Lux.<ref>{{cite web |title=Andreas Schou: – Jeg er spændt på OL-debut |url=https://www.ridehesten.com/nyheder/andreas-schou-jeg-er-spaendt-pa-ol-debut/82639 |website=Ridehesten.com |access-date=17 August 2021}}</ref>
+
+Andres Schou and Darc de Lux competed in the [[Equestrian at the 2020 Summer Olympics – Individual jumping|individual jumping]]. In the qualification stage they finished in tied 47th place, tying with [[Eugenio Garza]], [[Emanuele Gaudiano]], [[Roberto Terán]] and [[Jasmine Chen]]. This was not enough to qualify for the final.<ref>{{cite web |title=Equestrian - Qualifier Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/equestrian/results-jumping-individual-qual-000100-.htm |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=17 August 2021 |archive-date=4 August 2021 |archive-url=https://web.archive.org/web/20210804185348/https://olympics.com/tokyo-2020/olympic-games/en/results/equestrian/results-jumping-individual-qual-000100-.htm |url-status=dead}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="3"|Final
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Time
+!Rank
+|-align=center
+|align=left|[[Andreas Schou]]
+|align=left|Darc de Lux
+|align=left|[[Equestrian at the 2020 Summer Olympics – Individual jumping|Individual]]
+|9
+|=47
+| colspan="3" |Did not advance
+|}
+
+==Golf==
+{{main|Golf at the 2020 Summer Olympics|Golf at the 2020 Summer Olympics – Qualification}}
+[[File:Emily Pedersen (41441353714).jpg|thumb|Emily Kristine Pedersen]]
+Denmark entered two male and two female golfers into the Olympic tournament. The two men competing in the [[Golf at the 2020 Summer Olympics – Men's individual|men's individual]] were
+[[Rasmus Højgaard]] and [[Joachim B. Hansen]]. Hansen tied for 27th while Højgaard tied for 38th.<ref>{{cite web |title=Men's Individual Stroke Play - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GLF/OG2020-_GLF_C74A_GLFMSTROKE------------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=27 August 2021 |archive-date=1 August 2021 |archive-url=https://web.archive.org/web/20210801083536/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GLF/OG2020-_GLF_C74A_GLFMSTROKE------------------------.pdf |url-status=dead}}</ref><ref>{{cite web |title=Rasmus Højgaard færdig ved OL: Det har været vildt fedt |url=https://www.golf.dk/olympiske-lege/rasmus-hojgaard-faerdig-ved-ol-det-har-vaeret-vildt-fedt?id=12913 |website=Golf.dk |access-date=27 August 2021}}</ref> The two athletes competing in the [[Golf at the 2020 Summer Olympics – Women's individual|women's individual]] were [[Nanna Koerstz Madsen]] and [[Emily Kristine Pedersen]]. Madsen tied for 9th and Pedersen tied for 5th. Pedersen was three points behind silver and bronze medalists [[Mone Inami]] and [[Lydia Ko]].<ref>{{cite web |title=Women's Individual Stroke Play - Results |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GLF/OG2020-_GLF_C74A_GLFWSTROKE------------------------.pdf |work=Tokyo 2020 Olympics |publisher=Tokyo Organising Committee of the Olympic and Paralympic Games |access-date=27 August 2021 |archive-date=7 August 2021 |archive-url=https://web.archive.org/web/20210807051551/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GLF/OG2020-_GLF_C74A_GLFWSTROKE------------------------.pdf |url-status=dead}}</ref><ref>{{cite web |title=Emily Pedersen i tårer efter glippet medalje: 'Jeg er mega stolt af at være dansker' |url=https://www.dr.dk/sporten/ol/emily-pedersen-i-taarer-efter-glippet-medalje-jeg-er-mega-stolt-af-vaere-dansker |website=Dr.dk |date=7 August 2021 |access-date=27 August 2021}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!colspan=3|Total
+|-style=font-size:95%
+!Score
+!Score
+!Score
+!Score
+!Score
+!Par
+!Rank
+|-
+|align=left|[[Joachim B. Hansen]]
+|align=left rowspan=2|[[Golf at the 2020 Summer Olympics – Men's individual|Men's]]
+|66
+|73
+|67
+|69
+|275
+|−9
+|=27
+|-
+|align=left|[[Rasmus Højgaard]]
+|73
+|68
+|66
+|71
+|278
+|−6
+|=38
+|-
+|align=left|[[Nanna Koerstz Madsen]]
+|align=left rowspan=2|[[Golf at the 2020 Summer Olympics – Women's individual|Women's]]
+|69
+|64
+|72
+|69
+|274
+|−10
+|=9
+|-
+|align=left|[[Emily Kristine Pedersen]]
+|70
+|63
+|70
+|68
+|271
+|−13
+|=5
+|}
+
+==Handball==
+{{main|Handball at the 2020 Summer Olympics}}
+
+;Summary
+{{smalldiv|1=<nowiki/>
+'''Key''':
+*ET: After [[Overtime (sports)#Handball|extra time]]
+* P – Match decided by penalty-shootout.
+}}
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group Stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|'''[[Denmark men's national handball team|Denmark men's]]'''
+|align=left|[[Handball at the 2020 Summer Olympics – Men's tournament|Men's tournament]]
+|{{hb|JPN}}<br />'''W''' 47–30
+|{{hb|EGY}}<br />'''W''' 32–27
+|{{hb|BHR}}<br />'''W''' 31–21
+|{{hb|POR}}<br />'''W''' 34–28
+|{{hb|SWE}}<br />'''L''' 30–33
+|1 '''Q'''
+|{{hb|NOR}}<br />'''W''' 31–25
+|{{hb|ESP}}<br />'''W''' 27–23
+|{{hb|FRA}}<br />'''L''' 23–25
+|{{silver2}}
+|}
+
+===Men's tournament===
+{{main|Handball at the 2020 Summer Olympics – Men's tournament}}
+Denmark men's handball team qualified for the Olympics by winning the gold medal and securing an outright berth at the final match of the [[2019 World Men's Handball Championship|2019 World Championship]]s in [[Herning]].<ref>{{cite news |first=Ben |last=Hamilton |title=Are the Danes unsportsmanlike, many ask following handball victory |url=http://cphpost.dk/news/are-the-danes-unsportsmanlike-many-ask-following-handball-victory.html |publisher=[[Copenhagen Post]] |date=31 January 2019 |access-date=1 February 2019}}</ref><ref>{{cite news |title=Denmark wins first world handball title, beating Norway |url=https://www.dw.com/en/denmark-wins-first-world-handball-title-beating-norway/a-47258801 |publisher=[[Deutsche Welle]] |date=31 January 2019 |access-date=1 February 2019}}</ref>
+
+Denmark was placed in Group B with Japan, Bahrain, Portugal, Egypt and Sweden. In the group stage, the Danish men's handball team went on to win their first four matches against Japan, Egypt, Bahrain and Portugal, while losing the match against Sweden 30–33. With this result, the Danish men's team placed 1st in the group and qualified to the knockout stage. In the quarter-finals the Danish team went against the Norwegian team and won the match 31–25. In the semi-finals, the Danish team won against the Spanish team 27–23, qualifying Denmark for the final. In the final, the Danish team went up against the French team. Denmark lost the match 23–25 and won the silver medal, marking the first time Denmark had won a silver medal in handball, having previously only won gold.<ref>{{cite web |title=Tokyo 2020 - Handball men's results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/handball/men |website=Olympics.com |access-date=4 December 2021}}</ref><ref>{{cite web |title=Håndboldherrerne tager sølv med hjem fra OL |url=https://www.dhf.dk/nyheder-og-presse/nyheder/haandboldherrerne-tager-soelv-med-hjem-fra-ol/ |website=Dhf.dk |access-date=4 December 2021}}</ref>
+
+;Team roster
+{{#section:Handball at the 2020 Summer Olympics – Men's team rosters|DEN}}
+
+;Group play
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|BStandings}}
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|B1}}
+----
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|B5}}
+----
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|B7}}
+----
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|B11}}
+----
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|B15}}
+
+;Quarterfinal
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|C4}}
+
+;Semifinal
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|D2}}
+
+;Gold medal game
+{{#section:Handball at the 2020 Summer Olympics – Men's tournament|E2}}
+
+==Judo==
+{{main|Judo at the 2020 Summer Olympics|Judo at the 2020 Summer Olympics – Qualification}}
+Denmark entered one female judoka into the Olympic tournament based on the [[International Judo Federation]] Olympics Individual Ranking, signifying the nation's return to the sport for the first time since [[1988 Summer Olympics|Seoul 1988]].<ref>{{cite web |title=Ranking for Olympic Games, female seniors -63 kg |url=https://www.ijf.org/wrl_olympic?category=11 |website=Ijf.org |access-date=14 December 2021}}</ref>
+
+The country's qualified judoka became [[Lærke Olsen]], who competed in the [[Judo at the 2020 Summer Olympics – Women's 63 kg|women's –63 kg]] class. In the initial round she went up against Canadian [[Catherine Beauchemin-Pinard]]. Olsen lost the match 00–10. Beauchemin-Pinard would end up winning the bronze medal in the tournament.<ref>{{cite web |title=Tokyo 2020 - Judo women -63 kg results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/judo/women-63-kg |website=Olympics.com |access-date=14 December 2021}}</ref><ref>{{cite web |title=Lærke Marie Olsen ude af OL efter golden score |url=https://sport.tv2.dk/judo/2021-07-27-laerke-marie-olsen-ude-af-ol-efter-golden-score |website=Sport.tv2.dk |date=27 July 2021 |access-date=14 December 2021}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Lærke Olsen]]
+|align=left|[[Judo at the 2020 Summer Olympics – Women's 63 kg|Women's –63 kg]]
+|{{flagIOCathlete|[[Catherine Beauchemin-Pinard|Beauchemin-Pinard]]|CAN|2020 Summer}}<br />'''L''' 00–10
+|colspan=6|Did not advance
+|}
+
+==Rowing==
+{{main|Rowing at the 2020 Summer Olympics|Rowing at the 2020 Summer Olympics – Qualification}}
+[[File:Frida Nielsen.jpg|thumb|Frida Sanggaard Nielsen]]
+Denmark qualified four boats for each of the following rowing classes into the Olympic regatta. Rowing crews in the men's single sculls and women's coxless four confirmed Olympic places for their boats at the [[2019 World Rowing Championships|2019 FISA World Championships]] in [[Ottensheim]], [[Austria]].<ref>{{cite news |title=B-finals take on new meaning when Tokyo 2020 spots are available |url=http://www.worldrowing.com/news/finals-take-new-meaning-when-tokyo-2020-spots-are-available |publisher=[[International Rowing Federation]] |date=31 August 2019 |access-date=31 August 2019}}</ref><ref>{{cite news |title=Plenty of Tokyo 2020 qualifiers, loads of pride at World Rowing Championships |url=https://worldrowing.com/news/plenty-olympic-qualifiers-loads-pride |publisher=[[International Rowing Federation]] |date=29 August 2019 |access-date=31 August 2019}}</ref> Meanwhile, two more crews (men's and women's pair) were added to the Danish roster with their top-two finish at the 2021 FISA Final Qualification Regatta in [[Lucerne]], [[Switzerland]].<ref>{{cite news |title=Final spots for the Olympics determined on the Rotsee |url=https://worldrowing.com/2021/05/16/final-spots-for-the-olympics-determined/ |publisher=[[International Rowing Federation]] |date=16 May 2021 |access-date=20 May 2021}}</ref>
+
+Single sculls rower and current European champion [[Sverri Sandberg Nielsen]] was officially selected to the Danish roster for the rescheduled Games on 21 December 2020.<ref>{{cite news |title=Færøsk klippe klar til OL |trans-title=Rower from the Færoe Islands goes to Olympics |language=da |url=https://ol2020.dif.dk/da/nyt/2020/12/kopi-s-af-s-20201221_frskklippeklartilol |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=21 December 2020 |access-date=29 January 2021}}</ref> The remaining crews that earned Olympic spots at the FISA Final Qualification Regatta were officially named to the Danish roster for the rescheduled Games on 1 June 2021, including Rio 2016 bronze medalist [[Hedvig Rasmussen]] and her newest partner [[Fie Udby Erichsen]], a bronze medalist in the women's single sculls at [[London 2012]], were named to the Danish roster on 1 June 2021.<ref>{{cite news |title=Yderligere otte roere udtaget til OL |trans-title=Eight more rowers selected for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2021/6/20210601_yderligereotteroereudtagettilol |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=1 June 2021 |access-date=8 June 2021}}</ref>
+
+[[Sverri Sandberg Nielsen]], from the Faroe Islands, competed in the [[Rowing at the 2020 Summer Olympics – Men's single sculls|men's single sculls]]. In the initial heats, he finished first in his group with a time of 7:02.88. This qualified him for the quarterfinals. In the quarterfinals he finished first again, with a time of 7:10.52. This qualified him for the A/B-semi finals. Here he finished second with a time of 6:44.00, finishing 2.4 second after Greek [[Stefanos Ntouskos]]. His second place qualified him for the medal-giving A-final. In the final, he finished with a time of 6:42.73. Ntouskos won the gold medal with a time of 6:40.45, while Norwegian [[Kjetil Borch]] won the silver medal. Croatian [[Damir Martin]] won the bronze medal, finishing 0.15 seconds before Nielsen, who finished the competition in fourth place.<ref>{{cite web |title=Tokyo 2020 - Rowing men's single sculls results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/rowing/men-s-single-sculls |website=Olympics.com |access-date=14 December 2021}}</ref><ref>{{cite web |title=Sverri Nielsen misser OL-medalje med 0,15 sekunder |url=https://sport.tv2.dk/roning/2021-07-30-sverri-nielsen-misser-ol-medalje-med-015-sekunder |website=Sport.tv2.dk |date=30 July 2021 |access-date=14 December 2021}}</ref>
+
+Two Danish teams competed in the coxless pair discipline, one for each gender. In the [[Rowing at the 2020 Summer Olympics – Men's coxless pair|men's coxless pair]] the athletes were [[Joachim Sutton]] and [[Frederik Vystavel]]. In the initial heats, the pair finished second in their group with a time of 6:36.93. This qualified them for the A/B-semi finals where they finished in second place again, this time with a time of 6:14.88. This qualified them for the medal-giving A-final. Here they finished in third place with a time of 6:19.88, winning them the bronze medal. Croatians [[Martin Sinković|Sinković]] & [[Valent Sinković|Sinković]] won the gold medal and Romanian [[Marius Cozmiuc|Cozmiuc]] & [[Ciprian Tudosă|Tudosă]] won the silver medal.<ref>{{cite web |title=Danske bronzevindere skal under nålen |url=https://sport.tv2.dk/roning/2021-07-29-danske-bronzevindere-skal-under-naalen |website=Sport.tv2.dk |date=29 July 2021 |access-date=14 December 2021}}</ref><ref name="Rowing">{{cite web |title=Tokyo 2020 - Rowing results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/rowing |website=Olympics.com |access-date=14 December 2021}}</ref> The Danish athletes competing in the [[Rowing at the 2020 Summer Olympics – Women's coxless pair|women's coxless pair]] were [[Fie Udby Erichsen]] and [[Hedvig Rasmussen]]. In the initial heats, they finished second in their group with a time of 7:22.86. This qualified them for the A/B-semi finals. In the semi final they finished with a time of 7:08.44, finishing in last place in their group. This meant that they would qualify for the B-final, which would not give a medal. They finished in second place in the B-final, with a time of 6:59.48. This gave them eight place overall in the tournament.<ref>{{cite web |title=Tokyo 2020 - Rowing women's pair results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/rowing/women-s-pair |website=Olympics.com |access-date=14 December 2021}}</ref>
+
+Four athletes made up the Danish team competing in the [[Rowing at the 2020 Summer Olympics – Women's coxless four|women's coxless four]]. This team consisted of [[Ida Gørtz Jacobsen]], [[Christina Juhl Johansen]], [[Frida Sanggaard Nielsen]] and [[Trine Dahl Pedersen]]. In the initial heats, the team finished last in their group. Their time in the heat was 6:50.15. This meant they had to compete in the repechage for a chance to go to the medal-giving A-final. In the repechage they finished last again, however, with a time of 7:01.17. This left the team to compete in the B-final, where they finished second with a time of 6:34.72. This game them an overall eight placement in the tournament.<ref>{{cite web |title=Tokyo 2020 - Rowing women's four results |url=https://olympics.com/en/olympic-games/tokyo-2020/results/rowing/women-s-four |website=Olympics.com |access-date=14 December 2021}}</ref>
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Quarterfinals
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Sverri Sandberg Nielsen]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Men's single sculls|Single sculls]]
+|7:02.88
+|1 '''QF'''
+|colspan=2 {{bye}}
+|7:10.52
+|1 '''SA/B'''
+|6:44.00
+|2 '''FA'''
+|6:42.73
+|4
+|-align=center
+|align=left|'''[[Joachim Sutton]]<br />[[Frederik Vystavel]]'''
+|align=left|[[Rowing at the 2020 Summer Olympics – Men's coxless pair|Pair]]
+|6:36.93
+|2 '''SA/B'''
+|colspan=2 {{bye}}
+|colspan=2 {{n/a}}
+|6:14.88	
+|2 '''FA'''
+|6:19.88
+|{{bronze3}}
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Fie Udby Erichsen]]<br />[[Hedvig Rasmussen]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Women's coxless pair|Pair]]
+|7:22.86
+|2 '''SA/B'''
+|colspan=2 {{bye}}
+|7:08.44
+|6 '''FB'''
+|6:59.48
+|8
+|-align=center
+|align=left|[[Ida Jacobsen]]<br />[[Christina Juhl Johansen]]<br />[[Frida Sanggaard Nielsen]]<br />[[Trine Dahl Pedersen]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Women's coxless four|Four]]
+|6:50.15
+|5 '''R'''
+|7:01.17
+|6 '''FB'''
+|colspan=2 {{n/a}}
+|6:34.72
+|8
+|}
+<small>Qualification Legend: '''FA'''=Final A (medal); '''FB'''=Final B (non-medal); '''FC'''=Final C (non-medal); '''FD'''=Final D (non-medal); '''FE'''=Final E (non-medal); '''FF'''=Final F (non-medal); '''SA/B'''=Semifinals A/B; '''SC/D'''=Semifinals C/D; '''SE/F'''=Semifinals E/F; '''QF'''=Quarterfinals; '''R'''=Repechage</small>
+
+==Sailing==
+{{main|Sailing at the 2020 Summer Olympics|Sailing at the 2020 Summer Olympics – Qualification}}
+Danish sailors qualified one boat in each of the following classes through the [[2018 Sailing World Championships]], the class-associated Worlds, and the continental regattas.<ref>{{cite news |title=First Laser, Radial and 49erFX nations confirmed for Tokyo 2020 |url=http://www.sailing.org/news/87623.php#.W22T6tgza8o |publisher=[[World Sailing]] |date=10 August 2018 |access-date=10 August 2018}}</ref>
+
+On 27 March 2020, [[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] announced the first set of sailors (49er, 49erFX, and Nacra 17 crews) selected for the rescheduled Games, including Beijing 2008 gold medalist [[Jonas Warrer]].<ref name=team-danmark-03272020/> Rio 2016 windsurfer [[Lærke Buhl-Hansen]], with Laser sailor and bronze medalist [[Anne-Marie Rindom]] going to her third consecutive Games, was added to the Danish sailing roster on 12 May 2020.<ref>{{cite news |title=Anne-Marie Rindom og Lærke Buhl-Hansen er OL-klar |trans-title=Anne-Marie Random and Lærke Buhl-Hansen are ready for the Olympics |language=da |url=https://www.dif.dk/da/elite/nyheder/viaritzauelite/presse/2020/5/20200512_annemarierindomoglrkebuhlhansenerolklar |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=12 May 2020 |access-date=28 May 2020}}</ref>
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=13|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!M
+|- align=center
+|align=left|[[Jakob Precht Jensen]]<br />[[Jonas Warrer]]
+|align=left|[[Sailing at the 2020 Summer Olympics – 49er|49er]]
+|6
+|5
+|10
+|3
+|1
+|4
+|6
+|4
+|14
+|{{s|15}}
+|5
+|8
+|16
+|82
+|5
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=13|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!M
+|- align=center
+|align=left|[[Lærke Buhl-Hansen]]
+|align=left|[[Sailing at the 2020 Summer Olympics – Women's RS:X|RS:X]]
+|{{s|9}}
+|4
+|8
+|4
+|9
+|8
+|6
+|5
+|5
+|8
+|9
+|9
+|18
+|93
+|7
+|- align=center
+|align=left|'''[[Anne-Marie Rindom]]'''
+|align=left|[[Sailing at the 2020 Summer Olympics – Laser Radial|Laser Radial]]
+|6
+|5
+|3
+|13
+|4
+|4
+|2
+|1
+|26
+|{{s|{{abbr|DNF|Did not finish}}}}
+|colspan=2 {{n/a}}
+|15
+|78
+|{{gold1}}
+|- align=center
+|align=left|[[Ida Marie Baad Nielsen]]<br />[[Marie Thusgaard Olsen]]
+|align=left|[[Sailing at the 2020 Summer Olympics – 49erFX|49erFX]]
+|14
+|4
+|3
+|5
+|1
+|11
+|14
+|{{s|17}}
+|17
+|9
+|6
+|14
+|8
+|106
+|8
+|}
+
+;Mixed
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=13|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!M
+|- align=center
+|align=left|[[Christian Peter Lübeck]]<br />[[Lin Ea Cenholt]]
+|align=left|[[Sailing at the 2020 Summer Olympics – Nacra 17|Nacra 17]]
+|8
+|8
+|10
+|7
+|2
+|4
+|{{s|13}}
+|11
+|11
+|1
+|3
+|1
+|4
+|70
+|4
+|}
+<small>'''M''' = Medal race; EL = Eliminated – did not advance into the medal race</small>
+
+==Shooting==
+{{main|Shooting at the 2020 Summer Olympics|Shooting at the 2020 Summer Olympics – Qualification}}
+
+[[Image:Jesper Hansen in skeet at the 2020 Summer Olympic Games.jpg|thumb|Jesper Hansen after winning a silver medal in men's skeet.]]
+
+Danish shooters achieved quota places for the following events by virtue of their best finishes at the [[2018 ISSF World Shooting Championships|2018 ISSF World Championships]], the 2019 ISSF World Cup series, European Championships or Games, and European Qualifying Tournament, as long as they obtained a minimum qualifying score (MQS) by 31 May 2020.<ref>{{cite web |url=https://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx |title=Quota Places by Nation and Number |date=1 January 2018 |website=www.issf-sports.org/ |publisher=[[International Shooting Sport Federation|ISSF]] |access-date=2 September 2018}}</ref>
+
+Skeet shooter and 2013 world shotgun champion [[Jesper Hansen (sport shooter)|Jesper Hansen]] was officially selected to the Danish roster for his third consecutive Games on 14 November 2019.<ref>{{cite news |title=PRM: Skeetskytte udtaget til OL |trans-title=Skeet shooter selected for the Olympics |language=da |url=https://ol2020.dif.dk/sitecore/content/dif/frontpage/elite/nyheder/viaritzauelite/presse/2019/11/20191114_prmskeetskytteudtagettilol?sc_lang=da |publisher=[[National Olympic Committee and Sports Confederation of Denmark|Team Denmark]] |date=14 November 2019 |access-date=23 November 2019}}</ref> [[Steffen Olsen]] earned a direct place in the men's 50 m rifle 3 positions for the rescheduled Games as the highest-ranked shooter vying for qualification in the ISSF World Olympic Rankings of 6 June 2021.
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|'''[[Jesper Hansen (sport shooter)|Jesper Hansen]]'''
+|align=left|[[Shooting at the 2020 Summer Olympics – Men's skeet|Men's skeet]]
+| 122
+|6 '''Q'''
+|colspan=2 rowspan=5 {{n/a}}
+|55
+|{{silver2}}
+|-align=center
+|align=left|[[Steffen Olsen]]
+|align=left|[[Shooting at the 2020 Summer Olympics – Men's 50 metre rifle three positions|Men's 50 m rifle 3 positions]]
+|1160
+|28
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Rikke Ibsen]]
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 10 metre air rifle|Women's 10 m air rifle]]
+|625.0
+|22
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 50 metre rifle three positions|Women's 50 m rifle 3 positions]]
+|1157
+|29
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Anna Nielsen (sport shooter)|Anna Nielsen]]
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 10 metre air rifle|Women's 10 m air rifle]]
+|623.3
+|28
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Steffen Olsen]]<br />[[Anna Nielsen (sport shooter)|Anna Nielsen]]
+|align=left|[[Shooting at the 2020 Summer Olympics – Mixed 10 metre air rifle team|Mixed 10 m air rifle team]]
+|623.1
+|21
+|colspan=4|Did not advance
+|}
+
+==Skateboarding==
+{{main|Skateboarding at the 2020 Summer Olympics|Skateboarding at the 2020 Summer Olympics – Qualification}}
+
+{| class="wikitable" style="font-size:90%"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Qualification
+! colspan="2" |Final
+|- style="font-size: 95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Rune Glifberg]]
+|align=left|[[Skateboarding at the 2020 Summer Olympics – Men's park|Men's park]]
+|37.61
+|19
+|colspan=2|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2020 Summer Olympics|Swimming at the 2020 Summer Olympics – Qualification}}
+Danish swimmers further achieved qualifying standards in the following events (up to a maximum of 2 swimmers in each event at the Olympic Qualifying Time (OQT), and potentially 1 at the Olympic Selection Time (OST)):<ref>{{cite web |title=FINA – Olympic Games Tokyo 2020 Qualification |url=https://www.fina.org/competitions/5/olympic-games-tokyo-2020/qualifications?gender=M&distance=50&stroke=FREESTYLE&standard=all&regionId=all&countryId= |publisher=[[FINA]] |access-date=23 March 2019}}</ref><ref>{{cite news |title=Tokyo 2020 – FINA Swimming Qualification System |url=https://www.fina.org/sites/default/files/final_-_2020_07_15_-_tokyo_2020_-_revised_qualification_system_-_swimming_-_eng.pdf |work=[[2020 Summer Olympics|Tokyo 2020]] |publisher=[[FINA]] |access-date=6 March 2021}}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Tobias Bjerg]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 100 metre breaststroke|100 m breaststroke]]
+|colspan="2"|{{abbr|DSQ|Disqualified}}
+|colspan="4"|Did not advance
+|-align=center
+|align=left rowspan=2|[[Anton Ipsen]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 800 metre freestyle|800 m freestyle]]
+|7:54.98
+|21
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 1500 metre freestyle|1500 m freestyle]]
+|15:01.58
+|14
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left rowspan=2|[[Alexander Nørgaard]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 800 metre freestyle|800 m freestyle]]
+|7:53.50
+|19
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 1500 metre freestyle|1500 m freestyle]]
+|15:28.70
+|26
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|[[Helena Rosendahl Bach]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 1500 metre freestyle|1500 m freestyle]]
+|16:29.56
+|25
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+|2:09.37
+|10 '''Q'''
+|2:10.05
+|12
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Emilie Beckmann]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 100 metre butterfly|100 m butterfly]]
+|58.84
+|22
+|colspan="4"|Did not advance
+|-align=center
+|align=left rowspan=2|'''[[Pernille Blume]]'''
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|24.12
+|2 '''Q'''
+|24.08
+|2 '''Q'''
+|24.21
+|{{bronze3}}
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|52.96
+|7 '''Q'''
+|53.26
+|10
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Signe Bro]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|53.54
+|13 '''Q'''
+|53.55
+|12
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Julie Kepp Jensen]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|24.70
+|14 '''Q'''
+|24.98
+|16
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Pernille Blume]]<br />[[Signe Bro]]<br />[[Julie Kepp Jensen]]<br />[[Jeanette Ottesen]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|3:35.56
+|7 '''Q'''
+|colspan=2 {{n/a}}
+|3:35.70
+|8
+|-align=center
+|align=left|[[Emilie Beckmann]]<br />[[Pernille Blume]]<br />[[Clara Rybak-Andersen]]<br />[[Karoline Sørensen]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|4:04.04
+|15
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|}
+
+==Table tennis==
+{{main|Table tennis at the 2020 Summer Olympics|Table tennis at the 2020 Summer Olympics – Qualification}} 
+Denmark entered one athlete into the table tennis competition at the Games. Rio 2016 Olympian [[Jonathan Groth]] scored an outright semifinal victory to book one of three Olympic spots available in the men's singles at the [[Table tennis at the 2019 European Games – Men's singles|2019 European Games]] in [[Minsk]], [[Belarus]].<ref>{{cite news |title=Timo Boll and Fu Yu clinch European Games titles |url=https://www.ittf.com/2019/06/26/timo-boll-fu-yu-clinch-european-games-titles/ |publisher=[[International Table Tennis Federation|ITTF]] |date=26 June 2019 |access-date=27 June 2019}}</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Preliminary
+!Round 1
+!Round 2
+!Round 3
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Jonathan Groth]]
+|align=left|[[Table tennis at the 2020 Summer Olympics – Men's singles|Men's singles]]
+|colspan=2 {{bye}}
+|{{flagIOCathlete|[[Bence Majoros|Majoros]]|HUN|2020 Summer}}<br />'''W''' 4–1
+|{{flagIOCathlete|[[Simon Gauzy|Gauzy]]|FRA|2020 Summer}}<br />'''L''' 0–4
+|colspan=5|Did not advance
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2020 Summer Olympics|Wrestling at the 2020 Summer Olympics – Qualification}}
+Denmark qualified one wrestler for the men's Greco-Roman 67&nbsp;kg into the Olympic competition, as a result of his top six finish at the [[2019 World Wrestling Championships|2019 World Championships]].<ref>{{cite news |first=Ken |last=Marantz |title=Olympic Champ Borrero Survives 'Bracket of Death' to Make 67kg Semis, Secure Tokyo 2020 Spot |url=https://unitedworldwrestling.org/article/olympic-champ-borrero-survives-bracket-death-make-67kg-semis-secure-tokyo-2020-spot |date=15 September 2019 |access-date=15 September 2019 |publisher=[[United World Wrestling]]}}</ref>
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* VT (ranking points: 5–0 or 0–5) – [[Pin (amateur wrestling)|Victory by fall]].
+* VB (ranking points: 5–0 or 0–5) – Victory by injury (VF for forfeit, VA for withdrawal or disqualification)
+* PP (ranking points: 3–1 or 1–3) – Decision by points – the loser with technical points.
+* PO (ranking points: 3–0 or 0–3) – Decision by points – the loser without technical points.
+* ST (ranking points: 4–0 or 0–4) – Great superiority – the loser without technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+* SP (ranking points: 4–1 or 1–4) – Technical superiority – the loser with technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+}}
+
+;Greco-Roman
+{|class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Fredrik Bjerrehuus]]
+|align=left|[[Wrestling at the 2020 Summer Olympics – Men's Greco-Roman 67 kg|Men's −67 kg]]
+|{{flagIOCathlete|[[Parviz Nasibov|Nasibov]]|UKR|2020 Summer}}<br />'''L''' 1–3 <sup>PP</sup>
+|colspan=2|Did not advance
+|{{flagIOCathlete|[[Artem Surkov|Surkov]]|ROC|2020 Summer}}<br />'''L''' 0–3 <sup>PO</sup>
+|Did not advance
+|14
+|}
+
+==References==
+{{reflist}}
+{{Nations at the 2020 Summer Olympics}}
+{{Country at games navbox|Denmark|Olympics}}
+
+[[Category:Nations at the 2020 Summer Olympics]]
+[[Category:Denmark at the Summer Olympics by year|2020]]
+[[Category:2020 in Danish sport]]

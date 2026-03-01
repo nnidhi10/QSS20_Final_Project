@@ -1,0 +1,759 @@
+{{Infobox basketball tournament at games
+| type         = Olympics
+| city         = Beijing
+| year         = 2008
+| logo         = Basketball 2008.png
+| size         = 105px
+| venue        = [[Wukesong Arena|Beijing Olympic Basketball Gymnasium]]
+| games        = [[2008 Summer Olympics]]
+| host         = China
+| dates        = August 9–24, 2008
+| men_teams    = 12
+| men_gold     = USA
+| men_silver   = ESP
+| men_bronze   = ARG
+| women_teams  = 12
+| women_gold   = USA
+| women_silver = AUS
+| women_bronze = RUS
+| website      = www.olympicbasketball.fiba.com/ 
+| prev         = [[Basketball at the 2004 Summer Olympics|Athens 2004]]
+| next         = [[Basketball at the 2012 Summer Olympics|London 2012]]
+}}
+{{BasketballAt2008SummerOlympics}}
+
+'''Basketball at the 2008 Summer Olympics''' was the seventeenth appearance of the sport of [[basketball]] as an [[Basketball at the Summer Olympics|official Olympic medal event]]. It was held from 9 August to 24 August 2008.  Competitions were held at the [[Wukesong Indoor Stadium]] in [[Beijing]], [[China]].<ref>{{cite web |url=http://www.sportsnet.ca/olympics/2008/08/24/usa_basketball_gold/ |title=Mission accomplished for Redeem Team - Sportsnet.ca |access-date=2008-08-25 |url-status=dead |archive-url=https://web.archive.org/web/20080829190236/http://www.sportsnet.ca/olympics/2008/08/24/usa_basketball_gold/ |archive-date=2008-08-29 }}</ref>
+
+==Medalists==
+[[Image:Beijing Wukesong Culture & Sports Center.jpg|thumb|right|190px|[[MasterCard Center|Beijing Wukesong Arena]], basketball venue for the 2008 Summer Olympics]]
+{{see also|List of Olympic medalists in basketball}}
+{| {{MedalistTable|type=Event}}
+|-valign="top"
+| Men <br>{{DetailsLink|Basketball at the 2008 Summer Olympics – Men}}
+| {{flagIOC|USA|2008 Summer}}<br/>
+[[Carmelo Anthony]]<br/>
+[[Carlos Boozer]]<br/>
+[[Chris Bosh]]<br/>
+[[Kobe Bryant]]<br/>
+[[Dwight Howard]]<br/>
+[[LeBron James]]<br/>
+[[Jason Kidd]]<br/>
+[[Deron Williams]]<br/>
+[[Chris Paul]]<br/>
+[[Tayshaun Prince]]<br/>
+[[Michael Redd]]<br/>
+[[Dwyane Wade]]<br/>
+| {{flagIOC|ESP|2008 Summer}}<br/>
+[[José Calderón (basketball)|José Calderón]]<br/>
+[[Rudy Fernández (basketball)|Rudy Fernández]]<br/>
+[[Jorge Garbajosa]]<br/>
+[[Marc Gasol]]<br/>
+[[Pau Gasol]]<br/>
+[[Carlos Jiménez]]<br/>
+[[Raül López (basketball)|Raúl López]]<br/>
+[[Álex Mumbrú]]<br/>
+[[Juan Carlos Navarro (basketball)|Juan Carlos Navarro]]<br/>
+[[Felipe Reyes]]<br/>
+[[Berni Rodríguez]]<br/>
+[[Ricky Rubio]]<br/>
+| {{flagIOC|ARG|2008 Summer}}<br/>
+[[Carlos Delfino]]<br/>
+[[Manu Ginóbili]]<br/>
+[[Román González (basketball player)|Román González]]<br/>
+[[Juan Pedro Gutiérrez]]<br/>
+[[Leonardo Gutiérrez]]<br/>
+[[Federico Kammerichs]]<br/>
+[[Andrés Nocioni]]<br/>
+[[Fabricio Oberto]]<br/>
+[[Pablo Prigioni]]<br/>
+[[Antonio Porta (basketball)|Antonio Porta]]<br/>
+[[Paolo Quinteros]]<br/>
+[[Luis Scola]]<br/>
+|-valign="top"
+| Women <br>{{DetailsLink|Basketball at the 2008 Summer Olympics – Women}}
+|{{flagIOC|USA|2008 Summer}}<br/>
+[[Seimone Augustus]]<br/>
+[[Sue Bird]]<br/>
+[[Tamika Catchings]]<br/>
+[[Sylvia Fowles]]<br/>
+[[Kara Lawson]]<br/>
+[[Lisa Leslie]]<br/>
+[[DeLisha Milton-Jones]]<br/>
+[[Candace Parker]]<br/>
+[[Cappie Pondexter]]<br/>
+[[Katie Smith]]<br/>
+[[Diana Taurasi]]<br/>
+[[Tina Thompson]]<br/>
+|{{flagIOC|AUS|2008 Summer}}<br/>
+[[Suzy Batkovic]]<br/>
+[[Tully Bevilaqua]]<br/>
+[[Rohanee Cox]]<br/>
+[[Hollie Grima]]<br/>
+[[Kristi Harrower]]<br/>
+[[Lauren Jackson]]<br/>
+[[Erin Phillips]]<br/>
+[[Emma Randall]]<br/>
+[[Jenni Screen]]<br/>
+[[Belinda Snell]]<br/>
+[[Laura Summerton]]<br/>
+[[Penny Taylor]]<br/>
+|{{flagIOC|RUS|2008 Summer}}<br/>
+[[Svetlana Abrosimova]]<br/>
+[[Becky Hammon]]<br/>
+[[Marina Karpunina]]<br/>
+[[Ilona Korstin]]<br/>
+[[Marina Kuzina]]<br/>
+[[Ekaterina Lisina]]<br/>
+[[Irina Osipova]]<br/>
+[[Oxana Rakhmatulina]]<br/>
+[[Tatiana Shchegoleva]]<br/>
+[[Irina Sokolovskaya]]<br/>
+[[Maria Stepanova]]<br/>
+[[Natalia Vodopyanova]]<br/>
+|}
+
+===Medal count===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 2008 Summer
+ | team           = 
+ | gold_USA = 2 | silver_USA = 0 | bronze_USA = 0
+ | gold_ESP = 0 | silver_ESP = 1 | bronze_ESP = 0
+ | gold_AUS = 0 | silver_AUS = 1 | bronze_AUS = 0
+ | gold_RUS = 0 | silver_RUS = 0 | bronze_RUS = 1
+ | gold_ARG = 0 | silver_ARG = 0 | bronze_ARG = 1
+}}
+
+==Flag bearers==
+Basketball players that carried their flags at the opening ceremony were [[Yao Ming]] (for the People's Republic of China), [[Šarūnas Jasikevičius]] (for Lithuania), [[Dirk Nowitzki]] (for Germany), [[Andrei Kirilenko]] (for the Russian Federation), and [[Manu Ginóbili]] (for Argentina).
+
+==Events==
+Two sets of medals were awarded in the following events:
+*Basketball – Men
+*Basketball – Women
+
+==Qualification==
+A [[National Olympic Committee|NOC]] may enter up to one men's team with 12 players and up to one women's team with 12 players. The reigning world champions and the host country qualify automatically, as do the winners of the five continental championships (plus the men's runners-up from Europe and the Americas).
+
+The best teams from the continental championships that did not automatically qualify participated in the [[FIBA World Olympic Qualifying Tournament 2008|FIBA World Olympic Qualifying Tournament]] or [[FIBA World Olympic Qualifying Tournament for Women 2008|FIBA World Olympic Qualifying Tournament for Women]] to determine the final spots in Beijing.
+
+Italicized teams qualified via the wildcard tournaments.
+
+=== Basketball – Men===
+{{main|Basketball at the 2008 Summer Olympics – Men's qualification}}
+{|class=wikitable width=100%
+|-
+!width=13%|Africa !!width=13%| Americas !!width=13%| Asia !!width=13%| Europe !!width=13%| Oceania !!width=26%| Automatic qualifiers
+|- valign=top
+|{{Bk|ANG}} || {{Bk|USA}}<br>{{Bk|ARG}} || {{Bk|IRI}} || {{Bk|RUS}}<br>{{Bk|LTU}}<br>''{{Bk|CRO}}'' <br>''{{Bk|GRE}}''<br> ''{{Bk|GER}}''|| {{Bk|AUS}} || {{Bk|ESP}} – [[2006 FIBA World Championship|World champions]]<br>{{Bk|CHN}} – Olympic hosts
+|}
+
+=== Basketball – Women===
+{{main|Basketball at the 2008 Summer Olympics – Women's qualification}}
+{|class=wikitable width=100% valign=top
+|-
+!width=13%|Africa !!width=13%| Americas !!width=13%| Asia !!width=13%| Europe !!width=13%| Oceania !!width=26%| Automatic qualifiers
+|- valign=top
+|{{Bkw|MLI}} || {{Bkw|USA}}<br> ''{{Bkw|BRA}}'' || {{Bkw|KOR}} || {{Bkw|RUS}} <br> ''{{Bkw|ESP}}'' <br> ''{{Bkw|CZE|name=Czech Rep.}}'' <br> ''{{Bkw|LAT}}'' <br> ''{{Bkw|BLR}}'' || {{Bkw|NZL}} || {{Bkw|AUS}} – [[2006 FIBA World Championship for Women|World champions]]<br>{{Bkw|CHN}} – Olympic hosts
+|}
+
+==Format==
+* Twelve teams are split into two preliminary round groups of six teams each.
+* The top four teams from both groups qualify for the knockout stage. 
+* Fifth-placed teams from both groups are ranked 9th–10th by basis of their records.
+* Sixth-placed teams from both groups are ranked 11th–12th by basis of their records.
+* In the quarterfinals, the matchups are as follows: A1 vs. B4, A2 vs. B3, A3 vs. B2 and A4 vs. B1.
+** The eliminated teams at the quarterfinals are ranked 5th–8th by basis of their preliminary round records
+* The winning teams from the quarterfinals meet in the semifinals as follows: A1/B4 vs. A3/B2 and A2/B3 vs. A4/B1.
+* The winning teams from the semifinals contest the gold medal. The losing teams contest the bronze.
+
+Tie-breaking criteria:
+# Head to head results
+# [[Goal difference|Goal average]] (not the goal difference) between the tied teams
+# Goal average of the tied teams for all teams in its group
+
+==Calendar==
+{| class="wikitable" style="margin:0.5em auto; font-size:90%;position:relative;"
+|-
+|bgcolor=#3399ff align=center| || Preliminary round
+|bgcolor=#00ff00 align=center| || Quarterfinals
+|bgcolor=#00FFFF align=center| || Semifinals
+|bgcolor=#ffcc00 align=center| M || Event finals 
+|}
+
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; line-height:1.25em;"
+|-
+! August !!9th<br />S!!10th<br />S!!11th<br />M!!12th<br />T!!13th<br />W!!14th<br />T!!15th<br />F!!16th<br />S!!17th<br />S!!18th<br />M!!19th<br />T!!20th<br />W!!21st<br />T!!22nd<br />F!!23rd<br />S!!24th<br />S!!Gold<br />medals
+|- align="center"
+| align="left" | [[Basketball at the 2008 Summer Olympics - Men|Men]]
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#00ff00" |
+|
+| style="color:inherit;background:#00FFFF" |
+|
+| bgcolor=#ffcc00 | [[Basketball at the 2008 Summer Olympics - Men's tournament|M]]
+| 1
+|-
+|- align="center"
+| align="left" | [[Basketball at the 2008 Summer Olympics – Women|Women]]
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#3399ff" |
+|
+| style="color:inherit;background:#00ff00" |
+|
+| style="color:inherit;background:#00FFFF" |
+|
+| bgcolor=#ffcc00 | [[Basketball at the 2008 Summer Olympics – Women's tournament|M]]
+|
+| 1
+|}
+
+==Rosters==
+{{main|Basketball at the 2008 Summer Olympics – Men's team rosters|Basketball at the 2008 Summer Olympics – Women's team rosters}}
+Each team is limited to twelve players on its roster.
+
+==Men==
+{{main|Basketball at the 2008 Summer Olympics – Men}}
+
+===Preliminary round===
+{| class="wikitable"
+|-
+|width=10px bgcolor="#ccffcc"| ||Qualified for the quarterfinals
+|}The four best teams from each group advanced to the quarterfinal round.
+
+====Group A====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=150|Team
+!width=20|W
+!width=20|L
+!width=30|PF
+!width=30|PA
+!width=30|PD
+!width=20|Pts
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|LTU}}
+|4||1||425||400||+25||'''9'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|ARG}}
+|4||1||425||361||+64||'''9'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|CRO}}
+|3||2||399||380||+19||'''8'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|AUS}}
+|3||2||457||405||+52||'''8'''
+|-
+|align="left"|{{Bk|RUS}}
+|1||4||387||406||−19||'''6'''
+|-
+|align="left"|{{Bk|IRI}}
+|0||5||323||464||−141||'''5'''
+|}
+{|width=100% cellspacing=1
+!width=25%|
+!width=10%|
+!
+|-
+|August 10, 2008
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|RUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#RUS-IRI|71 – 49]]''' ||'''{{Bk|IRI}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|LTU}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#LTU-ARG|79 – 75]]''' ||'''{{Bk|ARG}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|AUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#AUS-CRO|82 – 97]]''' ||'''{{Bk|CRO}}'''
+|-
+|August 12, 2008
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|IRI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#IRI-LTU|67 – 99]]''' ||'''{{Bk|LTU}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|CRO}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#CRO-RUS|85 – 78]]''' ||'''{{Bk|RUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ARG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ARG-AUS|85 – 68]]''' ||'''{{Bk|AUS}}'''
+|-
+|August 14, 2008
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|AUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#AUS-IRI|106 – 68]]''' ||'''{{Bk|IRI}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|LTU}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#LTU-RUS|86 – 79]]''' ||'''{{Bk|RUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ARG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ARG-CRO|77 – 53]]''' ||'''{{Bk|CRO}}'''
+|-
+|August 16, 2008
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|RUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#RUS-AUS|80 – 95]]''' ||'''{{Bk|AUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|CRO}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#CRO-LTU|73 – 86]]''' ||'''{{Bk|LTU}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|IRI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#IRI-ARG|82 – 97]]''' ||'''{{Bk|ARG}}'''
+|-
+|August 18, 2008
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|IRI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#IRI-CRO|57 – 91]]''' ||'''{{Bk|CRO}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|AUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#AUS-LTU|106 – 75]]''' ||'''{{Bk|LTU}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ARG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ARG-RUS|91 – 79]]''' ||'''{{Bk|RUS}}'''
+|}
+
+====Group B====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=150|Team
+!width=20|W
+!width=20|L
+!width=30|PF
+!width=30|PA
+!width=30|PD
+!width=20|Pts
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|USA}}
+|5||0||515||354||+161||'''10'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|ESP}}
+|4||1||418||369||+49||'''9'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|GRE}}
+|3||2||415||375||+40||'''8'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bk|CHN}}
+|2||3||366||400||−34||'''7'''
+|-
+|align="left"|{{Bk|GER}}
+|1||4||330||390||−60||'''6'''
+|-
+|align="left"|{{Bk|ANG}}
+|0||5||321||477||−156||'''5'''
+|}
+
+{|width=100% cellspacing=1
+!width=25%|
+!width=10%|
+!
+|-
+|2008-08-10
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|GER}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#GER-ANG|95 – 66]]''' ||'''{{Bk|ANG}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ESP}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ESP-GRE|81 – 66]]''' ||'''{{Bk|GRE}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|USA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#USA-CHN|101 – 70]]''' ||'''{{Bk|CHN}}'''
+|-
+|2008-08-12
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|GRE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#GRE-GER|87 – 64]]''' ||'''{{Bk|GER}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#CHN-ESP|75 – 85]] (OT)''' ||'''{{Bk|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ANG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ANG-USA|76 – 97]]''' ||'''{{Bk|USA}}'''
+|-
+|2008-08-14
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|GER}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#GER-ESP|59 – 72]]''' ||'''{{Bk|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ANG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ANG-CHN|68 – 85]]''' ||'''{{Bk|CHN}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|USA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#USA-GRE|92 – 69]]''' ||'''{{Bk|GRE}}'''
+|-
+|2008-08-16
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|GRE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#GRE-ANG|102 – 61]]''' ||'''{{Bk|ANG}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#CHN-GER|59 – 55]]''' ||'''{{Bk|GER}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ESP}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ESP-USA|82 – 119]]''' ||'''{{Bk|USA}}'''
+|-
+|2008-08-18
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|GRE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#GRE-CHN|91 – 77]]''' ||'''{{Bk|CHN}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|ANG}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#ANG-ESP|50 – 98]]''' ||'''{{Bk|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bk-rt|USA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics - Men#USA-GER|106 – 57]]''' ||'''{{Bk|GER}}'''
+|}
+
+===Tournament bracket===
+{{8TeamBracket-with third | RD1=Quarterfinals<br>(2008-08-20)
+| RD2=Semifinals<br>(2008-08-22)
+| RD3=Gold medal game<br>(2008-08-24)
+| RD3b=Bronze medal game
+
+| RD1-seed1='''A2'''
+| RD1-team1='''{{Bk|ARG}}'''
+| RD1-score1='''80'''
+| RD1-seed2=B3
+| RD1-team2={{Bk|GRE}}
+| RD1-score2=78
+
+| RD1-seed3='''B1'''
+| RD1-team3='''{{Bk|USA}}'''
+| RD1-score3='''116'''
+| RD1-seed4=A4
+| RD1-team4={{Bk|AUS}}
+| RD1-score4=85
+
+| RD1-seed5='''B2'''
+| RD1-team5='''{{Bk|ESP}}'''
+| RD1-score5='''72'''
+| RD1-seed6=A3
+| RD1-team6={{Bk|CRO}}
+| RD1-score6=59
+
+| RD1-seed7='''A1'''
+| RD1-team7='''{{Bk|LTU}}'''
+| RD1-score7='''94'''
+| RD1-seed8=B4
+| RD1-team8={{Bk|CHN}}
+| RD1-score8=68
+
+| RD2-seed1=A2
+| RD2-team1={{Bk|ARG}}
+| RD2-score1=81
+| RD2-seed2='''B1'''
+| RD2-team2='''{{Bk|USA}}'''
+| RD2-score2='''101'''
+
+| RD2-seed3=B2
+| RD2-team3='''{{Bk|ESP}}'''
+| RD2-score3='''91'''
+| RD2-seed4=A1
+| RD2-team4={{Bk|LTU}}
+| RD2-score4=86
+
+| RD3-seed1='''B1'''
+| RD3-team1='''{{Bk|USA}}'''
+| RD3-score1='''118'''
+| RD3-seed2=B2
+| RD3-team2={{Bk|ESP}}
+| RD3-score2=107
+
+| RD3-seed3='''A2'''
+| RD3-team3='''{{Bk|ARG}}'''
+| RD3-score3='''87'''
+| RD3-seed4=A1
+| RD3-team4={{Bk|LTU}}
+| RD3-score4=75
+}}
+
+==Women==
+{{main|Basketball at the 2008 Summer Olympics – Women}}
+
+===Preliminary round===
+{| class="wikitable"
+|-
+|width=10px bgcolor="#ccffcc"| ||Qualified for the quarterfinals
+|}
+The four best teams from each group advanced to the quarterfinal round.
+
+====Group A====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=150|Team
+!width=20|W
+!width=20|L
+!width=30|PF
+!width=30|PA
+!width=30|PD
+!width=20|Pts
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|AUS}}
+|5||0||349||264||+85||'''10'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|RUS}}
+|4||1||278||258||+20||'''9'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|BLR}}
+|2||3||320||332||−12||'''7'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|KOR}}
+|2||3||352||360||−8||'''7'''
+|-
+|align="left"|{{Bkw|LAT}}
+|1||4||266||315||−49||'''6'''
+|-
+|align="left"|{{Bkw|BRA}}
+|1||4||337||354||−17||'''6'''
+|}
+
+{|width=100% cellspacing=1
+!width=25%|
+!width=10%|
+!
+|-
+|2008-08-09
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|BLR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#BLR-AUS|64 – 83]]''' ||'''{{Bkw|AUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|KOR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#KOR-BRA|68 – 62]] (OT)''' ||'''{{Bkw|BRA}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|LAT}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#LAT-RUS|57 – 62]]''' ||'''{{Bkw|RUS}}'''
+|-
+|2008-08-11
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|KOR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#KOR-RUS|72 – 77]]''' ||'''{{Bkw|RUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|LAT}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#LAT-BLR|57 – 79]]''' ||'''{{Bkw|BLR}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|AUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#AUS-BRA|80 – 65]]''' ||'''{{Bkw|BRA}}'''
+|-
+|2008-08-13
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|BLR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#BLR-RUS|65 – 71]]''' ||'''{{Bkw|RUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|BRA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#BRA-LAT|78 – 79]]''' ||'''{{Bkw|LAT}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|KOR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#KOR-AUS|62 – 90]]''' ||'''{{Bkw|AUS}}'''
+|-
+|2008-08-15
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|LAT}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#LAT-AUS|73 – 96]]''' ||'''{{Bkw|AUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|RUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#RUS-BRA|74 – 64]]''' ||'''{{Bkw|BRA}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|KOR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#KOR-BLR|53 – 63]]''' ||'''{{Bkw|BLR}}'''
+|-
+|2008-08-17
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|AUS}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#AUS-RUS|75 – 55]]''' ||'''{{Bkw|RUS}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|KOR}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#KOR-LAT|72 – 68]]''' ||'''{{Bkw|LAT}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|BRA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#BRA-BLR|68 – 53]]''' ||'''{{Bkw|BLR}}'''
+|}
+
+====Group B====
+{| class="wikitable" style="text-align:center;"
+|-
+!width=150|Team
+!width=20|W
+!width=20|L
+!width=30|PF
+!width=30|PA
+!width=30|PD
+!width=20|Pts
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|USA}}
+|5||0||491||276||+215||'''10'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|CHN}}
+|4||1||358||346||+12||'''9'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|ESP}}
+|3||2||357||324||+33||'''8'''
+|-bgcolor="#ccffcc"
+|align="left"|{{Bkw|CZE}}
+|2||3||346||356||−10||'''7'''
+|-
+|align="left"|{{Bkw|NZL}}
+|1||4||320||423||−103||'''6'''
+|-
+|align="left"|{{Bkw|MLI}}
+|0||5||255||402||−147||'''5'''
+|}
+
+{|width=100% cellspacing=1
+!width=25%|
+!width=10%|
+!
+|-
+|2008-08-09
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|MLI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#MLI-NZL|72 – 76]]''' ||'''{{Bkw|NZL}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CHN-ESP|67 – 64]]''' ||'''{{Bkw|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CZE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CZE-USA|57 – 97]]''' ||'''{{Bkw|USA}}'''
+|-
+|2008-08-11
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|NZL}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#NZL-ESP|62 – 85]]''' ||'''{{Bkw|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CZE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CZE-MLI|81 – 47]]''' ||'''{{Bkw|MLI}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CHN-USA|63 – 108]]''' ||'''{{Bkw|USA}}'''
+|-
+|2008-08-13
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|ESP}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#ESP-CZE|74 – 55]]''' ||'''{{Bkw|CZE}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CHN-NZL|80 – 63]]''' ||'''{{Bkw|NZL}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|MLI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#MLI-USA|41 – 97]]'''||'''{{Bkw|USA}}'''
+|-
+|2008-08-15
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CZE}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CZE-NZL|90 – 59]]''' ||'''{{Bkw|NZL}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CHN-MLI|69 –48]]''' ||'''{{Bkw|MLI}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|USA}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#USA-ESP|93–55]]'''||'''{{Bkw|ESP}}'''
+|-
+|2008-08-17
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|MLI}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#MLI-ESP|47 – 79]]''' ||'''{{Bkw|ESP}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|CHN}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#CHN-CZE|79 – 63]]''' ||'''{{Bkw|CZE}}'''
+|- style=font-size:90%
+|align=right|'''{{Bkw-rt|NZL}}'''||align=center| '''[[Basketball at the 2008 Summer Olympics – Women#NZL-USA|60 – 96]]''' ||'''{{Bkw|USA}}'''
+|}
+
+===Tournament bracket===
+{{8TeamBracket-with third | RD1=Quarterfinals<br>(2008-08-19)
+| RD2=Semifinals<br>(2008-08-21)
+| RD3=Gold medal game<br>(2008-08-23)
+| RD3b=Bronze medal game
+
+| RD1-seed1='''A2'''
+| RD1-team1='''{{Bkw|RUS}}'''
+| RD1-score1='''84'''
+| RD1-seed2=B3
+| RD1-team2={{Bkw|ESP}}
+| RD1-score2=65
+
+| RD1-seed3='''B1'''
+| RD1-team3='''{{Bkw|USA}}'''
+| RD1-score3='''104'''
+| RD1-seed4=A4
+| RD1-team4={{Bkw|KOR}}
+| RD1-score4=60
+
+| RD1-seed5='''B2'''
+| RD1-team5='''{{Bkw|CHN}}'''
+| RD1-score5='''77'''
+| RD1-seed6=A3
+| RD1-team6={{Bkw|BLR}}
+| RD1-score6=62
+
+| RD1-seed7='''A1'''
+| RD1-team7='''{{Bkw|AUS}}'''
+| RD1-score7='''79'''
+| RD1-seed8=B4
+| RD1-team8={{Bkw|CZE}}
+| RD1-score8=46
+
+| RD2-seed1=A2
+| RD2-team1={{Bkw|RUS}}
+| RD2-score1=52
+| RD2-seed2='''B1'''
+| RD2-team2='''{{Bkw|USA}}'''
+| RD2-score2='''67'''
+
+| RD2-seed3=B2
+| RD2-team3={{Bkw|CHN}}
+| RD2-score3=56
+| RD2-seed4='''A1'''
+| RD2-team4='''{{Bkw|AUS}}'''
+| RD2-score4='''90'''
+
+| RD3-seed1='''B1'''
+| RD3-team1='''{{Bkw|USA}}'''
+| RD3-score1='''92'''
+| RD3-seed2=A1
+| RD3-team2={{Bkw|AUS}}
+| RD3-score2=65
+
+| RD3-seed3='''A2'''
+| RD3-team3='''{{Bkw|RUS}}'''
+| RD3-score3='''94'''
+| RD3-seed4=B2
+| RD3-team4={{Bkw|CHN}}
+| RD3-score4=81
+}}
+
+==Final standings==
+
+{|class=wikitable
+|-
+!rowspan=2|Rank
+!colspan=4| Men
+!colspan=4| Women
+|-
+!width=150px|Team !!width=20px|Pld !!width=20px|W !!width=20px|L !!width=150px|Team !!width=20px|Pld !!width=20px|W !!width=20px|L 
+|-align=center
+| {{Gold1}} ||align=left|{{Bk|USA}}  || 8 || 8 || 0
+|align=left|{{Bkw|USA}}  || 8 || 8 || 0 
+|-align=center
+| {{Silver2}} ||align=left|{{Bk|ESP}} || 8 || 6 || 2
+|align=left|{{Bkw|AUS}} || 8 || 7 || 1 
+|-align=center
+| {{Bronze3}} ||align=left|{{Bk|ARG}} || 8 || 6 || 2
+|align=left|{{Bkw|RUS}} || 8 || 6 || 2 
+|-align=center
+| 4th ||align=left|{{Bk|LTU}} || 8 || 5 || 3
+|align=left|{{Bkw|CHN}} || 8 || 5 || 3
+|-
+!colspan=9|Eliminated at the quarterfinals
+|-align=center
+| 5th ||align=left|{{Bk|GRE}} || 6 || 3 || 3
+|align=left|{{Bkw|ESP}} || 6 || 3 || 3
+|-align=center
+| 6th ||align=left|{{Bk|CRO}} || 6 || 3 || 3
+|align=left|{{Bkw|BLR}} || 6 || 2 || 4
+|-align=center
+| 7th ||align=left|{{Bk|AUS}} || 6 || 3 || 3
+|align=left|{{Bkw|CZE}} || 6 || 2 || 4
+|-align=center
+| 8th ||align=left|{{Bk|CHN}} || 6 || 2 || 4
+|align=left|{{Bkw|KOR}} || 6 || 2 || 4
+|-
+!colspan=9|Preliminary round 5th placers
+|-align=center
+| 9th ||align=left|{{Bk|RUS}} || 5 || 1 || 4
+|align=left|{{Bkw|LAT}} || 5 || 1 || 4
+|-align=center
+| 10th ||align=left|{{Bk|GER}} || 5 || 1 || 4
+|align=left|{{Bkw|NZL}} || 5 || 1 || 4
+|-
+!colspan=9|Preliminary round 6th placers
+|-align=center
+| 11th ||align=left|{{Bk|IRI}} || 5 || 0 || 5
+|align=left|{{Bkw|BRA}} || 5 || 1 || 4
+|-align=center
+| 12th ||align=left|{{Bk|ANG}} || 5 || 0 || 5
+|align=left|{{Bkw|MLI}} || 5 || 0 || 5
+|}
+
+==See also==
+*[[Wheelchair basketball at the 2008 Summer Paralympics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080411054305/http://www.olympicbasketball.fiba.com/ FIBA's Complete coverage of the Olympic Basketball Tournament]
+*[https://web.archive.org/web/20060331010211/http://www.beijing2008.com/ Beijing 2008 Olympic Games]
+*[https://www.fiba.basketball International Basketball Federation]
+*[https://web.archive.org/web/20080630094046/http://www.fiba.com/pages/eng/fe/08/olym/men/news/lateNews/p/newsid/24358/FE_news_lateNews_arti.html FIBA-Results of the Draw for the Beijing 2008 Olympic Basketball tournaments]
+*[https://web.archive.org/web/20080618151215/http://www.madrid2008.fiba.com/pages/eng/fe/08/olymqual/wom/news/lateNews/p/newsid/25793/FE_news_lateNews_arti.html Updated Women's Draw after Qualifying Tournament]
+*[https://digital.la84.org/digital/api/collection/p17103coll8/id/64895/download Basketball – Official Results Book]
+
+{{Basketball at the 2008 Summer Olympics}}
+{{Basketball at the 2008 Summer Olympics – Men's tournament}}
+{{Basketball at the 2008 Summer Olympics – Women's tournament}}
+{{EventsAt2008SummerOlympics}}
+{{Basketball at the Summer Olympics}}
+
+[[Category:Basketball at the 2008 Summer Olympics| ]]
+[[Category:2008 in basketball|Olympics]]
+[[Category:Events at the 2008 Summer Olympics]]
+[[Category:Basketball at the Summer Olympics|2008]]
+[[Category:International basketball competitions hosted by China]]

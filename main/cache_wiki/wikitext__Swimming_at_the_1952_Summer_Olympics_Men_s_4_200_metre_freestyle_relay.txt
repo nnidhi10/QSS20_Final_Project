@@ -1,0 +1,106 @@
+{{short description|None}}
+
+{{Use dmy dates|date=December 2018}}
+{{SwimmingAt1952SummerOlympics}}
+The '''men's 4 × 200 metre freestyle relay''' event at the 1952 Olympic Games took place from 28 to 29 July at the [[Helsinki Swimming Stadium|Swimming Stadium]].<ref name="SportsRef">{{cite web |url=https://www.sports-reference.com/olympics/summer/1952/SWI/mens-4-x-200-metres-freestyle-relay.html |archive-url=https://web.archive.org/web/20200417165953/https://www.sports-reference.com/olympics/summer/1952/SWI/mens-4-x-200-metres-freestyle-relay.html |url-status=dead |archive-date=17 April 2020 |title=Swimming at the 1952 Helsinki Summer Games: Men's 4 × 200 metres Freestyle Relay |accessdate=28 September 2016 |work=Sports Reference}}</ref> The relay featured teams of four swimmers each [[Swimming (sport)|swimming]] four lengths of the 50&nbsp;m pool [[Freestyle swimming|freestyle]].
+
+==Medalists==
+{| class="wikitable sortable" style=text-align:center
+|-
+! Rank !! Nationality !! Name  !! Time !! Notes
+|- 
+| {{gold01}} || align=left| {{flagIOC|USA|1952 Summer}} ||align=left|[[Wayne Moore (swimmer)|Wayne Moore]] <br />[[Bill Woolsey]] <br />[[Ford Konno]] <br />[[Jimmy McLane]] || 8:31.1 || {{OlyR|swimming}}<ref>{{cite web |title=Helsinki 1952 4x200m freestyle relay men |url=https://www.olympic.org/helsinki-1952/swimming/4x200m-freestyle-relay-men |publisher=IOC |accessdate=2 August 2018}}</ref>
+|-
+| {{silver02}} || align=left| {{flagIOC|JPN|1952 Summer}} ||align=left|[[Hiroshi Suzuki (swimmer)|Hiroshi Suzuki]] <br />[[Yoshihiro Hamaguchi]] <br />[[Toru Goto]] <br />[[Teijiro Tanikawa]] || 8:33.5 ||  
+|-
+| {{bronze03}}|| align=left| {{flagIOC|FRA|1952 Summer}} ||align=left|[[Joseph Bernardo]] <br />[[Aldo Eminente]] <br />[[Alexandre Jany]] <br />[[Jean Boiteux]] || 8:45.9 || 
+|}
+
+==Results==
+
+===Heats===
+<ref>[https://www.fina.org/competitions/1105/olympic-games-helsinki-1952/results?disciplines=SW&event=4df22b7c-58b9-4e6e-b940-911b275a3cd7&unit=heats-summary Heats Summary]</ref>
+;Heat One
+{| class=wikitable style="text-align:center"
+|-
+! Place ||width=620| Swimmers ||width=90| Time ||width=90| Notes
+|- bgcolor=lightblue
+| 1 ||align=left| {{flagIOCathlete|[[Jo Bernardo]], [[Aldo Eminente]], [[Alex Jany]], and [[Jean Boiteux]]|FRA|1952 Summer}} || 8:55.9 || 
+|- bgcolor=lightblue
+| 2 ||align=left| {{flagIOCathlete|[[Roy Botham]], [[Ronald Burns (swimmer)|Ronald Burns]], [[Thomas Welsh (swimmer)|Thomas Welsh]], and [[Jack Wardrop]]|GBR|1952 Summer}} || 8:59.7 || 
+|-
+| 3 ||align=left| {{flagIOCathlete|[[Rex Aubrey]], [[Frank O'Neill (swimmer)|Frank O'Neill]], [[Garrick Agnew]], and [[John Marshall (swimmer)|John Marshall]]|AUS|1952 Summer}} || 9:01.4 || 
+|-
+| 4 ||align=left| {{flagIOCathlete|[[Viktor Drobinsky]], [[Vasily Karmanov]], [[Leonid Meshkov]], and [[Lev Balandin]]|URS|1952 Summer}} || 9:01.9 || 
+|-
+| 5 ||align=left| {{flagIOCathlete|[[Carlo Pedersoli]], [[Egidio Massaria]], [[Angelo Romani]], and [[Giovanni Paliaga]]|ITA|1952 Summer}} || 9:17.9 || 
+|-
+| 6 ||align=left| {{flagIOCathlete|[[Pentti Ikonen]], [[Pentti Paatsalo]], [[Mauno Valkeinen]], and [[Leo Telivuo]]|FIN|1952 Summer}} || 9:26.6 ||
+|}
+
+;Heat Two
+{| class=wikitable style="text-align:center"
+|-
+! Place ||width=620| Swimmers ||width=90| Time ||width=90| Notes
+|- bgcolor=lightblue
+| 1 ||align=left| {{flagIOCathlete|[[Wally Wolf]], [[Don Sheff]], [[Frank Dooley]] and [[Bumpy Jones]]|USA|1952 Summer}} || 8:50.9 || 
+|- bgcolor=lightblue
+| 2 ||align=left| {{flagIOCathlete|[[György Csordás]], [[László Gyöngyösi]], [[Gusztáv Kettesi]] and [[Imre Nyéki]]|HUN|1952 Summer}} || 8:54.6 || 
+|- bgcolor=lightblue
+| 3 ||align=left| {{flagIOCathlete|[[Graham Johnston (swimmer)|Graham Johnston]], [[Dennis Ford]], [[John Durr]] and [[Peter Duncan (swimmer)|Peter Duncan]]|RSA|1952 Summer}} || 8:58.7 || 
+|-
+| 4 ||align=left| {{flagIOCathlete|[[Haroldo Lara]], [[Sylvio dos Santos]], [[Aram Boghossian]] and [[João Gonçalves Filho]]|BRA|1952 Summer}} || 9:09.0 || 
+|-
+| 5 ||align=left| {{flagIOCathlete|[[Kamiel Reynders]], [[Joseph Anthoon]], [[Marcel Anthoon]] and [[Alfons Bierebeek]]|BEL|1952 Summer}} || 9:45.5 || 
+|}
+
+;Heat Three
+{| class=wikitable style="text-align:center"
+|-
+! Place ||width=620| Swimmers ||width=90| Time ||width=90| Notes
+|- bgcolor=lightblue
+| 1 ||align=left| {{flagIOCathlete|[[Yoshihiro Hamaguchi]], [[Hiroshi Suzuki (swimmer)|Hiroshi Suzuki]], [[Toru Goto]] and [[Teijiro Tanikawa]]|JPN|1952 Summer}} || 8:42.1 || 
+|- bgcolor=lightblue
+| 2 ||align=left| {{flagIOCathlete|[[Rolf Olander]], [[Göran Larsson (swimmer)|Göran Larsson]], [[Olle Johansson (swimmer)|Olle Johansson]] and [[Per-Olof Östrand]]|SWE|1952 Summer}} || 8:52.3 || 
+|- bgcolor=lightblue
+| 3 ||align=left| {{flagIOCathlete|[[Federico Zwanck]], [[Marcelo Trabucco]], [[Pedro Galvão]] and [[Alfredo Yantorno]]|ARG|1952 Summer}} || 8:59.3 || 
+|-
+| 4 ||align=left| {{flagIOCathlete|[[Gerry McNamee]], [[Lucien Beaumont]], [[Leo Portelance]] and [[Allen Gilchrist]]|CAN|1952 Summer}} || 9:10.9 || 
+|-
+| 5 ||align=left| {{flagIOCathlete|[[Gotfryd Gremlowski]], [[Antoni Tołkaczewski]], [[Józef Lewicki]] and [[Jerzy Boniecki]]|POL|1952 Summer}} || 9:13.7 || 
+|-
+| 6 ||align=left| {{flagIOCathlete|[[Alberto Isaac]], [[Efrén Fierro]], [[César Borja]] and [[Tonatiuh Gutiérrez]]|MEX|1952 Summer}} || 9:15.7 || 
+|}
+
+===Final===
+<ref>[https://www.fina.org/competitions/1105/olympic-games-helsinki-1952/results?disciplines=SW&event=4df22b7c-58b9-4e6e-b940-911b275a3cd7&unit=final Final]</ref>
+{| class=wikitable style="text-align:center"
+|-
+! Place ||width=620| Swimmers ||width=90| Time ||width=90| Notes
+|-
+| {{gold1}} ||align=left| {{flagIOCathlete|[[Wayne Moore (swimmer)|Wayne Moore]], [[Bill Woolsey]], [[Ford Konno]] and [[Jimmy McLane]]|USA|1952 Summer}} || 8:31.1 || {{WR|swimming}}
+|-
+| {{silver2}} ||align=left| {{flagIOCathlete|[[Hiroshi Suzuki (swimmer)|Hiroshi Suzuki]], [[Yoshihiro Hamaguchi]], [[Toru Goto]], and [[Teijiro Tanikawa]]|JPN|1952 Summer}} || 8:33.5 || 
+|-
+| {{bronze3}} ||align=left| {{flagIOCathlete|[[Jo Bernardo]], [[Aldo Eminente]], [[Alex Jany]], and [[Jean Boiteux]]|FRA|1952 Summer}} || 8:45.9 || 
+|-
+| 4 ||align=left| {{flagIOCathlete|[[Lars Svantesson]], [[Göran Larsson (swimmer)|Göran Larsson]], [[Per-Olof Östrand]] and [[Olle Johansson (swimmer)|Olle Johansson]]|SWE|1952 Summer}} || 8:46.8 || 
+|-
+| 5 ||align=left| {{flagIOCathlete|[[László Gyöngyösi]], [[György Csordás]], [[Géza Kádas]] and [[Imre Nyéki]]|HUN|1952 Summer}} || 8:52.6 || 
+|-
+| 6 ||align=left| {{flagIOCathlete|[[Roy Botham]], [[Ronald Burns (swimmer)|Ronald Burns]], [[Thomas Welsh (swimmer)|Thomas Welsh]], and [[Jack Wardrop]]|GBR|1952 Summer}} ||| 8:52.9 || 
+|-
+| 7 ||align=left| {{flagIOCathlete|[[Graham Johnston (swimmer)|Graham Johnston]], [[Dennis Ford]], [[John Durr]] and [[Peter Duncan (swimmer)|Peter Duncan]]|RSA|1952 Summer}} || 8:55.1 || 
+|-
+| 8 ||align=left| {{flagIOCathlete|[[Federico Zwanck]], [[Marcelo Trabucco]], [[Pedro Galvão]] and [[Alfredo Yantorno]]|ARG|1952 Summer}} || 8:56.9 || 
+|}
+
+==References==
+{{reflist}}
+
+{{Footer Olympic Champions 4x200 m Freestyle Relay Men}}
+
+{{DEFAULTSORT:Swimming At The 1952 Summer Olympics - Men's 4 X 200 Metre Freestyle Relay}}
+[[Category:Swimming at the 1952 Summer Olympics]]
+[[Category:4 × 200 metre freestyle relay]]
+[[Category:Men's events at the 1952 Summer Olympics]]

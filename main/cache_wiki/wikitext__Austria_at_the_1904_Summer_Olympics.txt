@@ -1,0 +1,84 @@
+{{infobox country at games
+| NOC = AUT
+| NOCname = 
+| games = Summer Olympics
+| year = 1904
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[St. Louis, Missouri|St. Louis]]
+| competitors = 2
+| sports = 2
+| flagbearer = 
+| rank = 7
+| gold = 1
+| silver = 1
+| bronze = 1
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = [[Austria at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+
+[[Cisleithania|Austria]] competed at the [[1904 Summer Olympics]] in [[St. Louis, Missouri|St. Louis]], [[United States]]. Austrian and Hungarian results at early Olympic Games are generally kept separate despite the union of the two nations as [[Austria-Hungary]] at the time.
+
+Austrian gymnast [[Julius Lenhart]], who from 1903 to 1906 worked in America and in 1904 represented the sports club ''Philadelphia Turngemeinde'' mainly attended by German speaking gymnasts, won two gold medals and one silver medal,<ref>[https://olympics.com/en/athletes/julius-lenhart information about ''Julius Lenhart'' in olympics.com]</ref> making him the most successful Austrian competitor ever at the Summer Olympic Games.<ref>{{cite web |title=St. Louis 1904 Gymnastics Artistic individual all-round men Results |url=https://olympics.com/en/olympic-games/st-louis-1904/results/gymnastics-artistic/individual-all-round-men |website=Olympic Channel |access-date=6 July 2021 |language=en}}</ref><ref>{{cite web |title=St. Louis 1904 Gymnastics Artistic combined 3 events men Results |url=https://olympics.com/en/olympic-games/st-louis-1904/results/gymnastics-artistic/combined-3-events-men |website=Olympic Channel |access-date=6 July 2021 |language=en}}</ref>
+
+==Medalists==
+{| class="wikitable sortable"
+|-
+!Medal
+!Name
+!Sport
+!Event
+|-
+| {{gold medal}} || {{sortname|Julius|Lenhart}} || [[Gymnastics at the 1904 Summer Olympics|Gymnastics Artistic]] || [[Gymnastics at the 1904 Summer Olympics – Men's artistic individual all-around|Men's artistic individual all-around]]
+|-
+| {{silver medal}} || {{sortname|Julius|Lenhart}} || [[Gymnastics at the 1904 Summer Olympics|Gymnastics Artistic]] || [[Gymnastics at the 1904 Summer Olympics – Men's triathlon|Men's triathlon (combined 3 events)]]
+|-
+| {{bronze medal}} || {{sortname|Otto|Wahle}} || [[Swimming at the 1904 Summer Olympics|Swimming]] || [[Swimming at the 1904 Summer Olympics – Men's 440 yard freestyle|Men's 440 Yard Freestyle]]
+|}
+
+==Swimming==
+{{Main|Swimming at the 1904 Summer Olympics}}
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Events
+!colspan="2"|Final
+|-
+!Result
+!Rank
+|-
+|rowspan=3|[[Otto Wahle]]
+|[[Swimming at the 1904 Summer Olympics – Men's 440 yard freestyle|Men's 440 yard freestyle]]
+|align="center"|6:39.0
+|align="center"|{{bronze03}}
+|-
+|[[Swimming at the 1904 Summer Olympics – Men's 880 yard freestyle|Men's 880 yard freestyle]]
+|align="center" colspan=2|Did not finish
+|-
+|[[Swimming at the 1904 Summer Olympics – Men's 1 mile freestyle|Men's 1 mile freestyle]]
+|align="center"|''Unknown''
+|align="center"|4
+|}
+
+==References==
+{{Reflist}}
+* [https://web.archive.org/web/20080522105330/http://www.la84foundation.org/5va/reports_frmst.htm Official Olympic Reports]
+* [http://www.olympic.org/uk/athletes/results/search_r_uk.asp International Olympic Committee results database]
+
+{{Nations at the 1904 Summer Olympics}}
+{{Country at games navbox|Austria|Olympics}}
+
+[[Category:Nations at the 1904 Summer Olympics]]
+[[Category:Austria at the Summer Olympics by year|1904]]
+[[Category:1904 in Austrian sport|Olympics]]
+[[Category:Austria–United States sports relations|1904]]
+
+{{Austria-hist-stub}}
+{{1904-Olympic-stub}}

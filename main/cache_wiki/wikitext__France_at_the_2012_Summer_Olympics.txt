@@ -1,0 +1,3841 @@
+{{Use dmy dates|date=July 2022}}
+{{infobox country at games
+| NOC = FRA
+| NOCname = [[French National Olympic and Sports Committee]]
+| games = Summer Olympics
+| year = 2012
+| start_date = {{start date|2012|7|27|df=y}}
+| end_date = {{end date|2012|8|12|df=y}}
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.franceolympique.com}}&nbsp;{{in lang|fr}}
+| location = London
+| competitors = 330
+| sports = 24
+| flagbearer = [[Laura Flessel-Colovic]]
+| rank = 7<ref name=SeventhOverall>{{cite web|url=https://www.bbc.co.uk/sport/olympics|title=2012 Olympics: France|publisher=BBC|date=13 August 2012|access-date=16 November 2012}}</ref>
+| gold = 11
+| silver = 11
+| bronze = 13
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = [[France at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+
+[[France at the Olympics|France]] competed at the [[2012 Summer Olympics]] in London, between 27 July and 12 August 2012. French athletes have competed in every [[Summer Olympic Games]] of the modern era. The [[French Olympic Committee]] sent a total of 330 athletes to the Games, 183 men and 147 women, to compete in 24 sports.
+
+France left London with a total of 34 medals—11 gold, 11 silver, and 12 bronze—finishing seventh in the gold medal standings and eighth in the overall medal standings.<ref name=SeventhOverall/> Most of these medals were awarded to the athletes in [[judo]], [[cycle sport|cycling]], and [[Swimming (sport)|swimming]]. Six French athletes won more than a single Olympic medal in London. France's team-based athletes proved successful at these games, as the men's national [[team handball|handball]] team and the women's national [[basketball]] team won gold and silver medals, respectively. Furthermore, the men's national handball team managed to defend its 2008 Olympic title [[2008 Summer Olympics|from Beijing]]. For the first time since [[1960 Summer Olympics|1960]], France did not win an Olympic medal in [[fencing]].
+
+Among the nation's medalists were [[Yannick Agnel]] and [[Camille Muffat]] (retired in 2014 and killed tragically in a helicopter crash one year later), who emerged as France's most successful Olympic swimmers after winning three medals, including a gold, in their events. Meanwhile, [[Florent Manaudou]] succeeded his sister [[Laure Manaudou|Laure]] with an Olympic gold medal in freestyle swimming.<ref>{{cite web|url=https://sports.yahoo.com/news/florent-manaudou-joins-sister-laure-230751989--oly.html|title=Florent Manaudou joins sister Laure as champions|publisher=Yahoo! Sports|date=3 August 2012|access-date=7 February 2013|archive-date=9 February 2013|archive-url=https://archive.today/20130209225225/http://sports.yahoo.com/news/florent-manaudou-joins-sister-laure-230751989--oly.html|url-status=dead}}</ref> [[Renaud Lavillenie]] set a new Olympic record in the [[pole vault]], becoming the third French man to claim the title, and the first to do so since 1996. [[Tony Estanguet]] won his third gold medal in the men's slalom canoeing singles, making him one of the most successful French athletes in Olympic history.<ref>{{cite web|url=http://www.france24.com/en/20120731-france-win-gold-mens-canoe-slalom-tony-estanguet-third-gold-medal|title=France's Estanguet wins third canoe slalom gold|publisher=France 24|date=31 July 2012|access-date=5 December 2012}}</ref> On 11 August 2012, Estanguet was elected to the [[International Olympic Committee|IOC Athletes' Commission]], along with three other athletes.<ref>{{cite web|title=Results of the IOC Athletes' Commission Election|url=http://www.olympic.org/news/results-of-the-ioc-athletes-commission-election/172213|publisher=IOC|access-date=11 August 2012}}</ref> He would then go on to head the [[Paris Organising Committee for the 2024 Olympic and Paralympic Games]].
+
+==Medalists==
+{{col-begin}}
+| width="78%" align="left" valign="top" |
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}} || [[Camille Muffat]] || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Women's 400 metre freestyle|Women's 400 m freestyle]] || {{dts|29 July}}
+|-
+| {{gold medal}} || [[Amaury Leveaux]]<br />[[Fabien Gilot]]<br />[[Clément Lefert]]<br />[[Yannick Agnel]]<br />[[Alain Bernard]]{{ref label|1|1|1}}<br />[[Jérémy Stravius]]{{ref label|1|1|2}} || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Men's 4 × 100 metre freestyle relay|Men's 4 × 100 m freestyle relay]] || {{dts|29 July}}
+|-
+| {{gold medal}} || [[Yannick Agnel]] || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Men's 200 metre freestyle|Men's 200 m freestyle]] || {{dts|30 July}}
+|-
+| {{gold medal}} || [[Tony Estanguet]] || [[Canoeing at the 2012 Summer Olympics|Canoeing]] || [[Canoeing at the 2012 Summer Olympics – Men's slalom C-1|Men's slalom C-1]] || {{dts|31 July}}
+|-
+| {{gold medal}} || [[Lucie Décosse]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Women's 70 kg|Women's 70 kg]] || {{dts|1 August}}
+|-
+| {{gold medal}} || [[Émilie Fer]] || [[Canoeing at the 2012 Summer Olympics|Canoeing]] || [[Canoeing at the 2012 Summer Olympics – Women's slalom K-1|Women's slalom K-1]] || {{dts|2 August}}
+|-
+| {{gold medal}} || [[Teddy Riner]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Men's +100 kg|Men's +100 kg]] || {{dts|3 August}}
+|-
+| {{gold medal}} || [[Florent Manaudou]] || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Men's 50 metre freestyle|Men's 50 m freestyle]] || {{dts|3 August}}
+|-
+| {{gold medal}} || [[Renaud Lavillenie]] || [[Athletics at the 2012 Summer Olympics|Athletics]] || [[Athletics at the 2012 Summer Olympics – Men's pole vault|Men's pole vault]] || {{dts|10 August}}
+|-
+| {{gold medal}} || [[Julie Bresset]] || [[Cycling at the 2012 Summer Olympics|Cycling]] || [[Cycling at the 2012 Summer Olympics – Women's cross-country|Women's cross-country]] || {{dts|11 August}}
+|-
+| {{gold medal}} || [[France men's national handball team|France national men's handball team]]{{columns-list|colwidth=10em|small=yes|style=width:22em|{{unbulleted list|[[Jérôme Fernandez]]|[[Didier Dinart]]|[[Xavier Barachet]]|[[Guillaume Gille]]|[[Bertrand Gille (handballer)|Bertrand Gille]]|[[Daniel Narcisse]]|[[Guillaume Joli]]|[[Samuel Honrubia]]|[[Daouda Karaboué]]|[[Nikola Karabatić]]|[[Thierry Omeyer]]|[[William Accambray]]|[[Luc Abalo]]|[[Cédric Sorhaindo]]|[[Michaël Guigou]]}}}}
+|| [[Handball at the 2012 Summer Olympics|Handball]] || [[Handball at the 2012 Summer Olympics – Men's tournament|Men's tournament]] || {{dts|12 August}}
+|-
+| {{silver medal}} || [[Céline Goberville]] || [[Shooting at the 2012 Summer Olympics|Shooting]] || [[Shooting at the 2012 Summer Olympics – Women's 10 metre air pistol|Women's 10 m air pistol]] || {{dts|29 July}}
+|-
+| {{silver medal}} || [[Camille Muffat]] || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Women's 200 metre freestyle|Women's 200 m freestyle]] || {{dts|31 July}}
+|-
+| {{silver medal}} || [[Amaury Leveaux]]<br />[[Grégory Mallet]]<br />[[Clément Lefert]]<br />[[Yannick Agnel]]<br />[[Jérémy Stravius]]{{ref label|1|1|3}} || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Men's 4 × 200 metre freestyle relay|Men's 4 × 200 m freestyle relay]] || {{dts|31 July}}
+|-
+| {{silver medal}} || [[Grégory Baugé]]<br />[[Michaël D'Almeida]]<br />[[Kévin Sireau]] || [[Cycling at the 2012 Summer Olympics|Cycling]] || [[Cycling at the 2012 Summer Olympics – Men's team sprint|Men's team sprint]] || {{dts|2 August}}
+|-
+| {{silver medal}} || [[Germain Chardin]]<br />[[Dorian Mortelette]] || [[Rowing at the 2012 Summer Olympics|Rowing]] || [[Rowing at the 2012 Summer Olympics – Men's coxless pair|Men's coxless pair]] || {{dts|3 August}}
+|-
+| {{silver medal}} || [[Michaël Llodra]]<br />[[Jo-Wilfried Tsonga]] || [[Tennis at the 2012 Summer Olympics|Tennis]] || [[Tennis at the 2012 Summer Olympics – Men's doubles|Men's doubles]] || {{dts|4 August}}
+|-
+| {{silver medal}} || [[Bryan Coquard]] || [[Cycling at the 2012 Summer Olympics|Cycling]] || [[Cycling at the 2012 Summer Olympics – Men's omnium|Men's omnium]] || {{dts|5 August}}
+|-
+| {{silver medal}} || [[Mahiedine Mekhissi-Benabbad]] || [[Athletics at the 2012 Summer Olympics|Athletics]] || [[Athletics at the 2012 Summer Olympics – Men's 3000 metres steeplechase|Men's 3000 m steeplechase]] || {{dts|5 August}}
+|-
+| {{silver medal}} || [[Grégory Baugé]] || [[Cycling at the 2012 Summer Olympics|Cycling]] || [[Cycling at the 2012 Summer Olympics – Men's sprint|Men's sprint]] || {{dts|6 August}}
+|-
+| {{silver medal}} || [[Anne-Caroline Graffe]] || [[Taekwondo at the 2012 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2012 Summer Olympics – Women's +67 kg|Women's +67 kg]] || {{dts|11 August}}
+|-
+| {{silver medal}} || [[France women's national basketball team]]{{columns-list|colwidth=10em|small=yes|style=width:22em|{{unbulleted list|[[Isabelle Yacoubou]]|[[Endéné Miyem]]|[[Clémence Beikes]]|[[Sandrine Gruda]]|[[Edwige Lawson-Wade]]|[[Céline Dumerc]]|[[Florence Lepron]]|[[Émilie Gomis]]|[[Marion Laborde]]|[[Élodie Godin]]|[[Emmeline Ndongue]]|[[Jennifer Digbeu]]}}}}
+|| [[Basketball at the 2012 Summer Olympics|Basketball]] || [[Basketball at the 2012 Summer Olympics – Women's tournament|Women's tournament]] || {{dts|11 August}}
+|-
+| {{bronze medal}} || [[Priscilla Gneto]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Women's 52 kg|Women's 52 kg]] || {{dts|29 July}}
+|-
+| {{bronze medal}} || [[Automne Pavia]] || [[Judo at the 2012 Summer Olympics|Judo]] ||[[Judo at the 2012 Summer Olympics – Women's 57 kg|Women's 57 kg]] || {{dts|30 July}}
+|-
+| {{bronze medal}} || [[Ugo Legrand]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Men's 73 kg|Men's 73 kg]] || {{dts|30 July}}
+|-
+| {{bronze medal}} || [[Gévrise Émane]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Women's 63 kg|Women's 63 kg]] || {{dts|31 July}}
+|-
+| {{bronze medal}} || [[Coralie Balmy]]<br />[[Charlotte Bonnet]]<br />[[Ophélie-Cyrielle Étienne]]<br />[[Camille Muffat]]<br />[[Margaux Farrell]]{{ref label|1|1|4}}<br />[[Mylène Lazare]]{{ref label|1|1|5}} || [[Swimming at the 2012 Summer Olympics|Swimming]] || [[Swimming at the 2012 Summer Olympics – Women's 4 × 200 metre freestyle relay|Women's 4 × 200 m freestyle relay]] || {{dts|1 August}}
+|-
+| {{bronze medal}} || [[Audrey Tcheuméo]] || [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Women's 78 kg|Women's 78 kg]] || {{dts|2 August}}
+|-
+| {{bronze medal}} || [[Delphine Réau]] || [[Shooting at the 2012 Summer Olympics|Shooting]] || [[Shooting at the 2012 Summer Olympics – Women's trap|Women's trap]] || {{dts|4 August}}
+|-
+| {{bronze medal}} || [[Julien Benneteau]]<br />[[Richard Gasquet]] || [[Tennis at the 2012 Summer Olympics|Tennis]] || [[Tennis at the 2012 Summer Olympics – Men's doubles|Men's doubles]] || {{dts|4 August}}
+|-
+| {{bronze medal}} || [[Jonathan Lobert]] || [[Sailing at the 2012 Summer Olympics|Sailing]] || [[Sailing at the 2012 Summer Olympics – Finn class|Finn class]] || {{dts|5 August}}
+|-
+| {{bronze medal}} || [[Hamilton Sabot]] || [[Gymnastics at the 2012 Summer Olympics|Gymnastics]] || [[Gymnastics at the 2012 Summer Olympics – Men's parallel bars|Men's parallel bars]] || {{dts|7 August}}
+|-
+| {{bronze medal}} || [[Steeve Guénot]] || [[Wrestling at the 2012 Summer Olympics|Wrestling]] || [[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 66 kg|Men's Greco-Roman 66 kg]] || {{dts|7 August}}
+|-
+| {{bronze medal}} || [[Marlène Harnois]] || [[Taekwondo at the 2012 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2012 Summer Olympics – Women's 57 kg|Women's 57 kg]] || {{dts|9 August}}
+|-
+| {{bronze medal}} || [[Emmanuel Biron]]<br />[[Christophe Lemaitre]]<br />[[Pierre-Alexis Pessonneaux]]<br />[[Ronald Pognon]]<br />[[Jimmy Vicaut]] || [[Athletics at the 2012 Summer Olympics|Athletics]] || [[Athletics at the 2012 Summer Olympics – Men's 4 × 100 metres relay|Men's 4 × 100 m relay]] || {{dts|11 August}}
+|}
+{{reflist|group="n"}}
+1.{{note label|1||1}}{{note label|1||2}}{{note label|1||3}}{{note label|1||4}}{{note label|1||5}}Competed in preliminaries but not the final relay.<br/>
+2.{{note label|2||2}}In May 2014, the US [[Athletics at the 2012 Summer Olympics – Men's 4 × 100 metres relay|4 × 100 metres relay]] team member [[Tyson Gay]] received a one-year suspension for anabolic steroid use and was stripped of his medals after 15 July 2012 when he first used.<ref>[https://www.bbc.com/sport/0/athletics/27264866 Tyson Gay gets one-year ban for failed drugs test]</ref> In May 2015, the IOC wrote to US Olympic Committee telling them to collect the medals from teammates [[Trell Kimmons]], [[Justin Gatlin]], [[Ryan Bailey (athlete)|Ryan Bailey]], [[Jeffery Demps]] and [[Darvis Patton]].<ref>[https://www.bbc.co.uk/sport/athletics/32731015 US stripped of London 2012 Olympic relay medals]</ref> Two of Gay's teammates who ran with him in the final, Kimmons and Bailey, had previously also served suspensions. The medals were reallocated, with [[Trinidad and Tobago]] awarded silver, and France taking bronze.<ref>[http://www.olympic.org/news/usa-men-s-4-x-100m-relay-team-disqualified-from-the-2012-london-olympic-games/245380 USA men’s 4 x 100m relay team disqualified from the 2012 London Olympic Games]</ref><ref>{{Cite web|url=https://www.olympic.org/london-2012/athletics/4x100m-relay-men|title = London 2012 4x100m relay men Results - Olympic athletics}}</ref>
+
+| width="22%" align="left" valign="top" |
+{{Clear}}
+{| class="wikitable" style="font-size:85%"
+|-
+!colspan=5|Medals by sport
+|-align=center
+|'''Sport'''
+| bgcolor=#f7f6a8 | {{gold01}}
+| bgcolor=#dce5e5 | {{silver02}}
+| bgcolor=#ffdab9 | {{bronze03}}
+|'''Total'''
+|-align=center
+|[[#Swimming|Swimming]]
+| style="background:#F7F6A8;" |4
+| style="background:#DCE5E5;" |2
+| style="background:#FFDAB9;" |1
+|'''7'''
+|-align=center
+|[[#Judo|Judo]]
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |5
+|'''7'''
+|-align=center
+|[[#Canoeing|Canoeing]]
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''2'''
+|-align=center
+|[[#Cycling|Cycling]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |0
+|'''4'''
+|-align=center
+|[[#Athletics|Athletics]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |1
+|'''3'''
+|-align=center
+|[[#Handball|Handball]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Shooting|Shooting]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |1
+|'''2'''
+|-align=center
+|[[#Taekwondo|Taekwondo]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |1
+|'''2'''
+|-align=center
+|[[#Tennis|Tennis]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |1
+|'''2'''
+|-align=center
+|[[#Basketball|Basketball]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Rowing|Rowing]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-align=center
+|[[#Sailing|Sailing]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+|[[#Gymnastics|Gymnastics]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+|[[#Wrestling|Wrestling]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+!Total
+! style="background:gold;" |11
+! style="background:silver;" |11
+! style="background:#c96;" |13
+!35
+|}
+[[File:French Olympic team open-top bus 01.JPG|thumb|upright=1.25|Returning French medallists greeted on the [[Champs-Élysées]] on 13 August 2012.]]
+{{col-end}}
+
+== Delegation ==
+The [[French Olympic Committee]] selected a team of 330 athletes, 183 men and 147 women, to compete in 24 different sports; it was the nation's third largest team outside the host nation, and the first with the highest percentage of women in Olympic history. France did not qualify teams in [[Field hockey at the 2012 Summer Olympics|field hockey]], [[Volleyball at the 2012 Summer Olympics|volleyball]] and [[Water polo at the 2012 Summer Olympics|water polo]], but did mark its Olympic return to [[Basketball at the 2012 Summer Olympics – Men's tournament|men's basketball]] after a twelve-year absence.
+
+The French team included past Olympic champions, three of them defending (Greco-Roman wrestler [[Steeve Guenot]], mountain biker [[Julien Absalon]], and the men's national handball team). Equestrian eventing rider [[Denis Mesples]], at age 49, was the oldest athlete of the team, while gymnast [[Anne Kuhm]] was the youngest, at age 15. Pistol shooter and former Olympic gold medalist [[Franck Dumoulin]] made his sixth appearance, having participated at every Summer Olympics since 1992. Épée fencer and multiple-time Olympic medalist [[Laura Flessel-Colovic]], meanwhile, became the first French female athlete to compete at five separate Olympic Games. Because of her repeated successes in fencing, Flessel-Colovic became France's first female flag bearer at the [[2012 Summer Olympics opening ceremony|opening ceremony]] since 1996.
+
+Other notable French athletes included slalom canoer and multiple-time world champion [[Tony Estanguet]], judoka and Olympic bronze medalist [[Teddy Riner]], swimmer and junior European champion [[Yannick Agnel]], pole vaulter and multiple-time European champion [[Renaud Lavillenie]], and basketballer [[Tony Parker]], who had previously played for the [[National Basketball Association|NBA]]'s [[San Antonio Spurs]].
+
+{{col-begin}}
+| width=78% align=left valign=top |
+The following table lists the number of French competitors who participated in each Olympic sport. Note that reserves in fencing, field hockey, football, and handball are not counted as athletes.
+{| class="wikitable sortable" style="text-align:center;"
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Archery at the 2012 Summer Olympics|Archery]]
+| 3 || 1 || 4
+|-
+| align=left|[[Athletics at the 2012 Summer Olympics|Athletics]]
+| 31 || 21 || 52
+|-
+| align=left|[[Badminton at the 2012 Summer Olympics|Badminton]]
+| 1 || 1 || 2
+|-
+| align=left|[[Basketball at the 2012 Summer Olympics|Basketball]]
+| 12 || 12 ||24
+|-
+| align=left|[[Boxing at the 2012 Summer Olympics|Boxing]]
+| 5 || 0 || 5
+|-
+| align=left|[[Canoeing at the 2012 Summer Olympics|Canoeing]]
+| 9 || 5 || 14
+|-
+| align=left|[[Cycling at the 2012 Summer Olympics|Cycling]]
+| 14 || 9 || 23
+|-
+| align=left|[[Diving at the 2012 Summer Olympics|Diving]]
+| 2 || 3 || 5
+|-
+| align=left|[[Equestrian at the 2012 Summer Olympics|Equestrian]]
+| 8 || 2 || 10
+|-
+| align=left|[[Fencing at the 2012 Summer Olympics|Fencing]]
+| 6 || 5 || 11
+|-
+| align=left|[[Football at the 2012 Summer Olympics|Football]]
+| 0 || 18 || 18
+|-
+| align=left|[[Gymnastics at the 2012 Summer Olympics|Gymnastics]]
+| 6 || 6 || 12
+|-
+| align=left|[[Handball at the 2012 Summer Olympics|Handball]]
+| 14 || 14 || 28
+|-
+| align=left|[[Judo at the 2012 Summer Olympics|Judo]]
+| 7 || 7 || 14
+|-
+| align=left|[[Modern pentathlon at the 2012 Summer Olympics|Modern pentathlon]]
+| 1 || 2 || 3
+|-
+| align=left|[[Rowing at the 2012 Summer Olympics|Rowing]]
+| 14 || 0 || 14
+|-
+| align=left|[[Sailing at the 2012 Summer Olympics|Sailing]]
+| 9 || 7 || 16
+|-
+| align=left|[[Shooting at the 2012 Summer Olympics|Shooting]]
+| 8 || 6 || 14
+|-
+| align=left|[[Swimming at the 2012 Summer Olympics|Swimming]]
+| 18 || 13 || 31
+|-
+| align=left|[[Synchronized swimming at the 2012 Summer Olympics|Synchronized swimming]]
+| 0 || 2 || 2
+|-
+| align=left|[[Table tennis at the 2012 Summer Olympics|Table tennis]]
+| 1 || 2 || 3
+|-
+| align=left|[[Taekwondo at the 2012 Summer Olympics|Taekwondo]]
+| 0 || 2 || 2
+|-
+| align=left|[[Tennis at the 2012 Summer Olympics|Tennis]]
+| 5 || 2 || 7
+|-
+| align=left|[[Triathlon at the 2012 Summer Olympics|Triathlon]]
+| 3 || 3 || 6
+|-
+| align=left|[[Weightlifting at the 2012 Summer Olympics|Weightlifting]]
+| 3 || 1 || 4
+|-
+| align=left|[[Wrestling at the 2012 Summer Olympics|Wrestling]]
+| 5 || 1 || 6
+|-class="sortbottom"
+! Total || 183 || 147 || 330
+|}
+{{col-end}}
+
+==Archery==
+{{main article|Archery at the 2012 Summer Olympics}}
+France qualified three archers for the [[Archery at the 2012 Summer Olympics – Men's individual|men's individual event]], an archer for the [[Archery at the 2012 Summer Olympics – Women's individual|women's individual event]] and a team for the [[Archery at the 2012 Summer Olympics – Men's team|men's team event]]:
+
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Thomas Faucheron]]
+|align=left rowspan=3|[[Archery at the 2012 Summer Olympics – Men's individual|Men's individual]]
+|665
+|27
+|{{flagIOCathlete|[[Witthaya Thamwong|Thamwong]]|THA|2012 Summer}} (38)<br />'''W''' 6–0
+|{{flagIOCathlete|[[Gaël Prévost|Prévost]]|FRA|2012 Summer}} (27)<br />'''L''' 3–7
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Romain Girouille]]
+|677
+|9
+|{{flagIOCathlete|[[Nay Myo Aung|Myo Aung]]|MYA|2012 Summer}} (56)<br />'''L''' 5–6
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Gaël Prévost]]
+|679
+|6
+|{{flagIOCathlete|[[Philippe Kouassi|Kouassi]]|CIV|2012 Summer}} (59)<br />'''W''' 6–3
+|{{flagIOCathlete|[[Thomas Faucheron|Faucheron]]|FRA|2012 Summer}} (27)<br />'''W''' 7–3
+|{{flagIOCathlete|[[Viktor Ruban|Ruban]]|UKR|2012 Summer}} (43)<br />'''L''' 4–6
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Thomas Faucheron]]<br />[[Romain Girouille]]<br />[[Gaël Prévost]]
+|align=left|[[Archery at the 2012 Summer Olympics – Men's team|Men's team]]
+|2021
+|2
+|colspan=2 {{n/a}}
+|{{n/a|Bye}}
+|{{flagIOC|MEX|2012 Summer}} (7)<br />'''L''' 212–220
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Bérengère Schuh]]
+|align=left|[[Archery at the 2012 Summer Olympics – Women's individual|Women's individual]]
+|640
+|37
+|{{flagIOCathlete|[[Kaori Kawanaka|Kawanaka]]|JPN|2012 Summer}} (28)<br />'''W''' 6–2
+|{{flagIOCathlete|[[Lin Chia-En|Lin C-E]]|TPE|2012 Summer}} (5)<br />'''W''' 6–5
+|{{flagIOCathlete|[[Choi Hyeonju|Choi H-j]]|KOR|2012 Summer}} (21)<br />'''W''' 6–5
+|{{flagIOCathlete|[[Khatuna Lorig|Lorig]]|USA|2012 Summer}} (4)<br />'''L''' 6–2
+|colspan=3|Did not advance
+|}
+
+==Athletics==
+{{main article|Athletics at the 2012 Summer Olympics}}
+French athletes achieved qualifying standards in the following athletics events (up to a maximum of 3 athletes in each event at the 'A' Standard, and 1 at the 'B' Standard):<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|access-date=4 June 2011}}</ref><ref>{{cite web|title=IAAF Games of the XXX Olympiad – London 2012 ENTRY STANDARDS |url=http://www.iaaf.org/mm/Document/Statistics/Standards/05/97/61/20110415082248_httppostedfile_EntryStandards_London2012_24135.pdf |publisher=IAAF |access-date=4 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110428023134/http://www.iaaf.org/mm/Document/Statistics/Standards/05/97/61/20110415082248_httppostedfile_EntryStandards_London2012_24135.pdf |archive-date=28 April 2011 }}</ref>
+{{smalldiv|1=<nowiki/>
+
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Men
+;Track & road events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Jamale Aarrass]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 1500 metres|1500 m]]
+|3:45.13
+|12
+|colspan=2 {{n/a}}
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Dimitri Bascou]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 110 metres hurdles|110 m hurdles]]
+|13.57
+|4 '''q'''
+|colspan=2 {{n/a}}
+|13.55
+|6
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Pierre-Ambroise Bosse]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 800 metres|800 m]]
+|1:46.03
+|4 '''q'''
+|colspan=2 {{n/a}}
+|1:45.10
+|4
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Florian Carvalho]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 1500 metres|1500 m]]
+|3:37.05
+|7 '''q'''
+|colspan=2 {{n/a}}
+|3:40.61
+|13
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Garfield Darien]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 110 metres hurdles|110 m hurdles]]
+|13.54
+|4 '''q'''
+|colspan=2 {{n/a}}
+|13.48
+|5
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Yohann Diniz]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 50 kilometres walk|50 km walk]]
+|colspan=6 {{n/a}}
+|colspan=2|{{abbr|DSQ|Disqualified}}
+|-align=center
+|align=left|[[Ladji Doucouré]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 110 metres hurdles|110 m hurdles]]
+|13.67
+|4 '''q'''
+|colspan=2 {{n/a}}
+|13.74
+|8
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Hassan Hirt]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 5000 metres|5000 m]]
+|colspan=2|{{abbr|DSQ|Disqualified}}*<ref>{{cite web|last=Petrequin|first=Samuel|title=AP source: French runner Hirt tests positive|url=http://summergames.ap.org/article/ap-source-french-runner-hirt-tests-positive|archive-url=https://archive.today/20130225041809/http://summergames.ap.org/article/ap-source-french-runner-hirt-tests-positive|url-status=dead|archive-date=25 February 2013|publisher=AP|date=10 August 2012|access-date=29 October 2012}}</ref>
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Cédric Houssaye]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 50 kilometres walk|50 km walk]]
+|colspan=6 {{n/a}}
+|3:55:16
+|31
+|-align=center
+|align=left|[[Abraham Kiprotich]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's marathon|Marathon]]
+|colspan=6 {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|[[Yoann Kowal]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 1500 metres|1500 m]]
+|3:41.12
+|3 '''Q'''
+|colspan=2 {{n/a}}
+|3:43.48
+|8
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Christophe Lemaitre]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 200 metres|200 m]]
+|20.34
+|1 '''Q'''
+|colspan=2 {{n/a}}
+|20.03
+|3 '''q'''
+|20.19
+|6
+|-align=center
+|align=left|[[Abdellatif Meftah]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's marathon|Marathon]]
+|colspan=6 {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|'''[[Mahiedine Mekhissi-Benabbad]]'''
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 3000 metres steeplechase|3000 m steeplechase]]
+|8:16.23
+|1 '''Q'''
+|colspan=4 {{n/a}}
+|8:19.08
+|{{silver02}}
+|-align=center
+|align=left rowspan=2|[[Bertrand Moulinet]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 20 kilometres walk|20 km walk]]
+|colspan=6 {{n/a}}
+|1:20:12
+|8
+|-align=center
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 50 kilometres walk|50 km walk]]
+|colspan=6 {{n/a}}
+|3:45:35
+|12
+|-align=center
+|align=left|[[Patrick Tambwé]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's marathon|Marathon]]
+|colspan=6 {{n/a}}
+|colspan=2|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|[[Jimmy Vicaut]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 100 metres|100 m]]
+|colspan=2 {{n/a|Bye}}
+|10.11
+|2 '''Q'''
+|10.16
+|6
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Vincent Zouaoui-Dandrieux]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 3000 metres steeplechase|3000 m steeplechase]]
+|8:36.96
+|8
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|'''[[Emmanuel Biron]]<br />[[Christophe Lemaitre]]<br />[[Pierre-Alexis Pessonneaux]]<br />[[Ronald Pognon]]<br />[[Jimmy Vicaut]]'''
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 4 × 100 metres relay|4 × 100 m relay]]
+|38.15
+|4
+|colspan=4 {{n/a}}
+|38.16
+|{{bronze03}}
+|}
+<small><nowiki>*</nowiki> Tested positive for the blood-booster [[Erythropoietin|EPO]]; the [[IOC]] ordered him to leave the Olympics on 10 August 2012.</small>
+
+[[File:Renaud Lavillenie 2012.jpg|thumb|190px|[[Renaud Lavillenie]] displayed his gold medal in men's pole vault.]]
+;Field events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-align=center
+|align=left|[[Quentin Bigot]]
+|align=left rowspan=2|[[Athletics at the 2012 Summer Olympics – Men's hammer throw|Hammer throw]]
+|72.42
+|24
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Jérôme Bortoluzzi]]
+|74.15
+|14
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Benjamin Compaoré]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's triple jump|Triple jump]]
+|17.06
+|3 '''q'''
+|17.08
+|6
+|-align=center
+|align=left|[[Nicolas Figère]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's hammer throw|Hammer throw]]
+|69.74
+|32
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Mickaël Hanany]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's high jump|High jump]]
+|2.26
+|=8 '''q'''
+|2.20
+|14
+|-align=center
+|align=left|'''[[Renaud Lavillenie]]'''
+|align=left rowspan=2|[[Athletics at the 2012 Summer Olympics – Men's pole vault|Pole vault]]
+|5.65
+|=1 '''q'''
+|5.97 {{OlyR|athletics}}
+|{{gold01}}
+|-align=center
+|align=left|[[Romain Mesnil]]
+|5.60
+|6 '''q'''
+|5.50
+|10
+|-align=center
+|align=left|[[Salim Sdiri]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's long jump|Long jump]]
+|7.71
+|23
+|colspan=2|Did not advance
+|}
+
+;Combined events – [[Athletics at the 2012 Summer Olympics – Men's decathlon|Decathlon]]
+{| class="wikitable" style="font-size:90%"
+!Athlete
+!Event
+! 100 m
+!{{Tooltip| LJ | Long jump }}
+!{{Tooltip| SP | Shot put}}
+!{{Tooltip| HJ | High jump }}
+! 400 m
+!{{Tooltip| 110H | 110 m hurdles}}
+!{{Tooltip| DT | Discus throw}}
+!{{Tooltip| PV | Pole vault}}
+!{{Tooltip| JT | Javelin throw}}
+! 1500 m
+!Final
+!Rank
+|-align=center
+|rowspan=2 align=left|[[Kevin Mayer]]
+!style="font-size:95%"|Result
+|11.32
+|7.17
+|14.05
+|2.05
+|48.76
+|15.59
+|41.20
+|4.70
+|62.41
+|4:23.02
+|rowspan=2|7952
+|rowspan=2|15
+|-align=center
+!style="font-size:95%"|Points
+|791
+|854
+|731
+|850
+|873
+|780
+|689
+|819
+|774
+|791
+|}
+
+;Women
+;Track & road events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Véronique Mang]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 100 metres|100 m]]
+|colspan=2 {{n/a|Bye}}
+|11.41
+|6
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Reïna-Flor Okori]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 100 metres hurdles|100 m hurdles]]
+|13.01
+|2 '''Q'''
+|colspan=2 {{n/a}}
+|colspan=2|{{abbr|DSQ|Disqualified}}
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Myriam Soumaré]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 100 metres|100 m]]
+|colspan=2 {{n/a|Bye}}
+|11.07
+|2 '''Q'''
+|11.13
+|5
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 200 metres|200 m]]
+|22.70
+|2 '''Q'''
+|colspan=2 {{n/a}}
+|22.56
+|3 '''q'''
+|22.63
+|7
+|-align=center
+|align=left|[[Nelly Banco]]<br />[[Johanna Danois]]<br />[[Ayodelé Ikuesan]]<br />[[Lina Jacques-Sébastien]]<br />[[Véronique Mang]]<br />[[Myriam Soumaré]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 4 × 100 metres relay|4 × 100 m relay]]
+|colspan=2|{{abbr|DSQ|Disqualified}}
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Phara Anacharsis]]<br />[[Elea-Mariama Diarra]]<br />[[Marie Gayot]]<br />[[Floria Gueï]]<br />[[Lénora Guion-Firmin]]<br />[[Muriel Hurtis-Houairi]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 4 × 400 metres relay|4 × 400 m relay]]
+|3:25.94
+|3 '''Q'''
+|colspan=4 {{n/a}}
+|3:25.92
+|6
+|}
+
+;Field events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-align=center
+|align=left|[[Vanessa Boslak]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's pole vault|Pole vault]]
+|4.55
+|=7 '''q'''
+|4.30
+|10
+|-align=center
+|align=left|[[Stéphanie Falzon]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's hammer throw|Hammer throw]]
+|71.67
+|11 '''q'''
+|73.06
+|9
+|-align=center
+|align=left|[[Éloyse Lesueur]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's long jump|Long jump]]
+|6.48
+|10 '''q'''
+|6.67
+|8
+|-align=center
+|align=left|[[Marion Lotout]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's pole vault|Pole vault]]
+|4.10
+|=33
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Melanie Melfort]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's high jump|High jump]]
+|1.93
+|=2 '''q'''
+|1.93
+|9
+|-align=center
+|align=left|[[Mélina Robert-Michon]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's discus throw|Discus throw]]
+|62.47
+|12 '''q'''
+|63.98
+|6
+|}
+
+;Combined events – [[Athletics at the 2012 Summer Olympics – Women's heptathlon|Heptathlon]]
+{| class="wikitable" style="font-size:90%"
+!Athlete
+!Event
+!{{Tooltip| 100H | 100 m hurdles}}
+!{{Tooltip| HJ | High jump }}
+!{{Tooltip| SP | Shot put}}
+! 200 m
+!{{Tooltip| LJ | Long jump}}
+!{{Tooltip| JT | Javelin throw}}
+! 800 m
+!Final
+!Rank
+|-align=center
+|rowspan=2 align=left|[[Marisa De Aniceto]]
+!style="font-size:95%"|Result
+|13.74
+|1.71
+|13.09
+|25.26
+|5.76
+|51.98
+|2:16.20
+|rowspan=2|6030
+|rowspan=2|21
+|-align=center
+!style="font-size:95%"|Points
+|1015
+|867
+|733
+|863
+|777
+|899
+|876
+|-align=center
+|rowspan=2 align=left|[[Antoinette Nana Djimou Ida]]
+!style="font-size:95%"|Result
+|12.96
+|1.80
+|14.26
+|24.72
+|6.13
+|55.87
+|2:13.62
+|rowspan=2|6576
+|rowspan=2|6
+|-align=center
+!style="font-size:95%"|Points
+|1130
+|978
+|811
+|913
+|890
+|974
+|912
+|}
+
+==Badminton==
+{{main article|Badminton at the 2012 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Group Stage
+!Elimination
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Brice Leverdez]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCathlete|[[Wong Wing Ki|Wong W K]]|HKG|2012 Summer}}<br />'''L''' 11–21, 16–21
+|{{flagIOCathlete|[[Edwin Ekiring|Ekiring]]|UGA|2012 Summer}}<br />'''W''' 21–12, 21–11
+|2
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Pi Hongyan]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Women's singles|Women's singles]]
+|{{flagIOCathlete|[[Hadia Hosny|Hosny]]|EGY|2012 Summer}}<br />'''W''' 21–11, 21–9
+|{{flagIOCathlete|[[Chloe Magee|Magee]]|IRL|2012 Summer}}<br />'''W''' 16–21, 21–18, 21–14
+|1 '''Q'''
+|{{flagIOCathlete|[[Yip Pui Yin|Yip P Y]]|HKG|2012 Summer}}<br />'''L''' 21–13, 12–21, 16–21
+|colspan=4|Did not advance
+|}
+
+==Basketball==
+{{main article|Basketball at the 2012 Summer Olympics}}
+The [[France national basketball team|French men's basketball team]] qualified for the 2012 Olympics by reaching the final of the [[EuroBasket 2011]]. The French women's team qualified through the [[2012 FIBA World Olympic Qualifying Tournament for Women|World Qualification Tournament]].
+* Men's team event – 1 team of 12 players
+* Women's team event – 1 team of 12 players
+
+===Men's tournament===
+{{main article|Basketball at the 2012 Summer Olympics – Men's tournament}}
+
+;Roster
+{{#section:Basketball at the 2012 Summer Olympics – Men's team rosters|FRA}}
+
+;Group play
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A}}
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A2}}
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A5}}
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A7}}
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A10}}
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|A14}}
+;Quarter-final
+{{#section:Basketball at the 2012 Summer Olympics – Men's tournament|C2}}
+
+===Women's tournament===
+{{main article|Basketball at the 2012 Summer Olympics – Women's tournament}}
+
+;Roster
+{{#section:Basketball at the 2012 Summer Olympics – Women's team rosters|FRA}}
+
+;Group play
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B}}
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B2}}
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B4}}
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B7}}
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B12}}
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|B13}}
+;Quarter-final
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|C4}}
+;Semi-final
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|D2}}
+;Final
+{{#section:Basketball at the 2012 Summer Olympics – Women's tournament|E2}}
+
+==Boxing==
+{{main article|Boxing at the 2012 Summer Olympics}}
+France qualified boxers in the following events:
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Jérémy Beccu]]
+|align=left|[[Boxing at the 2012 Summer Olympics – Men's light flyweight|Light flyweight]]
+|{{flagIOCathlete|[[Birzhan Zhakypov|Zhakypov]]|KAZ|2012 Summer}}<br />'''L''' 17–18
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Nordine Oubaali]]
+|align=left|[[Boxing at the 2012 Summer Olympics – Men's flyweight|Flyweight]]
+|{{flagIOCathlete|[[Ajmal Faisal|Faisal]]|AFG|2012 Summer}}<br />'''W''' 22–9
+|{{flagIOCathlete|[[Rau'shee Warren|Warren]]|USA|2012 Summer}}<br />'''W''' 19–18
+|{{flagIOCathlete|[[Michael Conlan (boxer)|Conlan]]|IRL|2012 Summer}}<br />'''L''' 22–18
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Rachid Azzedine]]
+|align=left|[[Boxing at the 2012 Summer Olympics – Men's lightweight|Lightweight]]
+|{{flagIOCathlete|[[José Ramírez (boxer)|Ramírez]]|USA|2012 Summer}}<br />'''L''' 20–21
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Alexis Vastine]]
+|align=left|[[Boxing at the 2012 Summer Olympics – Men's welterweight|Welterweight]]
+|{{flagIOCathlete|[[Patrick Wojcicki|Wojcicki]]|GER|2012 Summer}}<br />'''W''' 16–12
+|{{flagIOCathlete|[[Byambyn Tüvshinbat|Tüvshinbat]]|MGL|2012 Summer}}<br />'''W''' 13–12
+|{{flagIOCathlete|[[Taras Shelestyuk|Shelestyuk]]|UKR|2012 Summer}}<br />'''L''' 18–18<sup>+</sup>
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Tony Yoka]]
+|align=left|[[Boxing at the 2012 Summer Olympics – Men's super heavyweight|Super heavyweight]]
+|{{n/a}}
+|{{flagIOCathlete|[[Simon Kean|Kean]]|CAN|2012 Summer}}<br />'''L''' 16–16<sup>+</sup>
+|colspan=4|Did not advance
+|}
+
+==Canoeing==
+{{main article|Canoeing at the 2012 Summer Olympics}}
+
+===Slalom===
+France qualified boats for all slalom events:
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Preliminary
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Best
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Étienne Daille]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's slalom K-1|Men's K-1]]
+|90.12
+|7
+|241.73
+|22
+|90.12
+|13 '''Q'''
+|100.55
+|10 '''Q'''
+|101.87
+|7
+|-align=center
+|align=left|'''[[Tony Estanguet]]'''
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's slalom C-1|Men's C-1]]
+|93.24
+|2
+|99.20
+|10
+|93.24
+|7 '''Q'''
+|101.67
+|3 '''Q'''
+|97.06
+|{{gold01}}
+|-align=center
+|align=left|[[Gauthier Klauss]]<br />[[Matthieu Péché]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's slalom C-2|Men's C-2]]
+|96.98
+|1
+|151.03
+|12
+|96.98
+|1 '''Q'''
+|109.27
+|3 '''Q'''
+|109.17
+|4
+|-align=center
+|align=left|'''[[Émilie Fer]]'''
+|align=left|[[Canoeing at the 2012 Summer Olympics – Women's slalom K-1|Women's K-1]]
+|112.77
+|12
+|106.46
+|8
+|106.46
+|10 '''Q'''
+|109.73
+|3 '''Q'''
+|105.90
+|{{gold01}}
+|}
+<gallery widths=180>
+File:Slalom canoeing 2012 Olympics C2 FRA Gauthier Klauss and Matthieu Peche.jpg|[[Gauthier Klauss]] and [[Matthieu Péché]] in C-2 semifinal
+File:Slalom canoeing 2012 Olympics W K1 FRA Emilie Fer.jpg|[[Émilie Fer]] in K-1 semifinal
+</gallery>
+
+===Sprint===
+France qualified boats for the following sprint events:
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Heats
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Maxime Beaumont]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's K-1 200 metres|K-1 200 m]]
+|35.571
+|2 '''Q'''
+|35.814
+|2 '''FA'''
+|36.688
+|4
+|-align=center
+|align=left|[[Cyrille Carré]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's K-1 1000 metres|K-1 1000 m]]
+|3:32.705
+|5 '''Q'''
+|3:38.981
+|8 '''FB'''
+|3:33.513
+|12
+|-align=center
+|align=left rowspan=2|[[Mathieu Goubel]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's C-1 200 metres|C-1 200 m]]
+|41.248 '''OB'''
+|1 '''Q'''
+|41.938
+|2 '''FA'''
+|44.045
+|7
+|-align=center
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's C-1 1000 metres|C-1 1000 m]]
+|3:58.122
+|1 '''Q'''
+|3:51.811
+|1 '''FA'''
+|3:50.758
+|5
+|-align=center
+|align=left|[[Arnaud Hybois]]<br />[[Sébastien Jouve]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Men's K-2 200 metres|K-2 200 m]]
+|32.933
+|3 '''Q'''
+|32.668
+|3 '''FA'''
+|35.012
+|4
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Heats
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Marie Delattre]]<br />[[Sarah Guyot]]<br />[[Joanne Mayer]]<br />[[Gabrielle Tuleu]]
+|align=left|[[Canoeing at the 2012 Summer Olympics – Women's K-4 500 metres|K-4 500 m]]
+|1:40.022
+|3 '''Q'''
+|1:33.303
+|5 '''FA'''
+|1:35.299
+|8
+|}
+<small>Qualification Legend: '''FA''' = Qualify to final (medal); '''FB''' = Qualify to final B (non-medal)</small>
+
+==Cycling==
+{{main article|Cycling at the 2012 Summer Olympics}}
+
+===Road===
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Mickaël Bourgain]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's individual road race|Road race]]
+|colspan=2|Did not finish
+|-align=center
+|rowspan=2 align=left|[[Sylvain Chavanel]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's individual road race|Road race]]
+|5:46:05
+|20
+|-align=center
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's road time trial|Time trial]]
+|56:07.67
+|29
+|-align=center
+|align=left|[[Arnaud Démare]]
+|align=left rowspan=2|[[Cycling at the 2012 Summer Olympics – Men's individual road race|Road race]]
+|5:46;37
+|30
+|-align=center
+|align=left|[[Tony Gallopin]]
+|5:46:37
+|86
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Aude Biannic]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's individual road race|Road race]]
+|3:35:56
+|10
+|-align=center
+|rowspan=2 align=left|[[Audrey Cordon]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's individual road race|Road race]]
+|colspan=2|{{tooltip|OTL|Over time limit}}
+|-align=center
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's road time trial|Time trial]]
+|40:40.51
+|15
+|-align=center
+|align=left|[[Pauline Ferrand-Prévot]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's individual road race|Road race]]
+|3:35:56
+|8
+|}
+
+===Track===
+;Sprint
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!Round 1
+!Repechage 1
+!Round 2
+!Repechage 2
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time<br />Speed (km/h)
+!Rank
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Rank
+|- align=center
+|align=left|'''[[Grégory Baugé]]'''
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's sprint|Men's sprint]]
+|9.952<br />72.347
+|2
+|{{flagIOCathlete|[[Zafeiris Volikakis|Volkakis]]|GRE|2012 Summer}}<br />'''W''' {{abbr|DSQ|Disqualified}}
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Seiichiro Nakagawa|Nakagawa]]|JPN|2012 Summer}}<br />'''W''' 10.490<br />68.636
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Robert Förstemann|Förstemann]]|GER|2012 Summer}}<br />'''W''' 10.490, '''W''' 10.300
+|{{flagIOCathlete|[[Shane Perkins|Perkins]]|AUS|2012 Summer}}<br />'''W''' 10.358, '''W''' 10.268
+|{{flagIOCathlete|[[Jason Kenny|Kenny]]|GBR|2012 Summer}}<br />'''L''', '''L'''
+|{{silver02}}
+|-align=center
+|align=left|[[Virginie Cueff]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's sprint|Women's sprint]]
+|11.439<br />62.942
+|15
+|{{flagIOCathlete|[[Kristina Vogel|Vogel]]|GER|2012 Summer}}<br />'''L'''
+|{{flagIOCathlete|[[Willy Kanis|Kanis]]|NED|2012 Summer}}<br />{{flagIOCathlete|[[Daniela Larreal|Larreal]]|VEN|2012 Summer}}<br />'''L'''
+|colspan=6|Did not advance
+|}
+
+;Team sprint
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time<br />Speed (km/h)
+!Rank
+!Opposition<br />Time<br />Speed (km/h)
+!Rank
+!Opposition<br />Time<br />Speed (km/h)
+!Rank
+|- align=center
+|align=left|'''[[Grégory Baugé]]<br />[[Michaël D'Almeida]] <br /> [[Kévin Sireau]]'''
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's team sprint|Men's team sprint]]
+|43.097<br />62.649
+|2 '''Q'''
+|{{flagIOC|NZL|2012 Summer}}<br />'''W''' 42.991<br />62.803
+|2 '''Q'''
+|{{flagIOC|GBR|2012 Summer}}<br />'''L''' 43.013<br />62.771
+|{{silver02}}
+|-align=center
+|align=left|[[Sandie Clair]]<br />[[Virginie Cueff]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's team sprint|Women's team sprint]]
+|33.638<br />53.510
+|6 '''Q'''
+|{{flagIOC|GER|2012 Summer}}<br />'''L''' 33.707<br />53.401
+|6
+|colspan=2|Did not advance
+|}
+
+;Keirin
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!1st round
+!Repechage
+!2nd round
+!Final
+|-style="font-size:95%"
+!Rank
+!Rank
+!Rank
+!Rank
+|-align=center
+|align=left|[[Mickaël Bourgain]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's keirin|Men's keirin]]
+|1 '''Q'''
+|{{n/a|Bye}}
+|4
+|8
+|-align=center
+|align=left|[[Clara Sanchez (cyclist)|Clara Sanchez]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's keirin|Women's keirin]]
+|6
+|1 '''Q'''
+|2 '''Q'''
+|4
+|}
+
+;Omnium
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Flying lap
+!colspan=2|Points race
+!Elimination race
+!colspan=2|Individual pursuit
+!Scratch race
+!colspan=2|Time trial
+!rowspan=2|Total points
+!rowspan=2|Rank
+|-style="font-size:95%"
+!Time
+!Rank
+!Points
+!Rank
+!Rank
+!Time
+!Rank
+!Rank
+!Time
+!Rank
+|- align=center
+| align=left|'''[[Bryan Coquard]]'''
+| align=left|[[Cycling at the 2012 Summer Olympics – Men's omnium|Men's omnium]]
+|13.347
+|5
+|51
+|4
+|1
+|4:30.780
+|12
+|3
+|1:03.078
+|4
+|29
+|{{silver02}}
+|- align=center
+| align=left|[[Clara Sanchez (cyclist)|Clara Sanchez]]
+| align=left|[[Cycling at the 2012 Summer Olympics – Women's omnium|Women's omnium]]
+|14.058
+|2
+|0
+|18
+|13
+|3:56.800
+|18
+|18
+|35.451
+|3
+|72
+|14
+|}
+
+===Mountain biking===
+[[File:MTB cycling 2012 Olympics M cross-country FRA Julien Absalon.jpg|thumb|[[Julien Absalon]] abandoned men's cross-country race due to punctured tyre]]
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Julien Absalon]]
+|align=left rowspan=3|[[Cycling at the 2012 Summer Olympics – Men's cross-country|Men's cross-country]]
+|colspan=2|Did not finish
+|-align=center
+|align=left|[[Jean-Christophe Péraud]]
+|1:37:07
+|29
+|-align=center
+|align=left|[[Stéphane Tempier]]
+|1:31:30
+|11
+|-align=center
+|align=left|'''[[Julie Bresset]]'''
+|align=left rowspan=2|[[Cycling at the 2012 Summer Olympics – Women's cross-country|Women's cross-country]]
+|1:30:52
+|{{gold01}}
+|-align=center
+|align=left|[[Pauline Ferrand-Prévot]]
+|1:42:21
+|26
+|}
+
+===BMX===
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Seeding
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Quentin Caleyron]]
+|align=left rowspan=3|[[Cycling at the 2012 Summer Olympics – Men's BMX|Men's BMX]]
+|38.637
+|9
+|19
+|3 '''q'''
+|18
+|6
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Joris Daudet]]
+|38.221
+|2
+|7
+|2 '''Q'''
+|16
+|6
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Moana Moo-Caille]]
+|40.015
+|28
+|23
+|6
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Laëtitia Le Corguillé]]
+|align=left rowspan=2|[[Cycling at the 2012 Summer Olympics – Women's BMX|Women's BMX]]
+|38.976
+|4
+|colspan=2 {{n/a}}
+|15
+|4 '''Q'''
+|38.476
+|4
+|-align=center
+|align=left|[[Magalie Pottier]]
+|39.778
+|7
+|colspan=2 {{n/a}}
+|6
+|2 '''Q'''
+|39.393
+|7
+|}
+
+==Diving==
+{{main article|Diving at the 2012 Summer Olympics}}
+France qualified five quota places for the diving events:
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Damien Cely]]
+|align=left rowspan=2|[[Diving at the 2012 Summer Olympics – Men's 3 metre springboard|3 m springboard]]
+|413.30
+|22
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Matthieu Rosset]]
+|445.15
+|13 '''Q'''
+|422.50
+|15
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Fanny Bouvet]]
+|align=left rowspan=2|[[Diving at the 2012 Summer Olympics – Women's 3 metre springboard|3 m springboard]]
+|257.10
+|26
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Marion Farissier]]
+|248.70
+|27
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Audrey Labeau]]
+|align=left|[[Diving at the 2012 Summer Olympics – Women's 10 metre platform|10 m platform]]
+|261.05
+|24
+|colspan=4|Did not advance
+|}
+
+==Equestrian==
+{{main article|Equestrian at the 2012 Summer Olympics}}
+
+===Dressage===
+France qualified a single quota by rankings:
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Grand Prix
+!colspan="2"|Grand Prix Special
+!colspan="2"|Grand Prix Freestyle
+!colspan="2"|Overall
+|-style="font-size:95%"
+!Score
+!Rank
+!Score
+!Rank
+!Technical
+!Artistic
+!Score
+!Rank
+|-align=center
+|align=left|[[Jessica Michel]]
+|align=left|Riwera de Hus
+|align=left|[[Equestrian at the 2012 Summer Olympics – Individual dressage|Individual]]
+|70.410
+|28 '''Q'''
+|68.810
+|31
+|colspan=4|Did not advance
+|}
+
+===Eventing===
+France qualified one team and five quota places in the individual event after finishing in second place at the [[European Eventing Championship|2011 European Eventing Championships]].<ref name="luhmühlen2011">{{cite web|title=TEAM STANDINGS|url=http://www.luhmuehlen.de/files/EM_Ergebnisse/ch-eu_010_ermanspr.pdf|date=28 August 2011|publisher=FEI|access-date=28 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20111001041642/http://www.luhmuehlen.de/files/EM_Ergebnisse/ch-eu_010_ermanspr.pdf|archive-date=1 October 2011}}</ref>
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="3"|Athlete
+!rowspan="3"|Horse
+!rowspan="3"|Event
+!colspan="2" rowspan="2"|Dressage
+!colspan="3" rowspan="2"|Cross-country
+!colspan="6"|Jumping
+!colspan="2" rowspan="2"|Total
+|-style="font-size:95%"
+!colspan="3"|Qualifier
+!colspan="3"|Final
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+|-align=center
+|align=left|[[Lionel Guyon]]
+|align=left|Nemetis de Lalou
+|align=left rowspan=5|[[Equestrian at the 2012 Summer Olympics – Individual eventing|Individual]]
+|50.90
+|38
+|20.00
+|70.90
+|38
+|0.00
+|70.90
+|28 '''Q'''
+|21.00
+|91.90
+|24
+|91.90
+|24
+|-align=center
+|align=left|[[Aurélien Kahn]]
+|align=left|Cádiz
+|55.90
+|54
+|39.60
+|95.50
+|49
+|7.00
+|102.50
+|45
+|colspan=3|Did not advance
+|102.50
+|45
+|-align=center
+|align=left|[[Denis Mesples]]
+|align=left|Oregon de la Vigne
+|61.50
+|66
+|46.00
+|107.50
+|=51
+|19.00
+|126.50
+|50
+|colspan=3|Did not advance
+|126.50
+|50
+|-align=center
+|align=left|[[Donatien Schauly]]
+|align=left|Ocarina du Chanois
+|44.40
+|20
+|7.20
+|51.60
+|=18
+|colspan=8|Withdrew
+|-align=center
+|align=left|[[Nicolas Touzaint]]
+|align=left|Hildago de l'ille
+|47.60
+|=27
+|7.60
+|55.20
+|27
+|2.00
+|57.20
+|21 '''Q'''
+|7.00
+|64.20
+|17
+|64.20
+|17
+|-align=center
+|align=left|[[Lionel Guyon]]<br />[[Aurélien Kahn]]<br />[[Denis Mesples]]<br />[[Donatien Schauly]]<br />[[Nicolas Touzaint]]
+|align=left|''See above''
+|align=left|[[Equestrian at the 2012 Summer Olympics – Team eventing|Team]]
+|142.90
+|9
+|34.80
+|177.70
+|7
+|52.90
+|230.60
+|8
+|colspan=3 {{n/a}}
+|230.60
+|8
+|}
+
+===Show jumping===
+France qualified one team and four quota places in the individual event after finishing in second place at the [[2010 FEI World Equestrian Games|World Equestrian Games]].
+{| class="wikitable" style="font-size:90%"
+!rowspan="3"|Athlete
+!rowspan="3"|Horse
+!rowspan="3"|Event
+!colspan="8"|Qualification
+!colspan="5"|Final
+!rowspan=2 colspan="2"|Total
+|-style="font-size:95%"
+!colspan="2"|Round 1
+!colspan="3"|Round 2
+!colspan="3"|Round 3
+!colspan="2"|Round A
+!colspan="3"|Round B
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+|-align=center
+|align=left|[[Simon Delestre]]
+|align=left|Napoli du Ry
+|align=left rowspan=4|[[Equestrian at the 2012 Summer Olympics – Individual jumping|Individual]]
+|0
+|=1 '''Q'''
+|6
+|6
+|30 '''Q'''
+|8
+|14
+|32 '''Q'''
+|4
+|=11 '''Q'''
+|8
+|12
+|19
+|12
+|19
+|-align=center
+|align=left|Olivier Guillon
+|align=left|Lord de Theize
+|4
+|=42 '''Q'''
+|4
+|8
+|=31 '''Q'''
+|8
+|16
+|=33 '''Q'''
+|0
+|=1 '''Q'''
+|9
+|9
+|=12
+|9
+|=12
+|-align=center
+|align=left|[[Pénélope Leprevost]]
+|align=left|Mylord Carthago
+|1
+|=33 '''Q'''
+|8
+|9
+|=47
+|colspan=8|Did not advance
+|9
+|=47
+|-align=center
+|align=left|[[Kevin Staut]]
+|align=left|Silvana
+|0
+|=1 '''Q'''
+|4
+|4
+|=17 '''Q'''
+|4
+|8
+|=11 '''Q'''
+|16
+|34
+|colspan=3|Did not advance
+|16
+|34
+|-align=center
+|align=left|[[Simon Delestre]]<br />Olivier Guillon<br />[[Pénélope Leprevost]]<br />[[Kevin Staut]]
+|align=left|''See above''
+|align=left|[[Equestrian at the 2012 Summer Olympics – Team jumping|Team]]
+|colspan=8 {{n/a}}
+|14
+|12
+|colspan=3|Did not advance
+|14
+|12
+|}
+
+==Fencing==
+{{Main article|Fencing at the 2012 Summer Olympics}}
+France qualified 11 fencers.
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|-align=center
+|align=left|[[Yannick Borel]]
+|align=left rowspan=2|[[Fencing at the 2012 Summer Olympics – Men's épée|Individual épée]]
+|{{n/a}}
+|{{flagIOCathlete|[[Dmytro Karyuchenko|Karyuchenko]]|UKR|2012 Summer}}<br />'''W''' 15–10
+|{{flagIOCathlete|[[Fabian Kauter|Kauter]]|SUI|2012 Summer}}<br />'''W''' 15–11
+|{{flagIOCathlete|[[Bartosz Piasecki|Piasecki]]|NOR|2012 Summer}}<br />'''L''' 14–15
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Gauthier Grumier]]
+|{{n/a}}
+|{{flagIOCathlete|[[Bartosz Piasecki|Piasecki]]|NOR|2012 Summer}}<br />'''L''' 13–14
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Erwann Le Péchoux]]
+|align=left rowspan=3|[[Fencing at the 2012 Summer Olympics – Men's foil|Individual foil]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Enzo Lefort|Lefort]]|FRA|2012 Summer}}<br />'''W''' 15–9
+|{{flagIOCathlete|[[Choi Byung-chul|Choi B-c]]|KOR|2012 Summer}}<br />'''L''' 13–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Enzo Lefort]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Erwann Le Péchoux|Le Péchoux]]|FRA|2012 Summer}}<br />'''L''' 9–15
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Victor Sintès]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Kenta Chida|Chida]]|JPN|2012 Summer}}<br />'''W''' 15–11
+|{{flagIOCathlete|[[Lei Sheng|Lei S]]|CHN|2012 Summer}}<br />'''L''' 6–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Erwann Le Péchoux]]<br />[[Enzo Lefort]]<br />[[Marcel Marcilloux]]<br />[[Victor Sintès]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Men's team foil|Team foil]]
+|colspan=3 {{n/a}}
+|{{flagIOC|USA|2012 Summer}}<br />'''L''' 39–45
+|''Classification semi-final''<br />{{flagIOC|GBR|2012 Summer}}<br />'''L''' 29–45
+|''7th place final''<br />{{flagIOC|CHN|2012 Summer}}<br />'''L''' 33–45
+|8
+|-align=center
+|align=left|[[Boladé Apithy]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Men's sabre|Individual sabre]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Aliaksandr Buikevich|Buikevich]]|BLR|2012 Summer}}<br />'''L''' 11–15
+|colspan=5|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|-align=center
+|align=left|[[Laura Flessel-Colovic]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Women's épée|Individual épée]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Courtney Hurley|Hurley]]|USA|2012 Summer}}<br />'''W''' 15–12
+|{{flagIOCathlete|[[Simona Gherman|Gherman]]|ROM|2012 Summer}}<br />'''L''' 13–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Astrid Guyart]]
+|align=left rowspan=3|[[Fencing at the 2012 Summer Olympics – Women's foil|Individual foil]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Eman Gaber|Gaber]]|EGY|2012 Summer}}<br />'''W''' 15–2
+|{{flagIOCathlete|[[Ines Boubakri|Boubakri]]|TUN|2012 Summer}}<br />'''L''' 5–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Corinne Maîtrejean]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Natalia Sheppard|Sheppard]]|GBR|2012 Summer}}<br />'''W''' 15–5
+|{{flagIOCathlete|[[Chieko Sugawara|Sugawara]]|JPN|2012 Summer}}<br />'''L''' 9–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Ysaora Thibus]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Inna Deriglazova|Deriglazova]]|RUS|2012 Summer}}<br />'''W''' 15–8
+|{{flagIOCathlete|[[Kanae Ikehata|Ikehata]]|JPN|2012 Summer}}<br />'''L''' 11–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Anita Blaze]]<br />[[Astrid Guyart]]<br />[[Corinne Maîtrejean]]<br />[[Ysaora Thibus]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Women's team foil|Team foil]]
+|colspan=3 {{n/a}}
+|{{flagIOC|POL|2012 Summer}}<br />'''W''' 42–31
+|{{flagIOC|ITA|2012 Summer}}<br />'''L''' 31–45
+|{{flagIOC|KOR|2012 Summer}}<br />'''L''' 32–45
+|4
+|-align=center
+|align=left|[[Léonore Perrus]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Women's sabre|Individual sabre]]
+|{{n/a}}
+|{{flagIOCathlete|[[Seira Nakayama|Nakayama]]|JPN|2012 Summer}}<br />'''L''' 12–15
+|colspan=5|Did not advance
+|}
+
+==Football==
+{{main article|Football at the 2012 Summer Olympics – Women's tournament}}
+* Women's team event – 1 team of 18 players
+
+===Women's tournament===
+{{main article|Football at the 2012 Summer Olympics – Women's tournament}}
+;Roster
+{{#section:Football at the 2012 Summer Olympics – Women's team squads|FRA}}
+;Group play
+{{#section:Football at the 2012 Summer Olympics – Women's tournament – Group G|Standings}}
+{{#section:Football at the 2012 Summer Olympics – Women's tournament – Group G|G1}}
+----
+{{#section:Football at the 2012 Summer Olympics – Women's tournament – Group G|G4}}
+----
+{{#section:Football at the 2012 Summer Olympics – Women's tournament – Group G|G6}}
+;Quarter-final
+{{#lst:Football at the 2012 Summer Olympics – Women's tournament – Knockout stage|H1}}
+;Semi-final
+{{#lst:Football at the 2012 Summer Olympics – Women's tournament – Knockout stage|I1}}
+;Bronze medal game
+{{#lst:Football at the 2012 Summer Olympics – Women's tournament – Knockout stage|J1}}
+
+== Gymnastics ==
+{{main article|Gymnastics at the 2012 Summer Olympics}}
+
+===Artistic===
+;Men
+;Team
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan =8|Qualification
+!colspan =8|Final
+|-style="font-size:95%"
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+|-align=center
+|align=left|[[Pierre-Yves Bény]]
+|align=left rowspan=6|[[Gymnastics at the 2012 Summer Olympics – Men's artistic team all-around|Team]]
+|14.433
+|13.566
+|14.266
+|14.933
+|14.700
+|colspan=3 {{n/a}}
+|14.333
+|15.033
+|14.466
+|14.566
+|14.591
+|13.266
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Yann Cucherat]]
+|colspan=4 {{n/a}}
+|14.900
+|14.366
+|colspan=2 {{n/a}}
+|colspan=6|Did not compete
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Gaël Da Silva]]
+|15.400
+|{{n/a}}
+|14.366
+|15.366
+|{{n/a}}
+|14.966
+|colspan=2 {{n/a}}
+|15.200
+|{{n/a}}
+|14.633
+|15.466
+|{{n/a}}
+|14.766
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Hamilton Sabot]]
+|{{n/a}}
+|14.033
+|14.533
+|{{n/a}}
+|15.366 '''Q'''
+|14.866
+|colspan=2 {{n/a}}
+|{{n/a}}
+|14.766
+|14.333
+|{{n/a}}
+|15.566
+|14.883
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Cyril Tommasone]]
+|14.500
+|15.333 '''Q'''
+|14.166
+|15.466
+|15.100
+|14.133
+|88.698
+|14 '''Q'''
+|14.533
+|15.466
+|{{n/a}}
+|14.441
+|15.133
+|colspan=3 {{n/a}}
+|-align=center
+|align=left|'''Total'''
+|44.333
+|42.932
+|43.165
+|45.765
+|45.366
+|44.198
+|265.759
+|8 '''Q'''
+|44.066
+|45.265
+|43.432
+|44.473
+|45.290
+|42.915
+|265.441
+|8
+|}
+
+;Individual finals
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan =6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+|-align=center
+|align=left|'''[[Hamilton Sabot]]'''
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Men's parallel bars|Parallel bars]]
+|colspan=4 {{n/a}}
+|15.566
+|{{n/a}}
+|15.566
+|{{bronze03}}
+|-align=center
+|align=left rowspan=2|[[Cyril Tommasone]]
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Men's artistic individual all-around|All-around]]
+|13.500
+|15.333
+|14.400
+|15.358
+|15.000
+|14.066
+|87.657
+|16
+|-align=center
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Men's pommel horse|Pommel horse]]
+|{{n/a}}
+|15.141
+|colspan=4 {{n/a}}
+|15.141
+|5
+|}
+
+;Women
+;Team
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|- style="font-size:95%"
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+!{{Tooltip| F | Floor}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+|-align=center
+|align=left|[[Mira Boumejmajen]]
+|align=left rowspan=6|[[Gymnastics at the 2012 Summer Olympics – Women's artistic team all-around|Team]]
+|12.933
+|{{n/a}}
+|13.300
+|12.966
+|colspan=2 {{n/a}}
+|rowspan=6 colspan=6|Did not advance
+|-align=center
+|align=left|[[Youna Dufournet]]
+|{{n/a}}
+|14.166
+|12.966
+|14.200
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Anne Kuhm]]
+|13.533
+|14.466
+|13.533
+|12.566
+|54.098
+|29
+|-align=center
+|align=left|[[Aurélie Malaussena]]
+|13.366
+|14.033
+|13.300
+|13.700
+|54.399
+|25 '''Q'''
+|-align=center
+|align=left|[[Sophia Serseri]]
+|12.933
+|14.133
+|colspan=4 {{n/a}}
+|-align=center
+|align=left|'''Total'''
+|39.832
+|42.765
+|41.333
+|40.866
+|164.796
+|11
+|}
+
+;Individual finals
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan =4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+|-align=center
+|align=left|[[Aurélie Malaussena]]
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Women's artistic individual all-around|All-around]]
+|13.800
+|12.800
+|12.066
+|11.500
+|50.166
+|23
+|}
+
+===Rhythmic===
+{| class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|-style="font-size:95%"
+!Hoop
+!Ball
+!Clubs
+!Ribbon
+!Total
+!Rank
+!Hoop
+!Ball
+!Clubs
+!Ribbon
+!Total
+!Rank
+|-align=center
+|align=left|[[Delphine Ledoux]]
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Women's rhythmic individual all-around|Individual]]
+|27.150
+|27.100
+|27.250
+|26.675
+|108.175
+|13
+|colspan=6|Did not advance
+|}
+
+===Trampoline===
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Score
+!Rank
+!Score
+!Rank
+|-align=center
+|align=left|[[Grégroire Pennes]]
+|align=left|[[Gymnastics at the 2012 Summer Olympics – Men's trampoline|Men's]]
+|107.539
+|7 '''Q'''
+|58.805
+|7
+|}
+
+==Handball==
+{{main article|Handball at the 2012 Summer Olympics}}
+[[France men's national handball team|France]] participated in the 2012 Olympics as the defending [[2011 World Men's Handball Championship|world men's handball champion]], and successfully defended its gold medal from the [[2008 Summer Olympics]].<ref>{{cite web|title=2012 Olympic Qual (Men)
+|url=http://teamhandballnews.com/2012-olympic-qual-men/|publisher=Team Handball News|access-date=2 June 2011}}</ref> The French women's team qualified through the World Qualification Tournament.
+* Men's team event – 1 team of 14 players
+* Women's team event – 1 team of 14 players
+
+===Men's tournament===
+{{main article|Handball at the 2012 Summer Olympics – Men's tournament}}
+
+{{#section:Handball at the 2012 Summer Olympics – Men's team rosters|FRA}}
+
+;Group play
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A}}
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A3}}
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A6}}
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A7}}
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A12}}
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|A15}}
+;Quarter-final
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|C3}}
+;Semi-final
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|D2}}
+;Final
+{{#section:Handball at the 2012 Summer Olympics – Men's tournament|E2}}
+
+===Women's tournament===
+{{main article|Handball at the 2012 Summer Olympics – Women's tournament}}
+
+{{#section:Handball at the 2012 Summer Olympics – Women's team rosters|FRA}}
+
+;Group play
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B}}
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B3}}
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B5}}
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B8}}
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B10}}
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|B15}}
+;Quarter-final
+{{#section:Handball at the 2012 Summer Olympics – Women's tournament|C4}}
+
+==Judo==
+{{main article|Judo at the 2012 Summer Olympics}}
+
+;Men
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Sofiane Milous]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 60 kg|−60 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Betkili Shukvani|Shukvani]]|GEO|2012 Summer}}<br />'''W''' 0100–0001
+|{{flagIOCathlete|[[Tony Lomo|Lomo]]|SOL|2012 Summer}}<br />'''W''' 0020–0001
+|{{flagIOCathlete|[[Hiroaki Hiraoka|Hiraoka]]|JPN|2012 Summer}}<br />'''L''' 0010–0012
+|Did not advance
+|{{flagIOCathlete|[[Hovhannes Davtyan (judoka)|Davtyan]]|ARM|2012 Summer}}<br />'''W''' 0010–0002
+|{{flagIOCathlete|[[Rishod Sobirov|Sobirov]]|UZB|2012 Summer}}<br />'''L''' 0003–0100
+|5
+|-align=center
+|align=left|[[David Larose]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 66 kg|−66 kg]]
+|{{flagIOCathlete|[[Golan Pollack|Pollack]]|ISR|2012 Summer}}<br />'''W''' 0001–0000
+|{{flagIOCathlete|[[Dan Fâșie|Fâșie]]|ROU|2012 Summer}}<br />'''W''' 0100–0000
+|{{flagIOCathlete|[[Lasha Shavdatuashvili|Shavdatuashvili]]|GEO|2012 Summer}}<br />'''L''' 0001–0100
+|colspan=5|Did not advance
+|-align=center
+|align=left|'''[[Ugo Legrand]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 73 kg|−73 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Tomasz Adamiec|Adamiec]]|POL|2012 Summer}}<br />'''W''' 0010–0000
+|{{flagIOCathlete|[[Hussein Hafiz|Hafiz]]|EGY|2012 Summer}}<br />'''W''' 0100–0104
+|{{flagIOCathlete|[[Dex Elmont|Elmont]]|NED|2012 Summer}}<br />'''L''' 0030–0000
+|Did not advance
+|{{flagIOCathlete|[[Rasul Boqiev|Boqiev]]|TJK|2012 Summer}}<br />'''W''' 0010–0002
+|{{flagIOCathlete|[[Wang Ki-chun|Wang K-c]]|KOR|2012 Summer}}<br />'''W''' 0101–0001
+|{{bronze03}}
+|-align=center
+|align=left|[[Alain Schmitt]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 81 kg|−81 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Guillaume Elmont|Elmont]]|NED|2012 Summer}}<br />'''W''' 0000–0001
+|{{flagIOCathlete|[[Emmanuel Lucenti|Lucenti]]|ARG|2012 Summer}}<br />'''L''' 0000–1000
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Romain Buffet]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 90 kg|−90 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Karolis Bauža|Bauža]]|LTU|2012 Summer}}<br />'''L''' 0010–0100
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Thierry Fabre]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 100 kg|−100 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Ramadan Darwish|Darwish]]|EGY|2012 Summer}}<br />'''W''' 0011–0002
+|{{flagIOCathlete|[[Naidangiin Tüvshinbayar|Naidangiin]]|MGL|2012 Summer}}<br />'''L''' 0000–0100
+|colspan=5|Did not advance
+|-align=center
+|align=left|'''[[Teddy Riner]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Men's +100 kg|+100 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Janusz Wojnarowicz|Wojnarowicz]]|POL|2012 Summer}}<br />'''W''' 0010–0003
+|{{flagIOCathlete|[[Faicel Jaballah|Jaballah]]|TUN|2012 Summer}}<br />'''W''' 0101–0002
+|{{flagIOCathlete|[[Óscar Brayson|Brayson]]|CUB|2012 Summer}}<br />'''W''' 0100–0001
+|{{flagIOCathlete|[[Kim Sung-Min (judoka)|Kim S-M]]|KOR|2012 Summer}}<br />'''W''' 0010–0003
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Aleksandr Mikhailine|Mikhailine]]|RUS|2012 Summer}}<br />'''W''' 0101–0003
+|{{gold01}}
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Laëtitia Payet]]
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 48 kg|−48 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Sarah Menezes|Menezes]]|BRA|2012 Summer}}<br />'''L''' 0001–0000
+|colspan=5|Did not advance
+|-align=center
+|align=left|'''[[Priscilla Gneto]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 52 kg|−52 kg]]
+|{{flagIOCathlete|[[He Hongmei|He Hm]]|CHN|2012 Summer}}<br />'''W''' 0111–0012
+|{{flagIOCathlete|[[Joana Ramos|Ramos]]|POR|2012 Summer}}<br />'''W''' 1001–0000
+|{{flagIOCathlete|[[An Kum-ae|An K-a]]|PRK|2012 Summer}}<br />'''L''' 0013–0102
+|Did not advance
+|{{flagIOCathlete|[[Kim Kyung-Ok|Kim K-o]]|KOR|2012 Summer}}<br />'''W''' 0021–0002
+|{{flagIOCathlete|[[Ilse Heylen|Heylen]]|BEL|2012 Summer}}<br />'''W''' 1012–0012
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Automne Pavia]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 57 kg|−57 kg]]
+|{{flagIOCathlete|[[Sarah Clark (judoka)|Clark]]|GBR|2012 Summer}}<br />'''W''' 0100–0000
+|{{flagIOCathlete|[[Carli Renzi|Renzi]]|AUS|2012 Summer}}<br />'''W''' 0150–0000
+|{{flagIOCathlete|[[Sabrina Filzmoser|Filzmoser]]|AUT|2012 Summer}}<br />'''W''' 0030–0000
+|{{flagIOCathlete|[[Kaori Matsumoto|Matsumoto]]|JPN|2012 Summer}}<br />'''L''' 0000–0010
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Hedvig Karakas|Karakas]]|HUN|2012 Summer}}<br />'''W''' 0011–0002
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Gévrise Émane]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 63 kg|−63 kg]]
+|{{flagIOCathlete|[[Gemma Howell|Howell]]|GBR|2012 Summer}}<br />'''W''' 1000–0000
+|{{flagIOCathlete|[[Yaritza Abel|Abel]]|CUB|2012 Summer}}<br />'''W''' 0001–0001
+|{{flagIOCathlete|[[Munkhzaya Tsedevsuren|Tsedevsuren]]|MGL|2012 Summer}}<br />'''L''' 0001–0001
+|Did not advance
+|{{flagIOCathlete|[[Alice Schlesinger|Schlesinger]]|ISR|2012 Summer}}<br />'''W''' 0010–0002
+|{{flagIOCathlete|[[Joung Da-Woon|Joung D-w]]|KOR|2012 Summer}}<br />'''W''' 0000–0000 {{abbr|YUS|Decision}}
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Lucie Décosse]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 70 kg|−70 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Kelita Zupancic|Zupancic]]|CAN|2012 Summer}}<br />'''W''' 1001–0001
+|{{flagIOCathlete|[[Yuri Alvear|Alvear]]|COL|2012 Summer}}<br />'''W''' 1000–0000
+|{{flagIOCathlete|[[Hwang Ye-Sul|Hwang Y-s]]|KOR|2012 Summer}}<br />'''W''' 0001–0000
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Kerstin Thiele|Thiele]]|GER|2012 Summer}}<br />'''W''' 0120–0000
+|{{gold01}}
+|-align=center
+|align=left|'''[[Audrey Tcheuméo]]'''
+|align=left|[[Judo at the 2012 Summer Olympics – Women's 78 kg|−78 kg]]
+|{{flagIOCathlete|[[Amy Cotton|Cotton]]|CAN|2012 Summer}}<br />'''W''' 0001–0001 {{abbr|YUS|Decision}}
+|{{flagIOCathlete|[[Maryna Pryshchepa|Pryshchepa]]|UKR|2012 Summer}}<br />'''W''' 0100–0000
+|{{flagIOCathlete|[[Yang Xiuli|Yang X]]|CHN|2012 Summer}}<br />'''W''' 0101–0001
+|{{flagIOCathlete|[[Gemma Gibbons|Gibbons]]|GBR|2012 Summer}}<br />'''L''' 0000–1000
+|Did not advance
+|{{flagIOCathlete|[[Abigél Joó|Joó]]|HUN|2012 Summer}}<br />'''W''' 1000–0001
+|{{bronze03}}
+|-align=center
+|align=left|[[Anne-Sophie Mondière]]
+|align=left|[[Judo at the 2012 Summer Olympics – Women's +78 kg|+78 kg]]
+|{{flagIOCathlete|[[Maria Suelen Altheman|Altheman]]|BRA|2012 Summer}}<br />'''L''' 0000–0101
+|colspan=6|Did not advance
+|}
+
+==Modern pentathlon==
+{{main article|Modern pentathlon at the 2012 Summer Olympics}}
+France qualified one man and two women.
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=3|Fencing<br/><span style="font-size:95%">(épée one touch)</span>
+!colspan=3|Swimming<br/><span style="font-size:95%">(200 m freestyle)</span>
+!colspan=3|Riding<br/><span style="font-size:95%">(show jumping)</span>
+!colspan=3|Combined: shooting/running<br/><span style="font-size:95%">(10 m air pistol)/(3000 m)</span>
+!rowspan=2|Total points
+!rowspan=2|Final rank
+|-style="font-size:95%"
+!Results
+!Rank
+!MP points
+!Time
+!Rank
+!MP points
+!Penalties
+!Rank
+!MP points
+!Time
+!Rank
+!MP Points
+|-align=center
+|align=left|[[Christopher Patte]]
+|align=left|[[Modern pentathlon at the 2012 Summer Olympics – Men's|Men's]]
+|16–19
+|=20
+|784
+|2:05.99
+|20
+|1292
+|84
+|21
+|1116
+|10:43.96
+|11
+|2428
+|5620
+|17
+|-align=center
+|align=left|[[Amélie Cazé]]
+|align=left rowspan=2|[[Modern pentathlon at the 2012 Summer Olympics – Women's|Women's]]
+|19–16
+|=11
+|856
+|2:11.33
+|4
+|1224
+|20
+|2
+|1180
+|12:08.71
+|32
+|1848
+|5108
+|18
+|-align=center
+|align=left|[[Élodie Clouvel]]
+|15–20
+|=25
+|760
+|2:09.87
+|3
+|1244
+|140
+|27
+|1060
+|12:44.50
+|34
+|1704
+|4768
+|31
+|}
+
+==Rowing==
+{{main article|Rowing at the 2012 Summer Olympics}}
+France qualified boats for the following rowing events:
+
+;Men
+[[File:Rowing at the 2012 Summer Olympics – Men's coxless pair Final A.JPG|thumb|France (right boat) during the final of the [[Rowing at the 2012 Summer Olympics – Men's coxless pair|men's coxless pair]].]]
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|'''[[Germain Chardin]]<br />[[Dorian Mortelette]]'''
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's coxless pair|Pair]]
+|6:17.22
+|2 '''SA/B'''
+|colspan=2 {{n/a|Bye}}
+|6:58.67
+|2 '''FA'''
+|6:21.11
+|{{silver02}}
+|-align=center
+|align=left|[[Julien Bahain]]<br />[[Cédric Berrest]]
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's double sculls|Double sculls]]
+|6:19.61
+|3 '''SA/B'''
+|colspan=2 {{n/a|Bye}}
+|6:29.61
+|5 '''FB'''
+|6:26.44
+|10
+|-align=center
+|align=left|[[Jérémie Azou]]<br />[[Stany Delayre]]
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's lightweight double sculls|Lightweight double sculls]]
+|6:40.89
+|1 '''SA/B'''
+|colspan=2 {{n/a|Bye}}
+|6:37.29
+|2 '''FA'''
+|6:42.69
+|4
+|-align=center
+|align=left|[[Matthieu Androdias]]<br />[[Benjamin Chabanet]]<br />[[Adrien Hardy]]<br />[[Pierre-Jean Peltier]]
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's quadruple sculls|Quadruple sculls]]
+|5:44.25
+|3 '''SA/B'''
+|colspan=2 {{n/a|Bye}}
+|6:12.81
+|4 '''FB'''
+|6:02.12
+|10
+|-align=center
+|align=left|[[Thomas Baroukh]]<br />[[Fabrice Moreau (rower)|Fabrice Moreau]]<br />[[Nicolas Moutton]]<br />[[Franck Solforosi]]
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's lightweight coxless four|Lightweight four]]
+|5:50.79
+|1 '''SA/B'''
+|colspan=2 {{n/a|Bye}}
+|6:06.90
+|4 '''FB'''
+|6:08.37
+|7
+|}
+<small>Qualification Legend: '''FA'''=Final A (medal); '''FB'''=Final B (non-medal); '''FC'''=Final C (non-medal); '''FD'''=Final D (non-medal); '''FE'''=Final E (non-medal); '''FF'''=Final F (non-medal); '''SA/B'''=Semifinals A/B; '''SC/D'''=Semifinals C/D; '''SE/F'''=Semifinals E/F; '''QF'''=Quarterfinals; '''R'''=Repechage</small>
+
+==Sailing==
+{{main article|Sailing at the 2012 Summer Olympics}}
+France qualified one boat for each of the following events:
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|-style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!M*
+|-align=center
+|align=left|[[Julien Bontemps]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Men's sailboard|RS:X]]
+|<s>23</s>
+|14
+|2
+|5
+|5
+|4
+|17
+|5
+|8
+|6
+|4
+|70
+|5
+|-align=center
+|align=left|[[Jean-Baptiste Bernaz]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Men's Laser class|Laser]]
+|3
+|21
+|6
+|9
+|19
+|11
+|2
+|18
+|20
+|<s>34</s>
+|10
+|119
+|10
+|-align=center
+|align=left|'''[[Jonathan Lobert]]'''
+|align=left|[[Sailing at the 2012 Summer Olympics – Finn class|Finn]]
+|9
+|4
+|4
+|2
+|6
+|7
+|5
+|<s>10</s>
+|3
+|7
+|2
+|49
+|{{bronze03}}
+|-align=center
+|align=left|[[Vincent Garos]]<br />[[Pierre Leboucher]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Men's 470 class|470]]
+|9
+|10
+|11
+|6
+|10
+|2
+|<s>19</s>
+|11
+|4
+|11
+|16
+|90
+|7
+|-align=center
+|align=left|[[Pierre-Alexis Ponsot]]<br />[[Xavier Rohart]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Star class|Star]]
+|1
+|13
+|10
+|11
+|12
+|<s>14</s>
+|12
+|6
+|6
+|8
+|8
+|86
+|9
+|}
+
+;Women
+;Fleet racing
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|-style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!M*
+|-align=center
+|align=left|[[Charline Picon]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Women's sailboard|RS:X]]
+|9
+|11
+|5
+|7
+|10
+|6
+|<s>12</s>
+|10
+|11
+|6
+|14
+|89
+|8
+|-align=center
+|align=left|[[Sarah Steyaert]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Women's Laser Radial class|Laser Radial]]
+|21
+|14
+|19
+|12
+|11
+|<s>26</s>
+|10
+|19
+|22
+|15
+|EL
+|143
+|16
+|-align=center
+|align=left|[[Mathilde Géron]]<br />[[Camille Lecointre]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Women's 470|470]]
+|10
+|<s>17</s>
+|1
+|8
+|12
+|3
+|7
+|6
+|3
+|5
+|10
+|65
+|4
+|}
+
+;Match racing
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="11"|Round Robin
+!rowspan="2"|Rank
+!colspan="3"|Knockouts
+!rowspan="2"|Rank
+|-style="vertical-align:bottom; font-size:95%"
+!{{flagiconIOC|POR|2012 Summer}}
+!{{flagiconIOC|AUS|2012 Summer}}
+!{{flagiconIOC|NED|2012 Summer}}
+!{{flagiconIOC|SWE|2012 Summer}}
+!{{flagiconIOC|USA|2012 Summer}}
+!{{flagiconIOC|GBR|2012 Summer}}
+!{{flagiconIOC|ESP|2012 Summer}}
+!{{flagiconIOC|DEN|2012 Summer}}
+!{{flagiconIOC|NZL|2012 Summer}}
+!{{flagiconIOC|RUS|2012 Summer}}
+!{{flagiconIOC|FIN|2012 Summer}}
+!valign=middle|Q-final
+!valign=middle|S-final
+!valign=middle|Final
+|-align=center
+|align=left|[[Élodie Bertrand]]<br />[[Claire Leroy]]<br />[[Marie Riou]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Elliott 6m|Elliott 6m]]
+|'''W'''
+|'''L'''
+|'''W'''
+|'''W'''
+|'''L'''
+|'''L'''
+|'''L'''
+|'''W'''
+|'''W'''
+|'''W'''
+|'''L'''
+|6 '''Q'''
+|valign=bottom|{{flagiconIOC|ESP|2012 Summer}}<br />'''L''' (0–3)
+|colspan=2|Did not advance
+|6
+|}
+
+;Open
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=16|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|-style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!13
+!14
+!15
+!M*
+|-align=center
+|align=left|[[Stéphane Christidis]]<br />[[Manu Dyen]]
+|align=left|[[Sailing at the 2012 Summer Olympics – 49er|49er]]
+|1
+|9
+|9
+|12
+|1
+|10
+|12
+|13
+|10
+|<s>21</s>
+|2
+|5
+|10
+|7
+|14
+|12
+|127
+|6
+|}
+<small>'''M''' = Medal race; EL = Eliminated – did not advance into the medal race;</small>
+
+==Shooting==
+{{main article|Shooting at the 2012 Summer Olympics}}
+France earned 14 quota places for the shooting events at the 2012 Olympics:<ref name="issf">{{Cite web |url=http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx |title=Quota places by NATION and Name |date=8 March 2011 |publisher=ISSF |access-date=6 August 2011 |archive-date=16 July 2011 |archive-url=https://web.archive.org/web/20110716090849/http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx |url-status=dead }}</ref>
+
+;Men
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Stéphane Clamens]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's trap|Trap]]
+|119
+|19
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Franck Dumoulin]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre pistol|50 m pistol]]
+|541
+|33
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 10 metre air pistol|10 m air pistol]]
+|577
+|18
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Cyril Graff]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre rifle three positions|50 m rifle 3 positions]]
+|1171
+|3 '''Q'''
+|1271.0
+|4
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre rifle prone|50 m rifle prone]]
+|586
+|46
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Walter Lapeyre]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre pistol|50 m pistol]]
+|554
+|21
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 10 metre air pistol|10 m air pistol]]
+|575
+|22
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Jérémy Monnier]]
+|align=left rowspan=2|[[Shooting at the 2012 Summer Olympics – Men's 10 metre air rifle|10 m air rifle]]
+|592
+|26
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Pierre Edmond Piasecki]]
+|596
+|8 '''Q'''
+|699.1
+|6
+|-align=center
+|align=left rowspan=2|[[Valérian Sauveplane]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre rifle prone|50 m rifle prone]]
+|592
+|22
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's 50 metre rifle three positions|50 m rifle 3 positions]]
+|1167
+|13
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Anthony Terras]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Men's skeet|Skeet]]
+|117
+|17
+|colspan=2|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left rowspan=2|[[Laurence Brize]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 50 metre rifle three positions|50 m rifle 3 positions]]
+|581
+|18
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air rifle|10 m air rifle]]
+|394
+|26
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Émilie Évesque]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 50 metre rifle three positions|50 m rifle 3 positions]]
+|578
+|25
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air rifle|10 m air rifle]]
+|392
+|33
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Veronique Girardet]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's skeet|Skeet]]
+|66
+|10
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|'''[[Céline Goberville]]'''
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air pistol|10 m air pistol]]
+|387
+|3 '''Q'''
+|486.6
+|{{silver02}}
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 25 metre pistol|25 m pistol]]
+|579
+|21
+|colspan=2|Did not advance
+|-align=center
+|align=left|'''[[Delphine Réau]]'''
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's trap|Trap]]
+|72
+|4 '''Q'''
+|93 S/O 2
+|{{bronze03}}
+|-align=center
+|align=left rowspan=2|[[Stéphanie Tirode]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air pistol|10 m air pistol]]
+|375
+|38
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 25 metre pistol|25 m pistol]]
+|582
+|14
+|colspan=2|Did not advance
+|}
+
+==Swimming==
+{{main article|Swimming at the 2012 Summer Olympics}}
+French swimmers achieved qualifying standards in the following events (up to a maximum of two swimmers in each event at the Olympic Qualifying Time (OQT), and one at the Olympic Selection Time (OST)):<ref>{{cite web|title=Swimming World Rankings |url=http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |publisher=FINA |access-date=8 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110106131744/http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |archive-date=6 January 2011 }}</ref><ref>{{cite web |title=FÉDÉRATION INTERNATIONALE DE NATATION – Swimming |url=http://www.fina.org/H2O/docs/events/london2012/sw/sw_qual.pdf |publisher=FINA |access-date=8 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110726002300/http://www.fina.org/H2O/docs/events/london2012/sw/sw_qual.pdf |archive-date=26 July 2011 }}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|'''[[Yannick Agnel]]'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|48.93
+|12 '''Q'''
+|48.23
+|7 '''Q'''
+|47.84
+|4
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 200 metre freestyle|200 m freestyle]]
+|1:46.60
+|3 '''Q'''
+|1:45.84
+|2 '''Q'''
+|1:43.14 '''[[List of French records in swimming|NR]]'''
+|{{gold01}}
+|-align=center
+|align=left|[[Fabien Gilot]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|48.95
+|14 '''Q'''
+|48.49
+|11
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Damien Joly]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 1500 metre freestyle|1500 m freestyle]]
+|15:08.50
+|14
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Camille Lacourt]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre backstroke|100 m backstroke]]
+|53.51
+|4 '''Q'''
+|53.03
+|2 '''Q'''
+|53.08
+|4
+|-align=center
+|align=left|[[Clément Lefert]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre butterfly|100 m butterfly]]
+|53.22
+|29
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Amaury Leveaux]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 50 metre freestyle|50 m freestyle]]
+|22.35
+|18
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Grégory Mallet]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 200 metre freestyle|200 m freestyle]]
+|1:47.39
+|13 '''Q'''
+|1:47.56
+|14
+|colspan=2|Did not advance
+|-align=center
+|align=left|'''[[Florent Manaudou]]'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 50 metre freestyle|50 m freestyle]]
+|22.09
+|=7 '''Q'''
+|21.80
+|6 '''Q'''
+|21.34
+|{{gold01}}
+|-align=center
+|align=left|[[Anthony Pannier]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 1500 metre freestyle|1500 m freestyle]]
+|15:24.08
+|20
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Giacomo Perez d'Ortona]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre breaststroke|100 m breaststroke]]
+|1:00.59
+|17
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Julien Sauvage]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's marathon 10 kilometre|10 km open water]]
+|colspan=4 {{n/a}}
+|1:50:42.8
+|11
+|-align=center
+|align=left rowspan=2|[[Benjamin Stasiulis]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre backstroke|100 m backstroke]]
+|55.36
+|31
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]]
+|1:59.52
+|24
+|colspan=4|Did not advance
+|-align=center
+|align=left|'''[[Yannick Agnel]]<br />[[Alain Bernard]]*<br />[[Fabien Gilot]]<br />[[Clément Lefert]]<br />[[Amaury Leveaux]]<br />[[Jérémy Stravius]]*'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|3:13.38
+|4 '''Q'''
+|colspan=2 {{n/a}}
+|3:09.93
+|{{gold01}}
+|-align=center
+|align=left|'''[[Yannick Agnel]]<br />[[Clément Lefert]]<br />[[Amaury Leveaux]]<br />[[Grégory Mallet]]<br />[[Jérémy Stravius]]*'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 4 × 200 metre freestyle relay|4 × 200 m freestyle relay]]
+|7:09.18
+|2 '''Q'''
+|colspan=2 {{n/a}}
+|7:02.77 '''[[List of French records in swimming|NR]]'''
+|{{silver02}}
+|-align=center
+|align=left|[[Yannick Agnel]]<br />[[Camille Lacourt]]<br />[[Giacomo Perez d'Ortona]]<br />[[Romain Sassot]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|3:34.60
+|10
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Ophélie Aspord]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's marathon 10 kilometre|10 km open water]]
+|colspan=4 {{n/a}}
+|1:58:43.1
+|6
+|-align=center
+|align=left|[[Fanny Babou]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:09.76
+|32
+|colspan=4|Did not advance
+|-align=center
+|align=left rowspan=2|[[Coralie Balmy]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 400 metre freestyle|400 m freestyle]]
+|4:03.56
+|3 '''Q'''
+|colspan=2 {{n/a}}
+|4:05.95
+|6
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+|8:27.15
+|8 '''Q'''
+|colspan=2 {{n/a}}
+|8:29.26
+|7
+|-align=center
+|align=left|[[Charlotte Bonnet]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|55.12
+|20
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Justine Bruno]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre butterfly|100 m butterfly]]
+|1:01.14
+|38
+|colspan=4|Did not advance
+|-align=center
+|align=left rowspan=2|[[Alexianne Castel]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]]
+|1:00.16
+|14 '''Q'''
+|1:00.24
+|11
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre backstroke|200 m backstroke]]
+|2:08.92
+|6 '''Q'''
+|2:08.24
+|5 '''Q'''
+|2:08.43
+|7
+|-align=center
+|align=left|[[Ophélie-Cyrielle Étienne]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre freestyle|200 m freestyle]]
+|1:59.15
+|18
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Lara Grangeon]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+|4:44.28
+|18
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Laure Manaudou]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre backstroke|100 m backstroke]]
+|1:01.03
+|22
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre backstroke|200 m backstroke]]
+|2:14.29
+|30
+|colspan=4|Did not advance
+|-align=center
+|align=left rowspan=2|'''[[Camille Muffat]]'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre freestyle|200 m freestyle]]
+|1:58.49
+|12 '''Q'''
+|1:56.18
+|3 '''Q'''
+|1:55.58
+|{{silver02}}
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 400 metre freestyle|400 m freestyle]]
+|4:03.29
+|1 '''Q'''
+|colspan=2 {{n/a}}
+|4:01.45 {{OlyR|swimming}}
+|{{gold01}}
+|-align=center
+|align=left|[[Anna Santamans]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|25.23
+|15 '''Q'''
+|24.94
+|=10
+|colspan=2|Did not advance
+|-align=center
+|align=left|'''[[Coralie Balmy]]<br />[[Charlotte Bonnet]]<br />[[Ophélie-Cyrielle Étienne]]<br />[[Margaux Farrell]]*<br />[[Mylène Lazare]]*<br />[[Camille Muffat]]'''
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 4 × 200 metre freestyle relay|4 × 200 m freestyle relay]]
+|7:52.88
+|5 '''Q'''
+|colspan=2 {{n/a}}
+|7:47.49
+|{{bronze03}}
+|-align=center
+|align=left|[[Fanny Babou]]<br />[[Charlotte Bonnet]]<br />[[Justine Bruno]]<br />[[Laure Manaudou]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|4:05.53
+|14
+|colspan=2 {{n/a}}
+|colspan=2|Did not advance
+|}
+
+==Synchronized swimming==
+{{main article|Synchronized swimming at the 2012 Summer Olympics}}
+France qualified two Olympic quota places in synchronized swimming.
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Technical routine
+!colspan=3|Free routine (preliminary)
+!colspan=3|Free routine (final)
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+|-align=center
+|align=left|[[Sara Labrousse]]<br />[[Chloé Willhelm]]
+|align=left|[[Synchronized swimming at the 2012 Summer Olympics – Women's duet|Duet]]
+|87.700
+|10
+|88.340
+|176.040
+|10 '''Q'''
+|88.560
+|176.260
+|10
+|}
+
+==Table tennis==
+{{main article|Table tennis at the 2012 Summer Olympics}}
+France qualified one man and two women.
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminary round
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+|Rank
+|-align=center
+|align=left|[[Adrien Mattenet]]
+|align=left|[[Table tennis at the 2012 Summer Olympics – Men's singles|Men's singles]]
+|colspan=3 {{n/a|Bye}}
+|{{flagIOCathlete|[[Chen Weixing|Chen Wx]]|AUT|2012 Summer}}<br />'''L''' 0–4
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Xian Yi Fang]]
+|align=left rowspan=2|[[Table tennis at the 2012 Summer Olympics – Women's singles|Women's singles]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Sarah Hanffou|Hanffou]]|CMR|2012 Summer}}<br />'''W''' 4–1
+|{{flagIOCathlete|[[Ri Myong-Sun|Ri M-S]]|PRK|2012 Summer}}<br />'''W''' 4–2
+|{{flagIOCathlete|[[Wang Yuegu|Wang Yg]]|SIN|2012 Summer}}<br />'''L''' 0–4
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Li Xue]]
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Jian Fang Lay|Lay]]|AUS|2012 Summer}}<br />'''W''' 4–3
+|{{flagIOCathlete|[[Shen Yanfei|Shen Yf]]|ESP|2012 Summer}}<br />'''L''' 0–4
+|colspan=5|Did not advance
+|}
+
+==Taekwondo==
+{{main article|Taekwondo at the 2012 Summer Olympics}}
+France had qualified two places in women's taekwondo.<ref name="wtf">{{cite web | url=http://www.wtf.org/wtf_eng/site/news/notice.html?bbs_no=5593&bbs_code=10008&bbs_num=509&symode=view| title=Competition Results (Day 2 of World Olympic Taekwondo Qualification Tournament on July 1, 2011 in Baku, Azerbaijan) | access-date=3 July 2011 | publisher=[[World Taekwondo Federation]]}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!Bronze Medal
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|'''[[Marlène Harnois]]'''
+|align=left|[[Taekwondo at the 2012 Summer Olympics – Women's 57 kg|Women's −57 kg]]
+|{{flagIOCathlete|[[Yeny Contreras Loyola|Contreras]]|CHI|2012 Summer}}<br />'''W''' 14–3 {{tooltip|PTG|Decision by points gap}}
+|{{flagIOCathlete|[[Hedaya Wahba|Wahba]]|EGY|2012 Summer}}<br />'''W''' 8–6
+|{{flagIOCathlete|[[Hou Yuzhuo|Hou Yz]]|CHN|2012 Summer}}<br />'''L''' 3–8
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Mayu Hamada|Hamada]]|JPN|2012 Summer}}<br />'''W''' 12–8
+|Did not advance
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Anne Caroline Graffe]]'''
+|align=left|[[Taekwondo at the 2012 Summer Olympics – Women's +67 kg|Women's +67 kg]]
+|{{flagIOCathlete|[[Natalya Mamatova|Mamatova]]|UZB|2012 Summer}}<br />'''W''' 17–9
+|{{flagIOCathlete|[[Lee In-Jong|Lee I-J]]|KOR|2012 Summer}}<br />'''W''' 7–4
+|{{flagIOCathlete|[[Glenhis Hernández|Hernández]]|CUB|2012 Summer}}<br />'''W''' 6–4
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Milica Mandić|Mandić]]|SRB|2012 Summer}}<br />'''L''' 7–9
+|{{silver02}}
+|}
+
+==Tennis==
+{{main article|Tennis at the 2012 Summer Olympics}}
+France qualified six Olympic tennis players in 2012: four in the men's events and two in the women's events. France ultimately won two medals – one silver and one bronze – in the men's doubles.
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Julien Benneteau]]
+|align=left rowspan=4|[[Tennis at the 2012 Summer Olympics – Men's singles|Singles]]
+|{{flagIOCathlete|[[Mikhail Youzhny|Youzhny]]|RUS|2012 Summer}}<br />'''W''' 7–5, 6–3
+|{{flagIOCathlete|[[Roger Federer|Federer]]|SUI|2012 Summer}}<br />'''L''' 2–6, 2–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Richard Gasquet]]
+|{{flagIOCathlete|[[Robin Haase|Haase]]|NED|2012 Summer}}<br />'''W''' 6–3, 6–3
+|{{flagIOCathlete|[[Marcos Baghdatis|Baghdatis]]|CYP|2012 Summer}}<br />'''L''' 4–6, 4–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Gilles Simon]]
+|{{flagIOCathlete|[[Mikhail Kukushkin|Kukushkin]]|KAZ|2012 Summer}}<br />'''W''' 6–4, 6–2
+|{{flagIOCathlete|[[Grigor Dimitrov|Dimitrov]]|BUL|2012 Summer}}<br />'''W''' 6–3, 6–3
+|{{flagIOCathlete|[[Juan Martín del Potro|del Potro]]|ARG|2012 Summer}}<br />'''L''' 1–6, 6–4, 3–6
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Jo-Wilfried Tsonga]]
+|{{flagIOCathlete|[[Thomaz Bellucci|Bellucci]]|BRA|2012 Summer}}<br />'''W''' 6–7<sup>(5–7)</sup>, 6–4, 6–4
+|{{flagIOCathlete|[[Milos Raonic|Raonic]]|CAN|2012 Summer}}<br />'''W''' 6–3, 3–6, 25–23
+|{{flagIOCathlete|[[Feliciano López|López]]|ESP|2012 Summer}}<br />'''W''' 7–6<sup>(7–5)</sup>, 6–4
+|{{flagIOCathlete|[[Novak Djokovic|Djokovic]]|SRB|2012 Summer}}<br />'''L''' 4–6, 5–7
+|colspan=3|Did not advance
+|-align=center
+|align=left|'''[[Julien Benneteau]]<br />[[Richard Gasquet]]'''
+|align=left rowspan=2|[[Tennis at the 2012 Summer Olympics – Men's doubles|Doubles]]
+|{{n/a}}
+|{{flagIOCathlete|[[Colin Fleming|Fleming]] / <br />[[Ross Hutchins|Hutchins]]|GBR|2012 Summer}}<br />'''W''' 7–5, 6–3
+|{{flagIOCathlete|[[Mahesh Bhupathi|Bhupathi]] / <br />[[Rohan Bopanna|Bopanna]]|IND|2012 Summer}}<br />'''W''' 6–3, 6–4
+|{{flagIOCathlete|[[Janko Tipsarević|Tipsarević]] / <br />[[Nenad Zimonjić|Zimonjić]]|SRB|2012 Summer}}<br />'''W''' 6–4, 7–6<sup>(7–3)</sup>
+|{{flagIOCathlete|[[Bob Bryan|B. Bryan]] /<br />[[Mike Bryan|M. Bryan]]|USA|2012 Summer}}<br />'''L''' 4–6, 4–6
+|{{flagIOCathlete|[[David Ferrer|Ferrer]] / <br />[[Feliciano López|F. López]]|ESP|2012 Summer}}<br />'''W''' 7–6<sup>(7–4)</sup>, 6–2
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Michaël Llodra]]<br />[[Jo-Wilfried Tsonga]]'''
+|{{n/a}}
+|{{flagIOCathlete|[[David Nalbandian|Nalbandian]] / <br />[[Eduardo Schwank|Schwank]]|ARG|2012 Summer}}<br />'''W''' 6–3, 7–5
+|{{flagIOCathlete|[[Leander Paes|Paes]] / <br />[[Vishnu Vardhan|Vardhan]]|IND|2012 Summer}}<br />'''W''' 7–6<sup>(7–3)</sup>, 4–6, 6–3
+|{{flagIOCathlete|[[Marcelo Melo|Melo]] / <br />[[Bruno Soares|Soares]]|BRA|2012 Summer}}<br />'''W''' 6–4, 6–2
+|{{flagIOCathlete|[[David Ferrer|Ferrer]] / <br />[[Feliciano López|F. López]]|ESP|2012 Summer}}<br />'''W''' 3–6, 6–4, 18–16
+|{{flagIOCathlete|[[Bob Bryan|B. Bryan]] /<br />[[Mike Bryan|M. Bryan]]|USA|2012 Summer}}<br />'''L''' 4–6, 6–7<sup>(2–7)</sup>
+|{{silver02}}
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Alizé Cornet]]
+|align=left|[[Tennis at the 2012 Summer Olympics – Women's singles|Singles]]
+|{{flagIOCathlete|[[Tamira Paszek|Paszek]]|AUT|2012 Summer}}<br />'''W''' 7–6<sup>(7–4)</sup>, 6–4
+|{{flagIOCathlete|[[Daniela Hantuchová|Hantuchová]]|SVK|2012 Summer}}<br />'''L''' 3–6, 0–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Alizé Cornet]]<br />[[Kristina Mladenovic]]
+|align=left|[[Tennis at the 2012 Summer Olympics – Women's doubles|Doubles]]
+| {{n/a}}
+|{{flagIOCathlete|[[Peng Shuai|Peng]] / <br />[[Zheng Jie|Zheng]]|CHN|2012 Summer}}<br />'''L''' 1–6, 7–6<sup>(7–3)</sup>, 3–6
+|colspan=5|Did not advance
+|}
+
+==Triathlon==
+{{main article|Triathlon at the 2012 Summer Olympics}}
+France qualified the following triathletes:
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Swim (1.5&nbsp;km)
+!Trans 1
+!Bike (40&nbsp;km)
+!Trans 2
+!Run (10&nbsp;km)
+!Total Time
+!Rank
+|-align=center
+|align=left|[[David Hauss]]
+|align=left rowspan=3|[[Triathlon at the 2012 Summer Olympics – Men's|Men's]]
+|17:24
+|0:38
+|58:50
+|0:29
+|29:53
+|1:47:14
+|4
+|-align=center
+|align=left|[[Vincent Luis]]
+|17:20
+|0:38
+|58:53
+|0:27
+|31:00
+|1:48:18
+|11
+|-align=center
+|align=left|[[Laurent Vidal]]
+|17:27
+|0:43
+|58:42
+|0:28
+|30:01
+|1:47:21
+|5
+|-align=center
+|align=left|[[Emmie Charayron]]
+|align=left rowspan=3|[[Triathlon at the 2012 Summer Olympics – Women's|Women's]]
+|19:48
+|0:39
+|1:06:58
+|0:34
+|34:27
+|2:02:26
+|18
+|-align=center
+|align=left|[[Jessica Harrison (triathlete)|Jessica Harrison]]
+|18:39
+|0:43
+|1:06:16
+|0:31
+|35:13
+|2:01:22
+|9
+|-align=center
+|align=left|[[Carole Péon]]
+|19:30
+|0:45
+|1:07:11
+|0:33
+|35:59
+|2:03:58
+|29
+|}
+
+==Weightlifting==
+{{main article|Weightlifting at the 2012 Summer Olympics}}
+France qualified three men and one woman.
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Snatch
+!colspan="2"|Clean & Jerk
+!rowspan="2"|Total
+!rowspan="2"|Rank
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Vencelas Dabaya]]
+|align=left rowspan=2|[[Weightlifting at the 2012 Summer Olympics – Men's 69 kg|Men's −69 kg]]
+|<s>135</s>
+|{{abbr|DNF|Did not finish}}
+|—
+|—
+|—
+|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|[[Bernardin Kingue Matam]]
+|<s>143</s>
+|{{abbr|DNF|Did not finish}}
+|—
+|—
+|—
+|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|[[Benjamin Hennequin]]
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Men's 85 kg|Men's −85 kg]]
+|<s>163</s>
+|{{abbr|DNF|Did not finish}}
+|—
+|—
+|—
+|{{abbr|DNF|Did not finish}}
+|-align=center
+|align=left|[[Mélanie Bardis]]
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Women's 48 kg|Women's −48 kg]]
+|73
+|9
+|93
+|9
+|166
+|10
+|}
+
+==Wrestling==
+{{main article|Wrestling at the 2012 Summer Olympics}}
+France qualified six quota places:
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* {{abbr|VT|Victory by Fall}} – [[Pin (amateur wrestling)|Victory by Fall]].
+* {{abbr|PP|Decision by Points – the loser with technical points}} – Decision by Points – the loser with technical points.
+* {{abbr|PO|Decision by Points – the loser without technical points}} – Decision by Points – the loser without technical points.
+}}
+
+;Men's freestyle
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Qualification
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Didier Pais]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Men's freestyle 60 kg|−60 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Hassan Madany|Madany]]|EGY|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PP|Decision by Points – the loser with technical points}}</sup>
+|colspan=5|Did not advance
+|11
+|}
+
+;Men's Greco-Roman
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Qualification
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Tarik Belmadani]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 60 kg|−60 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Jarkko Ala-Huikku|Ala-Huikku]]|FIN|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Ryutaro Matsumoto|Matsumoto]]|JPN|2012 Summer}}<br />'''L''' 0–3 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|colspan=4|Did not advance
+|9
+|-align=center
+|align=left|'''[[Steeve Guénot]]'''
+|align=left|[[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 66 kg|−66 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Wuileixis Rivas|Rivas]]|VEN|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Saeid Abdevali|Abdevali]]|IRI|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Kim Hyeon-Woo|Kim H-W]]|KOR|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PP|Decision by Points – the loser with technical points}}</sup>
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Pedro Mulens|Mulens]]|CUB|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{bronze03}}
+|-align=center
+|align=left|[[Christophe Guénot]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 74 kg|−74 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Zied Ayet Ikram|Ayet Ikram]]|TUN|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Roman Vlasov|Vlasov]]|RUS|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PP|Decision by Points – the loser with technical points}}</sup>
+|Did not advance
+|{{flagIOCathlete|[[Mark Madsen (wrestler)|Madsen]]|DEN|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PP|Decision by Points – the loser with technical points}}</sup>
+|colspan=2|Did not advance
+|8
+|-align=center
+|align=left|[[Mélonin Noumonvi]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Men's Greco-Roman 84 kg|−84 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Rami Hietaniemi|Hietaniemi]]|FIN|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Karam Gaber|Gaber]]|EGY|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|Did not advance
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Nenad Žugaj|Žugaj]]|CRO|2012 Summer}}<br />'''W''' 3–0 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|{{flagIOCathlete|[[Damian Janikowski|Janikowski]]|POL|2012 Summer}}<br />'''L''' 0–3 <sup>{{abbr|PO|Decision by Points – the loser without technical points}}</sup>
+|5
+|}
+
+;Women's freestyle
+{| class="wikitable" style="text-align:left; font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Qualification
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Cynthia Vescan]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Women's freestyle 72 kg|−72 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Svetlana Saenko|Saenko]]|MDA|2012 Summer}}<br />'''L''' 1–3 <sup>{{abbr|PP|Decision by Points – the loser with technical points}}</sup>
+|colspan=5|Did not advance
+|12
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx Quota places by nation and name] {{Webarchive|url=https://web.archive.org/web/20110716090849/http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx |date=16 July 2011 }}. ISSF.
+
+{{country at games navbox|France |Olympics}}
+{{Nations at the 2012 Summer Olympics}}
+{{commons category|France at the 2012 Summer Olympics}}
+
+[[Category:Nations at the 2012 Summer Olympics]]
+[[Category:France at the Summer Olympics by year|2012]]
+[[Category:2012 in French sport]]
+[[Category:France–United Kingdom sports relations|2012]]

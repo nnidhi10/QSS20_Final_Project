@@ -1,0 +1,225 @@
+{{Short description|none}}
+{{Infobox Olympic event
+| event       = Men's 110 metres hurdles
+| games       = 1896 Summer
+| image       = File:Alajos szokolyi.jpg
+| caption     = Alajos Szokolyi hurdling
+| venue       = [[Panathinaiko Stadium]]
+| dates       = {{nowrap|April 7, 1896 (heats)<br /> April 10, 1896 (final)}}
+| competitors = 8
+| nations     = 6
+| win_value   = 17.6 {{OlyR|athletics}}
+| longnames   = yes
+| gold        = [[Thomas Curtis (athlete)|Thomas Curtis]]
+| goldNOC     = USA
+| silver      = [[Grantley Goulding]]
+| silverNOC   = GBR
+| bronze      = <!-- Not awarded -->
+| bronzeNOC   = 
+| prev        = 
+| next        = [[Athletics at the 1900 Summer Olympics – Men's 110 metres hurdles|1900]]
+}}
+{{AthleticsAt1896SummerOlympics}}
+
+The men's [[110 metres hurdles]] was the only hurdling event on the [[Athletics at the 1896 Summer Olympics]] programme. The preliminary heats served as the inaugural track event of the day on 7 April. Eight competitors participated in two heats, each comprising four runners. Only the top two runners from each heat progressed to the final.<ref name="SR">{{cite web |url=https://www.sports-reference.com/olympics/summer/1896/ATH/mens-110-metres-hurdles.html |archive-url=https://web.archive.org/web/20200417172615/https://www.sports-reference.com/olympics/summer/1896/ATH/mens-110-metres-hurdles.html |url-status=dead |archive-date=17 April 2020 |title=Athletics at the 1896 Athens Summer Games: Men's 110 metres Hurdles |access-date=11 September 2017 |work=sports-reference.com}}</ref> The event was won by [[Thomas Curtis (athlete)|Thomas Curtis]], representing the United States.
+
+==Background==
+
+This event made its debut at the Olympics and has since been one of the 12 athletics disciplines featured at every Summer Olympics. Despite its longevity, it was not widely recognized. Notably absent were two prominent hurdlers: Stephen Chase from the United States and Godfrey Shaw from Great Britain. In Greece, [[Anastasios Andreou]] was considered untouchable. [[Grantley Goulding]] from Great Britain similarly held high expectations for himself. [[Alajos Szokolyi]], having triumphed at the Hungarian Olympic trials, was also seen as a strong contender.<ref name=rubicon/><ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/56018 |work=Olympedia |title=110 metres Hurdles, Men |access-date=17 August 2020}}</ref>
+
+==Competition format==
+
+The competition structure included two semifinals followed by a final. Although seventeen athletes had initially entered, only eight actually competed, resulting in two semifinal heats.
+
+The top two athletes from each semifinal heat progressed to the four-man final.<ref name=rubicon/><ref name=Olympedia/><ref name=OR68and85>Official Report, pp. 68, 85.</ref>
+
+==Records==
+
+There was no standing Olympic record before the first Games.
+
+{{World Olympic Record
+| world_athlete   = {{flagathlete|Stephen Chase|USA}}
+| world_mark      = 15.4{{AthAbbr|y}}{{efn|Set over 120 yards (109.72 metres)}}
+| world_place     = [[New York City|New York]]
+| world_date      = {{date|21 Sep 1895}}<ref>{{cite web |url-access=registration|title=Track & Field Statistics |url=http://trackfield.brinkster.net/RecProgression.asp?RecCode=WR&EventCode=MB1&P=R |website=trackfield.brinkster.net |access-date=14 July 2023}}</ref>
+| world_ref       = 
+| olympic_athlete = ''New event''
+| olympic_mark    = n/a
+| olympic_place   = n/a
+| olympic_date    = n/a
+| olympic_ref     = 
+}}
+
+Each race set a new Olympic record. [[Grantley Goulding]] won the first semifinal in 18.4 seconds. [[Thomas Curtis (athlete)|Thomas Curtis]] won the second semifinal in 18.0 seconds. Curtis then won the final in 17.6 seconds to finish the Games with the Olympic record.
+
+==Schedule==
+
+The precise times of the events are not recorded. The 110 metres hurdles semifinal round was the first event of the afternoon session on the second day, which began around "half past two". The final was the third event of the fifth day's afternoon.<ref name=OR68and85/>
+
+{| class="wikitable"
+!colspan=2| Date
+!rowspan=2| Round
+|-
+! Gregorian
+! Julian
+|-
+| Tuesday, 7 April 1896 || Tuesday, 26 March 1896 || '''Semifinals'''
+|- style=background:lemonchiffon
+| Friday, 10 April 1896 || Friday, 29 March 1896 || '''Final'''
+|}
+
+==Results==
+
+===Semifinals===
+
+The semifinal heats were held on 7 April. The top two finishers in each of the two heats advanced to the final.
+
+====Semifinal 1====
+
+[[Grantley Goulding]] of [[United Kingdom of Great Britain and Ireland|Great Britain]] finished first, in a time of 18.4 seconds. Szokolyi was in the lead but hit the last hurdle and stumbled. It is not entirely clear what happened next. Goulding certainly passed Szokolyi and finished first. Szokolyi got up and crossed the finish line along with Reichel; there was some dispute over which had finished second and which third. Neither man competed in the final, eliminating a reliable way of resolving the dispute. The Official Report placed Szokolyi second. Mallon & Widlund place Reichel second. Ekkehard zur Megede places Szokolyi second. The IOC webpage lists Szokolyi as a finalist, suggesting he was second.<ref name=OR68>Official Report, p. 68 ("Mr Sokoly, a Hungarian came in second").</ref><ref name=rubicon>{{cite web |url=http://www.rubicon.hu/magyar/oldalak/szokoly_alajos_a_modern_olimpiak_egyes_szamu_versenyzoje/ |title=Szokoly Alajos – A modern olimpiák egyes számú versenyzője |publisher=Rubicon |access-date=2 January 2014 |language=hu}}</ref><ref name=Megede>Ekkehard zur Megede, Die Geschichte der olympischen Leichtathletik, Band 1: 1896–1936, Verlag Bartels & Wernitz KG, Berlin, 2. Auflage 1970</ref><ref name=OlympicOrg>[https://www.olympic.org/athens-1896/athletics/110m-hurdles-men 110m Hurdles Men]</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|- style="background:#bbf3bb;"
+| 1
+|align=left| [[Grantley Goulding]] ||align=left| {{flagIOC|GBR|1896 Summer}}
+| 18.4
+| {{abbr|Q|Qualified for final}}, {{OlyR|athletics}}
+|- style="background:#bbf3bb;"
+| 2
+|align=left| [[Alajos Szokolyi]] ||align=left| {{flagIOC|HUN|1896 Summer}}
+| Unknown
+| {{abbr|Q|Qualified for final}}
+|-
+| 3
+|align=left| [[Frantz Reichel]] ||align=left| {{flagIOC|FRA|1896 Summer}}
+| Unknown
+| 
+|-
+| 4
+|align=left| [[Anastasios Andreou]] ||align=left| {{flagIOC|GRE|1896 Summer}}
+| Unknown
+| 
+|}
+
+====Semifinal 2====
+
+The [[United States|Americans]] finished 1st and 2nd in this heat, with [[Thomas Curtis (athlete)|Thomas Curtis]] advancing to the final with a time of 18 seconds, and Hoyt second. [[Athanasios Skaltsogiannis]] of Greece and [[Kurt Doerry]] of [[Germany]] also competed, though their final positions are not recorded.
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|- style="background:#bbf3bb;"
+| 1
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]] ||align=left| {{flagIOC|USA|1896 Summer}}
+| 18.0
+| {{abbr|Q|Qualified for final}}, {{OlyR|athletics}}
+|- style="background:#bbf3bb;"
+| 2
+|align=left| [[William Hoyt (athlete)|William Hoyt]] ||align=left| {{flagIOC|USA|1896 Summer}}
+| Unknown
+| {{abbr|Q|Qualified for final}}
+|-
+|rowspan=2| 3–4
+|align=left| [[Kurt Doerry]] ||align=left| {{flagIOC|GER|1896 Summer}}
+| Unknown
+| 
+|-
+|align=left| [[Athanasios Skaltsogiannis]] ||align=left| {{flagIOC|GRE|1896 Summer}}
+| Unknown
+| 
+|}
+
+===Final===
+
+The final of the 110 metre hurdles was run on 10 April.
+
+Hoyt scratched from the final in order to prepare for the pole vault (which he won).
+
+As there are conflicting reports of who qualified in second from the first heat, there are conflicting reports of why that runner scratched: Mallon and Widlund have Reichel as second in the heat, and that he was forced to scratch from the final as he was serving as an assistant to [[Albin Lermusiaux]] in the [[marathon (sport)|marathon]].<ref name=Olympedia/> Sources placing Szokolyi second rather than Reichel do not generally give a reason for Szokolyi's absence, but Szokolyi himself recounted that "[w]hen the final came — after a lot of negotiations we were both canceled as second."<ref name=rubicon/>
+
+The Official Report placed Szokolyi second in the heat, and says of both Hoyt and Szokolyi that "[n]o other competitor came forward" than Curtis and Goulding.<ref name=OR85>Official Report, p. 85.</ref>
+
+In any case, only two athletes competed, but they finished within one-tenth of a second: Goulding led at the final hurdle, being a better hurdler, but Curtis passed him in the straight and won a tight race by two inches.
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|-
+| {{Gold1}}
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]] ||align=left| {{flagIOC|USA|1896 Summer}}
+| 17.6
+| {{AthAbbr|OR}}
+|-
+| {{Silver2}}
+|align=left| [[Grantley Goulding]] ||align=left| {{flagIOC|GBR|1896 Summer}}
+| 17.7<ref name=OlympicOrg/>
+| 
+|-
+|rowspan=2 data-sort-value=3| —
+|align=left| [[William Hoyt (athlete)|William Hoyt]] ||align=left| {{flagIOC|USA|1896 Summer}}
+| {{abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Alajos Szokolyi]] ||align=left| {{flagIOC|HUN|1896 Summer}}
+| {{abbr|DNS|Did not start}}
+| 
+|}
+
+==Results summary==
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Semifinal || Final !! Notes
+|-
+| {{Gold1}}
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]] ||align=left| {{flagIOC|USA|1896 Summer}}
+| 18.0 || 17.6
+| {{OlyR|athletics}}
+|-
+| {{Silver2}}
+|align=left| [[Grantley Goulding]] ||align=left| {{flagIOC|GBR|1896 Summer}}
+| 18.4 || 17.7<ref name=OlympicOrg/>
+| 
+|-
+|rowspan=2| 3
+|align=left| [[William Hoyt (athlete)|William Hoyt]] ||align=left| {{flagIOC|USA|1896 Summer}}
+|data-sort-value=60.0| Unknown ||data-sort-value=60.0| {{abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Alajos Szokolyi]] ||align=left| {{flagIOC|HUN|1896 Summer}}
+|data-sort-value=60.0| Unknown ||data-sort-value=60.0| {{abbr|DNS|Did not start}}
+| 
+|-
+| 5
+|align=left| [[Frantz Reichel]] ||align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=60.0| Unknown ||rowspan=4 data-sort-value=99.9| Did not advance
+| 3rd in semifinal
+|-
+|rowspan=2| 6
+|align=left| [[Kurt Doerry]] ||align=left| {{flagIOC|GER|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 3rd–4th in semifinal
+|-
+|align=left| [[Athanasios Skaltsogiannis]] ||align=left| {{flagIOC|GRE|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 3rd–4th in semifinal
+|-
+| 8
+|align=left| [[Anastasios Andreou]] ||align=left| {{flagIOC|GRE|1896 Summer}}
+| Unknown
+| 4th in semifinal
+|}
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+* {{cite book |author1=Lampros, S.P. |author2=Polites, N.G. |author3=De Coubertin, Pierre |author4=Philemon, P.J. |author5=Anninos, C.   |name-list-style=amp | title=The Olympic Games: BC 776 – AD 1896 | location=Athens | publisher=Charles Beck | year=1897 }} (Digitally available at [http://www.la84foundation.org/6oic/OfficialReports/1896/1896.pdf la84foundation.org])
+* {{cite book | author1=Mallon, Bill | author2=Widlund, Ture | name-list-style=amp | title=The 1896 Olympic Games. Results for All Competitors in All Events, with Commentary | location=Jefferson | publisher=McFarland | year=1998 | isbn=0-7864-0379-9 | url-access=registration | url=https://archive.org/details/resultsofearlymo00mall }} (Excerpt available at [http://www.la84foundation.org/6oic/OfficialReports/Mallon/1896.pdf la84foundation.org])
+* {{cite book | author=Smith, Michael Llewellyn | title= Olympics in Athens 1896. The Invention of the Modern Olympic Games | location=London | publisher=Profile Books | year = 2004 | isbn=1-86197-342-X}}
+
+{{OlympicsSprintHurdles}}
+{{Footer Olympic Champions 110 m hurdles Men}}
+
+{{DEFAULTSORT:Athletics at the 1896 Summer Olympics - Men's 110 metres hurdles}}
+[[Category:Athletics at the 1896 Summer Olympics|Men's hurdles 110 metres]]
+[[Category:Sprint hurdles at the Olympics]]

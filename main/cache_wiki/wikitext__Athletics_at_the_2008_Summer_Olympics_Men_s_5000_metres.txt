@@ -1,0 +1,229 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Men's 5000 metres
+|games = 2008 Summer
+|image = 
+|caption = 
+|venue = [[Beijing National Stadium]]
+|dates = August 20 (heats)<br />August 23 (final)
+|competitors = 43
+|nations = 25
+|gold = [[Kenenisa Bekele]]
+|goldNOC = ETH
+|silver = [[Eliud Kipchoge]]
+|silverNOC = KEN
+|bronze = [[Edwin Cheruiyot Soi]]
+|bronzeNOC = KEN
+|prev=[[Athletics at the 2004 Summer Olympics – Men's 5000 metres|2004]]
+|next=[[Athletics at the 2012 Summer Olympics – Men's 5000 metres|2012]]
+}}
+{{AthleticsAt2008SummerOlympics}}
+The '''Men's [[5000 metres]]''' at the '''[[2008 Summer Olympics]]''' took place on 20 and 23 August at the [[Beijing National Stadium]].<ref>{{cite web|url=http://www.iaaf.org/OLY08/results/eventCode=3659/bydiscipline/index.html |title=Olympic Athletics Competition Schedule |access-date=2008-08-04 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080913131714/http://www.iaaf.org/OLY08/results/eventCode%3D3659/bydiscipline/index.html |archive-date=13 September 2008 |url-status=dead }}</ref> The winning margin was 4.98 seconds.
+
+The qualifying standards were 13:21.50 (A standard) and 13:28.00 (B standard).<ref>{{cite web|url=http://www.iaaf.org/OLY08/standards/index.html |title=Entry Standards - The XXIX Olympic Games - Beijing, China - 8/24 August 2008 |access-date=2008-08-04|publisher=[[IAAF]]| archive-url= https://web.archive.org/web/20080913131730/http://www.iaaf.org/OLY08/standards/index.html| archive-date= 13 September 2008 <!--DASHBot-->| url-status=live}}</ref>
+
+== Records ==
+Prior to this competition, the existing world record, Olympic record, and world leading time were as follows:
+
+{{World Olympic Record World Leading
+| world_athlete  = {{flagathlete|[[Kenenisa Bekele]]|ETH}}
+| world_mark   = 12:37.35
+| world_place   = [[Hengelo]], Netherlands
+| world_date   = 31 May 2004
+| world_ref    = 
+| olympic_athlete = {{flagIOCathlete|[[Saïd Aouita]]|MAR|1984 Summer}}
+| olympic_mark  = 13:05.59
+| olympic_place  = [[Los Angeles]], United States
+| olympic_date  = 11 August 1984
+| olympic_ref   = 
+| lead_athlete = {{flagathlete|[[Moses Masai]]|KEN}}
+| lead_mark = 12:50.55
+| lead_place = [[Berlin]], Germany
+| lead_date = 1 June 2008
+| lead_ref = 
+}}
+The following new Olympic record was set during this competition:
+
+{| class=wikitable style=text-align:center
+|-
+! Date !! Event !! Athlete !! Time !! Notes
+|-
+| 23 August 2008 || Final ||align=left| {{flagIOCathlete|[[Kenenisa Bekele]]|ETH|2008 Summer}} || '''12:57.82''' || '''[[List of Olympic records in athletics|OR]]'''
+|}
+
+== Results ==
+
+=== Heat 1 ===
+
+Qualification: First 4 in each heat('''Q''') and the next 3 fastest('''q''') advance to the [[#Final|Final]].
+
+''To sort this table by heat, athlete, or any other column, click on the [[image:Sort both.gif]] icon next to the column title.''
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !!Athlete !! Nationality !! Time !! Notes<ref>{{cite web |url=http://www.iaaf.org/oly08/results/eventCode=3659/racedate=08-20-2008/sex=M/discCode=5000/combCode=hash/roundCode=h/results.html#detM_5000_hash_h |title=5000 Metres - M Heats |access-date=2008-08-30 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080829105824/http://www.iaaf.org/oly08/results/eventCode%3D3659/racedate%3D08-20-2008/sex%3DM/discCode%3D5000/combCode%3Dhash/roundCode%3Dh/results.html#detM_5000_hash_h |archive-date=2008-08-29 |url-status=dead }}</ref>
+|-bgcolor=ccffcc
+| 1 ||align=left| [[Matthew Tegenkamp]] ||align=left| {{flagIOC|USA|2008 Summer}}|| 13:37.36 || Q
+|-bgcolor=ccffcc
+| 2 ||align=left| [[Eliud Kipchoge]] ||align=left| {{flagIOC|KEN|2008 Summer}}|| 13:37.50 || Q
+|-bgcolor=ccffcc
+| 3 ||align=left| [[Tariku Bekele]] ||align=left| {{flagIOC|ETH|2008 Summer}}|| 13:37.63 || Q
+|-bgcolor=ccffcc
+| 4 ||align=left| [[Kidane Tadasse]] ||align=left| {{flagIOC|ERI|2008 Summer}}|| 13:37.72 || Q
+|-bgcolor=ccffcc
+| 5 ||align=left| [[Alemayehu Bezabeh]] ||align=left| {{flagIOC|ESP|2008 Summer}}|| 13:37.88 || q
+|-bgcolor=ccffcc
+| 6 ||align=left| [[Alistair Ian Cragg]] ||align=left| {{flagIOC|IRL|2008 Summer}}|| 13:38.57 || q
+|-bgcolor=ccffcc
+| 7 ||align=left| [[Juan Luis Barrios]] ||align=left| {{flagIOC|MEX|2008 Summer}}|| 13:42.39 || q
+|-
+| 8 ||align=left| [[Anis Selmouni]] ||align=left| {{flagIOC|MAR|2008 Summer}}|| 13:43.70 || 
+|-
+| 9 ||align=left| [[Aadam Ismaeel Khamis]] ||align=left| {{flagIOC|BRN|2008 Summer}}|| 13:44.76 || 
+|-
+| 10 ||align=left| [[Collis Birmingham]] ||align=left| {{flagIOC|AUS|2008 Summer}}|| 13:44.90 || 
+|-
+| 11 ||align=left| [[Geofrey Kusuro]] ||align=left| {{flagIOC|UGA|2008 Summer}}|| 13:50.50 || 
+|-
+| 12 ||align=left| [[Sultan Khamis Zaman]] ||align=left| {{flagIOC|QAT|2008 Summer}}|| 13:53.38 || 
+|-
+| 13 ||align=left| [[Takayuki Matsumiya]] ||align=left| {{flagIOC|JPN|2008 Summer}}|| 14:20.24 || 
+|-
+| 14 ||align=left| [[Soe Min Thu]] ||align=left| {{flagIOC|MYA|2008 Summer}}|| 15:50.56 || 
+|}
+
+=== Heat 2 ===
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !!Athlete !! Nationality !! Time !! Notes
+|-bgcolor=ccffcc
+| 1 ||align=left| [[Edwin Cheruiyot Soi]] ||align=left| {{flagIOC|KEN|2008 Summer}}|| 13:46.41 || Q
+|-bgcolor=ccffcc
+| 2 ||align=left| [[Moses Ndiema Kipsiro]] ||align=left| {{flagIOC|UGA|2008 Summer}}|| 13:46.58 || Q
+|-bgcolor=ccffcc
+| 3 ||align=left| [[Abreham Cherkos]] ||align=left| {{flagIOC|ETH|2008 Summer}}|| 13:47.60 || Q
+|-bgcolor=ccffcc
+| 4 ||align=left| [[Jesús España]] ||align=left| {{flagIOC|ESP|2008 Summer}}|| 13:48.88 || Q
+|-
+| 5 ||align=left| [[Ali Abdalla]] ||align=left| {{flagIOC|ERI|2008 Summer}}|| 13:49.68 || 
+|-
+| 6 ||align=left| [[Mo Farah]] ||align=left| {{flagIOC|GBR|2008 Summer}}|| 13:50.95 || 
+|-
+| 7 ||align=left| [[Adrian Blincoe]] ||align=left| {{flagIOC|NZL|2008 Summer}}|| 13:55.27 || 
+|-
+| 8 ||align=left| [[Mourad Marofit]] ||align=left| {{flagIOC|MAR|2008 Summer}}|| 14:00.76 || 
+|-
+| 9 ||align=left| [[Ian Dobson (athlete)|Ian Dobson]] ||align=left| {{flagIOC|USA|2008 Summer}}|| 14:05.47 || 
+|-
+| 10 ||align=left| [[Tonny Wamulwa]] ||align=left| {{flagIOC|ZAM|2008 Summer}}|| 14:06.96 || 
+|-
+| 11 ||align=left| [[Kevin Sullivan (athletics)|Kevin Sullivan]] ||align=left| {{flagIOC|CAN|2008 Summer}}|| 14:09.16 || 
+|-
+| 12 ||align=left| [[Ali Saïdi-Sief]] ||align=left| {{flagIOC|ALG|2008 Summer}}|| 14:15.00 || 
+|-
+| 13 ||align=left| [[Nader Almassri]] ||align=left| {{flagIOC|PLE|2008 Summer}}|| 14:41.10 || 
+|-
+| {{Sort|99|}} ||align=left| [[Rashid Ramzi]] ||align=left| {{flagIOC|BRN|2008 Summer}}|| {{Sort|99:99.00|DNS}} || 
+|}
+
+=== Heat 3 ===
+[[File:2008 Summer Olympics - Men's 5000m Round 1 - Heat 3.jpg|thumb|2008 Summer Olympics - Men's 5000m Round 1 - Heat 3]]
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !!Athlete !! Nationality !! Time !! Notes
+|-bgcolor=ccffcc
+| 1 ||align=left| [[Bernard Lagat]] ||align=left| {{flagIOC|USA|2008 Summer}}|| 13:39.70 || Q
+|-bgcolor=ccffcc
+| 2 ||align=left| [[James Kwalia C'Kurui]] ||align=left| {{flagIOC|QAT|2008 Summer}}|| 13:39.96 || Q
+|-bgcolor=ccffcc
+| 3 ||align=left| [[Kenenisa Bekele]] ||align=left| {{flagIOC|ETH|2008 Summer}}|| 13:40.13 || Q
+|-bgcolor=ccffcc
+| 4 ||align=left| [[Thomas Pkemei Longosiwa]] ||align=left| {{flagIOC|KEN|2008 Summer}}|| 13:41.30 || Q
+|-
+| 5 ||align=left| [[Craig Mottram]] ||align=left| {{flagIOC|AUS|2008 Summer}}|| 13:44.39 || 
+|-
+| 6 ||align=left| [[Moukheld Al-Outaibi]] ||align=left| {{flagIOC|KSA|2008 Summer}}|| 13:47.00 || 
+|-
+| 7 ||align=left| [[Kensuke Takezawa]] ||align=left| {{flagIOC|JPN|2008 Summer}}|| 13:49.42 || SB
+|-
+| 8 ||align=left| [[Monder Rizki]] ||align=left| {{flagIOC|BEL|2008 Summer}}|| 13:54.41 || 
+|-
+| 9 ||align=left| [[Alberto García (athlete)|Alberto García]] ||align=left| {{flagIOC|ESP|2008 Summer}}|| 13:58.20 || 
+|-
+| 10 ||align=left| [[Philippe Bandi]] ||align=left| {{flagIOC|SUI|2008 Summer}}|| 13:59.68 || 
+|-
+| 11 ||align=left| [[Abdelaziz Ennaji El Idrissi]] ||align=left| {{flagIOC|MAR|2008 Summer}}|| 14:05.30 || 
+|-
+| 12 ||align=left| [[Abdinasir Said Ibrahim]] ||align=left| {{flagIOC|SOM|2008 Summer}}|| 14:21.58 || 
+|-
+| {{Sort|99|}} ||align=left| [[Selim Bayrak]] ||align=left| {{flagIOC|TUR|2008 Summer}}|| {{Sort|99:99.00|DNS}} || 
+|-
+| {{Sort|99|}} ||align=left| [[Hasan Mahboob]] ||align=left| {{flagIOC|BRN|2008 Summer}}|| {{Sort|99:99.00|DNS}} || 
+|-
+| {{Sort|99|}} ||align=left| [[David Galván]] ||align=left| {{flagIOC|MEX|2008 Summer}}|| {{Sort|99:99.00|DNS}} || 
+|}
+
+=== Final ===
+
+23 August 2008 - 20:10
+{| class="wikitable sortable" style="text-align:center"
+!Rank!!Athlete!!Country!!Time!!Notes<ref>{{cite web |title=5000M men |url=http://wikirun.com/5000M_men#Finals |url-status=dead |archive-url=https://web.archive.org/web/20120216084329/http://wikirun.com/5000M_men#Finals |archive-date=2012-02-16 |access-date=2008-08-23 |website=wikirun.com}}</ref>
+|-
+| {{Gold1}} ||align="left"| [[Kenenisa Bekele]] ||align="left"| {{flagIOC|ETH|2008 Summer}}||12:57.82||{{OlyR|athletics}}
+|-
+|{{Silver2}}||align="left"| [[Eliud Kipchoge]] ||align="left"| {{KEN|2008 Summer}}||13:02.80|| 
+|-
+| {{Bronze3}} ||align="left"| [[Edwin Cheruiyot Soi]] ||align="left"| {{KEN|2008 Summer}}||13:06.22||SB
+|-
+|4||align="left"| [[Moses Ndiema Kipsiro]] ||align="left"| {{UGA|2008 Summer}}||13:10.56|| 
+|-
+|5||align="left"| [[Abreham Cherkos]] ||align="left"| {{flagIOC|ETH|2008 Summer}}||13:16.46|| 
+|-
+|6||align="left"| [[Tariku Bekele]] ||align="left"| {{flagIOC|ETH|2008 Summer}}||13:19.06|| 
+|-
+|7||align="left"| [[Juan Luis Barrios]] ||align="left"| {{MEX|2008 Summer}}||13:19.79||SB
+|-
+|8||align="left"| [[James Kwalia C'Kurui]] ||align="left"| {{QAT|2008 Summer}}||13:23.48|| 
+|-
+|9||align="left"| [[Bernard Lagat]] ||align="left"| {{USA|2008 Summer}}||13:26.89|| 
+|-
+|10||align="left"| [[Kidane Tadasse]] ||align="left"| {{ERI|2008 Summer}}||13:28.40|| 
+|-
+|11||align="left"| [[Alemayehu Bezabeh]] ||align="left"| {{ESP|2008 Summer}}||13:30.48|| 
+|-
+|12||align="left"| [[Thomas Pkemei Longosiwa]] ||align="left"| {{KEN|2008 Summer}}||13:31.34|| 
+|-
+|13||align="left"| [[Matthew Tegenkamp]] ||align="left"| {{USA|2008 Summer}}||13:33.13|| 
+|-
+|14||align="left"| [[Jesús España]] ||align="left"| {{ESP|2008 Summer}}||13:55.94|| 
+|-
+|{{Sort|99|}}||align="left"| [[Alistair Cragg]] ||align="left"| {{IRL|2008 Summer}}||{{Sort|99:99.99|DNF }}|| 
+|}
+
+=== Splits ===
+{| class="wikitable" width=70%
+|-
+! Intermediate !! Athlete !! Country !! Mark
+|-
+| 1000m || [[Tariku Bekele]] || {{flag|Ethiopia|1996}} || 2:45.49
+|-
+| 2000m || [[Tariku Bekele]] || {{flag|Ethiopia|1996}} || 5:22.29
+|-
+| 3000m || [[Kenenisa Bekele]] || {{flag|Ethiopia|1996}} || 8:00.85
+|-
+| 4000m || [[Kenenisa Bekele]] || {{flag|Ethiopia|1996}} || 10:32.52
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{Olympics5000metres}}
+{{Footer Olympic Champions 5000 m Men}}
+
+{{DEFAULTSORT:Athletics at the 2008 Summer Olympics - Men's 5000 metres}}
+[[Category:Athletics at the 2008 Summer Olympics]]
+[[Category:2008 in men's sport of athletics]]
+[[Category:5000 metres at the Olympics]]
+[[Category:Men's events at the 2008 Summer Olympics]]

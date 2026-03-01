@@ -1,0 +1,97 @@
+{{infobox country at games
+| NOC = LTU
+| NOCname = [[Lithuanian National Olympic Committee]]
+| games = Winter Olympics
+| year = 1928
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.ltok.lt }}&nbsp;{{in lang|lt|en}}
+| location = [[St. Moritz]]
+| competitors = [[Kęstutis Bulota]]
+| sports = 1
+| flagbearer = Kęstutis Bulota
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1928
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = {{flagIOC|RU1}} (1900–1912)<br/>{{flagIOC|URS}} (1952–1988)
+}}
+
+Lithuania participated at the [[1928 Winter Olympics]] in [[St. Moritz]], Switzerland, held between 11 and 19 February 1928. The country's participation in the Games marked its debut at the [[Winter Olympics]]. The Lithuanian team consisted of a lone athlete [[Kęstutis Bulota]] who competed across four events in [[speed skating]]. Bulota also served as the country's flag-bearer during the opening ceremony. Lithuania did not win any medal in the Games.
+
+== Background ==
+The [[1924 Summer Olympics]] marked Lithuania's first participation in the Olympic Games. The nation made its debut in the [[Winter Olympics]] at the [[1928 Winter Olympics|1928 Games]].<ref name="Lithuania">{{cite web|url=https://www.olympedia.org/countries/LTU|title=Lithuania at the Olympics|work=[[Olympedia]]|access-date=1 June 2024}}</ref> This would be the country's last participation in the Winter Games before [[1992 Winter Olympics|1992]] after its independence from the Soviet Union. The [[Lithuanian National Olympic Committee]] would be recognized by the [[International Olympic Committee]] (IOC) only in 1991.<ref name="Lithuania"/>
+
+The 1928 Winter Olympics was held in [[St. Moritz]], Switzerland, between 11 and 19 February 1928.<ref name="Olympics">{{cite web|url=https://www.olympics.com/en/olympic-games/st-moritz-1928|title=St. Moritz 1928|work=[[Olympics.com]]|access-date=3 February 2024}}</ref><ref>{{cite web|url=https://www.olympedia.org/editions/30|title=1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref> The Lithuanian delegation consisted of a lone athlete [[Kęstutis Bulota]].<ref name="Result">{{cite web|url=https://www.olympedia.org/countries/LTU/editions/30|title=Lithuania at the 1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref><ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/countries/LTU/winter/1928/|title=Lithuania at 1928 Winter Olympics|work=Sports Reference|access-date=1 June 2001|archive-url=https://web.archive.org/web/20200417092656/https://www.sports-reference.com/olympics/countries/LTU/winter/1928/|archive-date=17 April 2020}}</ref> Bulota also served as the country's flag-bearer in the Parade of Nations during the opening ceremony.<ref>{{cite web|url=https://www.olympedia.org/flagbearers?edition_id=30|title=Flag bearers at the 1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref>  Lithuania did not win any medal in the Games.<ref name="Lithuania"/><ref>{{cite book|title=Résultats des Concours des II<sup>mes</sup> Jeux Olympiques d'hiver |author=Comité Olympique Suisse |publisher=Imprimerie du Léman |location=Lausanne |year=1928 |language=French |url=http://www.la84foundation.org/6oic/OfficialReports/1928/1928w2.pdf |format=PDF |access-date=1 June 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20101217062055/http://la84foundation.org/6oic/OfficialReports/1928/1928w2.pdf |archive-date=17 December 2010}}</ref>
+
+== Competitors ==
+Lithuania sent a single athlete who competed in four events in a single sport at the Games.<ref name="Result"/><ref name="SR"/>
+{|class="wikitable sortable" style="text-align:center;"
+|-
+!width=120|Sport
+!width=55|Men
+!width=55|Women
+!width="55"|Athletes
+|-
+|align=left|[[Speed skating at the 1928 Winter Olympics|Speed skating]]
+|1||0||1
+|-
+!Total
+!1
+!0
+!1
+|}
+
+== Speed skating ==
+[[File:Kęstutis_Bulota_LFLS.JPG|thumb|[[Kęstutis Bulota]] was the country's lone representative at the Games]]
+{{main|Speed skating at the 1928 Winter Olympics}}
+
+[[Speed skating]] competitions were held on 13 and 14 February at the 	Olympia-Eisstadion Badrutts Park in St. Moritz.<ref name="R1">{{cite web|url=https://www.olympedia.org/results/961|title=Speed skating, 500m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref><ref name="R2">{{cite web|url=https://www.olympedia.org/results/963|title=Speed skating, 5000m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref> [[Kęstutis Bulota]] participated in four events in the competition.<ref name="Result"/><ref name="SR"/>
+
+Bulota was born in 1896 in [[Tallinn]] in neighboring Estonia. He was Lithuania’s first representative at the Winter Olympics, and the nation’s only representative in [[speed skating]] at the Games. He finished 21st in the 1928 World Championships held a week prior to the Games in [[Davos]]. Bulota competed in multiple sports in his native Lithuania. He was one of the founders of club [[LFLS Kaunas]]. He won the national football title in 1922 and 1923, and national ice hockey title in 1926 with the club. He was also a medalist in [[track cycling]] and various athletic events such as the [[relay (race)|relay]], [[high jump]] and [[hammer throw]].<ref>{{cite web|url=https://www.olympics.com/en/athletes/kestutis-bulota|title=Kęstutis Bulota|work=[[Olympics.com]] |access-date=1 January 2024}}</ref>
+
+In the [[Speed skating at the 1928 Winter Olympics – Men's 500 metres|500 m]] and [[Speed skating at the 1928 Winter Olympics – Men's 1500 metres|1500 m]] events, Bulota was placed joint 28th and 25th respectively.<ref name="R1"/><ref name="R3">{{cite web|url=https://www.olympedia.org/results/962|title=Speed skating, 1500m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref> In the [[Speed skating at the 1928 Winter Olympics – Men's 5000 metres|5000 m]], despite the weather getting worse as the competition progressed, Bulota, who started earlier in the fourth race, ended in 25th place amongst the 32 competitors.<ref name="R2"/> In the [[Speed skating at the 1928 Winter Olympics – Men's 10000 metres|10000 m]] race, Bulota completed the run as a part of the second pair, and was ranked fifth in the initial standings. However, as the weather became prohibitive as the session progressed, the results were annulled and no medals were awarded.<ref name="R4">{{cite web|url=https://www.olympedia.org/results/964|title=Speed skating, 10000m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref>
+
+{|class="wikitable" border="1" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|rowspan="4"|[[Kęstutis Bulota]]
+|[[Speed skating at the 1928 Winter Olympics – Men's 500 metres|Men's 500 m]] 
+|50.1
+|=28
+|-
+| [[Speed skating at the 1928 Winter Olympics – Men's 1500 metres|Men's 1,500 m]]
+|2:40.9
+|25
+|-
+| [[Speed skating at the 1928 Winter Olympics – Men's 5000 metres|Men's 5,000 m]] 
+|9:49.8
+|25
+|-
+| [[Speed skating at the 1928 Winter Olympics – Men's 10000 metres|Men's 10,000 m]]
+|20:22.2
+|{{abbr|AF|Annulled}}
+|}
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20200417041048/https://www.sports-reference.com/olympics/winter/1928/ Olympic Winter Games 1928, full results by sports-reference.com]
+
+{{Nations at the 1928 Winter Olympics}}
+{{Country at games navbox|Lithuania|Olympics}}
+
+[[Category:Nations at the 1928 Winter Olympics]]
+[[Category:Lithuania at the Winter Olympics by year|1928]]
+[[Category:1928 in Lithuanian sport|Olympics, Winter]]

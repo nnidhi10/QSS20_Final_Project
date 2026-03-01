@@ -1,0 +1,196 @@
+{{Short description|48th edition of the Biathlon World Championships}}
+{{Infobox games
+| name               = Biathlon World Championships 2016
+| logo               = Biathlon World Championships 2016 logo.png
+| size               =
+| caption            = 
+| host_city          = [[Oslo]]
+| country            = [[Norway]]
+| motto              = 
+| nations            = 
+| teams              = 
+| debuting_countries = 
+| athletes           = 
+| events             = 11
+| opening            = 3 March
+| closing            = 13 March
+| opened_by          = 
+| stadium            = 
+| website            = 
+| previous           = [[Biathlon World Championships 2015|Kontiolahti 2015]]
+| next               = [[Biathlon World Championships 2017|Hochfilzen 2017]] 
+}}
+{{Biathlon World Championships 2016}}
+'''The 48th [[Biathlon World Championships]]''' was held in [[Oslo]], [[Norway]] from 3 to 13 March 2016.<ref>{{cite web|url=http://www.biathlonworld.com/en/press_releases.html/do/detail?presse=1663|title=Oslo and Hochfilzen Selected as World Championship Host|date=September 2, 2012|publisher=biathlonworld.com|url-status=dead|archive-url=https://web.archive.org/web/20120904224920/http://www.biathlonworld.com/en/press_releases.html/do/detail?presse=1663|archive-date=September 4, 2012}}</ref>
+
+There were 11 competitions in total: sprint, pursuit, individual, mass start, relay races for men and women, and mixed relay. All the events during this championships also counted towards the Biathlon World Cup.
+
+==Host selection==
+Oslo was the sole candidate for this championship. Oslo was announced as the host city on 2 September 2012 during the X [[International Biathlon Union|IBU]] Congress in [[Merano]], [[Italy]]. Two years earlier Oslo lost [[Biathlon World Championships 2015]] to Kontiolahti.<ref>{{cite web|url=http://www.biathlonworld.com/en/press_releases.html/do/detail?presse=1029|title=IBU World Championships 2015 to be held in Kontiolahti|publisher=Biathlonworld.com|access-date=February 26, 2012|archive-url=https://web.archive.org/web/20131203025435/http://www4.biathlonworld.com/en/press_releases.html/do/detail?presse=1029|archive-date=December 3, 2013|url-status=dead}}</ref> This was the sixth time that these World Championships were held in Oslo; the city had previously hosted the event in [[Biathlon World Championships 1986|1986]], [[Biathlon World Championships 1990|1990]] (certain events held in Oslo due to difficult weather in the host city of Minsk), [[Biathlon World Championships 1999|1999]] (certain events held in Oslo due to difficult weather in the host city of Kontiolahti), [[Biathlon World Championships 2000|2000]] and [[Biathlon World Championships 2002|2002]] (only the mass start as it was not on the program for the 2002 Olympics).
+
+==Schedule==
+[[File:World Championship Biathlon Oslo 2016 Medal Ceremony 9 March.jpg|thumb|Medal ceremony after women's 15 km individual event at Medal Plaza of the University, [[Karl Johans gate]], 9 March 2016. From left to right: [[Laura Dahlmeier]], [[Marie Dorin Habert]] and [[Anaïs Bescond]].]]
+''All times are local ([[Central European Time|UTC+1]]).''<ref>{{cite web |url=http://www3.biathlonworld.com/en/events.html/do/showevent?EventId=BT1516SWRLCH__ |title=IBU World Championships 2016 Schedule |publisher=Biathlonworld.com |date=21 October 2016 |access-date=21 October 2015 |archive-url=https://web.archive.org/web/20151005075526/http://www5.biathlonworld.com/en/events.html/do/showevent?EventId=BT1516SWRLCH__ |archive-date=5 October 2015 |url-status=dead }}</ref>
+
+{| class="wikitable"
+|-
+! Date
+! Time
+! Event
+|-
+| 3 March || 15:30 || 2 × 6&nbsp;km + 2 × 7.5&nbsp;km mixed relay
+|-
+| rowspan=2 | 5 March || 11:30 || Men's 10&nbsp;km sprint
+|-
+| 14:30 || Women's 7.5&nbsp;km sprint
+|-
+| rowspan=2 | 6 March || 13:30 || Men's 12.5&nbsp;km pursuit
+|-
+| 15:45 || Women's 10&nbsp;km pursuit
+|-
+| 9 March || 13:00 || Women's 15&nbsp;km individual
+|-
+| 10 March || 15:30 || Men's 20&nbsp;km individual
+|-
+| 11 March || 15:30 || Women's 4 × 6&nbsp;km relay
+|-
+| 12 March || 15:30 || Men's 4 × 7.5&nbsp;km relay
+|-
+| rowspan=2 | 13 March || 13:00 || Women's 12.5&nbsp;km mass start
+|-
+| 16:00 || Men's 15&nbsp;km mass start
+|}
+
+==Medal summary==
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = 
+ | event          = 
+ | team           = 
+ | gold_FRA = 6 | silver_FRA = 4 | bronze_FRA = 1
+ | gold_NOR = 4 | silver_NOR = 2 | bronze_NOR = 3
+ | gold_GER = 1 | silver_GER = 3 | bronze_GER = 3
+ | gold_AUT = 0 | silver_AUT = 1 | bronze_AUT = 1
+ | gold_ITA = 0 | silver_ITA = 1 | bronze_ITA = 0
+ | gold_CAN = 0 | silver_CAN = 0 | bronze_CAN = 1
+ | gold_FIN = 0 | silver_FIN = 0 | bronze_FIN = 1
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+}}
+
+===Top athletes===
+All athletes with two or more medals.
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagathlete
+ | event          = 
+ | team           = 
+ | gold_1   = 4 | silver_1   = 1 | bronze_1   = 0 | name_1  = {{flagathlete|[[Martin Fourcade]]|FRA}}
+ | gold_2   = 3 | silver_2   = 2 | bronze_2   = 1 | name_2  = {{flagathlete|[[Marie Dorin Habert]]|FRA}}
+ | gold_3   = 2 | silver_3   = 0 | bronze_3   = 1 | name_3  = {{flagathlete|[[Johannes Thingnes Bø]]|NOR}}
+ | gold_4   = 2 | silver_4   = 0 | bronze_4   = 1 | name_4  = {{flagathlete|[[Tiril Eckhoff]]|NOR}}
+ | gold_5   = 1 | silver_5   = 2 | bronze_5   = 1 | name_5  = {{flagathlete|[[Ole Einar Bjørndalen]]|NOR}}
+ | gold_6   = 1 | silver_6   = 2 | bronze_6   = 0 | name_6  = {{flagathlete|[[Anaïs Bescond]]|FRA}}
+ | gold_7   = 1 | silver_7   = 1 | bronze_7   = 3 | name_7  = {{flagathlete|[[Laura Dahlmeier]]|GER}}
+ | gold_8   = 1 | silver_8   = 0 | bronze_8   = 1 | name_8  = {{flagathlete|[[Tarjei Bø]]|NOR}}
+ | gold_9   = 1 | silver_9   = 0 | bronze_9   = 1 | name_9  = {{flagathlete|[[Marte Olsbu]]|NOR}}
+ | gold_10  = 1 | silver_10  = 0 | bronze_10  = 1 | name_10 = {{flagathlete|[[Emil Hegle Svendsen]]|NOR}}
+ | gold_11  = 0 | silver_11  = 2 | bronze_11  = 0 | name_11 = {{flagathlete|[[Arnd Peiffer]]|GER}}
+ | gold_12  = 0 | silver_12  = 2 | bronze_12  = 0 | name_12 = {{flagathlete|[[Simon Schempp]]|GER}}
+ | gold_13  = 0 | silver_13  = 1 | bronze_13  = 1 | name_13 = {{flagathlete|[[Franziska Hildebrand]]|GER}}
+ | gold_14  = 0 | silver_14  = 1 | bronze_14  = 1 | name_14 = {{flagathlete|[[Franziska Preuß]]|GER}}
+ | hide_totals = yes
+}}
+
+==Medal winners==
+
+===Men===
+[[Image:2016 Biathlon World Championships 2016-03-13 (25993108514).jpg|thumb|All the athletes together at the start of the mass start.]]
+{| {{MedalistTable|type=Event|labelwidth=200|width=200|columns=2}}
+|-
+| 10&nbsp;km sprint<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SMSP/BT_C73B_1.0.pdf Men's sprint results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Men's sprint}}
+|{{flagmedalist|[[Martin Fourcade]]|FRA}} || 25:35.4<br>(0+0)
+|{{flagmedalist|[[Ole Einar Bjørndalen]]|NOR}} || 26:02.3<br>(0+0)
+|{{flagmedalist|[[Serhiy Semenov]]|UKR}} || 26:03.0<br>(0+0)
+|-
+| 12.5&nbsp;km pursuit<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SMPU/BT_C73D_1.0.pdf Men's pursuit results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Men's pursuit}}
+|{{flagmedalist|[[Martin Fourcade]]|FRA}} || 32:56.5<br>(0+0+1+2)
+|{{flagmedalist|[[Ole Einar Bjørndalen]]|NOR}} || 33:16.5<br>(1+0+0+1)
+|{{flagmedalist|[[Emil Hegle Svendsen]]|NOR}} || 33:27.7<br>(0+0+0+1)
+|-
+| 20&nbsp;km individual<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SMIN/BT_C73A_1.0.pdf Men's individual results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Men's individual}}
+|{{flagmedalist|[[Martin Fourcade]]|FRA}} || 49:13.9<br>(0+1+0+0)
+|{{flagmedalist|[[Dominik Landertinger]]|AUT}} || 49:19.0<br>(0+0+0+0)
+|{{flagmedalist|[[Simon Eder]]|AUT}} || 49:28.3<br>(0+0+0+0)
+|-
+| 4 × 7.5&nbsp;km relay<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SMRL/BT_C73C_1.0.pdf Men's relay results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Men's relay}}
+|{{relay|{{NOR}}|[[Ole Einar Bjørndalen]]|[[Tarjei Bø]]|[[Johannes Thingnes Bø]]|[[Emil Hegle Svendsen]]}} || 1:13:16.8<br><small>(0+0) (0+2)<br>(0+1) (0+1)<br>(0+0) (0+0)<br>(0+0) (0+2)</small>
+|{{relay|{{GER}}|[[Erik Lesser]]|[[Benedikt Doll]]|[[Arnd Peiffer]]|[[Simon Schempp]]}} || 1:13:28.3<br><small>(0+0) (0+0)<br>(0+1) (0+1)<br>(0+1) (0+1)<br>(0+0) (0+1)</small>
+|{{relay|{{CAN}}|[[Christian Gow]]|[[Nathan Smith (biathlete)|Nathan Smith]]|[[Scott Gow]]|[[Brendan Green]]}} || 1:13:40.2<br><small>(0+0) (0+0)<br>(0+1) (0+1)<br>(0+0) (0+3)<br>(0+0) (0+0)</small>
+|-
+| 15&nbsp;km mass start<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SMMS/BT_C73E_1.0.pdf Men's mass start results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Men's mass start}}
+|{{flagmedalist|[[Johannes Thingnes Bø]]|NOR}} || 37:05.1<br>(0+0+1+0)
+|{{flagmedalist|[[Martin Fourcade]]|FRA}} || 37:07.9<br>(1+0+0+0)
+|{{flagmedalist|[[Ole Einar Bjørndalen]]|NOR}} || 37:11.8<br>(0+0+0+0)
+|}
+
+===Women===
+[[Image:2016 Biathlon World Championships 2016-03-13 (26580365855).jpg|thumb|Marie Dorin-Habert and Laura Dahlmeier during the mass start.]]
+{| {{MedalistTable|type=Event|labelwidth=200|width=200|columns=2}}
+|-
+| 7.5&nbsp;km sprint<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SWSP/BT_C73B_1.0.pdf Women's sprint results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Women's sprint}}
+|{{flagmedalist|[[Tiril Eckhoff]]|NOR}} || 21:10.8<br>(0+0)
+|{{flagmedalist|[[Marie Dorin Habert]]|FRA}} || 21:25.8<br>(0+0)
+|{{flagmedalist|[[Laura Dahlmeier]]|GER}} || 21:30.6<br>(1+0)
+|-
+| 10&nbsp;km pursuit<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SWPU/BT_C73D_1.0.pdf Women's pursuit results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Women's pursuit}}
+|{{flagmedalist|[[Laura Dahlmeier]]|GER}} || 30:49.2<br>(0+0+0+0)
+|{{flagmedalist|[[Dorothea Wierer]]|ITA}} || 31:37.5<br>(0+1+1+0)
+|{{flagmedalist|[[Marie Dorin Habert]]|FRA}} || 31:46.5<br>(0+0+2+1)
+|-
+| 15&nbsp;km individual<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SWMS/BT_C73E_1.0.pdf Women's individual results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Women's individual}}
+|{{flagmedalist|[[Marie Dorin Habert]]|FRA}} || 44:02.8<br>(0+0+0+1)
+|{{flagmedalist|[[Anaïs Bescond]]|FRA}} || 44:15.0<br>(0+0+0+1)
+|{{flagmedalist|[[Laura Dahlmeier]]|GER}} || 45:20.6<br>(1+0+1+0)
+|-
+| 4 × 6&nbsp;km relay<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SWRL/BT_C73C_1.0.pdf Women's relay results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Women's relay}}
+|{{relay|{{NOR}}|[[Synnøve Solemdal]]|[[Fanny Horn Birkeland]]|[[Tiril Eckhoff]]|[[Marte Olsbu Røiseland|Marte Olsbu]]}} || 1:07:10.1<br><small>(0+0) (0+0)<br>(0+1) (0+1)<br>(0+0) (0+0)<br>(0+2) (0+2)</small>
+|{{relay|{{FRA}}|[[Justine Braisaz-Bouchet|Justine Braisaz]]|[[Anaïs Bescond]]|[[Anaïs Chevalier-Bouchet|Anaïs Chevalier]]|[[Marie Dorin Habert]]}} || 1:07:15.3<br><small>(0+3) (0+2)<br>(0+0) (0+0)<br>(0+0) (0+1)<br>(0+2) (0+0)</small>
+|{{relay|{{GER}}|[[Franziska Preuß]]|[[Franziska Hildebrand]]|[[Maren Hammerschmidt]]|[[Laura Dahlmeier]]}} || 1:07:38.7<br><small>(0+0) (0+2)<br>(0+0) (0+0)<br>(0+0) (0+2)<br>(0+0) (0+0)</small>
+|-
+| 12.5&nbsp;km mass start<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/SWMS/BT_C73E_1.0.pdf Women's mass start results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Women's mass start}}
+|{{flagmedalist|[[Marie Dorin Habert]]|FRA}} || 35:28.5<br>(0+0+0+0)
+|{{flagmedalist|[[Laura Dahlmeier]]|GER}} || 35:35.8<br>(0+0+1+0)
+|{{flagmedalist|[[Kaisa Mäkäräinen]]|FIN}} || 35:36.6<br>(0+0+1+0)
+|}
+
+===Mixed===
+{| {{MedalistTable|type=Event|labelwidth=200|width=200|columns=2}}
+|-
+|{{nowrap|2 × 6 + 2 × 7.5&nbsp;km W+M relay}}<ref>[https://ibu.blob.core.windows.net/docs/1516/BT/SWRL/CH__/MXRL/BT_C73C_1.0.pdf Mixed relay results]</ref><br>{{DetailsLink|Biathlon World Championships 2016 – Mixed relay}}
+|{{relay|{{FRA}}|[[Anaïs Bescond]]|[[Marie Dorin Habert]]|[[Quentin Fillon Maillet]]|[[Martin Fourcade]]}} || 1:14:01.0<br><small>(0+0) (0+3)<br>(0+0) (0+1)<br>(0+2) (0+1)<br>(0+0) (0+1)</small>
+|{{relay|{{GER}}|[[Franziska Preuß]]|[[Franziska Hildebrand]]|[[Arnd Peiffer]]|[[Simon Schempp]]}} || 1:14:05.3<br><small>(0+2) (0+0)<br>(0+2) (0+0)<br>(0+0) (0+1)<br>(0+1) (0+1)</small>
+|{{relay|{{NOR}}|[[Marte Olsbu Røiseland|Marte Olsbu]]|[[Tiril Eckhoff]]|[[Johannes Thingnes Bø]]|[[Tarjei Bø]]}} || 1:14:15.4<br><small>(0+1) (0+0)<br>(0+2) (0+2)<br>(0+1) (0+1)<br>(0+3) (0+0)</small>
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{Official|https://www.oslo2016.no/}}
+*[https://web.archive.org/web/20151005075526/http://www5.biathlonworld.com/en/events.html/do/showevent?EventId=BT1516SWRLCH__ IBU] {{in lang|en}}
+
+{{Biathlon World Championships}}
+{{World championships in 2016}}
+
+[[Category:Biathlon World Championships 2016| ]]
+[[Category:Biathlon World Championships|2016]]
+[[Category:2016 in biathlon]]
+[[Category:2016 in Norwegian sport]]
+[[Category:International sports competitions in Oslo]]
+[[Category:Biathlon competitions in Norway]]
+[[Category:2010s in Oslo]]
+[[Category:March 2016 sports events in Europe]]
+[[Category:Holmenkollen]]

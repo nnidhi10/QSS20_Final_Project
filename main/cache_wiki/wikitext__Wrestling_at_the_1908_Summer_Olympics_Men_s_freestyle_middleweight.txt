@@ -1,0 +1,124 @@
+{{Short description|none}}
+{{Short description|Wrestling at the Olympics}}
+{{Infobox Olympic event
+|event = Men's middleweight freestyle wrestling
+|games = 1908 Summer
+|image = 
+|caption = 
+|venue = [[White City Stadium]]
+|dates = July 21 (R16, quarters, semis) <br> July 22 (final, bronze match)
+|competitors = 12
+|nations = 3
+|longnames = 
+|gold = [[Stanley Bacon]]
+|goldNOC = GBR
+|silver = [[George de Relwyskow]]
+|silverNOC = GBR
+|bronze = [[Frederick Beck]]
+|bronzeNOC = GBR
+|prev = 
+|next = [[Wrestling at the 1920 Summer Olympics – Men's freestyle middleweight|1920]]
+}}
+{{WrestlingAt1908SummerOlympics}}
+
+The '''freestyle middleweight''' was one of five [[freestyle wrestling]] weight classes contested on the [[Wrestling at the 1908 Summer Olympics]] programme. Like all other wrestling events, it was open only to men.  The [[middleweight]] was the second-heaviest weight class, allowing wrestlers of up to 73 kilograms (161&nbsp;lb).<ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/summer/1908/WRE/mens-middleweight-freestyle.html |archive-url=https://web.archive.org/web/20200418130410/https://www.sports-reference.com/olympics/summer/1908/WRE/mens-middleweight-freestyle.html |url-status=dead |archive-date=18 April 2020 |title=Wrestling at the 1908 London Summer Games: Men's Middleweight, Freestyle |work=Sports Reference |access-date=28 February 2019}}</ref> Each nation could enter up to 12 wrestlers.<ref name=OR40>Official Report, p. 40.</ref>
+
+==Competition format==
+
+The event was a single-elimination tournament with a bronze medal match between the semifinal losers. The final and bronze medal match were best two-of-three, while all other rounds were a single bout. Bouts were 15 minutes, unless one wrestler lost by fall (two shoulders on the ground at the same time). Other than falls, decisions were made by the judges or, if they did not agree, the referee.
+
+Wrestlers could "take hold how and where they please[d]" except that "hair, flesh, ears, private parts, or clothes may not be seized"; striking, scratching, twisting fingers, butting, and kicking were prohibited. Holds "obtained that the fear of breakage or dislocation of a limb shall induce a wrestler to give the fall" were outlawed, and particularly the double-nelson, hammerlock, strangle, half-strangle, scissors, hang, flying mare with palm uppermost, and the foot twist.<ref name=OR621to22>Official Report, pp. 621–22.</ref>
+
+==Results==
+
+===Standings===
+
+{| class=wikitable
+! Place || Wrestler || Nation
+|- bgcolor=gold
+|align=center| 1 || [[Stanley Bacon]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] [[Great Britain at the 1908 Summer Olympics|Great Britain]]
+|- bgcolor=silver
+|align=center| 2 || [[George de Relwyskow]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|- bgcolor=cc9966
+|align=center| 3 || [[Frederick Beck]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|-
+|align=center| 4 || [[Carl Andersson (wrestler)|Carl Andersson]] || [[Image:Flag of Sweden.svg|25px|Sweden]] [[Sweden at the 1908 Summer Olympics|Sweden]]
+|-
+|align=center rowspan=4| 5 || [[Edgar Bacon]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|-
+| [[Aubrey Coleman (wrestler)|Aubrey Coleman]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|-
+| [[John Craige (wrestler)|John Craige]] || [[Image:Flag of the United States of America (1908–1912).svg|25px|United States of America]] [[United States of America at the 1908 Summer Olympics|United States of America]]
+|-
+| [[Fred Narganes]] || [[Image:Flag of the United States of America (1908–1912).svg|25px|United States of America]] United States of America
+|-
+|align=center rowspan=4| 9 || [[Gerald Bradshaw]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|-
+| [[Harry Challstorp]] || [[Image:Flag of Sweden.svg|25px|Sweden]] Sweden
+|-
+| [[Horace Chenery]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|-
+| [[Arthur Wallis (wrestler)|Arthur Wallis]] || [[Image:Flag of the United Kingdom.svg|25px|Great Britain]] Great Britain
+|}
+
+===Bracket===
+{{Round16
+|score-boxes=0
+|skipmatch=3-4;7-8
+|omit_blanks=yes
+|team-width=260
+|3rdplace=no
+|RD1=First Round
+
+|Fall (2:44)
+ |{{flagIOCathlete|'''[[Aubrey Coleman (wrestling)|Aubrey Coleman]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Arthur Wallis (sport wrestler)|Arthur Wallis]]|GBR|1908 Summer}}
+|Fall (4:48)
+ |{{flagIOCathlete|'''[[Stanley Bacon]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Henry Chenery]]|GBR|1908 Summer}}
+|Fall (1:55)
+ |{{flagIOCathlete|'''[[Edgar Bacon]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Gerald Bradshaw]]|GBR|1908 Summer}}
+|Fall (3:10)
+ |{{flagIOCathlete|'''[[George de Relwyskow]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Harry Challstorp]]|SWE|1908 Summer}}
+
+|Fall (5:17)
+ |{{flagIOCathlete|[[Aubrey Coleman (wrestling)|Aubrey Coleman]]|GBR|1908 Summer}}
+ |{{flagIOCathlete|'''[[Stanley Bacon]]'''|GBR|1908 Summer}}
+|Fall (2:49)
+ |{{flagIOCathlete|'''[[Frederick Beck]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Frederico Narganes]]|USA|1908 Summer}}
+|Fall (6:30)
+ |{{flagIOCathlete|[[Edgar Bacon]]|GBR|1908 Summer}}
+ |{{flagIOCathlete|'''[[George de Relwyskow]]'''|GBR|1908 Summer}}
+|Decision
+ |{{flagIOCathlete|'''[[Carl Andersson (wrestler)|Carl Andersson]]'''|SWE|1908 Summer}}
+ |{{flagIOCathlete|[[John Craige (wrestler)|John Craige]]|USA|1908 Summer}}
+
+|Fall (3:20)
+ |{{flagIOCathlete|'''[[Stanley Bacon]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Frederick Beck]]|GBR|1908 Summer}} {{Olympic Bronze medal}}{{efn|name=bronze|After a protest from his semi-final was rejected, Andersson refused to participate in the bronze medal match, giving Beck third place}}
+|Decision
+ |{{flagIOCathlete|'''[[George de Relwyskow]]'''|GBR|1908 Summer}}
+ |{{flagIOCathlete|[[Carl Andersson (wrestler)|Carl Andersson]]|SWE|1908 Summer}}{{efn|name=bronze}}
+
+|2–0 (decision/decision)
+ |{{flagIOCathlete|'''[[Stanley Bacon]]'''|GBR|1908 Summer}} {{Olympic Gold medal}}
+ |{{flagIOCathlete|[[George de Relwyskow]]|GBR|1908 Summer}} {{Olympic Silver medal}}
+}}
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+
+==Sources==
+* {{cite book | last = Cook | first = Theodore Andrea | year = 1908 | title = The Fourth Olympiad, Being the Official Report | publisher = British Olympic Association | location = London}}
+* {{cite web | last = De Wael | first = Herman | year = 2001 | url = http://users.skynet.be/hermandw/olymp/wrf1908.html | title = Freestyle Wrestling 1908 | work = Herman's Full Olympians | access-date = 28 May 2006 }}
+
+{{Footer Olympic Champions freestyle wrestling middleweight}}
+
+{{DEFAULTSORT:Wrestling at the 1908 Summer Olympics - Men's freestyle middleweight}}
+[[Category:Wrestling at the 1908 Summer Olympics|Freestyle 4]]

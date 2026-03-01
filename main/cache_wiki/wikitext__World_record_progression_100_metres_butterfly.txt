@@ -1,0 +1,3224 @@
+{{Short description|none}}
+{{main|List of world records in swimming}}
+The first '''world record in the 100&nbsp;metres [[butterfly stroke|butterfly]]''' in long course (50&nbsp;metres) [[swimming (sport)|swimming]] was recognised by the [[International Swimming Federation]] (FINA) in [[1957 in sports|1957]], for both men and women. In the short-course (25&nbsp;metres) swimming events, the world's governing body recognizes world records since March 3, 1991.
+[[File:Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m.png|thumb|Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m Long and Short Course Butterfly-Backstroke-Breaststroke-Freestyle]]
+
+==Men==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 1:03.4
+|recordinfo = 
+|firstname =  György
+|lastname = Tumpek
+|namearticle = 
+|nation = HUN
+|date = {{Dts|format=dmy|1957|May|26}}
+|meet = -
+|country = HUN
+|city = Budapest
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 2
+|time = 1:01.5
+|recordinfo = 
+|firstname = Takashi
+|lastname = Ishimoto
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1957|June|16}}
+|meet = -
+|country = JPN
+|city = Kurume
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:01.3
+|recordinfo = 
+|firstname = Takashi
+|lastname = Ishimoto
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1957|July|7}}
+|meet = -
+|country = JPN
+|city = Tokyo
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:01.2
+|recordinfo = 
+|firstname = Takashi
+|lastname = Ishimoto
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1957|September|6}}
+|meet = -
+|country = JPN
+|city = Kurume
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:01.1
+|recordinfo = 
+|firstname = Takashi
+|lastname = Ishimoto
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1958|June|29}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:01.0
+|recordinfo = 
+|firstname = Takashi
+|lastname = Ishimoto
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1958|September|14}}
+|meet = -
+|country = JPN
+|city = Kōchi
+|cityarticle = Kōchi, 
+|ref =
+}}
+{{Swimmingrecord
+|number = 7
+|time = 59.0
+|recordinfo = 
+|firstname = Lance
+|lastname = Larson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1960|June|26}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 8
+|time = 58.7
+|recordinfo = 
+|firstname = Lance
+|lastname = Larson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1960|July|24}}
+|meet = -
+|country = USA
+|city = Toledo
+|cityarticle = Toledo, Ohio
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 58.6
+|recordinfo = 
+|firstname = Fred
+|lastname = Schmidt
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1961|August|20}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 58.4
+|recordinfo = 
+|firstname = Luis
+|lastname = Nicolao
+|namearticle = 
+|nation = ARG
+|date = {{Dts|format=dmy|1962|April|24}}
+|meet = -
+|country = BRA
+|city = Rio de Janeiro
+|ref =
+}}
+{{Swimmingrecord
+|number = 11
+|time = 57.0
+|recordinfo = 
+|firstname = Luis
+|lastname = Nicolao
+|namearticle = 
+|nation = ARG
+|date = {{Dts|format=dmy|1962|April|27}}
+|meet = -
+|country = BRA
+|city = Rio de Janeiro
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 56.3
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|July|31}}
+|meet = [[Swimming at the 1967 Pan American Games|Pan American Games]]
+|country = CAN
+|city = Winnipeg
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 56.3
+|recordinfo = =
+|firstname = Doug
+|lastname = Russell
+|namearticle = Doug Russell (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1967|August|29}}
+|meet = -
+|country = JPN
+|city = Tokyo
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.7
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|October|7}}
+|meet = -
+|country = FRG
+|city = West Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 55.6
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1968|August|30}}
+|meet = US Olympic Trials
+|country = USA
+|city = Long Beach
+|cityarticle = Long Beach, California
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 55.0
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1971|August|25}}
+|meet = AAU National Championships
+|country = USA
+|city = Houston
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 54.72
+|recordinfo = h
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|August|4}}
+|meet = US Olympic Trials
+|country = USA
+|city = Chicago
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 54.56
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|August|4}}
+|meet = US Olympic Trials
+|country = USA
+|city = Chicago
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 54.27
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|August|31}}
+|meet = [[Swimming at the 1972 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|country = FRG
+|city = Munich
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 54.18
+|recordinfo = 
+|firstname = Joe
+|lastname = Bottom
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1977|August|27}}
+|meet = USA vs GDR Dual Meet
+|country = GDR
+|city = East Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 54.15
+|recordinfo = 
+|firstname = Pär
+|lastname = Arvidsson
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|1980|April|11}}
+|meet = US National Championships
+|country = USA
+|city = Austin
+|cityarticle = Austin, Texas
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 53.81
+|recordinfo = 
+|firstname = William
+|lastname = Paulus
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1981|April|3}}
+|meet = -
+|country = USA
+|city = Austin
+|cityarticle = Austin, Texas
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 53.44
+|recordinfo = 
+|firstname = Matt
+|lastname = Gribble
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1983|August|6}}
+|meet = US National Championships
+|country = USA
+|city = Clovis
+|cityarticle = Clovis, California
+|ref =
+}}
+{{Swimmingrecord
+|number = 24
+|time = 53.38
+|recordinfo = 
+|firstname = Pablo
+|lastname = Morales
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1984|June|26}}
+|meet = US Olympic Trials
+|country = USA
+|city = Indianapolis
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 53.08
+|recordinfo = 
+|firstname = Michael
+|lastname = Gross
+|namearticle = Michael Gross (swimmer) 
+|nation = FRG
+|date = {{Dts|format=dmy|1984|7|30}}
+|meet = [[Swimming at the 1984 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|country = USA
+|city = Los Angeles
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 52.84
+|recordinfo = 
+|firstname = Pablo
+|lastname = Morales
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1986|June|23}}
+|meet = US National Championships
+|country = USA
+|city = Orlando
+|cityarticle = Orlando, Florida
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 52.32
+|recordinfo = 
+|firstname = Denis
+|lastname = Pankratov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|1995|August|23}}
+|meet = [[1995 European Aquatics Championships#Swimming|European Championships]]
+|country = AUT
+|city = Vienna
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 52.27
+|recordinfo = 
+|firstname = Denis
+|lastname = Pankratov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|1996|July|24}}
+|meet = [[Swimming at the 1996 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|country = USA
+|city = Atlanta
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 52.15
+|recordinfo = 
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1997|October|9}}
+|meet = Australian Championships
+|country = AUS
+|city = Brisbane
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 52.03
+|recordinfo = tt
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1999|December|10}}
+|meet = AIS Meet
+|country = AUS
+|city = Canberra
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 51.81
+|recordinfo = tt
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1999|December|12}}
+|meet = AIS Meet
+|country = AUS
+|city = Canberra
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 51.76
+|recordinfo = sf
+|firstname = Andriy
+|lastname = Serdinov
+|namearticle = 
+|nation = UKR
+|date = {{Dts|format=dmy|2003|July|25}}
+|meet = [[Swimming at the 2003 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = ESP
+|city = Barcelona
+|cityarticle = 
+|ref = <ref name=M2003WCsf>{{cite web|title=10th FINA World Championships - Men's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00010305004F000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=25 July 2003|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 33
+|time = 51.47
+|recordinfo = sf
+|firstname = Michael
+|lastname = Phelps
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2003|July|25}}
+|meet = [[Swimming at the 2003 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = ESP
+|city = Barcelona
+|cityarticle = 
+|ref = <ref name=M2003WCsf/>
+}}
+{{Swimmingrecord
+|number = 34
+|time = 50.98
+|recordinfo = 
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2003|July|26}}
+|meet = [[Swimming at the 2003 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = ESP
+|city = Barcelona
+|cityarticle = 
+|ref = <ref>{{cite web|title=10th FINA World Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000103050060000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=26 July 2003|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 35
+|time = 50.76
+|recordinfo = 
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2004|July|13}}
+|meet = [[2004 United States Olympic trials (swimming)|US Olympic Trials]]
+|country = USA
+|city = Long Beach
+|cityarticle = Long Beach, California
+|ref = <ref>{{cite web|title=2004 US Olympic Trials - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000104090043000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 July 2004|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 36
+|time = 50.40
+|recordinfo = 
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2005|July|30}}
+|meet = [[Swimming at the 2005 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = CAN
+|city = Montreal
+|ref = <ref name=M2005WC>{{cite web|title=10th FINA World Championships - Men's 100m Butterfly Final|url=https://www.omegatiming.com/File/00010509005D000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2005|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 37
+|time = 50.22
+|recordinfo = 
+|firstname = Michael
+|lastname = Phelps
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2009|July|9}}
+|meet = US National Championships
+|country = USA
+|city = Indianapolis
+|cityarticle = 
+|ref = <ref>{{cite web|title=2009 US National Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/0001090E0022000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=9 July 2009|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 38
+|time = 50.01
+|recordinfo = sf
+|firstname = Milorad
+|lastname = Čavić
+|namearticle = 
+|nation = SRB
+|date = {{Dts|format=dmy|2009|July|31}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = ITA
+|city = Rome
+|cityarticle = 
+|ref = <ref name=M2009WCsf>{{cite web|title=13th FINA World Championships - Men's 100m Butterfly Semifinal Results |url=https://www.omegatiming.com/File/0001090B004F000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=31 July 2009|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 39
+|time = 49.82
+|recordinfo = 
+|firstname = Michael
+|lastname = Phelps
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2009|August|1}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = ITA
+|city = Rome
+|cityarticle = 
+|ref = <ref name=M2009WC>{{cite web|title=13th FINA World Championships - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/0001090B005D000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=1 August 2009|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 49.50
+|recordinfo = sf
+|firstname = Caeleb
+|lastname = Dressel
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2019|July|26}}
+|meet = [[Swimming at the 2019 World Aquatics Championships – Men's 100 metre butterfly|World Championships]]
+|country = KOR
+|city = Gwangju
+|cityarticle = 
+|ref = <ref name=M2019WCsf>{{cite web|title=18th FINA World Championships - Men's 100m Butterfly Semifinals Results |url=https://www.omegatiming.com/File/00011301070104EC02FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=26 July 2019|access-date=7 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 41
+|time = 49.45
+|recordinfo = 
+|firstname = Caeleb
+|lastname = Dressel
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2021|July|31}}
+|meet = [[Swimming at the 2020 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|country = JPN
+|city = Tokyo
+|cityarticle = 
+|ref = <ref name=M2020OG>{{cite web|title=2020 Olympic Games - Men's 100m Butterfly Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MBF------------FNL-000100--.pdf|publisher=olympics.com|date=31 July 2021|accessdate=31 July 2021|archive-date=31 July 2021|archive-url=https://web.archive.org/web/20210731034904/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MBF------------FNL-000100--.pdf|url-status=dead}}</ref><ref name=M2020OGvideo>{{cite web|title=Video - Men's 100m Butterfly Final s|url=https://www.youtube.com/watch?v=Mu7ZmJduQPI |publisher= Olympics Aquatics
+|date=31 July 2021|accessdate=16 May 2023}}</ref>
+}}
+{{end}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 52.07
+|firstname = Marcel
+|lastname = Gery
+|namearticle = 
+|nation = CAN
+|date = {{Dts|format=dmy|1990|February|1}}
+|meet = -
+|city = Paris
+|country = FRA
+|ref = <ref>{{Cite web|url=https://www.swimming.ca/en/swimmer/4268693/|title = Marcel Gery – Swimming Canada}}</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 51.94
+|firstname = Denis
+|lastname = Pankratov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|1996|February|4}}
+|meet = World Cup
+|city = Paris
+|country = FRA
+|ref = <ref>{{Cite web |url=https://www.fina.org/sites/default/files/general/swc_2017_final.pdf |title=Archived copy |access-date=2018-04-01 |archive-date=2017-08-22 |archive-url=https://web.archive.org/web/20170822163931/http://www.fina.org/sites/default/files/general/swc_2017_final.pdf |url-status=dead }}</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 51.93
+|firstname = Denis
+|lastname = Pankratov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|1997|February|5}}
+|meet = World Cup
+|city = Imperia
+|cityarticle = Imperia (city)
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 51.78
+|firstname = Denis
+|lastname = Pankratov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|1997|February|9}}
+|meet = World Cup
+|city = Paris
+|country = FRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 51.16
+|recordinfo = h
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1998|January|22}}
+|meet = World Cup
+|city = Sydney
+|country =  AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 51.07
+|recordinfo = 
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1998|January|22}}
+|meet = World Cup
+|city = Sydney
+|country =  AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 51.02
+|firstname = James
+|lastname = Hickman
+|namearticle = 
+|nation = GBR
+|date = {{Dts|format=dmy|1998|December|14}}
+|meet =  [[1998 European Short Course Swimming Championships|European Championships]]
+|city = Sheffield
+|country = UK
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 50.99
+|recordinfo = 
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1999|September|2}}
+|meet = Australian Championships
+|city = Canberra
+|country =  AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 50.59
+|recordinfo = sf
+|firstname = Lars
+|lastname = Frölander
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2000|March|16}}
+|meet = [[2000 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Athens
+|country = GRE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 50.44
+|recordinfo = 
+|firstname = Lars
+|lastname = Frölander
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2000|March|17}}
+|meet = [[2000 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Athens
+|country = GRE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 50.26
+|firstname = Thomas
+|lastname = Rupprath
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2001|December|14}}
+|meet = [[2001 European Short Course Swimming Championships|European Championships]]
+|city = Antwerp
+|country = BEL
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 50.10
+|firstname = Thomas
+|lastname = Rupprath
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2002|January|27}}
+|meet = World Cup
+|city = Berlin
+|country = GER
+|ref = 
+}}
+{{Swimmingrecord
+|number = 13
+|time = 50.02
+|firstname = Milorad
+|lastname = Čavić
+|namearticle = 
+|nation = SCG
+|date = {{Dts|format=dmy|2003|December|12}}
+|meet = [[2003 European Short Course Swimming Championships|European Championships]]
+|city = Dublin
+|country = IRL
+|ref = 
+}}
+{{Swimmingrecord
+|number = 14
+|time = 49.77
+|recordinfo = h
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2004|March|26}}
+|meet = NCAA Men's Division I Championships
+|city = East Meadow
+|cityinfo = East Meadow, New York
+|country = USA
+|ref = <ref>{{cite magazine|title=Men's NCAAs, Day 2 Prelims: Crocker Blazes a World Record 49.77 100 meter Fly|url=https://www.swimmingworldmagazine.com/news/mens-ncaas-day-2-prelims-crocker-blazes-a-world-record-49-77-100-meter-fly/|magazine=[[Swimming World]]|author=Phillip Whitten|date=26 March 2004|access-date=8 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 15
+|time = 49.07
+|recordinfo = 
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2004|March|26}}
+|meet = NCAA Men's Division I Championships
+|city = East Meadow
+|cityinfo = East Meadow, New York
+|country = USA
+|ref = <ref name=M2004NCAA>{{cite magazine|title=Flash! Ian Crocker Obliterates His Own World Record in the 100 meter Fly|url=https://www.swimmingworldmagazine.com/news/flash-ian-crocker-obliterates-his-own-world-record-in-the-100-meter-fly/|magazine=[[Swimming World]]|author=Phillip Whitten|date=26 March 2004|access-date=8 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 16
+|time = 48.99
+|recordinfo = 
+|firstname = Yevgeny
+|lastname = Korotyshkin
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|2009|November|7}}
+|meet = World Cup
+|city = Moscow
+|cityinfo = 
+|country = RUS
+|ref = <ref>{{cite web|title=2009 FINA World Cup (Moscow) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010907003A000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=14 December 2024|access-date=31 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 17
+|time = 48.48
+|recordinfo = 
+|firstname = Yevgeny
+|lastname = Korotyshkin
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|2009|November|15}}
+|meet = World Cup
+|city = Berlin
+|cityinfo = 
+|country = GER
+|ref = <ref name=M2009Cup>{{cite web|title=2009 FINA World Cup (Berlin) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000109050039000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 November 2009|access-date=31 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 18
+|time = 48.44
+|recordinfo = 
+|firstname = Chad
+|lastname = le Clos
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2014|December|4}}
+|meet = [[2014 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Doha
+|cityinfo = 
+|country = QAT
+|ref = <ref name=M2014WC>{{cite web|title=2014 FINA World Championships (25m) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010E010D00030D02FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=4 December 2014|access-date=31 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 19
+|time = 48.08
+|recordinfo = 
+|firstname = Chad
+|lastname = le Clos
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2016|December|8}}
+|meet = [[2016 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Windsor
+|cityarticle = Windsor, Ontario
+|country = CAN
+|ref = <ref name=M2016WC(25)>{{cite web|title=2016 FINA World Championships (25m) - Men's 100m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=000110000D00030D02FFFFFFFFFFFF02|publisher=Omega Timing|date=8 December 2016|access-date=9 December 2016}}</ref>
+}}
+{{Swimmingrecord
+|number = 20
+|time = 47.78
+|recordinfo = 
+|firstname = Caeleb
+|lastname = Dressel
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2020|November|21}}
+|meet = [[2020 International Swimming League|International Swimming League]]
+|city = Budapest
+|cityinfo = 
+|country = HUN
+|ref = <ref name=M2020ISL>{{cite web|title=2020 International Swimming League (Final) - Men's 100m Butterfly Results|url=https://www.omegatiming.com/File/000114020F0104EC04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=21 November 2020|access-date=21 November 2020|archive-date=31 August 2021|archive-url=https://web.archive.org/web/20210831130332/https://www.omegatiming.com/File/000114020F0104EC04FFFFFFFFFFFF01.pdf|url-status=live}}</ref>
+}}
+{{Swimmingrecord
+|number = 21
+|time = 47.71
+|recordinfo = 
+|firstname = Noè
+|lastname = Ponti
+|namearticle = 
+|nation = SUI
+|date = {{Dts|format=dmy|2024|December|14}}
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 100 metre butterfly|World Championships]]
+|city = Budapest
+|cityinfo = 
+|country = HUN
+|ref = <ref name=M2024WC(25)>{{cite web|title=2024 World Aquatics Championships (25m) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011800080104EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=14 December 2024|access-date=31 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 22
+|time = 47.68
+|recordinfo = 
+|firstname = Joshua
+|lastname = Liendo
+|namearticle = 
+|nation = CAN
+|date = {{Dts|format=dmy|2025|10|23}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|country = CAN
+|city = Toronto
+|cityarticle = 
+|ref = <ref name=M2025Toronto>{{cite web|title=2025 World Aquatics Cup (Toronto) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900080104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=23 October 2025|access-date=23 October 2025}}</ref>
+}}
+{{end}}
+
+==Women==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|-
+|number = 1
+|time = 1:10.5
+|recordinfo = 
+|firstname = Atie
+|lastname = Voorbij
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1957|August|4}}
+|meet = -
+|country = NED
+|city = Rhenen
+|ref =
+}}
+{{Swimmingrecord
+|-
+|number = 2
+|time = 1:09.6
+|recordinfo = 
+|firstname = Nancy
+|lastname = Ramey
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1958|June|28}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|ref 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:09.1
+|recordinfo = 
+|firstname = Nancy
+|lastname = Ramey
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1959|September|2}}
+|meet = -
+|country = USA
+|city = Chicago
+|ref 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:08.9
+|recordinfo = 
+|firstname = Janice
+|lastname = Andrew
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1961|April|2}}
+|meet =  -
+|country = JPN
+|city = Tokyo
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:08.8
+|recordinfo = 
+|firstname = Mary
+|lastname = Stewart
+|namearticle = Mary Stewart (swimmer)
+|nation = CAN
+|date = {{Dts|format=dmy|1961|August|12}}
+|meet =   -
+|country = USA
+|city = Philadelphia
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:08.2
+|recordinfo = 
+|firstname = Susan 
+|lastname = Doerr
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1961|8|12}}
+|meet =   -
+|country = USA
+|city = Philadelphia
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:07.3
+|recordinfo = 
+|firstname = Mary
+|lastname = Stewart
+|namearticle = Mary Stewart (swimmer)
+|nation = CAN
+|date = {{Dts|format=dmy|1962|July|28}}
+|meet = -
+|country = CAN
+|city = Vancouver
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:06.5
+|recordinfo = 
+|firstname = Kathy
+|lastname = Ellis
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1963|8|16}}
+|meet =  - 
+|country = USA
+|city = High Point
+|cityarticle = High Point, North Carolina
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:06.1
+|recordinfo = 
+|firstname = Ada
+|lastname = Kok
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1963|September|1}}
+|meet =  -
+|country = NED
+|city = Soestduinen
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:05.1
+|recordinfo = 
+|firstname = Ada
+|lastname = Kok
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1964|May|30}}
+|meet = -
+|country = UK
+|city = Blackpool
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:04.7
+|recordinfo = 
+|firstname = Sharon
+|lastname = Stouder
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1964|Oct|16}}
+|meet = [[Swimming at the 1964 Summer Olympics|Olympic Games]]
+|country = JPN
+|city = Tokyo
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:04.1
+|recordinfo = 
+|firstname = Alice
+|lastname = Jones
+|namearticle = Alice Jones (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1970|8|20}}
+|meet = US National Championships
+|country = USA
+|city = Los Angeles
+|ref =
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:03.9
+|recordinfo = 
+|firstname = Mayumi
+|lastname = Aoki
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1972|Jul|21}}
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:03.8
+|recordinfo = sf
+|firstname = Andrea
+|lastname = Gyarmati
+|namearticle = 
+|club = {{flagu|Hungary}}
+|date = {{Dts|format=dmy|1972|August|31}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 1:03.34
+|recordinfo = 
+|firstname = Mayumi
+|lastname = Aoki
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1972|Sep|1}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 1:03.05
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1973|Apr|14}}
+|meet = -
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 1:02.31
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1973|Jul|14}}
+|meet = East German Championships
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 1:02.09
+|recordinfo = h
+|firstname = Rosemarie
+|lastname = Kother
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1974|8|21}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|city = Vienna
+|country = AUT
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 1:01.99
+|recordinfo = 
+|firstname = Rosemarie
+|lastname = Kother
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1974|8|22}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|city = Vienna
+|country = AUT
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 1:01.88
+|recordinfo = 
+|firstname = Rosemarie
+|lastname = Kother
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1974|Sep|1}}
+|meet = USA vs GDR Dual Meet
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 1:01.33
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1975|Jun|9}}
+|meet = East German Championships
+|city = Wittenberg
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 1:01.24
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1975|July|24}}
+|meet = [[Swimming at the 1975 World Aquatics Championships|World Championships]]
+|city = Cali
+|country = COL
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 1:00.13
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1976|June|4}}
+|meet = East German Championships
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 1:00.13
+|recordinfo = =
+|firstname = Kornelia
+|lastname = Ender
+|namearticle =
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1976|Jul|22}}
+|meet = [[Swimming at the 1976 Summer Olympics|Olympic Games]]
+|city = Montreal
+|country = CAN
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 59.78
+|recordinfo = 
+|firstname = Christiane
+|lastname = Knacke
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1977|8|28}}
+|meet = USA vs GDR Dual Meet
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 59.46
+|recordinfo = 
+|firstname = Andrea
+|lastname = Pollack
+|namearticle = 
+|club = {{flagu|East Germany}}
+|date = {{Dts|format=dmy|1978|Jul|3}}
+|meet = East German Championships
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 59.26
+|recordinfo = 
+|firstname = Mary T.
+|lastname = Meagher
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1980|Apr|11}}
+|meet = US Spring National Championships
+|city = Austin
+|cityarticle = Austin, Texas
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 57.93
+|recordinfo = 
+|firstname = Mary T.
+|lastname = Meagher
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1981|8|16}}
+|meet = US National Championships
+|city = Brown Deer
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 57.88
+|recordinfo = 
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1999|8|23}}
+|meet = [[1999 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 56.69
+|recordinfo = 
+|firstname = Inge
+|lastname = de Bruijn
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|May|27}}
+|meet = Super Speedo Grand Prix
+|city = Sheffield
+|country = GBR
+|ref =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 56.64
+|recordinfo = 
+|firstname = Inge
+|lastname = de Bruijn
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|July|22}}
+|meet = PN Senior Regional
+|city = Federal Way
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 56.61
+|recordinfo = 
+|firstname = Inge
+|lastname = de Bruijn
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|September|17}}
+|meet = [[Swimming at the 2000 Summer Olympics|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = <ref name=W2000OG>{{cite web|title=2000 Olympic Games - Women's 100m Butterfly Final Results|url=https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2000-olympic-games.pdf#page=156|work=[[Omega SA|Omega Timing]]|date=29 September 2000|access-date=11 March 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 33
+|time = 56.44
+|recordinfo = sf
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2009|July|26}}
+|meet = [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = ITA
+|ref =<ref>{{cite web|title=13th FINA World Championships - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/0001090B0008000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2009|access-date=20 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 34
+|time = 56.06
+|recordinfo =
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2009|July|27}}
+|meet = [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=W2009WC>{{cite web|title=13th FINA World Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/0001090B0017000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2009|access-date=20 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 35
+|time = 55.98
+|recordinfo = 
+|firstname = Dana
+|lastname = Vollmer
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2012|July|29}}
+|meet = [[Swimming at the 2012 Summer Olympics|Olympic Games]]
+|city = London
+|country = GBR
+|ref = <ref name=W2012OG>{{cite magazine|title=2012 London Olympics: Dana Vollmer Clears 56-Second Barrier, Sets World Record in 100 Fly|url=https://www.swimmingworldmagazine.com/news/2012-london-olympics-dana-vollmer-clears-56-second-barrier-sets-world-record-in-100-fly/|magazine=[[Swimming World]]|date=29 July 2012|accessdate=20 April 2025}}</ref>
+
+}}
+{{Swimmingrecord
+|number = 36
+|time = 55.74
+|recordinfo = sf
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2015|August|2}}
+|meet = [[Swimming at the 2015 World Aquatics Championships|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=16th FINA World Championships - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00010F020001032101FFFFFFFFFFFF02.pdf|work=Omega Timing|date=2 August 2015|access-date=20 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 37
+|time = 55.64
+|recordinfo = 
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2015|August|3}}
+|meet = [[Swimming at the 2015 World Aquatics Championships|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref name=W2015WC>{{cite web|title=16th FINA World Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010F020001032102FFFFFFFFFFFF02.pdf|work=Omega Timing|date=3 August 2015|access-date=20 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 38
+|time = 55.48
+|recordinfo = 
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2016|August|7}}
+|meet = [[Swimming at the 2016 Summer Olympics|Olympic Games]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref name=W2016OG>{{cite web|title=Women's 100m Butterfly Results|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW021101_Results_2016_08_07.pdf|work=Rio 2016 official website|date=7 August 2016|access-date=8 August 2016|url-status=dead|archive-url=https://web.archive.org/web/20160808123305/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW021101_Results_2016_08_07.pdf|archive-date=8 August 2016|df=dmy-all}}</ref>
+}}
+{{Swimmingrecord
+|number = 39
+|time = 55.18
+|recordinfo = sf
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2024|June|15}}
+|meet = [[2024 United States Olympic trials (swimming)|US Olympic Trials]]
+|city = Indianapolis
+|country = USA
+|ref =<ref name=W2024USsf>{{cite web|title=2024 US Olympic Trials - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00011800030204EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=15 June 2024|access-date=17 June 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 55.09
+|recordinfo = h
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2025|May|3}}
+|meet = Pro Swim Series
+|city = Fort Lauderdale
+|cityarticle = Fort Lauderdale, Florida
+|country = USA
+|ref =<ref name=W2025FLh>{{cite web|title=2025 TYR Pro Swim Series - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900030204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=3 May 2025|access-date=3 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 41
+|time = 54.60
+|recordinfo = 
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2025|May|3}}
+|meet = Pro Swim Series
+|city = Fort Lauderdale
+|cityarticle = Fort Lauderdale, Florida
+|country = USA
+|ref = <ref name=W2025FL>{{cite web|title=2025 TYR Pro Swim Series - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900030204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=3 May 2025|access-date=3 May 2025}}</ref>
+}}
+{{end}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 58.77
+|recordinfo = 
+|firstname = Angela
+|lastname = Kennedy
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1995|February|18}}
+|meet = World Cup
+|city = Gelsenkirchen
+|country = GER
+|ref = 
+}}
+{{Swimmingrecord
+|number = 2
+|time = 58.68
+|recordinfo = 
+|firstname = Liu
+|lastname = Limin
+|namearticle = 
+|nation = CHN
+|date = {{Dts|format=dmy|1995|December|2}}
+|meet = [[1995 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 58.29
+|firstname = Misty
+|lastname = Hyman
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1996|December|1}}
+|meet = -
+|city = Sainte-Foy
+|cityarticle = Sainte-Foy, Quebec City
+|country = CAN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 58.24
+|firstname = Ayari
+|lastname = Aoyama
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|1997|March|28}}
+|meet = -
+|city = Tokyo
+|cityarticle = 
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 57.79
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1997|April|19}}
+|meet = [[1997 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Gothenburg
+|cityarticle = 
+|country = SWE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 56.90
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1998|December|1}}
+|meet = World Cup
+|city = College Station
+|cityarticle = College Station, Texas
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 56.80
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2000|February|12}}
+|meet = World Cup
+|city = Paris
+|cityarticle = 
+|country = FRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 56.56
+|recordinfo = sf
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2000|March|18}}
+|meet = [[2000 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Athens
+|cityarticle = 
+|country = GRE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 56.55
+|recordinfo = sf
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|nation = SVK
+|date = {{Dts|format=dmy|2002|January|26}}
+|meet = World Cup
+|city = Berlin
+|country = GER
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 56.34
+|recordinfo = 
+|firstname = Natalie
+|lastname = Coughlin
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2002|November|22}}
+|meet = -
+|city = East Meadow
+|cityarticle = East Meadow, New York
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 55.95
+|firstname = Libby
+|lastname = Lenton
+|namearticle = Libby Trickett
+|nation = AUS
+|date = {{Dts|format=dmy|2006|August|18}}
+|meet = Australian Championships
+|city = Hobart
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 55.89
+|firstname = Felicity
+|lastname = Galvez
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|April|13}}
+|meet = [[2008 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Manchester
+|country = UK
+|ref = 
+}}
+{{Swimmingrecord
+|number = 13
+|time = 55.74
+|firstname = Libby
+|lastname = Trickett
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|April|26}}
+|meet = Swimming Australia Grand Prix
+|city = Canberra
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.68
+|recordinfo = 
+|firstname = Jessicah
+|lastname = Schipper
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2009|August|12}}
+|meet = Australian Championships
+|city = Hobart
+|cityinfo = 
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 55.46
+|recordinfo = 
+|firstname = Felicity
+|lastname = Galvez
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2009|November|11}}
+|meet = World Cup
+|city = Berlin
+|cityinfo = 
+|country = GER
+|ref = 
+}}
+{{Swimmingrecord
+|number = 16
+|time = 55.05
+|recordinfo = sf
+|firstname = Diane
+|lastname = Bui Duyet
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2009|December|12}}
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|cityinfo = 
+|country = TUR
+|ref = <ref name=W2009EC>{{cite web|title=2009 European Championships - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/000109010045000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2009|access-date=1 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 17
+|time = 54.61
+|recordinfo = 
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2014|December|7}}
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 100 metre butterfly|World Championships]]
+|city = Doha
+|cityinfo = 
+|country = QAT
+|ref = <ref name=W2014WC>{{cite web|title=12th World Aquatics Championships (25m) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010E010D01032102FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=7 December 2014|access-date=1 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 18
+|time = 54.59
+|recordinfo = 
+|firstname = Kelsi
+|lastname = Dahlia
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2021|December|3}}
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Eindhoven
+|cityinfo = 
+|country = NED
+|ref = <ref name=W2021ISL>{{cite web|title=2021 International Swimming League (Final) - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/000115001B0204EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=3 December 2021|access-date=27 August 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 19
+|time = 54.05
+|recordinfo = 
+|firstname = Maggie
+|lastname = Mac Neil
+|namearticle = 
+|nation = CAN
+|date = {{Dts|format=dmy|2022|December|18}}
+|meet = [[2022 FINA World Swimming Championships (25 m) – Women's 100 metre butterfly|World Championships]]
+|city = Melbourne
+|cityinfo = 
+|country = AUS
+|ref = <ref name=W2022WC(25)>{{cite web|title=Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011700030204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=14 January 2023}}</ref>
+}}
+{{Swimmingrecord
+|number = 20
+|time = 53.24
+|recordinfo = h
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2024|December|13}}
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 100 metre butterfly|World Championships]]
+|city = Budapest
+|cityinfo = 
+|country = HUN
+|ref = <ref name=W2024WCh>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Butterfly Heats Results Summary|url=https://www.omegatiming.com/File/00011800080204EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2024|access-date=31 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 21
+|time = 52.87
+|recordinfo = sf
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2024|December|13}}
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 100 metre butterfly|World Championships]]
+|city = Budapest
+|cityinfo = 
+|country = HUN
+|ref = <ref name=W2024WCsf>{{cite web |date=10 December 2024 |title=2024 World Aquatics Championships (25m) - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00011800080204EC0102FFFFFFFFFF01.pdf |access-date=10 December 2024 |publisher=Omega Timing}}</ref>
+}}
+{{Swimmingrecord
+|number = 22
+|time = 52.71
+|recordinfo = 
+|firstname = Gretchen
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2024|December|14}}
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 100 metre butterfly|World Championships]]
+|city = Budapest
+|cityinfo = 
+|country = HUN
+|ref = <ref name=W2024WC>{{cite web|url=https://www.omegatiming.com/File/00011800080204EC0104FFFFFFFFFF01.pdf|title=2024 World Aquatics Championships (25m) - Women's 100m Butterfly Final Results|publisher=Omega Timing|date=10 December 2024|access-date=10 December 2024}}</ref>
+}}
+{{end}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''100 m butterfly times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''100 m butterfly times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''100 m butterfly times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 100 m butterfly times''
+|}
+
+===Men long course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 100m Butterfly Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=BUTTERFLY&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=25 December 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 49.45
+| [[Caeleb Dressel]]
+| {{USA}}
+| 31 July 2021
+| [[Tokyo]]
+| <ref name=M2020OG/>
+|-
+|
+| align=center | 2
+| 49.50
+|''Dressel #2''
+|
+| 26 July 2019
+| [[Gwangju]]
+| <ref name=M2019WCsf/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 3
+| 49.62
+| [[Maxime Grousset]]
+| {{FRA}}
+| 2 August 2025
+| [[Singapore]]
+| <ref name=M2025WC>{{cite web|title=2025 World Aquatics Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900010104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=2 August 2025|access-date=2 August 2025}}</ref>
+|-
+|
+| align=center | 4
+| 49.66
+|''Dressel #3''
+|
+| 27 July 2019
+| Gwangju
+| <ref>{{cite web|title=18th FINA World Championships - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/00011301070104EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=27 July 2019|access-date=21 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 5
+| 49.68
+| [[Kristóf Milák]]
+| {{HUN}}
+| 31 July 2021
+| Tokyo
+| <ref name=M2020OG/>
+|-
+| rowspan="2" | 
+| align=center | 6
+| 49.71
+|''Dressel #4''
+| rowspan="2" | 
+| 30 July 2021
+| Tokyo
+| <ref>{{Cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBF------------SFNL--------.pdf |title=2020 Olympic Games - Men's 100m Butterfly Semifinals results|access-date=30 July 2021|archive-date=30 July 2021 |archive-url=https://web.archive.org/web/20210730014455/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBF------------SFNL--------.pdf |url-status=dead }}</ref>
+|-
+| align=center | 7
+| 49.76
+|''Dressel #5''
+| 18 June 2021
+| [[Omaha]]
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Men's 100m Butterfly Semifinals Results |url=https://www.omegatiming.com/File/00011500030104EC02FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 June 2021|access-date=21 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 8
+| 49.82
+| [[Michael Phelps]]
+| {{USA}}
+| 1 August 2009
+| [[Rome]]
+| <ref name=M2009WC/>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 9
+| 49.83
+| [[Noè Ponti]]
+| {{SUI}}
+| 2 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+| rowspan="3" | 
+| align=center | 10
+| 49.86
+|''Dressel #6''
+| rowspan="3" | 
+| 29 July 2017
+| [[Budapest]]
+| <ref>{{cite web|title=17th FINA World Championships - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/000111010A0104EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=29 July 2017|access-date=21 April 2025}}</ref>
+|-
+| align=center | 11
+| 49.87
+|''Dressel #7''
+| 19 June 2021
+| Omaha
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/00011500030104EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=19 June 2021|access-date=21 April 2025}}</ref>
+|-
+| align=center | 12
+| 49.90
+|''Milák #2''
+| 3 August 2024
+| [[Paris]]
+| <ref name=M2024OG>{{Cite web |title=2024 Olympic Games - Men's 100m Butterfly Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM100MBF------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923075829/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM100MBF------------FNL-000100--.pdf |archive-date=23 September 2024|access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 13
+| 49.95
+| [[Milorad Čavić]]
+| {{SRB}}
+| 1 August 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 14
+| 49.99
+| [[Joshua Liendo]]
+| {{CAN}}
+| 3 August 2024
+| Paris
+| <ref name=M2024OG/>
+|-
+| rowspan="4" |
+| rowspan="2" align=center | 15
+| rowspan="2" | 50.01
+| ''Čavić #2''
+| rowspan="4" |
+| 31 July 2009
+| Rome
+| <ref name=M2009WCsf/>
+|-
+|''Dressel #8''
+| 28 April 2022
+| [[Greensboro]]
+| <ref>{{cite web|title=2022 International Team Trials - Men's 100m Butterfly Heats Results |url=https://www.omegatiming.com/File/00011700010104EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 April 2022|access-date=22 April 2025}}</ref>
+|-
+| align=center | 17
+| 50.06
+|''Liendo #2''
+| 19 May 2024
+| [[Toronto]]
+| <ref>{{cite web|title=2024 Canadian Trials - Men's 100m Butterfly Final Results|url=https://results.swimming.ca/2024_Olympic_Paralympic_Trials/ResultList_26F.pdf|publisher=swimming.ca|date=19 May 2023|accessdate=19 May 2023}}</ref>
+|-
+| align=center | 18
+| 50.07
+|''Dressel #9''
+| 28 July 2017
+| Budapest
+| <ref name=M2017WC>{{cite web|title=17th FINA World Championships - Men's 100m Butterfly Semifinals Results |url=https://www.omegatiming.com/File/000111010A0104EC02FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 July 2017|access-date=21 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 18
+| 50.07
+| [[Ilya Kharun]]
+| {{CAN}}
+| 2 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+| rowspan="6" |
+| align=center | 20
+| 50.08
+|''Dressel #10''
+| rowspan="6" |
+| 28 July 2017
+| Budapest
+| <ref>{{cite web|title=17th FINA World Championships - Men's 100m Butterfly Heats Results |url=https://www.omegatiming.com/File/000111010A0104EC01FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 July 2017|access-date=21 April 2025}}</ref>
+|-
+| align=center | 21
+| 50.09
+|''Liendo #3''
+| 2 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+| align=center | 22
+| 50.11
+|''Grousset #2''
+| 19 June 2025
+| [[Montpellier]]
+| <ref>{{cite web|title=2025 French Championships - Men's 100m Butterfly Final Results|url=https://www.liveffn.com/cgi-bin/resultats.php?competition=89019&langue=fra&go=epreuve&epreuve=82|work=liveffn.com|date=19 June 2025|accessdate=20 June 2025}}</ref>
+|-
+| rowspan="3" align=center | 23
+| rowspan="3" | 50.14
+|''Milák #3''
+| 23 June 2022
+| Budapest
+| <ref name=M2022WCsf>{{cite web|title=19th FINA World Championships - Men's 100m Butterfly Semifinals Results |url=https://www.omegatiming.com/File/00011700000104EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=23 June 2022|access-date=21 April 2025}}</ref>
+|-
+|''Milák #4''
+| 24 June 2022
+| Budapest
+| <ref>{{cite web|title=19th FINA World Championships - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/00011700000104EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=24 June 2022|access-date=21 April 2025}}</ref>
+|-
+|''Grousset #3''
+| 29 July 2023
+| [[Fukuoka]]
+| <ref name=M2023WC>{{cite web|title=2023 World Aquatics Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011600010104EC0104FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=29 July 2023|access-date=29 July 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 9
+| rowspan="17" |
+| 50.24
+| [[Shaine Casas]]
+| {{USA}}
+| 5 December 2025
+| [[Austin, Texas|Austin]]
+| <ref>{{cite web|title=2025 US Open - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900090104EC0104FFFFFFFFFF01.pdf#page=2|work=Omega Timing|date=5 December 2025|access-date=5 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 50.25
+| [[Matthew Temple (swimmer)|Matthew Temple]]
+| {{AUS}}
+| 3 December 2023
+| Tokyo
+| <ref>{{cite web|title=2023 Japan Open - Men's 100m Butterfly Final Results|url=http://swim.seiko.co.jp/2023/S70704/ranking/04R094.pdf|publisher=seiko.co.jp|date=3 December 2023|access-date=4 December 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 50.39
+| [[Joseph Schooling]]
+| {{SGP}}
+| 12 August 2016
+| [[Rio de Janeiro]]
+| <ref>{{cite magazine|title=Joseph Schooling Wins Singapore's First Ever Olympic Swimming Medal With 100 Fly Victory|url=http://www.swimmingworldmagazine.com/news/joseph-schooling-wins-singapores-first-ever-olympic-swimming-medal-with-100-fly-victory/|magazine=[[Swimming World]]|date=12 August 2016|access-date=13 August 2016}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 50.40
+| [[Ian Crocker]]
+| {{USA}}
+| 30 July 2005
+| [[Montreal]]
+| <ref name=M2005WC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 50.41
+| [[Rafael Muñoz (swimmer)|Rafael Muñoz]]
+| {{ESP}}
+| 1 August 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 50.42
+| [[Thomas Ceccon]]
+| {{ITA}}
+| 1 August 2025
+| Singapore
+| <ref>{{cite web|title=2025 World Aquatics Championships - Men's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00011900010104EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=1 August 2025|access-date=1 August 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 50.46
+| [[Dare Rose]]
+| {{USA}}
+| 29 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 50.55
+| [[Hubert Kós]]
+| {{HUN}}
+| 12 April 2025
+| [[Kaposvár]]
+| <ref>{{cite magazine|title=Hubert Kós Beats Kristóf Milák in 100 Butterfly Showdown at Hungarian Championships|url=https://www.swimmingworldmagazine.com/news/hubert-kos-beats-kristof-milak-in-100-butterfly-showdown-at-hungarian-championships/|magazine=[[Swimming World]]|date=12 April 2025|access-date=22 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 50.56
+| [[Chad le Clos]]
+| {{RSA}}
+| 8 August 2015
+| [[Kazan]]
+| <ref>{{cite web|title=16th FINA World Championships - Men's 100m Butterfly Final Results |url=https://www.omegatiming.com/File/00010F020000030D02FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=8 August 2015|access-date=21 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 50.59
+| [[Nyls Korstanje]]
+| {{NED}}
+| 2 August 2024
+| Paris
+| <ref>{{Cite web|title=2024 Olympic Games - Men's 100m Butterfly Semifinals Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM100MBF------------SFNL--------.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240817142125/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM100MBF------------SFNL--------.pdf |archive-date=17 August 2024|access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 50.64
+| [[Piero Codia]]
+| {{ITA}}
+| 9 August 2018
+| [[Glasgow]]
+| <ref>{{cite web|title=2018 European Championships - Men's 100m Butterfly Final Results|url=http://glasgow2018.microplustiming.com/export/NU_Glasgow2018/NU/pdf/SWMM100MBF------------FNL-000100--_73A1%201.0.pdf?x=00:10:57|publisher=Microplus Timing|date=9 August 2018|access-date=9 August 2018}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 50.65
+| [[Albert Subirats]]
+| {{VEN}}
+| 31 July 2009
+| Rome
+| <ref name=M2009WCsf/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 50.67
+| [[James Guy (swimmer)|James Guy]]
+| {{GBR2}}
+| 28 July 2017
+| Budapest
+| <ref name=M2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 50.68
+| [[Maxime Rooney]]
+| {{USA}}
+| 2 August 2019
+| [[Stanford]]
+| <ref>{{cite web|title=2019 US National Championships - Men's 100m Butterfly Heats Results |url=https://www.omegatiming.com/File/000113010B0104EC01FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=2 August 2019|access-date=22 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 23
+| rowspan="2" | 50.70
+| [[Thomas Heilman]]
+| {{USA}}
+| 5 June 2025
+| [[Indianapolis]]
+| <ref>{{Cite web|date=5 June 2025|title=2025 US National Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900040104EC0104FFFFFFFFFF01.pdf|access-date=5 June 2025|website=Omega Timing}}</ref>
+|- bgcolor=CCFFCC
+| [[Roman Shevliakov]]
+| {{RUS}}
+| 24 June 2025
+| Kazan
+| <ref>{{cite web|title=2025 Russian Cup - Men's 100m Butterfly Final Results|url=https://russwimming.ru/upload/live/ruscup2025_kazan/ResultList_119F.pdf|publisher=russwimming.ru|date=24 June 2025|access-date=24 June 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 50.78
+| [[Jason Dunford]]
+| {{KEN}}
+| 31 July 2009
+| Rome
+| <ref name=M2009WCsf/>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 100m Butterfly Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=BUTTERFLY&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=25 December 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 47.68
+| [[Joshua Liendo]]
+| {{CAN}}
+| 23 October 2025
+| [[Toronto]]
+| <ref name=M2025Toronto/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 47.71
+| [[Noè Ponti]]
+| {{SUI}}
+| 14 December 2024
+| [[Budapest]]
+| <ref name=M2024WC(25)/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 47.78
+| [[Caeleb Dressel]]
+| {{USA}}
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|-
+| 
+| align=center | 4
+| 47.98
+|''Ponti #2''
+| 
+| 13 April 2025
+| [[Uster]]
+| <ref>{{cite magazine|title=Noe Ponti Blasts 47.98 SCM 100 Fly as Third-best Performance in History|url=https://swimswam.com/noe-ponti-blasts-47-98-scm-100fly-as-third-best-performance-in-history/|magazine=[[SwimSwam]]|author=Retta Race|date=13 April 2025|access-date=2 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 5
+| 48.08
+| [[Chad le Clos]]
+| {{RSA}}
+| 8 December 2016
+| [[Windsor, Ontario|Windsor]]
+| <ref name=M2016WC(25)/>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 6
+| 48.10
+| [[Maxime Grousset]]
+| {{FRA}}
+| 5 December 2025
+| [[Lublin]]
+| <ref name=M2025EC>{{cite web|title=2025 European Championships (25m) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000119000A0104EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=5 December 2025|accessdate=5 December 2025}}</ref>
+|-
+| 
+| align=center | 7
+| 48.11
+|''Ponti #3''
+| 
+| 5 December 2025
+| Lublin
+| <ref name=M2025EC/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 8
+| 48.35
+| [[Ilya Kharun]]
+| {{CAN}}
+| 23 October 2025
+| Toronto
+| <ref name=M2025Toronto/>
+|-
+| rowspan="4" |
+| align=center | 9
+| 48.38
+|''Ponti #4''
+| rowspan="4" |
+| 23 October 2025
+| Toronto
+| <ref name=M2025Toronto/>
+|-
+| align=center | 10
+| 48.40
+|''Ponti #5''
+| 18 October 2024
+| [[Shanghai]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Shanghai) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011800050104EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 October 2024|access-date=31 March 2025}}</ref>
+|-
+| align=center | 11
+| 48.44
+|''le Clos #2''
+| 4 December 2014
+| [[Doha]]
+| <ref name=M2014WC/>
+|-
+| align=center | 12
+| 48.45
+|''le Clos #3''
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 13
+| 48.47
+| [[Tom Shields]]
+| {{USA}}
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|-
+| rowspan="2" |
+| rowspan="2" align=center | 13
+| rowspan="2" | 48.47
+|''Ponti #6''
+| rowspan="2" | 
+| 6 December 2023
+| [[Otopeni]]
+| <ref>{{cite web|title=2023 European Short Course Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011600090104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=6 December 2023|access-date=6 December 2023}}</ref>
+|-
+|''Ponti #7''
+| 17 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref name=M2025Westmont>{{cite web|title=2025 World Aquatics Cup (Westmont) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900070104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=17 October 2025|access-date=19 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 16
+| 48.48
+| [[Yevgeny Korotyshkin]]
+| {{RUS}}
+| 15 November 2009
+| [[Berlin]]
+| <ref name=M2009Cup/>
+|-
+| rowspan="9" |
+| align=center | 17
+| 48.50
+|''le Clos #4''
+| rowspan="9" |
+| 13 December 2018
+| [[Hangzhou]]
+| <ref name=M2018WC>{{cite web|title=14th FINA World Championships (25m) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000112010C0104EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2018|access-date=7 May 2025}}</ref>
+|-
+| rowspan="2" align=center | 18
+| rowspan="2" | 48.53
+|''Dressel #2''
+| 4 September 2021
+| [[Naples]]
+| <ref name=M2021ISL4>{{cite web|title=2021 International Swimming League (Match 4) - Men's 100m Butterfly Results|url=https://www.omegatiming.com/File/00011500070104EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 September 2021|access-date=7 May 2025}}</ref>
+|-
+|''Ponti #8''
+| 10 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Carmel) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900060104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 October 2025|access-date=12 October 2025}}</ref>
+|-
+| align=center | 20
+| 48.56
+|''le Clos #5''
+| 30 September 2014
+| [[Hong Kong]]
+| <ref>{{cite web|title=2014 FINA World Cup (Hong Kong) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010E010700030D02FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=30 September 2014|access-date=8 May 2025}}</ref>
+|-
+| align=center | 21
+| 48.57
+|''Grousset #2''
+| 14 December 2024
+| Budapest
+| <ref name=M2024WC(25)/>
+|-
+| align=center | 22
+| 48.58
+|''le Clos #6''
+| 21 October 2022
+| Berlin
+| <ref>{{cite web|title=2022 FINA World Cup (Berlin) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011700070104EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 October 2022|access-date=8 May 2025}}</ref>
+|-
+| rowspan="3" align=center | 23
+| rowspan="3" | 48.59
+|''le Clos #7''
+| 1 September 2014
+| [[Dubai]]
+| <ref>{{cite web|title=2014 FINA World Cup (Dubai) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010E010600030D02FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=1 September 2014|access-date=8 May 2025}}</ref>
+|-
+|''le Clos #8'' 
+| 18 December 2022
+| [[Melbourne]]
+| <ref name=M2022WC(25)>{{cite web|title=2022 FINA World Championships (25m) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011700030104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=28 December 2022}}</ref>
+|-
+|''Ponti #9''
+| 15 November 2024
+| [[Sursee]]
+| <ref>{{cite web|title=2025 Swiss Short Course Championships - Men's 100m Butterfly Final Results|url=https://live.swimrankings.net/44281/ResultList_7F.pdf|publisher=swimrankings.net|date=15 November 2024|access-date=6 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 9
+| rowspan="18" |
+| 48.62
+| [[Matthew Temple (swimmer)|Matthew Temple]]
+| {{AUS}}
+| 13 December 2023
+| [[Adelaide]]
+| <ref>{{cite magazine|title=Matt Temple Scorches 48.62 Unofficial 100 Fly Australian Record At SASI Time Trial|url=https://swimswam.com/matt-temple-scorches-48-62-unofficial-100flyaustralian-record-at-sasi-time-trial/|magazine=[[SwimSwam]]|author=Retta Race|date=13 December 2023|access-date=13 December 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 48.64
+| [[Matteo Rivolta]]
+| {{ITA}}
+| 27 November 2021
+| [[Eindhoven]]
+| <ref>{{cite web|title=2021 International Swimming League (Match 17) - Men's 100m Butterfly Results|url=https://www.omegatiming.com/File/00011500180104EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=27 November 2021|accessdate=30 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 48.99
+| [[Nyls Korstanje]]
+| {{NED}}
+| 24 October 2024
+| [[Incheon]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Incheon) - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011800060104EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 October 2024|access-date=24 October 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 49.02
+| [[Simon Bucher]]
+| {{AUT}}
+| 29 November 2024
+| [[Graz]]
+| <ref>{{cite web|title=2024 Austrian Championships - Men's 100m Butterfly Final Results|url=https://myresults.eu/en-US/Meets/Recent/2116/Results/75133|work=myresults.eu|date=29 November 2024|access-date=9 December 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 49.06
+| [[Marius Kusch]]
+| {{GER}}
+| 5 December 2019
+| [[Glasgow]]
+| <ref>{{cite web|title=2019 European Short Course Championships - Men's 100m Butterfly Final Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM100MBF------------FNL-000100--_73A1%201.0.pdf|website=microplustiming.com|date=5 December 2019|access-date=5 December 2019}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 49.07
+| [[Ian Crocker]]
+| {{USA}}
+| 26 March 2004
+| [[East Meadow, New York|East Meadow]]
+| <ref name=M2004NCAA/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 49.08
+| [[Michele Busa]]
+| {{ITA}}
+| 14 December 2024
+| Budapest
+| <ref name=M2024WC(25)/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 49.10
+| [[Coleman Stewart]]
+| {{USA}}
+| 4 September 2021
+| Naples
+| <ref name=M2021ISL4/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 49.13
+| [[Simone Stefanì]]
+| {{ITA}}
+| 1 December 2021
+| [[Riccione]]
+| <ref>{{cite web|title=2021 Italian Short Course Championships - Men's 100m Butterfly Results|url=https://fin2021.microplustiming.com/export/NU_2021_11_30-12_01_Riccione/NU/pdf/CLS-ASM-100FA-TIM-ALL.pdf?x=15:43:48|publisher=microplustiming.com|date=1 December 2021|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 49.14
+| [[Dare Rose]]
+| {{USA}}
+| 13 December 2024
+| Budapest
+| <ref name=M2024WC(25)sf>{{cite web|title=2024 World Aquatics Championships (25m) - Men's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00011800080104EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2024|access-date=31 December 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 49.18
+| [[Marcin Cieślak]]
+| {{POL}}
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 20
+| rowspan="2" | 49.19
+| [[Milorad Čavić]]
+| {{SRB}}
+| 12 December 2008
+| [[Rijeka]]
+| <ref>{{cite web|title=2008 European Short Course Championships - Men's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010800002D000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2008|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Andrey Minakov]]
+| {{RUS}}
+| 13 December 2024
+| Budapest
+| <ref name=M2024WC(25)sf/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 49.21
+| [[Adam Barrett (swimmer)|Adam Barrett]]
+| {{GBR2}}
+| 7 December 2016
+| Windsor
+| <ref>{{cite web|title=13th FINA World Championships (25m) - Men's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/000110000D00030D01FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=7 December 2016|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 49.22
+| [[Tomoe Zenimoto Hvas]]
+| {{NOR}}
+| 2 November 2021
+| [[Kazan]]
+| <ref>{{cite web|title=2021 European Short Course Championships - Men's 100m Butterfly Semifinals Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM100MBF------------SFNL--------_74A%201.0.pdf?x=00:20:46|work=microplustiming.com|date=2 November 2021|accessdate=11 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 49.23
+| [[Steffen Deibler]]
+| {{GER}}
+| 15 November 2009
+| Berlin
+| <ref name=M2009Cup/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 49.25
+| [[Li Zhuhao]]
+| {{CHN}}
+| 13 December 2018
+| Hangzhou
+| <ref name=M2018WC/>
+|}
+
+===Women long course===
+*Correct as of December 2025<ref>{{cite web|title=Women's 100m Butterfly Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=BUTTERFLY&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=25 December 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 54.60
+| [[Gretchen Walsh]]
+| {{USA}}
+| 3 May 2025
+| [[Fort Lauderdale, Florida|Fort Lauderdale]]
+| <ref name=W2025FL/>
+|-
+| rowspan="7" |
+| align=center | 2
+| 54.73
+|''Walsh #2''
+| rowspan="7" |
+| 28 July 2025
+| [[Singapore]]
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900010204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2025|access-date=28 July 2025}}</ref>
+|-
+| align=center | 3
+| 54.76
+|''Walsh #3''
+| 5 June 2025
+| [[Indianapolis]]
+| <ref>{{cite web|title=2025 US National Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900040204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=5 June 2025|access-date=5 June 2025}}</ref>
+|-
+| align=center | 4
+| 55.09
+|''Walsh #4''
+| 3 May 2025
+| Fort Lauderdale
+| <ref name=W2025FLh/>
+|-
+| align=center | 5
+| 55.18
+|''Walsh #5''
+| 15 June 2024
+| Indianapolis
+| <ref name=W2024USsf/>
+|-
+| align=center | 6
+| 55.29
+|''Walsh #6''
+| 5 June 2025
+| Indianapolis
+| <ref>{{cite web|title=2025 US National Championships - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900040204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=5 June 2025|access-date=5 June 2025}}</ref>
+|-
+| align=center | 7
+| 55.31
+|''Walsh #7''
+| 16 June 2024
+| Indianapolis
+| <ref name=W2024US>{{cite web|title=2024 US Olympic Trials - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011800030204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=16 June 2024|access-date=17 June 2024}}</ref>
+|-
+| align=center | 8
+| 55.38
+|''Walsh #8''
+| 27 July 2024
+| [[Paris]]
+| <ref>{{Cite web |title=2024 Olympic Games - Women's 100m Butterfly Semifinals Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMW100MBF------------SFNL--------.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815164810/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMW100MBF------------SFNL--------.pdf |archive-date=15 August 2024 |access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 9
+| 55.48
+| [[Sarah Sjöström]]
+| {{SWE}}
+| 7 August 2016
+| [[Rio de Janeiro]]
+| <ref name=W2016OG/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 10
+| 55.52
+| [[Torri Huske]]
+| {{USA}}
+| 16 June 2024
+| Indianapolis
+| <ref name=W2024US/>
+|-
+| 
+| align=center | 11
+| 55.53
+|''Sjöström #2''
+| 
+| 24 July 2017
+| [[Budapest]]
+| <ref name=W2017WC>{{cite web|title=17th FINA World Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000111010A0204EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=24 July 2017|access-date=20 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 12
+| 55.59
+| [[Maggie Mac Neil]]
+| {{CAN}}
+| 26 July 2021
+| [[Tokyo]]
+| <ref name=W2020OG>{{cite web|title=2020 Olympic Games - Women's 100m Butterfly Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MBF------------FNL-000100--.pdf|publisher=olympics.com|date=26 July 2021|accessdate=12 August 2021|archive-date=23 August 2021|archive-url=https://web.archive.org/web/20210823113415/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MBF------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+| rowspan="2" | 
+| align=center | 12
+| 55.59
+|''Huske #2''
+| rowspan="2" | 
+| 28 July 2024
+| Paris
+| <ref name=W2024OG>{{Cite web |title=2024 Olympic Games - Women's 100m Butterfly Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW100MBF------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923051254/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW100MBF------------FNL-000100--.pdf |archive-date=23 September 2024 |access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+| align=center | 14
+| 55.60
+|''Walsh #9''
+| 5 December 2025
+| [[Austin, Texas|Austin]]
+| <ref>{{cite web|title=2025 US Open - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900090204EC0104FFFFFFFFFF01.pdf#page=2|work=Omega Timing|date=5 December 2025|access-date=5 December 2025}}</ref>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 5
+| rowspan="2" align=center | 15
+| rowspan="2" | 55.62
+| [[Zhang Yufei (swimmer)|Zhang Yufei]]
+| {{CHN}}
+| 29 September 2020
+| [[Qingdao]]
+| <ref>{{cite magazine|title=Zhang Yufei Fires Off 55.62 100 Fly Asian Record, #2 All-Time Performer|url=https://swimswam.com/zhang-yufei-fires-off-55-62-100fly-asian-record-2-all-time-performer/|magazine=[[SwimSwam]]|author=Retta Race|date=29 September 2020|access-date=7 October 2020}}</ref>
+|- bgcolor=f6F5CE
+| [[Regan Smith (swimmer)|Regan Smith]]
+| {{USA}}
+| 16 June 2024
+| Indianapolis
+| <ref name=W2024US/>
+|-
+| rowspan="8" |
+| align=center | 17
+| 55.63
+|''Walsh #10''
+| rowspan="8" |
+| 28 July 2024
+| Paris
+| <ref name=W2024OG/>
+|-
+| rowspan="3" align=center | 18
+| rowspan="3" | 55.64
+|''Sjöström #3''
+| 3 August 2015
+| [[Kazan]]
+| <ref name=W2015WC/>
+|-
+|''Zhang #2''
+| 26 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|-
+|''Huske #3''
+| 19 June 2022
+| Budapest
+| <ref name=W2022WC>{{cite web|title=19th FINA World Championships - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/00011700000204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 June 2022|access-date=28 June 2022}}</ref>
+|-
+| align=center | 21
+| 55.66
+|''Huske #4''
+| 14 June 2021
+| [[Omaha]]
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011500030204EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=14 June 2021|access-date=23 April 2025}}</ref>
+|-
+| rowspan="3" align=center | 22
+| rowspan="3" | 55.68
+|''Sjöström #4''
+| 31 March 2016
+| [[Stockholm]]
+| <ref>{{cite magazine|title=(Race Video) Sarah Sjostrom Scares World Record in 100 Fly With 55.68|url=https://www.swimmingworldmagazine.com/news/sarah-sjostrom-scares-world-record-in-100-fly-2/|magazine=[[Swimming World]]|author=Jason Marsteller|date=31 March 2016|access-date=22 April 2025}}</ref>
+|-
+|''Huske #5''
+| 12 April 2024
+| [[San Antonio]]
+| <ref>{{cite web|title=2024 TYR Pro Swim Series (San Antonio) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011800020204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 April 2024|access-date=22 April 2025}}</ref>
+|-
+|''Walsh #11''
+| 27 July 2025
+| Singapore
+| <ref>{{cite web|title=2025 World Aquatics Championships - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900010204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2025|access-date=27 July 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 25
+| 55.72
+| [[Emma McKeon]]
+| {{AUS}}
+| 26 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|- bgcolor=CCFFCC
+| align=center | 8
+| rowspan="18" |
+| 55.84
+| [[Roos Vanotterdijk]]
+| {{BEL}}
+| 28 July 2025
+| Singapore
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900010204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2025|access-date=28 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 9
+| 55.98
+| [[Dana Vollmer]]
+| {{USA}}
+| 29 July 2012
+| [[London]]
+| <ref name=W2012OG/>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 56.07
+| [[Liu Zige]]
+| {{CHN}}
+| 18 October 2009
+| [[Jinan]]
+| <ref>{{cite magazine|title=Chinese National Games: Liu Zige Scares World Record in 100 Fly|url=https://www.swimmingworldmagazine.com/news/chinese-national-games-liu-zige-scares-world-record-in-100-fly/|magazine=[[Swimming World]]|date=18 October 2009|access-date=1 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 56.08
+| [[Rikako Ikee]]
+| {{JPN}}
+| 11 August 2018
+| Tokyo
+| <ref>{{cite web|title=2018 Pan Pacific Swimming Championships - Women's 100m Butterfly Final Results|url=http://swim.seiko.co.jp/en/2018/S80701/ranking/eng11R053.pdf|work=Seiko|date=11 August 2018|access-date=25 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 56.11
+| [[Angelina Köhler]]
+| {{GER}}
+| 11 February 2024
+| [[Doha]]
+| <ref>{{cite web|title=2024 World Aquatics Championships - Women's 100m Butterfly Semifinal Results |url=https://www.omegatiming.com/File/00011800000204EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 February 2024|access-date=11 February 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 56.14
+| [[Marie Wattel]]
+| {{FRA}}
+| 19 June 2022
+| Budapest
+| <ref name=W2022WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 56.19
+| [[Alexandria Perkins]]
+| {{AUS}}
+| 27 July 2025
+| Singapore
+| <ref name=W2025WCsf>{{cite web|title=2025 World Aquatics Championships - Women's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/00011900010204EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2025|access-date=27 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 56.20
+| [[Claire Curzan]]
+| {{USA}}
+| 10 April 2021
+| [[Cary, North Carolina|Cary]]
+| <ref>{{cite magazine|title=Claire Curzan Goes 56.20 in the 100 Fly; Passes Dahlia for #2 American All-time|url=https://swimswam.com/claire-curzan-goes-56-20-in-the-100-fly-passes-dahlia-for-2-american-all-time/|magazine=[[SwimSwam]]|author=Anne Lepesant|date=10 April 2021|access-date=16 April 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 56.22
+| [[Louise Hansson]]
+| {{SWE}}
+| 26 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 56.23
+| [[Jessicah Schipper]]
+| {{AUS}}
+| 27 July 2009
+| [[Rome]]
+| <ref name=W2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 56.33
+| [[Mizuki Hirai]]
+| {{JPN}}
+| 22 June 2024
+| [[Kanagawa]]
+| <ref>{{cite web|title=Women's 100m Butterfly Final Results|url=https://swmexp.japan-swimming.jp/webexpswim/ResultsRankingGroup?gameid=1424303&eventno=031|publisher=japan-swimming.jp|access-date=22 June 2024|date=22 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 56.37
+| [[Kelsi Dahlia]]
+| {{USA}}
+| 24 July 2017
+| Budapest
+| <ref name=W2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 56.42
+| [[Daria Klepikova]]
+| {{RUS}}
+| 27 July 2025
+| Singapore
+| <ref name=W2025WCsf/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 56.43
+| [[Kate Douglass]]
+| {{USA}}
+| 29 June 2023
+| Indianapolis
+| <ref>{{cite web|title=2023 US National Championships - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/00011600030204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 June 2023|access-date=1 July 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 56.46
+| [[Penny Oleksiak]]
+| {{CAN}}
+| 7 August 2016
+| Rio de Janeiro
+| <ref name=W2016OG/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 56.51
+| [[Jeanette Ottesen]]
+| {{DEN}}
+| 18 August 2014
+| [[Berlin]]
+| <ref>{{cite web|title=2014 European Championships - Women's 100m Butterfly Final Results|url=http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASF-100BU-FIN-ALL.pdf?x=19:32:23|publisher=Microplus Informatica|date=22 August 2014|access-date=22 August 2014|archive-url=https://web.archive.org/web/20140826113839/http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASF-100BU-FIN-ALL.pdf?x=19:32:23|archive-date=26 August 2014|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 24
+| rowspan="2" | 56.61
+| [[Inge de Bruijn]]
+| {{NED}}
+| 17 September 2000
+| [[Sydney]]
+| <ref name=W2000OG/>
+|- bgcolor=CCFFCC
+| [[Chen Xinyi]]
+| {{CHN}}
+| 23 September 2014
+| [[Incheon]]
+| <ref>{{cite magazine|title=China Dominates Third Night of Swimming at Asian Games|url=https://www.swimmingworldmagazine.com/news/china-dominates-third-night-of-swimming-at-asian-games/|magazine=[[Swimming World]]|author=Jason Marsteller|date=23 September 2014|access-date=22 April 2025}}</ref>
+|}
+
+===Women short course===
+*Correct as of December 2025<ref>{{cite web|title=Women's 100m Butterfly Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=BUTTERFLY&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=19 September 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 52.71
+| [[Gretchen Walsh]]
+| {{USA}}
+| 14 December 2024
+| [[Budapest]]
+| <ref name=W2024WC/>
+|-
+| rowspan="6" |
+| align=center | 2
+| 52.87
+|''Walsh #2''
+| rowspan="6" |
+| 13 December 2024
+| Budapest
+| <ref name=W2024WCsf/>
+|-
+| align=center | 3
+| 53.10
+|''Walsh #3''
+| 25 October 2025
+| [[Toronto]]
+| <ref>{{cite web|title=2025 World Aquatics Cup - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900080204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 October 2025|access-date=27 October 2025}}</ref>
+|-
+| align=center | 4
+| 53.24
+|''Walsh #4''
+| 13 December 2024
+| Budapest
+| <ref name=W2024WCh/>
+|-
+| align=center | 5
+| 53.69
+|''Walsh #5''
+| 12 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref name=W2025Carmel>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900060204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 October 2025|access-date=13 October 2025}}</ref>
+|-
+| align=center | 6
+| 53.72
+|''Walsh #6''
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011900070204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 October 2025|access-date=19 October 2025}}</ref>
+|-
+| align=center | 7
+| 53.83
+|''Walsh #7''
+| 25 October 2025
+| Toronto
+| <ref>{{cite web|title=2025 World Aquatics Cup - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900080204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=25 October 2025|access-date=27 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 8
+| 54.05
+| [[Maggie Mac Neil]]
+| {{CAN}}
+| 18 December 2022
+| [[Melbourne]]
+| <ref name=W2022WC(25)/>
+|-
+| rowspan="2" |
+| align=center | 9
+| 54.28
+|''Walsh #8''
+| rowspan="2" |
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900070204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=18 October 2025|access-date=19 October 2025}}</ref>
+|-
+| align=center | 10
+| 54.43
+|''Walsh #9''
+| 12 October 2025
+| Carmel
+| <ref>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900060204EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=12 October 2025|access-date=13 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 11
+| 54.59
+| [[Kelsi Dahlia]]
+| {{USA}}
+| 3 December 2021
+| [[Eindhoven]]
+| <ref name=W2021ISL/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 12
+| 54.61
+| [[Sarah Sjöström]]
+| {{SWE}}
+| 7 December 2014
+| [[Doha]]
+| <ref name=W2014WC/>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 13
+| 54.66
+| [[Tessa Giele]]
+| {{NED}}
+| 14 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 14
+| 54.75
+| [[Torri Huske]]
+| {{USA}}
+| 18 December 2022
+| Melbourne
+| <ref name=W2022WC(25)/>
+|-
+| rowspan="2" |
+| align=center | 15
+| 54.78
+|''Mac Neil #2''
+| rowspan="2" | 
+| 30 October 2022
+| [[Toronto]]
+| <ref name=W2022Toronto>{{cite web|title=2022 FINA World Cup (Toronto) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011700080204EC0104FFFFFFFFFF01.pdf|date=30 October 2022|access-date=1 May 2025}}</ref>
+|- 
+| align=center | 16
+| 54.84
+|''Dahlia #2'' 
+| 6 October 2018
+| Budapest
+| <ref name=W2018Budapest>{{cite web|title=2018 FINA World Cup (Budapest) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011201080204EC04FFFFFFFFFFFF01.pdf|date=6 October 2018|access-date=1 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 17
+| 54.87
+| [[Louise Hansson]]
+| {{SWE}}
+| 18 December 2022
+| Melbourne
+| <ref name=W2022WC(25)/>
+|-
+| rowspan="2" | 
+| align=center | 18
+| 54.89
+|''Dahlia #3''
+| rowspan="2" |
+| 20 November 2021
+| Eindhoven
+| <ref>{{cite web|title=2021 International Swimming League (Match 15) - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/00011500150204EC04FFFFFFFFFFFF01.pdf|date=20 November 2021|access-date=1 May 2025}}</ref>
+|-
+| align=center | 19
+| 54.91
+|''Sjöström #2''
+| 30 September 2018
+| Eindhoven
+| <ref>{{cite web|title=2018 FINA World Cup (Eindhoven) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011201070204EC04FFFFFFFFFFFF01.pdf|date=30 September 2018|access-date=1 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 20
+| 54.93
+| [[Alexandria Perkins]]
+| {{AUS}}
+| 12 October 2025
+| Carmel
+| <ref name=W2025Carmel/>
+|-
+| rowspan="5" |
+| align=center | 21
+| 54.96
+|''Sjöström #3''
+| rowspan="5" |
+| 6 October 2018
+| Budapest
+| <ref name=W2018Budapest/>
+|-
+| rowspan="2" align=center | 22
+| rowspan="2" | 55.00
+|''Sjöström #4''
+| 17 December 2017
+| [[Copenhagen]]
+| <ref>{{cite web|title=2017 European Short Course Championships - Women's 100m Butterfly Final Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-100BU-FIN-ALL.pdf|work=microplustiming.com|date=17 December 2017|access-date=17 December 2017|archive-url=https://web.archive.org/web/20190330091156/http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-100BU-FIN-ALL.pdf|archive-date=30 March 2019|url-status=dead}}</ref>
+|-
+|''Dahlia #4''
+| 10 November 2018
+| [[Genoa]]
+| <ref>{{cite web|title=2018 Nico Sapio Trophy - Women's 100m Butterfly Final Results|url=https://fin2018.microplustiming.com/export/NU_0910Nov_Genova/NU/pdf/CLS-ASF-100FA-FIN-ALL.pdf?x=19:29:52|work=microplustiming.com|date=10 November 2018|access-date=1 May 2025}}</ref>
+|-
+| align=center | 24
+| 55.01
+|''Dahlia #5''
+| 16 December 2018
+| [[Hangzhou]]
+| <ref>{{cite web|title=14th FINA World Championships (25m) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000112010C0204EC04FFFFFFFFFFFF01.pdf|date=16 December 2018|access-date=1 May 2025}}</ref>
+|-
+| align=center | 25
+| 55.02
+|''Hansson #2''
+| 30 October 2022
+| Toronto
+| <ref name=W2022Toronto/>
+|- bgcolor=CCFFCC
+| align=center | 9
+| rowspan="17" |
+| 55.05
+| [[Diane Bui Duyet]]
+| {{FRA}}
+| 12 December 2009
+| [[Istanbul]]
+| <ref name=W2009EC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 10
+| rowspan="2" | 55.10
+| [[Jeanette Ottesen]]
+| {{DEN}}
+| 11 December 2015
+| [[Indianapolis]]
+| <ref>{{cite web|title=2015 Duel in the Pool - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/00010F020D01032102FFFFFFFFFFFF02.pdf|date=11 December 2015|access-date=1 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Mizuki Hirai]]
+| {{JPN}}
+| 22 February 2025
+| [[Sagamihara]]
+| <ref>{{cite web|title=Women's 100m Butterfly Final Results|url=https://swmexp.japan-swimming.jp/webexpswim/ResultsRankingGroup?gameid=1424726&eventno=042|work=japan-swimming.jp|date=22 February 2025|access-date=28 February 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 55.12
+| [[Katinka Hosszú]]
+| {{HUN}}
+| 11 December 2016
+| [[Windsor, Ontario|Windsor]]
+| <ref>{{cite web|title=13th FINA World Championships (25m) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000110000D01032102FFFFFFFFFFFF02.pdf|date=11 December 2016|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 55.25
+| [[Lu Ying]]
+| {{CHN}}
+| 7 December 2014
+| Doha
+| <ref name=W2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 55.30
+| [[Alicia Coutts]]
+| {{AUS}}
+| 9 November 2013
+| [[Tokyo]]
+| <ref>{{cite web|title=2013 FINA World Cup (Tokyo) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010D020B01032102FFFFFFFFFFFF02.pdf|date=9 November 2013|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 55.31
+| [[Rikako Ikee]]
+| {{JPN}}
+| 11 November 2018
+| Tokyo
+| <ref>{{cite web|title=2018 FINA World Cup (Tokyo) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000112010A0204EC04FFFFFFFFFFFF01.pdf|date=11 November 2018|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 55.32
+| [[Béryl Gastaldello]]
+| {{FRA}}
+| 15 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Semifinal 2) - Women's 100m Butterfly Results|url=https://www.omegatiming.com/File/000114020E0204EC04FFFFFFFFFFFF01.pdf|date=20 November 2021|access-date=1 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="3" align=center | 17
+| rowspan="3" | 55.39
+| [[Emma McKeon]]
+| {{AUS}}
+| 26 October 2019
+| Budapest
+| <ref>{{cite web|title=2019 International Swimming League (Budapest) - Women's 100m Butterfly Results|url=https://isl.global/wp-content/uploads/2021/08/isl_results_budapest_day_1-1.pdf|website=isl.global|date=26 October 2019|access-date=30 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Claire Curzan]]
+| {{USA}}
+| 21 December 2021
+| Abu Dhabi
+| <ref name=W2021WC>{{cite web|title=Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011500190204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=21 December 2021|access-date=21 December 2021}}</ref>
+|- bgcolor=CCFFCC
+| [[Laura Lahtinen]]
+| {{FIN}}
+| 4 December 2025
+| [[Lublin]]
+| <ref>{{cite web|title=2025 European Championships (25m) - Women's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/000119000A0204EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 December 2025|accessdate=5 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 55.43
+| [[Felicity Galvez]]
+| {{AUS}}
+| 19 December 2010
+| [[Dubai]]
+| <ref>{{cite web|title=10th FINA World Championships (25m) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010A00005E000000FFFFFFFFFFFF01.pdf|date=19 December 2010|access-date=1 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 55.46
+| [[Zhang Yufei (swimmer)|Zhang Yufei]]
+| {{CHN}}
+| 29 October 2022
+| [[Beijing]]
+| <ref>{{cite magazine|title=Chinese Championships Again Highlighted By Several National Records; Yang Junxuan Sets Mark in 100 Freestyle|url=https://www.swimmingworldmagazine.com/news/chinese-championships-again-highlighted-by-several-national-records-yang-junxuan-sets-mark-in-100-freestyle/|magazine=[[Swimming World]]|author=John Lohn|date=29 October 2022|access-date=30 October 2022}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 22
+| rowspan="2" | 55.50
+| [[Angelina Köhler]]
+| {{GER}}
+| 9 December 2023
+| [[Otopeni]]
+| <ref>{{cite web|title=Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00011600090204EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=9 December 2023|access-date=10 December 2023}}</ref>
+|- bgcolor=CCFFCC
+| [[Ellen Walshe]]
+| {{IRL}}
+| 13 December 2024
+| Budapest
+| <ref name=W2024WCsf/>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 55.52
+| [[Martine Damborg]]
+| {{DEN}}
+| 5 December 2025
+| Lublin
+| <ref>{{cite web|title=2025 European Championships (25m) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/000119000A0204EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=5 December 2025|accessdate=5 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 55.53
+| [[Therese Alshammar]]
+| {{SWE}}
+| 6 November 2010
+| [[Stockholm]]
+| <ref>{{cite web|title=2010 FINA World Cup (Stockholm) - Women's 100m Butterfly Final Results|url=https://www.omegatiming.com/File/00010A040016000000FFFFFFFFFFFF01.pdf|date=6 November 2010|access-date=1 May 2025}}</ref>
+|}
+
+==References==
+* {{in lang|en}} [https://web.archive.org/web/20071220054827/http://www.ishof.org/exhibits/world_records/100fly_men.htm International Swimming Hall of Fame] &ndash; archived from the ISHOF original
+{{Reflist|2}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Butterfly 100 metres]]
+[[Category:Butterfly stroke|World record progression 100 metres butterfly]]

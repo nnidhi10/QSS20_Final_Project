@@ -1,0 +1,105 @@
+{{good article}}
+{{Use dmy dates|date=September 2021}}
+{{infobox country at games
+| NOC = MTN
+| NOCname = [[Mauritanian National Olympic and Sports Committee|Comité National Olympique et Sportif Mauritanien]] 
+| games = Summer Olympics
+| year = 2000
+| flagcaption = 
+| oldcode = 
+| website = 
+| start_date = 15 September
+| end_date = 1 October
+| location = [[Sydney]], Australia
+| competitors = 2
+| sports = 1
+| flagbearer = Sidi Mohamed Ould Bidjel
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1984
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Mauritania]] sent a delegation to compete at the [[2000 Summer Olympics]] in [[Sydney]], Australia from 15 September to 1 October 2000.  This was the African nation's fifth time competing at the [[Summer Olympic Games]].  The Mauritanian delegation consisted of two [[track and field]] athletes, Sidi Mohamed Ould Bidjel and [[Fatou Dieng (athlete)|Fatou Dieng]].  Neither advanced beyond the first round of their respective events.
+
+==Background==
+The Comité National Olympique et Sportif Mauritanien (The [[National Olympic Committee]] (NOC) of Mauritania) was recognised by the [[International Olympic Committee]] on 1 January 1979.<ref>{{cite web|url=https://www.olympic.org/mauritania|title=Mauritania – National Olympic Committee (NOC)|publisher=[[International Olympic Committee]]|access-date=26 October 2018}}</ref> Mauritania made their Olympic debut at the [[1984 Los Angeles Olympics]], and have sent a delegation to every [[Summer Olympic Games]] since; they have yet to make their first appearance at the [[Winter Olympic Games]].<ref name="MTNSR">{{cite web|url=https://www.sports-reference.com/olympics/countries/MTN/|archive-url=https://web.archive.org/web/20200417093439/https://www.sports-reference.com/olympics/countries/MTN/|url-status=dead|archive-date=17 April 2020|title=Mauritania|publisher=Sports Reference|access-date=26 October 2018}}</ref> These Sydney Olympics were the nation's fifth appearance at a Summer Olympiad.<ref name="MTNSR" /> The 2000 Summer Olympics were held from 15 September to 1 October 2000; a total of 10,651 athletes represented 199 NOCs.<ref>{{cite web|url=https://www.olympic.org/sydney-2000|title=Sydney 2000 Summer Olympics – results & video highlights|publisher=[[International Olympic Committee]]|access-date=7 August 2018}}</ref> The Mauritanian delegation consisted of two [[track and field]] athletes, Sidi Mohamed Ould Bidjel and [[Fatou Dieng (athlete)|Fatou Dieng]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/countries/MTN/summer/2000/|archive-url=https://web.archive.org/web/20200417093441/https://www.sports-reference.com/olympics/countries/MTN/summer/2000/|url-status=dead|archive-date=17 April 2020|title=Mauritania at the 2000 Sydney Summer Games|publisher=Sports Reference|access-date=26 October 2018}}</ref> Ould Bidjel was selected as the flag-bearer for the [[2000 Summer Olympics opening ceremony|opening ceremony]].<ref name="MTNSR" />
+
+==Competitors==
+The following is the list of number of competitors in the Games.<ref>[https://www.olympedia.org/countries/MTN/editions/25 Mauritania at the 2000 Summer Olympics]</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 2000 Summer Olympics|Athletics]]
+| 1 || 1 || 2
+|-
+! Total !! 1 !! 1 !! 2
+|}
+
+==Athletics==
+{{main article|Athletics at the 2000 Summer Olympics}}
+
+Fatou Dieng was 16 years old at the time of the Sydney Olympics, and was making her only Olympic appearance.<ref>{{cite web|url=https://www.olympic.org/fatou-dieng|title=Fatou DIENG – Olympic Athletics – Mauritania|publisher=[[International Olympic Committee]]|access-date=26 October 2018}}</ref><ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/di/fatou-dieng-1.html|archive-url=https://web.archive.org/web/20200418010409/https://www.sports-reference.com/olympics/athletes/di/fatou-dieng-1.html|url-status=dead|archive-date=18 April 2020|title=Fatou Dieng Bio, Stats, and Results|publisher=Sports Reference|access-date=26 October 2018}}</ref> She was the first female competitor ever sent to the Olympics by Mauritania.<ref>{{cite web|url=https://www.sports-reference.com/olympics/friv/lists.cgi?id=99|archive-url=https://web.archive.org/web/20200417055439/https://www.sports-reference.com/olympics/friv/lists.cgi?id=99|url-status=dead|archive-date=17 April 2020|title=First female competitors at the Olympics by country|publisher=Sports Reference|access-date=27 October 2018}}</ref> On 23 September, she took part in the first round of the [[Athletics at the 2000 Summer Olympics – Women's 100 metres|women's 100 metres]], and was drawn into heat seven.  She finished the race in 13.69 seconds, ninth and last in her heat, and over two seconds behind the heat's winner, [[Chandra Sturrup]] of the [[Bahamas at the 2000 Summer Olympics|Bahamas]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/summer/2000/ATH/womens-100-metres-round-one.html|archive-url=https://web.archive.org/web/20200417051941/https://www.sports-reference.com/olympics/summer/2000/ATH/womens-100-metres-round-one.html|url-status=dead|archive-date=17 April 2020|title=Athletics at the 2000 Sydney Summer Games: Women's 100 metres Round One|publisher=Sports Reference|access-date=26 October 2018}}</ref> In the event overall, the gold medal is vacant due to original gold medalist [[Marion Jones]] of the [[United States at the 2000 Summer Olympics|United States]] admitting to steroid use and forfeiting her medals and results from the Sydney Games.<ref>{{cite web|url=http://www.espn.com/olympics/trackandfield/news/story?id=3054706|title=Jones returns five medals from 2000 Sydney Olympics|date=8 October 2007|publisher=[[ESPN]]|access-date=7 August 2018|archive-url=https://web.archive.org/web/20180801064333/http://www.espn.com/olympics/trackandfield/news/story?id=3054706|archive-date=1 August 2018|url-status=live}}</ref><ref name=Guardian>{{cite news|url=https://www.theguardian.com/sport/2009/dec/07/marion-jones-2000-olympic-medals|title=Marion Jones's medals from Sydney Olympics to be reallocated|date=7 December 2009|work=[[The Guardian]]|access-date=7 August 2018|archive-url=https://web.archive.org/web/20160622022018/https://www.theguardian.com/sport/2009/dec/07/marion-jones-2000-olympic-medals|archive-date=22 June 2016|url-status=live}}</ref> Officially, the medals in the event are held by [[Ekaterini Thanou]] of [[Greece at the 2000 Summer Olympics|Greece]] and [[Tayna Lawrence]] (the original bronze medalist) of [[Jamaica at the 2000 Summer Olympics|Jamaica]] sharing silver, and [[Merlene Ottey]], also of Jamaica, the original fourth-place finisher, being awarded a bronze.<ref name="Guardian" /> Gold was left vacant because Thanou, the original silver medalist, had her own issue with missing a drug test at the [[2004 Summer Olympics]]<ref name="Guardian" /><ref>{{cite web|url=https://www.nytimes.com/2011/09/07/sports/olympics/peculiar-greek-doping-case-takes-another-twist.html|title=Peculiar Greek Doping Case Takes Another Twist|last=Macur|first=Juliet|date=6 September 2011|work=[[The New York Times]]|access-date=10 August 2018}}</ref>
+
+Sidi Mohamed Ould Bidjel was 18 years old at the time of these Games, and was likewise making his only Olympic appearance.<ref>{{cite web|url=https://www.olympic.org/sidi-mohamed-ould-bidjel|title=Sidi Mohamed OULD BIDJEL – Olympic Athletics – Mauritania|publisher=[[International Olympic Committee]]|access-date=27 October 2018}}</ref><ref>{{cite web|url=https://www.sports-reference.com/olympics/athletes/ou/sidi-mohamed-ould-bidjel-1.html|archive-url=https://web.archive.org/web/20200418010410/https://www.sports-reference.com/olympics/athletes/ou/sidi-mohamed-ould-bidjel-1.html|url-status=dead|archive-date=18 April 2020|title=Sidi Mohamed Ould Bidjel Bio, Stats, and Results|publisher=Sports Reference|access-date=27 October 2018}}</ref> On 25 September, he participated in the first round of the [[Athletics at the 2000 Summer Olympics – Men's 1500 metres|men's 1500 metres]], and was assigned the third heat.  He finished his race in a time of 4 minutes and 3.74 seconds, 14th and last in his heat, and he was eliminated.<ref>{{cite web|url=https://www.sports-reference.com/olympics/summer/2000/ATH/mens-1500-metres-round-one.html|archive-url=https://web.archive.org/web/20200417171440/https://www.sports-reference.com/olympics/summer/2000/ATH/mens-1500-metres-round-one.html|url-status=dead|archive-date=17 April 2020|title=Athletics at the 2000 Sydney Summer Games: Men's 1,500 metres Round One|publisher=Sports Reference|access-date=27 October 2018}}</ref> The gold medal was eventually won in [[List of Olympic records in athletics|Olympic-record time]] of 3 minutes and 32.07 seconds by [[Noah Ngeny]] of [[Kenya at the 2000 Summer Olympics|Kenya]], the silver medal was earned by [[Hicham El Guerrouj]] of [[Morocco at the 2000 Summer Olympics|Morocco]], and the bronze medal was taken by fellow Kenyan [[Bernard Lagat]].<ref>{{cite web|url=https://www.sports-reference.com/olympics/summer/2000/ATH/mens-1500-metres-final.html|archive-url=https://web.archive.org/web/20200417171441/https://www.sports-reference.com/olympics/summer/2000/ATH/mens-1500-metres-final.html|url-status=dead|archive-date=17 April 2020|title=Athletics at the 2000 Sydney Summer Games: Men's 1,500 metres Final|publisher=Sports Reference|access-date=27 October 2018}}</ref><ref>{{cite web|url=https://www.olympic.org/sydney-2000/athletics/1500m-men|title=Sydney 2000 1500m men – Olympic Athletics|publisher=[[International Olympic Committee]]|access-date=27 October 2018}}</ref>
+
+{{smalldiv|1=<nowiki/>
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*N/A = Round not applicable for the event}}
+
+{|class=wikitable style="font-size:90%"
+|-
+!scope="col" rowspan="2"|Athlete
+!scope="col" rowspan="2"|Event
+!scope="col" colspan="2"|Heat
+!scope="col" colspan="2"|Quarterfinal
+!scope="col" colspan="2"|Semifinal
+!scope="col" colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+!scope="row" align=left|[[Fatou Dieng (athlete)|Fatou Dieng]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 100 metres|Women's 100 m]]
+|13.69
+|9
+|colspan=6|Did not advance
+|-align=center
+!scope="row" align=left|Sidi Mohamed Ould Bidjel
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 1500 metres|Men's 1500 m]]
+|4:03.74
+|14
+|colspan=2|N/A
+|colspan=4|Did not advance
+|}
+
+==See also==
+*[[Mauritania at the 2000 Summer Paralympics]]
+
+==References==
+{{reflist}}
+
+{{NOCin2000SummerOlympics}}
+{{Country at games navbox|Mauritania|Summer Olympics}}
+
+[[Category:Nations at the 2000 Summer Olympics]]
+[[Category:Mauritania at the Summer Olympics by year|2000]]
+[[Category:2000 in Mauritanian sport]]

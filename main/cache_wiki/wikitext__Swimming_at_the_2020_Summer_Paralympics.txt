@@ -1,0 +1,1476 @@
+{{Short description|none}}
+{{Infobox Paralympic event
+| event = Swimming
+| games = 2020 Summer
+| image = Swimming, Tokyo 2020 (Paralympics).svg <!-- Please do NOT replace pictogram with a picture of the event on the infoboxes of general events at the Olympics and Paralympics. -->
+| image_size = 150px
+| caption = Swimming pictogram of the <br /> 2020 Summer Paralympics
+| venue = [[Tokyo Aquatics Centre]]
+| dates = 25 August to 4 September, 2021
+| competitors = 620 in 146 events
+| nations = 
+| prev = [[Swimming at the 2016 Summer Paralympics|2016]]
+| next = [[Swimming at the 2024 Summer Paralympics|2024]]
+}}
+{{SwimmingAt2020SummerParalympics}}
+
+[[Paralympic swimming|Swimming]] at the [[2020 Summer Paralympics]] was held at the [[Tokyo Aquatics Centre]]. There were 146 events (76 male, 67 female, 3 mixed relay events) - six fewer events than the [[2016 Summer Paralympics]]. Swimming is the second largest sport: behind [[athletics at the 2020 Summer Paralympics|athletics]] and ahead of [[table tennis at the 2020 Summer Paralympics|table tennis]].<ref>{{Cite web |url=https://tokyo2020.org/en/games/sport/paralympic/swimming/ |title=Swimming - Tokyo 2020 |date=18 June 2019 |website=tokyo2020.org}}</ref>
+
+The 2020 Summer Olympic and Paralympic Games were postponed to 2021 due to the [[COVID-19 pandemic]]. They kept the 2020 name and were held from 24&nbsp;August to 5&nbsp;September 2021.<ref>{{cite press release |url=https://www.olympic.org/news/joint-statement-from-the-international-olympic-committee-and-the-tokyo-2020-organising-committee |title=Joint Statement from the International Olympic Committee and the Tokyo 2020 Organising Committee |website=Olympic.org |date=24 March 2020}}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/olympics/52091224 |title=Tokyo Olympics and Paralympics: New dates confirmed for 2021 |work=[[BBC Sport]] |date=30 March 2020}}</ref>
+
+==Qualification==
+{{main|Swimming at the 2020 Summer Paralympics – Qualification}}
+{{further|Para-swimming classification}}
+Qualification starts from 1 October 2018 and finishes on 1 August 2021.<ref>{{Cite web |url=https://www.paralympic.org/sites/default/files/2021-04/2021_04_07%20Tokyo%20QG_0.pdf |title=2020 Summer Paralympics Qualification Guide |date=13 April 2021 |website=International Paralympic Committee}}</ref>
+===Classes===
+There are three swimming sport class prefixes for swimming strokes: 
+* '''S''' is for [[freestyle swimming|freestyle]], [[butterfly stroke|butterfly]] and [[backstroke]] events. 
+* '''SB''' is for [[breaststroke]]
+* '''SM''' is for [[individual medley]] events.
+
+As well as swimming strokes, they are also divided into ten different categories:<ref>{{Cite web |url=https://www.paralympic.org/sites/default/files/document/150915170806821_2015_09_15%2BExplanatory%2Bguide%2BClassification_summer%2BFINAL%2B_5.pdf |title=Explanatory guide to Paralympic classification |date=18 June 2019 |website=International Paralympic Committee}}</ref>
+* S1/SB1: swimmers who may have [[tetraplegia]] or some form of loss of muscular power in their legs, arms and hands. These swimmers would regularly use a wheelchair.
+* S2/SB1: swimmers who may have limited function in their hands, but no use of trunk and legs and mainly rely on their arms to swim.
+* S3/SB2: swimmers who have leg and arm [[amputation]]s, have severe coordination problems in their limbs or are able to swim with their arms but don't use their trunk or legs.
+* S4/SB3: swimmers who have function in their hands and arms but can't use their trunk or legs to swim or they have three amputated limbs.
+* S5/SB4: swimmers who have [[hemiplegia]], [[paraplegia]] or short stature.
+* S6/SB5: swimmers who have short stature or arm amputations or some form of coordination problem on one side of their body.
+* S7/SB6: swimmers who have one leg and one arm amputation on opposite side or paralysis on one side of their body. These swimmers have full control of their arms and trunk but variable function in their legs.
+* S8/SB7: swimmers who have a single amputation or restrictive movement in their hip, knee and ankle joints.
+* S9/SB8: swimmers who have joint restrictions in one leg or double below-the-knee amputations.
+* S10/SB9: swimmers who have minor physical impairments, for example, loss of one hand.
+* S11/SB11: swimmers who have severe [[visual impairment]]s and have very low or no light perception, such as [[blindness]], they are required to wear blackened goggles to compete. They use tappers when competing in swimming events.
+* S12/SB12: swimmers who have moderate visual impairment and have a visual field of less than 5 degrees radius. They are required to wear blackened goggles to compete. They may wish to use a tapper.
+* S13/SB13: swimmers who have minor visual impairment and have high visual acuity. They are required to wear blackened goggles to compete. They may wish to use a tapper.
+* S14/SB14: swimmers who have [[Intellectual disability|intellectual impairment]].
+For relay races, the sum of their individual swimmers' classes must not exceed the stated points total. For example, three S8 swimmers and an S10 swimmer is a valid combination for 34-point freestyle relay (8 + 8 + 8 + 10 = 34).
+
+==Qualified nations==
+As of March 2020.<ref>{{Cite web |url=https://www.paralympic.org/sites/default/files/2020-03/3_3_2020_FINAL_SLOTS.pdf |title=Calculation of Swimming Slots for Tokyo 2020 Paralympic Games |last= |first= |date=24 April 2020 |website=International Paralympic Committee |archive-url= |archive-date= |access-date=}}</ref>
+{{div-col|colwidth=20em}}
+*{{flagIPC|ARG|2020 Summer|9}}
+*{{flagIPC|AUS|2020 Summer|32}}
+*{{flagIPC|AUT|2020 Summer|3}}
+*{{flagIPC|AZE|2020 Summer|3}}
+*{{flagIPC|BLR|2020 Summer|10}}
+*{{flagIPC|BEL|2020 Summer|1}}
+*{{flagIPC|BRA|2020 Summer|35}}
+*{{flagIPC|CAN|2020 Summer|19}}
+*{{flagIPC|CHI|2020 Summer|2}}
+*{{flagIPC|CHN|2020 Summer|42}}
+*{{flagIPC|COL|2020 Summer|11}}
+*{{flagIPC|CRO|2020 Summer|3}}
+*{{flagIPC|CUB|2020 Summer|1}}
+*{{flagIPC|CYP|2020 Summer|1}}
+*{{flagIPC|CZE|2020 Summer|5}}
+*{{flagIPC|DEN|2020 Summer|1}}
+*{{flagIPC|EGY|2020 Summer|3}}
+*{{flagIPC|EST|2020 Summer|3}}
+*{{flagIPC|FIN|2020 Summer|2}}
+*{{flagIPC|FRA|2020 Summer|9}}
+*{{flagIPC|GER|2020 Summer|15}}
+*{{flagIPC|GBR|2020 Summer|33}}
+*{{flagIPC|GRE|2020 Summer|10}}
+*{{flagIPC|HKG|2020 Summer|4}}
+*{{flagIPC|HUN|2020 Summer|7}}
+*{{flagIPC|ISL|2020 Summer|2}}
+*{{flagIPC|IND|2020 Summer|2}}
+*{{flagIPC|INA|2020 Summer|2}}
+*{{flagIPC|IRL|2020 Summer|4}}
+*{{flagIPC|ISR|2020 Summer|8}}
+*{{flagIPC|ITA|2020 Summer|29}}
+*{{flagIPC|JPN|2020 Summer|27}}
+*{{flagIPC|KAZ|2020 Summer|6}}
+*{{flagIPC|LAT|2020 Summer|1}}
+*{{flagIPC|LTU|2020 Summer|1}}
+*{{flagIPC|MAS|2020 Summer|3}}
+*{{flagIPC|MEX|2020 Summer|18}}
+*{{flagIPC|MYA|2020 Summer|1}}
+*{{flagIPC|NED|2020 Summer|15}}
+*{{flagIPC|NZL|2020 Summer|6}}
+*{{flagIPC|NOR|2020 Summer|3}}
+*{{flagIPC|PER|2020 Summer|1}}
+*{{flagIPC|PHI|2020 Summer|2}}
+*{{flagIPC|POL|2020 Summer|8}}
+*{{flagIPC|POR|2020 Summer|5}}
+*{{flagIPC|RUS|2020 Summer|51}}
+*{{flagIPC|SGP|2020 Summer|3}}
+*{{flagIPC|SVK|2020 Summer|1}}
+*{{flagIPC|SLO|2020 Summer|1}}
+*{{flagIPC|RSA|2020 Summer|4}}
+*{{flagIPC|KOR|2020 Summer|5}}
+*{{flagIPC|ESP|2020 Summer|24}}
+*{{flagIPC|SWE|2020 Summer|2}}
+*{{flagIPC|SUI|2020 Summer|2}}
+*{{flagIPC|THA|2020 Summer|2}}
+*{{flagIPC|TUR|2020 Summer|4}}
+*{{flagIPC|UKR|2020 Summer|40}}
+*{{flagIPC|USA|2020 Summer|34}}
+*{{flagIPC|UZB|2020 Summer|7}}
+*{{flagIPC|VEN|2020 Summer|1}}
+*{{flagIPC|VIE|2020 Summer|4}}
+{{div col end}}
+
+==Schedule==
+{{Swimming at the 2020 Summer Paralympics Men}}
+{{Swimming at the 2020 Summer Paralympics Women}}
+
+{| class="wikitable"
+|-
+|bgcolor=#ffcc00 align=center valign=center|●||Finals
+|}
+{| class="wikitable" style="line-height:1.25em; text-align:center"
+|-
+! August / September
+!25
+!26
+!27
+!28
+!29
+!30
+!31
+!1
+!2
+!3
+!Total
+|-
+|align=center| [[Final (competition)|Final]]
+|bgcolor=ffcc00|'''16'''
+|bgcolor=ffcc00|'''14'''
+|bgcolor=ffcc00|'''14'''
+|bgcolor=ffcc00|'''14'''
+|bgcolor=ffcc00|'''13'''
+|bgcolor=ffcc00|'''15'''
+|bgcolor=ffcc00|'''14'''
+|bgcolor=ffcc00|'''15'''
+|bgcolor=ffcc00|'''15'''
+|bgcolor=ffcc00|'''16'''
+|'''146'''
+|-
+!Cumulative Total
+!16
+!30
+!44
+!58
+!71
+!86
+!100
+!115
+!130
+!146
+!
+|}
+
+
+All heat events take place during the morning sessions from 9:00 to 11:45 and the finals take place during the evening sessions from 17:00 to 21:00 on the same day.
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; line-height:1.25em;"
+|- align="center"
+!rowspan=2 colspan=2|Event
+!colspan=10| Dates
+|-
+! Wed<br>25 Aug !! Thurs<br>26 Aug !! Fri<br>27 Aug !! Sat<br>28 Aug !! Sun<br>29 Aug !! Mon<br>30 Aug !! Tues<br>31 Aug !! Wed<br>1 Sept !! Thurs<br>2 Sept !! Fri<br>3 Sept
+|- align="center"
+| align="left" rowspan="2"| 50m [[freestyle (swimming)|freestyle]] || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 50 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S10
+| 
+| bgcolor="#D0A9F5" | S11
+| 
+| bgcolor="#D0A9F5" | S9<br>S13
+| 
+| bgcolor="#D0A9F5" | S7
+| bgcolor="#D0A9F5" | S5
+| bgcolor="#D0A9F5" | S3<br>S4
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 50 metre freestyle|Details]]'' 
+| bgcolor="#D0A9F5" | S6<br>S10
+| 
+| bgcolor="#D0A9F5" | S11
+| 
+| bgcolor="#D0A9F5" | S13
+| 
+|
+| bgcolor="#D0A9F5" | S8
+| bgcolor="#D0A9F5" | S4
+|
+|- align="center"
+| align="left" rowspan="2"| 100m freestyle || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 100 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S8
+| bgcolor="#D0A9F5" | S4<br>S5
+| 
+| bgcolor="#D0A9F5" | S10
+| 
+|
+| bgcolor="#D0A9F5" | S12
+| bgcolor="#D0A9F5" | S6
+|
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 100 metre freestyle|Details]]''
+| 
+| bgcolor="#D0A9F5" | S5
+| 
+| bgcolor="#D0A9F5" | S10
+| 
+| bgcolor="#D0A9F5" | S3
+| bgcolor="#D0A9F5" | S7<br>S9<br>S12
+|
+|
+| bgcolor="#D0A9F5" | S11
+|- align="center"
+| align="left" rowspan="2"| 200m freestyle || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 200 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S5
+| 
+| bgcolor="#D0A9F5" | S14
+| 
+| bgcolor="#D0A9F5" | S2
+| bgcolor="#D0A9F5" | S4
+| 
+|
+|
+| bgcolor="#D0A9F5" | S3
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 200 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S5
+| 
+| bgcolor="#D0A9F5" | S14
+|
+|
+|
+| 
+|
+|
+|
+|- align="center"
+| align="left" rowspan="2"| 400m freestyle || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 400 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S9
+| bgcolor="#D0A9F5" | S11
+| bgcolor="#D0A9F5" | S13
+| 
+| bgcolor="#D0A9F5" | S7
+| 
+| bgcolor="#D0A9F5" | S8
+| bgcolor="#D0A9F5" | S10
+| bgcolor="#D0A9F5" | S6
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 400 metre freestyle|Details]]''
+| bgcolor="#D0A9F5" | S9
+| bgcolor="#D0A9F5" | S11
+| bgcolor="#D0A9F5" | S13
+| 
+| bgcolor="#D0A9F5" | S7
+|
+| bgcolor="#D0A9F5" | S8
+| bgcolor="#D0A9F5" | S10
+| bgcolor="#D0A9F5" | S6
+|
+|- align="center"
+| align="left" rowspan="2"| 50m [[backstroke]] || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 50 metre backstroke|Details]]''
+| 
+|
+|
+| 
+| bgcolor="#D0A9F5" | S3
+| bgcolor="#D0A9F5" | S5
+| 
+|
+| bgcolor="#D0A9F5" | S1<br>S2
+| bgcolor="#D0A9F5" | S4
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 50 metre backstroke|Details]]''
+|
+| 
+|
+| 
+| bgcolor="#D0A9F5" | S3
+| bgcolor="#D0A9F5" | S5
+|
+|
+| bgcolor="#D0A9F5" | S2
+| bgcolor="#D0A9F5" | S4
+|- align="center"
+| align="left" rowspan="2"| 100m backstroke || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 100 metre backstroke|Details]]''
+| bgcolor="#D0A9F5" | S1<br>S2
+| bgcolor="#D0A9F5" | S13
+| bgcolor="#D0A9F5" | S8<br>S12
+| bgcolor="#D0A9F5" | S11
+|
+| bgcolor="#D0A9F5" | S7<br>S9
+| 
+|
+| bgcolor="#D0A9F5" | S10<br>S14
+| bgcolor="#D0A9F5" | S6
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 100 metre backstroke|Details]]''
+| bgcolor="#D0A9F5" | S2
+| bgcolor="#D0A9F5" | S13
+| bgcolor="#D0A9F5" | S8<br>S12
+| bgcolor="#D0A9F5" | S11
+|
+| bgcolor="#D0A9F5" | S7<br>S9
+|
+|
+| bgcolor="#D0A9F5" | S10<br>S14
+| bgcolor="#D0A9F5" | S6
+|- align="center"
+| align="left" rowspan="2"| 50m [[breaststroke]] || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 50 metre breaststroke|Details]]''
+| bgcolor="#D0A9F5" | SB3
+| 
+| 
+|
+|
+| 
+| bgcolor="#D0A9F5" | SB2
+|
+|
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 50 metre breaststroke SB3|Details]]''
+|
+|
+|
+|
+|
+|
+| bgcolor="#D0A9F5" | SB3
+|
+|
+|
+|- align="center"
+| align="left" rowspan="2"| 100m breaststroke || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 100 metre breaststroke|Details]]''
+|
+| bgcolor="#D0A9F5" | SB8<br>SB9
+| 
+| bgcolor="#D0A9F5" | SB5<br>SB6
+| bgcolor="#D0A9F5" | SB4<br>SB14
+|
+|
+| bgcolor="#D0A9F5" | SB7<br>SB11<br>SB12<br>SB13
+|
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 100 metre breaststroke|Details]]''
+| 
+| bgcolor="#D0A9F5" | SB8<br>SB9
+| 
+| bgcolor="#D0A9F5" | SB5<br>SB6
+| bgcolor="#D0A9F5" | SB4<br>SB14
+|
+|
+| bgcolor="#D0A9F5" | SB7<br>SB11<br>SB12<br>SB13
+|
+|
+|- align="center"
+| align="left" rowspan="2"| 50m [[butterfly (swimming)|butterfly]] || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 50 metre butterfly|Details]]''
+| 
+| 
+| bgcolor="#D0A9F5" | S5
+|
+|
+| bgcolor="#D0A9F5" | S6
+| 
+| 
+|
+| bgcolor="#D0A9F5" | S7
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 50 metre butterfly|Details]]''
+| 
+| 
+| bgcolor="#D0A9F5" | S5
+| 
+|
+| bgcolor="#D0A9F5" | S6
+| 
+| 
+| 
+| bgcolor="#D0A9F5" | S7
+|- align="center"
+| align="left" rowspan="2"| 100m butterfly || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 100 metre butterfly|Details]]''
+| bgcolor="#D0A9F5" | S13<br>S14
+|
+| 
+|
+| 
+| 
+| bgcolor="#D0A9F5" | S10
+|
+| bgcolor="#D0A9F5" | S9
+| bgcolor="#D0A9F5" | S8<br>S11<br>S12
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 100 metre butterfly|Details]]''
+| bgcolor="#D0A9F5" | S13<br>S14
+|
+| 
+| 
+|
+|
+| bgcolor="#D0A9F5"| S10
+| 
+| bgcolor="#D0A9F5" | S9
+| bgcolor="#D0A9F5" | S8
+|- align="center"
+| align="left" rowspan="2"| 150m [[individual medley]] || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 150 metre individual medley|Details]]''
+| 
+| 
+|
+| bgcolor="#D0A9F5" | SM3<br>SM4
+|
+| 
+|
+|
+|
+|
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 150 metre individual medley SM4|Details]]'' 
+|
+|
+|
+| bgcolor="#D0A9F5" | SM4
+| 
+|
+|
+|
+| 
+| 
+|- align="center"
+| align="left" rowspan="2"| 200m individual medley || Men<br>''[[Swimming at the 2020 Summer Paralympics – Men's 200 metre individual medley|Details]]''
+| 
+| bgcolor="#D0A9F5" | SM6
+| bgcolor="#D0A9F5" | SM7
+| bgcolor="#D0A9F5" | SM8
+| 
+| bgcolor="#D0A9F5" | SM11<br>SM13
+| bgcolor="#D0A9F5" | SM14
+| bgcolor="#D0A9F5" | SM9
+|
+| bgcolor="#D0A9F5" | SM10
+|- align="center"
+| Women<br>''[[Swimming at the 2020 Summer Paralympics – Women's 200 metre individual medley|Details]]''
+| 
+| bgcolor="#D0A9F5" | SM6
+| bgcolor="#D0A9F5" | SM7
+| bgcolor="#D0A9F5" | SM8
+|
+| bgcolor="#D0A9F5" | SM11<br>SM13
+| bgcolor="#D0A9F5" | SM14
+| bgcolor="#D0A9F5" | SM9
+|
+| bgcolor="#D0A9F5" | SM5<br>SM10
+|- align="center"
+| align="left" | [[Relay race#Relays in swimming|Freestyle relay]]<br>''[[Swimming at the 2020 Summer Paralympics – freestyle relay|Details]]'' || 
+|
+| bgcolor="#D0A9F5" | Mixed<br>4x50m<br>20 points
+|
+| bgcolor="#D0A9F5" | Mixed<br> 4x100m<br>S14
+| bgcolor="#D0A9F5" | Women's<br>4x100m<br>34 points
+| bgcolor="#D0A9F5" | Men's<br> 4x100m<br>34 points
+| bgcolor="#D0A9F5" | Mixed<br> 4x100m<br>49 points
+|
+|
+|
+|- align="center"
+| align="left" | Medley relay<br>''[[Swimming at the 2020 Summer Paralympics – medley relay|Details]]'' || 
+|
+| 
+|
+|
+| 
+|
+|
+|
+| bgcolor="#D0A9F5" | Women's<br> 4x100m<br>34 points
+| bgcolor="#D0A9F5" | Men's<br> 4x100m<br>34 points
+|}
+
+== Results ==
+=== Men ===
+==== Freestyle ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="8" |50&nbsp;m
+! S3
+| | {{flagicon|MEX}} [[Diego López Díaz]]
+| {{flagicon|CHN}} [[Zou Liankang]]
+| {{flagicon|UKR}} [[Denys Ostapchenko]]
+|-
+! S4
+| {{flagicon|ISR}} [[Ami Omer Dadaon]]
+| {{flagicon|JPN}} [[Takayuki Suzuki (swimmer)|Takayuki Suzuki]]
+| {{flagicon|ITA}} [[Luigi Beggiato]]
+|-
+! S5
+| {{flagicon|CHN}} [[Zheng Tao (swimmer)|Zheng Tao]]
+| {{flagicon|CHN}} [[Yuan Weiyi]]
+| {{flagicon|CHN}} [[Wang Lichao]]
+|-
+! S7
+| {{flagicon|UKR}} [[Andrii Trusov]]
+| {{flagicon|COL}} [[Carlos Serrano Zárate]]
+| {{flagicon|UKR}} [[Yevhenii Bohodaiko]]
+|-
+! S9
+| {{flagicon|ITA}} [[Simone Barlaam]]
+| {{Flagicon|IPC}} [[Denis Tarasov]]
+| {{flagicon|USA}} [[Jamal Hill (swimmer)|Jamal Hill]]
+|-
+! S10
+| {{flagicon|AUS}} [[Rowan Crothers]]
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|BRA}} [[Phelipe Rodrigues]]
+|-
+! S11
+| {{flagicon|BRA}} [[Wendell Belarmino]]
+| {{flagicon|CHN}} [[Hua Dongdong]]
+| {{flagicon|LTU}} [[Edgaras Matakas]]
+|-
+! S13
+| {{flagicon|BLR}} [[Ihar Boki]]
+| {{flagicon|UKR}} [[Illia Yaremenko]]
+| {{flagicon|UKR}} [[Maksym Veraksa]]
+|-
+! rowspan="6" |100&nbsp;m
+! S4
+| {{flagicon|JPN}} [[Takayuki Suzuki (swimmer)|Takayuki Suzuki]]
+| {{flagicon|ITA}} [[Luigi Beggiato]]
+| {{Flagicon|IPC}} [[Roman Zhdanov]]
+|-
+! S5
+| {{flagicon|ITA}} [[Francesco Bocciardo]]
+| {{flagicon|CHN}} [[Wang Lichao]]
+| {{flagicon|BRA}} [[Daniel Dias]]
+|-
+! S6
+| {{flagicon|ITA}} [[Antonio Fantin]]
+| {{flagicon|COL}} [[Nelson Crispín]]
+| {{flagicon|BRA}} [[Talisson Glock]]
+|-
+! S8
+| {{flagicon|AUS}} [[Ben Popham]]
+| {{Flagicon|IPC}} [[Andrei Nikolaev (swimmer)|Andrei Nikolaev]]
+| {{nowrap|{{flagicon|GRE}} [[Dimosthenis Michalentzakis]]}}
+|-
+! S10
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|AUS}} [[Rowan Crothers]]
+| {{flagicon|ITA}} [[Stefano Raimondi]]
+|-
+! S12
+| {{flagicon|AZE}} [[Raman Salei]]
+| {{flagicon|UKR}} [[Maksym Veraksa]]
+| {{flagicon|GBR}} [[Stephen Clegg]]
+|-
+! rowspan="5" |200&nbsp;m
+! S2
+| {{flagicon|BRA}} [[Gabriel Araújo (swimmer)|Gabriel Araújo]]
+| {{flagicon|CHI}} [[Alberto Abarza]]
+| {{Flagicon|IPC}} [[Vladimir Danilenko]]
+|-
+! S3
+| {{flagicon|UKR}} [[Denys Ostapchenko]]
+| {{flagicon|MEX}} [[Diego López Díaz]]
+| {{nowrap|{{flagicon|MEX}} [[Jesús Hernández Hernández]]}}
+|-
+! S4
+| {{flagicon|ISR}} [[Ami Omer Dadaon]]
+| {{flagicon|JPN}} [[Takayuki Suzuki (swimmer)|Takayuki Suzuki]]
+|{{flagicon|IPC}} [[Roman Zhdanov]]
+|-
+! S5
+| {{flagicon|ITA}} [[Francesco Bocciardo]]
+| {{flagicon|ESP}} [[Antoni Ponce Bertran]]
+| {{flagicon|BRA}} [[Daniel Dias]]
+|-
+! S14
+| {{flagicon|GBR}} [[Reece Dunn]]
+| {{flagicon|BRA}} [[Gabriel Bandeira]]
+| {{Flagicon|IPC}} [[Viacheslav Emeliantsev]]
+|-
+! rowspan="7" |400&nbsp;m
+! S6
+| {{flagicon|BRA}} [[Talisson Glock]]
+| {{flagicon|ITA}} [[Antonio Fantin]]
+| {{Flagicon|IPC}} [[Viacheslav Lenskii]]
+|-
+! S7
+| {{flagicon|ISR}} [[Mark Malyar]]
+| {{flagicon|UKR}} [[Andrii Trusov]]
+| {{flagicon|USA}} [[Evan Austin]]
+|-
+! S8
+| {{Flagicon|IPC}} [[Andrei Nikolaev (swimmer)|Andrei Nikolaev]]
+| {{flagicon|ITA}} [[Alberto Amodeo]]
+| {{flagicon|USA}} [[Matthew Torres]]
+|-
+! S9
+| {{flagicon|AUS}} [[William Martin (swimmer)|William Martin]]
+| {{flagicon|FRA}} [[Ugo Didier]]
+| {{flagicon|AUS}} [[Alexander Tuckfield]]
+|-
+! S10
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|NED}} [[Bas Takken]]
+| {{flagicon|AUS}} [[Thomas Gallagher (swimmer)|Thomas Gallagher]]
+|-
+! S11
+| {{flagicon|NLD}} [[Rogier Dorsman]]
+| {{flagicon|JPN}} [[Uchu Tomita]]
+| {{flagicon|CHN}} [[Hua Dongdong]]
+|-
+! S13
+| {{flagicon|BLR}} [[Ihar Boki]]
+| {{flagicon|UKR}} [[Kyrylo Garashchenko]]
+| {{flagicon|FRA}} [[Alex Portal]]
+|}
+
+==== Backstroke ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+
+|-
+! rowspan="5" |50&nbsp;m
+! S1
+| {{flagicon|ISR}} [[Iyad Shalabi]]
+| {{flagicon|UKR}} [[Anton Kol]]
+| {{flagicon|ITA}} [[Francesco Bettella]]
+|-
+! S2
+| {{flagicon|BRA}} [[Gabriel Araújo (swimmer)|Gabriel Araújo]]
+| {{flagicon|CHI}} [[Alberto Abarza]]
+| {{flagicon|IPC}} [[Vladimir Danilenko]]
+|-
+! S3
+| {{flagicon|CHN}} [[Zou Liankang]]
+| {{flagicon|UKR}} [[Denys Ostapchenko]]
+| {{flagicon|MEX}} [[Diego López Díaz]]
+|-
+! S4
+| {{Flagicon|IPC}} [[Roman Zhdanov]]
+| {{flagicon|CZE}} [[Arnošt Petráček]]
+| {{nowrap|{{flagicon|MEX}} {{ill|Ángel de Jesús Camacho|es}}}}
+|-
+! S5
+| {{flagicon|CHN}} [[Zheng Tao (swimmer)|Zheng Tao]]
+| {{flagicon|CHN}} [[Ruan Jingsong]]
+| {{flagicon|CHN}} [[Wang Lichao]]
+|-
+! rowspan="11" |100&nbsp;m
+! S1
+| {{flagicon|ISR}} [[Iyad Shalabi]]
+| {{flagicon|UKR}} [[Anton Kol]]
+| {{flagicon|ITA}} [[Francesco Bettella]]
+|-
+! S2
+| {{flagicon|CHI}} [[Alberto Abarza]]
+| {{flagicon|BRA}} [[Gabriel Araújo (swimmer)|Gabriel Araújo]]
+| {{Flagicon|IPC}} [[Vladimir Danilenko]]
+|-
+! S6
+| {{flagicon|CHN}} [[Jia Hongguang]]
+| {{flagicon|ARG}} [[Matías de Andrade]]
+| {{flagicon|CRO}} [[Dino Sinovčić]]
+|-
+! S7
+| {{flagicon|UKR}} [[Andrii Trusov]]
+| {{flagicon|ARG}} [[Pipo Carlomagno]]
+| {{flagicon|ISR}} [[Mark Malyar]]
+|-
+! S8
+| {{flagicon|USA}} [[Robert Griswold]]
+| {{flagicon|ESP}} [[Inigo Llopis Sanz]]
+| {{flagicon|CHN}} [[Liu Fengqi]]
+|-
+! S9
+| {{Flagicon|IPC}} [[Bogdan Mozgovoi]]
+| {{flagicon|BLR}} [[Yahor Shchalkanau]]
+| {{flagicon|AUS}} [[Timothy Hodge]]
+|-
+! S10
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|ITA}} [[Stefano Raimondi]]
+| {{flagicon|FRA}} [[Florent Marais]]
+|-
+! S11
+| {{flagicon|UKR}} [[Mykhailo Serbin]]
+| {{flagicon|UKR}} [[Viktor Smyrnov]]
+| {{flagicon|CHN}} [[Yang Bozun]]
+|-
+! S12
+| {{flagicon|AZE}} [[Raman Salei]]
+| {{flagicon|UKR}} [[Sergii Klippert]]
+| {{flagicon|GBR}} [[Stephen Clegg]]
+|-
+! S13
+| {{flagicon|BLR}} [[Ihar Boki]]
+| {{flagicon|CAN}} [[Nicolas Guy Turbide]]
+| {{Flagicon|IPC}} [[Vladimir Sotnikov]]
+|-
+! S14
+| {{flagicon|AUS}} [[Benjamin Hance]]
+| {{Flagicon|IPC}} [[Viacheslav Emeliantsev]]
+| {{flagicon|GBR}} [[Reece Dunn]]
+|}
+
+==== Breaststroke ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="3"| 50&nbsp;m
+|-
+! SB2
+| {{flagicon|MEX}} [[José Arnulfo Castorena]]
+| {{flagicon|AUS}} [[Grant Patterson]]
+| {{nowrap|{{flagicon|MEX}} [[Jesús Hernández Hernández]]}}
+|-
+! SB3
+| {{Flagicon|IPC}} [[Roman Zhdanov]]
+| {{flagicon|ESP}} [[Miguel Luque]]
+| {{flagicon|JPN}} [[Takayuki Suzuki (swimmer)|Takayuki Suzuki]]
+|-
+! rowspan="11"| 100&nbsp;m
+|-
+! SB4
+| {{Flagicon|IPC}} [[Dmitrii Cherniaev]]
+| {{flagicon|COL}} [[Moisés Fuentes (swimmer)|Moisés Fuentes]]
+| {{flagicon|GRE}} [[Antonios Tsapatakis]]
+|-
+! SB5
+| {{Flagicon|IPC}} [[Andrei Granichka]]
+| {{flagicon|ESP}} [[Antoni Ponce Bertran]]
+| {{flagicon|CHN}} [[Li Junsheng]]
+|-
+! SB6
+| {{flagicon|UKR}} [[Yevhenii Bohodaiko]]
+| {{flagicon|COL}} [[Nelson Crispín]]
+| {{flagicon|AUS}} [[Matt Levy|Matthew Levy]]
+|-
+! SB7
+| {{flagicon|COL}} [[Carlos Serrano Zárate]]
+| {{Flagicon|IPC}} [[Egor Efrosinin]]
+| {{flagicon|AUS}} [[Blake Cochrane]]
+|-
+! SB8
+| {{Flagicon|IPC}} [[Andrei Kalina]]
+| {{flagicon|ESP}} [[Oscar Salguero]]
+| {{flagicon|CHN}} [[Yang Guanglong]]
+|-
+! SB9
+| {{flagicon|ITA}} [[Stefano Raimondi]]
+| {{Flagicon|IPC}} [[Artem Isaev]]
+| {{Flagicon|IPC}} [[Dmitrii Bartasinskii]]
+|-
+! SB11
+| {{flagicon|NED}} [[Rogier Dorsman]]
+| {{flagicon|JPN}} [[Keiichi Kimura (swimmer)|Keiichi Kimura]]
+| {{flagicon|CHN}} [[Yang Bozun]]
+|-
+! SB12
+| {{flagicon|AZE}} [[Vali Israfilov]] 
+| {{flagicon|UKR}} [[Oleksii Fedyna]]
+| {{Flagicon|IPC}} [[Artur Saifutdinov]]
+|-
+! SB13
+| {{flagicon|GER}} [[Taliso Engel]]
+| {{flagicon|USA}} [[David Abrahams (swimmer)|David Abrahams]]
+| {{flagicon|KAZ}} [[Nurdaulet Zhumagali]]
+|-
+! SB14
+| {{flagicon|JPN}} [[Naohide Yamaguchi]]
+| {{flagicon|AUS}} [[Jake Michel]]
+| {{flagicon|GBR}} [[Scott Quin]]
+|}
+
+==== Butterfly ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+
+|-
+! rowspan="4"| 50&nbsp;m
+|-
+! S5
+| {{flagicon|CHN}} [[Zheng Tao (swimmer)|Zheng Tao]]
+| {{flagicon|CHN}} [[Wang Lichao]]
+| {{flagicon|CHN}} [[Yuan Weiyi]]
+|-
+! S6
+| {{flagicon|CHN}} [[Wang Jingang]]
+| {{flagicon|CHN}} [[Jia Hongguang]]
+| {{flagicon|COL}} [[Nelson Crispín]]
+|-
+! S7
+| {{flagicon|USA}} [[Evan Austin]]
+| {{flagicon|UKR}} [[Andrii Trusov]]
+| {{flagicon|COL}} [[Carlos Serrano Zárate]]
+|-
+! rowspan="8"| 100&nbsp;m
+|-
+! S8
+| {{flagicon|USA}} [[Robert Griswold]]
+| {{flagicon|CHN}} [[Yang Feng (swimmer)|Yang Feng]]
+| {{flagicon|UKR}} [[Denys Dubrov]]
+|-
+! S9
+| {{flagicon|AUS}} [[William Martin (swimmer)|William Martin]]
+| {{flagicon|ITA}} [[Simone Barlaam]]
+| {{Flagicon|IPC}} [[Alexander Skaliukh]]
+|-
+! S10
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|ITA}} [[Stefano Raimondi]]
+| {{flagicon|AUS}} [[Col Pearse]]
+|-
+! S11
+| {{flagicon|JPN}} [[Keiichi Kimura (swimmer)|Keiichi Kimura]]
+| {{flagicon|JPN}} [[Uchu Tomita]]
+| {{flagicon|BRA}} [[Wendell Belarmino]]
+|-
+! S12
+| {{flagicon|AZE}} [[Raman Salei]]
+| {{flagicon|GBR}} [[Stephen Clegg]]
+| {{Flagicon|IPC}} [[Roman Makarov]]
+|-
+! S13
+| {{flagicon|BLR}} [[Ihar Boki]]
+| {{flagicon|UKR}} [[Oleksii Virchenko]]
+| {{flagicon|UZB}} [[Islam Aslanov]]
+|-
+! S14
+| {{flagicon|BRA}} [[Gabriel Bandeira]]
+| {{flagicon|GBR}} [[Reece Dunn]]
+| {{flagicon|AUS}} [[Benjamin Hance]]
+|}
+
+==== Medley ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="3"| 150&nbsp;m
+|-
+! SM3
+| {{flagicon|MEX}} [[Jesús Hernández Hernández|Jesús Hernández]]
+| {{flagicon|AUS}} [[Ahmed Kelly]]
+| {{flagicon|AUS}} [[Grant Patterson]]
+|-
+! SM4
+| {{Flagicon|IPC}} [[Roman Zhdanov]]
+| {{flagicon|ISR}} [[Ami Omer Dadaon]]
+| {{flagicon|JPN}} [[Takayuki Suzuki (swimmer)|Takayuki Suzuki]]
+|-
+! rowspan="9"| 200&nbsp;m
+|-
+! SM6
+| {{flagicon|COL}} [[Nelson Crispín]]
+| {{Flagicon|IPC}} [[Andrei Granichka]]
+| {{flagicon|CHN}} [[Jia Hongguang]]
+|-
+! SM7
+| {{flagicon|ISR}} [[Mark Malyar]]
+| {{flagicon|UKR}} [[Andrii Trusov]]
+| {{flagicon|COL}} [[Carlos Serrano Zárate]]
+|-
+! SM8
+| {{flagicon|UKR}} [[Denys Dubrov]]
+| {{flagicon|CHN}} [[Xu Haijiao]]
+| {{flagicon|CHN}} [[Yang Guanglong]]
+|-
+! SM9
+| {{Flagicon|IPC}} [[Andrei Kalina]] 
+| {{flagicon|AUS}} [[Timothy Hodge]]
+| {{flagicon|FRA}} [[Ugo Didier]]
+|-
+! SM10
+| {{flagicon|UKR}} [[Maksym Krypak]]
+| {{flagicon|ITA}} [[Stefano Raimondi]]
+| {{flagicon|NED}} [[Bas Takken]]
+|-
+! SM11
+| {{flagicon|NED}} [[Rogier Dorsman]]
+| {{flagicon|UKR}} [[Mykhailo Serbin]]
+| {{flagicon|JPN}} [[Uchu Tomita]]
+|-
+! SM13
+| {{flagicon|BLR}} [[Ihar Boki]]
+| {{flagicon|FRA}} [[Alex Portal]]
+| {{flagicon|NED}} [[Thomas van Wanrooij]]
+|-
+! SM14
+| {{flagicon|GBR}} [[Reece Dunn]]
+| {{flagicon|BRA}} [[Gabriel Bandeira]]
+| {{flagicon|UKR}} [[Vasyl Krainyk]]
+|}
+
+=== Women ===
+==== Freestyle ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="8"| 50&nbsp;m
+|-
+! S4
+| {{flagicon|AUS}} [[Rachael Watson]]
+| {{flagicon|ITA}} [[Arjola Trimi]]
+| {{flagicon|ESP}} [[Marta Fernández Infante]]
+|-
+! S6
+| {{flagicon|UKR}} [[Yelyzaveta Mereshko]]
+| {{flagicon|USA}} [[Elizabeth Marks]]
+| {{flagicon|UKR}} [[Anna Hontar]]
+|-
+! S8
+|{{flagicon|IPC}} [[Viktoriia Ishchiulova]]
+| {{flagicon|BRA}} [[Cecília Jerônimo de Araújo]]
+| {{flagicon|ITA}} [[Xenia Palazzo]]
+|-
+! S9
+| {{flagicon|ITA}} [[Simone Barlaam]]
+| {{Flagicon|IPC}} [[Denis Tarasov]]
+| {{flagicon|USA}} [[Jamal Hill (swimmer)|Jamal Hill]]
+|-
+! S10
+| {{Flagicon|IPC}} [[Anastasiia Gontar]]
+| {{flagicon|NED}} [[Chantalle Zijderveld]]
+| {{flagicon|CAN}} [[Aurélie Rivard]]
+|-
+! S11
+| {{flagicon|CHN}} [[Ma Jia]]
+| {{flagicon|CHN}} [[Li Guizhi]]
+| {{flagicon|CYP}} [[Karolina Pelendritou]]
+|-
+! S13
+| {{flagicon|BRA}} [[Maria Carolina Gomes Santiago|Carol Santiago]]
+| {{Flagicon|IPC}} [[Anna Krivshina]]
+| {{flagicon|ITA}} [[Carlotta Gilli]]
+|-
+! rowspan="8"| 100&nbsp;m
+|-
+! S3
+| {{flagicon|ITA}} [[Arjola Trimi]]
+| {{flagicon|USA}} [[Leanne Smith (swimmer)|Leanne Smith]]
+| {{Flagicon|IPC}} [[Iuliia Shishova]]
+|-
+! S5
+| {{flagicon|GBR}} [[Tully Kearney]]
+| {{flagicon|CHN}} [[Zhang Li (swimmer)|Zhang Li]]
+| {{flagicon|ITA}} [[Monica Boggioni]]
+|-
+! S7
+| {{flagicon|ITA}} [[Giulia Terzi]]
+| {{flagicon|USA}} [[McKenzie Coan]]
+| {{flagicon|UKR}} [[Yelyzaveta Mereshko]]<br>{{flagicon|CHN}} [[Jiang Yuyan (swimmer)|Jiang Yuyan]]
+|-
+! S9
+| {{flagicon|NZL}} [[Sophie Pascoe]]
+| {{flagicon|ESP}} [[Sarai Gascón Moreno]]
+| {{flagicon|BRA}} [[Mariana Ribeiro]]
+|-
+! S10
+| {{flagicon|CAN}} [[Aurélie Rivard]]
+| {{flagicon|NED}} [[Chantalle Zijderveld]]
+| {{flagicon|NED}} [[Lisa Kruger]]
+|-
+! S11
+| {{flagicon|CHN}} [[Li Guizhi]]
+| {{flagicon|NED}} [[Liesette Bruinsma]]
+| {{flagicon|CHN}} [[Cai Liwen]]
+|-
+! S12
+| {{flagicon|BRA}} [[Maria Carolina Gomes Santiago|Carol Santiago]]
+| {{Flagicon|IPC}} [[Daria Pikalova]]
+| {{flagicon|GBR}} [[Hannah Russell]]
+|-
+! rowspan="3"| 200&nbsp;m
+|-
+! S5
+| {{flagicon|CHN}} [[Zhang Li (swimmer)|Zhang Li]]
+| {{flagicon|GBR}} [[Tully Kearney]]
+| {{flagicon|ITA}} [[Monica Boggioni]]
+|-
+! S14
+| {{Flagicon|IPC}} [[Valeriia Shabalina]]
+| {{flagicon|GBR}} [[Bethany Firth]]
+| {{flagicon|GBR}} [[Jessica-Jane Applegate]]
+|-
+! rowspan="8"| 400&nbsp;m 
+|-
+! S6
+| {{flagicon|CHN}} [[Jiang Yuyan (swimmer)|Jiang Yuyan]]
+| {{flagicon|UKR}} [[Yelyzaveta Mereshko]]
+| {{flagicon|SUI}} [[Nora Meister]]
+|-
+! S7
+| {{flagicon|USA}} [[McKenzie Coan]]
+| {{flagicon|ITA}} [[Giulia Terzi]]
+| {{flagicon|USA}} [[Julia Gaffney]]
+|-
+! S8
+| {{flagicon|USA}} [[Morgan Stickney]]
+| {{flagicon|USA}} [[Jessica Long]]
+| {{flagicon|ITA}} [[Xenia Palazzo]]
+|-
+! S9
+| {{flagicon|AUS}} [[Lakeisha Patterson]]
+| {{flagicon|HUN}} [[Zsofia Konkoly]]
+| {{flagicon|GBR}} [[Toni Shaw]]
+|-
+! S10
+| {{flagicon|CAN}} [[Aurélie Rivard]]
+| {{flagicon|HUN}} [[Bianka Pap]]
+| {{flagicon|POL}} [[Oliwia Jabłońska]]
+|-
+! S11
+| {{flagicon|USA}} [[Anastasia Pagonis]]
+| {{flagicon|NLD}} [[Liesette Bruinsma]]
+| {{flagicon|CHN}} [[Cai Liwen]]
+|-
+! S13
+| {{flagicon|UKR}} [[Anna Stetsenko (swimmer)|Anna Stetsenko]]
+| {{flagicon|ITA}} [[Carlotta Gilli]]
+| {{flagicon|AUS}} [[Katja Dedekind]]
+|}
+
+==== Backstroke ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="5"| 50&nbsp;m
+|-
+! S2
+| {{flagicon|SGP}} [[Yip Pin Xiu]]
+| {{flagicon|JPN}} [[Miyuki Yamada]]
+| {{flagicon|CHN}} [[Feng Yazhu]]
+|-
+! S3
+| {{flagicon|ITA}} [[Arjola Trimi]]
+| {{flagicon|GBR}} [[Ellie Challis]]
+| {{Flagicon|IPC}} [[Iuliia Shishova]]
+|-
+! S4
+| {{flagicon|CHN}} [[Liu Yu (para swimmer)|Liu Yu]]
+| {{flagicon|CHN}} [[Zhou Yanfei]]
+| {{flagicon|GRE}} [[Alexandra Stamatopoulou]]
+|-
+! S5
+| {{flagicon|CHN}} [[Lu Dong]]
+| {{flagicon|ESP}} [[Teresa Perales]]
+| {{flagicon|TUR}} [[Sevilay Öztürk]]
+|-
+! rowspan="11"| 100&nbsp;m
+|-
+! S2
+| {{flagicon|SGP}} [[Yip Pin Xiu]]
+| {{flagicon|JPN}} [[Miyuki Yamada]]
+| {{flagicon|MEX}} [[Fabiola Ramirez]]
+|-
+! S6
+| {{flagicon|USA}} [[Elizabeth Marks]]
+| {{flagicon|CHN}} [[Jiang Yuyan (swimmer)|Jiang Yuyan]]
+| {{flagicon|GER}} [[Verena Schott]]
+|-
+! S7
+| {{flagicon|USA}} [[Mallory Weggemann]]
+| {{flagicon|CAN}} [[Danielle Dorris]]
+| {{flagicon|USA}} [[Julia Gaffney]]
+|-
+! S8
+| {{flagicon|NZL}} [[Tupou Neiufi]]
+| {{flagicon|UKR}} [[Kateryna Denysenko]]
+| {{flagicon|USA}} [[Jessica Long]]
+|-
+! S9
+| {{flagicon|USA}} [[Hannah Aspden]]
+| {{flagicon|ESP}} [[Núria Marquès]]
+| {{flagicon|NZL}} [[Sophie Pascoe]]
+|-
+! S10
+| {{flagicon|HUN}} [[Bianka Papp]]
+| {{flagicon|CAN}} [[Aurélie Rivard]]
+| {{flagicon|NED}} [[Lisa Kruger]]
+|-
+! S11
+| {{flagicon|CHN}} [[Cai Liwen]]
+| {{flagicon|CHN}} [[Wang Xinyi]]
+| {{flagicon|CHN}} [[Li Guizhi]]
+|-
+! S12
+| {{flagicon|GBR}} [[Hannah Russell]]
+| {{Flagicon|IPC}} [[Daria Pikalova]]
+| {{flagicon|BRA}} [[Maria Carolina Gomes Santiago|Carol Santiago]]
+|-
+! S13
+| {{flagicon|USA}} [[Gia Pergolini]]
+| {{flagicon|ITA}} [[Carlotta Gilli]]
+| {{flagicon|AUS}} [[Katja Dedekind]]
+|-
+! S14
+| {{flagicon|GBR}} [[Bethany Firth]]
+| {{Flagicon|IPC}} [[Valeriia Shabalina]]
+| {{flagicon|GBR}} [[Jessica-Jane Applegate]]
+|}
+
+==== Breaststroke ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+
+|-
+! rowspan="2"| 50&nbsp;m
+|-
+! SB3
+| {{flagicon|ESP}} [[Marta Fernandez Infante]]
+| {{Flagicon|Russia|rpc-paralympics}} [[Nataliia Butkova]]
+| {{flagicon|MEX}} [[Nely Miranda]]
+|-
+! rowspan="11"| 100&nbsp;m
+|-
+! SB4
+| {{flagicon|HUN}} [[Fanni Illés]]
+| {{flagicon|ITA}} [[Giulia Ghiretti]]
+| {{flagicon|CHN}} [[Yao Cuan]]
+|-
+! SB5
+| {{flagicon|UKR}} [[Yelyzaveta Mereshko]]
+| {{flagicon|GBR}} [[Grace Harvey]]
+| {{flagicon|GER}} [[Verena Schott]]
+|-
+! SB6
+| {{flagicon|GBR}} [[Maisie Summers-Newton]]
+| {{flagicon|CHN}} [[Liu Daomin]]
+| {{flagicon|USA}} [[Sophia Herzog]]
+|-
+! SB7
+| {{Flagicon|IPC}} [[Mariia Pavlova]]
+| {{flagicon|USA}} [[Jessica Long]]
+| {{flagicon|AUS}} [[Tiffany Thomas Kane]]
+|-
+! SB8
+| {{flagicon|IRL}} [[Ellen Keane]]
+| {{flagicon|NZL}} [[Sophie Pascoe]]
+| {{Flagicon|IPC}} [[Adelina Razetdinova]]
+|-
+! SB9
+| {{flagicon|NED}} [[Chantalle Zijderveld]]
+| {{flagicon|NED}} [[Lisa Kruger]]
+| {{flagicon|AUS}} [[Keira Stephens]]
+|-
+! SB11
+| {{flagicon|CYP}} [[Karolina Pelendritou]]
+| {{flagicon|CHN}} [[Ma Jia]]
+| {{flagicon|UKR}} [[Yana Berezhna]]
+|-
+! SB12
+| {{flagicon|BRA}} [[Maria Carolina Gomes Santiago|Carol Santiago]]
+| {{Flagicon|Russia|rpc-paralympics}} [[Daria Lukianenko]]
+| {{flagicon|UKR}} [[Yaryna Matlo]]
+|-
+! SB13
+| {{flagicon|GER}} [[Elena Krawzow]]
+| {{flagicon|GBR}} [[Rebecca Redfern]]
+| {{flagicon|USA}} [[Colleen Young (swimmer)|Colleen Young]]
+|-
+! SB14
+| {{flagicon|ESP}} [[Michelle Alonso]]
+| {{flagicon|GBR}} [[Louise Fiddes]]
+| {{flagicon|BRA}} [[Beatriz Carneiro]]
+|}
+
+==== Butterfly ====
+{|{{MedalistTableParalympics|type=Event|columns=1}}
+
+|-
+! rowspan="4"| 50&nbsp;m
+|-
+! S5
+| {{flagicon|CHN}} [[Lu Dong]]
+| {{flagicon|ESP}} [[Marta Fernandez Infante]]
+| {{flagicon|CHN}} [[Cheng Jiao]]
+|-
+! S6
+| {{flagicon|CHN}} [[Jiang Yuyan (swimmer)|Jiang Yuyan]]
+| {{flagicon|IRL}} [[Nicole Turner]]
+| {{flagicon|USA}} [[Elizabeth Marks]]
+|-
+! S7
+| {{flagicon|CAN}} [[Danielle Dorris]]
+| {{flagicon|USA}} [[Mallory Weggemann]]
+| {{flagicon|ITA}} [[Giulia Terzi]]
+|-
+! rowspan="6"| 100&nbsp;m
+|-
+! S8
+| {{flagicon|USA}} [[Jessica Long]]
+| {{Flagicon|Russia|rpc-paralympics}} [[Viktoriia Ishchiulova]]
+| {{flagicon|COL}} [[Laura Carolina González Rodríguez|Laura González]]
+|-
+! S9
+| {{flagicon|HUN}} [[Zsófia Konkoly]]
+| {{flagicon|USA}} [[Elizabeth Smith (swimmer)|Elizabeth Smith]]
+| {{flagicon|ESP}} [[Sarai Gascón Moreno]]
+|-
+! S10
+| {{flagicon|USA}} [[Mikaela Jenkins]]
+| {{flagicon|AUS}} [[Jasmine Greenwood]]
+| {{flagicon|NED}} [[Chantalle Zijderveld]]
+|-
+! S13
+| {{flagicon|ITA}} [[Carlotta Gilli]]
+| {{flagicon|ITA}} [[Alessia Berra]]
+| {{Flagicon|IPC}} [[Daria Pikalova]]
+|-
+! S14
+| {{Flagicon|IPC}} [[Valeriia Shabalina]]
+| {{flagicon|AUS}} [[Paige Leonhardt]]
+| {{flagicon|AUS}} [[Ruby Storm]]
+|}
+
+==== Medley ====
+{| {{MedalistTableParalympics|type=Event|columns=1}}
+|-
+! rowspan="2"| 150&nbsp;m
+|-
+! SM4
+| {{flagicon|CHN}} [[Liu Yu (para swimmer)|Liu Yu]]
+| {{flagicon|CHN}} [[Zhou Yanfei]]
+| {{Flagicon|IPC}} [[Nataliia Butkova]]
+|-
+! rowspan="10"| 200&nbsp;m
+|-
+! SM5
+| {{flagicon|CHN}} [[Lu Dong]]
+| {{flagicon|CHN}} [[Cheng Jiao]]
+| {{flagicon|ITA}} [[Monica Boggioni]]
+|-
+! SM6
+| {{flagicon|GBR}} [[Maisie Summers-Newton]]
+| {{flagicon|UKR}} [[Yelyzaveta Mereshko]]
+| {{flagicon|DEU}} [[Verena Schott]]
+|-
+! SM7
+| {{flagicon|USA}} [[Mallory Weggemann]]
+| {{flagicon|USA}} [[Ahalya Lettenberger]]
+| {{flagicon|AUS}} [[Tiffany Thomas-Kane]]
+|-
+! SM8
+| {{flagicon|USA}} [[Jessica Long]]
+| {{flagicon|ITA}} [[Xenia Palazzo]]
+| {{Flagicon|IPC}} [[Mariia Pavlova]]
+|-
+! SM9
+| {{flagicon|NZL}} [[Sophie Pascoe]]
+| {{flagicon|HUN}} [[Zsófia Konkoly]]
+| {{flagicon|ESP}} [[Núria Marquès]]
+|-
+! SM10
+| {{flagicon|NED}} [[Chantalle Zijderveld]]
+| {{flagicon|HUN}} [[Bianka Pap]]
+| {{flagicon|NED}} [[Lisa Kruger]]
+|-
+! SM11
+| {{flagicon|CHN}} [[Ma Jia]]
+| {{flagicon|CHN}} [[Cai Liwen]]
+| {{flagicon|USA}} [[Anastasia Pagonis]]
+|-
+! SM13
+| {{flagicon|ITA}} [[Carlotta Gilli]]
+| {{flagicon|USA}} [[Colleen Young (swimmer)|Colleen Young]]
+| {{nowrap|{{flagicon|UZB}} [[Shokhsanamkhon Toshpulatova]]}}
+|-
+! SM14
+| {{Flagicon|IOC}} [[Valeriia Shabalina]]
+| {{flagicon|GBR}} [[Bethany Firth]]
+| {{flagicon|GBR}} [[Louise Fiddes]]
+|}
+
+=== Relays ===
+==== Freestyle ====
+{| {{MedalistTable|type=Event}}
+|-
+! 4x50 m 20 pts mixed
+| {{flagicon|CHN}} [[China at the 2020 Summer Paralympics|China]]<br />[[Zhang Li (swimmer)|Zhang Li]]<br />[[Zheng Tao (swimmer)|Zheng Tao]]<br />[[Yuan Weiyi]]<br />[[Lu Dong]]
+| {{flagicon|ITA}} [[Italy at the 2020 Summer Paralympics|Italy]]<br />[[Giulia Terzi]]<br />[[Arjola Trimi]]<br />[[Luigi Beggiato]]<br />[[Antonio Fantin]]
+| {{flagicon|BRA}} [[Brazil at the 2020 Summer Paralympics|Brazil]]<br />[[Patrícia Pereira]]<br />[[Daniel Dias]]<br />[[Joana Neves|Joana da Silva Neves]]<br />[[Talisson Glock]]
+|-
+! 4x100 m S14 mixed
+| {{flagicon|GBR}} [[Great Britain at the 2020 Summer Paralympics|Great Britain]]<br>[[Reece Dunn]]<br>[[Bethany Firth]]<br>[[Jessica-Jane Applegate]]<br>[[Jordan Catchpole]]
+| {{flagicon|AUS}} [[Australia at the 2020 Summer Paralympics|Australia]]<br>[[Ricky Betar]]<br>[[Benjamin Hance]]<br>[[Ruby Storm]]<br>[[Madeleine McTernan]]
+| {{flagicon|BRA}} [[Brazil at the 2020 Summer Paralympics|Brazil]]<br>[[Gabriel Bandeira]]<br>[[Ana Karolina Soares]]<br>[[Débora Carneiro]]<br>[[Felipe Vila Real]]
+|-
+! 4x100 m 34 pts men
+| {{flagicon|AUS}} [[Australia at the 2020 Summer Paralympics|Australia]] [[List of IPC world records in swimming – Men's long course|'''WR''']]<br>[[Rowan Crothers]] (S10)<br>[[William Martin (swimmer)|William Martin]] (S9)<br>[[Matt Levy|Matthew Levy]] (S7)<br>[[Ben Popham]] (S8)
+| {{flagicon|ITA}} [[Italy at the 2020 Summer Paralympics|Italy]]<br>[[Antonio Fantin]] (S6)<br>[[Simone Ciulli]] (S9)<br>[[Simone Barlaam]] (S9)<br>[[Stefano Raimondi]] (10)
+| {{flagicon|UKR}} [[Ukraine at the 2020 Summer Paralympics|Ukraine]]<br>[[Yurii Bozhynskyi]] (S9)<br>[[Denys Dubrov]] (S8)<br>[[Andrii Trusov]] (S7)<br>[[Maksym Krypak]] (S10)
+|-
+! 4x100 m 34 pts women
+| {{flagicon|ITA}} [[Italy at the 2020 Summer Paralympics|Italy]]<br>[[Xenia Palazzo]] (S8)<br>[[Vittoria Bianco]] (S9)<br>[[Giulia Terzi]] (S7)<br>[[Alessia Scortechini]] (S10)
+| {{flagicon|AUS}} [[Australia at the 2020 Summer Paralympics|Australia]]<br>[[Ellie Cole]] (S9)<br>[[Isabella Vincent (swimmer)|Isabella Vincent]] (S7)<br>[[Emily Beecroft]] (S9)<br>[[Ashleigh McConnell]] (S9)
+| {{flagicon|CAN}} [[Canada at the 2020 Summer Paralympics|Canada]]<br>[[Morgan Bird]] (S8)<br>[[Katarina Roxon]] (S9)<br>[[Sabrina Duchesne]] (S7)<br>[[Aurélie Rivard]] (S10)
+|-
+! 4x100 m 49 pts mixed
+| {{Flagicon|IPC|RPC}} [[RPC at the 2020 Summer Paralympics|RPC]]<br>[[Ilnur Garipov]] (S11)<br>[[Anna Krivshina]] (S13)<br>[[Daria Pikalova]] (S12)<br>[[Vladimir Sotnikov]] (S13)
+| {{flagicon|BRA}} [[Brazil at the 2020 Summer Paralympics|Brazil]]<br>[[Wendell Belarmino Pereira|Wendell Belarmino]] (S11)<br>[[Douglas Matera]] (S13)<br>[[Lucilene da Silva]] (S12)<br>[[Maria Carolina Gomes Santiago|Carol Santiago]] (S12)
+| {{flagicon|UKR}} [[Ukraine at the 2020 Summer Paralympics|Ukraine]]<br>[[Maryna Piddubna]] (S11)<br>[[Maksym Veraksa]] (S12)<br>[[Anna Stetsenko (swimmer)|Anna Stetsenko]] (S13)<br>[[Kyrylo Garashchenko]] (S13)
+|}
+
+==== Medley ====
+{| {{MedalistTable|type=Event}}
+|-
+! 4×100 m 34 pts men
+| {{Flagicon|IPC|RPC}} [[RPC at the 2020 Summer Paralympics|RPC]]<br>[[Bogdan Mozgovoi]]<br>[[Andrei Kalina]]<br>[[Alexander Skaliukh]]<br>[[Andrei Nikolaev (swimmer)|Andrei Nikolaev]]
+| {{flagicon|AUS}} [[Australia at the 2020 Summer Paralympics|Australia]]<br>[[Timothy Hodge]]<br>[[Timothy Disken]]<br>[[William Martin (swimmer)|William Martin]]<br>[[Ben Popham]]
+| {{flagicon|ITA}} [[Italy at the 2020 Summer Paralympics|Italy]]<br>[[Riccardo Menciotti]]<br>[[Stefano Raimondi]]<br>[[Simone Barlaam]]<br>[[Antonio Fantin]]
+|-
+! 4×100 m 34 pts women
+| {{flagicon|USA}} [[United States at the 2020 Summer Paralympics|United States]]<br>[[Hannah Aspden]]<br>[[Mikaela Jenkins]]<br>[[Jessica Long]]<br>[[Morgan Stickney]]
+| {{Flagicon|IPC|RPC}} [[RPC at the 2020 Summer Paralympics|RPC]]<br>[[Anastasiia Gontar]]<br>[[Elizaveta Sidorenko]]<br>[[Viktoriia Ishchiulova]]<br>[[Ani Palian]]
+| {{flagicon|AUS}} [[Australia at the 2020 Summer Paralympics|Australia]]<br>[[Ellie Cole]]<br>[[Keira Stephens]]<br>[[Emily Beecroft]]<br>[[Isabella Vincent (swimmer)|Isabella Vincent]]
+|}
+
+==Medal table==
+Source:<ref>{{Cite web |url=https://olympics.com/tokyo-2020/paralympic-games/en/results/swimming/medal-standings.htm |title=Paralympic Medal Count - Para Swimming (Formerly IPC Swimming) |work=Tokyo 2020 Paralympics |publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games]] |access-date=2021-08-25 |archive-date=2021-08-25 |archive-url=https://web.archive.org/web/20210825175613/https://olympics.com/tokyo-2020/paralympic-games/en/results/swimming/medal-standings.htm |url-status=dead}}</ref>
+
+{{Medals table
+ | caption        = 
+ | host           = JPN
+ | flag_template  = flagIPCteam
+ | event          = 2020 Summer
+ | team           = 
+ | gold_CHN = 19 | silver_CHN = 19 | bronze_CHN = 18
+ | gold_RPC = 17 | silver_RPC = 14 | bronze_RPC = 18
+ | gold_USA = 15 | silver_USA = 10 | bronze_USA = 10
+ | gold_UKR = 14 | silver_UKR = 18 | bronze_UKR = 11
+ | gold_ITA = 11 | silver_ITA = 16 | bronze_ITA = 12
+ | gold_AUS = 8 | silver_AUS = 10 | bronze_AUS = 15
+ | gold_GBR = 8 | silver_GBR = 9 | bronze_GBR = 9
+ | gold_BRA = 8 | silver_BRA = 5 | bronze_BRA = 10
+ | gold_ISR = 6 | silver_ISR = 1 | bronze_ISR = 1
+ | gold_NED = 5 | silver_NED = 6 | bronze_NED = 6
+ | gold_BLR = 5 | silver_BLR = 1 | bronze_BLR = 0
+ | gold_AZE = 4 | silver_AZE = 0 | bronze_AZE = 0
+ | gold_JPN = 3 | silver_JPN = 7 | bronze_JPN = 3
+ | gold_HUN = 3 | silver_HUN = 4 | bronze_HUN = 0
+ | gold_CAN = 3 | silver_CAN = 3 | bronze_CAN = 2
+ | gold_MEX = 3 | silver_MEX = 1 | bronze_MEX = 6
+ | gold_NZL = 3 | silver_NZL = 1 | bronze_NZL = 1
+ | gold_ESP = 2 | silver_ESP = 9 | bronze_ESP = 3
+ | gold_COL = 2 | silver_COL = 4 | bronze_COL = 4
+ | gold_GER = 2 | silver_GER = 0 | bronze_GER = 3
+ | gold_SGP = 2 | silver_SGP = 0 | bronze_SGP = 0
+ | gold_CHI = 1 | silver_CHI = 2 | bronze_CHI = 0
+ | gold_IRL = 1 | silver_IRL = 1 | bronze_IRL = 0
+ | gold_CYP = 1 | silver_CYP = 0 | bronze_CYP = 1
+ | gold_FRA = 0 | silver_FRA = 2 | bronze_FRA = 3
+ | gold_ARG = 0 | silver_ARG = 2 | bronze_ARG = 0
+ | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 0
+ | gold_GRE = 0 | silver_GRE = 0 | bronze_GRE = 3
+ | gold_UZB = 0 | silver_UZB = 0 | bronze_UZB = 2
+ | gold_CRO = 0 | silver_CRO = 0 | bronze_CRO = 1
+ | gold_KAZ = 0 | silver_KAZ = 0 | bronze_KAZ = 1
+ | gold_LTU = 0 | silver_LTU = 0 | bronze_LTU = 1
+ | gold_POL = 0 | silver_POL = 0 | bronze_POL = 1
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 1
+ | gold_TUR = 0 | silver_TUR = 0 | bronze_TUR = 1
+}}
+
+==Multiple medalists==
+[[File:Jessica Long 03.png|thumb|[[Jessica Long]] won six medals at this edition.]]
+{{legend|9acdff|Men}}
+{{legend|pink|Women}}
+{| class="wikitable sortable" width=50% style="font-size:100%; text-align:center;"
+|-
+!# !!Swimmer!!Country!!{{gold medal}}!!{{silver medal}}!!{{bronze medal}}
+|-bgcolor=#9acdff
+!1
+|align=left|[[Maksym Krypak]]
+|align=left|{{UKR}}
+|5 ||1 ||1
+|-bgcolor=#9acdff
+!2
+|align=left|[[Ihar Boki]]
+|align=left|{{BLR}}
+|5 ||0 ||0
+|-bgcolor=pink
+!rowspan=2|3
+|align=left|[[Lu Dong]]
+|align=left|{{CHN}}
+|4 ||0 ||0
+|-bgcolor=#9acdff
+|align=left|[[Zheng Tao (swimmer)|Zheng Tao]]
+|align=left|{{CHN}}
+|4 ||0 ||0
+|-bgcolor=pink
+!5
+|align=left|[[Jessica Long]]
+|align=left|{{USA}}
+|3 ||2 ||1
+|-bgcolor=#9acdff
+!6
+|align=left|[[Reece Dunn]]
+|align=left|{{GBR}}
+|3 ||1 ||1
+|-bgcolor=pink
+!7
+|align=left|[[Chantalle Zijderveld]]
+|align=left|{{NED}}
+|2 ||2 ||1
+|-bgcolor=pink
+!8
+|align=left|[[Bethany Firth]]
+|align=left|{{GBR}}
+|2 ||2 ||0
+|-bgcolor=pink
+!9
+|align=left|[[Sophie Pascoe]]
+|align=left|{{NZ}}
+|2 ||1 ||1
+|-bgcolor=#9acdff
+!10
+|align=left|[[Mark Malyar]]
+|align=left|{{ISR}}
+|2 ||0 ||1
+|-bgcolor=#9acdff
+!rowspan=3|11
+|align=left|[[Francesco Bocciardo]]
+|align=left|{{ITA}}
+|2 ||0 ||0
+|-bgcolor=#9acdff
+|align=left|[[Robert Griswold]]
+|align=left|{{USA}}
+|2 ||0 ||0
+|-bgcolor=#9acdff
+|align=left|[[Iyad Shalabi]]
+|align=left|{{ISR}}
+|2 ||0 ||0
+|-bgcolor=#9acdff
+!14
+|align=left|[[Stefano Raimondi]]
+|align=left|{{ITA}}
+|1 ||4 ||2
+|-bgcolor=#9acdff
+!15
+|align=left|[[Antonio Fantin]]
+|align=left|{{ITA}}
+|1 ||3 ||1
+|-bgcolor=pink
+!16
+|align=left|[[Jessica-Jane Applegate]]
+|align=left|{{GBR}}
+|1 ||0 ||2
+|-bgcolor=pink
+!rowspan=2|17
+|align=left|[[Hannah Russell]]
+|align=left|{{GBR}}
+|1 ||0 ||1
+|- bgcolor="pink"
+| align="left" |[[Karolina Pelendritou]]
+| align="left" |{{CYP}}
+|1 ||0 ||1
+|}
+
+==See also==
+*[[Swimming at the 2020 Summer Olympics]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://olympics.com/tokyo-2020/paralympic-games/resPG2020-/pdf/PG2020-/SWM/PG2020-_SWM_B99_SWM-------------------------------.pdf Results book] {{Webarchive|url=https://web.archive.org/web/20210903142751/https://olympics.com/tokyo-2020/paralympic-games/resPG2020-/pdf/PG2020-/SWM/PG2020-_SWM_B99_SWM-------------------------------.pdf |date=2021-09-03 }}
+
+{{EventsAt2020SummerParalympics}}
+{{Paralympic Games Swimming}}
+
+[[Category:Events at the 2020 Summer Paralympics]]
+[[Category:Swimming at the Summer Paralympics|2020]]
+[[Category:2021 in swimming|Paralympics]]
+[[Category:Swimming competitions in Japan]]
+[[Category:Swimming at the 2020 Summer Paralympics| ]]

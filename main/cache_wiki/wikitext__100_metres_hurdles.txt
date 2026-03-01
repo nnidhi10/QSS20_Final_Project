@@ -1,0 +1,691 @@
+{{Use dmy dates|date=October 2023}}
+{{Short description|Track and field event}}
+{{Infobox athletics event
+|event= 100 metres hurdles
+|image= JO Atlanta 1996 - Stade.jpg
+|image_upright=1.1
+|caption= A 100&nbsp;m hurdles race at [[1996 Summer Olympics|Atlanta 1996]]
+|WRwomen= {{nowrap|{{flagathlete|[[Tobi Amusan]]|NGR}} 12.12 (2022)}}
+|ORwomen= {{nowrap|{{flagathlete|[[Jasmine Camacho-Quinn]]|PRI}} 12.26 (2021)}}
+|CRwomen= {{nowrap|{{flagathlete|[[Tobi Amusan]]|NGR}} 12.12 (2022)}}
+}}
+[[File:100 metres hurdles.webm|thumb|Athletics Women's 100m hurdles Final – 27th Summer Universiade 2013 – Kazan (RUS)]]
+The '''100 metres hurdles''', or '''100-meter hurdles''', is a [[track and field]] event run mainly by women (the male counterpart is the [[110 metres hurdles]]). For the race, ten [[Hurdling|hurdles]] of a height of {{convert|83.8|cm|in|0}} are placed along a straight course of {{convert|100|m|yds|2}}. The first hurdle is placed after a run-up of 13 metres from the starting line. The next 9 hurdles are set at a distance of 8.5 metres from each other, and the home stretch from the last hurdle to the finish line is 10.5 metres long. The hurdles are set up so that they will fall over if bumped into by the runner, but weighted so this is disadvantageous. Fallen hurdles do not count against runners provided that they do not run into them on purpose. Like the [[100 metres]] sprint, the 100 m hurdles begins with athletes in [[starting blocks]].
+
+The fastest 100 m hurdlers run the distance in well under 13 seconds. The [[world record]] set by [[Oluwatobiloba Amusan|Tobi Amusan]] stands at 12.12 seconds.
+
+==History==
+{{see also|Women's 100 metres hurdles world record progression}}
+
+[[File:Bundesarchiv Bild 183-1986-0531-035, Cornelia Oschkenat, Heike Thoelo, Kerstin Knabe.jpg|right|thumb|240px|[[Cornelia Oschkenat]] (nearest camera), Heike Theele, and [[Kerstin Knabe]] (1986)]]
+
+The race started back in the 1830s in England where wooden barriers were placed along a 100-yard stretch. The hurdles event was included as part of the inaugural Women's World Games in 1922, and made its first appearance in the [[Olympic Games]] in 1932 as 80m hurdles.
+
+Starting with the [[1972 Summer Olympics]], the women's race was lengthened to 100m hurdles.<ref>{{Cite web|title=100 Metres Hurdles|url=https://www.worldathletics.org/disciplines/hurdles/100-metres-hurdles|access-date=13 August 2020|website=www.worldathletics.org}}</ref>
+
+The hurdles sprint race has been run by women since the beginning of women's athletics, just after the end of World War I. The distances and hurdle heights varied widely in the beginning. While the men had zeroed in on the [[110 m hurdles]], the [[Fédération Sportive Féminine Internationale|International Women's Sport Federation]] had registered records for eight different disciplines by 1926 (60 [[yards]]/75&nbsp;cm height, 60 yards/61&nbsp;cm, 65 yards/75&nbsp;cm, 83 yards/75&nbsp;cm, 100 yards/75&nbsp;cm, 100 yards/61&nbsp;cm, 120 yards/75&nbsp;cm, 110 metres/75&nbsp;cm). At the first [[Women's World Games]] in 1922, a 100 m hurdles race was run.
+
+From 1926 until 1968, the distance was 80 metres: women had to clear eight hurdles placed at a distance of 8 metres from each other and a height of {{convert|76.2|cm|in|0}}.
+
+Just like with the men's races, until 1935 no more than three hurdles could be knocked over, or the runner was disqualified, and records were only officially registered if the runner had cleared all her hurdles clean.
+
+In 1935, this rule was abandoned, and L-shaped hurdles were introduced that fell over forward easily and greatly reduced the risk of injury to the runner. Hurdles are weighted, so when properly set for the height (for women, closer to the fulcrum of the "L"), they serve as a consistent disadvantage to making contact with the barrier.
+
+{| class=wikitable style="float: right; text-align:right"
+|+ Comparison of 80&nbsp;m and 100&nbsp;m hurdles
+|-
+! rowspan=2 | Distance
+! rowspan=2 | Number<br>of hurdles
+! rowspan=2 | Height
+! colspan=3 | Distance made up of
+|-
+! Runup
+! Intervals
+! Home stretch
+|-
+| 80 m || 8 || 76.2&nbsp;cm || 12 m || 8.0 m || 12.0 m
+|-
+| 100 m || 10 || 83.8&nbsp;cm || 13 m || 8.5 m || 10.5 m
+|}
+
+The [[80 m hurdles]] was on the list of women's sports demanded by the International Women's Sport Federation for the [[Olympic Summer Games]] in 1928, but was not included as an Olympic discipline until 1932. Starting with 1949, the 80 m hurdles was one of the disciplines included in the [[women's pentathlon]].
+
+During the 1960s, some experimental races were run over a distance of 100 metres using hurdles with a height of {{convert|76.2|cm|in|0}}. During the [[1968 Summer Olympics]], a decision was made to introduce the 100 m hurdles from 1969, using hurdles with a height of {{convert|83.8|cm|in|0}}.
+
+The first international event in the 100 m hurdles occurred at the European Athletics Championships, which were won by [[Karin Balzer]] of the [[East Germany|GDR]].
+
+The modern 100&nbsp;m race has an extra two hurdles compared to the 80&nbsp;m race, which are higher and spaced slightly further apart. The home stretch is shorter by 1.5&nbsp;m.
+
+Currently, women run 110 m hurdles at the [[World Athletics Relays]], a mixed team event, which was instituted in [[2019 IAAF World Relays – Mixed shuttle hurdles relay|2019]].
+
+==Masters athletics==
+A version of the 100 metres hurdles is also used for 50- to 59-year-old men in [[Masters athletics]]. They run the same spacing as women, which coordinates with existing markings on most tracks, but run over 91.4 cm (36 in) hurdles.  In the 60-69 age range, the spacings are changed. Women over age 40 and men over age 70 run 80 metre versions with different heights and spacings.<ref>{{Cite web|url=http://www.trackinfo.org/hurdles101.html|title=Hurdles 101|website=www.trackinfo.org}}</ref><ref>{{cite web|url=http://www.world-masters-athletics.org/files/laws_rules/Appendix-A-K.pdf |title=Archived copy |access-date=6 May 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120122064124/http://www.world-masters-athletics.org/files/laws_rules/Appendix-A-K.pdf |archive-date=22 January 2012 }}</ref>
+
+==Milestones==
+100 m hurdles:
+*First official time registered with hurdles of reduced height of {{convert|76.2|cm|in|0}}: [[Pam Kilborn|Pamela Kilborn]], [[Australia|AUS]], 26 November 1961
+*First official time with hurdles of standard height of {{convert|83.8|cm|in|0}}: 15.1 seconds, Connie Pettersson, USA, 28 May 1966
+*First official world record: 13.3 seconds, [[Karin Balzer]], [[East Germany|GDR]], 20 June 1969
+*First runner under 13 seconds: 12.9 seconds, [[Karin Balzer]], [[East Germany|GDR]], 5 September 1969
+*First runner under 12.5 seconds:
+**12.3 seconds, [[Annelie Ehrhardt]] [[East Germany|GDR]], 20 July 1973 (last hand timed world record; electronically timed at 12.68 seconds)
+**12.48 seconds, [[Grażyna Rabsztyn]], [[Poland|POL]], 10 June 1978
+*First runner under 12.3 seconds: 12.29 seconds, [[Yordanka Donkova]] [[Bulgaria|BUL]], 17 August 1986
+*First runner under 12.2 seconds: 12.12 seconds, [[Tobi Amusan]] NGR, 24 July 2022. 12.06 seconds (wind aided) Tobi Amusan NGR, 24 July 2022.
+*
+*First country to win gold, silver, and bronze in the women's 100 m hurdles in one Olympics: USA ([[Brianna Rollins]], [[Nia Ali]] and [[Kristi Castlin]]), 2016; this was also the first time American women achieved such a [[List of medal sweeps in Olympic athletics#Women|sweep in any Olympic event]]<ref>{{cite web|url=https://www.bbc.com/news/world-us-canada-37120618 |title=Rio Olympics 2016: US women sweep medals in 100m hurdles - BBC News |publisher=Bbc.com |date=2016|access-date=19 August 2016}}</ref>
+
+==All-time top 25==
+{| style="wikitable"
+|Table shows data for two definitions of "Top 25" - the top 25 '''100m hurdles times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''100m hurdles times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''100m hurdles times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 100m hurdles times''
+|}
+
+* Correct as of September 2025.<ref>{{cite web|title=All-time women's best 100m hurdles|url=http://www.alltime-athletics.com/w_100hok.htm|publisher=alltime-athletics.com|date=7 July 2017|access-date=9 July 2017}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  !! {{abbr|Perf.#|Performance rank}} !! Time (s) !! Wind (m/s) !! Reaction (s) !! Athlete !! Nation !! Date !! Place !! class="unsortable" | {{refh}}
+|- bgcolor="#f6F5CE"
+| align=center|1 || align=center|1 || align=center|12.12 || align="center" |+0.9 || align=center|0.144 || [[Tobi Amusan]] || {{flagu|Nigeria}} || 24 July 2022 || [[Eugene, Oregon|Eugene]] ||<ref name="auto1">{{cite web|title=Women's 100m Hurdles Semifinal Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-100H-W-sf----.RS4.pdf|work=World Athletics|date=24 July 2022|access-date=31 July 2022}}</ref><ref>{{cite web |title=100 Metres Hurdles Result {{!}} World Athletics Championships, Oregon 2022 |url=https://worldathletics.org/results/world-athletics-championships/,2022/world-athletics-championships-oregon-2022-7137279/women/100-metres-hurdles/semi-final/result |website=worldathletics.org |access-date=22 May 2023 |language=en}}</ref>
+|- bgcolor="#f6F5CE"
+| align=center|2
+| align=center|2
+| align=center|12.17
+| align=center|+2.0
+| align=center|
+|[[Masai Russell]]
+|{{flagu|United States}}
+|2 May 2025
+|[[Miramar, Florida|Miramar]]
+|<ref name=":1">{{Cite web |date=3 May 2025 |title=Grand Slam Miami - Stats and Standings |url=https://www.grandslamtrack.com/results/miami/schedule-and-splits |archive-url=https://web.archive.org/web/20250502225111/https://www.grandslamtrack.com/results/miami/schedule-and-splits |archive-date=2 May 2025 |access-date=3 May 2025 |website=[[Grand Slam Track]]}}</ref><ref name=":2">{{Cite web |date=3 May 2025 |title=Russell and Jones jump to No.2 and No.3 all time in historic hurdles clash in Miami |url=https://worldathletics.org/news/report/russell-jones-100m-hurdles-miami-grand-slam-track |access-date=3 May 2025 |website=[[World Athletics]]}}</ref>
+|- bgcolor="#f6F5CE"
+| align=center|3
+| align=center|3
+| align=center|12.19
+| align=center|+2.0
+| align=center|
+|[[Tia Jones]]
+|{{flagu|United States}}
+|2 May 2025
+|[[Miramar, Florida|Miramar]]
+|<ref name=":1" /><ref name=":2" />
+|-
+| align="center" |
+| align="center" |3
+| align="center" |12.19
+| align="center" | +1.4
+| align="center" |0.150
+|''Russell #2''
+|
+|16 August 2025
+|[[Chorzów]]
+|<ref name=":4">{{Cite web |date=16 August 2025 |title=Results 100m Hurdles Women - Final |url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SILESIA_2025/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=oNYiuxmbUw5Wd6M4MSBQyJlJTgh9znjo6coAyOi0aNs= |access-date=16 August 2025 |website=swisstiming.com}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |4 || align="center" |5 || align="center" |12.20 || align="center" |+0.3 || align="center" |0.149 || [[Kendra Harrison]]|| {{flagu|United States}} || 22 July 2016 || London || <ref>{{cite web|title=100m Hurdles Results |url=http://livecache.sportresult.com/node/binaryData/AT_PROD/LONDON2016/PDF_RE1250040.PDF?h=55fyt5HsfjkzKROoQdNPSKUR5Z4= |publisher=sportresult.com |date=22 July 2016 |access-date=22 July 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160722230651/http://livecache.sportresult.com/node/binaryData/AT_PROD/LONDON2016/PDF_RE1250040.PDF?h=55fyt5HsfjkzKROoQdNPSKUR5Z4%3D |archive-date=22 July 2016 }}</ref>
+|- bgcolor="#f6F5CE"
+| rowspan="2" align="center" |5 
+| rowspan="2" align="center" |6|| rowspan="2" align="center" |12.21 || align="center" |+0.7 || align="center" | || [[Yordanka Donkova]] || {{flagu|Bulgaria|1971}} || 20 August 1988 || [[Stara Zagora]] ||
+|- bgcolor="#f6F5CE"
+| align="center" | +0.7
+| align="center" |0.146
+|[[Grace Stark]]
+|{{flagu|United States}}
+|20 June 2025
+|[[Paris]]
+|<ref name=":3">{{Cite web |date=20 June 2025 |title=Women's 100m Hurdles Results |url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2025/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=oTFd2OCM0NA7BNlfLIj6NzYoFXHajHWklE9jnPlLeIU= |archive-url=https://web.archive.org/web/20250620210709/https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2025/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=oTFd2OCM0NA7BNlfLIj6NzYoFXHajHWklE9jnPlLeIU= |archive-date=20 June 2025 |access-date=20 June 2025 |website=[[Diamond League|paris.diamondleague.com]]}}</ref>
+|-
+| rowspan="4" align="center" |
+| align="center" |8
+| align="center" |12.22
+| align="center" | +0.7
+| align="center" |
+|''Russell #3''
+| rowspan="4" |
+|2 August 2025
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{Cite web |date=2 August 2025 |title=Russell, Jackson and McLaughlin-Levrone on track for Tokyo with wins in Eugene |url=https://worldathletics.org/news/report/us-championships-2025-russell-jackson-mclaughlin-levrone |access-date=3 August 2025 |website=[[World Athletics]]}}</ref>
+|-
+| rowspan="3" align="center"|9|| rowspan="3" align="center" |12.24 || align="center" |+0.9 || align="center" | || ''Donkova #2'' || 28 August 1988 || [[Stara Zagora]] ||
+|- 
+| align=center|+0.7 || align=center| || ''Harrison #2'' || 28 May 2016 || [[Eugene, Oregon|Eugene]] || 
+|-
+| align=center|+0.1
+|align=center|0.155
+|''Harrison #3''
+|22 August 2023
+|[[Budapest]]
+|<ref>{{Cite web|title=100m Hurdles Round 1 Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7138987/AT-100H-W-h----.RS4.pdf|work=World Athletics|date=22 August 2023|access-date=22 August 2023}}</ref> 
+|-bgcolor="#f6F5CE"
+|align=center|7
+|align=center|9
+|align=center|12.24
+| align=center|−0.4
+|align=center|0.153
+|[[Ackera Nugent]]
+|{{flagu|Jamaica}}
+|30 August 2024
+|[[Rome]]
+|<ref>{{Cite web|title=100m Hurdles Results|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/ROME_2024/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=Py338ld3O4NGPY9Xza9erB7rWjY=|website=swisstiming.com|date=30 August 2024|access-date=13 September 2024}}</ref> 
+|-
+|
+| align="center" |9
+| align="center" |12.24
+| align="center" | +0.7
+| align="center" |0.131
+|''Amusan #2''
+|
+|20 June 2025
+|[[Paris]]
+|<ref name=":3" /> 
+|- bgcolor="#f6F5CE"
+| rowspan="2" align="center" |7
+| rowspan="2" align="center" |9
+| rowspan="2" align="center" |12.24
+| align="center" | +1.4
+| align="center" |0.129
+|[[Tonea Marshall]]
+|{{flagu|United States}}
+|16 August 2025
+|[[Chorzów]]
+|<ref name=":4" />
+|- bgcolor="#f6F5CE"
+| align="center" |−0.1
+| align="center" |0.146
+|[[Ditaji Kambundji]]
+|{{flagu|Switzerland}}
+|15 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 100m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-100H-W-f----.RS6.pdf|website=World Athletics|date=15 September 2025|access-date=15 September 2025}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |10
+| align="center" |16|| align="center" |12.25 || align="center" |+1.4 || align="center" | || [[Ginka Zagorcheva]]|| {{flagu|Bulgaria|1971}} || 8 August 1987 || [[Drama, Greece|Drama]]||
+|-
+| rowspan="4" |
+| rowspan="3" align="center" |16
+| rowspan="3" align="center" |12.25
+| align="center" | +0.7
+|
+|''Russell #4''
+| rowspan="4" |
+|30 June 2024
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":0">{{Cite web|title=McLaughlin-Levrone breaks world 400m hurdles record at US Trials|url=https://worldathletics.org/competitions/olympic-games/paris24/news/article/sydney-mclaughlin-levrone-world-400m-hurdles-record-us-olympic-trials|website=World Athletics|author=Jessie Gabriel|date=30 June 2024|access-date=1 July 2024}}</ref>
+|-
+| align="center" | +1.5
+|
+|''Russell #5''
+|2 August 2025
+|[[Hayward Field|Eugene]]
+|<ref>{{Cite web|title=USATF Outdoor Champs: Masai Russell, Sydney McLaughlin-Levrone win; men’s 1500m stunner|url=https://www.nbcsports.com/olympics/news/sydney-mclaughlin-levrone-masai-russell-usa-track-and-field-championships-2025|website=nbcsports.com|author=Nick Zaccardi|date=2 August 2025|access-date=3 August 2025}}</ref>
+|-
+| align="center" | +1.4
+| align="center" |0.156
+|''Amusan #3''
+|16 August 2025
+|[[Chorzów]]
+|<ref name=":4" />
+|-
+|align="center" |20|| align="center" |12.26 || align="center" |+1.5 || align="center" | || ''Donkova #3''|| 7 September 1986 || [[Ljubljana]]||
+|- bgcolor="#f6F5CE"
+| rowspan="3" align="center" |11
+| rowspan="3" align="center" |20|| rowspan="3" align="center" |12.26 || align="center" |+1.7 || align="center" | || [[Ludmila Engquist|Ludmila Narozhilenko]] || {{flagu|Russia|1991}} || 6 June 1992 || [[Seville]] ||
+|- bgcolor="#f6F5CE"
+| align=center|+1.2 || align=center| || [[Brianna Rollins]] || {{flagu|United States}} || 22 June 2013 || [[Des Moines]] || <ref name="auto">{{cite news|title=National records for Rollins, Carter and Bingson at US Championships|url=http://www.iaaf.org/news/report/national-records-for-rollins-carter-and-bings|publisher=[[IAAF]]|author=Kirby Lee|date=23 June 2013|access-date=24 June 2013}}</ref>
+|- bgcolor="#f6F5CE"
+| align=center|−0.2 || align=center|0.172 || [[Jasmine Camacho-Quinn]] || {{flagu|Puerto Rico}} || 1 August 2021 || Tokyo || <ref>{{cite web|title=Women's 100m hurdles Semi-Final Results Summary|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C74A_ATHW100MHURD----------SFNL--------.pdf|website=olympics.com|date=1 August 2021|accessdate=16 August 2021|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010153019/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C74A_ATHW100MHURD----------SFNL--------.pdf|url-status=dead}}</ref><ref>{{cite web |title=Tokyo 2020 100m Hurdles Semifinals Results {{!}} World Athletics |url=https://worldathletics.org/competitions/olympic-games/the-xxxii-olympic-games-athletics-7132391/results/women/100-metres-hurdles/semi-final/result |website=worldathletics.org |access-date=22 May 2023}}</ref>
+|- 
+| rowspan="3" |
+| rowspan="3" align="center" |24|| rowspan="3" align="center" |12.27 || align=center|−1.2 || align=center| || ''Donkova #4'' || rowspan="3" | || 28 August 1988 || [[Stara Zagora]] ||
+|-
+| align="center" |+0.9
+| align="center" |0.155
+|''Harrison #4''
+|24 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref name="auto1"/><ref>{{cite web |title=100 Metres Hurdles Result {{!}} World Athletics Championships, Oregon 2022 |url=https://worldathletics.org/results/world-athletics-championships/2022/world-athletics-championships-oregon-2022-7137279/women/100-metres-hurdles/semi-final/result |website=worldathletics.org |access-date=23 May 2023 |language=en}}</ref>
+|-
+|align="center" | +0.1
+|align="center" | 0.166
+|''Camacho-Quinn #2''
+|2 September 2022
+|[[Brussels]]
+|<ref>{{cite news|title=Krop, Mahuchikh and Winger bounce back in Brussels with world-leading marks|url=https://worldathletics.org/competitions/diamond-league/news/brussels-memorial-van-damme-krop-mahuchikh-winger-fisher-mageean|publisher=World Athletics|author=Jon Mulkeen|date=2 September 2022|access-date=14 September 2022}}</ref><ref>{{cite web |title=Wanda Diamond League Boudewijnstadion - Brussels (BEL) 1st - 2nd September 2022 Results 100m Hurdles Women |url=https://static.sportresult.com/sports/at/data/2022/brussels/re1250040.pdf |access-date=24 May 2023 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411141849/http://static.sportresult.com/sports/at/data/2022/brussels/re1250040.pdf |url-status=dead }}</ref>
+|- bgcolor="CCFFCC"
+| rowspan="2" align="center" |14
+| rowspan="12" | || rowspan="2" align="center" |12.28 || align="center" |+1.1 || align="center" |0.145 || [[Sally Pearson]] || {{flagu|Australia}} || 3 September 2011 || [[Daegu]] || <ref>{{cite web|title=100 Metres Hurdles Results |url=http://daegu2011.iaaf.org/documents/pdf/4147/AT-100H-W-f--1--.RS1.pdf |publisher=[[IAAF]] |date=3 September 2011 |access-date=3 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120225195332/http://daegu2011.iaaf.org/documents/pdf/4147/AT-100H-W-f--1--.RS1.pdf |archive-date=25 February 2012 }}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | +1.1
+| align="center" |0.148
+|[[Nadine Visser]]
+|{{Flagu|Netherlands}}
+|16 August 2025
+|[[Chorzów]]
+|<ref>{{Cite web |date=16 August 2025 |title=Results 100m Hurdles Women - Round 1 Heat 2 |url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SILESIA_2025/PDF_ATHW100MHURDDIAMOND---RND1000200--_C73B1.PDF?h=xc13Dq4g36rPFq7Isg8g55Q5QzlrKFT5IUrB877O4to= |access-date=16 August 2025 |website=swisstiming.com}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" |16
+| align="center" |12.30
+| align="center" | +0.6
+| align="center" | 0.153
+|[[Nia Ali]]
+|{{flagu|United States}}
+|21 July 2023
+|[[Stade Louis II|Monaco]]
+|<ref>{{cite web|title=100m Hurdles Results|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/MONACO2023/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=cTg188hyBxvwV4dOVdnpWPN6rU0=|publisher=sportresult.com|date=21 July 2023|access-date=21 July 2023|archive-date=21 July 2023|archive-url=https://web.archive.org/web/20230721200410/https://livecache.sportresult.com/node/binaryData/ATH_PROD/MONACO2023/PDF_ATHW100MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=cTg188hyBxvwV4dOVdnpWPN6rU0=|url-status=dead}}</ref>
+|- bgcolor="CCFFCC"
+| rowspan="4" align="center" |17
+| rowspan="4" align="center" |12.31
+| align="center" | +0.3
+| align="center" | 0.143
+|[[Britany Anderson]]
+|{{flagu|Jamaica}}
+|24 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref name="auto1" /><ref>{{cite web |title=100 Metres Hurdles Result {{!}} World Athletics Championships, Oregon 2022 |url=https://worldathletics.org/results/world-athletics-championships/2022/world-athletics-championships-oregon-2022-7137279/women/100-metres-hurdles/semi-final/result |website=worldathletics.org |access-date=24 May 2023 |language=en}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | +0.8
+|align="center" |0.150
+|[[Cyréna Samba-Mayela]]
+|{{flagu|France}}
+|8 June 2024
+|[[Stadio Olimpico|Rome]]
+|<ref>{{cite web|title=100m Hurdles Results|url=https://worldathletics.org/competition/calendar-results/results/7158244?eventId=10229522&gender=W|work=World Athletics|access-date=8 June 2024}}</ref>
+|-bgcolor="CCFFCC"
+| align="center" | +0.7
+|
+|[[Alaysha Johnson]]
+|{{flagu|United States}}
+|30 June 2024
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":0" />
+|- bgcolor="CCFFCC"
+| align="center" | +1.4 || align="center" |0.122 || [[Danielle Williams]] || {{flagu|Jamaica}} || 16 August 2025 || [[Chorzów]] || <ref name=":4" />
+
+|-bgcolor="CCFFCC"
+| align="center" |21
+| align="center" | 12.32 
+| align="center" | +1.4
+| align="center" | 0.149
+| [[Alia Armstrong]]
+| {{flagu|United States}} 
+| 16 August 2025
+|[[Chorzów]]
+|<ref name=":4" />
+|-bgcolor="CCFFCC"
+| align="center" |22 || align="center" |12.33 || align="center" |−0.3 
+| || [[Gail Devers]]|| {{flagu|United States}} || 23 July 2000 || [[Sacramento]]||
+|- bgcolor="CCFFCC"
+| rowspan="2" align="center" |23
+| rowspan="2" align="center" |12.34
+| align="center" | +1.9
+|
+|[[Sharika Nelvis]]
+|{{flagu|United States}} 
+|26 June 2015
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web|title=100m Hurdles Heat 3 Results|url=http://www.flashresults.com/2015_Meets/Outdoor/06-25_USATF/015-1-03.htm|date=26 June 2015|access-date=27 June 2015}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | +0.1
+|
+|[[Megan Tapper]]
+|{{flagu|Jamaica}}
+|29 June 2025
+|[[Kingston, Jamaica|Kingston]]
+|<ref>{{Cite web |date=29 June 2025 |title=Jamaican Championships - Women's 100m hurdles final results |url=https://worldathletics.org/competition/calendar-results/results/7226886?eventId=10229522 |access-date=30 Jun 2025 |website=[[World Athletics]]}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |25
+| align="center" | 12.35
+| align="center" | +0.9
+| align="center" |
+|[[Jasmin Stowers]]
+|{{flagu|United States}}
+|15 May 2015
+|[[Doha]]
+|<ref>{{cite web|title=100m Hurdles Results|url=http://www.iaaf.org/results/diamond-league-meetings/2015/doha-diamond-league-5648/women/100-metres-hurdles/final/result|publisher=IAAF|date=15 May 2015|access-date=31 August 2015}}</ref>
+|}
+
+=== Assisted marks ===
+<small>Any performance with a following wind of more than 2.0 metres per second does not count for record purposes. Below is a list of all [[wind-assisted]] times equal or superior to 12.30:</small>
+*[[Tobi Amusan]] (NGR) ran 12.06 (+2.5) in Eugene, Oregon on 24 July 2022.
+*[[Jasmine Camacho-Quinn]] (PUR) ran 12.17 (+3.5) in Devonshire, Bermuda on 21 May 2023, 12.23 (+2.5) in Eugene, Oregon on 24 July 2022, and 12.27 (+2.4) on 8 August 2022 in Székesfehérvár.
+*[[Britany Anderson]] (JAM) ran 12.23 (+2.5) in Eugene, Oregon on 24 July 2022.
+*[[Cornelia Oschkenat]] (GDR) ran 12.28 (+2.7) in Berlin on 25 August 1987.
+*[[Yordanka Donkova]] (BUL) ran 12.29 (+3.5) in Lausanne on 24 June 1988.
+*[[Gail Devers]] (USA) ran 12.29 (+2.7) in Eugene, Oregon on 26 May 2002.
+*[[Lolo Jones]] (USA) ran 12.29 (+3.8) in Eugene, Oregon on 6 July 2008.
+*[[Kendra Harrison]] (USA) ran 12.29 (+2.8) in New York City on 24 June 2023 
+*[[Brianna Rollins]] (USA) ran 12.30 (+2.8) in Des Moines, Iowa on 22 June 2013.
+*[[Alaysha Johnson]] (USA) ran 12.30 (+2.8) in New York City on 24 June 2023.
+
+==Most successful athletes==
+*[[Shirley Strickland]] (AUS): two Olympic victories, 1952 and 1956 in the [[80 m hurdles]].
+*[[Ludmila Engquist|Ludmila Narozhilenko-Engquist]] (URS)/(RUS)/(SWE): Olympic victory, 1996, two World Championship victories, 1991 and 1997.
+*[[Gail Devers]] (USA): three World Championships, 1993, 1995, 1999, as well as runner-up at the 1991 and 2001 World Championships.<ref>{{Cite web|title=GAIL DEVERS|url=https://www.teamusa.org/Hall-of-Fame/Hall-of-Fame-Members/Gail-Devers#:~:text=Gail%20Devers%20is%20a%20three,the%20IAAF%20world%20indoor%20championships|website=Team USA}}</ref>
+*[[Sally Pearson]] (AUS): Olympic victory in 2012, as well as runner-up in 2008.<ref>{{Cite web|title=Sally Pearson|url=https://www.olympics.com.au/olympians/sally-pearson/|access-date=13 August 2020|website=Australian Olympic Committee}}</ref> World Championship victories in 2011 and 2017, as well as runner-up in 2013.<ref>{{Cite web|title=Pearson, world champion and 2012 Olympic 100m hurdles gold medallist, retires{{!}} News|url=https://www.worldathletics.org/news/news/sally-pearson-retirement|access-date=13 August 2020|website=www.worldathletics.org}}</ref>
+*[[Brianna Rollins]] (USA): Olympic victory in 2016, World Championships 2013.
+*[[Danielle Williams]] (JAM): Two World Championships victories, 2015 and 2023.
+
+==Olympic medalists==
+{{Olympic medalists in women's 100 metres hurdles}}
+
+==World Championships medalists==
+{{World Championships in Athletics medalists in women's 100 metres hurdles}}
+
+==Season's bests==
+{| class="wikitable sortable" style="font-size:100%;"
+|-
+!Year
+!Time
+!Athlete
+!Place
+|-
+|[[1970 in the sport of athletics|1970]]
+|12.93
+|align=left|{{flagathlete|[[Chi Cheng (athlete)|Chi Cheng]]|ROC}}
+|[[Munich]]
+|-
+|[[1971 in the sport of athletics|1971]]
+|12.6{{AthAbbr|h}}
+|align=left|{{flagathlete|[[Karin Balzer]]|GDR}}
+|[[East Berlin]]
+|-
+|[[1972 in the sport of athletics|1972]]
+|12.59
+|align=left|{{flagathlete|[[Anneliese Ehrhardt]]|GDR}}
+|[[Munich]]
+|-
+|[[1973 in the sport of athletics|1973]]
+|12.68
+|align=left|{{flagathlete|[[Anneliese Ehrhardt]]|GDR}}
+|[[Dresden]]
+|-
+|[[1974 in the sport of athletics|1974]]
+|12.66
+|align=left|{{flagathlete|[[Anneliese Ehrhardt]]|GDR}}
+|[[Rome]]
+|-
+|[[1975 in the sport of athletics|1975]]
+|12.91
+|align=left|{{flagathlete|[[Bożena Nowakowska|Bożena Świerczyńska]]|POL}}
+|[[Zielona Góra]]
+|-
+|[[1976 in the sport of athletics|1976]]
+|12.69
+|align=left|{{flagathlete|[[Grażyna Rabsztyn]]|POL}}
+|[[Bydgoszcz]]
+|-
+|[[1977 in the sport of athletics|1977]]
+|12.87
+|align=left|{{flagathlete|[[Lyubov Kononova]]|URS}}
+|[[Düsseldorf]]
+|-
+|[[1978 in the sport of athletics|1978]]
+|12.48
+|align=left|{{flagathlete|[[Grażyna Rabsztyn]]|POL}}
+|[[Fürth]]
+|-
+|[[1979 in the sport of athletics|1979]]
+|12.48
+|align=left|{{flagathlete|[[Grażyna Rabsztyn]]|POL}}
+|[[Warsaw]]
+|-
+|[[1980 in the sport of athletics|1980]]
+|12.36
+|align=left|{{flagathlete|[[Grażyna Rabsztyn]]|POL}}
+|[[Warsaw]]
+|-
+|[[1981 in the sport of athletics|1981]]
+|12.68
+|align=left|{{flagathlete|[[Tatyana Anisimova]]|URS}}
+|[[Tbilisi]]
+|-
+|[[1982 in the sport of athletics|1982]]
+|12.44
+|align=left|{{flagathlete|[[Yordanka Donkova]]|BUL|1971}}
+|[[Sofia]]
+|-
+|[[1983 in the sport of athletics|1983]]
+|12.42
+|align=left|{{flagathlete|[[Bettine Jahn]]|GDR}}
+|[[Berlin]]
+|-
+|[[1984 in the sport of athletics|1984]]
+|12.43
+|align=left|{{flagathlete|[[Lucyna Kalek]]|POL}}
+|[[Hanover]]
+|-
+|[[1985 in the sport of athletics|1985]]
+|12.42
+|align=left|{{flagathlete|[[Ginka Zagorcheva]]|BUL|1971}}
+|[[Sofia]]
+|-
+|[[1986 in the sport of athletics|1986]]
+|12.26
+|align=left|{{flagathlete|[[Yordanka Donkova]]|BUL|1971}}
+|[[Ljubljana]]
+|-
+|[[1987 in the sport of athletics|1987]]
+|12.25
+|align=left|{{flagathlete|[[Ginka Zagorcheva]]|BUL|1971}}
+|[[Drama, Greece|Dráma]]
+|-
+|[[1988 in the sport of athletics|1988]]
+|12.21
+|align=left|{{flagathlete|[[Yordanka Donkova]]|BUL|1971}}
+|[[Stara Zagora]]
+|-
+|[[1989 in the sport of athletics|1989]]
+|12.60
+|align=left|{{flagathlete|[[Cornelia Oschkenat]]|GDR}}
+|[[Barcelona]]
+|-
+|[[1990 in the sport of athletics|1990]]
+|12.53
+|align=left|{{flagathlete|[[Nataliya Grygoryeva (hurdler)|Nataliya Grygoryeva]]|URS}}
+|[[Kyiv]]
+|-
+|[[1991 in the sport of athletics|1991]]
+|12.28
+|align=left|{{flagathlete|[[Ludmila Engquist|Ludmila Narozhilenko]]|URS}}
+|[[Kyiv]]
+|-
+|[[1992 in the sport of athletics|1992]]
+|12.26
+|align=left|{{flagathlete|[[Ludmila Engquist|Ludmila Narozhilenko]]|RUS}}
+|[[Seville]]
+|-
+|[[1993 in the sport of athletics|1993]]
+|12.46
+|align=left|{{flagathlete|[[Gail Devers]]|USA}}
+|[[Stuttgart]]
+|-
+|rowspan=2|[[1994 in the sport of athletics|1994]]
+|rowspan=2|12.53
+|align=left|{{flagathlete|[[Tatyana Reshetnikova]]|RUS}}
+|[[Linz]]
+|-
+|align=left|{{flagathlete|[[Svetla Dimitrova]]|BUL}}
+|[[Stara Zagora]]
+|-
+|[[1995 in the sport of athletics|1995]]
+|12.44
+|align=left|{{flagathlete|[[Olga Shishigina]]|KAZ}}
+|[[Lucerne]]
+|-
+|[[1996 in the sport of athletics|1996]]
+|12.47
+|align=left|{{flagathlete|[[Ludmila Engquist]]|SWE}}
+|[[Atlanta]]
+|-
+|[[1997 in the sport of athletics|1997]]
+|12.50
+|align=left|{{flagathlete|[[Ludmila Engquist]]|SWE}}
+|[[Athens]]
+|-
+|[[1998 in the sport of athletics|1998]]
+|12.44
+|align=left|{{flagathlete|[[Glory Alozie]]|NGR}}
+|[[Monaco]]
+|-
+|[[1999 in the sport of athletics|1999]]
+|12.37
+|align=left|{{flagathlete|[[Gail Devers]]|USA}}
+|[[Seville]]
+|-
+|[[2000 in the sport of athletics|2000]]
+|12.33
+|align=left|{{flagathlete|[[Gail Devers]]|USA}}
+|[[Sacramento, California|Sacramento]]
+|-
+|[[2001 in the sport of athletics|2001]]
+|12.42
+|align=left|{{flagathlete|[[Anjanette Kirkland]]|USA}}
+|[[Edmonton]]
+|-
+|[[2002 in the sport of athletics|2002]]
+|12.40
+|align=left|{{flagathlete|[[Gail Devers]]|USA}}
+|[[Lausanne]]
+|-
+|rowspan=2|[[2003 in the sport of athletics|2003]]
+|rowspan=2|12.45
+|align=left|{{flagathlete|[[Brigitte Foster-Hylton]]|JAM}}
+|[[Eugene, Oregon|Eugene]]
+|-
+|align=left|{{flagathlete|[[Gail Devers]]|USA}}
+|[[Monaco]]
+|-
+|[[2004 in the sport of athletics|2004]]
+|12.37
+|align=left|{{flagathlete|[[Joanna Hayes]]|USA}}
+|[[Athens]]
+|-
+|[[2005 in the sport of athletics|2005]]
+|12.43
+|align=left|{{flagathlete|[[Michelle Perry]]|USA}}
+|[[Carson, California|Carson]]
+|-
+|[[2006 in the sport of athletics|2006]]
+|12.43
+|align=left|{{flagathlete|[[Michelle Perry]]|USA}}
+|[[Lausanne]]
+|-
+|[[2007 in the sport of athletics|2007]]
+|12.44
+|align=left|{{flagathlete|[[Michelle Perry]]|USA}}
+|[[Rome]]
+|-
+|[[2008 in the sport of athletics|2008]]
+|12.43
+|align=left|{{flagathlete|[[Lolo Jones]]|USA}}
+|[[Beijing]]
+|-
+|[[2009 in the sport of athletics|2009]]
+|12.46
+|align=left|{{flagathlete|[[Brigitte Foster-Hylton]]|JAM}}
+|[[Zurich|Zürich]]
+|-
+|[[2010 in the sport of athletics|2010]]
+|12.52
+|align=left|{{flagathlete|[[Priscilla Lopes-Schliep]]|CAN}}
+|[[London]]
+|-
+|[[2011 in the sport of athletics|2011]]
+|12.28
+|align=left|{{flagathlete|[[Sally Pearson]]|AUS}}
+|[[Daegu]]
+|-
+|[[2012 in the sport of athletics|2012]]
+|12.35
+|align=left|{{flagathlete|[[Sally Pearson]]|AUS}}
+|[[London]]
+|-
+|[[2013 in the sport of athletics|2013]]
+|12.26
+|align=left|{{flagathlete|[[Brianna Rollins]]|USA}}
+|[[Des Moines, Iowa|Des Moines]]
+|-
+|[[2014 in the sport of athletics|2014]]
+|12.44
+|align=left|{{flagathlete|[[Dawn Harper-Nelson]]|USA}}
+|[[Paris]]
+|-
+|[[2015 in the sport of athletics|2015]]
+|12.34
+|align=left|{{flagathlete|[[Sharika Nelvis]]|USA}}
+|[[Eugene, Oregon|Eugene]]
+|-
+|[[2016 in the sport of athletics|2016]]
+|12.20
+|align=left|{{flagathlete|[[Kendra Harrison]]|USA}}
+|[[London]]
+|-
+|[[2017 in the sport of athletics|2017]]
+|12.28
+|align=left|{{flagathlete|[[Kendra Harrison]]|USA}}
+|[[Székesfehérvár]]
+|-
+|[[2018 in the sport of athletics|2018]]
+|12.36
+|align=left|{{flagathlete|[[Kendra Harrison]]|USA}}
+|[[London]]
+|-
+|[[2019 in the sport of athletics|2019]]
+|12.32
+|align=left|{{flagathlete|[[Danielle Williams]]|JAM}}
+|[[London]]
+|-
+|[[2020 in the sport of athletics|2020]]
+|12.68
+|align=left|{{flagathlete|[[Nadine Visser]]|NED}}
+|[[Turku]]
+|-
+|[[2021 in the sport of athletics|2021]]
+|12.26
+|align=left|{{flagathlete|[[Jasmine Camacho-Quinn]]|PUR}}
+|[[Tokyo]]
+|-
+|[[2022 in the sport of athletics|2022]]
+|12.12
+|align=left|{{flagathlete|[[Tobi Amusan]]|NGR}}
+|[[Eugene, Oregon|Eugene]]
+|-
+|[[2023 in the sport of athletics|2023]]
+|12.24
+|{{flagathlete|[[Kendra Harrison]]|USA}}
+|[[Budapest]]
+|-
+|[[2024 in the sport of athletics|2024]]
+|12.24
+|{{flagathlete|[[Ackera Nugent]]|JAM}}
+|[[Rome]]
+|-
+|[[2025 in the sport of athletics|2025]]
+|12.17
+|{{Flag athlete|[[Masai Russell]]|USA}}
+|[[Miramar, Florida|Miramar]]
+|}
+
+==External links==
+{{Commons category}}
+*[https://iaaf.gekko.de/?a=hurdles&d=100-metres-hurdles IAAF list of 100-metres-hurdles records in XML]
+
+== References ==
+{{Reflist|2}}
+
+*[http://hem.bredband.net/athletics/atb-d16.htm All-Time List]
+*[http://www.apulanta.fi/matti/yu/ytbyeve_Women.html#100m_h Year Lists]
+
+{{Athletics events}}
+{{Portal bar|Athletics}}
+
+[[Category:Events in track and field]]
+[[Category:Women's sport of athletics]]
+[[Category:Hurdling]]
+[[Category:Summer Olympic disciplines in athletics]]
+[[Category:Articles containing video clips]]
+[[Category:Sprint hurdles]]
+[[Category:100 (number)]]

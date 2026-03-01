@@ -1,0 +1,266 @@
+{{use dmy dates|date=August 2024}}
+{{infobox country at games
+|NOC               = SMR
+|NOCname           = [[Sammarinese National Olympic Committee]]
+|games             = Summer Olympics
+|year              = 2024
+|start_date        = {{start date|df=yes|2024|7|26}}
+|end_date          = {{end date|df=yes|2024|8|11}} 
+|flagcaption       =
+|oldcode           =
+|website           = {{url|www.cons.sm}}&nbsp;{{in lang|it}}
+|location          = [[Paris]], France
+|competitors       = 5
+|competitors_men   = 2
+|competitors_women = 3
+|sports            = 5
+|flagbearer_open   = Loris Bianchi <br/> [[Alessandra Gasparelli]]
+|flagbearer_close  = [[Myles Amine]] <br/> [[Giorgia Cesarini]] 
+|rank              =
+|gold              = 0
+|silver            = 0
+|bronze            = 0
+|officials         =
+|appearances       = auto
+|app_begin_year    = 1960
+|app_end_year      =
+|summerappearances =
+|winterappearances =
+|seealso           = 
+}}
+San Marino participated at the [[2024 Summer Olympics]] in [[Paris]] from 26 July to 11 August 2024. The country's participation in the Games marked its sixteenth appearance at the [[Summer Olympics]] since its debut in the [[San Marino at the 1960 Summer Olympics|1960 Games]].
+
+The San Marino team consisted of five athletes who competed across five sports. [[Alessandra Gasparelli]] and Loris Bianchi served as the country's flag-bearers during the [[2024 Summer Olympics Parade of Nations|parade of nations]] in the [[2024 Summer Olympics opening ceremony|opening ceremony]]. [[Myles Amine]] and [[Giorgia Cesarini]] served as the flag-bearers during the [[2024 Summer Olympics closing ceremony|closing ceremony]].
+
+== Background ==
+The [[National Olympic Committee]] of San Marino was formed on 16 April 1959. The [[Comitato Olimpico Nazionale Sammarinese]] was recognized by the [[International Olympic Committee]] (IOC) on 25 May of the same year. San Marino first participated in Olympic competition at the [[1960 Summer Olympics]], and have participated in most Olympic Games ever since.<ref name="Marino">{{cite web|url=https://www.olympedia.org/countries/SMR|title=San Marino at the Olympics|work=[[Olympedia]]|access-date=1 June 2024}}</ref><ref>{{cite web|title=San Marino|url=https://www.sports-reference.com/olympics/countries/SMR/|archive-url=https://web.archive.org/web/20240417092523/https://www.sports-reference.com/olympics/countries/SMR/ |url-status=dead |archive-date=17 April 2024|work=[[Sports Reference]]|access-date=2 November 2018 }}</ref> After the nation made its debut in the 1960 Games, this edition of the Games in [[2024 Summer Olympics|2024]] marked the nation's sixteenth appearance at the Summer Games.<ref name="Marino"/>
+
+The 2024 Summer Olympics was held in [[Paris]] from 26 July to 11 August 2024.<ref name="Olympics">{{cite web|url=https://www.olympics.com/en/olympic-games/paris-2024|title=Paris 2024|work=[[Olympics.com]]|access-date=3 February 2024}}</ref><ref>{{cite web|url=https://www.olympedia.org/editions/63|title=2024 Summer Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref> The San Marino team consisted of five athletes who competed across five sports.<ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/countries/SMR/summer/2024/|title=San Marino at 2024 Summer Olympics|work=[[Sports Reference]]|access-date=1 June 2001|archive-url=https://web.archive.org/web/20240417092656/https://www.sports-reference.com/olympics/countries/SMR/summer/2024/|archive-date=17 April 2024}}</ref>  [[Alessandra Gasparelli]] and Loris Bianchi served as the country's flag-bearers during the [[2024 Summer Olympics Parade of Nations|parade of nations]] in the [[2024 Summer Olympics opening ceremony|opening ceremony]].<ref>{{cite web|url=https://en.as.com/olympic_games/2024-paris-olympics-opening-ceremony-order-and-flag-bearers-by-country-n/|title=2024 Paris Olympics opening ceremony: order and flag bearers by country|date=26 July 2024|access-date=1 April 2025|work=AS}}</ref> [[Myles Amine]] and [[Giorgia Cesarini]] served as the flag-bearers during the [[2024 Summer Olympics closing ceremony|closing ceremony]]. San Marino had not won a Summer Olympics medal before the [[2020 Summer Olympics|2020 Games]].<ref>{{cite web|url=https://www.independent.co.uk/sport/olympics/olympics-flagbearer-paris-usa-teamgb-b2594760.html|title=Every Olympic flagbearer for Paris 2024 closing ceremony|date=11 August 2024|access-date=1 April 2025|work=[[The Independent]]}}</ref> In the previous event at Tokyo, the nation won three medals including a silver and a bronze. However, the nation did not win a medal during the 2024 Summer Olympics.<ref>{{cite web|url=https://www.olympics.com/en/olympic-games/paris-2024/medals|title=Medal table, 2024|work=[[Olympics.com]]|access-date=1 June 2024}}</ref>
+
+==Competitors==
+San Marino sent five athletes including two men and three women who competed in five sports at the Games.<ref name="SR"/>
+{|class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+|align=left|[[Archery at the 2024 Summer Olympics|Archery]]
+| 0 || 1 || 1
+|-
+|-
+|align=left|[[Athletics at the 2024 Summer Olympics|Athletics]]
+| 0 || 1 || 1
+|-
+|align=left|[[Shooting at the 2024 Summer Olympics|Shooting]]
+| 0 || 1 || 1
+|-
+|-
+|align=left|[[Swimming at the 2024 Summer Olympics|Swimming]]
+| 1 || 0 || 1
+|-
+|align=left|[[Wrestling at the 2024 Summer Olympics|Wrestling]]
+| 1 || 0 || 1
+|-
+!Total || 2 || 3 || 5
+|}
+
+==Archery==
+{{main article|Archery at the 2024 Summer Olympics|Archery at the 2024 Summer Olympics – Qualification}}
+
+As per the qualification system drawn up by the [[World Archery|World Archery Federation]], each [[National Olympic Committee]] (NOC) was permitted to enter a maximum of six competitors, three per gender. NOCs that qualify teams for a particular gender are able to send a three-member team to the team event and also have each member compete in the individual event with the remaining spots filled by individual qualification tournaments. The qualification for the team event was determined by various qualification tournaments and world archery rankings.<ref>{{cite web|first=EJ Monica|last=Kim|title=How to qualify for archery at Paris 2024. The Olympics qualification system explained|url=https://olympics.com/en/news/how-to-qualify-paris-2024-archery-qualification-system-explained|work=[[International Olympic Committee]]|date=12 December 2022|access-date=23 December 2022|archive-date=6 January 2023|archive-url=https://web.archive.org/web/20230106025217/https://olympics.com/en/news/how-to-qualify-paris-2024-archery-qualification-system-explained|url-status=live}}</ref><ref>{{cite web|first=Chris|last=Wells|title=Olympic qualification procedure released for archery at Paris 2024|url=https://www.worldarchery.sport/news/200684/olympic-qualification-procedure-released-archery-paris-2024|work=[[World Archery]]|date=12 April 2022|access-date=23 December 2022|archive-date=23 December 2022|archive-url=https://web.archive.org/web/20221223154414/https://www.worldarchery.sport/news/200684/olympic-qualification-procedure-released-archery-paris-2024|url-status=live}}</ref> San Marino was allocated a [[Universality slot|universality place]] by the World Archery Federation for the [[Archery at the 2024 Summer Olympics – Women's individual|women's individual]] event.<ref>{{cite news|url=https://www.worldarchery.sport/news/201686/universality-invite-completes-oscar-ticas-olympic-redemption|title=Universality invite completes Oscar Ticas’ Olympic redemption|date=26 June 2024|access-date=1 April 2025|work=[[World Archery Federation]]}}</ref> [[Giorgia Cesarini]] made her Olympics debut at the Games.<ref>{{cite web|url=https://www.olympics.com/en/athletes/giorgia-cesarini|title=Giorgia Cesarini|work=[[Olympics.com]]|access-date=1 June 2024}}</ref>
+
+The ranking rounds for the archery events were held at the [[Les Invalides]] on 25 July.<ref>{{cite web|url=https://www.paris2024.org/en/sport/archery/|title=Paris 2024 – Archery|work=[[2024 Summer Olympics|Paris 2024]]|access-date=1 July 2024|archive-date=22 October 2022|archive-url=https://web.archive.org/web/20221022063908/https://www.paris2024.org/en/sport/archery/|url-status=live}}</ref> Cesarini was raked 58th amongst the 64 participants with a score of 625 points.<ref>{{cite web|url=https://olympics.com/en/paris-2024/results/archery/women-s-individual/qual000100--|title=Women's individual, Ranking round|work=[[2024 Summer Olympics|Paris 2024]]|date=25 July 2024|access-date=1 August 2024|archive-date=1 August 2024|archive-url=https://web.archive.org/web/20240801134942/https://olympics.com/en/paris-2024/results/archery/women-s-individual/qual000100--|url-status=live}}</ref> In the main event, Cesarini was eliminated in the first round by [[Michelle Kroppen]] of [[Germany at the 2024 Summer Olympics|Germany]].<ref>{{cite web|url=https://www.worldarchery.sport/competition/23176/paris-2024-olympic-games/results#!/brackets/RW/individual|title=Archery, individual women|work=[[World Archery Federation]]|access-date=1 April 2025}}</ref>
+
+{|class="wikitable" style="font-size:90%; text-align:center"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Giorgia Cesarini]]
+|align=left|[[Archery at the 2024 Summer Olympics – Women's individual|Women's individual]]
+|625
+|58
+|{{flagIOCathlete|[[Michelle Kroppen|Kroppen]]|GER|2024 Summer}}<br />'''L''' 3–7
+|colspan="5" {{n/a|Did not advance}}
+|33
+|}
+
+==Athletics==
+{{main|Athletics at the 2024 Summer Olympics|Athletics at the 2024 Summer Olympics – Qualification}}
+
+As per the governing body [[World Athletics]] (WA), a NOC was allowed to enter up to three qualified athletes in each individual event and one qualified relay team if the Olympic [[Qualifying standards in athletics|Qualifying Standards]] (OQS) had been met during the qualifying period at the events approved by WA. The remaining places are allocated based on the World Athletics Rankings which were derived from the average of the best five results for an athlete over the designated qualifying period and the universality places were allocated later at the discretion of WA.<ref>{{cite news|first=Sean|last=McAlister|title=How to qualify for athletics at Paris 2024. The Olympics qualification system explained.|url=https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained|work=[[International Olympic Committee]]|date=20 December 2022|access-date=27 December 2022|archive-date=22 December 2022|archive-url=https://web.archive.org/web/20221222042637/https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained|url-status=live}}</ref><ref>{{cite news|title=Athletics at Paris 2024: The entry standards|url=https://olympics.com/en/news/athletics-paris-2024-entry-standards|work=[[International Olympic Committee]]|date=20 December 2022|access-date=27 December 2022|archive-date=3 January 2023|archive-url=https://web.archive.org/web/20230103150827/https://olympics.com/en/news/athletics-paris-2024-entry-standards|url-status=live}}</ref> San Marino received a [[universality slot]] to send one sprinter to the [[Athletics at the 2024 Summer Olympics – Women's 100 metres|women's 100 m]] event in the Olympics.<ref>{{cite web|title=Qualification System – Games of the XXXIII Olympiad – Athletics|url=https://assets.aws.worldathletics.org/document/63a1742ced7e871d1a269206.pdf|work=World Athletics|access-date=1 July 2024|archive-date=8 November 2023|archive-url=https://web.archive.org/web/20231108135219/https://assets.aws.worldathletics.org/document/63a1742ced7e871d1a269206.pdf|url-status=live}}</ref><ref>{{cite web|title=Athletics Paris 2024 Final Entries|url=https://worldathletics.org/competitions/olympic-games/paris24/athletes|work=[[World Athletics]]|access-date=12 July 2024}}</ref>
+
+In the main event held on 2 August at [[Stade de France]],<ref>{{cite web|url=https://olympics.com/en/paris-2024/schedule/athletics|title=Paris 2024 - Olympic Schedule - Athletics|work=[[Olympics.com]]|access-date=29 June 2024}}</ref> [[Alessandra Gasparelli]] made it through to the main heats after finishing second in the preliminary rounds.<ref>{{cite web|url=https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-7153115/results/women/100-metres/preliminary-round/result|title=Women's 100 metres - Preliminary Heat 1|work=[[World Athletics]]|access-date=1 June 2024}}</ref> In the heats, she set a new national record with a time of 11.54 seconds. However, she finished in seventh place out of the eight sprinters, and was eliminated from further competition.<ref>{{cite web|url=https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-7153115/results/women/100-metres/heats/result|title=Women's 100 metres - Heat 4|work=[[World Athletics]]|access-date=1 June 2024}}</ref>
+
+{{smalldiv|1=
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminary
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Alessandra Gasparelli]]
+|align=left|[[Athletics at the 2024 Summer Olympics – Women's 100 metres|Women's 100 m]]
+| 11.62 
+| 2 '''Q'''
+| 11.54 '''{{AthAbbr|NR|Sammarinese}}'''
+| 7
+|colspan=4| Did not advance
+|}
+
+==Shooting==
+{{main|Shooting at the 2024 Summer Olympics|Shooting at the 2024 Summer Olympics – Qualification}}
+
+As per the [[International Shooting Sport Federation]] (ISSF) guidelines, quota places for the Games were allocated to the NOCs based on the results at designated ISSF supervised events held from 14 August 2022 to 9 June 2024. Initial quota places were allocated only to the NOCs, who were allowed to choose the individual shooters. After the initial quotas were allocated, shooters were granted entries based on the ISSF world rankings, which were awarded directly to the individual shooters and were not to be changed by the NOCs.<ref>{{cite web|title=XXXIII Olympic Games – Paris 2024 Qualification System|url=https://www.issf-sports.org/competitions/venue/qualification_system.ashx?cshipid=2728|work=[[International Shooting Sport Federation]]|access-date=8 September 2022|archive-date=8 September 2022|archive-url=https://web.archive.org/web/20220908100534/https://www.issf-sports.org/competitions/venue/qualification_system.ashx?cshipid=2728|url-status=dead}}</ref><ref>{{cite news|title=How to qualify for shooting at Paris 2024. The Olympics qualification system explained|url=https://olympics.com/en/news/how-to-qualify-paris-2024-shooting-qualification-system-explained|work=[[International Olympic Committee]]|access-date=8 September 2022|archive-date=8 September 2022|archive-url=https://web.archive.org/web/20220908100517/https://olympics.com/en/news/how-to-qualify-paris-2024-shooting-qualification-system-explained|url-status=live}}</ref> San Marino achieved one quota place for the [[Shooting at the 2024 Summer Olympics|shooting event]].<ref>{{cite web|url=https://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|title=Quota Places by Nation and Number|date=1 January 2018|work=[[International Shooting Sport Federation]]|access-date=18 September 2022|archive-date=27 June 2021|archive-url=https://web.archive.org/web/20210627182202/https://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|url-status=live}}</ref>
+
+[[Alessandra Perilli]] represented the nation in the [[Shooting at the 2024 Summer Olympics – Women's trap|women's trap]] event.<ref name="SR"/> She won a silver and bronze, including the country's first ever Olympic medal, in the previous Olympics.<ref>{{cite news |last1=Baer |first1=Jack |title=San Marino's Alessandra Perilli wins first Olympic medal in microstate's history |url=https://uk.sports.yahoo.com/news/san-marino-alessandra-perilli-first-olympic-medal-065448549.html |access-date=29 July 2021 |work=Yahoo Sports |date=29 July 2021}}</ref><ref>{{cite news |last1=Mackenzie |first1=Alasdair |title=Shooting-Tears of joy as San Marino becomes smallest Olympic medal-winning nation |url=https://www.reuters.com/lifestyle/sports/shooting-tears-joy-san-marino-becomes-smallest-olympic-medal-winning-nation-2021-07-29/ |access-date=29 July 2021 |work=[[Reuters]] |date=29 July 2021}}</ref> The main event that took place on 30 and 31 July 2024 at the [[National Shooting Centre (France)|Chateauroux Shooting Centre]].<ref>{{cite web|url=https://olympics.com/en/paris-2024/schedule/shooting |title=Shooting Competition Schedule |work=[[Paris Organising Committee for the 2024 Olympic and Paralympic Games|Paris 2024]]|access-date=31 July 2024 }}</ref>  Perilli scored 116 hits out of a possible 125 and was ranked 15th in the qualification. As only the top six advanced to the final, she did not qualify for the final.
+<ref>{{cite web|title=Shooting – Trap Women – Qualification Results|url=https://olympics.com/OG2024/pdf/OG2024/SHO/OG2024_SHO_C73QE_SHOWTRW---------------QUAL--------.pdf|work=[[Paris Organising Committee for the 2024 Olympic and Paralympic Games|Paris 2024]]|date=31 July 2024|access-date=31 July 2024|archive-date=31 July 2024|archive-url=https://web.archive.org/web/20240731192114/https://olympics.com/OG2024/pdf/OG2024/SHO/OG2024_SHO_C73QE_SHOWTRW---------------QUAL--------.pdf|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Alessandra Perilli]]
+|align=left|[[Shooting at the 2024 Summer Olympics – Women's trap|Women's trap]]
+|116
+|15
+|colspan=2|Did not advance
+|}
+
+==Swimming==
+{{main article|Swimming at the 2024  Summer Olympics|Swimming at the 2024 Summer Olympics – Qualification}}
+
+As per the [[World Aquatics]] guidelines, a NOC was permitted to enter a maximum of two qualified athletes in each individual event, who have achieved the Olympic Qualifying Time. One athlete per event will be allowed to enter if they meet the Olympic Selection Time if the quota is not filled. NOCs were allowed to enter swimmers (one per gender) under a [[Universality slot|universality place]] even if no one achieved the standard entry times.<ref>{{cite web|url=https://resources.fina.org/fina/document/2024/04/24/70c522e5-0ce6-416d-b2e5-a8283b04e817/2024-04-16-Olympic-Games-Paris-2024-qualification-system-World-Aquatics-Swimming-English.pdf|title=Qualification System – Games of the XXXIII Olympiad – Swimming|work=[[World Aquatics]]|access-date=17 July 2024|archive-date=4 August 2024|archive-url=https://web.archive.org/web/20240804162539/https://resources.fina.org/fina/document/2024/04/24/70c522e5-0ce6-416d-b2e5-a8283b04e817/2024-04-16-Olympic-Games-Paris-2024-qualification-system-World-Aquatics-Swimming-English.pdf|url-status=live}}</ref> San Marino was awarded one [[Universality slot|universality quota place]] in swimming. Loris Bianchi qualified for the [[Swimming at the 2024 Summer Olympics – Men's 400 metre freestyle|men's 400 m freestyle]] event.<ref>{{cite news|url=https://www.newsrimini.it/icaro-sport/loris-bianchi-alle-olimpiadi-di-parigi-la-soddisfazione-della-fsn|title=Loris Bianchi alle Olimpiadi di Parigi. La soddisfazione della FSN|work=News Rimini|lang=it|access-date=1 April 2025}}</ref>
+
+The swimming events were held at the [[Paris La Défense Arena]].<ref>{{cite web|url=https://www.paris2024.org/en/sport/swimming/|title=Paris 2024 – Swimming|work=[[2024 Summer Olympics|Paris 2024]]|access-date=18 September 2022|archive-date=29 March 2023|archive-url=https://web.archive.org/web/20230329004530/https://www.paris2024.org/en/sport/swimming/|url-status=live}}</ref> In the men's 400m freestyle, Bianchi finished 32nd out of the 37 competitors with a time of 4:01.13 and failed to qualify for the next round.<ref>{{cite web |title=Results, swimming 400m freestyle men |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM400MFR------------HEAT--------.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815160922/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM400MFR------------HEAT--------.pdf |archive-date=15 August 2024 |access-date=18 December 2024 |work=[[International Olympic Committee]]}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Loris Bianchi]]
+|align=left|[[Swimming at the 2024 Summer Olympics – Men's 400 metre freestyle|Men's 400 m freestyle]]
+|4:01.13
+|32
+|colspan="4"|Did not advance
+|}
+
+Qualifiers for the later rounds ('''Q''') of all events were determined based solely on time. Therefore, the positions shown represent overall results compared to competitors across all heats.
+
+==Wrestling==
+{{main|Wrestling at the 2024 Summer Olympics|Wrestling at the 2024 Summer Olympics – Qualification}}
+
+As per the [[United World Wrestling]], each NOC was allowed to enter a maximum of 18 wrestlers with one per event. Quotas were allocated at the [[2023 World Wrestling Championships]], continental tournaments and [[2024 World Wrestling Olympic Qualification Tournament]].<ref>{{cite web|url=https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris2024-QS-Wrestling.pdf|title=Qualification System – Games of the XXXIII Olympiad – Wrestling|work=[[United World Wrestling]]|date=26 February 2021|access-date=9 June 2021|archive-date=26 December 2022|archive-url=https://web.archive.org/web/20221226011824/https://stillmed.olympics.com/media/Documents/Olympic-Games/Paris-2024/Paris2024-QS-Wrestling.pdf|url-status=live}}</ref> [[Myles Amine]] earned his spot at the Games with a top-five finish at the 2023 World Championships held in [[Belgrade]], Serbia.<ref>{{cite news|url=https://uww.org/article/freestyle-wrestling-2024-paris-olympic-games-qualified-nations|title=Freestyle Wrestling: 2024 Paris Olympic Games Qualified Nations|date=19 September 2023|work=[[United World Wrestling]]|access-date=25 September 2023|archive-date=25 September 2023|archive-url=https://web.archive.org/web/20230925171039/https://uww.org/article/freestyle-wrestling-2024-paris-olympic-games-qualified-nations|url-status=dead}}</ref><ref>{{cite report|url=https://cdn.uww.org/2024-07/qualified_nocs_freestyle_men_3.pdf|title=Paris 2024 Olympics men's wrestling entries|work=[[United World Wrestling]]|access-date=27 July 2024}}</ref>
+
+This was the second Olympic appearance for Amine, who was a bronze medalist from the previous Olympic Games.<ref>{{cite web|url=https://www.olympics.com/en/athletes/myles-nazem-amine|title=Myles Amine|work=[[Olympics.com]]|access-date=1 June 2024}}</ref> The [[Wrestling at the 2024 Summer Olympics – Men's freestyle 86 kg|men's −86 kg]] category events that took place on 8–9 August 2024 at the [[Grand Palais Éphémère]] in [[Champ de Mars]].<ref>{{cite web|url=https://cdn.uww.org/2024-06/infos_08_paris.pdf|title=Wrestling schedule, Paris|work=[[United World Wrestling]]|access-date=27 July 2024}}</ref> A typical wrestling bout consisted of two halves of three minutes each separated by a 30-second break. The two competitors compete on a [[Freestyle wrestling#Layout of the mat|mat]], which is nine meters in diameter and try to score points by executing various legal maneuvers. Forcing an opponent's shoulders to the mat results in an instant [[Pin (amateur wrestling)|victory by fall]].<ref>{{cite web|url=https://olympics.com/en/news/what-how-freestyle-wrestling-style-rules-scoring-techniques-olympics|title=What is freestyle wrestling? Rules, scoring, techniques and Olympic history|work=[[International Olympic Committee]]|access-date=27 July 2024}}</ref>
+
+Amine beat [[Vasyl Mykhailov]] of [[Ukraine at the 2024 Summer Olympics|Ukraine]] and [[Osman Nurmagomedov]] of [[Azerbaijan at the 2024 Summer Olympics|Azerbaijan]] in the first two rounds by points scores to advance to the semifinals. He lost the semifinal bout to [[Hassan Yazdani]] of [[Iran at the 2024 Summer Olympics|Iran]]. In the bronze medal bout, he lost to [[Dauren Kurugliev]] of [[Greece at the 2024 Summer Olympics|Greece]] by a single point, and missed out on a chance to win medals at consecutive Olympic Games.<ref>{{cite web|url=https://www.olympics.com/en/olympic-games/paris-2024/results/wrestling/men-freestyle-86kg|title=Men's freestyle 86 kg|work=[[Olympics.com]]|access-date=1 April 2025}}</ref>
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* VT (ranking points: 5–0 or 0–5) – [[Pin (amateur wrestling)|Victory by fall]].
+* VB (ranking points: 5–0 or 0–5) – Victory by injury (VF for forfeit, VA for withdrawal or disqualification)
+* PP (ranking points: 3–1 or 1–3) – Decision by points – the loser with technical points.
+* PO (ranking points: 3–0 or 0–3) – Decision by points – the loser without technical points.
+* ST (ranking points: 4–0 or 0–4) – Great superiority – the loser without technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+* SP (ranking points: 4–1 or 1–4) – Technical superiority – the loser with technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+}}
+
+;Freestyle
+{|class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Myles Amine]]
+|align=left|[[Wrestling at the 2024 Summer Olympics – Men's freestyle 86 kg|Men's −86 kg]]
+|{{flagIOCathlete|[[Vasyl Mykhailov|Mykhailov]]|UKR|2024 Summer}}<br/> '''W''' 7–4
+|{{flagIOCathlete|[[Osman Nurmagomedov|Nurmagomedov]]|AZE|2024 Summer}}<br/> '''W''' 16–14
+|{{flagIOCathlete|[[Hassan Yazdani|Yazdani]]|IRI|2024 Summer}}<br/> '''L ''' 1–7
+|{{bye}}
+|{{flagIOCathlete|[[Dauren Kurugliev|Kurugliev]]|GRE|2024 Summer}}<br/> '''L''' 4–5
+|=5
+|}
+
+==See also==
+*[[San Marino at the Olympics]]
+*[[San Marino at the 2024 Winter Youth Olympics]]
+
+==References==
+{{reflist}}
+
+{{Nations at the 2024 Summer Olympics}}
+{{Country at games navbox|San Marino|Olympics}}
+
+[[Category:Nations at the 2024 Summer Olympics]]
+[[Category:San Marino at the Summer Olympics by year|2024]]
+[[Category:2024 in Sammarinese sport]]

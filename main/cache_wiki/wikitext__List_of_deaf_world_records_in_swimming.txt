@@ -1,0 +1,1741 @@
+{{Short description|None}}
+The '''Deaf world records in swimming''' are the fastest ever performances of [[deaf]] athletes, which are recognised and ratified by the [[Comité International des Sports des Sourds|International Committee of Sports for the Deaf]] (ICSD) and [[FINA]].
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|nationality=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 23.14
+|recordinfo = 
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 25 July 2018
+|meet = -
+|city = Irvine
+|cityarticle = Irvine, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 01.1
+|event = 50m freestyle
+|time = 23.12
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Sultanov
+|lastname = Illia
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 5 May 2024
+|meet = Champions Ukraine
+|city = Brovary
+|cityarticle = 
+|country = UKR
+|ref = {{cn|date=May 2025}}
+}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 23.00
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Illia
+|lastname = Sultanov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 25 November 2025
+|meet = [[Swimming at the 2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|cityarticle =
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Final Results|url=https://deaflympics2025-games.jp/en/Watch-the-Games/Official-Results/Results_PDF/20251125/%E2%97%8F%E3%80%90%E7%B5%90%E6%9E%9C%E3%80%91_1125_%E6%B0%B4%E6%B3%B3_%E7%94%B7%E5%AD%9050m%E8%87%AA%E7%94%B1%E5%BD%A2_%E6%B1%BA%E5%8B%9D.pdf|website=deaflympics2025-games.jp|date=25 November 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 01.2
+|event = 50m freestyle
+|time = 22.85
+|recordinfo = not ratified
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 2 August 2019
+|meet = USA Phillips 66 Summer National Time Trials
+|city = Stanford
+|cityarticle = Stanford, California
+|country = USA
+|ref = <ref>{{cite web|title=Swim Cloud: Matthew Klotz|url=https://www.swimcloud.com/swimmer/216290/|website=swimcloud.com|access-date=10 July 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 51.22
+|recordinfo = 
+|firstname = Marcus
+|lastname = Titus
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 17 August 2015
+|meet = World Deaf Championships
+|city = San Antonio
+|country = USA
+|ref = <ref name="WC 2015">{{cite news|title=4th World Deaf Swimming Championship Results|url=https://nebula.wsimg.com/88417be12a7d07533905935c2d2bce29?AccessKeyId=8CBE964401CA3E306C17&disposition=0&alloworigin=1|publisher=nebula.wsimg.com|date=21 August 2015|access-date=23 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 50.88
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Sultanov
+|lastname = Illia
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 7 May 2024
+|meet = Champions Ukraine
+|city = Brovary
+|cityarticle = 
+|country = UKR
+|ref = {{cn|date=May 2025}}
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:52.55
+|recordinfo = 
+|firstname = Guilherme
+|lastname = Kabbach
+|namearticle = 
+|club = {{flagu|Brazil}}
+|date = 24 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun">{{cite web|title=23rd Summer Deaflympics Swimming Results Book|url=http://samsun2017.microplustiming.com/pdf/SW_Book.pdf|work=Microplus Timing|date=26 July 2017|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:53.42
+|recordinfo = 
+|firstname = Jeffrey
+|lastname = Float
+|namearticle = 
+|nation = USA
+|date = 23 August 1978
+|meet = [[1978 World Aquatics Championships|World Championships]]
+|city = West Berlin
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:17.56
+|recordinfo = †
+|firstname = Satoi
+|lastname = Fujihara
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = 25 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:37.64
+|recordinfo = 
+|firstname = Satoi
+|lastname = Fujihara
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = 25 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 07.1
+|event = 50m backstroke
+|time = 25.95
+|recordinfo = 
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 27 July 2018
+|meet = -
+|city = Irvine
+|cityarticle = Irvine, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 07.1
+|event = 50m backstroke
+|time = 25.94
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 23 November 2025
+|meet = [[Swimming at the 2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|cityarticle =
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Final Results|url=https://deaflympics2025-games.jp/en/Watch-the-Games/Official-Results/Results_PDF/20251123/%E2%97%8F%E3%80%90%E7%B5%90%E6%9E%9C%E3%80%91_1123_%E6%B0%B4%E6%B3%B3_%E7%94%B7%E5%AD%9050m%E8%83%8C%E6%B3%B3%E3%81%8D%E3%82%99_%E6%B1%BA%E5%8B%9D.pdf|website=deaflympics2025-games.jp|date=23 November 2025|access-date=25 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07.2
+|event = 50m backstroke
+|time = 25.75
+|recordinfo = tt, not ratified
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = June 2021
+|meet = United States Olympic Swimming Trials
+|city = Omaha
+|cityarticle = Omaha, Nebraska
+|country = USA
+|ref = <ref>{{cite magazine|title=MATTHEW KLOTZ RE-BREAKS DEAF SWIMMING WORLD RECORD IN 50 BACK|url=https://swimswam.com/matthew-klotz-re-breaks-deaf-swimming-world-record-in-50-back/|magazine=[[SwimSwam]]|author=Braden Keith|date=21 June 2021|access-date=24 July 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 56.06
+|recordinfo = h
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 18 June 2016
+|meet = Tiger Aquatics Summer Classic
+|city = Baton Rouge
+|country = USA
+|ref = <ref>{{cite magazine|title=Matthew Klotz Lowers 100 Back Deaf World Record|url=http://www.swimmingworldmagazine.com/news/matthew-klotz-lowers-100-back-deaf-world-record/|magazine=[[Swimming World]]|date=18 June 2016|access-date=19 June 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:01.96
+|recordinfo = 
+|firstname = Matthew
+|lastname = Klotz
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 22 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke
+|time = 27.79
+|recordinfo = 
+|firstname = Marcus
+|lastname = Titus
+|namearticle = 
+|nation = USA
+|date = 7 August 2011
+|meet = World Deaf Championships
+|city = Coimbra
+|country = POR
+|ref = <ref name="swimmingworldmagazine.com">{{cite magazine|title=World Deaf Swimming Championships: Two World Deaf Records Fall on Day One|url=http://www.swimmingworldmagazine.com/lane9/news/World/27846.asp?q=World-Deaf-Swimming-Championships:-Two-World-Deaf-Records-Fall-on-Day-One|magazine=[[Swimming World Magazine]]|date=8 August 2011|access-date=8 August 2011}}</ref><ref>{{cite web|title=Men, 50m Breaststroke Results|url=http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_6F.pdf|publisher=www.lpdsurdos.org.pt|date=7 August 2011|access-date=8 August 2011|archive-url=https://web.archive.org/web/20120330131845/http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_6F.pdf|archive-date=30 March 2012|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:00.00
+|recordinfo = 
+|firstname = Marcus
+|lastname = Titus
+|namearticle = 
+|nation = USA
+|date = 7 July 2009
+|meet = [[United States Swimming National Championships|US Championships]]
+|city = Indianapolis
+|country = USA
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=0001090E000B000000FFFFFFFFFFFF01|work=Omega Timing|date=7 July 2009|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:12.50
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|nation = RSA
+|date = 20 September 2000
+|meet = [[Swimming at the 2000 Summer Olympics – Men's 200 metre breaststroke|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 24.75
+|recordinfo = 
+|firstname = Andrei
+|lastname = Zhivaev
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 22 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 24.13
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Illia
+|lastname = Sultanov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 20 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Final Results|url=https://deaflympics2025-games.jp/en/Watch-the-Games/Official-Results/Results_PDF/20251120/%E2%97%8F%E3%80%90%E7%B5%90%E6%9E%9C%E3%80%91_1120_%E6%B0%B4%E6%B3%B3_%E7%94%B7%E5%AD%9050m%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4_%E6%B1%BA%E5%8B%9D.pdf|website=deaflympics2025-games.jp|date=20 November 2025|access-date=27 January 2026}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 53.90
+|recordinfo = 
+|firstname = Ilya
+|lastname = Trishkin
+|namearticle = 
+|nation = RUS
+|date = 7 September 2009
+|meet = [[2009 Summer Deaflympics|Deaflympics]]
+|city = Taipei
+|country = TPE
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:01.71
+|recordinfo = 
+|firstname = Luca
+|lastname = Germano
+|namearticle = 
+|nation = ITA
+|date = 8 August 2011
+|meet = World Deaf Championships
+|city = Coimbra
+|country = POR
+|ref = <ref>{{cite web|title=Men, 200m Butterfly Results|url=http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_9F.pdf|publisher=www.lpdsurdos.org.pt|date=8 August 2011|access-date=9 August 2011|archive-url=https://web.archive.org/web/20120330132055/http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_9F.pdf|archive-date=30 March 2012|url-status=dead}}</ref><ref name="Swimming World Magazine">{{cite magazine|title=World Deaf Swimming Championships: Trio of World Deaf Records Fall|url=http://www.swimmingworldmagazine.com/lane9/news/World/27852.asp?q=World-Deaf-Swimming-Championships:-Trio-of-World-Deaf-Records-Fall|magazine=[[Swimming World Magazine]]|date=9 August 2011|access-date=9 August 2011}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:03.33
+|recordinfo = h
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|nation = RSA
+|date = 20 September 2000
+|meet = [[Swimming at the 2000 Summer Olympics – Men's 200 metre individual medley|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:16.92
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|nation = RSA
+|date = 17 September 2000
+|meet = [[Swimming at the 2000 Summer Olympics – Men's 400 metre individual medley|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:28.49
+|recordinfo = 
+|1name = [[Ilya Sarykin]]
+|1split = 52.09
+|2name = [[Andrei Zhivaev]]
+|2split = 51.70
+|3name = [[Vitalii Obotin]]
+|3split = 52.06
+|4name = [[Miron Denisov]]
+|4split = 52.64
+|club = {{flagu|Russia}}
+|date = 26 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 7:40.91
+|recordinfo = 
+|1name = [[Andrei Zhivaev]]
+|1split = 1:55.60
+|2name = [[Aleksandr Grishin (swimmer)|Aleksandr Grishin]]
+|2split = 1:58.80
+|3name = [[Mikhaylovi Denisov]]
+|3split = 1:52.82
+|4name = [[Vitalii Obotin]]
+|4split = 1:53.69
+|club = {{flagu|Russia}}
+|date = 21 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 3:48.86
+|recordinfo = 
+|1name = [[Igor Zhuravlev]]
+|1split = 58.24
+|2name = [[Martin Fomin]]
+|2split = 1:03.58
+|3name = [[Andrei Zhivaev]]
+|3split = 55.50
+|4name = [[Miron Denisov]]
+|4split = 51.54
+|club = {{flagu|Russia}}
+|date = 24 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Comité International des Sports des Sourds{{!}}CISS, FINA}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|nationality=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 26.15
+|recordinfo = 
+|firstname = Ganna
+|lastname = Lytvynenko
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 12 September 2009
+|meet = [[2009 Summer Deaflympics|Deaflympics]]
+|city = Taipei
+|country = TPE
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 25.28
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 24 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Final Results|url=https://deaflympics2025-games.jp/en/Watch-the-Games/Official-Results/Results_PDF/20251124/%E2%97%8F%E3%80%90%E7%B5%90%E6%9E%9C%E3%80%91_1124_%E6%B0%B4%E6%B3%B3_%E5%A5%B3%E5%AD%9050m%E8%87%AA%E7%94%B1%E5%BD%A2_%E6%B1%BA%E5%8B%9D.pdf|website=deaflympics2025-games.jp|date=24 November 2025|access-date=11 February 2026}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 57.29
+|recordinfo = 
+|firstname = Ganna
+|lastname = Lytvynenko
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 9 September 2009
+|meet = [[2009 Summer Deaflympics|Deaflympics]]
+|city = Taipei
+|country = TPE
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100 m freestyle
+|time = 56.29
+|recordinfo = <nowiki>#</nowiki>
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 22 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Final Results|url=https://deaflympics2025-games.jp/en/Watch-the-Games/Official-Results/Results_PDF/20251122/%E2%97%8F%E3%80%90%E7%B5%90%E6%9E%9C%E3%80%91_1122_%E6%B0%B4%E6%B3%B3_%E5%A5%B3%E5%AD%90100m%E8%87%AA%E7%94%B1%E5%BD%A2_%E6%B1%BA%E5%8B%9D.pdf|website=deaflympics2025-games.jp|date=24 November 2025|access-date=11 February 2026}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 2:01.77
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 25 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics 2025]]
+|city = Tokyo
+|cityarticle = 
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:18.39
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 20 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|eventsort = 05.1
+|event = 800m freestyle
+|time = 9:09.73
+|recordinfo = 
+|firstname = Elizabeth
+|lastname = Lutz
+|namearticle = Elizabeth Lutz (swimmer)
+|club = {{flagu|United States}}
+|date = 28 July 1981
+|meet = [[1981 Summer Deaflympics|Deaflympics]]
+|city = Cologne
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05.2
+|event = 800m freestyle
+|time = 8:57.93
+|recordinfo = not ratified
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 3 August 2021
+|meet = USA Speedo Summer Championships
+|city = Irvine
+|cityarticle = Irvine, California
+|country = USA
+|ref =<ref>{{cite web|title=Swim Cloud: Carli Cronk|url=https://www.swimcloud.com/swimmer/1486818/|website=swimcloud.com|access-date=10 July 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 17:33.90
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 4 May 2022
+|meet = [[2021 Summer Deaflympics|Deaflympics]]
+|city = Caxias do Sul
+|cityarticle = 
+|country = BRA
+|ref = <ref>{{cite magazine|title=AMERICAN CARLI CRONK WINS WOMEN’S 1500 & 200 FREE GOLD ON DAY 3 OF DEAFLYMPICS|url=https://swimswam.com/american-carli-cronk-wins-womens-1500-200-free-gold-on-day-3-of-deaflympics/|magazine=[[SwimSwam]]|author=Spencer Penland|date=5 May 2022|access-date=17 May 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 29.28
+|recordinfo = 
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 22 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:02.61
+|recordinfo = 
+|firstname = Olga
+|lastname = Kliuchnikova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 21 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:17.15
+|recordinfo = 
+|firstname = Olga
+|lastname = Kliuchnikova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 26 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke
+|time = 31.97
+|recordinfo = 
+|firstname = Mariia
+|lastname = Rezhylo
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 28 August 2019
+|meet = World Deaf Championships
+|city = São Paulo
+|country = BRA
+|ref = <ref>{{cite web|title=5th World Deaf Championships – Day 3 Finals Results|url=https://wdsc2019.files.wordpress.com/2019/08/day-3-finals-results-2.pdf|work=wdsc2019.files.wordpress.com|date=28 August 2019|access-date=14 September 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:11.53
+|recordinfo = 
+|firstname = Aksana
+|lastname = Petrushenka
+|namearticle = 
+|club = {{flagu|Belarus}}
+|date = 20 August 2015
+|meet = World Deaf Championships
+|city = San Antonio
+|country = USA
+|ref = <ref name="WC 2015">{{cite news|title=4th World Deaf Swimming Championship Results|url=https://nebula.wsimg.com/88417be12a7d07533905935c2d2bce29?AccessKeyId=8CBE964401CA3E306C17&disposition=0&alloworigin=1|publisher=nebula.wsimg.com|date=21 August 2015|access-date=23 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:35.65
+|recordinfo = 
+|firstname = Aksana
+|lastname = Petrushenka
+|namearticle = 
+|nation = BLR
+|date = 8 August 2011
+|meet = World Deaf Championships
+|city = Coimbra
+|country = POR
+|ref = <ref name="Swimming World Magazine"/><ref>{{cite web|title=Women, 200m Breaststroke Results|url=http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_8F.pdf|publisher=www.lpdsurdos.org.pt|date=8 August 2011|access-date=9 August 2011|archive-url=https://web.archive.org/web/20120330132042/http://www.lpdsurdos.org.pt/live_results/WDSC2011/ResultList_8F.pdf|archive-date=30 March 2012|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 26.49
+|recordinfo = 
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 24 November 2025 
+|meet = [[2025 Summer Deaflympics|Deaflympics 2025]]
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|eventsort = 14.1
+|event = 100m butterfly
+|time = 59.13
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|USA}}
+|date = 20 November 2025 
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 15.1
+|event = 200m butterfly
+|time = 2:10.84
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 23 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics 2025]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:19.35
+|recordinfo = 
+|firstname = Olga
+|lastname = Kliuchnikova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 22 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecord
+|eventsort = 17.1
+|event = 400m individual medley
+|time = 4:58.53
+|recordinfo = 
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 7 May 2022
+|meet = [[2021 Summer Deaflympics|Deaflympics]]
+|city = Caxias do Sul
+|country = BRA
+|ref = <ref>{{cite magazine|title=CARLI CRONK ADDS TWO MORE GOLD MEDALS ON DAY 6 OF DEAFLYMPICS|url=https://swimswam.com/carli-cronk-adds-two-more-gold-medals-on-day-6-of-deaflympics/|magazine=[[SwimSwam]]|author=Spencer Penland|date=8 May 2022|access-date=17 May 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:48.53
+|recordinfo = '#'
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 9 July 2022
+|meet = USA Speedo Summer Sectionals
+|city = Austin
+|cityarticle = Austin, Texas
+|country = USA
+|ref = <ref>{{cite web|title=Swim Cloud: Carli Cronk|url=https://www.swimcloud.com/swimmer/1486818/|website=swimcloud|access-date=10 July 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:54.73
+|recordinfo = 
+|1name = [[Maria Karpova]]
+|1split = 58.68
+|2name = [[Alena Alekseeva]]
+|2split = 59.27
+|3name = [[Viktoriia Terenteva]]
+|3split = 57.75
+|4name = [[Eleonora Brykanova]]
+|4split = 59.03
+|club = {{flagu|Russia}}
+|date = 22 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 8:45.71
+|recordinfo = 
+|1name = [[Maria Karpova]]
+|1split = 2:12.30
+|2name = [[Ekaterina Savchenko (swimmer)|Ekaterina Savchenko]]
+|2split = 2:13.42
+|3name = [[Eleonora Brykanova]]
+|3split = 2:14.18
+|4name = [[Viktoriia Terenteva]]
+|4split = 2:05.81
+|club = {{flagu|Russia}}
+|date = 25 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4:20.88
+|recordinfo = 
+|1name = [[Olga Kliuchnikova]]
+|1split = 1:03.28
+|2name = [[Ekaterina Kulikova]]
+|2split = 1:14.75
+|3name = [[Ekaterina Savchenko (swimmer)|Ekaterina Savchenko]]
+|3split = 1:04.98
+|4name = [[Viktoriia Terenteva]]
+|4split = 57.87
+|club = {{flagu|Russia}}
+|date = 20 July 2017
+|meet = [[2017 Summer Deaflympics|Deaflympics]]
+|city = Samsun
+|country = TUR
+|ref = <ref name="Samsun" />
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Comité International des Sports des Sourds{{!}}CISS, FINA}}
+
+===Mixed Relay===
+{{swimmingrecordlisttop|nationality=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 19
+|event = 4×100m freestyle relay
+|time = 3:39.66
+|recordinfo = 
+|1name = [[Marcus Titus]]
+|1split = 52.92
+|2name = Brooke Thompson 
+|2split = 58.97
+|3name = [[Matthew Klotz]]
+|3split = 52.85
+|4name = [[Carli Cronk]]
+|4split = 54.92
+|club = {{flagu|United States}}
+|date = 24 November 2025 
+|meet = [[2025 Summer Deaflympics|Deaflympics 2025]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 3:58.57
+|recordinfo = 
+|1name = [[Matthew Klotz]]
+|1split = 57.54
+|2name = [[Marcus Titus]]
+|2split = 1:03.21
+|3name = [[Carli Cronk]]
+|3split = 58.75
+|4name = Brooke Thompson
+|4split = 59.07
+|club = {{flagu|United States}}
+|date = 22 November 2025
+|meet = [[2025 Summer Deaflympics|Deaflympics]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Comité International des Sports des Sourds{{!}}CISS, FINA|r=no|b=no|sf=no|tt=no|†=no}}
+
+==Short Course (25 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|nationality=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 22.82
+|recordinfo = 
+|firstname = Andrei
+|lastname = Zhivaev
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 17 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_21F.pdf|work=livetiming.pl|date=17 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 49.74
+|recordinfo = 
+|firstname = Andrei
+|lastname = Zhivaev
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 19 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_35F.pdf|work=livetiming.pl|date=19 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:49.54
+|recordinfo = 
+|firstname = Vitalii
+|lastname = Obotin
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 17 January 2014
+|meet = Deaf International Championships
+|city = Rochester
+|cityarticle = Rochester, New York
+|country = USA
+|ref = <ref name="Rochester">{{cite web|title=Deaf International Short Course Swimming Championships – Official Results|url=https://www.edso.eu/wp-content/uploads/2014/02/2014-Deaf-International-Short-Course-Swimming-Championships-Results.pdf|work=edso.eu|date=18 January 2014|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:55.68
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|club = {{flagu|South Africa}}
+|date = 25 September 2009
+|meet = -
+|city = Durban
+|country = RSA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:07.36
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|club = {{flagu|South Africa}}
+|date = 27 September 2009
+|meet = -
+|city = Durban
+|country = RSA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:42:52
+|recordinfo = 
+|firstname = Artur
+|lastname = Pióro
+|namearticle = 
+|club = {{flagu|Poland}}
+|date = 17 December 2011
+|meet = Polish Championships
+|city = Poznań
+|country = POL
+|ref = <ref>{{cite web|title=Men, 1500m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=501069&gender=1&styleId=8|work=swimrankings.net|date=17 December 2011|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 25.34
+|recordinfo = 
+|firstname = Mark
+|lastname = Troshin
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 17 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_19F.pdf|work=livetiming.pl|date=17 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 55.11
+|recordinfo = 
+|firstname = Lars
+|lastname = Kochmann
+|namearticle = 
+|club = {{flagu|Germany}}
+|date = 16 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Backstroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_14F.pdf|work=livetiming.pl|date=16 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:00.73
+|recordinfo = 
+|firstname = Mark
+|lastname = Troshin
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Backstroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_40F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke
+|time = 27.71
+|recordinfo = 
+|firstname = Marcus
+|lastname = Titus
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 15 January 2014
+|meet = Deaf International Championships
+|city = Rochester
+|cityarticle = Rochester, New York
+|country = USA
+|ref = <ref name="Rochester" />
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:00.08
+|recordinfo = 
+|firstname = Marcus
+|lastname = Titus
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 16 January 2014
+|meet = Deaf International Championships
+|city = Rochester
+|cityarticle = Rochester, New York
+|country = USA
+|ref = <ref name="Rochester" />
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:08.91
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|club = {{flagu|South Africa}}
+|date = 26 January 2002
+|meet = [[2001–02 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=200m Breaststroke Men Finals Ranking|url=http://www.omegatiming.com/File/Download?id=0001020D001D000000FFFFFFFFFFFF01|publisher=Omega Timing|date=26 January 2002|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 24.18
+|recordinfo = 
+|firstname = Denis
+|lastname = Martynenko
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 16 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_12.pdf|work=livetiming.pl|date=16 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 53.68
+|recordinfo = 
+|firstname = Denis
+|lastname = Martynenko
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 18 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_26F.pdf|work=livetiming.pl|date=18 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:00.89
+|recordinfo = h
+|firstname = Björn
+|lastname = Koch
+|namearticle = 
+|club = {{flagu|Germany}}
+|date = 28 November 2009
+|meet = German Championships
+|city = Essen
+|country = GER
+|ref = <ref>{{cite web|title=Men, 200m Butterfly, Prelim, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=538585&gender=1&styleId=17|work=swimrankings.net|date=28 November 2009|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 56.01
+|recordinfo = 
+|firstname = Vitalii
+|lastname = Obotin
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 16 January 2014
+|meet = Deaf International Championships
+|city = Rochester
+|cityarticle = Rochester, New York
+|country = USA
+|ref = <ref name="Rochester" />
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 1:58.64
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|club = {{flagu|South Africa}}
+|date = 21 January 2002
+|meet = [[2001–02 FINA Swimming World Cup|World Cup]]
+|city = Stockholm
+|country = SWE
+|ref = <ref>{{cite web|title=200m Medley Men Finals Ranking|url=http://www.omegatiming.com/File/Download?id=0001020E003C000000FFFFFFFFFFFF01|publisher=Omega Timing|date=21 January 2002|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:10.39
+|recordinfo = 
+|firstname = Terence
+|lastname = Parkin
+|namearticle = 
+|club = {{flagu|South Africa}}
+|date = 26 January 2002
+|meet = [[2001–02 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=400m Medley Men Total Ranking|url=http://www.omegatiming.com/File/Download?id=0001020D0015000000FFFFFFFFFFFF01|publisher=Omega Timing|date=26 January 2002|access-date=1 November 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:31.28
+|recordinfo = 
+|1name = [[Mark Troshin]]
+|1split = 23.76
+|2name = [[Andrei Zhivaev]]
+|2split = 22.89
+|3name = [[Vitalii Obotin]]
+|3split = 22.35
+|4name = [[Miron Denisov]]
+|4split = 22.28
+|club = {{flagu|Russia}}
+|date = 18 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4×50m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_24F.pdf|work=livetiming.pl|date=18 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:22.77
+|recordinfo = 
+|1name = [[Andrei Zhivaev]]
+|1split = 50.21
+|2name = [[Miron Denisov]]
+|2split = 50.07
+|3name = [[Mark Troshin]]
+|3split = 50.91
+|4name = [[Vitaly Kalugin]]
+|4split = 51.58
+|club = {{flagu|Russia}}
+|date = 15 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4×100m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_7F.pdf|work=livetiming.pl|date=15 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 7:36.10
+|recordinfo = 
+|1name = [[Fernando Muratov]]
+|1split = 1:53.55
+|2name = [[Vitalii Obotin]]
+|2split = 1:49.05
+|3name = [[Filipp Torishnii]]
+|3split = 1:57.24
+|4name = [[Vitaly Kalugin]]
+|4split = 1:56.26
+|club = {{flagu|Russia}}
+|date = 18 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4×200m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_30F.pdf|work=livetiming.pl|date=18 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:40.28
+|recordinfo = 
+|1name = [[Mark Troshin]]
+|1split = 25.64
+|2name = [[Martin Fomin]]
+|2split = 28.43
+|3name = [[Denis Martynenko]]
+|3split = 23.59
+|4name = [[Vitalii Obotin]]
+|4split = 22.62
+|club = {{flagu|Russia}}
+|date = 19 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4×50m Medley Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_31F.pdf|work=livetiming.pl|date=19 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:39.50
+|recordinfo = 
+|1name = [[Mark Troshin]]
+|1split = 55.51
+|2name = [[Alexander Dyatlov]]
+|2split = 1:00.59
+|3name = [[Denis Martynenko]]
+|3split = 53.87
+|4name = [[Andrei Zhivaev]]
+|4split = 49.53
+|club = {{flagu|Russia}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4×100m Medley Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_46F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Comité International des Sports des Sourds{{!}}CISS, FINA}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|nationality=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 25.56
+|recordinfo = '#'
+|firstname = Zane
+|lastname = Embrekte
+|namearticle = 
+|club = {{flagu|Latvia}}
+|date = 19 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_36F.pdf|work=livetiming.pl|date=19 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 24.53
+|recordinfo = '#'
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 13 December 2025 
+|meet = Italian Championships
+|city = Riccione
+|cityarticle = 
+|country = ITA
+|ref = {{cn|date=January 2026}}
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 56.10
+|recordinfo = 
+|firstname = Danielle
+|lastname = Joyce
+|namearticle = 
+|nation = GBR
+|date = 9 December 2016
+|meet = Scottish Championships
+|city = Edinburgh
+|country = UK
+|ref = <ref name="Friday">{{cite web|title=Scottish National Short Course Championships 2016 Friday Full Results|url=http://www.swimscotland.co.uk/meets16/snsc16/friday%20full%20results.pdf|work=swimscotland.co.uk|date=9 December 2016|access-date=2 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 53.80
+|recordinfo = '#'
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|nation = ITA
+|date = 12 December 2025
+|meet = 2025 Italian Short Course Championship
+|city = Riccione
+|country = ITA
+|ref = {{cn|date=January 2026}}
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 2:03.54
+|recordinfo = 
+|firstname = Viktoriia
+|lastname = Terenteva
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 15 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 200m Freestyle Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_2F.pdf|work=livetiming.pl|date=15 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:19.21
+|recordinfo = 
+|firstname = Polina
+|lastname = Bilalova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 18 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 400m Freestyle Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_27F.pdf|work=livetiming.pl|date=18 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 9:00.91
+|recordinfo = 
+|firstname = Katy 
+|lastname = Wun
+|namearticle = 
+|club = {{flagu|Great Britain}}
+|date = 11 December 2025
+|meet = British Winter Champs
+|city = Sheffield
+|cityarticle = 
+|country = UK
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 17:11.73 
+|recordinfo = 
+|firstname = Katy 
+|lastname = Wun 
+|namearticle = 
+|club = {{flagu|Great Britain}}
+|date = 13 December 2025
+|meet = British Winter Champs
+|city = Sheffield
+|country = UK
+|ref =
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 27.57
+|recordinfo = 
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 11 December 2025
+|meet = 2025 Italian Short Course Championship
+|city = Riccione 
+|cityarticle = 
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:01:89
+|recordinfo = 
+|firstname = Olga
+|lastname = Kliuchnikova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 100m Backstroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_43F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:18.75
+|recordinfo = h
+|firstname = Danielle
+|lastname = Joyce
+|namearticle = 
+|nation = GBR
+|date = 10 December 2016
+|meet = Scottish Championships
+|city = Edinburgh
+|country = UK
+|ref = <ref name="Saturday">{{cite web|title=Scottish National Short Course Championships 2016 Saturday Full Results|url=http://www.swimscotland.co.uk/meets16/snsc16/Saturday%20full%20results.pdf|work=swimscotland.co.uk|date=10 December 2016|access-date=2 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke
+|time = 32.55
+|recordinfo = 
+|firstname = Aksana
+|lastname = Petrushenka
+|namearticle = 
+|club = {{flagu|Belarus}}
+|date = 15 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_6F.pdf|work=livetiming.pl|date=15 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:10.37
+|recordinfo = 
+|firstname = Aksana
+|lastname = Petrushenka
+|namearticle = 
+|club = {{flagu|Belarus}}
+|date = 18 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_29F.pdf|work=livetiming.pl|date=18 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:31.93
+|recordinfo = 
+|firstname = Aksana
+|lastname = Petrushenka
+|namearticle = 
+|club = {{flagu|Belarus}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_41F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 26.41
+|recordinfo = '#'
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 30 November 2025
+|meet = I. Memorial Franco Sodano
+|city = Pozzuoli
+|cityarticle = 
+|country = ITA
+|ref = {{cn|date=January 2026}}
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 26.04
+|recordinfo = '#'
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 12 December 2025
+|meet = 2025 Italian Short Course Championship
+|city = Riccione
+|cityarticle = 
+|country = ITA
+|ref = {{cn|date=January 2026}}
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 58.78
+|recordinfo = 
+|firstname = Viola
+|lastname = Scotto Di Carlo
+|namearticle = 
+|club = {{flagu|Italy}}
+|date = 11 December 2025
+|meet = 2025 Italian Short Course Championship
+|city = Riccione
+|cityarticle = 
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:18.57
+|recordinfo = 
+|firstname = Polina
+|lastname = Bilalova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 16 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 200m Butterfly Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_13F.pdf|work=livetiming.pl|date=16 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 1:02.93
+|recordinfo = 
+|firstname = Olga
+|lastname = Klichunikova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 17 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 100m IM Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_20F.pdf|work=livetiming.pl|date=17 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:19.21
+|recordinfo = 
+|firstname = Polina
+|lastname = Bilalova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 19 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 200m IM Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_32F.pdf|work=livetiming.pl|date=19 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:54.10
+|recordinfo = not ratified or later rescinded
+|firstname = Polina
+|lastname = Bilalova
+|namearticle = 
+|club = {{flagu|Russia}}
+|date = 15 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 400m IM Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_4F.pdf|work=livetiming.pl|date=15 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:45.81
+|recordinfo = '#'
+|firstname = Carli
+|lastname = Cronk
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 18 October 2025
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|city = Westmont
+|cityarticle = Westmont, Illinois
+|country = USA
+|ref = <ref>{{cite web|title=Women's 400m IM Results|url=https://www.omegatiming.com/File/00011900070205EF0101FFFFFFFFFF01.pdf|work=Omega Timing|date=18 October 2025|access-date=22 October 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:45.70
+|recordinfo = 
+|1name = [[Olga Kliuchnikova]]
+|1split = 26.09
+|2name = [[Eleonora Brykanova]]
+|2split = 26.60
+|3name = [[Daria Tanyan]]
+|3split = 26.45
+|4name = [[Viktoriia Terenteva]]
+|4split = 26.56
+|club = {{flagu|Russia}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4×50m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_39F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:52.40
+|recordinfo = 
+|1name = [[Olga Kliuchnikova]]
+|1split = 57.44
+|2name = [[Daria Tanyan]]
+|2split = 58.85
+|3name = [[Eleonora Brykanova]]
+|3split = 58.43
+|4name = [[Viktoriia Terenteva]]
+|4split = 58.30
+|club = {{flagu|Russia}}
+|date = 15 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4×100m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_8F.pdf|work=livetiming.pl|date=15 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 8:29.22
+|recordinfo = 
+|1name = [[Olga Kliuchnikova]]
+|1split = 2:08.29
+|2name = [[Daria Tanyan]]
+|2split = 2:11.06
+|3name = [[Viktoriia Terenteva]]
+|3split = 2:04.52
+|4name = [[Polina Bilalova]]
+|4split = 2:05.35
+|club = {{flagu|Russia}}
+|date = 19 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4×200m Freestyle Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_38F.pdf|work=livetiming.pl|date=19 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:57.93
+|recordinfo = 
+|1name = [[Eleonora Brykanova]]
+|1split = 30.12
+|2name = [[Kristina Shaiakhemtova]]
+|2split = 33.63
+|3name = [[Olga Kliuchnikova]]
+|3split = 26.78
+|4name = [[Polina Zemskova]]
+|4split = 27.40
+|club = {{flagu|Russia}}
+|date = 16 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4×50m Medley Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_9F.pdf|work=livetiming.pl|date=16 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 4:17.64
+|recordinfo = 
+|1name = [[Olga KliuchnikovaEleonora Brykanova]]
+|1split = 1:02.88
+|2name = [[Kristina Shaiakhemtova]]
+|2split = 1:13.66
+|3name = [[Polina Bilalova]]
+|3split = 1:03.73
+|4name = [[Viktoriia Terenteva]]
+|4split = 57.37
+|club = {{flagu|Russia}}
+|date = 20 November 2021
+|meet = World Deaf Championships
+|city = Gliwice
+|cityarticle = 
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4×100m Medley Relay Final Results|url=http://live.livetiming.pl/wisnia/2021/11_20_gliwice/ResultList_45F.pdf|work=livetiming.pl|date=20 November 2011|access-date=25 November 2021}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Comité International des Sports des Sourds{{!}}CISS, FINA}}
+
+==See also==
+*[[List of World Deaf Swimming Championships records]]
+*[[List of deaf world records in athletics]]
+
+==References==
+;General
+*[http://www.ciss.org/athletes/records/world/sw/m Deaf world records – Long Course – Men]
+*[http://www.ciss.org/athletes/records/world/sw/w Deaf world records – Long Course – Women] <small>''26 July 2024 updated''</small>
+*[http://www.ciss.org/athletes/record/world/sw/x/long Deaf world records – Long Course – Mixed]
+*[http://www.ciss.org/athletes/record/world/sw/m/short Deaf world records – Short Course – Men] <small>''27 November 2020 updated''</small>
+*[https://www.ciss.org/athletes/records/world/sw/w/-/short Deaf world records – Short Course – Women] <small>''20 November 2021 updated''</small>
+*[http://www.ciss.org/athletes/record/world/sw/x/short Deaf world records – Short Course – Mixed]
+;Specific
+{{Reflist}}
+
+==External links==
+*[http://www.ciss.org/ ICSD Official web site]
+
+{{International swimming}}
+{{Records in swimming}}
+
+[[Category:Swimming records|Deaf world]]
+[[Category:Deaf sports]]

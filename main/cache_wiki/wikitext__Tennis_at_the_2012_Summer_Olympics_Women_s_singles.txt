@@ -1,0 +1,923 @@
+{{short description|none}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox tennis tournament event|2012|Summer Olympics|
+| champ = {{flagicon|USA}} [[Serena Williams]]
+| runner = {{flagicon|RUS}} [[Maria Sharapova]]
+| score = 6–0, 6–1
+| quadrennial = yes
+| multi = yes
+| type = mixed
+| qual_type = qual
+}}
+{{Infobox Olympic event
+|event = Women's singles tennis
+|games = 2012 Summer
+|image = Victoria Azarenka, Serena Williams and Maria Sharapova with medals 2012.jpg
+|caption = Women's singles medalists
+|venue = [[All England Lawn Tennis and Croquet Club]]
+|dates = 28 July to 4 August 2012
+|competitors = 64
+|nations = 33
+|gold = [[Serena Williams]]
+|goldNOC = USA
+|silver = [[Maria Sharapova]]
+|silverNOC = RUS
+|bronze = [[Victoria Azarenka]]
+|bronzeNOC = BLR
+|prev = [[Tennis at the 2008 Summer Olympics – Women's singles|2008]]
+|next = [[Tennis at the 2016 Summer Olympics – Women's singles|2016]]
+}}
+{{main|Tennis at the 2012 Summer Olympics}}
+
+The [[United States at the 2012 Summer Olympics|United States]]' [[Serena Williams]] defeated [[Russia at the 2012 Summer Olympics|Russia]]'s [[Maria Sharapova]] in the final, 6–0, 6–1 to win the gold medal in women's singles [[tennis]] at the [[2012 Summer Olympics]].<ref>{{cite web|url=https://www.espn.co.uk/olympics/summer/2012/tennis/story/_/id/8233304/2012-summer-olympics-serena-williams-thrashes-maria-sharapova-win-singles-gold|title=Serena completes Golden Slam|publisher=ESPN|accessdate=10 July 2025}}</ref><ref>{{cite web|url=https://www.theguardian.com/sport/2012/aug/04/serena-williams-beats-maria-sharapova|title=Serena Williams beats Maria Sharapova to secure Olympic tennis gold|publisher=The Guardian|accessdate=10 July 2025}}</ref> Both finalists were attempting to become the second woman (after [[Steffi Graf]]) to complete the [[Grand Slam (tennis)#Career Golden Slam|career Golden Slam]] in singles. Williams won the gold, only weeks after winning the [[2012 Wimbledon Championships – Women's singles | 2012 Wimbledon Championships]], without losing a set, without losing more than three games in any set, and without losing more than five games in any match. Her serve was broken only once during the tournament (by [[Urszula Radwańska]] in the second round). She also became the first tennis player (male or female) to complete the career Golden Slam in both singles and doubles. It was the United States' first victory in the event since Serena's sister [[Venus Williams]] won in [[Tennis at the 2000 Summer Olympics – Women's singles|2000]], and its fifth gold overall. In the bronze medal match, [[Belarus at the 2012 Summer Olympics|Belarus]]' [[Victoria Azarenka]] defeated Russia's [[Maria Kirilenko]], 6–3, 6–4.<ref>{{cite web|url=https://www.itftennis.com/en/news-and-media/articles/azarenka-wins-bronze-for-belarus-at-london-2012/|title=Azarenka wins bronze for Belarus at London 2012|publisher=International Tennis Federation|accessdate=10 July 2025}}</ref>
+
+The tournament was held at the [[All England Lawn Tennis and Croquet Club]] in [[Wimbledon, London]] from 28 July to 4 August 2012, and was the first Olympic [[grass court]] tournament since tennis was re-introduced to the Games.<ref name="Official Site of 2012 Games">{{cite web|url=http://www.london2012.com/tennis/event/men-singles/index.html|title=Tennis|publisher=London 2012 Organization Committee|access-date=7 July 2012|archive-date=4 December 2012|archive-url=https://archive.today/20121204145618/http://www.london2012.com/tennis/event/men-singles/index.html|url-status=dead}}</ref> There were 64 competitors from 33 nations.<ref name=Olympedia/>
+
+[[Elena Dementieva]] was the reigning gold medallist, having won in [[Tennis at the 2008 Summer Olympics – Women's singles|2008]],<ref>{{cite news|title=Tennis stars excited for London Olympics|url=https://www.google.com/hostednews/ukpress/article/ALeqM5i9bOhoSHwLotCP5xv59h_6iLk1-g?docId=N0059141340469593340A|access-date=7 July 2012|date=23 June 2012 |agency=The Press Association}}{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}</ref> but she retired from the sport in 2010.
+
+==Background==
+
+This was the 12th appearance of the women's singles tennis. A women's event was held only once during the first three Games (only men's tennis was played in 1896 and 1904), but has been held at every Olympics for which there was a tennis tournament since 1908. Tennis was not a medal sport from 1928 to 1984, though there were demonstration events in 1968 and 1984.<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/324000 |work=Olympedia |title=Singles, Women |access-date=16 July 2021}}</ref>
+
+Returning from the 2008 Games were bronze medalist [[Vera Zvonareva]] of Russia, fourth-place finisher [[Li Na]] of China, and three quarterfinalists: [[Jelena Janković]] of Serbia and the Williams sisters, [[Venus Williams|Venus]] and [[Serena Williams|Serena]]. Venus was the 2000 Olympic champion, playing in her fourth Olympic singles tournament. Serena had won almost every tennis honor possible except the Olympic singles (the sisters had won women's doubles in 2000 and 2008, and would win again in London). The Russian team that swept the medals four years earlier had experienced nearly complete turnover; gold medalist [[Elena Dementieva]] had retired, silver medalist [[Dinara Safina]] was injured, and [[Svetlana Kuznetsova]] was slumping. This made room for [[Maria Sharapova]], a major rival of Serena. Sharapova and Serena were seeded #3 and #4 behind world #1 [[Victoria Azarenka]] of Belarus and #2 [[Agnieszka Radwańska]] of Poland.<ref name=Olympedia/>
+
+Georgia, Kazakhstan, and Liechtenstein each made their debut in the event. France made its 11th appearance, most among nations to that point, having missed only the 1908 Games in London (when only British players competed).
+
+==Qualification==
+{{main|Tennis at the 2012 Summer Olympics – Qualification}}
+
+Qualification for the women's singles was primarily through the WTA ranking list of 11 June 2012. An additional restriction was that players had to have been available for two [[Billie Jean King Cup]] events between 2009 and 2012. Nations had been limited to four players in the event since the 2000 Games. There were 64 quota places available for women's singles. The first 56 were assigned through the world ranking. There were two Tripartite Commission invitation places and 6 final qualification places allocated by the ITF based on continental and national representation along with world rankings.
+
+==Competition format==
+
+The competition was a single-elimination tournament with a bronze medal match. Matches were in best-of-3 sets. No [[tiebreak]] was played in the final set.
+
+==Schedule==
+
+Matches took place between 28 July and 4 August.<ref>{{cite news|title=Women's Singles|url=https://www.bbc.co.uk/sport/olympics|access-date=10 July 2012|newspaper=[[British Broadcasting Corporation|BBC]]}}</ref>
+{| class="wikitable" style="text-align:center"
+!colspan=4|July
+!colspan=4|August
+|-
+!width=80|28
+!width=80|29
+!width=100|30
+!width=100|31
+!width=100|1
+!width=100|2
+!width=100|3
+!width=150|4
+|-
+!11:30
+!11:30
+!11:30
+!11:30
+!11:30
+!11:30
+!12:00
+!12:00
+|-
+|colspan="2"|Round of 64
+|Round of 64<br>Round of 32
+|Round of 32
+|Round of 16
+|Quarter-finals
+|Semi-finals
+| style="background:#ffdf80;"|Bronze medal match<br />Gold medal match
+|-
+|}
+
+== Seeds ==
+{{columns-list|colwidth=30em|
+{{seeds|1|1}} {{flagIOCathlete|[[Victoria Azarenka]]|BLR|2012 Summer}} ''(semifinals, bronze medalist)''
+{{seeds|2|4}} {{flagIOCathlete|[[Agnieszka Radwańska]]|POL|2012 Summer}} ''(first round)''
+{{seeds|3|3}} {{flagIOCathlete|[[Maria Sharapova]]|RUS|2012 Summer}} ''(final, silver medalist)''
+{{seeds|4|2}} '''{{flagIOCathlete|[[Serena Williams]]|USA|2012 Summer}} (Winner, gold medalist)'''
+{{seeds|5|3}} {{flagIOCathlete|[[Samantha Stosur]]|AUS|2012 Summer}} ''(first round)''
+{{seeds|6|4}} {{flagIOCathlete|[[Petra Kvitová]]|CZE|2012 Summer}} ''(quarterfinals)''
+{{seeds|7|1}} {{flagIOCathlete|[[Angelique Kerber]]|GER|2012 Summer}} ''(quarterfinals)''
+{{seeds|8|2}} {{flagIOCathlete|[[Caroline Wozniacki]]|DEN|2012 Summer}} ''(quarterfinals)''
+{{seeds|9|1}} {{flagIOCathlete|[[Sara Errani]]|ITA|2012 Summer}} ''(first round)''
+{{seeds|10|2}} {{flagIOCathlete|[[Li Na]]|CHN|2012 Summer}} ''(first round)''
+{{seeds|11|3}} {{flagIOCathlete|[[Ana Ivanovic]]|SRB|2012 Summer}} ''(third round)''
+{{seeds|12|4}} {{flagIOCathlete|[[Dominika Cibulková]]|SVK|2012 Summer}} ''(first round)''
+{{seeds|13|2}} {{flagIOCathlete|[[Vera Zvonareva]]|RUS|2012 Summer}} ''(third round)''
+{{seeds|14|4}} {{flagIOCathlete|[[Maria Kirilenko]]|RUS|2012 Summer}} ''(semifinals, fourth place)''
+{{seeds|15|3}} {{flagIOCathlete|[[Sabine Lisicki]]|GER|2012 Summer}} ''(third round)''
+{{seeds|16|1}} {{flagIOCathlete|[[Nadia Petrova]]|RUS|2012 Summer}} ''(third round)''
+}}
+{{seeds explanation}}
+
+== Draw ==
+{{draw key}}
+{{div col|colwidth=22em}}
+* INV = [[Tennis at the 2012 Summer Olympics – Qualification#Qualifying criteria|Tripartite Invitation]]
+* IP = [[Tennis at the 2012 Summer Olympics – Qualification#Qualifying criteria|ITF place]]
+{{div col end}}
+
+=== Finals ===
+{{8TeamBracket|sets=3
+|RD1=Quarterfinals
+|RD2=Semifinals
+|RD3=Final
+|3rd=Bronze medal match
+|team-width=175
+
+|RD1-seed1=1
+|RD1-team1='''{{nowrap|{{flagIOCathlete|[[Victoria Azarenka]]|BLR|2012 Summer}}}}'''
+|RD1-score1-1='''6'''
+|RD1-score1-2='''7'''
+|RD1-score1-3=
+|RD1-seed2=7
+|RD1-team2={{flagIOCathlete|[[Angelique Kerber]]|GER|2012 Summer}}
+|RD1-score2-1=4
+|RD1-score2-2=5
+|RD1-score2-3=
+
+|RD1-seed3=4
+|RD1-team3='''{{flagIOCathlete|[[Serena Williams]]|USA|2012 Summer}}'''
+|RD1-score3-1='''6'''
+|RD1-score3-2='''6'''
+|RD1-score3-3=
+|RD1-seed4=8
+|RD1-team4={{nowrap|{{flagIOCathlete|[[Caroline Wozniacki]]|DEN|2012 Summer}}}}
+|RD1-score4-1=0
+|RD1-score4-2=3
+|RD1-score4-3=
+
+|RD1-seed5=
+|RD1-team5={{flagIOCathlete|[[Kim Clijsters]]|BEL|2012 Summer}}
+|RD1-score5-1=2
+|RD1-score5-2=5
+|RD1-score5-3=
+|RD1-seed6=3
+|RD1-team6='''{{flagIOCathlete|[[Maria Sharapova]]|RUS|2012 Summer}}'''
+|RD1-score6-1='''6'''
+|RD1-score6-2='''7'''
+|RD1-score6-3=
+
+|RD1-seed7=6
+|RD1-team7={{flagIOCathlete|[[Petra Kvitová]]|CZE|2012 Summer}}
+|RD1-score7-1=6<sup>3</sup>
+|RD1-score7-2=3
+|RD1-score7-3=
+|RD1-seed8=14
+|RD1-team8='''{{flagIOCathlete|[[Maria Kirilenko]]|RUS|2012 Summer}}'''
+|RD1-score8-1='''7<sup>7</sup>'''
+|RD1-score8-2='''6'''
+|RD1-score8-3=
+
+|RD2-seed1=1
+|RD2-team1={{flagIOCathlete|[[Victoria Azarenka]]|BLR|2012 Summer}}
+|RD2-score1-1=1
+|RD2-score1-2=2
+|RD2-score1-3=
+|RD2-seed2=4
+|RD2-team2='''{{flagIOCathlete|[[Serena Williams]]|USA|2012 Summer}}'''
+|RD2-score2-1='''6'''
+|RD2-score2-2='''6'''
+|RD2-score2-3=
+
+|RD2-seed3=3
+|RD2-team3={{nowrap|'''{{flagIOCathlete|[[Maria Sharapova]]|RUS|2012 Summer}}'''}}
+|RD2-score3-1='''6'''
+|RD2-score3-2='''6'''
+|RD2-score3-3=
+|RD2-seed4=14
+|RD2-team4={{flagIOCathlete|[[Maria Kirilenko]]|RUS|2012 Summer}}
+|RD2-score4-1=2
+|RD2-score4-2=3
+|RD2-score4-3=
+
+|RD3-seed1=4
+|RD3-team1='''{{flagIOCathlete|[[Serena Williams]]|USA|2012 Summer}}'''
+|RD3-score1-1='''6'''
+|RD3-score1-2='''6'''
+|RD3-score1-3=
+|RD3-seed2=3
+|RD3-team2={{flagIOCathlete|[[Maria Sharapova]]|RUS|2012 Summer}}
+|RD3-score2-1=0
+|RD3-score2-2=1
+|RD3-score2-3=
+
+|3rd-seed1=1
+|3rd-team1={{nowrap|'''{{flagIOCathlete|[[Victoria Azarenka]]|BLR|2012 Summer}}'''}}
+|3rd-score1-1='''6'''
+|3rd-score1-2='''6'''
+|3rd-score1-3=
+|3rd-seed2=14
+|3rd-team2={{flagIOCathlete|[[Maria Kirilenko]]|RUS|2012 Summer}}
+|3rd-score2-1=3
+|3rd-score2-2=4
+|3rd-score2-3=
+}}
+
+=== Top half ===
+
+==== Section 1 ====
+{{16TeamBracket|compact=y|sets=3
+|RD1=First round
+|RD2=Second round
+|RD3=Third round
+|RD4=Quarter-finals
+
+|RD1-seed01=1
+|RD1-team01='''{{flagIOCathlete|[[Victoria Azarenka|V Azarenka]]|BLR|2012 Summer}}'''
+|RD1-score01-1='''6'''
+|RD1-score01-2=3
+|RD1-score01-3='''6'''
+|RD1-seed02=
+|RD1-team02={{flagIOCathlete|[[Irina-Camelia Begu|I-C Begu]]|ROU|2012 Summer}}
+|RD1-score02-1=1
+|RD1-score02-2='''6'''
+|RD1-score02-3=1
+
+|RD1-seed03=&nbsp;
+|RD1-team03='''{{nowrap|{{flagIOCathlete|[[María José Martínez Sánchez|MJ Martínez Sánchez]]|ESP|2012 Summer}}}}'''
+|RD1-score03-1='''6'''
+|RD1-score03-2='''6'''
+|RD1-score03-3=
+|RD1-seed04=
+|RD1-team04={{flagIOCathlete|[[Polona Hercog|P Hercog]]|SLO|2012 Summer}}
+|RD1-score04-1=2
+|RD1-score04-2=4
+|RD1-score04-3=
+
+|RD1-seed05=
+|RD1-team05='''{{flagIOCathlete|[[Anna Tatishvili|A Tatishvili]]|GEO|2012 Summer}}'''
+|RD1-score05-1='''6'''
+|RD1-score05-2='''6'''
+|RD1-score05-3=
+|RD1-seed06=INV
+|RD1-team06={{flagIOCathlete|[[Stephanie Vogt|S Vogt]]|LIE|2012 Summer}}
+|RD1-score06-1=2
+|RD1-score06-2=0
+|RD1-score06-3=
+
+|RD1-seed07=
+|RD1-team07={{flagIOCathlete|[[Zheng Jie|J Zheng]]|CHN|2012 Summer}}
+|RD1-score07-1=4
+|RD1-score07-2=6<sup>7</sup>
+|RD1-score07-3=
+|RD1-seed08=16
+|RD1-team08='''{{flagIOCathlete|[[Nadia Petrova|N Petrova]]|RUS|2012 Summer}}'''
+|RD1-score08-1='''6'''
+|RD1-score08-2='''7<sup>9</sup>'''
+|RD1-score08-3=
+
+|RD1-seed09=9
+|RD1-team09={{flagIOCathlete|[[Sara Errani|S Errani]]|ITA|2012 Summer}}
+|RD1-score09-1=3
+|RD1-score09-2=1
+|RD1-score09-3=
+|RD1-seed10=
+|RD1-team10='''{{flagIOCathlete|[[Venus Williams|V Williams]]|USA|2012 Summer}}'''
+|RD1-score10-1='''6'''
+|RD1-score10-2='''6'''
+|RD1-score10-3=
+
+|RD1-seed11=&nbsp;
+|RD1-team11={{flagIOCathlete|[[Marina Erakovic|M Erakovic]]|NZL|2012 Summer}}
+|RD1-score11-1=2
+|RD1-score11-2=1
+|RD1-score11-3=
+|RD1-seed12=
+|RD1-team12='''{{flagIOCathlete|[[Aleksandra Wozniak|A Wozniak]]|CAN|2012 Summer}}'''
+|RD1-score12-1='''6'''
+|RD1-score12-2='''6'''
+|RD1-score12-3=
+
+|RD1-seed13=&nbsp;
+|RD1-team13={{flagIOCathlete|[[Galina Voskoboeva|G Voskoboeva]]|KAZ|2012 Summer}}
+|RD1-score13-1=4
+|RD1-score13-2=2
+|RD1-score13-3=
+|RD1-seed14=
+|RD1-team14='''{{flagIOCathlete|[[Tímea Babos|T Babos]]|HUN|2012 Summer}}'''
+|RD1-score14-1='''6'''
+|RD1-score14-2='''6'''
+|RD1-score14-3=
+
+|RD1-seed15=
+|RD1-team15={{flagIOCathlete|[[Petra Cetkovská|P Cetkovská]]|CZE|2012 Summer}}
+|RD1-score15-1=1
+|RD1-score15-2=0<sup>r</sup>
+|RD1-score15-3=
+|RD1-seed16=7
+|RD1-team16='''{{flagIOCathlete|[[Angelique Kerber|A Kerber]]|GER|2012 Summer}}'''
+|RD1-score16-1='''6'''
+|RD1-score16-2=3
+|RD1-score16-3=
+
+|RD2-seed01=1
+|RD2-team01='''{{flagIOCathlete|[[Victoria Azarenka|V Azarenka]]|BLR|2012 Summer}}'''
+|RD2-score01-1='''6'''
+|RD2-score01-2='''6'''
+|RD2-score01-3=
+|RD2-seed02=
+|RD2-team02={{nowrap|{{flagIOCathlete|[[María José Martínez Sánchez|MJ Martínez Sánchez]]|ESP|2012 Summer}}}}
+|RD2-score02-1=1
+|RD2-score02-2=2
+|RD2-score02-3=
+
+|RD2-seed03=
+|RD2-team03={{flagIOCathlete|[[Anna Tatishvili|A Tatishvili]]|GEO|2012 Summer}}
+|RD2-score03-1=3
+|RD2-score03-2='''7<sup>7</sup>'''
+|RD2-score03-3=2
+|RD2-seed04=16
+|RD2-team04='''{{flagIOCathlete|[[Nadia Petrova|N Petrova]]|RUS|2012 Summer}}'''
+|RD2-score04-1='''6'''
+|RD2-score04-2=6<sup>5</sup>
+|RD2-score04-3='''6'''
+
+|RD2-seed05=&nbsp;
+|RD2-team05='''{{flagIOCathlete|[[Venus Williams|V Williams]]|USA|2012 Summer}}'''
+|RD2-score05-1='''6'''
+|RD2-score05-2='''6'''
+|RD2-score05-3=
+|RD2-seed06=
+|RD2-team06={{flagIOCathlete|[[Aleksandra Wozniak|A Wozniak]]|CAN|2012 Summer}}
+|RD2-score06-1=1
+|RD2-score06-2=3
+|RD2-score06-3=
+
+|RD2-seed07=
+|RD2-team07={{flagIOCathlete|[[Tímea Babos|T Babos]]|HUN|2012 Summer}}
+|RD2-score07-1=1
+|RD2-score07-2=1
+|RD2-score07-3=
+|RD2-seed08=7
+|RD2-team08='''{{flagIOCathlete|[[Angelique Kerber|A Kerber]]|GER|2012 Summer}}'''
+|RD2-score08-1='''6'''
+|RD2-score08-2='''6'''
+|RD2-score08-3=
+
+|RD3-seed01=1
+|RD3-team01={{nowrap|'''{{flagIOCathlete|[[Victoria Azarenka|V Azarenka]]|BLR|2012 Summer}}'''}}
+|RD3-score01-1='''7<sup>8</sup>'''
+|RD3-score01-2='''6'''
+|RD3-score01-3=
+|RD3-seed02=16
+|RD3-team02={{flagIOCathlete|[[Nadia Petrova|N Petrova]]|RUS|2012 Summer}}
+|RD3-score02-1=6<sup>6</sup>
+|RD3-score02-2=4
+|RD3-score02-3=
+
+|RD3-seed03=
+|RD3-team03={{flagIOCathlete|[[Venus Williams|V Williams]]|USA|2012 Summer}}
+|RD3-score03-1=6<sup>5</sup>
+|RD3-score03-2=6<sup>5</sup>
+|RD3-score03-3=
+|RD3-seed04=7
+|RD3-team04='''{{flagIOCathlete|[[Angelique Kerber|A Kerber]]|GER|2012 Summer}}'''
+|RD3-score04-1='''7<sup>7</sup>'''
+|RD3-score04-2='''7<sup>7</sup>'''
+|RD3-score04-3=
+
+|RD4-seed01=1
+|RD4-team01={{nowrap|'''{{flagIOCathlete|[[Victoria Azarenka|V Azarenka]]|BLR|2012 Summer}}'''}}
+|RD4-score01-1='''6'''
+|RD4-score01-2='''7'''
+|RD4-score01-3=
+|RD4-seed02=7
+|RD4-team02={{flagIOCathlete|[[Angelique Kerber|A Kerber]]|GER|2012 Summer}}
+|RD4-score02-1=4
+|RD4-score02-2=5
+|RD4-score02-3=
+}}
+
+==== Section 2 ====
+{{16TeamBracket|compact=y|sets=3
+|RD1=First round
+|RD2=Second round
+|RD3=Third round
+|RD4=Quarter-finals
+
+|RD1-seed01=4
+|RD1-team01='''{{flagIOCathlete|[[Serena Williams|S Williams]]|USA|2012 Summer}}'''
+|RD1-score01-1='''6'''
+|RD1-score01-2='''6'''
+|RD1-score01-3=
+|RD1-seed02=
+|RD1-team02={{flagIOCathlete|[[Jelena Janković|J Janković]]|SRB|2012 Summer}}
+|RD1-score02-1=3
+|RD1-score02-2=1
+|RD1-score02-3=
+
+|RD1-seed03=&nbsp;
+|RD1-team03={{flagIOCathlete|[[Mona Barthel|M Barthel]]|GER|2012 Summer}}
+|RD1-score03-1=4
+|RD1-score03-2=3
+|RD1-score03-3=
+|RD1-seed04=
+|RD1-team04='''{{nowrap|{{flagIOCathlete|[[Urszula Radwańska|U Radwańska]]|POL|2012 Summer}}}}'''
+|RD1-score04-1='''6'''
+|RD1-score04-2='''6'''
+|RD1-score04-3=
+
+|RD1-seed05=&nbsp;
+|RD1-team05='''{{flagIOCathlete|[[Francesca Schiavone|F Schiavone]]|ITA|2012 Summer}}'''
+|RD1-score05-1='''6'''
+|RD1-score05-2=3
+|RD1-score05-3='''6'''
+|RD1-seed06=
+|RD1-team06={{flagIOCathlete|[[Klára Zakopalová|K Zakopalová]]|CZE|2012 Summer}}
+|RD1-score06-1=3
+|RD1-score06-2='''6'''
+|RD1-score06-3=4
+
+|RD1-seed07=
+|RD1-team07={{flagIOCathlete|[[Sofia Arvidsson|S Arvidsson]]|SWE|2012 Summer}}
+|RD1-score07-1=6<sup>3</sup>
+|RD1-score07-2=4
+|RD1-score07-3=
+|RD1-seed08=13
+|RD1-team08='''{{flagIOCathlete|[[Vera Zvonareva|V Zvonareva]]|RUS|2012 Summer}}'''
+|RD1-score08-1='''7<sup>7</sup>'''
+|RD1-score08-2='''6'''
+|RD1-score08-3=
+
+|RD1-seed09=10
+|RD1-team09={{flagIOCathlete|[[Li Na|N Li]]|CHN|2012 Summer}}
+|RD1-score09-1=2
+|RD1-score09-2='''6'''
+|RD1-score09-3=3
+|RD1-seed10=
+|RD1-team10='''{{flagIOCathlete|[[Daniela Hantuchová|D Hantuchová]]|SVK|2012 Summer}}'''
+|RD1-score10-1='''6'''
+|RD1-score10-2=3
+|RD1-score10-3='''6'''
+
+|RD1-seed11=IP
+|RD1-team11='''{{flagIOCathlete|[[Alizé Cornet|A Cornet]]|FRA|2012 Summer}}'''
+|RD1-score11-1='''7<sup>7</sup>'''
+|RD1-score11-2='''6'''
+|RD1-score11-3=
+|RD1-seed12=
+|RD1-team12={{flagIOCathlete|[[Tamira Paszek|T Paszek]]|AUT|2012 Summer}}
+|RD1-score12-1=6<sup>4</sup>
+|RD1-score12-2=4
+|RD1-score12-3=
+
+|RD1-seed13=&nbsp;
+|RD1-team13={{nowrap|{{flagIOCathlete|[[Anabel Medina Garrigues|A Medina Garrigues]]|ESP|2012 Summer}}}}
+|RD1-score13-1=2
+|RD1-score13-2='''6'''
+|RD1-score13-3=5
+|RD1-seed14=
+|RD1-team14='''{{flagIOCathlete|[[Yanina Wickmayer|Y Wickmayer]]|BEL|2012 Summer}}'''
+|RD1-score14-1='''6'''
+|RD1-score14-2=4
+|RD1-score14-3='''7'''
+
+|RD1-seed15=IP
+|RD1-team15={{flagIOCathlete|[[Anne Keothavong|A Keothavong]]|GBR|2012 Summer}}
+|RD1-score15-1='''6'''
+|RD1-score15-2=3
+|RD1-score15-3=2
+|RD1-seed16=8
+|RD1-team16='''{{flagIOCathlete|[[Caroline Wozniacki|C Wozniacki]]|DEN|2012 Summer}}'''
+|RD1-score16-1=4
+|RD1-score16-2='''6'''
+|RD1-score16-3='''6'''
+
+|RD2-seed01=4
+|RD2-team01='''{{flagIOCathlete|[[Serena Williams|S Williams]]|USA|2012 Summer}}'''
+|RD2-score01-1='''6'''
+|RD2-score01-2='''6'''
+|RD2-score01-3=
+|RD2-seed02=
+|RD2-team02={{nowrap|{{flagIOCathlete|[[Urszula Radwańska|U Radwańska]]|POL|2012 Summer}}}}
+|RD2-score02-1=2
+|RD2-score02-2=3
+|RD2-score02-3=
+
+|RD2-seed03=
+|RD2-team03={{flagIOCathlete|[[Francesca Schiavone|F Schiavone]]|ITA|2012 Summer}}
+|RD2-score03-1=3
+|RD2-score03-2=3
+|RD2-score03-3=
+|RD2-seed04=13
+|RD2-team04='''{{flagIOCathlete|[[Vera Zvonareva|V Zvonareva]]|RUS|2012 Summer}}'''
+|RD2-score04-1='''6'''
+|RD2-score04-2='''6'''
+|RD2-score04-3=
+
+|RD2-seed05=
+|RD2-team05='''{{nowrap|{{flagIOCathlete|[[Daniela Hantuchová|D Hantuchová]]|SVK|2012 Summer}}}}'''
+|RD2-score05-1='''6'''
+|RD2-score05-2='''6'''
+|RD2-score05-3=
+|RD2-seed06=IP
+|RD2-team06={{flagIOCathlete|[[Alizé Cornet|A Cornet]]|FRA|2012 Summer}}
+|RD2-score06-1=3
+|RD2-score06-2=0
+|RD2-score06-3=
+
+|RD2-seed07=
+|RD2-team07={{flagIOCathlete|[[Yanina Wickmayer|Y Wickmayer]]|BEL|2012 Summer}}
+|RD2-score07-1=4
+|RD2-score07-2='''6'''
+|RD2-score07-3=3
+|RD2-seed08=8
+|RD2-team08='''{{flagIOCathlete|[[Caroline Wozniacki|C Wozniacki]]|DEN|2012 Summer}}'''
+|RD2-score08-1='''6'''
+|RD2-score08-2=3
+|RD2-score08-3='''6'''
+
+|RD3-seed01=4
+|RD3-team01='''{{flagIOCathlete|[[Serena Williams|S Williams]]|USA|2012 Summer}}'''
+|RD3-score01-1='''6'''
+|RD3-score01-2='''6'''
+|RD3-score01-3=
+|RD3-seed02=13
+|RD3-team02={{flagIOCathlete|[[Vera Zvonareva|V Zvonareva]]|RUS|2012 Summer}}
+|RD3-score02-1=1
+|RD3-score02-2=0
+|RD3-score02-3=
+
+|RD3-seed03=
+|RD3-team03={{nowrap|{{flagIOCathlete|[[Daniela Hantuchová|D Hantuchová]]|SVK|2012 Summer}}}}
+|RD3-score03-1=4
+|RD3-score03-2=2
+|RD3-score03-3=
+|RD3-seed04=8
+|RD3-team04='''{{flagIOCathlete|[[Caroline Wozniacki|C Wozniacki]]|DEN|2012 Summer}}'''
+|RD3-score04-1='''6'''
+|RD3-score04-2='''6'''
+|RD3-score04-3=
+
+|RD4-seed01=4
+|RD4-team01='''{{flagIOCathlete|[[Serena Williams|S Williams]]|USA|2012 Summer}}'''
+|RD4-score01-1='''6'''
+|RD4-score01-2='''6'''
+|RD4-score01-3=
+|RD4-seed02=8
+|RD4-team02={{nowrap|{{flagIOCathlete|[[Caroline Wozniacki|C Wozniacki]]|DEN|2012 Summer}}}}
+|RD4-score02-1=0
+|RD4-score02-2=3
+|RD4-score02-3=
+}}
+
+=== Bottom half ===
+
+==== Section 3 ====
+{{16TeamBracket|compact=y|sets=3
+|RD1=First round
+|RD2=Second round
+|RD3=Third round
+|RD4=Quarter-finals
+
+|RD1-seed01=5
+|RD1-team01={{flagIOCathlete|[[Samantha Stosur|S Stosur]]|AUS|2012 Summer}}
+|RD1-score01-1='''6'''
+|RD1-score01-2=5
+|RD1-score01-3=8
+|RD1-seed02=
+|RD1-team02='''{{nowrap|{{flagIOCathlete|[[Carla Suárez Navarro|C Suárez Navarro]]|ESP|2012 Summer}}}}'''
+|RD1-score02-1=3
+|RD1-score02-2='''7'''
+|RD1-score02-3='''10'''
+
+|RD1-seed03=&nbsp;
+|RD1-team03='''{{flagIOCathlete|[[Kim Clijsters|K Clijsters]]|BEL|2012 Summer}}'''
+|RD1-score03-1='''6'''
+|RD1-score03-2='''6'''
+|RD1-score03-3=
+|RD1-seed04=
+|RD1-team04={{flagIOCathlete|[[Roberta Vinci|R Vinci]]|ITA|2012 Summer}}
+|RD1-score04-1=1
+|RD1-score04-2=4
+|RD1-score04-3=
+
+|RD1-seed05=PR
+|RD1-team05={{flagIOCathlete|[[Ágnes Szávay|Á Szávay]]|HUN|2012 Summer}}
+|RD1-score05-1=3
+|RD1-score05-2=3
+|RD1-score05-3=
+|RD1-seed06=IP
+|RD1-team06='''{{flagIOCathlete|[[Elena Baltacha|E Baltacha]]|GBR|2012 Summer}}'''
+|RD1-score06-1='''6'''
+|RD1-score06-2='''6'''
+|RD1-score06-3=
+
+|RD1-seed07=
+|RD1-team07={{flagIOCathlete|[[Christina McHale|C McHale]]|USA|2012 Summer}}
+|RD1-score07-1=4
+|RD1-score07-2=5
+|RD1-score07-3=
+|RD1-seed08=11
+|RD1-team08='''{{flagIOCathlete|[[Ana Ivanovic|A Ivanovic]]|SRB|2012 Summer}}'''
+|RD1-score08-1='''6'''
+|RD1-score08-2='''7'''
+|RD1-score08-3=
+
+|RD1-seed09=15
+|RD1-team09='''{{flagIOCathlete|[[Sabine Lisicki|S Lisicki]]|GER|2012 Summer}}'''
+|RD1-score09-1=4
+|RD1-score09-2='''6'''
+|RD1-score09-3='''7'''
+|RD1-seed10=IP
+|RD1-team10={{flagIOCathlete|[[Ons Jabeur|O Jabeur]]|TUN|2012 Summer}}
+|RD1-score10-1='''6'''
+|RD1-score10-2=0
+|RD1-score10-3=5
+
+|RD1-seed11=&nbsp;
+|RD1-team11={{flagIOCathlete|[[Simona Halep|S Halep]]|ROU|2012 Summer}}
+|RD1-score11-1=4
+|RD1-score11-2=2
+|RD1-score11-3=
+|RD1-seed12=
+|RD1-team12='''{{flagIOCathlete|[[Yaroslava Shvedova|Y Shvedova]]|KAZ|2012 Summer}}'''
+|RD1-score12-1='''6'''
+|RD1-score12-2='''6'''
+|RD1-score12-3=
+
+|RD1-seed13=Alt
+|RD1-team13='''{{flagIOCathlete|[[Laura Robson (tennis)|L Robson]]|GBR|2012 Summer}}'''
+|RD1-score13-1='''7<sup>7</sup>'''
+|RD1-score13-2='''6'''
+|RD1-score13-3=
+|RD1-seed14=
+|RD1-team14={{flagIOCathlete|[[Lucie Šafářová|L Šafářová]]|CZE|2012 Summer}}
+|RD1-score14-1=6<sup>4</sup>
+|RD1-score14-2=4
+|RD1-score14-3=
+
+|RD1-seed15= 
+|RD1-team15={{flagIOCathlete|[[Shahar Pe'er|S Pe'er]]|ISR|2012 Summer}}
+|RD1-score15-1=2
+|RD1-score15-2=0
+|RD1-score15-3=
+|RD1-seed16=3
+|RD1-team16='''{{flagIOCathlete|[[Maria Sharapova|M Sharapova]]|RUS|2012 Summer}}'''
+|RD1-score16-1='''6'''
+|RD1-score16-2='''6'''
+|RD1-score16-3=
+
+|RD2-seed01=&nbsp;
+|RD2-team01={{nowrap|{{flagIOCathlete|[[Carla Suárez Navarro|C Suárez Navarro]]|ESP|2012 Summer}}}}
+|RD2-score01-1=3
+|RD2-score01-2=3
+|RD2-score01-3=
+|RD2-seed02=
+|RD2-team02='''{{flagIOCathlete|[[Kim Clijsters|K Clijsters]]|BEL|2012 Summer}}'''
+|RD2-score02-1='''6'''
+|RD2-score02-2='''6'''
+|RD2-score02-3=
+
+|RD2-seed03=IP
+|RD2-team03={{flagIOCathlete|[[Elena Baltacha|E Baltacha]]|GBR|2012 Summer}}
+|RD2-score03-1=4
+|RD2-score03-2=6<sup>5</sup>
+|RD2-score03-3=
+|RD2-seed04=11
+|RD2-team04='''{{flagIOCathlete|[[Ana Ivanovic|A Ivanovic]]|SRB|2012 Summer}}'''
+|RD2-score04-1='''6'''
+|RD2-score04-2='''7<sup>7</sup>'''
+|RD2-score04-3=
+
+|RD2-seed05=15
+|RD2-team05='''{{flagIOCathlete|[[Sabine Lisicki|S Lisicki]]|GER|2012 Summer}}'''
+|RD2-score05-1=4
+|RD2-score05-2='''6'''
+|RD2-score05-3='''7'''
+|RD2-seed06=
+|RD2-team06={{flagIOCathlete|[[Yaroslava Shvedova|Y Shvedova]]|KAZ|2012 Summer}}
+|RD2-score06-1='''6'''
+|RD2-score06-2=3
+|RD2-score06-3=5
+
+|RD2-seed07=Alt
+|RD2-team07={{flagIOCathlete|[[Laura Robson (tennis)|L Robson]]|GBR|2012 Summer}}
+|RD2-score07-1=6<sup>5</sup>
+|RD2-score07-2=3
+|RD2-score07-3=
+|RD2-seed08=3
+|RD2-team08='''{{flagIOCathlete|[[Maria Sharapova|M Sharapova]]|RUS|2012 Summer}}'''
+|RD2-score08-1='''7<sup>7</sup>'''
+|RD2-score08-2='''6'''
+|RD2-score08-3=
+
+|RD3-seed01=
+|RD3-team01='''{{flagIOCathlete|[[Kim Clijsters|K Clijsters]]|BEL|2012 Summer}}'''
+|RD3-score01-1='''6'''
+|RD3-score01-2='''6'''
+|RD3-score01-3=
+|RD3-seed02=11
+|RD3-team02={{flagIOCathlete|[[Ana Ivanovic|A Ivanovic]]|SRB|2012 Summer}}
+|RD3-score02-1=3
+|RD3-score02-2=4
+|RD3-score02-3=
+
+|RD3-seed03=15
+|RD3-team03={{flagIOCathlete|[[Sabine Lisicki|S Lisicki]]|GER|2012 Summer}}
+|RD3-score03-1='''7<sup>10</sup>'''
+|RD3-score03-2=4
+|RD3-score03-3=3
+|RD3-seed04=3
+|RD3-team04={{nowrap|'''{{flagIOCathlete|[[Maria Sharapova|M Sharapova]]|RUS|2012 Summer}}'''}}
+|RD3-score04-1=6<sup>8</sup>
+|RD3-score04-2='''6'''
+|RD3-score04-3='''6'''
+
+|RD4-seed01=
+|RD4-team01={{flagIOCathlete|[[Kim Clijsters|K Clijsters]]|BEL|2012 Summer}}
+|RD4-score01-1=2
+|RD4-score01-2=5
+|RD4-score01-3=
+|RD4-seed02=3
+|RD4-team02={{nowrap|'''{{flagIOCathlete|[[Maria Sharapova|M Sharapova]]|RUS|2012 Summer}}'''}}
+|RD4-score02-1='''6'''
+|RD4-score02-2='''7'''
+|RD4-score02-3=
+}}
+
+==== Section 4 ====
+{{16TeamBracket|compact=y|sets=3
+|RD1=First round
+|RD2=Second round
+|RD3=Third round
+|RD4=Quarter-finals
+
+|RD1-seed01=6
+|RD1-team01='''{{flagIOCathlete|[[Petra Kvitová|P Kvitová]]|CZE|2012 Summer}}'''
+|RD1-score01-1='''6'''
+|RD1-score01-2=5
+|RD1-score01-3='''6'''
+|RD1-seed02=
+|RD1-team02={{flagIOCathlete|[[Kateryna Bondarenko|K Bondarenko]]|UKR|2012 Summer}}
+|RD1-score02-1=4
+|RD1-score02-2='''7'''
+|RD1-score02-3=4
+
+|RD1-seed03=&nbsp;
+|RD1-team03={{flagIOCathlete|[[Hsieh Su-wei|S-w Hsieh]]|TPE|2012 Summer}}
+|RD1-score03-1=3
+|RD1-score03-2='''7<sup>7</sup>'''
+|RD1-score03-3=5
+|RD1-seed04=
+|RD1-team04='''{{flagIOCathlete|[[Peng Shuai|S Peng]]|CHN|2012 Summer}}'''
+|RD1-score04-1='''6'''
+|RD1-score04-2=6<sup>3</sup>
+|RD1-score04-3='''7'''
+
+|RD1-seed05=&nbsp;
+|RD1-team05={{flagIOCathlete|[[Sorana Cîrstea|S Cîrstea]]|ROU|2012 Summer}}
+|RD1-score05-1=2
+|RD1-score05-2='''6'''
+|RD1-score05-3=2
+|RD1-seed06=
+|RD1-team06='''{{flagIOCathlete|[[Flavia Pennetta|F Pennetta]]|ITA|2012 Summer}}'''
+|RD1-score06-1='''6'''
+|RD1-score06-2=4
+|RD1-score06-3='''6'''
+
+|RD1-seed07=
+|RD1-team07='''{{flagIOCathlete|[[Tsvetana Pironkova|T Pironkova]]|BUL|2012 Summer}}'''
+|RD1-score07-1='''7<sup>7</sup>'''
+|RD1-score07-2='''6'''
+|RD1-score07-3=
+|RD1-seed08=12
+|RD1-team08={{flagIOCathlete|[[Dominika Cibulková|D Cibulková]]|SVK|2012 Summer}}
+|RD1-score08-1=6<sup>4</sup>
+|RD1-score08-2=2
+|RD1-score08-3=
+
+|RD1-seed09=14
+|RD1-team09='''{{flagIOCathlete|[[Maria Kirilenko|M Kirilenko]]|RUS|2012 Summer}}'''
+|RD1-score09-1='''6'''
+|RD1-score09-2=1
+|RD1-score09-3=
+|RD1-seed10=IP
+|RD1-team10={{flagIOCathlete|[[Mariana Duque Mariño|M Duque Mariño]]|COL|2012 Summer}}
+|RD1-score10-1=0
+|RD1-score10-2=1<sup>r</sup>
+|RD1-score10-3=
+
+|RD1-seed11=
+|RD1-team11={{nowrap|{{flagIOCathlete|[[Silvia Soler Espinosa|S Soler Espinosa]]|ESP|2012 Summer}}}}
+|RD1-score11-1=2
+|RD1-score11-2=2
+|RD1-score11-3=
+|RD1-seed12=IP
+|RD1-team12='''{{flagIOCathlete|[[Heather Watson|H Watson]]|GBR|2012 Summer}}'''
+|RD1-score12-1='''6'''
+|RD1-score12-2='''6'''
+|RD1-score12-3=
+
+|RD1-seed13=
+|RD1-team13='''{{flagIOCathlete|[[Varvara Lepchenko|V Lepchenko]]|USA|2012 Summer}}'''
+|RD1-score13-1='''7'''
+|RD1-score13-2=6<sup>6</sup>
+|RD1-score13-3='''6'''
+|RD1-seed14=INV
+|RD1-team14={{flagIOCathlete|[[Verónica Cepede Royg|V Cepede Royg]]|PAR|2012 Summer}}
+|RD1-score14-1=5
+|RD1-score14-2='''7<sup>8</sup>'''
+|RD1-score14-3=2
+
+|RD1-seed15=
+|RD1-team15='''{{flagIOCathlete|[[Julia Görges|J Görges]]|GER|2012 Summer}}'''
+|RD1-score15-1='''7'''
+|RD1-score15-2=6<sup>5</sup>
+|RD1-score15-3='''6'''
+|RD1-seed16=2
+|RD1-team16={{flagIOCathlete|[[Agnieszka Radwańska|A Radwańska]]|POL|2012 Summer}}
+|RD1-score16-1=5
+|RD1-score16-2='''7<sup>7</sup>'''
+|RD1-score16-3=4
+
+|RD2-seed01=6
+|RD2-team01='''{{flagIOCathlete|[[Petra Kvitová|P Kvitová]]|CZE|2012 Summer}}'''
+|RD2-score01-1='''7'''
+|RD2-score01-2=2
+|RD2-score01-3='''6'''
+|RD2-seed02=
+|RD2-team02={{flagIOCathlete|[[Peng Shuai|S Peng]]|CHN|2012 Summer}}
+|RD2-score02-1=5
+|RD2-score02-2='''6'''
+|RD2-score02-3=1
+
+|RD2-seed03=&nbsp;
+|RD2-team03='''{{flagIOCathlete|[[Flavia Pennetta|F Pennetta]]|ITA|2012 Summer}}'''
+|RD2-score03-1='''7'''
+|RD2-score03-2='''6'''
+|RD2-score03-3=
+|RD2-seed04=
+|RD2-team04={{flagIOCathlete|[[Tsvetana Pironkova|T Pironkova]]|BUL|2012 Summer}}
+|RD2-score04-1=5
+|RD2-score04-2=1
+|RD2-score04-3=
+
+|RD2-seed05=14
+|RD2-team05='''{{nowrap|{{flagIOCathlete|[[Maria Kirilenko|M Kirilenko]]|RUS|2012 Summer}}}}'''
+|RD2-score05-1='''6'''
+|RD2-score05-2='''6'''
+|RD2-score05-3=
+|RD2-seed06=IP
+|RD2-team06={{flagIOCathlete|[[Heather Watson|H Watson]]|GBR|2012 Summer}}
+|RD2-score06-1=3
+|RD2-score06-2=2
+|RD2-score06-3=
+
+|RD2-seed07=&nbsp;
+|RD2-team07={{nowrap|{{flagIOCathlete|[[Varvara Lepchenko|V Lepchenko]]|USA|2012 Summer}}}}
+|RD2-score07-1=3
+|RD2-score07-2=5
+|RD2-score07-3=
+|RD2-seed08=
+|RD2-team08='''{{flagIOCathlete|[[Julia Görges|J Görges]]|GER|2012 Summer}}'''
+|RD2-score08-1='''6'''
+|RD2-score08-2='''7'''
+|RD2-score08-3=
+
+|RD3-seed01=6
+|RD3-team01='''{{flagIOCathlete|[[Petra Kvitová|P Kvitová]]|CZE|2012 Summer}}'''
+|RD3-score01-1='''6'''
+|RD3-score01-2='''6'''
+|RD3-score01-3=
+|RD3-seed02=
+|RD3-team02={{flagIOCathlete|[[Flavia Pennetta|F Pennetta]]|ITA|2012 Summer}}
+|RD3-score02-1=3
+|RD3-score02-2=0
+|RD3-score02-3=
+
+|RD3-seed03=14
+|RD3-team03={{nowrap|'''{{flagIOCathlete|[[Maria Kirilenko|M Kirilenko]]|RUS|2012 Summer}}'''}}
+|RD3-score03-1='''7<sup>7</sup>'''
+|RD3-score03-2='''6'''
+|RD3-score03-3=
+|RD3-seed04=
+|RD3-team04={{flagIOCathlete|[[Julia Görges|J Görges]]|GER|2012 Summer}}
+|RD3-score04-1=6<sup>5</sup>
+|RD3-score04-2=3
+|RD3-score04-3=
+
+|RD4-seed01=6
+|RD4-team01={{flagIOCathlete|[[Petra Kvitová|P Kvitová]]|CZE|2012 Summer}}
+|RD4-score01-1=6<sup>3</sup>
+|RD4-score01-2=3
+|RD4-score01-3=
+|RD4-seed02=14
+|RD4-team02={{nowrap|'''{{flagIOCathlete|[[Maria Kirilenko|M Kirilenko]]|RUS|2012 Summer}}'''}}
+|RD4-score02-1='''7<sup>7</sup>'''
+|RD4-score02-2='''6'''
+|RD4-score02-3=
+}}
+
+== References ==
+{{reflist}}
+* [https://web.archive.org/web/20120803053626/http://2012.itftennis.com/media/125034/125034.pdf Women's singles Draw]
+
+{{2012 WTA Tour}}
+{{Footer Olympic Champions Tennis Women}}
+
+{{DEFAULTSORT:Tennis at the 2012 Summer Olympics - Women's singles}}
+[[Category:Tennis at the 2012 Summer Olympics|Women's singles]]
+[[Category:2012 in women's tennis]]
+[[Category:Women's events at the 2012 Summer Olympics]]
+[[Category: Serena Williams]]
+[[Category:Serena Williams tennis matches]]

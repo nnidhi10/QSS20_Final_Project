@@ -1,0 +1,462 @@
+{{infobox country at games
+| NOC = SRB
+| NOCname = [[Olympic Committee of Serbia]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.oks.org.rs }}&nbsp;{{in lang|sr}}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 64
+| gold = 9
+| silver = 8
+| bronze = 11
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Serbia|competition=Summer Olympics|begin_year=|end_year= }}
+| winterappearances = {{Team appearances list|team=Serbia|competition=Winter Olympics|begin_year=2010|end_year= }}
+| seealso = {{flagIOC|YUG}} (1920–1992 W)<br/>{{flagIOC|IOP|1992 Summer}} (1992 S)<br/>{{flagIOC|SCG}} (1996–2006)
+}}
+[[Serbia]] first participated at the [[Olympic Games]] in [[1912 Summer Olympics|1912]] as the [[Kingdom of Serbia]]. The country returned to the Olympics as an independent team after ninety-six years at the [[2008 Summer Olympics]].
+
+== History ==
+{{See also|Serbia at the 1912 Summer Olympics}}
+Despite not participating at the first Olympic Games in [[1896 Summer Olympics|1896]] in [[Athens]], Serbian King [[Alexander I of Serbia|Aleksandar Obrenović]] attended the Games at the invitation of Greek King [[George I of Greece|George I]]. At these Games [[Momčilo Tapavica]] (born in today's Serbian province [[Vojvodina]]), who competed for [[Kingdom of Hungary]], became the first athlete from today's territory of Serbia and the first ethnic [[Serbs|Serb]] to win an Olympic medal, bronze in tennis.<ref>[http://www.oks.org.rs/takmicenja/olimpijske-igre/letnje-olimpijske-igre/i-igre-atina-1896/] {{Webarchive|url=https://web.archive.org/web/20180311000851/http://www.oks.org.rs/takmicenja/olimpijske-igre/letnje-olimpijske-igre/i-igre-atina-1896/ |date=2018-03-11 }} Official site of Olympic Committee of Serbia, 1896 Olympic Games (Serbian)</ref> 
+
+The ''Serbian Olympic Club'' was established on February 23, 1910. Major [[Svetomir Đukić]] is considered the founder of the Olympic movement in Serbia. In 1912, the Club changed its name to the [[Olympic Committee of Serbia]] and that year it was recognized by the [[International Olympic Committee]].<ref>[http://www.oks.org.rs/olimpijski-komitet-srbije/istorija/ History of Olympic Committee of Serbia on official site (Serbian)]</ref>
+
+From the [[1920 Summer Olympics]] to the [[1992 Winter Olympics]], Serbian athletes participated as part of the [[Yugoslavia at the Olympics|Yugoslavia]]n team. At the [[1992 Summer Olympics]], they participated as [[Independent Olympic Participants]] as their nation was under [[United Nations]] sanctions. The continuing sanctions meant that no Serbian athletes competed at the [[1994 Winter Olympics]]. Sanctions were mostly lifted in 1995. From the [[1996 Summer Olympics]] to the [[2006 Winter Olympics]], Serbian athletes participated as part of the [[Serbia and Montenegro at the Olympics|Serbia and Montenegro]] team.
+
+Seven-time Olympian shooter and 1988 gold medalist [[Jasna Šekarić]] competed under four different banners during her twenty-four-year Olympic career. She started under the flag of [[Yugoslavia at the Olympics|Yugoslavia]] in 1988, then she competed as an [[Independent Olympic Participants|Independent Participant]] in 1992, under the flag of [[Serbia and Montenegro at the Olympics|Serbia and Montenegro]] from 1996 to 2004, and in 2008 and 2012 she represented Serbia.
+
+Serbian former basketball player and administrator [[Borislav Stanković]] was the [[Secretary General of FIBA]] from 1976 to 2002, and a member of the [[International Olympic Committee]]. As Secretary General, he pushed for a change in FIBA's rules to allow players from the [[National Basketball Association]] (NBA) to compete at the Olympics. Prior to the [[1992 Summer Olympics]] in [[Barcelona]], only professionals in leagues other than the NBA were allowed to compete.<ref>{{cite book |last1=McCallum |first1=Jack |title=Dream Team How Michael, Magic, Larry, Charles, and the Greatest Team of All Time Conquered the World and Changed the Game of Basketball Forever |date=2013 |publisher=Random House |isbn=9780345520494 |url=https://books.google.com/books?id=-8KJGlUvrPYC |access-date=14 May 2020}}</ref>
+
+== Participation ==
+
+=== Timeline of participation ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! Date !! colspan=7| Team
+|-
+| 1912 || colspan=2| ''as part of {{flagIOC|AUT|1912 Summer}}'' || colspan=2 style="background:darkgray"| || colspan=2 style="background:moccasin"| {{flagIOC|SRB|1912 Summer}} || style="background:darkgray"|
+|- 
+| 1920–1936 || colspan=7| {{flagicon|Kingdom of Yugoslavia}} [[Yugoslavia at the Olympics|Kingdom of Yugoslavia]] <small>(YUG)</small>
+|- 
+| 1948–1988 || colspan=7| {{flagicon|Yugoslavia}} [[Yugoslavia at the Olympics|SFR Yugoslavia]] <small>(YUG)</small>
+|-
+| 1992 W || rowspan=6| {{flagIOC|CRO}} || rowspan=6| {{flagIOC|SLO}} || colspan=5| {{flagicon|Yugoslavia}} [[Yugoslavia at the Olympics|SFR Yugoslavia]] <small>(YUG)</small>
+|-
+| 1992 S || rowspan=5| {{flagIOC|BIH}} || colspan=4| {{flagIOC|IOP|1992 Summer}}
+|-
+| 1994 || colspan=4| ''ban on participation by the UN''
+|-
+| 1996–2006 || rowspan=3| {{flagIOC|MKD}} || colspan=3| {{flagicon|FR Yugoslavia}} FR Yugoslavia <small>(YUG)</small>/<br>{{flagIOC|SCG}}
+|-
+| 2008–2014 || colspan=2 style="background:moccasin"| {{flagIOC|SRB}} || rowspan=2| {{flagIOC|MNE}}
+|-
+| 2016– || rowspan=1 style="background:moccasin"| {{flagIOC|SRB}} || rowspan=1| {{flagIOC|KOS}}
+|}
+
+== Medal tables ==
+{{See also|All-time Olympic Games medal table}}
+{{col-begin}}
+{{col-2}}
+
+=== Medals by Summer Games ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+!Games
+!Athletes
+! width:3em; font-weight:bold;"|{{gold medal}}
+! width:3em; font-weight:bold;"|{{silver medal}}
+! width:3em; font-weight:bold;"|{{bronze medal}}
+!style="width:3em; font-weight:bold;"|Total
+!style="width:3em; font-weight:bold;"|Rank
+|-
+|align=left| {{flagicon|SWE}} {{GamesName|SOG|1912}} || [[Serbia at the 1912 Summer Olympics|3]] || 0 || 0 || 0 || 0 || [[1912 Summer Olympics medal table|–]]
+|-
+|align=left| 1920–1988 || colspan=6| ''as part of {{flagIOC|YUG}}''
+|-
+|align=left| {{flagicon|ESP}} {{GamesName|SOG|1992}} || colspan=6| ''as part of the {{flagIOC|IOP|1992 Summer}}''
+|-
+|align=left| 1996–2004 || colspan=6| ''as part of {{flagIOC|SCG}}''
+|-
+|align=left| {{flagicon|CHN}} {{GamesName|SOG|2008}} || [[Serbia at the 2008 Summer Olympics|92]] || 0 || 1 || 2 || 3 || [[2008 Summer Olympics medal table|61]]
+|-
+|align=left| {{flagicon|GBR}} {{GamesName|SOG|2012}} || [[Serbia at the 2012 Summer Olympics|116]] || 1 || 1 || 2 || 4 || [[2012 Summer Olympics medal table|43]]
+|-
+|align=left| {{flagicon|BRA}} {{GamesName|SOG|2016}} || [[Serbia at the 2016 Summer Olympics|103]] || 2 || 4 || 2 || 8 || [[2016 Summer Olympics medal table|32]]
+|-
+|align=left| {{flagicon|JPN}} {{GamesName|SOG|2020}} || [[Serbia at the 2020 Summer Olympics|87]] || 3 || 1 || 4 || 8 || [[2020 Summer Olympics medal table|28]]
+|-
+|align=left| {{flagicon|FRA}} {{GamesName|SOG|2024}} || [[Serbia at the 2024 Summer Olympics|113]] || 3 || 1 || 1 || 5 || [[2024 Summer Olympics medal table|27]]
+|-
+|align=left| {{flagicon|USA}} {{GamesName|SOG|2028}} || colspan=6; rowspan=2| ''future events''
+|-
+|align=left| {{flagicon|AUS}} {{GamesName|SOG|2032}}
+|-
+!colspan=2| Total !! 9 !! 8 !! 11 !! 28  !! [[All-time Olympic Games medal table|64]]
+|}
+{{col-2}}
+
+=== Medals by Winter Games ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+!Games
+!Athletes
+! width:3em; font-weight:bold;"|{{gold medal}}
+! width:3em; font-weight:bold;"|{{silver medal}}
+! width:3em; font-weight:bold;"|{{bronze medal}}
+!style="width:3em; font-weight:bold;"|Total
+!style="width:3em; font-weight:bold;"|Rank
+|-
+|align=left| 1924–1992 || colspan=6| ''as part of {{flagIOC|YUG}}''
+|-
+|align=left| {{flagicon|NOR}} {{GamesName|WOG|1994}} || colspan=6| ''did not participate''
+|-
+|align=left| 1998–2006 || colspan=6| ''as part of {{flagIOC|SCG}}''
+|-
+|align=left| {{flagicon|CAN}} {{GamesName|WOG|2010}} || [[Serbia at the 2010 Winter Olympics|10]] || 0 || 0 || 0 || 0 || [[2010 Winter Olympics medal table|–]]
+|-
+|align=left| {{flagicon|RUS}} {{GamesName|WOG|2014}} || [[Serbia at the 2014 Winter Olympics|8]] || 0 || 0 || 0 || 0 || [[2014 Winter Olympics medal table|–]]
+|-
+|align=left| {{flagicon|KOR}} {{GamesName|WOG|2018}} || [[Serbia at the 2018 Winter Olympics|4]] || 0 || 0 || 0 || 0 || [[2018 Winter Olympics medal table|–]]
+|-
+|align=left| {{flagicon|CHN}} {{GamesName|WOG|2022}} || [[Serbia at the 2022 Winter Olympics|2]] || 0 || 0 || 0 || 0 || [[2022 Winter Olympics medal table|–]]
+|-
+|align=left| {{flagicon|ITA}} {{GamesName|WOG|2026}}|| [[Serbia at the 2026 Winter Olympics|3]] || 0 || 0 || 0 || 0 || [[2026 Winter Olympics medal table|–]]
+|-
+|align=left| {{flagicon|FRA}} {{GamesName|WOG|2030}} || colspan=6 rowspan=2| ''future events''
+|-
+|align=left| {{flagicon|USA}} {{GamesName|WOG|2034}}
+|-
+!colspan=2| Total !! 0 !! 0 !! 0 !! 0 !! [[All-time Olympic Games medal table|–]]
+|}
+{{col-end}}
+
+=== Medals by sport ===
+{{Medals table
+ | caption     = 
+ | team        = Sport
+ | hide_rank   = yes
+ | leading     = 
+ | gold_1  = 2  | silver_1  = 2  | bronze_1  = 1  | name_1  = {{GamesSport|Taekwondo|Format=d}}
+ | gold_2  = 3  | silver_2  = 0  | bronze_2  = 2  | name_2  = {{GamesSport|Water polo|Format=d}}
+ | gold_3  = 1  | silver_3  = 0  | bronze_3  = 0  | name_3  = {{GamesSport|Wrestling|Format=d}}
+ | gold_4  = 1  | silver_4  = 0  | bronze_4  = 0  | name_4  = {{GamesSport|Karate|Format=d}}
+ | gold_5  = 1  | silver_5  = 2  | bronze_5  = 2  | name_5  = {{GamesSport|Shooting|Format=d}}
+ | gold_6  = 0  | silver_6  = 1  | bronze_6  = 2  | name_6  = {{GamesSport|Basketball|Format=d}}
+ | gold_7  = 0  | silver_7  = 1  | bronze_7  = 0  | name_7  = {{GamesSport|Canoeing|Format=d}}
+ | gold_8  = 0  | silver_8  = 1  | bronze_8  = 0  | name_8  = {{GamesSport|Swimming|Format=d}}
+ | gold_9  = 0  | silver_9  = 1  | bronze_9  = 1  | name_9  = {{GamesSport|Volleyball|Format=d}}
+ | gold_10 = 0  | silver_10 = 0  | bronze_10 = 1  | name_10 = {{GamesSport|Athletics|Format=d}}
+ | gold_11 = 1  | silver_11 = 0  | bronze_11 = 1  | name_11 = {{GamesSport|Tennis|Format=d}}
+ | gold_12 = 0  | silver_12 = 0  | bronze_12 = 1  | name_12 = {{GamesSport|3x3 basketball|Format=d}}
+}}
+
+== List of medalists ==
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+!style="width:4em"| Medal
+!style="width:18em"| Name(s) 
+!style="width:12em"| Games
+! Sport
+! Event
+|-
+| {{Silver medal}} || {{sortname|Milorad|Čavić}} || {{GamesName|SOG|2008}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2008 Summer Olympics|Swimming]] || [[Swimming at the 2008 Summer Olympics – Men's 100 metre butterfly|Men's 100&nbsp;m butterfly]]<ref>[https://web.archive.org/web/20210731145519/https://olympics.com/en/olympic-games/beijing-2008/results/swimming/100m-butterfly-men Beijing 2008: Swimming 100m Butterfly Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || {{sortname|Novak|Djokovic}} || {{GamesName|SOG|2008}} || [[File:Tennis pictogram.svg|25px]] [[Tennis at the 2008 Summer Olympics|Tennis]] || [[Tennis at the 2008 Summer Olympics – Men's singles|Men's singles]]<ref>[https://web.archive.org/web/20220712035008/https://olympics.com/en/olympic-games/beijing-2008/results/tennis Beijing 2008: Tennis Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || 
+{{Collapsible list 
+|title=[[Serbia men's national water polo team|Men's water polo team]]
+|<hr>[[Aleksandar Ćirić]]<br>[[Filip Filipović (water polo player)|Filip Filipović]]<br>[[Živko Gocić]]<br>[[Branko Peković]]<br>[[Duško Pijetlović]]<br>[[Andrija Prlainović]]<br>[[Nikola Rađen]]<br>[[Aleksandar Šapić]]<br>[[Dejan Savić]]<br>[[Denis Šefik]]<br>[[Slobodan Soro]]<br>[[Vanja Udovičić]]<br>[[Vladimir Vujasinović]] }} 
+|| {{GamesName|SOG|2008}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2008 Summer Olympics|Water polo]] || [[Water polo at the 2008 Summer Olympics – Men's tournament|Men's tournament]]<ref>[https://web.archive.org/web/20220512044126/https://olympics.com/en/olympic-games/beijing-2008/results/water-polo/water-polo-men Beijing 2008: Water Polo Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Milica|Mandić}} || {{GamesName|SOG|2012}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2012 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2012 Summer Olympics – Women's +67 kg|Women's +67 kg]]<ref>[https://web.archive.org/web/20211201180205/https://olympics.com/en/olympic-games/london-2012/results/taekwondo/67-kg-women London 2012: Taekwondo 67 kg Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || {{sortname|Ivana|Maksimović}} || {{GamesName|SOG|2012}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2012 Summer Olympics|Shooting]] || [[Shooting at the 2012 Summer Olympics – Women's 50 metre rifle three positions|Women's 50 m rifle three positions]]<ref>[https://web.archive.org/web/20210506045520/https://olympics.com/en/olympic-games/london-2012/results/shooting/50m-rifle-3-positions-women London 2012: Shooting 50m Rifle 3 Positions Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || {{sortname|Andrija|Zlatić}} || {{GamesName|SOG|2012}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2012 Summer Olympics|Shooting]] || [[Shooting at the 2012 Summer Olympics – Men's 10 metre air pistol|Men's 10 m air pistol]]<ref>[https://web.archive.org/web/20210504122624/https://olympics.com/en/olympic-games/london-2012/results/shooting/10m-air-pistol-60-shots-men London 2012: Shooting 10m Air Pistol 60 Shots Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || 
+{{Collapsible list 
+|title=[[Serbia men's national water polo team|Men's water polo team]]
+|<hr>[[Milan Aleksić]]<br>[[Filip Filipović (water polo)|Filip Filipović]]<br>[[Živko Gocić]]<br>[[Dušan Mandić]]<br>[[Stefan Mitrović (water polo)|Stefan Mitrović]]<br>[[Slobodan Nikić]]<br>[[Duško Pijetlović]]<br>[[Gojko Pijetlović]]<br>[[Andrija Prlainović]]<br>[[Nikola Rađen]]<br>[[Slobodan Soro]]<br>[[Aleksa Šaponjić]]<br>[[Vanja Udovičić]] }}
+|| {{GamesName|SOG|2012}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2012 Summer Olympics|Water polo]] || [[Water polo at the 2012 Summer Olympics - Men's tournament|Men's tournament]]<ref>[https://web.archive.org/web/20210731184732/https://olympics.com/en/olympic-games/london-2012/results/water-polo/water-polo-men London 2012: Water Polo Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Davor|Štefanek}}|| {{GamesName|SOG|2016}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2016 Summer Olympics|Wrestling]] || [[Wrestling at the 2016 Summer Olympics – Men's Greco-Roman 66 kg|Men's Greco-Roman 66 kg]]<ref>[https://olympics.com/en/olympic-games/rio-2016/results/wrestling/greco-roman-66-kg-men Rio 2016: Wrestling Greco-Roman 66 kg Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || 
+{{Collapsible list 
+|title=[[Serbia men's national water polo team|Men's water polo team]]
+|<hr>[[Milan Aleksić]]<br>[[Miloš Ćuk]]<br>[[Filip Filipović (water polo)|Filip Filipović]]<br>[[Živko Gocić]]<br>[[Nikola Jakšić]]<br>[[Dušan Mandić]]<br>[[Branislav Mitrović]]<br>[[Stefan Mitrović (water polo)|Stefan Mitrović]]<br>[[Slobodan Nikić]]<br>[[Duško Pijetlović]]<br>[[Gojko Pijetlović]]<br>[[Andrija Prlainović]]<br>[[Sava Ranđelović]] }}
+|| {{GamesName|SOG|2016}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2016 Summer Olympics|Water polo]] || [[Water polo at the 2016 Summer Olympics - Men's tournament|Men's tournament]]<ref>[https://web.archive.org/web/20220621175934/https://olympics.com/en/olympic-games/rio-2016/results/water-polo/water-polo-men Rio 2016: Water Polo Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || {{sortname|Tijana|Bogdanović}} || {{GamesName|SOG|2016}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2016 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2016 Summer Olympics – Women's 49 kg|Women's 49 kg]]<ref>[https://olympics.com/en/olympic-games/rio-2016/results/taekwondo/-49-kg-women Rio 2016: Taekwondo - 49 kg Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref> 
+|-
+| {{Silver medal}} || {{sortname|Marko|Tomićević}}<br>{{sortname|Milenko|Zorić}} || {{GamesName|SOG|2016}} || [[Image:Canoeing pictogram.svg|25px]] [[Canoeing at the 2016 Summer Olympics|Canoeing]] || [[Canoeing at the 2016 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000 m]]<ref>[https://web.archive.org/web/20210515173725/https://olympics.com/en/olympic-games/rio-2016/results/canoe-sprint/k-2-1000m-kayak-double-men Rio 2016: Canoe Sprint K-2 1000m (Kayak Double) Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || 
+{{Collapsible list 
+|title=[[Serbia women's national volleyball team|Women's volleyball team]]
+|<hr>[[Tijana Bošković]]<br>[[Jovana Brakočević]]<br>[[Bianka Buša]]<br>[[Tijana Malešević]]<br>[[Brankica Mihajlović]]<br>[[Jelena Nikolić]]<br>[[Maja Ognjenović]]<br>[[Silvija Popović]]<br>[[Milena Rašić]]<br>[[Jovana Stevanović]]<br>[[Stefana Veljković]]<br>[[Bojana Živković]] }}
+|| {{GamesName|SOG|2016}} || [[Image:Volleyball pictogram.svg|25px]] [[Volleyball at the 2016 Summer Olympics|Volleyball]] || [[Volleyball at the 2016 Summer Olympics - Women's tournament|Women's tournament]]<ref>[https://web.archive.org/web/20221108213150/https://olympics.com/en/olympic-games/rio-2016/results/volleyball/volleyball-women Rio 2016: Volleyball Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || 
+{{Collapsible list 
+|title=[[Serbia national basketball team|Men's basketball team]]
+|<hr>[[Stefan Birčević]]<br>[[Bogdan Bogdanović (basketball)|Bogdan Bogdanović]]<br>[[Nikola Jokić]]<br>[[Stefan Jović]]<br>[[Nikola Kalinić (basketball)|Nikola Kalinić]]<br>[[Milan Mačvan]]<br>[[Stefan Marković (basketball)|Stefan Marković]]<br>[[Nemanja Nedović]]<br>[[Miroslav Raduljica]]<br>[[Marko Simonović (basketball, born 1986)|Marko Simonović]]<br>[[Vladimir Štimac]]<br>[[Miloš Teodosić]]}}
+|| {{GamesName|SOG|2016}} || [[Image:Basketball pictogram.svg|25px]] [[Basketball at the 2016 Summer Olympics|Basketball]] || [[Basketball at the 2016 Summer Olympics - Men's tournament|Men's tournament]]<ref>[https://web.archive.org/web/20220626211227/https://olympics.com/en/olympic-games/rio-2016/results/basketball/basketball-men Rio 2016: Basketball Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || {{sortname|Ivana|Španović}} || {{GamesName|SOG|2016}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2016 Summer Olympics|Athletics]] || [[Athletics at the 2016 Summer Olympics – Women's long jump|Women's long jump]]<ref>[https://web.archive.org/web/20210804202726/https://olympics.com/en/olympic-games/rio-2016/results/athletics/long-jump-women Rio 2016: Athletics Long Jump Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || 
+{{Collapsible list 
+|title=[[Serbia women's national basketball team|Women's basketball team]]
+|<hr>[[Dajana Butulija]]<br>[[Aleksandra Crvendakić]]<br>[[Saša Čađo]]<br>[[Ana Dabović]]<br>[[Milica Dabović]]<br>[[Nevena Jovanović]]<br>[[Sara Krnjić]]<br>[[Jelena Milovanović]]<br>[[Danielle Page]]<br>[[Sonja Vasić|Sonja Petrović]]<br>[[Tamara Radočaj]]<br>[[Dragana Stanković]] }}
+|| {{GamesName|SOG|2016}} || [[Image:Basketball pictogram.svg|25px]] [[Basketball at the 2016 Summer Olympics|Basketball]] || [[Basketball at the 2016 Summer Olympics - Women's tournament|Women's tournament]]<ref>[https://web.archive.org/web/20221130173424/https://olympics.com/en/olympic-games/rio-2016/results/basketball/basketball-women Rio 2016: Basketball Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Milica|Mandić}} || {{GamesName|SOG|2020}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2020 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2020 Summer Olympics – Women's +67 kg|Women's +67 kg]]<ref>[https://web.archive.org/web/20211103225406/https://olympics.com/en/olympic-games/tokyo-2020/results/taekwondo/women-over-67kg Tokyo 2020: Taekwondo Women +67kg Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Jovana|Preković}} || {{GamesName|SOG|2020}} || [[Image:Karate pictogram.svg|25px]] [[Karate at the 2020 Summer Olympics|Karate]] || [[Karate at the 2020 Summer Olympics – Women's 61 kg|Women's 61 kg]]<ref>[https://web.archive.org/web/20211022110250/https://olympics.com/en/olympic-games/tokyo-2020/results/karate/women-s-kumite-61kg Tokyo 2020: Karate Women's Kumite -61kg Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{gold medal}} ||
+{{Collapsible list 
+|title=[[Serbia men's national water polo team|Men's water polo team]]
+|<hr>[[Gojko Pijetlović]]<br>[[Dušan Mandić]]<br>[[Nikola Dedović]]<br>[[Sava Ranđelović]]<br>[[Strahinja Rašović]]<br>[[Duško Pijetlović]]<br>[[Đorđe Lazić (water polo)|Đorđe Lazić]]<br>[[Milan Aleksić]]<br>[[Nikola Jakšić]]<br>[[Filip Filipović (water polo)|Filip Filipović]]<br>[[Andrija Prlainović]]<br>[[Stefan Mitrović (water polo)|Stefan Mitrović]]<br>[[Branislav Mitrović]]}}
+|| {{GamesName|SOG|2020}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2020 Summer Olympics|Water polo]] || [[Water polo at the 2020 Summer Olympics – Men's tournament|Men's tournament]]<ref>[https://web.archive.org/web/20211019152038/https://olympics.com/en/olympic-games/tokyo-2020/results/water-polo/men Tokyo 2020: Water Polo Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || {{sortname|Damir|Mikec}} || {{GamesName|SOG|2020}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2020 Summer Olympics|Shooting]] || [[Shooting at the 2020 Summer Olympics – Men's 10 metre air pistol|Men's 10 metre air pistol]]<ref>[https://web.archive.org/web/20211019122111/https://olympics.com/en/olympic-games/tokyo-2020/results/shooting/10m-air-pistol-men Tokyo 2020: Shooting 10m Air Pistol Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Bronze medal}} || {{sortname|Tijana|Bogdanović}} || {{GamesName|SOG|2020}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2020 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2020 Summer Olympics – Women's 49 kg|Women's 49 kg]]<ref>[https://web.archive.org/web/20211028120635/https://olympics.com/en/olympic-games/tokyo-2020/results/taekwondo/women-49kg Tokyo 2020: Taekwondo Women -49kg Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref> 
+|-
+| {{Bronze medal}} || {{sortname|Milenko|Sebić}} || {{GamesName|SOG|2020}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2020 Summer Olympics|Shooting]] || [[Shooting at the 2020 Summer Olympics – Men's 50 metre rifle three positions|Men's 50 metre rifle three positions]]<ref>[https://web.archive.org/web/20211024070314/https://olympics.com/en/olympic-games/tokyo-2020/results/shooting/50m-rifle-3-positions-men Tokyo 2020: Shooting 50m Rifle 3 Positions Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{bronze medal}} ||
+{{Collapsible list 
+|title=[[Serbia women's national volleyball team|Women's volleyball team]]
+|<hr>[[Bianka Buša]]<br>[[Mina Popović]]<br>[[Slađana Mirković]]<br>[[Brankica Mihajlović]]<br>[[Maja Ognjenović]]<br>[[Ana Bjelica]]<br>[[Maja Aleksić]]<br>[[Milena Rašić]]<br>[[Silvija Popović]]<br>[[Tijana Bošković]]<br>[[Bojana Milenković]]<br>[[Jelena Blagojević]]}}
+| {{GamesName|SOG|2020}} || [[Image:Volleyball pictogram.svg|25px]] [[Volleyball at the 2020 Summer Olympics|Volleyball]] || [[Volleyball at the 2020 Summer Olympics – Women's tournament|Women's tournament]]<ref>[https://web.archive.org/web/20211124062336/https://olympics.com/en/olympic-games/tokyo-2020/results/volleyball/women Tokyo 2020: Volleyball Women Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref> 
+|-
+| {{Bronze medal}} || 
+{{Collapsible list 
+|title=[[Serbia men's national 3x3 team|Men's 3x3 basketball team]]
+|<hr>[[Dušan Domović Bulut]]<br>[[Dejan Majstorović]]<br>[[Aleksandar Ratkov]]<br>[[Mihailo Vasić]] }}
+|| {{GamesName|SOG|2020}} || [[Image:3x3 basketball pictogram.svg|25px]] [[Basketball at the 2020 Summer Olympics|3x3 basketball]] || [[Basketball at the 2020 Summer Olympics – Men's 3x3 tournament|Men's tournament]]<ref>[https://web.archive.org/web/20211018080627/https://olympics.com/en/olympic-games/tokyo-2020/results/3x3-basketball/men Tokyo 2020: 3x3 Basketball Men Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Zorana|Arunović}}<br>{{sortname|Damir|Mikec}} || {{GamesName|SOG|2024}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2024 Summer Olympics|Shooting]] || [[Shooting at the 2024 Summer Olympics – Mixed 10 metre air pistol team|Mixed 10 metre air pistol team]]<ref>[https://olympics.com/en/paris-2024/results/shooting/10m-air-pistol-mixed-team/fnl-000100-- Paris 2024: 10m Air Pistol Mixed Team Gold Medal Match Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Gold medal}} || {{sortname|Novak|Djokovic}} || {{GamesName|SOG|2024}} || [[File:Tennis pictogram.svg|25px]] [[Tennis at the 2024 Summer Olympics|Tennis]] || [[Tennis at the 2024 Summer Olympics – Men's singles|Men's singles]]<ref>[https://olympics.com/en/paris-2024/results/tennis/men-s-singles/fnl-000100-- Paris 2024: DJOKOVIC Novak vs ALCARAZ Carlos Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{gold medal}} ||
+{{Collapsible list 
+|title=[[Serbia men's national water polo team|Men's water polo team]]
+|<hr>[[Radoslav Filipović]]<br>[[Dušan Mandić]]<br>[[Strahinja Rašović]]<br>[[Sava Ranđelović]]<br>[[Miloš Ćuk]]<br>[[Nikola Dedović]]<br>[[Radomir Drašović]]<br>[[Nikola Jakšić]]<br>[[Nemanja Ubović]]<br>[[Nemanja Vico]]<br>[[Petar Jakšić]]<br>[[Viktor Rašović]]<br>[[Vladimir Mišović]]}}
+|| {{GamesName|SOG|2024}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2024 Summer Olympics|Water polo]] || [[Water polo at the 2024 Summer Olympics – Men's tournament|Men's tournament]]<ref>[https://olympics.com/en/paris-2024/medals-and-ranking/water-polo/men Paris 2024: Water Polo Men Team Medals and Ranking ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|-
+| {{Silver medal}} || {{sortname|Aleksandra|Perišić}} || {{GamesName|SOG|2024}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2024 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2024 Summer Olympics – Women's 67 kg|Women's 67 kg]]<ref>[https://olympics.com/en/paris-2024/results/taekwondo/women--67kg/fnl-000100-- Paris 2024: Taekwondo - Women -67kg Gold Medal Contest Contest 338 MARTON Viviana vs PERISIC Aleksandra Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref> 
+|-
+|{{Bronze medal}}
+|{{Collapsible list 
+|title=[[Serbia men's national basketball team | Men's basketball team]]
+|<hr>[[Uroš Plavšić]]<br>[[Filip Petrušev]]<br>[[Nikola Jović]]<br>[[Bogdan Bogdanović (basketball)|Bogdan Bogdanović]]<br>[[Vanja Marinković]]<br>[[Ognjen Dobrić]]<br>[[Nikola Jokić]]<br>[[Vasilije Micić]]<br>[[Marko Gudurić]]<br>[[Dejan Davidovac]]|[[Aleksa Avramović]]<br>[[Nikola Milutinov]]}}
+|{{GamesName|SOG|2024}}
+|[[Image:Basketball pictogram.svg|25px]] [[Basketball at the 2024 Summer Olympics|Basketball]]
+|[[Basketball at the 2024 Summer Olympics – Men's tournament|Men's basketball tournament]]<ref>[https://olympics.com/en/paris-2024/results/basketball/men/fnl-000200-- Paris 2024: Basketball - Men's Bronze Medal Game Game 49 Germany vs Serbia Results ] {{space}} Olympics.com. Accessed 12 September 2024.</ref>
+|}
+== Stripped Olympic medals ==
+{{See also|List of stripped Olympic medals}}
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+!style="width:4em"| Medal
+!style="width:18em"| Name(s) 
+!style="width:12em"| Games
+! Sport
+! Event
+! Ref
+|-bgcolor=pink
+| {{bronze medal}} || [[Zurabi Datunashvili]] || {{GamesName|SOG|2020}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2020 Summer Olympics|Wrestling]] || [[Wrestling at the 2020 Summer Olympics – Men's Greco-Roman 87 kg|Men's Greco-Roman 87 kg]]<ref>[https://www.olympics.com/en/olympic-games/tokyo-2020/results/wrestling/men-s-greco-roman-87kg Tokyo 2020 Men's Greco-Roman 87kg Results - Olympic Wrestlings] {{space}} Olympics.com. Accessed 13 February 2026.</ref> 
+|<ref>{{Cite web |date=2025-11-21 |title=International Testing Agency-CAS confirms five-year ban imposed on Serbian wrestler Zurabi Datunashvili |url=https://ita.sport/news/cas-confirms-five-year-ban-imposed-on-serbian-wrestler-zurabi-datunashvili/ |website=International Testing Agency |language=en-GB |archive-url=https://web.archive.org/web/20260208161447/https://ita.sport/news/cas-confirms-five-year-ban-imposed-on-serbian-wrestler-zurabi-datunashvili/ |archive-date=2026-02-08 |url-status=live |access-date=2026-02-12}}</ref>
+|-
+|}
+
+==Multiple medal winners==
+This is a list of people who have won two or more Olympic medals, who represented Serbia as an independent country at least once.
+
+{| class="wikitable sortable"
+|-
+! Athlete
+! Sport
+! Gender
+! Years
+! Games
+! style="background-color:gold; width:1.0em; font-weight:bold;"| {{gold01}}
+! style="background-color:silver; width:1.0em; font-weight:bold;"|{{silver02}}
+! style="background-color:#cc9966; width:1.0em; font-weight:bold;"|{{bronze03}}
+! style="width:3.0em;"|Total
+|-
+|'''{{sortname|Dušan|Mandić}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2012–2024 || Summer || 3 || 0 || 1 || 4
+|-
+|'''{{sortname|Nikola|Jakšić}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2016–2024 || Summer || 3 || 0 || 0 || 3
+|-
+|'''{{sortname|Sava|Ranđelović}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2016–2024 || Summer || 3 || 0 || 0 || 3
+|-
+|{{sortname|Filip|Filipović|Filip Filipović (water polo)}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2020 || Summer || 2 || 0 || 2 || 4
+|-
+|{{sortname|Duško|Pijetlović}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2020 || Summer || 2 || 0 || 2 || 4
+|-
+|{{sortname|Andrija|Prlainović}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2020 || Summer || 2 || 0 || 2 || 4
+|-
+|{{sortname|Milan|Aleksić}} || | {{GamesSport|Water polo|Format=d}} || M || 2012–2020 || Summer || 2 || 0 || 1 || 3
+|-
+|{{sortname|Stefan|Mitrović|Stefan Mitrović (water polo)}} || | {{GamesSport|Water polo|Format=d}} || M || 2012–2020 || Summer || 2 || 0 || 1 || 3
+|-
+|{{sortname|Gojko|Pijetlović}} || | {{GamesSport|Water polo|Format=d}} || M || 2012–2020 || Summer || 2 || 0 || 1 || 3
+|-
+|'''{{sortname|Miloš|Ćuk}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2016–2024 || Summer || 2 || 0 || 0 || 2
+|-
+|'''{{sortname|Nikola|Dedović}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2020–2024 || Summer || 2 || 0 || 0 || 2
+|-
+|{{sortname|Milica|Mandić}} || | {{GamesSport|Taekwondo|Format=d}} || W || 2012–2020 || Summer || 2 || 0 || 0 || 2
+|-
+|{{sortname|Branislav|Mitrović}} || | {{GamesSport|Water polo|Format=d}} || M || 2016–2020 || Summer || 2 || 0 || 0 || 2
+|-
+|'''{{sortname|Strahinja|Rašović}}''' || | {{GamesSport|Water polo|Format=d}} || M || 2020–2024 || Summer || 2 || 0 || 0 || 2
+|-
+|{{sortname|Jasna|Šekarić}} || | {{GamesSport|Shooting|Format=d}} || W || ''1988–2004'' || Summer || 1 || 3 || 1 || 5
+|-
+|{{sortname|Slobodan|Nikić}} || | {{GamesSport|Water polo|Format=d}} || M || ''2004''–2016 || Summer || 1 || 1 || 1 || 3
+|-
+|'''{{sortname|Damir|Mikec}}''' || | {{GamesSport|Shooting|Format=d}} || M || 2008–2024 || Summer || 1 || 1 || 0 || 2
+|-
+|{{sortname|Živko|Gocić}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2016 || Summer || 1 || 0 || 2 || 3
+|-
+|'''{{sortname|Novak|Djokovic}}''' || | {{GamesSport|Tennis|Format=d}} || M || 2008–2024 || Summer || 1 || 0 || 1 || 2
+|-
+|{{sortname|Andrija|Gerić}} || | {{GamesSport|Volleyball|Format=d}} || M || ''1996–2000'' || Summer || 1 || 0 || 1 || 2
+|-
+|{{sortname|Nikola|Grbić}} || | {{GamesSport|Volleyball|Format=d}} || M || ''1996–2000'' || Summer || 1 || 0 || 1 || 2
+|-
+|{{sortname|Aleksandar|Ćirić}} || | {{GamesSport|Water polo|Format=d}} || M || ''2000''–2008 || Summer || 0 || 1 || 2 || 3
+|-
+|{{sortname|Aleksandar|Šapić}} || | {{GamesSport|Water polo|Format=d}} || M || ''2000''–2008 || Summer || 0 || 1 || 2 || 3
+|-
+|{{sortname|Dejan|Savić}} || | {{GamesSport|Water polo|Format=d}} || M || ''2000''–2008 || Summer || 0 || 1 || 2 || 3
+|-
+|{{sortname|Vanja|Udovičić}} || | {{GamesSport|Water polo|Format=d}} || M || ''2004''–2012 || Summer || 0 || 1 || 2 || 3
+|-
+|{{sortname|Vladimir|Vujasinović}} || | {{GamesSport|Water polo|Format=d}} || M || ''2000''–2008 || Summer || 0 || 1 || 2 || 3
+|-
+|'''{{sortname|Bogdan|Bogdanović|Bogdan Bogdanović (basketball)}}''' || | {{GamesSport|Basketball|Format=d}} || M || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|{{sortname|Tijana|Bogdanović}} || | {{GamesSport|Taekwondo|Format=d}} || W || 2016–2020 || Summer || 0 || 1 || 1 || 2
+|-
+|'''{{sortname|Tijana|Bošković}}''' || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|'''{{sortname|Bianka|Buša}}''' || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|'''{{sortname|Nikola|Jokić|Nikola Jokić}}''' || | {{GamesSport|Basketball|Format=d}} || M || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|{{sortname|Brankica|Mihajlović}} || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2020 || Summer || 0 || 1 || 1 || 2
+|-
+|'''{{sortname|Maja|Ognjenović}}''' || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|'''{{sortname|Silvija|Popović}}''' || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2024 || Summer || 0 || 1 || 1 || 2
+|-
+|{{sortname|Milena|Rašić}} || | {{GamesSport|Volleyball|Format=d}} || W || 2016–2020 || Summer || 0 || 1 || 1 || 2
+|-
+|{{sortname|Denis|Šefik}} || | {{GamesSport|Water polo|Format=d}} || M || ''2004''–2008 || Summer || 0 || 1 || 1 || 2
+|-
+|{{sortname|Nikola|Rađen}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2012 || Summer || 0 || 0 || 2 || 2
+|-
+|{{sortname|Slobodan|Soro}} || | {{GamesSport|Water polo|Format=d}} || M || 2008–2012 || Summer || 0 || 0 || 2 || 2
+|}
+*'''People in bold''' are still active competitors
+*''Olympics in italic'' are medals won for the predecessor countries
+
+===Medal winners as medal winning coach===
+{| class="wikitable sortable"
+|-
+! rowspan=2|Athlete
+! rowspan=2|Sport
+! rowspan=2|Gender
+! rowspan=2|Games
+! colspan=5|As participant
+! colspan=5|As head coach
+|-
+! Years
+! style="background-color:gold; width:1.0em; font-weight:bold;"| {{gold01}}
+! style="background-color:silver; width:1.0em; font-weight:bold;"|{{silver02}}
+! style="background-color:#cc9966; width:1.0em; font-weight:bold;"|{{bronze03}}
+! style="width:3.0em;"|Total
+! Years
+! style="background-color:gold; width:1.0em; font-weight:bold;"| {{gold01}}
+! style="background-color:silver; width:1.0em; font-weight:bold;"|{{silver02}}
+! style="background-color:#cc9966; width:1.0em; font-weight:bold;"|{{bronze03}}
+! style="width:3.0em;"|Total
+|-
+|{{sortname|Dejan|Savić}} || | {{GamesSport|Water polo|Format=d}} || M || Summer || ''2000''–2008 || 0 || 1 || 2 || 3 || 2016–2020 || 2 || 0 || 0 || 2
+|-
+|{{sortname|Goran|Maksimović}} || | {{GamesSport|Shooting|Format=d}}  || M || Summer || ''1988'' || 1 || 0 || 0 || 1 || ''2004''–2012 || 0 || 2 || 1 || 3
+|-
+|{{sortname|Aleksandar|Đorđević}} || | {{GamesSport|Basketball|Format=d}}  || M || Summer || ''1996'' || 0 || 1 || 0 || 1 || 2016 || 0 || 1 || 0 || 1
+|}
+
+==Predecessor countries==
+The [[Olympic Committee of Serbia]], created in 1910 and recognized in 1912, is deemed the direct successor to both the [[Yugoslav Olympic Committee]] and the Olympic Committee of [[Serbia and Montenegro]] by the [[International Olympic Committee|IOC]].<ref>[http://www.oks.org.rs/olimpijski-komitet-srbije/istorija/?lang=sr-latn] Official site of Olympic Committee of Serbia, History of Olympic Committee (Serbian)</ref> In the period from 1920 to 2006, athletes representing these defunct countries won a total of 99 medals: 95 at the Summer Games and 4 at the Winter Games.
+
+{| class="wikitable sortable" style="margin-top:0em; text-align:center; font-size:90%;"
+!style="width:15em;"|Country
+!style="width:4em;"|№ Summer
+|style="background:gold; width:4em;"|'''Gold'''
+|style="background:silver; width:4em;"|'''Silver'''
+|style="background:#cc9966; width:4em;"|'''Bronze'''
+!style="width:4em;"|Total
+!style="width:4em;"|№ Winter
+|style="background:gold; width:4em;"|'''Gold'''
+|style="background:silver; width:4em;"|'''Silver'''
+|style="background:#cc9966; width:4em;"|'''Bronze'''
+!style="width:4em;"|Total
+!style="width:4em;"|№ Games
+|style="background:gold; width:4em;"|'''Gold'''
+|style="background:silver; width:4em;"|'''Silver'''
+|style="background:#cc9966; width:4em;"|'''Bronze'''
+!style="width:5em;"|Combined Total
+|-
+|align=left| {{flagicon|Kingdom of Yugoslavia}} [[Yugoslavia at the Olympics|Kingdom of Yugoslavia]]||bgcolor=#f2f2ce|5||bgcolor=#f2f2ce|3||bgcolor=#f2f2ce|2||bgcolor=#f2f2ce|3||bgcolor=#f2f2ce|8||bgcolor=#cedff2|3||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||8||3||2||3||8
+|-
+|align=left| {{flagicon|YUG}} [[Yugoslavia at the Olympics|SFR Yugoslavia]]||bgcolor=#f2f2ce|11||bgcolor=#f2f2ce|23||bgcolor=#f2f2ce|27||bgcolor=#f2f2ce|25||bgcolor=#f2f2ce|75||bgcolor=#cedff2|10||bgcolor=#cedff2|0||bgcolor=#cedff2|3||bgcolor=#cedff2|1||bgcolor=#cedff2|4||21||23||30||26||79
+|-
+|align=left| {{nowrap|{{flagIOC|IOP|1992 Summer}}}} ||bgcolor=#f2f2ce|1||bgcolor=#f2f2ce|0||bgcolor=#f2f2ce|1||bgcolor=#f2f2ce|2||bgcolor=#f2f2ce|3||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||1||0||1||2||3
+|-
+|align=left| {{flagicon|SCG}} [[Serbia and Montenegro at the Olympics|Serbia and Montenegro]]||bgcolor=#f2f2ce|3||bgcolor=#f2f2ce|2||bgcolor=#f2f2ce|4||bgcolor=#f2f2ce|3||bgcolor=#f2f2ce|9||bgcolor=#cedff2|3||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||bgcolor=#cedff2|0||6||2||4||3||9
+|-
+!align=left| Total!!bgcolor=#f2f2ce|20||bgcolor=#f2f2ce|28||bgcolor=#f2f2ce|34||bgcolor=#f2f2ce|33||bgcolor=#f2f2ce|95||bgcolor=#cedff2|16||bgcolor=#cedff2|0||bgcolor=#cedff2|3||bgcolor=#cedff2|1||bgcolor=#cedff2|4||36||28||37||34||99
+|-
+|}
+
+==See also==
+* [[List of flag bearers for Serbia at the Olympics]]
+* [[Serbia at the Paralympics]]
+* [[List of Yugoslav Olympic medalists]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |title=Serbia |publisher=International Olympic Committee |url=https://www.olympic.org/serbia }}
+* {{cite web |title=Serbia |publisher=Olympedia.com |url=http://www.olympedia.org/countries/SRB }}
+* {{cite web |title=Olympic Analytics/SRB |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=SRB }}
+
+{{country at games navbox|Serbia|Olympics}}
+{{Nations at the Olympics}}
+{{National sports teams of Serbia}}
+
+[[Category:Serbia at the Olympics| ]]
+[[Category:Olympic competitors for Serbia]]

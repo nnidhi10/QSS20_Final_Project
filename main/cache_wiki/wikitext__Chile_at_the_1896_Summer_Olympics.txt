@@ -1,0 +1,113 @@
+{{good article}}
+{{infobox country at games
+| NOC = CHI
+| NOCname = [[Chilean Olympic Committee]]
+| games = Summer Olympics
+| year = 1896
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Athens]], [[Greece]]
+| date = ''April 6, 1896 – April 15, 1896''
+| competitors = 1
+| sports = 2
+| events = 4
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+Chile competed at the [[1896 Summer Olympics]], the first Olympics, in [[Athens]], Greece, from 6 to 15 April 1896. The delegation consisted of one athlete competing in two sports and four events – runner and cyclist, [[Luis Subercaseaux]]. He claimed to have competed for Chile in the [[Athletics at the 1896 Summer Olympics – Men's 100 metres|100]], [[Athletics at the 1896 Summer Olympics – Men's 400 metres|400]] and [[Athletics at the 1896 Summer Olympics – Men's 800 metres|800 metres]] running events, along with the [[Cycling at the 1896 Summer Olympics – Men's individual road race|men's road race]] cycling event. Although Subercaseaux’s participation remains a subject of debate among historians, as these claims cannot be substantiated because the Official Report typically includes only medal winners and Subercaseaux did not win any, a photo of the 100 metres sprint appraised by the [[Investigations Police of Chile|Chilean forensic police]] is evidence that he participated. The country's involvement is historically significant as it was the only South American competitor at the Games.
+
+== Background ==
+The appearance of [[Chile]] at the [[1896 Summer Olympics|Athens Summer Olympics]] marked its first Olympic appearance.<ref>{{Cite web |last=Soit |first=Honi |date=2021-08-08 |title=Chile extends Olympic record for most Olympic Games without an Olympic record – Honi Soit |url=https://honisoit.com/2021/08/chile-extends-olympic-record-for-most-olympic-games-without-an-olympic-record/ |access-date=2025-05-21 |website=honisoit.com |language=en-AU}}</ref> The Games took place from 6 to 15 April 1896.<ref>{{Cite web |title=Olympedia – 1896 Summer Olympics Overview |url=https://www.olympedia.org/editions/1 |access-date=2025-05-21 |website=www.olympedia.org}}</ref> Chile did not win an Olympic medal at these Games.<ref>{{Cite web |title=Chile at the Olympic Games |url=https://www.topendsports.com/events/summer/countries/chile.htm |access-date=2025-05-21 |website=www.topendsports.com}}</ref> The nation's delegation consisted of one athlete competing in two sports and four events.<ref name=":0">{{Cite web |title=Olympedia – Chile at the 1896 Summer Olympics |url=https://www.olympedia.org/countries/CHI/editions/1 |access-date=2025-05-21 |website=www.olympedia.org |archive-date=2024-11-26 |archive-url=https://web.archive.org/web/20241126234022/http://www.olympedia.org/countries/CHI/editions/1 |url-status=live }}</ref> Gymnastics was a major sport in Chile and compulsory for all students in school. However, there were no Chilean gymnasts who competed.<ref>{{Cite book |last=Chepyator-Thomson |first=Jepkorir Rose |url=https://www.google.co.uk/books/edition/_/nfDWAAAAQBAJ |title=Global Perspectives on Physical Education and After-School Sport Programs |last2=Hsu |first2=Shan-Hui |year= 2013 |publisher=[[University Press of America]] |isbn=9780761861188 |page=189 |language=en |access-date=5 June 2025}}</ref> 
+
+== Competitors ==
+[[File:Luis Subercaseaux Errazuriz.png|alt=Headshot of Subercaseaux|thumb|Subercaseaux in 1939|321x321px]]
+[[Luis Subercaseaux]], full name Luis Subercaseaux Errázuriz, was the only competitor for Chile in the Games.<ref name=":0" /> Thirteen years old at the time of the Games,<ref>{{Cite web |title=Olympedia – Luis Subercaseaux |url=https://www.olympedia.org/athletes/922400 |access-date=2025-05-21 |website=www.olympedia.org}}</ref> he was the son of Chilean diplomat and politician, [[Ramón Subercaseaux Vicuña]], and brother of [[Juan Subercaseaux]], an archbishop.<ref>{{Cite web |title=Subercaseaux Vicuña Ramon |url=https://anales.cl/subercaseaux-vicuna-ramon/ |access-date=20 May 2025 |website=anales.cl |archive-date=21 January 2025 |archive-url=https://web.archive.org/web/20250121212858/https://anales.cl/subercaseaux-vicuna-ramon/ |url-status=live }}</ref>  He was the only South American participant in the Games.<ref>{{Cite journal |last=Torres |first=Cesar R. |date=Spring 2009 |title=A Golden Second Place: Manuel Plaza in South America |url=https://www.jstor.org/stable/26405252 |journal=[[Journal of Sport History]] |volume=36 |issue=1 |page=45 |JSTOR=26405252}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! width="180" |Sport
+! width="55" |Men
+! width="55" |Women
+! width="55" |Total
+|-
+| align="left" |[[Athletics at the 1896 Summer Olympics|Athletics]]
+|1
+|0
+|1
+|-
+| align="left" |[[Cycling at the 1896 Summer Olympics|Cycling]]
+|1
+|0
+|1
+|-
+!Total
+!1
+!0
+!1
+|}
+
+== Athletics==
+{{main|Athletics at the 1896 Summer Olympics}}
+{{AthleticsAt1896SummerOlympics}}
+
+'''Track & road events'''
+
+Subercaseaux competed in three of the athletics events, winning no medals.<ref name=":0" /> He was to compete in the [[Athletics at the 1896 Summer Olympics – Men's 100 metres|men's 100 metres]] event on 6 April at the [[Panathenaic Stadium]]; he did not start. The event was eventually won by [[Thomas Burke (sprinter)|Tom Burke]] of the United States of America.<ref>{{Cite web |title=Olympedia – 100 metres, Men |url=https://www.olympedia.org/results/56000 |access-date=2025-05-21 |website=www.olympedia.org |archive-date=2021-04-23 |archive-url=https://web.archive.org/web/20210423124926/http://www.olympedia.org/results/56000 |url-status=live }}</ref> He was also to participate in the [[Athletics at the 1896 Summer Olympics – Men's 400 metres|men's 400 metres]] event on the same day and in the same stadium, he also didn't start, with the event also being won by Burke.<ref>{{Cite web |title=Olympedia – 400 metres, Men |url=https://www.olympedia.org/results/56006 |access-date=2025-05-21 |website=www.olympedia.org}}</ref> He then was to contest the [[Athletics at the 1896 Summer Olympics – Men's 800 metres|men's 800 metres]] event on the same day and place, and again, did not start. The event was won by [[Teddy Flack]] of Australia.<ref>{{Cite web |title=Olympedia – 800 metres, Men |url=https://www.olympedia.org/results/56011 |access-date=2025-05-21 |website=www.olympedia.org}}</ref> The historians who run [[Olympedia]] dispute the claim that he participated and maintain that, although he was entered in these events, he did not take part in any race.<ref name=":0" /> The [[International Olympic Committee]] website lists him as a non-starter in the 100 metres<ref name="IOC100">{{cite web |title=Athens 1896 Athletics 100m Men Results |url=https://olympics.com/en/olympic-games/athens-1896/results/athletics/100m-men |access-date=20 August 2021 |work=Olympics.com |publisher=IOC}}</ref> and the 800 metres,<ref name="IOC800">{{cite web |title=Athens 1896 Athletics 800m Men Results |url=https://olympics.com/en/olympic-games/athens-1896/results/athletics/800m-men |access-date=20 August 2021 |work=Olympics.com |publisher=IOC}}</ref> and does not list him in the 400 metres.<ref name="IOC400">{{cite web |title=Athens 1896 Athletics 400m Men Results |url=https://olympics.com/en/olympic-games/athens-1896/results/athletics/400m-men |access-date=20 August 2021 |work=Olympics.com |publisher=IOC}}</ref> An appraisal of a photo of the 100 meters sprint, performed by facial recognition experts of the [[Investigations Police of Chile|Chilean forensic police]], concluded that Subercaseaux was one of the participants.<ref name="LUN">{{cite news |last=Cavalla |first=Mario |date=17 May 2014 |title=Esta es la foto que descubrió al primer chileno olímpico |url=http://www.lun.com/Pages/NewsDetail.aspx?dt=2014-05-17&PaginaId=29&bodyid=0 |url-status=dead |archive-url=https://web.archive.org/web/20181005051459/http://www.lun.com/Pages/NewsDetail.aspx?dt=2014-05-17&PaginaId=29&bodyid=0 |archive-date=5 October 2018 |access-date=2021-08-08 |work=Las Últimas Noticias |location=Santiago, Chile |page=29}}</ref>
+[[File:Radrennen OS 1896.jpg|thumb|211x211px|[[Neo Phaliron Velodrome]] at the Games]]
+{| class="wikitable" style="font-size:90%;text-align:center"
+|-
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Heat
+! colspan="2" |Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+|-
+| rowspan="3" align="left" |[[Luis Subercaseaux]]
+| align="left" |[[Athletics at the 1896 Summer Olympics – Men's 100 metres|100 m]]
+| colspan="2" rowspan="3" |{{Abbr|DNS|Did not start}}
+| colspan="2" rowspan="3" |Did not advance
+|-
+| align="left" |[[Athletics at the 1896 Summer Olympics – Men's 400 metres|400 m]]
+|-
+| align="left" |[[Athletics at the 1896 Summer Olympics – Men's 800 metres|800 m]]
+|}
+
+== Cycling==
+{{main|Cycling at the 1896 Summer Olympics}}
+{{CyclingAt1896SummerOlympics}}
+Subercaseaux competed in one of the cycling events, winning no medals.<ref name=":0" /> He was to compete in the [[Cycling at the 1896 Summer Olympics – Men's individual road race|men's road race]] event on 12 April at the [[Neo Phaliron Velodrome]]; however, he did not start. The event was eventually won by [[Aristidis Konstantinidis]] of Greece.<ref>{{Cite web |title=Olympedia – Road Race, Individual, Men |url=https://www.olympedia.org/results/153005 |access-date=2025-05-21 |website=www.olympedia.org |archive-date=2025-02-22 |archive-url=https://web.archive.org/web/20250222042804/http://www.olympedia.org/results/153005 |url-status=live }}</ref><ref>{{Cite web |last=Brown |first=Matthew |date=4 November 2019 |title=Cycling in South America, 1880–1920 |url=http://www.scielo.org.co/pdf/achsc/v48n1/0120-2456-achsc-48-01-287.pdf |access-date=5 June 2025}}</ref> 
+
+=== Road ===
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|align=left|[[Luis Subercaseaux]]
+|align=left rowspan=6|[[Cycling at the 1896 Summer Olympics – Men's individual road race|Men's road race]]
+|colspan=2|{{Abbr|DNS|Did not start}}
+|}
+
+==References==
+{{Reflist}}{{Nations at the 1896 Summer Olympics}}
+{{Country at games navbox|Chile|Olympics}}
+
+[[Category:Nations at the 1896 Summer Olympics]]
+[[Category:Chile at the Summer Olympics by year|1896]]
+[[Category:1896 in Chile|Olympics]]
+[[Category:1896 in Chilean sport|Olympics]]

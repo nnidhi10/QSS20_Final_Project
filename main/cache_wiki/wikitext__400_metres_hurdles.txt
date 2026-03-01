@@ -1,0 +1,1502 @@
+{{Short description|Track and field hurdling event}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox athletics event
+| event = 400 metres hurdles
+| image = Naisten 400 m aidat.jpg
+| image_upright = 1.1
+| caption = Women's 400m hurdles
+| WRmen = {{flagicon|NOR}} [[Karsten Warholm]] 45.94 (2021)
+| ORmen = {{flagicon|NOR}} [[Karsten Warholm]] 45.94 (2021)
+| CRmen = {{flagicon|BRA}} [[Alison dos Santos]] 46.29 (2022)
+| WRwomen = {{flagicon|USA}} [[Sydney McLaughlin-Levrone]] 50.37
+ (2024)
+| ORwomen = {{flagicon|USA}} [[Sydney McLaughlin-Levrone]] 50.37 (2024)
+| CRwomen = {{flagicon|USA}} [[Sydney McLaughlin-Levrone]] 50.68 (2022)
+}}
+The '''400 metres hurdles''' is a [[hurdling]] event in [[track and field]]. The event has been on the [[Summer Olympics|Olympic]] [[Sport of athletics|athletics]] programme since [[1900 Summer Olympics|1900]] for men and since [[1984 Summer Olympics|1984]] for women.
+
+On a standard outdoor track, 400&nbsp;metres is the length of the inside lane, once around the stadium.  Runners stay in their lanes the entire way after starting out of the blocks and must clear ten [[Hurdling|hurdles]] that are evenly spaced around the track.  The hurdles are positioned and weighted so that they fall forward if bumped into with sufficient force, to prevent injury to the runners.  Although there is no longer any penalty for knocking hurdles over, runners prefer to clear them cleanly, as touching them during the race slows runners down.
+
+The current men's and women's [[List of world records in athletics|world record]] holders are [[Karsten Warholm]] with 45.94 seconds and [[Sydney McLaughlin-Levrone]] with 50.37&nbsp;seconds. Compared to the [[400 metres]] run, the hurdles race takes the men about three seconds longer and the women four seconds longer. Men clear hurdles that are {{convert|91.4|cm|in|0}} high, while women negotiate {{convert|76.2|cm|in|0}} barriers.
+
+The 400&nbsp;m hurdles was held for both sexes at the inaugural [[IAAF World Championships in Athletics]]. The first championship for women came at the [[1980 World Championships in Athletics]] – being held as a one-off due to the lack of a race at the [[1980 Summer Olympics]].
+
+==History==
+{{Unreferenced-section|date=October 2023}}
+{{see also|Men's 400 metres hurdles world record progression|Women's 400 metres hurdles world record progression}}
+
+The first awards in a men's 400&nbsp;m hurdles race were given in 1860 when a race was held in [[Oxford]], England, over a course of 440&nbsp;yards (402.336 m).  While running the course, participants had to clear twelve wooden hurdles, over 100&nbsp;centimetres tall, that had been spaced in even intervals.
+
+To reduce the risk of injury, somewhat more lightweight constructions were introduced in 1895 that runners could push over. However, until 1935 runners were disqualified if they pushed over more than three hurdles in a race and records were only officially accepted if the runner in question had cleared all hurdles clean and left them all standing.
+
+The 400&nbsp;m hurdles became an Olympic event at the [[1900 Summer Olympics]] in [[Paris]], France. At the same time, the race was standardized; thus, virtually identical races could be held and the finish times compared to one other. As a result, the official distance was fixed to 400&nbsp;metres, or one lap of the stadium, and the number of hurdles was reduced to ten. The official height of the hurdles was set to {{convert|91.4|cm|in|0}}. The hurdles are now placed on the course with a run-up to the first hurdle of 45&nbsp;metres, distance between the hurdles of 35&nbsp;metres each, and home stretch from the last hurdle to finish line of 40&nbsp;metres.
+
+The first documented 400&nbsp;m hurdles race for women took place in 1971. In 1974, the International Amateur Athletics Federation (IAAF), now known as [[World Athletics]], introduced the event officially as a discipline, with hurdles at the lower height of {{convert|76.2|cm|in|0}}. The women's race was not run at the [[Summer Olympic Games|Olympics]] until the [[1984 Summer Olympics|1984 Summer Games]] in [[Los Angeles]] where it was first staged with the first Men's World Champion having been crowned the year before at the [[1983 World Championships in Athletics|inaugural]] [[World Athletics Championships]]. A special edition of the Women's 400m Hurdles took place in the [[1980 IAAF World Championships in Athletics]] in response to the Women's 400m Hurdles not being included at the boycotted [[1980 Summer Olympics]] in [[Moscow]], and [[Liberty Bell Classic]].
+
+Many athletic commentators and officials have often brought up the idea of lifting the height of the women's 400&nbsp;m hurdles to incorporate a greater requirement of hurdling skill. This is a view held by German athletic coach [[Norbert Stein]], "All this means that the women's hurdles for specialists, who are the target group to be dealt with in this discussion, is considerably depreciated in skill demands when compared to the men's hurdles. It should not be possible in the women's hurdles that the winner is an athlete whose performance in the flat sprint is demonstrably excellent but whose technique of hurdling is only moderate and whose anthropometric characteristics are not optimal. This was the case at the [[1999 World Championships in Athletics|World Championships in Seville]] and the same problem can often be seen at international and national meetings."{{Citation needed|date=April 2009}}
+
+==Hurdling technique==
+{{More citations needed section|date=October 2020}}
+In terms of technique and endurance, the 400-metre hurdles is arguably the most demanding event in the sprints and hurdles group.<ref name="Lindeman 1995">{{Cite journal|last1=Lindeman |first1=Ralph |editor1-last=McGill |editor1-first=Kevin |year=1995 |title=400 Meter Hurdle Theory |journal=Track Coach |publisher=Track & Field News |number=131 |pages=4169{{Ndash}}4171, 4196 |location=El Camino Real |language=en |issn=0041-0314 |oclc=477310277 |url=https://archive.org/details/sim_track-coach_spring-1995_131/page/4169 |access-date=3 August 2021 |url-access=registration |quote=Formerly ''Track Technique''. Spring 1995 edition. Reprinted from the October 1994 edition of the ''Hurdle Times'' newsletter published by the [[USA Track & Field|USATF]] Men's Development Committee.}}</ref>{{Rp|4169}}<ref name="Schiffer 2012">{{Cite journal|last1=Schiffer |first1=Jürgen |others=[[World Athletics|International Amateur Athletic Federation]] |year=2012 |title=The 400m Hurdles |journal=New Studies in Athletics |publisher=Meyer & Meyer Sport |volume=27 |issue=1{{Ndash}}2 |pages=9{{Ndash}}25 |location=Aachen |language=en |issn=0961-933X |oclc=751170802 |url=https://www.worldathletics.org/download/downloadnsa?filename=56881597-0299-4468-8b52-afa3636eea9b.pdf&urlslug=the-400m-hurdles |access-date=3 August 2021 |url-status=live |archive-url=https://web.archive.org/web/20210803094708/https://www.worldathletics.org/download/downloadnsa?filename=56881597-0299-4468-8b52-afa3636eea9b.pdf&urlslug=the-400m-hurdles |archive-date=3 August 2021}}</ref>{{Rp|9}} Athletes must be able to run a fast 400-metre flat time, maintain a good hurdling technique, and have a unique awareness of stride pattern between hurdles.{{R|"Schiffer 2012"|p=9}} The ideal time difference between an athlete's 400 time and their 400 hurdles time should be between 1.5 and 3 seconds. This variation depends on the specific qualities of the athlete: At the professional level, the women's hurdles are smaller (76.2 cm) than the men's (91.4 cm) which usually makes the average time difference smaller for female athletes. In 2024, the two fastest 400 hurdlers in the world (Sydney McLaughlin-Levrone and Femke Bol) are also two of the fastest women in the open 400, based on their relay split compared to other athletes. To be able to maintain a good hurdling technique throughout the race it is important to work on step patterns. The number of steps an athlete takes during a 400 hurdles is called rhythm. Most 400 hurdlers know how many steps they are going to take in between each hurdle, starting from the block. The distance between the block and the first hurdle is 45 meters, which allows the fastest women to take 21 to 23 steps, while the fastest men can get down to 19 or 20. After the first one, the hurdles are 35 meters apart, and the tenth one is placed at 40 meters from the finish line. The internal steps from hurdle two to hurdle ten vary depending on the athlete's abilities, speed, technique, and personal preferences. The most skilled athletes can change their rhythm depending on how fast they need, or want, to run. For example, Karsten Warholm ran 13 steps up to hurdle seven, then decided to switch to 15 steps for the last three hurdles at the Paris Olympics, because he is more comfortable going over hurdles with his dominant leg. An even number of steps in between the hurdles implies alternating which leg goes over it first (lead leg), while an uneven number of steps allows for going over the hurdles with the same leg.  Furthermore, athletes must possess [[Anaerobic exercise|anaerobic endurance]] over the final 150 to 100 metres of the race as, at this point, [[Lactic acid#Exercise and lactate|lactate]] (the [[Conjugate acid|conjugate base]] of lactic acid) will accumulate in the body from [[anaerobic glycolysis]].<ref name="Iskra 1991">{{Cite journal|last1=Iskra |first1=Janus |others=[[World Athletics|International Amateur Athletic Federation]] |year=1991 |title=Endurance in the 400 metres Hurdles |journal=New Studies in Athletics |publisher=Meyer & Meyer Sport |volume=6 |issue=2 |pages=43{{Ndash}}50 |location=Aachen |language=en |issn=0961-933X |oclc=751170802 |url=https://www.worldathletics.org/download/downloadnsa?filename=cbd830c1-bddd-48a6-bd8c-84c60bd785f3.pdf&urlslug=endurance-in-the-400m-hurdles |access-date=4 August 2021 |url-status=live |archive-url=https://web.archive.org/web/20210804055933/https://www.worldathletics.org/download/downloadnsa?filename=cbd830c1-bddd-48a6-bd8c-84c60bd785f3.pdf&urlslug=endurance-in-the-400m-hurdles |archive-date=4 August 2021}}</ref>{{Rp|43}}
+
+===Block start===
+When preparing to hurdle, the blocks should be set so that the athlete arrives at the first hurdle leading on the desired leg without inserting a stutter step. A stutter step is when the runner has to chop his or her stride down to arrive on the "correct" leg for take off. Throughout the race, any adjustments to stride length stride speed should be made several strides out from the hurdle because a stutter or being too far from the hurdle at takeoff will result in loss of momentum and speed.
+
+===Hurdling===
+[[File:Géo André Coolombes 1922.jpg|thumb|[[Géo André]] jumps over a barrier during the 400&nbsp;metres hurdles in 1922.]] 
+
+At the beginning of the take-off, the knee must be driven toward the hurdle and the foot then extended. The leg position when extended must be stretched out, in a position of a split. The knee should be slightly bent when crossing the hurdle. Unless an athlete's body has great flexibility, the knee must be slightly bent to allow a forward body lean. Unlike the [[110m hurdles]], a significant forward body lean is not that necessary due to the hurdles being lower. However, the trail leg must be kept bent and short to provide a quick lever action allowing a fast hurdle clearance. The knee should pull through under the armpit and should not be flat across the top of the hurdle.
+
+It is also important that the hurdler does not reach out on the last stride before the hurdle as this will result in a longer bound being made to clear the hurdle. This will also result in a loss of momentum if the foot lands well in front of the center of gravity.
+
+===Stride length===
+Using a left lead leg on the bends allows the hurdler to run closer to the inside of the lane and cover a shorter distance. Additionally, if the left leg is used for the lead, then the athlete's upper body can be leaned to the left, making it easier to bring the trail leg through. Additionally, an athlete hurdling with a right leg lead around the bends must take care that they do not inadvertently trail their foot or toe around the hurdle rather than passing over the top, which would lead to a disqualification from the race. Depending on the height and strength of the athlete, men work toward a stride pattern of 13 to 15 steps between each hurdle, and women work toward a stride pattern of 15 to 17. This does not include the landing step from the previous hurdle. [[Edwin Moses]] was the first man to keep 13 strides throughout an entire race. Weaker athletes will typically hold a longer step pattern throughout the race so that they do not bound or reach with each step, which also results in a loss of speed. These patterns are ideal because it allows the hurdler to take off from their predominant leg throughout the race without switching legs. However, fatigue from the race will knock athletes off their stride pattern and force them to switch legs. At an early age, many coaches train their athletes to hurdle with both legs. This is a useful skill to learn, since, as a runner tires, their stride length may decrease, resulting in the need either to add a stutter stride, or to take a hurdle on the other leg. Even though some athletes prefer using their dominant leg as lead, every professional knows how to go over hurdles with both legs. Some athletes have started choosing an even rhythm (Sydney McLaughlin-Levrone does 14 steps for most of her race).
+
+== Continental records ==
+*Updated 17 September 2025.<ref>{{cite web |url=https://www.worldathletics.org/records/by-discipline/hurdles/400-metres-hurdles/outdoor/men |title=Men's outdoor 400 Metres Hurdles{{!}} Records |website=worldathletics.org |publisher=[[World Athletics]] |access-date=20 July 2022}}</ref><ref>{{cite web |url=https://www.worldathletics.org/records/by-discipline/hurdles/400-metres-hurdles/outdoor/women |title=Women's outdoor 400 Metres Hurdles {{!}} Records |website=worldathletcs.org |publisher=[[World Athletics]] |access-date=20 July 2022}}</ref>
+{| class="wikitable"
+|-
+!rowspan=2| Area
+! colspan="3" | Men
+! colspan="3" |Women
+|-
+! Time (s)
+! Athlete
+! Nation
+! Time (s)
+! Athlete
+! Nation
+|-
+| [[Confederation of African Athletics|Africa]] {{small|(''[[List of African records in athletics|records]]'')}} || '''47.10'''  || [[Samuel Matete]] || {{ZAM}} || '''52.90''' || [[Nezha Bidouane]] || {{MAR}}
+|-
+|[[Asian Athletics Association|Asia]] {{small|(''[[List of Asian records in athletics|records]]'')}} ||'''46.98''' ||[[Abderrahman Samba]] ||{{QAT}} ||'''53.09''' || [[Kemi Adekoya]]|| {{BHR}}
+|-
+| [[European Athletic Association|Europe]] {{small|(''[[List of European records in athletics|records]]'')}} || '''45.94''' {{WR}}|| [[Karsten Warholm]] || {{NOR}} || '''50.95''' ||	[[Femke Bol]]	 || {{NED}}
+|-
+|[[North America, Central America and Caribbean Athletic Association|North, Central America<br/> and Caribbean]] {{small|(''[[List of North, Central American and Caribbean records in athletics|records]]'')}} || '''46.17''' || [[Rai Benjamin]]  || {{USA}} || '''50.37''' {{WR}}|| [[Sydney McLaughlin-Levrone]]  || {{USA}}
+|-
+| [[Oceania Athletics Association|Oceania]] {{small|(''[[List of Oceanian records in athletics|records]]'')}} || '''48.28'''|| [[Rohan Robinson]] || {{AUS}} || '''53.17'''  || [[Debbie Flintoff-King]] || {{AUS}}
+|-
+| [[CONSUDATLE|South America]] {{small|(''[[List of South American records in athletics|records]]'')}} || '''46.29''' || [[Alison dos Santos]]|| {{BRA}} || '''52.66''' || [[Gianna Woodruff]] || {{PAN}}
+|}
+
+==All-time top 25==
+{| style="wikitable"
+|Tables show data for two definitions of "Top 25" - the top 25 '''400m hurdles times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''400m hurdles times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''400m hurdles times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 400m hurdles times''
+|}
+
+===Men===
+* Correct as of September 2025.<ref>{{cite web|last=Larsson|first=Peter|date=10 August 2019|title=All-time men's best 400m hurdles|url=http://www.alltime-athletics.com/m_400hok.htm|url-status=live|archive-url=https://web.archive.org/web/20200915011228/http://www.alltime-athletics.com/m_400hok.htm|archive-date=15 September 2020|access-date=12 August 2019|website=Track and Field all-time Performances}}</ref><ref>{{cite web|url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/outdoor/men/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=false&firstDay=1899-12-31&lastDay=2021-11-20 |title=All time Top Lists: Senior Outdoor, 400 Metres Hurdles, Men |publisher=[[World Athletics]] |accessdate=21 November 2021}} (select the "All" option when filtering by athlete)</ref>
+
+{| class="wikitable sortable"
+|+ {{Screen reader-only|All-time top 25 of the men's 400 metres hurdles}}
+|-
+!scope="col"| {{abbr|Ath.#|Athlete rank}}
+!scope="col"| {{abbr|Perf.#|Performance rank}}
+!scope="col"| Time (s)
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| Date
+!scope="col"| Place
+!scope="col" class="unsortable"| {{refh}}
+|- bgcolor="#f6F5CE"
+| align=center|1 || align=center|1 || align=center|45.94 || {{Sortname|Karsten|Warholm}} || {{NOR}} || 3 August 2021 || [[Tokyo]] ||<ref name=":0">{{cite web|title=Men's 400m Hurdles Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73A_ATHM400MHURD----------FNL-000100--.pdf|website=olympics.com|date=3 August 2021|access-date=18 August 2021|archive-date=3 August 2021|archive-url=https://web.archive.org/web/20210803042807/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73A_ATHM400MHURD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|- bgcolor="#f6F5CE"
+| align=center|2 || align=center|2 || align=center|46.17 || {{Sortname|Rai|Benjamin}} || {{USA}} || 3 August 2021 || [[Tokyo]] ||<ref name=":0" />
+|-
+| align="center" |
+| align="center" |3
+| align="center" |46.28
+|{{Sort|Warholm, Karsten|''Warholm #2''}}
+|
+|16 August 2025
+|[[Chorzów]]
+|<ref name="chorzow25">{{Cite web |date=16 August 2025 |title=Results 400m Hurdles Men |url=https://ath-wdl-archive.azureedge.net/2025/silesia/ATHM400MHURDDIAMOND---FNL-000100--_C73B1_1.0.PDF |access-date=16 August 2025 |website=swisstiming.com}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |3 || align="center" |4 || align="center" |46.29 || {{Sortname|Alison|dos Santos}} || {{BRA}} || 19 July 2022 || [[Eugene, Oregon|Eugene]]|| <ref name="ref05">{{cite web|title=Men's 400m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-400H-M-f----.RS6.pdf|work=World Athletics|date=19 July 2022|access-date=22 July 2022}}</ref>
+|-
+| rowspan="21" |
+| align="center" |5
+| align="center" |46.39
+|{{Sort|Benjamin, Rai|''Benjamin #2''}}
+| rowspan="21" |
+|16 September 2023
+|[[Eugene, Oregon|Eugene]]
+|<ref name="DLpre23">{{cite web|title=400m Hurdles Result|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/EUGENE2023/PDF_ATHM400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=vydgFn/HZTmn9Ps8BTiYeVbysjk=/|work=sportresult.com|date=16 September 2023|access-date=19 September 2023}}{{dead link|date=August 2024}}</ref>
+|-
+| rowspan="2" align="center" |6
+| rowspan="2" align="center" |46.46
+|{{Sort|Benjamin, Rai|''Benjamin #3''}}
+|30 June 2024
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":4">{{Cite web|title=McLaughlin-Levrone breaks world 400m hurdles record at US Trials|url=https://worldathletics.org/competitions/olympic-games/paris24/news/article/sydney-mclaughlin-levrone-world-400m-hurdles-record-us-olympic-trials|author=Jessi Gabriel|date=30 June 2024|access-date=1 July 2024|website=World Athletics}}</ref>
+|-
+|{{Sort|Benjamin, Rai|''Benjamin #4''}}
+|9 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref>{{Cite web |title=Paulino and Benjamin dazzle over one lap to win Olympic golds in Paris {{!}} News {{!}} Paris 24 {{!}} Olympic Games |url=https://worldathletics.org/competitions/olympic-games/paris24/news/article/paris-2024-olympics-evening-day-9-paulino-benjamin-thiam-diaz-chebet |access-date=2024-08-09 |website=worldathletics.org}}</ref>
+|-
+| align="center" |8
+| align="center" |46.51
+|{{Sort|Warholm, Karsten|''Warholm #3''}}
+|21 July 2023
+|[[Stade Louis II|Monaco]]
+|<ref>{{cite web|title=400m Hurdles Results|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/MONACO2023/PDF_ATHM400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=sG+gPFrLbbmsBnVL9tWqU3hoCHg=|publisher=sportresult.com|date=21 July 2023|access-date=21 July 2023}}{{dead link|date=August 2024}}</ref>
+|-
+| rowspan="2" align="center" |9
+| rowspan="2" align="center" |46.52
+|{{Sort|Warholm, Karsten|''Warholm #4''}}
+|15 June 2023
+|[[Oslo]]
+|<ref name=":2">{{Cite web|title=Warholm and Ingebrigtsen outstanding in Oslo|url=https://worldathletics.org/news/report/bislett-games-oslo-warholm-ingebrigtsen-haylom-bol|publisher=World Athletics|author=Cathal Dennehy|date=15 June 2023|access-date=16 June 2023}}</ref>
+|-
+|{{Sort|Benjamin, Rai|''Benjamin #5''}}
+|19 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Men's 400m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-400H-M-f----.RS6.pdf|website=World Athletics|date=19 September 2025|access-date=19 September 2025}}</ref>
+|-
+| align="center" |11
+| align="center" |46.53
+|{{Sort|Warholm, Karsten|''Warholm #5''}}
+|16 September 2023
+|[[Eugene, Oregon|Eugene]]
+|<ref name="DLpre23" />
+|-
+| align="center" |12
+| align="center" |46.54
+|{{Sort|Benjamin, Rai|''Benjamin #6''}}
+|15 June 2025
+|[[Stockholm]]
+|<ref name="ref01">{{cite web|title=400m Hurdles Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2025/PDF_ATHM400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=r/SKiHt8PKpdxk0iIGWfByjG0WALwQ5LHInRzegC1so=|website=swisstiming.com|date=15 June 2025|access-date=24 June 2025}}</ref>
+|-
+| align="center" |13
+| align="center" |46.62
+|{{Sort|Benjamin, Rai|''Benjamin #7''}}
+|9 July 2023
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web|title=400m Hurdles Results|url=https://www.watchathletics.com/page/4396/men-s-400m-hurdles-results-usatf-outdoor-championships-2023|website=watchathletics.com|date=9 July 2023|access-date=10 July 2023}}</ref>
+|-
+| align="center" |14
+| align="center" |46.63
+|{{Sort|dos Santos, Alison|''dos Santos #2''}}
+|30 May 2024
+|[[Bislett Stadium|Oslo]]
+|<ref name="ref02">{{cite web|title=400m Hurdles Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/OSLO_2024/PDF_ATHM400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=a0Nl+0S8Gn3oinCxuPPaGg8a9Ds=|website=swisstiming.com|date=30 May 2024|access-date=30 May 2024}}</ref>
+|-
+| align="center" |15
+| align="center" |46.64
+|{{Sort|Benjamin, Rai|''Benjamin #8''}}
+|18 May 2024
+|[[Los Angeles]]
+|<ref>{{Cite web |title=Benjamin and McLaughlin-Levrone impress in Los Angeles {{!}} REPORT {{!}} World Athletics |url=https://worldathletics.org/news/report/los-angeles-grand-prix-2024-benjamin-mclaughlin-levrone |access-date=2024-05-19 |website=worldathletics.org}}</ref>
+|-
+| align="center" |16
+| align="center" |46.65
+|{{Sort|dos Santos, Alison|''dos Santos #3''}}
+|5 July 2025
+|[[Hayward Field|Eugene]]
+|<ref name=pre25>{{cite web|title=400m Hurdles Results|url=https://ath-wdl-archive.azureedge.net/2025/eugene/ATHM400MHURDDIAMOND---FNL-000100--_C73B1_1.0.PDF|website=azureedge.net|access-date=10 July 2025}}</ref>
+|-
+| align="center" |17
+| align="center" |46.67
+|{{Sort|Benjamin, Rai|''Benjamin #9''}}
+|12 July 2024
+|[[Stade Louis II|Monaco]]
+|<ref name="ref03">{{cite web|title=400m Hurdles Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/MONACO_2024/PDF_ATHM400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=ie9GIVWuUvSjKEXowpj3aaV5pgo=|website=swisstiming.com|date=12 July 2024|access-date=17 July 2024}}</ref>
+|-
+| align="center" |18
+| align="center" |46.68
+|{{Sort|dos Santos, Alison|''dos Santos #4''}}
+|15 June 2025
+|[[Stockholm]]
+|<ref name="ref01"/>
+|- 
+| rowspan="3" align="center" |19 || rowspan="3" align="center" |46.70 || {{Sort|Warholm, Karsten|''Warholm #6''}}|| 1 July 2021 || [[Oslo]] ||
+|-
+|{{Sort|Warholm, Karsten|''Warholm #7''}}|| 30 May 2024 || [[Bislett Stadium|Oslo]] || <ref name="ref02"/>
+|-
+|{{Sort|Warholm, Karsten|''Warholm #8''}}|| 28 August 2025|| [[Zurich]] ||<ref>{{Cite web |last=Whittington |first=Jess |date=28 August 2025 |title=Big wins for Lyles and Weber, records for Warholm and Tinch as Diamond League Final concludes in Zurich |url=https://worldathletics.org/news/report/diamond-league-final-2025-weltklasse-zurich-day-two-lyles-weber-warholm-tinch |access-date=28 August 2025 |website=World Athletics}}</ref>
+|-
+| align="center" |22
+| align="center" |46.71
+|{{Sort|Benjamin, Rai|''Benjamin #10''}}
+|5 July 2025
+|[[Hayward Field|Eugene]]
+|<ref name=pre25/>
+|-
+| align="center" |23
+| align="center" |46.72
+|{{Sort|dos Santos, Alison|''dos Santos #5''}}
+|3 August 2021
+|[[Tokyo]]
+|<ref name=":0" />
+|-
+| align="center" |24
+| align="center" |46.73
+|{{Sort|Warholm, Karsten|''Warholm #9''}}
+|12 July 2024
+|[[Stade Louis II|Monaco]]
+|<ref name="ref03"/>
+|-
+| align="center" |25
+| align="center" |46.76
+|{{Sort|Warholm, Karsten|''Warholm #10''}}
+|6 July 2023
+|[[Jessheim]]
+|<ref>{{Cite web |last=Fystro-Gjerde |first=Yngve |date=2023-07-06 |title=Karsten Warholm med sitt fjerde raskaste løp nokosinne: – Det er tullete |url=https://www.nrk.no/sport/karsten-warholm-med-sitt-fjerde-raskaste-lop-nokosinne_-_-det-er-tullete-1.16474668 |access-date=2023-07-06 |website=NRK |language=nn-NO}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |4 || rowspan="22" align="center" | || align="center" |46.78 || {{Sortname|Kevin|Young|Kevin Young (hurdler)}} || {{USA}} || 6 August 1992 ||[[Barcelona]]
+|
+|- bgcolor="#CCFFCC"
+| align="center" |5  || align="center" |46.98 || {{Sortname|Abderrahman|Samba}} || {{QAT}} || 30 June 2018 || [[Paris]] ||<ref name="auto">{{cite web|title=400m Hurdles Results|url=http://static.sportresult.com/sports/at/data/2018/paris/re0270040.pdf|archive-url=https://web.archive.org/web/20180701140241/http://static.sportresult.com/sports/at/data/2018/paris/re0270040.pdf|url-status=dead|archive-date=1 July 2018|work=sportresult.com|date=30 June 2018|access-date=1 July 2018}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |6 || align="center" |47.02 || {{Sortname|Edwin|Moses}} || {{USA}} || 31 August 1983 || [[Koblenz]] ||
+|- bgcolor="#CCFFCC"
+| align="center" |7 || align="center" |47.03 || {{Sortname|Bryan|Bronson}} || {{USA}} || 21 June 1998 || [[New Orleans]] ||
+|- bgcolor="#CCFFCC"
+|align=center|8
+|align=center|47.08
+|{{Sortname|Kyron|Mcmaster}}
+|{{IVB}}
+|3 August 2021
+|[[Tokyo]]
+|<ref name=":0" />
+|- bgcolor="#CCFFCC"
+| align=center|9 || align="center" |47.10 || {{Sortname|Samuel|Matete}} || {{ZAM}} || 7 August 1991 || [[Zurich]] ||
+|- bgcolor="#CCFFCC"
+| align="center" |10 || align="center" |47.11 || {{Sortname|Ezekiel|Nathaniel}} || {{NGR}} || 19 September 2025 || [[Japan National Stadium|Tokyo]] || <ref>{{cite web|title=Men's 400m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-400H-M-f----.RS6.pdf|website=World Athletics|date=19 September 2025|access-date=19 September 2025}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |11 || align="center" |47.19 || {{Sortname|Andre|Phillips}} || {{USA}} ||25 September 1988 || [[Seoul]]||
+|- bgcolor=#CCFFCC
+| rowspan="2" align="center" |12 || rowspan="2" align="center" |47.23 || {{Sortname|Amadou|Dia Ba}} || {{SEN}} || 25 September 1988 || [[Seoul]] || 
+|-bgcolor=#CCFFCC
+|{{Sortname|Caleb|Dean}}
+|{{USA}}
+|7 June 2024
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{Cite web |title=Men 400 M Hurdles |url=https://flashresults.ncaa.com/Outdoor/2024/010-2_compiled.htm |access-date=2024-06-08 |website=flashresults.ncaa.com}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |14 || align="center" |47.24 || {{Sortname|Kerron|Clement}} || {{USA}} || 26 June 2005 || [[Carson, California|Carson]]||
+|- bgcolor="#CCFFCC"
+| rowspan="2" align="center" |15 || rowspan="2" align="center" |47.25 || {{Sortname|Félix|Sánchez|Félix Sánchez (hurdler)}} || {{DOM}} || 29 August 2003 || [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] ||
+|- bgcolor="#CCFFCC"
+|| {{Sortname|Angelo|Taylor}} || {{USA}} || 18 August 2008 || [[Beijing]] || 
+|- bgcolor=#CCFFCC
+| align=center|17 || align="center" |47.30 || {{Sortname|Bershawn|Jackson}} || {{USA}} || 9 August 2005 || [[Helsinki]] || 
+|- bgcolor=#CCFFCC
+| align=center|18 || align="center" |47.34 || {{Sortname|Roshawn|Clarke}} || {{JAM}} || 21 August 2023 || [[Budapest]] || <ref name="ref04">{{Cite web|title=400m Hurdles Semifinal Results Summary|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7138987/AT-400H-M-sf----.RS4.pdf|work=World Athletics|date=21 August 2023|access-date=21 August 2023}}</ref>
+|- bgcolor=#CCFFCC
+| align=center|19 || align="center" |47.37 || {{Sortname|Stéphane|Diagana}} || {{FRA}} || 5 July 1995 || [[Lausanne]] || 
+|- bgcolor=#CCFFCC
+|rowspan=2 align=center|20 || rowspan="2" align="center" |47.38 || {{Sortname|Danny|Harris}} || {{USA}} || 10 July 1991 || [[Lausanne]] || 
+|- bgcolor="#CCFFCC"
+|{{Sortname|Trevor|Bassitt}} || {{USA}} || 21 August 2023 || [[Budapest]] || <ref name="ref04"/>
+|-bgcolor="#CCFFCC"
+|align="center" |22
+|align="center" |47.41
+|{{Sortname|Wilfried|Happio}}
+|{{FRA}}
+|19 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref name="ref05"/>
+|- bgcolor="#CCFFCC"
+| rowspan=2 align="center" |23 || rowspan=2 align="center" |47.42 || {{Sortname|Malik|James-King}} || {{JAM}} || 28 June 2024 || [[Kingston, Jamaica|Kingston]] || <ref>{{cite web|title=Thompson and Jackson win 100m titles at Jamaican Championships|url=https://worldathletics.org/news/report/national-championships-2024-thompson-jackson|website=World Athletics|author=Noel Francis|date=29 June 2024|access-date=30 June 2024}}</ref>
+|- bgcolor="#CCFFCC"
+|{{Sortname|Clement|Ducos}} || {{FRA}} || 25 August 2024 || [[Silesian Stadium|Chorzów]] || <ref>{{cite web|title=400m Hurdles Results|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SILESIA_2024/PDF_ATHM400MHURDADDITIONALFNL-000100--_C73B1.PDF?h=04qF5LrI0Jo3gkFJeqCh83yzta0=|website=swisstiming.com|date=25 August 2024|access-date=28 August 2024}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |25 || align="center" |47.43 || {{Sortname|James|Carter|James Carter (athlete)}} || {{USA}} || 9 August 2005 || [[Helsinki]] ||
+|}
+
+===Women===
+*Correct as of September 2025.<ref>{{cite web |title=Senior 400 Metres Hurdles Women – Best by Athlete |url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2025-06-15&maxResultsByCountry=all&eventId=10229523&ageCategory=senior |publisher=[[World Athletics]] |access-date=16 June 2025}}</ref><ref>{{cite web |title=Senior 400 Metres Hurdles Women – All |url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=false&firstDay=1900-01-01&lastDay=2025-06-15&maxResultsByCountry=all&eventId=10229523&ageCategory=senior |publisher=[[World Athletics]] |access-date=16 June 2025}}</ref>
+
+{| class="wikitable sortable"
+|+ {{Screen reader-only|All-time top 25 of the women's 400 metres hurdles}}
+|-
+!scope="col"| {{abbr|Ath.#|Athlete rank}}
+!scope="col"| {{abbr|Perf.#|Performance rank}}
+!scope="col"| Time (s)
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| Date
+!scope="col"| Place
+!scope="col" class="unsortable"| {{refh}}
+|- bgcolor="#f6F5CE"
+|style="text-align:center"| 1 ||style="text-align:center"| 1 ||style="text-align:center"| 50.37 || {{Sortname|Sydney|McLaughlin-Levrone}} || {{USA}} || 8 August 2024 || [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] || <ref name="FinalOG24">{{cite web |title=Women's 400m Hurdles - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHW400MHURD----------FNL-000100--.pdf |website=Olympics |access-date=9 August 2024 |date=8 August 2024}}{{dead link|date=January 2025}}</ref>
+|- 
+|rowspan="2" style="text-align:center"| ||style="text-align:center"| 2 ||style="text-align:center"| 50.65 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #2''}} ||rowspan="2"| || 30 June 2024 || [[Eugene, Oregon|Eugene]] || <ref name=":4" />
+|-
+|style="text-align:center"| 3 ||style="text-align:center"| 50.68 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #3''}} || 22 July 2022 || [[Eugene, Oregon|Eugene]] || <ref name=":3">{{cite web|title=400m Hurldes Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-400H-W-f----.RS6.pdf|work=World Athletics|date=22 July 2022|access-date=23 July 2022}}</ref>
+|- bgcolor="#f6F5CE"
+|style="text-align:center"| 2 ||style="text-align:center"| 4 ||style="text-align:center"| 50.95 || {{Sortname|Femke|Bol}} || {{NED}} || 14 July 2024 || [[La Chaux-de-Fonds]] || <ref>{{Cite web |date=14 July 2024 |title=Bol breaks European 400m hurdles record in La Chaux-de-Fonds |url=https://worldathletics.org/news/report/bol-european-400m-hurdles-record-la-chaux-de-fonds |access-date=14 July 2024 |website=[[World Athletics]]}}</ref><ref>{{Cite web |date=14 July 2024 |title=400m Hurdles Women Results |url=https://www.resisprint.ch/index.php/en/resultats/live |access-date=14 July 2024}}</ref>
+|-
+|rowspan=5| ||style="text-align:center"| 5 ||style="text-align:center"| 51.30 || {{Sort|Bol, Femke|''Bol #2''}} ||rowspan=5| || 20 July 2024 || [[London Stadium|London]] || <ref>{{cite web|title=400m Hurdles Results|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/LONDON_2024/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=+8MAlnIuWG8iwS5xv4dhgW2MLZk=|work=swisstiming.com|date=20 July 2024|access-date=20 July 2024}}</ref>
+|-
+|style="text-align:center"| 6 ||style="text-align:center"| 51.41 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #4''}} || 25 June 2022 || [[Eugene, Oregon|Eugene]] || <ref>{{cite news |author=Karen Rosen |date=26 June 2022 |title=McLaughlin breaks world 400m hurdles record with 51.41 at US Championships |publisher=World Athletics |url=https://worldathletics.org/news/report/us-championships-mclaughlin-world-record-400-hurdles |access-date=28 June 2022}}</ref>
+|-
+|style="text-align:center"| 7 ||style="text-align:center"| 51.45 || {{Sort|Bol, Femke|''Bol #3''}} || 23 July 2023 || [[London Stadium|London]] || <ref>{{cite web|title=400m Hurldes Results|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/LONDON2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=H8myhbZlb+2qnoFbV2tiZjY7qVU=|work=sportresult.com|date=23 July 2023|access-date=23 July 2023|archive-date=15 March 2024|archive-url=https://web.archive.org/web/20240315185632/https://livecache.sportresult.com/node/binaryData/ATH_PROD/LONDON2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=H8myhbZlb%202qnoFbV2tiZjY7qVU%3D|url-status=dead}}</ref>
+|-
+|style="text-align:center"| 8 ||style="text-align:center"| 51.46 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #5''}} || 4 August 2021 || [[Tokyo]] || <ref name=":1">{{Cite web |title=Athletics - Final Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-fnl-000100-.htm |url-status=live |archive-url=https://web.archive.org/web/20210731032409/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-women-s-400m-hurdles-fnl-000100-.htm |archive-date=2021-07-31 |access-date=2021-08-04 |website=olympics.com |language=en-us}}</ref>
+|-
+|style="text-align:center"| 9 ||style="text-align:center"| 51.54 || {{Sort|Bol, Femke|''Bol #4''}} || 19 September 2025 || [[Tokyo]] || <ref name="WC2025">{{cite web|title=Women's 400m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-400H-W-f----.RS6.pdf|website=World Athletics|date=19 September 2025|access-date=19 September 2025}}</ref>
+|- bgcolor="#f6F5CE"
+|style="text-align:center"| 3 ||style="text-align:center"| 10 ||style="text-align:center"| 51.58 || {{Sortname|Dalilah|Muhammad}} || {{USA}} || 4 August 2021 || [[Tokyo]]||<ref name=":1" />
+|-
+|rowspan="3"| ||style="text-align:center"| 11 ||style="text-align:center"| 51.61 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #6''}} ||rowspan="3"| || 5 June 2022 || [[Nashville, Tennessee|Nashville]] || <ref>{{cite news|title=Sydney McLaughlin runs 51.61 seconds in her first 400m hurdles race this year in Nashville|url=https://www.watchathletics.com/article/11918/sydney-mclaughlin-runs-51-61-seconds-in-her-first-400m-hurdles-race-this-year-in-nashville/|website=watchathletics.com|date=5 June 2022|access-date=28 June 2022}}</ref>
+|-
+|style="text-align:center"| 12 ||style="text-align:center"| 51.68 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #7''}} || 8 August 2022 || [[Székesfehérvár]] || <ref>{{cite news|title=McLaughlin sets European all-comers' record of 51.68 in Szekesfehervar|url=https://worldathletics.org/competitions/world-athletics-continental-tour/news/szekesfehervar-istvan-gyulai-mclaughlin-kovacs-ceh-fraser-pryce|publisher=World Athletics|author=Chris Broadbent|date=8 August 2022|access-date=22 August 2022}}</ref>
+|-
+|style="text-align:center"| 13 ||style="text-align:center"| 51.70 || {{Sort|Bol, Femke|''Bol #5''}} || 24 August 2023 || [[Budapest]] || <ref>{{Cite web|title=400m Hurdles Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7138987/AT-400H-W-f----.RS6.pdf|work=World Athletics|date=24 August 2023|access-date=26 August 2023}}</ref>
+|- bgcolor="#f6F5CE"
+|style="text-align:center"| 4 ||style="text-align:center"| 14 ||style="text-align:center"| 51.87 || {{Sortname|Anna|Cockrell}} || {{USA}} || 8 August 2024 || [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] || <ref name="FinalOG24" />
+|-
+|rowspan="6"|
+|style="text-align:center"| 15 ||style="text-align:center"| 51.90 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #8''}} ||rowspan="6"| || 27 June 2021 || [[Eugene, Oregon|Eugene]] || <ref>{{cite web|author=Ron Dicker|date=28 June 2021|title=Sydney McLaughlin Shatters World Record in 400-Meter Hurdles at U.S. Olympic Trials|url=https://www.huffpost.com/entry/sydney-mclaughlin-world-record-400-meters_n_60d99633e4b0b9db24988b06|access-date=28 June 2021|work=HuffPost}}</ref>
+|-
+|style="text-align:center"|16
+| style="text-align: center;" |51.91
+|{{Sort|Bol, Femke|''Bol #6''}}
+|16 August 2025
+|[[Chorzów]]
+|<ref>{{Cite web |date=16 August 2025 |title=Results 400m Hurdles Women |url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SILESIA_2025/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=5loEzIN74g7xTOwy2oMnDPsZc3y09DPHPdBbN/npMSw= |access-date=16 August 2025 |website=swisstiming.com}}</ref>
+|-
+| style="text-align:center" | 17 || style="text-align:center" | 51.95 || {{Sort|Bol, Femke|''Bol #7''}}|| 11 July 2025 || [[Monaco]]|| <ref>{{Cite web |date=11 July 2025 |title=Lyles back with a bang in Monaco |url=https://worldathletics.org/competitions/diamond-league/news/monaco-herculis-2025-lyles-wanyonyi-bol |access-date=12 July 2025 |website=World Athletics}}</ref>
+|-
+| style="text-align:center" | 18 || style="text-align:center" | 51.98 || {{Sort|Bol, Femke|''Bol #8''}}|| 17 September 2023 || [[Eugene, Oregon|Eugene]]|| <ref>{{cite web|title=400m Hurdles Results|url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/EUGENE2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=B4Ed1QmfP6QV9GERfJT9zPLi5po=|archive-url=https://web.archive.org/web/20230930091433/https://livecache.sportresult.com/node/binaryData/ATH_PROD/EUGENE2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=B4Ed1QmfP6QV9GERfJT9zPLi5po=|url-status=dead|archive-date=30 September 2023|work=sportresult.com|date=17 September 2023|access-date=20 September 2023}}</ref>
+|-
+| style="text-align:center" | 19 || style="text-align:center" | 52.03 || {{Sort|Bol, Femke|''Bol #9''}}|| 4 August 2021 || [[Tokyo]]|| <ref name=":1" />
+|-
+| style="text-align:center" | 20 || style="text-align:center" | 52.07 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #9''}}|| 3 May 2025 || [[Miramar, Florida|Miramar]]|| <ref>{{Cite web |date=3 May 2025 |title=Grand Slam Track Miami - Women's 400 Metres Hurdles Final |url=https://worldathletics.org/competition/calendar-results/results/7220714?eventId=10229523&gender=W |access-date=4 May 2025 |website=[[World Athletics|worldathletics.org]]}}</ref>
+|- bgcolor="#f6F5CE"
+|style="text-align:center"| 5 || style="text-align:center" | 21 || style="text-align:center" | 52.08 || {{Sortname|Jasmine|Jones}} || {{USA}} || 19 September 2025 || [[Tokyo]] || <ref name="WC2025"/>
+|-
+|rowspan="5"|
+| style="text-align:center" | 22 || style="text-align:center" | 52.10 || {{Sort|Bol, Femke|''Bol #10''}} ||rowspan="5"| || 19 July 2025 || [[London]]|| <ref name="London25">{{Cite web |title=Wanda Diamond League London {{!}} 400m Hurdles Women {{!}} Results |url=https://ath-wdl-archive.azureedge.net/2025/london/ATHW400MHURDDIAMOND---FNL-000100--_C73B1_1.0.PDF |access-date=20 July 2025 |date=19 July 2025 |publisher=[[Diamond League]]}}</ref>
+|-
+| rowspan="2" style="text-align:center" | 23 || rowspan="2" style="text-align:center" | 52.11 || {{Sort|Bol, Femke|''Bol #11''}}|| 8 September 2023 || [[Brussels]] || <ref>{{cite web |title=400m Hurdles Result |url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/BRUSSELS2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=mMsF3PPFla3ayqv8wrl7c2HHzP8= |archive-url=https://web.archive.org/web/20231019114407/https://livecache.sportresult.com/node/binaryData/ATH_PROD/BRUSSELS2023/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF?h=mMsF3PPFla3ayqv8wrl7c2HHzP8= |url-status=dead |archive-date=19 October 2023 |work=sportresult.com |date=8 September 2023 |access-date=8 September 2023}}</ref>
+|-
+| {{Sort|Bol, Femke|''Bol #12''}}|| 15 June 2025 || [[Stockholm]]|| <ref>{{cite web |title=Results 400m Hurdles Women |url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/STOCKHOLM_2025/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF |publisher=[[Diamond League]] |date=15 June 2025 |access-date=16 June 2025}}</ref>
+|-
+| rowspan="2" style="text-align:center" | 25 || rowspan="2" style="text-align:center" | 52.13 || {{Sort|McLaughlin-Levrone, Sydney|''McLaughlin-Levrone #10''}}|| 6 August 2024 || [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]] || <ref>{{cite web |title=Women's 400m Hurdles - Semi-Final 2/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHW400MHURD----------SFNL000200--.pdf |website=Olympics |access-date=8 August 2024}}</ref>
+|-
+| {{Sort|Bol, Femke|''Bol #13''}}|| 25 August 2024 || [[Chorzów]]|| <ref>"[https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/SILESIA_2024/PDF_ATHW400MHURDDIAMOND---FNL-000100--_C73B1.PDF Results – 400m Hurdles Women]", ''[[Diamond League]]'', 25 August 2024. Retrieved 25 August 2024.</ref>
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 6 ||style="text-align:center"| 52.34 || rowspan="21" | || {{Sortname|Yuliya|Pechonkina}}|| {{RUS}}|| 8 August 2003 ||[[Tula, Russia|Tula]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 7 ||style="text-align:center"| 52.39 || {{Sortname|Shamier|Little}}|| {{USA}}|| 4 July 2021 || [[Stockholm]]
+|<ref name="Jess Whittington">{{cite news |author=Jess Whittington |date=4 July 2021 |title=Duplantis soars over meeting record in Stockholm |url=https://www.worldathletics.org/competitions/diamond-league/news/duplantis-stockholm-bauhaus-galan |access-date=16 July 2021 |publisher=World Athletics}}</ref>
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 8 ||style="text-align:center"| 52.42 || {{Sortname|Melaine|Walker}}|| {{JAM}}|| 20 August 2009 ||[[Berlin]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 9 ||style="text-align:center"| 52.46 || {{Sortname|Savannah|Sutherland}}|| {{CAN}}|| 14 June 2025 || [[Eugene, Oregon|Eugene]]
+|<ref>{{Cite web |date=15 June 2025 |title=Sutherland and Lemngole impress as records fall at NCAA Championships |url=https://worldathletics.org/news/report/sutherland-lemngole-ncaa-championships-2025 |access-date=15 June 2025 |website=[[World Athletics]]}}</ref>
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 10 ||style="text-align:center"| 52.47 || {{Sortname|Lashinda|Demus}}|| {{USA}}|| 1 September 2011 ||[[Daegu]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 11 ||style="text-align:center"| 52.51 || {{Sortname|Rushell|Clayton}}|| {{JAM}}|| 28 June 2024 || [[Kingston, Jamaica|Kingston]]
+|<ref>{{cite web |author=Noel Francis |date=29 June 2024 |title=Thompson and Jackson win 100m titles at Jamaican Championships |url=https://worldathletics.org/news/report/national-championships-2024-thompson-jackson |access-date=29 June 2024 |website=World Athletics}}</ref>
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 12 ||style="text-align:center"| 52.61 || {{Sortname|Kim|Batten}}|| {{USA}}|| 11 August 1995 ||[[Gothenburg]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 13 ||style="text-align:center"| 52.62 || {{Sortname|Tonja|Buford-Bailey}}|| {{USA}}|| 11 August 1995 ||[[Gothenburg]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 14 ||style="text-align:center"| 52.66 || {{Sortname|Gianna|Woodruff}}|| {{PAN}}|| 17 September 2025 || [[Tokyo]]
+|<ref>{{cite web |date=17 September 2025 |title=Women's 400m Hurdles Semi-Final Results Summary |url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-400H-W-sf----.RS4.pdf |access-date=17 September 2025 |website=World Athletics}}</ref>
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 15 || style="text-align:center" | 52.74 || {{Sortname|Sally|Gunnell}}|| {{GBR2}}|| 19 August 1993 ||[[Stuttgart]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 16 || style="text-align:center" | 52.77 || {{Sortname|Fani|Halkia}}|| {{GRE}}|| 22 August 2004 ||[[Athens]]
+|
+|- bgcolor="#CCFFCC"
+|rowspan="2" style="text-align:center"| 17 || rowspan="2" style="text-align:center" | 52.79 || {{Sortname|Sandra|Farmer-Patrick}}|| {{USA}}|| 19 August 1993 ||[[Stuttgart]]
+|
+|- bgcolor="#CCFFCC"
+| {{Sortname|Kaliese|Spencer}}|| {{JAM}}|| 5 August 2011 ||[[London]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 19 || style="text-align:center" | 52.82 || {{Sortname|Deon|Hemmings}}|| {{JAM}}|| 31 July 1996 ||[[Atlanta]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 20 || style="text-align:center" | 52.83 || {{Sortname|Zuzana|Hejnová}}|| {{CZE}}|| 15 August 2013 ||[[Moscow]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 21 || style="text-align:center" | 52.89 || {{Sortname|Daimí|Pernía}}|| {{CUB}}|| 25 August 1999 ||[[Seville]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 22 || style="text-align:center" | 52.90 || {{Sortname|Nezha|Bidouane}}|| {{MAR}}|| 25 August 1999 ||[[Seville]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 23 || style="text-align:center" | 52.92 || {{Sortname|Natalya|Antyukh}}|| {{RUS}}|| 30 July 2010 ||[[Barcelona]]
+|
+|- bgcolor="#CCFFCC"
+|style="text-align:center"| 24 || style="text-align:center" | 52.94 || {{Sortname|Marina|Stepanova}}|| {{URS}}|| 17 September 1986 ||[[Tashkent]]
+|
+|- bgcolor="#CCFFCC"
+|rowspan="2" style="text-align:center"| 25 || rowspan="2" style="text-align:center" | 52.95 || {{Sortname|Sheena|Johnson}}|| {{USA}}|| 11 July 2004 ||[[Sacramento, California|Sacramento]]
+|
+|- bgcolor="#CCFFCC"
+| {{Sortname|Kori|Carter}}|| {{USA}}|| 25 June 2017 ||[[Sacramento, California|Sacramento]]
+|
+|}
+
+====Annulled marks====
+<small>The following athletes have had their personal best annulled due to doping offences:</small>
+{| class="wikitable"
+|+ {{Screen reader-only|Annulled marks from the all-time top 25 of the women's 400 metres hurdles}}
+|-
+!scope="col"| Time (s)
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| Date
+!scope="col"| Place
+!scope="col"| {{refh}}
+|-
+|style="text-align:center"| 52.70 || [[Natalya Antyukh]] || {{RUS}} || 8 August 2012 || [[London]] || <ref>{{cite web|title=400 Metres Hurdles Results|url=http://www.iaaf.org/mini/oly12/Results/ResultsByDate.aspx?racedate=08-08-2012/sex=W/discCode=400H/combCode=hash/roundCode=f/results.html#detW_400H_hash_f|publisher=[[World Athletics|IAAF]]|date=8 August 2012|access-date=9 August 2012}}</ref>
+|}
+
+==Milestones==
+{{unreferenced section|date=July 2021}}
+* Men
+** First official [[World Athletics|IAAF]] world record: 55.0 seconds, [[Charles Bacon]] (USA), 1908
+** First under 54 seconds: 53.8 seconds, [[Sten Pettersson]] (SWE), 1925
+** First under 53 seconds: 52.6 seconds, [[Johnny Gibson|John Gibson]] (USA), 1927
+** First under 52 seconds: 51.7 seconds, [[Bob Tisdall]] (IRL), 1932
+** First under 51 seconds: 50.6 seconds, [[Glenn Hardin]] (USA), 1934
+** First under 50 seconds: 49.5 seconds, [[Glenn Davis (athlete)|Glenn Davis]] (USA), 1956
+** First under 49 seconds: 48.8 seconds, [[Geoff Vanderstock]] (USA), 1968
+** First under 48 seconds: 47.82 seconds, [[John Akii-Bua]] (UGA), 1972
+** First under 47 seconds: 46.78 seconds, [[Kevin Young (athlete)|Kevin Young]] (USA), 1992 
+** First under 46 seconds: 45.94 seconds, [[Karsten Warholm]] (NOR), 2021<ref>{{Cite web|last=Abrahamson|first=Alan|date=3 August 2021|title=Abrahamson: Warholm, Benjamin deliver greatest 400m hurdle race in human history {{!}} NBC Olympics|url=https://www.nbcolympics.com/news/abrahamson-warholm-benjamin-deliver-greatest-400m-hurdle-race-human-history|url-status=live|access-date=2021-08-04|website=nbcolympics.com|language=en|archive-url=https://web.archive.org/web/20210803073151/https://www.nbcolympics.com/news/abrahamson-warholm-benjamin-deliver-greatest-400m-hurdle-race-human-history |archive-date=3 August 2021 }}</ref>
+* Women
+** First official world record: 56.51 seconds, [[Krystyna Kacperczyk]] (POL), 1974
+** First under 56 seconds: 55.74 seconds, [[Tatyana Storozheva]] (URS), 1977
+** First under 55 seconds: 54.89 seconds, [[Tatyana Zelentsova]] (URS), 1978
+** First under 54 seconds: 53.58 seconds, [[Margarita Ponomaryova]] (URS), 1984
+** First under 53 seconds: 52.94 seconds, [[Marina Stepanova]] (URS), 1986
+** First under 52 seconds: 51.90 seconds, [[Sydney McLaughlin-Levrone]] (USA), 2021
+** First under 51 seconds: 50.68 seconds, [[Sydney McLaughlin-Levrone]] (USA), 2022
+
+==Most successful athletes==
+American athlete [[Glenn Davis (athlete)|Glenn Davis]] had a prodigious start to his hurdling career, running his first race in April 1956 in 54.4&nbsp;s.  Two months later, he ran a new world record with 49.5&nbsp;s and later that year he won the 400&nbsp;m hurdles at the Olympics, and was also the first to repeat that feat in 1960.
+
+In terms of success and longevity in competition, [[Edwin Moses]]' record is significant: he won 122 races in a row between 1977 and 1987 plus two gold medals, at the [[1976 Summer Olympics]] in Montréal and the [[1984 Summer Olympics]] in Los Angeles.  He was undefeated for exactly nine years nine months and nine days, from 26 August 1977 until 4 June 1987.  He finished third in the [[1988 Summer Olympics|1988 Olympic]] final, the last race of his career. He also held the world record for sixteen years from when he first broke it at the Olympics on 25 July 1976 until it was finally broken by [[Kevin Young (athlete)|Kevin Young]] at the [[1992 Summer Olympics]] in Barcelona.
+
+[[File:Ed moses.jpg|frame|right|Edwin Moses]]
+* '''Olympic Games & World Championships victories'''
+** [[Edwin Moses]] (USA), Olympic 1976, 1984, World 1983, 1987
+** [[Félix Sánchez (hurdler)|Felix Sanchez]] (DOM), Olympic 2004, 2012, World 2001, 2003
+** [[Karsten Warholm]] (NOR), Olympic 2020, World 2017, 2019, 2023
+** [[Kerron Clement]] (USA), Olympic 2016, World 2007, 2009
+** [[Sally Gunnell]] (GBR), Olympic 1992, World 1993
+** [[Kevin Young (athlete)|Kevin Young]] (USA), Olympic 1992, World 1993
+** [[Derrick Adkins]] (USA), Olympic 1996, World 1995
+** [[Melaine Walker]] (JAM), Olympic 2008, World 2009
+** [[Lashinda Demus]] (USA), Olympic 2012, World 2011
+** [[Dalilah Muhammad]] (USA), Olympic 2016, World 2019
+** [[Sydney McLaughlin-Levrone]] (USA) Olympic 2020, 2024, World 2022
+* '''Two Olympic victories''':
+** [[Glenn Davis (athlete)|Glenn Davis]] (USA), 1956 and 1960
+** [[Edwin Moses]] (USA), 1976 and 1984 (also bronze in 1988)
+** [[Angelo Taylor]] (USA), 2000 and 2008
+** [[Félix Sánchez (hurdler)|Félix Sánchez]] (DOM), 2004 and 2012
+** [[Sydney McLaughlin-Levrone]] (USA), 2020 and 2024
+*'''Three World Championships''':
+** [[Karsten Warholm]] (NOR), 2017, 2019 and 2023
+* '''Two World Championships''':
+** [[Edwin Moses]] (USA), 1983 and 1987
+** [[Félix Sánchez (hurdler)|Félix Sánchez]] (DOM), 2001 and 2003 (won silver in 2007)
+** [[Kerron Clement]] (USA), 2007 and 2009
+** [[Nezha Bidouane]] (MAR), 1997 and 2001 (won silver in 1999)
+** [[Jana Pittman]] (AUS), 2003 and 2007
+** [[Zuzana Hejnová]] (CZE), 2013 and 2015
+** [[Femke Bol]] (NED), 2023 and 2025
+
+{{small|* Note: [[Edwin Moses]], [[Kevin Young (athlete)|Kevin Young]] and [[Karsten Warholm]] are the only male 400 m hurdlers to have been Olympic Champion, World Champion, and broken the [[Men's 400 metres hurdles world record progression|World Record]].}}<br />
+{{small|* Note: [[Sally Gunnell]], [[Dalilah Muhammad]] and [[Sydney McLaughlin-Levrone]]  are the only female 400 m hurdlers to have been Olympic Champion, World Champion, and broken the [[Women's 400 metres hurdles world record progression|World Record]].}}
+
+==Olympic medalists==
+{{main|400 metres hurdles at the Olympics}}
+===Men===
+{{Olympic medalists in men's 400 metres hurdles}}
+
+===Women===
+{{Olympic medalists in women's 400 metres hurdles}}
+
+==World Championships medalists==
+===Men===
+{{World Championships in Athletics medalists in men's 400 metres hurdles}}
+
+===Women===
+* The official [[World Athletics Championships]] began in 1983 as the IAAF World Championships in Athletics, but in 1980, the women's 3000 metres and 400 metres hurdles events had a World Championship competition in [[Sittard]], Netherlands. This was due to these events not yet being on the Olympic program (the same had happened in 1976 for the men's 50&nbsp;km walk).<ref>[http://www.gbrathletics.com/ic/wc.htm IAAF World Championships in Athletics]. GBR Athletics.</ref>
+
+{{World Championships in Athletics medalists in women's 400 metres hurdles}}
+
+==Season's bests==
+{| class="wikitable sortable" style="font-size:100%; display:inline-table; text-align:center"
+|-
+|+ Men's season's bests
+|-
+!scope="col"| Year
+!scope="col"| Time
+!scope="col"| Athlete
+!scope="col"| Place
+|-
+!scope="row"| 1971
+| 48.9{{AthAbbr|h}}
+|style="text-align:left"| {{flagathlete|[[Ralph Mann]]|USA}}
+|style="text-align:left"| [[Helsinki]]
+|-
+!scope="row"| 1972
+| 47.82
+|style="text-align:left"| {{flagathlete|[[John Akii-Bua]]|UGA}}
+|style="text-align:left"| [[Munich]]
+|-
+!scope="row"| 1973
+| 48.54
+|style="text-align:left"| {{flagathlete|[[John Akii-Bua]]|UGA}}
+|style="text-align:left"| [[Lagos]]
+|-
+!scope="row"| 1974
+| 48.1{{AthAbbr|h}}
+|style="text-align:left"| {{flagathlete|[[Jim Bolding]]|USA}}
+|style="text-align:left"| [[Milan]]
+|-
+!scope="row"| 1975
+| 48.4{{AthAbbr|h}}
+|style="text-align:left"| {{flagathlete|[[Jim Bolding]]|USA}}
+|style="text-align:left"| [[Milan]]
+|-
+!scope="row"| 1976
+| 47.63
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Montreal]]
+|-
+!scope="row"| 1977
+| 47.45
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Westwood, Los Angeles|Westwood]]
+|-
+!scope="row"| 1978
+| 47.94
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 1979
+| 47.53
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Montreal]]
+|-
+!scope="row"| 1980
+| 47.13
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Milan]]
+|-
+!scope="row"| 1981
+| 47.14
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Lausanne]]
+|-
+!scope="row"| 1982
+| 47.48
+|style="text-align:left"| {{flagathlete|[[Harald Schmid]]|FRG}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 1983
+| 47.02
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Koblenz]]
+|-
+!scope="row"| 1984
+| 47.32
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Koblenz]]
+|-
+!scope="row"| 1985
+| 47.63
+|style="text-align:left"| {{flagathlete|[[Danny Harris]]|USA}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 1986
+| 47.38
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Lausanne]]
+|-
+!scope="row"| 1987
+| 47.46
+|style="text-align:left"| {{flagathlete|[[Edwin Moses]]|USA}}
+|style="text-align:left"| [[Rome]]
+|-
+!scope="row"| 1988
+| 47.19
+|style="text-align:left"| {{flagathlete|[[Andre Phillips]]|USA}}
+|style="text-align:left"| [[Seoul]]
+|-
+!scope="row"| 1989
+| 47.86
+|style="text-align:left"| {{flagathlete|[[Kevin Young (athlete)|Kevin Young]]|USA}}
+|style="text-align:left"| [[Berlin]]
+|-
+!scope="row"| 1990
+| 47.49
+|style="text-align:left"| {{flagathlete|[[Danny Harris]]|USA}}
+|style="text-align:left"| [[Lausanne]]
+|-
+!scope="row"| 1991
+| 47.10
+|style="text-align:left"| {{flagathlete|[[Samuel Matete]]|ZAM}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 1992
+| 46.78
+|style="text-align:left"| {{flagathlete|[[Kevin Young (athlete)|Kevin Young]]|USA}}
+|style="text-align:left"| [[Barcelona]]
+|-
+!scope="row"| 1993
+| 47.18
+|style="text-align:left"| {{flagathlete|[[Kevin Young (athlete)|Kevin Young]]|USA}}
+|style="text-align:left"| [[Stuttgart]]
+|-
+!scope="row"| 1994
+| 47.70
+|style="text-align:left"| {{flagathlete|[[Derrick Adkins]]|USA}}
+|style="text-align:left"| [[Linz]]
+|-
+!scope="row"| 1995
+| 47.37
+|style="text-align:left"| {{flagathlete|[[Stéphane Diagana]]|FRA}}
+|style="text-align:left"| [[Lausanne]]
+|-
+!scope="row"| 1996
+| 47.54
+|style="text-align:left"| {{flagathlete|[[Derrick Adkins]]|USA}}
+|style="text-align:left"| [[Atlanta]]
+|-
+!scope="row"| 1997
+| 47.64
+|style="text-align:left"| {{flagathlete|[[Bryan Bronson]]|USA}}
+|style="text-align:left"| [[Monaco]]
+|-
+!scope="row"| 1998
+| 47.03
+|style="text-align:left"| {{flagathlete|[[Bryan Bronson]]|USA}}
+|style="text-align:left"| [[New Orleans]]
+|-
+!scope="row"| 1999
+| 47.72
+|style="text-align:left"| {{flagathlete|[[Fabrizio Mori]]|ITA}}
+|style="text-align:left"| [[Seville]]
+|-
+!scope="row"| 2000
+| 47.50
+|style="text-align:left"| {{flagathlete|[[Angelo Taylor]]|USA}}
+|style="text-align:left"| [[Sydney]]
+|-
+!scope="row"| 2001
+| 47.38
+|style="text-align:left"| {{flagathlete|[[Félix Sánchez (hurdler)|Félix Sánchez]]|DOM}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 2002
+| 47.35
+|style="text-align:left"| {{flagathlete|[[Félix Sánchez (hurdler)|Félix Sánchez]]|DOM}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 2003
+| 47.25
+|style="text-align:left"| {{flagathlete|[[Félix Sánchez (hurdler)|Félix Sánchez]]|DOM}}
+|style="text-align:left"| [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|-
+!scope="row"| 2004
+| 47.63
+|style="text-align:left"| {{flagathlete|[[Félix Sánchez (hurdler)|Félix Sánchez]]|DOM}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 2005
+| 47.24
+|style="text-align:left"| {{flagathlete|[[Kerron Clement]]|USA}}
+|style="text-align:left"| [[The Home Depot Center|Carson]]
+|-
+!scope="row"| 2006
+| 47.39
+|style="text-align:left"| {{flagathlete|[[Kerron Clement]]|USA}}
+|style="text-align:left"| [[Indianapolis]]
+|-
+!scope="row"| 2007
+| 47.61
+|style="text-align:left"| {{flagathlete|[[Kerron Clement]]|USA}}
+|style="text-align:left"| [[Osaka]]
+|-
+!scope="row"| 2008
+| 47.25
+|style="text-align:left"| {{flagathlete|[[Angelo Taylor]]|USA}}
+|style="text-align:left"| [[Beijing]]
+|-
+!scope="row"| 2009
+| 47.91
+|style="text-align:left"| {{flagathlete|[[Kerron Clement]]|USA}}
+|style="text-align:left"| [[Berlin]]
+|-
+!scope="row"| 2010
+| 47.32
+|style="text-align:left"| {{flagathlete|[[Bershawn Jackson]]|USA}}
+|style="text-align:left"| [[Des Moines]]
+|-
+!scope="rowgroup" rowspan="2"| 2011
+|rowspan="2"| 47.66
+|rowspan="2" style="text-align:left"| {{flagathlete|[[L. J. van Zyl]]|RSA}}
+|style="text-align:left"| [[Pretoria]] 
+|-
+|style="text-align:left"| [[Ostrava]]
+|-
+!scope="row"| 2012
+| 47.63
+|style="text-align:left"| {{flagathlete|[[Félix Sánchez (hurdler)|Félix Sánchez]]|DOM}}
+|style="text-align:left"| [[London]]
+|-
+!scope="row"| 2013
+| 47.69
+|style="text-align:left"| {{flagathlete|[[Jehue Gordon]]|TRI}}
+|style="text-align:left"| [[Moscow]]
+|-
+!scope="row"| 2014
+| 48.03
+|style="text-align:left"| {{flagathlete|[[Javier Culson]]|PUR}}
+|style="text-align:left"| [[New York City]]
+|-
+!scope="row"| 2015
+| 47.79
+|style="text-align:left"| {{flagathlete|[[Nicholas Bett]]|KEN}}
+|style="text-align:left"| [[Beijing]]
+|-
+!scope="row"| 2016
+| 47.73
+|style="text-align:left"| {{flagathlete|[[Kerron Clement]]|USA}}
+|style="text-align:left"| [[Rio de Janeiro]]
+|-
+!scope="row"| 2017
+| 47.80
+|style="text-align:left"| {{flagathlete|[[Kyron McMaster]]|IVB}}
+|style="text-align:left"| [[Kingston, Jamaica|Kingston]]
+|-
+!scope="row"| 2018
+| 46.98
+|style="text-align:left"| {{flagathlete|[[Abderrahman Samba]]|QAT}}
+|style="text-align:left"| [[Paris]]
+|-
+!scope="row"| 2019
+| 46.92
+|style="text-align:left"| {{flagathlete|[[Karsten Warholm]]|NOR}}
+|style="text-align:left"| [[Zurich]]
+|-
+!scope="row"| 2020
+| 46.87
+|style="text-align:left"| {{flagathlete|[[Karsten Warholm]]|NOR}}
+|style="text-align:left"| [[Stockholm]]
+|-
+!scope="row"| 2021
+| 45.94
+|style="text-align:left"| {{flagathlete|[[Karsten Warholm]]|NOR}}
+|style="text-align:left"| [[Tokyo]]
+|-
+!scope="row"| 2022
+| 46.29
+|style="text-align:left"| {{Flagathlete|[[Alison dos Santos]]|BRA}}
+|style="text-align:left"| [[Eugene, Oregon|Eugene]]
+|-
+!scope="row"| 2023
+| 46.39
+|style="text-align:left"| {{flagathlete|[[Rai Benjamin]]|USA}}
+|style="text-align:left"| [[Eugene, Oregon|Eugene]]
+|-
+!scope="row"| 2024
+| 46.46
+|style="text-align:left"| {{Flagathlete|[[Rai Benjamin]]|USA}}
+|style="text-align:left"| [[Eugene, Oregon|Eugene]]
+|-
+!scope="row"| 2025
+| 46.28
+|style="text-align:left"| {{Flagathlete|[[Karsten Warholm]]|NOR}}
+|style="text-align:left"| [[Chorzów]]
+|}
+
+{| class="wikitable sortable" style="font-size:100%; display:inline-table; text-align:center"
+|-
+|+ Women's season's bests
+|-
+!scope="col"| Year
+!scope="col"| Time
+!scope="col"| Athlete
+!scope="col"| Place
+|-
+!scope="row"| 1971
+|
+|style="text-align:left"|
+|style="text-align:left"|
+|-
+!scope="row"| 1972
+|
+|style="text-align:left"|
+|style="text-align:left"|
+|-
+!scope="row"| 1973
+| 56.7{{AthAbbr|h}}
+|style="text-align:left"| {{flagathlete|[[Danuta Piecyk]]|POL}}
+|style="text-align:left"| [[Warsaw]]
+|-
+!scope="row"| 1974
+| 56.51
+|style="text-align:left"| {{flagathlete|[[Krystyna Kacperczyk]]|POL}}
+|style="text-align:left"|[[Augsburg]]
+|-
+!scope="row"| 1975
+|
+|style="text-align:left"|
+|style="text-align:left"|
+|-
+!scope="row"| 1976
+|
+|style="text-align:left"|
+|style="text-align:left"|
+|-
+!scope="row"| 1977
+| 55.63
+|style="text-align:left"| {{flagathlete|[[Karin Roßley]]|GDR}}
+|style="text-align:left"| [[Helsinki]]
+|-
+!scope="row"| 1978
+| 54.89
+|style="text-align:left"| {{flagathlete|[[Tatyana Zelentsova]]|URS}}
+|style="text-align:left"| [[Prague]]
+|-
+!scope="row"| 1979
+| 54.78
+|style="text-align:left"| {{flagathlete|[[Marina Stepanova]]|URS}}
+|style="text-align:left"| [[Moscow]]
+|-
+!scope="row"| 1980
+| 54.28
+|style="text-align:left"| {{flagathlete|[[Karin Roßley]]|GDR}}
+|style="text-align:left"| [[Jena]]
+|-
+!scope="row"| 1981
+| 54.79
+|style="text-align:left"| {{flagathlete|[[Ellen Fiedler]]|GDR}}
+|style="text-align:left"| [[Jena]]
+|-
+!scope="row"| 1982
+| 54.57
+|style="text-align:left"| {{flagathlete|[[Ann-Louise Skoglund]]|SWE}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 1983
+| 54.02
+|style="text-align:left"| {{flagathlete|[[Anna Ambrazienė]]|URS}}
+|style="text-align:left"| [[Moscow]]
+|-
+!scope="row"| 1984
+| 53.58
+|style="text-align:left"| {{flagathlete|[[Margarita Ponomaryova]]|URS}}
+|style="text-align:left"| [[Kyiv]]
+|-
+!scope="row"| 1985
+| 53.55
+|style="text-align:left"| {{flagathlete|[[Sabine Busch]]|GDR}}
+|style="text-align:left"| [[Berlin]]
+|-
+!scope="row"| 1986
+| 52.94
+|style="text-align:left"| {{flagathlete|[[Marina Stepanova]]|URS}}
+|style="text-align:left"| [[Tashkent]]
+|-
+!scope="row"| 1987
+| 53.24
+|style="text-align:left"| {{flagathlete|[[Sabine Busch]]|GDR}}
+|style="text-align:left"| [[Potsdam]]
+|-
+!scope="row"| 1988
+| 53.17
+|style="text-align:left"| {{flagathlete|[[Debbie Flintoff-King]]|AUS}}
+|style="text-align:left"| [[Seoul]]
+|-
+!scope="row"| 1989
+| 53.37
+|style="text-align:left"| {{flagathlete|[[Sandra Farmer-Patrick]]|USA}}
+|style="text-align:left"| [[New York City]]
+|-
+!scope="row"| 1990
+| 53.62
+|style="text-align:left"| {{flagathlete|[[Tatyana Ledovskaya]]|URS}}
+|style="text-align:left"| [[Split (city)|Split]]
+|-
+!scope="row"| 1991
+| 53.11
+|style="text-align:left"| {{flagathlete|[[Tatyana Ledovskaya]]|URS}}
+|style="text-align:left"| [[Tokyo]]
+|-
+!scope="row"| 1992
+| 53.23
+|style="text-align:left"| {{flagathlete|[[Sally Gunnell]]|GBR}}
+|style="text-align:left"| [[Barcelona]]
+|-
+!scope="row"| 1993
+| 52.74
+|style="text-align:left"| {{flagathlete|[[Sally Gunnell]]|GBR}}
+|style="text-align:left"| [[Stuttgart]]
+|-
+!scope="row"| 1994
+| 53.33
+|style="text-align:left"| {{flagathlete|[[Sally Gunnell]]|GBR}}
+|style="text-align:left"| [[Helsinki]]
+|-
+!scope="row"| 1995
+| 52.61
+|style="text-align:left"| {{flagathlete|[[Kim Batten]]|USA}}
+|style="text-align:left"| [[Gothenburg]]
+|-
+!scope="row"| 1996
+| 52.82
+|style="text-align:left"| {{flagathlete|[[Deon Hemmings]]|JAM}}
+|style="text-align:left"| [[Atlanta]]
+|-
+!scope="rowgroup" rowspan="2"| 1997
+|rowspan="2"| 52.97
+|style="text-align:left"| {{flagathlete|[[Kim Batten]]|USA}}
+|style="text-align:left"| [[Indianapolis]]
+|-
+|style="text-align:left"| {{flagathlete|[[Nezha Bidouane]]|MAR}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 1998
+| 52.74
+|style="text-align:left"| {{flagathlete|[[Kim Batten]]|USA}}
+|style="text-align:left"| [[Monaco]]
+|-
+!scope="row"| 1999
+| 52.89
+|style="text-align:left"| {{flagathlete|[[Daimí Pernía]]|CUB}}
+|style="text-align:left"| [[Seville]]
+|-
+!scope="row"| 2000
+| 53.02
+|style="text-align:left"| {{flagathlete|[[Irina Privalova]]|RUS}}
+|style="text-align:left"| [[Sydney]]
+|-
+!scope="row"| 2001
+| 53.34
+|style="text-align:left"| {{flagathlete|[[Nezha Bidouane]]|MAR}}
+|style="text-align:left"| [[Edmonton]]
+|-
+!scope="row"| 2002
+| 53.10
+|style="text-align:left"| {{flagathlete|[[Yuliya Pechonkina]]|RUS}}
+|style="text-align:left"| [[Tula, Russia|Tula]]
+|-
+!scope="row"| 2003
+| 52.34
+|style="text-align:left"| {{flagathlete|[[Yuliya Pechonkina]]|RUS}}
+|style="text-align:left"| [[Tula, Russia|Tula]]
+|-
+!scope="row"| 2004
+| 52.77
+|style="text-align:left"| {{flagathlete|[[Faní Halkiá]]|GRE}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 2005
+| 52.90
+|style="text-align:left"| {{flagathlete|[[Yuliya Pechonkina]]|RUS}}
+|style="text-align:left"| [[Helsinki]]
+|-
+!scope="row"| 2006
+| 53.02
+|style="text-align:left"| {{flagathlete|[[Lashinda Demus]]|USA}}
+|style="text-align:left"| [[Athens]]
+|-
+!scope="row"| 2007
+| 53.28
+|style="text-align:left"| {{flagathlete|[[Tiffany Williams]]|USA}}
+|style="text-align:left"| [[Indianapolis]]
+|-
+!scope="row"| 2008
+| 52.64
+|style="text-align:left"| {{flagathlete|[[Melaine Walker]]|JAM}}
+|style="text-align:left"| [[Beijing]]
+|-
+!scope="row"| 2009
+| 52.42
+|style="text-align:left"| {{flagathlete|[[Melaine Walker]]|JAM}}
+|style="text-align:left"| [[Berlin]]
+|-
+!scope="row"| 2010
+| 52.82
+|style="text-align:left"| {{flagathlete|[[Lashinda Demus]]|USA}}
+|style="text-align:left"| [[Rome]]
+|-
+!scope="row"| 2011
+| 52.47
+|style="text-align:left"| {{flagathlete|[[Lashinda Demus]]|USA}}
+|style="text-align:left"| [[Daegu]]
+|-
+!scope="row"| 2012
+| 52.77
+|style="text-align:left"| {{flagathlete|[[Lashinda Demus]]|USA}}
+|style="text-align:left"| [[London]]
+|-
+!scope="row"| 2013
+| 52.83
+|style="text-align:left"| {{flagathlete|[[Zuzana Hejnová]]|CZE}}
+|style="text-align:left"| [[Moscow]]
+|-
+!scope="row"| 2014
+| 53.41
+|style="text-align:left"| {{flagathlete|[[Kaliese Spencer]]|JAM}}
+|style="text-align:left"| [[Kingston, Jamaica|Kingston]]
+|-
+!scope="row"| 2015
+| 53.50
+|style="text-align:left"| {{flagathlete|[[Zuzana Hejnová]]|CZE}}
+|style="text-align:left"| [[Beijing]]
+|-
+!scope="row"| 2016
+| 52.88
+|style="text-align:left"| {{flagathlete|[[Dalilah Muhammad]]|USA}}
+|style="text-align:left"| [[Eugene, Oregon|Eugene]]
+|-
+!scope="row"| 2017
+| 52.64
+|style="text-align:left"| {{flagathlete|[[Dalilah Muhammad]]|USA}}
+|style="text-align:left"| [[Sacramento]]
+|-
+!scope="row"| 2018
+| 52.75
+|style="text-align:left"| {{flagathlete|[[Sydney McLaughlin-Levrone|Sydney McLaughlin]]|USA}}
+|style="text-align:left"| [[Knoxville]]
+|-
+!scope="row"| 2019
+| 52.16
+|style="text-align:left"| {{flagathlete|[[Dalilah Muhammad]]|USA}}
+|style="text-align:left"| [[Doha]]
+|-
+!scope="row"| 2020
+| 53.79
+|style="text-align:left"| {{flagathlete|[[Femke Bol]]|NED}}
+|style="text-align:left"| [[Arnhem]]
+|-
+!scope="row"| 2021
+| 51.46
+|style="text-align:left"| {{flagathlete|[[Sydney McLaughlin-Levrone|Sydney McLaughlin]]|USA}}
+|style="text-align:left"| [[Tokyo, Japan|Tokyo]]
+|-
+!scope="row"| 2022
+| 50.68
+|style="text-align:left"| {{flagathlete|[[Sydney McLaughlin-Levrone]]|USA}}
+|style="text-align:left"| [[Eugene, Oregon|Eugene]]
+|-
+!scope="row"| 2023
+| 51.45
+|style="text-align:left"| {{flagathlete|[[Femke Bol]]|NED}}
+|style="text-align:left"| [[London]]
+|-
+!scope="row"| 2024
+| 50.37
+|style="text-align:left"| {{flagathlete|[[Sydney McLaughlin-Levrone]]|USA}}
+|style="text-align:left"| [[Stade de France|Saint-Denis]]
+|-
+!scope="row"| 2025
+| 51.54
+|style="text-align:left"| {{flagathlete|[[Femke Bol]]|NED}}
+|style="text-align:left"| [[Tokyo]]
+|}
+
+==National records==
+===Men===
+*Updated 19 September 2025.<ref>{{Cite web |title=400 Metres Hurdles - men - senior - outdoor |url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/outdoor/men/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true |access-date=17 September 2023 |website=worldathletics.org}}</ref>
+<small>Equal or superior to 48.00 s:</small>
+{| class="wikitable sortable" style="font-size:95%;"
+|-
+!Nation
+!Time
+!Athlete
+!Date
+!Place
+|-
+|{{NOR}}
+|45.94
+|[[Karsten Warholm]]
+|3 August 2021
+|[[Tokyo]]
+|-
+|{{USA}}
+|46.17
+|[[Rai Benjamin]]
+|3 August 2021
+|[[Tokyo]]
+|-
+|{{BRA}}
+|46.29
+|[[Alison dos Santos]]
+|19 July 2022
+|[[Eugene, Oregon|Eugene]]
+|-
+|{{QAT}}
+|46.98
+|[[Abderrahman Samba]]
+|30 June 2018
+|[[Paris]]
+|-
+|{{IVB}}
+|47.08
+|[[Kyron McMaster]]
+|3 August 2021
+|[[Tokyo]]
+|-
+|{{ZAM}}
+|47.10
+|[[Samuel Matete]]
+|7 August 1991
+|[[Zurich]]
+|-
+|{{NGR}}
+|47.11
+|[[Ezekiel Nathaniel]]
+|19 September 2025
+|[[Tokyo]]
+|-
+|{{SEN}}
+|47.23
+|[[Amadou Dia Ba]]
+|25 September 1988
+|[[Seoul]]
+|-
+|{{DOM}}
+|47.25
+|[[Félix Sánchez (hurdler)|Félix Sánchez]]
+|29 August 2003
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|-
+|{{JAM}}
+|47.34
+|[[Roshawn Clarke]]
+|21 August 2023
+|[[Budapest]]
+|-
+|{{FRA}}
+|47.37
+|[[Stéphane Diagana]]
+|5 July 1995
+|[[Lausanne]]
+|-
+|{{GER}}
+|47.48
+|[[Harald Schmid]]
+|8 September 1982
+|[[Athens]]
+|-
+|{{ITA}}
+|47.50
+|[[Alessandro Sibilio]]
+|11 June 2024
+|[[Rome]]
+|-
+|{{KSA}}
+|47.53
+|[[Hadi Soua'an Al-Somaily]]
+|27 September 2000
+|[[Sydney]]
+|-
+|{{RSA}}
+|47.66
+|[[L. J. van Zyl]]
+|25 February 2011
+|[[Pretoria]]
+|-
+|{{TTO}}
+|47.69
+|[[Jehue Gordon]]
+|15 August 2013
+|[[Moscow]]
+|-
+|{{PUR}}
+|47.72
+|[[Javier Culson]]
+|8 May 2010
+|[[Ponce, Puerto Rico|Ponce]]
+|-
+|{{KEN}}
+|47.78
+|[[Boniface Mucheru]]
+|18 August 2016
+|[[Rio de Janeiro]]
+|-
+|{{TUR}}
+|47.81
+|[[Yasmani Copello]]
+|9 August 2018
+|[[Berlin]]
+|-
+|{{UGA}}
+|47.82
+|[[John Akii-Bua]]
+|2 September 1972
+|[[Munich]]
+|-
+|{{GBR2}}
+|47.82
+|[[Kriss Akabusi]]
+|6 August 1992
+|[[Barcelona]]
+|-
+|{{GRE}}
+|47.82
+|[[Periklis Iakovakis]]
+|6 May 2006
+|[[Osaka]]
+|-
+|{{EST}}
+|47.82
+|[[Rasmus Mägi]]
+|14 June 2022
+|[[Turku]]
+|-
+|{{PAN}}
+|47.84
+|[[Bayano Kamani]]
+|7 August 2005
+|[[Helsinki]]
+|-
+|{{JPN}}
+|47.89
+|[[Dai Tamesue]]
+|10 August 2001
+|[[Edmonton]]
+|-
+|{{CUB}}
+|47.93
+|[[Omar Cisneros]]
+|13 August 2013
+|[[Moscow]]
+|-
+|{{SWE}}
+|47.94
+|[[Carl Bengtström]]
+|11 June 2024
+|[[Rome]]
+|-
+|{{IRL}}
+|47.97
+|[[Thomas Barr (athlete)|Thomas Barr]]
+|18 August 2016
+|[[Rio de Janeiro]]
+|}
+
+===Women===
+*Updated 9 November 2025.<ref>{{Cite web |title=400 Metres Hurdles - women - senior - outdoor |url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/outdoor/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true |access-date=8 August 2024|website=worldathletics.org}}</ref>
+<small>Equal or superior to 54.00 s:</small>
+{| class="wikitable sortable" style="font-size:95%;"
+|-
+!Nation
+!Time
+!Athlete
+!Date
+!Place
+|-
+|{{USA}}
+|50.37
+|[[Sydney McLaughlin-Levrone]]
+|8 August 2024
+|[[Stade de France|Saint-Denis]]
+|-
+|{{NED}}
+|50.95
+|[[Femke Bol]]
+|14 July 2024
+|[[La Chaux-de-Fonds]]
+|-
+|{{RUS}}
+|52.34
+|[[Yuliya Pechonkina]]
+|8 August 2003
+|[[Tula, Russia|Tula]]
+|-
+|{{JAM}}
+|52.42
+|[[Melaine Walker]]
+|20 August 2009
+|[[Berlin]]
+|-
+|{{CAN}}
+|52.46
+|[[Savannah Sutherland]]
+|14 June 2025
+|[[Eugene, Oregon|Eugene]]
+|-
+|{{PAN}}
+|52.66
+|[[Gianna Woodruff]]
+|17 September 2025
+|[[Tokyo]]
+|-
+|{{GBR2}}
+|52.74
+|[[Sally Gunnell]]
+|19 August 1993
+|[[Stuttgart]]
+|-
+|{{GRE}}
+|52.77
+|[[Fani Halkia]]
+|22 August 2004
+|[[Athens]]
+|-
+|{{CZE}}
+|52.83
+|[[Zuzana Hejnová]]
+|15 August 2013
+|[[Moscow]]
+|-
+|{{CUB}}
+|52.89
+|[[Daimí Pernía]]
+|25 August 1999
+|[[Seville]]
+|-
+|{{MAR}}
+|52.90
+|[[Nezha Bidouane]]
+|25 August 1999
+|[[Seville]]
+|-
+|{{UKR}}
+|52.96
+|[[Anna Ryzhykova]]
+|4 July 2021
+|[[Stockholm]]
+|-
+|{{SVK}}
+|53.00
+|[[Emma Zapletalová]]
+|19 September 2025
+|[[Tokyo]]
+|-
+|{{BHR}}
+|53.09
+|[[Kemi Adekoya]]
+|24 August 2023
+|[[Budapest]]
+|-
+|{{AUS}}
+|53.17
+|[[Debbie Flintoff-King]]
+|28 September 1988
+|[[Seoul]]
+|-
+|{{TTO}}
+|53.20
+|[[Josanne Lucas]]
+|20 August 2009
+|[[Berlin]]
+|-
+|{{FRA}}
+|53.21
+|[[Marie-José Pérec]]
+|16 August 1995
+|[[Zurich]]
+|-
+|{{GER}}
+|53.24
+|[[Sabine Busch]]
+|21 August 1987
+|[[Potsdam]]
+|-
+|{{ROU}}
+|53.25
+|[[Ionela Târlea]]
+|7 July 1999
+|[[Rome]]
+|-
+|{{BAR}}
+|53.36
+|[[Andrea Blackett]]
+|25 August 1999
+|[[Sevilla]]
+|-
+|{{DEN}}
+|53.55
+|[[Sara Slott Petersen]]
+|18 August 2016
+|[[Rio de Janeiro]]
+|-
+|{{BEL}}
+|53.65
+|[[Naomi Van den Broeck|Naomi van den Broeck]]
+|17 September 2025
+|[[Tokyo]]
+|-
+|{{BUL}}
+|53.68
+|[[Vanya Stambolova]]
+|5 June 2011
+|[[Rabat]]
+|-
+|{{RSA}}
+|53.74
+|[[Myrtle Bothma]]
+|18 April 1986
+|[[Johannesburg]]
+|-
+|{{POL}}
+|53.86
+|[[Anna Jesień]]
+|28 August 2007
+|[[Osaka]]
+|-
+|{{ITA}}
+|53.89
+|[[Ayomide Folorunso]]
+|22 August 2023
+|[[Budapest]]
+|-
+|{{NOR}}
+|53.91
+|[[Line Kloster]]
+|3 July 2022
+|[[La Chaux-de-Fonds]]
+|-
+|rowspan=2|{{CHN}}
+|rowspan=2|53.96
+|[[Han Qing]]
+|9 September 1993
+|[[Beijing]]
+|-
+|[[Song Yinglan]]
+|17 November 2001
+|[[Guangzhou]]
+|}
+
+==Notes and references==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://iaaf.gekko.de/?a=hurdles&d=400-metres-hurdles IAAF list of 400-metres-hurdles records in XML]
+
+{{Athletics events}}
+{{National records in athletics}}
+{{Portal bar|Athletics}}
+
+{{DEFAULTSORT:400 Metre Hurdles}}
+[[Category:400 metres hurdles| ]]
+[[Category:Events in track and field]]
+[[Category:Summer Olympic disciplines in athletics]]
+[[Category:Hurdling]]

@@ -1,0 +1,1606 @@
+{{Short description|None}}
+'''Slovak records in swimming''' are the fastest ever performances of swimmers from [[Slovakia]], which are recognised and ratified by the [[Slovak Swimming Federation]] (Slovenská plavecká federácia).
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50 m)==
+
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 22.11
+|recordinfo = sf
+|firstname = Matej
+|lastname = Duša
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 16 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 50 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011800000101EB0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=16 February 2024|access-date=16 February 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100 m freestyle
+|time = 49.12
+|recordinfo = h
+|firstname = Matej
+|lastname = Duša
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 14 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 100 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011800000101EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=14 February 2024|access-date=14 February 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200 m freestyle
+|time = 1:48.99
+|recordinfo = sf
+|firstname = Milan
+|lastname = Vojtko
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 1 July 2025
+|meet = [[2025 European Junior Swimming Championships|European Junior Championships]]
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Semifinals Results|url=https://europeanaquatics.org/jr-swimming-samorin-2025/schedule-results/#/summary/SWM/ST/M/200MFR------------/SFNL/--------|publisher=European Aquatics|date=1 July 2025|access-date=2 July 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400 m freestyle
+|time = 3:49.95
+|recordinfo = 
+|firstname = Milan
+|lastname = Vojtko
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 6 July 2025
+|meet = [[2025 European Junior Swimming Championships|European Junior Championships]]
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Final Results|url=https://europeanaquatics.org/jr-swimming-samorin-2025/schedule-results/#/result/SWM/ST/M/400MFR------------/FNL-/000100--|publisher=European Aquatics|date=6 July 2025|access-date=8 July 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800 m freestyle
+|time = 7:55.31
+|recordinfo = h
+|firstname = Richard
+|lastname = Nagy
+|namearticle = Richard Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 4 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – Men's 800 metre freestyle|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Heats Results|url=http://omegatiming.com/File/Download?id=00010F020000000400FFFFFFFFFFFF02|publisher=Omega Timing|date=4 August 2015|access-date=5 October 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500 m freestyle
+|time = 15:04.03
+|recordinfo = h
+|firstname = Richard
+|lastname = Nagy
+|namearticle = Richard Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 8 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – Men's 1500 metre freestyle|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Heats Results|url=http://omegatiming.com/File/Download?id=00010F020000000500FFFFFFFFFFFF02|publisher=Omega Timing|date=8 August 2015|access-date=10 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 25.44
+|recordinfo = 
+|firstname = Ľuboš
+|lastname = Križko
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 21 March 2008
+|meet = [[2008 European Aquatics Championships|European Championships]]
+|city = Eindhoven
+|country = NED
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Finals Results|url=http://www.omegatiming.com/File/Download?id=0001080F0040000000FFFFFFFFFFFF01|publisher=Omega Timing|date=21 March 2008|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 54.07
+|recordinfo = h
+|firstname = Ľuboš
+|lastname = Križko
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 10 August 2008
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 100 metre backstroke|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:58.24
+|recordinfo = h
+|firstname = Martin
+|lastname = Perecinsky
+|namearticle = 
+|club = Long Island Aquatics Club
+|date = 19 June 2024
+|meet = [[2024 United States Olympic trials (swimming)|U.S. Olympic Trials]]
+|city = Indianapolis
+|country = USA
+|ref = <ref>{{cite web|title=Men's 200m Backstroke Heats Results|url=https://www.omegatiming.com/File/00011800030102EE0101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=19 June 2024|access-date=1 September 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 27.65
+|recordinfo = 
+|firstname = Marek
+|lastname = Botík
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 20 August 2017
+|meet = [[FINA World Masters Championships|World Masters Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men, 50m Breaststroke, Final, 25 - 29 years|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=603443&gender=1&styleId=12|publisher=swimrankings.net|date=20 August 2017|access-date=23 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:00.43
+|recordinfo = h
+|firstname = Tomáš
+|lastname = Klobučník
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 17 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Men's 100 metre breaststroke|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM100MBR------------HEAT--------_74A%201.0.pdf?x=18:34:15|publisher=microplustiming.com|date=17 May 2021|accessdate=17 May 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:11.00
+|recordinfo = h
+|firstname = Tomáš
+|lastname = Klobučník
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 1 August 2013
+|meet = [[Swimming at the 2013 World Aquatics Championships – Men's 200 metre breaststroke|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Heats Results|url=http://www.omegatiming.com/File/Download?id=00010D020100020B00FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=1 August 2013|access-date=1 November 2013}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 23.50
+|recordinfo = 
+|firstname = Tibor
+|lastname = Tišťan
+|namearticle = 
+|club = Plavecký oddiel Ružomberok
+|date = 27 May 2024
+|meet = AP Race London International
+|city = London
+|country = UK
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Final Results|url=https://swimming.events/events/11342/results|publisher=swimming.eventsswimming.org.au|date=27 May 2024|accessdate=28 May 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 53.57
+|recordinfo = 
+|firstname = Ádám
+|lastname = Halás
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 25 April 2021
+|meet = Graz Trophy
+|city = Graz
+|country = AUT
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Final Results|url=https://myresults.eu/en-US/Meets/Recent/1720/Results/61957|publisher=myresults.eu|date=25 April 2021|accessdate=26 April 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:57.26
+|recordinfo = h
+|firstname = Samuel
+|lastname = Košťál
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 30 May 2024
+|meet = [[Mare Nostrum (swimming)|Mare Nostrum]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Heats Results|url=https://competicions.natacio.cat/2024/TICB2024/ResultList_28.pdf|publisher=natacio.cat|date=30 May 2024|access-date=30 May 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:01.78
+|recordinfo = h
+|firstname = Richard
+|lastname = Nagy
+|namearticle = Richard Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 26 July 2017
+|meet = [[Swimming at the 2017 World Aquatics Championships – Men's 200 metre individual medley|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 200m Individual Medley Heats Results|url=http://www.omegatiming.com/File/Download?id=000111010A0105EE01FFFFFFFFFFFF01|publisher=Omega Timing|date=26 July 2017|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:13.87
+|recordinfo = h
+|firstname = Richard
+|lastname = Nagy
+|namearticle = Richard Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 6 August 2016
+|meet = [[Swimming at the 2016 Summer Olympics – Men's 400 metre individual medley|Olympic Games]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref>{{cite web|title=Men's 400m IM Heats Results |url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM054900_ResultsSummary_2016_08_06.pdf |work=smsprio2016-a.akamaihd.net |date=6 August 2016 |access-date=6 August 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160807151100/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM054900_ResultsSummary_2016_08_06.pdf |archive-date=7 August 2016 }}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:25.99
+|recordinfo = national, h
+|1name = [[Ádám Halás]]
+|1split = 51.76
+|2name = [[Matej Duša]]
+|2split = 49.64
+|3name = [[Jakub Poliacik]]
+|3split = 52.17
+|4name = [[Alex Kusik]]
+|4split = 52.42
+|club = {{flagu|Slovakia}}
+|date = 17 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MFR----------HEAT--------_74B%201.0.pdf?x=18:45:45|publisher=microplustiming.com|date=17 May 2021|accessdate=17 May 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:24.70
+|recordinfo = national, h, #
+|1name = [[Tibor Tišťan]]
+|1split = 50.82
+|2name = [[Matej Duša]]
+|2split = 50.35
+|3name = [[Richard Nagy (swimmer)|Richard Nagy]]
+|3split = 52.29
+|4name = [[Frantisek Jablcnik]]
+|4split = 51.24
+|club = {{flagu|Slovakia}}
+|date = 11 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Heats Results Summary|url=https://www.omegatiming.com/File/00011800000101F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 February 2024|access-date=11 February 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:24.30
+|recordinfo = club
+|1name = [[Matej Duša]]
+|1split = 50.65
+|2name = [[Ondrej Duša]]
+|2split = 52.29
+|3name = [[Jakub Poliacik]]
+|3split = 50.86
+|4name = [[Radoslav Polčič]]
+|4split = 50.50
+|club = XBS Swimming
+|date = 27 May 2023
+|meet = Grand Prix Slovakia
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Results|url=https://live.swimrankings.net/37570/ResultList_29.pdf|publisher=swimrankings.net|date=27 May 2023|access-date=29 May 2023}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 7:26.09
+|recordinfo = 
+|1name = [[Samuel Kostal]]
+|1split = 1:50.91
+|2name = [[Matej Martinovic]]
+|2split = 1:50.00
+|3name = [[Richard Pucek]]
+|3split = 1:54.21
+|4name = [[Milan Vojtko]]
+|4split = 1:50.97
+|club = {{flagu|Slovakia}}
+|date = 6 July 2024
+|meet = [[2024 European Junior Swimming Championships|European Junior Championships]]
+|city = Vilnius
+|country = LTU
+|ref = <ref>{{cite web|title=Men's 4×200m Freestyle Relay Final Results Summary|url=https://vilnius2024.microplustimingservices.com/#/result/SWM/RE/M/4X200MFR----------/FNL-/000100--|publisher=microplustimingservices.com|date=6 July 2024|access-date=6 July 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 3:44.62
+|recordinfo = h
+|1name = [[Alex Kušík]]
+|1split = 58.43
+|2name = [[Tomáš Klobučník]]
+|2split = 1:02.22
+|3name = [[Ádám Halás]]
+|3split = 53.80
+|4name = [[Matej Duša]]
+|4split = 50.17
+|club = {{flagu|Slovakia}}
+|date = 23 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre medley relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x100m Medley Relay Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MMD----------HEAT--------_74B%201.0.pdf?x=19:44:05|publisher=microplustiming.com|date=23 May 2021|accessdate=23 May 2021}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 25.08
+|recordinfo = 
+|firstname = Lillian
+|lastname = Slušná
+|namearticle = 
+|club = PAP Svit
+|date = 13 June 2025
+|meet = Slovak Championships
+|city = Bratislava
+|country = SVK
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Final Results|url=https://live.swimrankings.net/46944/ResultList_2F.pdf|publisher=swimrankings.net|date=13 June 2025|access-date=15 June 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100 m freestyle
+|time = 54.45
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 5 July 2000
+|meet = [[2000 European Aquatics Championships|European Championships]]
+|city = Helsinki
+|country = FIN
+|ref = <ref>{{cite web|title=100m FREE WOMEN FINALS RANKING|url=http://www.omegatiming.com/File/Download?id=00010009002B000000FFFFFFFFFFFF01|publisher=Omega Timing|date=5 July 2000|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200 m freestyle
+|time = 1:58.32
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 19 September 2000
+|meet = [[Swimming at the 2000 Summer Olympics – Women's 200 metre freestyle|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400 m freestyle
+|time = 4:14.02
+|recordinfo = 
+|firstname = Katarína
+|lastname = Listopadová 
+|namearticle = 
+|club = Kúpele Piešťany
+|date = 16 April 2016
+|meet = Trofeu Maria Lenk
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref>{{cite web|title=Women, 400m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=594759&gender=2&styleId=5|publisher=swimrankings.net|date=16 April 2016|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800 m freestyle
+|time = 8:50.65
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = Kúpele Piešťany
+|date = 11 May 1996
+|meet = -
+|city = Ljubljana
+|country = SLO
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500 m freestyle
+|time = 17:10.68
+|recordinfo = 
+|firstname = Veronika
+|lastname = Kolníková
+|namearticle = 
+|club = TJ Znojmo
+|date = 3 March 2019
+|meet = Grand Prix Slovakia
+|city = Bratislava
+|country = SVK
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Timed Final Results|url=https://live.swimrankings.net/23561/ResultList_39.pdf|publisher=swimrankings.net|date=3 March 2019|access-date=4 March 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 28.23
+|recordinfo = 
+|firstname = Katarína
+|lastname = Listopadová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 24 June 2016
+|meet = Trofeo Sette Colli
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Results|url=https://www.microplustiming.com/fin2016/export/NU_2426_Giu_2016_Roma/NU/pdf/CLS-ASF-50DO-FIN-ALL.pdf?x|publisher=microplustiming.com|date=24 June 2016|access-date=25 June 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:00.21
+|recordinfo = 
+|firstname = Katarína
+|lastname = Listopadová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 25 June 2016
+|meet = Trofeo Sette Colli
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=100m Backstroke - Women Final Results|url=https://www.microplustiming.com/fin2016/export/NU_2426_Giu_2016_Roma/NU/pdf/CLS-ASF-100DO-FIN-ALL.pdf?x|publisher=microplustiming.com|date=25 June 2016|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:13.73
+|recordinfo = 
+|firstname = Karolína
+|lastname = Hájková 
+|namearticle = Karolina Hájková
+|club = Orca Bratislava
+|date = 17 June 2016
+|meet = Slovak Championships
+|city = Bratislava
+|country = SVK
+|ref = <ref>{{cite web|title=Women, 200m Backstroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=595560&gender=2&styleId=11|publisher=swimrankings.net|date=17 June 2016|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 31.38
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = Pirana
+|date = 14 December 2023
+|meet = Gyor Open
+|city = Gyor
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Final Results|url=https://myresults.eu/en-US/Meets/Recent/2085/Results/73961|publisher=myresults.eu|date=14 December 2023|accessdate=25 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:08.02
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = Pirana
+|date = 16 December 2023
+|meet = Gyor Open
+|city = Gyor
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://myresults.eu/en-US/Meets/Recent/2085/Results/74001|publisher=myresults.eu|date=16 December 2023|accessdate=25 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:27.49
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 7 April 2024
+|meet = Swim Open Stockholm
+|city = Stockholm
+|country = SWE
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Final Results|url=https://live.swimify.com/competitions/malmsten-swim-open-stockholm-2024-2024-04-05/events/summary/9/64|publisher=swimify.com|date=7 April 2024|accessdate=12 April 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.63
+|recordinfo = h
+|firstname = Tamara
+|lastname = Potocka
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 1 August 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Women's 50 metre butterfly|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Womn's 50m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011900010204EB0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=1 August 2025|access-date=1 August 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 57.20
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 2 August 2002
+|meet = [[2002 European Aquatics Championships|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=100m BUTTERFLY WOMEN FINALS RANKING|url=http://www.omegatiming.com/File/Download?id=00010206004A000000FFFFFFFFFFFF01|publisher=Omega Timing|date=2 August 2002|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:10.70
+|recordinfo = 
+|firstname = Denisa
+|lastname = Smolenová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 27 May 2012
+|meet = [[Swimming at the 2012 European Aquatics Championships – Women's 200 metre butterfly|European Championships]]
+|city = Debrecen
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 200m Butterfly Results|url=http://www.omegatiming.com/File/Download?id=00010C030001020402FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=27 May 2012|access-date=15 June 2012}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:12.29
+|recordinfo = h
+|firstname = Tamara
+|lastname = Potocka
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 27 July 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Women's 200 metre individual medley|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Women's 200m IM Heats Results|url=https://www.omegatiming.com/File/00011900010205EE0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=27 July 2025|access-date=27 July 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:48.72
+|recordinfo = 
+|firstname = Nikoleta
+|lastname = Trníková
+|namearticle = 
+|club = Povazskobystricky PO
+|date = 9 April 2022
+|meet = Eindhoven Qualification Meet
+|city = Eindhoven
+|country = NED
+|ref = <ref>{{cite web|title=Women's 400m IM Final Results|url=http://livetiming.knzb.nl/EQM2022/ResultList_17F.pdf|publisher=microplustiming.com|date=9 April 2022|accessdate=30 May 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:43.63
+|recordinfo = h
+|1name = [[Katarína Listopadová]]
+|1split = 57.14
+|2name = [[Katarína Filová]]
+|2split = 55.27
+|3name = [[Miroslava Syllabová]]
+|3split = 56.44
+|4name = [[Martina Moravcová]]
+|4split = 54.78
+|club = {{flagu|Slovakia}}
+|date = 26 July 2009
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 4x 100m Freestyle Preliminary Results|url=http://www.omegatiming.com/File/Download?id=0001090B0006000000FFFFFFFFFFFF01|publisher=Omega Timing|date=26 July 2009|access-date=4 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 8:10.99
+|recordinfo = h
+|1name = [[Laura Benková]]
+|1split = 2:03.66
+|2name = [[Zora Ripková]]
+|2split = 2:02.90
+|3name = [[Tamara Potocka]]
+|3split = 2:01.79
+|4name = [[Martina Cibulková]]
+|4split = 2:02.64
+|club = {{flagu|Slovakia}}
+|date = 21 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Women's 4 × 200 metre freestyle relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x200m Freestyle Relay Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW4X200MFR----------HEAT--------_74B%201.0.pdf?x=19:07:48|publisher=microplustiming.com|date=21 May 2021|accessdate=21 May 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4:08.38
+|recordinfo = h
+|1name = [[Emma Marušáková]]
+|1split = 1:04.20
+|2name = [[Andrea Podmaníková]]
+|2split = 1:08.37
+|3name = [[Tamara Potocká]]
+|3split = 1:00.04
+|4name = [[Teresa Ivanová]]
+|4split = 55.77
+|club = {{flagu|Slovakia}}
+|date = 23 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Women's 4 × 100 metre medley relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW4X100MMD----------HEAT--------_74B%201.0.pdf?x=20:02:57|publisher=microplustiming.com|date=23 May 2021|accessdate=23 May 2021}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 01
+|event = 4×100 m freestyle relay
+|time = 3:29.88
+|recordinfo =
+|1name = [[Matej Duša]]
+|1split = 49.37
+|2name = [[Tibor Tistan]]
+|2split = 50.32
+|3name = [[Lillian Slušná]]
+|3split = 55.17
+|4name = [[Teresa Ivan]]
+|4split = 55.02
+|club = {{flagu|Slovakia}}
+|date = 17 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Mixed 4 × 100 metre freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Mixed 4x100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011800000301F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=17 February 2024|access-date=17 February 2024}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 02
+|event = 4×200 m freestyle relay
+|time = 7:54.33
+|recordinfo = h
+|1name = [[Jakub Poliačik]]
+|1split = 1:53.18
+|2name = [[Richard Nagy (swimmer)|Richard Nagy]]
+|2split = 1:53.42
+|3name = [[Zora Ripková]]
+|3split = 2:04.74
+|4name = [[Martina Cibulková]]
+|4split = 2:02.99
+|club = {{flagu|Slovakia}}
+|date = 18 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Mixed 4 × 200 metre freestyle relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4x200m Freestyle Relay Heats Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMX4X200MFR----------HEAT--------_74B%201.0.pdf|publisher=microplustiming.com|date=18 May 2021|accessdate=18 May 2021}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 03
+|event = 4×100 m medley relay
+|time = 3:54.19
+|recordinfo = h
+|1name = [[Karin Tomečková]]
+|1split = 1:03.44
+|2name = [[Tomáš Klobučník]]
+|2split = 1:01.36
+|3name = [[Katarína Listopadová]]
+|3split = 58.46
+|4name = [[Michal Navara]]
+|4split = 50.93
+|club = {{flagu|Slovakia}}
+|date = 19 August 2014
+|meet = [[Swimming at the 2014 European Aquatics Championships – Mixed 4 x 100 metre medley relay|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Mixed 4x100m Medley Heats Results|url=http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASX-4X100IM-PRE-ALL.pdf?x|publisher=Microplus Informatica|date=19 August 2014|access-date=27 August 2014}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|WR=yes|ER=yes|r=no|b=no|sf=no|tt=no|†=no}}
+
+==Short Course (25 m)==
+
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 21.03
+|recordinfo = sf
+|firstname = Matej
+|lastname = Duša
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 6 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/000119000A0101EB0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=6 December 2025|access-date=6 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 47.15
+|recordinfo = 
+|firstname = Matej
+|lastname = Duša
+|namearticle = 
+|club = XBS swimming
+|date = 16 December 2023
+|meet = Slovak Championships
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Final Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=642130&gender=1&styleId=2|publisher=swimrankings.net|date=16 December 2023|accessdate=25 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:44.76
+|recordinfo = h
+|firstname = Samuel
+|lastname = Košťál
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 3 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0101EE0101FFFFFFFFFF01.pdf|work=omegatiming.com|date=3 December 2025|access-date=3 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:43.51
+|recordinfo = h
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 5 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 400 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Heats Results|url=http://omegatiming.com/File/Download?id=00010E010D00000300FFFFFFFFFFFF02|publisher=Omega Timing|date=5 December 2014|access-date=25 December 2014|archive-url=https://web.archive.org/web/20150924140429/http://www.omegatiming.com/File/Download?id=00010E010D00000300FFFFFFFFFFFF02|archive-date=24 September 2015|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:44.58
+|recordinfo = 
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 17 October 2014
+|meet = -
+|city = Plzeň
+|country = CZE
+|ref = <ref>{{cite web|title=Men, 800m Freestyle, Prelim, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=582214&gender=1&styleId=6|work=swimrankings.net|date=17 October 2015|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 14:35.50
+|recordinfo = 
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 7 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 1500 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Results|url=http://www.omegatiming.com/File/Download?id=00010E010D00000502FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=7 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 23.15
+|recordinfo = sf
+|firstname = Ľuboš
+|lastname = Križko
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 12 December 2008
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|city = Rijeka
+|country = CRO
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Semifinals Results|url=http://www.omegatiming.com/File/Download?id=000108000025000000FFFFFFFFFFFF01|publisher=Omega Timing|date=12 December 2008|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 52.80
+|recordinfo = 
+|firstname = Samuel
+|lastname = Košťál
+|namearticle = 
+|club = J&T Sport Team
+|date = 21 December 2025
+|meet = Slovak Championships
+|city = Košice
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 100m Backstroke Final Results|url=https://live.swimrankings.net/48472/ResultList_35F.pdf|work=swimrankings.net|date=21 December 2025|access-date=21 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:55.72
+|recordinfo = h
+|firstname = Miroslav
+|lastname = Machovič
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 7 April 2002
+|meet = [[2002 European Short Course Swimming Championships|European Championships]]
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite web|title=200m Backstroke Men Heats Total Ranking|url=http://www.omegatiming.com/File/Download?id=0001020C0050000000FFFFFFFFFFFF01|publisher=Omega Timing|date=7 April 2002|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 26.65
+|recordinfo = h
+|firstname = Marek
+|lastname = Botík
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 13 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Men's 50m Breaststroke Heats Results|url=https://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-50BR-PRE-ALL.pdf?x|work=microplustiming.com|date=13 December 2017|access-date=13 December 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 57.71
+|recordinfo = sf
+|firstname = Tomáš
+|lastname = Klobučník
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 3 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 100 metre breaststroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Semifinal Results|url=http://www.omegatiming.com/File/Download?id=00010E010D00020A01FFFFFFFFFFFF02|publisher=Omega Timing|date=3 December 2014|access-date=4 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:04.29
+|recordinfo = h
+|firstname = Tomáš
+|lastname = Klobučník
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 5 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 200 metre breaststroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Results|url=http://omegatiming.com/File/Download?id=00010E010D00020B02FFFFFFFFFFFF02|publisher=Omega Timing|date=5 December 2014|access-date=26 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 22.91
+|recordinfo = 
+|firstname = Tibor
+|lastname = Tišťan
+|namearticle = 
+|club = PO Ružomberok
+|date = 20 December 2024
+|meet = Slovak Championships
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Final Results|url=https://live.swimrankings.net/44884/ResultList_7F.pdf|publisher=swimrankings.net|date=20 December 2024|accessdate=21 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 51.34
+|recordinfo = h
+|firstname = Ádám
+|lastname = Halás
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 17 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 100 metre butterfly|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011700030104EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=17 December 2022|accessdate=17 December 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:54.92
+|recordinfo = h
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 15 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 200 metre butterfly|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Heats Results|url=https://www.omegatiming.com/File/00011700030104EE0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2022|accessdate=15 December 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 53.20
+|recordinfo = 
+|firstname = Ádám
+|lastname = Halás
+|namearticle = 
+|club = XBS swimming
+|date = 23 October 2022
+|meet = Slovak Cup
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 100m IM Final Results|url=https://live.swimrankings.net/34813/ResultList_40F.pdf|publisher=swimrankings.net|date=23 October 2021|accessdate=4 October 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 1:57.13
+|recordinfo = h
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 13 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 200 metre individual medley|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Men's 200m IM Heats Results|url=https://www.omegatiming.com/File/00011700030105EE0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2022|accessdate=13 December 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:04.73
+|recordinfo = 
+|firstname = Richárd
+|lastname = Nagy
+|namearticle = Richárd Nagy (swimmer)
+|club = {{flagu|Slovakia}}
+|date = 3 December 2015
+|meet = [[2015 European Short Course Swimming Championships|European Championships]]
+|city = Netanya
+|country = ISR
+|ref = <ref>{{cite news|title=Men's 400m IM Results|url=http://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASM-400MD-FINALE-ALL.pdf?x=09:43:20|work=microplustiming.com|date=3 December 2015|access-date=10 November 2016|archive-url=https://web.archive.org/web/20161111060702/http://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASM-400MD-FINALE-ALL.pdf?x=09:43:20|archive-date=11 November 2016|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:29.21
+|recordinfo = 
+|1name = [[Patrik Folťan]]
+|1split = 23.45
+|2name = [[Ádám Halás]]
+|2split = 22.32
+|3name = [[Vladimir Štefánik]]
+|3split = 22.07
+|4name = [[Matej Duša]]
+|4split = 21.37
+|club = XBS swimming
+|date = 19 December 2020
+|meet = Bubble Control Race
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 4x50m Freestyle Relay Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=623731&gender=1&styleId=24|publisher=swimrankings.net|date=19 December 2020|accessdate=23 October 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:16.51
+|recordinfo = h 
+|1name = [[Tibor Tišťan]]
+|1split = 49.05
+|2name = [[Matej Duša]]
+|2split = 48.15
+|3name = [[Ádám Halás]]
+|3split = 49.92
+|4name = [[Jakub Poliačik]]
+|4split = 49.39
+|club = {{flagu|Slovakia}}
+|date = 10 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 4 × 100 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011800080101F30101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 December 2024|accessdate=10 December 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 7:06.33
+|recordinfo = h
+|1name = [[Jakub Poliacik]]
+|1split = 1:45.48
+|2name = [[Matej Martinovic]]
+|2split = 1:46.13
+|3name = [[Martin Perecinsky]]
+|3split = 1:47.97
+|4name = [[Frantisek Jablcnik]]
+|4split = 1:46.75
+|club = {{flagu|Slovakia}}
+|date = 13 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 4 × 200 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x200m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011800080201F30101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=13 December 2024|access-date=13 December 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:37.20
+|recordinfo = h
+|1name = [[Adam Cernek]]
+|1split = 25.17
+|2name = [[Marek Botík]]
+|2split = 26.57
+|3name = [[Ádám Halás]]
+|3split = 23.16
+|4name = [[Vladimir Štefánik]]
+|4split = 22.30
+|club = {{flagu|Slovakia}}
+|date = 17 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Men's 4×50m Medley Relay Heats Results|url=https://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-4X50MD-PRE-ALL.pdf|work=Microplus Timing|access-date=17 December 2017|date=17 December 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:38.61
+|recordinfo = 
+|1name = [[Patrik Folťan]]
+|1split = 54.74
+|2name = [[Bence Dikácz]]
+|2split = 1:01.93
+|3name = [[Ádám Halás]]
+|3split = 52.37
+|4name = [[Ondrej Duša]]
+|4split = 49.57
+|club = XBS swimming
+|date = 22 October 2021
+|meet = Slovak Cup
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Men's 4x100m Medley Relay Results|url=https://live.swimrankings.net/30923/ResultList_13.pdf|publisher=swimrankings.net|date=22 October 2021|accessdate=23 October 2021}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 24.08
+|recordinfo = 
+|firstname = Lillian
+|lastname = Slušná
+|namearticle = 
+|club = PAP Svit
+|date = 19 December 2025
+|meet = Slovak Championships
+|city = Košice
+|country = SVK
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Final Results|url=https://live.swimrankings.net/48472/ResultList_2F.pdf|work=swimrankings.net|date=19 December 2025|access-date=19 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 52.96
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 5 April 2002
+|meet = [[2002 European Short Course Swimming Championships|European Championships]]
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite web|title=100m Free Women Finals Ranking|url=http://www.omegatiming.com/File/Download?id=0001020C0031000000FFFFFFFFFFFF01|work=Omega Timing|date=5 April 2002|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:54.74
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 16 December 2001
+|meet = [[2001 European Short Course Swimming Championships|European Championships]]
+|city = Antwerp
+|country = BEL
+|ref = <ref>{{cite web|title=200m Free Women Finals Ranking|url=http://www.omegatiming.com/File/Download?id=000101000054000000FFFFFFFFFFFF01|work=Omega Timing|date=16 December 2001|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:07.02
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = -
+|date = 1995
+|meet = -
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800 m freestyle
+|time = 8:44.00
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = -
+|date = 1996
+|meet = -
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:43.51
+|recordinfo = 
+|firstname = Veronika
+|lastname = Kolníková
+|namearticle = 
+|club = TJ Znojmo
+|date = 14 December 2018
+|meet = Czech Winter Championships
+|city = Plzeň
+|country = CZE
+|ref = <ref>{{cite web|title=Women’s 1500m Freestyle Timed Final Results|page=36|url=https://vysledky.czechswimming.cz/cz.zma.csps.portal.rest/api/public/competitions/4636/documents/Vysledky%20p%C3%A1tek?fileName=Vys_patek.pdf|work=swimrankings.net|date=14 December 2018|access-date=29 June 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 26.79
+|recordinfo = sf
+|firstname = Katarína
+|lastname = Listopadová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 5 December 2015
+|meet = [[2015 European Short Course Swimming Championships|European Championships]]
+|city = Netanya
+|country = ISR
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Semifinal Results|url=https://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASF-50BK-FINALE-ALL.pdf?x=14:42:34|work=microplustiming|date=5 December 2015|access-date=12 November 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 57.96
+|recordinfo = sf
+|firstname = Katarína
+|lastname = Listopadová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 2 December 2015
+|meet = [[2015 European Short Course Swimming Championships|European Championships]]
+|city = Netanya
+|country = ISR
+|ref = <ref>{{cite news|title=Women's 100m Backstroke Semifinal Results|url=https://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASF-100BK-SEMIF-ALL.pdf?x=09:52:39|work=microplustiming.com|date=2 December 2015|access-date=7 November 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:08.33
+|recordinfo = h
+|firstname = Tamara
+|lastname = Potocká
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 3 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Women's 200m Backstroke Heats Results|url=https://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW200MBA------------HEAT--------_74A%201.0.pdf?x=18:18:26|work=microplustiming.com|date=3 November 2021|accessdate=3 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 29.84
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = Pirana
+|date = 17 December 2023
+|meet = Slovak Championships
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Final Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=642130&gender=2&styleId=12|publisher=swimrankings.net|date=17 December 2023|accessdate=25 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:04.77
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 6 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600090203EC0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=6 December 2023|access-date=6 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:20.17
+|recordinfo = 
+|firstname = Andrea
+|lastname = Podmaníková
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 8 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600090203EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=8 December 2023|access-date=8 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.62
+|recordinfo = 
+|firstname = Lillian
+|lastname = Slušná
+|namearticle = 
+|club = PAP Svit
+|date = 19 December 2025
+|meet = Slovak Championships
+|city = Košice
+|country = SVK
+|ref = <ref>{{cite web|title=Women's 50m Butterfly Final Results|url=https://live.swimrankings.net/48472/ResultList_8F.pdf|work=swimrankings.net|date=19 December 2025|access-date=19 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 56.55
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 26 January 2002
+|meet = [[2001–02 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=100m Butterfly Women Finals Ranking|url=http://www.omegatiming.com/File/Download?id=0001020D0016000000FFFFFFFFFFFF01|work=Omega Timing|date=26 January 2002|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:06.63
+|recordinfo = 
+|firstname = Martina
+|lastname = Moravcová
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 20 November 2004
+|meet = [[2004–05 FINA Swimming World Cup|World Cup]]
+|city = Durban
+|country = RSA
+|ref = <ref>{{cite web|title=Women’s 200m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=000104040023000000FFFFFFFFFFFF01|work=Omega Timing|date=20 November 2004|access-date=15 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 58.85
+|recordinfo = sf
+|firstname = Tamara
+|lastname = Potocká
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 3 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 100m IM Semifinals Results|url=https://www.omegatiming.com/File/000119000A0205EC0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=3 December 2025|access-date=3 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:07.17
+|recordinfo = h
+|firstname = Tamara
+|lastname = Potocká
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 10 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 200 metre individual medley|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 200m IM Heats Results|url=https://www.omegatiming.com/File/00011800080205EE0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 December 2024|accessdate=10 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:37.69
+|recordinfo = h
+|firstname = Nikoleta 
+|lastname = Trníková
+|namearticle = 
+|club = {{flagu|Slovakia}}
+|date = 2 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Women's 400m IM Heats Results|url=https://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW400MIM------------HEAT--------_74A%201.0.pdf?x=17:46:43|work=microplustiming.com|date=2 November 2021|accessdate=2 November 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:36.94
+|recordinfo = h
+|1name = [[Tamara Potocká]]
+|1split = 24.26
+|2name = [[Alexandra Hrncarova]]
+|2split = 24.42
+|3name = [[Teresa Ivan]]
+|3split = 24.41
+|4name = [[Lillian Slusna]]
+|4split = 23.85
+|club = {{flagu|Slovakia}}
+|date = 2 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4x50m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/000119000A0201F60101FFFFFFFFFF01.pdf|work=omegatiming.com|date=2 December 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:39.23
+|recordinfo = h
+|1name = [[Lillian Slusna]]
+|1split = 55.34
+|2name = [[Tamara Potocka]]
+|2split = 54.46
+|3name = [[Zora Ripkova]]
+|3split = 55.62
+|4name = [[Teresa Ivanova]]
+|4split = 53.81
+|club = {{flagu|Slovakia}}
+|date = 13 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Women's 4x100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011700030101F70101FFFFFFFFFF01.pdf|work=Omega Timing|date=13 December 2022|accessdate=13 December 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:38.25
+|recordinfo = h, #
+|1name = [[Teresa Ivan]]
+|1split = 54.33
+|2name = [[Zora Ripkova]]
+|2split = 55.07
+|3name = [[Alexandra Hrncarova]]
+|3split = 54.57
+|4name = [[Lillian Slusna]]
+|4split = 54.28
+|club = {{flagu|Slovakia}}
+|date = 10 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x100m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011800080201F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 December 2024|accessdate=10 December 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 8:01.71
+|recordinfo = h
+|1name = [[Zora Ripkova]]
+|1split = 1:59.78
+|2name = [[Tamara Potocka]]
+|2split = 1:58.68
+|3name = [[Teresa Ivanova]]
+|3split = 2:03.06
+|4name = [[Martina Cibulkova]]
+|4split = 2:00.19
+|club = {{flagu|Slovakia}}
+|date = 14 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Women's 4 × 200 metre freestyle relay|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Women's 4x200m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011700030201F80101FFFFFFFFFF01.pdf|work=Omega Timing|date=14 December 2022|accessdate=14 December 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:48.28
+|recordinfo = h
+|1name = [[Teresa Ivan]]
+|1split = 27.84
+|2name = [[Andrea Podmaníková]]
+|2split = 30.66
+|3name = [[Tamara Potocká]]
+|3split = 25.37
+|4name = [[Lillian Slušná]]
+|4split = 24.41
+|club = {{flagu|Slovakia}}
+|date = 7 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4x50m Medley Relay Heats Results|url=https://www.omegatiming.com/File/000119000A0205F60101FFFFFFFFFF01.pdf|work=omegatiming.com|date=7 December 2025|access-date=7 December 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:57.18
+|recordinfo = h
+|1name = [[Teresa Ivan]]
+|1split = 59.79
+|2name = [[Andrea Podmaníková]]
+|2split = 1:06.31
+|3name = [[Tamara Potocka]]
+|3split = 56.72
+|4name = [[Lillian Slusna]]
+|4split = 54.36
+|club = {{flagu|Slovakia}}
+|date = 15 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Heats Results|url=https://www.omegatiming.com/File/00011800080205F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|accessdate=15 December 2024}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 01
+|event = 4×50 m freestyle relay
+|time = 1:30.36
+|recordinfo = 
+|1name = [[Matej Duša]]
+|1split = 21.24
+|2name = [[Tibor Tišťan]]
+|2split = 21.18
+|3name = [[Teresa Ivan]]
+|3split = 23.91
+|4name = [[Lillian Slusna]]
+|4split = 24.03
+|club = {{flagu|Slovakia}}
+|date = 13 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Mixed 4 × 50 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4x50m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011800080301F60104FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=13 December 2024|access-date=13 December 2024}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 02
+|event = 4×50 m medley relay
+|time = 1:41.80
+|recordinfo = h
+|1name = [[Martin Perečinský]]
+|1split = 24.97
+|2name = [[Andrea Podmaníková]]
+|2split = 30.59
+|3name = [[Tamara Potocká]]
+|3split = 25.09
+|4name = [[Matej Duša]]
+|4split = 21.15
+|club = {{flagu|Slovakia}}
+|date = 11 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Mixed 4 × 50 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4x50m Mixed Relay Heats Results|url=https://www.omegatiming.com/File/00011800080305F60101FFFFFFFFFF01.pdf|website=omegatiming.com|date=11 December 2024|access-date=11 December 2024}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 03
+|event = 4×100 m medley relay
+|time = 3:44.55
+|recordinfo = h
+|1name = [[Martin Perečinský]]
+|1split = 52.71
+|2name = [[Andrea Podmaníková]]
+|2split = 1:06.78
+|3name = [[Tamara Potocká]]
+|3split = 56.76
+|4name = [[Jakub Poliačik]]
+|4split = 48.30
+|club = {{flagu|Slovakia}}
+|date = 14 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Mixed 4 × 100 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Heats Results|url=https://www.omegatiming.com/File/00011800080305F70101FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>   
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Slovak Swimming Federation{{!}}SPF|r=no|b=no|sf=no|tt=no|†=no}}
+
+==References==
+;General
+*[https://swimmsvk.sk/slovenske-plavecke-rekordy?field_sex_tid=192&field_pool_tid=113&field_age_tid=195 Slovak Records] <small>''21 December 2025 updated''</small>
+;Specific
+{{Reflist|2}}
+
+==External links==
+*[https://www.swimmsvk.sk/ Slovak Swimming Federation web site]
+*[https://www.swimrankings.net/index.php?page=rankingDetail&clubId=353&gender=1&course=LCM&agegroup=0&stroke=0&season=-1 All-time bests Slovakia] swimrankings.net <small>''6 January 2026 updated''</small>
+
+{{International swimming}}
+{{Records in swimming}}
+
+[[Category:National records in swimming|Slovakia]]
+[[Category:Swimming in Slovakia|Records]]
+[[Category:Slovak records|Swimming]]
+[[Category:Slovakia sport-related lists|Swimming]]

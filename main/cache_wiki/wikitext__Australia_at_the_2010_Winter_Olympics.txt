@@ -1,0 +1,686 @@
+{{infobox country at games
+| NOC = AUS
+| NOCname = [[Australian Olympic Committee]]
+| games = Winter Olympics
+| year = 2010
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.olympics.com.au }}
+| location = [[Vancouver]]
+| competitors = 40
+| sports = 11
+| flagbearer = [[Torah Bright]] (opening)<br/>[[Lydia Lassila]] (closing)
+| rank = 13
+| gold = 2
+| silver = 1
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = [[Australia at the 1906 Intercalated Games|1906]] Intercalated Games<br/>{{flagIOC|ANZ}} (1908–1912)
+}}
+[[File:2010 Opening Ceremony - Australia entering.jpg|thumb|The athletes entering the stadium during the opening ceremonies.]]
+
+[[Australia]] participated at the [[2010 Winter Olympics]] in [[Vancouver]], [[British Columbia]], [[Canada]]. A team of forty athletes was selected to compete in eleven sports. The [[Head of Mission|Chef de Mission]] was [[Ian Chesterman]] who has held the position since the [[1998 Winter Olympics]].
+
+Australia achieved its at the time best ever results, winning two gold medals; in the women's aerials (Lydia Lassila) and women's snowboard halfpipe (Torah Bright); and a silver in the men's moguls. This would later be surpassed in the [[Australia at the 2026 Winter Olympics|2026 Olympics]]. 
+
+==Medalists==
+{| class="wikitable sortable" style="font-size:90%"
+|-
+!Medal
+!Name
+!Sport
+!Event
+!Date
+|-
+| {{gold medal}} || [[Torah Bright]] || [[Snowboarding at the 2010 Winter Olympics|Snowboarding]] || [[Snowboarding at the 2010 Winter Olympics – Women's halfpipe|Women's halfpipe]] || 18 February
+|-
+| {{gold medal}} || [[Lydia Lassila]] || [[Freestyle skiing at the 2010 Winter Olympics|Freestyle skiing]] || [[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Women's aerials]] || 24 February
+|-
+| {{silver medal}} || [[Dale Begg-Smith]] || [[Freestyle skiing at the 2010 Winter Olympics|Freestyle Skiing]] || [[Freestyle skiing at the 2010 Winter Olympics – Men's moguls|Men's moguls]] || 14 February
+|-
+|}
+
+== <!-- Explain number, please <small>(10)</small> -->Alpine skiing==
+
+{{main|Alpine skiing at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!|Athlete
+!|Event
+!Time
+!Rank
+|-
+|rowspan=2|[[Craig Branch]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Men's downhill]]
+|align="center"|1:57.19
+|align="center"|34
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Men's super-G]]
+|align="center"|1:32:89
+|align="center"|29
+|-
+|rowspan=2|[[Jono Brauer]]
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Men's downhill]]
+|align="center"|1:58.08
+|align="center"|39
+|-
+|align="center"|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Men's super-G]]
+|align="center"|1:32:92
+|align="center"|30
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Biathlon==
+{{main|Biathlon at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Final
+|-
+!Time
+!Misses
+!Rank
+|-
+|[[Alexei Almoukov]]
+|[[Biathlon at the 2010 Winter Olympics – Men's sprint|Men's sprint]]
+|align="center"|30:57.9
+|align="center"|4
+|align="center"|87
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Bobsleigh==
+{{main|Bobsleigh at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Final
+|-
+!Run 1
+!Run 2
+!Run 3
+!Run 4
+!Time
+!Rank
+|-
+|[[Chris Spring]]<br/>[[Duncan Harvey (bobsleigh)|Duncan Harvey]] (heats 1 and 2)<br />[[Anthony Ryan (bobsleigh)|Anthony Ryan]] (heat 3)
+|[[Bobsleigh at the 2010 Winter Olympics – Two-man|Two-man]]
+|align="center"|53.14
+|align="center"|54.41
+|align="center"|53.18
+|align="center"|''DNQ''
+|align="center"|2:40.73
+|align="center"|22
+|-
+|[[Jeremy Rolleston]]<br/>[[Duncan Pugh]]
+|[[Bobsleigh at the 2010 Winter Olympics – Two-man|Two-man]]
+|align="center"|''DNF''
+|align="center" colspan=5|''DNS''
+|-
+|[[Jeremy Rolleston]]<br/>[[Duncan Pugh]]<br/>[[Duncan Harvey (bobsleigh)|Duncan Harvey]]<br/>[[Anthony Ryan (bobsleigh)|Anthony Ryan]]
+|[[Bobsleigh at the 2010 Winter Olympics – Four-man|Four-man]]
+|align="center" colspan=6|''DNS''
+|-
+|[[Astrid Loch-Wilkinson]]<br/>[[Cecilia Mcintosh]]
+|[[Bobsleigh at the 2010 Winter Olympics – Two-woman|Two-woman]]
+|align="center"|54.85
+|align="center"|54.66
+|align="center"|55.16
+|align="center"|''DNQ''
+|align="center"|2:44.67
+|align="center"|19
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Cross-country skiing==
+{{main|Cross-country skiing at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Quarterfinals
+!colspan=2|Semifinals
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|[[Esther Bottomley]]
+|[[Cross-country skiing at the 2010 Winter Olympics – Women's sprint|Women's sprint]]
+|align="center"|4:05.12
+|align="center"|50
+|align="center" colspan=5|Did not advance
+|align="center"|50
+|-
+|[[Paul Murray (skier)|Paul Murray]]
+|[[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Men's sprint]]
+|align="center"|3:52.96
+|align="center"|55
+|align="center" colspan=5|Did not advance
+|align="center"|55
+|-
+|rowspan=2|[[Ben Sim]]
+|[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km freestyle]]
+|colspan=6 align=center|N/A
+|align="center"|35:48.6
+|align="center"|45
+|-
+|[[Cross-country skiing at the 2010 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]]
+|colspan=6 align=center|N/A
+|align="center"|1:23:25.8
+|align="center"|47
+|-
+|[[Paul Murray (skier)|Paul Murray]]<br />[[Ben Sim]]
+|[[Cross-country skiing at the 2010 Winter Olympics – Men's team sprint|Men's team sprint]]
+|align="center"|19:57.0
+|align="center"|10
+|colspan=4 align=center|N/A
+|align="center"|Did not advance
+|align="center"|20
+|-
+|}
+
+==Figure skating==
+{{main|Figure skating at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+! rowspan="2"|Athlete(s)
+! rowspan="2"|Event
+! colspan="2"|{{abbr|CD|Compulsory dance}}
+! colspan="2"|{{abbr|SP|Short program}}/{{abbr|OD|Original dance}}
+! colspan="2"|{{abbr|FS|Free skating}}/{{abbr|FD|Free dance}}
+! colspan="2"|Total
+|-
+! Points
+! Rank
+! Points
+! Rank
+! Points
+! Rank
+! Points
+! Rank
+|-align="center"
+|align="left"|[[Cheltzie Lee]]<ref>{{cite news|url=http://olympics.com.au/news/lee-s-vancouver-spot-confirmed |title=Lee's Vancouver spot confirmed |date=3 February 2010 |access-date=3 February 2010 |publisher=[[Australian Olympic Committee]] |url-status=dead |archive-url=https://web.archive.org/web/20100206150347/http://www.olympics.com.au/news/lee-s-vancouver-spot-confirmed |archive-date=February 6, 2010 }}</ref>
+|align="left"|[[Figure skating at the 2010 Winter Olympics – Ladies' singles|Ladies']] 
+|colspan=2 align=center|N/A
+|52.16
+|18
+|86.00
+|20
+|138.16
+|20
+|-
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Freestyle skiing==
+{{main|Freestyle skiing at the 2010 Winter Olympics}}
+
+;Men's team – aerials and moguls
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!colspan="2"|Final
+|-
+!Points 663
+!Rank
+!Points
+!Rank
+|-
+|'''[[Dale Begg-Smith]]'''
+|[[Freestyle skiing at the 2010 Winter Olympics – Men's moguls|Moguls]]
+|align="center"|25.03
+|align="center"|4 '''Q'''
+|align="center"|26.58
+|align="center"|[[Image:Silver medal icon.svg]]
+|-
+|[[Ramone Cooper]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Men's moguls|Moguls]]
+|align="center"|21.11
+|align="center"|27
+|align="center" colspan=2|Did not advance
+|-
+|[[David Morris (Australian aerial skier)|David Morris]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Men's aerials|Aerials]]
+|align="center"|221.02
+|align="center"|13
+|align="center" colspan=2|Did not advance
+|-
+|}
+;Men's team – ski cross
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!1/8 final
+!Quarterfinal
+!Semifinal
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Rank
+!Rank
+!Rank
+!Final
+!Rank
+|-
+|[[Scott Kneller]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Ski cross]]
+|align="center"|1:13.85
+|align="center"|12 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|3 '''q'''
+|align="center"|''Small Final''<br />3
+|align="center"|7
+|}
+;Women's team – aerials and moguls
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!colspan="2"|Final
+|-
+!Points
+!Rank
+!Points
+!Rank
+|-
+|[[Britteny Cox]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's moguls|Moguls]]
+|align="center"|19.87
+|align="center"|23
+|align="center" colspan=2|Did not advance
+|-
+|[[Jacqui Cooper]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Aerials]]
+|align="center"|162.99
+|align="center"|11 '''Q'''
+|align="center"|194.29
+|align="center"|5
+|-
+|[[Elizabeth Gardner (athlete)|Elizabeth Gardner]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Aerials]]
+|align="center"|164.60
+|align="center"|10 '''Q'''
+|align="center"|86.70
+|align="center"|12
+|-
+|'''[[Lydia Lassila]]'''
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Aerials]]
+|align="center"|167.55
+|align="center"|9 '''Q'''
+|align="center"|214.74
+|align="center"|[[Image:Gold medal icon.svg]]
+|-
+|[[Bree Munro]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Aerials]]
+|align="center"|143.46
+|align="center"|18
+|align="center" colspan=2|Did not advance
+|-
+|}
+;Women's team – ski cross
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!1/8 final
+!Quarterfinal
+!Semifinal
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Rank
+!Rank
+!Rank
+!Final
+!Rank
+|-
+|[[Katya Crema]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Ski cross]]
+|align="center"|1:20.19
+|align="center"|17 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|3
+|align="center" colspan="2"|Did not advance
+|align="center"|15
+|-
+|[[Jenny Owens]]
+|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Ski cross]]
+|align="center"|1:19.80
+|align="center"|15 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|3
+|align="center" colspan="2"|Did not advance
+|align="center"|13
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Luge==
+{{main|Luge at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Finals
+|-
+!Run 1
+!Run 2
+!Run 3
+!Run 4
+!Time
+!Rank
+|-
+|[[Hannah Campbell-Pegg]]
+|[[Luge at the 2010 Winter Olympics – Women's singles|Women's singles]]
+|align="center"|42.527
+|align="center"|42.570
+|align="center"|42.606
+|align="center"|42.519
+|align="center"|2:50.222
+|align="center"|23
+|}
+
+== <!-- Explain number, please <small>(10)</small> -->Short track speed skating==
+{{main|Short track speed skating at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+!rowspan="2"|Ranking
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|rowspan="3"|[[Tatiana Borodulina]]
+|[[Short track speed skating at the 2010 Winter Olympics – Women's 500 metres|Women's 500 metres]]
+|align="center"|44.901
+|align="center"|3
+|align=center colspan=6| did not advance
+|align="center"|21
+|-
+|[[Short track speed skating at the 2010 Winter Olympics – Women's 1000 metres|Women's 1000 metres]]
+|align="center"|1:32.509
+|align="center"|1 '''Q'''
+|align="center"|1:32.465
+|align="center"|2 '''Q'''
+|align="center"|1:29.663
+|align="center"|3 '''QB'''
+|align="center"|''Final B''<br/>1:32.661
+|align="center"|4
+|align="center"|7
+|-
+|[[Short track speed skating at the 2010 Winter Olympics – Women's 1500 metres|Women's 1500 metres]]
+|align="center"|2:27:408
+|align="center"|2 '''Q'''
+|colspan=2 align=center|N/A
+|align="center"|2:21.617
+|align="center"|4 '''QB'''
+|align="center"|''Final B''<br/>2:43.051
+|align="center"|3
+|align="center"|11
+|-
+|[[Lachlan Hay]]
+|[[Short track speed skating at the 2010 Winter Olympics – Men's 1000 metres|Men's 1000 metres]]
+|align="center"|1:26.132
+|align="center"|4
+|align=center colspan=6|Did not advance
+|align="center"|26
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Skeleton==
+{{main|Skeleton at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Final
+|-
+!Run 1
+!Run 2
+!Run 3
+!Run 4
+!Total
+!Rank
+|-
+|[[Anthony Deane (skeleton racer)|Anthony Deane]]
+|[[Skeleton at the 2010 Winter Olympics – Men's|Men's]]
+|align="center"|54.55 
+|align="center"|54.12 
+|align="center"|54.68
+|align="center"|''DNQ''
+|align="center"|2:43.45
+|align="center"|23
+|-
+|[[Melissa Hoar]]
+|[[Skeleton at the 2010 Winter Olympics – Women's|Women's]]
+|align="center"|54.73 
+|align="center"|54.48 
+|align="center"|54.48
+|align="center"|54.53
+|align="center"|3:38.22
+|align="center"|12
+|-
+|[[Emma Lincoln-Smith]]
+|[[Skeleton at the 2010 Winter Olympics – Women's|Women's]]
+|align="center"|54.28 
+|align="center"|54.41
+|align="center"|54.54
+|align="center"|54.40
+|align="center"|3:37.63
+|align="center"|10
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Snowboarding==
+{{main|Snowboarding at the 2010 Winter Olympics}}
+;Halfpipe
+{|class="wikitable" border="1" 
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Qualification
+!colspan=3|Semifinals
+!colspan=3|Finals
+|-
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+|- align=center
+|align=left|'''[[Torah Bright]]'''
+|align=left|[[Snowboarding at the 2010 Winter Olympics – Women's halfpipe|Women's]]
+|41.3
+|'''45.8'''
+|1 '''QF'''
+|colspan=3|Bye
+|5.9
+|'''45.0'''
+|{{gold01}}
+|- align=center
+|align=left|[[Holly Crawford]]
+|align=left|[[Snowboarding at the 2010 Winter Olympics – Women's halfpipe|Women's]]
+|38.6
+|'''39.5'''
+|7 '''QS'''
+|17.3
+|'''41.7'''
+|1 '''QF'''
+|23.9
+|'''30.3'''
+|8
+|- align=center
+|align=left|[[Scotty James|Scott James]]
+|align=left|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|7.6
+|'''28.2'''
+|12
+|colspan=6|Did not advance
+|- 
+|align=left|[[Ben Mates]]
+|align=left|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|28.3
+|'''29.6'''
+|9 '''QS'''
+|3.6
+|'''27.5'''
+|11
+|colspan=3 align=center|Did not advance
+|}
+
+;Parallel giant slalom
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Finals
+|-
+!Time
+!Rank
+!Opposition<br />Time
+!Opposition<br />Time
+!Opposition<br />Time
+!Opposition<br />Time
+!Rank
+|-
+|[[Johanna Shaw]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's parallel giant slalom|Women's]]
+|align="center"|1:26:10
+|align="center"|19
+|align="center" colspan="4"|Did not advance
+|align="center"|19
+|}
+
+;Snowboard cross
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!1/8 finals
+!Quarterfinals
+!Semifinals
+!Finals
+|-
+!Time
+!Rank
+!Rank
+!Rank
+!Rank
+!Rank
+|-
+|[[Damon Hayler]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's snowboard cross|Men's]]
+|align="center"|1.21.81
+|align="center"|9
+|align="center"|2 '''Q'''
+|align="center"|4
+|align="center"|Did not advance
+|align="center"|10
+|-
+
+|[[Stephanie Hickey]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's]]
+|align="center"|1:35.26
+|align="center"|18
+|align="center" colspan=3|Did not advance
+|align="center"|18
+|-
+|[[Alex Pullin]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's snowboard cross|Men's]]
+|align="center"|1.20.15
+|align="center"|1
+|align="center"|3
+|align="center" colspan=2|Did not advance
+|align="center"|17
+|}
+
+==<!-- Explain number, please <small>(10)</small> -->Speed skating==
+{{main|Speed skating at the 2010 Winter Olympics}}
+
+{|class="wikitable" 
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Race 1
+!colspan="2"|Race 2
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|rowspan=2|[[Sophie Muir]]
+||[[Speed skating at the 2010 Winter Olympics – Women's 500 metres|Women's 500 metres]]
+|align="center"|39.649
+|align="center"|31
+|align="center"|39.400
+|align="center"|27
+|align="center"|1:19.04
+|align="center"|29
+|-
+|[[Speed skating at the 2010 Winter Olympics – Women's 1000 metres|Women's 1000 metres]]
+|colspan=4 align=center|N/A
+|align=center|1:18.79
+|align=center|30
+|}
+
+==See also==
+* [[Australia at the 2010 Winter Paralympics]]
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2010 Winter Olympics}}
+{{country at games navbox|Australia|Olympics}}
+
+[[Category:2010 in Australian sport]]
+[[Category:Nations at the 2010 Winter Olympics]]
+[[Category:Australia at the Winter Olympics by year|2010]]
+[[Category:Australia–Canada sports relations|2010]]

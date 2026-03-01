@@ -1,0 +1,1186 @@
+{{Short description|Freestyle skiing competitive season}}
+{{Infobox Double Wintersport World Cup
+| title                 = Freestyle Ski World Cup 2016/17
+| competition1          = Overall
+| competition1men       = {{flagicon|CAN}} [[Mikaël Kingsbury]] (6)
+| competition1ladies    = {{flagicon|AUS}} [[Britteny Cox]]
+| competition2          = Moguls
+| competition2men       = {{flagicon|CAN}} [[Mikaël Kingsbury]] (6)
+| competition2ladies    = {{flagicon|AUS}} [[Britteny Cox]]
+| competition3          = Aerials 
+| competition3men       = {{flagicon|CHN}} [[Qi Guangpu]] (2)
+| competition3ladies    = {{flagicon|CHN}} [[Xu Mengtao]] (3)
+| competition4          = Ski Cross
+| competition4men       = {{flagicon|FRA}} [[Jean Frederic Chapuis]] (3)
+| competition4ladies    = {{flagicon|CAN}} [[Marielle Thompson]] (3)
+| competition5          = Halfpipe
+| competition5men       = {{flagicon|FRA}} [[Kevin Rolland]] (3)
+| competition5ladies    = {{flagicon|FRA}} [[Marie Martinod]] (2)
+| competition6          = Slopestyle
+| competition6men       = {{flagicon|USA}} [[McRae Williams]]
+| competition6ladies    = {{flagicon|SUI}} [[Sarah Höfflin]]
+| competition7          = Big Air
+| competition7men       = {{flagicon|SWE}} [[Henrik Harlaut]]
+| competition7ladies    = {{flagicon|SWE}} [[Emma Dahlström]]
+| competition8          = FIS Super Series
+| competition8men       = {{flagicon|SWI}} [[Kai Mahler]]
+| competition8ladies    = {{flagicon|SWI}} [[Mathilde Gremaud]]
+| competition9          = Cross Alps Tour
+| competition9men       = {{flagicon|FRA}} [[Jean Frederic Chapuis]]
+| competition9ladies    = {{flagicon|CAN}} [[Marielle Thompson]]
+| mixedcompetition1     = Nations Cup  
+| mixedcompetition1both = {{CAN}} (9)
+| menlocations          = 32
+| ladieslocations       = 32
+| menindividual         = 45
+| ladiesindividual      = 45
+| teammen               = 2
+| teamladies            = 2
+| cancelledmen          = 1
+| cancelledladies       = 2
+| rescheduledmen        = 1
+| rescheduledladies     = 1
+| previous              = [[2015–16 FIS Freestyle Skiing World Cup|2015/16]]
+| next                  = [[2017–18 FIS Freestyle Ski World Cup|2017/18]]
+}}
+
+The '''2016/17 FIS Freestyle Ski World Cup''' was the thirty eighth [[FIS Freestyle Ski World Cup|World Cup]] season in [[freestyle skiing]] organised by [[International Ski Federation]]. The season started on 3 September 2016 and ended on 26 March 2017. This season included six disciplines: [[mogul skiing|moguls]], [[aerial skiing|aerials]], [[ski cross]], [[halfpipe]], [[slopestyle]] and [[big air]].<ref>{{cite web|url=https://www.fis-ski.com/DB/freestyle-freeski/freeski/calendar-results.html?&sectorcode=FS&seasoncode=2017&categorycode=WC&disciplinecode=MO,DM,AE,SX,HP,AET,SS,AETQ,BA&seasonmonth=X-2017|title=World Cup 2017 calendar and results|publisher=[[International Ski Federation]]}}</ref>
+
+== Map of world cup hosts ==
+All 33 locations hosting world cup events both for men and ladies.
+
+{|
+|- valign = "top"
+|
+{| cellpadding="3" cellspacing="0" border="1" style="background:#ffffff; font-size:69%; border:grey solid 1px; border-collapse:collapse;"
+|-
+| colspan="2" rowspan="7"|
+{{location map+|Europe|[[File:Europe laea location map.svg]]|width=1159|places=
+{{Location map~|Europe|lat=66.17|long=29.15|label=[[Kuusamo|Ruka]]|position=left}}
+{{Location map~|Europe|lat=45.4683|long=6.9056|label=[[Tignes]]|position=right}}
+{{Location map~|Europe|lat=45.298056|long=6.58|label=[[Val Thorens]]|position=left}}
+{{Location map~|Europe|lat=42.4983|long=2.0347|label=[[Font-Romeu-Odeillo-Via|Font-Romeu]]|position=top}}
+{{Location map~|Europe|lat=45.8578|long=6.6181|label=[[Megève]]|position=left}}
+{{Location map~|Europe|lat=47.041944|long=9.951667|label=[[Montafon]]|position=left}}
+{{Location map~|Europe|lat=46.733333|long=12.266667|label=[[Innichen]]|position=right}}
+{{Location map~|Europe|lat=46.7|long=10.55|label=[[Mals|Wat]]|position=right}}
+{{Location map~|Europe|lat=47.856111|long=8.111667|label=[[Feldberg, Baden-Württemberg|Feldberg]]|position=right}}
+{{Location map~|Europe|lat=61.856667|long=12.716667|label=[[Idre]]|position=right}}
+{{Location map~|Europe|lat=55.164442|long=61.436843|label=[[Chelyabinsk|Sunny Valley]]|position=top}}
+{{Location map~|Europe|lat=51.2|long=6.433333|label=[[Mönchengladbach]]|position=right}}
+{{Location map~|Europe|lat=55.75|long=37.616667|label=[[Moscow]]|position=left}}
+{{Location map~|Europe|lat=53.9|long=27.566667|label=[[Minsk]]|position=right}}
+{{Location map~|Europe|lat=45.466667|long=9.183333|label=[[Milan]]|position=bottom}}
+{{Location map~|Europe|lat=46.541111|long=11.644722|label=[[Seiser Alm]]|position=bottom}}
+{{Location map~|Europe|lat=60.7025|long=6.423056|label=[[Voss Municipality|Voss]]|position=right}}
+{{Location map~|Europe|lat=46.783333|long=9.683333|label=[[Arosa]]|position=left}}
+{{Location map~|Europe|lat=46.459986|long=9.795501|label=[[Silvaplana]]|position=left}}}}
+|}
+
+|
+{| cellpadding="3" cellspacing="0" border="1" style="background:#ffffff; font-size:69%; border:grey solid 1px; border-collapse:collapse;"
+|-
+| colspan="5" rowspan="5"|
+{{location map+|Asia|float=none|width=280|places=
+{{Location map~|Asia|lat=39.916667|long=116.383333|label=[[Beijing]]|position=bottom}}
+{{Location map~|Asia|lat=55.75|long=37.616667|label=[[Moscow]]|position=left}}
+{{Location map~|Asia|lat=55.164442|long=61.436843|label=[[Chelyabinsk|Sunny Valley]]|position=top}}
+{{Location map~|Asia|lat=40.95|long=115.2|label=[[Chongli District|Taiwoo]]|position=left}}
+{{Location map~|Asia|lat=39.724881|long=140.661392|label=[[Lake Tazawa|Tazawako]]|position=left}}
+{{Location map~|Asia|lat=37.39|long=128.40|label=[[Pyeongchang County|Pyeongchang]]|position=right}}}}
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="background:#ffffff; font-size:69%; border:grey solid 1px; border-collapse:collapse;"
+|-
+|
+{{location map+|North America|[[File:North America laea location map.svg]]|float=none|width=280|places=
+{{Location map~|North America|lat=44.482778|long=-80.333056|label=[[Blue Mountain (ski resort)|Blue Mount.]]|position=bottom}}
+{{Location map~|North America|lat=46.2726|long=-73.869422|label=[[Saint-Côme, Quebec|Val Côme]]|position=left}}
+{{Location map~|North America|lat=46.816667|long=-71.216667|label=[[Quebec City]]|position=right}}
+{{Location map~|North America|lat=39.501667|long=-106.156389|label=[[Copper Mountain (Colorado)|Copper Mountain]]|position=right}}
+{{Location map~|North America|lat=51.05|long=-114.066667|label=[[Calgary]]|position=top}}
+{{Location map~|North America|lat=37.6507|long=-119.0374|label=[[Mammoth Mountain Ski Area|Mammoth Mountain]]|position=bottom}}
+{{Location map~|North America|lat=40.622778|long=-111.489444|label=[[Deer Valley]]|position=top}}
+{{Location map~|North America|lat=44.279491|long=-73.979871|label=[[Lake Placid Olympic Ski Jumping Complex|Lake Placid]]|position=right}}}}
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="background:#ffffff; font-size:69%; border:grey solid 1px; border-collapse:collapse;"
+|-
+| 
+{{location map+|South America|[[File:North America laea location map.svg]]|float=none|width=280|places=
+{{Location map~|South America|lat=-33.347076|long=-70.291307|label=El Colorado|position=right}}}}
+|}
+|}
+
+== Men ==
+
+=== Ski Cross ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|-
+|colspan=9|
+|- bgcolor=#BCD4E6  
+|align=center|119 || align=center|1 || 9 December 2016 || {{flagicon|FRA}} [[Val Thorens]] || align=center|SX || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || {{flagicon|FRA}} [[Sylvain Miaillier]] || {{flagicon|SWE}} [[Victor Öhling Norberg]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8093/2017FS8093RLF.pdf|title=Men's Ski Cross: Val Thorens|publisher=International Ski Federation|date=9 December 2016}}</ref>
+|- bgcolor=#BCD4E6 
+|align=center|120 || align=center|2 || 10 December 2016 || {{flagicon|FRA}} [[Val Thorens]] || align=center|SX || {{flagicon|SUI}} [[Alex Fiva]] || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|SWE}} [[Viktor Andersson (skier)|Viktor Andersson]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8095/2017FS8095RLF.pdf|title=Men's Ski Cross: Val Thorens2|publisher=International Ski Federation|date=10 December 2016}}</ref>
+|- bgcolor=#BCD4E6  
+|align=center|121 || align=center|3 || 13 December 2016 || {{flagicon|SUI}} [[Arosa]] <small>(night)</small> || align=center|SX || {{flagicon|SUI}} [[Romain Détraz]] || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8099/2017FS8099RLF.pdf|title=Men's Ski Cross: Arosa|publisher=International Ski Federation|date=13 December 2016}}</ref>
+|- bgcolor=#BCD4E6  
+|align=center|122 || align=center|4 || 17 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SX || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || {{flagicon|FRA}} [[Jonas Devouassoux]] || {{flagicon|SUI}} [[Marc Bischofberger]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8158/2017FS8158RLF.pdf|title=Men's Ski Cross: Montafon|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- bgcolor=#BCD4E6 
+|align=center|123 || align=center|5 || 21 December 2016 || {{flagicon|ITA}} [[Innichen]] || align=center|SX || {{flagicon|SLO}} [[Filip Flisar]] || {{flagicon|GER}} [[Tim Hronek]] || {{flagicon|SUI}} [[Alex Fiva]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8105/2017FS8105RLF.pdf|title=Men's Ski Cross: Innichen|publisher=International Ski Federation|date=21 December 2016}}</ref> 
+|- bgcolor=#BCD4E6  
+|align=center|124 || align=center|6 || 22 December 2016 || {{flagicon|ITA}} [[Innichen]] || align=center|SX || {{flagicon|SLO}} [[Filip Flisar]] || {{flagicon|AUT}} [[Christoph Wahrstötter]] || {{flagicon|FRA}} [[Arnaud Bovolenta]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8107/2017FS8107RLF.pdf|title=Men's Ski Cross: Innichen2|publisher=International Ski Federation|date=22 December 2016}}</ref> 
+|- bgcolor=#BCD4E6
+| colspan=5 align=center|1st Cross Alps Tour Overall (9–22 December 2016)
+| {{flagicon|FRA}} [[Jean Frederic Chapuis]]
+| {{flagicon|SLO}} [[Filip Flisar]]
+| {{flagicon|SUI}} [[Alex Fiva]]
+| colspan=2|
+|-
+|colspan=9|
+|-
+|align=center|125 || align=center|7 || 14 January 2017<small>{{#tag:ref|Ski Cross lack of snow event for men from Megève rescheduled to Watles on 14 January 2017.|group="nb"}}</small> || {{flagicon|ITA}} [[Mals|Watles]] || align=center|SX || {{flagicon|SUI}} [[Armin Niederer]] || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8288/2017FS8288RBLF.pdf|title=Men's Ski Cross: Watles|publisher=International Ski Federation|date=14 January 2017}}</ref> 
+|-
+|align=center|126 || align=center|8 || 15 January 2017 || {{flagicon|ITA}} [[Mals|Watles]] || align=center|SX || {{flagicon|SUI}} [[Alex Fiva]] || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|SUI}} [[Armin Niederer]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8326/2017FS8326RBLF.pdf|title=Men's Ski Cross: Watles|publisher=International Ski Federation|date=15 January 2017}}</ref> 
+|- 
+|colspan=2| || 22 January 2017 || {{flagicon|FRA}} [[Megève]] || align=center|SX || colspan=4 align=center|''lack of snow; rescheduled to the first event in Watles''<ref>{{cite web|url=http://www.fis-ski.com/freestyle-skiing/ski-cross/news-multimedia/news/article=audi-fis-ski-cross-world-cup-megeve-fra-cancellation-double-watles.html|title=Ski Cross World Cup Megève cancellation & Double up in Watles|publisher=International Ski Federation|date=5 January 2017}}</ref> 
+|- 
+|align=center|127 || align=center|9 || 4 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SX || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|SUI}} [[Alex Fiva]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8304/2017FS8304RBLF.pdf|title=Men's Ski Cross: Feldberg|publisher=International Ski Federation|date=4 February 2017}}</ref> 
+|- 
+|align=center|128 || align=center|10 || 5 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SX ||  {{flagicon|FRA}} [[Jean Frederic Chapuis]] || {{flagicon|SLO}} [[Filip Flisar]] || {{flagicon|SUI}} [[Alex Fiva]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8306/2017FS8306SBLF.pdf|title=Men's Ski Cross: Feldberg2|publisher=International Ski Federation|date=5 February 2017}}</ref> 
+|- 
+|align=center|129 || align=center|11 || 11 February 2017 || {{flagicon|SWE}} [[Idre]] || align=center|SX || {{flagicon|SUI}} [[Alex Fiva]] || {{flagicon|SUI}} [[Marc Bischofberger]] || {{flagicon|RUS}} [[Igor Omelin]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8434/2017FS8434RLF.pdf|title=Men's Ski Cross: Idre|publisher=International Ski Federation|date=11 February 2017}}</ref>   
+|- 
+|align=center|130 || align=center|12 || 12 February 2017 || {{flagicon|SWE}} [[Idre]] || align=center|SX || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|FRA}} [[Arnaud Bovolenta]] || {{flagicon|FRA}} [[Jonas Devouassoux]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8436/2017FS8436RLF.pdf|title=Men's Ski Cross: Idre2|publisher=International Ski Federation|date=12 February 2017}}</ref>  
+|- 
+|align=center|131 || align=center|13 || 25 February 2017 || {{flagicon|RUS}} [[Chelyabinsk|Sunny Valley]] || align=center|SX || {{flagicon|FRA}} [[Arnaud Bovolenta]] || {{flagicon|GER}} [[Tim Hronek]] || {{flagicon|GER}} [[Daniel Bohnacker]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8422/2017FS8422RLF.pdf|title=Men's Ski Cross: Sunny Valley|publisher=International Ski Federation|date=25 February 2017}}</ref>   
+|- 
+|align=center|132 || align=center|14 || 5 March 2017 || {{flagicon|CAN}} [[Blue Mountain (ski resort)|Blue Mountain]] || align=center|SX || {{flagicon|CAN}} [[Brady Leman]] || {{flagicon|CAN}} [[Christopher Del Bosco]] || {{flagicon|SLO}} [[Filip Flisar]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8231/2017FS8231RLF.pdf|title=Men's Ski Cross: Sunny Valley2|publisher=International Ski Federation|date=5 March 2017}}</ref>
+|}
+
+=== Moguls ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|65 || align=center|1 || 4 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|DM || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|CAN}} [[Marc-Antoine Gagnon]] || {{flagicon|AUS}} [[Brodie Summers]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8484/2017FS8484RLF.pdf|title=Men's Dual Moguls: Deer Valley|publisher=International Ski Federation|date=4 February 2017}}</ref>
+|- 
+|align=center|66 || align=center|2 || 19 February 2017 || {{flagicon|JPN}} [[Lake Tazawa|Tazawako]] || align=center|DM || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|FRA}} [[Benjamin Cavet]] || {{flagicon|AUS}} [[Matt Graham (skier)|Matt Graham]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8364/2017FS8364RLF.pdf|title=Men's Dual Moguls: Tazawako|publisher=International Ski Federation|date=19 February 2017}}</ref> 
+|- 
+|align=center|67 || align=center|3 || 26 February 2017 || {{flagicon|CHN}} [[Chongli District|Thaiwoo]] || align=center|DM || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|SUI}} [[Marco Tadé]] || {{flagicon|USA}} [[Bradley Wilson (freestyle skier)|Bradley Wilson]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8255/2017FS8255RLF.pdf|title=Men's Dual Moguls: Thaiwoo|publisher=International Ski Federation|date=26 February 2017}}</ref>
+|-
+|colspan=9|
+|- 
+|align=center|317 || align=center|1 || 10 December 2016 || {{flagicon|FIN}} [[Rukatunturi|Ruka]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|AUS}} [[Matt Graham (skier)|Matt Graham]] || {{flagicon|FRA}} [[Benjamin Cavet]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8272/2017FS8272RLF.pdf|title=Men's Moguls: Ruka|publisher=International Ski Federation|date=10 December 2016}}</ref>
+|-
+|align=center|318 || align=center|2 || 14 January 2017 || {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]] || align=center|MO || {{flagicon|KAZ}} [[Dmitriy Reiherd]] || {{flagicon|FRA}} [[Benjamin Cavet]] || {{flagicon|USA}} [[Bradley Wilson (freestyle skier)|Bradley Wilson]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8464/2017FS8464RLF.pdf|title=Men's Moguls: Lake Placid|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|319 || align=center|3 || 22 January 2017 || {{flagicon|CAN}} [[Saint-Côme, Quebec|Val St. Come]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|FRA}} [[Sacha Theocharis]] || {{flagicon|SWE}} [[Walter Wallberg]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8203/2017FS8203RLF.pdf|title=Men's Moguls: Val St. Come|publisher=International Ski Federation|date=22 January 2017}}</ref>
+|- 
+|align=center|320 || align=center|4 || 28 January 2017 || {{flagicon|CAN}} [[Calgary]] || align=center|MO || {{flagicon|AUS}} [[Matt Graham (skier)|Matt Graham]] || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|FRA}} [[Benjamin Cavet]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8205/2017FS8205RLF.pdf|title=Men's Moguls: Calgary|publisher=International Ski Federation|date=29 January 2017}}</ref>
+|- 
+|align=center|321 || align=center|5 || 2 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|FRA}} [[Benjamin Cavet]] || {{flagicon|CAN}} [[Philippe Marquis]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8480/2017FS8480RLF.pdf|title=Men's Moguls: Deer Valley|publisher=International Ski Federation|date=2 February 2017}}</ref>
+|- 
+|align=center|322 || align=center|6 || 11 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|KAZ}} [[Dmitriy Reiherd]] || {{flagicon|CAN}} [[Philippe Marquis]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8405/2017FS8405RLF.pdf|title=Men's Moguls: Bokwang/Pyeongchang|publisher=International Ski Federation|date=11 February 2017}}</ref>
+|- 
+|align=center|323 || align=center|7 || 18 February 2017 || {{flagicon|JPN}} [[Lake Tazawa|Tazawako]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|CAN}} [[Philippe Marquis]] || {{flagicon|FRA}} [[Benjamin Cavet]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8360/2017FS8360RLF.pdf|title=Men's Moguls: Tazawako|publisher=International Ski Federation|date=18 February 2017}}</ref>
+|- 
+|align=center|324 || align=center|8 || 25 February 2017 || {{flagicon|CHN}} [[Chongli District|Thaiwoo]] || align=center|MO || {{flagicon|CAN}} [[Mikaël Kingsbury]] || {{flagicon|AUS}} [[Brodie Summers]] || {{flagicon|AUS}} [[Matt Graham (skier)|Matt Graham]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8253/2017FS8253RLF.pdf|title=Men's Moguls: Thaiwoo|publisher=International Ski Federation|date=25 February 2017}}</ref>
+|}
+
+=== Aerials ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|318 || align=center|1 || 17 December 2016 || {{flagicon|CHN}} [[Beidahu, Jilin|Beida Lake]] || align=center|AE || {{flagicon|BLR}} [[Anton Kushnir]] || {{flagicon|CHN}} [[Qi Guangpu]] || {{flagicon|CHN}} [[Zhou Hang]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8245/2017FS8245RLF.pdf|title=Men's Aerials: Beida Lake|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- 
+|align=center|319 || align=center|2 || 18 December 2016 || {{flagicon|CHN}} [[Beidahu, Jilin|Beida Lake]] || align=center|AE || {{flagicon|CHN}} [[Qi Guangpu]] || {{flagicon|CHN}} [[Liu Zhongqing]] || {{flagicon|BLR}} [[Maxim Gustik]]<BR>{{flagicon|CHN}} [[Wang Xindi]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8247/2017FS8247RLF.pdf|title=Men's Aerials: Beida Lake2|publisher=International Ski Federation|date=18 December 2016}}</ref>
+|- 
+|align=center|320 || align=center|3 || 14 January 2017 || {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]] || align=center|AE || {{flagicon|BLR}} [[Anton Kushnir]] || {{flagicon|USA}} [[Mac Bohonnon]] || {{flagicon|RUS}} [[Maxim Burov]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8466/2017FS8466RLF.pdf|title=Men's Aerials: Lake Placid|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|321 || align=center|4 || 3 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|AE || {{flagicon|CHN}} [[Qi Guangpu]] || {{flagicon|BLR}} [[Stanislau Hladchenko]] || {{flagicon|RUS}} [[Stanislav Nikitin]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8482/2017FS8482RLF.pdf|title=Men's Aerials: Deer Valley|publisher=International Ski Federation|date=3 February 2017}}</ref>
+|- 
+|align=center|322 || align=center|5 || 10 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|AE || {{flagicon|BLR}} [[Anton Kushnir]] || {{flagicon|CHN}} [[Qi Guangpu]] || {{flagicon|USA}} [[Mac Bohonnon]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8403/2017FS8403RLF.pdf|title=Men's Aerials: Pyeongchang|publisher=International Ski Federation|date=10 February 2017}}</ref>
+|- 
+|align=center|323 || align=center|6 || 25 February 2017 || {{flagicon|BLR}} [[Minsk]] || align=center|AE || {{flagicon|CHN}} [[Wang Xindi]] || {{flagicon|CHN}} [[Qi Guangpu]] || {{flagicon|CHN}} [[Zhou Hang]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8181/2017FS8181RLF.pdf|title=Men's Aerials: Minsk|publisher=International Ski Federation|date=25 February 2017}}</ref>
+|- 
+|align=center|324 || align=center|7 || 4 March 2017 || {{flagicon|RUS}} [[Moscow]] <small>(night)</small> || align=center|AE || {{flagicon|CHN}} [[Zhou Hang]] || {{flagicon|BLR}} [[Maxim Gustik]] || {{flagicon|RUS}} [[Maxim Burov]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8424/2017FS8424RLF.pdf|title=Men's Aerials: Moscow|publisher=International Ski Federation|date=4 March 2017}}</ref>
+|}
+
+=== Big Air ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|2 || align=center|1 || 3 September 2016 || {{flagicon|CHI}} El Colorado || align=center|BA || {{flagicon|SWE}} [[Henrik Harlaut]] || {{flagicon|SWI}} [[Fabian Bösch]] || {{flagicon|SWI}} [[Luca Schuler (skier)|Luca Schuler]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8039/2017FS8039RLF.pdf|title=Men's Big Air: El Colorado|publisher=International Ski Federation|date=3 September 2016}}</ref>
+|-
+|colspan=9|
+|- bgcolor=#EDC9AF
+|align=center|3 || align=center|2 || 11 November 2016 || {{flagicon|ITA}} [[Milan]] || align=center|BA || {{flagicon|SWI}} [[Kai Mahler]] || {{flagicon|NOR}} [[Øystein Bråten]] || {{flagicon|NOR}} [[Eirik Sateroy]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8081/2017FS8081RLF.pdf|title=Men's Big Air: Milan|publisher=International Ski Federation|date=11 November 2016}}</ref>
+|- bgcolor=#EDC9AF
+|align=center|4 || align=center|3 || 2 December 2016 || {{flagicon|GER}} [[Mönchengladbach]] || align=center|BA || {{flagicon|SWE}} [[Henrik Harlaut]] || {{flagicon|SWI}} [[Luca Schuler (skier)|Luca Schuler]] || {{flagicon|NOR}} [[Eirik Sateroy]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8087/2017FS8087RLF.pdf|title=Men's Big Air: Moenchengladbach|publisher=International Ski Federation|date=2 December 2016}}</ref>
+|- bgcolor=#EDC9AF
+|align=center|5 || align=center|4 || 11 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|BA || {{flagicon|SWI}} [[Kai Mahler]] || {{flagicon|SWE}} [[Henrik Harlaut]] || {{flagicon|SWI}} [[Andri Ragettli]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8211/2017FS8211RLF.pdf|title=Men's Big Air: Quebec City|publisher=International Ski Federation|date=11 February 2017}}</ref>
+|- bgcolor=#EDC9AF
+| colspan=5 align=center|FIS Super Series (11 November 2016 – 11 February 2017)
+| {{flagicon|SWI}} [[Kai Mahler]]
+| {{flagicon|SWE}} [[Henrik Harlaut]]
+| {{flagicon|SWI}} [[Andri Ragettli]]
+|colspan=2|
+|-
+|colspan=9|
+|- 
+|align=center|6 || align=center|5 || 24 March 2017 || {{flagicon|NOR}} Myrkdalen-[[Voss Municipality|Voss]] || align=center|BA || {{flagicon|NOR}} [[Christian Nummedal]] || {{flagicon|NOR}} [[Birk Ruud]] || {{flagicon|NOR}} [[Ferdinand Dahl]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8417/2017FS8417RLF.pdf|title=Men's Big Air: Voss|publisher=International Ski Federation|date=24 March 2017}}</ref>
+|- 
+|align=center|7 || align=center|6 || 25 March 2017 || {{flagicon|NOR}} Myrkdalen-[[Voss Municipality|Voss]] || align=center|BA || {{flagicon|NOR}} [[Birk Ruud]] || {{flagicon|FRA}} [[Antoine Adelisse]] || {{flagicon|NOR}} [[Felix Stridsberg-Usterud]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8826/2017FS8826RLF.pdf|title=Men's Big Air: Voss2|publisher=International Ski Federation|date=25 March 2017}}</ref>
+|}
+
+=== Slopestyle ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|18 || align=center|1 || 14 January 2017 || {{flagicon|FRA}} [[Font-Romeu-Odeillo-Via|Font Romeu]] || align=center|SS || {{flagicon|USA}} [[McRae Williams]] || {{flagicon|SWE}} [[Jesper Tjader]] || {{flagicon|CAN}} [[Alex Bellemare]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8284/2017FS8284RLF.pdf|title=Men's Ski Slopestyle: Font Romeu|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|19 || align=center|2 || 28 January 2017 || {{flagicon|ITA}} [[Seiser Alm]] || align=center|SS || {{flagicon|USA}} [[Colby Stevenson]] || {{flagicon|SUI}} [[Colin Wili]] || {{flagicon|AUS}} [[Russell Henshaw]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8330/2017FS8330RLF.pdf|title=Men's Ski Slopestyle: Seiser Alm|publisher=International Ski Federation|date=29 January 2017}}</ref>
+|- 
+|colspan=2| || 5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth Mountain]] || align=center|SS || colspan=4 align=center|''cancelled due to weather conditions: high winds and driving snow''
+|- 
+|align=center|21 || align=center|3 || 12 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|SS || {{flagicon|SUI}} [[Andri Ragettli]] || {{flagicon|GBR}} [[James Woods (freestyle skier)|James Woods]] || {{flagicon|CAN}} [[Alex Beaulieu-Marchand]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8213/2017FS8213RLF.pdf|title=Men's Ski Slopestyle: Quebec City|publisher=International Ski Federation|date=12 February 2017}}</ref>
+|- 
+|align=center|22 || align=center|4 || 3 March 2017 || {{flagicon|SUI}} [[Silvaplana]] || align=center|SS || {{flagicon|CAN}} [[Teal Harle]] || {{flagicon|USA}} [[McRae Williams]] || {{flagicon|USA}} [[Gus Kenworthy]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8135/2017FS8135RLF.pdf|title=Men's Ski Slopestyle: Silvaplana|publisher=International Ski Federation|date=3 March 2017}}</ref>
+|}
+
+=== Halfpipe ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|34 || align=center|1 || 17 December 2016 || {{flagicon|USA}} [[Copper Mountain (Colorado)|Copper Mountain]] || align=center|HP || {{flagicon|FRA}} [[Kevin Rolland]] || {{flagicon|FRA}} [[Benoit Valentin]] || {{flagicon|USA}} [[Aaron Blunck]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8111/2017FS8111RLF.pdf|title=Men's Ski Halfpipe: Copper Mountain|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- 
+|align=center|35 || align=center|2 || 4 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth Mountain]] || align=center|HP || {{flagicon|USA}} [[Torin Yater-Wallace]] || {{flagicon|USA}} [[Gus Kenworthy]] || {{flagicon|USA}} [[Taylor Seaton]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8476/2017FS8476RLF.pdf|title=Men's Ski Halfpipe: Mammoth Mountain|publisher=International Ski Federation|date=4 February 2017}}</ref>
+|- 
+|align=center|36 || align=center|3 || 18 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|HP || {{flagicon|USA}} [[Torin Yater-Wallace]] || {{flagicon|USA}} [[Aaron Blunck]] || {{flagicon|FRA}} [[Benoit Valentin]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8409/2017FS8409RLF.pdf|title=Men's Ski Halfpipe: Pyeongchang|publisher=International Ski Federation|date=18 February 2017}}</ref> 
+|- 
+|align=center|37 || align=center|4 || 7 March 2017 || {{flagicon|FRA}} [[Tignes]] <small>(night)</small> || align=center|HP || {{flagicon|USA}} [[Alex Ferreira]] || {{flagicon|USA}} [[Taylor Seaton]] || {{flagicon|FRA}} [[Kevin Rolland]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8294/2017FS8294RLF.pdf|title=Men's Ski Halfpipe: Tignes|publisher=International Ski Federation|date=7 March 2017}}</ref>  
+|}
+
+== Women ==
+
+=== Ski Cross ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|-
+|colspan=9|
+|- bgcolor=#BCD4E6 
+|align=center|120 || align=center|1 || 9 December 2016 || {{flagicon|FRA}} [[Val Thorens]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|SUI}} [[Fanny Smith]] || {{flagicon|SWE}} [[Sandra Näslund]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8092/2017FS8092RLF.pdf|title=Ladies' Ski Cross: Val Thorens|publisher=International Ski Federation|date=9 December 2016}}</ref>
+|- bgcolor=#BCD4E6
+|align=center|121 || align=center|2 || 10 December 2016 || {{flagicon|FRA}} [[Val Thorens]] || align=center|SX || {{flagicon|SWE}} [[Anna Holmlund]] || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|GER}} [[Daniela Maier]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8094/2017FS8094RLF.pdf|title=Ladies' Ski Cross: Val Thorens2|publisher=International Ski Federation|date=10 December 2016}}</ref>
+|- bgcolor=#BCD4E6 
+|align=center|122 || align=center|3 || 13 December 2016 || {{flagicon|SUI}} [[Arosa]] <small>(night)</small> || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|POL}} [[Karolina Riemen]] || {{flagicon|FRA}} [[Ophélie David]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8098/2017FS8098RLF.pdf|title=Ladies' Ski Cross: Arosa|publisher=International Ski Federation|date=13 December 2016}}</ref>
+|- bgcolor=#BCD4E6
+|align=center|123 || align=center|4 || 17 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|FRA}} [[Marielle Berger-Sabbatel]] || {{flagicon|GER}} [[Heidi Zacher]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8157/2017FS8157RLF.pdf|title=Ladies' Ski Cross: Montafon|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- bgcolor=#BCD4E6
+|align=center|124 || align=center|5 || 21 December 2016 || {{flagicon|ITA}} [[Innichen]] || align=center|SX || {{flagicon|GER}} [[Heidi Zacher]] || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|CAN}} [[Georgia Simmerling]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8104/2017FS8104RLF.pdf|title=Ladies' Ski Cross: Innichen|publisher=International Ski Federation|date=21 December 2016}}</ref> 
+|- bgcolor=#BCD4E6 
+|align=center|125 || align=center|6 || 22 December 2016 || {{flagicon|ITA}} [[Innichen]] || align=center|SX || {{flagicon|GER}} [[Heidi Zacher]] || {{flagicon|SUI}} [[Fanny Smith]] || {{flagicon|FRA}} [[Marielle Berger-Sabbatel]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8106/2017FS8106RLF.pdf|title=Ladies' Ski Cross: Innichen2|publisher=International Ski Federation|date=22 December 2016}}</ref> 
+|- bgcolor=#BCD4E6
+| colspan=5 align=center|1st Cross Alps Tour Overall (9–22 December 2016)
+| {{flagicon|CAN}} [[Marielle Thompson]]
+| {{flagicon|GER}} [[Heidi Zacher]]
+| {{flagicon|SUI}} [[Fanny Smith]]
+| colspan=2|
+|-
+|colspan=9|
+|-
+|align=center|126 || align=center|7 || 14 January 2017<small>{{#tag:ref|Ski Cross lack of snow event for ladies from Megève is rescheduled to Watles on 14 January 2017.|group="nb"}}</small> || {{flagicon|ITA}} [[Mals|Watles]] || align=center|SX || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|CAN}} [[Georgia Simmerling]] || {{flagicon|GER}} [[Heidi Zacher]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8287/2017FS8287RLF.pdf|title=Ladies' Ski Cross: Watles|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|127 || align=center|8 || 15 January 2017 || {{flagicon|ITA}} [[Mals|Watles]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|SUI}} [[Fanny Smith]] || {{flagicon|FRA}} [[Marielle Berger-Sabbatel]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8325/2017FS8325RLF.pdf|title=Ladies' Ski Cross: Watles2|publisher=International Ski Federation|date=15 January 2017}}</ref>
+|- 
+|colspan=2| || 22 January 2017 || {{flagicon|FRA}} [[Megève]] || align=center|SX || colspan=4 align=center|''lack of snow; rescheduled to the first event in Watles''<ref>{{cite web|url=http://www.fis-ski.com/freestyle-skiing/ski-cross/news-multimedia/news/article=audi-fis-ski-cross-world-cup-megeve-fra-cancellation-double-watles.html|title=Ski Cross World Cup Megève cancellation & Double up in Watles|publisher=International Ski Federation|date=5 January 2017}}</ref> 
+|- 
+|align=center|128 || align=center|9 || 4 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SX || {{flagicon|GER}} [[Heidi Zacher]] || {{flagicon|SUI}} [[Fanny Smith]] || {{flagicon|SWE}} [[Sandra Näslund]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8303/2017FS8303RLF.pdf|title=Ladies' Ski Cross: Feldberg|publisher=International Ski Federation|date=14 February 2017}}</ref>
+|- 
+|colspan=2| || 5 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SX || colspan=4 align=center|''cancelled due to heavy snow''
+|- 
+|align=center|130 || align=center|10 || 11 February 2017 || {{flagicon|SWE}} [[Idre]] || align=center|SX || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|AUS}} [[Sami Kennedy-Sim]] || {{flagicon|AUT}} [[Katrin Ofner]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8433/2017FS8433RLF.pdf|title=Ladies' Ski Cross: Idre|publisher=International Ski Federation|date=11 February 2017}}</ref> 
+|- 
+|align=center|131 || align=center|11 || 12 February 2017 || {{flagicon|SWE}} [[Idre]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|SWI}} [[Fanny Smith]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8435/2017FS8435RLF.pdf|title=Ladies' Ski Cross: Idre2|publisher=International Ski Federation|date=12 February 2017}}</ref> 
+|- 
+|align=center|132 || align=center|12 || 25 February 2017 || {{flagicon|RUS}} [[Chelyabinsk|Sunny Valley]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|FRA}} [[Ophélie David]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8421/2017FS8421RLF.pdf|title=Ladies' Ski Cross: Sunny Valley|publisher=International Ski Federation|date=25 February 2017}}</ref>
+|- 
+|align=center|133 || align=center|13 || 5 March 2017 || {{flagicon|CAN}} [[Blue Mountain (ski resort)|Blue Mountain]] || align=center|SX || {{flagicon|CAN}} [[Marielle Thompson]] || {{flagicon|SWE}} [[Sandra Näslund]] || {{flagicon|SWI}} [[Fanny Smith]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8230/2017FS8230RLF.pdf|title=Ladies' Ski Cross: Blue Mountain|publisher=International Ski Federation|date=5 March 2017}}</ref>
+|}
+
+=== Moguls ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|64 || align=center|1 || 4 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|DM || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|CAN}} [[Andi Naude]] || {{flagicon|USA}} [[Jaelin Kauf]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8483/2017FS8483RLF.pdf|title=Ladies' Dual Moguls: Deer Valley|publisher=International Ski Federation|date=4 February 2017}}</ref>
+|- 
+|align=center|65 || align=center|2 || 19 February 2017 || {{flagicon|JPN}} [[Lake Tazawa|Tazawako]] || align=center|DM || {{flagicon|USA}} [[Jaelin Kauf]] || {{flagicon|KAZ}} [[Yuliya Galysheva]] || {{flagicon|USA}} [[Olivia Giaccio]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8363/2017FS8363RLF.pdf|title=Ladies' Dual Moguls: Tazawako|publisher=International Ski Federation|date=19 February 2017}}</ref> 
+|- 
+|align=center|66 || align=center|3 || 26 February 2017 || {{flagicon|CHN}} [[Chongli District|Thaiwoo]] || align=center|DM  || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|FRA}} [[Perrine Laffont]] || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8254/2017FS8254RLF.pdf|title=Ladies' Dual Moguls: Thaiwoo|publisher=International Ski Federation|date=26 February 2017}}</ref>
+|-
+|colspan=9|
+|- 
+|align=center|318 || align=center|1 || 10 December 2016 || {{flagicon|FIN}} [[Rukatunturi|Ruka]] || align=center|MO || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|FRA}} [[Perrine Laffont]] || {{flagicon|USA}} [[Keaton McCargo]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8271/2017FS8271RLF.pdf|title=Ladies' Moguls: Ruka|publisher=International Ski Federation|date=10 December 2016}}</ref>
+|-
+|align=center|319 || align=center|2 || 13 January 2017 || {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]] || align=center|MO || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|FRA}} [[Perrine Laffont]] || {{flagicon|USA}} [[Morgan Schild]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8463/2017FS8463RLF.pdf|title=Ladies' Moguls: Lake Placid|publisher=International Ski Federation|date=13 January 2017}}</ref>
+|- 
+|align=center|320 || align=center|3 || 21 January 2017 || {{flagicon|CAN}} [[Saint-Côme, Quebec|Val St. Come]] || align=center|MO || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || {{flagicon|CAN}} [[Andi Naude]] || {{flagicon|CAN}} [[Chloe Dufour-Lapointe]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8202/2017FS8202RLF.pdf|title=Ladies' Moguls: Val St. Come|publisher=International Ski Federation|date=21 January 2017}}</ref>
+|- 
+|align=center|321 || align=center|4 || 28 January 2017 || {{flagicon|CAN}} [[Calgary]] || align=center|MO || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || {{flagicon|CAN}} [[Chloe Dufour-Lapointe]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8204/2017FS8204RLF.pdf|title=Ladies' Moguls: Calgary|publisher=International Ski Federation|date=28 January 2017}}</ref>
+|- 
+|align=center|322 || align=center|5 || 2 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|MO || {{flagicon|USA}} [[Morgan Schild]] || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || {{flagicon|AUS}} [[Britteny Cox]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8479/2017FS8479RLF.pdf|title=Ladies' Moguls: Deer Valley|publisher=International Ski Federation|date=2 February 2017}}</ref>
+|- 
+|align=center|323 || align=center|6 || 11 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|MO || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || {{flagicon|CAN}} [[Andi Naude]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8404/2017FS8404RLF.pdf|title=Ladies' Moguls: Pyeongchang|publisher=International Ski Federation|date=11 February 2017}}</ref>
+|- 
+|align=center|324 || align=center|7 || 18 February 2017 || {{flagicon|JPN}} [[Lake Tazawa|Tazawako]] || align=center|MO || {{flagicon|AUS}} [[Britteny Cox]] || {{flagicon|FRA}} [[Perrine Laffont]] || {{flagicon|CAN}} [[Andi Naude]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8359/2017FS8359RLF.pdf|title=Ladies' Moguls: Tazawako|publisher=International Ski Federation|date=18 February 2017}}</ref>
+|- 
+|align=center|325 || align=center|8 || 25 February 2017 || {{flagicon|CHN}} [[Chongli District|Thaiwoo]] || align=center|MO || {{flagicon|FRA}} [[Perrine Laffont]] || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || {{flagicon|AUS}} [[Britteny Cox]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8252/2017FS8252RLF.pdf|title=Ladies' Moguls: Thaiwoo|publisher=International Ski Federation|date=25 February 2017}}</ref>
+|}
+
+=== Aerials ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|321 || align=center|1 || 17 December 2016 || {{flagicon|CHN}} [[Beidahu, Jilin|Beida Lake]] || align=center|AE || {{flagicon|CHN}} [[Xu Mengtao]] || {{flagicon|AUS}} [[Danielle Scott (freestyle skier)|Danielle Scott]] || {{flagicon|RUS}} [[Liubov Nikitina]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8244/2017FS8244RLF.pdf|title=Ladies' Aerials: Beida Lake|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- 
+|align=center|322 || align=center|2 || 18 December 2016 || {{flagicon|CHN}} [[Beidahu, Jilin|Beida Lake]] || align=center|AE || {{flagicon|AUS}} [[Danielle Scott (freestyle skier)|Danielle Scott]] || {{flagicon|CHN}} [[Xu Mengtao]] || {{flagicon|AUS}} [[Samantha Wells]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8246/2017FS8246RLF.pdf|title=Ladies' Aerials: Beida Lake2|publisher=International Ski Federation|date=18 December 2016}}</ref>
+|- 
+|align=center|323 || align=center|3 || 14 January 2017 || {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]] || align=center|AE || {{flagicon|USA}} [[Ashley Caldwell]] || {{flagicon|AUS}} [[Danielle Scott (freestyle skier)|Danielle Scott]] || {{flagicon|RUS}} [[Kristina Spiridonova]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8465/2017FS8465RLF.pdf|title=Ladies' Aerials: Lake Placid|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|324 || align=center|4 || 3 February 2017 || {{flagicon|USA}} [[Deer Valley]] || align=center|AE || {{flagicon|AUS}} [[Lydia Lassila]] || {{flagicon|USA}} [[Kiley McKinnon]] || {{flagicon|CHN}} [[Xu Mengtao]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8481/2017FS8481RLF.pdf|title=Ladies' Aerials: Deer Valley|publisher=International Ski Federation|date=3 February 2017}}</ref>
+|- 
+|align=center|325 || align=center|5 || 10 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|AE || {{flagicon|CHN}} [[Xu Mengtao]] || {{flagicon|CHN}} [[Shen Xiaoxue]] || {{flagicon|CHN}} [[Yang Yu (skier)|Yang Yu]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8402/2017FS8402RLF.pdf|title=Ladies' Aerials: Pyeongchang|publisher=International Ski Federation|date=10 February 2017}}</ref>
+|- 
+|align=center|326 || align=center|6 || 25 February 2017 || {{flagicon|BLR}} [[Minsk]] || align=center|AE || {{flagicon|AUS}} [[Lydia Lassila]] || {{flagicon|AUS}} [[Danielle Scott (freestyle skier)|Danielle Scott]] || {{flagicon|CHN}} [[Xu Mengtao]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8180/2017FS8180RLF.pdf|title=Ladies' Aerials: Minsk|publisher=International Ski Federation|date=25 February 2017}}</ref>
+|- 
+|align=center|327 || align=center|7 || 4 March 2017 || {{flagicon|RUS}} [[Moscow]] || align=center|AE || {{flagicon|AUS}} [[Lydia Lassila]] || {{flagicon|CHN}} [[Xu Mengtao]] || {{flagicon|AUS}} [[Laura Peel]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8423/2017FS8423RLF.pdf|title=Ladies' Aerials: Moscow|publisher=International Ski Federation|date=4 March 2017}}</ref>
+|}
+
+=== Big Air ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|2 || align=center|1 || 3 September 2016 || {{flagicon|CHI}} El Colorado || align=center|BA || {{flagicon|SWE}} [[Emma Dahlström]] || {{flagicon|SWI}} [[Giulia Tanno]] || {{flagicon|CHI}} [[Melanie Kraizel]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8038/2017FS8038RLF.pdf|title=Ladies' Big Air: El Colorado|publisher=International Ski Federation|date=3 September 2016}}</ref>
+|-
+|colspan=9|
+|- bgcolor=#EDC9AF
+|align=center|3 || align=center|2 || 11 November 2016 || {{flagicon|ITA}} [[Milan]] || align=center|BA || {{flagicon|GER}} [[Lisa Zimmermann (skier)|Lisa Zimmermann]] || {{flagicon|SWI}} [[Mathilde Gremaud]] || {{flagicon|SWE}} [[Emma Dahlström]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8080/2017FS8080RLF.pdf|title=Ladies' Big Air: Milan|publisher=International Ski Federation|date=11 November 2016}}</ref>
+|- bgcolor=#EDC9AF
+|align=center|4 || align=center|3 || 2 December 2016 || {{flagicon|GER}} [[Mönchengladbach]] || align=center|BA || {{flagicon|ITA}} [[Silvia Bertagna]] || {{flagicon|SWE}} [[Emma Dahlström]] || {{flagicon|GER}} [[Lisa Zimmermann (skier)|Lisa Zimmermann]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8086/2017FS8086RLF.pdf|title=Ladies' Big Air: Moenchengladbach|publisher=International Ski Federation|date=2 December 2016}}</ref>
+|- bgcolor=#EDC9AF
+|align=center|5 || align=center|4 || 11 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|BA || {{flagicon|SWI}} [[Mathilde Gremaud]] || {{flagicon|SWI}} [[Giulia Tanno]] || {{flagicon|SWI}} [[Sarah Höfflin]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8210/2017FS8210RLF.pdf|title=Ladies' Big Air: Quebec City|publisher=International Ski Federation|date=11 February 2017}}</ref>
+|- bgcolor=#EDC9AF
+| colspan=5 align=center|FIS Super Series (11 November 2016 – 11 February 2017)
+| {{flagicon|SWI}} [[Mathilde Gremaud]]
+| {{flagicon|ITA}} [[Silvia Bertagna]]
+| {{flagicon|GER}} [[Lisa Zimmermann (skier)|Lisa Zimmermann]]
+|colspan=2|
+|-
+|colspan=9|
+|- 
+|align=center|6 || align=center|5 || 24 March 2017 || {{flagicon|NOR}} Myrkdalen-[[Voss Municipality|Voss]] || align=center|BA || {{flagicon|SWE}} [[Emma Dahlström]] || {{flagicon|ITA}} [[Silvia Bertagna]] || {{flagicon|NOR}} [[Tora Johansen]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8416/2017FS8416RLF.pdf|title=Ladies' Big Air: Voss|publisher=International Ski Federation|date=24 March 2017}}</ref>
+|- 
+|align=center|7 || align=center|6 || 25 March 2017 || {{flagicon|NOR}} Myrkdalen-[[Voss Municipality|Voss]] || align=center|BA || {{flagicon|SWE}} [[Emma Dahlström]] || {{flagicon|ITA}} [[Silvia Bertagna]] || {{flagicon|GER}} [[Kea Kühnel]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8418/2017FS8418RLF.pdf|title=Ladies' Big Air: Voss2|publisher=International Ski Federation|date=25 March 2017}}</ref>
+|}
+
+=== Slopestyle ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|18 || align=center|1 || 14 January 2017 || {{flagicon|FRA}} [[Font-Romeu-Odeillo-Via|Font Romeu]] || align=center|SS || {{flagicon|FRA}} [[Tess Ledeux]] || {{flagicon|NOR}} [[Johanne Killi]] || {{flagicon|CAN}} [[Anouk Purnelle-Faniel]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8283/2017FS8283RLF.pdf|title=Ladies' Slopestyle: Font Romeu|publisher=International Ski Federation|date=14 January 2017}}</ref>
+|- 
+|align=center|19 || align=center|2 || 28 January 2017 || {{flagicon|ITA}} [[Seiser Alm]] || align=center|SS || {{flagicon|SUI}} [[Sarah Höfflin]] || {{flagicon|FRA}} [[Coline Ballet Baz]] || {{flagicon|USA}} [[Caroline Claire]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8329/2017FS8329RLF.pdf|title=Ladies' Slopestyle: Seiser Alm|publisher=International Ski Federation|date=28 January 2017}}</ref>
+|- 
+|align=center|20 || align=center|3 || 5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth Mountain]] || align=center|SS || {{flagicon|USA}} [[Maggie Voisin]] || {{flagicon|SUI}} [[Mathilde Gremaud]] || {{flagicon|NOR}} [[Johanne Killi]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8477/2017FS8477RLF.pdf|title=Ladies' Slopestyle: Mammoth Mountain|publisher=International Ski Federation|date=5 February 2017}}</ref>
+|- 
+|align=center|21 || align=center|4 || 12 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|SS || {{flagicon|NOR}} [[Johanne Killi]] || {{flagicon|SUI}} [[Sarah Höfflin]] || {{flagicon|SUI}} [[Giulia Tanno]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8212/2017FS8212RLF.pdf|title=Ladies' Slopestyle: Quebec City|publisher=International Ski Federation|date=12 February 2017}}</ref>
+|- 
+|align=center|22 || align=center|5 || 3 March 2017 || {{flagicon|SUI}} [[Silvaplana]] || align=center|SS || {{flagicon|GBR}} [[Isabel Atkin]] || {{flagicon|SWE}} [[Emma Dahlström]] || {{flagicon|SUI}} [[Mathilde Gremaud]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8134/2017FS8134RLF.pdf|title=Ladies' Slopestyle: Silvaplana|publisher=International Ski Federation|date=3 March 2017}}</ref>
+|}
+
+=== Halfpipe ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|34 || align=center|1 || 17 December 2016 || {{flagicon|USA}} [[Copper Mountain (Colorado)|Copper Mountain]] || align=center|HP || {{flagicon|FRA}} [[Marie Martinod]] || {{flagicon|USA}} [[Annalisa Drew]] || {{flagicon|USA}} [[Devin Logan]] || <ref>{{cite web|url=http://medias2.fis-ski.com/pdf/2017/FS/8110/2017FS8110RLF.pdf|title=Ladies' Ski Halfpipe: Copper Mountain|publisher=International Ski Federation|date=17 December 2016}}</ref>
+|- 
+|align=center|35 || align=center|2 || 4 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth Mountain]] || align=center|HP || {{flagicon|FRA}} [[Marie Martinod]] || {{flagicon|USA}} [[Maddie Bowman]] || {{flagicon|JPN}} [[Ayana Onozuka]] || <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8475/2017FS8475RLF.pdf|title=Ladies' Ski Halfpipe: Mammoth Mountain|publisher=International Ski Federation|date=4 February 2017}}</ref>
+|- 
+|align=center|36 || align=center|3 || 18 February 2017 || {{flagicon|KOR}} [[Bogwang Phoenix Park|Bogwang]]/[[Pyeongchang County|Pyeongchang]] || align=center|HP || {{flagicon|FRA}} [[Marie Martinod]] || {{flagicon|USA}} [[Devin Logan]] || {{flagicon|JPN}} [[Ayana Onozuka]] || <ref>{{cite web|url=http://medias4.fis-ski.com/pdf/2017/FS/8408/2017FS8408RLF.pdf|title=Ladies' Ski Halfpipe: Pyeongchang|publisher=International Ski Federation|date=18 February 2017}}</ref>
+|- 
+|align=center|37 || align=center|4 || 7 March 2017 || {{flagicon|FRA}} [[Tignes]] <small>(night)</small> || align=center|HP || {{flagicon|CAN}} [[Cassie Sharpe]] || {{flagicon|JPN}} [[Ayana Onozuka]] || {{flagicon|FRA}} [[Marie Martinod]] || <ref>{{cite web|url=http://medias1.fis-ski.com/pdf/2017/FS/8293/2017FS8293RLF.pdf|title=Ladies' Ski Halfpipe: Tignes|publisher=International Ski Federation|date=7 March 2017}}</ref>
+|}
+
+== Team ==
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|Num|Overall competition number}}
+!scope="col" style="width=30 px;"|{{Abbr|Season|Season number}}
+!scope="col" style="width:140px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;"|Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|align=center|4 || align=center|1 || 18 December 2016 || {{flagicon|CHN}} [[Beidahu, Jilin|Beida Lake]] || align=center|AE<small>T</small>
+| {{Relay|{{RUS}} |[[Alexandra Orlova]]|[[Liubov Nikitina]]|[[Maxim Burov]]}} 
+| {{Relay|{{CAN}} |[[Catrine Lavallee]]|[[Travis Gerrits]]|[[Lewis Irving]]}} 
+| {{Relay|{{AUS}} |[[Samantha Wells]]|[[Danielle Scott (freestyle skier)|Danielle Scott]]|[[David Morris (skier)|David Morris]]}} 
+| <ref>{{cite web|url=http://medias3.fis-ski.com/pdf/2017/FS/8248/2017FS8248RLF.pdf|title=Team Aerials - Beida Lake, China|publisher=International Ski Federation|date=18 December 2016}}</ref>
+|}
+
+== Men's standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Mikaël Kingsbury]] || align=center|92.73
+|- 
+| align=center|2 || {{flagicon|SWE}} [[Henrik Harlaut]] || align=center|65.67
+|- 
+| align=center|3 || {{flagicon|CHN}} [[Qi Guangpu]] || align=center|62.86
+|- 
+| align=center|4 || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || align=center|54.50
+|- 
+| align=center|5 || {{flagicon|FRA}} [[Benjamin Cavet]] || align=center|52.18
+|}
+*Standings after 46 races.
+{{col-break|width=33%}}
+
+=== Ski Cross ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || align=center|763
+|- 
+| align=center|2 || {{flagicon|CAN}} [[Brady Leman]] || align=center|721
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Alex Fiva]] || align=center|639
+|- 
+| align=center|4 || {{flagicon|SLO}} [[Filip Flisar]] || align=center|525
+|- 
+| align=center|5 || {{flagicon|SUI}} [[Armin Niederer]] || align=center|489
+|}
+*Standings after 14 races.
+{{col-break|width=33%}}
+
+=== Moguls ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Mikaël Kingsbury]] || align=center|1020
+|- 
+| align=center|2 || {{flagicon|FRA}} [[Benjamin Cavet]] || align=center|574
+|- 
+| align=center|3 || {{flagicon|AUS}} [[Matt Graham (skier)|Matt Graham]] || align=center|554
+|- 
+| align=center|4 || {{flagicon|CAN}} [[Philippe Marquis]] || align=center|499
+|- 
+| align=center|5 || {{flagicon|KAZ}} [[Dmitriy Reiherd]] || align=center|372
+|}
+*Standings after 11 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Aerials ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CHN}} [[Qi Guangpu]] || align=center|440
+|- 
+| align=center|2 || {{flagicon|USA}} [[Mac Bohonnon]] || align=center|328
+|- 
+| align=center|3 || {{flagicon|BLR}} [[Anton Kushnir]] || align=center|308
+|- 
+| align=center|4 || {{flagicon|CHN}} [[Zhou Hang]] || align=center|296
+|- 
+| align=center|5 || {{flagicon|BLR}} [[Maxim Gustik]] || align=center|275
+|}
+*Standings after 7 events.
+{{col-break|width=33%}}
+
+=== Big Air ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|SWE}} [[Henrik Harlaut]] || align=center|394
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Birk Ruud]] || align=center|251
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Øystein Bråten]] || align=center|242
+|- 
+| align=center|4 || {{flagicon|SWI}} [[Kai Mahler]] || align=center|240
+|- 
+| align=center|5 || {{flagicon|NOR}} [[Christian Nummedal]] || align=center|229
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== Slopestyle ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|USA}} [[McRae Williams]] || align=center| 180
+|- 
+| align=center|2 || {{flagicon|SUI}} [[Andri Ragettli]] || align=center| 172
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Colin Wili]] || align=center| 144
+|- 
+| align=center|4 || {{flagicon|SWE}} [[Jesper Tjader]] || align=center| 136
+|- 
+| align=center|5 || {{flagicon|CAN}} [[Teal Harle]] || align=center| 135
+|}
+*Standings after 4 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Halfpipe ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|FRA}} [[Kevin Rolland]] || align=center|239
+|- 
+| align=center|2 || {{flagicon|FRA}} [[Benoit Valentin]] || align=center|235
+|- 
+| align=center|3 || {{flagicon|USA}} [[Aaron Blunck]] || align=center|219
+|- 
+| align=center|4 || {{flagicon|USA}} [[Torin Yater-Wallace]] || align=center|218
+|- 
+| align=center|5 || {{flagicon|USA}} [[Taylor Seaton]] || align=center|182
+|}
+*Standings after 4 races.
+{{col-break|width=33%}}
+
+=== Cross Alps Tour ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|FRA}} [[Jean Frederic Chapuis]] || align=center|359
+|- 
+| align=center|2 || {{flagicon|SLO}} [[Filip Flisar]] || align=center|282
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Alex Fiva]] || align=center|255
+|- 
+| align=center|4 || {{flagicon|CAN}} [[Brady Leman]] || align=center|247
+|- 
+| align=center|5 || {{flagicon|SUI}} [[Marc Bischofberger]] || align=center|220
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== FIS Super Series ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|SWI}} [[Kai Mahler]] || align=center|216
+|- 
+| align=center|2 || {{flagicon|SWE}} [[Henrik Harlaut]] || align=center|209
+|- 
+| align=center|3 || {{flagicon|SWI}} [[Andri Ragettli]] || align=center|155
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Øystein Bråten]] || align=center|152
+|- 
+| align=center|5 || {{flagicon|NOR}} [[Eirik Sateroy]] || align=center|125
+|}
+*Standings after 3 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+== Women's standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUS}} [[Britteny Cox]] || align=center|81.27
+|- 
+| align=center|2 || {{flagicon|SWE}} [[Emma Dahlström]] || align=center|75.50
+|- 
+| align=center|3 || {{flagicon|CAN}} [[Marielle Thompson]] || align=center|74.23
+|- 
+| align=center|4 || {{flagicon|FRA}} [[Marie Martinod]] || align=center|72.00
+|- 
+| align=center|5 || {{flagicon|CHN}} [[Xu Mengtao]] || align=center|68.57
+|}
+*Standings after 46 races.
+{{col-break|width=33%}}
+
+=== Ski Cross ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Marielle Thompson]] || align=center|965
+|- 
+| align=center|2 || {{flagicon|SWE}} [[Sandra Näslund]] || align=center|790
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Fanny Smith]] || align=center|683
+|- 
+| align=center|4 || {{flagicon|GER}} [[Heidi Zacher]] || align=center|656
+|- 
+| align=center|5 || {{flagicon|FRA}} [[Ophelie David]] || align=center|469
+|}
+*Standings after 13 races.
+{{col-break|width=33%}}
+
+=== Moguls ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUS}} [[Britteny Cox]] || align=center|894
+|- 
+| align=center|2 || {{flagicon|FRA}} [[Perrine Laffont]] || align=center|655
+|- 
+| align=center|3 || {{flagicon|CAN}} [[Justine Dufour-Lapointe]] || align=center|596
+|- 
+| align=center|4 || {{flagicon|CAN}} [[Andi Naude]] || align=center|470
+|- 
+| align=center|5 || {{flagicon|CAN}} [[Chloe Dufour-Lapointe]] || align=center|440
+|}
+*Standings after 11 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Aerials ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CHN}} [[Xu Mengtao]] || align=center|480
+|- 
+| align=center|2 || {{flagicon|AUS}} [[Danielle Scott (freestyle skier)|Danielle Scott]] || align=center|447
+|- 
+| align=center|3 || {{flagicon|AUS}} [[Lydia Lassila]] || align=center|354
+|- 
+| align=center|4 || {{flagicon|CHN}} [[Shen Xiaoxue]] || align=center|240
+|- 
+| align=center|5 || {{flagicon|RUS}} [[Liubov Nikitina]] || align=center|240
+|}
+*Standings after 7 events.
+{{col-break|width=33%}}
+
+=== Big Air ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|SWE}} [[Emma Dahlström]] || align=center|453
+|- 
+| align=center|2 || {{flagicon|ITA}} [[Silvia Bertagna]] || align=center|360
+|- 
+| align=center|3 || {{flagicon|SWI}} [[Mathilde Gremaud]] || align=center|225
+|- 
+| align=center|4 || {{flagicon|SWI}} [[Giulia Tanno]] || align=center|186
+|- 
+| align=center|5 || {{flagicon|GER}} [[Kea Kühnel]] || align=center|166
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== Slopestyle ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|SUI}} [[Sarah Höfflin]] || align=center|281
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Johanne Killi]] || align=center|280
+|- 
+| align=center|3 || {{flagicon|FRA}} [[Coline Ballet Baz]] || align=center|196
+|- 
+| align=center|4 || {{flagicon|GBR}} [[Isabel Atkin]] || align=center|182
+|- 
+| align=center|5 || {{flagicon|SWE}} [[Emma Dahlström]] || align=center|176
+|}
+*Standings after 5 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Halfpipe ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|FRA}} [[Marie Martinod]] || align=center|360
+|- 
+| align=center|2 || {{flagicon|JPN}} [[Ayana Onozuka]] || align=center|250
+|- 
+| align=center|3 || {{flagicon|USA}} [[Annalisa Drew]] || align=center|225
+|- 
+| align=center|4 || {{flagicon|CAN}} [[Cassie Sharpe]] || align=center|185
+|- 
+| align=center|5 || {{flagicon|USA}} [[Maddie Bowman]] || align=center|156
+|}
+*Standings after 4 races.
+{{col-break|width=33%}}
+
+=== Cross Alps Tour ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Marielle Thompson]] || align=center|475
+|- 
+| align=center|2 || {{flagicon|GER}} [[Heidi Zacher]] || align=center|324
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Fanny Smith]] || align=center|293
+|- 
+| align=center|4 || {{flagicon|GER}} [[Daniela Maier]] || align=center|256
+|- 
+| align=center|5 || {{flagicon|SWE}} [[Sandra Näslund]] || align=center|240
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== FIS Super Series ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|SWI}} [[Mathilde Gremaud]] || align=center|225
+|- 
+| align=center|2 || {{flagicon|ITA}} [[Silvia Bertagna]] || align=center|200
+|- 
+| align=center|3 || {{flagicon|GER}} [[Lisa Zimmermann (skier)|Lisa Zimmermann]] || align=center|160
+|- 
+| align=center|4 || {{flagicon|SWE}} [[Emma Dahlström]] || align=center|153
+|- 
+| align=center|5 || {{flagicon|SWI}} [[Sarah Höfflin]] || align=center|146
+|}
+*Standings after 3 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+== Nations Cup ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|7697
+|- 
+| align=center|2 || {{FRA}} || align=center|5757
+|- 
+| align=center|3 || {{USA}} || align=center|5300
+|- 
+| align=center|4 || {{SUI}} || align=center|4865
+|- 
+| align=center|5 || {{AUS}} || align=center|3517
+|}
+*Standings after 92 events.
+{{col-break|width=33%}}
+
+=== Men's overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|4101
+|- 
+| align=center|2 || {{FRA}} || align=center|3248
+|- 
+| align=center|3 || {{SUI}} || align=center|3031
+|- 
+| align=center|4 || {{USA}} || align=center|2588
+|- 
+| align=center|5 || {{SWE}} || align=center|1636
+|}
+*Standings after 46 events.
+{{col-break|width=33%}}
+
+=== Ladies' overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|3596
+|- 
+| align=center|2 || {{USA}} || align=center|2712
+|- 
+| align=center|3 || {{FRA}} || align=center|2509
+|- 
+| align=center|4 || {{AUS}} || align=center|2381
+|- 
+| align=center|5 || {{SUI}} || align=center|1834
+|}
+*Standings after 46 events.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Ski Cross === 
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|2888
+|- 
+| align=center|2 || {{FRA}} || align=center|2451
+|- 
+| align=center|3 || {{SUI}} || align=center|2178
+|- 
+| align=center|4 || {{SWE}} || align=center|1659
+|- 
+| align=center|5 || {{GER}} || align=center|1582
+|}
+*Standings after 27 events.
+{{col-break|width=33%}}
+
+=== Moguls ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|2872
+|- 
+| align=center|2 || {{AUS}} || align=center|1969
+|- 
+| align=center|3 || {{USA}} || align=center|1812
+|- 
+| align=center|4 || {{FRA}} || align=center|1544
+|- 
+| align=center|5 || {{RUS}} || align=center|652
+|}
+*Standings after 22 events.
+{{col-break|width=33%}}
+
+=== Aerials ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CHN}} || align=center|1690
+|- 
+| align=center|2 || {{USA}} || align=center|1116
+|- 
+| align=center|3 || {{AUS}} || align=center|1063
+|- 
+| align=center|4 || {{BLR}} || align=center|1052
+|- 
+| align=center|5 || {{RUS}} || align=center|1010
+|}
+*Standings after 14 events.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Big Air ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{SWI}} || align=center|1046
+|- 
+| align=center|2 || {{SWE}} || align=center|1010
+|- 
+| align=center|3 || {{NOR}} || align=center|835
+|- 
+| align=center|4 || {{ITA}} || align=center|519
+|- 
+| align=center|5 || {{GER}} || align=center|462
+|}
+*Standings after 12 events.
+{{col-break|width=33%}}
+
+=== Slopestyle ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{SUI}} || align=center|861
+|- 
+| align=center|2 || {{USA}} || align=center|796
+|- 
+| align=center|3 || {{CAN}} || align=center|646
+|- 
+| align=center|4 || {{GBR2}} || align=center|517
+|- 
+| align=center|5 || {{NOR}} || align=center|492
+|}
+*Standings after 9 events.
+{{col-break|width=33%}}
+
+=== Halfpipe ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{USA}} || align=center|1135
+|- 
+| align=center|2 || {{FRA}} || align=center|904
+|- 
+| align=center|3 || {{CAN}} || align=center|576
+|- 
+| align=center|4 || {{JPN}} || align=center|344
+|- 
+| align=center|5 || {{NZL}} || align=center|338
+|}
+*Standings after 8 events.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Cross Alps Tour Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|1270
+|- 
+| align=center|2 || {{FRA}} || align=center|1080
+|- 
+| align=center|3 || {{SUI}} || align=center|923
+|- 
+| align=center|4 || {{SWE}} || align=center|792
+|- 
+| align=center|5 || {{GER}} || align=center|781
+|}
+*Standings after 12 events.
+{{col-break|width=33%}}
+
+=== Men's Cross Alps Tour ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{FRA}} || align=center|667
+|- 
+| align=center|2 || {{SUI}} || align=center|608
+|- 
+| align=center|3 || {{CAN}} || align=center|547
+|- 
+| align=center|4 || {{AUT}} || align=center|318
+|- 
+| align=center|5 || {{SWE}} || align=center|317
+|}
+*Standings after 6 events.
+{{col-break|width=33%}}
+
+=== Ladies' Cross Alps Tour ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{CAN}} || align=center|723
+|- 
+| align=center|2 || {{GER}} || align=center|580
+|- 
+| align=center|3 || {{SWE}} || align=center|475
+|- 
+| align=center|4 || {{FRA}} || align=center|413
+|- 
+| align=center|5 || {{SUI}} || align=center|315
+|}
+*Standings after 6 events.
+{{col-break|width=1%}}
+{{col-end}}
+
+== Footnotes ==
+{{Reflist|group=nb}}
+
+== References ==
+{{reflist|30em}}
+
+{{FIS Freestyle Skiing World Cup seasons}}
+{{Wintersport season 2016–17}}
+
+{{DEFAULTSORT:2016-17 FIS Freestyle Skiing World Cup}}
+[[Category:FIS Freestyle Skiing World Cup]]
+[[Category:2016 in freestyle skiing|World Cup]]
+[[Category:2017 in freestyle skiing|World Cup]]
+[[Category:Test events for the 2018 Winter Olympic and Paralympic Games|Freestyle]]

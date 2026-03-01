@@ -1,0 +1,56 @@
+{{short description|Canadian swimmer}}
+{{Infobox swimmer
+| name           = Amanda Reason
+| image          = <!-- Only free-content images are allowed for depicting living people -- see [[WP:NONFREE]]. -->
+| image_size     = <!-- Only for images narrower than 220 pixels -->
+| alt            =
+| caption        = 
+| fullname       = Amanda Reason
+| nicknames      = 
+| national_team  = {{CAN}}
+| strokes        = [[Breaststroke]], [[Freestyle swimming|Freestyle]]
+| club           = Etobicoke Swim Club
+| collegeteam    = [[Calgary Dinos|University of Calgary]]
+| birth_date     = {{Birth date and age|1993|8|22|mf=y}}
+| birth_place    = [[Scarborough, Toronto|Scarborough]], [[Ontario]], Canada
+| death_date     =
+| death_place    =
+| height         = {{convert|1.81|m|ftin|abbr=on}}
+| weight         = {{convert|69|kg|lb|abbr=on}}
+| medaltemplates =
+}}
+
+'''Amanda Reason''' (born August 22, 1993) is a Canadian [[breaststroke]] [[swimming (sport)|swimmer]] and a former world-record holder in the 50-metre breaststroke (long course).
+
+==Career==
+On July 8, 2009, Reason burst onto the international scene when she posted a 30.23 world record time for the 50-metre breaststroke. Reason is the first Canadian female to break a world record in a long course pool since [[Allison Higson]] accomplished the feat in the 200-metre breaststroke in 1988.<ref>{{cite news|title=Canada's Reason swims to world record |url=https://www.cbc.ca/sports/canada-s-reason-swims-to-world-record-1.842404|publisher=CBC News|date=July 8, 2009|access-date=July 9, 2009}}</ref> At the [[2009 World Aquatics Championships]], Reason finished seventh in the 50-metre breaststroke.<ref>{{cite news|title=Reason, Pierse shut out of medals in 50m breaststroke|url=https://www.cbc.ca/sports/reason-pierse-shut-out-of-medals-in-50m-breaststroke-1.849643|publisher=CBC News|date=August 2, 2009|access-date=August 3, 2009}}</ref>  Reason qualified for the [[2012 Summer Olympics]] in London, with her teammate, [[Brittany MacLean]].  She also competed for the Canadian women's 4x200-metre freestyle relay team that finished fourth with a time of 7.50.65.<ref>{{Cite web|url=http://www.london2012.com/swimming/event/women-4x200m-freestyle-relay/index.html|title=London 2012 4x200m freestyle relay women Results - Olympic swimming|access-date=2012-08-02|archive-date=2013-01-04|archive-url=https://archive.today/20130104064309/http://www.london2012.com/swimming/event/women-4x200m-freestyle-relay/index.html|url-status=dead}}</ref>
+
+==See also==
+* [[World record progression 50 metres breaststroke]]
+
+==References==
+{{Reflist}}
+{{s-start}}
+{{s-ach|rec}}
+{{succession box
+| before = [[Jade Edmistone]]
+| title = [[World record progression 50 metres breaststroke|Women's 50-metre breaststroke<br>world record-holder (long course)]]
+| years = July 8, 2009 – August 2, 2009
+| after = [[Yuliya Yefimova]]
+}}
+{{s-end}}
+
+{{DEFAULTSORT:Reason, Amanda}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Canadian female breaststroke swimmers]]
+[[Category:Olympic swimmers for Canada]]
+[[Category:Swimmers from Toronto]]
+[[Category:Sportspeople from Scarborough, Ontario]]
+[[Category:Sportswomen from Ontario]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:World record setters in swimming]]
+[[Category:21st-century Canadian sportswomen]]
+
+
+{{Canada-swimming-bio-stub}}

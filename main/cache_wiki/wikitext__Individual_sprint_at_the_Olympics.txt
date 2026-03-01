@@ -1,0 +1,384 @@
+{{short description|none}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox Olympic cycling event
+|event= Sprint (track cycling)
+|image= File:Paul Masson, Athens 1896.jpg
+|caption= The first individual sprint winner, Paul Masson, in 1896
+|gender= Men and women
+|firstyearmen = 
+|firstyearwomen = 
+|lastyearmen = 
+|lastyearwomen = 
+|yearsheld = Men: [[Cycling at the 1896 Summer Olympics – Men's sprint|1896]]–[[Cycling at the 1900 Summer Olympics – Men's sprint|1900]], [[Cycling at the 1908 Summer Olympics – Men's sprint|1908]], [[Cycling at the 1920 Summer Olympics – Men's sprint|1920]]–[[Cycling at the 2024 Summer Olympics – Men's sprint|2024]] <br> Women: [[Cycling at the 1988 Summer Olympics – Women's sprint|1988]]–[[Cycling at the 2024 Summer Olympics – Women's sprint|2024]]
+|custommenyears=
+|customwomenyears=
+|reigningman={{flagIOCathlete|[[Harrie Lavreysen]]|NED}}
+|reigningwoman={{flagIOCathlete|[[Ellesse Andrews]]|NZL}}
+}}
+
+The individual [[sprint (track cycling)|sprint]] is a [[track cycling]] event held at the [[Summer Olympics]]. The event was first held for men at the first modern Olympics in 1896. It was held again in 1900, but not in 1904 when various races at different distances were conducted. The men's sprint returned to the programme in 1908 but was again omitted in 1912, when only road cycling competitions were held. After World War I, the men's sprint returned to the programme for good in 1920 and has been held every Games since. The women's sprint was added when women's track cycling was first held in 1988 and has been held every Games since.
+
+==Medalists==
+
+===Men===
+
+{| {{MedalistTable}}
+|-
+|[[Cycling at the 1896 Summer Olympics|1896 Athens]]<br>{{DetailsLink|Cycling at the 1896 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Paul Masson (cyclist)|Paul Masson]]|FRA|1896 Summer Olympics}}
+|{{FlagIOC2medalist|[[Stamatios Nikolopoulos]]|GRE|1896 Summer Olympics}}
+|{{FlagIOC2medalist|[[Léon Flameng]]|FRA|1896 Summer Olympics}}
+|-
+|[[Cycling at the 1900 Summer Olympics|1900 Paris]]<br>{{DetailsLink|Cycling at the 1900 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Albert Taillandier]]|FRA|1900 Summer Olympics}}
+|{{FlagIOC2medalist|[[Fernand Sanz]]|FRA|1900 Summer Olympics}}
+|{{FlagIOC2medalist|[[John Henry Lake]]|USA|1900 Summer Olympics}}
+|-
+|[[Cycling at the 1908 Summer Olympics|1908 London]]<br>{{DetailsLink|Cycling at the 1908 Summer Olympics – Men's sprint}}
+| Not awarded
+| Not awarded
+| Not awarded
+|-
+|[[Cycling at the 1920 Summer Olympics|1920 Antwerp]]<br>{{DetailsLink|Cycling at the 1920 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Maurice Peeters]]|NED|1920 Summer Olympics}}
+|{{FlagIOC2medalist|[[Thomas Johnson (cyclist)|Thomas Johnson]]|GBR|1920 Summer Olympics}}
+|{{FlagIOC2medalist|[[Harry Ryan (cyclist)|Harry Ryan]]|GBR|1920 Summer Olympics}}
+|-
+|[[Cycling at the 1924 Summer Olympics|1924 Paris]]<br>{{DetailsLink|Cycling at the 1924 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Lucien Michard]]|FRA|1924 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jacob Meijer]]|NED|1924 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jean Cugnot]]|FRA|1924 Summer Olympics}}
+|-
+|[[Cycling at the 1928 Summer Olympics|1928 Amsterdam]]<br>{{DetailsLink|Cycling at the 1928 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Roger Beaufrand]]|FRA|1928 Summer Olympics}}
+|{{FlagIOC2medalist|[[Antoine Mazairac]]|NED|1928 Summer Olympics}}
+|{{FlagIOC2medalist|[[Willy Hansen]]|DEN|1928 Summer Olympics}}
+|-
+|[[Cycling at the 1932 Summer Olympics|1932 Los Angeles]]<br>{{DetailsLink|Cycling at the 1932 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Jacobus van Egmond]]|NED|1932 Summer Olympics}}
+|{{FlagIOC2medalist|[[Louis Chaillot]]|FRA|1932 Summer Olympics}}
+|{{FlagIOC2medalist|[[Bruno Pellizzari]]|ITA|1932 Summer Olympics}}
+|-
+|[[Cycling at the 1936 Summer Olympics|1936 Berlin]]<br>{{DetailsLink|Cycling at the 1936 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Toni Merkens]]|GER|1936 Summer Olympics}}
+|{{FlagIOC2medalist|[[Arie van Vliet]]|NED|1936 Summer Olympics}}
+|{{FlagIOC2medalist|[[Louis Chaillot]]|FRA|1936 Summer Olympics}}
+|-
+|[[Cycling at the 1948 Summer Olympics|1948 London]]<br>{{DetailsLink|Cycling at the 1948 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Mario Ghella]]|ITA|1948 Summer Olympics}}
+|{{FlagIOC2medalist|[[Reg Harris]]|GBR|1948 Summer Olympics}}
+|{{FlagIOC2medalist|[[Axel Schandorff]]|DEN|1948 Summer Olympics}}
+|-
+|[[Cycling at the 1952 Summer Olympics|1952 Helsinki]]<br>{{DetailsLink|Cycling at the 1952 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Enzo Sacchi]]|ITA|1952 Summer Olympics}}
+|{{FlagIOC2medalist|[[Lionel Cox (cyclist)|Lionel Cox]]|AUS|1952 Summer Olympics}}
+|{{FlagIOC2medalist|[[Werner Potzernheim]]|GER|1952 Summer Olympics}}
+|-
+|[[Cycling at the 1956 Summer Olympics|1956 Melbourne]]<br>{{DetailsLink|Cycling at the 1956 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Michel Rousseau (cyclist)|Michel Rousseau]]|FRA|1956 Summer Olympics}}
+|{{FlagIOC2medalist|[[Guglielmo Pesenti]]|ITA|1956 Summer Olympics}}
+|{{FlagIOC2medalist|[[Dick Ploog]]|AUS|1956 Summer Olympics}}
+|-
+|[[Cycling at the 1960 Summer Olympics|1960 Rome]]<br>{{DetailsLink|Cycling at the 1960 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Sante Gaiardoni]]|ITA|1960 Summer Olympics}}
+|{{FlagIOC2medalist|[[Leo Sterckx]]|BEL|1960 Summer Olympics}}
+|{{FlagIOC2medalist|[[Valentino Gasparella]]|ITA|1960 Summer Olympics}}
+|-
+|[[Cycling at the 1964 Summer Olympics|1964 Tokyo]]<br>{{DetailsLink|Cycling at the 1964 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Giovanni Pettenella]]|ITA|1964 Summer Olympics}}
+|{{FlagIOC2medalist|[[Sergio Bianchetto]]|ITA|1964 Summer Olympics}}
+|{{FlagIOC2medalist|[[Daniel Morelon]]|FRA|1964 Summer Olympics}}
+|-
+|[[Cycling at the 1968 Summer Olympics|1968 Mexico City]]<br>{{DetailsLink|Cycling at the 1968 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Daniel Morelon]]|FRA|1968 Summer Olympics}}
+|{{FlagIOC2medalist|[[Giordano Turrini]]|ITA|1968 Summer Olympics}}
+|{{FlagIOC2medalist|[[Pierre Trentin]]|FRA|1968 Summer Olympics}}
+|-
+|[[Cycling at the 1972 Summer Olympics|1972 Munich]]<br>{{DetailsLink|Cycling at the 1972 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Daniel Morelon]]|FRA|1972 Summer Olympics}}
+|{{FlagIOC2medalist|[[John Nicholson (cyclist)|John Nicholson]]|AUS|1972 Summer Olympics}}
+|{{FlagIOC2medalist|[[Omar Pkhakadze]]|URS|1972 Summer Olympics}}
+|-
+|[[Cycling at the 1976 Summer Olympics|1976 Montreal]]<br>{{DetailsLink|Cycling at the 1976 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Anton Tkáč]]|TCH|1976 Summer Olympics}}
+|{{FlagIOC2medalist|[[Daniel Morelon]]|FRA|1976 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jürgen Geschke]]|GDR|1976 Summer Olympics}}
+|-
+|[[Cycling at the 1980 Summer Olympics|1980 Moscow]]<br>{{DetailsLink|Cycling at the 1980 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Lutz Heßlich]]|GDR|1980 Summer Olympics}}
+|{{FlagIOC2medalist|[[Yavé Cahard]]|FRA|1980 Summer Olympics}}
+|{{FlagIOC2medalist|[[Sergei Kopylov]]|URS|1980 Summer Olympics}}
+|-
+|[[Cycling at the 1984 Summer Olympics|1984 Los Angeles]]<br>{{DetailsLink|Cycling at the 1984 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Mark Gorski]]|USA|1984 Summer Olympics}}
+|{{FlagIOC2medalist|[[Nelson Vails]]|USA|1984 Summer Olympics}}
+|{{FlagIOC2medalist|[[Tsutomu Sakamoto]]|JPN|1984 Summer Olympics}}
+|-
+|[[Cycling at the 1988 Summer Olympics|1988 Seoul]]<br>{{DetailsLink|Cycling at the 1988 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Lutz Heßlich]]|GDR|1988 Summer Olympics}}
+|{{FlagIOC2medalist|[[Nikolai Kovsh]]|URS|1988 Summer Olympics}}
+|{{FlagIOC2medalist|[[Gary Neiwand]]|AUS|1988 Summer Olympics}}
+|-
+|[[Cycling at the 1992 Summer Olympics|1992 Barcelona]]<br>{{DetailsLink|Cycling at the 1992 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Jens Fiedler (cyclist)|Jens Fiedler]]|GER|1992 Summer Olympics}}
+|{{FlagIOC2medalist|[[Gary Neiwand]]|AUS|1992 Summer Olympics}}
+|{{FlagIOC2medalist|[[Curt Harnett]]|CAN|1992 Summer Olympics}}
+|-
+|[[Cycling at the 1996 Summer Olympics|1996 Atlanta]]<br>{{DetailsLink|Cycling at the 1996 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Jens Fiedler (cyclist)|Jens Fiedler]]|GER|1996 Summer Olympics}}
+|{{FlagIOC2medalist|[[Marty Nothstein]]|USA|1996 Summer Olympics}}
+|{{FlagIOC2medalist|[[Curt Harnett]]|CAN|1996 Summer Olympics}}
+|-
+|[[Cycling at the 2000 Summer Olympics|2000 Sydney]]<br>{{DetailsLink|Cycling at the 2000 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Marty Nothstein]]|USA|2000 Summer Olympics}}
+|{{FlagIOC2medalist|[[Florian Rousseau]]|FRA|2000 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jens Fiedler (cyclist)|Jens Fiedler]]|GER|2000 Summer Olympics}}
+|-
+|[[Cycling at the 2004 Summer Olympics|2004 Athens]]<br>{{DetailsLink|Cycling at the 2004 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Ryan Bayley]]|AUS|2004 Summer Olympics}}
+|{{FlagIOC2medalist|[[Theo Bos]]|NED|2004 Summer Olympics}}
+|{{FlagIOC2medalist|[[René Wolff]]|GER|2004 Summer Olympics}}
+|-
+|[[Cycling at the 2008 Summer Olympics|2008 Beijing]]<br>{{DetailsLink|Cycling at the 2008 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Chris Hoy]]|GBR|2008 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jason Kenny]]|GBR|2008 Summer Olympics}}
+|{{FlagIOC2medalist|[[Mickaël Bourgain]]|FRA|2008 Summer Olympics}}
+|-
+|[[Cycling at the 2012 Summer Olympics|2012 London]]<br>{{DetailsLink|Cycling at the 2012 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Jason Kenny]]|GBR|2012 Summer Olympics}}
+|{{FlagIOC2medalist|[[Grégory Baugé]]|FRA|2012 Summer Olympics}}
+|{{FlagIOC2medalist|[[Shane Perkins]]|AUS|2012 Summer Olympics}}
+|-
+|[[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]]<br>{{DetailsLink|Cycling at the 2016 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Jason Kenny]]|GBR|2016 Summer Olympics}}
+|{{FlagIOC2medalist|[[Callum Skinner]]|GBR|2016 Summer Olympics}}
+|{{FlagIOC2medalist|[[Denis Dmitriev]]|RUS|2016 Summer Olympics}}
+|-
+|[[Cycling at the 2020 Summer Olympics|2020 Tokyo]]<br>{{DetailsLink|Cycling at the 2020 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Harrie Lavreysen]]|NED|2020 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jeffrey Hoogland]]|NED|2020 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jack Carlin]]|GBR|2020 Summer Olympics}}
+|-
+|[[Cycling at the 2024 Summer Olympics|2024 Paris]]<br>{{DetailsLink|Cycling at the 2024 Summer Olympics – Men's sprint}}
+|{{FlagIOC2medalist|[[Harrie Lavreysen]]|NED|2024 Summer Olympics}}
+|{{FlagIOC2medalist|[[Matthew Richardson (cyclist)|Matthew Richardson]]|AUS|2024 Summer Olympics}}
+|{{FlagIOC2medalist|[[Jack Carlin]]|GBR|2024 Summer Olympics}}
+|}
+
+====Multiple medalists====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank
+! Cyclist
+! Nation
+! Olympics
+!style="background-color:gold"|Gold
+!style="background-color:silver"|Silver
+!style="background-color:#cc9966"|Bronze
+! Total
+|-
+| 1 ||align=left data-sort-value="Morelon, Daniel"| [[Daniel Morelon]] ||align=left|{{flagIOC|FRA}} || 1964–1976 || 2 || 1 || 1 || 4
+|-
+| 2 ||align=left data-sort-value="Kenny, Jason"| [[Jason Kenny]] ||align=left|{{flagIOC|GBR}} || 2008–2016 || 2 || 1 || 0 || 3
+|-
+| 3 ||align=left data-sort-value="Fiedler, Jens"| [[Jens Fiedler (cyclist)|Jens Fiedler]] ||align=left|{{flagIOC|GER}} || 1992–2000 || 2 || 0 || 1 || 3
+|-
+| rowspan=2 |4||align=left data-sort-value="Heßlich, Lutz"| [[Lutz Heßlich]] ||align=left|{{flagIOC|GDR}} || 1980–1988 || 2 || 0 || 0 || 2
+|-
+|align=left data-sort-value="Lavreysen, Harrie"| [[Harrie Lavreysen]] ||align=left|{{flagIOC|NED}} || 2020–2024 || 2 || 0 || 0 || 2
+|-
+| 6 ||align=left data-sort-value="Nothstein, Marty"| [[Marty Nothstein]] ||align=left|{{flagIOC|USA}} || 1996–2000 || 1 || 1 || 0 || 2
+|-
+|rowspan=2| 7 ||align=left data-sort-value="Neiwand, Gary"| [[Gary Neiwand]] ||align=left|{{flagIOC|AUS}} || 1988–1992 || 0 || 1 || 1 || 2
+|-
+|align=left data-sort-value="Chaillot, Louis"| [[Louis Chaillot]] ||align=left|{{flagIOC|FRA}} || 1932–1936 || 0 || 1 || 1 || 2
+|-
+| rowspan=2 |9||align=left data-sort-value="Harnett, Curt"| [[Curt Harnett]] ||align=left|{{flagIOC|CAN}} || 1992–1996 || 0 || 0 || 2 || 2
+|-
+|align=left data-sort-value="Carlin, Jack"| [[Jack Carlin]] ||align=left|{{flagIOC|GBR}} || 2020–2024 || 0 || 0 || 2 || 2
+|}
+
+====Medalists by country====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank
+! Nation
+!style="background-color:gold"|Gold
+!style="background-color:silver"|Silver
+!style="background-color:#cc9966"|Bronze
+! Total
+|-
+| 1 ||align=left|{{flagIOC|FRA}} || 7 || 6 || 6 || 20
+|-
+| 2 ||align=left|{{flagIOC|NED}} || 4 || 5 || 0 || 9
+|-
+| 3 ||align=left|{{flagIOC|ITA}} || 4 || 3 || 2 || 9
+|-
+| 4 ||align=left|{{flagIOC|GBR}} || 3 || 4 || 3 || 10
+|-
+| 5 ||align=left|{{flagIOC|GER}} || 3 || 0 || 3 || 6
+|-
+| 6 ||align=left|{{flagIOC|USA}} || 2 || 2 || 1 || 5
+|-
+| 7 ||align=left|{{flagIOC|GDR}} || 2 || 0 || 1 || 3
+|-
+| 8 ||align=left|{{flagIOC|AUS}} || 1 || 4 || 3 || 8
+|-
+| 9 ||align=left| {{flagIOC|TCH}} || 1 || 0 || 0 || 1
+|-
+| 10 ||align=left|{{flagIOC|URS}} || 0 || 1 || 2 || 3
+|-
+|rowspan=2| 11 ||align=left|{{flagIOC|BEL}} || 0 || 1 || 0 || 1
+|-
+|align=left|{{flagIOC|GRE}} || 0 || 1 || 0 || 1
+|-
+|rowspan=2| 13 ||align=left|{{flagIOC|CAN}} || 0 || 0 || 2 || 2
+|-
+|align=left|{{flagIOC|DEN}} || 0 || 0 || 2 || 2
+|-
+|rowspan=2| 15 ||align=left|{{flagIOC|JPN}} || 0 || 0 || 1 || 1
+|-
+|align=left|{{flagIOC|RUS}} || 0 || 0 || 1 || 1
+|}
+
+===Women===
+
+{| {{MedalistTable}}
+|-
+|[[Cycling at the 1988 Summer Olympics|1988 Seoul]]<br>{{DetailsLink|Cycling at the 1988 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Erika Salumäe]]|URS|1988 Summer Olympics}}
+|{{FlagIOC2medalist|[[Christa Luding-Rothenburger]]|GDR|1988 Summer Olympics}}
+|{{FlagIOC2medalist|[[Connie Paraskevin]]|USA|1988 Summer Olympics}}
+|-
+|[[Cycling at the 1992 Summer Olympics|1992 Barcelona]]<br>{{DetailsLink|Cycling at the 1992 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Erika Salumäe]]|EST|1992 Summer Olympics}}
+|{{FlagIOC2medalist|[[Annett Neumann]]|GER|1992 Summer Olympics}}
+|{{FlagIOC2medalist|[[Ingrid Haringa]]|NED|1992 Summer Olympics}}
+|-
+|[[Cycling at the 1996 Summer Olympics|1996 Atlanta]]<br>{{DetailsLink|Cycling at the 1996 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Felicia Ballanger]]|FRA|1996 Summer Olympics}}
+|{{FlagIOC2medalist|[[Michelle Ferris]]|AUS|1996 Summer Olympics}}
+|{{FlagIOC2medalist|[[Ingrid Haringa]]|NED|1996 Summer Olympics}}
+|-
+|[[Cycling at the 2000 Summer Olympics|2000 Sydney]]<br>{{DetailsLink|Cycling at the 2000 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Felicia Ballanger]]|FRA|2000 Summer Olympics}}
+|{{FlagIOC2medalist|[[Oxana Grichina]]|RUS|2000 Summer Olympics}}
+|{{FlagIOC2medalist|[[Iryna Yanovych]]|UKR|2000 Summer Olympics}}
+|-
+|[[Cycling at the 2004 Summer Olympics|2004 Athens]]<br>{{DetailsLink|Cycling at the 2004 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Lori-Ann Muenzer]]|CAN|2004 Summer Olympics}}
+|{{FlagIOC2medalist|[[Tamilla Abassova]]|RUS|2004 Summer Olympics}}
+|{{FlagIOC2medalist|[[Anna Meares]]|AUS|2004 Summer Olympics}}
+|-
+|[[Cycling at the 2008 Summer Olympics|2008 Beijing]]<br>{{DetailsLink|Cycling at the 2008 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Victoria Pendleton]]|GBR|2008 Summer Olympics}}
+|{{FlagIOC2medalist|[[Anna Meares]]|AUS|2008 Summer Olympics}}
+|{{FlagIOC2medalist|[[Guo Shuang]]|CHN|2008 Summer Olympics}}
+|-
+|[[Cycling at the 2012 Summer Olympics|2012 London]]<br>{{DetailsLink|Cycling at the 2012 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Anna Meares]]|AUS|2012 Summer Olympics}}
+|{{FlagIOC2medalist|[[Victoria Pendleton]]|GBR|2012 Summer Olympics}}
+|{{FlagIOC2medalist|[[Guo Shuang]]|CHN|2012 Summer Olympics}}
+|-
+|[[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]]<br>{{DetailsLink|Cycling at the 2016 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Kristina Vogel]]|GER|2016 Summer Olympics}}
+|{{FlagIOC2medalist|[[Becky James]]|GBR|2016 Summer Olympics}}
+|{{FlagIOC2medalist|[[Katy Marchant]]|GBR|2016 Summer Olympics}}
+|-
+|[[Cycling at the 2020 Summer Olympics|2020 Tokyo]]<br>{{DetailsLink|Cycling at the 2020 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Kelsey Mitchell (cyclist)|Kelsey Mitchell]]|CAN|2020 Summer Olympics}}
+|{{FlagIOC2medalist|[[Olena Starikova]]|UKR|2020 Summer Olympics}}
+|{{FlagIOC2medalist|[[Lee Wai-sze]]|HKG|2020 Summer Olympics}}
+|-
+|[[Cycling at the 2024 Summer Olympics|2024 Paris]]<br>{{DetailsLink|Cycling at the 2024 Summer Olympics – Women's sprint}}
+|{{FlagIOC2medalist|[[Ellesse Andrews]]|NZL|2024 Summer Olympics}}
+|{{FlagIOC2medalist|[[Lea Friedrich]]|GER|2024 Summer Olympics}}
+|{{FlagIOC2medalist|[[Emma Finucane]]|GBR|2024 Summer Olympics}}
+|}
+
+====Multiple medalists====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank
+! Cyclist
+! Nation
+! Olympics
+!style="background-color:gold"|Gold
+!style="background-color:silver"|Silver
+!style="background-color:#cc9966"|Bronze
+! Total
+|-
+|rowspan=2| 1 ||align=left data-sort-value="Salumäe, Erika"| [[Erika Salumäe]] ||align=left| {{flagIOC|URS}}<br>{{flagIOC|EST}} || 1988–1992 || 2 || 0 || 0 || 2
+|-
+|align=left data-sort-value="Ballanger, Felicia"| [[Felicia Ballanger]] ||align=left|{{flagIOC|FRA}} || 1996–2000 || 2 || 0 || 0 || 0
+|-
+| 3 ||align=left data-sort-value="Meares, Anna"| [[Anna Meares]] ||align=left|{{flagIOC|AUS}} || 2004–2012 || 1 || 1 || 1 || 3
+|-
+| 4 ||align=left data-sort-value="Pendleton, Victoria"| [[Victoria Pendleton]] ||align=left|{{flagIOC|GBR}} || 2008–2012 || 1 || 1 || 0 || 2
+|-
+|rowspan=2| 5 ||align=left data-sort-value="Haringa, Ingrid"| [[Ingrid Haringa]] ||align=left|{{flagIOC|NED}} || 1992–1996 || 0 || 0 || 2 || 2
+|-
+|align=left| [[Guo Shuang]] ||align=left|{{flagIOC|CHN}} || 2008–2012 || 0 || 0 || 2 || 2
+|}
+
+====Medalists by country====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank
+! Nation
+!style="background-color:gold"|Gold
+!style="background-color:silver"|Silver
+!style="background-color:#cc9966"|Bronze
+! Total
+|-
+|rowspan=2| 1 ||align=left|{{flagIOC|CAN}} || 2 || 0 || 0 || 2
+|-
+|align=left|{{flagIOC|FRA}} || 2 || 0 || 0 || 2
+|-
+| 3 ||align=left|{{flagIOC|AUS}} || 1 || 2 || 1 || 4
+|-
+| 4 ||align=left|{{flagIOC|GBR}} || 1 || 2 || 1 || 4
+|-
+| 5 ||align=left|{{flagIOC|GER}} || 1 || 1 || 0 || 2
+|-
+|rowspan=3| 6 ||align=left|{{flagIOC|EST}} || 1 || 0 || 0 || 1
+|-
+|align=left|{{flagIOC|NZL}} || 1 || 0 || 0 || 1
+|-
+|align=left|{{flagIOC|URS}} || 1 || 0 || 0 || 1
+|-
+| 9 ||align=left|{{flagIOC|RUS}} || 0 || 2 || 0 || 2
+|-
+| 10 ||align=left|{{flagIOC|UKR}} || 0 || 1 || 1 || 2
+|-
+| 11 ||align=left|{{flagIOC|GDR}} || 0 || 1 || 0 || 1
+|-
+|rowspan=2| 12 ||align=left|{{flagIOC|CHN}} || 0 || 0 || 2 || 2
+|-
+|align=left|{{flagIOC|NED}} || 0 || 0 || 2 || 2
+|-
+|14 ||align=left|{{flagIOC|HKG}} || 0 || 0 || 1 || 1
+|-
+|}
+
+==Intercalated Games==
+
+The [[1906 Intercalated Games]] were held in [[Athens]] and at the time were officially recognised as part of the [[Olympic Games]] series, with the intention being to hold a games in Greece in two-year intervals between the internationally held Olympics. However, this plan never came to fruition and the [[International Olympic Committee]] (IOC) later decided not to recognise these games as part of the official Olympic series. Some sports historians continue to treat the results of these games as part of the Olympic canon.<ref>[https://web.archive.org/web/20200417040614/https://www.sports-reference.com/olympics/summer/1906/ 1906 Athina Summer Games]. Sports Reference. Retrieved on 26 January 2014.</ref>
+
+[[Francesco Verri]] of Italy won the 1906 title, with [[Bert Bouffler]] of Great Britain in second and [[Eugène Debongnie]] of Belgium third.
+
+{| {{MedalistTable}}
+|-
+|{{OGMedalList|year=1906|place=Athens|sex=Men|event=Track time trial
+|g=Francesco Verri|gn=ITA|s=Bert Bouffler|sn=GBR|b=Eugène Debongnie|bn=BEL}}
+|}
+
+==References==
+
+{{Reflist}}
+
+{{Footer Olympic Champions Track Individual Sprint Men}}
+{{Footer Olympic Champions Track Individual Sprint Women}}
+{{Cycling at the Summer Olympics}}
+
+[[Category:Olympic track cycling events|Individual sprint]]

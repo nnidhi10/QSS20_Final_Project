@@ -1,0 +1,88 @@
+{{Short description|German judoka (born 1986)}}
+{{Use dmy dates|date=May 2023}}
+{{Infobox judoka
+| image      = <!-- name.jpg -->
+| image_size = <!-- only when absolutely necessary -->
+| alt        = 
+| caption    = 
+| birth_place= [[Riesa]], [[Bezirk Dresden]], East Germany
+| height     = 168 cm
+<!-- Sport -->
+| country      = Germany
+| weight_class = {{nbnd}}70&nbsp;kg, {{nbnd}}78&nbsp;kg
+| rank         = <!-- Belt color ONLY. Automated when "dan" is used. -->
+| rank_ref     = 
+| dan          = <!-- Dan rank (number, 1-11), for Black belts only -->
+<!-- Achievements and titles -->
+| worlds_rank      = R16
+| worlds_year      = 2009
+| worlds_weight    = <!-- Optional – To link to specific weightclass competition article (when one exists) -->
+| regionals_type   = EU
+| regionals_rank   = 2
+| regionals_year   = 2009
+| regionals_weight = Women's 70 kg
+| nationals        = 
+| olympics_rank    = 2
+| olympics_year    = 2012
+| olympics_weight  = Women's 70 kg
+<!-- Medal record -->
+| show-medals    = 
+| medaltemplates =
+{{Medal|Sport| Women's [[judo]] }}
+{{Medal|Country| {{GER}} }}
+{{Medal|Competition| [[Judo at the Summer Olympics|Olympic Games]] }}
+{{Medal|S| [[Judo at the 2012 Summer Olympics|2012&nbsp;London]] | [[Judo at the 2012 Summer Olympics – Women's 70 kg|{{nbnd}}70&nbsp;kg]] }}
+{{Medal|Competition| [[World Team Judo Championships|World Team Championships]] }}
+{{Medal|B| [[2008 World Team Judo Championships|2008&nbsp;Tokyo]] | Women's&nbsp;team }}
+{{Medal|Competition| [[European Judo Championships|European Championships]] }}
+{{Medal|S| [[2009 European Judo Championships|2009&nbsp;Tbilisi]] | [[2009 European Judo Championships – Women's 70 kg|{{nbnd}}70&nbsp;kg]] }}
+{{Medal|B| [[2008 European Judo Championships|2008&nbsp;Lisbon]] | [[2008 European Judo Championships – Women's 70 kg|{{nbnd}}70&nbsp;kg]] }}
+{{Medal|B| [[2012 European Judo Championships|2012&nbsp;Chelyabinsk]] | [[2012 European Judo Championships – Women's team|Women's&nbsp;team]] }}
+{{Medal|Competition| [[Judo Grand Slam|IJF Grand Slam]] }}
+{{Medal|S| [[2009 Judo Grand Slam Rio de Janeiro|2009&nbsp;Rio&nbsp;de&nbsp;Janeiro]] | {{nbnd}}70&nbsp;kg }}
+{{Medal|S| [[2011 Judo Grand Slam Paris|2011&nbsp;Paris]] | {{nbnd}}70&nbsp;kg }}
+{{Medal|B| [[2009 Judo Grand Slam Paris|2009&nbsp;Paris]] | {{nbnd}}70&nbsp;kg }}
+{{Medal|B| [[2009 Judo Grand Slam Moscow|2009&nbsp;Moscow]] | {{nbnd}}70&nbsp;kg }}
+{{Medal|Competition| [[International Judo Federation|IJF]] Grand Prix }}
+{{Medal|B| [[2014 Judo Grand Prix Qingdao|2014&nbsp;Qingdao]] | {{nbnd}}78&nbsp;kg }}
+{{Medal|B| [[2015 Judo Grand Prix Tbilisi|2015&nbsp;Tbilisi]] | {{nbnd}}78&nbsp;kg }}
+{{Medal|Competition| [[European U23 Judo Championships|European U23 Championships]] }}
+{{Medal|S| [[2007 European U23 Judo Championships|2007&nbsp;Salzburg]] | {{nbnd}}70&nbsp;kg }}
+{{Medal|Competition| [[European Junior Judo Championships|European Junior Championships]] }}
+{{Medal|G| [[2005 European Junior Judo Championships|2005&nbsp;Zagreb]] | {{nbnd}}70&nbsp;kg }}
+| updated = 28 May 2023
+}}
+
+'''Kerstin Thiele''' (born 26 August 1986, in [[Riesa]], [[Bezirk Dresden]], [[East Germany]]) is a German [[judoka]] and a silver medallist at the [[Judo at the 2012 Summer Olympics – Women's 70 kg|Olympic Games 2012]] in London.<ref>{{cite web |url=http://www.london2012.com/athlete/thiele-kerstin-1103836/ |title=Kerstin Thiele |work=[[London 2012 Olympics]] |archive-url=https://web.archive.org/web/20120728034207/http://www.london2012.com/athlete/thiele-kerstin-1103836/ |archive-date=28 July 2012}}</ref><ref>{{cite Sports-Reference}}</ref>
+
+Kerstin Thiele is a German champion in judo in the Middleweight ({{nbnd}}70&nbsp;kg) division.  She competes for the German club ''JC Leipzig'', and was part of the German national team.
+
+At the 2012 Olympics she reached the women's middleweight judo final vs. [[Lucie Décosse]], who won the gold medal.  On the way Thiele beat [[Moira de Villiers]], [[Anett Mészáros|Anett Meszaros]], [[Edith Bosch]] and [[Chen Fei (judoka)|Chen Fei]].<ref>{{Cite web |url=http://www.olympic.org/olympic-results/london-2012/judo/63-70kg-middleweight-w |title=63 - 70kg (middleweight) women results - Judo - London 2012 Olympics |website=Olympic.org |archive-url=https://web.archive.org/web/20150924172707/http://www.olympic.org/olympic-results/london-2012/judo/63-70kg-middleweight-w |archive-date=24 September 2015 |access-date=29 March 2016}}</ref>
+
+==References==
+<references />
+
+==External links==
+* {{Sports links}}
+* {{The-Sports}}
+* {{Facebook}}
+* {{Webarchive |url=https://web.archive.org/web/20120726230623/http://www.london.judobund.de/athleten/portrait/Thiele |title=Kerstin Thiele at london.judobund.de |date=dmy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thiele, Kerstin}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:German female judoka]]
+[[Category:Olympic judoka for Germany]]
+[[Category:Olympic silver medalists for Germany]]
+[[Category:Olympic medalists in judo]]
+[[Category:Judoka at the 2012 Summer Olympics]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Sportspeople from Riesa]]
+[[Category:Sportspeople from Bezirk Dresden]]
+[[Category:Martial artists from Saxony]]
+[[Category:21st-century German sportswomen]]
+
+{{Germany-judo-bio-stub}}
+{{Germany-Olympic-medalist-stub}}

@@ -1,0 +1,2794 @@
+{{short description|Australian participation at the 2024 Summer Paralympics}}
+{{Use dmy dates|date=June 2022}} {{Use Australian English|date=June 2022}}
+{{infobox country at games
+|NPC=AUS
+|NPCname=[[Paralympics Australia]]
+|games=Summer Paralympics
+|year=2024
+|flagcaption=[[Flag of Australia]]
+|oldcode=
+|website={{URL|www.paralympic.org.au }}
+|location=[[Paris]], France 
+|start_date={{start date|2024|8|28}}
+|end_date={{end date|2024|9|8}}
+|competitors=159
+|competitors_men=89
+|competitors_women=70
+|sports=17
+|flagbearer_open= [[Madison de Rozario]]<br />[[Brenden Hall]]
+|flagbearer_close= [[Lauren Parker]]<br />{{sortname|James|Turner|James Turner (parathlete)}}
+|rank=9
+|gold=18
+|silver=17
+|bronze=28
+|officials=
+|appearances=auto
+|app_begin_year=
+|app_end_year=
+|summerappearances=
+|winterappearances=
+|seealso=
+}}
+[[Australia]] competed at the [[2024 Summer Paralympics]] in [[Paris]], France, from 28 August to 8 September 2024.
+
+==Administration==
+In June 2022, [[Paralympics Australia]] announced [[Kate McLoughlin]] as the Chef de Mission, her third Summer Paralympics in this role.<ref>{{Cite web |date=20 June 2022 |title=McLoughlin Ready For Two-Year Lead-In As Paris 2024 Chef De Mission |url=https://www.paralympic.org.au/2022/06/mcloughlin-ready-for-two-year-lead-in-as-paris-2024-chef-de-mission/ |access-date=20 June 2022 |website=Paralympics Australia}}</ref> Assistant  Chef de Missions: [[Bridie Kean]], Tim Mannion and Ben Troy.<ref>{{Cite web |title='Lived Experience' Key To Prominent Games Appointment {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2023/10/lived-experience-key-to-prominent-games-appointment/ |access-date=2023-10-22 |website=www.paralympic.org.au|date=18 October 2023 }}</ref> [[Curtis McGrath]] and [[Angie Ballard]] were appointed team captains.<ref>{{Cite web |date=28 August 2023 |title=Superb Athletes And Fierce Advocates: Australia's Paris 2024 Co-Captains Named |url=https://www.paralympic.org.au/2023/08/superb-athletes-and-fierce-advocates-australias-paris-2024-co-captains-named/ |access-date=28 August 2023 |website=Paralympics Australia}}</ref>
+
+On 2 July 2024, Prime Minister [[Anthony Albanese]] and Opposition Leader [[Peter Dutton]] showed bipartisan support for the 2024 Australian Paralympic Team with the official team launch in the Great Hall of [[Parliament House, Canberra|Parliament House]] in Canberra.<ref>{{Cite web |date=2024-07-02 |title=Federal Parliament Officially Launches Australian Paralympic Team {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/federal-parliament-officially-launches-australian-paralympic-team/ |access-date=2024-07-02 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+On 12 July 2024, wheelchair racer [[Madison de Rozario]] and swimmer [[Brenden Hall]] were announced as Opening Ceremony flag bearers at a ceremony at [[Admiralty House, Sydney|Admiralty House]] in Kirribilli, Sydney. Both will be five-time Paralympians.<ref>{{Cite web |date=2024-07-12 |title=Flag bearers named as superstar Paralympians get nod |url=https://www.nine.com.au/sport/paralympics/paris-2024-australia-flag-bearers-madison-de-rozario-brenden-hall-announcement-20240712-p5jt91.html |access-date=2024-07-12 |website=Nine |language=en}}</ref>
+[[File:2024 Summer Paralympics opening ceremony - Australia 29.jpg|thumb|left|Madison de Rozario and Brenden Hall, Opening Ceremony flag bearers]]
+
+The team's uniforms are designed and supplied by [[R. M. Williams (company)|R.M. Williams]], Belgravia,  [[Birkenstock]], [[Mizuno]] and [[Speedo]].<ref>{{Cite web |date=2024-08-08 |title=Paralympic Team uniform launched at Australian fashion week |url=https://www.paralympic.org.au/2024/05/aussie-paralympic-team-uniform-launched-at-australian-fashion-week/ |access-date=2024-08-12 |website=Paralympics Australia |language=en}}</ref>
+
+The [[Australian government]] announced that gold medallists would be awarded $20,000, silver medallists  $15,000 and bronze medallists $10,000. It brings Australian Paralympic medallists in line with Australian Olympic medallists who receive similar medal reward payments by the [[Australian Olympic Committee]].<ref>{{Cite web |date=2024-08-26 |title=Federal Government Backs Australian Paralympians With Rewards For Medallists {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/08/federal-government-backs-australian-paralympians-with-rewards-for-medallists/ |access-date=2024-08-27 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+The 159 strong team was finalised on 8 August 2024.<ref>{{Cite web |date=2024-08-08 |title=Record-Breakers, Change-Makers: Australian Paralympic Team Finalised For Paris 2024 |url=https://www.paralympic.org.au/2024/08/record-breakers-change-makers-australian-paralympic-team-finalised-for-paris-2024/ |access-date=2024-08-12 |website=Paralympics Australia |language=en}}</ref> Dual individual gold medallists - [[Lauren Parker]] (paratriathlon and cycling) and [[James Turner (parathlete)|James Turner]] (athletics) carried the flag at the Closing Ceremony.<ref>{{Cite web |date=2024-09-08 |title=The Best Of Australian Sport, Spirit And Character: Aussie Paralympians Bid Fond Farewell To Paris {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/09/the-best-of-australian-sport-spirit-and-character-aussie-paralympians-bid-fond-farewell-to-paris/ |access-date=2024-09-08 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+==Medallists==
+{{further|2024 Summer Paralympics medal table}}
+{{col-begin}}
+| width="78%" align="left" valign="top" |
+
+{| class="wikitable sortable" style="font-size:95%"
+|-
+!style="width:5em"| Medal
+!style="width:10em"| Name
+!style="width:9em"| Sport
+!style="width:18em"| Event
+!style="width:6em"| Date
+|-
+| {{gold medal}} || {{sortname|Thomas|Gallagher|Thomas Gallagher (swimmer)}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 50 m freestyle S10]]|| {{dts|29 August 2024}}
+|-
+| {{gold medal}} || {{sortname|Korey|Boddington}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics|Men's time trial C4-5]]|| {{dts|30 August 2024}}
+|-
+| {{gold medal}} || {{sortname|Emily|Petricola}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics|Women's C4 3000m Individual Pursuit]]|| {{dts|30 August 2024}}
+|-
+| {{gold medal}} || {{sortname|Amanda|Reid}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Women's time trial C1–3|Women's time trial C1–3]] || {{dts|31 August 2024}}
+|-
+| {{gold medal}} || {{sortname|Lei|Lina}} <br/> {{sortname|Yang|Qian|Yang Qian (table tennis)}}|| [[Table tennis at the 2024 Summer Paralympics|Table tennis]] || [[Table tennis at the 2024 Summer Paralympics|Women's doubles WD20]] || {{dts|31 August 2024}}
+|-
+| {{gold medal}} || {{sortname|Nikki|Ayers}} <br/> {{sortname|Jed|Altschwager}} || [[Rowing at the 2024 Summer Paralympics|Rowing]] || [[Rowing at the 2024 Summer Paralympics|PR3 Mixed Double Sculls]]|| {{dts|1 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Lauren|Parker}} ||[[Paratriathlon at the 2024 Summer Paralympics|Paratriathlon]] 
+ || [[Paratriathlon at the 2024 Summer Paralympics – Women's PTWC|Women's PTWC]]|| {{dts|2 September 2024}}
+|-
+| {{gold medal}} || [[Jesse Aungles]] <br/> [[Timothy Hodge]] <br/> [[Emily Beecroft]] <br/> [[Alexa Leary]] <br/> [[Callum Simpson]]<sup>*</sup> <br/> [[Keira Stephens]]<sup>*</sup> || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Mixed 4 x 100 m Medley Relay 34 points]]|| {{dts|2 September 2024}}
+|-
+| {{gold medal}} || {{sortname|James|Turner|James Turner (parathlete)}} ||[[Athletics at the 2024 Summer Paralympics|Athletics]] 
+ || [[Athletics at the 2024 Summer Paralympics – Men's 400 metres|Men's 400m T36]]|| {{dts|3 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Yang|Qian|Yang Qian (table tennis)}}|| [[Table tennis at the 2024 Summer Paralympics|Table tennis]] || [[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 10|Women's singles WS10]] || {{dts|4 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Alexa|Leary}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Women's 100 m freestyle S9]]|| {{dts|4 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Lauren|Parker}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Women's road race|Women's road race H1-4]]|| {{dts|5 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Timothy|Hodge}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 200m Individual Medley SM9]]|| {{dts|5 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Vanessa|Low}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics – Women's long jump T63|Women's long jump T63]]|| {{dts|5 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Benjamin|Hance}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100m Backstroke S14]]|| {{dts|6 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Callum|Simpson}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100m Freestyle S8]]|| {{dts|6 September 2024}}
+|-
+| {{gold medal}} || {{sortname|James|Turner|James Turner (parathlete)}} ||[[Athletics at the 2024 Summer Paralympics|Athletics]] 
+ || [[Athletics at the 2024 Summer Paralympics – Men's 100 metres|Men's 100m T36]]|| {{dts|7 September 2024}}
+|-
+| {{gold medal}} || {{sortname|Curtis|McGrath}} || [[Paracanoeing at the 2024 Summer Paralympics|Paracanoeing]] || [[Paracanoeing at the 2024 Summer Paralympics – Men's KL2|Men's KL2]] || {{dts|7 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Lakeisha|Patterson}}  || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Women's 400 m freestyle S9]]|| {{dts|29 August 2024}}
+|-
+| {{silver medal}} || [[Jessica Gallagher]] <br/> [[Caitlin Ward]] (pilot) || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics|Women's B 1000m Time Trial]]|| {{dts|30 August 2024}}
+|-
+| {{silver medal}} || {{sortname|Michael|Roeger}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|Men's 1500 m T46]]|| {{dts|31 August 2024}}
+|-
+| {{silver medal}} || {{sortname|Rowan|Crothers}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100 m freestyle S10]]|| {{dts|1 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Ahmed|Kelly}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 150 m Individual Medley SM3]]|| {{dts|1 September 2024}}
+|-
+| {{silver medal}} || [[Jack Ireland]] <br/> [[Madeleine McTernan]] <br/> [[Ruby Storm]] <br/> [[Benjamin Hance]] || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Mixed 4 x 100 m Freestyle Relay S14]]|| {{dts|1 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Jake|Michel}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100 m Breaststroke SB14]]|| {{dts|2 September 2024}}
+|-
+| {{silver medal}} || [[Jamieson Leeson]] <br/> [[Jasmine Haydon]] (Ramp operator) || [[Boccia at the 2024 Summer Paralympics|Boccia]] || [[Boccia at the 2024 Summer Paralympics|Women's Individual BC3]]|| {{dts|2 September 2024}}
+|-
+| {{silver medal}} || [[Daniel Michel]] <br/> [[Ashlee Maddern]] (Ramp operator) || [[Boccia at the 2024 Summer Paralympics|Boccia]] || [[Boccia at the 2024 Summer Paralympics|Men's Individual BC3]]|| {{dts|2 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Meg|Lemon}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Women's road time trial C4|Women's Road Time Trial C4]]|| {{dts|4 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Lauren|Parker}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Women's road time trial|Women's Road Time Trial H1-3]]|| {{dts|4 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Alistair|Donohoe}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Men's road time trial C5|Men's Road Time Trial C5]]|| {{dts|4 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Timothy|Hodge}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100m Butterfly S9]]|| {{dts|6 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Dylan|Littlehales}} || [[Paracanoeing at the 2024 Summer Paralympics|Paracanoeing]] || [[Paracanoeing at the 2024 Summer Paralympics|Men's KL3]]|| {{dts|7 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Col|Pearse}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 200m Individual Medley SM10]]|| {{dts|7 September 2024}}
+|-
+| {{silver medal}} || [[Chloe Osborn]] <br/> [[Alexa Leary]] <br/> [[Callum Simpson]] <br/> [[Rowan Crothers]] || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Mixed 4 x 100 m Freestyle Relay 34 points]]|| {{dts|7 September 2024}}
+|-
+| {{silver medal}} || {{sortname|Madison|de Rozario}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics – Women's marathon T54|Women's marathon T54]]|| {{dts|8 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Rowan|Crothers}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 50 m freestyle S10]]|| {{dts|29 August 2024}}
+|-
+| {{bronze medal}} || {{sortname|Brenden|Hall}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 400 m freestyle S9]]|| {{dts|29 August 2024}}
+|-
+| {{bronze medal}} || {{sortname|Madison|de Rozario}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics – Women's 1500 metres|Women's 1500 m T54]]|| {{dts|31 August 2024}}
+|-
+| {{bronze medal}} || {{sortname|Jack|Ireland}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 200 m freestyle S14]]|| {{dts|31 August 2024}}
+|-
+| {{bronze medal}} || {{sortname|Erik|Horrie}} || [[Rowing at the 2024 Summer Paralympics|Rowing]] || [[Rowing at the 2024 Summer Paralympics|Men's PR1 Single Sculls]]|| {{dts|1 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Mali|Lovell}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics – Women's 200 metres|Women's 200 m T36]]|| {{dts|1 September 2024}}
+|-
+| {{bronze medal}} || [[Gordon Allan]] <br/> [[Korey Boddington]] <br/> [[Alistair Donohoe]] || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics|Open C1-5 750m Team Sprint]]|| {{dts|1 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Thomas|Gallagher|Thomas Gallagher (swimmer)}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100 m freestyle S10]]|| {{dts|1 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Grant|Patterson}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 150 m Individual Medley SM3]]|| {{dts|1 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Dayna|Crees}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics|Women's Javelin Throw F34]]|| {{dts|1 September 2024}}
+|-
+|{{bronze medal}}
+| {{sortname|Australia national|wheelchair rugby team}}<br/>{{columns-list|colwidth=10em|small=yes|style=width:22em|{{ubl|[[Ryley Batt]]|[[Chris Bond (wheelchair rugby)|Chris Bond]]|[[James McQuillan]]|[[Beau Vernon]]|[[Ella Sabljak]]|[[Emilie Miller]]|[[Jake Howe]]|[[Ben Fawcett]]|[[Brayden Foxley-Connolly]]|[[Shae Graham]]|[[Andrew Edmondson]]|[[Josh Nicholson]]}}}}
+|[[Wheelchair rugby at the 2024 Summer Paralympics|Wheelchair rugby]]
+|[[Wheelchair rugby at the 2024 Summer Paralympics|Mixed tournament]]||{{dts|2 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Michal|Burian}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics|Men's Javelin Throw F64]]|| {{dts|2 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Rachael|Watson}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Women's 100 m Freestyle S3]]|| {{dts|3 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Alex|Saffy}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100 m Butterfly S10]]|| {{dts|3 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Alana|Forster}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Women's road time trial C5|Women's Road Time Trial C5]]|| {{dts|4 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Darren|Hicks}} || [[Cycling at the 2024 Summer Paralympics|Cycling]] || [[Cycling at the 2024 Summer Paralympics – Men's road time trial C2|Men's Road Time Trial C2]]|| {{dts|4 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Ricky|Betar}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 200m Individual Medley SM14]]|| {{dts|4 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Grant|Patterson}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 50m Backstroke SB2]]|| {{dts|4 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Samuel|von Einem}} || [[Table tennis at the 2024 Summer Paralympics|Table tennis]] || [[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 11|Men's singles MS11]]|| {{dts|5 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Thomas|Gallagher|Thomas Gallagher (swimmer)}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100m Backstroke S10]]|| {{dts|6 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Lewis|Bishop}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Men's 100m Butterfly S9]]|| {{dts|6 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Emily|Beecroft}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Women's 100m Butterfly S9]]|| {{dts|6 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Rachael|Watson}} || [[Swimming at the 2024 Summer Paralympics|Swimming]] || [[Swimming at the 2024 Summer Paralympics|Women's 50 m Freestyle S4]]|| {{dts|6 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Rheed|McCracken}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics|Men's 800 m T34]]|| {{dts|7 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Ma|Lin|Ma Lin (Paralympian)}} || [[Table tennis at the 2024 Summer Paralympics|Table tennis]] || [[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 9|Men's singles MS9]]|| {{dts|7 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Susan|Seipel}} || [[Paracanoeing at the 2024 Summer Paralympics|Paracanoeing]] || [[Paracanoeing at the 2024 Summer Paralympics|Women's VL2]]|| {{dts|7 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Lei|Lina}} || [[Table tennis at the 2024 Summer Paralympics|Table tennis]] || [[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 9|Women's singles WS9]]|| {{dts|7 September 2024}}
+|-
+| {{bronze medal}} || {{sortname|Reece|Langdon}} || [[Athletics at the 2024 Summer Paralympics|Athletics]] || [[Athletics at the 2024 Summer Paralympics|Men's 1500 m T38]]|| {{dts|7 September 2024}}
+|}
+
+| width="22%" align="left" valign="top" |
+{{Clear}}
+
+===Medals by sport===
+{| class="wikitable" style="font-size:95%"
+|-
+!colspan=5|Medals by sport
+|- style="text-align:center;"
+|'''Sport'''
+| bgcolor=#f7f6a8 |[[Image:Gold medal icon.svg]]
+| bgcolor=#dce5e5 |[[Image:Silver medal icon.svg]]
+| bgcolor=#ffdab9 |[[Image:Bronze medal icon.svg]]
+|'''Total'''
+|- style="text-align:center;"
+|[[#Swimming|Swimming]]
+| style="background:#F7F6A8;" |6
+| style="background:#DCE5E5;" |8
+| style="background:#FFDAB9;" |13
+|'''27'''
+|- style="text-align:center;"
+|[[#Cycling|Cycling]]
+| style="background:#F7F6A8;" |4
+| style="background:#DCE5E5;" |4
+| style="background:#FFDAB9;" |3
+|'''11'''
+|-
+|- style="text-align:center;"
+|[[#Athletics|Athletics]]
+| style="background:#F7F6A8;" |3
+| style="background:#DCE5E5;" |2
+| style="background:#FFDAB9;" |6
+|'''11'''
+|-
+|- style="text-align:center;"
+|[[#Table Tennis|Table Tennis]]
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |3
+|'''5'''
+|-
+|- style="text-align:center;"
+|[[#Paracanoeing|Paracanoeing]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |1
+|'''3'''
+|-
+|- style="text-align:center;"
+|[[#Rowing|Rowing]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''2'''
+|-
+|- style="text-align:center;"
+|[[#Triathlon|Triathlon]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-
+|- style="text-align:center;"
+|[[#Boccia|Boccia]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |2
+| style="background:#FFDAB9;" |0
+|'''2'''
+|-
+|- style="text-align:center;"
+|[[#Wheelchair Rugby|Wheelchair Rugby]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-
+!Total
+! style="background:gold;"   |18
+! style="background:silver;" |17
+! style="background:#c96;"   |28
+!'''63'''
+|}
+
+===Medals by date===
+{| class="wikitable" style="font-size:95%"
+|-
+!colspan=6|Medals by date
+|- style="text-align:center;"
+|'''Day'''
+|'''Date'''
+| style="background:#F7F6A8;" |[[Image:Gold medal icon.svg]]
+| style="background:#DCE5E5;" |[[Image:Silver medal icon.svg]]
+| style="background:#FFDAB9;" |[[Image:Bronze medal icon.svg]]
+|'''Total'''
+|- style="text-align:center;"
+|1
+|{{nowrap|29 Aug}}
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |2
+|'''4'''
+|- style="text-align:center;"
+|2
+|{{nowrap|30 Aug}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''3'''
+|- style="text-align:center;"
+|3
+|{{nowrap|31 Aug}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |2
+|'''5'''
+|- style="text-align:center;"
+|4
+|{{nowrap|1 Sep}}
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |6
+|'''10'''
+|-
+|- style="text-align:center;"
+|5
+|{{nowrap|2 Sep}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |2
+|'''7'''
+|-
+|- style="text-align:center;"
+|6
+|{{nowrap|3 Sep}}
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |2
+|'''3'''
+|-
+|- style="text-align:center;"
+|7
+|{{nowrap|4 Sep}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |4
+|'''9'''
+|-
+|- style="text-align:center;"
+|8
+|{{nowrap|5 Sep}}
+| style="background:#F7F6A8;" |3
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''4'''
+|-
+|- style="text-align:center;"
+|9
+|{{nowrap|6 Sep}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |4
+|'''7'''
+|-
+|- style="text-align:center;"
+|10
+|{{nowrap|7 Sep}}
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |5
+|'''10'''
+|-
+|- style="text-align:center;"
+|11
+|{{nowrap|8 Sep}}
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''1'''
+|-
+!colspan="2"|Total
+! style="background:gold;"   |18
+! style="background:silver;" |17
+! style="background:#c96;"   |28
+!'''63'''
+|}
+
+=== Medals by gender ===
+{| class="wikitable" style="font-size:95%"
+|-
+!colspan=6|Medals by gender<sup>[[2024 Summer Paralympics medal table#Medals by gender|(Comparison graphs)]]</sup>
+|- style="text-align:center;"
+|'''Gender'''
+| style="background:#F7F6A8;" |[[Image:Gold medal icon.svg]]
+| style="background:#DCE5E5;" |[[Image:Silver medal icon.svg]]
+| style="background:#FFDAB9;" |[[Image:Bronze medal icon.svg]]
+|'''Total'''
+|'''Percentage'''
+|- align=center
+|Female
+| style="background:#F7F6A8;" |8
+| style="background:#DCE5E5;" |6
+| style="background:#FFDAB9;" |9
+|'''23'''
+|
+|- align=center
+|Male
+| style="background:#F7F6A8;" |8
+| style="background:#DCE5E5;" |9
+| style="background:#FFDAB9;" |17
+|'''34'''
+|
+|- align=center
+|Mixed
+| style="background:#F7F6A8;" |2
+| style="background:#DCE5E5;" |2
+| style="background:#FFDAB9;" |2
+|'''6'''
+|
+|- align=center
+!Total || style="background:gold;"| 18 || style="background:silver;"|17 || style="background:#c96;"| 28 || 63 ||100%
+|}
+{{col-end}}
+
+==Competitors==
+The following is the list of number of selected competitors in the Games. 
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Archery at the 2024 Summer Paralympics|Archery]]
+| 3 || 3 || 6
+|-
+| align=left|[[Athletics at the 2024 Summer Paralympics|Athletics]]
+| 17|| 17 || 34
+|-
+| align=left|[[Badminton at the 2024 Summer Paralympics|Badminton]]
+| 0 || 2 || 2
+|-
+| align=left|[[Boccia at the 2024 Summer Paralympics|Boccia]]
+| 1 || 3 || 4
+|-
+| align=left|[[Cycling at the 2024 Summer Paralympics|Cycling]]
+| 6 || 6|| 12
+|-
+| align=left|[[Equestrian at the 2024 Summer Paralympics|Equestrian]]
+| 0 || 4 || 4
+|-
+| align=left|[[Judo at the 2024 Summer Paralympics|Judo]]
+| 0 || 1 || 1
+|-
+| align=left|[[Paracanoeing at the 2024 Summer Paralympics|Paracanoeing]]
+| 2 || 1 || 3
+|-
+| align=left|[[Powerlifting at the 2024 Summer Paralympics|Powerlifting]]
+| 1|| 1 || 2
+|-
+| align=left|[[Rowing at the 2024 Summer Paralympics|Rowing]]
+| 4 || 4 || 8
+|-
+| align=left|[[Shooting at the 2024 Summer Paralympics|Shooting]]
+| 1 || 1 || 2 
+|-
+| align=left|[[Swimming at the 2024 Summer Paralympics|Swimming]]
+| 15 || 15 || 30
+|-
+| align=left|[[Table tennis at the 2024 Summer Paralympics|Table tennis]]
+| 7 || 5  || 12
+|-
+| align=left|[[Paratriathlon at the 2024 Summer Paralympics|Triathlon]]
+| 9 ||4  || 13
+|-
+| align=left|[[Wheelchair basketball at the 2024 Summer Paralympics|Wheelchair basketball]]
+| 12 || 0 || 12
+|-
+| align=left|[[Wheelchair rugby at the 2024 Summer Paralympics|Wheelchair rugby]]
+|9  || 3 ||12 
+|-
+| align=left|[[Wheelchair tennis at the 2024 Summer Paralympics|Wheelchair tennis]]
+|2 || 0 ||2
+|-
+!Total || 89 || 70 || 159
+|}
+
+* [[Lauren Parker]] only included in triathlon but also competing in road cycling; wheelchair tennis player [[Heath Davidson]] withdrew.
+* Includes support athletes/assistants: Athletics - 2 guides; Boccia - 2 ramp assistants; Cycling - 2 pilots; Triathlon - 1 guide; Rowing - 1 coxswain - these are regarded as part of team by Paralympics Australia.
+
+==Archery==
+{{main|Archery at the 2024 Summer Paralympics|Archery at the 2024 Summer Paralympics – Qualification}}
+Australia secured seven quota places in all of the individual event, and two quotas in mixed team event, by virtue of their result at the 2023 World Para Archery Championships in [[Plzeň]], [[Czech Republic]]; and at the 2024 Africa–Oceania Qualification Tournament in [[Dubai]], United Arab Emirates.<ref>{{cite news|title=Olszewska serves two thrillers to grab Paris 2024 quota and reach final|url=https://www.worldarchery.sport/news/201292/olszewska-serves-two-thrillers-grab-paris-2024-quota-and-reach-final|publisher=[[World Archery]]|date=21 July 2023}}</ref> Six athletes were selected  by Paralympics Australia on 21 June 2024: Men - [[Jonathon Milne]], [[Taymon Kenton-Smith]], [[Patrick French (archer)|Patrick French]]; Women - [[AJ Jennings|Amanda Jennings]], [[Ameera Lee]], [[Melissa Tanner]]<ref>{{Cite web |date=2024-06-21 |title=Governor-General Hosts Paralympic Archery Team Announcement {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/06/governor-general-hosts-paralympic-archery-team-announcement/ |access-date=2024-06-24 |website=www.paralympic.org.au |language=en-AU}}</ref>  Reigning W1 men's World Champion [[Christopher Davis (archery)|Christopher Davis]] was forced to withdraw from the team due to injury.
+
+;Men
+{| class="wikitable" style="text-align: center; font-size:90%"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Ranking Round
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Final
+!Rank
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!
+|-
+|align=left|[[Jonathon Milne]]
+|align=left rowspan=2|[[Archery at the 2024 Summer Paralympics – Men's individual compound open|Individual compound]]
+|693
+|10
+|{{FlagIPCathlete|[[Yuya Oe|Oe]]|JPN|2024 Summer}}<br>'''W''' 147-142
+|{{flagIPCathlete|[[Kevin Polish|Polish]]|USA|2024 Summer}}<br>'''L''' 142-144
+|colspan=4 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Patrick French (archer)|Patrick French]] 
+|684
+|21
+|{{FlagIPCathlete|[[Ken Swagumilang|Swagumilang]]|INA|2024 Summer}}<br>'''L''' 138-140
+|colspan=5 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Taymon Kenton-Smith]]
+|align=left|[[Archery at the 2024 Summer Paralympics – Men's individual recurve open|Individual recurve]]
+|596
+|23
+|{{FlagIPCathlete|[[Gan Jun (archer)|Gan]]|CHN|2024 Summer}}<br/>'''W''' 6-2
+|{{FlagIPCathlete|[[Samuel Molina (archer)|Molina]]|MEX|2024 Summer}}<br/>'''W''' 6-4
+|{{FlagIPCathlete|[[Kwak Geonhwi|Kwak]]|KOR|2024 Summer}}<br/>'''W''' 6-4
+|{{FlagIPCathlete|[[Lukacz Ciszek|Ciszek]]|POL|2024 Summer}}<br/>'''L''' 2-6
+|{{FlagIPCathlete|[[Mohammad Reza Arab Ameri|Arab Ameri]]|IRI|2024 Summer}}<br/>'''L''' 0-6
+|4
+|}
+
+;Women
+{| class="wikitable" style="text-align: center; font-size:90%"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Ranking Round
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Final
+!Rank
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!
+|-
+|align=left|[[Ameera Lee]]
+|align=left rowspan=2|[[Archery at the 2024 Summer Paralympics – Women's individual compound open|Individual compound]]
+|649
+|22
+|{{FlagIPCathlete|[[Nur Syahidah Alim|Alim]]|SIN|2024 Summer}}<br>'''W''' (135-133)
+|{{flagIPCathlete|[[Julie Rigault Chupin|Rigault Chupin]]|FRA|2024 Summer}}<br>'''L''' (132-140)
+|colspan=4 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Melissa Tanner]]
+|646
+|23
+|{{FlagIPCathlete|[[Maria del Pilar Riveros|Riveros]]|CRC|2024 Summer}} <br/>'''W''' (137–133)
+|{{FlagIPCathlete|[[Phoebe Paterson Pine|Paterson Pine]]|GBR|2024 Summer}} <br/>'''L''' (136-140)
+|colspan=4 {{n/a|''Did not advance''}}
+|-
+|align=left|[[AJ Jennings]]
+|align=left|[[Archery at the 2024 Summer Paralympics – Women's individual recurve open|Individual recurve]]
+|531
+|16
+|{{FlagIPCathlete|[[Wahyu Retno Wulandari|Wulandari]]|INA|2024 Summer}} <br/> '''W''' 7-3
+|{{FlagIPCathlete|[[Elisabetta Mijno|Mijno]]|ITA|2024 Summer}} <br/> '''L''' 0-6
+|colspan=4 {{n/a|''Did not advance''}}
+|}
+
+;Mixed
+{| class="wikitable" style="text-align: center; font-size:90%"
+! rowspan="2" |Athlete
+! rowspan="2" |Event
+! colspan="2" |Ranking Round
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Final
+!Rank
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!Opposition<br>Score
+!
+|-
+|align=left|[[Jonathon Milne]] <br/> [[Ameera Lee]] 
+|align=left|[[Archery at the 2024 Summer Paralympics – Mixed team compound|Team compound]]
+|1342
+|10
+|{{FlagIPCathlete|[[Maxime Guerin|Guerin]]<br>[[Julie Rigault Chupin|Rigault Chupin]]|FRA|2024 Summer}}<br>'''W''' 142-134
+|{{FlagIPCathlete|[[Jodie Grinham|Grinham]]<br>[[Nathan MacQueen|MacQueen]]|GBR|2024 Summer}}<br>'''L''' 141-150
+|colspan=3 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Taymon Kenton-Smith]] <br> [[AJ Jennings]]
+|align=left|[[Archery at the 2024 Summer Paralympics – Mixed team recurve|Team recurve]]
+|1127
+|12
+|{{FlagIPCathlete|[[Harvinder Singh (archer)|Singh]] /<br>[[Pooja Jatyan|Jatyan]]|IND|2024 Summer}}<br>'''L''' 4-5
+|colspan=4 {{n/a|''Did not advance''}}
+|}
+
+==Athletics==
+{{main|Athletics at the 2024 Summer Paralympics|Athletics at the 2024 Summer Paralympics – Qualification}}
+Australian track and field athletes achieved quota places for the following events based on their results at the [[2023 World Para Athletics Championships|2023 World Championships]], [[2024 World Para Athletics Championships|2024 World Championships]], or through high performance allocation, as long as they meet the minimum entry standard (MES).
+
+{{smalldiv|1=
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''DQ''' = Disqualified
+*'''PR''' = Paralympic Record
+*'''AR''' = Area (or continental) Record
+*'''NR''' = National Record 
+*'''SB''' = Season's Best 
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track & road events
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left rowspan=3|[[Luke Bailey (wheelchair racer)|Luke Bailey]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 100 metres|100 m T54]]
+|14.39
+|4 '''q'''
+|14.39
+|7
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 800 metres|800 m T54]]
+|1:51.34
+|7
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 400 metres|400 m T54]]
+|48.11
+|7
+| colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+| align=left rowspan=2|[[Jaryd Clifford]] <br><small>[[Matthew Clarke (runner)|Matthew Clarke]] & Tim Logan (guides)</small>
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|1500 m T13]]
+|colspan=2 {{n/a}}
+|3:44.95 '''SB'''
+|4
+|-align=center
+| align="left" |[[Athletics at the 2024 Summer Paralympics – Men's 5000 metres|5000 m T13]]
+|colspan=2 {{n/a}}
+| colspan="2" |DQ
+|-align=center
+|align=left|[[Angus Hincksman]]
+|align=left |[[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|1500 m T38]]
+|colspan=2 {{n/a}}
+|4:14.14
+|4
+|-align=center
+|align=left|'''[[Reece Langdon]]'''
+|align=left |[[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|1500 m T38]]
+|colspan=2 {{n/a}}
+|4:13.13
+|{{bronze03}}
+|-align=center
+|align=left rowspan=2|'''[[Rheed McCracken]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 100 metres|100 m T34]]
+|15.62 '''SB'''
+|5 '''Q'''
+|15.31 '''SB'''
+|4
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 800 metres|800 m T34]]
+|1:41.51
+|4 '''q'''
+|1:40.13
+|{{bronze03}}
+|-align=center
+|align=left rowspan=2|[[Sam McIntosh]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 100 metres|100 m T52]]
+|17.88
+|9
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 400 metres|400 m T52]]
+|1:10.33
+|11
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Chad Perris]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 100 metres|100 m T13]]
+|10.87
+|4 '''Q'''
+|10.80
+|4
+|-align=center
+|align=left rowspan=3|[[Sam Rizzo]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 800 metres|800 m T54]]
+|1:45.33
+|12
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|1500 m T54]]
+|3:02.92
+|9
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 5000 metres|5000 m T54]]
+|11:19.32
+|6
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|'''[[Michael Roeger]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 1500 metres|1500 m T46]]
+|colspan=2 {{n/a}}
+|3:51.19
+|{{silver02}}
+|-align=center
+|align=left rowspan=2|'''[[James Turner (parathlete)|James Turner]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 100 metres|100 m T36]]
+|12.09
+|4 '''Q'''
+|11.85 '''PR'''
+|{{gold01}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's 400 metres|400 m T36]]
+|colspan=2 {{n/a}}
+|51.54 '''WR'''
+|{{gold01}}
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left rowspan=2|[[Angie Ballard|Angela Ballard]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 400 metres|400 metres T53]]
+|colspan=2 {{n/a}}
+|59.12
+|6
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 800 metres|800 metres T53]]
+|colspan=2 {{n/a}}
+|1:56.83
+|6
+|-align=center
+|align=left|[[Telaya Blacksmith]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 400 metres|400 metres T20]]
+|57.96
+|5 '''q'''
+|59.37
+|8
+|-align=center
+|align=left rowspan=2|[[Rhiannon Clarke]]
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 100 metres|100 metres T38]]
+|12.78 '''AR'''
+|4 '''q'''
+|12.72 '''AR'''
+|4
+|-align=center
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 400 metres|400 metres T38]]
+|1:01.39 '''AR'''
+|5 '''Q'''
+|1:00.81 '''AR'''
+|5 
+|-align=center
+|align=left|[[Annabelle Colman]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 1500 metres|1500 m T20]]
+|colspan=2 {{n/a}}
+|4:31.54 '''AR'''
+|4
+|-align=center
+|align=left|[[Abby Craswell]]
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 100 metres|100 metres T36]]
+|15.28
+|4
+| colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left  rowspan=3|'''[[Madison de Rozario]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 1500 metres T54|1500 m T54]]
+|3:20.09
+|2 '''Q'''
+|3:20.32
+|5
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's 5000 metres T54|5000 m T54]]
+|11:43.64
+|2 '''Q'''
+|11:10.20
+|{{bronze03}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's marathon|Marathon T53]]
+|colspan=2 {{n/a}}
+|1:46:13
+|{{silver2}}
+|-align=center
+|align=left rowspan=2|'''[[Mali Lovell]]'''
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 100 metres|100 metres T36]]
+|14.57
+|3 '''Q'''
+|14.80
+|5
+|-align=center
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 200 metres|200 metres T36]]
+|30.08
+|3 '''Q'''
+|29.82
+| {{Bronze3}}
+|-align=center
+|align=left|[[Ella Pardy]]
+|align=left |[[Athletics at the 2024 Summer Paralympics – Women's 100 metres|100 metres T38]]
+|13.15
+|6
+|colspan="2" {{n/a|''Did not advance''}}
+|}
+
+[[File:Athletics at the 2024 Summer Paralympics – Men's 1500m - T46 Final - 11.jpg|thumb|right|Michael Roeger leading in the 1500m T46 final at the Paris Paralympics]]
+
+;Field events
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+|-align=center
+|align=left|[[Corey Anderson (javelin thrower)|Corey Anderson]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's javelin throw|Javelin throw F38]]
+|49.34
+|6
+|-align=center
+|align=left|'''[[Michal Burian]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's javelin throw|Javelin throw F64]]
+|64.89	
+|{{bronze03}}
+|-align=center
+|align=left|[[Jackson Hamilton]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's javelin throw|Javelin throw F13]]
+|59.20 '''AR'''
+|6
+|-align=center
+|align=left|[[Guy Henley]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's discus throw|Discus throw F37]]
+|48.58
+|8
+|-align=center
+|align=left|[[Nicholas Hum]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Men's long jump|Long jump T20]]
+|6.97
+|6
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+|-align=center
+|align=left |[[Telaya Blacksmith]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's long jump|Long jump T20]]
+|5.21 '''AR'''
+|9
+|-align=center
+|align=left rowspan=2|[[Sarah Clifton-Bligh]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's shot put|Shot put F32]]
+|4.85
+|10
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's club throw|Club throw]]
+|14.70
+|16
+|-align=center
+|align=left rowspan=2|'''[[Dayna Crees]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's javelin throw|Javelin throw F34]]
+|17.65
+|{{bronze03}}
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's shot put|Shot put F34]]
+|6.30 '''PB'''
+|9
+|-align=center
+|align=left|[[Sarah Edmiston]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's discus throw|Discus throw F44]]
+|34.33 '''SB'''
+|7
+|-align=center
+|align=left rowspan=2|[[Ella Hose]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's shot put|Shot put F37]]
+|11.25
+|4
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's discus throw F38|Discus throw F38]]
+|28.36 '''SB'''
+|11
+|-align=center
+|align=left rowspan=2|[[Rosemary Little]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's shot put|Shot put F32]]
+|5.91
+|6
+|-align=center
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's club throw|Club throw]]
+|16.65 '''AR'''
+|13
+|-align=center
+|align=left|'''[[Vanessa Low]]'''
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's long jump|Long jump T63]]
+|5.45 '''WR'''
+|{{gold01}}
+|-align=center
+|align=left|[[Samantha Schmidt]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's discus throw F38|Discus throw F38]]
+|33.05 '''SB'''
+|7 
+|-align=center
+|align=left|[[Maria Strong (athlete)|Maria Strong]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's shot put|Shot put F33]]
+|6.35
+|8
+|-align=center
+|align=left|[[Sarah Walsh (athlete)|Sarah Walsh]]
+|align=left|[[Athletics at the 2024 Summer Paralympics – Women's long jump|Long jump T64]]
+|4.88
+|8
+|}
+
+==Badminton==
+{{main|Badminton at the 2024 Summer Paralympics}}
+Two athletes were selected on 23 May 2024– [[Celine Vinot]] and [[Mischa Ginns]].<ref>{{Cite web |date=2024-05-23 |title=Paralympics Australia Announces Badminton Duo For Paris 2024 {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/05/paralympics-australia-announces-badminton-duo-for-paris-2024/ |access-date=2024-05-23 |website=www.paralympic.org.au |language=en-AU}}</ref> Ginns withdrew due to illness in Paris.<ref>{{Cite web |date=2024-08-30 |title=Badminton Australia Chief Executive Officer Tjitte Weistra Statement on Mischa Ginns Withdrawal from Paris Paralympics 2024 - Badminton Australia |url=https://www.badminton.org.au/newsevents/badminton-australia-chief-executive-officer-tjitte-weistra-statement-on-mischa-ginns-withdrawal-from-paris-paralympics-2024/ |access-date=2024-09-07 |language=en-AU}}</ref>
+
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="4" | Group Stage
+! Quarterfinal
+! Semifinal
+! colspan="2" | Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+! Opposition<br />Score
+! Opposition<br />Score
+! Opposition<br />Score
+! Rank
+! Opposition<br />Score
+! Opposition<br />Score
+! Opposition<br />Score
+! Rank
+|-
+| align="left" | [[Mischa Ginns]]
+| align="left" | [[Badminton at the 2024 Summer Paralympics – Women's singles WH2|Women's singles WH2]]
+|Withdrew
+|
+|-
+| align="left" | [[Celine Vinot]]
+| align="left" | [[Badminton at the 2024 Summer Paralympics – Women's singles SL3|Women's singles SL3]]
+|{{flagIPCathlete|[[Mariam Eniola Bolaji|Bolaji]]|NGR|2024 Summer}}<br>'''L''' 0-2
+|{{flagIPCathlete|[[Mandeep Kaur (para badminton)|Mandeep Kaur]]|IND|2024 Summer}} <br/> '''L''' 1-2
+|{{n/a}}
+|3
+|colspan=4 {{n/a|''Did not advance''}}
+|}
+
+==Boccia==
+{{main|Boccia at the 2024 Summer Paralympics}}
+Daniel Michel and Jamieson Leeson, and their respective ramp operators Ash Maddern and Jasmine Haydon were selected on 11 June 2024.<ref>{{Cite web |date=2024-06-11 |title=World Champion Boccia Stars Confirmed For Paris 2024 {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/06/world-champion-boccia-stars-confirmed-for-paris-2024/ |access-date=2024-06-11 |website=www.paralympic.org.au}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="4"|Pool matches
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|-
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|'''[[Daniel Michel]]'''
+|align=left|[[Boccia at the 2024 Summer Paralympics|Men's individual BC3]]
+|{{flagIPCathlete|[[Karabo Morapedi|Morapedi]]|RSA|2024 Summer}}<br>'''W''' 10–2
+|{{flagIPCathlete|[[Patrick Wilson (boccia)|Wilson]]|GBR|2024 Summer}}<br />'''W''' 7–2
+|{{flagIPCathlete|[[William Arnott (boccia)|Arnott]]|GBR|2024 Summer}}<br />'''W''' 3–2
+|1 '''Q'''
+|{{flagIPCathlete|[[Rodrigo Romero|Romero]]|ARG|2024 Summer}}<br />'''W''' 5–0
+|{{flagIPCathlete|[[Grigorios Polychronidis|Polychronidis]]|GRE|2024 Summer}}<br />'''W''' 6–1
+|{{flagIPCathlete|[[Jeong Ho-won|Jeong H-w]]|KOR|2024 Summer}}<br />'''L''' 2–5
+|{{silver02}}
+|- align=center
+|align=left|'''[[Jamieson Leeson]]'''
+|align=left|[[Boccia at the 2024 Summer Paralympics|Women's individual BC3]]
+|{{flagIPCathlete|[[Kang Sun-hee|Kang S-h]]|KOR|2024 Summer}}<br>'''L''' 1–6
+|{{flagIPCathlete|[[Sally Kidson|Kidson]]|GBR|2024 Summer}}<br>'''W''' 6–1
+|{{flagIPCathlete|[[Evelyn Oliveira|Oliveira]]|BRA|2024 Summer}}<br />'''W''' 4–3
+|2 '''Q'''
+|{{flagIPCathlete|[[Stefanía Ferrando|Ferrando]]|ARG|2024 Summer}}<br />'''W''' 4–3
+|{{flagIPCathlete|[[Evani Soares da Silva|Calado]]|BRA|2024 Summer}}<br />'''W''' 7–1
+|{{flagIPCathlete|[[Yuen Kei Ho|Ho]]|HKG|2024 Summer}}<br />'''L''' 2–4
+|{{silver02}}
+|- align=center
+|align=left|[[Daniel Michel]]<br />[[Jamieson Leeson]]
+|align=left|[[Boccia at the 2024 Summer Paralympics|Mixed pairs BC3]]
+|{{flagIPC|FRA|2024 Summer}}<br />'''W''' 5–2
+|{{flagIPC|JPN|2024 Summer}}<br />'''W''' 5–2
+|{{n/a}}
+|1 '''Q'''
+|{{flagIPC|KOR|2024 Summer}}<br />'''L''' 2–4
+|colspan=2 {{n/a|''Did not advance''}}
+|6
+|}
+
+[[File:Boccia at the 2024 Summer Paralympics - September 7.jpg|thumb|right|Jamieson Leeson at the 2024 Paris Paralympics]]
+[[File:Boccia at the 2024 Summer Paralympics - September 18.jpg|thumb|center|Dan Michel at the 2024 Paris Paralympics]]
+
+==Cycling==
+{{main|Cycling at the 2024 Summer Paralympics|Cycling at the 2024 Summer Paralympics – Qualification}}
+Thirteen athletes selected on 31 July 2024 with [[Korey Boddington]], [[Kane Perris]] and [[Alana Forster]] making their Paralympics debut.<ref>{{Cite web |date=2024-07-30 |title=Paralympics Australia Names Cycling Team For Paris 2024 {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/paralympics-australia-names-cycling-team-for-paris-2024/ |access-date=2024-07-30 |website=www.paralympic.org.au |language=en-AU}}</ref>
+{{smalldiv|1=
+;Key
+*'''Q''' = Qualified for the next round
+*'''QB''' = Qualified for the brinze medal race
+*'''QG''' = Qualified for the gold medal race
+*'''WR''' = World Record
+* DNF - Did not finish
+* OVL = Overlapped
+}}
+
+;Track Event — Women
+
+[[File:2024 Summer Paralympics - Cycling 25.jpg|thumb|right|Silver medalists [[Caitlin Ward]] (front) and [[Jessica Gallagher]] (back) ]]
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Opposition<br />Time
+!Rank
+|-align=center
+|align=left|[[Alana Forster]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Individual pursuit C5]]
+|3:41.497
+|5
+|align="center" colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left rowspan="2"|'''[[Jessica Gallagher]]'''<br /><small> '''Pilot:[[Caitlin Ward]]''' </small>
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's individual pursuit B]]
+|3:46.294
+|7
+|align="center" colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's 1km time trial B]]
+|1:07.214
+|2 '''Q'''
+|1:07.533
+|{{silver02}}
+|-
+|-align=center
+|align=left|[[Meg Lemon]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Individual pursuit C4]]
+|3:49.703
+|6
+|align="center" colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|'''[[Emily Petricola]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Individual pursuit C4]]
+|3:35.856 '''WR'''
+|1 '''QG'''
+|OVL
+|{{Gold1}}
+|-align=center
+|align=left|'''[[Amanda Reid]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|500 m time trial C1-3]]
+|38.663
+|1 '''Q'''
+|38.811
+|{{gold01}}
+|}
+ 
+;Track Events - Men
+ 
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Opposition<br />Time
+!Rank
+|-align=center
+|align=left|[[Gordon Allan]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Time trial C1-3]]
+|1:09.403
+|5 '''Q'''
+|1:09.803	
+|5
+|-align=center
+| align=left |'''[[Korey Boddington]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Time trial C4-5]]
+|1:02.021 '''PR'''
+|1 '''Q'''
+|1:01.650
+|{{Gold1}}
+|-align=center
+|align=left|[[Darren Hicks]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Individual pursuit C2]]
+|3:33.098
+|5
+|colspan=2 {{n/a|''Did not advance''}}
+|-align=center
+|align=left rowspan=2|[[Kane Perris]]<br /><small>Pilot:[[Luke Zaccaria]]</small>
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's 1 km time trial B]]
+|59.628
+|3 '''Q'''
+|1:00.940
+|4
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's individual pursuit B]]
+|5:42.837
+|14
+|colspan=2 {{n/a|''Did not advance''}}
+|}
+ 
+;Track Event — Mixed
+ 
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Opposition<br />Time
+!Rank
+|-align=center
+|align=left|'''[[Korey Boddington]]<br/>[[Alistair Donohoe]]<br/>[[Gordon Allan]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Mixed team sprint C1-5]]
+|49.569
+|3 '''QB'''
+|49.036
+|{{bronze03}}
+|}
+;Road Events — Women
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left rowspan="2"|'''[[Alana Forster]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road time trial C5]]
+|21:00.48
+|{{bronze03}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road race C4-5]]
+|2:00:49
+|7
+|-align=center
+|align=left rowspan="2"|'''[[Meg Lemon]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road time trial C4]]
+|21:44.16
+|{{silver02}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road race C4-5]]
+|2:07:48
+|12
+|-align=center
+|align=left rowspan="2"|'''[[Lauren Parker]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road time trial H1-3]]
+|24:24.09
+|{{silver02}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road race H1-4]]
+|52:04
+|{{gold01}}
+|-align=center
+|align=left rowspan="2"|[[Emily Petricola]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road time trial C4]]
+|21:48.44
+|4
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road race C4-5]]
+|2:01:23
+|11
+|-align=center
+|align=left rowspan="2"|[[Amanda Reid]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road time trial C1-3]]
+|25:19.73
+|13
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Women's road race C1-3]]
+|1:57:02
+|13
+|}
+;Road Events — Men
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left |[[Grant Allen (cyclist)|Grant Allen]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road race H4]]
+|2:03:01
+|22
+|-align=center
+|align=left |[[Korey Boddington]]
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road race C4-5]]
+|DNF
+|
+|-align=center
+|align=left rowspan="2"|'''[[Alistair Donohoe]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road time trial C5]]
+|36:18.66
+|{{silver02}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road race C4-5]]
+|2:25:58
+|6
+|-align=center
+|align=left rowspan="2"|'''[[Darren Hicks]]'''
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road time trial C2]]
+|19:40.08
+|{{bronze03}}
+|-align=center
+|align=left|[[Cycling at the 2024 Summer Paralympics|Men's road race C1-3]]
+|1:51:30
+|13
+|}
+
+==Equestrian==
+{{main|Equestrian at the 2024 Summer Paralympics|Equestrian at the 2024 Summer Paralympics – Qualification}}
+[[File:Equestrian at the 2024 Summer Paralympics - September 4 - 30.jpg|thumb|right|[[Lisa Martin (equestrian)|Lisa Martin]] in the individual competition]]
+Four riders selected on 4 July 2024 with Lisa Martin competing at her second Games.<ref>{{Cite web |date=2024-07-04 |title=Sliding Doors Moments That Led Riders To Paralympic Selection {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/sliding-doors-moments-that-led-riders-to-paralympic-selection/ |access-date=2024-07-05 |website=www.paralympic.org.au |language=en-AU}}</ref>
+;Individual competition
+{|class=wikitable
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Total
+|-
+!Score
+!Rank
+|-
+|rowspan="2"|[[Stella Barton]]
+|rowspan="2"|''Lord Lamarque''
+|[[Equestrian at the 2024 Summer Paralympics - Individual championship test grade I|Individual championship test grade I]]
+|align="center"|70.833
+|align="center"|8 '''Q'''
+|-
+|[[Equestrian at the 2024 Summer Paralympics – Team open|Dressage individual team test grade I]]
+|align="center"|73.960
+|align="center"|7
+|-
+|rowspan="2"|[[Bridget Murphy]]
+|rowspan="2"|''Penmain Promise''
+|[[Equestrian at the 2024 Summer Paralympics - Individual championship test grade II|Individual championship test grade II]]
+|align="center"|66.724
+|align="center"|7 '''Q'''
+|-
+|[[Equestrian at the 2024 Summer Paralympics – Team open|Dressage individual team test grade II]]
+|align="center"|70.154
+|align="center"|7
+|-
+|rowspan="2"|[[Dianne Barnes]]
+|rowspan="2"|''Sorena''
+|[[Equestrian at the 2024 Summer Paralympics - Individual championship test grade IV|Individual championship test grade IV]]
+|align="center"|65.444
+|align="center"|12
+|-
+|[[Equestrian at the 2024 Summer Paralympics – Team open|Dressage individual team test grade IV]]
+|align="center" colspan=2 {{n/a|''Did not advance''}}
+|-
+|rowspan="2"| [[Lisa Martin (equestrian)|Lisa Martin]]
+|rowspan="2"|''Vilaggio''
+|[[Equestrian at the 2024 Summer Paralympics - Individual championship test grade V|Individual championship test grade V]]
+|align="center"|70.436
+|align="center"|5 '''Q'''
+|-
+|[[Equestrian at the 2024 Summer Paralympics – Team open|Dressage individual team test grade V]]
+|align="center"|71.905
+|align="center"|6
+|}
+
+;Team
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="1"|Individual score
+!colspan="2"|Total
+|-
+!{{abbr|TT|Team Test}}
+!Score
+!Rank
+|- align=center
+|align=left|[[Stella Barton]]
+|align=left rowspan=3|''See above''
+|align=left rowspan=3|[[Equestrian at the 2024 Summer Paralympics – Team open|Team]]
+|70.375
+|rowspan="4"|206.343
+|rowspan="4"|12
+|- align=center
+|align=left|[[Bridget Murphy]]
+|67.100
+|- align=center
+|align=left|[[Lisa Martin (equestrian)|Lisa Martin]]
+|68.868
+|}
+
+==Judo==
+{{main|Judo at the 2024 Summer Paralympics|Judo at the 2024 Summer Paralympics – Qualification}}
+On 24 July 2024, [[Taylor Gosens]] was selected as Australia's first female judoka since [[2004 Athens Paralympics]].<ref>{{Cite web |date=2024-07-24 |title=Australia's Sole Judoka For Paris 2024 Means Business {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/beat-some-girls-up-australias-sole-judoka-for-paris-2024-means-business/ |access-date=2024-07-24 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminaries
+!Quarterfinals
+!Semifinals
+!Repechage<br />Quarter final
+!Repechage<br />Final
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|-
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Taylor Gosens]]
+|align=left|[[Judo at the 2024 Summer Paralympics|Women's +70 kg J2]]
+|{{n/a}}
+|{{flagIPCathlete|[[Sheyla Hernández|Hernández]]|CUB|2024 Summer}} '''L''' 0-10
+|{{n/a}}
+|{{flagIPCathlete|[[Zarina Raifova|Raifova]]|KAZ|2024 Summer}} '''L''' 0-10
+|colspan=3 {{n/a|''Did not advance''}}
+|}
+
+==Paracanoeing==
+{{main|Paracanoeing at the 2024 Summer Paralympics|Paracanoeing at the 2024 Summer Paralympics – Qualification}}
+[[File:Paracanoe at the 2024 Summer Paralympics - September 6 36.jpg|thumb|right|[[Susan Seipel]] in the [[Paracanoeing at the 2024 Summer Paralympics – Women's KL2|Women's KL2]] ]]
+[[File:Paracanoe at the 2024 Summer Paralympics - September 6 84.jpg|thumb|right|Curtis McGrath on racing at the Paros Paralympics]]
+
+Australia earned quota places for the following events through the [[2023 ICF Canoe Sprint World Championships]] in [[Duisburg]], Germany; 2024 ICF Canoe Sprint World Championships in [[Szeged]], Hungary.
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heats
+!colspan=2|Semi-Final
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left rowspan=2|'''[[Curtis McGrath]]'''
+|align=left|[[Paracanoeing at the 2024 Summer Paralympics – Men's KL2|Men's KL2]]
+|42.66
+|1 '''FA'''
+|colspan=2 {{n/a}}
+|41.31
+|{{gold01}}
+|-
+|align=left|[[Paracanoeing at the 2024 Summer Paralympics – Men's VL3|Men's VL3]]
+|48.97 '''PGB'''
+|1 '''FA'''
+|colspan=2 {{n/a}}
+|48.34
+|4
+|-
+|align=left|'''[[Dylan Littlehales]]'''
+|align=left|[[Paracanoeing at the 2024 Summer Paralympics – Men's KL3|Men's KL3]]
+|42.21
+|1  '''FA'''
+|colspan=2 {{n/a}}
+|40.68
+|{{silver02}}
+|-
+|align=left rowspan=2|'''[[Susan Seipel]]'''
+|align=left|[[Paracanoeing at the 2024 Summer Paralympics – Women's KL2|Women's KL2]]
+|1:01.29
+|3 '''SF'''
+|57.17	
+|1 '''FA'''
+|56.57	
+|5
+|-
+|align=left|[[Paracanoeing at the 2024 Summer Paralympics – Women's VL2|Women's VL2]]
+|1:04.03
+|3 '''SF'''
+|1:02.17
+|1 '''FA'''
+|1:01.39
+|{{bronze03}}
+|}
+{{small|Qualification legend: '''FA''' - Qualify to medal final; '''FB''' - Qualify to non-medal final; '''SF''' - Qualify to semifinal}}
+
+==Paratriathlon==
+{{main|Paratriathlon at the 2024 Summer Paralympics|Paratriathlon at the 2024 Summer Paralympics – Qualification}}
+[[File:Triathlon at the 2024 Summer Paralympics 29.jpg|thumb|right|[[Tom Goodman]] and [[Anu Francis]] in the triathlon]]
+
+A team of twelve athletes and one guide was selected on 2024 July 2021. Seven athletes will be making their Paralympics Games debut and [[Sam Harding (athlete)|Sam Harding]] competing in triathlon after being a distance runner at the 2020 Tokyo Paralympics.<ref>{{Cite web |date=2024-07-19 |title=Paralympics Australia Announces Powerful Triathlon Team For Paris 2024 {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/paralympics-australia-announces-powerful-triathlon-team-for-paris-2024/ |access-date=2024-07-19 |website=www.paralympic.org.au |language=en-AU}}</ref>
+'''Men'''
+{|class=wikitable style=font-size:95%;text-align:center
+|-
+!Athlete
+!Event
+!Swim
+!Trans 1
+!Bike
+!Trans 2
+!Run
+!Total Time
+!Rank
+|-
+|align=left|[[Tom Goodman]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS2|PTS2]]
+|19:05
+|2:04
+|36:49
+|1:17
+|21:57
+|1:21:12
+|9
+|-
+|align=left|[[Justin Godfrey]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS3|PTS3]]
+|17:15
+|2:15
+|36:54
+|0:55
+|35:30
+|1:32:49
+|11
+|-
+|align=left|[[Jeremy Peacock]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS4|PTS4]]
+|11:42
+|1:00
+|32:43
+|0:33
+|19:03
+|1:05:01
+|8
+|-
+|align=left|[[Liam Twomey (triathlete)|Liam Twomey]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS4|PTS4]]
+|10:45
+|1:11
+|33:20
+|0:48
+|21:55
+|1:07:59
+|13
+|-
+|align=left|[[David Bryant (triathlete)|David Bryant]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS5|PTS5]]
+|12:45
+|0:58
+|30:27
+|0:32
+|18:05
+|1:02:47
+|8
+|-
+|align=left|[[Jack Howell (triathlete)|Jack Howell]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTS5|PTS5]]
+|10:54
+|0:54
+|31:20
+|0:41
+|10
+|1:02:21
+|7
+|-
+|align=left|[[Nic Beveridge]]
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTWC|PTWC]]
+|12:31
+|1:29
+|37:27
+|0:48
+|12:56
+|1:05:11
+|6
+|-
+|align=left|[[Sam Harding (athlete)|Sam Harding]]<br/>{{small|Guide: [[Aaron Royle]]}}
+|align=left |[[Paratriathlon at the 2024 Summer Paralympics – Men's PTVI|PTVI]]
+|13:40
+|0:58
+|29:19
+|0:34
+|16:50
+|1:01:21
+|5
+|}
+
+'''Women'''
+{|class=wikitable style=font-size:95%;text-align:center
+|-
+!Athlete
+!Event
+!Swim
+!Trans 1
+!Bike
+!Trans 2
+!Run
+!Total Time
+!Rank
+|-
+|align=left|[[Anu Francis]]
+|align=left|[[Paratriathlon at the 2024 Summer Paralympics – Women's PTS2|PTS2]]
+|14:38
+|2:03
+|36:27
+|1:00
+|23:40
+|1:17:48
+|4
+|-
+|align=left|[[Grace Brimelow]]
+|align=left|[[Paratriathlon at the 2024 Summer Paralympics – Women's PTS4|PTS4]]
+|11:42
+|1:07
+|38:14
+|0:52
+|26:29
+|1:18:24
+|DSQ
+|-
+|align=left|[[Sally Pilbeam]]
+|align=left|[[Paratriathlon at the 2024 Summer Paralympics – Women's PTS4|PTS4]]
+|17:45
+|1:27
+|37:30
+|0:30
+|22:28
+|1:19:40
+|7
+|-
+|align=left|'''[[Lauren Parker]]'''
+|align=left|[[Paratriathlon at the 2024 Summer Paralympics – Women's PTWC|PTWC]]
+|13:19
+|1:48
+|36:39
+|0:49
+|13:48
+|1:06:23
+|{{gold01}}
+|}
+
+== Powerlifting ==
+{{see also|Powerlifting at the 2024 Summer Paralympics|Powerlifting at the 2024 Summer Paralympics – Qualification}}
+
+For the first time since [[2012 Summer Paralympics|2012]], Australia sent two powerlifters based on quotas as of 25 July 2024.<ref>{{Cite web |date=2024-07-25 |title=Powerlifting Resurgence Gains Pace With Paris 2024 Selections {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/powerlifting-resurgence-gains-pace-with-paris-2024-selections/ |access-date=2024-07-25 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+{|class=wikitable style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Attempts (kg)
+!rowspan=2| Result (kg)
+!rowspan=2| Rank
+|-
+! width="60" | 1
+! width="60" | 2
+! width="60" | 3
+! width="60" | 4
+|-align=center
+|align=left|[[Ben Wright (powerlifter)|Ben Wright]]
+|align=left|[[Powerlifting at the 2024 Summer Paralympics – Men's 88 kg|Men's 88 kg]]
+|184
+|192
+|{{s|195}}
+|{{n/a}}
+|192
+|7
+|-
+|-align=center
+|align=left|[[Hani Watson]]
+|align=left|[[Powerlifting at the 2024 Summer Paralympics – Women's +86 kg|Women's +86 kg]]
+|133
+|{{s|138}}
+|{{s|140}}
+|{{n/a}}
+|133
+|6
+|}
+
+==Rowing==
+{{main article|Rowing at the 2024 Summer Paralympics|Rowing at the 2024 Summer Paralympics – Qualification}}
+Australian rowers qualified boats in each of the following classes at the [[2023 World Rowing Championships]] in [[Belgrade]], Serbia.
+
+{| class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heats
+!colspan=2|Repechage
+!colspan=2|Final
+|- style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|'''[[Erik Horrie]]'''
+|align=left|[[Rowing at the 2024 Summer Paralympics – PR1M1x|PR1 men's single sculls]]
+|10:00.59
+|3 '''R'''
+|9:22.15
+|1 '''FA'''
+|9:23.37
+|{{bronze03}}
+|-
+|align=left|'''[[Jed Altschwager]]<br/>[[Nikki Ayers]]'''
+|align=left|[[Rowing at the 2024 Summer Paralympics – PR3Mix2x|PR3 mixed double sculls]]
+|7:11.30
+|1 '''FA'''
+|colspan=2 {{n/a}}
+|7:26.74
+|{{gold01}}
+|-
+|align=left|[[Tom Birtwhistle]]<br/>[[Hannah Cowap]] ([[Coxswain (rowing)|C]])<br/>[[Tobiah Goffsassen]]<br/>[[Susannah Lutze]]<br/>[[Alexandra Viney]]
+|align=left|[[Rowing at the 2024 Summer Paralympics – PR3Mix4+|PR3 mixed coxed four]]
+|7:02.74
+|3 '''R'''
+|6:55.47
+|1 '''FA'''
+|7:14.78
+|5
+|}
+
+<small>Qualification Legend: '''FA'''=Final A (medal); '''FB'''=Final B (non-medal); '''R'''=Repechage</small>
+
+==Shooting==
+{{main article|Shooting at the 2024 Summer Paralympics|Shooting at the 2024 Summer Paralympics – Qualification}}
+Two shooters were selected on 22 July 2024.<ref>{{Cite web |date=2024-07-22 |title=Shooting Tradition Continues With Experienced Duo Named For Paris {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/07/shooting-tradition-continues-with-experienced-duo-named-for-paris/ |access-date=2024-07-22 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style=font-size:95%
+!Score
+!Rank
+!Score
+!Rank
+|-
+|align=left rowspan=2|[[Natalie Smith (sport shooter)|Natalie Smith]]
+|align=left|[[Shooting at the 2024 Summer Paralympics – R2 Women's 10 metre air rifle standing SH1|R2 Women's 10 metre air rifle standing SH1]]
+|614.1
+|12
+|colspan=2 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Shooting at the 2024 Summer Paralympics – R8 Women's 50 metre rifle 3 positions SH1|R8 Women's 50 metre rifle 3 positions SH1]]
+|1156-40x
+|8 '''Q'''
+|396.2
+|8
+|-
+|align=left rowspan=2|[[Anton Zappelli]]
+|align=left|[[Shooting at the 2024 Summer Paralympics – R3 Mixed 10 metre air rifle prone SH1|R3 Mixed 10 metre air rifle prone SH1]]
+|631.9
+|15
+|colspan=2 {{n/a|''Did not advance''}}
+|-
+|align=left|[[Shooting at the 2024 Summer Paralympics – R6 Mixed 50 metre rifle prone SH1|R6 Mixed 50 metre rifle prone SH1]]
+|616.5
+|18
+|colspan=2 {{n/a|''Did not advance''}}
+|}
+
+==Swimming==
+{{main|Swimming at the 2024 Summer Paralympics|Swimming at the 2024 Summer Olympics – Qualification}}
+Paralympics Australia named thirty athletes - fifteen men and fifteen women on 14 June 2024.<ref>{{Cite web |date=14 June 2024 |title=Paralympics Australia Names Swimming Team For Paris 2024 Games |url=https://www.paralympic.org.au/2024/06/paralympics-australia-names-swimming-team-for-paris-2024-games/ |access-date=15 June 2024 |website=Paralympics Australia}}</ref> Eight athletes – four women and four men – were selected to make their Paralympic Games debut.
+{{smalldiv|1=
+;Key
+*'''Q''' = Qualified for the next round
+*'''OC''' = Oceania Record
+*'''PR''' = Paralympic Games Record
+*'''WR''' = World Record
+* DSQ = Disqualified
+}}
+;Men
+
+[[File:Swimming at the 2024 Summer Paralympics – Men's 200 metre individual medley SM9 54.jpg|thumb|[[Timothy Hodge]] after winning the gold medal in the Men's 200 metre individual medley SM9]]
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Final
+|-
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Jesse Aungles]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre backstroke S8|100 m backstroke S8]]
+|1:08.87
+|7 '''Q'''
+|1:08.36
+|6
+|-align=center
+|rowspan=3 align=left|'''[[Ricky Betar]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre freestyle S14|200 m freestyle S14]]
+|2:04.01
+|10
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics - Men's 100 metre backstroke S14|100 m backstroke S14]]
+|1:00.51
+|5 '''Q'''
+|1:00.33
+|6
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre individual medley SM14|200 m individual medley SM14]]
+|2:11.41
+|2 '''Q'''
+|2:08.69
+|{{Bronze3}}
+|- align=center
+|align=left|'''[[Lewis Bishop]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre butterfly S9|100 m butterfly S9]]
+|1:01.5
+|4 '''Q'''
+|1:01.08
+|{{bronze03}}
+|- align=center
+|rowspan=2 align=left|'''[[Rowan Crothers]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 50 metre freestyle S10|50 m freestyle S10]]
+|23.88
+|4 '''Q'''
+|23.79
+|{{Bronze3}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre freestyle S10|100 m freestyle S10]]
+|51.51
+|1 '''Q'''
+|51.55
+|{{silver02}}
+|- align=center
+|rowspan=3 align=left|'''[[Thomas Gallagher (swimmer)|Thomas Gallagher]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 50 metre freestyle S10|50 m freestyle S10]]
+|23.33
+|1 '''Q'''
+|23.40
+|{{Gold1}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre freestyle S10|100 m freestyle S10]]
+|52.70
+|2 '''Q'''
+|51.86
+|{{bronze03}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre backstroke S10|100 m backstroke S10]]
+|1:03.14
+|5 '''Q'''
+|1:01.34
+|{{bronze03}}
+|- align=center
+|rowspan=3 align=left|'''[[Brenden Hall]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 400 metre freestyle S9|400 m freestyle S9]]
+|4:19.49
+|2 '''Q'''
+|4:15.61
+|{{Bronze3}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre backstroke S9|100 m backstroke S9]]
+|1:06.90
+|10
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre butterfly S9|100 m butterfly S9]]
+|1:04.36
+|12
+|colspan="2" {{n/a|''Did not advance''}}
+|- align=center
+|rowspan=2 align=left|'''[[Benjamin Hance]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre backstroke S14|100 m backstroke S14]]
+|56.52 '''WR'''
+|1
+|57.04
+|{{gold01}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics - Men's 100 metre butterfly#S14|100 m butterfly S14]]
+|55.71
+|3 '''Q'''
+|56.48
+|4
+|- align=center
+|rowspan=5 align=left|'''[[Timothy Hodge]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre butterfly S9|100 m butterfly S9]]
+|1:00.61
+|2 '''Q'''
+|1:00.03
+|{{silver02}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 400 metre freestyle S9|400 m freestyle S9]]
+|4:19.31
+|1 '''Q'''
+|4:16.17
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre backstroke S9|100 m backstroke S9]]
+|1:03.02
+|3 '''Q''' 
+|1:02.52
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre breaststroke SB9|100 m breaststroke SB9]]
+|1:12.17
+|5 '''Q'''
+|1:12.11
+|5
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre individual medley SM9|200 m individual medley SM9]]
+|2:14.36
+|1 '''Q'''
+|2:13.31 '''PR'''
+|{{gold01}}
+|- align=center
+|align=left|'''[[Jack Ireland]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre freestyle S14|200 m freestyle S14]]
+|1:55.33
+|3 '''Q'''
+|1:53.77 '''OC'''
+|{{bronze03}}
+|- align=center
+|rowspan=3 align=left|'''[[Ahmed Kelly]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 50 metre backstroke S3|50 m backstroke S3]]
+|56.97
+|8 '''Q'''
+|54.96 '''OC'''
+|8
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 50 metre freestyle S3|50 m freestyle S3]]
+|52.48
+|9
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 150 metre individual medley SM3|150 m individual medley SM3]]
+|3:08.25
+|2 '''Q'''
+|3:02.16
+|{{silver02}}
+|- align=center
+|align=left|'''[[Jake Michel]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre breaststroke SB14|100 m breaststroke SB14]]
+|1:04.66
+|1 '''Q'''
+|1:04.27 OC
+|{{silver02}}
+|- align=center
+|rowspan=3 align=left|'''[[Grant Patterson]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre freestyle S3|200 m freestyle S3]]
+|3:56.20
+|8 '''Q'''
+|3:57.72
+|8
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 50 metre breaststroke SB2|50 m breaststroke SB2]]
+|1:03.86
+|2 '''Q'''
+|1:04.54
+|{{bronze03}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 150 metre individual medley SM3|150 m individual medley SM3]]
+|3:07.88
+|1 '''Q'''
+|3:06.94
+|{{bronze03}}
+|- align=center
+|rowspan=2 align=left|'''[[Col Pearse]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre butterfly S10|100 m butterfly S10]]
+|58.11
+|2 '''Q'''
+|57.24
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre individual medley SM10|200 m individual medley SM10]]
+|2:16.19
+|1 '''Q'''
+|2:12.79
+|{{silver02}}
+|- align=center
+|rowspan=3 align=left|'''[[Alex Saffy]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre butterfly S10|100 m butterfly S10]]
+|58.13
+|3 '''Q'''
+|56.61 '''OC'''
+|{{bronze03}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre freestyle S10|100 m freestyle S10]]
+|55.12
+|8 '''Q'''
+|54.55
+|7
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 200 metre individual medley SM10|200 m individual medley SM10]]
+|2:20.22
+|9
+|colspan="2" {{n/a|''Did not advance''}}
+|- align=center
+|align=left rowspan=2|''' [[Callum Simpson]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 100 metre freestyle S8|100 m freestyle S8]]
+|58.49
+|1 '''Q'''
+|58.23
+|{{gold01}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Men's 400 metre freestyle S8|400 m freestyle S8]]
+|4:35.79
+|6 '''Q'''
+|4:34.79
+|6
+|}
+
+'''Women'''
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Final
+|-
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left rowspan=2|'''[[Emily Beecroft]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S9|100 m freestyle S9]]
+|1:04.12
+|4 '''Q'''
+|1:03.36
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre butterfly S9|100 m butterfly S9]]
+|1:08.88
+|4 '''Q'''
+|1:07.96
+|{{Bronze3}}
+|- align=center
+|align=left |[[Katja Dedekind]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 50 metre freestyle S13|50 m freestyle S13]]
+|28.23
+|10
+|colspan="2" {{n/a|''Did not advance''}}
+|- align=center
+|align=left rowspan=4|[[Jasmine Greenwood]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 50 metre freestyle S10|50 m freestyle S10]]
+|28.23
+|7 '''Q'''
+|28.49
+|8
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre backstroke S10|100 m backstroke S10]]
+|1:11.93
+|8 '''Q'''
+|1:10.26
+|6
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre butterfly S10|100 m butterfly S10]]
+|1:08.52
+|4 '''Q'''
+|1:07.35
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 200 metre individual medley SM10|200 m individual medley SM10]]
+|2:36.59
+|6 '''Q'''
+|2:34.66
+|6
+|- align=center
+|align=left rowspan=2|[[Ella Jones (swimmer)|Ella Jones]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 400 metre freestyle S8|400 m freestyle S8]]
+|5:03.74
+|3 '''Q'''
+|5:02.86
+|6
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre backstroke S8|100 m backstroke S8]]
+|1:24.48
+|12
+|colspan="2" {{n/a|''Did not advance''}}
+|- align=center
+|align=left rowspan=3| [[Jenna Jones]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S12|100 m freestyle S12]]
+|1:04.21
+|8 '''Q'''
+|1:04.40
+|8
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre backstroke S12|100 m backstroke S12]]
+|1:13.96
+|5 '''Q'''
+|1:13.81
+|6
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre breaststroke SB12|100 m breaststroke SB12]]
+|1:23.39 '''OC'''
+|5
+|1:22.04 '''OC'''
+|6
+|- align=center
+|align=left rowspan=2|'''[[Alexa Leary]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics|50 m freestyle S10]]
+|27.69
+|3 '''Q'''
+|27.79
+|6
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S9|100 m freestyle S9]]
+|59.60 '''WR'''
+|1 '''Q'''
+|59.53 '''WR'''
+|{{Gold1}}
+|- align=center
+|align=left rowspan=3| [[Paige Leonhardt]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre butterfly S14|100 m butterfly S14]]
+|1:06.73
+|6 '''Q'''
+|1:07.49
+|7
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre breaststroke SB14|100 m breaststroke SB14]]
+|1:17.23
+|3 '''Q'''
+|1:16.55
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 200 metre individual medley SM14|200 m individual medley SM14]]
+|2:34.98
+|8 '''Q'''
+|2:35.33
+|8
+|- align=center
+|align=left rowspan=2|[[Madeleine McTernan]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 200 metre freestyle S14|100 m freestyle S14]]
+|2:12.71
+|5 '''Q'''
+|2:12.48
+|5
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre backstroke S14|100 m backstroke S14]]
+|1:09.99
+|4 '''Q'''
+|1:09.70
+|5
+|- align=center
+|align=left rowspan=2|[[Chloe Osborn]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S7|100 m freestyle S7]]
+|1:13.79
+|6 '''Q'''
+|1:13.76
+|7
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 400 metre freestyle S7|400 m freestyle S7]]
+|5:19.43
+|3  '''Q'''
+|5:17.69
+|4
+|- align=center
+|align=left rowspan=3|'''[[Lakeisha Patterson]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S9|100 m freestyle S9]]
+|1:05.47
+|9
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 400 metre freestyle S9|400 m freestyle S9]]
+|4:48.74
+|1 '''Q'''
+|4:40.14
+|{{Silver2}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 200 metre individual medley SM9|200 m individual medley SM9]]
+|2:42.05
+|7
+|2:39.99
+|5
+|-align=center
+|align=left rowspan="3" |[[Keira Stephens]]
+|align=left|[[Swimming at the 2024 Summer Paralympics|50 m freestyle S9]]
+|28.36
+|10
+|colspan="2" {{n/a|''Did not advance''}}
+|- align="center"
+| align="left" |[[Swimming at the 2024 Summer Paralympics – Women's 100 metre breaststroke SB9|100 m breaststroke SB9]]
+|1:18.01
+|4 '''Q'''
+|1:17.64
+|4
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 200 metre individual medley SM10|200 m individual medley SM10]]
+|2:39.06
+|8 '''Q'''
+|2:36.28
+|7
+|-align=center
+|align=left rowspan="3"|[[Ruby Storm]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre butterfly S14|100 m butterfly S14]]
+|1:09.78
+|9
+| colspan="2" |Did not advance
+|- align="center"
+| align="left" |[[Swimming at the 2024 Summer Paralympics – Women's 200 metre freestyle S14|200 m freestyle S14]]
+|2:15.21
+|8 '''Q'''
+|2:13.13
+|7
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre breaststroke SB14|100 m breaststroke SB14]]
+|1:21.91
+|9
+|colspan="2" {{n/a|''Did not advance''}}
+|- align=center
+|align=left rowspan=2|[[Holly Warn]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S7|100 m freestyle S7]]
+|1:17.19
+|14
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 400 metre freestyle S7|400 m freestyle S7]]
+|5:33.35
+|7 '''Q'''
+|5:26.71
+|7
+|- align=center
+|rowspan=2 align=left|'''[[Rachael Watson]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 50 metre freestyle S4|50 m freestyle S5]]
+|41.34 '''OC'''
+|4 '''Q'''
+|41.17 '''OC'''
+|{{bronze03}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S5|100 m freestyle S5]]
+|1:37.84 '''OC'''
+|3 '''Q'''
+|1:38.92
+|{{bronze03}}
+|- align=center
+|rowspan=3 align=left|[[Poppy Wilson (swimmer)|Poppy Wilson]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre freestyle S10|100 m freestyle S10]]
+|1:03.28
+|13
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 400 metre freestyle S10|400 m freestyle S10]]
+|4:55.99
+|9
+|colspan="2" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Swimming at the 2024 Summer Paralympics – Women's 100 metre butterfly S10|100 m butterfly S10]]
+|1:08.96
+|5 '''Q'''
+|1:07.52
+|5
+|}
+
+;Mixed events
+{|class=wikitable
+|-
+!rowspan="2"|Athletes
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Grant Patterson]] <br/> [[Ahmed Kelly]] <br/> [[Holly Warn]] <br/> [[Chloe Osborn]]
+|align=left|[[Swimming at the 2024 Summer Paralympics – freestyle relay#Mixed 4x50 20pts|4 x 50 m freestyle 20pts]]
+|2:52.55 OC
+|8 '''Q'''
+|colspan=2|DSQ
+|-align=center
+|align=left|'''[[Jack Ireland]] <br/> [[Madeleine McTernan]] <br/> [[Ruby Storm]] <br/> [[Benjamin Hance]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – freestyle relay#Mixed S14 4x100m|4 x 100 m freestyle S14]]
+|colspan=2 {{n/a}}
+|3:46.37
+|{{silver02}}
+|-align=center
+|align=left|'''[[Alexa Leary]] <br/> [[Callum Simpson]] <br/> [[Chloe Osborn]] <br/> [[Rowan Crothers]]'''
+|align=left|[[Swimming at the 2024 Summer Paralympics – freestyle relay#Mixed S14 4x100m|4 x 100 m freestyle 34 pts]]
+|colspan=2 {{n/a}}
+|4:01.90 '''OC'''
+|{{silver02}}
+|-align=center
+|align=left|'''[[Jesse Aungles]] <br/> [[Timothy Hodge]] <br/>   [[Emily Beecroft]] <br/> [[Alexa Leary]]''' <br/>[[Keira Stephens]] (heat) <br/> [[Callum Simpson]] (heat)
+|align=left|[[Swimming at the 2024 Summer Paralympics – freestyle relay#Mixed S14 4x100m|4 x 100 m medley 34 pts]]
+|4:33.32
+|2 '''Q'''
+|4:27.08 '''PR'''
+|{{gold01}}
+|}
+
+==Table tennis==
+{{main|Table tennis at the 2024 Summer Paralympics|Table tennis at the 2024 Summer Paralympics – Qualification}}
+Australia entered 12 athletes for the Paralympic games. Six of them qualified for Paris 2024 by virtue of their gold medal results, in their respective class, through the 2023 Oceanian Championships in [[Honiara]], Solomon Islands;<ref>{{cite news|url=https://www.ittf.com/2023/11/20/paralympic-games-places-reserved-as-australians-write-names-amongstst-successful-ever/|title=Paralympic Games Places Reserved as Australians Write Names Amongst Successful Ever|date=20 November 2023|publisher=[[International Table Tennis Federation]]|access-date=3 December 2023}}</ref> meanwhile the other athletes qualified through the allocations of ITTF final world ranking.
+
+;Men
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final
+|-
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Jessy Chen]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 3|Individual C3]]
+|{{flagIPCathlete| [[Baek Youngbok|Baek]]|KOR|2024 Summer}}<br /> '''L''' 0-3
+|colspan=5 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Chris Addis]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 4|Individual C4]]
+|{{n/a}}
+|{{flagIPCathlete| [[Wanchai Chaiwut|Chaiwut]]|THA|2024 Summer}}<br /> '''L''' 0-3
+|colspan=4 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Jimmy Huo]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 5|Individual C5]]
+|{{n/a}}
+|{{flagIPCathlete| [[Cao Ningning|Cao]]|CHN|2024 Summer}}<br />'''L''' 0-3
+|colspan=4 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Trevor Hirth]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 6|Individual C6]]
+|{{n/a}}
+|{{flagIPCathlete| [[Matteo Parenzan|Parenzan]]|ITA|2024 Summer}}<br />'''L''' 0-3
+|colspan=4 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Nathan Pellissier]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 8|Individual C8]]
+|{{flagIPCathlete| [[Richard Csejtey|Csejtey]]|SVK|2024 Summer}}<br />'''L''' 1-3
+|colspan=5 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|'''[[Ma Lin (paralympian)|Ma Lin]]'''
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 9|Individual C9]]
+|colspan=2 {{n/a}}
+|{{flagIPCathlete| [[Joshua Stacey|Stacey]]|GBR|2024 Summer}}<br />'''W''' 3-0
+|{{flagIPCathlete| [[Lucas Didier|Didier]]|FRA|2024 Summer}}<br />'''L''' 2-3
+|{{n/a}}
+|{{bronze03}}
+|-align=center
+|align=left|[[Samuel Von Einem]]
+|align=left |[[Table tennis at the 2024 Summer Paralympics – Men's individual – Class 11|Individual C11]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete| [[Takeshi Takemori|Takemori]]|JPN|2024 Summer}}<br />'''W''' 3-0
+|{{flagIPCathlete| [[Gi Tae Kim|Kim]]|KOR|2024 Summer}}<br />'''L''' 1-3
+|{{n/a}}
+|{{bronze03}}
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final
+|-
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Hayley Sands]]
+|align=left|[[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 1–2|Individual C1–2]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete| [[Dorota Buclaw|Buclaw]]|POL|2024 Summer}}<br /> '''L''' 0-3
+|colspan=3 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Daniela Di Toro]]
+|align=left|[[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 4|Individual C4]]
+|{{n/a}}
+|{{flagIPCathlete| [[Zhou Ying (table tennis)|Zhou]]|CHN|2024 Summer}}<br />'''L''' 0-3
+|colspan=4 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Lei Lina]]
+|align=left|[[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 9|Individual C9]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete| [[Neslihan Kavas|Kavas]]|TUR|2024 Summer}}<br />'''W''' 3-0
+|{{flagIPCathlete| [[Xiong Guiyan|Xiong]]|CHN|2024 Summer}}<br />'''L''' 2-3
+|{{n/a}}
+|{{bronze03}}
+|-align=center
+|align=left|'''[[Yang Qian (table tennis)|Yang Qian]]'''
+|align=left rowspan=2|[[Table tennis at the 2024 Summer Paralympics – Women's individual – Class 10|Individual C10]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete| [[Lin Tzu Yu|Lin]]|TPE|2024 Summer}}<br /> '''W''' 3-0
+|{{flagIPCathlete| [[Bruna Alexandre|Alexandre]]|BRA|2024 Summer}}<br /> '''W''' 3-2  
+|{{flagIPCathlete| [[Natalia Partyka|Partyka]]|POL|2024 Summer}}<br />'''W''' 3-0
+|{{Gold1}}
+|-align=center
+|align=left|[[Melissa Tapper]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete| [[Bruna Alexandre|Alexandre]]|BRA|2024 Summer}}<br />'''L''' 2-3
+|colspan=3 {{n/a|''Did not advance''}}
+|}
+
+;Doubles
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final
+|-
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Chris Addis]]<br />[[Jessy Chen]]
+|align=left|[[Table tennis at the 2020 Summer Paralympics|Men's doubles MD8]]
+|{{n/a}}
+|{{flagIPCathlete|[[Genki Saito|Saito]] /<br />[[Kazuki Shichino|Shichino]]|JPN|2024 Summer}}<br />'''L''' 0–3
+|colspan=4 {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Ma Lin (paralympian)|Ma Lin]]<br />[[Nathan Pellissier]]
+|align=left|[[Table tennis at the 2020 Summer Paralympics|Men's doubles MD18]]
+|{{n/a}}
+|{{flagIPCathlete|[[Mateo Boheus|Boheus]] /<br />[[Thomas Bouvais|Bouvais]]|FRA|2024 Summer}}<br />'''L''' 2-3
+|colspan="4" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Daniela Di Toro]]<br />[[Hayley Sands]]
+|align=left|[[Table tennis at the 2020 Summer Paralympics|Women's doubles WD10]]
+|{{n/a}}
+|{{flagIPCathlete|[[Alexandra Saint-Pierre|Saint-Pierre]] /<br />[[Flora Vautier|Vautier]]|FRA|2024 Summer}}<br />'''L''' 1-3
+|colspan="4" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|'''[[Lei Lina]]'''<br />'''[[Yang Qian (table tennis)|Yang Qian]]'''
+|align=left|[[Table tennis at the 2020 Summer Paralympics|Women's doubles WD20]]
+|{{n/a}}
+|{{n/a}}
+|{{flagIPCathlete|[[Liu Meng (tennis table)|Liu]] /<br />[[Mao Jingdian|Mao]]|CHN|2024 Summer}}<br />'''W''' 3-0
+|{{flagIPCathlete|[[Bruna Alexandre|Alexandre]] /<br />[[Danielle Rauen|Rauen]]|BRA|2024 Summer}}<br />'''W''' 3-0
+|{{flagIPCathlete|[[Tzu Yu Lin|Lin]]  /<br />[[Shiau Wen Tian|Tian]]|TPE|2024 Summer}}<br />'''W''' 3-1
+|{{gold01}}
+|-align=center
+|align=left|[[Chris Addis]]<br />[[Hayley Sands]]
+|align=left rowspan=2|[[Table tennis at the 2020 Summer Paralympics|Mixed doubles XD7]]
+|{{flagIPCathlete|[[Luis Flores (table tennis)|Flores]] /<br />[[Tamara Leonelli|Leonelli]]|CHI|2024 Summer}}<br />'''L''' 0-3
+|colspan="5" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Jessy Chen]]<br />[[Daniela Di Toro]]
+|{{flagIPCathlete|[[Thomas Matthews (table tennis)|Matthews]] /<br />[[Megan Shackleton|Shackelton]]|GBR|2024 Summer}}<br />'''L''' 1-3
+|colspan="5" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Nathan Pellissier]]<br /> [[Lei Lina]]
+|align=left rowspan=2|[[Table tennis at the 2020 Summer Paralympics|Mixed doubles XD17]]
+|{{n/a}}
+|{{flagIPCathlete|[[Borna Zohl|Zohl]] / <br />[[Mirjana Lucic|Lucic]]|CRO|2024 Summer}}<br />'''L''' 2-3
+|colspan="4" {{n/a|''Did not advance''}}
+|-align=center
+|align=left|[[Trevor Hirth]] <br/> [[Melissa Tapper]]
+|{{flagIPCathlete|[[Jonas Hannson|Hansson]] /<br />[[Anja Handen|Handen]]|SWE|2024 Summer}}<br />'''L''' 1-3
+|colspan="5" {{n/a|''Did not advance''}}
+|}
+
+==Wheelchair basketball==
+{{main|Wheelchair basketball at the 2024 Summer Paralympics}}
+[[Australia men's national wheelchair basketball team|Australia men]] have qualified to compete at Paris 2024, following the triumph of the nations gold medal results at the [[2024 IWBF Asia-Oceania Championships]] in [[Bangkok]], Thailand.<ref>{{cite news|title=THRILLING CHAMPIONSHIP VICTORY SECURES GOLD AND PARIS 2024 BERTH FOR AUSTRALIA|url=https://iwbf.org/2024/01/22/thrilling-championship-victory-secures-gold-and-paris-2024-berth-for-australia/|publisher=[[International Wheelchair Basketball Federation]]|date=22 January 2024|access-date=27 January 2024}}</ref>
+
+'''Summary'''
+{| class=wikitable style=font-size:90%
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Quarterfinal
+!5th-8th
+!5th-6th
+!
+|- style=font-size:95%
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Australia men's national wheelchair basketball team|Australia men's]]
+|align=left|[[Wheelchair basketball at the 2024 Summer Paralympics – Men's tournament|Men's tournament]]
+|{{wbk|NED}}<br/>'''L''' 55–66
+|{{wbk|ESP}}<br/>'''L''' 60–68
+|{{wbk|USA}}<br/>'''L''' 69–76
+|4
+|{{wbk|GBR}}<br/>'''L''' 64–84
+|{{wbk|ESP}}<br/>'''W''' 78–74
+|{{wbk|NED}}<br/>'''W''' 82–75
+|5
+|}
+
+'''Image collections from Men's Wheelchair Basketball Tournament at 2024 Paris Paralympics''' <br/> 
+[https://commons.wikimedia.org/wiki/Category:2024_Summer_Paralympics_men%27s_wheelchair_basketball,_Great_Britain_v_Australia Australia v Great Britain, 3 September 2024] <br/> 
+[https://commons.wikimedia.org/wiki/Category:2024_Summer_Paralympics_men%27s_wheelchair_basketball,_Australia_vs_Netherlands Australia v Netherlands, 6 September 2024]
+
+===Men's tournament===
+[[File:2024 Summer Paralympics men's wheelchair basketball, Great Britain v Australia 65.jpg|thumb|right|Australian Rollers in action against Great Britain]]
+'''Roster'''<br/>
+{{#section:Wheelchair basketball at the 2024 Summer Paralympics – Men's team rosters|AUS}}
+
+'''Group B'''
+{{#section:Wheelchair basketball at the 2024 Summer Paralympics – Men's tournament|B}}
+<section begin=G10 />{{Basketballbox
+| date=29 August 2024
+| time=21:30
+| teamA={{wbk-rt|AUS}}
+| scoreA=55
+| teamB='''{{wbk|NED}}'''
+| scoreB='''66'''
+| Q1=16–12
+| Q2=14–16
+| Q3=10–16
+| Q4=15–22
+| report=[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----GPB-000200--.pdf Report]
+| points1=[[Bill Latham (basketball)|Latham]] 16
+| rebounds1=[[Bill Latham (basketball)|Latham]] 13
+| assist1=[[Shaun Norris|Norris]], [[Tristan Knowles|Knowles]] 5
+| points2=[[Mendel op den Orth|Op den Orth]] 26
+| rebounds2=[[Mendel op den Orth|Op den Orth]] 12
+| assist2=[[Quinten Zantinghe|Zantinghe]] 9
+| place=[[Accor Arena|Bercy Arena]], Paris
+| attendance=11.029
+| referee=Sebastien Gauthier
+| TV=
+| series=&nbsp;
+}}<section end=G10 />
+<section begin=G12 />{{Basketballbox
+| date=30 August 2024
+| time=12:45
+| teamA='''{{wbk-rt|ESP}}'''
+| scoreA='''68'''
+| teamB={{wbk|AUS}}
+| scoreB=60
+| Q1=19–12
+| Q2=14–13
+| Q3=19–5
+| Q4=16–30
+| report=[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----GPB-000300--.pdf Report]
+| points1=[[Alejandro Zarzuela|Zarzuela]] 25 
+| rebounds1=[[Alejandro Zarzuela|Zarzuela]] 9
+| assist1=[[Ignacio Ortega|Ortega]] 9
+| points2=[[Jaylen Brown (wheelchair basketball)|Brown]] 22
+| rebounds2=[[Tristan Knowles|Knowles]], [[Jaylen Brown (wheelchair basketball)|Brown]] 6
+| assist2=[[Tristan Knowles|Knowles]] 8
+| place=[[Accor Arena|Bercy Arena]], Paris
+| attendance=10.147
+| referee=Erik Etzelmueller
+| TV=
+| series=&nbsp;
+}}<section end=G12 />
+
+<section begin=G20 />{{Basketballbox
+| date=1 September 2024
+| time=10:30
+| teamA={{wbk-rt|AUS}}
+| scoreA=69
+| teamB='''{{wbk|USA}}'''
+| scoreB='''76'''
+| Q1=21–22
+| Q2=18–23
+| Q3=18–23
+| Q4=12–8
+| report=[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----GPB-000500--.pdf Report]
+| points1=[[Tom O'Neill-Thorne|O'Neill-Thorne]] 14
+| rebounds1=[[Bill Latham (basketball)|Latham]] 9
+| assist1=[[Eithen Leard|Leard]], [[Tristan Knowles|Knowles]] 5
+| points2=[[Jacob Williams|Williams]] 24
+| rebounds2=[[Brian Bell (basketball)|Bell]], [[AJ Fitzpatrick|Fitzpatrick]] 5
+| assist2=[[Steve Serio|Serio]] 9
+| place=[[Accor Arena|Bercy Arena]], Paris
+| attendance=12.679
+| referee=Tomas Pajer
+| TV=
+| series=&nbsp;
+}}<section end=G20 />
+
+'''Quarterfinal'''
+<section begin=G60 />{{Basketballbox
+| date=3 September 2024
+| time=19:15
+| teamA ='''{{wbk-rt|GBR}}'''
+| scoreA ='''84'''
+| teamB ={{wbk|AUS}}
+| scoreB=64
+| Q1=17-16
+| Q2=21-19
+| Q3=18-16
+| Q4=28-13
+| report =[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----QFNL000100--.pdf Report]
+| points1=[[Ben Fox (basketball)|Fox]] 26
+| rebounds1=[[Lee Manning|Manning]] 16
+| assist1=[[Philip James Pratt|Pratt]] 18
+| points2=[[Bill Latham (basketball)|Latham]] 20
+| rebounds2=[[Bill Latham (basketball)|Latham]] 7
+| assist2=[[Tristan Knowles|Knowles]] 5
+| place =[[Accor Arena|Bercy Arena]], Paris
+| attendance=12,652
+| referee=Gustavo Mathias
+| TV  =
+| series=&nbsp;
+}}<section end=G60 />
+
+;Classification  5th - 8th
+<section begin=G29 />{{Basketballbox
+| date=4 September 2024
+| time=10:30
+| teamA ={{wbk-rt|ESP}}
+| scoreA=74
+| teamB ='''{{wbk|AUS}}'''
+| scoreB=78
+| Q1=24–16
+| Q2=18–22
+| Q3=16–21
+| Q4=16–19
+| report =[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----SF5-000100--.pdf Report]
+| points1=[[Alejandro Zarzuela|A. Zarzuela]] 16
+| rebounds1=[[Alejandro Zarzuela|A. Zarzuela]] 8
+| assist1=[[Pablo Zarzuela|P. Zarzuela]], [[Ignacio Ortega|Ortega]] 10
+| points2=[[Bill Latham (basketball)|Latham]] 33
+| rebounds2=[[Bill Latham (basketball)|Latham]] 6
+| assist2=[[Shaun Norris|Norris]], [[Tom O'Neill-Thorne|O'Neill-Thorne]] 8
+| place =[[Accor Arena|Bercy Arena]], Paris
+| attendance=11.430
+| referee=Adam Fronczak 
+| TV  =
+| series=&nbsp;
+}}<section end=G29 />
+
+;Classification  5th - 6th
+<section begin=G41 />{{Basketballbox
+| date=6 September 2024
+| time=19:15
+| teamA ={{wbk-rt|NED}}
+| scoreA=75
+| teamB ='''{{wbk|AUS}}'''
+| scoreB='''82'''
+| Q1=20–22
+| Q2=18–25
+| Q3=18–19
+| Q4=19–16
+| report =[https://olympics.com/OG2024/pdf/PG2024/WBK/PG2024_WBK_C73_WBKMTEAM5---45080-----FNL-000300--.pdf Report]
+| points1=[[Mendel Op den Orth|Op den Orth]] 22
+| rebounds1=[[Mendel Op den Orth|Op den Orth]] 13
+| assist1=[[Robin Poggenwisch|Poggenwisch]] 12
+| points2=[[Tristan Knowles|Knowles]] 21
+| rebounds2=[[Bill Latham (basketball)|Latham]] 8
+| assist2=[[Shaun Norris|Norris]] 8
+| place =[[Accor Arena|Bercy Arena]], Paris
+| attendance=12.514
+| referee=Yekta Koç
+| TV  =
+| series=&nbsp;
+}}<section end=G41 />
+
+==Wheelchair rugby==
+{{main|Wheelchair rugby at the 2024 Summer Paralympics}}
+[[Australia national wheelchair rugby team|Australia]] has qualified to compete at the Paralympic games, by virtue of their top three highest ranked team results, at the 2024 Paralympic Qualification Tournament in [[Wellington]], New Zealand.<ref>{{cite web|date=2024-03-24|title=Steelers Set Sights On Paralympic Gold After Overtime Epic {{!}} Paralympics Australia|url=https://www.paralympic.org.au/2024/03/steelers-set-sights-on-paralympic-gold-after-overtime-epic/|access-date=2024-03-25|website=www.paralympic.org.au|language=en-AU}}</ref>
+
+'''Summary'''
+{|class=wikitable style=font-size:90%
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=4|Pool round
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style=font-size:95%
+!Opposition<br>Result
+!Opposition<br>Result
+!Opposition<br>Result
+!Rank
+!Opposition<br>Result
+!Opposition<br>Result
+!Rank
+|-align=center
+|align=left|'''[[Australia national wheelchair rugby team|Australia national team]]'''
+|align=left|[[Wheelchair rugby at the 2024 Summer Paralympics|Mixed tournament]]
+|{{whr|GBR}}<br />'''L''' 55–58
+|{{whr|FRA}}<br />'''W''' 55–53
+|{{whr|DEN}}<br />'''W''' 53-49
+|2
+|{{whr|JPN}}<br />'''L''' 51-52
+|{{whr|GBR}}<br />'''W''' 50-48
+|{{bronze03}}
+|}
+
+'''Image collections from Wheelchair Rugby Tournament at the 2024 Paris Paralympics ''' <br/>
+[https://commons.wikimedia.org/wiki/Category:2024_Summer_Paralympics_wheelchair_rugby,_Australia_v_Great_Britain Australia v Great Britain, 29 August 2024] <br/>
+[https://commons.wikimedia.org/wiki/Category:2024_Summer_Paralympics_wheelchair_rugby,_Australia_v_France Australia v France, 31 August 2024]
+
+'''Team roster'''
+[[File:Wheelchair rugby at the 2024 Summer Paralympics - Australia vs Great Britain 154.jpg|thumb|right|Australian Steelers. Left to right: [[James McQuillan]], [[Jake Howe]], [[Ryley Batt]], [[Emilie Miller]], [[Ella Sabljak]], [[Chris Bond (wheelchair rugby)|Chris Bond]] ]]
+
+On 10 July 2024, Australia selected twelve players.
+
+* [[Ryley Batt]]
+* [[Chris Bond (wheelchair rugby)|Chris Bond]]
+* [[Ben Fawcett]]
+* [[Brayden Foxley-Connolly]]
+* [[Andrew Edmondson]]
+* [[Shae Graham]]
+* [[Jake Howe]]
+* [[Josh Nicholson]]
+* [[James McQuillan]]
+* [[Emilie Miller]]
+* [[Ella Sabljak]]
+* [[Beau Vernon]]
+
+'''Group play'''
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|AStandings}}
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|A1}}
+----
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|A4}}
+----
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|A5}}
+
+;Semi-finals
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|D1}}
+
+; Bronze medal match
+{{#section:Wheelchair rugby at the 2024 Summer Paralympics|D3}}
+
+==Wheelchair tennis==
+{{main|Wheelchair tennis at the 2024 Summer Paralympics|Wheelchair tennis at the 2024 Summer Paralympics – Qualification}}
+Three players selected on 5 August 2024. [[Heath Davidson]] withdrew on 26 August 2024 due to an illness in his family.<ref>{{Cite web |date=2024-08-26 |title=Wheelchair Tennis Gold Medallist Withdraws From Australian Team {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/08/wheelchair-tennis-gold-medallist-withdraws-from-australian-team/ |access-date=2024-08-27 |website=www.paralympic.org.au |language=en-AU}}</ref>
+
+{| class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style=font-size:95%
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-
+|align=left|[[Anderson Parker]]
+|align=left rowspan=2|[[Wheelchair tennis at the 2024 Summer Paralympics – Men's singles|Men's singles]]
+|{{flagIPCathlete|[[Ezequiel Casco|Casco]]|ARG|2024 Summer}}<br/>'''L''' 5–7, 4–6
+|colspan=5 {{n/a|''Did not advance''}}
+|=33
+|-
+|align=left|[[Ben Weekes]]
+|{{flagIPCathlete|[[Daniel Rodrigues (wheelchair tennis)|Rodrigues]]|BRA|2024 Summer}}<br/>'''L''' 0–6, 1–6
+|colspan=5 {{n/a|''Did not advance''}}
+|=33
+|-
+|align=left|[[Anderson Parker]]<br/>[[Ben Weekes]]
+|align=left|[[Wheelchair tennis at the 2024 Summer Paralympics – Men's doubles|Men's doubles]]
+|{{n/a}}
+|{{flagIPCathlete|[[Gustavo Carneiro Silva|Carneiro]] /<br>[[Daniel Alves Rodrigues|Rodrigues]]|BRA|2024 Summer}}<br>'''L''' 5–7, 6–2, [8–10]
+|colspan=4 {{n/a|''Did not advance''}}
+|=17
+|}
+
+== Facts ==
+* Paralympics Games representation: Eight - [[Daniela Di Toro|Daniela di Toro]] (tennis / table tennis); Seven – [[Angie Ballard]] (athletics); Six - [[Lei Li Na]] (table tennis), [[Tristan Knowles]] (wheelchair basketball), [[Shaun Norris]] (wheelchair basketball), [[Ryley Batt]] (wheelchair rugby) [[Ben Weekes]] (wheelchair tennis){{sfn|Paralympics Australia|2024|p=40}}
+* Sixty one athletes made their Paralympic Games debut.
+* Indigenous athletes – [[Amanda Reid]] (cycling), [[Ruby Storm]] (swimming), [[Telaya Blacksmith]] (athletics) and [[Samantha Schmidt]] (athletics)<ref name="Finalised" /> 
+* Youngest – [[Holly Warn]] (swimming) and oldest [[Jimmy Huo]] (table tennis player born in 1955)<ref name="Finalised" /><ref>{{Cite web |title=HUO Jimmy |url=https://www.paralympic.org/en/paris-2024-paralympics/athlete/jimmy-huo_2285194 |access-date=2024-08-29 |work=[[Paris 2024 Paralympics]] }} ([https://olympics.com/en/paris-2024-paralympics/athlete/jimmy-huo_2285194 alternate link], [https://paris2024.rtve.es/es/paris-2024-paralimpicos/atleta/jimmy-huo_2285194 alternate link 2])</ref>
+* Dual Paralympian and Olympian – [[Melissa Tapper]] (table tennis)<ref name="Finalised" />
+* Multiple Paralympic sports representation – [[Daniela Di Toro|Daniela di Toro]] (tennis / table tennis), [[Amanda Reid]] (swimming / cycling), [[AJ Jennings|A J Jennings]] (canoeing / archery), [[Jessica Gallagher]] (athletics / skiing / cycling), [[Ella Sabljak]] (wheelchair basketball / wheeelchair rugby). At the 2024 Games, [[Lauren Parker]] will be competing in triathlon and road cycling.<ref name="Finalised" /> 
+*Families - brothers [[Chad Perris]] (athletics) and [[Kane Perris]] (track cycling); [[Taylor Gosens]] (judo) joins father [[Gerrard Gosens|Gerrad Gosens]] (goalball / athletics); [[Tom Goodman]]'s (triathlon) sister [[Molly Goodman]] competed at the Olympics.<ref name="Finalised" />
+*Represented other Paralympic nations – [[Ma Lin (table tennis)|Ma Lin]], [[Lei Li Na]], [[Yang Qian (table tennis)|Yang Qian]] (All represented China in table tennis), [[Vanessa Low]] (represented Germany in athletics)<ref name="Finalised">{{Cite web |date=2024-08-08 |title=Record-Breakers, Change-Makers: Australian Paralympic Team Finalised For Paris 2024 {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/08/record-breakers-change-makers-australian-paralympic-team-finalised-for-paris-2024/ |access-date=2024-08-12 |website=www.paralympic.org.au }}</ref>
+*Seventeen Australian team athletes won multiple medals.<ref name=":0">{{Cite web |date=2024-09-08 |title=The Best Of Australian Sport, Spirit And Character: Aussie Paralympians Bid Fond Farewell To Paris {{!}} Paralympics Australia |url=https://www.paralympic.org.au/2024/09/the-best-of-australian-sport-spirit-and-character-aussie-paralympians-bid-fond-farewell-to-paris/ |access-date=2024-09-30 |website=www.paralympic.org.au |language=en-AU}}</ref>
+*[[Lauren Parker]] won a gold medal in two distinct sports - triathlon and cycling.
+*Six dual gold medallists: [[Alexa Leary]] (swimming), [[Callum Simpson]] (swimming), [[Lauren Parker]] (triathlon/cycling) and [[Timothy Hodge|Tim Hodge]] (swimming) each won two gold medals and a silver medal; [[Yang Qian (table tennis)|Qian Yang]] (table tennis), [[James Turner (parathlete)|James Turner]] (athletics) each won two gold medals.<ref name=":0" />  
+*Several athletes repeated their event performance from Tokyo Paralympics[[James Turner (parathlete)|: James Turner]] (athletics 400 m T36),  [[Vanessa Low]] (athletics long jump T63),   [[Curtis McGrath]] (canoeing Kl2), [[Amanda Reid]] (track cycling time trial C1–3  ), [[Emily Petricola]] (track cycling  C4 3000m individual pursuit), [[Benjamin Hance]] (swimming backstroke S14)  and  [[Yang Qian (table tennis)|Qian Yang]] (table tennis singles 10). James Turner, Vanessa Low and Curtis McGrath went on to win gold medals at three successive Paralympic Games.
+*Australia won medals in nine sports: boccia, athletics, canoe, cycling, rowing, swimming, table tennis, triathlon and wheelchair rugby.<ref name=":0" />
+
+== See also ==
+* [[Australia at the 2024 Summer Olympics]]
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* {{cite book |publisher=Paralympics Australia |title=Paralympics Australia Media Guide Paris 2024 Paralympic Games |year=2024 |url=https://www.paralympic.org.au/wp-content/uploads/2024/08/CL01584_PA_MediaGuide_Paris_Jun2024.pdf |access-date=26 August 2024 |ref=CITEREFParalympics Australia2024 }}
+
+== External links ==
+* [https://www.paralympic.org.au/paris2024/ Paralympics Australia Paris 2024 website]
+* [https://www.paris2024.org/en/ Official website]
+{{2024 Australian Paralympic Team}}
+{{NPCsin2024SummerParalympics}}
+
+[[Category:Nations at the 2024 Summer Paralympics]]
+[[Category:Australia at the Paralympics|2024]]
+[[Category:2024 in Australian sport]]
+[[Category:Australia–France sports relations|2024]]

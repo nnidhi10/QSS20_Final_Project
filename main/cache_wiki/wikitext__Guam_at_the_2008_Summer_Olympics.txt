@@ -1,0 +1,266 @@
+{{infobox country at games
+| NOC = GUM
+| NOCname = [[Guam National Olympic Committee]]
+| games = Summer Olympics
+| year = 2008
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.oceaniasport.com/guam/ }}
+| location = [[Beijing]]
+| competitors = 6
+| sports = 5
+| flagbearer = [[Ricardo Blas Jr.]] (opening)<br />[[Maria Dunn (wrestler)|Maria Dunn]] (closing)
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1988
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+Guam was represented at the [[2008 Summer Olympics]] in [[Beijing]], China by the [[Guam National Olympic Committee]].
+
+In total, six athletes including four men and two women represented Guam in five different sports including athletics, canoeing, judo, swimming and wrestling.
+
+==Competitors==
+In total, six athletes represented Guam at the [[2008 Summer Olympics]] in [[Beijing]], China across five different sports.<ref name="guam">{{cite web |title=Guam at the 2008 Summer Olympics |url=https://www.olympedia.org/countries/GUM/editions/53 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 2008 Summer Olympics|Athletics]]
+| 1 || 1 || 2
+|-
+| align=left|[[Canoeing at the 2008 Summer Olympics|Canoeing]]
+| 1 || 0 || 1
+|-
+| align=left|[[Judo at the 2008 Summer Olympics|Judo]]
+| 1 || 0 || 1
+|-
+| align=left|[[Swimming at the 2008 Summer Olympics|Swimming]]
+| 1 || 0 || 1
+|-
+| align=left|[[Wrestling at the 2008 Summer Olympics|Wrestling]]
+| 0 || 1 || 1
+|- class="sortbottom"
+! Total || 4 || 2 || 6
+|}
+
+==Athletics==
+{{main|Athletics at the 2008 Summer Olympics}}
+
+In total, two Guamanian athletes participated in the athletics events – [[Derek Mandell]] in the [[Athletics at the 2008 Summer Olympics – Men's 800 metres|men's 800 m]] and [[Cora Alicto]] in the [[Athletics at the 2008 Summer Olympics – Women's 100 metres|women's 100 m]].<ref name="guam"/>
+
+Mandell trained for the Olympics by running for about 40 minutes in the morning, lifting weights, and running in the ocean for extra resistance.<ref>{{cite web|url=https://www.youtube.com/watch?v=QLvcLRNkx_s |archive-url=https://ghostarchive.org/varchive/youtube/20211221/QLvcLRNkx_s |archive-date=2021-12-21 |url-status=live|title=Beijing Bound: Derek Mandell|date=8 August 2008 |publisher=pncsports}}{{cbignore}}</ref>
+
+The heats for the men's 800 m took place on 20 August 2008. Mandell finished eighth in his heat in a time of one minute 57.48 seconds and he did not advance to the semi-finals.<ref>{{cite web |title=2008 Summer Olympics, 800 metres, Men |url=https://www.olympedia.org/results/257197 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Derek Mandell]]
+|align=left|[[Athletics at the 2008 Summer Olympics – Men's 800 metres|800 m]]
+|1:57.48 '''PB'''
+|8
+|colspan=4|Did not advance
+|}
+
+The heats for the women's 100 m took place on 16 August 2008. Alicto finished seventh in her heat in a time of 13.31 seconds and she did not advance to the quarter-finals.<ref>{{cite web |title=2008 Summer Olympics, 100 metres, Women |url=https://www.olympedia.org/results/257553 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Cora Alicto]]
+|align=left|[[Athletics at the 2008 Summer Olympics – Women's 100 metres|100 m]]
+|13.31
+|7
+|colspan=6|Did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2008 Summer Olympics}}
+
+In total, one Guamanian athlete participated in the canoeing events – [[Sean Pangelinan]] in the [[Canoeing at the 2008 Summer Olympics – Men's C-1 500 metres|men's C-1 500 m]] and the [[Canoeing at the 2008 Summer Olympics – Men's C-1 1000 metres|men's C-1 1,000 m]].<ref name="guam"/>
+
+The heats for the men's C-1 500 m took place on 19 August 2008. Pangelinan finished seventh in his heat in a time of two minutes 12.696 seconds and he advanced to the semi-finals. The semi-finals took place on 21 August 2008. Pangelinan finished ninth in his semi-final in a time of two minutes 17.94 seconds and he did not advance to the final.<ref>{{cite web |title=2008 Summer Olympics, Canadian Singles, 500 metres, Men |url=https://www.olympedia.org/results/258784 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+The heats for the men's C-1 1,000 m took place on 18 August 2008. Pangelinan finished eighth in his heat in a time of four minutes 49.284 seconds and he did not advance to the semi-final.<ref>{{cite web |title=2008 Summer Olympics, Canadian Singles, 1,000 metres, Men |url=https://www.olympedia.org/results/258793 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|[[Sean Pangelinan]]
+|align=left|[[Canoeing at the 2008 Summer Olympics – Men's C-1 500 metres|Men's C-1 500 m]]
+|2:12.696
+|7 '''QS'''
+|2:17.940
+|9
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Canoeing at the 2008 Summer Olympics – Men's C-1 1000 metres|Men's C-1 1,000 m]]
+|4:49.284
+|8
+|colspan=4|Did not advance
+|}
+<small>Qualification Legend: '''QS''' = Qualify to semi-final; '''QF''' = Qualify directly to final</small>
+
+==Judo==
+{{main|Judo at the 2008 Summer Olympics}}
+
+In total, one Guamanian athlete participated in the judo events – [[Ricardo Blas Jr.]] in the [[Judo at the 2008 Summer Olympics – Men's +100 kg|men's +100 kg]] category.<ref name="guam"/>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminary
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-align=center
+|align=left|[[Ricardo Blas Jr.]]
+|align=left|[[Judo at the 2008 Summer Olympics – Men's +100 kg|Men's +100 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Lasha Gujejiani|Gujejiani]]|GEO|2008 Summer}}<br />'''L''' 0001–0200
+|colspan=3|Did not advance
+|{{flagIOCathlete|[[Daniel McCormick (judoka)|McCormick]]|USA|2008 Summer}}<br />'''L''' 0010–0100
+|colspan=4|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2008 Summer Olympics}}
+
+In total, one Guamanian athlete participated in the swimming events – [[Christopher Duenas]] in the [[Swimming at the 2008 Summer Olympics – Men's 100 metre freestyle|men's 100 m freestyle]].<ref name="guam"/>
+
+The heats for the men's 100 m freestyle took place on 12 August 2008. Duenas finished seventh in his heat in a time of 52.64 seconds which was ultimately not fast enough to advance to the semi-finals.<ref>{{cite web |title=2008 Summer Olympics, 100 metres Freestyle, Men |url=https://www.olympedia.org/results/261487 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Christopher Duenas]]
+|align=left|[[Swimming at the 2008 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|52.64
+|59
+|colspan=4|Did not advance
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2008 Summer Olympics}}
+
+In total, one Guamanian athlete participated in the wrestling events – [[Maria Dunn (wrestler)|Maria Dunn]] in the [[Wrestling at the 2008 Summer Olympics – Women's freestyle 63 kg|women's freestyle −63 kg]] category.<ref name="guam"/>
+
+The women's freestyle −63 kg category took place on 17 August 2008. Dunn received a bye in the first round. In the second round, she lost to [[Elina Vaseva]] of Bulgaria.<ref>{{cite web |title=2008 Summer Olympics, Middleweight, Freestyle (≤63 kilograms), Women |url=https://www.olympedia.org/results/263525 |publisher=Olympedia |access-date=28 June 2025}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Qualification
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Maria Dunn (wrestler)|Maria Dunn]]
+|align=left|[[Wrestling at the 2008 Summer Olympics – Women's freestyle 63 kg|−63 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Elina Vaseva|Vaseva]]|BUL|2008 Summer}}<br /> '''L''' 0–3 <sup>{{abbr|PO|Decision by Points - the loser without technical points}}</sup>
+|colspan=5|Did not advance
+|17
+|}
+
+==References==
+{{reflist}}
+
+{{Nations at the 2008 Summer Olympics}}
+{{Country at games navbox|Guam|Olympics}}
+
+[[Category:Nations at the 2008 Summer Olympics]]
+[[Category:Guam at the Summer Olympics by year|2008]]
+[[Category:2008 in Guamanian sports|Summer Olympics]]
+[[Category:China–United Kingdom sports relations|2008]]

@@ -1,0 +1,1889 @@
+{{Short description|American collegiate snow ski tournament}}
+{{Infobox sports league
+| name                 = NCAA Skiing Championship
+| logo                 = [[File:NCAA logo.svg|140px]]
+| caption              = NCAA logo
+| sport                = [[Skiing]]
+| association          = [[NCAA]]
+| division             = [[Division I (NCAA)|Division I]], [[Division II (NCAA)|Division II]], and [[Division III (NCAA)|Division III]]
+| founded              = {{start date and age|1954}}
+| country              = {{USA}}
+| champion             = [[Utah Utes ski team|University of Utah]] (16)
+| most_champs          = Team: [[Denver Pioneers ski team|Denver]] (24)<!-- 24 thru 2020 --><br />Individual:<br />[[Colorado Buffaloes ski team|Colorado]] (105)<!-- 105 thru 2024 -->
+| TV                   = 
+| website              = [https://www.ncaa.com/championships/skiing/d1 NCAA.com]
+}}
+[[Image:University of Denver skiing at the WH.jpg|thumb|right|270px|The [[Denver Pioneers ski team|Denver Pioneers]]<!-- men's and women's teams--> at the [[White House]] with [[President of the United States|President]] [[George W. Bush]] in June [[2008 in sports|2008]]. Through 2020, Denver owns the most team titles at 24.<!-- 24 thru 2020 -->]]
+The '''NCAA Skiing Championships''' are held annually to crown the [[National Collegiate Athletic Association]] combined men's and women's team [[skiing]] champion. Before 1983, the championship was only for men's skiing. Unlike many NCAA sports, only one [[National Collegiate]] championship is held each season with teams from [[NCAA Division I|Division I]], [[NCAA Division II|Division II]], and [[NCAA Division III|Division III]] competing together.<ref>{{cite web |title=NATIONAL COLLEGIATE SKIING CHAMPIONSHIPS RECORDS BOOK |url=http://fs.ncaa.org.s3.amazonaws.com/Docs/stats/skiing_champs_records/NC.pdf |website=ncaa.org |publisher=NCAA |access-date=11 January 2025}}</ref>
+
+The [[Denver Pioneers ski team|University of Denver]] has won a record 24 team titles, including ten<!-- championships--> since 2000. The [[Colorado Buffaloes ski team|University of Colorado]] is second<!-- all time--> with 20 titles (plus one [[Association for Intercollegiate Athletics for Women|AIAW]] title), and the [[Utah Utes ski team|University of Utah]] is third with 16 <!-- national championships--> (plus one AIAW title).<!-- 12 thru 2020 -->
+
+Denver won the first<!-- ever--> NCAA championship in [[1954 NCAA Skiing Championships|1954]] at [[Reno, Nevada|Reno]] with 384 points,<ref name=dcslc>{{cite news |url=https://news.google.com/newspapers?id=vIlaAAAAIBAJ&sjid=9UkDAAAAIBAJ&pg=5242%2C1234904 |work=Deseret News |location=Salt Lake City, Utah |agency=United Press |last=Bennyhoff |first=Robert |title=Denver cops national ski tourney |date=March 8, 1954 |page=B4}}</ref> 34.4 points ahead of runner-up [[Seattle Redhawks|Seattle University]]<!-- at 349.6-->.<ref name=trskmx>{{cite news |url=https://news.google.com/newspapers?id=WHgpAAAAIBAJ&sjid=N-YDAAAAIBAJ&pg=2530%2C253424 |work=Spokesman-Review |location=Spokane, Washington |agency=Associated Press |title=Cougars, Vandals trail in ski mix |date=March 7, 1954 |page=2, sports}}</ref><ref name=dskbrd>{{cite news |url=https://news.google.com/newspapers?id=WXgpAAAAIBAJ&sjid=N-YDAAAAIBAJ&pg=3194%2C1013435 |work=Spokesman-Review |location=Spokane, Washington |agency=Associated Press |title=Denver ski birds win NCAA jump; Vandals fourth |date=March 8, 1954 |page=8}}</ref> The scoring system has been modified over the years; in <!--[[2012 NCAA Skiing Championships|2012]]-->2012, [[Vermont Catamounts ski team|Vermont]] scored a record 832 points,<!-- the most ever by an NCAA champion,--> with a record margin of 161 points over second-place [[Utah Utes ski team|Utah]].<!--, which finished with 671 points-->
+
+The 2020 edition started on schedule, but was canceled in progress due to the [[COVID-19 pandemic in the United States|COVID-19 pandemic]].<ref>{{Cite web|url=https://cubuffs.com/documents/2020/3/27/2020_NCAA_Championship_Results_FINAL.pdf|title=2020 NCAA Championship Results FINAL (PDF)|website=University of Colorado Athletics}}</ref>
+
+==Team champions==
+{| class="wikitable" style="text-align:center"
+|-
+! style={{CollegePrimaryStyle|National Collegiate Athletic Association|color=white}} colspan=8|NCAA Skiing Championships
+|-
+!Year
+!Site<br />(Host Team)
+!Host Resort
+|style="width:1"|
+!Champion
+!Score
+!Runner-up
+!Score
+|-
+!colspan=8|Men's Championships
+|-
+|1954<br />''[[1954 NCAA Skiing Championships|Details]]''
+|[[Reno, Nevada|Reno, NV]]<br />([[Nevada Wolf Pack|Nevada]])
+|[[Mount Rose Ski Tahoe|Slide Mountain]]<!-- https://news.google.com/newspapers?id=5I4xAAAAIBAJ&sjid=EkoDAAAAIBAJ&pg=5463%2C996645 -->
+|style="width:1" rowspan=29|
+|[[Denver Pioneers ski team|Denver]] || 384 || [[Seattle Redhawks|Seattle]] || 349.6
+|-
+|1955<br />''[[1955 NCAA Skiing Championships|Details]]''
+|[[Northfield, Vermont|Northfield, VT]]<br />([[Norwich University#Athletics|Norwich]])
+|Norwich University Ski Area
+|[[Denver Pioneers ski team|Denver]] || 567.05 || [[Dartmouth Big Green ski team|Dartmouth]] || 558.935
+|-
+|1956<br />''[[1956 NCAA Skiing Championships|Details]]''
+|[[Winter Park, Colorado|Winter Park, CO]]<br />([[Colorado Buffaloes ski team|Colorado]], [[Denver Pioneers ski team|Denver]])
+|[[Winter Park Resort|Winter Park Ski Area]]<!-- in 1956 -->
+|[[Denver Pioneers ski team|Denver]] || 582.01 || [[Dartmouth Big Green ski team|Dartmouth]] || 541.77
+|-
+|1957<br />''[[1957 NCAA Skiing Championships|Details]]''
+|[[Huntsville, Utah|Huntsville, UT]]<br />([[Utah Utes ski team|Utah]], [[Utah State Aggies|Utah State]])
+|[[Snowbasin|Snow Basin]]
+|[[Denver Pioneers ski team|Denver]] || 577.95 || [[Colorado Buffaloes ski team|Colorado]] || 545.29
+|-
+|1958<br />''[[1958 NCAA Skiing Championships|Details]]''
+|[[Lyme Center, New Hampshire|Lyme Center, NH]]<br />([[Dartmouth Big Green|Dartmouth]])
+|[[Dartmouth Skiway]]
+|[[Dartmouth Big Green ski team|Dartmouth]] || 561.2 || [[Denver Pioneers ski team|Denver]] || 550.6
+|-
+|1959<br />''[[1959 NCAA Skiing Championships|Details]]''
+|[[Winter Park, Colorado|Winter Park, CO]]<br />([[Denver Pioneers ski team|Denver]], [[Western Colorado Mountaineers|Western State]], [[Air Force Falcons|Air Force]])
+|[[Winter Park Resort|Winter Park Ski Area]]<!-- in 1959 -->
+|[[Colorado Buffaloes ski team|Colorado]] || 549.4 || [[Denver Pioneers ski team|Denver]] || 543.6
+|-
+|1960<br />''[[1960 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Colorado Buffaloes ski team|Colorado]] || 571.4 || [[Denver Pioneers ski team|Denver]] || 568.6
+|-
+|1961<br />''[[1961 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Denver Pioneers ski team|Denver]] || 376.19 || [[Middlebury Panthers|Middlebury]] || 366.94
+|-
+|1962<br />''[[1962 NCAA Skiing Championships|Details]]''
+|[[Olympic Valley, California|Olympic Valley, CA]]<br />([[California Golden Bears|California]], [[Nevada Wolf Pack|Nevada]])
+|[[Squaw Valley Ski Resort|Squaw Valley]]
+|[[Denver Pioneers ski team|Denver]] || 390.08 || [[Colorado Buffaloes ski team|Colorado]] || 374.30
+|-
+|1963<br />''[[1963 NCAA Skiing Championships|Details]]''
+|[[Big Cottonwood Canyon|Big Cottonwood Canyon, UT]]<br />([[Utah Utes ski team|Utah]])
+|[[Solitude Mountain Resort|Solitude]]
+|[[Denver Pioneers ski team|Denver]] || 384.6 || [[Colorado Buffaloes ski team|Colorado]] || 381.6
+|-
+|1964<br />''[[1964 NCAA Skiing Championships|Details]]''
+|[[Franconia, New Hampshire|Franconia, NH]]<br />([[Dartmouth Big Green ski team|Dartmouth]])
+|[[Cannon Mountain Ski Area]]
+|[[Denver Pioneers ski team|Denver]] || 370.2 || [[Dartmouth Big Green ski team|Dartmouth]] || 368.8
+|-
+|1965<br />''[[1965 NCAA Skiing Championships|Details]]''
+|[[Mount Baker-Snoqualmie National Forest|Mount Baker-Snoqualmie N.F., WA]]<br />([[Washington Huskies|Washington]])
+|[[Crystal Mountain (Washington)|Crystal Mountain]]<!-- in 1965 -->
+|[[Denver Pioneers ski team|Denver]] || 380.5 || [[Utah Utes ski team|Utah]] || 378.4
+|-
+|1966<br />''[[1966 NCAA Skiing Championships|Details]]''
+|[[Crested Butte, Colorado|Crested Butte, CO]]
+|[[Crested Butte Mountain Resort|Crested Butte]]
+|[[Denver Pioneers ski team|Denver]] || 381.02 || [[Western Colorado Mountaineers|Western State]] || 365.92
+|-
+|1967<br />''[[1967 NCAA Skiing Championships|Details]]''
+|[[Carrabassett Valley, Maine|Carrabassett Valley, ME]]
+|[[Sugarloaf (ski resort)|Sugarloaf]]
+|[[Denver Pioneers ski team|Denver]] || 376.7 || [[Wyoming Cowboys|Wyoming]] || 375.9
+|-
+|1968<br />''[[1968 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]
+|[[Mount Werner]]<br />[[Steamboat Ski Resort|Steamboat]]
+|[[Wyoming Cowboys|Wyoming]] || 383.9 || [[Denver Pioneers ski team|Denver]] || 376.2
+|-
+|1969<br />''[[1969 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]
+|[[Mount Werner]]<br />[[Steamboat Ski Resort|Steamboat]]
+|[[Denver Pioneers ski team|Denver]] || 388.6 || [[Dartmouth Big Green ski team|Dartmouth]] || 372.0
+|-
+|1970<br />''[[1970 NCAA Skiing Championships|Details]]''
+|[[Franconia, New Hampshire|Franconia, NH]]
+|[[Cannon Mountain Ski Area]]
+|[[Denver Pioneers ski team|Denver]] || 386.6 || [[Dartmouth Big Green ski team|Dartmouth]] || 378.8
+|-
+|1971<br />''[[1971 NCAA Skiing Championships|Details]]''
+|[[Lead, South Dakota|Lead, SD]]
+|[[Terry Peak]]
+|[[Denver Pioneers ski team|Denver]] || 394.7 || [[Colorado Buffaloes ski team|Colorado]] || 373.1
+|-
+|1972<br />''[[1972 NCAA Skiing Championships|Details]]''
+|[[Winter Park, Colorado|Winter Park, CO]]<br />([[Colorado Buffaloes ski team|Colorado]])<ref>{{Cite web|url=https://cubuffs.com/documents/2018/1/13/1972_roster.pdf|title=1972 roster (PDF)|website=University of Colorado Athletics}}</ref>
+|[[Winter Park Resort|Winter Park Ski Area]]<!-- in 1972-->
+|[[Colorado Buffaloes ski team|Colorado]] || 385.3 || [[Denver Pioneers ski team|Denver]] || 380.1
+|-
+|1973<br />''[[1973 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Colorado Buffaloes ski team|Colorado]] || 381.89 || [[Wyoming Cowboys|Wyoming]] || 377.83
+|-
+|1974<br />''[[1974 NCAA Skiing Championships|Details]]''
+|[[Teton Village, Wyoming|Teton Village, WY]]<br />([[Wyoming Cowboys|Wyoming]])
+|[[Jackson Hole Mountain Resort|Jackson Hole]]<!-- in 1974 -->
+|[[Colorado Buffaloes ski team|Colorado]] || 176 || [[Wyoming Cowboys|Wyoming]] || 162
+|-
+|1975<br />''[[1975 NCAA Skiing Championships|Details]]''
+|[[Durango, Colorado|Durango, CO]]<br />([[Fort Lewis Skyhawks|Fort Lewis]])
+|[[Purgatory Resort|Durango Mountain]]
+|[[Colorado Buffaloes ski team|Colorado]] || 183 || [[Vermont Catamounts ski team|Vermont]] || 115
+|-
+|1976<br />''[[1976 NCAA Skiing Championships|Details]]''
+|[[Newry, Maine|Newry, ME]]<br />([[Bates Bobcats|Bates]])
+|[[Sunday River (ski resort)|Sunday River]]
+|[[Colorado Buffaloes ski team|Colorado]]<br />[[Dartmouth Big Green ski team|Dartmouth]] || 112
+|colspan=2|—
+|-
+|1977<br />''[[1977 NCAA Skiing Championships|Details]]''
+|[[Winter Park, Colorado|Winter Park, CO]]<br />([[Colorado Buffaloes ski team|Colorado]])<ref>{{Cite web|url=http://cubuffs.com/documents/2018/1/13/1977schedule1976record.pdf|title = 1977schedule1976record}}</ref>
+|[[Winter Park Resort|Winter Park Ski Area]]
+|[[Colorado Buffaloes ski team|Colorado]] || 179 || [[Wyoming Cowboys|Wyoming]] || 154.5
+|-
+|1978<br />''[[1978 NCAA Skiing Championships|Details]]''
+|[[Franconia, New Hampshire|Franconia, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Cannon Mountain Ski Area]]
+|[[Colorado Buffaloes ski team|Colorado]] || 152.5 || [[Wyoming Cowboys|Wyoming]] || 121.5
+|-
+|1979<br />''[[1979 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Mount Werner]]<br />[[Steamboat Ski Resort|Steamboat]]
+|[[Colorado Buffaloes ski team|Colorado]] || 153 || [[Utah Utes ski team|Utah]] || 130
+|-
+|1980<br />''[[1980 NCAA Skiing Championships|Details]]''
+|[[Lake Placid, New York|Lake Placid, NY]]<br />& [[Stowe, Vermont|Stowe, VT]]
+|[[Whiteface Ski Resort|Whiteface]]<br />& [[Stowe Mountain Resort|Stowe]]
+|[[Vermont Catamounts ski team|Vermont]] || 171 || [[Utah Utes ski team|Utah]] || 151
+|-
+|1981<br />''[[1981 NCAA Skiing Championships|Details]]''
+|[[Park City, Utah|Park City, UT]]<br />([[Utah Utes ski team|Utah]])
+|[[Park City Mountain Resort]]
+|[[Utah Utes ski team|Utah]] || 183 || [[Vermont Catamounts ski team|Vermont]] || 172
+|-
+|1982<br />''[[1982 NCAA Skiing Championships|Details]]''
+|[[Lake Placid, New York|Lake Placid, NY]]<br />([[St. Lawrence University|St. Lawrence]])
+|[[Whiteface Ski Resort|Whiteface]]
+|[[Colorado Buffaloes ski team|Colorado]] || 461 || [[Vermont Catamounts ski team|Vermont]] || 436.5
+|-
+!colspan=8|Co-ed Championships
+|-
+|1983<br />''[[1983 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|style="width:1" rowspan=35|
+|[[Utah Utes ski team|Utah]] || 696 || [[Vermont Catamounts ski team|Vermont]] || 650
+|-
+|1984<br />''[[1984 NCAA Skiing Championships|Details]]''
+|[[Pinkham Notch, New Hampshire|Pinkham Notch, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Wildcat Mountain Ski Area]]
+|[[Utah Utes ski team|Utah]] || 750.5 || [[Vermont Catamounts ski team|Vermont]] || 684
+|-
+|1985<br />''[[1985 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Wyoming Cowboys|Wyoming]] || 764 || [[Utah Utes ski team|Utah]] || 744
+|-
+|1986<br />''[[1986 NCAA Skiing Championships|Details]]''
+|[[Stowe, Vermont|Stowe, VT]]<br />([[Vermont Catamounts|Vermont]])
+|[[Stowe Mountain Resort]]
+|[[Utah Utes ski team|Utah]] || 612 || [[Vermont Catamounts ski team|Vermont]] || 602
+|-
+|1987<br />''[[1987 NCAA Skiing Championships|Details]]''
+|[[Girdwood, Alaska|Girdwood, AK]]<br />([[Alaska Anchorage Seawolves|Alaska–Anchorage]])
+|[[Alyeska Resort]]
+|[[Utah Utes ski team|Utah]] || 710 || [[Vermont Catamounts ski team|Vermont]] || 627
+|-
+|1988<br />''[[1988 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Utah Utes ski team|Utah]] || 651 || [[Vermont Catamounts ski team|Vermont]] || 614
+|-
+|1989<br />''[[1989 NCAA Skiing Championships|Details]]''
+|[[Teton Village, Wyoming|Teton Village, WY]]<br />([[Wyoming Cowboys and Cowgirls|Wyoming]])
+|[[Jackson Hole Mountain Resort]]
+|[[Vermont Catamounts ski team|Vermont]] || 672 || [[Utah Utes ski team|Utah]] || 668
+|-
+|1990<br />''[[1990 NCAA Skiing Championships|Details]]''
+|[[Stowe, Vermont|Stowe, VT]]<br />([[Vermont Catamounts|Vermont]])
+|[[Stowe Mountain Resort]]
+|[[Vermont Catamounts ski team|Vermont]] || 671 || [[Utah Utes ski team|Utah]] || 571
+|-
+|1991<br />''[[1991 NCAA Skiing Championships|Details]]''
+|[[Park City, Utah|Park City, UT]]<br />([[Utah Utes|Utah]])
+|[[Park City Mountain Resort]]
+|[[Colorado Buffaloes ski team|Colorado]] || 713 || [[Vermont Catamounts ski team|Vermont]] || 682
+|-
+|1992<br />''[[1992 NCAA Skiing Championships|Details]]''
+|[[Pinkham Notch, New Hampshire|Pinkham Notch, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Wildcat Mountain Ski Area]]
+|[[Vermont Catamounts ski team|Vermont]] || 693.5 || [[New Mexico Lobos ski team|New Mexico]] || 642.5
+|-
+|1993<br />''[[1993 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]<br />([[Colorado Buffaloes ski team|Colorado]])
+|[[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|[[Utah Utes ski team|Utah]] || 783 || [[Vermont Catamounts ski team|Vermont]] || 700.5
+|-
+|1994<br />''[[1994 NCAA Skiing Championships|Details]]''
+|[[Carrabassett Valley, Maine|Carrabassett Valley, ME]]<br />([[Colby Mules|Colby College]])
+|[[Sugarloaf (ski resort)|Sugarloaf Ski Resort]]
+|[[Vermont Catamounts ski team|Vermont]] || 688 || [[Utah Utes ski team|Utah]] || 667
+|-
+|1995<br />''[[1995 NCAA Skiing Championships|Details]]''
+|[[Pinkham Notch, New Hampshire|Pinkham Notch, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Wildcat Mountain Ski Area]]
+|[[Colorado Buffaloes ski team|Colorado]] || 720.5 || [[Utah Utes ski team|Utah]] || 711
+|-
+|1996<br />''[[1996 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats#Skiing|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Utah Utes ski team|Utah]] || 719 || [[Denver Pioneers ski team|Denver]] || 635.5
+|-
+|1997<br />''[[1997 NCAA Skiing Championships|Details]]''
+|[[Stowe, Vermont|Stowe, VT]]<br />([[Vermont Catamounts|Vermont]])
+|[[Stowe Mountain Resort]]
+|[[Utah Utes ski team|Utah]] || 686 || [[Vermont Catamounts ski team|Vermont]] || 646.5
+|-
+|1998<br />''[[1998 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats#Skiing|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Colorado Buffaloes ski team|Colorado]] || 654 || [[Utah Utes ski team|Utah]] || 651.5
+|-
+|1999<br />''[[1999 NCAA Skiing Championships|Details]]''
+|[[Newry, Maine|Newry, ME]]<br />([[Bates Bobcats|Bates]])
+|[[Sunday River (ski resort)|Sunday River Ski Resort]]
+|[[Colorado Buffaloes ski team|Colorado]] || 650 || [[Denver Pioneers ski team|Denver]] || 636
+|-
+|2000<br />''[[2000 NCAA Skiing Championships|Details]]''
+|[[Park City, Utah|Park City, UT]]<br />([[Utah Utes ski team|Utah]])
+|[[Park City Mountain Resort]]
+|[[Denver Pioneers ski team|Denver]] || 720 || [[Colorado Buffaloes ski team|Colorado]] || 621
+|-
+|2001<br />''[[2001 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Denver Pioneers ski team|Denver]] || 649 || [[Vermont Catamounts ski team|Vermont]] || 605
+|-
+|2002<br />''[[2002 NCAA Skiing Championships|Details]]''
+|[[Girdwood, Alaska|Girdwood, AK]]<br />([[Alaska Anchorage Seawolves|Alaska–Anchorage]])
+|[[Alyeska Resort]]
+|[[Denver Pioneers ski team|Denver]] || 656 || [[Colorado Buffaloes ski team|Colorado]] || 612
+|-
+|2003<br />''[[2003 NCAA Skiing Championships|Details]]''
+|[[Lyme Center, New Hampshire|Lyme Center, NH]]<br />([[Dartmouth Big Green|Dartmouth]])
+|[[Dartmouth Skiway]]
+|[[Utah Utes ski team|Utah]] || 682 || [[Vermont Catamounts ski team|Vermont]] || 551
+|-
+|2004<br />''[[2004 NCAA Skiing Championships|Details]]''
+|[[Truckee, California|Truckee, CA]]<br />([[Nevada Wolfpack|Nevada]])
+|[[Sugar Bowl Ski Resort]]
+|[[New Mexico Lobos ski team|New Mexico]] || 623 || [[Utah Utes ski team|Utah]] || 581
+|-
+|2005<br />''[[2005 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Denver Pioneers ski team|Denver]] || 622.5 || [[Vermont Catamounts ski team|Vermont]] || 575
+|-
+|2006<br />''[[2006 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Howelsen Hill Ski Area|Howelsen Hill]] & [[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|[[Colorado Buffaloes ski team|Colorado]] || 654 || [[New Mexico Lobos ski team|New Mexico]] || 556
+|-
+|2007<br />''[[2007 NCAA Skiing Championships|Details]]''
+|[[Pinkham Notch, New Hampshire|Pinkham Notch, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Wildcat Mountain Ski Area]]
+|[[Dartmouth Big Green ski team|Dartmouth]] || 698 || [[Denver Pioneers ski team|Denver]] || 648
+|-
+|2008<br />''[[2008 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Denver Pioneers ski team|Denver]] || 649.5 || [[Colorado Buffaloes ski team|Colorado]] || 619
+|-
+|2009<br />''[[2009 NCAA Skiing Championships|Details]]''
+|[[Newry, Maine|Newry, ME]]<br />([[Bates Bobcats|Bates]])
+|[[Sunday River (ski resort)|Sunday River Ski Resort]]
+|[[Denver Pioneers ski team|Denver]] || 659 || [[Colorado Buffaloes ski team|Colorado]] || 602.5
+|-
+|2010<br />''[[2010 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Howelsen Hill Ski Area|Howelsen Hill]] & [[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|[[Denver Pioneers ski team|Denver]] || 785.5 || [[Colorado Buffaloes ski team|Colorado]] || 714
+|-
+|2011<br />''[[2011 NCAA Skiing Championships|Details]]''
+|[[Stowe, Vermont|Stowe, VT]]<br />([[Vermont Catamounts|Vermont]])
+|[[Stowe Mountain Resort]]
+|[[Colorado Buffaloes ski team|Colorado]] || 831 || [[Utah Utes ski team|Utah]] || 705.5
+|-
+|2012<br />''[[2012 NCAA Skiing Championships|Details]]''
+|[[Bozeman, Montana|Bozeman, MT]]<br />([[Montana State Bobcats|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|[[Vermont Catamounts ski team|Vermont]] || 832 || [[Utah Utes ski team|Utah]] || 671
+|-
+|2013<ref>{{Cite web|url=https://www.usatoday.com/story/sports/college/2013/03/09/skiing-colorado-ncaa-championships-vermont-utah/1976033/|title = Colorado rallies to claim NCAA skiing title|website = [[USA Today]]}}</ref><br />''[[2013 NCAA Skiing Championships|Details]]''
+|[[Hancock, Vermont|Hancock, VT]]<br />([[Middlebury Panthers|Middlebury]])
+|[[Middlebury College Snow Bowl]]
+|[[Colorado Buffaloes ski team|Colorado]] || 708 || [[Utah Utes ski team|Utah]] || 665
+|-
+|2014<ref>{{Cite web |url=http://utahutes.cstv.com/sports/c-ski/spec-rel/110112aab.html |title=Utah to Host 2014 NCAA Skiing Championships - the Official Athletic Site of the University of Utah |access-date=2013-05-30 |archive-date=2012-11-19 |archive-url=https://web.archive.org/web/20121119073323/http://utahutes.cstv.com/sports/c-ski/spec-rel/110112aab.html |url-status=dead }}</ref><br />''[[2014 NCAA Skiing Championships|Details]]''
+|[[Park City, Utah|Park City, UT]]<br />([[Utah Utes|Utah]])
+|[[Park City Mountain Resort]]<br />&<br />[[Soldier Hollow|Soldier Hollow Resort]]
+|[[Denver Pioneers ski team|Denver]] || 556 || [[Vermont Catamounts ski team|Vermont]] || 487.5
+|-
+|2015<ref name="champs">{{Cite web|url=https://www.ncaa.com/news/ncaa/article/2013-12-11/2014-18-ncaa-championship-sites|title=2014-18 NCAA Championship Sites &#124; NCAA.com|website=www.ncaa.com}}</ref><br />''[[2015 NCAA Skiing Championships|Details]]''
+|[[Lake Placid, New York|Lake Placid, NY]]<br />([[St. Lawrence University|St. Lawrence]])
+|[[Lake Placid Olympic Sports Complex|Olympic Center]]
+|[[Colorado Buffaloes ski team|Colorado]] || 506 || [[Denver Pioneers ski team|Denver]] || 478
+|-
+|2016<ref name="champs"/><br />''[[2016 NCAA Skiing Championships|Details]]''
+|[[Steamboat Springs, Colorado|Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Howelsen Hill Ski Area|Howelsen Hill]] & [[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|[[Denver Pioneers ski team|Denver]] || 567.5 || [[Colorado Buffaloes ski team|Colorado]] || 491.5
+|-
+|2017<ref name="champs"/><br />''[[2017 NCAA Skiing Championships|Details]]''
+| [[Franconia, New Hampshire|Franconia]] & [[Jackson, New Hampshire|Jackson, NH]]<br />([[New Hampshire Wildcats|New Hampshire]])
+|[[Cannon Mountain Ski Area]] & Jackson Nordic Center
+| [[Utah Utes ski team|Utah]] || 541.5 || [[Colorado Buffaloes ski team|Colorado]] || 525
+|-
+|[[2018 NCAA Skiing Championships|2018]]<ref name="champs2">{{Cite web|url=http://www.rmisaskiing.com/story.php?s=421|title=RMISASkiing.com|website=www.rmisaskiing.com}}</ref>
+|[[Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Howelsen Hill Ski Area|Howelsen Hill]] & [[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|
+|[[Denver Pioneers ski team|Denver]]
+|604
+|[[Colorado Buffaloes ski team|Colorado]]
+|563
+|-
+|2019<!--[[2019 NCAA Skiing Championships|2019]]--><ref name="champs2"/>
+|[[Stowe, VT]]<br />([[Vermont Catamounts|Vermont]])
+|[[Stowe Mountain Resort]]
+|
+|[[Utah Utes ski team|Utah]]
+|530.5
+|[[Vermont Catamounts ski team|Vermont]]
+|476
+|-
+|2020<ref name="champs2"/>
+|[[Bozeman, MT]]<br />([[Montana State Bobcats#Skiing|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]]
+|
+|colspan=4 align=center|''Canceled in progress due to the [[COVID-19 pandemic in the United States|COVID-19 pandemic]]''
+|-
+|2021<ref name="champs2"/>
+| [[Franconia, New Hampshire|Franconia]] & [[Jackson, New Hampshire|Jackson, NH]]<br />([[New Hampshire Wildcats|New Hampshire]]){{efn|group=tc|The 2021 championships were originally scheduled for [[Middlebury College Snow Bowl]] in [[Hancock, Vermont]], hosted by [[Middlebury Panthers|Middlebury College]]. The site was changed after Middlebury opted out of all athletic competition in 2020–21 due to continued COVID-19 concerns.<ref>{{cite press release|url=https://unhwildcats.com/news/2021/3/1/NCAAChampionships2021.aspx |title=UNH to Host 2021 NCAA Ski Championships |publisher=New Hampshire Wildcats |date=March 1, 2021 |accessdate=May 1, 2021}}</ref>}}
+|[[Cannon Mountain Ski Area]] & Jackson Nordic Center
+|
+|[[Utah Utes ski team|Utah]]
+|554
+|[[Colorado Buffaloes ski team|Colorado]]
+|522.5
+|-
+|-
+|2022<ref name="champs2"/>
+|[[Park City, Utah|Park City, UT]]<br />([[Utah Utes|Utah]])
+|[[Park City Mountain Resort]]<br />&<br />[[Soldier Hollow|Soldier Hollow Resort]]
+|
+|[[Utah Utes ski team|Utah]]
+|578
+|[[Vermont Catamounts ski team|Vermont]]
+|511.5
+|-
+|-
+|2023<ref name="champs3">{{cite web |url=https://www.ncaa.com/_flysystem/public-s3/files/Host%20Sites%202022-2026_1.pdf|title=Host Sites 2022-2026|author=<!--Not stated--> |date=2020|website=ncaa.org|publisher=[[NCAA]]|access-date= |quote=}}</ref>
+|[[Lake Placid, New York|Lake Placid, NY]]<br />([[St. Lawrence University|St. Lawrence]])
+|[[Whiteface Mountain]]<br />&<br />[[Mount Van Hoevenberg]]
+|
+|[[Utah Utes ski team|Utah]]
+|526
+|[[Colorado Buffaloes ski team|Colorado]]
+|491.5
+|-
+|2024<ref name="champs3"/>
+|[[Steamboat Springs, CO]]<br />([[Colorado Buffaloes|Colorado]])
+|[[Howelsen Hill Ski Area|Howelsen Hill]] & [[Mount Werner]]<br />[[Steamboat Ski Resort]]
+|
+| [[Colorado Buffaloes ski team|Colorado]]
+| 569.5
+| [[Utah Utes ski team|Utah]]
+| 567.5
+|-
+|2025<ref name="champs3"/>
+|[[Lyme Center, New Hampshire|Lyme Center, NH]]<br />([[Dartmouth Big Green|Dartmouth]])
+|[[Dartmouth Skiway]] & Dartmouth Cross Country Ski Center
+|
+|[[Utah Utes ski team|Utah]]
+|590.0
+|[[Colorado Buffaloes ski team|Colorado]]
+| 513.0
+|-
+|2026<ref name="champs3"/>
+|[[Bozeman, MT]]<br />([[Montana State Bobcats#Skiing|Montana State]])
+|[[Bridger Bowl Ski Area|Bridger Bowl]] & Crosscut Mountain Sports Center
+|
+|
+|
+|
+| 
+|}
+
+{{notelist|group=tc}}
+
+==Titles by team==
+{{Location map+ | USA | width=500 | caption=''Schools that have won the NCAA Championship''<br /> '''[[File:ButtonRed.svg|10px]] 24, [[File:ButtonBlack.svg|10px]] 20, [[File:ButtonWhite.svg|10px]] 16, [[File:ButtonYellow.svg|10px]] 6, [[File:ButtonPink.svg|10px]] 3, [[File:ButtonBlue.svg|10px]] 2, [[File:ButtonGray.svg|10px]] 1'''
+| relief=no | places=
+   {{Location map~ | USA | label='''Colorado''' | position=left | mark=ButtonBlack.svg | link= | lat=40.0076 | long=-105.2659}}
+   {{Location map~ | USA | label='''Utah''' | position=top | mark=ButtonWhite.svg | link= | lat=40.765 | long=-111.85}}
+   {{Location map~ | USA | label='''Vermont''' | position=top | mark=ButtonYellow.svg | link= | lat=44.476 | long=-73.195}}
+   {{Location map~ | USA | label='''Dartmouth''' | position=bottom | mark=ButtonPink.svg | link= | lat=43.70333 | long=-72.28833}}
+   {{Location map~ | USA | label='''Wyoming''' | position=top | mark=ButtonBlue.svg | link= | lat=41.31306 | long=-105.58139}}
+   {{Location map~ | USA | label='''New<br />Mexico''' | position=bottom | mark=ButtonGray.svg | link= | lat=35.08389 | long=-106.61861}}
+   {{Location map~ | USA | label='''Denver''' | position=bottom | mark=ButtonRed.svg | link= | lat=39.62833 | long=-104.95222}}
+}}
+
+{| class="wikitable" style="text-align:center;"
+! Team
+! Total
+! Men
+! Years: Men
+! Co-ed
+! Years: Co-ed
+|-
+| style={{NCAA color cell|Denver Pioneers}}| '''[[Denver Pioneers ski team|{{white|Denver}}]]'''
+| '''24'''
+| 14
+| style="font-size:80%;" | 1954 1955 1956 1957 1961 1962 1963 <br /> 1964 1965 1966 1967 1969 1970 1971
+| 10
+| style="font-size:80%;" | 2000 2001 2002 2005 2008 2009 <br /> 2010 2014 2016 2018
+|-
+| style={{NCAA color cell|Colorado Buffaloes}}| '''{{CollegeSecondaryColorLink|Colorado Buffaloes|Colorado Buffaloes ski team|Colorado}}'''
+| '''20'''
+| 11
+| style="font-size:80%;" | 1959 1960 1972 1973 1974 1975 1976 <br /> 1977 1978 1979 1982
+| 9
+| style="font-size:80%;" | 1991 1995 1998 1999 2006 2011 <br /> 2013 2015 2024
+|-
+| style={{NCAA color cell|Utah Utes}}| '''[[Utah Utes ski team|{{white|Utah}}]]'''
+| '''16'''
+| 1
+| style="font-size:80%;" | 1981
+| 15
+| style="font-size:80%;" | 1983 1984 1986 1987 1988 1993 <br /> 1996 1997 2003 2017 2019 2021 2022 2023 2025
+|-
+| style={{NCAA color cell|Vermont Catamounts}}| '''{{CollegeSecondaryColorLink|Vermont Catamounts|Vermont Catamounts|Vermont}}'''
+| '''6'''
+| 1
+| style="font-size:80%;" | 1980
+| 5
+| style="font-size:80%;" | 1989 1990 1992 1994 2012
+|-
+| style={{NCAA color cell|Dartmouth Big Green}}| '''[[Dartmouth Big Green|{{white|Dartmouth}}]]'''
+| '''3'''
+| 2
+| style="font-size:80%;" | 1958 1976
+| 1
+| style="font-size:80%;" | 2007
+|-
+| style={{NCAA color cell|Wyoming Cowboys}}| ''{{CollegeSecondaryColorLink|Wyoming Cowboys|Wyoming Cowboys and Cowgirls|Wyoming}}''
+| '''2'''
+| 1
+| style="font-size:80%;" | 1968
+| 1
+| style="font-size:80%;" | 1985
+|-
+| style={{NCAA color cell|New Mexico Lobos}}| ''[[New Mexico Lobos|{{white|New Mexico}}]]''
+| '''1'''
+| -
+|
+| 1
+| style="font-size:80%;" | 2004
+|}
+
+==Appearances by team==
+
+'''Key'''
+* {{color box|#FFA500|'''CH'''|border=#AA5000}} National Champion
+* {{color box|#ACACAC|RU}} National Runner-up
+* Numbers indicate the placement of the team in that tournament beyond second
+* The 2020 championships were abandoned due to the [[COVID-19 pandemic]], so team appearances are credited, but no placements.
+
+{{sticky table start}}
+{|class="wikitable sortable sticky-table-head sticky-table-col1" style="font-size:90%; text-align: center;"
+|-
+! rowspan=2| School
+! rowspan=2| Conference
+!style="background: #EEEEEE;"| #
+!style="background: #70E0E0;"| 10
+!style="background: #F0E68C;"| 5
+!style="background: #FFA500;"| CH
+!style="background: black;"| [[1954 NCAA skiing championships|{{white|54}}]]
+!style="background: black;"| [[1955 NCAA skiing championships|{{white|55}}]]
+!style="background: black;"| [[1956 NCAA skiing championships|{{white|56}}]]
+!style="background: black;"| [[1957 NCAA skiing championships|{{white|57}}]]
+!style="background: black;"| [[1958 NCAA skiing championships|{{white|58}}]]
+!style="background: black;"| [[1959 NCAA skiing championships|{{white|59}}]]
+!style="background: black;"| [[1960 NCAA skiing championships|{{white|60}}]]
+!style="background: black;"| [[1961 NCAA skiing championships|{{white|61}}]]
+!style="background: black;"| [[1962 NCAA skiing championships|{{white|62}}]]
+!style="background: black;"| [[1963 NCAA skiing championships|{{white|63}}]]
+!style="background: black;"| [[1964 NCAA skiing championships|{{white|64}}]]
+!style="background: black;"| [[1965 NCAA skiing championships|{{white|65}}]]
+!style="background: black;"| [[1966 NCAA skiing championships|{{white|66}}]]
+!style="background: black;"| [[1967 NCAA skiing championships|{{white|67}}]]
+!style="background: black;"| [[1968 NCAA skiing championships|{{white|68}}]]
+!style="background: black;"| [[1969 NCAA skiing championships|{{white|69}}]]
+!style="background: black;"| [[1970 NCAA skiing championships|{{white|70}}]]
+!style="background: black;"| [[1971 NCAA skiing championships|{{white|71}}]]
+!style="background: black;"| [[1972 NCAA skiing championships|{{white|72}}]]
+!style="background: black;"| [[1973 NCAA skiing championships|{{white|73}}]]
+!style="background: black;"| [[1974 NCAA skiing championships|{{white|74}}]]
+!style="background: black;"| [[1975 NCAA skiing championships|{{white|75}}]]
+!style="background: black;"| [[1976 NCAA skiing championships|{{white|76}}]]
+!style="background: black;"| [[1977 NCAA skiing championships|{{white|77}}]]
+!style="background: black;"| [[1978 NCAA skiing championships|{{white|78}}]]
+!style="background: black;"| [[1979 NCAA skiing championships|{{white|79}}]]
+!style="background: black;"| [[1980 NCAA skiing championships|{{white|80}}]]
+!style="background: black;"| [[1981 NCAA skiing championships|{{white|81}}]]
+!style="background: black;"| [[1982 NCAA skiing championships|{{white|82}}]]
+!style="background: black;"| [[1983 NCAA skiing championships|{{white|83}}]]
+!style="background: black;"| [[1984 NCAA skiing championships|{{white|84}}]]
+!style="background: black;"| [[1985 NCAA skiing championships|{{white|85}}]]
+!style="background: black;"| [[1986 NCAA skiing championships|{{white|86}}]]
+!style="background: black;"| [[1987 NCAA skiing championships|{{white|87}}]]
+!style="background: black;"| [[1988 NCAA skiing championships|{{white|88}}]]
+!style="background: black;"| [[1989 NCAA skiing championships|{{white|89}}]]
+!style="background: black;"| [[1990 NCAA skiing championships|{{white|90}}]]
+!style="background: black;"| [[1991 NCAA skiing championships|{{white|91}}]]
+!style="background: black;"| [[1992 NCAA skiing championships|{{white|92}}]]
+!style="background: black;"| [[1993 NCAA skiing championships|{{white|93}}]]
+!style="background: black;"| [[1994 NCAA skiing championships|{{white|94}}]]
+!style="background: black;"| [[1995 NCAA skiing championships|{{white|95}}]]
+!style="background: black;"| [[1996 NCAA skiing championships|{{white|96}}]]
+!style="background: black;"| [[1997 NCAA skiing championships|{{white|97}}]]
+!style="background: black;"| [[1998 NCAA skiing championships|{{white|98}}]]
+!style="background: black;"| [[1999 NCAA skiing championships|{{white|99}}]]
+!style="background: black;"| [[2000 NCAA skiing championships|{{white|00}}]]
+!style="background: black;"| [[2001 NCAA skiing championships|{{white|01}}]]
+!style="background: black;"| [[2002 NCAA skiing championships|{{white|02}}]]
+!style="background: black;"| [[2003 NCAA skiing championships|{{white|03}}]]
+!style="background: black;"| [[2004 NCAA skiing championships|{{white|04}}]]
+!style="background: black;"| [[2005 NCAA skiing championships|{{white|05}}]]
+!style="background: black;"| [[2006 NCAA skiing championships|{{white|06}}]]
+!style="background: black;"| [[2007 NCAA skiing championships|{{white|07}}]]
+!style="background: black;"| [[2008 NCAA skiing championships|{{white|08}}]]
+!style="background: black;"| [[2009 NCAA skiing championships|{{white|09}}]]
+!style="background: black;"| [[2010 NCAA skiing championships|{{white|10}}]]
+!style="background: black;"| [[2011 NCAA skiing championships|{{white|11}}]]
+!style="background: black;"| [[2012 NCAA skiing championships|{{white|12}}]]
+!style="background: black;"| [[2013 NCAA skiing championships|{{white|13}}]]
+!style="background: black;"| [[2014 NCAA skiing championships|{{white|14}}]]
+!style="background: black;"| [[2015 NCAA skiing championships|{{white|15}}]]
+!style="background: black;"| [[2016 NCAA skiing championships|{{white|16}}]]
+!style="background: black;"| [[2017 NCAA skiing championships|{{white|17}}]]
+!style="background: black;"| [[2018 NCAA skiing championships|{{white|18}}]]
+!style="background: black;"| [[2019 NCAA skiing championships|{{white|19}}]]
+!style="background: black;"| [[2020 NCAA skiing championships|{{white|20}}]]
+!style="background: black;"| [[2021 NCAA skiing championships|{{white|21}}]]
+!style="background: black;"| [[2022 NCAA skiing championships|{{white|22}}]]
+!style="background: black;"| [[2023 NCAA skiing championships|{{white|23}}]]
+!style="background: black;"| [[2024 NCAA skiing championships|{{white|24}}]]
+|-
+! class="sticky-table-none" | <br> !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !! !!
+|-
+|style="{{NCAA color cell|Denver Pioneers}};" | '''[[Denver Pioneers|{{white|Denver}}]]''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''56''' || '''52''' || '''49''' || '''24''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || || || || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#EEEEEE"|• || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}}
+|-
+|style="{{NCAA color cell|Colorado Buffaloes}};" | '''{{CollegeSecondaryColorLink|Colorado Buffaloes|Colorado Buffaloes|Colorado}}''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''68''' || '''67''' || '''64''' || '''20''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || || style="background:#A8EFB6"|{{sort|27|6}} || || || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5ᴛ}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CHᴛ}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#EEEEEE"|• || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}'''
+|-
+|style="{{NCAA color cell|Utah Utes}};" | '''[[Utah Utes|{{white|Utah}}]]''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''61''' || '''58''' || '''50''' || '''15''' || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || || style="background:#E0FF8C"|{{sort|29|4}} || || || || || || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || || || || style="background:#70E0E0"|{{sort|25|8}} || style="background:#CCE6E6"|{{sort|17|16}} || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#EEEEEE"|• || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}'''
+|-
+|style="{{NCAA color cell|Vermont Catamounts}};" | '''{{CollegeSecondaryColorLink|Vermont Catamounts|Vermont Catamounts|Vermont}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''58''' || '''56''' || '''45''' || '''6''' || || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#7AE1E1"|{{sort|24|9}} || || || || || || || || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8E7E7"|{{sort|20|13}} || || || style="background:#7AE1E1"|{{sort|24|9}} || || style="background:#85E2E2"|{{sort|23|10}} || || || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#EEEEEE"|• || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}}
+|-
+|style="{{NCAA color cell|Dartmouth Big Green}};" | '''[[Dartmouth Big Green|{{white|Dartmouth}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''68''' || '''66''' || '''43''' || '''3''' || || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#FFA500;"|'''{{sort|32|CHᴛ}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#EEEEEE"|• || || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}}
+|-
+|style="{{NCAA color cell|Wyoming Cowboys}};" | ''{{CollegeSecondaryColorLink|Wyoming Cowboys|Wyoming Cowboys|Wyoming}}'' || ''defunct'' || '''34''' || '''32''' || '''27''' || '''2''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#70E0E0"|{{sort|25|8}} || || || style="background:#E0FF8C"|{{sort|29|4}} || || || || style="background:#FFFF50"|{{sort|30|3}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#C4F7A1"|{{sort|28|5ᴛ}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|New Mexico Lobos}};" | ''[[New Mexico Lobos|{{white|New Mexico}}]]'' || ''defunct'' || '''41''' || '''37''' || '''18''' || '''1''' || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFA500;"|'''{{sort|32|CH}}''' || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#A8EFB6"|{{sort|27|6ᴛ}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || || || || ||
+|-
+|style="{{NCAA color cell|Middlebury Panthers}};" | '''[[Middlebury Panthers|{{white|Middlebury}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''64''' || '''57''' || '''14''' || - || || style="background:#FFFF50"|{{sort|30|3}} || style="background:#FFFF50"|{{sort|30|3}} || || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || || style="background:#888888"|'''{{sort|31|RU}}''' || || || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#9AE5E5"|{{sort|21|12}} || || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7ᴛ}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6ᴛ}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#EEEEEE"|• || || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}}
+|-
+|style="{{NCAA color cell|Western Colorado Mountaineers}};" | ''[[Western Colorado Mountaineers|{{white|Western Colorado<br/><small>(Western State)</small>}}]]'' || ''defunct'' || '''34''' || '''18''' || '''10''' || - || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || || style="background:#FFFF50"|{{sort|30|3}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#888888"|'''{{sort|31|RU}}''' || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7ᴛ}} || || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#85E2E2"|{{sort|23|10}} || || style="background:#8CE7CB"|{{sort|26|7}} || || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#D5E2E2"|{{sort|16|17}} || || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Alaska Anchorage Seawolves}};" | '''{{CollegeSecondaryColorLink|Alaska Anchorage Seawolves|Alaska Anchorage Seawolves|Alaska Anchorage}}''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''44''' || '''38''' || '''7''' || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#EEEEEE"|• || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8CE7CB"|{{sort|26|7}}
+|-
+|style="{{NCAA color cell|Montana State Bobcats}};" | '''{{CollegeSecondaryColorLink|Montana State Bobcats|Montana State Bobcats|Montana State}}''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''47''' || '''30''' || '''4''' || - || || || || || || || || || style="background:#8CE7CB"|{{sort|26|7}} || || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8EFB6"|{{sort|27|6}} || || style="background:#85E2E2"|{{sort|23|10}} || style="background:#E0FF8C"|{{sort|29|4}} || || || || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8FE3E3"|{{sort|22|11}} || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#EEEEEE"|• || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}}
+|-
+|style="{{NCAA color cell|New Hampshire Wildcats}};" | '''{{CollegeSecondaryColorLink|New Hampshire Wildcats|New Hampshire Wildcats|New Hampshire}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''55''' || '''41''' || '''3''' || - || || style="background:#C4F7A1"|{{sort|28|5}} || || || style="background:#A8EFB6"|{{sort|27|6}} || || || style="background:#C4F7A1"|{{sort|28|5}} || || || || || || || || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || || || || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#EEEEEE"|• || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}}
+|-
+|style="{{NCAA color cell|Northern Michigan Wildcats}};" | '''{{CollegeSecondaryColorLink|Northern Michigan Wildcats|Northern Michigan Wildcats|Northern Michigan}}''' || [[Central Collegiate Ski Association|CCSA]] || '''45''' || '''26''' || '''3''' || - || || || || || || || || || || || || || || || || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#CCE6E6"|{{sort|17|16}} || || || || || || || || || || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#9AE5E5"|{{sort|21|12}} || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#EEEEEE"|• || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#DDDDDD"|{{sort|15|18}}
+|-
+|style="{{NCAA color cell|Fort Lewis Skyhawks}};" | ''{{CollegeSecondaryColorLink|Fort Lewis Skyhawks|Fort Lewis Skyhawks|Fort Lewis}}'' || ''defunct'' || '''9''' || '''8''' || '''3''' || - || || || || || || || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || || || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#FFFF50"|{{sort|30|3}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Idaho Vandals}};" | ''[[Idaho Vandals|{{color|black|Idaho}}]]'' || ''defunct'' || '''7''' || '''7''' || '''3''' || - || style="background:#E0FF8C"|{{sort|29|4}} || || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#C4F7A1"|{{sort|28|5}} || || style="background:#7AE1E1"|{{sort|24|9}} || || style="background:#8CE7CB"|{{sort|26|7}} || || || || style="background:#70E0E0"|{{sort|25|8}} || || || || || || || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Nevada Wolf Pack}};" | '''[[Nevada Wolf Pack|{{white|Nevada}}]]''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''38''' || '''17''' || '''2''' || - || style="background:#70E0E0"|{{sort|25|8}} || || || || || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || || style="background:#C4F7A1"|{{sort|28|5}} || || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || || || style="background:#85E2E2"|{{sort|23|10}} || || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#70E0E0"|{{sort|25|8}} || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#70E0E0"|{{sort|25|8}} || || style="background:#9AE5E5"|{{sort|21|12}} || || style="background:#A8E7E7"|{{sort|20|13}} || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#B6E9E9"|{{sort|19|14ᴛ}} || || || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8FE3E3"|{{sort|22|11}} || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19ᴛ}}
+|-
+|style="{{NCAA color cell|Washington Huskies}};" | ''{{CollegeSecondaryColorLink|Washington Huskies|Washington Huskies|Washington}}'' || ''defunct'' || '''12''' || '''10''' || '''2''' || - || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#70E0E0"|{{sort|25|8}} || || || || || style="background:#70E0E0"|{{sort|25|8}} || || || style="background:#A8EFB6"|{{sort|27|6}} || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#E0FF8C"|{{sort|29|4}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#7AE1E1"|{{sort|24|9}} || || || style="background:#9AE5E5"|{{sort|21|12}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|St. Lawrence Saints}};" | '''[[St. Lawrence Saints|{{white|St. Lawrence}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''43''' || '''5''' || '''1''' || - || || || || || style="background:#C4F7A1"|{{sort|28|5}} || || || || || || || || || style="background:#8FE3E3"|{{sort|22|11}} || || || style="background:#8FE3E3"|{{sort|22|11}} || || || || || || || || || || style="background:#85E2E2"|{{sort|23|10}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#D5E2E2"|{{sort|16|17ᴛ}} || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#DDDDDD"|{{sort|15|18}} || || || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EAEAEA"|{{sort|13|20}} || || style="background:#C4EBEB"|{{sort|18|15ᴛ}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#E3E3E3"|{{sort|14|19}} || || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#EEEEEE"|• || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#D5E2E2"|{{sort|16|17}}
+|-
+|style="{{NCAA color cell|Notre Dame Fighting Irish}};" | ''{{CollegeSecondaryColorLink|Notre Dame Fighting Irish|Notre Dame Fighting Irish|Notre Dame}}'' || ''defunct'' || '''2''' || '''2''' || '''1''' || - || || || || || || || || || || style="background:#C4F7A1"|{{sort|28|5}} || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Seattle Redhawks}};" | ''[[Seattle Redhawks|{{white|Seattle}}]]'' || ''defunct'' || '''1''' || '''1''' || '''1''' || - || style="background:#888888"|'''{{sort|31|RU}}''' || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Williams Ephs}};" | '''{{CollegeSecondaryColorLink|Williams Ephs|Williams Ephs|Williams}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''50''' || '''12''' || - || - || || style="background:#7AE1E1"|{{sort|24|9}} || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#B6E9E9"|{{sort|19|14}} || || style="background:#70E0E0"|{{sort|25|8}} || || || || || || || || || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#85E2E2"|{{sort|23|10}} || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#EEEEEE"|• || || || style="background:#EAEAEA"|{{sort|13|20ᴛ}} || style="background:#F6F6F6"|{{sort|10|23}}
+|-
+|style="{{NCAA color cell|Alaska Nanooks}};" | '''{{CollegeSecondaryColorLink|Alaska Nanooks|Alaska Nanooks|Alaska}}''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''43''' || '''10''' || - || - || || || || || || || || || || || || || || || || || || || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}} || || || style="background:#85E2E2"|{{sort|23|10}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F0F0F0"|{{sort|12|21}} || || style="background:#CCE6E6"|{{sort|17|16ᴛ}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#C4EBEB"|{{sort|18|15ᴛ}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#EEEEEE"|• || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#7AE1E1"|{{sort|24|9}}
+|-
+|style="{{NCAA color cell|Washington State Cougars}};" | ''[[Washington State Cougars|{{white|Washington State}}]]'' || ''defunct'' || '''5''' || '''4''' || - || - || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#8CE7CB"|{{sort|26|7}} || || || style="background:#8CE7CB"|{{sort|26|7}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Michigan Tech Huskies}};" | '''{{CollegeSecondaryColorLink|Michigan Tech Huskies|Michigan Tech Huskies|Michigan Tech}}''' || [[Central Collegiate Ski Association|CCSA]] || '''35''' || '''3''' || - || - || || || style="background:#9AE5E5"|{{sort|21|12}} || || style="background:#8CE7CB"|{{sort|26|7}} || style="background:#70E0E0"|{{sort|25|8}} || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#70E0E0"|{{sort|25|8}} || || || || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || style="background:#9AE5E5"|{{sort|21|12}} || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#D5E2E2"|{{sort|16|17}} || || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || style="background:#CCE6E6"|{{sort|17|16ᴛ}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#F0F0F0"|{{sort|12|21}} || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#EEEEEE"|• || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14ᴛ}} || style="background:#A8E7E7"|{{sort|20|13}}
+|-
+|style="{{NCAA color cell|Harvard Crimson}};" | '''[[Harvard Crimson|{{white|Harvard}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''23''' || '''3''' || - || - || || || || || || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#85E2E2"|{{sort|23|10}} || || style="background:#7AE1E1"|{{sort|24|9}} || || style="background:#8FE3E3"|{{sort|22|11}} || || || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || || || || style="background:#E3E3E3"|{{sort|14|19}} || || || style="background:#D5E2E2"|{{sort|16|17ᴛ}} || || || || || || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#E3E3E3"|{{sort|14|19}} || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EAEAEA"|{{sort|13|20ᴛ}} || || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EEEEEE"|• || || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#B6E9E9"|{{sort|19|14ᴛ}} || style="background:#C4EBEB"|{{sort|18|15}}
+|-
+|style="{{NCAA color cell|Westminster Griffins}};" | '''{{CollegeSecondaryColorLink|Westminster Griffins|Westminster Griffins|Westminster (UT)}}''' || [[Rocky Mountain Intercollegiate Ski Association|RMISA]] || '''6''' || '''3''' || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#EEEEEE"|• || style="background:#70E0E0"|{{sort|25|8}} || style="background:#70E0E0"|{{sort|25|8}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#8FE3E3"|{{sort|22|11}}
+|-
+|style="{{NCAA color cell|Bates Bobcats}};" | '''[[Bates Bobcats|{{white|Bates}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''40''' || '''2''' || - || - || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || || || || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8E7E7"|{{sort|20|13}} || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#EEEEEE"|• || || || || style="background:#F3F3F3"|{{sort|11|22}}
+|-
+|style="{{NCAA color cell|Colby Mules}};" | '''{{CollegeSecondaryColorLink|Colby Mules|Colby Mules|Colby}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''32''' || '''2''' || - || - || || || || || || || || || || || || || || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#CCE6E6"|{{sort|17|16}} || || style="background:#C4EBEB"|{{sort|18|15}} || || || || || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#85E2E2"|{{sort|23|10}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#EEEEEE"|• || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#B6E9E9"|{{sort|19|14}}
+|-
+|style="{{NCAA color cell|Montana Grizzlies}};" | ''[[Montana Grizzlies|{{white|Montana}}]]'' || ''defunct'' || '''8''' || '''2''' || - || - || || || || || || || || || || || || style="background:#8FE3E3"|{{sort|22|11}} || || || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#7AE1E1"|{{sort|24|9}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8FE3E3"|{{sort|22|11}} || || || || style="background:#85E2E2"|{{sort|23|10ᴛ}} || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|New England College Pilgrims}};" | ''{{nowrap|[[New England College Pilgrims|{{white|New England College}}]]}}'' || ''defunct'' || '''9''' || '''1''' || - || - || || || || || || || || || || || || || || || || || || || || || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14ᴛ}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#D5E2E2"|{{sort|16|17}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Norwich Cadets}};" | ''[[Norwich Cadets|{{white|Norwich}}]]'' || ''defunct'' || '''2''' || '''1''' || - || - || || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#CCE6E6"|{{sort|17|16}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|California Golden Bears}};" | ''{{CollegeSecondaryColorLink|California Golden Bears|California Golden Bears|California}}'' || ''defunct'' || '''2''' || '''1''' || - || - || || || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || style="background:#A8EFB6"|{{sort|27|6}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Maine Black Bears}};" | ''{{CollegeSecondaryColorLink|Maine Black Bears|Maine Black Bears|Maine}}'' || ''defunct'' || '''2''' || '''1''' || - || - || || || || || || || || style="background:#A8EFB6"|{{sort|27|6}} || || || || || || style="background:#9AE5E5"|{{sort|21|12}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Weber State Wildcats}};" | ''[[Weber State Wildcats|{{white|Weber State}}]]'' || ''defunct'' || '''2''' || '''1''' || - || - || || || || || || || || || || || || || || || || || || || style="background:#A8E7E7"|{{sort|20|13}} || || style="background:#7AE1E1"|{{sort|24|9}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="background: #046A38;" | ''[[Johnson State Badgers|{{white|Johnson State}}]]'' || ''defunct'' || '''2''' || '''1''' || - || - || || || || || || || || || || || || || || || || || || || || || || || || style="background:#85E2E2"|{{sort|23|10ᴛ}} || || || || || || || || || || || || || || || || || || style="background:#E3E3E3"|{{sort|14|19}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Stanford Cardinal}};" | ''[[Stanford Cardinal|{{white|Stanford}}]]'' || ''defunct'' || '''1''' || '''1''' || - || - || style="background:#85E2E2"|{{sort|23|10}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Chico State Wildcats}};" | ''[[Chico State Wildcats|{{white|Chico State}}]]'' || ''defunct'' || '''1''' || '''1''' || - || - || || || || || || || || || || style="background:#A8EFB6"|{{sort|27|6}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Michigan State Spartans}};" | ''[[Michigan State Spartans|{{white|Michigan State}}]]'' || ''defunct'' || '''1''' || '''1''' || - || - || || || || || || || || || || || || || style="background:#7AE1E1"|{{sort|24|9}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Air Force Falcons}};" | ''{{CollegeSecondaryColorLink|Air Force Falcons|Air Force Falcons|Air Force}}'' || ''defunct'' || '''1''' || '''1''' || - || - || || || || || || || || || || || || || || || || || style="background:#70E0E0"|{{sort|25|8}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Green Bay Phoenix}};" | '''[[Green Bay Phoenix|{{white|Green Bay}}]]''' || [[Central Collegiate Ski Association|CCSA]] || '''22''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#E3E3E3"|{{sort|14|19}} || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#B6E9E9"|{{sort|19|14}} || style="background:#EAEAEA"|{{sort|13|20}} || || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#E3E3E3"|{{sort|14|19}} || || || || || style="background:#EAEAEA"|{{sort|13|20ᴛ}} || || || style="background:#F9F9F9"|{{sort|9|24}} || style="background:#EEEEEE"|• || || style="background:#F3F3F3"|{{sort|11|22}} || ||
+|-
+|style="{{NCAA color cell|Saint Michael's Purple Knights}};" | '''{{CollegeSecondaryColorLink|Saint Michael's Purple Knights|Saint Michael's Purple Knights|Saint Michael's}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''21''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || || || || || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#E3E3E3"|{{sort|14|19}} || || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F0F0F0"|{{sort|12|21}} || || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#A8E7E7"|{{sort|20|13}} || || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#9AE5E5"|{{sort|21|12}}
+|-
+|style="{{NCAA color cell|Bowdoin Polar Bears}};" | '''[[Bowdoin Polar Bears|{{white|Bowdoin}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''14''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#E3E3E3"|{{sort|14|19}} || || || || || style="background:#F6F6F6"|{{sort|10|23}} || || || || || || || || || || || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F6F6F6"|{{sort|10|23}} || || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#EEEEEE"|• || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#EAEAEA"|{{sort|13|20ᴛ}} || style="background:#CCE6E6"|{{sort|17|16}}
+|-
+|style="{{NCAA color cell|St. Scholastica Saints}};" | '''{{CollegeSecondaryColorLink|St. Scholastica Saints|St. Scholastica Saints|St. Scholastica}}''' || [[Central Collegiate Ski Association|CCSA]] || '''14''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#F3F3F3"|{{sort|11|22}} || || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#EEEEEE"|• || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#EAEAEA"|{{sort|13|20ᴛ}} ||
+|-
+|style="{{NCAA color cell|St. Olaf Oles}};" | '''{{CollegeSecondaryColorLink|St. Olaf Oles|St. Olaf Oles|St. Olaf}}''' || [[Central Collegiate Ski Association|CCSA]] || '''12''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#CCE6E6"|{{sort|17|16}} || || || || style="background:#E3E3E3"|{{sort|14|19}} || || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#E3E3E3"|{{sort|14|19}} || || || || style="background:#F6F6F6"|{{sort|10|23}} || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#F3F3F3"|{{sort|11|22}} || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Plymouth State Panthers}};" | '''[[Plymouth State Panthers|{{white|Plymouth State}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''11''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EAEAEA"|{{sort|13|20}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#EEEEEE"|• || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#F0F0F0"|{{sort|12|21}}
+|-
+|style="{{NCAA color cell|Boise State Broncos}};" | ''[[Boise State Broncos|{{white|Boise State}}]]'' || ''defunct'' || '''5''' || - || - || - || || || || || || || || || || || || || || || || || || || || || style="background:#8FE3E3"|{{sort|22|11}} || style="background:#A8E7E7"|{{sort|20|13}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#CCE6E6"|{{sort|17|16}} || style="background:#EAEAEA"|{{sort|13|20}} || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Whitman Blues}};" | ''{{CollegeSecondaryColorLink|Whitman Blues|Whitman Blues|Whitman}}'' || ''defunct'' || '''5''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#D5E2E2"|{{sort|16|17}} || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#E3E3E3"|{{sort|14|19}} || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Gustavus Adolphus Golden Gusties}};" | ''{{CollegeSecondaryColorLink|Gustavus Adolphus Golden Gusties|Gustavus Adolphus Golden Gusties|Gustavus Adolphus}}'' || ''defunct'' || '''5''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#F9F9F9"|{{sort|9|24}} || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#F3F3F3"|{{sort|11|22}} || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Boston College Eagles}};" | '''{{CollegeSecondaryColorLink|Boston College Eagles|Boston College Eagles|Boston College}}''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''5''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || style="background:#EEEEEE"|• || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#F0F0F0"|{{sort|12|21}} || || style="background:#E3E3E3"|{{sort|14|19ᴛ}}
+|-
+|style="{{NCAA color cell|Keene State Owls}};" | ''[[Keene State Owls|{{white|Keene State}}]]'' || ''defunct'' || '''4''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || || || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#A8E7E7"|{{sort|20|13}} || style="background:#C4EBEB"|{{sort|18|15}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|UMass Minutemen}};" | ''[[UMass Minutemen|{{white|UMass}}]]'' || ''defunct'' || '''4''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || style="background:#DDDDDD"|{{sort|15|18}} || || style="background:#F0F0F0"|{{sort|12|21}} || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Colby-Sawyer Chargers}};" | '''[[Colby–Sawyer Chargers|{{color|black|Colby–Sawyer}}]]''' || [[Eastern Intercollegiate Ski Association|EISA]] || '''3''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || || || || style="background:#F0F0F0"|{{sort|12|21}} || || || || || || ||
+|-
+|style="background: #165C7D;" | ''[[Alaska Pacific University|{{white|Alaska Pacific}}]]'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || style="background:#B6E9E9"|{{sort|19|14}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Minnesota Duluth Bulldogs}};" | ''{{CollegeSecondaryColorLink|Minnesota Duluth Bulldogs|Minnesota Duluth Bulldogs|Minnesota Duluth}}'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#A8E7E7"|{{sort|20|13}} || || || style="background:#8FE3E3"|{{sort|22|11}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Minnesota Golden Gophers}};" | ''{{CollegeSecondaryColorLink|Minnesota Golden Gophers|Minnesota Golden Gophers|Minnesota}}'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#9AE5E5"|{{sort|21|12}} || style="background:#8FE3E3"|{{sort|22|11}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Castleton Spartans}};" | ''[[Castleton Spartans|{{white|Castleton}}]]'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || || || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Wisconsin Badgers}};" | ''[[Wisconsin Badgers|{{white|Wisconsin}}]]'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || || || style="background:#CCE6E6"|{{sort|17|16}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Clarkson Golden Knights}};" | ''{{CollegeSecondaryColorLink|Clarkson Golden Knights|Clarkson Golden Knights|Clarkson}}'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || || || || || || || || || || || || || || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || || ||
+|-
+|style="{{NCAA color cell|Maine–Presque Isle Owls}};" | ''{{CollegeSecondaryColorLink|Maine–Presque Isle Owls|Maine–Presque Isle Owls|Maine–Presque Isle}}'' || ''defunct'' || '''2''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Northern Arizona Lumberjacks}};" | ''{{CollegeSecondaryColorLink|Northern Arizona Lumberjacks|Northern Arizona Lumberjacks|Northern Arizona}}'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || style="background:#B6E9E9"|{{sort|19|14}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Oregon Ducks}};" | ''{{CollegeSecondaryColorLink|Oregon Ducks|Oregon Ducks|Oregon}}'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Northern Vermont–Lyndon Hornets}};" | ''{{CollegeSecondaryColorLink|Northern Vermont–Lyndon Hornets|Lyndon State Hornets|Lyndon State}}'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Cornell Big Red}};" | ''[[Cornell Big Red|{{white|Cornell}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#DDDDDD"|{{sort|15|18}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|MIT Engineers}};" | ''[[MIT Engineers|{{white|MIT}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#C4EBEB"|{{sort|18|15}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Saint Mary's Cardinals}};" | ''[[Saint Mary's Cardinals|{{white|Saint Mary's (MN)}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Carleton Knights}};" | ''[[Carleton Knights|{{white|Carleton}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#F3F3F3"|{{sort|11|22}} || || || || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Babson Beavers}};" | ''[[Babson Beavers|{{white|Babson}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#E3E3E3"|{{sort|14|19}} || || || || || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|St. Cloud State Huskies}};" | '''[[St. Cloud State Huskies|{{white|St. Cloud State}}]]''' || [[Central Collegiate Ski Association|CCSA]] || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#F3F3F3"|{{sort|11|22}} || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Whitworth Pirates}};" | ''[[Whitworth Pirates|{{white|Whitworth}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#D5E2E2"|{{sort|16|17}} || || || || || || || || || || || || || || || || || || || || ||
+|-
+|style="{{NCAA color cell|Wellesley Blue}};" | ''[[Wellesley Blue|{{white|Wellesley}}]]'' || ''defunct'' || '''1''' || - || - || - || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || || style="background:#EAEAEA"|{{sort|13|20}} || || || || || || || || || || || || || ||
+|}
+{{sticky table end}}
+
+== Individual Winners ==
+=== Women's Alpine ===
+{| class="wikitable" style="text-align:center"
+|-
+!'''YEAR'''
+! colspan="2" |'''<!--WOMEN'S-->Giant Slalom'''
+!'''YEAR'''
+! colspan="2" |'''<!--WOMEN'S-->Slalom'''
+|-
+|1983
+| colspan="2" |Kathy Kreiner, Utah
+|1983
+| colspan="2" |Asa Svedmark, Wyoming
+|-
+|1984
+| colspan="2" |Bente Dahlum, Utah
+|1984
+| colspan="2" |Bente Dahlum, Utah
+|-
+|1985
+| colspan="2" |Ann Melander, Wyoming
+|1985
+| colspan="2" |Ann Melander, Wyoming
+|-
+|1986
+| colspan="2" |Lynda McGehee, Colorado
+|1986
+| colspan="2" |Gabriella Hamberg, Vermont
+|-
+|1987
+| colspan="2" |Vibeke Hoff, Utah
+|1987
+| colspan="2" |Eva Pfosi, Dartmouth
+|-
+|1988
+| colspan="2" |Anouk Patty, Dartmouth
+|1988
+| colspan="2" |Gabriella Hamberg, Vermont
+|-
+|1989
+| colspan="2" |Anke Friedrich, Utah
+|1989
+| colspan="2" |Gabriella Hamberg, Vermont
+|-
+|1990
+| colspan="2" |Anke Friedrich, Utah
+|1990
+| colspan="2" |Anke Friedrich, Utah
+|-
+|1991
+| colspan="2" |Keri Schlopy, Vermont
+|1991
+| colspan="2" |Heather Flood, Middlebury
+|-
+|1992
+| colspan="2" |Sally Knight, Vermont
+|1992
+| colspan="2" |Katja Lesjak, Utah
+|-
+|1993
+| colspan="2" |Karianne Eriksen, Utah
+|1993
+| colspan="2" |Gibson LaFountaine, Vermont
+|-
+|1994
+| colspan="2" |Christl Hager, Utah
+|1994
+| colspan="2" |Gibson LaFountaine, Vermont
+|-
+|1995
+| colspan="2" |Christl Hager, Utah
+|1995
+| colspan="2" |Narcisa Sehovic, Denver
+|-
+|1996
+| colspan="2" |Jennifer Collins, Dartmouth
+|1996
+| colspan="2" |Roberta Pergher, Denver
+|-
+|1997
+| colspan="2" |Christl Hager, Utah
+|1997
+| colspan="2" |Roberta Pergher, Denver
+|-
+|1998
+| colspan="2" |Caroline Gedde-Dahl, Colorado
+|1998
+| colspan="2" |Brooke Laundon, Middlebury
+|-
+|1999
+| colspan="2" |Aimee-Noel Hartley, Colorado
+|1999
+| colspan="2" |Linda Wikstrom, Colorado
+|-
+|2000
+| colspan="2" |Aimee-Noel Hartley, Colorado
+|2000
+| colspan="2" |Cecilie Hagen Larsen, Denver
+|-
+|2001
+| colspan="2" |Erica MacConnell, Vermont
+|2001
+| colspan="2" |Petra Svet, Utah
+|-
+|2002
+| colspan="2" |Aurore De Maulmont, Alas. Anchorage
+|2002
+| colspan="2" |Marte Dolve, New Mexico
+|-
+|2003
+| colspan="2" |Jamie Kingsbury, Vermont
+|2003
+| colspan="2" |Lina Johansson, Utah
+|-
+|2004
+| colspan="2" |Jennifer Delich, New Mexico
+|2004
+| colspan="2" |Pia Rivelsrud, Denver
+|-
+|2005
+| colspan="2" |Jamie Kingsbury, Vermont
+|2005
+| colspan="2" |Megan Hughes, Middlebury
+|-
+|2006
+| colspan="2" |Abbi Lathrop, Colby
+|2006
+| colspan="2" |Lucie Zikova, Colorado
+|-
+|2007
+| colspan="2" |Sarah Schaedler, Western
+|2007
+| colspan="2" |Malin Hemmingsson, New Mexico
+|-
+|2008
+| colspan="2" |Lucie Zikova, Colorado
+|2008
+| colspan="2" |Lucie Zikova, Colorado
+|-
+|2009
+| colspan="2" |Lindsay Cone, St. Lawrence
+|2009
+| colspan="2" |Malin Hemmingsson, New Mexico
+|-
+|2010
+| colspan="2" |Eva Huckova, Utah
+|2010
+| colspan="2" |Malin Hemmingsson, New Mexico
+|-
+|2011
+| colspan="2" |Ida Dillingoen, Denver
+|2011
+| colspan="2" |Sterling Grant, Denver
+|-
+|2012
+| colspan="2" |Rebecca Nadler, Harvard
+|2012
+| colspan="2" |Kate Ryley, Vermont
+|-
+|2013
+| colspan="2" |[[Kristine Gjelsten Haugen]], Denver
+|2013
+| colspan="2" |[[Kristine Gjelsten Haugen]], Denver
+|-
+|2014
+| colspan="2" |[[Kristine Gjelsten Haugen]], Denver
+|2014
+| colspan="2" |[[Kristina Riis-Johannessen]], Vermont
+|-
+|2015
+| colspan="2" |Mateja Robnik, New Mexico
+|2015
+| colspan="2" |Monica Huebner, Denver
+|-
+|2016
+| colspan="2" |[[Kristine Gjelsten Haugen]], Denver
+|2016
+| colspan="2" |Julie Flo Mohagen, Utah
+|-
+|2017
+| colspan="2" |Benedicte Lyche, Montana State
+|2017
+| colspan="2" |[[Paula Moltzan]], Vermont
+|-
+|2018
+| colspan="2" |Amelia Smart, Denver
+|2018
+| colspan="2" |Amelia Smart, Denver
+|-
+|2019
+| colspan="2" |[[Laurence St. Germain]], Vermont
+|2019
+| colspan="2" |[[Laurence St. Germain]], Vermont
+|-
+|2020
+| colspan="2" |[[Storm Klomhaus]], Denver
+|2020
+|align=center bgcolor="E6E8FA"| ''cancelled''
+|-
+|2021
+| colspan="2" |Cassidy Gray, Colorado
+|2021
+| colspan="2" |Amelia Smart, Denver
+|-
+|2022
+| colspan="2" |Magdalena Luczak, Colorado
+|2022
+| colspan="2" |Katie Hensien, Denver
+|-
+|2023
+| colspan="2" |Madison Hoffman, Utah
+|2023
+| colspan="2" |Madison Hoffman, Utah
+|-
+|2024
+| colspan="2" |Magdalena Luczak, Colorado
+|2024
+| colspan="2" |Magdalena Luczak, Colorado
+|-
+|2025
+| colspan="2" |Sara Rask, Denver
+|2025
+| colspan="2" |Sara Rask, Denver
+|}
+* 4 wins: [[Kristine Gjelsten Haugen]] (GS: 2013, 2014, 2016; SL: 2013). 8 All American honors (4x1st, 2x3rd, 1x5th and 1x6th).
+* 3 wins: Malin Hemmingsson (SL: 2007, 2009, 2010); Anke Friedrich (GS: 1989, 1990; SL: 1990); Christl Hager (GS: 1994, 1995, 1997); Lucie Zikova (GS: 2008; SL: 2006, 2008); Amelia Smart (GS: 2018; SL: 2018, 2021); Magdalena Luczak (GS: 2022, 2024; SL: 2024).
+* 8 sweeps (GS and SL in same year): Bente Dahlum (1984), Anke Friedrich (1990), Lucie Zikova (2008), [[Kristine Gjelsten Haugen]] (2013), Amelia Smart (2018), and [[Laurence St. Germain]] (2019), Madison Hoffman (2023), Magdalena Luczak (2024), Sara Rask (2025).
+
+=== Men's Alpine ===
+{| class="wikitable" style="text-align:center"
+|-
+!'''Year'''
+!'''Slalom'''
+!'''Downhill'''
+!'''Combined'''
+|-
+|1954
+|John L'Orange, Denver
+|Pat Myers, Nevada
+|align=center bgcolor="E6E8FA"|''not awarded''
+|-
+|1955
+|[[Chiharu Igaya]], Dartmouth
+|[[Chiharu Igaya]], Dartmouth
+|[[Chiharu Igaya]], Dartmouth
+|-
+|1956
+|[[Chiharu Igaya]], Dartmouth
+|Walt Taulbee, Washington
+|[[Chiharu Igaya]], Dartmouth
+|-
+|1957
+|[[Chiharu Igaya]], Dartmouth
+|[[Ralph Miller (alpine skier)|Ralph Miller]], Dartmouth
+|[[Ralph Miller (alpine skier)|Ralph Miller]], Dartmouth
+|-
+|1958
+|Robert Gebhardt, Dartmouth
+|Garry Vaughn, Norwich
+|Dave Vorse, Dartmouth
+|-
+|1959
+|[[Marvin Melville]], Utah
+|[[Marvin Melville]], Utah
+|[[Marvin Melville]], Utah
+|-
+|1960
+|Rudy Ruana, Montana
+|Dave Butts, Colorado
+|Jim Gaddis, Utah
+|-
+|1961
+|[[Buddy Werner]], Colorado
+|[[Gordi Eaton]], Middlebury
+|[[Buddy Werner]], Colorado
+|-
+|1962
+|Jim Gaddis, Utah
+|Myke Baar, Denver<!-- https://www.findagrave.com/memorial/56345735/michael-henry-baar  https://fasterskier.com/2017/05/swix-manager-denver-alum-college-skiing-great-opportunity/ -->
+|Jim Gaddis, Utah
+|-
+|1963
+|[[Jimmie Heuga]], Colorado
+|[[Dave Gorsuch]], Western State<br />[[Bill Marolt]], Colorado<br />[[Buddy Werner]], Colorado
+|[[Buddy Werner]], Colorado
+|-
+|1964
+|John Clough, Middlebury
+|John Clough, Middlebury
+|John Clough, Middlebury
+|-
+|1965
+|[[Rick Chaffee]], Denver
+|[[Bill Marolt]], Colorado
+|[[Rick Chaffee]], Denver
+|-
+|1966
+|[[Bill Marolt]], Colorado
+|[[Jon Terje Øverland|Terje Overland]], Denver
+|[[Bill Marolt]], Colorado
+|-
+|1967
+|[[Rick Chaffee]], Denver
+|[[Dennis McCoy (alpine skier)|Dennis McCoy]], Denver
+|[[Jon Terje Øverland|Terje Overland]], Denver
+|-
+|1968
+|[[Dennis McCoy (alpine skier)|Dennis McCoy]], Denver
+|Barney Peet, Fort Lewis
+|[[Dennis McCoy (alpine skier)|Dennis McCoy]], Denver
+|-
+|1969
+|Paul Rachetto, Denver
+|[[Mike Lafferty (alpine skier)|Mike Lafferty]], Colorado
+|Paul Rachetto, Denver
+|-
+|1970
+|Mike Porcarelli, Colorado
+|[[Otto Tschudi]], Denver
+|Mike Porcarelli, Colorado
+|-
+|1971
+|[[Otto Tschudi]], Denver
+|[[Otto Tschudi]], Denver
+|[[Otto Tschudi]], Denver
+|-
+|1972
+|Mike Porcarelli, Colorado
+|[[Otto Tschudi]], Denver
+|Mike Porcarelli, Colorado
+|-
+|1973
+|[[Peik Christensen]], Denver
+|[[Bob Cochran (skier)|Bob Cochran]], Vermont
+|[[Peik Christensen]], Denver
+|-
+|1974
+|Bill Shaw, Boise State
+|Larry Kennison, Wyoming
+|[[Peik Christensen]], Denver
+|-
+|1975
+|[[Peik Christensen]], Denver
+|Mark Ford, Colorado
+|Mark Ford, Colorado
+|-
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+!'''Year'''
+! '''Slalom'''
+! '''Giant Slalom'''
+! '''Combined'''
+|-
+|1976
+|{{spaces|4}}Mike Meleski, Wyoming{{spaces|4}}
+|&nbsp;Dave Cleveland, Dartmouth&nbsp;
+|{{spaces|2}}Mike Meleski, Wyoming{{spaces|2}}
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+!'''Year'''
+!'''Slalom'''
+!'''Giant Slalom'''
+|-
+|1977
+|Stephen Hienzsch, Colorado
+|Stephen Hienzsch, Colorado
+|-
+|1978
+|Dan Brelsford, Montana State
+|Dale Merrill, Wyoming
+|-
+|1979
+|Per Nicolaysen, Utah
+|Chris Mikell, Vermont
+|-
+|1980
+|Bret Williams, Northern Mich.
+|John Teague, Vermont
+|-
+|1981
+|Scott Hoffman, Utah
+|Tor Melander, Vermont
+|-
+|1982
+|[[Tiger Shaw (alpine skier)|Tiger Shaw]], Dartmouth
+|Seth Bayer, Colorado
+|-
+|1983
+|Niklas Scherrer, Colorado
+|Tor Melander, Vermont
+|-
+|1984
+|James Marceau, Colorado
+|Andrew Shaw, Vermont
+|-
+|1985
+|Jeff Durtschi, Utah
+|Tom Foote, Dartmouth
+|-
+|1986
+|John Skajem, Colorado
+|Miles deChamp, Dartmouth
+|-
+|1987
+|John Skajem, Colorado
+|John Skajem, Colorado
+|-
+|1988
+|Dean Keller, Vermont
+|Tom Foote, Dartmouth
+|-
+|1989
+|Robert MacLeod, Middlebury
+|Ian Witter, Colorado
+|-
+|1990
+|Chris Pederson, Colorado
+|Einar Bohmer, Vermont
+|-
+|1991
+|Einar Bohmer, Vermont
+|Toni Standteiner, Colorado
+|-
+|1992
+|Einar Bohmer, Vermont
+|Eric Archer, Colorado
+|-
+|1993
+|Mark Bonnell, Utah
+|Sean Ramsden, Colorado
+|-
+|1994
+|Louis-Francois Gagnon, Utah
+|Erik Roland, Denver
+|-
+|1995
+|Scott Wither, Colorado
+|Bryan Sax, Colorado
+|-
+|1996
+|Mattias Erlandsson, New Mexico
+|Andrew Hare, Utah
+|-
+|1997
+|Izidor Jerman, Alas. Anchorage
+|Brandon Dyksterhouse, Vermont
+|-
+|1998
+|Christian Hutter, Denver
+|David Viele, Dartmouth
+|-
+|1999
+|Jayme Smithers, Denver
+|David Viele, Dartmouth
+|-
+|2000
+|Andy LeRoy, Colorado
+|Matthew Knittle, Vermont
+|-
+|2001
+|Jernej Bukovec, Utah
+|John Minahan, Vermont
+|-
+|2002
+|Roger Brown, Dartmouth
+|Tommi Viirret, Nevada
+|-
+|2003
+|Bradley Wall, Dartmouth
+|Ben Thornhill, Utah
+|-
+|2004
+|Paul McDonald, Dartmouth
+|Ben Thornhill, Utah
+|-
+|2005
+|[[David Chodounsky]], Dartmouth
+|Greg Hardy, Vermont
+|-
+|2006
+|Karl Johnson, Dartmouth
+|Scott Veenis, Utah
+|-
+|2007
+|Adam Cole, Denver
+|Adam Cole, Denver
+|-
+|2008
+|John Buchar, Denver
+|John Buchar, Denver
+|-
+|2009
+|Gabriel Rivas, Colorado
+|David Donaldson, Vermont
+|-
+|2010
+|Andreas Adde, Alas. Anchorage
+|Leif Kristian Haugen, Denver
+|-
+|2011
+|Tim Kelley, Vermont
+|Seppi <!-- son of-->[[Josef Stiegler|Stiegler]], Denver
+|-
+|2012
+|Espen Lysdahl, Denver
+|Adam Zika, Colorado
+|-
+|2013
+|Joonas Rasanen, New Mexico
+|Jonathan Nordbotten, Vermont
+|-
+|2014
+|Espen Lysdahl, Denver
+|Mark Engel, Utah
+|-
+|2015
+|Dominique Garand, Vermont
+|Robert Cone, Middlebury
+|-
+|2016
+|[[Erik Read]], Denver
+|Endre Bjertness, Utah
+|-
+|2017
+|David Ketterer, Colorado
+|David Ketterer, Colorado
+|-
+|2018
+|[[Tanguy Nef]], Dartmouth
+|Brian McLaughlin, Dartmouth
+|-
+|2019
+|Jett Seymour, Denver
+|[[Tanguy Nef]], Dartmouth
+|-
+|2020
+|Tobias Kogler, Denver
+|align=center bgcolor="E6E8FA"| ''cancelled''
+|-
+|2021
+|Mathias Tefre, Vermont
+|Mikkel Solbakken, Westminster
+|-
+|2022
+|Mathias Tefre, Vermont
+|[[Filip Forejtek]], Colorado
+|-
+|2023
+|Mathias Tefre, Vermont
+|Filip Forejtek, Colorado
+|-
+|2024
+|Filip Wahlqvist, Colorado
+|Mikkel Solbakken, Utah
+|-
+|2025
+|Jayden Buckrell, New Hampshire
+|Johs Herland, Utah
+|}
+:*6 wins - [[Chiharu Igaya]] (1955–57)
+:*5 wins - [[Otto Tschudi]] (1970–72)
+:*4 wins - [[Buddy Werner]] (1961–63), [[Bill Marolt]] (1961–63), Mike Porcarelli (1970–72), [[Peik Christensen]] (1973–75)
+
+Alpine Sweep (9): [[Chiharu Igaya]] (1955), [[Marvin Melville]] (1959), Joch Clough (1964), [[Otto Tschudi]] (1971), Stephen Heinzsch (1977), John Skajem (1987), Adam Cole (2007), John Buchar (2008), David Ketterer (2017)
+
+===Men's Nordic===
+{| class="wikitable"
+! colspan="2" | <!--Men's-->Cross Country
+! colspan="2" | <!--Men's-->Jumping
+! colspan="2" | <!--Men's-->Nordic Combined
+|-
+| 1954 || [[Marvin Crawford]], Denver ||  1954 || [[Willis S. Olson|Willis Olson]], Denver || colspan="2" align=center bgcolor="E6E8FA"|''not awarded''
+|-
+| 1955 || [[Larry Damon]], Vermont ||  1955 || [[Willis S. Olson|Willis Olson]], Denver  ||  1955 || Eirik Berggren, [[idaho Vandals ski team|Idaho]]<!--https://govandals.com/honors/hall-of-fame/eirik-berggren/4 -->
+|-
+| 1956 || Eirik Berggren, Idaho ||  1956 || [[Willis S. Olson|Willis Olson]], Denver ||  1956 ||  Eirik Berggren, Idaho
+|-
+| 1957 || [[Mack Miller]], Western State ||  1957 || [[Alfred Vincelette|Alf Vincelette]], Denver ||  1957 || Harol Riiber, Denver
+|-
+| 1958 || [[Clarence Servold]], Denver ||  1958 || [[Oddvar Rønnestad]], Denver ||  1958 || [[Clarence Servold]], Denver
+|-
+| 1959 || [[Clarence Servold]], Denver ||  1959 || Dave Butts, Colorado ||  1959 || [[Theodore A. Farwell|Ted Farwell]], Denver
+|-
+| 1960 || [[John Dendahl]], Colorado ||  1960 || Dag Helgestad, Washington State ||  1960 || [[John Dendahl]], Colorado
+|-
+| 1961 || [[Charlie Akers]], Maine ||  1961 || [[Christoffer Selbekk|Chris Selbekk]], Denver ||  1961 || John Bower, Middlebury
+|-
+| 1962 || [[Jim Page (skier)|Jim Page]], Dartmouth ||  1962 || Oyvind Floystad, Denver ||  1962 || Tor Fageraas, Montana State
+|-
+| 1963 || Eddie Demers, Western State ||  1963 || [[Ole Tom Nord]], Washington ||  1963 || Aarne Valkama, Denver
+|-
+| 1964 || Eddie Demers, Western State ||  1964 || [[Frithjof Prydz]], Utah<br />Erik Jansen, Denver ||  1964 || Erik Jansen, Denver
+|-
+| 1965 || [[Mike Elliott (skier)|Mike Elliott]], Fort Lewis ||  1965 || Erik Jansen, Denver ||  1965 || Matz Jenssen, Utah
+|-
+| 1966 || [[Mike Elliott (skier)|Mike Elliott]], Fort Lewis ||  1966 || [[Frithjof Prydz]], Utah ||  1966 || [[Frithjof Prydz]], Utah
+|-
+| 1967 || [[Ned Gillette]], Dartmouth ||  1967 || Bjorn Loken, Utah ||  1967 || Matz Jenssen, Utah
+|-
+| 1968 || [[Clark Matis]], Colorado ||  1968 || Peter Robes, Wyoming ||  1968 || [[Jim Miller (skier)|Jim Miller]], Fort Lewis
+|-
+| 1969 || [[Clark Matis]], Colorado ||  1969 || [[Odd Hammernes]], Denver ||  1969 || Greg Krog, Denver
+|-
+| 1970 || Ole Hansen, Denver ||  1970 || [[Jay Rand]], Colorado ||  1970 || [[Jim Miller (skier)|Jim Miller]], Fort Lewis
+|-
+| 1971 || Ole Hansen, Denver ||  1971 || Vidar Nilsgard, Colorado ||  1971 || Bruce Cunningham, New Hampshire
+|-
+| 1972 || Stale Engen, Wyoming ||  1972 || [[Odd Hammernes]], Denver ||  1972 || Bruce Cunningham, New Hampshire
+|-
+| 1973 || Steiner Hybertsen, Wyoming ||  1973 || Vidar Nilsgard, Colorado ||  1973 || Pertti Reijula, Northern Michigan
+|-
+| 1974 || Steiner Hybertsen, Wyoming ||  1974 || Didrik Ellefsen, Colorado ||  1974 || Stig Hallingbye, Wyoming
+|-
+| 1975 || Steiner Hybertsen, Wyoming ||  1975 || Didrik Ellefsen, Colorado ||  1975 || Stig Hallingbye, Wyoming
+|-
+| 1976 || Stan Dunklee, Vermont ||  1976 || Kip Sundgaard, Utah ||  1976 || Jack Turner, Colorado
+|-
+| 1977 || Helge Aamodt, Colorado ||  1977 || Ron Steele, Utah || colspan="3" rowspan=4 align=center|Discontinued
+|-
+| 1978 || Sigurd Kjerpseth, Colorado ||  1978 || Tom Jolman Jensen, Colorado<br />Kare Herje, Vermont
+|-
+| 1979 || Svein Arne Osen, Utah ||  1979 || Roger Holden, Vermont
+|-
+| 1980 || Pal Sjulstad, Vermont ||  1980 || Jorn Stromberg, Wyoming
+|-
+! colspan="2" | Men's Cross Country
+! colspan="4" | Men's Relay
+|-
+| 1981 || Bernt Lund, Utah ||  1981 || colspan="3"|Vermont (John Zdechilk, Todd Kempainen, Pal Sjulstad)
+|-
+| 1982 || Egil Nilssen, Colorado ||  1982 || colspan="3"|Colorado (Thomas Holter, Bjorn Gjelsten, Egil Nilssen)
+|-
+| 1983 || Rune Helland, Wyoming ||  1983 || colspan="3"|Vermont (Fredrik Thaulow, Todd Boonstra, Pal Sjulsted)
+|-
+| 1984 || John Aalberg, Utah ||  1984 ||  colspan="3"|Utah (Bernt Lund, Knut Engebretsen, John Aalberg)
+|-
+| 1985 || John Aalberg, Utah ||  1985 || colspan="3"|Vermont (Bruce Likely, George Welk, Todd Boonstra)
+|-
+| 1986 || Hans-Martin Sjulstad, Utah ||  1986 || colspan="3"|Utah (Osmond Driveness, Erik Baumann, Hans-Martin Sjulstad)
+|-
+| 1987 || Osmund Drivenes, Utah ||  1987 || colspan="3"|Utah (Osmond Driveness, Erik Baumann, Hans-Martin Sjulstad)
+|-
+| 1988 || Per Kare Jakobsen, Colorado ||  1988 || colspan="3"|Colorado (Ric Schaff, Aage Schanning, Per Kare Jakobsen)
+|}
+{| class="wikitable"
+! colspan="2" | Men's Freestyle
+! colspan="2" | Men's Classical
+|-
+| 1989 || Per Jakobsen, Colorado (20) ||  1989 || Hans Sjulstad, Utah (10)
+|-
+| 1990 || Tim Miller, Vermont (20) || 1990 || Luke Bodensteiner, Utah (10)
+|-
+| 1991 || Björn Svensson, Colorado (10) ||  1991 || Stig Mattsson, Alaska Anchorage (20)
+|-
+| 1992 || Bernie Lafleur, Wyoming (10) || 1992 || Trond Nystad, Vermont (20)
+|-
+| 1993 || Peter Vordenberg, Northern Michigan (20) || 1993 || Luke Bodensteiner, Utah (10)
+|-
+| 1994 || Niklas Skoglund, New Mexico (20) || 1994 || [[Håvard Solbakken]], Utah (10)
+|-
+| 1995 || Havard Solbakken, Utah (10) || 1995 || Thomas Weman, Utah (20)
+|-
+| 1996 || Thorodd Bakken, Vermont (10) ||  1996 || Geir Skari, Denver (20)
+|-
+| 1997 || Thorodd Bakken, Vermont (20) ||  1997 || Frode Lillefjell, Alaska Anchorage (10)
+|-
+| 1998 || Thorodd Bakken, Vermont (20) ||  1998 || Thorodd Bakken, Vermont (10)
+|-
+| 1999 || Rune Kollerud, Utah (10) ||  1999 || Ove Erik Tronvoll, Colorado (20)
+|-
+| 2000 || Pietro Broggini, Denver (10) ||  2000 || Pietro Broggini, Denver (20)
+|-
+| 2001 || Pietro Broggini, Denver (20) ||  2001 || Wolf Wallendorf, Denver (10)
+|-
+| 2002 || [[Ola Berger]], Denver (20) ||  2002 || Ola Berger, Denver (10)
+|-
+| 2003 || Jimmy Vika, New Mexico (10) ||  2003 || Christopher Cook, Northern Michigan (20)
+|-
+| 2004 || Henning Dybendel, Utah (10) ||  2004 || Henning Dybendal, Utah (20)
+|-
+| 2005 || Rene Reisshauer, Denver (10) || 2005 || Rene Reisshauer, Denver (20)
+|-
+| 2006 || Kit Richmond, Colorado (20) || 2006 || John Stene, Denver (10)
+|-
+| 2007 || Rene Reisshauer, Denver (10) ||  2007 || [[Snorri Einarsson]], Utah (20)
+|-
+| 2008 || Glenn Randall, Dartmouth (10) || 2008 || Marius Korthauer, Alaska Fairbanks (20)
+|-
+| 2009 || Vegard Kjoelhamar, Colorado (20) || 2009 || Juergen Uhl, Vermont (10)
+|-
+| 2010 || Franz Bernstein, Vermont (20) ||  2010 || Matt Gelso, Colorado (10)
+|-
+| 2011 || Sam Tarling, Dartmouth (10) || 2011 || Reid Pletcher, Colorado (20)
+|-
+| 2012 || Erik Soderman, Northern Michigan (10) || 2012 || Miles Havlick, Utah (20)
+|-
+| 2013 || Miles Havlick, Utah (20) || 2013 || Rune Oedegaard, Colorado (10)
+|-
+| 2014 || Mads Stroem, Colorado (20) || 2014 || Rune Oedegaard, Colorado (10)
+|-
+| 2015 || Patrick Caldwell, Dartmouth (10) || 2015 || Fredrik Schwencke, Northern Michigan (20)
+|-
+| 2016 || Mads Stroem, Colorado (10) || 2016 || Mads Stroem, Colorado (20)
+|-
+| 2017 || Martin Bergström, Utah (20) ||  2017 || Martin Bergström, Utah (10)
+|-
+| 2018 || Ian Torchia, Northern Michigan (20) || 2018 || Martin Bergström, Utah (10)
+|-
+| 2019 || Erik Dengerud, Colorado (10) || 2019 || Ricardo Izquierdo-Bernier, New Mexico (20)
+|-
+| 2020 || [[Ben Ogden]], Vermont (10) || 2020 || align=center bgcolor="E6E8FA"| ''cancelled''
+|-
+| 2021 || [[Magnus Bøe]], Colorado (20) || 2021 || Magnus Bøe, Colorado (10)
+|-
+| 2022 || Ben Ogden, Vermont (20) || 2022 || Ben Ogden, Vermont (10)
+|-
+| 2023 || Joe Davies, Alaska Fairbanks (10) || 2023 || Remi Drolet, Harvard (20)
+|-
+| 2024 || [[John Steel Hagenbuch]], Dartmouth (7.5) || 2024 || Magnus Boee, Colorado (20)
+|-
+| 2025 || Joe Davies, Utah (20) || 2025 || [[John Steel Hagenbuch]], Dartmouth (7.5)
+|}
+4 Wins - Thorodd Bakken, Vermont (1996–98)<br />
+Nordic Sweeps: Egil Nilssen (1982), John Aalberg (1984), Hans Martin Sjulstad (1986), Osmund Driveness (1987), Per Kare Jakobsen (1988), Thorod Bakken (1998), Pietro Broggini (2000), [[Ola Berger]] (2002), Henning Dybendel (2004), Rene Reisshauer (2005), Mads Stroem (2016), Martin Bergström (2017), [[Magnus Bøe]] (2021), [[Ben Ogden]] (2022)
+
+===Women's Nordic===
+{| class="wikitable"
+! colspan="2" | Women's Cross Country
+! colspan="2" | Women's Relay
+|-
+| 1983 || [[Beth Heiden]], Vermont || 1983 || New Mexico (Wenche Hokholt, Kjersti Stenerg, Heidi Sorensen)
+|-
+| 1984 || Heidi Sorensen, New Mexico || 1984 || Vermont (Besty Haines, Joanne Conchieri, Jorunn Gran-Henriksen)
+|-
+| 1985 || Kristen Petty, Colorado || 1985 || Wyoming (Grethe-Lise Hagensen, Goril Staf, Hege Peikli-Randall)
+|-
+| 1986 || Hanne Krogstad, Vermont || 1986 || Colorado (Ingrid Butts, Jill Anderson, Kristen Petty)
+|-
+| 1987 || Kristen Petty, Colorado  || 1987 || Vermont (Erika MacDonald, Brenda White, Hanne Krogstad)
+|-
+| 1988 || Brenda White, Vermont || 1988 || Vermont (Selma Lie, Laura Wilson, Brenda White)
+|-
+! colspan="2" | Women's Freestyle
+! colspan="2" | Women's Classical
+|-
+| 1989 || Sari Argillander, Vermont (15) || 1989 || Sari Argillander, Vermont (5)
+|-
+| 1990 || Laura Wilson, Vermont (15) || 1990 || Laura Wilson, Vermont (5)
+|-
+| 1991 || Laura Wilson, Vermont (5) || 1991 || Laura Wilson, Vermont (15)
+|-
+| 1992 || Anette Skjolden, Colorado (5) ||  1992 || Kristin Vestgren, Utah (15)
+|-
+| 1993 || Ivana Radlova, New Mexico (15) || 1993 || Anette Skjolden, Colorado (5)
+|-
+| 1994 || Nina Hamilton, Vermont (15) || 1994 || Minna Turvo, Alaska Anchorage (5)
+|-
+| 1995 || Heidi Selnes, Utah (5) || 1995 || Heidi Selnes, Utah (15)
+|-
+| 1996 || Lisbeth Johnson, Denver (5) || 1996 || Lisbeth Johnson, Denver (15)
+|-
+| 1997 || Amy Crawford, Western State (15) ||  1997 || Doris Hausleitner, Alaska Anchorage (5)
+|-
+| 1998 || Line Selnes, Colorado (15) ||  1998 || Line Selnes, Colorado (5)
+|-
+| 1999 || Ekaterina Ivanova, Vermont (5) || 1999 || Britta Wienand, Denver (15)
+|-
+| 2000 || Katerina Hanusova, Colorado* (5) ||  2000 || Kristina Strandberg, New Mexico (15)
+|-
+| 2001 || Katerina Hanusova, Nevada (15) ||  2001 || Katerina Hanusova, Nevada (5)
+|-
+| 2002 || Katerina Hanusova, Nevada (15) ||  2002 || Mari Storeng, Colorado (5)
+|-
+| 2003 || [[Katrin Šmigun]], Utah (5) ||   2003 || [[Katrin Šmigun]], Utah (15)
+|-
+| 2004 || [[Sigrid Aas]], Alaska Fairbanks (5) ||  2004 || Sigrid Aas, Alaska Fairbanks (15)
+|-
+| 2005 || Mandy Kaempf, Alaska Anchorage (5) ||   2005 || Mandy Kaempf, Alaska Anchorage (15)
+|-
+| 2006 || Jana Rehemaa, Colorado (15) ||  2006 || Jana Rehemaa, Colorado (5)
+|-
+| 2007 || Lindsey Williams, Northern Michigan (5) ||  2007 || Lindsey Weier, Northern Michigan (15)
+|-
+| 2008 || Maria Grevsgaard, Colorado (5) ||  2008 || Maria Grevsgaard, Colorado (15)
+|-
+| 2009 || Antje Maempel, Denver (15) || 2009 || Antje Maempel, Denver (5)
+|-
+| 2010 || Antje Maempel, Denver (15) ||  2010 || Antje Maempel, Denver (5)
+|-
+| 2011 || Maria Graefnings, Utah (5) ||  2011 || Eliska Hajkova, Colorado (15)
+|-
+| 2012 || Maria Graefnings, Utah (5) || 2012 || Amy Glen, Vermont (15)
+|-
+| 2013 || Joanne Reid, Colorado (15) || 2013 || Anja Gruber, Vermont (5)
+|-
+| 2014 || Eva Severus, New Mexico (15) ||  2014 || Anja Gruber, Vermont (5)
+|-
+| 2015 || Veronkica Mayerhofer, Utah (5) ||  2015 || Emilie Cedervaern, New Mexico (15)
+|-
+| 2016 || Anika Miller, Montana State (5) || 2016 || Linn Eriksen, Denver (15)
+|-
+| 2017 || [[Petra Hyncicova]], Colorado (15) || 2017 || Petra Hyncicova, Colorado (5)
+|-
+| 2018 || Katharine Ogden, Dartmouth (15) ||  2018 || Katharine Ogden, Dartmouth (5)
+|-
+| 2019 || Julia Richter, Utah (5) ||  2019 || Katharine Ogden, Dartmouth (15)
+|-
+| 2020 || Eveliina Piippo, Denver (5) || 2020 || align=center bgcolor="E6E8FA"| ''cancelled''
+|-
+| 2021 || Sydney Palmer-Leger, Utah (15) ||  2021 || Sydney Palmer-Leger, Utah (5)
+|-
+| 2022 || [[Sophia Laukli]], Utah (15) ||  2022 || [[Novie McCabe]], Utah (5)
+|-
+| 2023 || Novie McCabe, Utah (5) ||  2023 || Novie McCabe, Utah (20)
+|-
+| 2024 || Sydney Palmer-Leger, Utah (7.5) ||  2024 || Jasmine Drolet, Dartmouth (20)
+|-
+| 2025 || [[Kendall Kramer]], Alaska Fairbanks (20) || 2025 || Erica Lavén, Utah (7.5)
+|}
+4 Wins - Laura Wilson (1990–91), Katerina Hanusova, 2000–02), Antje Maempel (2009–10)<br />
+Nordic Sweeps: Brenda White (1988), Sari Argillander (1989), Laura Wilson (1990, 1991), Heidi Selnes (1995), Lisbeth Johnson (1996), Line Selnes (1998), Katerina Hanusova (2000), Mandy Kaempf (2005), Jana Rehemaa (2006), Maria Grevsgaard (2008), Antje Maempel (2009, 2010), [[Petra Hyncicova]] (2017), Katharine Ogden (2018), Sydney Palmer-Leger (2021), [[Novie McCabe]] (2023)
+
+=== Men's combined ===
+All four events (cross country, downhill, jumping, slalom)
+{| class="wikitable" style="text-align:center"
+|-
+!'''YEAR'''
+! '''<!--Men's-->Skimeister'''
+|-
+|1954 || [[Marvin Crawford]], Denver
+|-
+|1955 || Les Streeter, Middlebury
+|-
+|1956 || John Cress, Denver
+|-
+|1957 || [[Ralph Miller (alpine skier)|Ralph Miller]], Dartmouth
+|-
+|1958 || Dave Harwood, Dartmouth
+|-
+|1959 || Dave Butts, Colorado
+|-
+|1960 || [[John Dendahl]], Colorado
+|-
+|1961 || Art Brookstrom, Dartmouth
+|-
+|1962 || [[Jim Page (skier)|Jim Page]], Dartmouth
+|-
+|1963 || Jim Page, Dartmouth
+|-
+|1964 || Jennings Cress, Western State
+|-
+|1965 || Loris Werner, Western State
+|-
+|1966 || Loris Werner, Western State
+|-
+|1967 || Matz Jenssen, Utah
+|-
+|1968 || Eric Piene, Wyoming
+|-
+|1969 || Ed Damon, Dartmouth
+|-
+|1970 || John Kendall, New Hampshire
+|}
+
+==Hosts==
+===Host sites, by school (Includes co-hosts)===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Team !! Hosted !! Years
+|-
+|align="left"| [[Air Force Falcons|Air Force]] || 1 ||align=left| 1959
+|-
+|align="left"| [[Alaska Anchorage Seawolves ski team|Alaska Anchorage]] || 2 ||align=left| 1987, 2002
+|-
+|align="left"| [[Bates Bobcats|Bates]] || 3 ||align=left| 1976, 1999, 2009
+|-
+|align="left"| [[California Golden Bears|California]] || 1 ||align=left| 1962
+|-
+|align="left"| [[Colby White Mules|Colby]] || 1 ||align=left| 1994
+|-
+|align="left"| [[Colorado Buffaloes ski team|Colorado]] || 10 ||align=left| 1956, 1972, 1977, 1979, 1993, 2006, 2010, 2016, 2018, 2024
+|-
+|align="left"| [[Dartmouth Big Green ski team|Dartmouth]] || 4 ||align=left| 1958, 1964, 1970,<ref>{{cite news |author=<!--not stated--> |date=1970|title=NCAA News|url=https://ncaanewsarchive.s3.amazonaws.com/1970/19700401.pdf|work=Denver Takes Second Crown In NCAA Skiing Championships |location=[[Franconia, New Hampshire|Franconia]], [[New Hampshire]]|access-date=}}</ref> 2003
+|-
+|align="left"| [[Denver Pioneers ski team|Denver]] || 2 ||align=left| 1956, 1959
+|-
+|align="left"| [[Fort Lewis Skyhawks ski team|Fort Lewis]] || 1 ||align=left| 1975
+|-
+|align="left"| [[Middlebury Panthers ski team|Middlebury]] || 6 ||align=left| 1961, 1973, 1988, 2001, 2005, 2013
+|-
+|align="left"| [[Montana State Bobcats ski team|Montana State]] || 8 ||align=left| 1960, 1983, 1985, 1996, 1998, 2008, 2012, 2020
+|-
+|align="left"| [[Nevada Wolf Pack ski team|Nevada]] || 3 ||align=left| 1954, 1962, 2004
+|-
+|align="left"| [[New Hampshire Wildcats ski team|New Hampshire]] || 7 ||align=left| 1978, 1984, 1992, 1995, 2007, 2017, 2021
+|-
+|align="left"| [[Norwich Cadets|Norwich]] || 1 ||align=left| 1955
+|-
+|align="left"| [[St. Lawrence Saints|St. Lawrence]] || 3 ||align=left| 1982, 2015, 2023
+|-
+|align="left"| [[Utah Utes ski team|Utah]] || 7 ||align=left| 1957, 1963, 1981, 1991, 2000, 2014, 2022
+|-
+|align="left"| [[Utah State Aggies|Utah State]] || 1 ||align=left| 1957
+|-
+|align="left"| [[Vermont Catamounts ski team|Vermont]] || 5 ||align=left| 1986, 1990, 1997, 2011, 2019
+|-
+|align="left"| [[Washington Huskies|Washington]] || 1 ||align=left| 1965
+|-
+|align="left"| [[Western Colorado Mountaineers|Western State]] || 1 ||align=left| 1959
+|-
+|align="left"| [[Wyoming Cowboys ski team|Wyoming]] || 2 ||align=left| 1974, 1989
+|}
+* '''Non-School Hosts:''' 1966–69, 1971, 1980, 1983
+
+===Host sites, by location===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Site !! Hosted !! Years
+|-
+|align="left"| {{flagicon|Colorado}} [[Steamboat Springs, Colorado]] || 9 ||align=left| 1968, 1969, 1979, 1993, 2006, 2010, 2016, 2018, 2024
+|-
+|align="left"| {{flagicon|Montana}} [[Bozeman, Montana]] || 8 ||align=left| 1960, 1983, 1985, 1996, 1998, 2008, 2012, 2020
+|-
+|align="left"| {{flagicon|Vermont}} [[Hancock, Vermont]] || 6 ||align=left| 1961, 1973, 1988, 2001, 2005, 2013
+|-
+|align="left"| {{flagicon|Vermont}} [[Stowe, Vermont]] || 6 ||align=left| 1980, 1986, 1990, 1997, 2011, 2019
+|-
+|align="left"| {{flagicon|New Hampshire}} [[Franconia, New Hampshire]] || 5 ||align=left| 1964, 1970, 1978, 2017 (alpine only), 2021 (alpine only)
+|-
+|align="left"| {{flagicon|Utah}} [[Park City, Utah]] || 5 ||align=left| 1981, 1991, 2000, 2014, 2022
+|-
+|align="left"| {{flagicon|Colorado}} [[Winter Park, Colorado]] || 4 ||align=left| 1956, 1959, 1972, 1977
+|-
+|align="left"| {{flagicon|New Hampshire}} [[Pinkham Notch, New Hampshire]] || 4 ||align=left| 1984, 1992, 1995, 2007
+|-
+|align="left"| {{flagicon|New York}} [[Lake Placid, New York]] || 4 ||align=left| 1980, 1982, 2015, 2023
+|-
+|align="left"| {{flagicon|Maine}} [[Newry, Maine]] || 3 ||align=left| 1976, 1999, 2009
+|-
+|align="left"| {{flagicon|New Hampshire}} [[Jackson, New Hampshire]] || 2 ||align=left | 2017, 2021 (Nordic only for both)
+|-
+|align="left"| {{flagicon|New Hampshire}} [[Lyme Center, New Hampshire]] || 2 ||align=left| 1958, 2003
+|-
+|align="left"| {{flagicon|Alaska}} [[Girdwood, Alaska]] || 2 ||align=left| 1987, 2002
+|-
+|align="left"| {{flagicon|Maine}} [[Carrabassett Valley, Maine]] || 2 ||align=left| 1967, 1994
+|-
+|align="left"| {{flagicon|Wyoming}} [[Teton Village, Wyoming]] || 2 ||align=left| 1974, 1989
+|-
+|align="left"| {{flagicon|California}} [[Truckee, California]] || 1 ||align=left| 2004
+|-
+|align="left"| {{flagicon|Colorado}} [[Durango, Colorado]] || 1 ||align=left| 1975
+|-
+|align="left"| {{flagicon|South Dakota}} [[Lead, South Dakota]] || 1 ||align=left| 1971
+|-
+|align="left"| {{flagicon|Colorado}} [[Crested Butte, Colorado]] || 1 ||align=left| 1966
+|-
+|align="left"| {{flagicon|Washington}} [[Seattle]]-[[Tacoma, Washington]] || 1 ||align=left| 1965
+|-
+|align="left"| {{flagicon|Utah}} [[Big Cottonwood Canyon|Big Cottonwood Canyon, Utah]] || 1 ||align=left| 1963
+|-
+|align="left"| {{flagicon|California}} [[Olympic Valley, California]] || 1 ||align=left| 1962
+|-
+|align="left"| {{flagicon|Utah}} [[Huntsville, Utah]] || 1 ||align=left| 1957
+|-
+|align="left"| {{flagicon|Vermont}} [[Northfield, Vermont]] || 1 ||align=left| 1955
+|-
+|align="left"| {{flagicon|Nevada}} [[Reno, Nevada]] || 1 ||align=left| 1954
+|}
+
+==Individual events==
+===Current events===
+{{col-begin}}
+{{col-2}}
+;Cross-Country events
+* 20-Kilometer Freestyle, Men
+* 10-Kilometer Freestyle, Men
+* 15-Kilometer Freestyle, Women
+* 5-Kilometer Freestyle, Women
+* 10-Kilometer Classical, Men
+* 20-Kilometer Classical, Men
+* 5-Kilometer Classical, Women
+* 15-Kilometer Classical, Women
+{{col-2}}
+;Downhill Events
+* Men's [[Slalom skiing|Slalom]] (1954–present)
+* Women's Slalom (1983–present)
+* Men's [[Giant Slalom]] (1976–present)
+* Women's Giant Slalom (1983–present)
+{{col-end}}
+
+===Discontinued events===
+{{col-begin}}
+{{col-3}}
+;Cross-country events
+* Cross-country, Men (1954–1988)
+* Cross-country, Women (1983–1988)
+* Cross-country relay, Men (1983–1988)
+* Cross-country relay, Women (1983–1988)
+{{col-3}}
+;Alpine events
+* [[Alpine skiing combined|Alpine combined]], Men (1955–1976)
+* [[Downhill (ski competition)|Downhill]], Men (1954–1975)
+{{col-3}}
+;Other events
+* [[Nordic combined]], Men (1955–1976)
+* [[Ski jumping]], Men (1954–1980)
+* Skimeister, Men (1954–1973)
+{{col-end}}
+
+==Individual Championships==
+* ''Results through 2024''
+{| class="wikitable" style=text-align:center
+|-
+!Team || Titles
+|-
+|style={{NCAA color cell|Colorado Buffaloes}}|'''{{nowrap|{{CollegeSecondaryColorLink|Colorado Buffaloes|Colorado Buffaloes ski team|Colorado}}}}''' ||105
+|-
+|style={{NCAA color cell|Denver Pioneers}}|'''{{nowrap|[[Denver Pioneers ski team|{{white|Denver}}]]}}''' ||96
+|-
+|style={{NCAA color cell|Utah Utes}}|'''{{nowrap|[[Utah Utes ski team|{{white|Utah}}]]}}''' ||87
+|-
+|style={{NCAA color cell|Vermont Catamounts}}|'''{{nowrap|{{CollegeSecondaryColorLink|Vermont Catamounts|Vermont Catamounts ski team|Vermont}}}}''' ||71
+|-
+|style={{NCAA color cell|Dartmouth Big Green}}|'''{{nowrap|[[Dartmouth Big Green ski team|{{white|Dartmouth}}]]}}''' ||44
+|-
+|style={{NCAA color cell|Wyoming Cowboys}}|''{{nowrap|{{CollegeSecondaryColorLink|Wyoming Cowboys|Wyoming Cowboys and Cowgirls|Wyoming}}}}'' ||19
+|-
+|style={{NCAA color cell|New Mexico Lobos}}|''{{nowrap|[[New Mexico Lobos ski team|{{white|New Mexico}}]]}}'' ||16
+|-
+|style={{NCAA color cell|Middlebury Panthers}}|'''{{nowrap|[[Middlebury Panthers|{{white|Middlebury}}]]}}''' ||11
+|-
+|style={{NCAA color cell|Alaska Anchorage Seawolves}}|'''{{nowrap|{{CollegeSecondaryColorLink|Alaska Anchorage Seawolves|Alaska Anchorage Seawolves|Alaska–Anchorage}}}}''' ||rowspan=3| 9
+|-
+|style={{NCAA color cell|Northern Michigan Wildcats}}|'''{{nowrap|{{CollegeSecondaryColorLink|Northern Michigan Wildcats|Northern Michigan Wildcats|Northern Michigan}}}}'''
+|-
+|style={{NCAA color cell|Western Colorado Mountaineers}}|''{{nowrap|[[Western Colorado Mountaineers|{{white|Western Colorado<br/><small>(Western State)</small>}}]]}}''
+|-
+|style={{NCAA color cell|New Hampshire Wildcats}}|'''{{nowrap|{{CollegeSecondaryColorLink|New Hampshire Wildcats|New Hampshire Wildcats|New Hampshire}}}}''' ||6
+|-
+|style={{NCAA color cell|Fort Lewis Skyhawks}}|''{{nowrap|{{CollegeSecondaryColorLink|Fort Lewis Skyhawks|Fort Lewis Skyhawks|Fort Lewis}}}}'' ||rowspan=2| 5
+|-
+|style={{NCAA color cell|Nevada Wolf Pack}}|'''{{nowrap|[[Nevada Wolf Pack|{{white|Nevada}}]]}}'''
+|-
+|style={{NCAA color cell|Montana State Bobcats}}|'''{{nowrap|{{CollegeSecondaryColorLink|Montana State Bobcats|Montana State Bobcats ski team|Montana State}}}}''' ||4
+|-
+|style={{NCAA color cell|Alaska Nanooks}}|'''{{nowrap|{{CollegeSecondaryColorLink|Alaska Nanooks|Alaska Nanooks|Alaska}}}}''' ||rowspan=2| 3
+|-
+|style={{NCAA color cell|Idaho Vandals}}|''{{nowrap|[[Idaho Vandals ski team|{{color|black|Idaho}}]]}}''
+|-
+|style={{NCAA color cell|Washington Huskies}}|''{{nowrap|{{CollegeSecondaryColorLink|Washington Huskies|Washington Huskies|Washington}}}}'' ||rowspan=2| 2
+|-
+|style={{NCAA color cell|Harvard Crimson}}|'''{{nowrap|[[Harvard Crimson|{{white|Harvard}}]]}}'''
+|-
+|style={{NCAA color cell|Boise State Broncos}}|''{{nowrap|[[Boise State Broncos|{{white|Boise State}}]]}}'' ||rowspan=8| 1
+|-
+|style={{NCAA color cell|Colby Mules}}|'''{{nowrap|{{CollegeSecondaryColorLink|Colby Mules|Colby Mules|Colby}}}}'''
+|-
+|style={{NCAA color cell|Maine Black Bears}}|''{{nowrap|{{CollegeSecondaryColorLink|Maine Black Bears|Maine Black Bears|Maine}}}}''
+|-
+|style={{NCAA color cell|Montana Grizzlies}}|''{{nowrap|[[Montana Grizzlies|{{white|Montana}}]]}}''
+|-
+|style={{NCAA color cell|Norwich Cadets}}|''{{nowrap|[[Norwich Cadets|{{white|Norwich}}]]}}''
+|-
+|style={{NCAA color cell|St. Lawrence Saints}}|'''{{nowrap|[[St. Lawrence University Saints|{{white|St. Lawrence}}]]}}'''
+|-
+|style={{NCAA color cell|Washington State Cougars}}|''{{nowrap|[[Washington State Cougars|{{white|Washington State}}]]}}''
+|-
+|style={{NCAA color cell|Westminster Griffins}}|'''{{nowrap|{{CollegeSecondaryColorLink|Westminster Griffins|Westminster Griffins|Westminster (UT)}}}}'''
+|}
+
+==Championships by coach==
+* ''Results through 2022, no team title awarded in 2020 due to [[COVID-19 pandemic in the United States]]''
+{| class="wikitable"
+|-
+!Coach || Team || Titles
+|-
+|[[Willy Schaeffler]] || [[Denver Pioneers ski team|Denver]] || align=center|13
+|-
+|Pat Miller || [[Utah Utes ski team|Utah]] || align=center|9
+|-
+|Richard Rokos || [[Colorado Buffaloes ski team|Colorado]] || align=center|8
+|-
+|[[Bill Marolt]] || [[Colorado Buffaloes ski team|Colorado]] || align=center|7
+|-
+|Andy LeRoy || [[Denver Pioneers ski team|Denver]] || align=center|6
+|-
+|Kurt Smitz || [[Denver Pioneers ski team|Denver]] || align=center|4
+|-
+|Fredrik Landstedt || [[Utah Utes ski team|Utah]] || align=center|4
+|-
+|Chip LaCasse || [[Vermont Catamounts ski team|Vermont]] || align=center|3
+|-
+|[[Bob Beattie (skiing)|Bob Beattie]] || [[Colorado Buffaloes ski team|Colorado]] || align=center|2
+|-
+|Tim Hinderman || [[Colorado Buffaloes ski team|Colorado]] || align=center|2
+|-
+|Kevin Sweeney || [[Utah Utes ski team|Utah]] || align=center|2
+|-
+|Tim Ameel || [[Wyoming Cowboys and Cowgirls ski team|Wyoming]] || align=center|1
+|-
+|George Brooks || [[New Mexico Lobos ski team|New Mexico]] || align=center|1
+|-
+|John Cress || [[Wyoming Cowboys and Cowgirls ski team|Wyoming]] || align=center|1
+|-
+|Al Merrill || [[Dartmouth Big Green ski team|Dartmouth]] || align=center|1
+|-
+|Jim Page || [[Dartmouth Big Green ski team|Dartmouth]] || align=center|1
+|-
+|Peder Pytte || [[Denver Pioneers ski team|Denver]] || align=center|1
+|-
+|Jana Weinberger || [[Colorado Buffaloes ski team|Colorado]] || align=center|1
+|}
+:{{small|Source:}}<ref>{{cite book |author=<!--Not stated--> |date=2016|title=National Collegiate Skiing Championships Records Book|url=http://fs.ncaa.org/Docs/stats/skiing_champs_records/2016-17/2016.pdf|location= |publisher=[[NCAA]]|page=|isbn=}}</ref>
+
+==See also==
+* [[List of NCAA skiing programs]]
+* [[AIAW Champions#Skiing|AIAW Intercollegiate Women's Skiing Champions]]
+* [[Pre-NCAA intercollegiate championships#Skiing|Pre-NCAA Intercollegiate Skiing Champions]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.ncaasports.com/skiing NCAA sports Skiing]
+
+{{NCAA Skiing Championships}}
+{{National Collegiate Athletic Association}}
+
+[[Category:NCAA Skiing Championships| ]]
+[[Category:Skiing competitions in the United States]]
+[[Category:College skiing in the United States]]
+[[Category:Recurring sporting events established in 1954]]
+[[Category:1954 establishments in Nevada]]

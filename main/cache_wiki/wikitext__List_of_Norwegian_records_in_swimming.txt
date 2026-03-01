@@ -1,0 +1,1565 @@
+{{Short description|None}}
+{{Use dmy dates|date=April 2022}}
+The '''Norwegian records in swimming''' are the fastest ever performances of swimmers from [[Norway]], which are recognised and ratified by the [[Norges Svømmeforbund]] (NSF).
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 21.94
+|recordinfo = h
+|firstname = Nicholas
+|lastname = Lia
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 28 July 2023
+|meet = [[Swimming at the 2023 World Aquatics Championships – Men's 50 metre freestyle|World Championships]]
+|city = Fukuoka
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011600010101EB0101FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=28 July 2023|access-date=28 July 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 48.65
+|recordinfo = h
+|firstname = Sander 
+|lastname = Sørensen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 30 July 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Men's 100 metre freestyle|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011900010101EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:45.78
+|recordinfo = sf
+|firstname = Sander
+|lastname = Sørensen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 28 July 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Men's 200 metre freestyle|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011900010101EE0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 July 2025|access-date=28 July 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:46.37
+|recordinfo = 
+|firstname = Henrik 
+|lastname = Christiansen 
+|namearticle = Henrik Christiansen (swimmer)
+|club = Skjetten Svømming
+|date = 30 March 2016
+|meet = Swim Open Stockholm
+|city = Stockholm
+|country = SWE
+|ref = <ref>{{cite web|title=Men, 400m Freestyle, Final, 19 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=593851&gender=1&styleId=5|publisher=swimrankings.net|date=30 March 2016|access-date=2 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:41.28
+|recordinfo = NR
+|firstname = Henrik 
+|lastname = Christiansen 
+|namearticle = Henrik Christiansen (swimmer)
+|club = {{flagu|Norway}}
+|date = 24 July 2019
+|meet = [[Swimming at the 2019 World Aquatics Championships – Men's 800 metre freestyle|World Championships]]
+|city = Gwangju
+|country = KOR
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Final Results|url=http://www.omegatiming.com/File/00011301070101F104FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=24 July 2019|access-date=24 July 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 14:45.35
+|recordinfo = NR
+|firstname = Henrik 
+|lastname = Christiansen 
+|namearticle = Henrik Christiansen (swimmer)
+|club = {{flagu|Norway}}
+|date = 28 July 2019
+|meet = [[Swimming at the 2019 World Aquatics Championships – Men's 1500 metre freestyle|World Championships]]
+|city = Gwangju
+|country = KOR
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=http://omegatiming.com/File/00011301070101F304FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 July 2019|access-date=28 July 2019|archive-url=https://web.archive.org/web/20190728114541/http://omegatiming.com/File/00011301070101F304FFFFFFFFFFFF01.pdf|archive-date=28 July 2019|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 24.84
+|recordinfo = 
+|firstname = Lavrans
+|lastname = Solli
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 9 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – Men's 50 metre backstroke|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Results|url=http://omegatiming.com/File/Download?id=00010F020000010602FFFFFFFFFFFF02|publisher=Omega Timing|date=9 August 2015|access-date=14 October 2015|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924141437/http://www.omegatiming.com/File/Download?id=00010F020000010602FFFFFFFFFFFF02|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 54.46
+|recordinfo = 
+|firstname = Markus
+|lastname = Lie
+|namearticle = 
+|club = OI Svomming
+|date = 10 June 2023
+|meet = Aquarama Open
+|city = Kristiansand
+|country = NOR
+|ref = <ref>{{cite web|title=Men, 100m Backstroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=638812&gender=1&styleId=10|publisher=swimrankings.net|date=10 June 2023|access-date=21 June 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:59.23
+|recordinfo = h
+|firstname = Lavrans
+|lastname = Solli
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 6 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – Men's 200 metre backstroke|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 200m Backstroke Heats Results|url=http://omegatiming.com/File/Download?id=00010F020000010800FFFFFFFFFFFF02|publisher=Omega Timing|date=6 August 2015|access-date=25 October 2015|archive-date=3 August 2017|archive-url=https://web.archive.org/web/20170803162718/http://www.omegatiming.com/File/Download?id=00010F020000010800FFFFFFFFFFFF02|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 27.20
+|recordinfo = †, =
+|firstname = Alexander
+|lastname = Dale Oen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 25 July 2011
+|meet = [[Swimming at the 2011 World Aquatics Championships – Men's 100 metre breaststroke|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010B0D001F000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=25 July 2011|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 27.20
+|recordinfo = =
+|firstname = André
+|lastname = Grindheim
+|namearticle = 
+|club = Hamar IL
+|date = 3 July 2021
+|meet = Norwegian Championships
+|city = Bergen
+|country = NOR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 58.71
+|recordinfo = NR
+|firstname = Alexander
+|lastname = Dale Oen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 25 July 2011
+|meet = [[Swimming at the 2011 World Aquatics Championships – Men's 100 metre breaststroke|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010B0D001F000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=25 July 2011|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:09.68
+|recordinfo = 
+|firstname = Alexander
+|lastname = Dale Oen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 12 August 2010
+|meet = [[2010 European Aquatics Championships|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010A0D003B000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=12 August 2010|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 23.18
+|recordinfo = h
+|firstname = Nicolas
+|lastname = Lia
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 50 metre butterfly|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Heats Results Summary|url=https://www.omegatiming.com/File/00011800000104EB0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 February 2024|access-date=11 February 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 52.22
+|recordinfo = h
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 29 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBF------------HEAT--------.pdf|publisher=olympics.com|date=29 July 2021|accessdate=29 July 2021|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729111350/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBF------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:56.30
+|recordinfo = h
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 26 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Men's 200 metre butterfly|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM200MBF------------HEAT--------.pdf|publisher=olympics.com|date=26 July 2021|accessdate=26 July 2021|archive-date=26 July 2021|archive-url=https://web.archive.org/web/20210726114041/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM200MBF------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 1:57.64
+|recordinfo = h, NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 28 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Men's 200 metre individual medley|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Men's 200m IM Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM200MIM------------HEAT--------.pdf|publisher=olympics.com|date=28 July 2021|accessdate=28 July 2021|archive-date=2 August 2021|archive-url=https://web.archive.org/web/20210802223819/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM200MIM------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:17.49
+|recordinfo = 
+|firstname = Jon 
+|lastname = Joentvedt 
+|namearticle = 
+|club = Bryne SK
+|date = 21 April 2023
+|meet = Bergen Swim Festival
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Men's 400m IM Final Results|url=https://live.swimify.com/competitions/bergen-swim-festival-2023-2023-04-21/events/summary/4/184|publisher=swimify.com|date=21 April 2023|access-date=22 April 2023}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:16.66
+|recordinfo = h
+|1name = [[Sander Sørensen]]
+|1split = 48.73
+|2name = [[Markus Lie]]
+|2split = 49.10
+|3name = [[Jakob Harlem]]
+|3split = 49.84
+|4name = [[Bjoernar Laskerud]]
+|4split = 48.99
+|club = {{flagu|Norway}}
+|date = 27 July 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011900010101F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=27 July 2025|access-date=27 July 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 7:25.33
+|recordinfo = h
+|1name = [[Oskar Farkas]]
+|1split = 1:52.61
+|2name = [[Sander Sorensen]]
+|2split = 1:50.40
+|3name = [[Philip Slotsvik]]
+|3split = 1:50.59
+|4name = [[Axel Melberg]]
+|4split = 1:51.73
+|club = {{flagu|Norway}}
+|date = 8 July 2023
+|meet = [[2023 European Junior Swimming Championships|European Junior Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 4x200m Freestyle Relay Heats Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=639347&gender=1&styleId=29|website=swimrankings.net|date=8 July 2023|access-date=9 July 2023}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 3:38.52
+|recordinfo = h
+|1name = [[Markus Lie]]
+|1split = 55.68
+|2name = [[André Grindheim]]
+|2split = 1:00.36
+|3name = [[Tomoe Hvas]]
+|3split = 52.98
+|4name = [[Nicholas Lia]]
+|4split = 49.50
+|club = {{flagu|Norway}}
+|date = 23 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Men's 4 × 100 metre medley relay|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x100m Medley Relay Heats Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MMD----------HEAT--------_74B%201.0.pdf?x=19:44:05|publisher=microplustiming.com|date=23 May 2021|accessdate=23 May 2021}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|WR=yes|ER=yes|NR=yes|nation=Nordic}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 25.05
+|recordinfo = h
+|firstname = Susann
+|lastname = Bjørnsen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 12 August 2016
+|meet = [[Swimming at the 2016 Summer Olympics – Women's 50 metre freestyle|Olympic Games]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Heats Results|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW010900_ResultsSummary_2016_08_12_7f3ba403_5961_4ac6_a3ed_cfb4601478f4.pdf|work=Rio 2016 official website|date=12 August 2016|access-date=12 August 2016|archive-url=https://web.archive.org/web/20160825215016/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW010900_ResultsSummary_2016_08_12_7f3ba403_5961_4ac6_a3ed_cfb4601478f4.pdf|archive-date=25 August 2016|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 55.35
+|recordinfo = h
+|firstname = Susann
+|lastname = Bjørnsen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 10 August 2016
+|meet = [[Swimming at the 2016 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Heats Results|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW011900_ResultsSummary_2016_08_10_fdf46a16_a6c2_4972_ba4f_7a02037182c9.pdf|work=Rio 2016 official website|date=10 August 2016|access-date=10 August 2016|url-status=dead|archive-url=https://web.archive.org/web/20160810235341/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWW011900_ResultsSummary_2016_08_10_fdf46a16_a6c2_4972_ba4f_7a02037182c9.pdf|archive-date=10 August 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:59.42
+|recordinfo = 
+|firstname = Cecilie
+|lastname = Johannessen
+|namearticle = 
+|club = Bergens SC
+|date = 30 May 2015
+|meet = Swim Festival
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 200m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=588237&gender=2&styleId=3|work=swimrankings.net|date=30 May 2015|access-date=2 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:11.51
+|recordinfo = 
+|firstname = Irene
+|lastname = Dalby
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 17 August 1989
+|meet = [[1989 European Aquatics Championships|European Championships]]
+|city = Bonn
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:28.59
+|recordinfo = 
+|firstname = Irene
+|lastname = Dalby
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 19 August 1989
+|meet = [[1989 European Aquatics Championships|European Championships]]
+|city = Bonn
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:42.47
+|recordinfo = 
+|firstname = Malene 
+|lastname = Rypestøl
+|namearticle = 
+|club = SK Team Sør
+|date = 7 July 2019
+|meet = Norwegian Championships
+|city = Drammen
+|country = NOR
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Timed Final Results|url=http://ltmobil.medley.no/resultater.aspx?stevnenr=2597&ovnr=440|publisher=medley.no|date=7 July 2019|access-date=30 August 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 28.05
+|recordinfo = h
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 18 May 2021
+|meet = [[Swimming at the 2020 European Aquatics Championships – Women's 50 metre backstroke|European Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Heats Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW50MBA-------------HEAT--------_74A%201.0.pdf?x=18:49:59|publisher=microplustiming.com|date=18 May 2021|accessdate=18 May 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:00.00
+|recordinfo = 
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 26 June 2021
+|meet = Sette Colli Trophy
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 100m Backstroke Results|url=http://fin2021.microplustiming.com/export/NU_2021_06_25-27_Roma/NU/pdf/CLS-ASF-100DO-TIM-RIEP.pdf?x=00:59:59|publisher=microplustiming.com|date=26 June 2021|accessdate=26 June 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:11.68
+|recordinfo = h
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 29 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Women's 200 metre backstroke|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 200m Backstroke Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW200MBA------------HEAT--------.pdf|publisher=olympics.com|date=29 July 2021|accessdate=29 July 2021|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729113221/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW200MBA------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke
+|time = 30.48
+|recordinfo = h, so
+|firstname = Silje
+|lastname = Slyngstadli
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 2 August 2025
+|meet = [[Swimming at the 2025 World Aquatics Championships – Women's 50 metre breaststroke|World Championships]]
+|city = Singapore
+|country = SGP
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Heats Swim-off Results|url=https://www.omegatiming.com/File/00011900010203EB0106FFFFFFFFFF01.pdf|publisher=Omega Timing|date=2 August 2025|access-date=2 August 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:07.53
+|recordinfo = 
+|firstname = Silje
+|lastname = Slyngstadli
+|namearticle = 
+|club = Bergensvømmerne
+|date = 6 April 2025
+|meet = Bergen Swim Festival
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://live.swimify.com/competitions/bergen-swim-festival-2025-04-04/events/summary/12/280|publisher=swimify.com|date=6 April 2025|access-date=6 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:23.02
+|recordinfo = 
+|firstname = Sara
+|lastname = Nordenstam
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 15 August 2008
+|meet = [[Swimming at the 2008 Summer Olympics – Women's 200 metre breaststroke|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.53
+|recordinfo = sf
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 31 July 2009
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 50 metre butterfly|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 50m Butterfly Semifinals Results|url=http://www.omegatiming.com/File/Download?id=0001090B004C000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=31 July 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 56.96
+|recordinfo = 
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 27 July 2009
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 100 metre butterfly|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 100m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=0001090B0017000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=27 July 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:10.99
+|recordinfo = h
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 31 July 2012
+|meet = [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|Olympic Games]]
+|city = London
+|country = GBR
+|ref = <ref>{{cite web|title=Women's 200m Butterfly Heats Results|url=http://www.london2012.com/swimming/event/women-200m-butterfly/phase=sww022900/doc=summary.html|publisher=www.london2012.com|date=31 July 2012|access-date=8 November 2012|archive-url=https://web.archive.org/web/20120821134831/http://www.london2012.com/swimming/event/women-200m-butterfly/phase%3Dsww022900/doc%3Dsummary.html|archive-date=21 August 2012|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:15.13
+|recordinfo = h
+|firstname = Sara
+|lastname = Nordenstam
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 August 2008
+|meet = [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:40.28
+|recordinfo = h
+|firstname = Sara
+|lastname = Nordenstam
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 9 August 2008
+|meet = [[Swimming at the 2008 Summer Olympics – Women's 400 metre individual medley|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:44.09
+|recordinfo = h
+|1name = [[Henriette Brekke]]
+|1split = 56.56
+|2name = [[Cecilie Johannessen]]
+|2split = 55.84
+|3name = [[Monica Johannessen]]
+|3split = 56.25
+|4name = [[Ingvild Snildal]]
+|4split = 55.44
+|club = {{flagu|Norway}}
+|date = 21 May 2012
+|meet = [[Swimming at the 2012 European Aquatics Championships – Women's 4 x 100 metre freestyle relay|European Championships]]
+|city = Debrecen
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4×100m Freestyle Relay Heats Results|url=http://www.omegatiming.com/File/Download?id=00010C030001030000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=21 May 2012|access-date=16 August 2012}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 8:16.16
+|recordinfo = 
+|1name = [[Annika Winsnes]]
+|1split = 2:00.71
+|2name = [[Stine Lise Stenseth]]
+|2split = 2:03.15
+|3name = [[Maria Thompson Clausen]]
+|3split = 2:06.72
+|4name = [[Emilie Nyenget Løvberg]]
+|4split = 2:05.58
+|club = Bærumsvømmerne
+|date = 16 July 2016
+|meet = Norwegian Championships
+|city = Kristiansand 
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 4 x 200m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=596082&gender=2&styleId=29|publisher=swimrankings.net|date=16 July 2016|access-date=2 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4:08.24
+|recordinfo = h
+|1name = [[Katharina Stiberg]]
+|1split = 1:04.37
+|2name = [[Sara Nordenstam]]
+|2split = 1:10.54
+|3name = [[Ingvild Snildal]]
+|3split = 57.02
+|4name = [[Henriette Brekke]]
+|4split = 56.31
+|club = {{flagu|Norway}}
+|date = 1 August 2009
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 4×100m Medley Relay Preliminary Results|url=http://www.omegatiming.com/File/Download?id=0001090B0057000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega]] Timing |date=1 August 2009 |access-date=16 August 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 1
+|event = 4×100m freestyle relay
+|time = 3:32.81
+|recordinfo = 
+|1name = [[Markus Lie]]
+|1split = 49.33
+|2name = [[Axel Melberg]]
+|2split = 50.87
+|3name = [[Malene Rypestøl]]
+|3split = 55.96
+|4name = [[Malena Lisken]]
+|4split = 56.65
+|club = OI Svomming
+|date = 7 July 2024
+|meet = Norwegian Championships
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Mixed 4×100m Freestyle Relay Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=646722&gender=1&styleId=10027|publisher=swimrankings.net|date=7 July 2024|access-date=15 July 2024}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 2
+|event = 4×100m medley relay
+|time = 3:54.37
+|recordinfo = h
+|1name = [[Susanne Steinnes]]
+|1split = 1:04.33
+|2name = [[Silje Slyngstadli]]
+|2split = 1:07.60
+|3name = [[Elias Klev]]
+|3split = 53.12
+|4name = [[Bjoernar Laskerud]]
+|4split = 49.32
+|club = {{flagu|Norway}}
+|date = 26 June 2025
+|meet = [[2025 European U-23 Swimming Championships|European U23 Championships]]
+|city = Šamorín
+|country = SVK
+|ref = <ref>{{cite web|title=Mixed 4 x 100m Medley Relay Heats Results|url=https://europeanaquatics.org/u23-swimming-samorin-2025/schedule-results/#/summary/SWM/RE/X/4X100MMD----------/HEAT/--------|publisher=[[European Aquatics]]|date=4 July 2025|access-date=21 July 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|r=no|b=no|sf=no|tt=no|†=no|WR=yes|ER=yes}}
+
+==Short Course (25 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 21.14
+|recordinfo = 
+|firstname = Nicholas
+|lastname = Lia
+|namearticle = 
+|club = OI Svomming
+|date = 27 October 2023
+|meet = North Sea Meet
+|city = Stavanger
+|country = NOR
+|ref = <ref>{{cite web|title=Men, 50m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=640717&gender=1&styleId=1|publisher=swimrankings.net|date=27 October 2023|accessdate=6 November 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 46.55
+|recordinfo = sf
+|firstname = Sander
+|lastname = Sørensen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 5 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/000119000A0101EC0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=5 December 2025|access-date=5 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:41.87
+|recordinfo = h
+|firstname = Sander
+|lastname = Sørensen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 3 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0101EE0101FFFFFFFFFF01.pdf|work=omegatiming.com|date=3 December 2025|access-date=3 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:36.64
+|recordinfo = NR
+|firstname = Henrik
+|lastname = Christiansen
+|namearticle = Henrik Christiansen (swimmer)
+|club = {{flagu|Norway}}
+|date = 11 December 2018
+|meet = [[2018 FINA World Swimming Championships (25 m) – Men's 400 metre freestyle|World Championships]]
+|city = Hangzhou
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000112010C0101EF04FFFFFFFFFFFF01|publisher=omegatiming.com|date=11 December 2018|access-date=11 December 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:25.78
+|recordinfo = NR
+|firstname = Henrik
+|lastname = Christiansen
+|namearticle = Henrik Christiansen (swimmer)
+|club = {{flagu|Norway}}
+|date = 21 November 2020
+|meet = [[2020 International Swimming League|ISL]] Test Event
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Results|url=https://cdn.swimswam.com/wp-content/uploads/2020/11/C73A1_Result_141_Final_1_Mens-800m-Freestyle-1.pdf|work=swimswam.com|date=21 November 2020|access-date=26 November 2020}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 14:18.15
+|recordinfo = NR
+|firstname = Henrik
+|lastname = Christiansen
+|namearticle = Henrik Christiansen (swimmer)
+|club = {{flagu|Norway}}
+|date = 6 December 2019
+|meet = [[2019 European Short Course Swimming Championships|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM1500MFR------------FNL-000100--_73A1%201.0.pdf|website=microplustiming.com|date=6 December 2019|access-date=6 December 2019}}{{Dead link|date=March 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 23.33
+|recordinfo = sf, NR
+|firstname = Lavrans
+|lastname = Solli
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 5 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 50 metre backstroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Semifinal Results|url=http://omegatiming.com/File/Download?id=00010E010D00010601FFFFFFFFFFFF02|publisher=Omega Timing|date=6 December 2014|access-date=19 December 2014|archive-url=https://web.archive.org/web/20150924140515/http://www.omegatiming.com/File/Download?id=00010E010D00010601FFFFFFFFFFFF02|archive-date=24 September 2015|url-status=dead}}</ref>
+}}
+{{swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 50.67
+|recordinfo = sf, NR
+|firstname = Markus
+|lastname = Lie
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 13 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 100 metre backstroke|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Men's 100m Backstroke Semifinals Results|url=https://www.omegatiming.com/File/00011700030102EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2022|accessdate=13 December 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:53.39
+|recordinfo = 
+|firstname = Markus
+|lastname = Lie
+|namearticle = 
+|club = OI Svomming
+|date = 16 November 2023
+|meet = Norwegian Championships
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Men, 200m Backstroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=641539&gender=1&styleId=11|publisher=swimrankings.net|date=16 November 2023|accessdate=17 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 26.18
+|recordinfo = =
+|firstname = Nicholas
+|lastname = Lia
+|namearticle = 
+|club = OI Svomming
+|date = 16 November 2023
+|meet = Norwegian Championships
+|city = Bergen
+|country = NOR
+|ref = <ref>{{cite web|title=Men, 50m Breaststroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=641539&gender=1&styleId=12|publisher=swimrankings.net|date=16 November 2023|accessdate=17 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 26.18
+|recordinfo = =
+|firstname = Joergen
+|lastname = Brathen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 7 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Breaststroke Final Results|url=https://www.omegatiming.com/File/000119000A0103EB0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=7 December 2025|access-date=7 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 57.05
+|recordinfo = 
+|firstname = Alexander
+|lastname = Dale Oen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 9 December 2011
+|meet = [[2011 European Short Course Swimming Championships|European Championships]]
+|city = Szczecin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010B010029000000FFFFFFFFFFFF01|publisher=Omega Timing|date=9 December 2011|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:06.15
+|recordinfo = 
+|firstname = Alexander
+|lastname = Dale Oen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 December 2011
+|meet = [[2011 European Short Course Swimming Championships|European Championships]]
+|city = Szczecin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010B010057000000FFFFFFFFFFFF01|publisher=Omega Timing|date=11 December 2011|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 22.56
+|recordinfo = sf, NR
+|firstname = Nicholas
+|lastname = Lia
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 5 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Semifinals Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM50MBF-------------SFNL--------_74A%201.0.pdf?x=01:24:55|work=microplustiming.com|date=5 November 2021|accessdate=5 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 49.22
+|recordinfo = sf, NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 2 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Semifinals Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM100MBF------------SFNL--------_74A%201.0.pdf?x=00:20:46|work=microplustiming.com|date=2 November 2021|accessdate=2 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:50.62
+|recordinfo = NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = LA Current
+|date = 19 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Results|url=https://www.omegatiming.com/File/000115000B0104EE04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=19 September 2021|accessdate=19 September 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 51.35
+|recordinfo = NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 19 December 2021
+|meet = [[2021 FINA World Swimming Championships (25 m) – Men's 100 metre individual medley|World Championships]]
+|city = Abu Dhabi
+|country = UAE
+|ref = <ref>{{cite web|title=Men's 100m IM Final Results|url=https://www.omegatiming.com/File/00011500190105EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=19 December 2021|accessdate=19 December 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 1:51.74
+|recordinfo = NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 6 December 2019
+|meet = [[2019 European Short Course Swimming Championships|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Men's 200m Individual Medley Final Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM200MIM------------FNL-000100--_73A1%201.0.pdf|website=microplustiming.com|date=6 December 2019|access-date=6 December 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:02.85
+|recordinfo = NR
+|firstname = Tomoe
+|lastname = Hvas
+|namearticle = 
+|club = LA Current
+|date = 10 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Men's 400m IM Results|url=https://www.omegatiming.com/File/00011500080105EF04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=10 September 2021|accessdate=10 September 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:25.36
+|recordinfo = h
+|1name = [[Bjoernar Laskerud]]
+|1split = 21.64
+|2name = [[Elias Refstie]]
+|2split = 20.83
+|3name = [[Jakob Harlem]]
+|3split = 21.00
+|4name = [[Markus Lie]]
+|4split = 21.89
+|club = {{flagu|Norway}}
+|date = 2 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4x50m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/000119000A0101F60101FFFFFFFFFF01.pdf|work=omegatiming.com|date=2 December 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:12.54
+|recordinfo =
+|1name = [[Elias Nordeng Refstie]]
+|1split = 49.02
+|2name = [[Nicholas Lia]]
+|2split = 47.26
+|3name = [[Christian Groth Dyrkorn]]
+|3split = 47.87
+|4name = [[Simon Moe]]
+|4split = 48.39
+|club = Bærumsvømmerne
+|date = 18 November 2022
+|meet = Norwegian Championships
+|city = Stavanger 
+|country = NOR
+|ref = <ref>{{cite web|title=Senior Men's 4x100m Freestyle Relay Results|url=https://ltmobil.medley.no/resultater.aspx?stevnenr=3929|publisher=medley.no|date=18 November 2022|access-date=19 November 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 7:01.03
+|recordinfo = h
+|1name = [[Tomoe Hvas]]
+|1split = 1:44.18
+|2name = [[Markus Lie]]
+|2split = 1:44.96
+|3name = [[Henrik Christiansen (swimmer)|Henrik Christiansen]]
+|3split = 1:45.56
+|4name = [[Jon Joentvedt]]
+|4split = 1:46.33
+|club = {{flagu|Norway}}
+|date = 19 December 2021
+|meet = [[2021 FINA World Swimming Championships (25 m) – Men's 4 × 200 metre freestyle relay|World Championships]]
+|city = Abu Dhabi
+|country = UAE
+|ref = <ref>{{cite web|title=Men's 4×200m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011500190101F80101FFFFFFFFFF01.pdf|website=Omega Timing|date=19 December 2021|accessdate=19 December 2021}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:33.44
+|recordinfo = h, NR
+|1name = [[Markus Lie]]
+|1split = 23.70
+|2name = [[Joergen Brathen]]
+|2split = 26.20
+|3name = [[Tomoe Hvas]]
+|3split = 22.41
+|4name = [[Niksa Stojkovski]]
+|4split = 21.13
+|club = {{flagu|Norway}}
+|date = 8 December 2019
+|meet = [[2019 European Short Course Swimming Championships|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Men's 4×50m Medley Relay Heats Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM4X50MMD-----------HEAT--------_74B%201.0.pdf?x=20:48:03|publisher=microplustiming.com|date=8 December 2019|access-date=8 December 2019}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:25.63
+|recordinfo = NR
+|1name = [[Markus Lie]]
+|1split = 51.00
+|2name = [[André Grindheim]]
+|2split = 57.73
+|3name = [[Tomoe Hvas]]
+|3split = 49.96
+|4name = [[Nicholas Lia]]
+|4split = 46.94
+|club = {{flagu|Norway}}
+|date = 21 December 2021
+|meet = [[2021 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre medley relay|World Championships]]
+|city = Abu Dhabi
+|country = UAE
+|ref = <ref>{{cite web|title=Men's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011500190105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 December 2021|accessdate=21 December 2021}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|WR=yes|ER=yes|NR=yes|nation=Nordic}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01.1
+|event = 50m freestyle
+|time = 24.37
+|recordinfo = =
+|firstname = Susann
+|lastname = Bjørnsen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 3 November 2017
+|meet = North Sea Meet
+|city = Kristiansand
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 50m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=604369&gender=2&styleId=1|work=swimrankings.net|date=3 November 2017|access-date=14 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 01.2
+|event = 50m freestyle
+|time = 24.37
+|recordinfo = r, =
+|firstname = Susann
+|lastname = Bjørnsen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 15 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Women's 4×50m Freestyle Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-4X50FR-FIN-ALL.pdf|publisher=microplustiming.com|date=15 December 2017|access-date=15 December 2017|archive-url=https://web.archive.org/web/20171216034829/http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-4X50FR-FIN-ALL.pdf|archive-date=16 December 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 52.92
+|recordinfo = sf
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 10 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Semifinals Results|url=http://www.omegatiming.com/File/Download?id=000109010016000000FFFFFFFFFFFF01|publisher=Omega Timing|date=10 December 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:55.95
+|recordinfo = 
+|firstname = Cecilie Waage
+|lastname = Johannessen
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 December 2011
+|meet = [[2011 European Short Course Swimming Championships|European Championships]]
+|city = Szczecin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 200m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010B010058000000FFFFFFFFFFFF01|publisher=Omega Timing|date=11 December 2011|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:03.18
+|recordinfo = 
+|firstname = Bea
+|lastname = Novda
+|namearticle = 
+|club = Stavanger SK
+|date = 13 November 2025
+|meet = Norwegian Championships
+|city = Holmen
+|country = NOR
+|ref = <ref>{{cite web|title=Women's 400m Freestyle Final Results|url=https://ltmobil.medley.no/resultater.aspx?stevnenr=5073|publisher=medley.no|date=13 November 2025|access-date=17 November 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:24.30
+|recordinfo = h
+|firstname = Bea
+|lastname = Novda
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 4 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0201F10101FFFFFFFFFF01.pdf|work=omegatiming.com|date=4 December 2025|access-date=4 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:03.24
+|recordinfo = 
+|firstname = Malene 
+|lastname = Rypestøl
+|namearticle = 
+|club = SK Team Sør
+|date = 17 November 2019
+|meet = Norwegian Championships
+|city = Stavanger 
+|country = NOR
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Timed Final Results|url=http://ltmobil.medley.no/resultater.aspx?stevnenr=2599&ovnr=446|publisher=medley.no|date=17 November 2019|access-date=18 November 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 26.47
+|recordinfo = =
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = Bærumsvømmerne
+|date = 30 October 2020
+|meet = North Sea Meet
+|city = Stavanger
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 50m Backstroke, Timed Final,  Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=623141&gender=2&styleId=9|publisher=swimrankings.net|date=30 October 2020|accessdate=9 April 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 26.47
+|recordinfo = =
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = Iron
+|date = 25 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Results|url=https://www.omegatiming.com/File/000115000D0202EB04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=25 September 2021|accessdate=26 September 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 57.15
+|recordinfo = r
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = Iron
+|date = 25 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Results|url=https://www.omegatiming.com/File/000115000D0205F704FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=25 September 2021|accessdate=26 September 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:03.67
+|recordinfo = 
+|firstname = Ingeborg
+|lastname = Løyning
+|namearticle = 
+|club = Iron
+|date = 25 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/000115000D0202EE04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=25 September 2021|accessdate=26 September 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 29.85
+|recordinfo = sf
+|firstname = Silje
+|lastname = Slyngstadli
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 9 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00011600090203EB0102FFFFFFFFFF01.pdf|work=Omega Timing|date=9 December 2023|access-date=10 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:05.26
+|recordinfo = 
+|firstname = Katharina
+|lastname = Stiberg
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 13 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010901005A000000FFFFFFFFFFFF01|publisher=Omega Timing|date=13 December 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:22.10
+|recordinfo = sf
+|firstname = Stina
+|lastname = Colleou
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 4 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Semifinals Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW200MBR------------SFNL--------_74A%201.0.pdf?x=01:11:44|work=microplustiming.com|date=4 November 2021|accessdate=4 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.10
+|recordinfo = 
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 50m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=00010901002D000000FFFFFFFFFFFF01|publisher=Omega Timing|date=11 December 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 56.52 
+|recordinfo = 
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 14 November 2009
+|meet = [[2009 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Women's 100m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=000109050017000000FFFFFFFFFFFF01|publisher=Omega Timing|date=14 November 2009|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:08.36
+|recordinfo = 
+|firstname = Ingvild
+|lastname = Snildal
+|namearticle = 
+|club = Asker SK
+|date = 25 March 2012
+|meet = Norwegian Championships
+|city = Drammen
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 200m Butterfly, Final, 20 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=560935&gender=2&styleId=17|publisher=swimrankings.net|date=25 March 2012|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 59.12
+|recordinfo = h
+|firstname = Katharina
+|lastname = Stiberg
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 11 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 100m Individual Medley Heats Results|url=http://www.omegatiming.com/File/Download?id=00010901001D000000FFFFFFFFFFFF01|publisher=Omega Timing|date=11 December 2009|access-date=16 August 2017}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:10.66
+|recordinfo = 
+|firstname = Malene
+|lastname = Rypestøl
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 5 December 2021
+|meet = Nordic Championships
+|city = Upplands Väsby
+|country = SWE
+|ref = <ref>{{cite web|title=Event 60, 200m Individual Medley Women Senior - Final|url=http://livetiming.se/results.php?cid=6143&session=6&round=2&event=60&wg=2|website=livetiming.se|date=5 December 2021|accessdate=5 January 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:39.84
+|recordinfo = h
+|firstname = Sara
+|lastname = Nordenstam
+|namearticle = 
+|club = {{flagu|Norway}}
+|date = 15 December 2010
+|meet = [[2010 FINA World Swimming Championships (25 m) – Women's 400 metre individual medley|World Championships]]
+|city = Dubai
+|country = UAE
+|ref = <ref>{{cite web|title=Women's 400m Individual Medley Heats Results|url=http://www.omegatiming.com/File/Download?id=00010A000007000000FFFFFFFFFFFF01|publisher=Omega Timing|date=15 December 2010|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle<br>relay
+|time = 1:38.68
+|recordinfo = 
+|1name = [[Susann Bjørnsen]]
+|1split = 24.37
+|2name = [[Monika Johannessen]]
+|2split = 24.56
+|3name = [[Marte Løvberg]]
+|3split = 24.81
+|4name = [[Emilie Løvberg]]
+|4split = 24.94
+|club = {{flagu|Norway}}
+|date = 15 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Women's 4×50m Freestyle Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-4X50FR-FIN-ALL.pdf|publisher=microplustiming.com|date=15 December 2017|access-date=15 December 2017|archive-url=https://web.archive.org/web/20171216034829/http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-4X50FR-FIN-ALL.pdf|archive-date=16 December 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle<br>relay
+|time = 3:40.45
+|recordinfo = h
+|1name = [[Ingvild Snildal]]
+|1split = 55.11
+|2name = [[Cecilie Waage Johannessen]]
+|2split = 54.34
+|3name = [[Monica Waage Johannessen]]
+|3split = 55.96
+|4name = [[Henriette Brekke]]
+|4split = 55.04
+|club = {{flagu|Norway}}
+|date = 18 December 2010
+|meet = [[2010 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Dubai
+|country = UAE
+|ref = <ref>{{cite web|title=Women's 4×100m Freestyle Relay Heats Results|url=http://www.omegatiming.com/File/Download?id=00010A000047000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega]] Timing|date=18 December 2010|access-date=16 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle<br>relay
+|time = 8:03.16
+|recordinfo = 
+|1name = [[Stine Lise Stenseth]]
+|1split = 2:00.17
+|2name = [[Hedda Oeritsland]]
+|2split = 2:02.43
+|3name = [[Majken Antonie Smith]]
+|3split = 2:01.72
+|4name = [[Emilie Loevberg]]
+|4split = 1:58.85
+|club = Bærumsvømmerne
+|date = 15 March 2018
+|meet = Norwegian Championships
+|city = Nadderud
+|country = NOR
+|ref = <ref>{{cite web|title=Women, 4 x 200m Freestyle, Timed Final,  Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=607656&gender=2&styleId=29|publisher=swimrankings.net|date=15 March 2018|access-date=2 June 2018}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley<br>relay
+|time = 1:46.84
+|recordinfo = h
+|1name = [[Susanne Steinnes]]
+|1split = 27.53
+|2name = [[Frida Stretere Loebersli]]
+|2split = 29.44
+|3name = [[Hedda Oritsland]]
+|3split = 25.27
+|4name = [[Mari Moen]]
+|4split = 24.60
+|club = {{flagu|Norway}}
+|date = 7 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Women's 4x50m Medley Relay Heats Results|url=https://www.omegatiming.com/File/000119000A0205F60101FFFFFFFFFF01.pdf|work=omegatiming.com|date=7 December 2025|access-date=7 December 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley<br>relay
+|time = 4:01.15
+|recordinfo = h
+|1name = [[Katharina Stiberg]]
+|1split = 1:01.32
+|2name = [[Sara Nordenstam]]
+|2split = 1:08.31
+|3name = [[Ingvild Snildal]]
+|3split = 57.79
+|4name = [[Cecilie Waage Johannessen]]
+|4split = 53.73
+|club = {{flagu|Norway}}
+|date = 17 December 2010
+|meet = [[2010 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Dubai
+|country = UAE
+|ref = <ref>{{cite web|title=Women's 4×100m Medley Relay Heats Results|url=http://www.omegatiming.com/File/Download?id=00010A000032000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega]] Timing|date=17 December 2010|access-date=16 August 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 01
+|event = 4×50 m freestyle relay
+|time = 1:30.89
+|recordinfo = h
+|1name = [[Bjoernar Laskerud]]
+|1split = 21.28
+|2name = [[Nicholas Lia]]
+|2split = 21.17
+|3name = [[Mari Moen]]
+|3split = 24.02
+|4name = [[Hedda Oritsland]]
+|4split = 24.42
+|club = {{flagu|Norway}}
+|date = 13 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Mixed 4 × 50 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4x50m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011800080201F30101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=13 December 2024|access-date=13 December 2024}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 02
+|event = 4×50 m medley relay
+|time = 1:38.95
+|recordinfo = 
+|1name = [[Ingeborg Løyning]]
+|1split = 27.16
+|2name = [[Christoffer Haarsaker]]
+|2split = 26.12
+|3name = [[Jenny Halden]]
+|3split = 24.99
+|4name = [[Nicholas Lia]]
+|4split = 20.68
+|club = {{flagu|Norway}}
+|date = 7 November 2021
+|meet = [[2021 European Short Course Swimming Championships|European Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Mixed 4×50m Medley Relay Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMX4X50MMD-----------FNL-000100--_73B1%201.0.pdf?x=17:42:42|work=microplustiming.com|date=7 November 2021|accessdate=7 November 2021}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Norges Svømmeforbund{{!}}NSF|r=no|b=no|sf=no|tt=no|†=no}}
+
+==References==
+;General
+* [https://www.medley.no/rekorder.aspx Norwegian records] <small>''7 December 2025 updated''</small>
+;Specific
+{{Reflist|2}}
+
+==External links==
+* [http://www.svomming.no/ NSF web site]
+* {{cite web|title=Norwegian Swimming Statistics|url=http://www.medley.no/index.aspx|publisher=www.medley.no|access-date=17 July 2011}}
+
+{{International swimming}}
+{{Records in swimming}}
+
+[[Category:National records in swimming|Norway]]
+[[Category:Swimming in Norway|Records]]
+[[Category:Norwegian records|Swimming]]
+[[Category:Norway sport-related lists|Swimming]]

@@ -1,0 +1,216 @@
+{{short description|None}}
+
+{{main|Bobsleigh at the 2022 Winter Olympics}}
+{{Bobsleigh at the 2022 Winter Olympics}}
+The following is about the qualification rules and the quota allocation for the [[Bobsleigh at the 2022 Winter Olympics|bobsleigh]] at the [[2022 Winter Olympics]].<ref name="Qualificationsystems">{{cite web|url=https://www.ibsf.org/images/documents/downloads/OWG_-_YOG/Beijing_2022_-_Qualification_System_-_Bobsleigh_V1.6.pdf|title=Qualification Systems for XXIV Olympic Winter Games, Beijing 2022|publisher=[[International Bobsleigh & Skeleton Federation]]|date=20 March 2020|accessdate=5 January 2022}}</ref>
+
+==Qualification rules==
+A maximum of 170 quota spots are available to athletes to compete at the games. A maximum 124 men and 46 women may qualify. Qualification was based on the world rankings of the 2021/2022 season between 15 October 2020 and 16 January 2022. Pilots must compete in six different races on three different tracks and been ranked in at least five of those races. Additionally, the pilot must been ranked among the top 50 for the man's events or top 40 for the women's events. For the women's races the IBSF combined ranking will be used for the quotas involving multiple sleds, and for the first six individual quotas in monobob.<ref name="Qualificationsystems"/>
+
+For the men's events 30 sleds were available in the two-man event and 28 in the four-man event. Meanwhile, in each of the two women's events, there were 20 sleds available.<ref name="Qualificationsystems"/> A country could enter a maximum of three sleds per event (two in the mono-bob).<ref name="Qualificationsystems"/>
+
+'''NOC's per event'''
+{| class="wikitable sortable" style="text-align:center; font-size:90%"
+! width=100 align="left"| Number of sleds !! width=60 | 2-men !! width=60 | 4-men!! width=120 | Women's monobob !! width=60 |2-women 
+|-
+|3 || 2 || 2|| {{n/a}} || 2
+|-
+|2 || 7 || 7 || 4 || 4
+|-
+|1|| 10 || 8 || 12 || 6
+|-
+! !!30!!28!!20!!20
+|}
+
+==Quota allocation==
+'''Official standings after all 8 World Cups'''<ref>{{cite web|url=https://www.ibsf.org/images/documents/downloads/Quotas/OWG_2022/OWG_Beijing_2022_2-man_Bobsleigh.pdf|title=IBSF Ranking 2-man Bobsleigh (2021/2022) OWG Qualification System|publisher=[[International Bobsleigh & Skeleton Federation]] (IBSF)|website=www.ibsf.org/|date=17 January 2022|accessdate=17 January 2022}}</ref><ref>{{cite web|url=https://www.ibsf.org/images/documents/downloads/Quotas/OWG_2022/OWG_Beijing_2022_4-man_Bobsleigh.pdf|title=IBSF Ranking 4-man Bobsleigh (2021/2022) OWG Qualification System|publisher=[[International Bobsleigh & Skeleton Federation]] (IBSF)|website=www.ibsf.org/|date=17 January 2022|accessdate=17 January 2022}}</ref><ref>{{cite web|url=https://www.ibsf.org/images/documents/downloads/Quotas/OWG_2022/OWG_Beijing_2022_2-woman_and_Womens_Monobob.pdf|title=IBSF Ranking 2-woman Bobsleigh (2021/2022) OWG Qualification System|publisher=[[International Bobsleigh & Skeleton Federation]] (IBSF)|website=www.ibsf.org/|date=17 January 2022|accessdate=17 January 2022}}</ref>
+
+===Current summary===
+The IBSF announced final quotas on January 24, 2022.<ref>{{cite web|url=https://www.ibsf.org/images/documents/downloads/Quotas/OWG_2022/IBSF_OWG_Beijing_2022_-_Bobsleigh_Quotas.pdf|title=XXIV Olympic Winter Games Beijing 2022 Bobsleigh - Participation|publisher=[[International Bobsleigh & Skeleton Federation]] (IBSF)|website=www.ibsf.org/|date=24 January 2022|accessdate=25 January 2022}}</ref>
+{| class="wikitable sortable" width=710 style="text-align:center; font-size:90%"
+!rowspan="2" align="left"| NOC
+!colspan="2"| Men
+!colspan="2"| Women
+!rowspan="2"|Athletes
+|-
+! Two man|| Four man|| Monobob||Two woman 
+|-
+| align="left"| {{flagIOC|AUS|2022 Winter}}|||||| 1|| 1|| '''2'''
+|-
+| align="left"| {{flagIOC|AUT|2022 Winter}}|| 2|| 2|| 1|| 1|| '''10'''
+|-
+| align="left"| {{flagIOC|BEL|2022 Winter}}|||||||| 1|| '''2'''
+|-
+| align="left"| {{flagIOC|BRA|2022 Winter}}|| 1|| 1|||||| '''4'''
+|-
+| align="left"| {{flagIOC|CAN|2022 Winter}}|| 3|| 3|| 2|| 3|| '''18'''
+|-
+| align="left"| {{flagIOC|CHN|2022 Winter}}|| 2|| 2|| 2|| 2|| '''12'''
+|-
+| align="left"| {{flagIOC|CZE|2022 Winter}}|| 1|| 1|||||| '''4'''
+|-
+| align="left"| {{flagIOC|FRA|2022 Winter}}|| 1|| 1|| 1|| 1|| '''6'''
+|-
+| align="left"| {{flagIOC|GER|2022 Winter}}|| 3|| 3|| 2|| 3|| '''18'''
+|-
+| align="left"| {{flagIOC|GBR|2022 Winter}}|| 1|| 1|| || 1|| '''6'''
+|-
+| align="left"| {{flagIOC|ITA|2022 Winter}}|| 1|| 2|| 1|||| '''9'''
+|-
+| align="left"| {{flagIOC|JAM|2022 Winter}}|| 1|| 1|| 1|||| '''5'''
+|-
+| align="left"| {{flagIOC|LAT|2022 Winter}}|| 2|| 1|||||| '''5'''
+|-
+| align="left"| {{flagIOC|MON|2022 Winter}}|| 1|||||||| '''2'''
+|-
+| align="left"| {{flagIOC|NED|2022 Winter}}|| 1|| 1|| 1|||| '''5'''
+|-
+| align="left"| {{flagIOC|ROU|2022 Winter}}|| 1|| 1|| 1|| 1|| '''6'''
+|-
+| align="left"| {{flagIOC|ROC|2022 Winter}}|| 2|| 2|| 1|| 2|| '''12'''
+|-
+| align="left"| {{flagIOC|SVK|2022 Winter}}|||||| 1|||| '''1'''
+|-
+| align="left"| {{flagIOC|KOR|2022 Winter}}|| 2|| 2|| 1|||| '''9'''
+|-
+| align="left"| {{flagIOC|SUI|2022 Winter}}|| 2|| 2|| 1|| 2|| '''12'''
+|-
+| align="left"| {{flagIOC|TRI|2022 Winter}}|| 1|||||||| '''2'''
+|-
+| align="left"| {{flagIOC|UKR|2022 Winter}}|||||| 1|||| '''1'''
+|-
+| align="left"| {{flagIOC|USA|2022 Winter}}|| 2|| 2|| 2|| 2|| '''12'''
+|-
+!Total: 23 NOCs 
+! 30
+! 28
+! 20
+! 20
+! 163
+|}
+{{notelist}}
+
+===Two man===
+{| class="wikitable" width=530
+|-
+!Sleds qualified
+!Countries
+!Athletes total
+!Nation
+|-
+|align=center|3
+|align=center|2
+|align=center|12
+|{{flagIOC|GER|2022 Winter}}<br>{{flagIOC|CAN|2022 Winter}}
+|-
+|align=center|2
+|align=center|7
+|align=center|28
+|{{flagIOC|SUI|2022 Winter}}<br>{{flagIOC|USA|2022 Winter}}<br>{{flagIOC|LAT|2022 Winter}}<br>{{flagIOC|KOR|2022 Winter}}<br>{{flagIOC|CHN|2022 Winter}}<br>{{flagIOC|ROC|2022 Winter}}<br>{{flagIOC|AUT|2022 Winter}}
+|-
+|align=center|1
+|align=center|10
+|align=center|20
+|{{flagIOC|GBR|2022 Winter}}<br>{{flagIOC|FRA|2022 Winter}}<br>{{flagIOC|ROU|2022 Winter}}<br>{{flagIOC|CZE|2022 Winter}}<br>{{flagIOC|ITA|2022 Winter}}<br>{{flagIOC|MON|2022 Winter}}<br>{{flagIOC|BRA|2022 Winter}}<br>{{flagIOC|TTO|2022 Winter}}<br>{{flagIOC|NED|2022 Winter}}<br>{{flagIOC|JAM|2022 Winter}}
+|-
+! 30 !! 19 !! 60 !! 
+|}
+
+===Four man===
+{| class="wikitable" width=530
+|-
+!Sleds qualified
+!Countries
+!Athletes total
+!Nation
+|-
+|align=center|3
+|align=center|2
+|align=center|24
+|{{flagIOC|GER|2022 Winter}}<br>{{flagIOC|CAN|2022 Winter}}
+|-
+|align=center|2
+|align=center|7
+|align=center|56
+|{{flagIOC|ROC|2022 Winter}}<br>{{flagIOC|USA|2022 Winter}}<br>{{flagIOC|SUI|2022 Winter}}<br>{{flagIOC|AUT|2022 Winter}}<br>{{flagIOC|KOR|2022 Winter}}<br>{{flagIOC|CHN|2022 Winter}}<br>{{flagIOC|ITA|2022 Winter}}
+|-
+|align=center|1
+|align=center|8
+|align=center|32
+|{{flagIOC|GBR|2022 Winter}}<br>{{flagIOC|LAT|2022 Winter}}<br>{{flagIOC|FRA|2022 Winter}}<br>{{flagIOC|CZE|2022 Winter}}<br>{{flagIOC|NED|2022 Winter}}<br>{{flagIOC|BRA|2022 Winter}}<br>{{flagIOC|ROU|2022 Winter}}<br>{{flagIOC|JAM|2022 Winter}}
+|-
+! 28 !! 17 !! 112 !! 
+|}
+
+===Women's Monobob===
+{| class="wikitable" width=530
+|-
+!Sleds qualified
+!Countries
+!Athletes total
+!Nation
+|-
+|align=center|2
+|align=center|4
+|align=center|8
+|{{flagIOC|USA|2022 Winter}}<br>{{flagIOC|GER|2022 Winter}}<br>{{flagIOC|CAN|2022 Winter}}<br>{{flagIOC|CHN|2022 Winter}}
+|-
+|align=center|1
+|align=center|12
+|align=center|12
+|{{flagIOC|ROC|2022 Winter}}<br>{{flagIOC|SUI|2022 Winter}}<br>{{flagIOC|ROU|2022 Winter}}<br>{{flagIOC|AUT|2022 Winter}}<br><s>{{flagIOC|GBR|2022 Winter}}</s><br>{{flagIOC|AUS|2022 Winter}}<br>{{flagIOC|NED|2022 Winter}}<br>{{flagIOC|KOR|2022 Winter}}<br>{{flagIOC|FRA|2022 Winter}}<br>{{flagIOC|SVK|2022 Winter}}<br>{{flagIOC|JAM|2022 Winter}}<br>{{flagIOC|UKR|2022 Winter}}<br> {{flagIOC|ITA|2022 Winter}}
+|-
+! 20 !! 16 !! 20 !! 
+|}
+
+===Two woman===
+{| class="wikitable" width=530
+|-
+!Sleds qualified
+!Countries
+!Athletes total
+!Nation
+|-
+|align=center|3
+|align=center|2
+|align=center|12
+|{{flagIOC|GER|2022 Winter}}<br>{{flagIOC|CAN|2022 Winter}}
+|-
+|align=center|2
+|align=center|4
+|align=center|16
+|{{flagIOC|USA|2022 Winter}}<br>{{flagIOC|CHN|2022 Winter}}<br>{{flagIOC|ROC|2022 Winter}}<br>{{flagIOC|SUI|2022 Winter}}
+|-
+|align=center|1
+|align=center|6
+|align=center|12
+|{{flagIOC|ROU|2022 Winter}}<br>{{flagIOC|AUT|2022 Winter}}<br>{{flagIOC|GBR|2022 Winter}}<br>{{flagIOC|AUS|2022 Winter}}<br>{{flagIOC|BEL|2022 Winter}}<br>{{flagIOC|FRA|2022 Winter}}
+|-
+! 20 !! 12 !! 40 !! 
+|}
+
+===Next eligible NOC per event===
+Only NOCs not already qualified are considered. Bolded nations accepted a reallocated quota.
+
+{| class="wikitable"
+|-
+! Two man
+! Four man 
+! Monobob
+! Two woman
+|-
+| valign="top"| {{flagIOC|ISR|2022 Winter}}<br>{{flagIOC|CRO|2022 Winter}}<br>{{flagIOC|DEN|2022 Winter}}<br>{{flagIOC|AUS|2022 Winter}}<br>{{flagIOC|LIE|2022 Winter}}
+| valign="top"| {{flagIOC|CRO|2022 Winter}}<br>{{flagIOC|AUS|2022 Winter}}<br>{{flagIOC|ISR|2022 Winter}}<br>{{flagIOC|LIE|2022 Winter}}<br>{{flagIOC|JPN|2022 Winter}}
+| valign="top"| '''{{flagIOC|ITA|2022 Winter}}'''<br>{{flagIOC|NGR|2022 Winter}}<br>{{flagIOC|BRA|2022 Winter}}<br>{{flagIOC|POL|2022 Winter}}<br>{{flagIOC|VIE}}
+| valign="top"| {{flagIOC|JAM|2022 Winter}}<br>{{flagIOC|KOR|2022 Winter}}<br>{{flagIOC|UKR|2022 Winter}}<br>{{flagIOC|ITA|2022 Winter}}<br>{{flagIOC|VIE}}
+|}
+
+==References==
+{{reflist}}
+
+{{Bobsleigh Qualification at the Winter Olympics}}
+{{Qualification for the 2022 Winter Olympics}}
+
+{{DEFAULTSORT:Bobsleigh at the 2022 Winter Olympics - Qualification}}
+[[Category:Qualification for the 2022 Winter Olympics]]
+[[Category:Bobsleigh at the 2022 Winter Olympics|Qualification]]

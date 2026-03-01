@@ -1,0 +1,531 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox tennis tournament event|2012|Summer Olympics|s
+| champ = {{Plainlist|
+* {{flagicon|USA}} [[Bob Bryan]]
+* {{flagicon|USA}} [[Mike Bryan]]
+}}
+| runner = {{Plainlist|
+* {{flagicon|FRA}} [[Michaël Llodra]]
+* {{flagicon|FRA}} [[Jo-Wilfried Tsonga]]
+}}
+| score = 6–4, 7–6<sup>(7–2)</sup>
+| quadrennial = yes
+| multi = yes
+| type = mixed
+| qual_type = qual
+}}
+{{Infobox Olympic event
+|event = Men's doubles tennis
+|games = 2012 Summer 
+|image = Bryan brothers with medals 2012.jpg
+|image_size = 250px
+|caption = Gold medalists Bob Bryan and Mike Bryan
+|venue = [[All England Lawn Tennis and Croquet Club|All England Club, Wimbledon]]
+|dates = 28 July – 4 August 2012
+|competitors = 64
+|nations = 25
+|gold = [[Bob Bryan]]<br />[[Mike Bryan]]
+|goldNOC = USA
+|silver = [[Jo-Wilfried Tsonga]]<br />[[Michaël Llodra]]
+|silverNOC = FRA
+|bronze = [[Julien Benneteau]]<br />[[Richard Gasquet]]
+|bronzeNOC = FRA
+|prev = [[Tennis at the 2008 Summer Olympics – Men's doubles|2008]]
+|next = [[Tennis at the 2016 Summer Olympics – Men's doubles|2016]]
+}}
+{{main|Tennis at the 2012 Summer Olympics}}
+
+The [[United States at the 2012 Summer Olympics|United States]]' [[Bob Bryan]] and [[Mike Bryan]] defeated [[France at the 2012 Summer Olympics|France]]'s [[Michaël Llodra]] and [[Jo-Wilfried Tsonga]] in the final, 6–4, 7–6<sup>(7–2)</sup> to win the gold medal in Men's Doubles [[tennis]] at the [[2012 Summer Olympics]].<ref>{{cite web|url=https://www.reuters.com/article/sports/tennis-bryan-brothers-reach-summit-with-gold-idUSBRE8730JZ/|title=Tennis: Bryan brothers reach summit with gold|publisher=Reuters|accessdate=10 July 2025}}</ref><ref>{{cite web|url=https://www.espn.com/olympics/summer/2012/tennis/story/_/id/8238836/2012-olympics-bryan-brothers-digging-gold|title=Bryan brothers digging the gold|publisher=ESPN|accessdate=10 July 2025}}</ref> With the win, the [[Bryan brothers]] completed the [[Grand Slam (tennis)#Career Golden Slam|career Golden Slam]], making them the second men's doubles team to do so (after [[the Woodies]]; [[Daniel Nestor]] also completed the career Golden Slam, with multiple partners). Their victory marked the first instance that both Olympic tennis doubles titles were claimed by siblings; fellow Americans [[Serena Williams|Serena]] and [[Venus Williams]] won the [[Tennis at the 2012 Summer Olympics – Women's doubles|women's doubles]] title. It was a record fourth gold medal for the United States in men's doubles. In the bronze-medal match, France's [[Julien Benneteau]] and [[Richard Gasquet]] defeated [[Spain at the 2012 Summer Olympics|Spain]]'s [[David Ferrer]] and [[Feliciano López]], 7–6<sup>(7–4)</sup>, 6–2. With France's silver and bronze, this was the first time since 1924 that one nation won multiple medals in the men's doubles.
+
+The tournament was held at the [[All England Lawn Tennis and Croquet Club|All England Club]] in [[Wimbledon, London]], from 28 July to 4 August, making it the first Olympic [[grass court]] tournament since tennis was re-introduced to the Games.<ref>{{cite web|last=Dries|first=Kate|title=It's grass for tennis players at the London Olympics, for the first time in a long time|url=http://www.wbez.org/blogs/bez/2012-07/its-grass-tennis-players-london-olympics-first-time-long-time-101329|publisher=[[WBEZ]]|access-date=25 August 2012|archive-date=25 September 2015|archive-url=https://web.archive.org/web/20150925203136/http://www.wbez.org/blogs/bez/2012-07/its-grass-tennis-players-london-olympics-first-time-long-time-101329|url-status=dead}}</ref><ref name="Official Site of 2012 Games">{{cite web|url=http://www.london2012.com/tennis/event/men-singles/index.html|title=Tennis|publisher=London 2012 Organization Committee|access-date=7 July 2012|archive-date=4 December 2012|archive-url=https://archive.today/20121204145618/http://www.london2012.com/tennis/event/men-singles/index.html|url-status=dead}}</ref> The event was run and organised by the [[International Olympic Committee]] (IOC) and the [[International Tennis Federation]] (ITF), and was part of the [[Association of Tennis Professionals]] tour. Matches were the best-of-three sets, and [[Tennis score#Scoring a tiebreak game|tie-breaks]] were in use for all sets except the third set.<ref name="about">{{cite web|title=Tennis – About|url=http://www.london2012.com/tennis/about/|publisher=Official site of the London 2012 Olympic and Paralympic Games|access-date=7 July 2012|archive-date=4 December 2012|archive-url=https://archive.today/20121204164833/http://www.london2012.com/tennis/about/|url-status=dead}}</ref> There were 32 teams from 25 countries.<ref name=Olympedia/>
+
+[[Switzerland at the 2012 Summer Olympics|Switzerland]]'s [[Roger Federer]] and [[Stan Wawrinka]] were the defending gold medalists from [[Tennis at the 2008 Summer Olympics – Men's doubles|2008]], but they lost in the second round to [[Israel at the 2012 Summer Olympics|Israel]]'s [[Jonathan Erlich]] and [[Andy Ram]].
+
+==Background==
+This was the 14th appearance of men's doubles tennis. The event has been held at every Summer Olympics where tennis has been on the program: from 1896 to 1924 and then from 1988 to the current program. A demonstration event was held in 1968.
+
+The American pair of [[Bryan brothers]], [[Bob Bryan]] and [[Mike Bryan]], had been the top seed in 2004 but exited in the quarterfinals. They were again the number one seed in Beijing, but were defeated in the semifinals and took bronze. For a third Games, they were the top seed.<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/324142 |work=Olympedia |title=Doubles, Men |access-date=28 December 2020}}</ref> Defending champions [[Roger Federer]] and [[Stan Wawrinka]] also returned. One of the French fourth-place team members, [[Michaël Llodra]], also competed again, this time paired with [[Jo-Wilfried Tsonga]]. 2000 gold medalist [[Daniel Nestor]] (and career golden slam winner) of Canada competed for a fourth Games with his third different partner.
+
+Colombia made its debut in the event. France and Great Britain each made their 11th appearance in the event, tied for most of all nations.
+
+==Qualification==
+{{main|Tennis at the 2012 Summer Olympics – Qualification}}
+
+Qualification for the men's doubles was primarily through the ATP ranking list of 11 June 2012. An additional restriction was that players had to have been available for two [[Davis Cup]] events between 2009 and 2012. Nations had been able to enter four players (two pairs) in the event since the 2004 Games. Each nation was limited to a total of 6 male players in the singles and doubles events combined, so nations with 4 singles players could add only 2 more in doubles. The men's doubles draw was 32 pairs (64 players), with most of the pairs coming from the singles event where nations had 2 or 4 players. Doubles players ranked 10 or better qualified directly and could bring any ranked singles or doubles player from their nation as their partner. The ITF allocated places based on ranking and continental and national representation (bringing the total number of male tennis players to 86).
+
+==Competition format==
+
+The competition was a single-elimination tournament with a bronze-medal match. All matches were best-of-three sets; the final was reduced from best-of-five in prior Games. Tiebreaks were used for any set before the third (fifth in the final) that reached 6–6.
+
+==Schedule==
+
+{| class="wikitable" style="text-align:center"
+!colspan=4|July
+!colspan=4|August
+|-
+!width=80|28
+!width=80|29
+!width=100|30
+!width=80|31
+!width=80|1
+!width=100|2
+!width=100|3
+!width=150|4
+|-
+!11:30
+!11:30
+!11:30
+!11:30
+!11:30
+!11:30
+!12:00
+!12:00
+|-
+|colspan="2"|Round of 32
+|Round of 32<br />Round of 16
+|colspan="2"|Round of 16
+|Quarter-finals
+|Semi-finals
+|bgcolor="FFDF80"|Bronze medal match<br />Gold medal match
+|-
+|}
+
+== Seeds ==
+{{columns-list|colwidth=30em|
+# {{flagIOCathlete|[[Bob Bryan]]|USA|2012 Summer}} / {{flagIOCathlete|[[Mike Bryan]]|USA|2012 Summer}} '''(winners, gold medalists)'''
+# {{flagIOCathlete|[[Michaël Llodra]]|FRA|2012 Summer}} / {{flagIOCathlete|[[Jo-Wilfried Tsonga]]|FRA|2012 Summer}} ''(final, silver medalists)''
+# {{flagIOCathlete|[[Janko Tipsarević]]|SRB|2012 Summer}} / {{flagIOCathlete|[[Nenad Zimonjić]]|SRB|2012 Summer}} ''(quarterfinals)''
+# {{flagIOCathlete|[[Mariusz Fyrstenberg]]|POL|2012 Summer}} / {{flagIOCathlete|[[Marcin Matkowski]]|POL|2012 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Tomáš Berdych]]|CZE|2012 Summer}} / {{flagIOCathlete|[[Radek Štěpánek]]|CZE|2012 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Roger Federer]]|SUI|2012 Summer}} / {{flagIOCathlete|[[Stan Wawrinka|Stanislas Wawrinka]]|SUI|2012 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Mahesh Bhupathi]]|IND|2012 Summer}} / {{flagIOCathlete|[[Rohan Bopanna]]|IND|2012 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Novak Djokovic]]|SRB|2012 Summer}} / {{flagIOCathlete|[[Viktor Troicki]]|SRB|2012 Summer}} ''(first round)''
+}}
+
+== Draw ==
+
+===Key===
+{{col-begin}}
+{{col-2}}
+* INV = [[Tennis at the 2012 Summer Olympics – Qualification#Qualifying criteria|Tripartite invitation]]
+* IP = [[Tennis at the 2012 Summer Olympics – Qualification#Qualifying criteria|ITF place]]
+* Alt = [[Alternate (tennis)|Alternate]]
+{{col-2}}
+* w/o = [[walkover (tennis)|Walkover]]
+* r = [[Retired (tennis)|Retired]]
+* d = [[Default (tennis)|Defaulted]]
+{{col-end}}
+
+=== Finals ===
+{{4TeamBracket-Tennis3-with third
+|RD1=Semi-finals
+|RD2=Final (gold-medal match)
+|3rd=Bronze-medal match
+|team-width=175
+
+|RD1-seed1=1
+|RD1-team1='''{{flagIOCathlete|[[Bob Bryan]]|USA|2012 Summer}}<br />{{flagIOCathlete|[[Mike Bryan]]|USA|2012 Summer}}'''
+|RD1-score1-1='''6'''
+|RD1-score1-2='''6'''
+|RD1-score1-3=
+|RD1-seed2=&nbsp;
+|RD1-team2={{flagIOCathlete|[[Julien Benneteau]]|FRA|2012 Summer}}<br />{{flagIOCathlete|[[Richard Gasquet]]|FRA|2012 Summer}}
+|RD1-score2-1=4
+|RD1-score2-2=4
+|RD1-score2-3=
+
+|RD1-seed3=&nbsp;
+|RD1-team3={{flagIOCathlete|[[David Ferrer]]|ESP|2012 Summer}}<br />{{flagIOCathlete|[[Feliciano López]]|ESP|2012 Summer}}
+|RD1-score3-1=3
+|RD1-score3-2='''6'''
+|RD1-score3-3=16
+|RD1-seed4=2
+|RD1-team4={{nowrap|'''{{flagIOCathlete|[[Michaël Llodra]]|FRA|2012 Summer}}<br />{{flagIOCathlete|[[Jo-Wilfried Tsonga]]|FRA|2012 Summer}}'''}}
+|RD1-score4-1='''6'''
+|RD1-score4-2=4
+|RD1-score4-3='''18'''
+
+|RD2-seed1=1
+|RD2-team1='''{{flagIOCathlete|[[Bob Bryan]]|USA|2012 Summer}}<br />{{flagIOCathlete|[[Mike Bryan]]|USA|2012 Summer}}'''
+|RD2-score1-1='''6'''
+|RD2-score1-2='''7<sup>7</sup>'''
+|RD2-score1-3=
+|RD2-seed2=2
+|RD2-team2={{nowrap|{{flagIOCathlete|[[Michaël Llodra]]|FRA|2012 Summer}}<br />{{flagIOCathlete|[[Jo-Wilfried Tsonga]]|FRA|2012 Summer}}}}
+|RD2-score2-1=4
+|RD2-score2-2=6<sup>2</sup>
+|RD2-score2-3=
+
+|3rd-seed1=&nbsp;
+|3rd-team1='''{{nowrap|{{flagIOCathlete|[[Julien Benneteau]]|FRA|2012 Summer}}}}<br />{{flagIOCathlete|[[Richard Gasquet]]|FRA|2012 Summer}}'''
+|3rd-score1-1='''7<sup>7</sup>'''
+|3rd-score1-2='''6'''
+|3rd-score1-3=
+|3rd-seed2=&nbsp;
+|3rd-team2={{flagIOCathlete|[[David Ferrer]]|ESP|2012 Summer}}<br />{{flagIOCathlete|[[Feliciano López]]|ESP|2012 Summer}}
+|3rd-score2-1=6<sup>4</sup>
+|3rd-score2-2=2
+|3rd-score2-3=
+}}
+
+=== Top half ===
+{{16TeamBracket-Compact-Tennis3
+|RD1=First round
+|RD2=Second round
+|RD3=Quarter-finals
+|RD4=Semi-finals
+
+|RD1-seed01=1
+|RD1-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2012 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2012 Summer}}'''
+|RD1-score01-1='''7<sup>7</sup>'''
+|RD1-score01-2=6<sup>5</sup>
+|RD1-score01-3='''6'''
+|RD1-seed02=IP
+|RD1-team02={{flagIOCathlete|[[Thomaz Bellucci|T Bellucci]]|BRA|2012 Summer}}<br/>{{flagIOCathlete|[[André Sá|A Sá]]|BRA|2012 Summer}} 
+|RD1-score02-1=6<sup>5</sup>
+|RD1-score02-2='''7<sup>7</sup>'''
+|RD1-score02-3=3
+
+|RD1-seed03=
+|RD1-team03={{flagIOCathlete|[[Christopher Kas|C Kas]]|GER|2012 Summer}}<br/>{{flagIOCathlete|[[Philipp Petzschner|P Petzschner]]|GER|2012 Summer}} 
+|RD1-score03-1=5
+|RD1-score03-2=5
+|RD1-score03-3=
+|RD1-seed04=IP
+|RD1-team04={{nowrap|'''{{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2012 Summer}}<br/>{{flagIOCathlete|[[Mikhail Youzhny|M Youzhny]]|RUS|2012 Summer}}'''}}
+|RD1-score04-1='''7'''
+|RD1-score04-2='''7'''
+|RD1-score04-3=
+ 
+|RD1-seed05=
+|RD1-team05={{flagIOCathlete|[[Marcel Granollers|M Granollers]]|ESP|2012 Summer}}<br/>{{flagIOCathlete|[[Marc López|M López]]|ESP|2012 Summer}}  
+|RD1-score05-1=6<sup>5</sup>
+|RD1-score05-2=6<sup>3</sup>
+|RD1-score05-3=
+|RD1-seed06=IP
+|RD1-team06='''{{flagIOCathlete|[[Jonathan Erlich|J Erlich]]|ISR|2012 Summer}}<br/>{{flagIOCathlete|[[Andy Ram|A Ram]]|ISR|2012 Summer}}'''
+|RD1-score06-1='''7<sup>7</sup>'''
+|RD1-score06-2='''7<sup>7</sup>'''
+|RD1-score06-3=
+ 
+|RD1-seed07=IP
+|RD1-team07={{flagIOCathlete|[[Kei Nishikori|K Nishikori]]|JPN|2012 Summer}}<br/>{{flagIOCathlete|[[Go Soeda|G Soeda]]|JPN|2012 Summer}}
+|RD1-score07-1='''7<sup>7</sup>'''
+|RD1-score07-2=4
+|RD1-score07-3=4
+|RD1-seed08=6
+|RD1-team08='''{{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2012 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2012 Summer}}'''
+|RD1-score08-1=6<sup>5</sup>
+|RD1-score08-2='''6'''
+|RD1-score08-3='''6'''
+
+|RD1-seed09=3
+|RD1-team09='''{{flagIOCathlete|[[Janko Tipsarević|J Tipsarević]]|SRB|2012 Summer}}<br/>{{flagIOCathlete|[[Nenad Zimonjić|N Zimonjić]]|SRB|2012 Summer}}'''
+|RD1-score09-1='''6'''
+|RD1-score09-2='''6'''
+|RD1-score09-3=
+|RD1-seed10=IP
+|RD1-team10={{flagIOCathlete|[[Martin Kližan|M Kližan]]|SVK|2012 Summer}}<br/>{{flagIOCathlete|[[Lukáš Lacko|L Lacko]]|SVK|2012 Summer}}
+|RD1-score10-1=3
+|RD1-score10-2=3
+|RD1-score10-3=
+
+|RD1-seed11=
+|RD1-team11='''{{flagIOCathlete|[[Daniel Nestor|D Nestor]]|CAN|2012 Summer}}<br/>{{flagIOCathlete|[[Vasek Pospisil|V Pospisil]]|CAN|2012 Summer}}'''
+|RD1-score11-1='''6'''
+|RD1-score11-2='''7<sup>11</sup>'''
+|RD1-score11-3=
+|RD1-seed12=IP
+|RD1-team12={{flagIOCathlete|[[Horia Tecău|H Tecău]]|ROU|2012 Summer}}<br/>{{flagIOCathlete|[[Adrian Ungur|A Ungur]]|ROU|2012 Summer}}
+|RD1-score12-1=3
+|RD1-score12-2=6<sup>9</sup>
+|RD1-score12-3=
+ 
+|RD1-seed13=
+|RD1-team13={{flagIOCathlete|[[Colin Fleming|C Fleming]]|GBR|2012 Summer}}<br/>{{flagIOCathlete|[[Ross Hutchins|R Hutchins]]|GBR|2012 Summer}} 
+|RD1-score13-1=5
+|RD1-score13-2=3
+|RD1-score13-3=
+|RD1-seed14=
+|RD1-team14='''{{flagIOCathlete|[[Julien Benneteau|J Benneteau]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Richard Gasquet|R Gasquet]]|FRA|2012 Summer}}'''
+|RD1-score14-1='''7'''
+|RD1-score14-2='''6'''
+|RD1-score14-3=
+ 
+|RD1-seed15=
+|RD1-team15={{flagIOCathlete|[[Aliaksandr Bury|A Bury]]|BLR|2012 Summer}}<br/>{{flagIOCathlete|[[Max Mirnyi|M Mirnyi]]|BLR|2012 Summer}}
+|RD1-score15-1=6<sup>4</sup>
+|RD1-score15-2='''7<sup>7</sup>'''
+|RD1-score15-3=6
+|RD1-seed16=7
+|RD1-team16='''{{flagIOCathlete|[[Mahesh Bhupathi|M Bhupathi]]|IND|2012 Summer}}<br/>{{flagIOCathlete|[[Rohan Bopanna|R Bopanna]]|IND|2012 Summer}}'''
+|RD1-score16-1='''7<sup>7</sup>'''
+|RD1-score16-2=6<sup>4</sup>
+|RD1-score16-3='''8'''
+ 
+|RD2-seed01=1
+|RD2-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2012 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2012 Summer}}'''
+|RD2-score01-1='''7<sup>8</sup>'''
+|RD2-score01-2='''7<sup>7</sup>'''
+|RD2-score01-3=
+|RD2-seed02=IP
+|RD2-team02={{nowrap|{{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2012 Summer}}<br/>{{flagIOCathlete|[[Mikhail Youzhny|M Youzhny]]|RUS|2012 Summer}}}}
+|RD2-score02-1=6<sup>6</sup>
+|RD2-score02-2=6<sup>1</sup>
+|RD2-score02-3=
+
+|RD2-seed03=IP
+|RD2-team03='''{{flagIOCathlete|[[Jonathan Erlich|J Erlich]]|ISR|2012 Summer}}<br/>{{flagIOCathlete|[[Andy Ram|A Ram]]|ISR|2012 Summer}}'''
+|RD2-score03-1=1
+|RD2-score03-2='''7<sup>7</sup>'''
+|RD2-score03-3='''6'''
+|RD2-seed04=6
+|RD2-team04={{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2012 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2012 Summer}}
+|RD2-score04-1='''6'''
+|RD2-score04-2=6<sup>5</sup>
+|RD2-score04-3=3
+
+|RD2-seed05=3
+|RD2-team05='''{{nowrap|{{flagIOCathlete|[[Janko Tipsarević|J Tipsarević]]|SRB|2012 Summer}}}}<br/>{{flagIOCathlete|[[Nenad Zimonjić|N Zimonjić]]|SRB|2012 Summer}}'''
+|RD2-score05-1='''6'''
+|RD2-score05-2=6<sup>5</sup>
+|RD2-score05-3='''11'''
+|RD2-seed06=
+|RD2-team06={{flagIOCathlete|[[Daniel Nestor|D Nestor]]|CAN|2012 Summer}}<br/>{{flagIOCathlete|[[Vasek Pospisil|V Pospisil]]|CAN|2012 Summer}}
+|RD2-score06-1=4
+|RD2-score06-2='''7<sup>7</sup>'''
+|RD2-score06-3=9
+
+|RD2-seed07=
+|RD2-team07='''{{nowrap|{{flagIOCathlete|[[Julien Benneteau|J Benneteau]]|FRA|2012 Summer}}}}<br/>{{flagIOCathlete|[[Richard Gasquet|R Gasquet]]|FRA|2012 Summer}}'''
+|RD2-score07-1='''6'''
+|RD2-score07-2='''6'''
+|RD2-score07-3=
+|RD2-seed08=7
+|RD2-team08={{flagIOCathlete|[[Mahesh Bhupathi|M Bhupathi]]|IND|2012 Summer}}<br/>{{flagIOCathlete|[[Rohan Bopanna|R Bopanna]]|IND|2012 Summer}}
+|RD2-score08-1=3
+|RD2-score08-2=4
+|RD2-score08-3=
+
+|RD3-seed01=1
+|RD3-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2012 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2012 Summer}}'''
+|RD3-score01-1='''7<sup>7</sup>'''
+|RD3-score01-2='''7<sup>12</sup>'''
+|RD3-score01-3=
+|RD3-seed02=IP
+|RD3-team02={{flagIOCathlete|[[Jonathan Erlich|J Erlich]]|ISR|2012 Summer}}<br/>{{flagIOCathlete|[[Andy Ram|A Ram]]|ISR|2012 Summer}}
+|RD3-score02-1=6<sup>4</sup>
+|RD3-score02-2=6<sup>10</sup>
+|RD3-score02-3=
+
+|RD3-seed03=3
+|RD3-team03={{flagIOCathlete|[[Janko Tipsarević|J Tipsarević]]|SRB|2012 Summer}}<br/>{{flagIOCathlete|[[Nenad Zimonjić|N Zimonjić]]|SRB|2012 Summer}}
+|RD3-score03-1=4
+|RD3-score03-2=6<sup>3</sup>
+|RD3-score03-3=
+|RD3-seed04=
+|RD3-team04={{nowrap|'''{{flagIOCathlete|[[Julien Benneteau|J Benneteau]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Richard Gasquet|R Gasquet]]|FRA|2012 Summer}}'''}}
+|RD3-score04-1='''6'''
+|RD3-score04-2='''7<sup>7</sup>'''
+|RD3-score04-3=
+
+|RD4-seed01=1
+|RD4-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2012 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2012 Summer}}'''
+|RD4-score01-1='''6'''
+|RD4-score01-2='''6'''
+|RD4-score01-3=
+|RD4-seed02=
+|RD4-team02={{nowrap|{{flagIOCathlete|[[Julien Benneteau|J Benneteau]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Richard Gasquet|R Gasquet]]|FRA|2012 Summer}}}}
+|RD4-score02-1=4
+|RD4-score02-2=4
+|RD4-score02-3=
+}}
+
+=== Bottom half ===
+{{16TeamBracket-Compact-Tennis3
+|RD1=First round
+|RD2=Second round
+|RD3=Quarter-finals
+|RD4=Semi-finals
+
+|RD1-seed01=8
+|RD1-team01={{flagIOCathlete|[[Novak Djokovic|N Djokovic]]|SRB|2012 Summer}}<br/>{{flagIOCathlete|[[Viktor Troicki|V Troicki]]|SRB|2012 Summer}}
+|RD1-score01-1=6<sup>8</sup>
+|RD1-score01-2=3
+|RD1-score01-3=
+|RD1-seed02=
+|RD1-team02='''{{nowrap|{{flagIOCathlete|[[Johan Brunström|J Brunström]]|SWE|2012 Summer}}}}<br/>{{nowrap|{{flagIOCathlete|[[Robert Lindstedt|R Lindstedt]]|SWE|2012 Summer}}}}'''
+|RD1-score02-1='''7<sup>10</sup>'''
+|RD1-score02-2='''6'''
+|RD1-score02-3=
+
+|RD1-seed03=
+|RD1-team03='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2012 Summer}}<br/>{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2012 Summer}}'''
+|RD1-score03-1='''6'''
+|RD1-score03-2='''6'''
+|RD1-score03-3=
+|RD1-seed04=IP
+|RD1-team04={{flagIOCathlete|[[Juan Sebastián Cabal|JS Cabal]]|COL|2012 Summer}}<br/>{{flagIOCathlete|[[Santiago Giraldo|S Giraldo]]|COL|2012 Summer}}
+|RD1-score04-1=3
+|RD1-score04-2=4
+|RD1-score04-3=
+ 
+|RD1-seed05=
+|RD1-team05='''{{flagIOCathlete|[[Jürgen Melzer|J Melzer]]|AUT|2012 Summer}}<br/>{{flagIOCathlete|[[Alexander Peya|A Peya]]|AUT|2012 Summer}}'''
+|RD1-score05-1=5
+|RD1-score05-2='''7<sup>8</sup>'''
+|RD1-score05-3='''7'''
+|RD1-seed06=
+|RD1-team06={{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2012 Summer}}<br/>{{flagIOCathlete|[[Jamie Murray|J Murray]]|GBR|2012 Summer}}
+|RD1-score06-1='''7'''
+|RD1-score06-2=6<sup>6</sup>
+|RD1-score06-3=5
+ 
+|RD1-seed07=
+|RD1-team07='''{{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2012 Summer}}<br/>{{flagIOCathlete|[[Feliciano López|F López]]|ESP|2012 Summer}}'''
+|RD1-score07-1='''7<sup>9</sup>'''
+|RD1-score07-2=6<sup>6</sup>
+|RD1-score07-3='''8'''
+|RD1-seed08=4
+|RD1-team08={{nowrap|{{flagIOCathlete|[[Mariusz Fyrstenberg|M Fyrstenberg]]|POL|2012 Summer}}<br/>{{flagIOCathlete|[[Marcin Matkowski|M Matkowski]]|POL|2012 Summer}}}}
+|RD1-score08-1=6<sup>7</sup>
+|RD1-score08-2='''7<sup>8</sup>'''
+|RD1-score08-3=6
+
+|RD1-seed09=5
+|RD1-team09='''{{flagIOCathlete|[[Tomáš Berdych|T Berdych]]|CZE|2012 Summer}}<br/>{{flagIOCathlete|[[Radek Štěpánek|R Štěpánek]]|CZE|2012 Summer}}'''
+|RD1-score09-1=4
+|RD1-score09-2='''7<sup>7</sup>'''
+|RD1-score09-3='''6'''
+|RD1-seed10=
+|RD1-team10={{flagIOCathlete|[[Daniele Bracciali|D Bracciali]]|ITA|2012 Summer}}<br/>{{flagIOCathlete|[[Andreas Seppi|A Seppi]]|ITA|2012 Summer}}
+|RD1-score10-1='''6'''
+|RD1-score10-2=6<sup>5</sup>
+|RD1-score10-3=4
+
+|RD1-seed11=
+|RD1-team11={{flagIOCathlete|[[John Isner|J Isner]]|USA|2012 Summer}}<br/>{{flagIOCathlete|[[Andy Roddick|A Roddick]]|USA|2012 Summer}}
+|RD1-score11-1=2
+|RD1-score11-2=4
+|RD1-score11-3=
+|RD1-seed12=
+|RD1-team12='''{{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2012 Summer}}<br/>{{flagIOCathlete|[[Bruno Soares|B Soares]]|BRA|2012 Summer}}'''
+|RD1-score12-1='''6'''
+|RD1-score12-2='''6'''
+|RD1-score12-3=
+ 
+|RD1-seed13=
+|RD1-team13={{flagIOCathlete|[[Robin Haase|R Haase]]|NED|2012 Summer}}<br/>{{flagIOCathlete|[[Jean-Julien Rojer|J-J Rojer]]|NED|2012 Summer}}
+|RD1-score13-1=6<sup>1</sup>
+|RD1-score13-2='''6'''
+|RD1-score13-3=2
+|RD1-seed14=
+|RD1-team14='''{{flagIOCathlete|[[Leander Paes|L Paes]]|IND|2012 Summer}}<br/>{{flagIOCathlete|[[Vishnu Vardhan|V Vardhan]]|IND|2012 Summer}} '''
+|RD1-score14-1='''7'''<sup>7</sup>
+|RD1-score14-2=4
+|RD1-score14-3='''6'''
+ 
+|RD1-seed15=IP
+|RD1-team15={{flagIOCathlete|[[David Nalbandian|D Nalbandian]]|ARG|2012 Summer}}<br/>{{flagIOCathlete|[[Eduardo Schwank|E Schwank]]|ARG|2012 Summer}}
+|RD1-score15-1=3
+|RD1-score15-2=5
+|RD1-score15-3=
+|RD1-seed16=2
+|RD1-team16='''{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Jo-Wilfried Tsonga|J-W Tsonga]]|FRA|2012 Summer}}'''
+|RD1-score16-1='''6'''
+|RD1-score16-2='''7'''
+|RD1-score16-3=
+ 
+|RD2-seed01=
+|RD2-team01={{nowrap|{{flagIOCathlete|[[Johan Brunström|J Brunström]]|SWE|2012 Summer}}<br/>{{flagIOCathlete|[[Robert Lindstedt|R Lindstedt]]|SWE|2012 Summer}}}}
+|RD2-score01-1=3
+|RD2-score01-2=2
+|RD2-score01-3=
+|RD2-seed02=
+|RD2-team02='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2012 Summer}}<br/>{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2012 Summer}}'''
+|RD2-score02-1='''6'''
+|RD2-score02-2='''6'''
+|RD2-score02-3=
+
+|RD2-seed03=
+|RD2-team03={{flagIOCathlete|[[Jürgen Melzer|J Melzer]]|AUT|2012 Summer}}<br/>{{flagIOCathlete|[[Alexander Peya|A Peya]]|AUT|2012 Summer}}
+|RD2-score03-1=3
+|RD2-score03-2='''6'''
+|RD2-score03-3=9
+|RD2-seed04=
+|RD2-team04='''{{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2012 Summer}}<br/>{{flagIOCathlete|[[Feliciano López|F López]]|ESP|2012 Summer}}'''
+|RD2-score04-1='''6'''
+|RD2-score04-2=3
+|RD2-score04-3='''11'''
+
+|RD2-seed05=5
+|RD2-team05={{flagIOCathlete|[[Tomáš Berdych|T Berdych]]|CZE|2012 Summer}}<br/>{{flagIOCathlete|[[Radek Štěpánek|R Štěpánek]]|CZE|2012 Summer}}
+|RD2-score05-1='''6'''
+|RD2-score05-2=4
+|RD2-score05-3=22
+|RD2-seed06=
+|RD2-team06='''{{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2012 Summer}}<br/>{{flagIOCathlete|[[Bruno Soares|B Soares]]|BRA|2012 Summer}}'''
+|RD2-score06-1=1
+|RD2-score06-2='''6'''
+|RD2-score06-3='''24'''
+
+|RD2-seed07=
+|RD2-team07={{flagIOCathlete|[[Leander Paes|L Paes]]|IND|2012 Summer}}<br/>{{flagIOCathlete|[[Vishnu Vardhan|V Vardhan]]|IND|2012 Summer}} 
+|RD2-score07-1=6<sup>3</sup>
+|RD2-score07-2='''6'''
+|RD2-score07-3=3
+|RD2-seed08=2
+|RD2-team08='''{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2012 Summer}}<br/>{{nowrap|{{flagIOCathlete|[[Jo-Wilfried Tsonga|J-W Tsonga]]|FRA|2012 Summer}}}}'''
+|RD2-score08-1='''7<sup>7</sup>'''
+|RD2-score08-2=4
+|RD2-score08-3='''6'''
+
+|RD3-seed01=
+|RD3-team01={{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2012 Summer}}<br/>{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2012 Summer}}
+|RD3-score01-1=4
+|RD3-score01-2=4
+|RD3-score01-3=
+|RD3-seed02=
+|RD3-team02='''{{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2012 Summer}}<br/>{{flagIOCathlete|[[Feliciano López|F López]]|ESP|2012 Summer}}'''
+|RD3-score02-1='''6'''
+|RD3-score02-2='''6'''
+|RD3-score02-3=
+
+|RD3-seed03=
+|RD3-team03={{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2012 Summer}}<br/>{{flagIOCathlete|[[Bruno Soares|B Soares]]|BRA|2012 Summer}}
+|RD3-score03-1=4
+|RD3-score03-2=2
+|RD3-score03-3=
+|RD3-seed04=2
+|RD3-team04={{nowrap|'''{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Jo-Wilfried Tsonga|J-W Tsonga]]|FRA|2012 Summer}}'''}}
+|RD3-score04-1='''6'''
+|RD3-score04-2='''6'''
+|RD3-score04-3=
+
+|RD4-seed01=
+|RD4-team01={{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2012 Summer}}<br/>{{flagIOCathlete|[[Feliciano López|F López]]|ESP|2012 Summer}}
+|RD4-score01-1=3
+|RD4-score01-2='''6'''
+|RD4-score01-3=16
+|RD4-seed02=2
+|RD4-team02={{nowrap|'''{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2012 Summer}}<br/>{{flagIOCathlete|[[Jo-Wilfried Tsonga|J-W Tsonga]]|FRA|2012 Summer}}'''}}
+|RD4-score02-1='''6'''
+|RD4-score02-2=4
+|RD4-score02-3='''18'''
+}}
+
+==References==
+{{reflist}}
+[http://2012.itftennis.com/media/124966/124966.pdf Men's Doubles Draw] {{Webarchive|url=https://web.archive.org/web/20120813152133/http://2012.itftennis.com/media/124966/124966.pdf |date=13 August 2012 }}
+
+{{Footer Olympic Champions Tennis Men's Doubles}}
+{{2012 ATP World Tour}}
+{{Men's Doubles Tennis at the Summer Olympics}}
+
+{{DEFAULTSORT:Tennis at the 2012 Summer Olympics - Men's doubles}}
+[[Category:Men's doubles tennis at the Summer Olympics|2012]]
+[[Category:Tennis at the 2012 Summer Olympics]]
+[[Category:2012 in men's tennis]]
+[[Category:Men's events at the 2012 Summer Olympics]]
+[[Category:Events at the All England Lawn Tennis and Croquet Club]]

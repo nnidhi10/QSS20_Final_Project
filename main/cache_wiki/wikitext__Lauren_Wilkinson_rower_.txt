@@ -1,0 +1,55 @@
+{{Short description|Canadian rower (born 1989)}}
+{{Use mdy dates|date=October 2024}}
+{{Infobox sportsperson
+| sport = [[rowing (sport)|Rowing]]
+| name = Lauren Wilkinson
+| image = 
+| nationality = [[Canadians|Canadian]]
+| club = [[Burnaby Lake Rowing Club]]
+| birth_date = {{birth-date and age|October 17, 1989}}
+| birth_place = [[Vancouver]], [[British Columbia]], Canada
+| headercolor = lightsteelblue
+| show-medals = yes
+| medaltemplates = {{MedalSport|Women's [[Rowing (sport)|Rowing]]}}
+{{MedalCountry|{{CAN}}}}
+{{MedalOlympic}}
+{{MedalSilver|[[2012 Summer Olympics|2012 London]]|[[Rowing at the 2012 Summer Olympics – Women's eight|Women's eights]]}}
+{{MedalCompetition|[[World Rowing Championships|World Championships]]}}
+{{MedalGold|[[2011 World Rowing Under 23 Championships|2011 Amsterdam]]|W8+}}
+{{MedalSilver|[[2014 World Rowing Championships|2014 Amsterdam]]|W8+}}
+{{MedalBronze|[[2015 World Rowing Championships|2015 Aiguebelette]]|W8+}}
+}}
+'''Lauren Wilkinson''' (born October 17, 1989) is a Canadian [[Rowing (sport)|rower]]. She is a 2 time Olympian. She graduated from [[Princeton University]] in 2011 with a degree in Ecology and Evolutionary Biology.<ref name=":0" /> During her senior year at Princeton, Wilkinson stroked the crew that won the I Eight event at the 2011 [[National Collegiate Athletic Association|NCAA]] Championships. Wilkinson attended [[Crofton House School]], graduating in 2007. She was awarded the Alumnae Association's Achievement Award of [[Crofton House School]] in 2013.<ref>{{cite news |publisher=Crofton House School|title=Lauren Wilkinson '07: The Journey to Success
+|url=https://www.croftonhouse.ca/page.cfm?p=2512 |location=Vancouver, British Columbia, Canada |access-date=21 May 2018 }}</ref>
+
+In 2012, Wilkinson won a silver medal at the [[2012 Summer Olympics|London Olympics]] with her coxed women's eight,<ref>{{Cite news|url=https://www.olympic.org/london-2012/rowing/eight-with-coxswain-8-women|title=London 2012 eight with coxswain 8 women - Olympic Rowing|date=2017-06-03|work=International Olympic Committee|access-date=2018-05-22|language=en}}</ref> and in June 2016, she was officially named to [[Canada at the 2016 Summer Olympics#Rowing|Canada's 2016 Olympic team]].<ref>{{cite news |last=Ewing |first=Lori |date=28 June 2016 |title=Canada announces 26-member Olympic rowing team |url=http://www.cbc.ca/sports/olympics/rio2016/rowing/canada-olympic-rowing-crews-announced-1.3655741 |newspaper=[[Canadian Press]] |location=Toronto, Ontario, Canada |access-date=28 June 2016 }}</ref> At the [[2016 Summer Olympics|Rio 2016 Olympic Games]], Wilkinson placed 5th in the A Final for the coxed women's eight.<ref>{{Cite news|url=https://www.olympic.org/rio-2016/rowing/eight-with-coxswain-8-women|title=Rio 2016 eight with coxswain (8+) women - Olympic Rowing|date=2017-06-23|work=International Olympic Committee|access-date=2018-05-22|language=en}}</ref>
+
+== Personal life ==
+Lauren Wilkinson is a younger sister to Jerome and [[Michael Wilkinson (rower)|Michael Wilkinson]]. Jerome Wilkinson rowed at the collegiate and provincial level. [[Michael Wilkinson (rower)|Michael Wilkinson]] also rowed at the [[2012 Summer Olympics]], who was a member of the Olympic rowing team with Lauren. Parents David and Susan Wilkinson were both national team rowers as well. Lauren first got into rowing at the age of 11, following her brothers into the sport. Wilkinson enjoys photography, reading, and hiking.<ref name=":0">{{Cite news|url=https://olympic.ca/team-canada/lauren-wilkinson-1/|title=Lauren Wilkinson|date=2012-06-29|work=Team Canada - Official 2018 Olympic Team Website|access-date=2018-05-21|language=en-US}}</ref>
+
+==See also==
+*[[List of Princeton University Olympians]]
+
+==References==
+{{reflist}}
+* {{FISA|25682}}
+
+{{DEFAULTSORT:Wilkinson, Lauren}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:Rowers at the 2012 Summer Olympics]]
+[[Category:Olympic silver medalists for Canada]]
+[[Category:Olympic medalists in rowing]]
+[[Category:Rowers from Vancouver]]
+[[Category:Sportswomen from British Columbia]]
+[[Category:Canadian female rowers]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Princeton University alumni]]
+[[Category:World Rowing Championships medalists for Canada]]
+[[Category:Rowers at the 2016 Summer Olympics]]
+[[Category:Olympic rowers for Canada]]
+[[Category:21st-century Canadian sportswomen]]
+[[Category:Princeton Tigers women's rowers]]
+
+{{Canada-rowing-bio-stub}}
+{{Canada-Olympic-medalist-stub}}

@@ -1,0 +1,58 @@
+{{short description|Swiss freestyle skier}}
+{{Infobox sportsperson
+| headercolor = 
+| name           = Luca Schuler
+| image          = 
+| imagesize      = 
+| caption        =
+| birth_name     =  
+| fullname       = 
+| nickname       = 
+| nationality    = 
+| residence      = 
+| birth_date     = {{birth date and age|1998|1|17|df=y}}
+| birth_place    = [[Schwyz]], Switzerland
+| death_date     = 
+| death_place    = 
+| height         = 
+| weight         = 
+| website        = 
+| country        = Switzerland
+| sport          = [[Freestyle skiing]]
+| event          = Slopestyle
+| club           =   
+| team           =  
+| turnedpro      = 
+| coach          = 
+| retired        = 
+| coaching       = 
+| worlds         = 
+| regionals      = 
+| nationals      = 
+| olympics       = 1 ([[2014 Winter Olympics|2014]])
+|medaltemplates = 
+}}
+
+'''Luca Schuler''' (born 17 January 1998) is a Swiss [[freestyle skiing|freestyle skier]]. He was born in [[Schwyz]]. 
+He competed at the [[2014 Winter Olympics]] in [[Sochi]], in [[Freestyle skiing at the 2014 Winter Olympics – Men's slopestyle|slopestyle]].<ref>{{cite web |url=https://www.olympic.org/luca-schuler |title=Luca Schuler |website=Olympic.org |accessdate=29 January 2017}}</ref><ref>{{cite web |url=https://www.olympic.org/sochi-2014/freestyle-skiing/ski-slopestyle-men |title=Ski slopestyle men |website=Olympic.org |accessdate=29 January 2017}}</ref><ref>{{cite Sports-Reference |title=Luca Schuler |url=https://www.sports-reference.com/olympics/athletes/sc/luca-schuler-1.html |access-date=29 January 2017 |url-status=dead |archive-url=https://web.archive.org/web/20161011095322/http://www.sports-reference.com/olympics/athletes/sc/luca-schuler-1.html |archive-date=11 October 2016 |df=dmy}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{FIS freestyle skier}}
+* {{X Games profile|old_id=3952563}}
+* {{Olympedia}}
+* {{Olympics.com profile}}
+
+{{DEFAULTSORT:Schuler, Luca}}
+[[Category:1998 births]]
+[[Category:Living people]]
+[[Category:Swiss male freestyle skiers]]
+[[Category:Olympic freestyle skiers for Switzerland]]
+[[Category:Freestyle skiers at the 2014 Winter Olympics]]
+[[Category:Skiers from the canton of Schwyz]]
+[[Category:21st-century Swiss sportsmen]]
+[[Category:X Games competitors]]
+
+{{Switzerland-freestyle-skiing-bio-stub}}

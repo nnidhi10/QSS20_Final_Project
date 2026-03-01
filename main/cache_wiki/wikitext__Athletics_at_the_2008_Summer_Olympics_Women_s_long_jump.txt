@@ -1,0 +1,244 @@
+{{Short description|none}}
+{{Infobox Olympic event
+| event       = Women's long jump
+| games       = 2008 Summer 
+| image       =
+| caption     =
+| venue = [[Beijing National Stadium]]
+| dates = 19 August 2008 (qualification)<br />22 August 2008 (final)
+| competitors = 42
+| nations     = 33
+| gold        = [[Maurren Maggi]]
+| goldNOC     = BRA
+| silver      = [[Blessing Okagbare]]<ref>{{cite web|url=http://olympstats.com/2017/09/26/2008-12-olympic-doping-re-test-an-update-update/ |title=2008-12 OLYMPIC DOPING RE-TEST – AN UPDATE-UPDATE |date= 26 Sep 2017|first=Bill|last=Mallon|access-date=2017-10-16}}</ref>
+| silverNOC   = NGR
+| bronze      = [[Chelsea Hammond]]
+| bronzeNOC   = JAM
+| win_label = Winning distance
+| win_value = 7.04
+| prev = [[Athletics at the 2004 Summer Olympics – Women's long jump|2004]]
+| next = [[Athletics at the 2012 Summer Olympics – Women's long jump|2012]]
+}}
+{{AthleticsAt2008SummerOlympics}}
+The '''women's [[long jump]]''' at the '''[[2008 Summer Olympics]]''' took place on 19 and 22 August at the [[Beijing National Stadium]].<ref>{{cite web|url=http://www.iaaf.org/OLY08/results/eventCode=3659/bydiscipline/index.html |title=Olympic Athletics Competition Schedule |access-date=2008-08-04 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080913131714/http://www.iaaf.org/OLY08/results/eventCode%3D3659/bydiscipline/index.html |archive-date=13 September 2008 |url-status=dead }}</ref> The winning margin was 13&nbsp;cm.
+
+The qualifying standards were 6.72 m (A standard) and 6.60 m (B standard).<ref>{{cite web|url=http://www.iaaf.org/OLY08/standards/index.html |title=Entry Standards - The XXIX Olympic Games - Beijing, China - 8/24 August 2008 |access-date=2008-08-04|publisher=[[IAAF]]| archive-url= https://web.archive.org/web/20080913131730/http://www.iaaf.org/OLY08/standards/index.html| archive-date= 13 September 2008 | url-status= live}}</ref>
+
+==Summary==
+In the qualifying round, [[Blessing Okagbare]] was the last qualifier, jumping 6.59m on her final attempt to knock out [[Tatyana Kotova]] and triple jump bronze medalist, [[Hrysopiyí Devetzí]] out of the final by 2&nbsp;cm.  #1 qualifier [[Brittney Reese]] jumped 6.65m as the first jump in the final, which held up for five jumps until [[Tatyana Lebedeva]] jumped 6.97m.  Four more jumps later, [[Maurren Maggi]]'s {{T&Fcalc|7.04}} winner was the only jump of the competition to best Lebedeva.  The penultimate jumper [[Chelsea Hammond]] jumped 6.79m, then the 19 year old Okagbare hit a 6.91m.  Those first round jumps settled the competition.  Only Lebedeva was able to improve with a 7.03m final attempt, but it was still 1&nbsp;cm short of capturing gold.
+
+In 2017, retests showed [[Tatyana Lebedeva]] had a positive test for [[turinabol]] and was disqualified from both her silver medals.<ref>{{Cite web|url=https://www.olympic.org/news/ioc-sanctions-two-athletes-for-failing-anti-doping-test-at-beijing-2008|title = IOC sanctions two athletes for failing anti-doping test at Beijing 2008|date = 14 July 2021}}</ref> The IOC requested that the [[International Association of Athletics Federations|IAAF]] modify the results, and, after [[Court of Arbitration for Sport|CAS]] dismisses the appeal of Tatyana Lebedeva,<ref>{{cite web|url=http://www.tas-cas.org/fileadmin/user_upload/Media_Release_4803_4804_4983_decision.pdf |title=Media Release 4803, 4804, 4983 Decision|publisher=[[Court of Arbitration for Sport|CAS]] |access-date=1 October 2018}}</ref> the medals were redistributed accordingly.<ref>{{cite web|url=https://www.iaaf.org/results/olympic-games/2008/the-xxix-olympic-games-3659/women/long-jump/final/result |title=The XXIX Olympic Games – Results – long jump women|publisher=[[IAAF]] |access-date=1 October 2018}}</ref> [[Blessing Okagbare]] was advanced to silver, and [[Chelsea Hammond]] was advanced to bronze.
+
+==Records==
+Prior to this competition, the existing world record, Olympic record, and world leading jump were as follows:
+
+{{World Olympic Record World Leading
+| world_athlete   = {{flagathlete|[[Galina Chistyakova]]|URS}}
+| world_mark      = 7.52  	  	
+| world_place     = [[Leningrad]], Soviet Union
+| world_date      = 11 June 1988
+| olympic_athlete = {{flagIOCathlete|[[Jackie Joyner-Kersee]]|USA|1988 Summer}}
+| olympic_mark    = 7.40  	 	 	 
+| olympic_place   = [[Seoul]], South Korea
+| olympic_date    = 29 September 1988
+| lead_athlete = {{flagathlete|[[Naide Gomes]]|POR}}
+| lead_mark = 7.12
+| lead_place = [[Fontvieille, Monaco|Fontvieille]], Monaco
+| lead_date = 29 July 2008
+}}
+
+No new world or Olympic records were set for this event.
+
+==Results==
+
+===Qualifying round===
+Qualifying performance 6.75 (Q) or at least 12 best performers (q) advance to the final.
+
+{|  class="wikitable sortable" style="text-align:center"
+! Rank !! Group!! Name !! Nationality  !! 1 !! 2 !! 3 !! Mark !!  Notes
+|-bgcolor=ccffcc
+|1 ||B||align="left"|[[Brittney Reese]]||align="left"| {{flagIOC|USA|2008 Summer}}
+|| x || '''6.87'''<br />''(+1.1)'' || || '''6.87''' || Q
+|-bgcolor=ccffcc
+|2 ||A||align="left"|[[Maurren Higa Maggi]]||align="left"| {{flagIOC|BRA|2008 Summer}}
+|| 6.68<br />''(+0.3)'' || '''6.79'''<br />''(+0.3)'' ||   || '''6.79''' || Q
+|-bgcolor=pink
+|3 ||B||align="left"|[[Tatyana Lebedeva]]||align="left"| {{flagIOC|RUS|2008 Summer}}
+|| 6.65<br />''(+0.7)'' || '''6.70'''<br />''(+1.4)'' || - || '''6.70'''  || '''DSQ'''
+|-bgcolor=ccffcc
+|4 ||A||align="left"|[[Carolina Klüft]]||align="left"| {{flagIOC|SWE|2008 Summer}}
+|| '''6.70'''<br />''(+1.0)'' ||x ||- || '''6.70'''  || q
+|-bgcolor=ccffcc
+|5 ||A||align="left"|[[Grace Upshaw]]||align="left"| {{flagIOC|USA|2008 Summer}}
+|| 6.47<br />''(−0.2)'' || '''6.68'''<br />''(+0.6)'' || x || '''6.68''' || q
+|-bgcolor=ccffcc
+|6||A || align="left"| [[Oksana Udmurtova]]||align="left"| {{flagIOC|RUS|2008 Summer}}
+|| 6.48<br />''(+1.3)'' || x || '''6.63'''<br />''(+0.5)'' || '''6.63''' || q
+|-bgcolor=ccffcc
+|7||B || align="left"|[[Keila Costa]] ||align="left"| {{flagIOC|BRA|2008 Summer}}
+|| x|| 6.44<br />''(+0.4)'' || '''6.62'''<br />(''+0.7)'' || '''6.62'''  || q
+|-bgcolor=ccffcc
+|8||A || align="left"|[[Tabia Charles]]||align="left"| {{flagIOC|CAN|2008 Summer}}
+|| 6.33<br />''(+1.5)'' || '''6.61'''<br />''(+0.6)'' || 6.49<br />''(+0.9)'' || '''6.61'''  || q
+|-bgcolor=ccffcc
+|9||A ||align="left"|[[Funmi Jimoh]]||align="left"| {{flagIOC|USA|2008 Summer}}
+|| 6.42<br />''(+0.9)'' || 6.28<br />''(+1.1)'' || '''6.61'''<br />''(+0.8)'' || '''6.61''' ||  q
+|-bgcolor=ccffcc
+|10 ||B|| align="left"|[[Jade Johnson]] || align="left"| {{flagIOC|GBR|2008 Summer}}
+|| 6.33<br />''(0.0)'' || 6.15<br />''(+0.2)'' || '''6.61'''<br />''(+0.7)'' || '''6.61''' ||  q
+|-bgcolor=ccffcc
+|11 ||A ||align="left"|[[Chelsea Hammond]]|| align="left"| {{flagIOC|JAM|2008 Summer}}
+|| '''6.60'''<br />''(+0.4)'' || x || x || '''6.60'''  || q
+|-bgcolor=ccffcc
+|12 ||B|| align="left"|[[Blessing Okagbare]] || align="left"| {{flagIOC|NGR|2008 Summer}}
+|| 6.37<br />''(+0.2)'' || 6.49<br />''(+0.9)'' || '''6.59'''<br />''(+0.4)'' || '''6.59''' ||  q
+|-
+|13 ||B|| align="left"|[[Tatyana Kotova]] ||align="left"| {{flagIOC|RUS|2008 Summer}} 
+|| 6.37<br />''(+1.0)'' || '''6.57'''<br />''(+1.2)'' || x || '''6.57''' ||
+|-
+|14 ||A|| align="left"|[[Hrysopiyí Devetzí]]  ||align="left"| {{flagIOC|GRE|2008 Summer}} 
+|| x || '''6.57'''<br />''(+0.4)'' || x || '''6.57''' || 
+|-
+|15  ||B|| align="left"|[[Concepción Montaner]]||align="left"| {{flagIOC|ESP|2008 Summer}} 
+|| '''6.53'''<br />(''+0.7)'' || 6.42<br />''(+1.1)'' || 6.43<br />''(+0.7)'' || '''6.53''' || 
+|-
+|16  |||B|| align="left"|[[Bronwyn Thompson]] ||align="left"| {{flagIOC|AUS|2008 Summer}} 
+||x || '''6.53'''<br />''(+0.3)'' || x ||''' 6.53''' ||  
+|-
+|17  ||A|| align="left"|[[Yargelis Savigne]] ||align="left"| {{flagIOC|CUB|2008 Summer}} 
+|| x ||x || '''6.49'''<br />''(+0.1)'' || '''6.49''' ||  
+|-
+|18  || B|| align="left"|[[Iryna Charnushenka-Stasiuk]] ||align="left"| {{flagIOC|BLR|2008 Summer}} 
+|| '''6.48'''<br />''(+1.1)'' || x || x || '''6.48''' ||  
+|-
+|19 |||B|| align="left"|[[Kumiko Ikeda]] ||align="left"| {{flagIOC|JPN|2008 Summer}} 
+|| '''6.44'''<br />''(+0.8)'' ||''' 6.47'''<br />''(+0.1)'' || x || '''6.47''' ||  
+|-
+|20 ||A|| align="left"|[[Denisa Ščerbová]] ||align="left"| {{flagIOC|CZE|2008 Summer}} 
+|| 6.40<br />''(+0.8)'' || '''6.46'''<br />''(+1.5)'' || '''5.17'''<br />''(−0.1)'' || '''6.46''' ||  
+|-
+|21 ||A|| align="left"|[[Patricia Sylvester]]  ||align="left"| {{flagIOC|GRN|2008 Summer}} 
+|| '''6.44'''<br />''(+0.9)'' || 6.42<br />''(+0.1)'' || 6.38<br />''(+0.4)'' ||''' 6.44''' ||  
+|-
+|22 ||B|| align="left"|[[Viorica Țigău]] ||align="left"| {{flagIOC|ROU|2008 Summer}} 
+|| x || 6.38<br />''(+0.7)'' || '''6.44'''<br />''(+0.2)'' || '''6.44''' ||  
+|-
+|23 ||A|| align="left"|[[Viktoriya Rybalko]] ||align="left"| {{flagIOC|UKR|2008 Summer}} 
+|| x || x || '''6.43'''<br />''(+0.3)'' || '''6.43''' || 
+|-
+|24 ||A|| align="left"|[[Karin Melis Mey]] ||align="left"| {{flagIOC|TUR|2008 Summer}} 
+|| x || '''6.42'''<br />''(−0.4)'' || x || '''6.42''' ||  
+|-
+|25 ||B|| align="left"|[[Ruky Abdulai]] ||align="left"| {{flagIOC|CAN|2008 Summer}} 
+||x || '''6.41'''<br />''(+0.4)'' || 6.25<br />''(+1.0)'' || '''6.41''' ||  
+|-
+|26 ||A|| align="left"|[[Nina Kolarič]] ||align="left"| {{flagIOC|SLO|2008 Summer}} 
+|| 4.92<br />''(+1.4)'' || 6.19<br />''(0.0)'' || '''6.40'''<br />''(+0.6)'' || '''6.40''' ||  
+|-
+|27 ||B|| align="left"|[[Ksenija Balta]] ||align="left"| {{flagIOC|EST|2008 Summer}} 
+||x || '''6.38'''<br />''(+0.7)'' ||x || '''6.38''' ||  
+|-
+|28 ||B||align="left"| [[Jung Soon-Ok (athlete)|Soon-ok Jung]] ||align="left"| {{flagIOC|KOR|2008 Summer}} 
+||x || x|| '''6.33'''<br />''(+0.5)'' ||''' 6.33''' ||  
+|-
+|29 ||B||align="left"| [[Olga Rypakova]] ||align="left"| {{flagIOC|KAZ|2008 Summer}} 
+||x || '''6.30'''<br />''(+1.5)'' || 6.04<br />''(+0.6)'' || '''6.30''' ||  
+|-
+|30 ||B||align="left"|[[Ivana Španović]] ||align="left"| {{flagIOC|SRB|2008 Summer}} 
+||x || x|| '''6.30'''<br />''(+1.8)'' || '''6.30''' ||  
+|-
+|31 ||A|| align="left"|[[Naide Gomes]] ||align="left"| {{flagIOC|POR|2008 Summer}} 
+||x ||x || '''6.29'''<br />''(+0.5)'' || '''6.29''' ||  
+|-
+|32 ||A|| align="left"|[[Volha Sergeenka]] ||align="left"| {{flagIOC|BLR|2008 Summer}} 
+|| '''6.25'''<br />''(+0.1)'' || 6.02<br />''(+0.4)'' || 6.09<br />''(−0.6)'' || '''6.25''' || 
+|-
+|33 ||B||align="left"|[[Oleksandra Stadnyuk]] ||align="left"| {{flagIOC|UKR|2008 Summer}} 
+||x || '''6.19'''<br />''(0.0)'' ||x || '''6.19''' ||  
+|-
+|34 ||B||align="left"|[[Marestella Torres]] ||align="left"| {{flagIOC|PHI|2008 Summer}} 
+|| 4.27<br />''(+0.6)'' || 5.94<br />''(−0.1)'' || '''6.17'''<br />''(+0.8)'' || '''6.17''' ||  
+|-
+|35 ||A|| align="left"|[[Pamela Mouele-Mboussi]] ||align="left"|  {{flagIOC|CGO|2008 Summer}} 
+|| x || 5.94<br />''(+0.6)'' || '''6.06'''<br />''(+0.9)'' || '''6.06''' || '''[[List of Republic of the Congo records in athletics|NR]]'''
+|-
+|36 ||B||align="left"|[[Arantxa King]] ||align="left"|  {{flagIOC|BER|2008 Summer}} 
+|| '''6.01'''<br />''(−0.3)'' ||x ||x ||''' 6.01''' || 
+|-
+|37 ||A|| align="left"|[[Rhonda Watkins]]  ||align="left"| {{flagIOC|TRI|2008 Summer}} 
+||x || '''5.88'''<br />''(+0.5)'' || x || '''5.88''' || 
+|-
+|38 ||A|| align="left"|[[Tricia Flores]] ||align="left"|  {{flagIOC|BIZ|2008 Summer}} 
+||''' 5.25'''<br />''(+1.2)'' ||x || - || '''5.25''' ||  
+|-
+| {{n/a}} ||B||align="left"|[[Anju Bobby George]] ||align="left"| {{flagIOC|IND|2008 Summer}} 
+||x || x|| x|| '''{{Sort|0.00|NM}}''' || 
+|-
+| {{n/a}} ||B||align="left"|[[Jackie Edwards (athlete)|Jackie Edwards]] ||align="left"| {{flagIOC|BAH|2008 Summer}}  
+||x || x|| x|| '''{{Sort|0.00|NM}}''' || 
+|-
+| {{n/a}} ||A|| align="left"|[[Jana Velďáková]] ||align="left"| {{flagIOC|SVK|2008 Summer}}  
+||x || x|| x|| '''{{Sort|0.00|NM}}''' || 
+|-
+| {{n/a}} ||A||align="left"|[[Lyudmyla Blonska]] ||align="left"| {{flagIOC|UKR|2008 Summer}}  
+||   ||   || || '''{{Sort|0.00|DSQ}}''' ||  
+|}
+
+<small>Q - Qualified by right / q - Qualified by result / NM - No Mark / NR - National Record / SB - Season Best / DSQ - Disqualified</small>
+
+===Final===
+22 August 2008 - 19:20<ref>{{cite web |url=http://wikirun.com/Long_jump_women#Final |title= Long jump women - WikiRun|website=wikirun.com |access-date=2008-08-22 |archive-date=2012-02-16 |archive-url=https://web.archive.org/web/20120216084314/http://wikirun.com/Long_jump_women#Final |url-status=dead }}{{title missing|date=May 2022}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Name !! Nationality !! 1!!2!!3!!4!!5!!6!!Result !! Notes
+|-
+| {{Gold1}} ||align="left"|[[Maurren Higa Maggi]]||align="left"| {{flagIOC|BRA|2008 Summer}}
+||'''7.04'''||x||x||x||6.73||x||'''7.04'''||SB
+|-
+| {{Silver2}} ||align="left"|[[Blessing Okagbare]]||align="left"| {{flagIOC|NGR|2008 Summer}}
+||'''6.91'''||6.62||6.79||6.70||6.83||x||'''6.91'''||PB
+|-
+| {{Bronze3}} ||align="left"|[[Chelsea Hammond]]||align="left"| {{flagIOC|JAM|2008 Summer}}
+||'''6.79'''||6.68||6.51||x||6.64||6.59||'''6.79'''||PB
+|-
+|4||align="left"|[[Brittney Reese]]||align="left"| {{flagIOC|USA|2008 Summer}}
+||6.65||'''6.76'''||4.23||x||6.46||6.67||'''6.76'''||
+|-
+|5||align="left"| [[Oksana Udmurtova]]||align="left"| {{flagIOC|RUS|2008 Summer}}
+||6.69||'''6.70'''||6.67||6.61||6.65||6.49||'''6.70'''||
+|-
+|6||align="left"|[[Jade Johnson]]||align="left"| {{flagIOC|GBR|2008 Summer}}
+||6.51||'''6.64'''||6.40||6.59||6.43||x||'''6.64'''||
+|-
+|7||align="left"|[[Grace Upshaw]]||align="left"| {{flagIOC|USA|2008 Summer}}
+||'''6.58'''||x||6.52||x||x||x||'''6.58'''||
+|-
+|colspan=11 bgcolor=lightgray|
+|-
+|8||align="left"|[[Carolina Klüft]]||align="left"| {{flagIOC|SWE|2008 Summer}}
+||x||'''6.49'''||6.42||  colspan=3| ||'''6.49'''||
+|-
+|9||align="left"|[[Tabia Charles]]||align="left"| {{flagIOC|CAN|2008 Summer}}
+||6.16||6.38||'''6.47'''||  colspan=3| ||'''6.47'''||
+|-
+|10||align="left"|[[Keila Costa]]||align="left"| {{flagIOC|BRA|2008 Summer}}
+||x||x||'''6.43'''|| colspan=3| ||'''6.43'''||
+|-
+|11||align="left"|[[Funmi Jimoh]]||align="left"| {{flagIOC|USA|2008 Summer}}
+||6.24||x||'''6.29'''|| colspan=3| ||'''6.29'''|| 
+|-bgcolor=pink
+| '''DQ''' ||align="left"|[[Tatyana Lebedeva]]||align="left"| {{flagIOC|RUS|2008 Summer}}
+||<s>6.97</s>||x||x||x||x||<s>'''7.03'''</s>||<s>'''7.03'''</s>||<s>SB</s>
+|}
+
+==References==
+{{Reflist}}
+
+{{OlympicsLongJump}}
+{{Footer Olympic Champions Long Jump Women}}
+
+{{DEFAULTSORT:Athletics at the 2008 Summer Olympics - Women's long jump}}
+[[Category:Athletics at the 2008 Summer Olympics]]
+[[Category:Long jump at the Olympics]]
+[[Category:2008 in women's sport of athletics]]
+[[Category:Women's events at the 2008 Summer Olympics]]

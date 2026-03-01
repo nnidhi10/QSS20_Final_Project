@@ -1,0 +1,90 @@
+{{Short description|none}}
+{{Infobox country at games
+| NOC = LAT
+| NOCname = [[Latvian Olympic Committee]]
+| games = Winter Olympics
+| year = 1928
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.olimpiade.lv }}&nbsp;{{in lang|lv|en}}
+| location = [[St. Moritz]]
+| competitors = 1
+| sports = 1
+| flagbearer = [[Alberts Rumba]] (speed skating)
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = {{flagIOC|RU1}} (1900–1912)<br/>{{flagIOC|URS}} (1952–1988)
+}}
+
+Latvia participated at the [[1928 Winter Olympics]] in [[St. Moritz]], Switzerland, held between 11 and 19 February 1928. The country's participation in the Games marked its second appearance at the [[Winter Olympics]] since its debut in the [[Latvia at the 1924 Winter Olympics|previous Games]].
+
+The Latvian team consisted of a lone athlete [[Alberts Rumba]] who competed across three events in [[speed skating]]. Rumba also served as the country's flag-bearer during the opening ceremony. Latvia did not win any medal in the Games.
+
+== Background ==
+The [[1924 Winter Olympics]] marked Latvia's first participation in the Olympic Games. After the nation made its debut in the [[Winter Olympics]] at the previous Games, this edition of the Games in [[1928 Winter Olympics|1928]] marked the nation's second appearance at the Winter Games.<ref name="Latvia">{{cite web|url=https://www.olympedia.org/countries/LAT|title=Latvia at the Olympics|work=[[Olympedia]]|access-date=1 June 2024}}</ref> 
+
+The 1928 Winter Olympics was held in [[St. Moritz]], Switzerland, between 11 and 19 February 1928.<ref name="Olympics">{{cite web|url=https://www.olympics.com/en/olympic-games/st-moritz-1928|title=St. Moritz 1928|work=[[Olympics.com]]|access-date=3 February 2024}}</ref><ref>{{cite web|url=https://www.olympedia.org/editions/30|title=1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref> The Latvian delegation consisted of a lone athlete [[Alberts Rumba]].<ref name="Result">{{cite web|url=https://www.olympedia.org/countries/LAT/editions/30|title=Latvia at the 1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref><ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/countries/LAT/winter/1928/|title=Latvia at 1928 Winter Olympics|work=Sports Reference|access-date=1 June 2001|archive-url=https://web.archive.org/web/20200417092656/https://www.sports-reference.com/olympics/countries/LAT/winter/1928/|archive-date=17 April 2020}}</ref> Rumba also served as the country's flag-bearer in the Parade of Nations during the opening ceremony.<ref>{{cite web|url=https://www.olympedia.org/flagbearers?edition_id=30|title=Flag bearers at the 1928 Winter Olympics|work=[[Olympedia]]|access-date=3 February 2024}}</ref>  Latvia did not win any medal in the Games.<ref name="Latvia"/><ref>{{cite book|title=Résultats des Concours des II<sup>mes</sup> Jeux Olympiques d'hiver |author=Comité Olympique Suisse |publisher=Imprimerie du Léman |location=Lausanne |year=1928 |language=French |url=http://www.la84foundation.org/6oic/OfficialReports/1928/1928w2.pdf |format=PDF |access-date=1 June 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20101217062055/http://la84foundation.org/6oic/OfficialReports/1928/1928w2.pdf |archive-date=17 December 2010}}</ref>
+
+== Competitors ==
+Latvia sent a single athlete who competed in three events in a single sport at the Games.<ref name="Result"/><ref name="SR"/>
+{|class="wikitable sortable" style="text-align:center;"
+|-
+!width=120|Sport
+!width=55|Men
+!width=55|Women
+!width="55"|Athletes
+|-
+|align=left|[[Speed skating at the 1928 Winter Olympics|Speed skating]]
+|1||0||1
+|-
+!Total
+!1
+!0
+!1
+|}
+
+== Speed skating ==
+{{main|Speed skating at the 1928 Winter Olympics}}
+[[Speed skating]] competitions were held on 13 and 14 February at the 	Olympia-Eisstadion Badrutts Park in St. Moritz.<ref>{{cite web|url=https://www.olympedia.org/results/961|title=Speed skating, 500m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref><ref>{{cite web|url=https://www.olympedia.org/results/963|title=Speed skating, 5000m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref> [[Alberts Rumba]] participated in three events in the competition.<ref name="Result"/><ref name="SR"/> This was Rumba's second appearance at the Winter Olympics after his debut in the [[Speed skating at the 1924 Winter Olympics|1924 Games]]. In between the Games, he appeared in two World Championships placing fifth (1926) and seventh (1927). He was the reigning Latvian all-round champion since 1926.<ref>{{cite web|url=https://www.olympics.com/en/athletes/alberts-rumba|title=Alberts Rumba|work=[[Olympics.com]]|access-date=1 June 2024}}</ref> In the Games, he recorded a best place finish of 14th in the 1500 m event.<ref>{{cite web|url=https://www.olympedia.org/results/962|title=Speed skating, 1500m men|work=[[Olympedia]]|access-date=1 June 2024}}</ref>
+
+{|class="wikitable" border="1" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|rowspan="3"|[[Alberts Rumba]]
+|[[Speed skating at the 1928 Winter Olympics – Men's 500 metres|Men's 500 m]]
+|align=center|46.3
+|align=center|16
+|-
+|[[Speed skating at the 1928 Winter Olympics – Men's 1500 metres|Men's 1500 m]]
+|align=center|2:28.9
+|align=center|14
+|-
+|[[Speed skating at the 1928 Winter Olympics – Men's 5000 metres|Men's 5000 m]]
+|align=center|9:19.7
+|align=center|15
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20200417041048/https://www.sports-reference.com/olympics/winter/1928/ Olympic Winter Games 1928, full results by sports-reference.com]
+
+{{Nations at the 1928 Winter Olympics}}
+{{Country at games navbox|Latvia|Olympics}}
+
+[[Category:Nations at the 1928 Winter Olympics]]
+[[Category:Latvia at the Winter Olympics by year|1928]]
+[[Category:1928 in Latvian sport|Olympics, Winter]]

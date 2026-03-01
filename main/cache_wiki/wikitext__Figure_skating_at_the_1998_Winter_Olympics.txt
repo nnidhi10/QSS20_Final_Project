@@ -1,0 +1,626 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2014}}
+{{Infobox Figure Skating Competition
+| title          = Figure skating at the XVIII Olympic Winter Games
+| comptype       = Olympic Games
+| image          = Figure Skating, Nagano 1998.png
+| imagesize      = 150px
+| startdate      = 
+| enddate        = 
+| venue          = [[White Ring (arena)|White Ring]]
+| championmen    = {{flagicon|RUS}} [[Ilia Kulik]]
+| championladies = {{flagicon|USA}} [[Tara Lipinski]]
+| championpairs  = {{flagicon|RUS}} [[Oksana Kazakova]] / [[Artur Dmitriev]]
+| championdance  = {{flagicon|RUS}} [[Oksana Grishuk]] / [[Evgeny Platov]]
+| previouscomp   = [[Figure skating at the 1994 Winter Olympics|1994 Winter Olympics]]
+| nextcomp       = [[Figure skating at the 2002 Winter Olympics|2002 Winter Olympics]]
+}}
+The [[figure skating]] events in [[1998 Winter Olympics]] were held at the [[White Ring (arena)|White Ring]] in Nagano. There were no changes in the format or scoring systems from 1994. Professionals were again allowed to compete, although they had to declare that intention and compete in [[International Skating Union|ISU]]-approved events to do so. Previously, the ISU had been accused of rejecting Western professionals, while allowing Eastern Bloc state-sponsored "amateurs" to compete.<ref>{{Cite journal |url=https://www.jstor.org/stable/43609911 |jstor=43609911 |last1=Riordan |first1=Jim |title=Rewriting Soviet Sports History |journal=Journal of Sport History |year=1993 |volume=20 |issue=3 |pages=247–258}}</ref><ref>{{cite magazine |last=Knisley |first=Michael |title=1998 Ad |magazine=Sporting News |date=March 7, 1994 |url=http://www.findarticles.com/p/articles/mi_m1208/is_n10_v217/ai_15194066/pg_1 |archive-url=https://web.archive.org/web/20071015153657/http://findarticles.com/p/articles/mi_m1208/is_n10_v217/ai_15194066/pg_1 |url-status=dead |archive-date=October 15, 2007 |access-date=December 7, 2006}}</ref> Most of the top competitors by 1998 were now openly professional.
+
+The competitions took place on the following days:
+* Pairs: 8–10 February 1998
+* Men's singles: 12–14 February 1998
+* Ice dance: 13–16 February 1998
+* Ladies' singles: 18–20 February 1998<ref>{{Cite web|url=https://www.sports-reference.com/olympics/winter/1998/FSK/|title=Figure Skating at the 1998 Nagano Winter Games {{!}} Olympics at Sports-Reference.com|website=Olympics at Sports-Reference.com|language=en|access-date=2018-03-20|url-status=dead|archive-url=https://web.archive.org/web/20180217202730/https://www.sports-reference.com/olympics/winter/1998/FSK/|archive-date=17 February 2018|df=dmy-all}}</ref>
+* Exhibition gala: 21 February 1998
+
+==Medal summary==
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 1998 Winter
+ | team           = 
+ | gold_RUS = 3 | silver_RUS = 2 | bronze_RUS = 0
+ | gold_USA = 1 | silver_USA = 1 | bronze_USA = 0
+ | gold_CAN = 0 | silver_CAN = 1 | bronze_CAN = 0
+ | gold_FRA = 0 | silver_FRA = 0 | bronze_FRA = 2
+ | gold_CHN = 0 | silver_CHN = 0 | bronze_CHN = 1
+ | gold_GER = 0 | silver_GER = 0 | bronze_GER = 1
+}}
+
+===Medalists===
+{| {{MedalistTable|type=Event}}
+|-
+| Men's singles <br/> {{DetailsLink|Figure skating at the 1998 Winter Olympics – Men's singles}}
+| {{flagIOCmedalist|[[Ilia Kulik]]|RUS|1998 Winter}}
+| {{flagIOCmedalist|[[Elvis Stojko]]|CAN|1998 Winter}}
+| {{flagIOCmedalist|[[Philippe Candeloro]]|FRA|1998 Winter}}
+|-
+| Ladies' singles <br/> {{DetailsLink|Figure skating at the 1998 Winter Olympics – Ladies' singles}}
+| {{flagIOCmedalist|[[Tara Lipinski]]|USA|1998 Winter}}
+| {{flagIOCmedalist|[[Michelle Kwan]]|USA|1998 Winter}}
+| {{flagIOCmedalist|[[Chen Lu (figure skater)|Chen Lu]]|CHN|1998 Winter}}
+|-vstyle="text-align:top"
+| Pair skating <br/> {{DetailsLink|Figure skating at the 1998 Winter Olympics – Pairs}}
+| {{flagIOCmedalist|[[Oksana Kazakova]] <br> [[Artur Dmitriev]]|RUS|1998 Winter}}
+|nowrap| {{flagIOCmedalist|[[Elena Berezhnaya]] <br> [[Anton Sikharulidze]]|RUS|1998 Winter}}
+| {{flagIOCmedalist|[[Mandy Wötzel]] <br> [[Ingo Steuer]]|GER|1998 Winter}}
+|-vstyle="text-align:top"
+| Ice dance <br/> {{DetailsLink|Figure skating at the 1998 Winter Olympics – Ice dance}}
+|nowrap| {{flagIOCmedalist|[[Oksana Grishuk]] <br> [[Evgeny Platov]]|RUS|1998 Winter}}
+| {{flagIOCmedalist|[[Anjelika Krylova]] <br> [[Oleg Ovsyannikov]]|RUS|1998 Winter}}
+|nowrap| {{flagIOCmedalist|[[Marina Anissina]] <br> [[Gwendal Peizerat]]|FRA|1998 Winter}}
+|}
+
+==Participating NOCs==
+Thirty-six nations competed in the figure skating events at Nagano.
+
+{{div col|colwidth=20em}}
+*{{flagIOC|ARM|1998 Winter}}
+*{{flagIOC|AUS|1998 Winter}}
+*{{flagIOC|AUT|1998 Winter}}
+*{{flagIOC|AZE|1998 Winter}}
+*{{flagIOC|BUL|1998 Winter}}
+*{{flagIOC|CAN|1998 Winter}}
+*{{flagIOC|CHN|1998 Winter}}
+*{{flagIOC|TPE|1998 Winter}}
+*{{flagIOC|CRO|1998 Winter}}
+*{{flagIOC|CZE|1998 Winter}}
+*{{flagIOC|DEN|1998 Winter}}
+*{{flagIOC|EST|1998 Winter}}
+*{{flagIOC|FIN|1998 Winter}}
+*{{flagIOC|FRA|1998 Winter}}
+*{{flagIOC|GER|1998 Winter}}
+*{{flagIOC|GBR|1998 Winter}}
+*{{flagIOC|HUN|1998 Winter}}
+*{{flagIOC|ISR|1998 Winter}}
+*{{flagIOC|ITA|1998 Winter}}
+*{{flagIOC|JPN|1998 Winter}}
+*{{flagIOC|KAZ|1998 Winter}}
+*{{flagIOC|LTU|1998 Winter}}
+*{{flagIOC|LUX|1998 Winter}}
+*{{flagIOC|POL|1998 Winter}}
+*{{flagIOC|ROU|1998 Winter}}
+*{{flagIOC|RUS|1998 Winter}}
+*{{flagIOC|SVK|1998 Winter}}
+*{{flagIOC|SLO|1998 Winter}}
+*{{flagIOC|RSA|1998 Winter}}
+*{{flagIOC|KOR|1998 Winter}}
+*{{flagIOC|ESP|1998 Winter}}
+*{{flagIOC|SUI|1998 Winter}}
+*{{flagIOC|SWE|1998 Winter}}
+*{{flagIOC|UKR|1998 Winter}}
+*{{flagIOC|USA|1998 Winter}}
+*{{flagIOC|UZB|1998 Winter}}
+{{div col end}}
+
+==Results==
+
+===Men===
+The favourites and top two after the short program were [[Ilia Kulik]] and [[Elvis Stojko]], who would skate first and last, respectively. Medal contenders [[Alexei Yagudin]], [[Todd Eldredge]] and [[Philippe Candeloro]] went in between. [[Steven Cousins]] was the other skater in the final draw, but he was not considered to have a realistic chance of making the podium.
+
+[[Ilia Kulik|Kulik]] skated a flawless program which included a quad toe loop to open the last session. [[Alexei Yagudin|Yagudin]], who was one of several athletes suffering from the flu during these games, fell on his quad attempt and his triple Axel, which took him out of medal contention. [[Todd Eldredge|Eldredge]] was skating cleanly until he popped what was to be his second triple Axel, and then he fell again when he tried to complete the jump again in the closing seconds. [[Philippe Candeloro|Candeloro]], with the exception of a step out on his triple Axel, skated his program flawlessly to end up second in the free skating. [[Elvis Stojko|Stojko]], who skated last, originally intended to perform a quad toe loop/triple toe loop combination. However, a partial groin tear and the flu prevented him from attempting the combo, so he downgraded his quad to a triple. Despite his injury, he skated a clean program but finished the free skating third, placing second overall behind [[Ilia Kulik|Kulik]].
+
+The countries represented by the podium finishers were the same as in the [[Figure skating at the 1994 Winter Olympics|men's competition]] at the Lillehammer 1994 games, with Stojko and Candeloro getting their second consecutive silver and bronze medals, respectively. In a noteworthy instance, Stojko had to limp to the podium on sneakers at the medal presentation. He also did not skate at the figure skating gala, although he did take the ice briefly to announce that he would skip the [[1998 World Figure Skating Championships|World Championships]] next month.
+
+{| class="wikitable sortable"
+|-
+! Rank
+! Name
+! Nation
+! {{abbr|SP|Short program}}
+! {{abbr|FS|Free skating}}
+! {{abbr|TFP|Total Fact. Places}}
+|- style="background:gold"
+| style="text-align:center" | '''1'''
+| [[Ilia Kulik]] || {{flagIOC|RUS|1998 Winter}} ||1||1||1.5
+|- style="background:silver"
+| style="text-align:center" | '''2'''
+| [[Elvis Stojko]] || {{flagIOC|CAN|1998 Winter}} ||2||3||4.0
+|- style="background:#cc9966"
+| style="text-align:center" | '''3'''
+| [[Philippe Candeloro]] || {{flagIOC|FRA|1998 Winter}} ||5||2||4.5
+|-
+! 4
+| [[Todd Eldredge]] || {{flagIOC|USA|1998 Winter}} ||3||4||5.5
+|-
+! 5
+| [[Alexei Yagudin]] || {{flagIOC|RUS|1998 Winter}} ||4||5||7.0
+|-
+! 6
+| [[Steven Cousins]] || {{flagIOC|GBR|1998 Winter}} ||6||7||10.0
+|-
+! 7
+| [[Michael Weiss (figure skater)|Michael Weiss]] || {{flagIOC|USA|1998 Winter}} ||11||6||11.5
+|-
+! 8
+| [[Guo Zhengxin]] || {{flagIOC|CHN|1998 Winter}} ||10||9||14.0
+|-
+! 9
+| [[Michael Tyllesen]] || {{flagIOC|DEN|1998 Winter}} ||9||11||15.5
+|-
+! 10
+| [[Viacheslav Zagorodniuk]] || {{flagIOC|UKR|1998 Winter}} ||16||8||16.0
+|-
+! 11
+| [[Ivan Dinev]] || {{flagIOC|BUL|1998 Winter}} ||7||14||17.5
+|-
+! 12
+| [[Jeff Langdon]] || {{flagIOC|CAN|1998 Winter}} ||17||10||18.5
+|-
+! 13
+| [[Szabolcs Vidrai]] || {{flagIOC|HUN|1998 Winter}} ||12||13||19.0
+|-
+! 14
+| [[Dmitri Dmitrenko]] || {{flagIOC|UKR|1998 Winter}} ||8||16||20.0
+|-
+! 15
+| [[Takeshi Honda]] || {{flagIOC|JPN|1998 Winter}} ||18||12||21.0
+|-
+! 16
+| [[Igor Pashkevich]] || {{flagIOC|AZE|1998 Winter}} ||13||15||21.5
+|-
+! 17
+| [[Yamato Tamura]] || {{flagIOC|JPN|1998 Winter}} ||15||17||24.5
+|-
+! 18
+| [[Michael Shmerkin]] || {{flagIOC|ISR|1998 Winter}} ||14||18||25.0
+|-
+! 19
+| [[Roman Skorniakov]] || {{flagIOC|UZB|1998 Winter}} ||20||19||29.0
+|-
+! 20
+| [[Margus Hernits]] || {{flagIOC|EST|1998 Winter}} ||19||20||29.5
+|-
+! 21
+| [[Cornel Gheorghe]] || {{flagIOC|ROM|1998 Winter}} ||21||21||31.5
+|-
+! 22
+| [[Patrick Meier (figure skater)|Patrick Meier]] || {{flagIOC|SUI|1998 Winter}} ||22||22||33.0
+|-
+! 23
+| [[Gilberto Viadana]] || {{flagIOC|ITA|1998 Winter}} ||24||23||35.0
+|-
+! 24
+| [[Lee Kyu-hyun]] || {{flagIOC|KOR|1998 Winter}} ||23||24||35.5
+|-
+! colspan=6 | Free skating not reached
+|-
+! 25
+| [[Anthony Liu]] || {{flagIOC|AUS|1998 Winter}} ||25|| ||
+|-
+! 26
+| [[Róbert Kažimír]] || {{flagIOC|SVK|1998 Winter}} ||26|| ||
+|-
+! 27
+| [[David Liu (figure skater)|David Liu]] || {{flagIOC|TPE|1998 Winter}} ||27|| ||
+|-
+! 28
+| [[Yuri Litvinov]] || {{flagIOC|KAZ|1998 Winter}} ||28|| ||
+|-
+! 29
+| [[Patrick Schmit]] || {{flagIOC|LUX|1998 Winter}} ||29|| ||
+|}
+
+'''Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Britta Lindgren]]
+
+'''Assistant Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Junko Hiramatsu]]
+
+'''Judges:'''
+* {{flagicon|UK}} [[Margaret Worsfold]]
+* {{flagicon|UKR}} [[Vladislav Petukov]]
+* {{flagicon|CAN}} [[Sally Rehorick]]
+* {{flagicon|ROM}} [[Mariana Silvia Chita]]
+* {{flagicon|JPN}} [[Mieko Fujimora]]
+* {{flagicon|RUS}} [[Sviatoslav Babenko]]
+* {{flagicon|AZE}} [[Evgenia Bogdanova]]
+* {{flagicon|USA}} [[Paula Naughton]]
+* {{flagicon|FRA}} [[Marie-Reine Le Gougne]]
+* {{flagicon|HUN}} [[Zsofia Wagner]] (substitute)
+
+===Ladies===
+The primary contenders for the gold medal were Americans [[Tara Lipinski]] and [[Michelle Kwan]].<ref>{{cite web |url=http://articles.nydailynews.com/1998-02-17/sports/18065525_1_loop-combination-champion-world-bronze-medalist |title=The Women Who Would be Queen - New York Daily News |access-date=2011-03-08 |url-status=dead |archive-url=https://web.archive.org/web/20110727055429/http://articles.nydailynews.com/1998-02-17/sports/18065525_1_loop-combination-champion-world-bronze-medalist |archive-date=27 July 2011 |df=dmy-all }}</ref> Kwan and Lipinski were in first and second place respectively after the short program. In the free skating, both Lipinski and Kwan skated clean. 6 judges placed Lipinski ahead of Kwan, and three placed Kwan ahead of Lipinski, which meant Lipinski won the gold medal, and Kwan took the silver.
+
+The primary competitors for the bronze medal were [[Maria Butyrskaya]] and [[Irina Slutskaya]] from Russia, and [[Chen Lu (figure skater)|Chen Lu]] from China. In the free skating, they all skated well, but had mistakes. The final placements were very close. The 3rd–5th place votes were split unevenly between Chen, Butyrskaya, and Slutskaya. Chen beat Butyrskaya by the tally of 5 judges to 4 and beat Slutskaya 6 judges to 3, giving Chen her second straight bronze medal in the Olympic Games.
+
+Tara Lipinski (gold), Michelle Kwan (silver) and Chen Lu (bronze) were the [[World Figure Skating Championships|World Champions]] in 1997, 1996 and 1995, respectively. Lipinski also became the youngest competitor in Winter Olympics history to earn a gold medal in an individual event.<ref>{{Cite web|url=https://www.history.com/this-day-in-history/tara-lipinski-becomes-youngest-olympic-figure-skating-gold-medalist|title=Tara Lipinski becomes youngest Olympic figure skating gold medalist}}</ref>
+
+While not a medal winner, France's injured [[Surya Bonaly]], who placed 10th, completed an (illegal) backflip during her long program, making her the fourth person and only woman to ever land a backflip in competition. She is the only person to land on one foot and to do a split mid-air (now colloquially referred to as a 'Bonaly'). She performed the unorthodox maneuver as a result of a previous fall and poor program due to an injured foot, however given the illegal nature of the move, her backflip was not considered when grading her technical merit. <small>[https://youtube.com/clip/UgkxVmrgGWeUylugFvvXrFLACJFeUFSsj-hk Youtube video]</small>
+
+{| class="wikitable sortable"
+|-
+! Rank
+! Name
+! Nation
+! {{abbr|SP|Short program}}
+! {{abbr|FS|Free skating}}
+! {{abbr|TFP|Total Fact. Places}}
+|- style="background:gold"
+| style="text-align:center" | '''1'''
+| [[Tara Lipinski]] || {{flagIOC|USA|1998 Winter}} ||2||1||2.0
+|- style="background:silver"
+| style="text-align:center" | '''2'''
+| [[Michelle Kwan]] || {{flagIOC|USA|1998 Winter}} ||1||2||2.5
+|- style="background:#cc9966"
+| style="text-align:center" | '''3'''
+| [[Chen Lu (figure skater)|Chen Lu]] || {{flagIOC|CHN|1998 Winter}} ||4||3||5.0
+|-
+! 4
+| [[Maria Butyrskaya]] || {{flagIOC|RUS|1998 Winter}} ||3||4||5.5
+|-
+! 5
+| [[Irina Slutskaya]] || {{flagIOC|RUS|1998 Winter}} ||5||5||7.5
+|-
+! 6
+| [[Vanessa Gusmeroli]] || {{flagIOC|FRA|1998 Winter}} ||8||6||10.0
+|-
+! 7
+| [[Elena Sokolova]] || {{flagIOC|RUS|1998 Winter}} ||10||7||12.0
+|-
+! 8
+| [[Tatiana Malinina]] || {{flagIOC|UZB|1998 Winter}} ||9||8||12.5
+|-
+! 9
+| [[Elena Liashenko]] || {{flagIOC|UKR|1998 Winter}} ||7||10||13.5
+|-
+! 10
+| [[Surya Bonaly]] || {{flagIOC|FRA|1998 Winter}} ||6||11||14.0
+|-
+! 11
+| [[Yulia Lavrenchuk]] || {{flagIOC|UKR|1998 Winter}} ||15||9||16.5
+|-
+! 12
+| [[Joanne Carter]] || {{flagIOC|AUS|1998 Winter}} ||11||12||17.5
+|-
+! 13
+| [[Shizuka Arakawa]] || {{flagIOC|JPN|1998 Winter}} ||14||14||21.0
+|-
+! 14
+| [[Julia Lautowa]] || {{flagIOC|AUT|1998 Winter}} ||21||13||23.5
+|-
+! 15
+| [[Júlia Sebestyén]] || {{flagIOC|HUN|1998 Winter}} ||19||15||24.5
+|-
+! 16
+| [[Yulia Vorobieva]] || {{flagIOC|AZE|1998 Winter}} ||18||16||25.0
+|-
+! 17
+| [[Nicole Bobek]] || {{flagIOC|USA|1998 Winter}} ||17||17||25.5
+|-
+! 18
+| [[Lenka Kulovaná]] || {{flagIOC|CZE|1998 Winter}} ||16||18||26.0
+|-
+! 19
+| [[Anna Rechnio]] || {{flagIOC|POL|1998 Winter}} ||13||20||26.5
+|-
+! 20
+| [[Laëtitia Hubert]] || {{flagIOC|FRA|1998 Winter}} ||12||21||27.0
+|-
+! 21
+| [[Alisa Drei]] || {{flagIOC|FIN|1998 Winter}} ||20||19||29.0
+|-
+! 22
+| [[Marta Andrade]] || {{flagIOC|ESP|1998 Winter}} ||24||22||34.0
+|-
+! 23
+| [[Mojca Kopač]] || {{flagIOC|SLO|1998 Winter}} ||22||23||34.0
+|-
+! 24
+| [[Shirene Human]] || {{flagIOC|RSA|1998 Winter}} ||23||24||35.5
+|-
+! colspan=6 | Free skating not reached
+|-
+! 25
+| [[Ivana Jakupcevic]] || {{flagIOC|CRO|1998 Winter}} ||25|| ||
+|-
+! 26
+| [[Helena Grundberg]] || {{flagIOC|SWE|1998 Winter}} ||26|| ||
+|-
+! 27
+| [[Tony Bombardieri]] || {{flagIOC|ITA|1998 Winter}} ||27|| ||
+|-
+! 28
+| [[Sofia Penkova]] || {{flagIOC|BUL|1998 Winter}} ||28|| ||
+|}
+
+{{hidden begin|expanded=y|titlestyle=background-color:lightsteelblue|ta1=center|title=Rank in FS}}
+{| class="wikitable"
+|- align=center
+| Rank in FS || Skater || Judge (Australia) || Judge (Hungary) || Judge (Austria) || Judge (Germany) || Judge (United States) || Judge (Russia) || Judge (Ukraine) || Judge (Poland) || Judge (France) || Average
+|- align=center
+| 1 || Tara Lipinski || 1 || 1 || 1 || 2 || 2 || 1 || 1 || 2 || 1 || 1.3
+|- align=center
+| 2 || Michelle Kwan || 2 || 2 || 2 || 1 || 1 || 2 || 2 || 1 || 2 || 1.7
+|- align=center
+| 3 || Chen Lu || 3 || 4 || 3 || 3 || 4 || 5 || 4 || 4 || 4 || 3.8
+|- align=center
+| 4 || Maria Butyrskaya || 5 || 5 || 5 || 4 || 5 || 3 || 3 || 3 || 3 || 4.0
+|- align=center
+| 5 || Irina Slutskaya || 4 || 3 || 4 || 5 || 3 || 4 || 5 || 5 || 5 || 4.2
+|}
+
+FS=Free Skating
+{{hidden end}}
+
+{{hidden begin|expanded=y|titlestyle=background-color:lightsteelblue|ta1=center|title=Final Rank}}
+
+{| class="wikitable"
+|- align=center
+| Final Rank || Skater || Rank in SP || Rank in FS || Total Score
+|- align=center
+| 1 || Tara Lipinski || 2 || 1 || 2.0 ( 2 * 0.5 + 1 = 2.0 )
+|- align=center
+| 2 || Michelle Kwan || 1 || 2 || 2.5 ( 1 * 0.5 + 2 = 2.5 )
+|- align=center
+| 3 || Chen Lu || 4 || 3 || 5.0 ( 4 * 0.5 + 3 = 5.0 )
+|- align=center
+| 4 || Maria Butyrskaya || 3 || 4 || 5.5 ( 3 * 0.5 + 4 = 5.5 )
+|- align=center
+| 5 || Irina Slutskaya || 5 || 5 || 7.5 ( 5 * 0.5 + 5 = 7.5 )
+|}
+
+SP=Short Program, FS=Free Skating
+{{hidden end}}
+
+'''Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Sally-Anne Stapleford]]
+
+'''Assistant Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Tjasa Andrée|Tjasa Andrée-Prosenc]]
+
+'''Judges:'''
+* {{flagicon|AUS}} [[Frank A. Parsons]]
+* {{flagicon|HUN}} [[Judit Furst-Tombor]]
+* {{flagicon|AUT}} [[Karin Ehrhardt]]
+* {{flagicon|GER}} [[Jan Hoffmann]]
+* {{flagicon|USA}} [[Susan A. Johnson]]
+* {{flagicon|RUS}} [[Anatoli Bogatyrev]]
+* {{flagicon|UKR}} [[Alfred Korytek]]
+* {{flagicon|POL}} [[Maria Miller (figure skater)|Maria Miller]]
+* {{flagicon|FRA}} [[Anne Hardy Thomas]]
+* {{flagicon|CZE}} [[Liliana Řeháková|Liliana Střechová]] (substitute)
+
+===Pairs===
+[[Artur Dmitriev]] of Russia won his second Olympic gold here. He had previously won in 1992 with a different partner. He was the first man to win the Olympics more than once with different partners.<ref>{{Cite news|url=https://www.nytimes.com/1998/02/11/sports/xviii-winter-games-figure-skating-dmitriev-rises-occasion-pairs-once-again.html|title=THE XVIII WINTER GAMES: FIGURE SKATING; Dmitriev Rises to Occasion in Pairs Once Again|last=Longman|first=Jere|date=1998-02-11|work=The New York Times|access-date=2019-05-05|language=en-US|issn=0362-4331}}</ref> The first woman to do so was Russian skater [[Irina Rodnina]], who won three Olympics with two different partners.
+
+====Full results====
+{| class="wikitable sortable"
+|-
+! Rank
+! Name
+! Nation
+! {{abbr|SP|Short program}}
+! {{abbr|FS|Free skating}}
+! {{abbr|TFP|Total Fact. Places}}
+|- style="background:gold"
+| style="text-align:center" | '''1'''
+| [[Oksana Kazakova]] / [[Artur Dmitriev]] || {{flagIOC|RUS|1998 Winter}} ||1||1||1.5
+|- style="background:silver"
+| style="text-align:center" | '''2'''
+| [[Elena Berezhnaya]] / [[Anton Sikharulidze]] || {{flagIOC|RUS|1998 Winter}} ||3||2||3.5
+|- style="background:#cc9966"
+| style="text-align:center" | '''3'''
+| [[Mandy Wötzel]] / [[Ingo Steuer]] || {{flagIOC|GER|1998 Winter}} ||2||3||4.0
+|-
+! 4
+| [[Kyoko Ina]] / [[Jason Dungjen]] || {{flagIOC|USA|1998 Winter}} ||4||4||6.0
+|-
+! 5
+| [[Shen Xue]] / [[Zhao Hongbo]] || {{flagIOC|CHN|1998 Winter}} ||8||5||9.0
+|-
+! 6
+| [[Sarah Abitbol]] / [[Stéphane Bernadis]] || {{flagIOC|FRA|1998 Winter}} ||7||6||9.5
+|-
+! 7
+| [[Marina Eltsova]] / [[Andrei Bushkov]] || {{flagIOC|RUS|1998 Winter}} ||5||7||9.5
+|-
+! 8
+| [[Jenni Meno]] / [[Todd Sand]] || {{flagIOC|USA|1998 Winter}} ||6||9||12.0
+|-
+! 9
+| [[Peggy Schwarz]] / [[Mirko Müller]] || {{flagIOC|GER|1998 Winter}} ||9||8||12.5
+|-
+! 10
+| [[Dorota Zagórska]] / [[Mariusz Siudek]] || {{flagIOC|POL|1998 Winter}} ||10||11||16.0
+|-
+! 11
+| [[Evgenia Filonenko]] / [[Igor Marchenko (figure skater)|Igor Marchenko]] || {{flagIOC|UKR|1998 Winter}} ||13||10||16.5
+|-
+! 12
+| [[Kristy Sargeant]] / [[Kris Wirtz]] || {{flagIOC|CAN|1998 Winter}} ||11||12||17.5
+|-
+! 13
+| [[Danielle McGrath]] / [[Stephen Carr (figure skater)|Stephen Carr]] || {{flagIOC|AUS|1998 Winter}} ||15||13||20.5
+|-
+! 14
+| [[Marina Khalturina]] / [[Andrei Krukov]] || {{flagIOC|KAZ|1998 Winter}} ||16||14||22.0
+|-
+! 15
+| [[Kateřina Beránková]] / [[Otto Dlabola]] || {{flagIOC|CZE|1998 Winter}} ||14||15||22.0
+|-
+! 16
+| [[Marie-Claude Savard-Gagnon]] / [[Luc Bradet]] || {{flagIOC|CAN|1998 Winter}} ||12||16||22.0
+|-
+! 17
+| [[Sabrina Lefrançois]] / [[Nicolas Osseland]] || {{flagIOC|FRA|1998 Winter}} ||17||17||25.5
+|-
+! 18
+| [[Inga Rodionova]] / Aleksandr Anichenko || {{flagIOC|AZE|1998 Winter}} ||19||18||27.5
+|-
+! 19
+| [[Maria Krasiltseva]] / [[Alexander Chestnikh]] || {{flagIOC|ARM|1998 Winter}} ||18||19||28.0
+|-
+! 20
+| [[Marie Arai]] / [[Shin Amano]] || {{flagIOC|JPN|1998 Winter}} ||20||20||30.0
+|}
+
+'''Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Walburga Grimm]]
+
+'''Assistant Referee:'''
+*[[File:International_Skating_Union.svg|20px]] [[Ronald T. Pfenning]]
+
+'''Judges:'''
+* {{flagicon|CHN}} [[Yang Jiasheng]]
+* {{flagicon|CAN}} [[John Greenwood (figure skater)|John Greenwood]]
+* {{flagicon|GER}} [[Heinz-Ulrich Walther]]
+* {{flagicon|POL}} [[Anna Sierocka]]
+* {{flagicon|USA}} [[Roger A. Glenn]]
+* {{flagicon|CZE}} [[Olga Žáková]]
+* {{flagicon|AUS}} [[Donald McKnight]]
+* {{flagicon|RUS}} [[Marina Sanaya]]
+* {{flagicon|UK}} [[Alfred Korytek]]
+* {{flagicon|FRA}} [[Marie-Reine Le Gougne]] (substitute)
+
+===Ice dance===
+Grishuk and Platov became the first pair ever to repeat as champions in Olympic Ice Dance. They won 21 straight events before they won in Nagano.<ref>{{Cite news|url=https://www.nytimes.com/1998/02/17/sports/the-xviii-winter-games-figure-skating-russian-duo-remain-unbeatable.html|title=THE XVIII WINTER GAMES: FIGURE SKATING; Russian Duo Remain Unbeatable|last=Longman|first=Jere|date=1998-02-17|work=The New York Times|access-date=2018-03-20|language=en-US|issn=0362-4331|url-status=live|archive-url=https://web.archive.org/web/20160314213704/http://www.nytimes.com/1998/02/17/sports/the-xviii-winter-games-figure-skating-russian-duo-remain-unbeatable.html|archive-date=14 March 2016|df=dmy-all}}</ref>
+
+The judging was marred by accusations that the Europeans colluded in "bloc voting" (where judges tend to favor skaters from their regions), so that the dance teams representing their countries would take the medals, while keeping the Canadians off the podium.<ref>[https://pqasb.pqarchiver.com/thestar/access/498472201.html?dids=498472201:498472201&FMT=ABS&FMTS=ABS:FT&type=current&date=Feb+07%2C+1998&author=Steve+Milton&pub=The+Record&desc=Canadians+dig+for+gold+on+ice%3A+Bourne+and+Kraatz+will+battle+opponents+and+judges+in+Nagano&pqatl=google Canadians dig for gold on ice: Bourne and Kraatz will battle opponents and judges in Nagano] {{webarchive|url=https://web.archive.org/web/20121025211231/http://pqasb.pqarchiver.com/thestar/access/498472201.html?dids=498472201:498472201&FMT=ABS&FMTS=ABS:FT&type=current&date=Feb+07,+1998&author=Steve+Milton&pub=The+Record&desc=Canadians+dig+for+gold+on+ice:+Bourne+and+Kraatz+will+battle+opponents+and+judges+in+Nagano&pqatl=google |date=25 October 2012 }}, Steve Milton, 7 February 1998</ref><ref>[http://sportsillustrated.cnn.com/olympics/2002/news/2002/02/12/skating_judging/ Skating federation to investigate judging] {{webarchive|url=https://web.archive.org/web/20110604175359/http://sportsillustrated.cnn.com/olympics/2002/news/2002/02/12/skating_judging/ |date=4 June 2011 }}, sportsillustrated.cnn.com, 12 February 2002</ref>
+
+====Full results====
+{| class="wikitable sortable"
+|-
+! Rank
+! Name
+! Nation
+! {{abbr|CD|Compulsory dance}}1
+! {{abbr|CD|Compulsory dance}}2
+! {{abbr|OD|Original dance}}
+! {{abbr|FD|Free dance}}
+! {{abbr|TFP|Total Fact. Places}}
+|- style="background:gold"
+| style="text-align:center" | '''1'''
+| [[Oksana Grishuk|Pasha Grishuk]] / [[Evgeni Platov]] || {{flagIOC|RUS|1998 Winter}} ||1||1||1||1||2.0
+|- style="background:silver"
+| style="text-align:center" | '''2'''
+| [[Anjelika Krylova]] / [[Oleg Ovsyannikov]] || {{flagIOC|RUS|1998 Winter}} ||2||2||2||2||4.0
+|- style="background:#cc9966"
+| style="text-align:center" | '''3'''
+| [[Marina Anissina]] / [[Gwendal Peizerat]] || {{flagIOC|FRA|1998 Winter}} ||3||3||3||4||7.0
+|-
+! 4
+| [[Shae-Lynn Bourne]] / [[Victor Kraatz]] || {{flagIOC|CAN|1998 Winter}} ||5||4||4||3||7.2
+|-
+! 5
+| [[Irina Lobacheva]] / [[Ilia Averbukh]] || {{flagIOC|RUS|1998 Winter}} ||4||5||5||5||9.8
+|-
+! 6
+| [[Barbara Fusar-Poli]] / [[Maurizio Margaglio]] || {{flagIOC|ITA|1998 Winter}} ||6||6||6||6||12.0
+|-
+! 7
+| [[Elizabeth Punsalan]] / [[Jerod Swallow]] || {{flagIOC|USA|1998 Winter}} ||7||7||7||7||14.0
+|-
+! 8
+| [[Margarita Drobiazko]] / [[Povilas Vanagas]] || {{flagIOC|LTU|1998 Winter}} ||8||9||8||8||16.2
+|-
+! 9
+| [[Irina Romanova (figure skater)|Irina Romanova]] / [[Igor Yaroshenko]] || {{flagIOC|UKR|1998 Winter}} ||9||8||10||9||18.4
+|-
+! 10
+| [[Kati Winkler]] / [[René Lohse]] || {{flagIOC|GER|1998 Winter}} ||11||11||9||10||19.8
+|-
+! 11
+| [[Sophie Moniotte]] / [[Pascal Lavanchy]] || {{flagIOC|FRA|1998 Winter}} ||10||10||12||11||22.2
+|-
+! 12
+| [[Sylwia Nowak]] / [[Sebastian Kolasiński]] || {{flagIOC|POL|1998 Winter}} ||12||12||11||12||23.4
+|-
+! 13
+| [[Kateřina Mrázová (figure skater)|Kateřina Mrázová]] / [[Martin Šimeček]] || {{flagIOC|CZE|1998 Winter}} ||13||13||13||13||26.0
+|-
+! 14
+| [[Galit Chait]] / [[Sergei Sakhnovski]] || {{flagIOC|ISR|1998 Winter}} ||17||14||14||14||28.6
+|-
+! 15
+| [[Elena Grushina]] / [[Ruslan Goncharov]] || {{flagIOC|UKR|1998 Winter}} ||15||16||15||15||30.2
+|-
+! 16
+| [[Tatiana Navka]] / [[Nikolai Morozov (figure skater)|Nikolai Morozov]] || {{flagIOC|BLR|1998 Winter}} ||14||15||17||16||32.0
+|-
+! 17
+| [[Diane Gerencser]] / [[Pasquale Camerlengo]] || {{flagIOC|ITA|1998 Winter}} ||16||17||16||17||33.2
+|-
+! 18
+| [[Albena Denkova]] / [[Maxim Staviski]] || {{flagIOC|BUL|1998 Winter}} ||18||18||18||18||36.0
+|-
+! 19
+| [[Chantal Lefebvre]] / [[Michel Brunet (figure skater)|Michel Brunet]] || {{flagIOC|CAN|1998 Winter}} ||19||19||19||19||38.0
+|-
+! 20
+| [[Dominique Deniaud]] / [[Martial Jaffredo]] || {{flagIOC|FRA|1998 Winter}} ||20||21||21||20||40.8
+|-
+! 21
+| [[Jessica Joseph]] / [[Charles Butler (figure skater)|Charles Butler]] || {{flagIOC|USA|1998 Winter}} ||22||20||20||21||41.4
+|-
+! 22
+| [[Elizaveta Stekolnikova]] / [[Dmitri Kazarlyga]] || {{flagIOC|KAZ|1998 Winter}} ||23||22||22||22||44.2
+|-
+! 23
+| [[Aya Kawai]] / [[Hiroshi Tanaka (figure skater)|Hiroshi Tanaka]] || {{flagIOC|JPN|1998 Winter}} ||21||23||23||23||45.6
+|-
+! 24
+| [[Ksenia Smetanenko]] / [[Samuel Gezalian]] || {{flagIOC|ARM|1998 Winter}} ||24||24||24||24||48.0
+|}
+
+'''Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Wolfgang Kunz]]
+
+'''Assistant Referee:'''
+* [[File:International_Skating_Union.svg|20px]] [[Aleksandr Gorshkov (figure skater)|Alexander Gorshkov]]
+
+'''Judges:'''
+* {{flagicon|CAN}} [[Jean Senft]]
+* {{flagicon|POL}} [[Halina Gordon-Półtorak]]
+* {{flagicon|LIT}} [[Eugenia Gasiorowska]]
+* {{flagicon|UKR}} [[Yuri Balkov]]
+* {{flagicon|GER}} [[Ulf Denzer]]
+* {{flagicon|CZE}} [[Jarmila Portová]]
+* {{flagicon|RUS}} [[Alla Shekhovtsova]]
+* {{flagicon|ITA}} [[Walter Zuccaro]]
+* {{flagicon|FRA}} [[Jean-Bernard Hamel]]
+* {{flagicon|USA}} [[Robert J. Horen]] (substitute)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.skatecanada.ca/en/events_results/results/archives/1997/8olympics.html 1998 Winter Olympics at Skate Canada] {{Webarchive|url=https://web.archive.org/web/20070929110858/http://www.skatecanada.ca/en/events_results/results/archives/1997/8olympics.html |date=29 September 2007 }}
+* [https://web.archive.org/web/20070927003339/http://www.iceskatingintnl.com/archive/results_olympics/olymp98.htm 1998 Winter Olympics at Ice Skating International]
+* [https://www.washingtonpost.com/wp-srv/sports/longterm/olympics1998/sport/figskate/articles/cards20.htm Judges Scoring of Ladies Free Skating-all skaters]
+
+Men
+* [https://www.nytimes.com/1998/02/15/sports/xviii-winter-games-figure-skating-kulik-russia-rides-his-quad-figure-skating.html?ref=elvisstojko "THE XVIII WINTER GAMES: FIGURE SKATING; Kulik of Russia Rides His Quad to Figure-Skating Gold"], ''The New York Times''
+* [https://www.latimes.com/archives/la-xpm-1998-feb-15-sp-19607-story.html "Stojko wins silver for second time"], ''Los Angeles Times''
+Ladies
+* [https://www.washingtonpost.com/wp-srv/sports/longterm/olympics1998/sport/figskate/articles/short18.htm Kwan Lipinski Short program], ''The Washington Post''
+* [https://web.archive.org/web/20110628221837/http://sportsillustrated.cnn.com/olympics/events/1998/nagano/news/1998/02/20/roundup/ Lipinski wins], ''Sports Illustrated''
+Pair
+* [https://www.nytimes.com/1998/02/09/sports/xviii-winter-games-figure-skating-paris-part-one-spilling-skaters-uneven-judging.html?src=pm Dmitriev Kazakova], ''The New York Times''
+* [https://www.nytimes.com/1998/02/11/sports/xviii-winter-games-figure-skating-dmitriev-rises-occasion-pairs-once-again.html?scp=6&sq=dmitriev%20gold%20nagano&st=cse "Gold and Silver go to Russia"], ''The New York Times''
+Dance
+* [https://web.archive.org/web/20110628214353/http://www.latimes.com/sns-olympics-021502icedance,0,6117758.story "Grishuk and Platov win again!"], ''Los Angeles Times''
+
+{{Events at the 1998 Winter Olympics}}
+{{Figure skating at the Olympic Games}}
+{{1997–98 in figure skating}}
+
+{{DEFAULTSORT:Figure Skating At The 1998 Winter Olympics}}
+[[Category:Figure skating at the 1998 Winter Olympics| ]]
+[[Category:Events at the 1998 Winter Olympics]]
+[[Category:Figure skating at the Olympic Games|1998]]
+[[Category:1998 in figure skating]]
+[[Category:International figure skating competitions hosted by Japan]]

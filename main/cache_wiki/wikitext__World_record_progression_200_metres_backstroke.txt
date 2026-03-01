@@ -1,0 +1,3494 @@
+{{Short description|none}}
+{{main|List of world records in swimming}}
+[[File:Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m.png|thumb|Graphs of the progression of the World Records in all four strokes (50 m, 100 m and 200 m distances) until 2010.]]
+
+This is a history of the progression of the '''world record''' for the '''200-meter [[backstroke]]''' event.  It is a listing of the fastest-time-ever swum in the event, in both [[long course]] (50-meter) and [[Short course (swimming)|short course]] (25-meter) swimming pools.  These records are maintained/recognized by [[FINA]], which oversees international competitive swimming and aquatics.
+
+The long course records are historically older than the short course records; the latter having only been recognized since the early 1990s.
+
+==Men==
+
+===Long course===
+
+====Old regulations====
+
+{| class="wikitable" style="border-collapse: collapse; font-size: 95%;"
+|-
+! width="2" |No
+!Time
+!Name
+!Nationality
+!Date
+!Location
+|-
+|'''1'''
+|align="center" |'''3'04"4'''
+|[[Oscar Schiele]]
+|{{flagicon|GER|empire}} [[German Empire|Germany]]
+|align="center" |27 June 1909
+|Berlin, Germany<ref>[http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000119049302?hp=2&page=2&query=%22oskar+schiele%22 Schwimmen im Kochsee]; [[Berliner Volkszeitung]]; 29 June 1909; via the [[European Library]]</ref>
+|-
+|'''2'''
+|align="center" |'''2'59"8'''
+|[[George Arnold (swimmer)|George Arnold]]
+|{{flagicon|GER|empire}} [[German Empire|Germany]]
+|align="center" |3 January 1910
+|[[Magdeburg]], Germany
+|-
+|'''3'''
+|align="center" |'''2'56"4'''
+|[[Maurice Wechesser]]
+|{{flagu|Belgium}}
+|align="center" |18 October 1910
+|[[Schaerbeek]], Belgium
+|-
+|'''4'''
+|align="center" |'''2'50"6'''
+|[[Hermann Pentz]]
+|{{flagicon|GER|empire}} [[German Empire|Germany]]
+|align="center" |11 March 1911
+|[[Magdeburg]], Germany
+|-
+|'''5'''
+|align="center" |'''2'48"4'''
+|[[Otto Fahr]]
+|{{flagicon|GER|empire}} [[German Empire|Germany]]
+|align="center" |3 April 1912
+|[[Magdeburg]], Germany
+|-
+|'''6'''
+|align="center" |'''2'47"1'''
+|[[Walter Laufer]]
+|{{flagu|United States}}
+|align="center" |24 June 1926
+|[[Bremen]], Germany<ref>{{cite news|title=New World Record |url=https://www.newspapers.com/clip/5629495/|newspaper=Bluefield Daily Telegraph|date=25 June 1926|page=6|via = [[Newspapers.com]]|access-date = June 19, 2016 }} {{Open access}}</ref>
+|-
+|'''7'''
+|align="center" |'''2'44"9'''
+|[[Walter Laufer]]
+|{{flagu|United States}}
+|align="center" |11 July 1926
+|[[Nuremberg]], Germany
+|-
+|'''8'''
+|align="center" |'''2'38"8'''
+|[[Walter Laufer]]
+|{{flagu|United States}}
+|align="center" |13 July 1926
+|[[Magdeburg]], Germany<ref>[http://www.theeuropeanlibrary.org/tel4/newspapers/issue/3000094162052?hp=5&page=5&query=laufer&decade=1920-1929&month=7 Uued ilmarekordid]; [[Waba Maa]]; 16 July 1926; via the [[European Library]]</ref><ref>{{cite news|title=LAUFER BREAKS FOURTH SWIM MARK IN GERMANY |url=https://www.newspapers.com/clip/5629576/walter_laufer_in_magdeburg/|newspaper=The Indianapolis News|date=14 July 1926|page=20|via = [[Newspapers.com]]|access-date = June 19, 2016 }} {{Open access}}</ref>
+|-
+|'''9'''
+|align="center" |'''2'37"8'''
+|[[Toshio Irie]]
+|{{flagu|Japan}}
+|align="center" |14 October 1928
+|Tamagawa, Japan<ref>[https://web.archive.org/web/20200417170135/https://www.sports-reference.com/olympics/athletes/ir/toshio-irie-1.html Toshio Irie] at [[sports-reference.com]]</ref>
+|-
+|'''10'''
+|align="center" |'''2'32"2'''
+|[[George Kojac]]
+|{{flagu|United States}}
+|align="center" |16 June 1930
+|[[New Haven]], United States
+|-
+|'''11'''
+|align="center" |'''2'27"8'''
+|[[Al Vande Weghe]]
+|{{flagu|United States}}
+|align="center" |30 August 1934
+|[[Honolulu]], Hawaii
+|-
+|'''12'''
+|align="center" |'''2'24"0'''
+|[[Adolph Kiefer]]
+|{{flagu|United States}}
+|align="center" |11 April 1935
+|[[Chicago]], United States
+|-
+|'''13'''
+|align="center" |'''2'23"0'''
+|[[Adolph Kiefer]]
+|{{flagu|United States}}
+|align="center" |23 May 1941
+|[[Honolulu]], Hawaii
+|-
+|'''14'''
+|align="center" |'''2'22"9'''
+|[[Harry Holiday]]
+|{{flagu|United States}}
+|align="center" |18 May 1943
+|[[Detroit]], United States
+|-
+|'''15'''
+|align="center" |'''2'19"3'''
+|[[Adolph Kiefer]]
+|{{flagu|United States}}
+|align="center" |4 March 1944
+|[[Annapolis]], United States
+|-
+|'''16'''
+|align="center" |'''2'18"5'''
+|[[Allen Stack]]
+|{{flagu|United States}}
+|align="center" |4 May 1949
+|[[New Haven]], United States
+|-
+|'''17'''
+|align="center" |'''2'18"3'''
+|[[Gilbert Bozon]]
+|{{flagu|France}}
+|align="center" |26 June 1953
+|[[Algiers]], Algeria
+|-
+|}
+
+====New regulations====
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+<!-- These records from 1910 to 1941 have been temporarily hidden because of the doubtful reliability of several of them based on the years of the records and ages of swimmers.  We are working to confirm these records with independent newspaper accounts.
+{{Swimmingrecord
+|number = 
+|time = 2:59.8
+|recordinfo = 
+|firstname = G.
+|lastname = Arnold
+|namearticle = 
+|club = {{flagicon|GER}} Germany
+|date = {{Dts|link=off|format=dmy|1910|January|3}}
+|meet = -
+|city = Magdeburg
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:56.4
+|recordinfo = 
+|firstname = W.
+|lastname = Weckesser
+|namearticle = 
+|club = {{flagicon|BEL}} Belgium
+|date = {{Dts|link=off|format=dmy|1910|October|18}}
+|meet = -
+|city = Schaerbeek
+|country = BEL
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:50.6
+|recordinfo = 
+|firstname = Hermann
+|lastname = Pentz
+|namearticle = 
+|club = {{flagicon|GER}} Germany
+|date = {{Dts|link=off|format=dmy|1911|March|11}}
+|meet = -
+|city = Magdeburg
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:48.4
+|recordinfo = 
+|firstname = Otto
+|lastname = Fahr
+|namearticle = 
+|club = {{flagicon|GER}} Germany
+|date = {{Dts|link=off|format=dmy|1912|April|3}}
+|meet = -
+|city = Magdeburg
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:47.1
+|recordinfo = 
+|firstname = Walter
+|lastname = Laufer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1926|June|24}}
+|meet = -
+|city = Bremen
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:44.9
+|recordinfo = 
+|firstname = Walter
+|lastname = Laufer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1926|July|11}}
+|meet = -
+|city = Nuremberg
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:38.8
+|recordinfo = 
+|firstname = Walter
+|lastname = Laufer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1926|July|13}}
+|meet = -
+|city = Magdeburg
+|country = GER
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:37.8
+|recordinfo = 
+|firstname = Toshio
+|lastname = Irie
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1928|October|14}}
+|meet = -
+|city = Tamagawa
+|country = JPN
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:32.2
+|recordinfo = 
+|firstname = George
+|lastname = Kojac
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1928|October|14}}
+|meet = -
+|city New Haven
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:27.8
+|recordinfo = 
+|firstname = Al
+|lastname = Vande Weghe
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1928|July|13}}
+|meet = -
+|city = Honolulu
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:24.0
+|recordinfo = 
+|firstname = Adolph
+|lastname = Kiefer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1928|October|14}}
+|meet = -
+|city = Chicago
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:23.0
+|recordinfo = 
+|firstname = Adolph
+|lastname = Kiefer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1930|June|16}}
+|meet = -
+|city = Honolulu
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:22.9
+|recordinfo = 
+|firstname = Harry
+|lastname = Holiday
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1934|August|30}}
+|meet = -
+|city = Detroit
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:19.3
+|recordinfo = 
+|firstname = Adolph
+|lastname = Kiefer
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1935|April|11}}
+|meet = -
+|city = Annapolis
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number = 
+|time = 2:18.5
+|recordinfo = 
+|firstname = Allen
+|lastname = Stack
+|namearticle = 
+|club = {{flagicon|USA}} United States
+|date = {{Dts|link=off|format=dmy|1941|May|23}}
+|meet = -
+|city = New Haven
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}} -->
+{{Swimmingrecord
+|number =01 
+|time = 2:18.5
+|recordinfo =
+|firstname = Allen
+|lastname = Stack
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1949|May|4}}
+|meet = -
+|city = New Haven
+|country = USA
+|ref = <ref name=ishof200lcmen>International Swimming Hall of Fame, Current Exhibits, [https://web.archive.org/web/20100716153323/http://www.ishof.org/exhibits/world_records/200back_men.htm  World Records: Men - 200m Backstroke].  Archived July 16, 2010.  Retrieved March 12, 2015.</ref><ref>Associated Press, "[https://www.newspapers.com/image/28091981/?terms=%22Frank%2BMcKinney%22%2B2%3A17.9  Sets Swim Record]", ''The Ottawa Journal'' (May 5, 1949).|Retrieved March 12, 2015.</ref>
+}}
+{{Swimmingrecord
+|number =02 
+|time = 2:18.3
+|recordinfo = 
+|firstname = Gilbert
+|lastname = Bozon
+|namearticle = 
+|club = {{flagu|France}}
+|date = {{Dts|format=dmy|1953|June|26}}
+|meet = -
+|city = Algiers
+|country = ALG
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =03 
+|time = 2:18.8
+|recordinfo = 
+|firstname = John
+|lastname = Monckton
+|namearticle = John Monckton (swimmer)
+|club = {{flagicon|AUS}} Australia
+|date = {{Dts|format=dmy|1958|January|15}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =04 
+|time = 2:18.4
+|recordinfo = 
+|firstname = John
+|lastname = Monckton
+|namearticle = John Monckton (swimmer)
+|club = {{flagicon|AUS}} Australia
+|date = {{Dts|format=dmy|1958|February|18}}
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =05 
+|time = 2:17.9
+|recordinfo = 
+|firstname = Frank
+|lastname = McKinney
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1959|July|12}}
+|meet = -
+|city = Los Altos, California{{!}}Los Altos
+|country = USA
+|ref = <ref name=ishof200lcmen/><ref>United Press International, "[https://www.newspapers.com/image/10769612/?terms=%22Frank%2BMcKinney%22%2B2%3A17.9  Paddler Sets Record in Back Event]", ''The Salt Lake Tribune'', p. 26 (July 13, 1959).  Retrieved March 12, 2015.</ref>
+}}
+{{Swimmingrecord
+|number =06 
+|time = 2:17.8
+|recordinfo = 
+|firstname = Frank
+|lastname = McKinney
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1959|July|25}}
+|meet = -
+|city = Osaka
+|country = JPN
+|ref = <ref name=ishof200lcmen/><ref>Associated Press, "[https://www.newspapers.com/image/28091981/?terms=%22Frank%2BMcKinney%22%2B2%3A17.9  U.S. Swimmers Take Early Lead in Jap Swimming Meet]", ''The Ogden Standard-Examiner'', p. 2B (July 26, 1959).  Retrieved March 12, 2015.</ref>
+}}
+{{Swimmingrecord
+|number =07 
+|time = 2:17.6
+|recordinfo = 
+|firstname = Chuck
+|lastname = Bittick
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1960|June|26}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =08 
+|time = 2:16.0
+|recordinfo = 
+|firstname = Tom
+|lastname = Stock
+|namearticle = Tom Stock (swimmer)
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1960|July|24}}
+|meet = -
+|city = Toledo, Ohio{{!}}Toledo
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =09 
+|time = 2:13.2
+|recordinfo = 
+|firstname = Tom
+|lastname = Stock
+|namearticle = Tom Stock (swimmer)
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1961|July|2}}
+|meet = -
+|city = Chicago
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =10 
+|time = 2:11.5
+|recordinfo = 
+|firstname = Tom
+|lastname = Stock
+|namearticle = Tom Stock (swimmer)
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1961|August|20}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =11 
+|time = 2:10.9
+|recordinfo = 
+|firstname = Tom
+|lastname = Stock
+|namearticle = Tom Stock (swimmer)
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1962|August|10}}
+|meet = -
+|city = Cuyahoga Falls
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =12 
+|time = 2:10.3
+|recordinfo = 
+|firstname = Jed
+|lastname = Graef
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1964|October|13}}
+|meet = [[Swimming at the 1964 Summer Olympics|1964 Summer Olympics]]
+|city = Tokyo
+|country = JPN
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =13 
+|time = 2:09.4
+|recordinfo = 
+|firstname = Charles
+|lastname = Hickcox
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1967|August|29}}
+|meet = [[1967 Summer Universiade]]
+|city = Tokyo
+|country = JPN
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =14 
+|time = 2:07.9
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1967|November|8}}
+|meet = -
+|city = Leipzig
+|country = GDR
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =15 
+|time = 2:07.5
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1968|August|14}}
+|meet = GDR Olympic Trials
+|city = Leipzig
+|country = GDR
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =16 
+|time = 2:07.4
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1969|July|12}}
+|meet = Santa Clara Invitational
+|city = Santa Clara, California{{!}}Santa Clara
+|country = USA
+|ref = <ref name=ishof200lcmen/><ref>{{cite web|url=http://www.corbisimages.com/stock-photo/rights-managed/U1637718/roland-matthes-being-embraced-by-opponent-in|title=Roland Matthes Being Embraced by Opponent in Pool|work=Corbis Images|date=July 12, 1969|access-date=March 15, 2015}}</ref>
+}}
+{{Swimmingrecord
+|number =17 
+|time = 2:06.6
+|recordinfo = 
+|firstname = Gary
+|lastname = Hall
+|namearticle = Gary Hall Sr.
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1969|August|14}}
+|meet = AAU Nationals
+|city = Louisville ||cityarticle = Louisville, Kentucky
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =17 
+|time = 2:06.6
+|recordinfo = =
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1969|August|29}}
+|meet = -
+|city = Berlin
+|country = FRG
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =18 
+|time = 2:06.3
+|recordinfo = 
+|firstname = Mike
+|lastname = Stamm
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1970|August|20}}
+|meet = AAU Nationals
+|city = Los Angeles
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =19 
+|time = 2:06.1
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1970|September|11}}
+|meet = European Championships
+|city = Barcelona
+|country = ESP
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =20 
+|time = 2:05.6
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1971|September|3}}
+|meet = GDR vs USA Duel
+|city = Leipzig
+|country = GDR
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =21 
+|time = 2:02.8
+|recordinfo = 
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1972|July|10}}
+|meet = GDR Olympic Trials
+|city = Leipzig
+|country = GDR
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =21 
+|time = 2:02.82
+|recordinfo = =
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1972|September|2}}
+|meet = [[Swimming at the 1972 Summer Olympics|1972 Summer Olympics]]
+|city = Munich
+|country = FRG
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =22 
+|time = 2:01.87
+|firstname = Roland
+|lastname = Matthes
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1973|September|6}}
+|meet = World Championships
+|city = Belgrade
+|country = Yugoslavia
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =23 
+|time = 2:00.64
+|firstname = John
+|lastname = Naber
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1976|June|19}}
+|meet = USA Olympic Trials
+|city = Long Beach ||cityarticle = Long Beach, California
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =24 
+|time = 1:59.19
+|firstname = John
+|lastname = Naber
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1976|July|24}}
+|meet = [[Swimming at the 1976 Summer Olympics|1976 Summer Olympics]]
+|city = Montreal
+|country = CAN
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =25 
+|time = 1:58.93
+|firstname = Rick
+|lastname = Carey
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1983|August|3}}
+|meet = [[United States Swimming National Championships|1983 U.S. Summer Nationals]]
+|city = Clovis ||cityarticle = Clovis, California
+|country = USA
+|ref = <ref name=ishof200lcmen/><ref>"Rick Carey replaces John Naber as 200-meter back record holder", ''The Tuscaloosa News'' (August 3, 1983).</ref>
+}}
+{{Swimmingrecord
+|number =26 
+|time = 1:58.86
+|firstname = Rick
+|lastname = Carey
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1984|June|27}}
+|meet = [[United States Olympic Trials (swimming)|1984 U.S. Olympic Trials]]
+|city = Indianapolis
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =27 
+|time = 1:58.41
+|firstname = Sergei
+|lastname = Zabolotnov
+|namearticle = 
+|club = {{flagicon|URS}} Soviet Union
+|date = {{Dts|format=dmy|1984|August|21}}
+|meet = [[Friendship Games]]
+|city = Moscow
+|country = URS
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =28 
+|time = 1:58.14
+|firstname = Igor
+|lastname = Polyansky
+|namearticle = 
+|club = {{flagicon|URS}} Soviet Union
+|date = {{Dts|format=dmy|1985|March|3}}
+|meet = GDR vs URS Duel
+|city = Erfurt
+|country = GDR
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =29 
+|time = 1:57.30
+|firstname = Martin
+|lastname = Zubero
+|namearticle = 
+|club = {{flagu|Spain}}
+|date = {{Dts|format=dmy|1991|August|13}}
+|meet = [[United States Swimming National Championships|1991 U.S. Summer Nationals]]
+|city = Fort Lauderdale
+|country = USA
+|ref = <ref name=ishof200lcmen/><ref>Associated Press, "[https://www.latimes.com/archives/la-xpm-1991-08-14-sp-500-story.html Swimming National Meet: Barrowman, Zubero get world marks]," ''Los Angeles Times'' (August 14, 1991).  Retrieved April 14, 2012.</ref>
+}}
+{{Swimmingrecord
+|number =30 
+|time = 1:56.57
+|firstname = Martin
+|lastname = Zubero
+|namearticle = 
+|club = {{flagu|Spain}}
+|date = {{Dts|format=dmy|1991|November|23}}
+|meet = Alabama LC Invitational
+|city = Tuscaloosa ||cityarticle = Tuscaloosa, Alabama
+|country = USA
+|ref = <ref name=ishof200lcmen/><ref>"[https://www.orlandosentinel.com/1991/11/25/200-meter-backstroke-record-falls-to-former-uf-swimmer/ 200-meter Backstroke record falls to former UF swimmer]", ''Orlando Sentinel'' (November 25, 1991).  Retrieved April 14, 2012.</ref>
+}}
+{{Swimmingrecord
+|number =31 
+|time = 1:55.87
+|firstname = Lenny
+|lastname = Krayzelburg
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1999|August|27}}
+|meet = [[1999 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Sydney
+|country = AUS
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =32 
+|time = 1:55.15
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2002|March|20}}
+|meet = [[United States Spring Swimming Championships|US Spring National Championships]]
+|city = Minneapolis
+|country = USA
+|ref = <ref name=ishof200lcmen/>
+}}
+{{Swimmingrecord
+|number =33 
+|time = 1:54.74
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2004|July|12}}
+|meet = [[2004 United States Olympic Trials (swimming)|US Olympic Trials]]
+|city = Long Beach ||cityarticle = Long Beach, California
+|country = USA
+|ref = <ref>{{cite web|title=2004 U.S. Olympic Team Trials - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010409003B000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=12 July 2004|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number =34 
+|time = 1:54.66
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2005|July|29}}
+|meet = [[Swimming at the 2005 World Aquatics Championships – Men's 200 metre backstroke|World Championships]]
+|city = Montreal
+|country = CAN
+|ref = <ref>{{cite web|title=XI FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010509004D000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2005|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 35 
+|time = 1:54.44
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2006|August|19}}
+|meet = [[2006 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Victoria 
+|cityarticle = Victoria, British Columbia
+|country = CAN
+|ref = <ref>{{cite web|title=2006 Pan Pacific Swimming Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/Download?id=00010605002A000000FFFFFFFFFFFF01|work=Omega Timing|date=19 August 2006|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number =36 
+|time = 1:54.32
+|firstname = Ryan
+|lastname = Lochte
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2007|March|30}}
+|meet = [[Swimming at the 2007 World Aquatics Championships – Men's 200 metre backstroke|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=12th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001070D004B000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=30 March 2007|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number =36 
+|time = 1:54.32
+|recordinfo = =
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2008|July|4}}
+|meet = [[2008 United States Olympic Trials (swimming)|US Olympic Trials]]
+|city = Omaha
+|country = USA
+|ref = <ref>{{cite web|title=2008 U.S. Olympic Team Trials - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001080B003E000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=4 July 2008|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 37 
+|time = 1:53.94
+|firstname = Ryan
+|lastname = Lochte
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2008|August|15}}
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 200 metre backstroke|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|number = -
+|time = 1:52.86
+|recordinfo = 
+|firstname = Ryosuke
+|lastname = Irie
+|namearticle = 
+|nation = JPN
+|date = {{Dts|format=dmy|2009|May|10}}
+|meet = Duel in the Pool: Australia vs Japan
+|city = Canberra
+|country = AUS
+|ref = <ref name=M2009Duel>{{cite web|title=Men's 200&nbsp;m backstroke results|url=http://www.clubsonline.com.au/uploads/swimresults/National/2009Duel/090509F019.htm|publisher=[[Swimming Australia]]|date=10 May 2009|access-date=13 November 2011|archive-url=https://web.archive.org/web/20090724004418/http://www.clubsonline.com.au/uploads/swimresults/National/2009Duel/090509F019.htm|archive-date=24 July 2009|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 38 
+|time = 1:53.08
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2009|July|11}}
+|meet = [[United States Swimming National Championships|US National Championships]]
+|city = Indianapolis
+|country = USA
+|ref = <ref name=M2009US>{{cite web|title=2009 US National Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001090E003B000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=11 July 2009|access-date=14 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number =39 
+|time = 1:51.92
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2009|July|31}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Men's 200 metre backstroke|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=M2009WC>{{cite web|title=13th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001090B004B000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=31 July 2009|access-date=14 March 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = WB
+|time = 1:55.93
+|firstname = Mark 
+|lastname = Tewksbury
+|namearticle = 
+|club = {{flagu|Canada}}
+|date = {{Dts|format=dmy|1991|March|1}}
+|meet = World Cup
+|city = Toronto
+|country = CAN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 1
+|time = 1:52.51
+|firstname = Martin
+|lastname = Lopez-Zubero
+|namearticle = 
+|club = {{flagu|Spain}}
+|date = {{Dts|format=dmy|1991|April|10}}
+|meet = ?
+|city = Gainesville
+|cityarticle = Gainesville, Florida
+|country = USA
+|ref = <ref>(scm-m) [http://thisdayinhistoryinfo.info/sports/410.htm This Day in Sports History April 10] {{Webarchive|url=https://web.archive.org/web/20180419165110/http://thisdayinhistoryinfo.info/sports/410.htm |date=2018-04-19 }}; retrieved 2012-04-14.</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 1:52.47
+|firstname = Lenny
+|lastname = Krayzelburg
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1999|November|18}}
+|meet = World Cup
+|city = College Park
+|cityarticle = College Park, Maryland
+|country = USA
+|ref = <ref>(scm-m) ''[http://www.swimmingworldmagazine.com/lane9/news/1076.asp Three World Records set at World Cup]''. Published by ''[[Swimming World]]'' on 1999-11-20; retrieved 2012-04-14.</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:52.43
+|firstname = Lenny
+|lastname = Krayzelburg
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2000|February|06}}
+|meet = World Cup
+|city = Berlin
+|country = GER
+|ref = <ref>(scm-m) ''[https://www.latimes.com/archives/la-xpm-2000-feb-07-sp-61962-story.html Krayzelburg sets another swim record]'', [[Associated Press]]. Published by the ''[[Los Angeles Times]]'' on 2000-02-07; retrieved 2012-04-14.</ref>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:51.62
+|firstname = Matt
+|lastname = Welsh
+|namearticle = 
+|club = {{flagu|Australia}}
+|date = {{Dts|format=dmy|2000|October|13}}
+|meet = ?
+|city = Melbourne
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:51.62
+|recordinfo = =
+|firstname = Gordan
+|lastname = Kožulj
+|namearticle = 
+|club = {{flagu|Croatia}}
+|date = {{Dts|format=dmy|2001|January|21}}
+|meet = World Cup
+|city = Berlin
+|country = GER
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:51.17
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2002|April|7}}
+|meet = [[2002 FINA World Swimming Championships (25m)|World Championships]]
+|city = Moscow
+|country = RUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:50.52
+|firstname = Aaron
+|lastname = Peirsol
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2004|October|11}}
+|meet = [[2004 FINA World Swimming Championships (25m)|World Championships]]
+|city = Indianapolis
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:50.43
+|firstname = Markus
+|lastname = Rogan
+|namearticle = 
+|club = {{flagicon|AUT}} Austria
+|date = {{Dts|format=dmy|2005|December|8}}
+|meet = [[European Short Course Swimming Championships 2005|European Championships]]
+|city = Trieste
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:49.05
+|firstname = Ryan
+|lastname = Lochte
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2006|April|9}}
+|meet = [[2006 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:47.84
+|firstname = Markus
+|lastname = Rogan
+|namearticle = 
+|club = {{flagicon|AUT}} Austria
+|date = {{Dts|format=dmy|2008|April|13}}
+|meet = [[2008 FINA World Swimming Championships (25m)|World Championships]]
+|city = Manchester
+|country = UK
+|ref = <ref name=M2008WC>{{cite web|title=9th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001080E005B000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 April 2008|access-date=8 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:47.08
+|firstname = George
+|lastname = Du Rand
+|namearticle = 
+|club = {{flagicon|RSA}} South Africa
+|date = {{Dts|format=dmy|2009|November|7}}
+|meet = [[2009 FINA Swimming World Cup|World Cup]]
+|city = Moscow
+|country = RUS
+|ref = <ref name=M2009Moscow>{{cite web|title=2009 FINA World Cup (Moscow) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000109070043000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=7 November 2009|access-date=8 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:46.11
+|firstname = Arkady
+|lastname = Vyatchanin
+|namearticle = 
+|club = {{flagicon|RUS}} Russia
+|date = {{Dts|format=dmy|2009|November|15}}
+|meet = [[2009 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref name=M2009Berlin>{{cite web|title=2009 FINA World Cup (Berlin) - Men's 200m Backstroke Final Results|url=http://www.omegatiming.com/File/Download?id=000109050042000000FFFFFFFFFFFF01|publisher=Omega Timing|date=15 November 2009|access-date=8 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:45.63
+|firstname = Mitch
+|lastname = Larkin
+|namearticle = 
+|club = {{flagicon|AUS}} Australia
+|date = {{Dts|format=dmy|2015|November|27}}
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Sydney
+|country = AUS
+|ref = <ref name=M2015Aus>{{cite web |url=http://www.swimvortex.com/dolphin-mitch-larkin-leaps-to-145-6-wr-200-back-not-far-off-free-pace-of-the-albatross/ |title=Dolphin Mitch Larkin Leaps To 1:45.6 WR 200 Back Not Far Off Free Pace Of The Albatross |first1=Craig |last1=Lord |date=November 27, 2015 |publisher=Swimvortex |access-date=November 27, 2015 |archive-date=June 8, 2017 |archive-url=https://web.archive.org/web/20170608191914/http://www.swimvortex.com/dolphin-mitch-larkin-leaps-to-145-6-wr-200-back-not-far-off-free-pace-of-the-albatross/ |url-status=dead }}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:45.12
+|recordinfo = 
+|firstname = Hubert
+|lastname = Kós
+|namearticle = 
+|nation = HUN
+|date = {{Dts|format=dmy|2025|10|23}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|country = CAN
+|city = Toronto
+|cityarticle = 
+|ref = <ref name=M2025Toronto>{{cite web|title=2025 World Aquatics Cup (Toronto) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900080102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=23 October 2025|access-date=23 October 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==Women==
+
+===Long course===
+
+====Old Regulations====
+{| class="wikitable" style="border-collapse: collapse; font-size: 95%;"
+|-
+! width="2" |No
+!Time
+!Name
+!Nationality
+!Date
+!Location
+|-
+|'''1'''
+|align=center|'''3'06"8'''
+|[[Sybil Bauer]]
+|{{flagu|United States}}
+|align=center|4 July 1922
+|[[Brighton Beach]], United States
+|-
+|'''2'''
+|align=center|'''3'03"8'''
+|[[Sybil Bauer]]
+|{{flagu|United States}}
+|align=center|9 February 1924
+|[[Miami]], United States
+|-
+|'''3'''
+|align=center|'''2'59"2'''
+|[[Marie Braun]]
+|{{NLD}}
+|align=center|24 November  1928
+|[[Brussels]], Belgium
+|-
+|'''4'''
+|align=center|'''2'58"8'''
+|[[Eleanor Holm]]
+|{{flagu|United States}}
+|align=center|1 February 1930
+|[[Buffalo, New York|Buffalo]], United States
+|-
+|'''5'''
+|align=center|'''2'58"2'''
+|[[Eleanor Holm]]
+|{{flagu|United States}}
+|align=center|1 March 1930
+|New York City, United States
+|-
+|'''6'''
+|align=center|'''2'50"4'''
+|[[Phyllis Harding]]
+|{{flagu|United Kingdom}}
+|align=center|19 September 1932
+|[[Wallasey]], United Kingdom
+|-
+|'''7'''
+|align=center|'''2'49"6'''
+|[[Rie Mastenbroek]]
+|{{NLD}}
+|align=center|20 January 1935
+|[[Amsterdam]], Netherlands
+|-
+|'''8'''
+|align=center|'''2'48"7'''
+|[[Eleanor Holm]]
+|{{flagu|United States}}
+|align=center|3 March 1936
+|[[Toledo (Ohio)|Toledo]], United States
+|-
+|'''9'''
+|align=center|'''2'44"6'''
+|[[Nida Senff]]
+|{{NLD}}
+|align=center|2 February 1937
+|[[Amsterdam]], Netherlands
+|-
+|'''10'''
+|align=center|'''2'41"3'''
+|[[Ragnhild Hveger]]
+|{{DNK}}
+|align=center|14 February 1937
+|[[Århus]], Denmark
+|-
+|'''11'''
+|align=center|'''2'41"0'''
+|[[Cor Kint]]
+|{{NLD}}
+|align=center|17 April 1938
+|[[Århus]], Denmark
+|-
+|'''12'''
+|align=center|'''2'40"6'''
+|[[Iet van Feggelen]]
+|{{NLD}}
+|align=center|26 October 1938
+|[[Düsseldorf]], Germany
+|-
+|'''13'''
+|align=center|'''2'39"0'''
+|[[Iet van Feggelen]]
+|{{NLD}}
+|align=center|18 December 1938
+|[[Amsterdam]], Netherlands
+|-
+|'''14'''
+|align=center|'''2'38"8'''
+|[[Cor Kint]]
+|{{NLD}}
+|align=center|29 November 1939
+|[[Rotterdam]], Netherlands
+|-
+|'''15'''
+|align=center|'''2'35"3'''
+|[[Geertje Wielema]]
+|{{NLD}}
+|align=center|2 April 1950
+|[[Hilversum]], Netherlands
+|-
+|}
+
+====New Regulations====
+
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 2:39.9
+|firstname = Philippa
+|lastname = Gould
+|namearticle = 
+|club = {{flagicon|NZL}} New Zealand
+|date = {{Dts|format=dmy|1957|Jan|16}}
+|meet = ?
+|city = Auckland
+|country = NZL
+|ref = <ref name=ishof200lcwomen>International Swimming Hall of Fame, Current Exhibits, [https://web.archive.org/web/20100716152248/http://www.ishof.org/exhibits/world_records/200back_women.htm  World Records: Women - 200m Backstroke].  Archived July 16, 2010.  Retrieved March 12, 2015.</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 2:38.5
+|firstname = Lenie
+|lastname = de Nijs
+|namearticle = 
+|club = {{flagu|Netherlands}}
+|date = {{Dts|format=dmy|1957|May|17}}
+|meet = ?
+|city = Blackpool
+|country = UK
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 2:37.4
+|firstname = Chris
+|lastname = von Saltza
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1958|Aug|1}}
+|meet = ?
+|city = Topeka
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 2:37.1
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1959|Jul|12}}
+|meet = ?
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 2:34.8
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1960|Apr|2}}
+|meet = ?
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 2:33.5
+|firstname = Lynn
+|lastname = Burke
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1960|Jul|15}}
+|meet = ?
+|city = Indianapolis
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 2:33.3
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1960|Jul|23}}
+|meet = ?
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 2:33.2
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1961|Jul|30}}
+|meet = ?
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 2:32.1
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1962|Jun|3}}
+|meet = ?
+|city = Beppu
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 2:31.6
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1962|Jul|29}}
+|meet = ?
+|city = Osaka
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 2:29.6
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1963|Feb|10}}
+|meet = ?
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 2:28.9
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1963|Feb|18}}
+|meet = ?
+|city = Perth ||cityarticle = Perth, Western Australia
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 13
+|time = 2:28.5
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1963|Feb|21}}
+|meet = ?
+|city = Perth ||cityarticle = Perth, Western Australia
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 14
+|time = 2:28.2
+|firstname = Satoko
+|lastname = Tanaka
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = {{Dts|format=dmy|1963|Aug|4}}
+|meet = ?
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 2:27.4
+|firstname = Cathy
+|lastname = Ferguson
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1964|Sep|28}}
+|meet = ?
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 16
+|time = 2:27.1
+|firstname = Karen
+|lastname = Muir
+|namearticle = 
+|club = {{flagicon|RSA|1928}} South Africa
+|date = {{Dts|format=dmy|1966|Jul|25}}
+|meet = ?
+|city = Béziers
+|country = FRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 17
+|time = 2:26.4
+|firstname = Karen
+|lastname = Muir
+|namearticle = 
+|club = {{flagicon|RSA|1928}} South Africa
+|date = {{Dts|format=dmy|1966|Aug|18}}
+|meet = ?
+|city = Lincoln ||cityarticle = Lincoln, Nebraska
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 18 
+|time = 2:24.4
+|firstname = Elaine
+|lastname = Tanner
+|namearticle = 
+|club = {{flagu|Canada}}
+|date = {{Dts|format=dmy|1967|Jul|26}}
+|meet = [[Pan American Games]]
+|city = Winnipeg
+|country = CAN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 19
+|time = 2:24.1
+|firstname = Karen
+|lastname = Muir
+|namearticle = 
+|club = {{flagicon|RSA|1928}} South Africa
+|date = {{Dts|format=dmy|1968|Jan|6}}
+|meet = ?
+|city = Kimberley ||cityarticle = Kimberley, Northern Cape
+|country = RSA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 20
+|time = 2:23.8
+|firstname = Karen
+|lastname = Muir
+|namearticle = 
+|club = {{flagicon|RSA|1928}} South Africa
+|date = {{Dts|format=dmy|1968|Jul|21}}
+|meet = ?
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 21
+|time = 2:21.5
+|firstname = Susie
+|lastname = Atwood
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1969|Aug|14}}
+|meet = AAU Nationals
+|city = Louisville ||cityarticle = Louisville, Kentucky
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 22
+|time = 2:20.64
+|firstname = Melissa
+|lastname = Belote
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1972|Aug|5}}
+|meet = USA Olympic Trials
+|city = Chicago
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 23
+|time = 2:20.58
+|firstname = Melissa
+|lastname = Belote
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1972|Sep|4}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|number = 24
+|time = 2:19.19
+|firstname = Melissa
+|lastname = Belote
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1972|Sep|4}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|number = 25
+|time = 2:18.41
+|firstname = Ulrike
+|lastname = Richter
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1974|Jul|7}}
+|meet = GDR Nationals/ECTs
+|city = Rostock
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecord
+|number = 26
+|time = 2:17.35
+|firstname = Ulrike
+|lastname = Richter
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1974|Aug|25}}
+|meet = European Championships
+|city = Vienna
+|country = AUT
+|ref = 
+}}
+{{Swimmingrecord
+|number = 27
+|time = 2:16.33
+|firstname = Nancy
+|lastname = Garapick
+|namearticle = 
+|club = {{flagu|Canada}}
+|date = {{Dts|format=dmy|1975|Apr|27}}
+|meet = Eastern Championships
+|city = Brantford
+|country = CAN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 28
+|time = 2:16.10
+|firstname = Birgit
+|lastname = Treiber
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1975|Jun|6}}
+|meet = GDR Nationals/WCTs
+|city = Wittenberg
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecord
+|number = 29
+|time = 2:15.46
+|firstname = Birgit
+|lastname = Treiber
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1975|Jul|27}}
+|meet = [[Swimming at the 1975 World Aquatics Championships|World Championships]]
+|city = Cali
+|country = COL
+|ref = 
+}}
+{{Swimmingrecord
+|number = 30
+|time = 2:14.41
+|firstname = Antje
+|lastname = Stille
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1976|Feb|29}}
+|meet = GDR Winter Nationals
+|city = East Berlin
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecord
+|number = 31
+|time = 2:13.50
+|firstname = Antje
+|lastname = Stille
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1976|Mar|13}}
+|meet = URS vs GDR Duel
+|city = Tallinn
+|country = URS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 32
+|time = 2:12.47
+|firstname = Birgit
+|lastname = Treiber
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1976|Jun|4}}
+|meet = GDR Olympic Trials
+|city = East Berlin
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecord
+|number = 33
+|time = 2:11.93
+|firstname = Linda
+|lastname = Jezek
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1978|Aug|28}}
+|meet = [[Swimming at the 1978 World Aquatics Championships|World Championships]]
+|city = West Berlin
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|number = 34
+|time = 2:11.77
+|firstname = Rica
+|lastname = Reinisch
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1980|Jul|27}}
+|meet = [[Swimming at the 1980 Summer Olympics|Olympic Games]]
+|city = Moscow
+|country = URS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 35
+|time = 2:09.91
+|firstname = Cornelia
+|lastname = Sirch
+|namearticle = 
+|club = {{flagicon|GDR}} East Germany
+|date = {{Dts|format=dmy|1982|Aug|8}}
+|meet = [[Swimming at the 1982 World Aquatics Championships|World Championships]]
+|city = Guayaquil
+|country = ECU
+|ref = 
+}}
+{{Swimmingrecord
+|number = 36
+|time = 2:08.60
+|firstname = Betsy
+|lastname = Mitchell
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|1986|6|27}}
+|meet = U.S. Swimming World Championship Trials
+|city = Orlando
+|cityarticle = Orlando, Florida
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 37
+|time = 2:06.62
+|firstname = Krisztina
+|lastname = Egerszegi
+|namearticle = 
+|club = {{flagicon|HUN}} Hungary
+|date = {{Dts|format=dmy|1991|8|25}}
+|meet = [[Swimming at the 1991 European Aquatics Championships|European Championships]]
+|city = Athens
+|country = GRE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 38
+|time = 2:06.39
+|firstname = Kirsty
+|lastname = Coventry
+|namearticle = 
+|club = {{flagicon|ZIM}} Zimbabwe
+|date = {{Dts|format=dmy|2008|2|16}}
+|meet = US Grand Prix
+|city = Columbia ||cityarticle = Columbia, Missouri
+|country = USA
+|ref = <ref>{{cite magazine|title=USA Swimming Grand Prix, Missouri: Flash! Kirsty Coventry Tracks Down Krisztina Egerszegi’s 200 Back World Record|url=https://www.swimmingworldmagazine.com/news/usa-swimming-grand-prix-missouri-flash-kirsty-coventry-tracks-down-krisztina-egerszegis-200-back-world-record/|magazine=[[Swimming World]]|date=16 February 2008|access-date=29 June 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 39
+|time = 2:06.09
+|firstname = Margaret
+|lastname = Hoelzer
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2008|7|5}}
+|meet = [[2008 United States Olympic Trials (swimming)|US Olympic Trials]]
+|city = Omaha
+|country = USA
+|ref = <ref name=W2008US>{{cite web|title=2008 US Olympic Trials - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001080B0045000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=29 June 2008|access-date=24 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 2:05.24
+|firstname = Kirsty
+|lastname = Coventry
+|namearticle = 
+|club = {{flagicon|ZIM}} Zimbabwe
+|date = {{Dts|format=dmy|2008|8|16}}
+|meet = [[Swimming at the 2008 Summer Olympics – Women's 200 metre backstroke|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = <ref>(lcm-w) {{cite news|url=http://en.beijing2008.cn/news/sports/headlines/swimming/n214548409.shtml |title=Women's 200m Backstroke: Coventry finally wins gold |date=2008-08-16 |publisher=Beijing 2008 |access-date=2008-08-16 |url-status=dead |archive-url=https://web.archive.org/web/20080817074512/http://en.beijing2008.cn/news/sports/headlines/swimming/n214548409.shtml |archive-date=2008-08-17 }}</ref>
+}}
+{{Swimmingrecord
+|number = 41
+|time = 2:04.81
+|firstname = Kirsty
+|lastname = Coventry
+|namearticle = 
+|club = {{flagicon|ZIM}} Zimbabwe
+|date = {{Dts|format=dmy|2009|8|01}}
+|meet = [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=W2009WC>{{cite web|title=Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001090B005B000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=1 August 2009|accessdate=1 August 2009}}</ref>
+}}
+{{Swimmingrecord
+|number = 42
+|time = 2:04.06
+|firstname = Missy
+|lastname = Franklin
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2012|8|3}}
+|meet = [[Swimming at the 2012 Summer Olympics – Women's 200 metre backstroke|Olympic Games]]
+|city = London
+|country = GBR
+|ref = <ref name=W2012OG>{{cite web|title=Womens 200m Backstroke Results|url=http://www.london2012.com/swimming/event/women-200m-backstroke/phase=sww042100/index.html|publisher=www.london2012.com|date=3 August 2012|accessdate=12 September 2012|archive-url=https://archive.today/20130103191350/http://www.london2012.com/swimming/event/women-200m-backstroke/phase=sww042100/index.html|archive-date=3 January 2013|url-status=dead|df=dmy-all}}</ref>
+}}
+{{swimmingrecord
+|number = 43
+|time = 2:03.35
+|recordinfo = sf
+|firstname = Regan
+|lastname = Smith
+|namearticle = Regan Smith (swimmer)
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2019|7|26}}
+|meet = [[Swimming at the 2019 World Aquatics Championships – Women's 200 metre backstroke|World Championships]]
+|city = Gwangju
+|country = KOR
+|ref = <ref name=W2019WCsf>{{cite web|title=Women's 200m Backstroke Semifinal Results|url=http://www.omegatiming.com/File/00011301070202EE02FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=26 July 2019|access-date=26 July 2019}}</ref>
+}}
+{{swimmingrecord
+|number = 44
+|time = 2:03.14
+|recordinfo = 
+|firstname = Kaylee
+|lastname = McKeown
+|namearticle =
+|club = {{flagu|Australia}}
+|date = {{Dts|format=dmy|2023|3|10}}
+|meet = NSW State Championships
+|city = Sydney
+|country = AUS
+|ref = <ref name=2023NSW>{{cite magazine|title=Kaylee McKeown Crushes 2:03.14 200 Backstroke World Record|url=https://swimswam.com/kaylee-mckeown-crushes-203-14-200backstroke-world-record/|magazine=[[SwimSwam]]|author=Retta Race|date=10 March 2023|access-date=14 March 2023}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = WB
+|time = ?
+|firstname = 
+|lastname = ?
+|namearticle = 
+|club = ?
+|date = 1 March 1991
+|meet = [[1991 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = Germany
+|ref = 
+}}
+{{Swimmingrecord
+|number = 1
+|time = 2:07.11
+|firstname = Anna
+|lastname = Simcic
+|namearticle = 
+|club = {{flagu|New Zealand}}
+|date = 1 February 1992
+|meet = World Cup
+|city = Paris
+|country = France
+|ref = [https://www.fina.org/sites/default/files/general/swc_2017_final.pdf]
+}}
+{{Swimmingrecord
+|number = 2
+|time = 2:06.09
+|firstname = Cihong
+|lastname = He
+|namearticle = 
+|club = {{flagu|China}}
+|date = 5 December 1993
+|meet = [[1993 FINA World Swimming Championships (25 m) – Women's 200 metre backstroke|World Championships]]
+|city = Palma de Mallorca
+|country = ESP
+|ref = <ref name="AusSCM">(scm-w) ''[https://www.telegraph.co.uk/sport/olympics/swimming/3010235/Swimming-Price-breaks-short-course-world-record.html Swimming: Price breaks short-course world record]'', by Astrid Andersson, ''The Telegraph''. Published 2011-08-05; retrieved 2012-04-14.</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 2:05.83
+|firstname = Clementine
+|lastname = Stoney
+|namearticle =
+|club = {{flagu|Australia}}
+|date = 4 August 2001
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Perth
+|cityarticle = Perth, Western Australia
+|country = AUS
+|ref = <ref name="AusSCM" />
+}}
+{{Swimmingrecord
+|number = 4
+|time = 2:04.44
+|firstname = Sarah
+|lastname = Price
+|namearticle = Sarah Price (swimmer)
+|club = {{flagu|Great Britain}}
+|date = 5 August 2001
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Perth
+|cityarticle = Perth, Western Australia
+|country = AUS
+|ref = <ref name="AusSCM" />
+}}
+{{Swimmingrecord
+|number = 5
+|time = 2:03.62
+|firstname = Natalie
+|lastname = Coughlin
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 27 November 2001
+|meet = World Cup
+|city = East Meadow
+|cityarticle = East Meadow, New York
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 2:03.24
+|firstname = Reiko
+|lastname = Nakamura
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = 23 February 2008
+|meet = Japan Open 2008
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 2:00.91
+|firstname = Kirsty
+|lastname = Coventry
+|namearticle = 
+|club = {{flagu|Zimbabwe}}
+|date = 11 April 2008
+|meet = [[2008 FINA World Swimming Championships (25m)|World Championships]]
+|city = Manchester
+|country = UK
+|ref = <ref name=W2008WC>{{cite web|title=9th FINA World Championships (25m) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001080E0035000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 April 2008|access-date=5 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 8
+|time = 2:00.18
+|firstname = Shiho
+|lastname = Sakai
+|namearticle = 
+|club = {{flagu|Japan}}
+|date = 14 November 2009
+|meet = [[2009 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref name=W2009Berlin>{{cite web|title=2009 FINA World Cup (Berlin) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000109050020000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=14 November 2009|access-date=5 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 9
+|time = 2:00.03
+|firstname = Missy
+|lastname = Franklin
+|namearticle = 
+|club = {{flagu|United States}}
+|date = 22 October 2011
+|meet = [[2011 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref name=W2011Berlin>{{cite web|title=2011 FINA World Cup (Berlin) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010B060020000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=22 October 2011|access-date=5 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:59.23
+|recordinfo = 
+|firstname = Katinka
+|lastname = Hosszú
+|namearticle = 
+|club = {{flagu|Hungary}}
+|date = 5 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 200 metre backstroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref name=W2014WC>{{cite web|title=Women's 200m Backstroke Results|url=http://www.omegatiming.com/File/Download?id=00010E010D01011C02FFFFFFFFFFFF02|publisher=Omega Timing|date=5 December 2014|access-date=6 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:58.94
+|recordinfo = 
+|firstname = Kaylee
+|lastname = McKeown
+|namearticle = 
+|club = {{flagu|Australia}}
+|date = 28 November 2020
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Brisbane
+|country = AUS
+|ref = <ref name=W2020Aus>{{cite web|title=Women 13 & Over 200 Backstroke Results|url=http://swimmingresults.net/sw/results.aspx?SW=1.3.0.0.0.569f5e1469a3c026fe207130900865b6|publisher=swimmingresults.net|date=28 November 2020|access-date=28 November 2020|archive-date=26 August 2021|archive-url=https://web.archive.org/web/20210826120718/https://swimmingresults.net/sw/results.aspx?SW=1.3.0.0.0.569f5e1469a3c026fe207130900865b6|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:58.83
+|firstname = Regan
+|lastname = Smith
+|namearticle = Regan Smith (swimmer)
+|club = {{flagu|United States}}
+|date = 2 November 2024
+|meet = World Cup
+|city = 
+|country = SGP
+|ref = <ref name=W2024Singapore>{{cite web|title=Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800070202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=4 November 2024|access-date=2 November 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:58.04
+|firstname = Regan
+|lastname = Smith
+|namearticle = Regan Smith (swimmer)
+|club = {{flagu|United States}}
+|date = 15 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 200 metre backstroke|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref name=W2024WC>{{cite web|title=2024 World Aquatics Championships (25 m) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800080202EE0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|accessdate=27 December 2024}}</ref><ref>{{cite web|title=Video - Women's 200m Backstroke Final |url=https://vkvideo.ru/video-228643357_456239035 |publisher= |date=15 December 2024|accessdate=27 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:57.87
+|recordinfo = 
+|firstname = Kaylee
+|lastname = McKeown
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2025|10|19}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|country = USA
+|city = Westmont
+|cityarticle = Westmont, Illinois
+|ref = <ref name=W2025Westmont>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900070202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 October 2025|access-date=20 October 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 15
+|time = 1:57.33
+|recordinfo = 
+|firstname = Kaylee
+|lastname = McKeown
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2025|10|25}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|city = Toronto
+|country = CAN
+|ref = <ref name=W2025Toronto>{{cite web|title=2025 World Aquatics Cup (Toronto) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900080202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 October 2025|access-date=25 October 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''200 m backstroke times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''200 m backstroke times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''200 m backstroke times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 200 m backstroke times''
+|}
+
+===Men long course===
+*Correct as of August 2025<ref>{{cite web|title=Men's 200m Backstroke Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=200&stroke=BACKSTROKE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=23 March 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 1:51.92
+| [[Aaron Peirsol]]
+| {{USA}}
+| 31 July 2009
+| [[Rome]]
+| <ref name=M2009WC/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 1:52.51
+| [[Ryosuke Irie]]
+| {{JPN}}
+| 31 July 2009
+| Rome
+| <ref name=M2009WC/>
+|-
+| 
+| align=center | 3
+| 1:52.86
+|''Irie #2''
+| 
+| 10 May 2009
+| [[Canberra]]
+| <ref name=M2009Duel/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 4
+| 1:52.96
+| [[Ryan Lochte]]
+| {{USA}}
+| 29 July 2011
+| [[Shanghai]]
+| <ref>{{cite web|title=14th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010B0D004E000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2011|access-date=14 March 2025}}</ref>
+|-
+| 
+| align=center | 5
+| 1:53.08
+|''Peirsol #2''
+| 
+| 11 July 2009
+| [[Indianapolis]]
+| <ref name=M2009US/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 6
+| 1:53.17
+| [[Mitch Larkin]]
+| {{AUS}}
+| 7 November 2015
+| [[Dubai]]
+| <ref>{{cite web|title=2015 FINA World Cup (Dubai) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010F020800010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=7 November 2015|access-date=14 March 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 7
+| 1:53.19
+| [[Hubert Kós]]
+| {{HUN}}
+| 1 August 2025
+| [[Singapore]]
+| <ref name=M2025WC>{{cite web|title=2025 World Aquatics Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900010102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=1 August 2025|access-date=1 August 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 8
+| 1:53.23
+| [[Evgeny Rylov]]
+| {{RUS}}
+| 8 April 2021
+| [[Kazan]]
+| <ref>{{cite web|title=2021 Russian Championships - Men's 200m Backstroke Final Results|url=https://russwimming.ru/upload/live/4R_LC_2021/ResultList_130F.pdf|publisher=russwimming.ru|date=8 April 2021|accessdate=18 April 2021|archive-date=18 April 2021|archive-url=https://web.archive.org/web/20210418131225/https://russwimming.ru/upload/live/4R_LC_2021/ResultList_130F.pdf|url-status=dead}}</ref>
+|-
+| rowspan="4" |
+| align=center | 9
+| 1:53.26
+|''Irie #3''
+| rowspan="4" |
+| 25 September 2014
+| [[Incheon]]
+| <ref>{{cite magazine|title=Ning Zetao Sets Asian Record; Ryosuke Irie Shines on Night Five of Asian Games|url=https://www.swimmingworldmagazine.com/news/ning-zetao-sets-asian-record-ryosuke-irie-shines-on-night-five-of-asian-games/|date=25 September 2014|access-date=20 April 2025|magazine=[[Swimming World]]}}</ref>
+|-
+| align=center | 10
+| 1:53.27
+|''Rylov #2''
+| 30 July 2021
+| [[Tokyo]]
+| <ref>{{Cite web|title=2020 Olympic Games - Men's 200m Backstroke Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM200MBA------------FNL-000100--.pdf|publisher=olympics.com|date=30 July 2021|access-date=30 July 2021|archive-date=21 August 2021|archive-url=https://web.archive.org/web/20210821220630/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM200MBA------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+| align=center | 11
+| 1:53.34
+|''Larkin #2''
+| 29 October 2015
+| Tokyo
+| <ref>{{cite web|title=2015 FINA World Cup (Tokyo) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010F020600010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=29 October 2015|access-date=21 April 2025}}</ref>
+|-
+| align=center | 12
+| 1:53.36
+|''Rylov #3''
+| 8 August 2018
+| [[Glasgow]]
+| <ref>{{cite web|title=2018 European Championships - Men's 200m Backstroke Final Results|url=http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM200MBA------------FNL-000100--_73A1%201.0.pdf|publisher=Microplus Timing|date=8 August 2018|access-date=8 August 2018}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 12
+| 1:53.36
+| [[Pieter Coetze]]
+| {{RSA}}
+| 1 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+|
+| align=center | 14
+| 1:53.40
+|''Rylov #4''
+|
+| 26 July 2019
+| [[Gwangju]]
+| <ref>{{cite web|title=18th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011301070102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2019|access-date=21 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 15
+| 1:53.41
+| [[Tyler Clary]]
+| {{USA}}
+| 2 August 2012
+| [[London]]
+| <ref name=M2012OG>{{cite magazine|title=2012 London Olympics: Tyler Clary Sets Olympic Record in 200 Back Victory; Ryosuke Irie Earns Silver; Ryan Lochte Claims 10th Career Medal With Bronze|url=https://www.swimmingworldmagazine.com/news/2012-london-olympics-tyler-clary-sets-olympic-record-in-200-back-victory-ryosuke-irie-earns-silver-ryan-lochte-claims-10th-career-medal-with-bronze/|date=2 August 2012|access-date=20 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 16
+| 1:53.57
+| [[Ryan Murphy (swimmer)|Ryan Murphy]]
+| {{USA}}
+| 12 August 2018
+| Tokyo
+| <ref>{{cite web|title=2018 Pan Pacific Swimming Championships - Men's 200m Backstroke Final Results|url=http://swim.seiko.co.jp/en/2018/S80701/ranking/eng12R073.pdf|work=Seiko|date=12 August 2018|access-date=25 March 2025}}</ref>
+|-
+| rowspan="9" |
+| align=center | 17
+| 1:53.58
+|''Larkin #3''
+| rowspan="9" |
+| 7 August 2015
+| Kazan
+| <ref>{{cite web|title=16th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010F020000010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=7 August 2015|access-date=21 April 2025}}</ref>
+|-
+| align=center | 18
+| 1:53.61
+|''Rylov #5''
+| 28 July 2017
+| [[Budapest]]
+| <ref name=M2017WC>{{cite web|title=17th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000111010A0102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2017|access-date=21 April 2025}}</ref>
+|-
+| align=center | 19
+| 1:53.62
+|''Murphy #2''
+| 11 August 2016
+| [[Rio de Janeiro]]
+| <ref>{{cite magazine|title=Ryan Murphy Continues American Dominance With Gold Medal Performance In 200 Back|url=https://www.swimmingworldmagazine.com/news/ryan-murphy-continues-american-dominance-in-200-back/|magazine=[[Swimming World]]|author=Taylor Brien|date=11 August 2016|access-date=21 April 2025}}</ref>
+|-
+| align=center | 20
+| 1:53.71
+|''Rylov #6''
+| 25 April 2018
+| [[Moscow]]
+| <ref>{{cite magazine|title=Rylov, Morozov Add More Wins On Last Day Of Russian Nationals|url=https://www.swimmingworldmagazine.com/news/rylov-morozov-add-more-wins-on-last-day-of-russian-nationals/|magazine=[[Swimming World]]|author=James Sica|date=25 April 2018|access-date=24 April 2025}}</ref>
+|-
+| align=center | 21
+| 1:53.72
+|''Larkin #4''
+| 15 December 2015
+| [[Brisbane]]
+| <ref>{{cite magazine|title=Larkin Sets New All Comers Record in the 200 Backstroke|url=https://swimswam.com/larkin-sets-new-comers-record-200-backstroke/|magazine=[[SwimSwam]]|author=Jeff Grace|date=15 December 2015|access-date=24 April 2025}}</ref>
+|-
+| align=center | 22
+| 1:53.73
+|''Irie #4''
+| 7 December 2009
+| [[Hong Kong]]
+| <ref>{{cite magazine|title=East Asian Games: Meet Record Bonanza On Second Day|url=https://www.swimmingworldmagazine.com/news/east-asian-games-meet-record-bonanza-on-second-day/|date=7 December 2009|access-date=24 April 2025|magazine=[[Swimming World]]}}</ref>
+|-
+| align=center | 23
+| 1:53.78
+|''Irie #5''
+| 2 August 2012
+| London
+| <ref name=M2012OG/>
+|-
+| align=center | 24
+| 1:53.79
+|''Lochte #2''
+| 2 August 2013
+| [[Barcelona]]
+| <ref name=M2013WC/>
+|-
+| align=center | 25
+| 1:53.80
+|''Larkin #5''
+| 3 November 2015
+| [[Doha]]
+| <ref>{{cite web|title=2015 FINA World Cup (Doha) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010F020700010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=3 November 2015|access-date=21 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| rowspan="18" |
+| 1:53.99
+| [[Xu Jiayu]]
+| {{CHN}}
+| 23 August 2018
+| [[Jakarta]]
+| <ref>{{cite magazine|title=Xu Jiayu Clocks 1:53.99 to Break Own Chinese Record in Men’s 200 Back|url=https://swimswam.com/xu-jiayu-clocks-153-99-to-break-own-chinese-record-in-mens-200-back/|magazine=[[SwimSwam]]|author=James Sutherlund|date=23 August 2018|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 1:54.23
+| [[Kosuke Hagino]]
+| {{JPN}}
+| 10 April 2014
+| Tokyo
+| <ref>{{cite magazine|title=Star-Studded Finals; First Japanese Man Under 22 in 50 Free Headline Final Night in Tokyo|url=https://www.swimmingworldmagazine.com/news/star-studded-finals-first-japanese-man-under-22-in-50-free-headline-final-night-in-tokyo/|magazine=[[Swimming World]]|author=Jason Marsteller|date=10 April 2014|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 1:54.24
+| [[Radosław Kawęcki]]
+| {{POL}}
+| 2 August 2013
+| Barcelona
+| <ref name=M2013WC>{{cite web|title=15th FINA World Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010D020100010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=2 August 2013|access-date=21 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 1:54.25
+| [[Jack Aikins]]
+| {{USA}}
+| 4 June 2025
+| Indianapolis
+| <ref name=M2025US>{{cite web|date=4 June 2025|title=2025 US National Championships - Men's 200m Backstroke Final Results |url=https://www.omegatiming.com/File/00011900040102EE0104FFFFFFFFFF01.pdf|access-date=4 June 2025|publisher=Omega Timing}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 1:54.43
+| [[Luke Greenbank]]
+| {{GBR2}}
+| 21 May 2021
+| Budapest
+| <ref>{{cite web|title=2020 European Championships - Men's 200m Backstroke Semifinals Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM200MBA------------SFNL--------_74A%201.0.pdf?x=00:44:47|publisher=microplustiming.com|date=21 May 2021|accessdate=13 June 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 1:54.47
+| [[Yohann Ndoye Brouard]]
+| {{FRA}}
+| 31 July 2025
+| Singapore
+| <ref name=M2025WCsf>{{cite web|title=2025 World Aquatics Championships - Men's 200m Backstroke Semifinals Results|url=https://www.omegatiming.com/File/00011900010102EE0102FFFFFFFFFF01.pdf|work=Omega Timing|date=31 July 2025|access-date=31 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 1:54.51
+| [[Hugo González (swimmer)|Hugo González]]
+| {{ESP}}
+| 20 June 2024
+| [[Palma de Mallorca|Palma]]
+| <ref>{{cite web|title=2024 Spanish Championships - Men's 200m Backstroke Final Results|url=https://campeonatos.rfen.es/23-24/OPEN_VERANO/ResultList_21F_us.pdf#page=2|publisher=RFEN|date=20 June 2024|access-date=20 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 1:54.59
+| [[Nick Thoman]]
+| {{USA}}
+| 5 August 2009
+| [[Federal Way]]
+| <ref>{{cite web|title=2009 US Open - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001090A0018000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=5 August 2009|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 1:54.61
+| [[Keaton Jones]]
+| {{USA}}
+| 20 June 2024
+| Indianapolis
+| <ref name=M2024US>{{cite web|title=2024 US Olympic Trials - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800030102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=20 June 2024|access-date=21 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 1:54.65
+| [[Michael Phelps]]
+| {{USA}}
+| 31 July 2007
+| Indianapolis
+| <ref>{{cite web|title=2007 US National Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/0001070B001A000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=31 July 2007|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 1:54.66
+| [[Apostolos Siskos]]
+| {{GRE}}
+| 18 May 2025
+| [[Thessaloniki]]
+| <ref>{{cite web|title=2025 Greek Championships - Men's 200m Backstroke Final Results|url=https://live.koe.org.gr/#/swimming-result-json/1/b5c83464-b564-44ef-8587-26e59ef837d0/ASM/013/007/001/3_4_5|publisher=koe.org.gr|date=18 May 2025|accessdate=18 May 2025}}
+</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 1:54.75
+| [[Arkady Vyatchanin]]
+| {{RUS}}
+| 31 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 1:54.77
+| [[Jacob Pebley]]
+| {{USA}}
+| 1 July 2016
+| [[Omaha]]
+| <ref>{{cite web|title=2016 US Olympic Trials - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000110000300010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=1 July 2016|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 1:54.79
+| [[Bryce Mefford]]
+| {{USA}}
+| 18 June 2021
+| Omaha
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011500030102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=18 June 2021|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 1:54.82
+| [[Apostolos Christou]]
+| {{GRE}}
+| 1 August 2024
+| [[Paris]]
+| <ref>{{Cite web|title=2024 Olympic Games - Men's 200m Backstroke Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM200MBA------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815154318/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM200MBA------------FNL-000100--.pdf |archive-date=2024-08-15 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 1:54.83
+| [[Roman Mityukov]]
+| {{SUI}}
+| 31 July 2025
+| Singapore
+| <ref name=M2025WCsf/>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 200m Backstroke Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=200&stroke=BACKSTROKE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=12 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 1:45.12
+| [[Hubert Kós]]
+| {{HUN}}
+| 23 October 2025
+| [[Toronto]]
+| <ref name=M2025Toronto/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 1:45.63
+| [[Mitch Larkin]]
+| {{AUS}}
+| 27 November 2015
+| [[Sydney]]
+| <ref name=M2015Aus/>
+|-
+|
+| align=center | 3
+| 1:45.65
+|''Kós #2''
+|
+| 15 December 2024
+| [[Budapest]]
+| <ref>{{cite web|title=2024 World Aquatics Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800080102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=15 December 2024|access-date=8 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 4
+| 1:46.11
+| [[Arkady Vyatchanin]]
+| {{RUS}}
+| 15 November 2009
+| [[Berlin]]
+| <ref name=M2009Berlin/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 5
+| 1:46.37
+| [[Evgeny Rylov]]
+| {{RUS}}
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL>{{cite web|title=2020 International Swimming League (Final) - Men's 200m Backstroke Results|url=https://www.omegatiming.com/File/000114020F0102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=21 November 2020|access-date=8 May 2025}}</ref>
+|-
+|
+| align=center | 6
+| 1:46.41
+|''Vyatchanin #2''
+|
+| 22 November 2009
+| [[Singapore]]
+| <ref>{{cite web|title=2009 FINA World Cup (Singapore) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000109040040000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=22 November 2009|access-date=8 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 7
+| 1:46.68
+| [[Ryan Lochte]]
+| {{USA}}
+| 19 December 2010
+| [[Dubai]]
+| <ref>{{cite web|title=10th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010A00005B000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=19 December 2010|access-date=8 May 2025}}</ref>
+|-
+| rowspan="2" |
+| align=center | 8
+| 1:46.84
+|''Kós #3'' 
+| rowspan="2" |
+| 10 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref name=M2025Carmel>{{cite web|title=2025 World Aquatics Cup (Carmel) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900060102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 October 2025|access-date=12 October 2025}}</ref>
+|-
+| align=center | 9
+| 1:47.02
+|''Rylov #2''
+| 16 December 2018
+| [[Hangzhou]]
+| <ref name=M2018WC>{{cite web|title=13th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000112010C0102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=16 December 2018|access-date=8 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 10
+| 1:47.08
+| [[George Du Rand]]
+| {{RSA}}
+| 7 November 2009
+| [[Moscow]]
+| <ref name=M2009Moscow/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 11
+| 1:47.34
+| [[Ryan Murphy (swimmer)|Ryan Murphy]]
+| {{USA}}
+| 16 December 2018
+| Hangzhou
+| <ref name=M2018WC/>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 12
+| 1:47.38
+| [[Radosław Kawęcki]]
+| {{POL}}
+| 7 December 2014
+| [[Doha]]
+| <ref name=M2014WC>{{cite web|title=12th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010E010D00010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=7 December 2014|access-date=8 May 2025}}</ref>
+|-
+| rowspan="4" |
+| rowspan="3" align=center | 13
+| rowspan="3" | 1:47.41
+|''Larkin #2''
+| rowspan="4" |
+| 4 November 2016
+| [[Brisbane]]
+| <ref>{{cite web|title=2016 Australian Championships (25m) - Men's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/SAL/2016sc/161103F024.htm|publisher=swimming.org.au|date=4 November 2016|access-date=8 May 2025}}</ref>
+|-
+|''Murphy #2''
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|-
+|''Murphy #3''
+| 18 December 2022
+| [[Melbourne]]
+| <ref name=M2022WC>{{cite web|title=16th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011700030102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=14 January 2023}}</ref>
+|-
+| align=center | 16
+| 1:47.48
+|''Murphy #4''
+| 15 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Semifinal 2) - Men's 200m Backstroke Results|url=https://www.omegatiming.com/File/000114020E0102EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=15 November 2020|access-date=8 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 17
+| 1:47.49
+| [[Thomas Ceccon]]
+| {{ITA}}
+| 23 October 2025
+| Toronto
+| <ref name=M2025Toronto/>
+|-
+| rowspan="3" |
+| align=center | 18
+| 1:47.51
+|''Kós #4''
+| rowspan="3" |
+| 17 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Westmont) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900070102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=17 October 2025|access-date=19 October 2025}}</ref>
+|-
+| rowspan="2" align=center | 19
+| rowspan="2" | 1:47.63
+|''Kawęcki #2''
+| 11 August 2013
+| Berlin
+| <ref name=M2013Berlin>{{cite web|title=2013 FINA World Cup (Berlin) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010D020600010802FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=11 August 2013|access-date=8 May 2025}}</ref>
+|- 
+|''Kawęcki #3''
+| 11 December 2016
+| [[Windsor, Ontario|Windsor]]
+| <ref name=M2016WC>{{cite web|title=13th FINA World Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000110000D00010802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=11 December 2016|access-date=8 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 21
+| 1:47.64
+| [[Markus Rogan]]
+| {{AUT}}
+| 11 November 2009
+| [[Stockholm]]
+| <ref name=M2009Stockholm>{{cite web|title=2009 FINA World Cup (Stockholm) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000109060041000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 November 2009|access-date=8 May 2025}}</ref>
+|-
+|
+| align=center | 22
+| 1:47.66
+|''Vyatchanin #3''
+|
+| 11 November 2009
+| Stockholm
+| <ref name=M2009Stockholm/>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 23
+| 1:47.68
+| [[Léon Marchand]]
+| {{FRA}}
+| 10 October 2025
+| Carmel
+| <ref name=M2025Carmel/>
+|-
+| rowspan="2" |
+| align=center | 24
+| 1:47.72
+|''Larkin #3''
+| rowspan="2" |
+| 9 November 2014
+| [[Adelaide]]
+| <ref>{{cite magazine|title=Larkin Sweeps Backstrokes, McKeon Wins 5th Gold on Final Day of Aussie SC Champs|url=https://swimswam.com/larkin-sweeps-backstrokes-mckeon-wins-5th-gold-final-day-aussie-sc-champs/|magazine=[[SwimSwam]]|author=Braden Keith|date=9 November 2014|access-date=8 May 2025}}</ref>
+|-
+| align=center | 25
+| 1:47.84
+|''Rogan #2''
+| 13 April 2008
+| [[Manchester]]
+| <ref name=M2008WC/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| rowspan="19" |
+| 1:47.89
+| [[John Shortt (swimmer)|John Shortt]]
+| {{IRE}}
+| 3 December 2025
+| [[Lublin]]
+| <ref>{{cite web|title=2025 European Championships (25m) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000119000A0102EE0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 December 2025|accessdate=4 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 1:48.01
+| [[Shaine Casas]]
+| {{USA}}
+| 18 December 2022
+| Melbourne
+| <ref name=M2022WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 1:48.02
+| [[Kliment Kolesnikov]]
+| {{RUS}}
+| 13 December 2017
+| [[Copenhagen]]
+| <ref name=M2017EC>{{cite web|title=2017 European Short Course Championships - Men's 200m Backstroke Final Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-200BK-FIN-ALL.pdf|work=microplustiming.com|date=13 December 2017|accessdate=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 1:48.25
+| [[Masaki Kaneko]]
+| {{JPN}}
+| 17 January 2016
+| [[Tokyo]]
+| 
+|- bgcolor=CCFFCC
+| align=center | 16
+| 1:48.32
+| [[Xu Jiayu]]
+| {{CHN}}
+| 9 November 2018
+| Tokyo
+| <ref>{{cite web|title=2018 FINA World Cup (Tokyo) - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000112010A0102EE04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=9 November 2018|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 1:48.43
+| [[Lorenzo Mora]]
+| {{ITA}}
+| 10 December 2023
+| [[Otopeni]]
+| <ref name=M2023EC>{{cite web|title=Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600090102EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2023|access-date=12 December 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 1:48.53
+| [[Luke Greenbank]]
+| {{GBR2}}
+| 10 December 2023
+| Otopeni
+| <ref name=M2023EC/>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 1:48.55
+| [[Mewen Tomac]]
+| {{FRA}}
+| 10 December 2023
+| Otopeni
+| <ref name=M2023EC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 1:48.59
+| [[Jacob Pebley]]
+| {{USA}}
+| 29 September 2021
+| [[Naples]]
+| <ref>{{cite web|title=Men's 200m Backstroke Results|url=https://www.omegatiming.com/File/000115000E0102EE04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=29 September 2021|access-date=19 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 1:48.60
+| [[Tyler Clary]]
+| {{USA}}
+| 11 August 2013
+| Berlin
+| <ref name=M2013Berlin/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 1:48.62
+| [[Stanislav Donets]]
+| {{RUS}}
+| 10 December 2009
+| [[Istanbul]]
+| <ref>{{cite web|title=2009 European Short Course Championships - Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010901000F000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2009|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 1:48.74
+| [[Matt Grevers]]
+| {{USA}}
+| 18 December 2009
+| Manchester
+| <ref>{{cite web|title=2009 Duel in the Pool - Men's 200m Backstroke Results|url=https://www.omegatiming.com/File/000109000007000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2009|access-date=8 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 1:48.77
+| [[Ryosuke Irie]]
+| {{JPN}}
+| 7 December 2014
+| Doha
+| <ref name=M2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 1:48.97
+| [[Christian Diener]]
+| {{GER}}
+| 21 December 2021
+| [[Abu Dhabi]]
+| <ref>{{cite web|title=Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011500190102EE0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 December 2021|access-date=21 December 2021}}</ref>
+|}
+
+===Women long course===
+*Correct as of August 2025<ref>{{cite web|title=Women's 200m Backstroke Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=200&stroke=BACKSTROKE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=4 August 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 2:03.14
+| [[Kaylee McKeown]]
+| {{AUS}}
+| 10 March 2023
+| [[Sydney]]
+| <ref name=2023NSW/>
+|-
+| rowspan="2" |
+| align=center | 2
+| 2:03.30
+|''McKeown #2''
+| rowspan="2" |
+| 13 June 2024
+| [[Brisbane]]
+| <ref>{{cite web|title=2024 Australian Trials - Women's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/sal/2024Trials/240610F014.htm|publisher=swimming.org.au|date=13 June 2024|access-date=19 April 2025}}</ref>
+|-
+| align=center | 3
+| 2:03.33
+| ''McKeown #3''
+| 2 August 2025
+| [[Singapore]]
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900010202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=2 August 2025|access-date=2 August 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 4
+| 2:03.35
+| [[Regan Smith (swimmer)|Regan Smith]]
+| {{USA}}
+| 26 July 2019
+| [[Gwangju]]
+| <ref name=W2019WCsf/>
+|-
+| rowspan="7" |
+| align=center | 5
+| 2:03.69
+|''Smith #2''
+| rowspan="7" |
+| 27 July 2019
+| Gwangju
+| <ref>{{cite web|title=18th FINA World Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011301070202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2019|access-date=19 April 2025}}</ref>
+|-
+| align=center | 6
+| 2:03.70
+|''McKeown #4''
+| 16 June 2023
+| [[Melbourne]]
+| <ref>{{cite web|title=2023 Australian Trials - Women's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/sal/2023TRIALS/230613F016.htm|publisher=Swimming Australia|date=16 June 2023|access-date=10 May 2025}}</ref>
+|-
+| align=center | 7
+| 2:03.73
+|''McKeown #5''
+| 2 August 2024
+| [[Paris]]
+| <ref name=W2024OG>{{Cite web |title=2024 Olympic Games - Women's 200m Backstroke Final Results  |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW200MBA------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923064543/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW200MBA------------FNL-000100--.pdf |archive-date=23 September 2024|access-date=18 December 2024 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+| align=center | 8
+| 2:03.80
+|''Smith #3''
+| 28 June 2023
+| [[Indianapolis]]
+| <ref name=W2023US>{{cite web|title=2023 US National Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600030202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=28 June 2023|access-date=19 April 2025}}</ref>
+|-
+| align=center | 9
+| 2:03.84
+|''McKeown #6''
+| 20 April 2024
+| [[Gold Coast, Queensland|Gold Coast]]
+| <ref>{{cite web|title=2024 Australian Championships - Women's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/sal/2024Opens/240417F059.htm|publisher=swimming.org.au|date=20 April 2024|access-date=19 April 2025}}</ref>
+|-
+| align=center | 10
+| 2:03.85
+|''McKeown #7''
+| 29 July 2023
+| [[Fukuoka]]
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600010202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2023|access-date=19 April 2025}}</ref>
+|-
+| align=center | 11
+| 2:03.99
+|''Smith #4''
+| 9 March 2024
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web|title=2024 TYR Pro Swim Series (Westmont) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800010202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=9 March 2024|access-date=19 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 12
+| 2:04.06
+| [[Missy Franklin]]
+| {{USA}}
+| 3 August 2012
+| [[London]]
+| <ref name=W2012OG/>
+|-
+| rowspan="14" |
+| align=center | 13
+| 2:04.18
+|''McKeown #8''
+| rowspan="14" |
+| 14 May 2023
+| Sydney
+| <ref>{{cite magazine|title=Kaylee McKeown and Zac Stubblety-Cook Shake The Life Out Of Their World Records On Final Night In Sydney|url=https://www.swimmingworldmagazine.com/news/kaylee-mckeown-and-zac-stubblety-cook-shake-the-life-out-of-their-world-records-on-final-night-in-sydney/|magazine=[[Swimming World]]|author=Ian Hanson|date=14 May 2023|access-date=10 May 2025}}</ref>
+|-
+| align=center | 14
+| 2:04.21
+|''McKeown #9''
+| 15 March 2024
+| Sydney
+| <ref>{{cite web|title=2024 NSW Championships - Women's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/nsw/2024NSWOpen/240315F013.htm|publisher=swimming.org.au|date=15 March 2024|access-date=10 May 2025}}</ref>
+|-
+| align=center | 15
+| 2:04.26
+|''Smith #5''
+| 2 August 2024
+| Paris
+| <ref name=W2024OG/>
+|-
+| align=center | 16
+| 2:04.27
+|''Smith #6''
+| 2 December 2023
+| [[Greensboro, North Carolina|Greensboro]]
+| <ref>{{cite web|title=2023 US Open - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600040202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=2 December 2023|access-date=19 April 2025}}</ref>
+|-
+| align=center | 17
+| 2:04.28
+|''McKeown #10''
+| 17 June 2021
+| [[Adelaide]]
+| <ref>{{cite web|title=2021 Australian Trials - Women's 200m Backstroke Final Results|url=https://liveresults.swimming.org.au/SAL/2021TRIALS/210612F046.htm|publisher=swimming.org.au|date=17 June 2021|access-date=10 May 2025}}</ref>
+|-
+| align=center | 18
+| 2:04.29
+| ''Smith #7''
+| 2 August 2025
+| Singapore
+| <ref name=W2025WC/>
+|-
+| align=center | 19
+| 2:04.31
+|''McKeown #11''
+| 14 May 2021
+| Sydney
+| <ref>{{cite magazine|title=McKeown Fires Off 2:04.31 200 Back to Lower Own Aussie Record|url=https://swimswam.com/mckeown-fires-off-20431-200back-to-lower-own-aussie-record/|magazine=[[SwimSwam]]|author=Retta Race|date=14 May 2021|access-date=10 May 2025}}</ref>
+|-
+| align=center | 20
+| 2:04.47
+|''McKeown #12''
+| 12 June 2025
+| Adelaide
+| <ref>{{cite web|title=2025 Australian Swimming Trials Results|url=https://qld.swimming.org.au/news-articles/2025-australian-swimming-trials-results|website=qld.swimming.org.au|date=10 June 2025|access-date=20 June 2025}}</ref>
+|-
+| align=center | 21
+| 2:04.49
+|''McKeown #13''
+| 15 November 2020
+| Brisbane
+| <ref>{{cite magazine|title=Kaylee McKeown Enters New LCM 200 Back Territory: 2:04.49 for #3 Ever|url=https://swimswam.com/kaylee-mckeown-enters-new-lcm-200back-territory-20449-for-3ever/|magazine=[[SwimSwam]]|author=Retta Race|date=15 November 2020|access-date=10 May 2025}}</ref>
+|-
+| align=center | 22
+| 2:04.57
+|''McKeown #14''
+| 21 March 2025
+| Sydney
+| <ref>{{cite magazine|title=Kaylee McKeown Crushes 2:04.57 200 Back In 2025 Racing Debut|url=https://swimswam.com/kaylee-mckeown-crushes-20457-200back-in-2025-racing-debut/|magazine=[[SwimSwam]]|author=Retta Race|date=21 March 2025|access-date=28 March 2025}}</ref>
+|-
+| align=center | 23
+| 2:04.64
+|''McKeown #15''
+| 18 February 2022
+| Melbourne
+| <ref>{{cite magazine|title=Kaylee McKeown Swims 2:04 200 Back in Victoria; Faster Than Olympic Gold Time|url=https://swimswam.com/kaylee-mckeown-swims-204-200-back-in-victoria-faster-than-olympic-gold-time/|magazine=[[SwimSwam]]|author=Braden Keith|date=18 February 2022|access-date=10 May 2025}}</ref>
+|-
+| align=center | 24
+| 2:04.68
+|''McKeown #16''
+| 31 July 2021
+| [[Tokyo]]
+| <ref name=W2020OG/>
+|-
+| rowspan="2" align=center | 25
+| rowspan="2" | 2:04.76
+|''Franklin #2''
+| 3 August 2013
+| [[Barcelona]]
+| <ref>{{cite web|title=15th FINA World Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010D020101011C02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=3 August 2013|access-date=19 April 2025}}</ref>
+|- 
+|''Smith #8''
+| 15 April 2023
+| Westmont
+| <ref>{{cite web|title=2023 TYR Pro Swim Series (Westmont) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600020202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=15 April 2023|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 4
+| rowspan="23" |
+| 2:04.81
+| [[Kirsty Coventry]]
+| {{ZIM}}
+| 1 August 2009
+| [[Rome]]
+| <ref name=W2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 5
+| 2:04.94
+| [[Anastasia Fesikova]]
+| {{RUS}}
+| 1 August 2009
+| Rome
+| <ref name=W2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 6
+| 2:05.08
+| [[Phoebe Bacon]]
+| {{USA}}
+| 27 April 2022
+| Greensboro
+| <ref name=W2022US>{{cite web|title=2022 International Team Trials - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011700010202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=27 April 2022|access-date=19 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 7
+| 2:05.09
+| [[Claire Curzan]]
+| {{USA}}
+| 4 June 2025
+| Indianapolis
+| <ref name="W2025US">{{cite web |date=4 June 2025 |title=2025 US National Championships - Women's 200m Backstroke Final Results |url=https://www.omegatiming.com/File/00011900040202EE0104FFFFFFFFFF01.pdf |access-date=4 June 2025 |publisher=Omega Timing}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 8
+| 2:05.13
+| [[Rhyan White]]
+| {{USA}}
+| 27 April 2022
+| Greensboro
+| <ref name="W2022US" />
+|- bgcolor=CCFFCC
+| align=center | 9
+| 2:05.42
+| [[Kylie Masse]]
+| {{CAN}}
+| 31 July 2021
+| Tokyo
+| <ref name=W2020OG>{{cite web|title=2020 Olympic Games - Women's 200m Backstroke Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW200MBA------------FNL-000100--.pdf|publisher=olympics.com|date=31 July 2021|accessdate=12 August 2021|archive-date=22 August 2021|archive-url=https://web.archive.org/web/20210822071929/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW200MBA------------FNL-000100--.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 2:05.56
+| [[Margherita Panziera]]
+| {{ITA}}
+| 31 March 2021
+| [[Riccione]]
+| <ref>{{cite web|title=Women's 200m Backstroke Final Results|url=http://fin2021.microplustiming.com/export/NU_2021_03_31-04_03_Riccione/NU/pdf/CLS-ASF-200DO-FIN-ALL.pdf?x=18:39:31|website=microplustiming.com|date=31 March 2021|accessdate=1 April 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 2:05.68
+| [[Emily Seebohm]]
+| {{AUS}}
+| 29 July 2017
+| [[Budapest]]
+| <ref name=W2017WC>{{cite web|title=17th FINA World Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000111010A0202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2017|access-date=29 July 2017}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 2:05.85
+| [[Katinka Hosszú]]
+| {{HUN}}
+| 29 July 2017
+| Budapest
+| <ref name=W2017WC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align="center" | 13
+| rowspan="2" | 2:05.99
+| [[Maya DiRado]]
+| {{USA}}
+| 12 August 2016
+| [[Rio de Janeiro]]
+| <ref>{{cite magazine|title=Maya DiRado Upsets Katinka Hosszu For Victory In The 200 Back|url=https://www.swimmingworldmagazine.com/news/maya-dirado-upsets-katinka-hosszu-for-victory-in-the-200-back/|date=12 August 2016|magazine=[[Swimming World]]|accessdate=29 August 2016}}</ref>
+|- bgcolor="CCFFCC"
+| [[Leah Shackley]]
+| {{USA}}
+| 18 July 2025
+| [[Berlin]]
+| <ref>{{cite web|title=Women's 200m Backstroke Final Results|url=https://s3-crs-prod.microplustimingservices.com/RHRU2025/static/_PDF/WUG2025/SWM/2025-07-18/SWMW200MBA------------FNL-000100--__C73A1_1.0.pdf|website=microplustimingservices.com|date=18 July 2025|access-date=18 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 2:06.06
+| [[Belinda Hocking]]
+| {{AUS}}
+| 30 July 2011
+| [[Shanghai]]
+| <ref>{{cite web|title=14th FINA World Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010B0D005F000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2011|access-date=7 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 2:06.09
+| [[Margaret Hoelzer]]
+| {{USA}}
+| 29 June 2008
+| [[Omaha]]
+| <ref name=W2008US/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 2:06.14
+| [[Kathleen Baker]]
+| {{USA}}
+| 9 August 2018
+| Tokyo
+| <ref>{{cite web|title=2018 Pan Pacific Championships - Women's 200m Backstroke Final|work=Seiko.co.jp |date=12 August 2018|url=http://swim.seiko.co.jp/en/2018/S80701/ranking/eng12R071.pdf |accessdate = 15 August 2018}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 2:06.18
+| [[Elizabeth Beisel]]
+| {{USA}}
+| 2 August 2012
+| London
+| <ref>{{cite magazine|title=2012 London Olympics: Elizabeth Beisel, Missy Franklin Earn Top Two Spots in 200 Back Semis; Defending Champion Kirsty Coventry Finishes Sixth|url=https://www.swimmingworldmagazine.com/news/2012-london-olympics-elizabeth-beisel-missy-franklin-earn-top-two-spots-in-200-back-semis-defending-champion-kirsty-coventry-finishes-sixth/|date=12 August 2016|magazine=[[Swimming World]]|accessdate=29 August 2016}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 2:06.29
+| [[Elizabeth Pelton]]
+| {{USA}}
+| 25 June 2013
+| Indianapolis
+| <ref>{{cite web|title=2013 US National Championships - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00010D020001011C02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=25 June 2013|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 2:06.36
+| [[Taylor Ruck]]
+| {{CAN}}
+| 2 March 2018
+| [[Atlanta, Georgia|Atlanta]]
+| <ref>{{cite magazine|title=Taylor Ruck Drops Canadian 200 Free Record Shortly After 2:06.3 200 Bk|url=https://swimswam.com/taylor-ruck-drops-canadian-200-free-record-shortly-206-3-200-bk/|magazine=[[SwimSwam]]|author=James Sutherland|date=2 March 2018|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 2:06.46
+| [[Zhao Jing (swimmer)|Zhao Jing]]
+| {{CHN}}
+| 13 November 2010
+| [[Guangzhou]]
+| <ref>{{cite magazine|title=Asian Games: Zhao Jing, Tae Hwan Park Set Asian Records on Day Two|url=https://www.swimmingworldmagazine.com/news/asian-games-zhao-jing-tae-hwan-park-set-asian-records-on-day-two/|date=13 November 2010|access-date=19 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 22
+| rowspan="2" | 2:06.54
+| [[Kennedy Noble]]
+| {{USA}}
+| 28 June 2023
+| Indianapolis
+| <ref name=W2023US/>
+|- bgcolor=CCFFCC
+| [[Peng Xuwei]]
+| {{CHN}}
+| 20 March 2025
+| [[Qingdao]]
+| 
+|- bgcolor=CCFFCC
+| align=center | 24
+| 2:06.62
+| [[Krisztina Egerszegi]]
+| {{HUN}}
+| 25 August 1991
+| [[Athens]]
+| 
+|- bgcolor=CCFFCC
+| align=center | 25
+| 2:06.64
+| [[Laure Manaudou]]
+| {{FRA}}
+| 26 April 2008
+| [[Dunkirk]]
+| <ref>{{cite magazine|title=French Olympic Trials: Amaury Leveaux Marks European Record in 50 Free|url=https://www.swimmingworldmagazine.com/news/french-olympic-trials-amaury-leveaux-marks-european-record-in-50-free/|date=26 April 2008|access-date=24 April 2025|magazine=[[Swimming World]]}}</ref>
+|}
+
+===Women short course===
+*Correct as of October 2025<ref>{{cite web|title=Women's 200m Backstroke Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=200&stroke=BACKSTROKE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=11 August 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 1:57.33
+| [[Kaylee McKeown]]
+| {{AUS}}
+| 25 October 2025
+| [[Toronto]]
+| <ref name=W2025Toronto/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 1:57.86
+| [[Regan Smith (swimmer)|Regan Smith]]
+| {{USA}}
+| 25 October 2025
+| Toronto
+| <ref name=W2025Toronto/>
+|-
+| rowspan="6" |
+| align=center | 3
+| 1:57.87
+|''McKeown #2''
+| rowspan="6" |
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref name=W2025Westmont/>
+|-
+| align=center | 4
+| 1:57.91
+|''Smith #2''
+| 19 October 2025
+| Westmont
+| <ref name=W2025Westmont/>
+|-
+| align=center | 5
+| 1:58.04
+|''Smith #3''
+| 15 December 2024
+| [[Budapest]]
+| <ref name=W2024WC/>
+|-
+| align=center | 6
+| 1:58.83
+|''Smith #4''
+| 2 November 2024
+| [[Singapore]]
+| <ref name=W2024Singapore/>
+|-
+| align=center | 7
+| 1:58.86
+|''McKeown #3''
+| 12 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref name=W2025Carmel>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011900060202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 October 2025|access-date=13 October 2025}}</ref>
+|-
+| align=center | 8
+| 1:58.94
+|''McKeown #4''
+| 28 November 2020
+| [[Brisbane]]
+| <ref name=W2020Aus/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 9
+| 1:59.23
+| [[Katinka Hosszú]]
+| {{HUN}}
+| 5 December 2014
+| [[Doha]]
+| <ref name=W2014WC/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 10
+| 1:59.25
+| [[Minna Atherton]]
+| {{AUS}}
+| 23 November 2019
+| [[London]]
+| <ref>{{cite web|title=2019 International Swimming League (European Derby) - Women's 200m Backstroke Results|page=9|url=https://isl.global/wp-content/uploads/2021/08/isl_london_day_1_results.pdf#page=9|website=isl.global|date=23 November 2019|access-date=5 May 2025}}</ref>
+|-
+| align=center |
+| align=center | 11
+| 1:59.26
+|''McKeown #5''
+| 
+| 18 December 2022
+| [[Melbourne]]
+| <ref name=W2022WC>{{cite web|title=16th FINA World Championships (25m) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011700030202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=7 January 2023}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 12
+| 1:59.35
+| [[Daryna Zevina]]
+| {{UKR}}
+| 26 August 2016
+| [[Chartres]]
+| <ref>{{cite web|title=2016 FINA World Cup (Chartres) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000110000401011C02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=26 August 2016|access-date=5 May 2025}}</ref>
+|-
+| rowspan="2" |
+| rowspan="2" align=center | 13
+| rowspan="2" | 1:59.48
+|''Atherton #2''
+| rowspan="2" |
+| 26 October 2019
+| Budapest
+| <ref>{{cite web|title=2019 International Swimming League (Budapest) - Women's 200m Backstroke Results|page=9|url=https://isl.global/wp-content/uploads/2021/08/isl_results_budapest_day_1-1.pdf#page=9|website=isl.global|date=26 October 2019|access-date=5 May 2025}}</ref>
+|-
+|''McKeown #6''
+| 25 August 2022
+| [[Sydney]]
+| <ref>{{cite magazine|title=Kaylee Mckeown Slays 5th Fastest 200 Back Performance of All-time|url=https://swimswam.com/kaylee-mckeown-slays-5th-fastest-200back-performance-of-all-time/|magazine=[[SwimSwam]]|author=Retta Race|date=25 August 2022|access-date=5 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 15
+| 1:59.49
+| [[Emily Seebohm]]
+| {{AUS}}
+| 26 November 2015
+| Sydney
+| <ref>{{Cite magazine|last=Marsteller|first=Jason|date=26 November 2015 |title=Race Video: Emily Seebohm Clocks Near World Record 1:59.49 in 200 Back|url=https://www.swimmingworldmagazine.com/news/race-video-emily-seebohm-clocks-near-world-record-159-49-in-200-back/|access-date=5 May 2025|magazine=[[Swimming World]]}}</ref>
+|-
+| rowspan="5" |
+| align=center | 16
+| 1:59.60
+|''Smith #5''
+| rowspan="5" |
+| 26 October 2024
+| [[Incheon]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Incheon) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800060202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=26 October 2024|access-date=5 May 2025}}</ref>
+|-
+| align=center | 17
+| 1:59.75
+|''Hosszú #2''
+| 11 December 2015
+| [[Indianapolis]]
+| <ref name=W2015Duel>{{cite web|title=2015 Duel in the Pool - Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/00010F020D01011C02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=11 December 2015|access-date=5 May 2025}}</ref>
+|-
+| align=center | 18
+| 1:59.84
+|''Hosszú #3''
+| 4 December 2015
+| [[Netanya]]
+| <ref name=W2015EC>{{cite web|title=2015 European Short Course Championships - Women's 200m Backstroke Final Results|url=https://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASF-200BK-FINALE-ALL.pdf?x=17:47:40|work=microplustiming.com|date=4 December 2015|accessdate=5 May 2025}}</ref>
+|-
+| align=center | 19
+| 1:59.94
+|''Seebohm #2''
+| 6 October 2018
+| Budapest
+| <ref name=W2018Budapest>{{cite web|title=2018 FINA World Cup (Budapest) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011201080202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=6 October 2018|access-date=5 May 2025}}</ref>
+|-
+| align=center | 20
+| 1:59.95
+|''Hosszú #4''
+| 4 December 2015
+| Netanya
+| <ref>{{cite web|title=2015 European Short Course Championships - Women's 200m Backstroke Heats Results|url=https://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASF-200BK-ELIM-ALL.pdf?x=17:48:37#page=2|work=microplustiming.com|date=4 December 2015|accessdate=5 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 21
+| 1:59.96
+| [[Summer McIntosh]]
+| {{CAN}}
+| 15 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 22
+| 2:00.03
+| [[Missy Franklin]]
+| {{USA}}
+| 22 October 2011
+| [[Berlin]]
+| <ref name=W2011Berlin/>
+|-
+| rowspan="3" |
+| align=center | 23
+| 2:00.05
+|''Hosszú #5''
+| rowspan="3" |
+| 11 August 2017
+| [[Eindhoven]]
+| <ref>{{cite web|title=2017 FINA World Cup (Eindhoven) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011101030202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=11 August 2017|access-date=5 May 2025}}</ref>
+|-
+| align=center | 24
+| 2:00.07
+|''Smith #6''
+| 12 October 2025
+| Carmel
+| <ref name=W2025Carmel/>
+|-
+| align=center | 25
+| 2:00.13
+|''Seebohm #3''
+| 5 December 2014
+| Doha
+| <ref name=W2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 9
+| rowspan="17" |
+| 2:00.15
+| [[Anastasiya Shkurdai]]
+| {{BLR}}
+| 10 November 2023
+| [[Brest, Belarus|Brest]]
+| <ref>{{cite web|title=2023 Belarusian Championships - Women's 200m Backstroke Final Results|url=http://brest-dvvs.by/upload/20231107/ResultList_26F_us.pdf|work=brest-dvvs.by|date=10 November 2023|access-date=10 November 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 2:00.18
+| [[Shiho Sakai]]
+| {{JPN}}
+| 14 November 2009
+| Berlin
+| <ref name=W2009Berlin/>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 2:00.27
+| [[Beata Nelson]]
+| {{USA}}
+| 21 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Final) - Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/000114020F0202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=21 November 2020|access-date=5 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 2:00.53
+| [[Claire Curzan]]
+| {{USA}}
+| 18 December 2022
+| Melbourne
+| <ref name=W2022WC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 2:00.69
+| [[Kathleen Baker]]
+| {{USA}}
+| 6 October 2018
+| Budapest
+| <ref name=W2018Budapest/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 2:00.71
+| [[Lisa Bratton]]
+| {{USA}}
+| 13 December 2018
+| [[Hangzhou]]
+| <ref>{{cite web|title=14th FINA World Championships (25m) - Women's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/000112010C0202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=13 December 2018|access-date=5 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 2:00.76
+| [[Phoebe Bacon]]
+| {{USA}}
+| 15 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 2:00.83
+| [[Elizabeth Simmonds]]
+| {{GBR2}}
+| 16 December 2011
+| [[Atlanta, Georgia|Atlanta]]
+| <ref>{{cite web|title=2011 Duel in the Pool - Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/00010B000006000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=16 December 2011|access-date=5 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 2:00.91
+| [[Kirsty Coventry]]
+| {{ZIM}}
+| 11 April 2008
+| [[Manchester]]
+| <ref name=W2008WC/>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 2:01.24
+| [[Belinda Hocking]]
+| {{AUS}}
+| 22 October 2011
+| Berlin
+| <ref name=W2011Berlin/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 19
+| rowspan="2" | 2:01.26
+| [[Kira Toussaint]]
+| {{NED}}
+| 4 November 2021
+| [[Kazan]]
+| <ref>{{cite web|title=2021 European Short Course Championships - Women's 200m Backstroke Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW200MBA------------FNL-000100--_73A1%201.0.pdf?x=23:38:07|work=microplustiming.com|date=4 November 2021|accessdate=4 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| [[Kylie Masse]]
+| {{CAN}}
+| 18 December 2022
+| Melbourne
+| <ref name=W2022WC/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 2:01.29
+| [[Amy Bilquist]]
+| {{USA}}
+| 30 October 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Match 5) - Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/00011402070202EE04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=30 October 2020|access-date=5 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 2:01.33
+| [[Courtney Bartholomew]]
+| {{USA}}
+| 11 December 2015
+| Indianapolis
+| <ref name=W2015Duel/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 2:01.45
+| [[Margherita Panziera]]
+| {{ITA}}
+| 6 December 2019
+| [[Glasgow]]
+| <ref>{{cite web|title=2019 European Short Course Championships - Women's 200m Backstroke Final Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMW200MBA------------FNL-000100--_73A1%201.0.pdf|website=microplustiming.com|date=6 December 2019|access-date=6 December 2019}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 2:01.57
+| [[Daria Ustinova]]
+| {{RUS}}
+| 4 December 2015
+| Netanya
+| <ref name=W2015EC/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 2:01.58
+| [[Rhyan White]]
+| {{USA}}
+| 19 December 2021
+| [[Abu Dhabi]]
+| <ref>{{cite web|title=15th FINA World Championships (25m) - Women's 200m Backstroke Results|url=https://www.omegatiming.com/File/00011500190202EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 December 2021|access-date=5 May 2025}}</ref>
+|}
+
+==References==
+{{Reflist|30em}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Backstroke 200 metres]]
+[[Category:Backstroke|World record progression 200 metres backstroke]]

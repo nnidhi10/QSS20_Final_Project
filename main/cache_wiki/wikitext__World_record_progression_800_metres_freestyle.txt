@@ -1,0 +1,3154 @@
+{{Short description|none}}
+{{main|List of world records in swimming}}
+[[File:800M_Freestyle_Swimming_World_Record_Progression.png|thumb|500px|right|World record progression for the 800m freestyle]]
+The first '''world record in the women's 800 metres [[freestyle swimming|freestyle]]''' in [[long course]] (50&nbsp;metres) [[swimming (sport)|swimming]] was recognised by the [[International Swimming Federation]] (FINA) in [[1931 in sports|1931]]. The women's 880 yard freestyle had been a FINA-recognized world record event since 1919. However, in 1931 FINA decreed that only performances from 1931 onward would be eligible for world record consideration in the 800 metres freestyle. Thus Helene Madison's 1930 world record of 11:41.2 in the 880 yard freestyle was not considered a world record in the 800 metres freestyle even though it was over a longer distance and substantially faster than Yvonne Godard's 1931 world record of 12:18.8 in the 800 metres freestyle. In 1933, Lenore Kight swam the 880 yard freestyle in 11:44.0, which FINA recognised as a world record in the 800 metres freestyle but not in the 880 yard freestyle. This irregularity was finally resolved in 1935, when Kight's 11:34.4 in the 880 yard freestyle broke the records for both the 880 yard freestyle and the 800 metres freestyle.<ref>Pat Besford, The Encyclopaedia of Swimming, London, St. Martin's Press, 1971.</ref> Because of this situation, the world records for the 880 yard freestyle for women from 1919 to 1930 are included below.
+
+==Men==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}.
+{{Swimmingrecord
+|number = 1
+|time = 11:25.4
+|recordinfo = yd
+|firstname = Henry
+|lastname = Taylor
+|namearticle = Henry Taylor (swimmer)
+|nation = GBR
+|date = {{Dts|1906|Jul|21}}
+|meet = -
+|city = Runcorn
+|country = UK
+|ref =
+}}
+{{Swimmingrecord
+|number = 2
+|time = 11:24.2
+|recordinfo = yd
+|firstname = Norman
+|lastname = Ross
+|namearticle = Norman Ross
+|nation = USA
+|date = {{Dts|1920|Jan|10}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 11:05.2
+|recordinfo = yd
+|firstname = Boy
+|lastname = Charlton
+|namearticle = Boy Charlton
+|nation = AUS
+|date = {{Dts|1923|Jan|13}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 10:51.8
+|recordinfo = yd
+|firstname = Boy
+|lastname = Charlton
+|namearticle = Boy Charlton
+|nation = AUS
+|date = {{Dts|1924|Jan|19}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 10:43.6
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = {{Dts|1924|Apr|11}}
+|meet = -
+|city = Honolulu
+|country = Hawaii
+|ref =
+}}
+{{Swimmingrecord
+|number = 6
+|time = 10:37.4
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = {{Dts|1925|Aug|25}}
+|meet = -
+|city = Harnäs
+|country = SWE
+|ref =
+}}
+{{Swimmingrecord
+|number = 7
+|time = 10:32.0
+|recordinfo = yd
+|firstname = Boy
+|lastname = Charlton
+|namearticle = Boy Charlton
+|nation = AUS
+|date = {{Dts|1927|Jan|8}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 8
+|time = 10:22.2
+|recordinfo = yd
+|firstname = Johnny
+|lastname = Weissmuller
+|namearticle = Johnny Weissmuller
+|nation = USA
+|date = {{Dts|1927|Jul|27}}
+|meet = -
+|city = Honolulu
+|country = Hawaii
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 10:19.6
+|firstname = Jean
+|lastname = Taris
+|namearticle = Jean Taris
+|nation = FRA
+|date = {{Dts|1930|May|30}}
+|meet = -
+|city = Paris
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 10:17.2
+|firstname = Jean
+|lastname = Taris
+|namearticle = Jean Taris
+|nation = FRA
+|date = {{Dts|1931|Jun|9}}
+|meet = -
+|city = Cannes
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 11
+|time = 10:16.6
+|firstname = Shozo
+|lastname = Makino
+|namearticle = Shozo Makino (swimmer)
+|nation = JPN
+|date = {{Dts|1931|Aug|30}}
+|meet = -
+|city = Osaka
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 10:15.6
+|firstname = Jean
+|lastname = Taris
+|namearticle = Jean Taris
+|nation = FRA
+|date = {{Dts|1932|Jun|21}}
+|meet = -
+|city = Cannes
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 13
+|time = 10:08.6
+|firstname = Shozo
+|lastname = Makino
+|namearticle = Shozo Makino (swimmer)
+|nation = JPN
+|date = {{Dts|1933|Jun|25}}
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 10:01.2
+|firstname = Shozo
+|lastname = Makino
+|namearticle = Shozo Makino (swimmer)
+|nation = JPN
+|date = {{Dts|1933|Sep|16}}
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 9:55.8
+|firstname = Shozo
+|lastname = Makino
+|namearticle = Shozo Makino (swimmer)
+|nation = JPN
+|date = {{Dts|1934|Sep|15}}
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 9:50.9
+|firstname = Bill
+|lastname = Smith
+|namearticle = Bill Smith (swimmer)
+|nation = USA
+|date = {{Dts|1941|Jul|24}}
+|meet = -
+|city = Honolulu
+|country = Hawaii
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 9:45.6
+|firstname = Hironoshin
+|lastname = Furuhashi
+|namearticle = Hironoshin Furuhashi
+|nation = JPN
+|date = {{Dts|1949|Jun|26}}
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 9:45.0
+|firstname = Shiro
+|lastname = Hashizume
+|namearticle = Shiro Hashizume
+|nation = JPN
+|date = {{Dts|1949|Aug|16}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 9:40.7
+|firstname = Hironoshin
+|lastname = Furuhashi
+|namearticle = Hironoshin Furuhashi
+|nation = JPN
+|date = {{Dts|1949|Aug|16}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 9:35.5
+|firstname = Hironoshin
+|lastname = Furuhashi
+|namearticle = Hironoshin Furuhashi
+|nation = JPN
+|date = {{Dts|1949|Aug|16}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 9:30.7
+|firstname = Ford
+|lastname = Konno
+|namearticle = Ford Konno
+|nation = USA
+|date = {{Dts|1951|Jul|7}}
+|meet = -
+|city = Honolulu
+|country = Hawaii
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 9:15.7
+|firstname = George
+|lastname = Breen
+|namearticle = George Breen
+|nation = USA
+|date = {{Dts|1956|Oct|27}}
+|meet = -
+|city = New Haven
+|cityarticle = New Haven, Connecticut
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 9:17.7
+|recordinfo = yd
+|firstname = John
+|lastname = Konrads
+|namearticle = John Konrads
+|nation = AUS
+|date = {{Dts|1958|Jan|11}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 24
+|time = 9:14.5
+|recordinfo = yd
+|firstname = John
+|lastname = Konrads
+|namearticle = John Konrads
+|nation = AUS
+|date = {{Dts|1958|Feb|22}}
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 8:59.6
+|recordinfo = yd
+|firstname = John
+|lastname = Konrads
+|namearticle = John Konrads
+|nation = AUS
+|date = {{Dts|1959|Jan|10}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 8:51.5
+|firstname = Murray
+|lastname = Rose
+|namearticle = Murray Rose
+|nation = AUS
+|date = {{Dts|1962|Aug|26}}
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 8:47.4
+|firstname = Semyon
+|lastname = Belits-Geiman
+|namearticle = Semyon Belits-Geiman
+|nation = USSR
+|date = {{Dts|1966|Aug|3}}
+|meet = -
+|city = Kharkiv
+|country = URS
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 8:47.3
+|firstname = John
+|lastname = Bennett
+|namearticle = John Bennett (swimmer)
+|nation = AUS
+|date = {{Dts|1967|Jan|16}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 8:46.8
+|firstname = Alain
+|lastname = Mosconi
+|namearticle = Alain Mosconi
+|nation = FRA
+|date = {{Dts|1967|Jul|5}}
+|meet = -
+|city = Monaco
+|country = MON
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 8:42.0
+|firstname = Francis
+|lastname = Luyce
+|namearticle = Francis Luyce
+|nation = FRA
+|date = {{Dts|1967|Jul|21}}
+|meet = -
+|city = Dinard
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 8:34.3
+|recordinfo = †
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = {{Dts|1968|Sep|3}}
+|meet = [[United States Olympic Trials (swimming)|USA Olympic Trials]]
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 8:28.8
+|recordinfo = †
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = {{Dts|1969|Aug|17}}
+|meet = AAU Nationals
+|city = Louisville
+|cityarticle = Louisville, Kentucky
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 33
+|time = 8:28.6
+|firstname = Graham
+|lastname = Windeatt
+|namearticle = Graham Windeatt
+|nation = AUS
+|date = {{Dts|1971|Apr|3}}
+|meet = NSW Combined High Schools Championships
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 34
+|time = 8:23.8
+|firstname = Brad
+|lastname = Cooper
+|namearticle = Brad Cooper (swimmer)
+|nation = AUS
+|date = {{Dts|1972|Jan|12}}
+|meet = NSW State Championships
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 35
+|time = 8:17.60
+|recordinfo = †
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1973|Aug|5}}
+|meet = Pre World Championship meet
+|city = Brisbane
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 36
+|time = 8:16.27
+|recordinfo = †
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1973|Sep|8}}
+|meet = [[1973 World Aquatics Championships|World Championships]]
+|city = Belgrade
+|country = YUG
+|ref =
+}}
+{{Swimmingrecord
+|number = 37
+|time = 8:15.88
+|recordinfo = †
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1974|Jan|1}}
+|meet = Commonwealth Games
+|city = Christchurch
+|country = NZL
+|ref =
+}}
+{{Swimmingrecord
+|number = 38
+|time = 8:15.2
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1975|Jan|17}}
+|meet = QLD State Championships
+|city = Brisbane
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 39
+|time = 8:15.02
+|recordinfo = †
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1975|Jan|25}}
+|meet = New Zealand Games
+|city = Christchurch
+|country = NZL
+|ref =
+}}
+{{Swimmingrecord
+|number = 40
+|time = 8:13.68
+|recordinfo = †
+|firstname = Tim
+|lastname = Shaw
+|namearticle = Tim Shaw (swimmer)
+|nation = USA
+|date = {{Dts|1975|Jun|21}}
+|meet = USA World Championship Trials
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 41
+|time = 8:09.60
+|firstname = Tim
+|lastname = Shaw
+|namearticle = Tim Shaw (swimmer)
+|nation = USA
+|meet = Pre World Championship meet
+|date = {{Dts|1975|Jul|13}}
+|city = Mission Viejo
+|cityarticle = Mission Viejo, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 42
+|time = 8:06.27
+|recordinfo = †
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1976|Feb|27}}
+|meet = [[Australian Swimming Championships|Australian Olympic Trials]]
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 43
+|time = 8:02.91
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = {{Dts|1976|Feb|29}}
+|meet = [[Australian Swimming Championships|Australian Olympic Trials]]
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 44
+|time = 8:01.54
+|recordinfo = †
+|firstname = Bobby
+|lastname = Hackett
+|namearticle = Bobby Hackett (swimmer)
+|nation = USA
+|date = {{Dts|1976|Jun|21}}
+|meet = [[United States Olympic Trials (swimming)|USA Olympic Trials]]
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 45
+|time = 7:56.49
+|recordinfo = †
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = {{Dts|1979|Mar|23}}
+|meet = URS vs. GDR Duel
+|city = Minsk
+|country = URS
+|ref =
+}}
+{{Swimmingrecord
+|number = 46
+|time = 7:52.83
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = {{Dts|1982|Feb|14}}
+|meet = URS Winter Nationals
+|city = Moscow
+|country = URS
+|ref =
+}}
+{{Swimmingrecord
+|number = 47
+|time = 7:52.23
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = {{Dts|1983|Jul|14}}
+|meet = Los Angeles International
+|city = Los Angeles
+|country = USA
+|ref = <ref name="Times1986-07-05">{{cite news |title=Goodwill Games given an uppercut |work=[[The Times]] |date=1986-07-05 }}</ref>
+}}
+{{Swimmingrecord
+|number = 48
+|time = 7:50.64
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = {{Dts|1986|Jul|4}}
+|meet = [[1986 Goodwill Games|Goodwill Games]]
+|city = Moscow
+|country = URS
+|ref = <ref name="Times1986-07-05" />
+}}
+{{Swimmingrecord
+|number = 49
+|time = 7:47.85
+|recordinfo = †
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = {{Dts|1991|Aug|25}}
+|meet = [[1991 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Edmonton
+|country = CAN
+|ref = <ref>{{cite news |title=Two world records fall; Swimming |work=[[The Times]] |date=1991-08-27 }}</ref>
+}}
+{{Swimmingrecord
+|number = 50
+|time = 7:46.60
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = {{Dts|1992|Feb|16}}
+|meet = NSW Age Group Championships
+|city = Sydney
+|country = AUS
+|ref = <ref>{{cite news |title=Swimming |work=[[The Guardian]] |date=1992-02-17 |page=19 }}</ref>
+}}
+{{Swimmingrecord
+|number = 51
+|time = 7:46.00
+|recordinfo = †
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = {{Dts|1994|8|24}}
+|meet = [[1994 Commonwealth Games|Commonwealth Games]]
+|city = Victoria
+|cityarticle = Victoria, British Columbia
+|country = CAN
+|ref = <ref>{{cite news |title=Perkins in golden time warp; Commonwealth Games Victoria 94 |work=[[The Times]] |date=1994-08-26 |page=35 }}</ref>
+}}
+{{Swimmingrecord
+|number = 52
+|time = 7:41.59
+|firstname = Ian
+|lastname = Thorpe
+|namearticle = Ian Thorpe
+|nation = AUS
+|date = {{Dts|format=dmy|2001|3|26}}
+|meet = Australian Championships
+|city = Hobart
+|country = AUS
+|ref = <ref>{{cite news |title=Swimming: Thorpe obliterates 800m barrier |work=[[The Independent]] |author=Ian Alcock |date=2001-03-26 }}</ref> [https://www.youtube.com/watch?v=lQaF6hOXH1w link] [https://www.youtube.com/watch?v=J_nFgdM64oo link] 
+}}
+{{Swimmingrecord
+|number = 53
+|time = 7:39.16
+|firstname = Ian
+|lastname = Thorpe
+|namearticle = Ian Thorpe
+|nation = AUS
+|date = {{Dts|format=dmy|2001|7|24}}
+|meet = [[2001 World Aquatics Championships|World Championships]]
+|city = Fukuoka
+|country = JPN
+|ref = <ref name=M2001WC>{{cite web |url=http://www.fina.org/fukuoka_SwimmingResultsM800free.html |title=Final Results |accessdate=2023-08-06 |publisher=[[FINA]]|archive-url=https://web.archive.org/web/20041019210312/http://www.fina.org/fukuoka_SwimmingResultsM800free.html |archive-date=19 October 2004 }}</ref>
+}}
+{{Swimmingrecord
+|number = 54
+|time = 7:38.65
+|firstname = Grant
+|lastname = Hackett
+|namearticle = Grant Hackett
+|nation = AUS
+|date = {{Dts|format=dmy|2005|7|27}}
+|meet = [[2005 World Aquatics Championships|World Championships]]
+|city = Montreal
+|country = CAN
+|ref = <ref name=2005WC>{{cite news |first=Michael |last=Cowley |title=Hackett steps out of Thorpe's shadow |url=http://www.smh.com.au/news/sport/hackett-steps-out-of-thorpes-shadow/2005/07/28/1122143966528.html |work=[[The Sydney Morning Herald]] |date=2005-07-29 |access-date=2008-03-24}}</ref>
+}}
+{{Swimmingrecord
+|number = 55
+|time = 7:32.12
+|firstname = Zhang
+|lastname = Lin
+|namearticle = Zhang Lin (swimmer)
+|nation = CHN
+|date = {{Dts|format=dmy|2009|7|29}}
+|meet = [[2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=M2009WC>{{cite web|title=13th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B0035000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2009|access-date=13 March 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = WB
+|time = 7:38.90
+|recordinfo =
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = Soviet Union
+|date = {{Dts|1983|Feb|13}}
+|meet = Festival Arena
+|city = Bonn
+|country =  Germany
+|ref =
+}}
+{{Swimmingrecord
+|number = 1
+|time = 7:38.75
+|recordinfo =
+|firstname = Michael
+|lastname = Gross
+|namearticle = Michael Gross (swimmer)
+|nation = Federal Republic of Germany
+|date = {{Dts|1985|Feb|3}}
+|meet = Festival Arena
+|city = Bonn
+|country =  Germany
+|ref =
+}}
+{{Swimmingrecord
+|number = 2
+|time = 7:34.90
+|recordinfo =
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = {{Dts|1993|Jul|25}}
+|meet = Grand Prix
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 7:25.28
+|recordinfo =
+|firstname = Grant
+|lastname = Hackett
+|namearticle = Grant Hackett
+|nation = AUS
+|date = {{Dts|2001|Aug|3}}
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Perth
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 7:23.42
+|recordinfo =
+|firstname = Grant
+|lastname = Hackett
+|namearticle = Grant Hackett
+|nation = AUS
+|date = {{Dts|2008|Jul|20}}
+|meet = Victorian Championships
+|city = Melbourne
+|country = AUS
+|ref = <ref name=M2008Aus>{{cite magazine|title=Flash Grant Hackett Crushes 800 Free World Record Over Short Course|url=https://www.swimmingworldmagazine.com/news/flash-grant-hackett-crushes-800-free-world-record-over-short-course/|magazine=[[Swimming World]]|date=20 July 2008|access-date=13 October 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 5
+|time = 7:20.46
+|recordinfo =
+|firstname = Daniel
+|lastname = Wiffen
+|namearticle = Daniel Wiffen
+|nation = IRL
+|date = {{Dts|2023|Dec|10}}
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROM
+|ref = <ref name=M2023EC>{{cite web|title=Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600090101F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2023|access-date=13 December 2023}}</ref><ref>{{cite web|title=Video - Men's 800m Freestyle Final |url=https://www.youtube.com/watch?v=582caZZSaHs|publisher=LEN|date=10 December 2023|access-date= 12 December 2023}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+==Women==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 13:19.0
+|recordinfo = yd
+|firstname = Gertrude
+|lastname = Ederle
+|namearticle = Gertrude Ederle
+|nation = USA
+|date = {{Dts|format=dmy|1919|8|17}}
+|meet = -
+|city = Indianapolis
+|cityarticle = Indianapolis, Indiana
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 2
+|time = 12:58.2
+|recordinfo = yd
+|firstname = Ethel
+|lastname = McGary
+|namearticle = Ethel McGary
+|nation = USA
+|date = {{Dts|format=dmy|1919|8|17}}
+|meet = -
+|city = Detroit
+|cityarticle = Detroit, Michigan
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 12:56.0
+|recordinfo = yd
+|firstname = Ethel
+|lastname = McGary
+|namearticle = Ethel McGary
+|nation = USA
+|date = {{Dts|format=dmy|1925|8|15}}
+|meet = -
+|city = Indianapolis
+|cityarticle = Indianapolis, Indiana
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 12:47.2
+|recordinfo = yd
+|firstname = Martha
+|lastname = Norelius
+|namearticle = Martha Norelius
+|nation = USA
+|date = {{Dts|format=dmy|1926|8|7}}
+|meet = -
+|city = Philadelphia
+|cityarticle = Philadelphia, Pennsylvania
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 12:17.8
+|recordinfo = yd
+|firstname = Martha
+|lastname = Norelius
+|namearticle = Martha Norelius
+|nation = USA
+|date = {{Dts|format=dmy|1927|7|31}}
+|meet = -
+|city = Massapequa
+|cityarticle = Massapequa, New York
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 6
+|time = 12:03.8
+|recordinfo = yd
+|firstname = Josephine
+|lastname = McKim
+|namearticle = Josephine McKim
+|nation = USA
+|date = {{Dts|format=dmy|1929|8|10}}
+|meet = -
+|city = Honolulu
+|country = Hawaii
+|ref =
+}}
+{{Swimmingrecord
+|number = 7
+|time = 11:41.2
+|recordinfo = yd
+|firstname = Helene
+|lastname = Madison
+|namearticle = Helene Madison
+|nation = USA
+|date = {{Dts|format=dmy|1930|7|6}}
+|meet = -
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 8
+|time = 12:18.8
+|firstname = Yvonne
+|lastname = Godard
+|namearticle = Yvonne Godard
+|nation = FRA
+|date = {{Dts|format=dmy|1931|7|23}}
+|meet = -
+|city = Paris
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 11:44.0
+|recordinfo = yd
+|firstname = Lenore
+|lastname = Kight
+|namearticle = Lenore Kight
+|nation = USA
+|date = {{Dts|format=dmy|1933|7|23}}
+|meet = -
+|city = Jones Beach
+|cityarticle = Jones Beach, New York
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 11:34.4
+|recordinfo = yd
+|firstname = Lenore
+|lastname = Kight
+|namearticle = Lenore Kight
+|nation = USA
+|date = {{Dts|format=dmy|1935|7|21}}
+|meet = -
+|city = Manhattan Beach
+|cityarticle = Manhattan Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 11
+|time = 11:11.7
+|firstname = Ragnhild
+|lastname = Hveger
+|namearticle = Ragnhild Hveger
+|nation = DEN
+|date = {{Dts|format=dmy|1936|7|3}}
+|meet = -
+|city = Copenhagen
+|country = DEN
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 10:52.5
+|firstname = Ragnhild
+|lastname = Hveger
+|namearticle = Ragnhild Hveger
+|nation = DEN
+|date = {{Dts|format=dmy|1941|8|13}}
+|meet = -
+|city = Copenhagen
+|country = DEN
+|ref =
+}}
+{{Swimmingrecord
+|number = 13
+|time = 10:42.4
+|firstname = Valéria
+|lastname = Gyenge
+|namearticle = Valéria Gyenge
+|nation = HUN
+|date = {{Dts|format=dmy|1953|6|28}}
+|meet = -
+|city = Budapest
+|country = HUN
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 10:30.9
+|firstname = Lorraine
+|lastname = Crapp
+|namearticle = Lorraine Crapp
+|nation = AUS
+|date = {{Dts|format=dmy|1956|1|14}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 10:27.3
+|firstname = Mary
+|lastname = Kok
+|namearticle = Mary Kok
+|nation = NED
+|date = {{Dts|format=dmy|1957|2|16}}
+|meet = -
+|city = Durban
+|country = RSA
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 10:17.7
+|recordinfo = yd
+|firstname = Ilsa
+|lastname = Konrads
+|namearticle = Ilsa Konrads
+|nation = AUS
+|date = {{Dts|format=dmy|1958|1|9}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 10:16.2
+|recordinfo = yd
+|firstname = Ilsa
+|lastname = Konrads
+|namearticle = Ilsa Konrads
+|nation = AUS
+|date = {{Dts|format=dmy|1958|2|20}}
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 10:11.8
+|recordinfo = yd
+|firstname = Ilsa
+|lastname = Konrads
+|namearticle = Ilsa Konrads
+|nation = AUS
+|date = {{Dts|format=dmy|1958|6|13}}
+|meet = -
+|city = Townsville
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 10:11.4
+|recordinfo = yd
+|firstname = Ilsa
+|lastname = Konrads
+|namearticle = Ilsa Konrads
+|nation = AUS
+|date = {{Dts|format=dmy|1959|2|19}}
+|meet = -
+|city = Hobart
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 9:55.6
+|firstname = Jane
+|lastname = Cederqvist
+|namearticle = Jane Cederqvist
+|nation = SWE
+|date = {{Dts|format=dmy|1960|8|17}}
+|meet = -
+|city = Uppsala
+|country = SWE
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 9:51.6
+|firstname = Carolyn
+|lastname = House
+|namearticle = Carolyn House
+|nation = USA
+|date = {{Dts|format=dmy|1962|8|26}}
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 9:47.3
+|firstname = Patty
+|lastname = Caretto
+|namearticle = Patty Caretto
+|nation = USA
+|date = {{Dts|format=dmy|1964|7|30}}
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 9:36.9
+|firstname = Sharon
+|lastname = Finneran
+|namearticle = Sharon Finneran
+|nation = USA
+|date = {{Dts|format=dmy|1964|9|28}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 24
+|time = 9:35.8
+|recordinfo = †
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1967|7|9}}
+|meet = Santa Clara Invitational
+|city = Santa Clara
+|cityarticle = Santa Clara, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 9:22.9
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1967|7|29}}
+|meet = [[Swimming at the 1967 Pan American Games|Pan American Games]]
+|city = Winnipeg
+|country = CAN
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 9:19.0
+|recordinfo = †
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1968|7|21}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 9:17.8
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1968|8|4}}
+|meet = US National Championships
+|city = Lincoln, Nebraska
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 9:10.4
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1968|8|28}}
+|meet = US Olympic Trials
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 9:09.1
+|firstname = Karen
+|lastname = Moras
+|namearticle = Karen Moras
+|nation = AUS
+|date = {{Dts|format=dmy|1970|3|1}}
+|meet = Australian Championships
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 9:02.45
+|firstname = Karen
+|lastname = Moras
+|namearticle = Karen Moras
+|nation = AUS
+|date = {{Dts|format=dmy|1970|7|18}}
+|meet = Commonwealth Games
+|city = Edinburgh
+|country = UK
+|ref =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 8:59.4
+|firstname = Ann
+|lastname = Simmons
+|namearticle = Ann Simmons
+|nation = USA
+|date = {{Dts|format=dmy|1971|9|10}}
+|meet = USA vs USSR vs Great Britain Dual Meet
+|city = Minsk
+|country = URS
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 8:58.1
+|firstname = Shane
+|lastname = Gould
+|namearticle = Shane Gould
+|nation = AUS
+|date = {{Dts|format=dmy|1971|12|3}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 33
+|time = 8:53.83
+|firstname = Jo
+|lastname = Harshbarger
+|namearticle = Jo Harshbarger
+|nation = USA
+|date = {{Dts|format=dmy|1972|8|6}}
+|meet = US Olympic Trials
+|cityarticle = Chicago
+|city = Chicago, Illinois
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 34
+|time = 8:53.68
+|firstname = Keena
+|lastname = Rothhammer
+|namearticle = Keena Rothhammer
+|nation = USA
+|date = {{Dts|format=dmy|1972|9|3}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 35
+|time = 8:52.97
+|firstname = Novella
+|lastname = Calligaris
+|namearticle = Novella Calligaris
+|nation = ITA
+|date = {{Dts|format=dmy|1973|9|9}}
+|meet = [[Swimming at the 1973 World Aquatics Championships|World Championships]]
+|city = Belgrade
+|country = YUG
+|ref =
+}}
+{{Swimmingrecord
+|number = 36
+|time = 8:50.10
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1974|1|5}}
+|meet = NSW Championships
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 37
+|time = 8:47.66
+|recordinfo = †
+|firstname = Jo
+|lastname = Harshbarger
+|namearticle = Jo Harshbarger
+|nation = USA
+|date = {{Dts|format=dmy|1974|8|25}}
+|meet = US National Championships
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 38
+|time = 8:47.59
+|firstname = Jo
+|lastname = Harshbarger
+|namearticle = Jo Harshbarger
+|nation = USA
+|date = {{Dts|format=dmy|1974|8|31}}
+|meet = USA vs East Germany Dual Meet
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 39
+|time = 8:43.48
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1975|3|31}}
+|meet = Coca-Cola International
+|city = London
+|country = UK
+|ref =
+}}
+{{Swimmingrecord
+|number = 40
+|time = 8:40.68
+|firstname = Petra
+|lastname = Thümer
+|namearticle = Petra Thümer
+|nation = GDR
+|date = {{Dts|format=dmy|1976|6|4}}
+|meet = East German Championships
+|city = East Berlin
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 41
+|time = 8:39.63
+|firstname = Shirley
+|lastname = Babashoff
+|namearticle = Shirley Babashoff
+|nation = USA
+|date = {{Dts|format=dmy|1976|6|21}}
+|meet = USA Olympic Trials
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 42
+|time = 8:37.14
+|firstname = Petra
+|lastname = Thümer
+|namearticle = Petra Thümer
+|nation = GDR
+|date = {{Dts|format=dmy|1976|7|25}}
+|meet = [[Swimming at the 1976 Summer Olympics|Olympic Games]]
+|city = Montreal
+|country = CAN
+|ref =
+}}
+{{Swimmingrecord
+|number = 43
+|time = 8:35.04
+|firstname = Petra
+|lastname = Thümer
+|namearticle = Petra Thümer
+|nation = GDR
+|date = {{Dts|format=dmy|1977|7|9}}
+|meet = East German Championships
+|city = Leipzig
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 44
+|time = 8:34.86
+|firstname = Michelle
+|lastname = Ford
+|namearticle = Michelle Ford
+|nation = AUS
+|date = {{Dts|format=dmy|1978|1|6}}
+|meet = KBI meet
+|city = Brisbane
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 45
+|time = 8:31.30
+|firstname = Michelle
+|lastname = Ford
+|namearticle = Michelle Ford
+|nation = AUS
+|date = {{Dts|format=dmy|1978|1|21}}
+|meet = NSW Championships
+|city = Sydney
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 46
+|time = 8:30.53
+|firstname = Tracey
+|lastname = Wickham
+|namearticle = Tracey Wickham
+|nation = AUS
+|date = {{Dts|format=dmy|1978|2|21}}
+|meet = Australian Championships
+|city = Brisbane
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 47
+|time = 8:24.62
+|firstname = Tracey
+|lastname = Wickham
+|namearticle = Tracey Wickham
+|nation = AUS
+|date = {{Dts|format=dmy|1978|8|5}}
+|meet = [[1978 Commonwealth Games|Commonwealth Games]]
+|city = Edmonton
+|country = CAN
+|ref =
+}}
+{{Swimmingrecord
+|number = 48
+|time = 8:22.44
+|firstname = Janet
+|lastname = Evans
+|namearticle = Janet Evans
+|nation = USA
+|date = {{Dts|format=dmy|1987|7|27}}
+|meet = US National Championships
+|city = Clovis
+|cityarticle = Clovis, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 49
+|time = 8:19.53
+|firstname = Anke
+|lastname = Möhring
+|namearticle = Anke Möhring
+|nation = GDR
+|date = {{Dts|format=dmy|1987|8|19}}
+|meet = [[1987 European Aquatics Championships|European Championships]]
+|city = Strasbourg
+|country = FRA
+|ref =
+}}
+{{Swimmingrecord
+|number = 50
+|time = 8:17.12
+|firstname = Janet
+|lastname = Evans
+|namearticle = Janet Evans
+|nation = USA
+|date = {{Dts|format=dmy|1988|3|22}}
+|meet = US Spring National Championships
+|city = Orlando
+|cityarticle = Orlando, Florida
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 51
+|time = 8:16.22
+|firstname = Janet
+|lastname = Evans
+|namearticle = Janet Evans
+|nation = USA
+|date = {{Dts|format=dmy|1989|8|20}}
+|meet = [[1989 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Tokyo
+|country = JPN
+|ref = <ref name=1989PP>[http://www.usaswimming.org/USASWeb/_Rainbow/Documents/3ff2e30a-66dc-43fa-9ecc-b1fba28f6bd9/89_panpac.pdf Results on USA Swimming] {{Webarchive|url=https://web.archive.org/web/20070928020142/http://www.usaswimming.org/USASWeb/_Rainbow/Documents/3ff2e30a-66dc-43fa-9ecc-b1fba28f6bd9/89_panpac.pdf |date=2007-09-28 }}</ref>
+}}
+{{Swimmingrecord
+|number = 52
+|time = 8:14.10
+|firstname = Rebecca
+|lastname = Adlington
+|namearticle = Rebecca Adlington
+|nation = GBR
+|date = {{Dts|format=dmy|2008|8|16}}
+|meet = [[Swimming at the 2008 Summer Olympics|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = <ref name=2008OG>{{cite news |title=Adlington storms to second gold |url=https://news.bbc.co.uk/sport2/hi/olympics/swimming/7564653.stm |publisher=BBC Sport |date=2008-08-16 |access-date=2008-08-16}}</ref>
+}}
+{{Swimmingrecord
+|number = 53
+|time = 8:13.86
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|nation = USA
+|date = {{Dts|format=dmy|2013|8|3}}
+|meet = [[Swimming at the 2013 World Aquatics Championships|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=15th FINA World Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010D020101001802FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=3 August 2013|access-date=13 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 54
+|time = 8:11.00
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|nation = USA
+|date = {{Dts|format=dmy|2014|6|22}}
+|meet = Woodlands Senior Invitational
+|city = Shenandoah
+|cityarticle = Shenandoah, Texas
+|country = USA
+|ref = <ref name=W2014US>{{cite web|title=Katie Ledecky Smashes 800 Free World Record in Conroe, Texas|url=http://swimswam.com/katie-ledecky-smashes-800-free-world-record-conroe-texas/|date=22 June 2014|access-date=22 June 2014}}</ref>
+}}
+{{Swimmingrecord
+|number = 55
+|time = 8:07.39
+|firstname = Katie
+|lastname = Ledecky
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2015|8|8}}
+|meet = [[Swimming at the 2015 World Aquatics Championships – Women's 800 metre freestyle|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref name=W2015WC>{{cite web|title=16th FINA World Championships - Women's 800m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010F020001001802FFFFFFFFFFFF02|publisher=Omega Timing|date=8 August 2015|access-date=10 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|number = 56
+|time = 8:06.68
+|firstname = Katie
+|lastname = Ledecky
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2016|1|17}}
+|meet = Arena Pro Swim Series
+|city = Austin
+|cityarticle = Austin, Texas
+|country = USA
+|ref = <ref name=W2016US>{{cite web|title=Katie Ledecky Breaks Her Own World Record|url=https://www.nytimes.com/2016/01/18/sports/katie-ledecky-breaks-her-own-record.html?_r=0|date=18 January 2016|access-date=18 January 2016}}</ref>
+}}
+{{Swimmingrecord
+|number = 57
+|time = 8:04.79
+|firstname = Katie
+|lastname = Ledecky
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2016|8|12}}
+|meet = [[Swimming at the 2016 Summer Olympics|Olympic Games]]
+|city = Rio de Janeiro
+|cityarticle = 
+|country = BRA
+|ref = <ref name=2016OG>{{cite web|url=https://www.rio2016.com/en/swimming-standings-sw-womens-800m-freestyle|title=2016 Olympic Games - Women's 800m Freestyle Final Results|publisher=[[Rio 2016]]|accessdate=5 August 2016|archive-date=26 August 2016|archive-url=https://web.archive.org/web/20160826094741/https://www.rio2016.com/en/swimming-standings-sw-womens-800m-freestyle|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 58
+|time = 8:04.12
+|firstname = Katie
+|lastname = Ledecky
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2025|5|3}}
+|meet = TYR Pro Swim Series
+|city = Fort Lauderdale
+|cityarticle = Fort Lauderdale, Florida
+|country = USA
+|ref = <ref name=W2025FL>{{cite web|title=2025 TYR Pro Swim Series (Fort Lauderdale) - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011900030201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=3 May 2025|access-date=3 May 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = WB
+|time = 8:15.34
+|recordinfo =
+|firstname = Astrid
+|lastname = Strauss
+|namearticle =
+|nation = GDR
+|date = {{Dts|format=dmy|1987|2|7}}
+|meet = Bonn Arena Festival
+|city = Bonn
+|country = Germany
+|ref = <ref>(scm-w) [http://www.omegatiming.com/index_home.htm#swimming/racearchives/2001/shanghai2001/800-FREE-W-CLAS-HEATS-DET.PDF Women's 800 free results -- morning heats] from the 2001 Shanghai World Cup meet, where CHEN Hua bettered Astrid Strauss's time in the [http://www.omegatiming.com/swimming/racearchives/2001/shanghai2001/800-FREE-W-CL-HEAT-TOTDET.pdf final]. (Note: The results from the Final shows Chen as having set and holding the World Record.)</ref><br /><ref name="Chen">(scm-w) [http://www.swimnews.com/News/view/1427 Two World Records and One World Cup Record Bettered] {{Webarchive|url=https://web.archive.org/web/20210526120510/http://www.swimnews.com/News/view/1427 |date=2021-05-26 }} by Camillo Cametti, [[FINA]] Press Commission. Published by ''SwimNews'' on 2001-12-03; retrieved 2012-03-25.</ref><ref name=OttawaC>{{cite news|title=Davis leads record setters at swim meet|url=https://news.google.com/newspapers?nid=2194&dat=19870209&id=G68yAAAAIBAJ&pg=1338,4104717&hl=en|work=The Ottawa Citizen|date=9 February 1987|location=Section C|page=5}}</ref>
+}}
+{{Swimmingrecord
+|number = 1
+|time = 8:15.15
+|recordinfo =
+|chinesename = Chen Hua
+|namearticle = Chen Hua
+|nation = CHN
+|date = {{Dts|format=dmy|2001|12|2}}
+|meet = World Cup
+|city = Shanghai
+|country = CHN
+|ref = <ref name="Chen" /><br /><ref name="Yamada">(scw-m) [http://www.swimmingworldmagazine.com/lane9/news/3652.asp Japan's Yamada Breaks World Record for 800m Free Short Course] by Hideki Moziuchi; published by ''[[Swimming World Magazine]]'' on 2002-04-02, retrieved 2012-03-25.</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 8:14.35
+|recordinfo =
+|firstname = Sachiko
+|lastname = Yamada
+|namearticle = Sachiko Yamada (swimmer)
+|nation = JPN
+|date = {{Dts|format=dmy|2002|2|4}}
+|meet = Japanese Championships
+|city = Tokyo
+|country = JPN
+|ref = <ref name="Yamada" />
+}}
+{{Swimmingrecord
+|number = 3
+|time = 8:11.25
+|recordinfo =
+|firstname = Laure
+|lastname = Manaudou
+|namearticle = Laure Manaudou
+|nation = FRA
+|date = {{Dts|format=dmy|2005|12|9}}
+|meet = [[2005 European Short Course Swimming Championships|European Championships]]
+|city = Trieste
+|country = ITA
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 8:09.68
+|recordinfo =
+|firstname = Kate
+|lastname = Ziegler
+|namearticle = Kate Ziegler
+|nation = USA
+|date = {{Dts|format=dmy|2007|10|12}}
+|meet = Alex Athletics Jubiläums Challenge
+|city = Essen
+|country = GER
+|ref =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 8:08.00
+|recordinfo =
+|firstname = Kate
+|lastname = Ziegler
+|namearticle = Kate Ziegler
+|nation = USA
+|date = {{Dts|format=dmy|2007|10|14}}
+|meet = Alex Athletics Jubiläums Challenge
+|city = Essen
+|country = GER
+|ref = <ref name=ZieglerSC>{{cite news |title=Kate Ziegler lowers 800 free short course meter world record at German swim meet |url=http://www.swimmingworldmagazine.com/lane9/news/15797.asp |publisher=[[Swimming World Magazine]] |date=2007-10-14 |access-date=2008-04-19 }}</ref>
+}}
+{{Swimmingrecord
+|number = 6
+|time = 8:04.53
+|recordinfo =
+|firstname = Alessia
+|lastname = Filippi
+|namearticle = Alessia Filippi
+|nation = ITA
+|date = {{Dts|format=dmy|2008|12|12}}
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|city = Rijeka
+|country = CRO
+|ref = <ref name=W2008EC>{{cite web|title=2008 European Short Course Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000108000024000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2008|access-date=7 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 7
+|time = 8:01.06
+|recordinfo =
+|firstname = Camille
+|lastname = Muffat
+|namearticle = Camille Muffat
+|nation = FRA
+|date = {{Dts|format=dmy|2012|11|16}}
+|meet = French Championships
+|city = Angers
+|country = FRA
+|ref = <ref name=W2012French>{{cite news|title=Flash! Camille Muffat Shatters Short Course 800 Free World Record|url=http://www.swimmingworldmagazine.com/lane9/news/World/32664.asp?q=Flash!%20Camille%20Muffat%20Shatters%20Short%20Course%20800%20Free%20World%20Record|publisher=swimmingworldmagazine.com|date=2012-11-16|access-date=2012-11-16}}</ref>
+}}
+{{Swimmingrecord
+|number = 8
+|time = 7:59.34
+|recordinfo =
+|firstname = Mireia
+|lastname = Belmonte
+|namearticle = Mireia Belmonte
+|nation = ESP
+|date = {{Dts|format=dmy|2013|8|10}}
+|meet = [[2013 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref name=W2013Berlin>{{cite web|title=2013 FINA World Cup (Berlin) - Women's 800m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010D020601001802FFFFFFFFFFFF02|publisher=Omega Timing|date=10 August 2013|access-date=10 August 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 9
+|time = 7:57.42
+|recordinfo =
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|nation = USA
+|date = {{Dts|format=dmy|2022|11|5}}
+|meet = [[2022 FINA Swimming World Cup|World Cup]]
+|city = Indianapolis
+|country = USA
+|ref = <ref name=W2022Indianapolis>{{cite web|title=2022 FINA World Cup - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011700090201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=5 November 2022|access-date=6 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|number = 10
+|time = 7:54.00
+|recordinfo =
+|firstname = Lani
+|lastname = Pallister
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2025|10|25}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|city = Toronto
+|country = Canada
+|ref = <ref name=W2025Toronto>{{cite web|title=2025 World Aquatics Cup (Toronto) - Women's 800m Freestyle Results|url= https://www.omegatiming.com/File/00011900080201F10104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=25 October 2025|access-date=25 October 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''800 m freestyle times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''800 m freestyle times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''800 m freestyle times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 800 m freestyle times''
+|}
+
+===Men long course===
+*Correct as of July 2025<ref>{{cite web|title=Men's 800m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=800&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=23 March 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 7:32.12
+| [[Zhang Lin (swimmer)|Zhang Lin]]
+| {{CHN}}
+| 29 July 2009
+| [[Rome]]
+| <ref name=M2009WC/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 7:35.27
+| [[Oussama Mellouli]]
+| {{TUN}}
+| 29 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 7:36.88
+| [[Ahmed Jaouadi]]
+| {{TUN}}
+| 30 July 2025
+| [[Singapore]]
+| <ref name=M2025WC>{{cite web|title=2025 World Aquatics Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010101F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 7:37.00
+| [[Ahmed Hafnaoui]]
+| {{TUN}}
+| 26 July 2023
+| [[Fukuoka]]
+| <ref name=M2023WC>{{cite web|title=2023 World Aquatics Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010101F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2023|access-date=26 July 2023}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 5
+| 7:37.76
+| [[Samuel Short]]
+| {{AUS}}
+| 26 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 6
+| 7:38.12
+| [[Sven Schwarz (swimmer)|Sven Schwarz]]
+| {{GER}}
+| 2 May 2025
+| [[Berlin]]
+| <ref>{{cite magazine|title=Germany’s Sven Schwarz Overtakes Daniel Wiffen’s 800 Free European Record|url=https://swimswam.com/germanys-sven-schwarz-overtakes-daniel-wiffens-800-free-european-record/|magazine=[[SwimSwam]]|author=Retta Race|date=2 May 2025|access-date=2 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 7
+| 7:38.19
+| [[Daniel Wiffen]]
+| {{IRL}}
+| 30 July 2024
+| [[Paris]]
+| <ref name=M2024OG>{{Cite web|title=2024 Olympic Games - Men's 800m Freestyle Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM800MFR------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923091841/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM800MFR------------FNL-000100--.pdf |archive-date=2024-09-23 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 8
+| 7:38.57
+| [[Sun Yang]]
+| {{CHN}}
+| 27 July 2011
+| [[Shanghai]]
+| <ref name=M2011WC>{{cite web|title=14th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010B0D0035000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2011|access-date=13 March 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 9
+| 7:38.65
+| [[Grant Hackett]]
+| {{AUS}}
+| 27 July 2005
+| [[Montreal]]
+| <ref name=2005WC/>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 10
+| 7:38.67
+| [[Bobby Finke]]
+| {{USA}}
+| 26 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|-
+| rowspan="2" |
+| align=center | 11
+| 7:38.75
+|''Finke #2''
+| rowspan="2" |
+| 30 July 2024
+| Paris
+| <ref name=M2024OG/>
+|-
+| align=center | 12
+| 7:38.98
+|''Schwarz #2''
+| 28 June 2025
+| [[Šamorín]]
+| <ref>{{cite web|title=Men's 800m Freestyle Results|url=https://europeanaquatics.org/u23-swimming-samorin-2025/schedule-results/#/result/SWM/ST/M/800MFR------------/FNL-/0001FA--|work=European Aquatics|access-date=6 July 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 13
+| 7:39.10
+| [[Lukas Märtens]]
+| {{GER}}
+| 15 April 2025
+| [[Stockholm]]
+| <ref>{{cite web|title=2025 Stockholm Open - Men's 800m Freestyle Results|url=https://live.swimify.com/competitions/malmsten-swim-open-stockholm-2025-2025-04-12/events/summary/12/96|work=swimify.com|date=15 April 2025|accessdate=15 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 12
+| align=center | 14
+| 7:39.16
+| [[Ian Thorpe]]
+| {{AUS}}
+| 24 July 2001
+| Fukuoka
+| <ref name=M2001WC/>
+|-
+| align=center |
+| align=center | 15
+| 7:39.19
+|''Wiffen #2''
+| 
+| 26 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=f6F5CE
+| align=center | 13
+| align=center | 16
+| 7:39.27
+| [[Gregorio Paltrinieri]]
+| {{ITA}}
+| 24 July 2019
+| [[Gwangju]]
+| <ref name=M2019WC>{{cite web|title=18th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011301070101F104FFFFFFFFFFFF01.pdf|work=Omega Timing|date=24 July 2019|access-date=13 March 2025}}</ref>
+|-
+| rowspan="3" |
+| align=center | 17
+| 7:39.36
+|''Finke #3''
+| rowspan="3" |
+| 21 June 2022
+| [[Budapest]]
+| <ref name=M2022WC>{{cite web|title=19th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700000101F10104FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=21 June 2022|access-date=24 June 2022}}</ref>
+|-
+| align=center | 18
+| 7:39.38
+|''Paltrinieri #2''
+| 30 July 2024
+| Paris
+| <ref name=M2024OG/>
+|-
+| align=center | 19
+| 7:39.48
+|''Märtens #2''
+| 26 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=f6F5CE
+| align=center | 14
+| align=center | 20
+| 7:39.63
+| [[Florian Wellbrock]]
+| {{GER}}
+| 21 June 2022
+| Budapest
+| <ref name=M2022WC/>
+|-
+| rowspan="2" |
+| rowspan="2" align=center | 21
+| rowspan="2" | 7:39.96
+|''Sun #2''
+| rowspan="2" |
+| 5 August 2015
+| [[Kazan]]
+| <ref>{{cite web|title=16th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010F020000000402FFFFFFFFFFFF02.pdf|work=Omega Timing|date=5 August 2015|access-date=18 April 2025}}</ref>
+|-
+|''Schwarz #3''
+| 30 July 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+|- bgcolor=f6F5CE
+| align=center | 15
+| align=center | 23
+| 7:40.08
+| [[Mykhailo Romanchuk]]
+| {{UKR}}
+| 21 June 2022
+| Budapest
+| <ref name=M2022WC/>
+|-
+| rowspan="2" |
+| align=center | 24
+| 7:40.19
+|''Märtens #3''
+| rowspan="2" |
+| 30 July 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+| align=center | 25
+| 7:40.22
+|''Paltrinieri #3''
+| 12 August 2020
+| Rome
+| <ref>{{cite web|title=2020 Sette Colli Trophy - Men's 800m Freestyle Results|url=https://fin2020.microplustiming.com/export/NU_2020_08_11-13_Roma/NU/pdf/CLS-ASM-800SL-TIM-ALL.pdf?x=16:23:51|publisher=microplustiming.com|date=12 August 2020|access-date=5 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| rowspan="12" |
+| 7:40.77
+| [[Gabriele Detti]]
+| {{ITA}}
+| 26 July 2017
+| Budapest
+| <ref name=M2017WC>{{cite web|title=17th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000111010A0101F104FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=26 July 2017|access-date=13 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 7:41.28
+| [[Henrik Christiansen (swimmer)|Henrik Christiansen]]
+| {{NOR}}
+| 24 July 2019
+| Gwangju
+| <ref name=M2019WC/>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 7:41.73
+| [[Wojciech Wojdak]]
+| {{POL}}
+| 26 July 2017
+| Budapest
+| <ref name=M2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 7:41.86
+| [[Ryan Cochrane (swimmer)|Ryan Cochrane]]
+| {{CAN}}
+| 27 July 2011
+| Shanghai
+| <ref name=M2011WC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 7:42.08
+| [[David Aubry]]
+| {{FRA}}
+| 24 July 2019
+| Gwangju
+| <ref name=M2019WC/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 7:42.47
+| [[Aleksandr Stepanov (swimmer)|Aleksandr Stepanov]]
+| {{RUS}}
+| 18 April 2023
+| Kazan
+| <ref>{{cite web|title=2023 Russian Championships - Men's 800m Freestyle Results|url=https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_22.pdf|publisher=russwimming.ru|date=18 April 2023|access-date=18 April 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 7:42.51
+| [[Jack McLoughlin]]
+| {{AUS}}
+| 14 June 2021
+| [[Adelaide]]
+| <ref>{{cite web|title=2021 Australian Trials - Men's 800m Freestyle Final Results|url=https://liveresults.swimming.org.au/SAL/2021TRIALS/210612F029.htm|publisher=swimming.org.au|date=14 June 2021|access-date=27 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 7:42.86
+| [[Elijah Winnington]]
+| {{AUS}}
+| 29 July 2024
+| Paris
+| <ref>{{Cite web|title=2024 Olympic Games - Men's 800m Freestyle Heats Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM800MFR------------HEAT--------.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240820145204/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMM800MFR------------HEAT--------.pdf |archive-date=2024-08-20 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 7:43.37
+| [[Lorenzo Galossi]]
+| {{ITA}}
+| 13 August 2022
+| Rome
+| <ref>{{cite web|title=2022 European Championships - Men's 800m Freestyle Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM800MFR------------FNL---------_73A2%201.0.pdf?x=02:04:16|work=Microplus Informatica|date=13 August 2022|access-date=29 August 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 7:43.60
+| [[Michael McBroom]]
+| {{USA}}
+| 31 July 2013
+| [[Barcelona]]
+| <ref>{{cite web|title=15th FINA World Championships - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010D020100000402FFFFFFFFFFFF02.pdf|publisher=omegatiming.com|date=31 July 2013|access-date=13 March 2025}}</ref>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 800m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=800&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=19 September 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 7:20.46
+| [[Daniel Wiffen]]
+| {{IRL}}
+| 10 December 2023
+| [[Otopeni]]
+| <ref name=M2023EC/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 7:23.42
+| [[Grant Hackett]]
+| {{AUS}}
+| 20 July 2008
+| [[Melbourne]]
+| <ref name=M2008Aus/>
+|-
+| align=center |
+| align=center | 3
+| 7:25.28
+|''Hackett #2''
+| 
+| 3 August 2001
+| [[Perth]]
+| 
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 4
+| 7:25.73
+| [[Mykhailo Romanchuk]]
+| {{UKR}}
+| 21 November 2020
+| [[Budapest]]
+| <ref name=M2020ISL>{{cite web|title=2020 International Swimming League (Test Event) - Men's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011500190101F30104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 November 2020|accessdate=21 November 2020}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 5
+| 7:25.78
+| [[Henrik Christiansen (swimmer)|Henrik Christiansen]]
+| {{NOR}}
+| 21 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|-
+|
+| align=center | 6
+| 7:25.96
+|''Wiffen #2''
+|
+| 15 December 2022
+| [[Dublin]]
+| <ref>{{cite magazine|title=Daniel Wiffen Becomes First-ever Irishman to Own European Record|url=https://swimswam.com/daniel-wiffen-becomes-first-ever-irishman-toown-european-record/|magazine=[[SwimSwam]]|author=Retta Race|date=15 December 2022|access-date=7 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center| 5
+| align=center| 7
+| 7:26.84
+|[[Zalán Sárkány]]
+|{{HUN}}
+|6 December 2025
+| Lublin
+|<ref name=M2025EC>{{cite web|title=2025 European Championships (25m) - Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0101F10101FFFFFFFFFF01.pdf|work=Omega Timing|date=6 December 2025|access-date=8 December 2025}}</ref>
+|-
+|
+| align="center" | 8
+| 7:27.81
+|''Hackett #3''
+|
+| 29 August 2007
+| Melbourne
+| <ref>{{cite magazine |title=Australian Short Course Championships: Grant Hackett Puts Crowd into Frenzy with Second-Fastest 800 Free |url=https://www.swimmingworldmagazine.com/news/australian-short-course-championships-grant-hackett-puts-crowd-into-frenzy-with-second-fastest-800-free/ |magazine=[[Swimming World]] |date=29 August 2007 |access-date=30 October 2025}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" | 6
+| align="center" | 9
+| 7:27.94
+| [[Gregorio Paltrinieri]]
+| {{ITA}}
+| 7 November 2021
+| [[Kazan]]
+| <ref name="M2021EC">{{cite web|title=2021 European Short Course Championships - Men's 800m Freestyle Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM800MFR------------FNL-000100--_73A1%201.0.pdf?x=01:31:57|work=microplustiming.com|date=7 November 2021|accessdate=17 November 2021}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" | 7
+| align="center" | 10
+| 7:27.99
+| [[Florian Wellbrock]]
+| {{GER}}
+| 7 November 2021
+| Kazan
+| <ref name="M2021EC" />
+|- bgcolor=f6F5CE
+| align="center" |8
+| align="center" |11
+|7:28.03
+|[[Lucas Henveaux]]
+|{{BEL}}
+|6 December 2025
+| Lublin
+|<ref name=M2025EC/>
+|- bgcolor="f6F5CE"
+| align="center" | 9
+| align="center" | 12
+| 7:29.17
+| [[Yannick Agnel]]
+| {{FRA}}
+| 16 November 2012
+| [[Angers]]
+| <ref>{{cite magazine |title=Yannick Agnel Breaks European 800 Free Record in Morning Heats |url=https://swimswam.com/yannick-agnel-breaks-european-800-free-record-in-morning-heats/ |magazine=[[SwimSwam]] |author=Braden Keith |date=16 November 2012 |access-date=7 May 2025}}</ref>
+|-
+| rowspan="5" |
+| align="center" | 13
+| 7:29.39
+|''Christiansen #2''
+| rowspan="5" |
+| 20 December 2019
+| [[Tilburg]]
+| <ref>{{cite magazine |title=Christiansen Becomes 3rd Fastest 800 Free Performer All-time |url=https://swimswam.com/christiansen-becomes-3rd-fastest-800-free-performer-all-time/ |magazine=[[SwimSwam]] |author=Retta Race |date=20 December 2019 |access-date=7 May 2025}}</ref>
+|-
+| align="center" | 14
+| 7:29.50
+| ''Sarkany #2''
+| 18 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web |title=2025 World Aquatics Cup (Westmont) - Men's 800m Freestyle Results |url=https://www.omegatiming.com/File/00011900070101F10104FFFFFFFFFF01.pdf |work=Omega Timing |date=18 October 2025 |access-date=19 October 2025}}</ref>
+|-
+| align="center" | 15
+| 7:29.99
+|''Paltrinieri #2''
+| 17 December 2022
+| Melbourne
+| <ref name="M2022WC(25)">{{cite web|title=16th FINA World Championships (25 m) - Men's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011700030101F10101FFFFFFFFFF01.pdf|work=Omega Timing|date=17 December 2022|access-date=20 December 2022}}</ref>
+|-
+| align="center" | 16
+| 7:30.14
+|''Wiffen #3''
+|6 December 2025
+| Lublin
+|<ref name=M2025EC/>
+|-
+| align="center" | 17
+| 7:30.31
+|''Paltrinieri #3''
+| 16 December 2018
+| [[Hangzhou]]
+| <ref>{{cite web|title=14th FINA World Championships (25 m) - Men's 1500m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000112010C0101F304FFFFFFFFFFFF01|publisher=Omega Timing|date=16 December 2018|access-date=16 December 2018}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" | 10
+| align="center" | 18
+| 7:30.32
+| [[David Aubry]]
+| {{FRA}}
+| 10 December 2023
+| Otopeni
+| <ref name="M2023EC" />
+|- bgcolor="f6F5CE"
+| align="center" | 11
+| align="center" | 19
+| 7:30.41
+| [[David Johnston (swimmer)|David Johnston]]
+| {{USA}}
+| 24 August 2022
+| [[Sydney]]
+| <ref>{{cite web |title=2022 Australian Championships (25m) - Men's 800m Freestyle Results |url=https://liveresults.swimming.org.au/sal/2022SC/220824F016.htm |work=Swimming Australia |date=24 August 2022 |access-date=7 September 2022}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" |12
+| align="center" |20
+|7:30.47
+|[[Johannes Liebmann]]
+|{{GER}}
+|6 December 2025
+| Lublin
+|<ref name=M2025EC/>
+|-
+| rowspan="3" |
+| align="center" | 21
+| 7:30.56
+| ''Sarkany #3''
+| rowspan="3" |
+| 14 December 2024
+| Budapest
+| <ref name=M2024WC>{{cite web|title=2025 World Championships (25) - Men's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011800080101F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=14 December 2024|access-date=28 December 2024}}</ref>
+|-
+| align="center" | 22
+| 7:30.79
+|''Christiansen #3''
+| 21 December 2019
+| Tilburg
+| <ref>{{cite magazine|title=Toussaint Takes 2 in Tilburg as Dutch Sc C’ships Roll on|url=https://swimswam.com/toussaint-takes-2-in-tilburg-as-dutch-sc-cships-rollon/|magazine=[[SwimSwam]]|author=Retta Race|date=21 December 2019|access-date=7 May 2025}}</ref>
+|-
+| align="center" |23
+|7:30.94
+|''Liebmann #2''
+|5 December 2025
+|Lublin
+|<ref>{{cite web|title=2025 European Championships (25m) - Men's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0101F10101FFFFFFFFFF01.pdf|work=Omega Timing|date=5 December 2025|access-date=8 December 2025}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" | 13
+| align="center" | 24
+| 7:31.18
+| [[Federico Colbertaldo]]
+| {{ITA}}
+| 19 December 2009
+| [[Manchester]]
+| <ref name="M2009Duel">{{cite web |title=2009 Duel in the Pool - Men's 800m Freestyle Results |url=https://www.omegatiming.com/File/00011700030101F10101FFFFFFFFFF01.pdf |work=Omega Timing |date=19 December 2009 |access-date=7 May 2025}}</ref>
+|-
+|
+| align="center" | 25
+| 7:31.20
+|''Romanchuk #2''
+|
+| 10 December 2023
+| Otopeni
+| <ref name="M2023EC" />
+|- bgcolor="CCFFCC"
+| align="center" | 14
+| rowspan="12" align="center" |
+|7:31.38
+|[[Victor Johansson]]
+|{{SWE}}
+|6 December 2025
+| Lublin
+|<ref name=M2025EC/>
+|- bgcolor="CCFFCC"
+| align="center" | 15
+| 7:31.79
+| [[Samuel Short]]
+| {{AUS}}
+| 3 October 2025
+| Melbourne
+| <ref>{{cite web|title=2025 Australian Championships (25m) - Men's 800m Freestyle Results|url=https://liveresults.swimming.org.au/sal/2025SC/251001F067.htm|publisher=swimming.org.au|date=3 October 2025|access-date=3 October 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 16
+| 7:31.89
+| [[Felix Auböck]]
+| {{AUT}}
+| 21 November 2020
+| Budapest
+| <ref name="M2020ISL" />
+|- bgcolor="CCFFCC"
+| align="center" | 17
+| 7:31.93
+| [[Ahmed Jaouadi]]
+| {{TUN}}
+| 14 December 2024
+| Budapest
+| <ref name="M2024WC" />
+|- bgcolor="CCFFCC"
+| align="center" | 18
+| 7:32.36
+| [[Savely Luzin]]
+| {{RUS}}
+| 11 November 2025
+| [[Kazan]]
+| <ref>{{cite web |title=2025 Russian Championships - Men's 800m Freestyle Final Results |url=https://russwimming.ru/upload/live/4R_SC_2025/ResultList_139.pdf |publisher=russwimming.ru |date=11 November 2025 |access-date=11 November 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 19
+| 7:32.77
+| [[Alexander Nørgaard]]
+| {{DEN}}
+| 18 December 2020
+| [[Helsingør]]
+| <ref>{{cite magazine|title=NC State-bound Norgaard Clocks SCM 800 Free Danish Record|url=https://swimswam.com/nc-state-bound-norgaard-clocks-scm-800free-danish-record/|magazine=[[SwimSwam]]|author=Retta Race|date=18 December 2020|access-date=7 May 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 20
+| 7:33.12
+| [[Logan Fontaine]]
+| {{FRA}}
+| 17 December 2022
+| Melbourne
+| <ref name="M2022WC(25)" />
+|- bgcolor="CCFFCC"
+| align="center" | 21
+| 7:33.23
+| [[Jan Micka]]
+| {{CZE}}
+| 16 November 2018
+| [[Plzeň]]
+|
+|- bgcolor="CCFFCC"
+| align="center" | 22
+| 7:33.24
+| [[Sven Schwarz (swimmer)|Sven Schwarz]]
+| {{GER}}
+| 14 December 2024
+| Budapest
+| <ref name="M2024WC" />
+|- bgcolor="CCFFCC"
+| align="center" | 23
+| 7:33.44
+| [[Florian Vogel (swimmer)|Florian Vogel]]
+| {{GER}}
+| 21 November 2015
+| [[Wuppertal]]
+|
+|- bgcolor=CCFFCC
+| align=center | 24
+| 7:33.56
+| [[Tyler Melbourne-Smith]]
+| {{GBR2}}
+| 14 December 2025
+| [[Sheffield]]
+| <ref>{{cite magazine|title=Melbourne-Smith Caps English Winter Championships With 800 Free British Record|url=https://swimswam.com/melbourne-smith-caps-english-winter-championships-with-800free-british-record/|magazine=[[SwimSwam]]|author=Retta Race|date=14 December 2025|access-date=15 December 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 25
+| 7:33.60
+| [[Wojciech Wojdak]]
+| {{POL}}
+| 19 December 2015
+| Lublin
+| <ref>{{cite magazine |title=Urbanczyk Breaks Two National Records on Day 3 of Polish Nationals |url=https://swimswam.com/urbanczyk-breaks-two-national-records-on-day-3-of-polish-nationals/ |magazine=[[SwimSwam]] |author=Jared Anderson |date=19 December 2015 |access-date=7 May 2025}}</ref>
+|}
+
+===Women long course===
+*Correct as of January 2026<ref>{{cite web|title=Women's 800m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=800&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=3 August 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 8:04.12
+| [[Katie Ledecky]]
+| {{USA}}
+| 3 May 2025
+| [[Fort Lauderdale, Florida|Fort Lauderdale]]
+| <ref name=W2025FL/>
+|-
+|
+| align=center | 2
+| 8:04.79
+|''Ledecky #2''
+|
+| 13 August 2016
+| [[Rio de Janeiro]]
+| <ref name=2016OG/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 3
+| 8:05.07
+| [[Summer McIntosh]]
+| {{CAN}}
+| 8 June 2025
+| [[Victoria, British Columbia|Victoria]]
+| <ref>{{cite web|title=2025 Canadian Trials - Women's 800m Freestyle Results|url=https://results.swimming.ca/2025_Canadian_Swimming_Trials/ResultList_12.pdf|work=results.swimming.ca|date=8 June 2025|accessdate=8 June 2025}}</ref>
+|-
+| rowspan="2" |
+| align=center | 4
+| 8:05.62
+|''Ledecky #3''
+| rowspan="2" |
+| 2 August 2025
+| [[Singapore]]
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=2 August 2025|access-date=2 August 2025}}</ref>
+|-
+| align=center | 5
+| 8:05.76
+|''Ledecky #4''
+| 3 June 2025
+| [[Indianapolis]]
+| <ref>{{cite web|date=3 June 2025|title=2025 US National Championships - Women's 800m Freestyle Results |url=https://www.omegatiming.com/File/00011900040201F10104FFFFFFFFFF01.pdf|access-date=3 June 2025|work=Omega Timing}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 6
+| 8:05.98
+| [[Lani Pallister]]
+| {{AUS}}
+| 2 August 2025
+| Singapore
+| <ref name=W2025WC/>
+|-
+| rowspan="19" |
+| align=center | 7
+| 8:06.68
+|''Ledecky #5''
+| rowspan="19" |
+| 17 January 2016
+| [[Austin, Texas|Austin]]
+| <ref name=W2016US/>
+|-
+| align=center | 8
+| 8:07.07
+|''Ledecky #6''
+| 27 June 2023
+| Indianapolis
+| <ref>{{cite web|title=2023 US National Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600030201F10104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=27 June 2023|access-date=24 April 2025}}</ref>
+|-
+| align=center | 9
+| 8:07.27
+|''Ledecky #7''
+| 19 May 2018
+| Indianapolis
+| <ref>{{cite web|title=2018 TYR Pro Swim Series (Indianapolis) - Women's 800m Freestyle  Results|url=https://www.omegatiming.com/File/000112010101001800FFFFFFFFFFFF02.pdf|work=[[Omega SA|Omega Timing]]|date=19 May 2018|access-date=24 April 2025}}</ref>
+|-
+| align=center | 10
+| 8:07.29
+|''McIntosh #2''
+| 2 August 2025
+| Singapore
+| <ref name=W2025WC/>
+|-
+| align=center | 11
+| 8:07.39
+|''Ledecky #8''
+| 8 August 2015
+| [[Kazan]]
+| <ref name=W2015WC/>
+|-
+| align=center | 12
+| 8:08.04
+|''Ledecky #9''
+| 24 June 2022
+| [[Budapest]]
+| <ref>{{cite web|title=19th FINA World Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700000201F10104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=24 June 2022|access-date=2 April 2025}}</ref>
+|-
+| align=center | 13
+| 8:08.87
+|''Ledecky #10''
+| 29 July 2023
+| [[Fukuoka]]
+| <ref name=W2023WC>{{cite web|title=2023 World Aquatics Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010201F10104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=29 July 2023|access-date=29 July 2023}}</ref>
+|-
+| align=center | 14
+| 8:09.13
+|''Ledecky #11''
+| 9 August 2018
+| [[Tokyo]]
+| <ref>{{cite web | title = 2018 Pan Pacific Championships – Women 800m Freestyle Results | work = Seiko.co.jp | date = 9 August 2018 | url = http://swim.seiko.co.jp/en/2018/S80701/ranking/eng09R007.pdf |accessdate = 11 August 2018}}</ref>
+|-
+| align=center | 15
+| 8:09.27
+|''Ledecky #12''
+| 26 April 2022
+| [[Greensboro, North Carolina|Greensboro]]
+| <ref>{{cite web|title=2022 International Team Trials - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011700010201F10104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=26 April 2022|access-date=2 April 2025}}</ref>
+|-
+| align=center | 16
+| 8:09.85
+|''Ledecky #13''
+| 29 July 2025
+| Singapore
+| <ref>{{cite web|title=2025 World Aquatics Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2025|access-date=29 July 2025}}</ref>
+|-
+| align=center | 17
+| 8:09.86
+| ''McIntosh #3''
+| 13 February 2025
+| [[Plantation, Florida|Plantation]]
+| <ref>{{Cite magazine|last=Lohn|first=John|title=Summer McIntosh Sizzles in 800 Freestyle at Southern Zone Sectionals; Posts All-Time Top-10 Performance|url=https://www.swimmingworldmagazine.com/news/summer-mcintosh-sizzles-in-800-freestyle-at-southern-zone-sectionals-posts-all-time-top-10-performance|magazine=[[Swimming World]]|date=13 February 2025|access-date=13 February 2025}}</ref>
+|-
+| align=center | 18
+| 8:10.16
+|''Ledecky #14''
+| 17 January 2026
+| Austin
+| <ref>{{cite web|title=2026 USA Swimming Pro Swim Series (Austin) Women's 800m Freestyle Final Results |url=https://www.omegatiming.com/File/00011A00000201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=17 January 2026|access-date=19 January 2026}}</ref>
+|-
+| align=center | 19
+| 8:10.32
+|''Ledecky #15''
+| 2 July 2016
+| [[Omaha]]
+| <ref>{{cite web|title=2016 US Olympic Trials - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000110000301001802FFFFFFFFFFFF02.pdf|work=[[Omega SA|Omega Timing]]|date=2 July 2016|access-date=24 April 2025}}</ref>
+|-
+| align=center | 20
+| 8:10.70
+|''Ledecky #16''
+| 19 May 2019
+| [[Bloomington, Indiana|Bloomington]]
+| <ref>{{cite web|title=2019 TYR Pro Swim Series (Bloomington) - Women's 800m Freestyle Results|url=https://www.swmeets.com/Realtime/Pro%20Series/2019/Bloomington/190516F024.htm|publisher=usaswimming.org|date=19 May 2019|access-date=7 May 2025}}</ref>
+|-
+| align=center | 21
+| 8:10.84
+|''Pallister #2''
+| 12 June 2025
+| [[Adelaide]]
+| <ref>{{cite web|title=2025 Australian Trials - Women's 800m Freestyle Results|url=https://liveresults.swimming.org.au/sal/2025Trials/250609F044.htm|publisher=[[Swimming Australia]]|date=12 June 2025|access-date=12 June 2025}}</ref>
+|-
+| align=center | 22
+| 8:10.91
+|''Ledecky #17''
+| 1 July 2016
+| Omaha
+| <ref>{{cite web|title=2016 US Olympic Trials - Women's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/000110000301001800FFFFFFFFFFFF02.pdf|work=[[Omega SA|Omega Timing]]|date=1 July 2016|access-date=24 April 2025}}</ref>
+|-
+| align=center | 23
+| 8:11.00
+|''Ledecky #18''
+| 22 June 2014
+| [[Shenandoah, Texas|Shenandoah]]
+| <ref name=W2014US/>
+|-
+| align=center | 24
+| 8:11.04
+|''Ledecky #19''
+| 3 August 2024
+| [[Paris]]
+| <ref name=W2024OG/>
+|-
+| align=center | 25
+| 8:11.08
+|''Ledecky #20''
+| 9 June 2018
+| [[Santa Clara, California|Santa Clara]]
+| <ref>{{cite magazine|title=Katie Ledecky Cruises to 800 Free Victory at TYR Pro Swim Series Santa Clara|url=https://www.swimmingworldmagazine.com/news/313442-2/|magazine=[[Swimming World]]|author=Dan D'addona|date=9 June 2018|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 4
+| rowspan="23" |
+| 8:12.29
+| [[Ariarne Titmus]]
+| {{AUS}}
+| 3 August 2024
+| Paris
+| <ref name=W2024OG>{{Cite web|title=2024 Olympic Games - Women's 800m Freestyle Final Results  |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW800MFR------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240817143600/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW800MFR------------FNL-000100--.pdf |archive-date=17 August 2024 |access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 5
+| 8:12.81
+| [[Simona Quadarella]]
+| {{ITA}}
+| 2 August 2025
+| Singapore
+| <ref name=W2025WC/>
+|- bgcolor=CCFFCC
+| align=center | 6
+| 8:13.00
+| [[Paige Madden]]
+| {{USA}}
+| 3 August 2024
+| Paris
+| <ref name=W2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 7
+| 8:13.31
+| [[Li Bingjie]]
+| {{CHN}}
+| 29 July 2023
+| Fukuoka
+| <ref name=W2023WC/>
+|- bgcolor=CCFFCC
+| align=center | 8
+| 8:14.10
+| [[Rebecca Adlington]]
+| {{GBR2}}
+| 16 August 2008
+| [[Beijing]]
+| <ref name=2008OG/>
+|- bgcolor=CCFFCC
+| align=center | 9
+| 8:14.64
+| [[Wang Jianjiahe]]
+| {{CHN}}
+| 30 March 2019
+| [[Qingdao]]
+| <ref>{{cite magazine|title=Wang Jianjiahe Crushes Li Bingjie, Takes Chinese/Asian 800 Free Record|url=https://swimswam.com/wang-jianjiahe-crushes-li-bingjie-takes-chinese-asian-8free-record/|magazine=[[SwimSwam]]|author=Loretta Race|date=30 March 2019|access-date=30 March 2019}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 8:15.54
+| [[Jazmin Carlin]]
+| {{GBR2}}
+| 21 August 2014
+| [[Berlin]]
+| <ref>{{cite web|title=2014 European Championships - Women's 800m Freestyle Final Results|url=http://www.microplustiming.com/berlin2014/export/Berlin2014/NU/pdf/CLS-ASF-800FR-FIN-ALL.pdf|publisher=Microplus Informatica|date=21 August 2014|access-date=21 August 2014}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 8:15.92
+| [[Lotte Friis]]
+| {{DEN}}
+| 1 August 2009
+| [[Rome]]
+| <ref name=W2009WC>{{cite web|title=13th FINA World Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B0060000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=1 August 2009|access-date=14 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 8:16.22
+| [[Janet Evans]]
+| {{USA}}
+| 20 August 1989
+| Tokyo
+| <ref name=1989PP/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 8:16.33
+| [[Leah Smith (swimmer)|Leah Smith]]
+| {{USA}}
+| 10 April 2019
+| [[Richmond, Virginia|Richmond]]
+| <ref>{{cite web|title=2019 TYR Pro Swim Series - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011301080201F104FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 April 2019|access-date=14 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 8:16.37
+| [[Boglárka Kapás]]
+| {{HUN}}
+| 12 August 2016
+| Rio de Janeiro
+| <ref name=2016OG/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 8:16.43
+| [[Sarah Köhler]]
+| {{GER}}
+| 27 July 2019
+| [[Gwangju]]
+| <ref>{{cite web|title=18th FINA World Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011301070201F104FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=27 July 2019|access-date=14 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 8:16.66
+| [[Joanne Jackson (swimmer)|Joanne Jackson]]
+| {{GBR2}}
+| 1 August 2009
+| Rome
+| <ref name=W2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 8:16.70
+| [[Camelia Potec]]
+| {{ROU}}
+| 22 April 2009
+| [[Montpellier]]
+| <ref>{{cite magazine|title=French Long Course National Championships: Rafael Munoz Perez Threatens World Record Twice|url=https://www.swimmingworldmagazine.com/news/french-long-course-national-championships-rafael-munoz-perez-threatens-world-record-twice/|date=22 April 2009|access-date=20 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 8:16.79
+| [[Kiah Melverton]]
+| {{AUS}}
+| 2 August 2022
+| [[Birmingham]]
+| <ref>{{cite web|title=2022 Commonwealth Games - Women's 800m Freestyle Final Results|url=https://b2022-pdf.microplustimingservices.com/SWM/2022-08-02/SWMW800MFR------------FNL-000100--__C73A1_1.0.pdf|publisher=birmingham2022.com|date=2 August 2022|accessdate=14 August 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 8:17.05
+| [[Katie Grimes]]
+| {{USA}}
+| 29 July 2021
+| Tokyo
+| <ref>{{cite web|title=2020 Olympic Games - Women's 800m Freestyle Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW800MFR------------HEAT--------.pdf|publisher=olympics.com|date=29 July 2021|accessdate=19 August 2021|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729104815/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW800MFR------------HEAT--------.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 8:17.21
+| [[Alessia Filippi]]
+| {{ITA}}
+| 1 August 2009
+| Rome
+| <ref name=W2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 8:17.53
+| [[Isabel Gose]]
+| {{GER}}
+| 17 February 2024
+| [[Doha]]
+| <ref>{{cite web|title=2024 World Aquatics Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800000201F10104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=17 February 2024|access-date=19 February 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 8:17.65
+| [[Lauren Boyle]]
+| {{NZL}}
+| 8 August 2015
+| Kazan
+| <ref name=W2015WC/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 8:18.00
+| [[Erika Fairweather]]
+| {{NZL}}
+| 5 April 2023
+| [[Auckland]]
+| <ref>{{cite magazine|title=Monique Wieruszowski Breaks Longest-standing Lc New Zealand Record With 30.87 50 Breast|url=https://swimswam.com/monique-wieruszowski-breaks-longest-standing-lc-new-zealand-record-with-30-87-50-breast/|magazine=[[SwimSwam]]|author=Ben Dornan|date=5 April 2023|access-date=8 April 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 8:18.14
+| [[Jessica Ashwood]]
+| {{AUS}}
+| 5 June 2016
+| Santa Clara
+| <ref>{{cite web|title=Jessica Ashwood Scorches 800 Free in Santa Clara|url=https://www.swimmingworldmagazine.com/news/jessica-ashwood-scorches-800-free-in-santa-clara/|publisher=Swimming World Magazine|date=5 June 2016|accessdate=8 June 2016}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 8:18.52
+| [[Kate Ziegler]]
+| {{USA}}
+| 31 March 2007
+| [[Melbourne]]
+| <ref>{{cite web|title=12th FINA World Championships - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/0001070D0061000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=31 March 2007|access-date=14 March 2025}}</ref>
+|}
+
+===Women short course===
+*Correct as of December 2025<ref>{{cite web|title=Women's 800m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=800&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=19 February 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 7:54.00
+| [[Lani Pallister]]
+| {{AUS}}
+| 25 October 2025
+| [[Toronto]]
+| <ref name=W2025Toronto/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 7:57.42
+| [[Katie Ledecky]]
+| {{USA}}
+| 5 November 2022
+| [[Indianapolis]]
+| <ref name=W2022Indianapolis/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 7:59.34
+| [[Mireia Belmonte]]
+| {{ESP}}
+| 10 August 2013
+| [[Berlin]]
+| <ref name=W2013Berlin/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 7:59.44
+| [[Wang Jianjiahe]]
+| {{CHN}}
+| 6 October 2018
+| [[Budapest]]
+| <ref>{{cite web|title=2018 FINA World Cup (Budapest) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011201080201F104FFFFFFFFFFFF01.pdf|work=Omega Timing|date=6 October 2018|access-date=7 May 2025}}</ref>
+|-
+| 
+| align=center | 5
+| 8:00.58
+|''Ledecky #2''
+| 
+| 29 October 2022
+| Toronto
+| <ref>{{cite web|title=2022 FINA World Cup (Toronto) - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700080201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 October 2022|access-date=30 October 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 6
+| 8:01.06
+| [[Camille Muffat]]
+| {{FRA}}
+| 16 November 2012
+| [[Angers]]
+| <ref name=W2012French/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 7
+| 8:01.22
+| [[Lauren Boyle]]
+| {{NZL}}
+| 7 August 2013
+| [[Eindhoven]]
+| <ref name=W2013Eindhoven>{{cite web|title=2013 FINA World Cup (Eindhoven) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010D020501001802FFFFFFFFFFFF02.pdf|work=Omega Timing|date=7 August 2013|access-date=7 May 2025}}</ref>
+|-
+|
+| align=center | 8
+| 8:01.43
+|''Belmonte #2''
+|
+| 7 August 2013
+| Eindhoven
+| <ref name=W2013Eindhoven/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 9
+| 8:01.90
+| [[Isabel Marie Gose|Isabel Gose]]
+| {{GER}}
+| 5 December 2025
+| [[Lublin]]
+| <ref name=W2025EC>{{cite web|title=2025 European Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0201F10104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=5 December 2025|accessdate=5 December 2025}}</ref>
+|-
+| rowspan="2" |
+| align=center | 10
+| 8:01.95
+|''Pallister #2''
+| rowspan="2" |
+| 11 December 2024
+| Budapest
+| <ref name=W2024WC>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800080201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=11 December 2024|access-date=28 December 2024}}</ref>
+|-
+| align=center | 11
+| 8:02.02
+|''Pallister #3''
+| 12 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011900060201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 October 2025|access-date=13 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 12
+| 8:02.09
+| [[Li Bingjie]]
+| {{CHN}}
+| 29 October 2022
+| [[Beijing]]
+| <ref>{{cite magazine|title=Chinese Championships Again Highlighted By Several National Records; Yang Junxuan Sets Mark in 100 Freestyle|url=https://www.swimmingworldmagazine.com/news/chinese-championships-again-highlighted-by-several-national-records-yang-junxuan-sets-mark-in-100-freestyle/|magazine=[[Swimming World]]|author=John Lohn|date=29 October 2022|access-date=30 October 2022}}</ref>
+|-
+| rowspan="2" |
+| align=center | 13
+| 8:02.53
+|''Boyle #2''
+| rowspan="2" |
+| 10 August 2013
+| Berlin
+| <ref name=W2013Berlin/>
+|-
+| align=center | 14
+| 8:02.90
+|''Li #2''
+| 18 December 2021
+| [[Abu Dhabi]]
+| <ref name=W2021WC>{{cite web|title=15th FINA World Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500190201F10104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 December 2021|access-date=19 December 2021}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 15
+| 8:03.00
+| [[Simona Quadarella]]
+| {{ITA}}
+| 5 December 2025
+| Lublin
+| <ref name=W2025EC/>
+|-
+| rowspan="5" |
+| align=center | 16
+| 8:03.17
+|''Pallister #4''
+| rowspan="5" |
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011900070201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 October 2025|access-date=20 October 2025}}</ref>
+|-
+| align=center | 17
+| 8:03.41
+|''Belmonte #3''
+| 4 December 2014
+| [[Doha]]
+| <ref name=W2014WC>{{cite web|title=12th FINA World Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010E010D01001802FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=4 December 2014|access-date=7 May 2025}}</ref>
+|-
+| align=center | 18
+| 8:03.86
+|''Wang #2''
+| 30 September 2018
+| Eindhoven
+| <ref>{{cite web|title=2018 FINA World Cup (Eindhoven) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011201070201F104FFFFFFFFFFFF01.pdf|work=Omega Timing|date=30 September 2018|access-date=7 May 2025}}</ref>
+|-
+| align=center | 19
+| 8:04.07
+|''Pallister #5''
+| 14 December 2022
+| [[Melbourne]]
+| <ref name=W2022WC>{{cite web|title=16th FINA World Championships (25m) - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00011700030201F10104FFFFFFFFFF01.pdf|work=Omega Timing|date=14 December 2022|access-date=7 January 2023}}</ref>
+|-
+| align=center | 20
+| 8:04.35
+|''Wang #3''
+| 13 December 2018
+| [[Hangzhou]]
+| <ref>{{cite web|title=14th FINA World Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000112010C0201F104FFFFFFFFFFFF01.pdf|work=Omega Timing|date=13 December 2018|access-date=7 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 21
+| 8:04.53
+| [[Alessia Filippi]]
+| {{ITA}}
+| 12 December 2008
+| [[Rijeka]]
+| <ref name=W2008EC/>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 22
+| 8:04.61
+| [[Lotte Friis]]
+| {{DEN}}
+| 14 November 2009
+| Berlin
+| <ref name=W2009Berlin>{{cite web|title=2009 FINA World Cup (Berlin) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/000109050011000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=14 November 2009|access-date=7 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 12
+| align=center | 23
+| 8:04.65
+| [[Anastasiya Kirpichnikova]]
+| {{RUS}}
+| 3 November 2021
+| [[Kazan]]
+| <ref>{{cite web|title=2021 European Championships - Women's 800m Freestyle Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW800MFR------------FNL-000100--_73A1%201.0.pdf?x=00:36:06|website=microplustiming.com|date=3 November 2021|accessdate=16 November 2021}}</ref>
+|-
+| rowspan="2" |
+| align=center | 24
+| 8:04.77
+|''Friis #2''
+| rowspan="2" |
+| 16 December 2011
+| [[Atlanta, Georgia|Atlanta]]
+| <ref>{{cite web|title=2011 Duel in the Pool - Women's 800m Freestyle Results|url=https://www.omegatiming.com/File/00010B00000E000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=16 December 2011|access-date=7 May 2025}}</ref>
+|-
+| align=center | 25
+| 8:04.88
+|''Belmonte #4''
+| 31 August 2014
+| [[Dubai]]
+| <ref>{{cite web|title=2014 FINA World Cup (Dubai) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010E010601001802FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=31 August 2014|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| rowspan="14" |
+| 8:05.32
+| [[Coralie Balmy]]
+| {{FRA}}
+| 12 December 2008
+| Rijeka
+| <ref name=W2008EC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 8:05.90
+| [[Katie Grimes]]
+| {{USA}}
+| 11 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 8:07.12
+| [[Summer McIntosh]]
+| {{CAN}}
+| 5 November 2022
+| Indianapolis
+| <ref name=W2022Indianapolis/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 8:07.22
+| [[Paige Madden]]
+| {{USA}}
+| 11 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 8:07.67
+| [[Leah Smith (swimmer)|Leah Smith]]
+| {{USA}}
+| 7 December 2016
+| [[Windsor, Ontario|Windsor]]
+| <ref>{{cite web|title=13th FINA World Championships (25m) - Women's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/000110000D01001800FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=7 December 2016|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 8:08.00
+| [[Kate Ziegler]]
+| {{USA}}
+| 14 October 2007
+| [[Essen]]
+| <ref name=ZieglerSC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 19
+| rowspan="2" | 8:08.02
+| [[Kristel Köbrich]]
+| {{CHI}}
+| 14 November 2009
+| Berlin
+| <ref name=W2009Berlin/>
+|- bgcolor=CCFFCC
+| [[Sarah Köhler]]
+| {{GER}}
+| 14 November 2019
+| Berlin
+| <ref>{{cite magazine|title=Sarah Köhler Busts Out German National Record, Gose Clocks Age Mark in 800 Free|url=https://swimswam.com/sarah-kohler-busts-out-german-national-record-gose-clocks-age-markin-800-free/|magazine=[[SwimSwam]]|author=Retta Race|date=14 November 2019|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 8:08.16
+| [[Jazmin Carlin]]
+| {{GBR2}}
+| 4 December 2014
+| Doha
+| <ref name=W2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 8:08.17
+| [[Sharon van Rouwendaal]]
+| {{NED}}
+| 4 December 2014
+| Doha
+| <ref name=W2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 8:08.25
+| [[Rebecca Adlington]]
+| {{GBR2}}
+| 10 April 2008
+| [[Manchester]]
+| <ref>{{cite web|title=9th FINA World Championships (25m) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/0001080E0024000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 April 2008|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 8:08.41
+| [[Katinka Hosszú]]
+| {{HUN}}
+| 24 October 2014
+| Beijing
+| <ref>{{cite web|title=2014 FINA World Cup (Beijing) - Women's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00010E010A01001802FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=24 October 2014|access-date=7 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 8:09.69
+| [[Erika Fairweather]]
+| {{NZL}}
+| 25 October 2025
+| Toronto
+| <ref name=W2025Toronto/>
+|}
+
+==References==
+
+{{reflist|2}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Freestyle 0800 metres]]
+[[Category:Freestyle swimming|World record progression 0800 metres freestyle]]

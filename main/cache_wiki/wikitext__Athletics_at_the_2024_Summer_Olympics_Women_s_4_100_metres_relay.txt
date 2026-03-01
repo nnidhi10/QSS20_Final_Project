@@ -1,0 +1,262 @@
+{{short description|none}}
+{{Infobox Olympic event
+|event=Women's 4 × 100 metres relay
+|games=2024 Summer
+|image=
+|caption=
+|venue=[[Stade de France]], [[Paris]], France<ref name="schedule"/>
+|dates={{ubl|8 August 2024 (round 1)|9 August 2024 (final)}}
+|competitors=
+|nations=
+|teams=
+|win_value= 41.78
+|gold= [[Melissa Jefferson (athlete)|Melissa Jefferson]], [[Twanisha Terry]], [[Gabrielle Thomas]], [[Sha'Carri Richardson]]
+|goldNOC= USA
+|silver= [[Dina Asher-Smith]], [[Imani-Lara Lansiquot]], [[Amy Hunt]], [[Daryll Neita]], [[Bianca Williams]]*, [[Desiree Henry]]*
+|silverNOC= GBR
+|bronze= [[Alexandra Burghardt]], [[Lisa Mayer]], [[Gina Lückenkemper]], [[Rebekka Haase]], [[Sophia Junk]]*
+<br> <small> *Indicates the athlete only competed in the preliminary heats.</small>
+|bronzeNOC= GER
+|prev=[[Athletics at the 2020 Summer Olympics – Women's 4 × 100 metres relay|2020]]
+|next=[[Athletics at the 2028 Summer Olympics – Women's 4 × 100 metres relay|2028]]
+}}
+[[Image:TV-icon-2.svg|thumb|110px|'''[https://www.youtube.com/watch?v=jo_t6CbKsGo Official Video]''']]
+{{Athletics at the 2024 Summer Olympics}}
+
+The women's [[4 × 100 metres relay]] at the [[2024 Summer Olympics]] was held in two rounds at the [[Stade de France]] in [[Paris]], France, on 8 and 9 August 2024. This was the 23rd time that the women's 4 × 100 metres relay was contested at the [[Summer Olympics]]. A total of 16 teams were able to qualify for the event through the [[2024 World Athletics Relays]] or the World Athletics top list.
+
+==Summary==
+Jamaica was the defending champions, but none of the individuals on their team returned. For returning silver medalists USA, only [[Gabrielle Thomas]] competed. Bronze medalists Great Britain brought back three [[Dina Asher-Smith]], [[Imani-Lara Lansiquot]] and [[Daryll Neita]]. More recently, USA won the 2022 and 2023 World Championships with much the same team, defeating a much stronger team from Jamaica in 2023, with GBR also with a similar team in third. GBR was second in 2022 while a similar German team was bronze. USA had the gold medalist in the 200 with second, third and fifth in the 100 final. That would, on paper, be the favorites. No other team put more than one into the 100 final. Unlike the other relays, USA ran the same four athletes in both rounds.
+
+GBR started off fast with Asher-Smith opening up a third of a second over GER [[Alexandra Burghardt]], with [[Melissa Jefferson]] USA, [[Alana Reid]] JAM and [[Salomé Kora]] about even behind GER. Lansiquot maintained the GBR lead, but [[Twanisha Terry]] rocketed the backstretch to put USA clearly in second. [[Gémima Joseph]] ran a strong second leg to put France in third. During the pass, Thomas had her hand out a long time before Terry could find it with the baton, costing USA some time. [[Gina Lückenkemper]] ran a fast turn to bring Germany even with GBR. France was slightly ahead of USA for the final handoff, but it was to 2023 World Champion [[Sha'Carri Richardson]] with a running start. Richardson looked back to make sure the baton got into her hand. Germany had the lead handing off to [[Rebekka Haase]], a step up on GBR with [[Daryll Neita]] working down the home stretch to reel in Haase. Bursting out of the crowd, Richardson cruised by Neita and Haase half way down the straightway, then looking back to make sure she had the win for the USA.<ref>{{cite web |title=Women's 4 x 100m Relay - Final race analysis |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C77A_ATHW4X100M------------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024 |date=9 August 2024}}</ref>
+
+== Background ==
+The [[4 × 100 metres relay]] at the [[Summer Olympics]] is the shortest [[track relay]] event held at the [[multi-sport event]]. The women's event has been continuously held since the [[1928 Summer Olympics|1928 Olympic Games in Amsterdam]].
+{| class="wikitable"
+|+Global records before the 2024 Summer Olympics
+! scope="col" |Record
+! scope="col" |Athlete (Nation)
+! scope="col" |Time&nbsp;([[Second|s]])
+! scope="col" |Location
+! scope="col" |Date
+|-
+! scope="row" |[[List of world records in athletics|World record]]
+| rowspan="2" |{{Flagu|United States}}
+<small>([[Tianna Madison]], [[Allyson Felix]], [[Bianca Knight]], [[Carmelita Jeter]])</small>
+| rowspan="2" |'''40.82<ref name="WR">"[https://worldathletics.org/records/all-time-toplists/relays/4x100-metres-relay/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=204594&ageCategory=senior All time Top lists – Senior – 4 x 100 Metres Relay Women]", ''[[World Athletics]]'', 29 June 2024. Retrieved 29 June 2024.</ref>'''
+| rowspan="3" |[[London]], United Kingdom
+| rowspan="2" |10 August 2012
+|-
+! scope="row" |[[List of Olympic records in athletics|Olympic record]]
+|-
+! scope="row" |World leading
+|{{Flagu|Great Britain}}
+<small>([[Dina Asher-Smith]], [[Imani-Lara Lansiquot|Imani Lansiquot]], [[Amy Hunt]], [[Daryll Neita]])</small>
+|'''41.55<ref name="WL">"[https://worldathletics.org/records/all-time-toplists/relays/4x100-metres-relay/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=2024-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=204594&ageCategory=senior Season Top Lists – Senior 2024 – 4 x 100 Metres Relay Women]", ''[[World Athletics]]'', 2024. Retrieved 29 June 2024.</ref>'''
+|20 July 2024
+|}
+{| class="wikitable"
+|+Area records before the 2024 Summer Olympics<ref>{{Cite web |date=3 July 2024 |title=Records – 4 x 100 Metres Relay Men |url=https://worldathletics.org/records/by-discipline/relays/4x100-metres-relay/all/men |access-date=3 July 2024 |website=[[World Athletics]]}}</ref>
+!Area Record
+!Athlete (Nation)
+!Time (s)
+|-
+|'''[[Confederation of African Athletics|Africa]] {{small|(''[[List of African records in athletics|records]]'')}}'''
+|{{Flagu|Ivory Coast}}
+<small>([[Murielle Ahouré-Demps]], [[Marie-Josée Ta Lou]], [[Jessika Gbai]], [[Maboundou Koné]])</small>
+|'''41.90'''
+|-
+|'''[[Asian Athletics Association|Asia]] {{small|(''[[List of Asian records in athletics|records]]'')}}'''
+|{{Flagu|China}}
+<small>([[Xiao Lin|Lin Xiao]], [[Li Yali]], [[Liu Xiaomei (athlete)|Liu Xiaomei]], [[Li Xuemei]])</small>
+|'''42.23'''
+|-
+|'''[[European Athletic Association|Europe]] {{small|(''[[List of European records in athletics|records]]'')}}'''
+|{{Flagu|East Germany}}
+<small>([[Silke Möller]], [[Sabine Günther|Sabine Rieger-Günther]], [[Ingrid Auerswald|Ingrid Auerswald-Lange]], [[Marlies Göhr]])</small>
+|'''41.37'''
+|-
+|'''[[North America, Central America and Caribbean Athletic Association|North, Central America]]''' '''[[North America, Central America and Caribbean Athletic Association|and Caribbean]] {{small|(''[[List of North, Central American and Caribbean records in athletics|records]]'')}}'''
+|{{Flagu|United States}}
+<small>([[Tianna Madison]], [[Allyson Felix]], [[Bianca Knight]], [[Carmelita Jeter]])</small>
+|'''40.82 {{AthAbbr|WR}}'''
+|-
+|'''[[Oceania Athletics Association|Oceania]] {{small|(''[[List of Oceanian records in athletics|records]]'')}}'''
+|{{Flagu|Australia}}
+<small>([[Ebony Lane|Ella Connolly]], [[Bree Masters]], [[Kristie Edwards (athlete)|Kristie Edwards]], [[Torrie Lewis]])</small>
+|'''42.48'''
+|-
+|'''[[Atletismo Sudamericano|South America]] {{small|(''[[List of South American records in athletics|records]]'')}}'''
+|{{Flagu|Brazil}}
+<small>([[Evelyn dos Santos]], [[Ana Cláudia Lemos|Ana Lemos]], [[Franciela Krasucki]], [[Rosângela Santos]])</small>
+|'''42.29'''
+|}
+
+== Qualification ==
+{{main|Athletics at the 2024 Summer Olympics – Qualification#Women's 4 × 100 m relay}}
+For the women's 4 × 100 metres relay event, fourteen teams qualified through the [[2024 World Athletics Relays]]. The remaining two spots were awarded to the teams with the highest ranking on the World Athletics Top List. The qualification period is between 1 July 2023 and 30 June 2024.<ref name="qualification">Sean McAlister, "[https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained How to qualify for athletics at Paris 2024. The Olympics qualification system explained]", ''[[Olympics.com]]'', 20 December 2022. Retrieved 29 June 2024.</ref>
+{|class=wikitable style="text-align:left" width=600
+! Qualification event
+! {{nowrap|No. of teams}}
+! {{nowrap|Qualified teams}}
+|-
+|2024 World Athletics Relays
+|align=center|14
+|{{flagIOC|AUS|2024 Summer}}<br>{{flagIOC|CAN|2024 Summer}}<br>{{flagIOC|FRA|2024 Summer}}<br>{{flagIOC|GER|2024 Summer}}<br>{{flagIOC|GBR|2024 Summer}}<br>{{flagIOC|ITA|2024 Summer}}<br>{{flagIOC|CIV|2024 Summer}}<br>{{flagIOC|JAM|2024 Summer}}<br>{{flagIOC|NED|2024 Summer}}<br>{{flagIOC|NGR|2024 Summer}}<br>{{flagIOC|POL|2024 Summer}}<br>{{flagIOC|SUI|2024 Summer}}<br>{{flagIOC|TTO|2024 Summer}}<br>{{flagIOC|USA|2024 Summer}}
+|-
+|World Athletics Top List<br />(as of June 30, 2024)
+|align=center|2
+|{{flagIOC|ESP|2024 Summer}}<br>{{flagIOC|BEL|2024 Summer}}
+|-
+! Total
+! 16
+!
+|}
+
+== Results ==
+=== Round 1 ===
+Round 1 was held on 8 August, starting at 11:10 (UTC+2) in the morning.<ref name="schedule">"[https://olympics.com/en/paris-2024/schedule/athletics Paris 2024 – Olympic Schedule – Athletics]", ''[[Olympics.com]]''. Retrieved 29 June 2024.</ref><ref>{{Cite web |title=Road To {{!}} World Athletics |url=https://worldathletics.org/stats-zone/road-to/7153115?eventId=10229511 |access-date=2024-07-07 |website=worldathletics.org}}</ref>
+
+====Heat 1====
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+!Rank
+!Lane
+!Nation
+!Competitors
+!Reaction
+!Time
+!Notes
+|-style="background:#bbf3bb;"
+| 1 || 6 || align=left | {{flagIOC|USA|2024 Summer}} || align=left | [[Melissa Jefferson (athlete)|Melissa Jefferson]], [[Twanisha Terry]], [[Gabrielle Thomas]], [[ Sha'Carri Richardson]] || 0.144 || 41.94 || {{AthAbbr|Q}}
+|-style="background:#bbf3bb;"
+| 2 || 7 || align=left | {{flagIOC|GER|2024 Summer}} || align=left | [[Sophia Junk]], [[Lisa Mayer]], [[Gina Lückenkemper]], [[Rebekka Haase]] || 0.152 || 42.15 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-style="background:#bbf3bb;"
+| 3 || 2 || align=left | {{flagIOC|SUI|2024 Summer}} || align=left | [[Salomé Kora]], [[Sarah Atcho-Jaquier]], [[Léonie Pointet]], [[Mujinga Kambundji]] || 0.133 || 42.38 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-
+| 4 || 5 || align=left | {{flagIOC|AUS|2024 Summer}} || align=left | [[Ella Connolly]], [[Bree Masters]], [[Kristie Edwards]], [[Torrie Lewis]] || 0.153 || 42.75 ||
+|-
+| 5 || 8 || align=left | {{flagIOC|POL|2024 Summer}} || align=left | [[Magdalena Niemczyk]], [[Krystsina Tsimanouskaya]], [[Magdalena Stefanowicz]], [[Ewa Swoboda]] || 0.156 || 42.86 ||
+|-
+| 6 || 4 || align=left | {{flagIOC|ITA|2024 Summer}} || align=left | [[Zaynab Dosso]], [[Dalia Kaddari]], [[Irene Siragusa]], [[Arianna De Masi]] || 0.159 || 43.03 ||
+|-
+| – || 3 || align=left | {{flagIOC|BEL|2024 Summer}} || align=left | [[Rani Vincke]], [[Rani Rosius]], [[Elise Mehuys]], [[Delphine Nkansa]] || 0.137 || {{AthAbbr|DQ}} || {{Abbr|TR 24.7|Passing the baton outside the takeover zone}}
+|-
+| – || 9 || align=left | {{flagIOC|CIV|2024 Summer}} || align=left | [[Murielle Ahouré-Demps]], [[Jessika Gbai]], [[Maboundou Koné]], [[Marie Josée Ta Lou-Smith]] || 0.153 || {{AthAbbr|DQ}} || {{Abbr|TR 17.2.3|Lane infringement}}
+|}
+<ref>{{cite web |title=Women's 4 x 100m Relay - Round 1 - Heat 1/2 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X100M------------RND1000100--.pdf |website=Olympics |access-date=11 August 2024 |date=8 August 2024}}</ref>
+
+====Heat 2====
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+!Rank
+!Lane
+!Nation
+!Competitors
+!Reaction
+!Time
+!Notes
+|-style="background:#bbf3bb;"
+| 1 || 7 || align=left | {{flagIOC|GBR|2024 Summer}} || align=left | [[Bianca Williams]], [[Imani Lansiquot]], [[Amy Hunt]], [[Desiree Henry]] || 0.173 || 42.03 || {{AthAbbr|Q}}
+|-style="background:#bbf3bb;"
+| 2 || 6 || align=left | {{flagIOC|FRA|2024 Summer}} || align=left | [[Orlann Oliere]], [[Gémima Joseph]], [[Hélène Parisot]], [[Chloé Galet]] || 0.163 || 42.13 || {{AthAbbr|Q}}
+|-style="background:#bbf3bb;"
+| 3 || 9 || align=left | {{flagIOC|JAM|2024 Summer}} || align=left | [[Alana Reid]], [[Kemba Nelson]], [[Shashalee Forbes]], [[Tia Clayton]] || 0.164 || 42.35 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-style="background:#ccf9cc;"
+| 4 || 8 || align=left | {{flagIOC|CAN|2024 Summer}} || align=left | [[Sade McCreath]], [[Jacqueline Madogo]], [[Marie-Éloïse Leclair]], [[Audrey Leduc]] || 0.140 || 42.50 || {{AthAbbr|q}}, {{AthAbbr|NR|Canadian}}
+|-style="background:#ccf9cc;"
+| 5 || 5 || align=left | {{flagIOC|NED|2024 Summer}} || align=left | [[Isabel van den Berg]], [[Marije van Hunenstijn]], [[Minke Bisschops]], [[Tasa Jiya]] || 0.157 || 42.64 || {{AthAbbr|q}}
+|-
+| 6 || 4 || align=left | {{flagIOC|NGR|2024 Summer}} || align=left | [[Justina Tiana Eyakpobeyan]], [[Favour Ofili]], [[Rosemary Chukwuma]], [[Tima Godbless]] || 0.168 || 42.70 || {{AthAbbr|SB}}
+|-
+| 7 || 3 || align=left | {{flagIOC|ESP|2024 Summer}} || align=left | [[Sonia Molina-Prados]], [[Jaël Bestué]], [[Paula Sevilla]], [[María Isabel Pérez (sprinter)|María Isabel Pérez]] || 0.183 || 42.77 || {{AthAbbr|SB}}
+|-
+| 8 || 2 || align=left | {{flagIOC|TTO|2024 Summer}} || align=left | [[Akilah Lewis]], [[Sole Frederick]], [[Sanaa Frederick]], [[Leah Bertrand]] || 0.156 || 43.99 ||
+|}
+<ref>{{cite web |title=Women's 4 x 100m Relay - Round 1 - Heat 2/2 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X100M------------RND1000200--.pdf |website=Olympics |access-date=11 August 2024 |date=8 August 2024}}</ref>
+
+=== Final ===
+The final was held on 9 August, starting at 19:30 (UTC+2) in the evening.<ref name="schedule" />
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+!Rank
+!Lane
+!Nation
+!Competitors
+!Reaction
+!Time
+!Notes
+|-
+| {{gold1}}
+| 5
+| align=left | {{flagIOC|USA|2024 Summer}}
+| align=left | [[Melissa Jefferson (athlete)|Melissa Jefferson]], [[Twanisha Terry]], [[Gabrielle Thomas]], [[ Sha'Carri Richardson]]
+| 0.155
+| 41.78
+| {{AthAbbr|SB}}
+|-
+| {{silver2}}
+| 8
+| align=left | {{flagIOC|GBR|2024 Summer}}
+| align=left | [[Dina Asher-Smith]], [[Imani-Lara Lansiquot]], [[Amy Hunt]], [[Daryll Neita]]
+| 0.177
+| 41.85
+|
+|-
+| {{bronze3}}
+| 7
+| align=left | {{flagIOC|GER|2024 Summer}}
+| align=left | [[Alexandra Burghardt]], [[Lisa Mayer]], [[Gina Lückenkemper]], [[Rebekka Haase]]
+| 0.166
+| 41.97
+| {{AthAbbr|SB}}
+|-
+| 4
+| 6
+| align=left | {{flagIOC|FRA|2024 Summer}}
+| align=left | [[Orlann Oliere]], [[Gémima Joseph]], [[Hélène Parisot]], [[Chloé Galet]]
+| 0.156
+| 42.23
+|
+|-
+| 5
+| 4
+| align=left | {{flagIOC|JAM|2024 Summer}}
+| align=left | [[Alana Reid]], [[Kemba Nelson]], [[Shashalee Forbes]], [[Tia Clayton]]
+| 0.143
+| 42.29
+| {{AthAbbr|SB}}
+|-
+| 6
+| 3
+| align=left | {{flagIOC|CAN|2024 Summer}}
+| align=left | [[Sade McCreath]], [[Jacqueline Madogo]], [[Marie-Éloïse Leclair]], [[Audrey Leduc]]
+| 0.129
+| 42.69
+|
+|-
+| 7
+| 2
+| align=left | {{flagIOC|NED|2024 Summer}}
+| align=left | [[Isabel van den Berg]], [[Marije van Hunenstijn]], [[Minke Bisschops]], [[Tasa Jiya]]
+| 0.144
+| 42.74
+|
+|-
+| –
+| 9
+| align=left | {{flagIOC|SUI|2024 Summer}}
+| align=left | [[Salomé Kora]], [[Sarah Atcho-Jaquier]], [[Léonie Pointet]], [[Mujinga Kambundji]]
+| 0.134
+| {{AthAbbr|DQ}}
+|{{Abbr|TR 24.7|Passing the baton outside the takeover zone}}
+|}
+<ref>{{cite web |title=Women's 4 x 100m Relay - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X100M------------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024 |date=9 August 2024|archive-date=16 August 2024|archive-url=https://web.archive.org/web/20240816160050/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X100M------------FNL-000100--.pdf|url-status=dead}}</ref>
+
+== References ==
+<references responsive="1"></references>
+
+{{Olympics 4 × 100 metres}}
+{{Olympic champions 4 × 100 metres women}}
+
+[[Category:Athletics at the 2024 Summer Olympics|Women's 4 x 100 metres relay]]
+[[Category:2024 in women's sport of athletics|Women's 4 x 100 metres relay]]
+[[Category:Women's events at the 2024 Summer Olympics]]
+[[Category:4 × 100 metres relay|Olympics 2024]]

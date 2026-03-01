@@ -1,0 +1,442 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Men's 100 metres
+|games = 1896 Summer
+|image = 100m sprint 1896 Olympics.jpg
+|caption = Artist's rendering of the start of the 100 metres final
+|venue = [[Panathenaic Stadium]]
+|dates = 6 April 1896 <br />(first round)<br />10 April 1896 <br />(final)
+|competitors = 15
+|nations = 8
+|win_value = 12.0
+|gold = [[Thomas Burke (athlete)|Thomas Burke]]
+|goldNOC = USA
+|silver = [[Fritz Hofmann (athlete)|Fritz Hofmann]]
+|silverNOC = GER
+|bronze = [[Alajos Szokolyi]]
+|bronzeNOC = HUN
+|bronze2 = [[Francis Lane]]
+|bronzeNOC2 = USA
+|prev=
+|next=[[Athletics at the 1900 Summer Olympics – Men's 100 metres|1900]]
+}}
+{{AthleticsAt1896SummerOlympics}}
+
+The first heat of the men's [[100 metres]] race was the first event run at the modern Olympics, on 6 April 1896. The event consisted of 3 heats and a final, held on 10 April. The 100 metres was the shortest race on the [[Athletics at the 1896 Summer Olympics]] programme. 15 athletes from 8 nations competed. The event was won by [[Thomas Burke (athlete)|Thomas Burke]] of the United States. [[Fritz Hofmann (athlete)|Fritz Hofmann]] of Germany took second, with Hungarian [[Alajos Szokolyi]] and American [[Francis Lane]] (who had won the first heat) tying for third. These competitors are recognized as gold, silver, and bronze medalists by the [[International Olympic Committee]], though that award system had not yet been implemented in 1896.<ref name=Olympedia/><ref name=IOC>{{cite web |url=https://olympics.com/en/olympic-games/athens-1896/results/athletics/100m-men |title=Athens 1896 Athletics 100M Men Results |work=Olympics.com |access-date=20 August 2021}}</ref>
+{{TOC limit|3}}
+
+==Background==
+
+[[Fritz Hofmann (athlete)|Fritz Hofmann]] was probably the most prominent sprinter to enter the event; he had won the 1893 Championship of the Continent. [[Thomas Burke (athlete)|Thomas Burke]] was the American champion in the 400 metres but had not distinguished himself yet in the 100 metres. Absent were top sprinters American [[Bernie Wefers]] and Englishman [[List of British champions in 100 metres|Charles Bradley]].<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/56000 |work=Olympedia |title=100 metres, Men |access-date=21 July 2020}}</ref>
+
+==Competition format==
+
+21 athletes were entered in the first round, divided into three heats of seven runners, but six of them later withdrew. The top two athletes in each heat advanced to the final.
+
+==Records==
+
+This was the standing world record (in seconds) prior to the 1896 Summer Olympics.
+
+{| class="wikitable"
+|- 
+! rowspan="5" | World Record
+| rowspan="5" | 10.8{{efn|unofficial}}
+| {{flagicon|USA}} Luther Cary
+| [[Paris]] ([[France|FRA]])
+| July 4, 1891
+|-
+| {{flagicon|GBR}} Cecil Lee
+| [[Brussels]] ([[Belgium|BEL]])
+| September 25, 1892
+|-
+| {{flagicon|BEL}} Étienne De Re
+| [[Brussels]] ([[Belgium|BEL]])
+| August 4, 1893
+|-
+| {{flagicon|GBR}} L. Atcherley
+| [[Frankfurt]] ([[German Empire|GER]])
+| April 13, 1895
+|-
+| {{flagicon|GBR}} Harry Beaton
+| [[Rotterdam]] ([[Netherlands|NED]])
+| August 28, 1895
+|}
+
+{{notelist}}
+
+The following new Olympic record was set during this competition:
+
+{| class=wikitable style=text-align:center
+|-
+! Date !! Event !! Athlete !! Time !! Notes
+|-
+| 6 April 1896 || Round 1 ||align=left| {{flagIOCathlete|[[Thomas Burke (athlete)|Thomas Burke]]|USA|1896 Summer}} || '''11.8 s''' || '''[[List of Olympic records in athletics|OR]]'''
+|}
+
+In the first heat, Francis Lane set the inaugural Olympic Record of 12.2 seconds, tied in Heat 2 by Thomas Curtis. Thomas Burke then ran 11.8 seconds, which stood as the Olympic Record until the 1900 Olympics.
+
+==Schedule==
+
+The precise times of the events are not recorded. For the first round, the heats began shortly after the arrival of King [[George I of Greece]] at 3 p.m. and the brief opening ceremony.<ref name=OR57>Official Report, p. 57.</ref> The final was the first competition of the afternoon session on Friday.<ref name=OR84>Official Report, p. 84.</ref>
+
+{| class="wikitable"
+!colspan=2| Date
+!rowspan=2| Round
+|-
+! Gregorian
+! Julian
+|-
+| Monday, 6 April 1896 || Monday, 25 March 1896 || '''Round 1'''
+|-
+|style=background:lemonchiffon| Friday, 10 April 1896 ||style=background:lemonchiffon| Friday, 29 March 1896 ||style=background:lemonchiffon| '''Final'''
+|}
+
+==Results==
+
+===Heats===
+
+The first round of heats took place on 6 April. The first heat of the 100 metres was the first competition held in the Games. [[Francis Lane]] won the first heat, thus becoming the first winner of a modern Olympic race. All heats were won by athletes from the United States.
+
+====Heat 1====
+
+The Official Report states that there were a total of 21 competitors, divided into three groups; there should therefore have been 7 athletes in each heat. The Official Report names only the top two runners, Lane and Szokolyi.<ref name=ORHeats>Official Report, pp. 61–62.</ref> Butler writes that the first heat had "two Hungarians, a Chilian, a Frenchman, a German, an Englishman and an American."<ref name=Butler>Butler, Maynard. ''The Olympic Games''. In Mallon & Widlund, pp. 37–41.</ref> Mallon & Widlund list Lane, Szokolyi, Gmelin, Grisel, and Doerry. Megede places [[:fr:André Tournois|André Tournois]] as the French competitor, rather than Grisel (who Megede does not list at all), omits Doerry (who Megede puts in heat 2), and includes Leonidasz Manno and [[Luis Subercaseaux]].<ref name=Megede>Ekkehard zur Megede : The history of Olympic athletics. Volume 1: 1896-1936. Verlag Bartels & Wernitz KG, Berlin, 2nd edition 1970.<!-- From de: --></ref> Olympedia follows Mallon & Widlund, also including Manno, Tournois, and Subercaseaux in a list of non-starters not attached to particular heats (this list includes 12 athletes, bringing Olympedia's total entrants to 27 rather than 21).<ref name=Olympedia/>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|- style="background:#bbf3bb;"
+| 1 
+|align=left| [[Francis Lane]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.2
+| {{AthAbbr|Q}}, {{OlyR|athletics}}
+|- style="background:#bbf3bb;"
+| 2 
+|align=left| [[Alajos Szokolyi]]
+|align=left| {{flagIOC|HUN|1896 Summer}}
+| 12.75
+| {{AthAbbr|Q}}
+|-
+| 3 
+|align=left| [[Charles Gmelin]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+| 12.9
+| 
+|-
+| 4 
+|align=left| [[Adolphe Grisel]]
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+| 5 
+|align=left| [[Kurt Doerry]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+|rowspan=2 data-sort-value=6| —
+|align=left| Leonidasz Manno
+|align=left| {{flagIOC|HUN|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Luis Subercaseaux]]
+|align=left| {{flagIOC|CHI|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|}
+
+====Heat 2====
+
+The Official Report states that there were a total of 21 competitors, divided into three groups; there should therefore have been 7 athletes in each heat. The Official Report names only the top two runners, Curtis and Chalkokondylis.<ref name=ORHeats/> Butler writes of the second heat that Curtis beat "a Greek, an Englishman, two Frenchmen, a Dane, and a Hungarian."<ref name=Butler/> Mallon & Widlund list Curtis, Chalkokondylis, Elliot, Schmidt, and Marshall. Megede places [[Alexandre Tuffère]] as the French competitor, including him at 3rd place above Elliott; Megede also has [[Kurt Doerry]] in this heat instead of the first one (indicating he started but did not finish the heat) and omits Marshall entirely.<ref name=Megede/> Olympedia follows Mallon & Widlund, also including Tuffère in a list of non-starters not attached to particular heats. Other non-starters listed by Olympedia that could be a second Frenchman or a Hungarian to match Butler's list are André Tournois, Louis Adler, István Zachar, and [[Nándor Dáni]].<ref name=Olympedia/>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|- style="background:#bbf3bb;"
+| 1 
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.2, {{OlyR|athletics|eq=y}}
+| {{AthAbbr|Q}}
+|- style="background:#bbf3bb;"
+| 2 
+|align=left| [[Alexandros Chalkokondylis]]
+|align=left| {{flagIOC|GRE|1896 Summer}}
+| 12.75
+| {{AthAbbr|Q}}
+|-
+| 3 
+|align=left| [[Launceston Elliot]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+| 12.9
+| 
+|-
+| 4 
+|align=left| [[Eugen Schmidt]]
+|align=left| {{flagIOC|DEN|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+| 5 
+|align=left| [[George Marshall (athlete)|George Marshall]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+|rowspan=2 data-sort-value=6| —
+|align=left| [[Alexandre Tuffère]]
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Unknown
+|align=left| Unknown (France or Hungary)
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|}
+
+====Heat 3====
+
+Both Burke and Hofmann were more well known for middle-distance events rather than sprinting. Burke's time of 11.8s became the standing Olympic record. It is not clear which athlete received which place between the fourth and fifth finishers.
+
+The Official Report states that there were a total of 21 competitors, divided into three groups; there should therefore have been 7 athletes in each heat. The Official Report names only the top two runners, "an American (Burke)" and Hofmann.<ref name=ORHeats/> Butler writes of the final heat that Burke beat "a Swede, two Greeks, and three Germans."<ref name=Butler/> Mallon & Widlund list Burke, Hofmann, Traun, Gennimatas, and Sjöberg. Megede omits Traun, places Sjöberg 3rd and Gennimatas 5th, and includes [[Nándor Dáni]] at 4th.<ref name=Megede/> Olympedia follows Mallon & Widlund; non-starters (not attached to particular heats in Olympedia) include Flatow and Mouratis.<ref name=Olympedia/>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|- style="background:#bbf3bb;"
+| 1 
+|align=left| [[Thomas Burke (athlete)|Thomas Burke]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 11.8
+| {{AthAbbr|Q}}, {{OlyR|athletics}}
+|- style="background:#bbf3bb;"
+| 2 
+|align=left| [[Fritz Hofmann (athlete)|Fritz Hofmann]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+| 12.75
+| {{AthAbbr|Q}}
+|-
+| 3 
+|align=left| [[Friedrich Traun]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+| 13.6
+| 
+|-
+|rowspan=2| 4–5
+|align=left| [[Georgios Gennimatas (athlete)|Georgios Gennimatas]]
+|align=left| {{flagIOC|GRE|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+|align=left| [[Henrik Sjöberg]]
+|align=left| {{flagIOC|SWE|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 
+|-
+|rowspan=2 data-sort-value=6| —
+|align=left| [[Alfred Flatow]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Konstantinos Mouratis
+|align=left| {{flagIOC|GRE|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|}
+
+===Final===
+
+The final of the 100 metre race, run on 10 April, involved the six runners who had finished in the top two of their preliminary heats. Curtis scratched from the final as he had also qualified for the [[Athletics at the 1896 Summer Olympics – Men's 110 metre hurdles#Final|final of the 110 metre hurdles]], which was the next race on the program (Curtis won that race).
+
+Burke beat his companion from the third heat, Hofmann, by two meters. In a thrilling contest for third place, Lane and Szokolyi dead-heated, both men beating Chalkokondylis by six inches. Lane and Szokolyi are both considered to be [[bronze medal]]lists by the [[International Olympic Committee]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time
+|- 
+| {{gold1}} 
+|align=left| [[Thomas Burke (athlete)|Thomas Burke]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.0
+|- 
+| {{silver2}} 
+|align=left| [[Fritz Hofmann (athlete)|Fritz Hofmann]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+| 12.2
+|- 
+|rowspan=2| {{bronze3}} 
+|align=left| [[Francis Lane]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.6
+|-
+|align=left| [[Alajos Szokolyi]]
+|align=left| {{flagIOC|HUN|1896 Summer}}
+| 12.6
+|-
+| 5 
+|align=left| [[Alexandros Chalkokondylis]]
+|align=left| {{flagIOC|GRE|1896 Summer}}
+| 12.6
+|-
+|data-sort-value=6| —
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+|}
+
+==Results summary==
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Semifinals || Final || Notes
+|- 
+| {{gold1}} 
+|align=left| [[Thomas Burke (athlete)|Thomas Burke]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 11.8 || 12.0 || {{OlyR|athletics}}
+|- 
+| {{silver2}} 
+|align=left| [[Fritz Hofmann (athlete)|Fritz Hofmann]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+| 12.6 || 12.2 || 
+|- 
+|rowspan=2| {{bronze3}} 
+|align=left| [[Francis Lane]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.2 || 12.6 || 
+|-
+|align=left| [[Alajos Szokolyi]]
+|align=left| {{flagIOC|HUN|1896 Summer}}
+| 12.8 || 12.6 || 
+|-
+| 5 
+|align=left| [[Alexandros Chalkokondylis]]
+|align=left| {{flagIOC|GRE|1896 Summer}}
+| 12.8 || 12.6 || 
+|-
+| 6
+|align=left| [[Thomas Curtis (athlete)|Thomas Curtis]]
+|align=left| {{flagIOC|USA|1896 Summer}}
+| 12.2 ||data-sort-value=99.9| {{Abbr|DNS|Did not start}} || 
+|-
+|rowspan=9| {{abbr|AC|Also competed}} 
+|align=left| [[Launceston Elliot]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+| 12.9
+|rowspan=21 data-sort-value=99.9| Did not advance
+| 
+|-
+|align=left| [[Charles Gmelin]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+| 12.9
+| 
+|-
+|align=left| [[Friedrich Traun]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+| 13.5
+| 
+|-
+|align=left| [[Eugen Schmidt]]
+|align=left| {{flagIOC|DEN|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 4th in semifinal
+|-
+|align=left| [[Adolphe Grisel]]
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 4th in semifinal
+|-
+|align=left| [[Georgios Gennimatas (athlete)|Georgios Gennimatas]]
+|align=left| {{flagIOC|GRE|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 4th–5th in semifinal
+|-
+|align=left| [[Henrik Sjöberg]]
+|align=left| {{flagIOC|SWE|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 4th–5th in semifinal
+|-
+|align=left| [[George Marshall (athlete)|George Marshall]]
+|align=left| {{flagIOC|GBR|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 5th in semifinal
+|-
+|align=left| [[Kurt Doerry]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+|data-sort-value=60.0| Unknown
+| 5th in semifinal
+|-
+|rowspan=12 data-sort-value=16| —
+|align=left| Louis Adler
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Harald Arbin]]
+|align=left| {{flagIOC|SWE|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Nándor Dáni]]
+|align=left| {{flagIOC|HUN|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Ralph Derr
+|align=left| {{flagIOC|USA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Alfred Flatow]]
+|align=left| {{flagIOC|GER|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Leonidasz Manno
+|align=left| {{flagIOC|HUN|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Konstantinos Mouratis
+|align=left| {{flagIOC|GRE|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Luis Subercaseaux]]
+|align=left| {{flagIOC|CHI|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Jean Tournois
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| [[Alexandre Tuffère]]
+|align=left| {{flagIOC|FRA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| Charles Vanoni
+|align=left| {{flagIOC|USA|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|-
+|align=left| István Zachar
+|align=left| {{flagIOC|HUN|1896 Summer}}
+|data-sort-value=99.9| {{Abbr|DNS|Did not start}}
+| 
+|}
+
+==References==
+{{Reflist}}<!--added under references heading by script-assisted edit-->
+* {{cite book |author1=Lampros, S.P. |author2=Polites, N.G. |author3=De Coubertin, Pierre |author4=Philemon, P.J. |author5=Anninos, C.   |name-list-style=amp | title=The Olympic Games: BC 776 – AD 1896 | location=Athens | publisher=Charles Beck | year=1897 }} (Digitally available at [http://www.la84foundation.org/6oic/OfficialReports/1896/1896.pdf la84foundation.org])
+* {{cite book | author1=Mallon, Bill | author2=Widlund, Ture | name-list-style=amp | title=The 1896 Olympic Games. Results for All Competitors in All Events, with Commentary | location=Jefferson | publisher=McFarland | year=1998 | isbn=0-7864-0379-9 | url-access=registration | url=https://archive.org/details/resultsofearlymo00mall }} (Excerpt available at [http://www.la84foundation.org/6oic/OfficialReports/Mallon/1896.pdf la84foundation.org])
+* {{cite book | author=Smith, Michael Llewellyn | title= Olympics in Athens 1896. The Invention of the Modern Olympic Games | location=London | publisher=Profile Books | year = 2004 | isbn=1-86197-342-X}}
+* {{cite book | author=Wallechinsky, David | title=The Complete Book of the Olympics | location=Crawfordsville, Indiana | publisher=R. R. Donnelley & Sons Company | year=1984 | isbn=0-14-006632-2}}
+
+{{Olympics100metres}}
+{{Footer Olympic Champions 100 m Men}}
+
+{{DEFAULTSORT:Athletics at the 1896 Summer Olympics - Men's 100 metres}}
+[[Category:Athletics at the 1896 Summer Olympics|Men's 0100 metres]]
+[[Category:100 metres at the Olympics]]

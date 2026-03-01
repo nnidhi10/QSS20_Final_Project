@@ -1,0 +1,1482 @@
+{{infobox country at games
+| NOC = SUI
+| NOCname = [[Swiss Olympic Association]]
+| games = Winter Olympics
+| year = 2010
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.swissolympic.ch }}&nbsp;{{in lang|de|fr}}
+| location = [[Vancouver]]
+| competitors = 146
+| sports = 14
+| flagbearer = [[Stéphane Lambiel]]<ref>{{cite news | url = https://www.washingtonpost.com/wp-dyn/content/article/2010/02/11/AR2010021102379.html | title = Skater Stephane Lambiel to carry Swiss flag | publisher = [[Associated Press]] | date = 11 February 2010 | access-date = 11 February 2010}}{{dead link|date=June 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rank = 6
+| gold = 6
+| silver = 0
+| bronze = 3
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = [[Switzerland at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+[[Switzerland]] participated at the [[2010 Winter Olympics]] in [[Vancouver]], [[British Columbia]], [[Canada]]. 146 athletes entered 14 sports (all except short track speed skating).
+
+{{TOC limit}}
+
+==Medalists==
+{| class="wikitable sortable" style="font-size:100%"
+|-
+!Medal
+!Name
+!Sport
+!Event
+!Date
+|-
+| {{gold medal}} || {{sortname|Simon|Ammann}}||[[Ski jumping at the 2010 Winter Olympics|Ski jumping]]||[[Ski jumping at the 2010 Winter Olympics – Normal hill individual|Normal hill individual]] || 13 February
+|-
+| {{gold medal}} || {{sortname|Didier|Défago||Defago, Didier}}||[[Alpine skiing at the 2010 Winter Olympics|Alpine skiing]]||[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Men's downhill]] || 15 February
+|-
+| {{gold medal}} || {{sortname|Dario|Cologna}}||[[Cross-country skiing at the 2010 Winter Olympics|Cross-country skiing]]||[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|Men's 15 km freestyle]] || 15 February
+|-
+| {{gold medal}} || {{sortname|Simon|Ammann}}||[[Ski jumping at the 2010 Winter Olympics|Ski jumping]]||[[Ski jumping at the 2010 Winter Olympics – Large hill individual|Large hill individual]] || 20 February
+|-
+| {{gold medal}} || {{sortname|Carlo|Janka}}||[[Alpine skiing at the 2010 Winter Olympics|Alpine skiing]]||[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Men's giant slalom]] || 21 February
+|-
+| {{gold medal}} || {{sortname|Michael|Schmid|dab=skier}}||[[Freestyle skiing at the 2010 Winter Olympics|Freestyle skiing]]||[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Men's ski cross]] || 21 February
+|-
+| {{bronze medal}} || {{sortname|Olivia|Nobs}}||[[Snowboarding at the 2010 Winter Olympics|Snowboarding]]||[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's snowboard cross]] || 16 February
+|-
+| {{bronze medal}} || {{sortname|Silvan|Zurbriggen}}||[[Alpine skiing at the 2010 Winter Olympics|Alpine skiing]]||[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Men's combined]] || 21 February
+|-
+| {{bronze medal}} ||{{sortname|Ralph|Stöckli||Stockli, Ralph}}<br />[[Jan Hauser]]<br />[[Markus Eggler]]<br />[[Simon Strübin]]<br />[[Toni Müller]]||[[Curling at the 2010 Winter Olympics|Curling]]||[[Curling at the 2010 Winter Olympics – Men's tournament|Men's]] || 27 February
+|}
+[[File:2010 Opening Ceremony - Switzerland entering.jpg|thumb|right|The athletes entering the stadium during the opening ceremonies.]]
+[[File:2010 Winter Olympics Didier Defago in downhill.jpg|thumb|[[Didier Défago]] on his winning run in the [[Alpine skiing at the 2010 Winter Olympics – Men's downhill|men's downhill]].]]
+
+==Alpine skiing==
+{{Main|Alpine skiing at the 2010 Winter Olympics}}
+
+;Men
+{|class="wikitable"
+!|Athlete
+!|Event
+!|Run 1
+!|Run 2
+!|Total
+!|Rank
+|- align=center
+|align=left|[[Marc Berthod]]
+|[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:19.00
+|1:23.10
+|2:42.10
+|29
+|- align=center
+|align=left rowspan=3|[[Didier Cuche]]
+|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Downhill]]
+|1:54.67
+|colspan=2 bgcolor=wheat|
+|6
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Super-G]]
+|1:31.06
+|colspan=2 bgcolor=wheat|
+|10
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:18.75
+|1:20.70
+|2:39.45
+|14
+|- align=center
+|align=left rowspan=3|'''[[Didier Défago]]'''
+|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Downhill]]
+|1:54.31
+|colspan=2 bgcolor=wheat|
+|{{gold01}}
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Super-G]]
+|1:31.43
+|colspan=2 bgcolor=wheat|
+|15
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Combined]]
+|''Downhill''<br />1:53.69
+|colspan=3|DNF
+|- align=center
+|align=left|[[Tobias Grünenfelder]]
+|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Super-G]]
+|1:30.90
+|colspan=2 bgcolor=wheat|
+|9
+|- align=center
+|align=left|[[Ambrosi Hoffman]]
+|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Downhill]]
+|1:56.04
+|colspan=2 bgcolor=wheat|
+|23
+|- align=center
+|align=left rowspan=4|'''[[Carlo Janka]]'''
+|[[Alpine skiing at the 2010 Winter Olympics – Men's downhill|Downhill]]
+|1:55.02
+|colspan=2 bgcolor=wheat|
+|11
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's super-G|Super-G]]
+|1:30.83
+|colspan=2 bgcolor=wheat|
+|8
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Combined]]
+|''Downhill''<br />1:53.65
+|''Slalom''<br />51.89
+|2:45.54
+|4
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:17.27
+|1:20.56
+|2:37.83
+|{{gold01}}
+|- align=center
+|align=left rowspan=2|[[Sandro Viletta]]
+|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Combined]]
+|''Downhill''<br />1:55.72
+|''Slalom''<br />52.47
+|2:48.19
+|14
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Men's giant slalom|Giant slalom]]
+|1:18.37
+|1:21.17
+|2:39.54
+|15
+|- align=center
+|align=left|'''[[Silvan Zurbriggen]]'''
+|[[Alpine skiing at the 2010 Winter Olympics – Men's combined|Combined]]
+|''Downhill''<br />1:53.88
+|''Slalom''<br />51.44
+|2:45.32
+|{{bronze03}}
+|}
+
+;Women
+{|class="wikitable"
+!|Athlete
+!|Event
+!|Run 1
+!|Run 2
+!|Total
+!|Rank
+|- align=center
+|rowspan=3 align=left|[[Andrea Dettling]]
+|[[Alpine skiing at the 2010 Winter Olympics – Women's combined|Combined]]
+|''Downhill''<br />1:26.28
+|''Slalom''<br />48.16
+|2:14.44
+|23
+|-align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's super-G|Super-G]]
+|1:22.03
+|colspan=2 bgcolor=wheat|
+|12
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's giant slalom|Giant slalom]]
+|colspan=4|DNF
+|- align=center
+|align=left|[[Dominique Gisin]]
+|[[Alpine skiing at the 2010 Winter Olympics – Women's downhill|Downhill]]
+|colspan=4|DNF
+|- align=center
+|align=left rowspan=3|[[Nadja Kamer]]
+|[[Alpine skiing at the 2010 Winter Olympics – Women's combined|Combined]]
+|colspan=4|DNF
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's downhill|Downhill]]
+|1:48.14
+|colspan=2 bgcolor=wheat|
+|19
+|-align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's super-G|Super-G]]
+|colspan=4|DNF
+|- align=center
+|align=left rowspan=4|[[Fabienne Suter]]
+|[[Alpine skiing at the 2010 Winter Olympics – Women's combined|Combined]]
+|''Downhill''<br />1:25.29
+|''Slalom''<br />45.56
+|2:10.85
+|6
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's downhill|Downhill]]
+|1:46.17
+|colspan=2 bgcolor=wheat|
+|5
+|-align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's super-G|Super-G]]
+|1:22.16
+|colspan=2 bgcolor=wheat|
+|13
+|- align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's giant slalom|Giant slalom]]
+|1:15.97
+|1:11.55
+|2:27.52
+|4
+|- align=center
+|rowspan=2 align=left|[[Nadia Styger]]
+|[[Alpine skiing at the 2010 Winter Olympics – Women's downhill|Downhill]]
+|1:47.22
+|colspan=2 bgcolor=wheat|
+|12
+|-align=center
+|[[Alpine skiing at the 2010 Winter Olympics – Women's super-G|Super-G]]
+|1:21.25
+|colspan=2 bgcolor=wheat|
+|6
+|}
+
+;Men's team
+{| class="wikitable"
+|-align=center
+! Name
+! Hometown
+! Date of birth
+! Height
+! Weight
+|-align=center
+|align=center|[[Marc Berthod]]
+|align=center|[[St. Moritz]], [[Graubünden|GR]]
+|align=center|24 November 1983
+|align=center|{{convert|180|cm|ftin|abbr=on}}
+|align=center|{{convert|85|kg|lb|abbr=on}}
+|-align=center
+|align=center|[[Marc Gini]]
+|align=center|Valbella, [[Graubünden|GR]]
+|align=center|8 November 1984
+|align=center|{{convert|183|cm|ftin|abbr=on}}
+|align=center|{{convert|81|kg|lb|abbr=on}}
+|-align=center
+|align=center|[[Patrick Küng]]
+|align=center|[[Obstalden]], [[Glarus|GL]]
+|align=center|11 January 1984
+|align=center| 
+|align=center| 
+|}
+
+==Biathlon==
+{{Main|Biathlon at the 2010 Winter Olympics}}
+
+{|class="wikitable"
+!|Athlete
+!|Event
+!|Time
+!|Rank
+|- align=center
+|rowspan=3 align=left|[[Selina Gasparin]]
+|[[Biathlon at the 2010 Winter Olympics – Women's sprint|Women's 7.5 km sprint]]
+|22:23.4
+|56
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Women's pursuit|Women's 10 km pursuit]]
+|35:53.5
+|48
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Women's individual|Women's 15 km individual]]
+|45:23.6
+|40
+|- align=center
+|align=left|[[Claudio Böckli]]
+|colspan=3|
+|- align=center
+|rowspan=4 align=left|[[Thomas Frei (biathlete)|Thomas Frei]]
+|[[Biathlon at the 2010 Winter Olympics – Men's sprint|Men's 10 km sprint]]
+|25:36.9
+|13
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's pursuit|Men's 12.5 km pursuit]]
+|34:56.4
+|12
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's individual|Men's 20 km individual]]
+|51:03.4
+|16
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's mass start|15 km mass start]]
+|37:12.9
+|24
+|- align=center
+|rowspan=3 align=left|[[Simon Hallenbarter]]
+|[[Biathlon at the 2010 Winter Olympics – Men's sprint|Men's 10 km sprint]]
+|25:48.3
+|16
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's pursuit|Men's 12.5 km pursuit]]
+|37:07.9
+|43
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's individual|20 km individual]]
+|53:18.4
+|43
+|- align=center
+|rowspan=3 align=left|[[Matthias Simmen]]
+|[[Biathlon at the 2010 Winter Olympics – Men's sprint|Men's 10 km sprint]]
+|26:11.5
+|26
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's pursuit|Men's 12.5 km pursuit]]
+|35:55.0
+|28
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's individual|20 km individual]]
+|53:05.7
+|39
+|- align=center
+|rowspan=2 align=left|[[Benjamin Weger]]
+|[[Biathlon at the 2010 Winter Olympics – Men's sprint|Men's 10 km sprint]]
+|27:43.6
+|69
+|- align=center
+|[[Biathlon at the 2010 Winter Olympics – Men's individual|20 km individual]]
+|54:20.3
+|55
+|-
+|[[Thomas Frei]]<br />[[Matthias Simmen]]<br />[[Benjamin Weger]]<br />[[Simon Hallenbarter]]
+|[[Biathlon at the 2010 Winter Olympics – Men's relay|Men's relay]]
+|align="center"|1:24:36.8<br>0+9
+|align="center"|8
+|}
+
+==Bobsleigh==
+{{Main|Bobsleigh at the 2010 Winter Olympics}}
+Switzerland qualified three [[Bobsleigh#Sleighs and crews|sleighs]] in the two-man event,<ref>[http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/2-man%20Quotas.pdf FIBT final allocation of the bobsleigh two-man teams for the 2010 Winter Olympics.] {{Webarchive|url=https://web.archive.org/web/20110710235850/http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/2-man%20Quotas.pdf |date=2011-07-10 }}, retrieved on 21 February 2010.</ref> two sleighs in the two-woman event<ref>[http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/Women%27s%20Bobsleigh%20Quotas.pdf FIBT bobsleigh two-woman final quota allocation.] {{Webarchive|url=https://web.archive.org/web/20140103232200/http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/Women%27s%20Bobsleigh%20Quotas.pdf |date=2014-01-03 }}, retrieved 21 February 2010.</ref> and two sleighs in the four-man event.<ref>[http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/4-man%20Quotas.pdf FIBT final quota allocations for bobsleigh four-man at the 2010 Winter Olympics.] {{Webarchive|url=https://web.archive.org/web/20110710235858/http://fibt.com/fileadmin/Newsletter_PDFs/Olympic%20Quotas_Final/4-man%20Quotas.pdf |date=2011-07-10 }}, retrieved 21 February 2010.</ref> Switzerland lost two of its two-man sleighs after driver [[Beat Hefti]] and brakeman [[Jörg Egger]] suffered injuries during the training runs.<ref name="Bobsleigh-injuries">[https://sports.yahoo.com/olympics/news?slug=reu-bobsleightraining_pix&prov=reuters&type=lgns "Bobsleigh-Injuries leave Swiss in disarray."], by Martyn Herman, 19 February 2010, [https://sports.yahoo.com/ Yahoo! Sports], retrieved on 21 February 2010.</ref>
+
+;[[Bobsleigh at the 2010 Winter Olympics – Two-man|Two-man]]
+{|class="wikitable" border="1"
+|-
+!rowspan=2|Sled
+!rowspan=2|Athletes<br><small>(driver listed first)</small>
+!colspan=2|Heat 1
+!colspan=2|Heat 2
+!colspan=2|Heat 3
+!colspan=2|Heat 4
+!colspan=2|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|'''SUI I'''
+|[[Ivo Rüegg]]<br />[[Cédric Grand]]
+|align="center"|''4.86''<br />51.76
+|align="center"|3
+|align="center"|''4.86''<br />52.18
+|align="center"|6
+|align="center"|''4.86''<br />51.92
+|align="center"|5
+|align="center"|''4.85''<br />51.99
+|align="center"|6
+|align="center"|3:27.85
+|align="center"|4
+|-
+|'''SUI II'''
+|[[Beat Hefti]]<br />[[Thomas Lamparter]]
+|colspan=10 align="center"|WD<ref name="Bobsleigh-injuries" />
+|-
+|'''SUI III'''
+|[[Daniel Schmid (bobsleigh)|Daniel Schmid]]<br />[[Jörg Egger]]
+|colspan=10 align="center"|WD<ref name="Bobsleigh-injuries" />
+|}
+
+;[[Bobsleigh at the 2010 Winter Olympics – Two-woman|Two-woman]]
+{|class="wikitable" border="1"
+|-
+!rowspan=2|Sled
+!rowspan=2|Athletes<br><small>(driver listed first)</small>
+!colspan=2|Heat 1
+!colspan=2|Heat 2
+!colspan=2|Heat 3
+!colspan=2|Heat 4
+!colspan=2|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|'''SUI I'''
+|align=left|[[Sabrina Hafner]]<br />[[Caroline Spahni]]
+|align="center"|''5.32''<br />54.18
+|align="center"|13
+|align="center"|''5.31''<br />54.70
+|align="center"|17
+|align="center"|''5.30''<br />53.87
+|align="center"|13
+|align="center"|''5.32<br />54.09''
+|align="center"|12
+|align="center"|3:36.84
+|align="center"|12
+|- align=center
+|'''SUI II'''
+|align=left|[[Fabienne Meyer]]<br />[[Hannelore Schenk]]
+|align="center"|''5.29''<br />54.04
+|align="center"|11
+|align="center"|''5.29''<br />54.27
+|align="center"|13
+|align="center"|''5.32''<br />54.00
+|align="center"|12
+|align="center"|''5.31''<br />53.82
+|align="center"|9
+|align="center"|3:36.13
+|align="center"|10
+|}
+
+;[[Bobsleigh at the 2010 Winter Olympics – Four-man|Four-man]]
+{|class="wikitable" border="1"
+|-
+!rowspan=2|Sled
+!rowspan=2|Athletes<br><small>(driver first, brakeman last)</small>
+!colspan=2|Heat 1
+!colspan=2|Heat 2
+!colspan=2|Heat 3
+!colspan=2|Heat 4
+!colspan=2|Total
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|'''SUI I'''
+|align=left|[[Ivo Rüegg]]<br />[[Beat Hefti]]<br />[[Thomas Lamparter]]<br />[[Cédric Grand]]
+|align="center"|''4.76''<br />51.31
+|align="center"|8
+|align="center"|''4.71''<br />51.13
+|align="center"|4
+|align="center"|''4.77''<br />51.70
+|align="center"|8
+|align="center"|''4.77''<br />51.57
+|align="center"|5
+|align="center"|3:25.71
+|align="center"|6
+|- align=center
+|'''SUI II'''
+|align=left|[[Daniel Schmid (bobsleigh)|Daniel Schmid]]<br />[[Alex Baumann (bobsleigh)|Alex Baumann]]<br />[[Christian Aebli]]<br />[[Roman Handschin]]
+|colspan=10 align="center"|WD
+|}
+
+==Cross-country skiing==
+{{Main|Cross-country skiing at the 2010 Winter Olympics}}
+
+;Men
+{|class="wikitable"
+|-
+!rowspan=2|Athletes
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Quarterfinals
+!colspan=2|Semifinals
+!colspan=2|Finals
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|rowspan=2 align=left|'''[[Dario Cologna]]'''
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km freestyle]]
+|colspan=6 bgcolor=wheat|
+|33:63.3
+|{{gold01}}
+|- align=center
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]]
+|colspan=6 bgcolor=wheat|
+|1:16:12.2
+|13
+|- align=center
+|align=left|[[Christoph Eigenmann]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Sprint]]
+|3:42.18
+|34
+|colspan=6|did not advance
+|- align=center
+|rowspan=2 align=left|[[Remo Fischer]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km freestyle]]
+|colspan=6 bgcolor=wheat|
+|34:51.1
+|15
+|- align=center
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]]
+|colspan=6 bgcolor=wheat|
+|1:22:52.1
+|44
+|- align=center
+|align=left|[[Valerio Leccardi]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Sprint]]
+|3:42.84
+|38
+|colspan=6|did not advance
+|- align=center
+|rowspan=2 align=left|[[Toni Livers]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km freestyle]]
+|colspan=6 bgcolor=wheat|
+|34:43.3
+|12
+|- align=center
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]]
+|colspan=6 bgcolor=wheat|
+|1:17:26.0
+|22
+|- align=center
+|rowspan=2 align=left|[[Curdin Perl]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 15 kilometre freestyle|15 km freestyle]]
+|colspan=6 bgcolor=wheat|
+|34:51.8
+|17
+|- align=center
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's 30 kilometre pursuit|30 km pursuit]]
+|colspan=6 bgcolor=wheat|
+|1:17:05.0
+|20
+|- align=center
+|align=left|[[Eligius Tambornino]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Sprint]]
+|3:48.33
+|49
+|colspan=6|did not advance
+|- align=center
+|align=left|[[Peter von Allmen]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's sprint|Sprint]]
+|3:46.16
+|43
+|colspan=6|did not advance
+|- align=center
+|align=left|[[Dario Cologna]], <br>[[Eligius Tambornino]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Men's team sprint|Team sprint]]
+|colspan=4 bgcolor=wheat|
+|18:54.6
+|6
+|colspan=2|did not advance
+|}
+
+;Women
+{|class="wikitable"
+|-
+!rowspan=2|Athletes
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Quarterfinals
+!colspan=2|Semifinals
+!colspan=2|Finals
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left|[[Laurence Rochat]]
+|
+|colspan=6 bgcolor=wheat|
+|
+|
+|- align=center
+|align=left|[[Doris Trachsel]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Women's sprint|Sprint]]
+|3:50.85
+|30 '''Q'''
+|3:44.7
+|6
+|colspan=4|did not advance
+|- align=center
+|align=left|[[Silvana Bucher]], <br> [[Bettina Gruber]]
+|align=left|[[Cross-country skiing at the 2010 Winter Olympics – Women's team sprint|Team sprint]]
+|colspan=4 bgcolor=wheat|
+|20:04.6
+|9
+|colspan=2|did not advance
+|}
+
+==Curling==
+{{Main|Curling at the 2010 Winter Olympics}}
+
+===Men's tournament===
+{{Main|Curling at the 2010 Winter Olympics – Men's tournament}}
+;Men's team
+''CC St Galler Bär, [[St Gallen]].''
+{| class="wikitable"
+|-align=center
+!
+! Name
+! Hometown
+! Date of birth
+|-align=center
+|align=center|'''Fourth'''
+|align=center|[[Ralph Stöckli]]
+|align=center|[[Ittigen]], [[Canton of Bern|BE]]
+|align=center|23 July 1976
+|-align=center
+|align=center|'''Third'''
+|align=center|[[Jan Hauser]]
+|align=center|[[Zürich]], [[Canton of Zürich|ZH]]
+|align=center|19 January 1985
+|-align=center
+|align=center|'''Skip'''
+|align=center|[[Markus Eggler]]*
+|align=center|[[Münchenstein]], [[Basel-Landschaft|BL]]
+|align=center|22 January 1969
+|-align=center
+|align=center|'''Lead'''
+|align=center|[[Simon Strübin]]
+|align=center|[[Erlenbach, Switzerland|Erlenbach]], [[Canton of Zürich|ZH]]
+|align=center|21 March 1979
+|-align=center
+|align=center|'''Alternate'''
+|align=center|[[Toni Müller]]
+|align=center|
+|align=center|10 May 1984
+|}
+''*Throws second rocks''
+
+;Standings
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Standings}}
+
+;Round-robin
+{{col-float-begin|style=width:45em}}
+;Draw 1
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw1SheetD}}
+;Draw 3
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw3SheetB}}
+;Draw 4
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw4SheetD}}
+;Draw 5
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw5SheetC}}
+;Draw 6
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw6SheetA}}
+{{col-float-break|style=width:45em}}
+;Draw 8
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw8SheetB}}
+;Draw 9
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw9SheetC}}
+;Draw 10
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw10SheetD}}
+;Draw 12
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|Draw12SheetD}}
+{{Col-float-end}}
+
+;Semifinal
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|SF2}}
+;Bronze medal game
+{{#lst:Curling at the 2010 Winter Olympics – Men's tournament|BM}}
+
+===Women's tournament===
+{{Main|Curling at the 2010 Winter Olympics – Women's tournament}}
+;Women's team
+''Davos CC, [[Davos]].''
+{| class="wikitable"
+|-align=center
+!
+! Name
+! Hometown
+! Date of birth
+|-align=center
+|align=center|'''Skip'''
+|align=center|[[Mirjam Ott]]
+|align=center|[[Zürich]], [[Canton of Zürich|ZH]]
+|align=center|27 January 1972
+|-align=center
+|align=center|'''Third'''
+|align=center|[[Carmen Schäfer (curler)|Carmen Schäfer]]
+|align=center|[[Fahrweid]], [[Canton of Zürich|ZH]]
+|align=center|8 January 1981
+|-align=center
+|align=center|'''Second'''
+|align=center|[[Carmen Küng]]
+|align=center|[[Feldbrunnen]], [[Canton of Solothurn|SO]]
+|align=center|30 January 1978
+|-align=center
+|align=center|'''Lead'''
+|align=center|[[Janine Greiner]]
+|align=center|[[Fahrweid]], [[Canton of Zürich|ZH]]
+|align=center|13 February 1981
+|-align=center
+|align=center|'''Alternate'''
+|align=center|[[Irene Schori]]
+|align=center|
+|align=center|4 December 1983
+|}
+
+;Standings
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Standings}}
+
+;Round-robin
+{{col-float-begin|style=width:45em}}
+;Draw 1
+''Tuesday, February 16, 2:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw1SheetD}}
+;Draw 2
+''Wednesday, February 17, 9:00 AM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw2SheetC}}
+;Draw 3
+''Wednesday, February 17, 7:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw3SheetD}}
+;Draw 6
+''Friday, February 19, 7:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw6SheetD}}
+;Draw 7
+''Saturday, February 20, 2:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw7SheetC}}
+{{col-float-break|style=width:45em}}
+;Draw 8
+''Sunday, February 21, 9:00 AM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw8SheetA}}
+;Draw 10
+''Monday, February 22, 2:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw10SheetB}}
+;Draw 11
+''Tuesday, February 23, 9:00 AM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw11SheetB}}
+;Draw 12
+''Tuesday, February 23, 7:00 PM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|Draw12SheetA}}
+{{Col-float-end}}
+
+;Semifinal
+''Thursday, February 25, 9:00 AM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|SF1}}
+
+;Bronze medal game
+''Friday, February 26, 9:00 AM''
+{{#lst:Curling at the 2010 Winter Olympics – Women's tournament|BM}}
+
+==Figure skating==
+{{Main|Figure skating at the 2010 Winter Olympics}}
+
+{| class="wikitable"
+|-
+! rowspan="2" | Athlete(s)
+! rowspan="2" | Event
+! colspan="2" | {{abbr|SP|Short program}}
+! colspan="2" | {{abbr|FS|Free skating}}
+! colspan="2" | Total
+|-
+! Points
+! Rank
+! Points
+! Rank
+! Points
+! Rank
+|-
+| [[Stéphane Lambiel]]
+| [[Figure skating at the 2010 Winter Olympics – Men's singles|Men]]
+|{{center|84.63}}
+|{{center|5}}
+|{{center|162.09}}
+|{{center|3}}
+|{{center|246.72}}
+|{{center|4}}
+|-
+| [[Sarah Meier (figure skater)|Sarah Meier]]
+| [[Figure skating at the 2010 Winter Olympics – Ladies' singles|Ladies]]<!-- Note to editors - "Ladies" is the official name, not "Women" -->
+|{{center|56.70}}
+|{{center|15}}
+|{{center|96.11}}
+|{{center|14}}
+|{{center|152.81}}
+|{{center|15}}
+|-
+| [[Anaïs Morand]], <br>[[Antoine Dorsaz]]
+| [[Figure skating at the 2010 Winter Olympics – Pair skating|Pairs]]
+|{{center|55.34}}
+|{{center|13}}
+|{{center|89.08}}
+|{{center|17}}
+|{{center|144.42}}
+|{{center|15}}
+|-
+|}
+
+==Freestyle skiing==
+{{Main|Freestyle skiing at the 2010 Winter Olympics}}
+
+Switzerland entered 14 athletes into freestyle skiing events, 6 in the aerials and 8 in ski cross.<ref name="freestyle team">[http://www.swissolympic.ch/desktopdefault.aspx/tabid-4072/634023954772131250/?url=%2fzeusclient_Vancouver%2fhome%2fevents.aspx%3flang%3dde%26sdId%3d35%252c24 Swiss Olympic - Freestyle skiing Team] {{Webarchive|url=https://web.archive.org/web/20120225195756/http://www.swissolympic.ch/desktopdefault.aspx/tabid-4072/634023954772131250/?url=%2fzeusclient_Vancouver%2fhome%2fevents.aspx%3flang=de&sdId=35%2c24 |date=2012-02-25 }}, Swiss Olympic Official Site, retrieved on 21 February 2010. '''(German)'''.</ref>
+
+===Aerials===
+{|class="wikitable" border="1"
+|-
+!rowspan="2"|Athletes
+!rowspan="2"|Event
+!colspan="6"|Qualifying
+!colspan="6"|Final
+|-
+!Jump 1
+!Rank
+!Jump 2
+!Rank
+!Total
+!Rank
+!Jump 1
+!Rank
+!Jump 2
+!Rank
+!Total
+!Rank
+|- align=center
+|align=left|[[Evelyne Leu]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Women's]]
+|93.75
+|5
+|61.75
+|19
+|155.50
+|16
+|colspan="6"|did not advance
+|- align=center
+|align=left|[[Tanja Schärer]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|Women's]]
+|60.63
+|20
+|65.10
+|18
+|125.73
+|19
+|colspan="6"|did not advance
+|- align=center
+|align=left|[[Christian Hächler]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's aerials|Men's]]
+|106.64
+|15
+|100.61
+|20
+|207.25
+|16
+|colspan="6"|did not advance
+|- align=center
+|align=left|[[Andreas Isoz]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's aerials|Men's]]
+|103.76
+|17
+|110.42
+|13
+|214.18
+|14
+|colspan="6"|did not advance
+|- align=center
+|align=left|[[Thomas Lambert (skier)|Thomas Lambert]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's aerials|Men's]]
+|114.58
+|11
+|123.75
+|1
+|238.33
+|3 '''Q'''
+|93.66
+|11
+|117.24
+|10
+|210.90
+|12
+|- align=center
+|align=left|[[Renato Ulrich]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's aerials|Men's]]
+|81.86
+|23
+|118.55
+|5
+|200.41
+|18
+|colspan="6"|did not advance
+|}
+
+===Ski cross===
+{|class="wikitable"
+|-
+!rowspan="2"|Athletes
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!1/8 finals
+!Quarterfinals
+!Semifinals
+!colspan="2"|Finals
+|-
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Position
+!Rank
+|- align=center
+|align=left|[[Sanna Lüdi]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Women's]]
+|align="center"|1:32.87
+|align="center"|35
+|colspan=4 align="center" bgcolor="wheat"|
+|align="center"|35
+|- align=center
+|align=left|[[Katrin Müller]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Women's]]
+|align="center"|1:18.92
+|align="center"|9 '''Q'''
+|align="center"|4 ''DNF''
+|colspan=3 align="center" bgcolor="wheat"|
+|align="center"|18
+|- align=center
+|align=left|[[Emilie Serain]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Women's]]
+|colspan="7" align="center"|WD
+|- align=center
+|align=left|[[Fanny Smith]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Women's]]
+|align="center"|1:17.38
+|align="center"|3 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|3
+|align="center" bgcolor="wheat"|
+|align="center"|7
+|- align=center
+|align=left|[[Franziska Steffen]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Women's ski cross|Women's]]
+|align="center"|1:22.32
+|align="center"|29 '''Q'''
+|align="center"|4 ''DNF''
+|colspan=3 align="center" bgcolor="wheat"|
+|align="center"|29
+|- align=center
+|align=left|[[Beni Hofer]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Men's]]
+|align="center"|1:16.18
+|align="center"|31 '''Q'''
+|align="center"|4
+|colspan=3 align="center" bgcolor="wheat"|
+|align="center"|32
+|- align=center
+|align=left|[[Conradign Netzer]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Men's]]
+|align="center"|1:13.91
+|align="center"|14 '''Q'''
+|align="center"|3
+|colspan=3 align="center" bgcolor="wheat"|
+|align="center"|20
+|- align=center
+|align=left|'''[[Michael Schmid (skier)|Michael Schmid]]'''
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Men's]]
+|align="center"|1:12.53
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|[[Image:Gold medal icon.svg]]
+|- align=center
+|align=left|[[Richard Spalinger]]
+|align=left|[[Freestyle skiing at the 2010 Winter Olympics – Men's ski cross|Men's]]
+|align="center"|1:15.12
+|align="center"|27 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|4
+|colspan=2 align="center" bgcolor="wheat"|
+|align="center"|14
+|}
+
+==Ice hockey==
+{{Main|Ice hockey at the 2010 Winter Olympics}}
+
+===Men's tournament===
+{{Main|Ice hockey at the 2010 Winter Olympics – Men's tournament}}
+;Roster
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's team rosters|SUI}}
+
+====Group play====
+[[Switzerland men's national ice hockey team|Switzerland]] played in Group A.
+;Round-robin
+<small>All times are local ([[UTC-8]]).</small>
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|A1}}
+----
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|A4}}
+----
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|A5}}
+;Standings
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|A}}
+
+====Final rounds====
+;Qualification playoff
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|D1}}
+;Quarterfinal
+{{#section:Ice hockey at the 2010 Winter Olympics – Men's tournament|E1}}
+
+===Women's tournament===
+{{Main|Ice hockey at the 2010 Winter Olympics – Women's tournament}}
+;Roster
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's team rosters|SUI}}
+
+====Group play====
+[[Switzerland women's national ice hockey team|Switzerland]] played in Group A.
+;Round-robin
+<small>All times are local ([[UTC-8]]).</small>
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|A1}}
+----
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|A3}}
+----
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|A6}}
+;Standings
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|A}}
+
+====Final rounds====
+;Fifth place semifinal
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|C1}}
+;Fifth place game
+{{#section:Ice hockey at the 2010 Winter Olympics – Women's tournament|D2}}
+
+==Luge==
+{{Main|Luge at the 2010 Winter Olympics}}
+
+{|class="wikitable" border="1"
+|-
+!|Athlete
+!|Event
+!|Run 1
+!|Run 2
+!|Run 3
+!|Run 4
+!|Total
+!|Rank
+|- align=center
+|align=left|[[Martina Kocher]]
+|align=left|[[Luge at the 2010 Winter Olympics – Women's singles|Women's singles]]
+|42.005
+|41.697
+|41.976
+|41.897
+|2:47.575
+|7
+|- align=center
+|align=left|[[Stefan Höhener]]
+|align=left|[[Luge at the 2010 Winter Olympics – Men's singles|Men's singles]]
+|48.728
+|53.838
+|49.559
+|48.713
+|3:20.838
+|32
+|}
+
+==Nordic combined==
+{{Main|Nordic combined at the 2010 Winter Olympics}}
+
+{|class="wikitable" border="1"
+|-
+!|Athlete
+!|Event
+!|Jump distance
+!|Jump score
+!|Rank
+!|Cross-country time
+!|Total
+!|Rank
+|- align=center
+|align=left|[[Ronny Heer]]
+|[[Nordic combined at the 2010 Winter Olympics – Individual normal hill/10 km|Individual normal hill/10 km]]
+|97.0
+|116.5
+|21
+|25:09.2
+|
+|11
+|- align=center
+|align=left|[[Tim Hug]]
+|[[Nordic combined at the 2010 Winter Olympics – Individual normal hill/10 km|Individual normal hill/10 km]]
+|93.5
+|108.0
+|36
+|26:04.1
+|
+|35
+|- align=center
+|align=left|[[Seppi Hurschler]]
+|[[Nordic combined at the 2010 Winter Olympics – Individual normal hill/10 km|Individual normal hill/10 km]]
+|94.0
+|109.0
+|34
+|25:40.6
+|
+|29
+|- align=center
+|align=left|[[Tommy Schmid]]
+|[[Nordic combined at the 2010 Winter Olympics – Individual normal hill/10 km|Individual normal hill/10 km]]
+|96.5
+|115.0
+|26
+|27:38.5
+|
+|40
+|}
+
+Switzerland also competed in the [[Nordic combined at the 2010 Winter Olympics – Individual large hill/10 km|individual large hill]] event and the [[Nordic combined at the 2010 Winter Olympics – Team large hill/4 × 5 km|team event]].
+
+==Skeleton==
+{{Main|Skeleton at the 2010 Winter Olympics}}
+
+;[[Skeleton at the 2010 Winter Olympics – Women's|Women]]
+{|class="wikitable" border="1"
+|-
+!|Athlete
+!|Run 1
+!|Run 2
+!|Run 3
+!|Run 4
+!|Total
+!|Rank
+|- align=center
+|align=left|[[Maya Pedersen]]
+|54.53
+|54.83
+|54.24
+|53.91
+|3:37.51
+|'''9'''
+|}
+
+;[[Skeleton at the 2010 Winter Olympics – Men's|Men]]
+{|class="wikitable" border="1"
+|-
+!|Athlete
+!|Run 1
+!|Run 2
+!|Run 3
+!|Run 4
+!|Total
+!|Rank
+|- align=center
+|align=left|[[Pascal Oswald]]
+|53.77
+|53.68
+|53.00
+|53.30
+|3:33.75
+|'''16'''
+|}
+
+==Ski jumping==
+{{Main|Ski jumping at the 2010 Winter Olympics}}
+
+{|class="wikitable"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!colspan="2"|First round
+!colspan="3"|Final
+|-
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Total
+!Rank
+|-
+|rowspan=2|'''[[Simon Ammann]]'''
+|[[Ski jumping at the 2010 Winter Olympics – Normal hill individual|Normal hill]]
+|align="center"|0.0
+|align="center"|'''PQ'''
+|align="center"|135.5
+|align="center"|1 '''Q'''
+|align="center"|141.0
+|align="center"|276.5
+|align="center"|[[Image:Gold medal icon.svg]]
+|-
+|[[Ski jumping at the 2010 Winter Olympics – Large hill individual|Large hill]]
+|align="center"|0.0
+|align="center"|'''PQ'''
+|align="center"|144.7
+|align="center"|1 '''Q'''
+|align="center"|138.9
+|align="center"|283.6
+|align="center"|[[Image:Gold medal icon.svg]]
+|-
+|rowspan=2|[[Andreas Küttel]]
+|[[Ski jumping at the 2010 Winter Olympics – Normal hill individual|Normal hill]]
+|align="center"|120.5
+|align="center"|23 '''Q'''
+|align="center"|110.0
+|align="center"|35
+|colspan=3 align="center"|DNQ
+|-
+|[[Ski jumping at the 2010 Winter Olympics – Large hill individual|Large hill]]
+|align="center"|122.5
+|align="center"|20 '''Q'''
+|align="center"|105.2
+|align="center"|22 '''Q'''
+|align="center"|119.0
+|align="center"|204.9
+|align="center"|24
+|}
+
+Notes: PQ indicates a skier was pre-qualified for the final, based on entry rankings. Q indicates a skier qualified for the next round. DNQ indicates a skier did not qualify for the next round.
+
+==Snowboarding==
+{{Main|Snowboarding at the 2010 Winter Olympics}}
+
+===Halfpipe===
+
+{|class="wikitable"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying run 1
+!colspan="2"|Qualifying run 2
+!colspan="2"|Semifinal
+!colspan="3"|Final
+|-
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Run 1
+!Run 2
+!Rank
+|-
+|[[Sergio Berger]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|align="center"|7.3
+|align="center"|37
+|align="center"|'''26.2'''
+|align="center"|20
+|colspan=5 align="center"|did not advance
+|-
+|[[Christian Haller]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|align="center"|8.8
+|align="center"|35
+|align="center"|'''16.0'''
+|align="center"|31
+|colspan=5 align="center"|did not advance
+|-
+|[[Markus Keller (snowboarder)|Markus Keller]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|align="center"|13.6
+|align="center"|26
+|align="center"|'''20.4'''
+|align="center"|23
+|colspan=5 align="center"|did not advance
+|-
+|[[Iouri Podladtchikov]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's halfpipe|Men's]]
+|align="center"|36.3
+|align="center"|6
+|align="center"|'''41.4'''
+|align="center"|5
+|colspan=2 align="center"|'''PQ'''
+|align="center"|'''42.4'''
+|align="center"|17.6
+|align="center"|4
+|-
+|[[Ursina Haller]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's halfpipe|Women's]]
+|align="center"|28.3
+|align="center"|13
+|align="center"|'''31.9'''
+|align="center"|11
+|align="center"|35.4
+|align="center"|6
+|align="center"|'''27.9'''
+|align="center"|18.1
+|align="center"|9
+|-
+|[[Manuela Pesko]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's halfpipe|Women's]]
+|align="center"|12.2
+|align="center"|25
+|align="center"|'''17.5'''
+|align="center"|22
+|colspan=5 align="center"|did not advance
+|}
+
+===Parallel giant slalom===
+
+{|class="wikitable"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Round of 16
+!colspan="2"|Quarterfinals
+!colspan="2"|Semifinals <br /> ''(consolation round)''
+!colspan="3"|Finals <br /> ''(consolation round)''
+|-
+!Time
+!Rank
+!Opponent
+!Time
+!Opponent
+!Time
+!Opponent
+!Time
+!Opponent
+!Time
+!Rank
+|-
+|[[Nevin Galmarini]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom|Men's]]
+|align="center"|1:18.86
+|align="center"|17
+|colspan=9 align="center"|DNQ
+|-
+|[[Roland Haldi]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom|Men's]]
+|align="center"|1:19.51
+|align="center"|20
+|colspan=9 align="center"|DNQ
+|-
+|[[Marc Iselin]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom|Men's]]
+|align="center"|1:19.16
+|align="center"|19
+|colspan=9 align="center"|DNQ
+|-
+|[[Simon Schoch]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom|Men's]]
+|align="center"|1:16.95
+|align="center"|3 '''Q'''
+|align="center"|{{flagIOCathlete|[[Patrick Bussler|Bussler]]|GER|2010 Winter}}
+|align="center"|-22.06 '''W'''
+|align="center"|{{flagIOCathlete|[[Stanislav Detkov|Detkov]]|RUS|2010 Winter}}
+|align="center"|DSQ '''L'''
+|align="center"|{{flagIOCathlete|[[Rok Flander|Flander]]|SLO|2010 Winter}}
+|align="center"|DNS '''W'''
+|align="center"|{{flagIOCathlete|[[Zan Kosir|Kosir]]|SLO|2010 Winter}}
+|align="center"|-0.92 '''W'''
+|align="center"|5
+|-
+|[[Fränzi Mägert-Kohli]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's parallel giant slalom|Women's]]
+|align="center"|1:50.76
+|align="center"|28
+|colspan=9 align="center"|DNQ
+|}
+
+===Snowboard cross===
+
+{|class="wikitable"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualifying
+!Quarterfinals
+!Semifinals
+!colspan=2|Finals
+|-
+!Time
+!Rank
+!Position
+!Position
+!Position
+!Final rank
+|-
+|[[Fabio Caduff]]
+|[[Snowboarding at the 2010 Winter Olympics – Men's snowboard cross|Men's]]
+|align="center"|1:22.78
+|align="center"|16 '''Q'''
+|align="center"|2 '''Q'''
+|align="center"|3
+|colspan=1 align="center" bgcolor="wheat"|
+|align="center"|13
+|-
+|[[Mellie Francon]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's]]
+|align="center"|1:24.43
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|4
+|align="center"|3
+|align="center"|7
+|-
+|[[Sandra Frei]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's]]
+|align="center"|1:29.46
+|align="center"|4 '''Q'''
+|align="center"|4
+|colspan=2 align="center" bgcolor="wheat"|
+|align="center"|11
+|-
+|[[Simona Meiler]]
+|[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's]]
+|align="center"|1:27.94
+|align="center"|9 '''Q'''
+|align="center"|3
+|colspan=2 align="center" bgcolor="wheat"|
+|align="center"|9
+|-
+|'''[[Olivia Nobs]]'''
+|[[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|Women's]]
+|align="center"|1:26.25
+|align="center"|4 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|1 '''Q'''
+|align="center"|3
+|align="center"|[[Image:Bronze medal icon.svg]]
+|}
+
+==Speed skating==
+{{Main|Speed skating at the 2010 Winter Olympics}}
+
+;Men
+{|class="wikitable"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|-
+!Time
+!Rank
+|- align=center
+|align=left|[[Roger Schneider]]
+|[[Speed skating at the 2010 Winter Olympics – Men's 5000 metres|5000 m]]
+|6:39.29
+|'''24'''
+|}
+
+==See also==
+* [[Switzerland at the 2010 Winter Paralympics]]
+
+==References==
+{{Reflist|30em}}
+
+{{Nations at the 2010 Winter Olympics}}
+{{Country at games navbox|Switzerland|Olympics}}
+
+[[Category:2010 in Swiss sport]]
+[[Category:Nations at the 2010 Winter Olympics]]
+[[Category:Switzerland at the Winter Olympics by year|2010]]

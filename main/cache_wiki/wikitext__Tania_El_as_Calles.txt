@@ -1,0 +1,61 @@
+{{Short description|Mexican sailor (born 1979)}}
+{{Infobox sailor
+| image          =
+| caption        =
+| birth_name     =
+| full_name      = Tania Elías Calles Wolf
+| nickname       =
+| birth_date     = {{birth-date and age|April 17, 1979}}
+| birth_place    = [[Mexico City]], Mexico
+| height         = 168 cm
+| weight         = 66 kg
+| classes        = [[Europe (class)|Europe]], [[ILCA 6]]
+| club           = {{yachtclub|Club Náutico Avándaro}}  
+| collegeteam    =
+| coach          =
+| show-medals    = yes
+| medaltemplates = 
+{{MedalSport | [[Sailing (sport)|Sailing]]}}
+{{MedalCountry | {{MEX}} }}
+{{MedalCompetition | [[Sailing at the Pan American Games|Pan American Games]] }}
+{{MedalGold | [[2003 Pan American Games|2003 Santo Domingo]] | [[Sailing at the 2003 Pan American Games|Laser Radial]] }}
+{{MedalCompetition | [[Women's Laser Radial World Championships|World Championships]] }}
+{{MedalBronze | 2006 Los Angeles | Laser Radial }}
+}}
+
+'''Tania Elías Calles Wolf''' (born April 17, 1979 in [[Mexico City]]) is a Mexican sailor. At 6 years old she started in the sport of [[sailing (sport)|sailing]] and she has competed at four Olympic Games.<ref>{{cite Sports-Reference |title=Tania Elías |url=http://www.sports-reference.com/olympics/athletes/el/tania-elias-1.html |archive-url=https://web.archive.org/web/20161203035843/http://www.sports-reference.com/olympics/athletes/el/tania-elias-1.html |archive-date=December 3, 2016 |quote=Full name: Tania Elías Calles Wolf}}</ref> She is the great-granddaughter of general [[Plutarco Elías Calles]].
+
+== Olympic Games ==
+She participated in the Olympics four times from 2000 to 2012, in Women’s One Person Dinghy  –  both Europe and ILCA 6 (previously named Laser Radial) classes.<ref>{{cite web |title=Tania Elías Calles |url=https://olympics.com/en/athletes/tania-elias-calles |access-date=August 9, 2024 |website=Olympics.com}}</ref>
+
+== Central American and Caribbean Games ==
+
+Her main career highlight was winning gold at the  [[2002 Central American and Caribbean Games]].{{Citation needed|date=August 2024}}
+
+During the [[2003 Pan American Games]] in [[Santo Domingo]], [[Dominican Republic]] she won the gold medal in the Radial category.. In 2005 she won the bronze medal at the [[Europe World Championships|World Championships in Europe]]. In 2006 she won the bronze medal at the [[Women's Laser Radial World Championship]], as well as the gold medal at the [[2006 Central American and Caribbean Games]]. In 2007, she finished second at the World Championship held in [[Portugal]], winning a spot to the [[2008 Summer Olympics]] in [[Beijing]], [[China]]. She won a silver medal at the [[2007 Pan American Games]] in [[Rio de Janeiro]], [[Brazil]], and finished 13th at the Olympic Games in 2008. She established a World Guinness Record to seek sponsorships in March 2010 for the longest distance sailed unattended in a dinghy (300&nbsp;nm).  In 2011, at the [[2011 ISAF Sailing World Championships|World Championships]] in [[Perth]], [[Australia]] she obtained qualification to the [[2012 Summer Olympics]].<ref>[http://noticias.terra.com.ar/internacionales/aumentan-los-clasificados-latinoamericanos-a-londres-2012,8c8adc03d4796310VgnVCM4000009bcceb0aRCRD.html Aumentan los clasificados latinoamericanos a Londres 2012] {{Webarchive|url=https://web.archive.org/web/20140316182233/http://noticias.terra.com.ar/internacionales/aumentan-los-clasificados-latinoamericanos-a-londres-2012,8c8adc03d4796310VgnVCM4000009bcceb0aRCRD.html |date=2014-03-16 }} "El uruguayo Alejandro Foglia terminó 18º en Láser, mientras que en femenino la mexicana Tania Elías Calles Wolf alcanzó un meritorio octavo puesto."</ref>  At the [[2012 Summer Olympics|London Games]] she finished in 10th place in the [[Sailing at the 2012 Summer Olympics – Women's Laser Radial class|women's laser radial]].<ref>{{Cite web |url=http://www.olympic.org/olympic-results/london-2012/sailing/laser-radial-one-person-dinghy-w |title=London 2012 Laser Radial - One Person Dinghy women Results - Olympic sailing |access-date=2013-07-24 |archive-date=2013-09-28 |archive-url=https://web.archive.org/web/20130928102121/http://www.olympic.org/olympic-results/london-2012/sailing/laser-radial-one-person-dinghy-w |url-status=live}}</ref> She is a member of the athlete commission for the World Antidoping Agency since 2012 and the representative for high performance athletes at her National Antidoping Committee. Writer and author of her autobiography called "The Challenge, in pursuit of Olympic Glory" released in the summer of 2013.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{World Sailing|tania-elias-calles|Tania Elias Calles|id=MEXTE}}
+* {{Olympics.com|tania-elias-calles|Tania Elias Calles}}
+* {{Olympedia|92897|Tania Elías}}
+* {{webarchive |url=https://web.archive.org/web/20100315154026/http://www.esmas.com/estadioweb/masdeportes/biografias/752315.html |title=Biografia de Tania Elías Calles}} {{in lang|es}}
+
+{{DEFAULTSORT:Elias Calles, Tania}}
+[[Category:1979 births]]
+[[Category:Living people]]
+[[Category:Olympic sailors for Mexico]]
+[[Category:Mexican female sailors (sport)]]
+[[Category:Sailors at the 2000 Summer Olympics – Europe]]
+[[Category:Sailors at the 2004 Summer Olympics – Europe]]
+[[Category:Sailors at the 2007 Pan American Games]]
+[[Category:Sailors at the 2008 Summer Olympics – Laser Radial]]
+[[Category:Sailors at the 2012 Summer Olympics – Laser Radial]]
+[[Category:Pan American Games silver medalists in sailing]]
+[[Category:Pan American Games silver medalists for Mexico]]
+[[Category:Medalists at the 2007 Pan American Games]]
+[[Category:21st-century Mexican sportswomen]]
+[[Category:20th-century Mexican sportswomen]]
+{{Mexico-yachtracing-bio-stub}}

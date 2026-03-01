@@ -1,0 +1,166 @@
+{{infobox country at games
+| NOC = BAN
+| NOCname = [[Bangladesh Olympic Association]]
+| games = Summer Olympics
+| year = 1996
+| flagcaption =
+| oldcode =
+| website = {{URL|www.nocban.org }}
+| location = [[Atlanta]]
+| competitors = 4 (3 men, 1 woman)
+| sports = 3
+| flagbearer = Saiful Alam
+| rank =
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials =
+| appearances = auto
+| app_begin_year = 1984
+| app_end_year =
+| summerappearances =
+| winterappearances =
+| seealso =
+}}
+
+Bangladesh was represented at the [[1996 Summer Olympics]] in [[Atlanta]], Georgia, United States by the [[Bangladesh Olympic Association]].
+
+In total, four athletes including three men and one woman represented Bangladesh in three different sports including athletics, shooting and swimming.
+
+==Competitors==
+In total, four athletes represented Bangladesh at the [[1996 Summer Olympics]] in [[Atlanta]], Georgia, United States across three different sports.<ref name="bangladesh">{{cite web |title=Bangladesh at the 1996 Summer Olympics |url=https://www.olympedia.org/countries/BAN/editions/24 |publisher=Olympedia |access-date=16 June 2025}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 1996 Summer Olympics|Athletics]]
+| 1 || 1 || 2
+|-
+| align=left|[[Shooting at the 1996 Summer Olympics|Shooting]]
+| 1 || 0 || 1
+|-
+| align=left|[[Swimming at the 1996 Summer Olympics|Swimming]]
+| 1 || 0 || 1
+|-
+! Total !! 3 !! 1 !! 4
+|}
+
+==Athletics==
+{{main|Athletics at the 1996 Summer Olympics}}
+
+In total, two Bangladeshi athletes participated in the athletics events – [[Bimal Tarafdar]] in the [[Athletics at the 1996 Summer Olympics – Men's 100 metres|men's 100&nbsp;m]] and [[Nilufar Yasmin (athlete)|Nilufar Yasmin]] in the [[Athletics at the 1996 Summer Olympics – Women's long jump|women's long Jump]].<ref name="bangladesh"/>
+
+The heats for the men's 100&nbsp;m took place on 26 July 1996. Tarafdar finished seventh in his heat in a time of 10.98 seconds. He failed to advance to the quarter-finals.<ref>{{cite web |title=1996 Summer Olympics, 100 meters, Men |url=https://www.olympedia.org/results/64629 |publisher=Olympedia |access-date=16 June 2025}}</ref>
+
+Qualifying for the women's long jump took place on 1 August 1996. On her first attempt, Yasmin jumped 5.19&nbsp;m. She did not improve on her second attempt (4.65&nbsp;m) but her third attempt was her best at 5.24&nbsp;m. She did not advance to the finals and finished 36th overall.<ref>{{cite web |title=1996 Summer Olympics, Long Jump, Women |url=https://www.olympedia.org/results/65179 |publisher=Olympedia |access-date=16 June 2025}}</ref>
+
+;Track events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left|[[Bimal Tarafdar]]
+|align=left|[[Athletics at the 1996 Summer Olympics – Men's 100 metres|Men's 100&nbsp;m]]
+|10.98
+|7
+|colspan=6|Did not advance
+|}
+
+;Field Events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-align=center
+|align=left|[[Nilufar Yasmin (athlete)|Nilufar Yasmin]]
+|align=left|[[Athletics at the 1996 Summer Olympics – Women's long jump|Women's long Jump]]
+|5.24
+|36
+|align=left colspan=2|Did not advance
+|}
+
+==Shooting==
+{{main|Shooting at the 1996 Summer Olympics}}
+
+In total, one Bangladeshi athlete participated in the shooting events – [[Saiful Alam (shooter)|Saiful Alam]] in the [[Shooting at the 1996 Summer Olympics – Men's 10 metre air rifle|men's 10&nbsp;m air rifle]].<ref name="bangladesh"/>
+
+The men's 10&nbsp;m air rifle took place on 22 July 1996. Alam scored 581 points in the preliminary round. He did not advance to the final round and finished joint 33rd overall.<ref>{{cite web |title=1996 Summer Olympics, Air Rifle, 10 metres, Men |url=https://www.olympedia.org/results/51884 |publisher=Olympedia |access-date=16 June 2025}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|- align=center
+|align=left|[[Saiful Alam (shooter)|Saiful Alam]]
+|align=left|[[Shooting at the 1996 Summer Olympics – Men's 10 metre air rifle|10&nbsp;m air rifle]]
+|581
+|33
+|colspan=2|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 1996 Summer Olympics}}
+
+In total, one Bangladeshi athlete participated in the swimming events – [[Karar Rahman]] in the [[Swimming at the 1996 Summer Olympics – Men's 100 metre breaststroke|men's 100&nbsp;m breaststroke]].<ref name="bangladesh"/>
+
+The heats for the men's 100&nbsp;m breaststroke took place on 20 July 1996. Rahman finished fourth in his heat in a time of one minute 11.47 seconds which was ultimately not fast enough to qualify for the finals.<ref>{{cite web |title=1996 Summer Olympics, 100 metres Breaststroke, Men |url=https://www.olympedia.org/results/8044 |publisher=Olympedia |access-date=16 June 2025}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Events
+!colspan="2"|Heat
+!colspan="2"|Final
+|-
+!Time
+!Position
+!Time
+!Position
+|-
+|[[Karar Rahman]]
+|[[Swimming at the 1996 Summer Olympics – Men's 100 metre breaststroke|100&nbsp;m breaststroke]]
+|align=center|1:11.47
+|align=center|44
+|align=center colspan="2" |Did not advance
+|}
+
+==References==
+{{reflist}}
+
+{{NOCin1996SummerOlympics}}
+{{Country at games navbox|Bangladesh|Summer Olympics}}
+
+[[Category:Nations at the 1996 Summer Olympics]]
+[[Category:Bangladesh at the Summer Olympics by year|1996]]
+[[Category:1996 in Bangladeshi sport|Olympics]]

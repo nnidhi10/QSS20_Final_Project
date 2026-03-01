@@ -1,0 +1,68 @@
+{{Short description|Dutch speed skater (born 2002)}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox speed skater
+| name           = Isabel Grevelt
+| image          = 
+| caption        = 
+| headercolor    = #d7ecff
+| nationality    = {{flagcountry|NED|name=Dutch}}
+| birth_date     = {{birth date and age|2002|4|11|df=y}}
+| birth_place    = [[Alkmaar]], [[Netherlands]]
+| height         = 1.81 m
+| weight         = 
+| country        = {{NED}}
+| event          = 500 m, 1000 m, 1500 m
+| club           = 
+| turnedpro      = 2019
+| retired        = 
+| pb             = 
+| website        = 
+| titles         = 
+| olympics       = 
+| worlds         = 
+| highestranking = 
+| worldcup       = 
+| worldchamp     =
+| medaltemplates =
+{{MedalSport|Women's [[speed skating]]}}
+{{Medal|Country|the {{NED}}}}
+{{MedalCompetition|[[European Speed Skating Championships|European Championships]]}}
+{{MedalBronze|[[2026 European Speed Skating Championships|2026 Tomaszów Mazowiecki]]|[[2026 European Speed Skating Championships – Women's 500 metres|500 m]]}}
+{{MedalBronze|2026 Tomaszów Mazowiecki|[[2026 European Speed Skating Championships – Women's 1000 metres|1000 m]]}}
+{{Medal|Competition|[[Youth Olympic Games]]}}
+{{Medal|Gold|[[2020 Winter Youth Olympics|2020 Lausanne]]|[[Speed skating at the 2020 Winter Youth Olympics – Girls' 500 metres|500 m]]}}
+}}
+
+'''Isabel Grevelt''' (born 11 April 2002) is a Dutch allround [[Speed skating|speed skater]].
+
+==Career==
+Grevelt won the 500 m gold medal at the [[Speed skating at the 2020 Winter Youth Olympics|2020 Winter Youth Olympics]] which took place at [[Lake St. Moritz]] in [[St. Moritz]], Switzerland .
+
+On 30 October 2022 she qualified for the [[ISU Speed Skating World Cup]] series after finishing fifth at the 1000 m during the national qualification tournament. She made her World Cup debut in the 1000 m B-division at the [[Sørmarka Arena]] in Stavanger, Norway and won the race, resulting in a promotion to the A-division.<ref>{{cite web |title=ISU World Cup #1 – 1000m Women Division B |url=https://live.isuresults.eu/events/2023_NOR_0001/competition/17/results |publisher=International Skating Union (ISU)}}</ref> At the second World Cup event, held at the [[Thialf]] in Heerenveen, she finished in third place, behind [[Jutta Leerdam]] and [[Miho Takagi (speed skater)|Miho Takagi]], in a personal record of 1:14.54.<ref>{{cite web |title=ISU World Cup #2 – 1000m Women Division A |url=https://live.isuresults.eu/events/2023_NED_0001/competition/7/results |publisher=International Skating Union (ISU)}}</ref><ref>{{cite web |author1=Lisanne van der Eijk |title=Isabel Grevelt verrassend derde: ‘Niet te verwoorden’ |url=https://www.schaatsen.nl/nieuws/2022/november/isabel-grevelt-verrassend-derde-niet-te-verwoorden/ |website=Schaatsen.nl |date=18 November 2022 |language=Dutch}}</ref><ref>{{cite web |title=Netherlands dominate action in Heerenveen: Jutta Leerdam, Irene Schouten and Bart Hoolwerf all win gold |url=https://www.eurosport.com/speed-skating/heerenveen/2022-2023/netherlands-dominate-action-in-heerenveen-jutta-leerdam-irene-schouten-and-bart-hoolwerf-all-win-gol_sto9233967/story.shtml |publisher=Eurosport |date=19 November 2022}}</ref>
+
+==Personal records==
+{{PersonalRecordsTop|ref=<ref>{{cite web|title=Isabel Grevelt |url=https://speedskatingresults.com/index.php?p=17&s=49728 |website=SpeedskatingResults.com |accessdate=23 November 2022}}</ref><ref name=adelskalender>{{cite web|title=Adelskalendern |url=http://evertstenlund.se/adeld.htm|publisher=evertstenlund.se|accessdate=23 November 2022}}</ref>}}
+{{PersonalRecordsSport|[[Speed skating]]}}
+{{PersonalRecordsMiddle|500 m|'''37.56'''|28 December 2025|[[Thialf|Heerenveen]]||}}
+{{PersonalRecordsMiddle|1000 m|'''1:13.14'''|22 November 2025|[[Olympic Oval|Calgary]]|}}
+{{PersonalRecordsMiddle|1500 m|'''1:54.97'''|29 December 2025|Heerenveen|}}
+{{PersonalRecordsMiddle|3000 m|'''4:28.31'''|2 March 2019|Heerenveen||}}
+{{PersonalRecordsBottom}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{ISU speed skater|new_id=isabel-grevelt}}
+* {{Sports links|properties=-P9822}}
+* {{TeamNL|isabel-grevelt|old_id=6716-isabel-grevelt}}
+* {{Instagram}}
+
+{{Footer Youth Olympic Champions 500m Speed Skating Girls}}
+
+{{DEFAULTSORT:Grevelt, Isabel}}
+[[Category:2002 births]]
+[[Category:Living people]]
+[[Category:Dutch female speed skaters]]
+[[Category:Speed skaters at the 2020 Winter Youth Olympics]]
+[[Category:21st-century Dutch sportswomen]]

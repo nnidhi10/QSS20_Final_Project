@@ -1,0 +1,200 @@
+{{Short description|None}}
+{{For|the short track speed skating world records|Short track speed skating}}
+
+This '''list of speed skating records''' is an overview of the records currently held in various [[speed skating]] events, as ratified by the [[International Skating Union]].
+[[File:Speed skating world record history.png|thumb|World record progression]]
+
+==World records==
+===Men===
+{| class="wikitable sortable" style="font-size:95%"
+!style="width: 11%;"|Event
+!style="width: 14%;"|Name
+!style="width: 11%;"|Country
+!style="width: 8%;"|Time
+!style="width: 13%;"|Date
+!style="width: 12%;"|Place
+!style="width: 8%;"|Average speed
+!style="width: 21%;"|Meeting
+!style="width: 2%;"|Ref
+|-
+| 500 meters<br><small>''[[World record progression 500 m speed skating men|Progression]]''</small> || [[Pavel Kulizhnikov]] || {{flagu|Russia}} || align=right|'''33.61''' || align=right|9 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|53.56|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Salt Lake City – Result 500m Men – Division A|url=https://media.isuresults.eu/downloads/men_500_a_result_20190309211204.pdf|work=[[International Skating Union|ISU]]|date=9 March 2019|access-date=10 March 2019}}</ref>
+<!--There must be a reason why this is not listed as a record; if known, add this as an asterisk with Wotherspoon's record.
+|-
+| 500 meters × 2 || [[Tatsuya Shinhama]] || {{flagu|Japan}} || align=right|'''1:07.63''' || align=right|9-10 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|53.23|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Salt Lake City – Result 500m Men – Division A|url=https://media.isuresults.eu/downloads/men_500_b_result_20190310211204.pdf|work=[[International Skating Union|ISU]]|date=9 March 2019|access-date=10 March 2019}}</ref><ref>{{cite web |url=https://live.isuresults.eu/events/2019_USA_0001/competition/10/results |title=ISU World Cup Salt Lake City – March 1-2, 2019 – Result 2nd 500m Men |publisher=[[International Skating Union]] |date=10 March 2019 |access-date=10 March 2019 }}</ref></ref>-->
+|-
+| 500 meters × 2 <br><small>''[[World record progression 2x500 m speed skating men|Progression]]''</small> || [[Jenning de Boo]] || {{flagu|Netherlands}} || align=right|'''68.22''' || align=right|14 February 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || align=center| || 2025 Dutch Single Distances Championships || <ref name=":0" />
+|-
+| 1000 meters<br><small>''[[World record progression 1000 m speed skating men|Progression]]''</small> || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''1:05.37''' || align=right|26 January 2024 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|55.38|km/h|abbr=on}} || [[2023–24 ISU Speed Skating World Cup|2023–24 World Cup]] || <ref>{{cite web|url=https://live.isuresults.eu/events/2024_USA_0002/competition/6/results|title=ISU World Cup Salt Lake City – January 26-28, 2024 – Result 1st 1000m Men|publisher=[[International Skating Union]]|date=26 January 2024|accessdate=26 January 2024}}</ref>
+|-
+| 1500 meters<br><small>''[[World record progression 1500 m speed skating men|Progression]]''</small> || [[Kjeld Nuis]] || {{flagu|Netherlands}} || align=right|'''1:40.17''' || align=right|10 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|53.91|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Salt Lake City – Result 1500m Men – Division A|url=https://media.isuresults.eu/downloads/men_1500_a_result_20190310202113.pdf|publisher=[[International Skating Union|ISU]]|date=10 March 2019|access-date=10 March 2019}}</ref>
+|-
+| 3000 meters<br><small>''[[World record progression 3000 m speed skating men|Progression]]''</small> || [[Metoděj Jílek]] || {{flagu|Czechia}} || align=right|'''3:32.52''' || align=right|26 October 2025 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|50.82|km/h|abbr=on}} || 2025 Fall World Cup Qualifier || <ref>{{cite web|title=Fall World Cup Qualifier – Result – Men – 3000 meter|url=https://www.speedskatingnews.info/event/fall-world-cup-qualifier-2/result/868814|work=speedskatingnews.info|access-date=8 November 2025}}</ref>
+|-
+| 5000 meters<br><small>''[[World record progression 5000 m speed skating men|Progression]]''</small> || [[Sander Eitrem]] || {{flagu|Norway}} || align=right|'''5:58.52''' || align=right|24 January 2026 || {{flagicon|GER}} [[Max Aicher Arena|Inzell]] || align=center|{{convert|50.20|km/h|abbr=on}} || [[2025–26 ISU Speed Skating World Cup – World Cup 5|2025–26 World Cup 5]] || <ref name=":4">{{cite web|title=ISU Speed Skating World Cup #5 – Result 5000m Men|url=https://media.isuresults.eu/downloads/16_result_men_5000_a-ondertekend_20260124172609.pdf|publisher=[[International Skating Union|ISU]]|date=24 January 2026|access-date=25 January 2026}}</ref>
+|-
+| 10000 meters<br><small>''[[World record progression 10,000 m speed skating men|Progression]]''</small> || [[Davide Ghiotto]] || {{flagu|Italy}} || align=right|'''12:25.69''' || align=right|25 January 2025 || {{flagicon|CAN}} [[Olympic Oval|Calgary]] || align=center|{{convert|48.28|km/h|abbr=on}} || [[2024–25 ISU Speed Skating World Cup – World Cup 3|2024–25 ISU World Cup 3]]|| <ref>{{cite web|title=ISU World Cup Speed Skating #3 – Result 10000m Men|url=https://media.isuresults.eu/downloads/9_result_men_10000_a-ondertekend_20250126013545.pdf|work=[[International Skating Union|ISU]]|date=25 January 2025|access-date=26 January 2025}}</ref>
+|-
+| Team sprint<br>(3 laps) <br><small>''[[World record progression team sprint speed skating men|Progression]]''</small> || [[Austin Kleba]]<br>[[Cooper McLeod]]<br>[[Zach Stoppelmoor]] || {{flagu|United States}} || align=right|'''1:16.98''' || align=right|26 January 2025 || {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || [[2024–25 ISU Speed Skating World Cup – World Cup 3|2024–25 ISU  World Cup 3]] || <ref>{{cite web|title=ISU World Cup Speed Skating #3 – Team Sprint Men|url=https://media.isuresults.eu/downloads/22_result_menteamsprint_a-ondertekend_20250126225105.pdf|work=[[International Skating Union|ISU]]|date=26 January 2025|access-date=27 January 2025}}</ref>
+|-
+| Team pursuit<br>(8 laps) *<br><small>''[[World record progression team pursuit speed skating men|Progression]]''</small> || [[Casey Dawson]]<br>[[Emery Lehman]]<br>[[Ethan Cepuran]] || {{flagu|United States}} || align=right|'''3:32.49''' || align=right|16 November 2025 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || || [[2025–26 ISU Speed Skating World Cup|2025–26 World Cup]] || <ref>{{Cite web |title=ISU Speed Skating Results - Live |url=https://live.isuresults.eu/events/2026_USA_0001/competition/24/results |access-date=2025-11-16 |website=live.isuresults.eu}}</ref>
+|-
+| Sprint combination || [[Kai Verbij]] || {{flagu|Netherlands}} || align=right|'''136.065 pts''' || align=right|25–26 February 2017 || {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || [[2017 World Sprint Speed Skating Championships – Men|2017 World Sprint Championships]] || <ref>{{cite web|title=ISU World Sprint Speed Skating Championships 2017 – Classification Men|url=http://live.isuresults.eu/2016-2017/calgary/standings1.htm|work=[[International Skating Union|ISU]]|date=26 February 2017|access-date=5 March 2017|archive-url=https://web.archive.org/web/20171206065028/http://live.isuresults.eu/2016-2017/calgary/standings1.htm|archive-date=6 December 2017|url-status=dead}}</ref>
+|-
+| Small combination || [[Erben Wennemars]] || {{flagu|Netherlands}} || align=right|'''146.365 pts''' || align=right|12–13 August 2005|| {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || Summer Classic 2005 || <ref>{{cite web|title=Distance Result: Summer Classic – Men – Small allround|url=https://www.speedskatingnews.info/en/results/?eventresultID=14788|work=speedskatingnews.info|date=14 August 2005|access-date=25 September 2017}}</ref>
+|-
+| Big combination<br><small>''[[World record progression big combination speed skating men|Progression]]''</small> || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''144.740 pts''' || align=right|9–10 March 2024 || {{flagicon|GER}} [[Eisstadion Inzell|Inzell]] || || [[2024 World Allround Speed Skating Championships – Men|2024 World Allround Championships]] || <ref name=":2">{{cite web|url=https://live.isuresults.eu/events/2024_GER_0001/standings/allround-men |title=ISU World Allround Championships 2024 – Classification Detailed Men|publisher=[[International Skating Union|ISU]]|date=10 March 2024|access-date=10 March 2024}}</ref>
+|-
+| One hour **|| {{illm|Erik Jan Kooiman|nl}} || {{flagu|Netherlands}} || align=right|'''43,735.94 m ''' || align=right|9 December 2015 || {{flagicon|GER}} [[Eisstadion Inzell|Inzell]] || align=center|{{convert|43.73|km/h|abbr=on}} || || <ref>{{cite web|title=Evolution of the world hour record Men|url=http://www.speedskatingstats.com/index.php?file=records&g=m&event=hour|work=speedskatingstats.com|date=9 December 2015|access-date=25 September 2017}}</ref>
+|}
+
+* * The average speed for the team pursuit race was calculated using a distance of 3098,88 meters for the men's race.<ref name="ReferenceA">[[:nl:Ploegenachtervolging (schaatsen)]]</ref> The skaters only utilize the inner lane and the lap distance is accordingly less than the 400 meters of a regular lap skated with one inner curve and one outer curve. For comparison, the fastest known 400m lap was skated by [[Jenning de Boo]] on 25 January 2025 in Calgary during a 1000-meter, with a lap time of 23.92 seconds and an average speed of {{convert|60.20|km/h|abbr=on}}.<ref name=Fastest400mLap>[http://evertstenlund.se/fly.htm Best known Flying Laps as of 18-02-14]</ref><!--This page reference is on the unofficial website of a guy called Evert Stenlund so I've a feeling it won't be allowed!-->
+* ** unofficial world best (not recognized as a world record by ISU)
+
+===Women===
+{| class="wikitable sortable" style="font-size:95%"
+!style="width: 11%;"|Event
+!style="width: 13%;"|Name
+!style="width: 13%;"|Country
+!style="width: 8%;"|Time
+!style="width: 12%;"|Date
+!style="width: 12%;"|Place
+!style="width: 8%;"|Average speed
+!style="width: 21%;"|Meeting
+!style="width: 2%;"|Ref
+|-
+|500 meters<br><small>''[[World record progression 500 m speed skating women|Progression]]''</small> || [[Femke Kok]] || {{flagcountry|NED}} || align=right|'''36.09''' || align=right|16 November 2025|| {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] ||align=center|{{convert|49.88|km/h|abbr=on}} || [[2025–26 ISU Speed Skating World Cup|2025–26 World Cup]] || <ref>{{Cite web |title=ISU Speed Skating Results - Live |url=https://live.isuresults.eu/events/2026_USA_0001/competition/25/results |access-date=2025-11-16 |website=live.isuresults.eu}}</ref>
+|-
+|500 meters × 2 || [[Femke Kok]] || {{flagu|Netherlands}} || align=right|'''73.97''' || align=right|15 February 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || align=center| || 2025 Dutch Single Distances Championships || <ref name=":3" />
+|-
+|1000 meters<br><small>''[[World record progression 1000 m speed skating women|Progression]]''</small> || [[Brittany Bowe]] || {{flagcountry|USA}} || align=right|'''1:11.61''' || align=right|9 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|50.27|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Speed Skating Finals 2018-2019 – Result Ladies 1000m – Division A|url=https://media.isuresults.eu/downloads/ladies_1000_a_result_20190309223923.pdf|publisher=[[International Skating Union|ISU]]|date=9 March  2019|access-date=10 March 2019}}</ref>
+|-
+|1500 meters<br><small>''[[World record progression 1500 m speed skating women|Progression]]''</small> || [[Miho Takagi (speed skater)|Miho Takagi]] || {{flagu|Japan}} || align=right|'''1:49.83''' || align=right|10 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|49.17|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Speed Skating Finals 2018-2019 – Result Ladies 1500m – Division A|url=https://media.isuresults.eu/downloads/ladies_1500_a_result_20190310202004.pdf|publisher=[[International Skating Union|ISU]]|date=10 March  2019|access-date=10 March 2019}}</ref>
+|-
+|3000 meters<br><small>''[[World record progression 3000 m speed skating women|Progression]]''</small> || [[Martina Sáblíková]] || {{flagcountry|CZE}} || align=right|'''3:52.02''' || align=right|9 March 2019 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|46.55|km/h|abbr=on}} || [[2018–19 ISU Speed Skating World Cup – World Cup 6|2018–19 World Cup Final]] || <ref>{{cite web|title=ISU World Cup Speed Skating Finals 2018-2019 – Result Ladies 3000m – Division A|url=https://media.isuresults.eu/downloads/ladies_3000_a_result_20190309214436.pdf|publisher=[[International Skating Union|ISU]]|date=9 March  2019|access-date=10 March 2019}}</ref>
+|-
+|5000 meters<br><small>''[[World record progression 5000 m speed skating women|Progression]]''</small> || [[Natalya Voronina]] || {{flagcountry|RUS}} || align=right|'''6:39.02''' || align=right|15 February 2020 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|45.11|km/h|abbr=on|}} || [[2020 World Single Distances Speed Skating Championships – Women's 5000 metres|2020 World Single Distances Championships]] || <ref>{{cite web|title=ISU World Single Distances Championships 2020. 9. Result Ladies 5000m|url=https://media.isuresults.eu/downloads/9_ladies_5000_a_result_signed_20200215224135.pdf|publisher=[[International Skating Union|ISU]]|date=15 February 2020|access-date=15 February 2020}}</ref>
+|-
+|10,000 meters ***<br><small>''[[World record progression 10,000 m speed skating women|Progression]]''</small> || [[Martina Sáblíková]] || {{flagcountry|CZE}} || align=right|'''13:48.33''' || align=right|15 March 2007|| {{flagicon|CAN}} [[Olympic Oval|Calgary]] || align=center|{{convert|43.46|km/h|abbr=on}} || Olympic Oval Finale 2007 || <ref>{{cite web|title=Distance Result: Olympic Oval Finale 2007 – Ladies – 10.000 meter|url=https://www.speedskatingnews.info/en/results/?eventresultID=25727|work=speedskatingnews.info|date=17 March 2007|access-date=25 September 2017}}</ref>
+|-
+|Team sprint<br>(3 laps)<br><small>''[[World record progression team sprint speed skating women|Progression]]''</small> || [[Femke Kok]]<br>[[Jutta Leerdam]]<br>[[Letitia de Jong]] || {{flagu|Netherlands}}  || align=right|'''1:24.02''' || align=right|13 February 2020 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center| || [[2020 World Single Distances Speed Skating Championships – Women's team sprint|2020 World Single Distances Championships]] || <ref>{{cite web|title=ISU World Single Distances Championships 2020 – Result Ladies Team Sprint|url=https://media.isuresults.eu/downloads/3_ladies_team-sprint_a_result_signed_20200213231105.pdf|work=[[International Skating Union|ISU]]|date=13 February 2020|access-date=14 February 2020}}</ref>
+|-
+|Team pursuit<br>(6 laps) **<br><small>''[[World record progression team pursuit speed skating women|Progression]]''</small> || [[Nana Takagi]]<br>[[Ayano Sato (speed skater)|Ayano Sato]]<br>[[Miho Takagi (speed skater)|Miho Takagi]] || {{flagu|Japan}} || align=right|'''2:50.76''' || align=right|14 February 2020 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || align=center|{{convert|49.00|km/h|abbr=on|}} || [[2020 World Single Distances Speed Skating Championships – Women's team pursuit|2020 World Single Distances Championships]] || <ref>{{cite web|title=ISU World Single Distances Championships 2020 – Result Ladies Team Pursuit|url=https://media.isuresults.eu/downloads/6_ladies_team-pursuit_a_result_signed_20200214232816.pdf|publisher=[[International Skating Union|ISU]]|date=14 February 2020|access-date=15 February 2020}}</ref>
+|-
+|Sprint combination || [[Nao Kodaira]] || {{flagu|Japan}} || align=right|'''146.390 pts''' || align=right|25–26 February 2017|| {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || [[2017 World Sprint Speed Skating Championships – Women|2017 World Sprint Championships]] || <ref>{{cite web|title=ISU World Sprint Speed Skating Championships 2017 – Classification Ladies|url=http://live.isuresults.eu/2016-2017/calgary/standings2.htm|work=[[International Skating Union|ISU]]|date=26 February 2017|access-date=25 September 2017|archive-url=https://web.archive.org/web/20170225210306/http://live.isuresults.eu/2016-2017/calgary/standings2.htm|archive-date=25 February 2017|url-status=dead}}</ref>
+|-
+|Mini combination || [[Joy Beune]] || {{flagcountry|Netherlands}} || align=right|'''153.776 pts''' || align=right|9–10 March 2018 || {{flagicon|USA}} [[Utah Olympic Oval|Salt Lake City]] || || [[2018 World Junior Speed Skating Championships|2018 World Junior Championships]] || <ref>{{cite web|title=World Junior Championships 2018 – Allround Ladies|url=http://speedskatingresults.com/index.php?p=23&e=19592&sm=1&s=0|website=speedskatingresults.com|date=10 March 2018|access-date=11 March 2018}}</ref>
+|-
+|Small combination || [[Cindy Klassen]] || {{flagu|Canada}} || align=right|'''154.580 pts''' || align=right|18–19 March 2006 || {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || [[2006 World Allround Speed Skating Championships|2006 World Allround Championships]] || <ref>{{cite web|title=World Allround Championships 2006 – Classification Ladies|url=http://www.isuresults.eu/2005-2006/calgary/classification2.html|work=[[International Skating Union|ISU]]|date=19 March 2006|access-date=25 September 2017}}</ref>
+|-
+|One hour *** || [[Carien Kleibeuker]] || {{flagcountry|NED}} || align=right|'''40,569.56 m''' || align=right|9 December 2015 || {{flagicon|GER}} [[Eisstadion Inzell|Inzell]] || align=center|{{convert|40.57|km/h|abbr=on}} || || <ref>{{cite web|title=Evolution of the world hour record Women|url=http://www.speedskatingstats.com/index.php?file=records&g=w&event=hour|publisher=speedskatingstats.com|date=9 December 2005|access-date=25 September 2017}}</ref>
+|}
+
+* ** The average speed for the team pursuit race was calculated using a distance of 2324,16 meters for the women's race.<ref name="ReferenceA"/> The skaters only utilize the inner lane and the lap distance is accordingly less than the 400 meters of a regular lap skated with one inner curve and one outer curve. For comparison, the fastest known 400m lap was skated by [[Femke Kok|Femke Kok]] during a 500m race in [[Salt Lake City]] on 16 November 2025, with a lap time of 25.90 seconds and an average speed of {{convert|55.60|km/h|abbr=on}}.<ref name=Fastest400mLap/>
+* *** unofficial world best (not recognized as a world record by ISU)
+
+===Mixed===
+{| class="wikitable sortable" style="font-size:95%"
+!style="width: 11%;"|Event
+!style="width: 14%;"|Name
+!style="width: 11%;"|Country
+!style="width: 8%;"|Time
+!style="width: 13%;"|Date
+!style="width: 12%;"|Place
+!style="width: 8%;"|Average speed
+!style="width: 21%;"|Meeting
+!style="width: 2%;"|Ref
+|-
+| Mixed Gender Relay || [[Wesley Dijs]]<br>[[Chloé Hoogendoorn]] || {{flagu|Netherlands}} || align=right|'''2:54.05''' || align=right|23 November 2025 || {{flagicon|CAN}} [[Olympic Oval|Calgary]] || || [[2025–26 ISU Speed Skating World Cup – World Cup 2|2025–26 World Cup]] || <ref>{{Cite web |title=ISU Speed Skating Results - Live |url=https://live.isuresults.eu/events/2026_CAN_0001/competition/29/results |access-date=2025-11-24 |website=live.isuresults.eu}}</ref>
+|}
+
+==Sea-level world bests==
+Salt Lake City and Calgary, where most of the current world records were set (see above), are at comparatively high altitudes (greater than 1&nbsp;km above sea level). Performance is better at these high altitudes because the lower oxygen levels are compensated by the reduced air resistance.<ref>{{cite web|url=http://www.insidescience.org/content/why-speed-skaters-perform-better-higher-elevation/1560|title=Why Speed Skaters Perform Better At Higher Elevation|publisher=American Institute of Physics|work=Inside Science|date=10 February 2014|first=Chris|last=Gorski}}</ref> Skating statisticians therefore record separate lists of "sea-level world bests" for speed skating records that are set at (or close to) sea level, from which results in Salt Lake City and Calgary are excluded.
+
+===Men===
+{| class="wikitable" style="font-size:95%"
+!style="width: 11%;"|Event
+!style="width: 15%;"|Name
+!style="width: 13%;"|Country
+!style="width: 8%;" |Time
+!style="width: 14%;"|Date
+!style="width: 12%;"|Place
+!style="width: 27%;"|Meeting
+!style="width: 2%;" |Ref
+|-
+| 500 meters || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''33.77''' || align=right|14 February 2026 || {{flagicon|ITA}} [[Fiera Milano|Milan]] || [[Speed skating at the 2026 Winter Olympics – Men's 500 metres|2026 Winter Olympics]] || <ref>{{cite web|title=Speed Skating – Men's 500m – Results|url=https://media.isuresults.eu/downloads/results-2_20260214165807.pdf|website=media.isuresults.eu|date=14 February 2026|access-date=20 February 2026}}</ref>
+|-
+| 500 meters × 2 || [[Jenning de Boo]] || {{flagu|Netherlands}} || align=right|'''68.22''' || align=right|14 February 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || 2025 Dutch Single Distances Championships || <ref name=":0">{{cite web|title=Men, Samalog – 2x500 meter|url=https://www.speedskatingnews.info/event/netherlands-single-distances-championships-3/result/852922|website=speedskatingnews.info|access-date=19 September 2025}}</ref>
+|-
+| 1000 meters || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''1:06.16''' || align=right|31 January 2025 || {{flagicon|USA}} [[Pettit National Ice Center|Milwaukee]] || [[2024–25 ISU Speed Skating World Cup – World Cup 4|2024–25 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #4 – Result 1000m Men|url=https://media.isuresults.eu/downloads/8_result_men_1000_a-signed_20250201023350.pdf|publisher=[[International Skating Union|ISU]]|date=31 January 2025|access-date=3 February 2025}}</ref>
+|-
+| 1500 meters || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''1:41.46''' || align=right|1 February 2025 || {{flagicon|USA}} [[Pettit National Ice Center|Milwaukee]] || [[2024–25 ISU Speed Skating World Cup – World Cup 4|2024–25 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #4 – Result 1500m Men|url=https://media.isuresults.eu/downloads/16_result_men_1500_a-signed_20250201215323.pdf|publisher=[[International Skating Union|ISU]]|date=1 February 2025|access-date=3 February 2025}}</ref>
+|-
+| 3000 meters || [[Metoděj Jílek]] || {{flagu|Czech Republic}} || align=right|'''3:34.09''' || align=right|16 September 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || Rick Schipper Test Match || <ref>{{cite web|title=Rick Schipper Testwedstrijd – 3000m Men|url=https://speedskatingresults.com/index.php?p=3&e=30469&r=20002&s=94314|website=speedskatingresults.com|access-date=19 September 2025}}</ref>
+|-
+| 5000 meters || [[Sander Eitrem]] || {{flagu|Norway}} || align=right|'''5:58.52''' || align=right|24 January 2026 || {{flagicon|GER}} [[Max Aicher Arena|Inzell]] || [[2025–26 ISU Speed Skating World Cup – World Cup 5|2025–26 World Cup]] || <ref name=":4" />
+|-
+| 10000 meters || [[Davide Ghiotto]] || {{flagu|Italy}} || align=right|'''12:26.30''' || align=right|26 October 2024 || {{flagicon|GER}} [[Max Aicher Arena|Inzell]] || Invitation Race || <ref>{{cite web|title=International Invitation Race – 10000m Men|url=https://speedskatingresults.com/index.php?p=3&e=28898&r=20007&s=41852|website=speedskatingresults.com|access-date=28 October 2024}}</ref>
+|-
+| Team sprint<br>(3 laps) || [[Stefan Westenbroek]]<br>[[Jenning de Boo]]<br>[[Tim Prins]] || {{flagu|Netherlands}} || align=right|'''1:17.22''' || align=right|7 December 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2025–26 ISU Speed Skating World Cup – World Cup 3|2025–26 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #3 – Result Team Sprint Men|url=https://media.isuresults.eu/downloads/22_result_menteamsprint_a-ondertekend_20251207162951.pdf|publisher=[[International Skating Union|ISU]]|date=7 December 2025|access-date=12 December 2025}}</ref>
+|-
+| Team pursuit<br>(8 laps) || [[Sander Eitrem]]<br>[[Peder Kongshaug]]<br>[[Sverre Lunde Pedersen]] || {{flagu|Norway}} || align=right|'''3:34.22''' || align=right|5 January 2024 || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2024 European Speed Skating Championships – Men's team pursuit|2024 European Championships]] || <ref name=":1">{{cite web|title=ISU European Speed Skating Championships – Team Pursuit Men – Results|url=https://media.isuresults.eu/downloads/2_result_menteampursuit-signiert-1_20240105194854.pdf|work=[[International Skating Union|ISU]]|date=5 January 2024|access-date=5 January 2024}}</ref>
+|-
+| Sprint combination || [[Jenning de Boo]] || {{flagu|Netherlands}} || align=right|'''136.120 pts''' || align=right|28–29 December 2024 || {{flagicon|NED}} [[Thialf|Heerenveen]] || 2025 Dutch Sprint Championships || <ref>{{cite web|title=Men , Samalog – Sprint Combination 500m/1000m/500m/1000m|url=https://www.speedskatingnews.info/event/netherlands-sprint-championships-2/result/846633|website=speedskatingnews.info|access-date=19 September 2025}}</ref>
+|-
+| Small combination || [[Koen Verweij]] || {{flagu|Netherlands}} || align=right|'''148.517 pts''' || align=right|12–13 March 2010 || {{flagicon|RUS}} [[Ice Palace Krylatskoye|Moscow]] || [[World Junior Speed Skating Championships|2010 World Junior Championships]] || <ref>{{cite web|title=World Junior Championships 2010 – Allround Men|url=http://speedskatingresults.com/index.php?p=23&e=4643&sm=3&s=2746|website=speedskatingresults.com|date=14 March 2010|access-date=4 March 2018}}</ref>
+|-
+| Big combination || [[Jordan Stolz]] || {{flagu|United States}} || align=right|'''144.740 pts''' || align=right|9–10 March 2024 || {{flagicon|GER}} [[Eisstadion Inzell|Inzell]] || [[2024 World Allround Speed Skating Championships – Men|2024 World Allround Championships]] || <ref name=":2" />
+|}
+
+===Women===
+{| class="wikitable" style="font-size:95%"
+!style="width: 11%;"|Event
+!style="width: 15%;"|Name
+!style="width: 13%;"|Country
+!style="width: 8%;" |Time
+!style="width: 14%;"|Date
+!style="width: 12%;"|Place
+!style="width: 27%;"|Meeting
+!style="width: 2%;" |Ref
+|-
+| 500 meters || [[Femke Kok]] || {{flagcountry|NED}} || align=right|'''36.49''' || align=right|15 February 2026 || {{flagicon|ITA}} [[Fiera Milano|Milan]] || [[Speed skating at the 2026 Winter Olympics – Women's 500 metres|2026 Winter Olympics]] || <ref>{{cite web|title=Speed Skating – Women's 500m – Results|url=https://media.isuresults.eu/downloads/sskw500m-fnl-000100-__c73a_10_20260215165208.pdf|website=media.isuresults.eu|date=15 February 2026|access-date=20 February 2026}}</ref>
+|-
+| 500 meters × 2 || [[Femke Kok]] || {{flagu|Netherlands}} || align=right|'''73.97''' || align=right|15 February 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || 2025 Dutch Single Distances Championships || <ref name=":3">{{cite web|title=Women, Samalog – 2x500 meter|url=https://www.speedskatingnews.info/event/netherlands-single-distances-championships-3/result/853044|website=speedskatingnews.info|access-date=19 September 2025}}</ref>
+|-
+| 1000 meters || [[Jutta Leerdam]] || {{flagcountry|NED}} || align=right|'''1:12.31''' || align=right|9 February 2026 || {{flagicon|ITA}} [[Fiera Milano|Milan]] || [[Speed skating at the 2026 Winter Olympics – Women's 1000 metres|2026 Winter Olympics]] || <ref>{{cite web|title=Speed Skating – Women's 1000m – Results|url=https://media.isuresults.eu/downloads/results_20260209175355.pdf|website=media.isuresults.eu|date=9 February 2026|access-date=20 February 2026}}</ref>
+|-
+| 1500 meters || [[Joy Beune]] || {{flagu|Netherlands}} || align=right|'''1:52.11''' || align=right|1 February 2025 || {{flagicon|USA}} [[Pettit National Ice Center|Milwaukee]] || [[2024–25 ISU Speed Skating World Cup – World Cup 4|2024–25 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #4 – Result 1500m Women|url=https://media.isuresults.eu/downloads/15_result_women_1500_a-signed_20250201211814.pdf|publisher=[[International Skating Union|ISU]]|date=1 February 2025|access-date=3 February 2025}}</ref>
+|-
+| 3000 meters || [[Irene Schouten]] || {{flagcountry|NED}} || align=right|'''3:54.04''' || align=right|20 November 2022  || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2022–23 ISU Speed Skating World Cup – World Cup 2|2022–23 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #2 – Result 3000m Women Division A|url=https://media.isuresults.eu/downloads/23_result_women_3000_a-signerad_20221120150922.pdf|publisher=[[International Skating Union|ISU]]|date=20 November 2022|access-date=9 January 2023}}</ref>
+|-
+| 5000 meters || [[Irene Schouten]] || {{flagcountry|NED}} || align=right|'''6:41.25''' || align=right|5 March 2023 || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2023 World Single Distances Speed Skating Championships – Women's 5000 metres|2023 World Single Distances Championships]] || <ref>{{cite web|title=ISU World Speed Skating Championships 2023 – Result 5000m Women|url=https://media.isuresults.eu/downloads/20_result_women_5000-signed_20230305164648.pdf|publisher=[[International Skating Union|ISU]]|date=5 March 2023|access-date=6 March 2023}}</ref>
+|-
+| Team sprint<br>(3 laps) || [[Anna Boersma]]<br>[[Marrit Fledderus]]<br>[[Femke Kok]] || {{flagu|Netherlands}} || align=right|'''1:25.18''' || align=right|7 December 2025 || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2025–26 ISU Speed Skating World Cup – World Cup 3|2025–26 World Cup]] || <ref>{{cite web|title=ISU World Cup Speed Skating #3 – Result Team Sprint Women|url=https://media.isuresults.eu/downloads/21_result_womenteamsprint_a-signiert_20251207160238.pdf|publisher=[[International Skating Union|ISU]]|date=7 December 2025|access-date=12 December 2025}}</ref>
+|-
+| Team pursuit<br>(6 laps) || [[Ivanie Blondin]]<br>[[Valérie Maltais]]<br>[[Isabelle Weidemann]] || {{flagu|Canada}} || align=right|'''2:53.44''' || align=right|15 February 2022 || {{flagicon|CHN}} [[Beijing National Speed Skating Oval|Beijing]] || [[Speed skating at the 2022 Winter Olympics – Women's team pursuit|2022 Winter Olympics]] || <ref>{{cite web|title=Speed Skating – Women's Team Pursuit – Finals – Results|url=https://media.isuresults.eu/downloads/owg2022_ssk_c73e3_sskwteampu-fnl-_20220215112825.pdf|website=media.isuresults.eu|date=15 February 2022|access-date=15 February 2022}}</ref>
+|-
+| Sprint combination || [[Jutta Leerdam]] || {{flagcountry|NED}} || align=right|'''147.135 pts''' || align=right|27–28 December 2022 || {{flagicon|NED}} [[Thialf|Heerenveen]] || [[2023 KNSB Dutch Sprint Championships|2023 Dutch Sprint Championships]] || <ref>{{cite web|title=Netherlands – Sprint Championships 2023 – Sprint (500/1000/500/1000) Women|url=https://speedskatingresults.com/index.php?p=23&e=26130&sm=1&s=31536|website=speedskatingresults.com|access-date=9 January 2023}}</ref>
+|-
+| Mini combination || [[Cindy Klassen]] || {{flagu|Canada}} || align=right|'''157.950 pts''' || align=right|15–17 November 2002 || {{flagicon|GER}} [[Erfurt]] || [[ISU Speed Skating World Cup|2002–03 World Cup]] || <ref>{{cite web|title=Classification Ladies|url=http://live.isuresults.eu/2002-2003/worldcup/erfurt-2/classification2.html|publisher=[[International Skating Union|ISU]]|date=17 November 2002|access-date=5 March 2018}}</ref>
+|-
+| Small combination || [[Joy Beune]] || {{flagcountry|Netherlands}} || align=right|'''157.268 pts''' || align=right|9–10 March 2024 || {{flagicon|GER}} [[Eisstadion Inzell|Inzell]] || [[2024 World Allround Speed Skating Championships – Women|2024 World Allround Championships]] || <ref>{{cite web|title=Classification Women Allround|url=https://media.isuresults.eu/downloads/standing_f-signerad_20240310144432.pdf|publisher=[[International Skating Union|ISU]]|date=10 March 2024|access-date=10 March 2024}}</ref>
+|}
+
+==References==
+;General
+* [https://isudam.blob.core.windows.net/isudamcontainer/Current-Speed-Skating-WORLD-RECORDS-January2026-1770193158-4384.pdf ISU world records] <small>''28 January 2026 updated''</small>
+;Specific
+{{reflist}}
+
+==External links==
+* [https://isu-skating.com/speed-skating/ ISU web site]
+* [http://evertstenlund.se/other.htm Speed skating statistics by Evert Stenlund]
+
+{{Speed skating record progressions}}
+{{Speed skating records}}
+{{records}}
+
+{{DEFAULTSORT:Speed Skating Records}}
+[[Category:Speed skating records| ]]
+[[Category:Sports world records]]
+[[Category:Speed skating-related lists]]

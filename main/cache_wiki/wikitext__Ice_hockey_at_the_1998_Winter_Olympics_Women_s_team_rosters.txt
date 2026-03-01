@@ -1,0 +1,357 @@
+{{short description|None}}
+{{Use dmy dates|date=November 2023}}
+{{Ice hockey at the 1998 Winter Olympics}}
+{{Main|Ice hockey at the 1998 Winter Olympics}}
+
+These are the '''team rosters''' of the nations that participated in the '''[[Ice hockey at the 1998 Winter Olympics – Women's tournament|women's ice hockey tournament]] of the [[1998 Winter Olympics]]'''.
+
+''Ages and clubs listed as of the start of the tournament, 8 February 1998.''
+
+==Canada==
+{{See also|Canada at the 1998 Winter Olympics|Canada women's national ice hockey team}}
+<section begin=CAN />The Canadian roster was announced on 9 December, 1997.<ref>{{cite web|title=CANADIAN HOCKEY ANNOUNCES WOMEN'S OLYMPIC HOCKEY TEAM ROSTER|url=https://www.hockeycanada.ca/en-ca/news/1997-nr-136-en|date=December 9, 1997|publisher=[[Hockey Canada]]|access-date=October 24, 2023}}</ref><ref>{{cite web|title=Team Canada 1998 Winter Olympic Roster|url=http://www.whockey.com/country/canada/roster/1998.html|date=December 9, 1997|website=whockey.com|accessdate=October 24, 2023}}</ref>
+
+Head coach: {{flagicon|CAN}} [[Shannon Miller (ice hockey)|Shannon Miller]]<br>Assistant coaches: {{flagicon|CAN}} [[Danièle Sauvageau]], {{flagicon|CAN}} [[Ray Bennett]], {{flagicon|CAN}} [[Rob Cookson]]
+
+{| width="100%" class="wikitable sortable" style="font-size: 90%; text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 1997–98 team
+|-
+| 3 || F || align="left" | {{sortname|France|Saint-Louis}} || {{convert|5|ft|8|in|abbr=on}} || {{convert|145|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1958|10|17}} || [[Saint-Hubert, Quebec]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 4 || D || align="left" | {{sortname|Becky|Kellar|Becky Kellar-Duke}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|150|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|1|1}} || [[Hagersville, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 6 || D || align="left" | {{sortname|Thérèse|Brisson}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|5|ft|7|in|abbr=on}} || {{convert|150|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|5|10}} ||  [[Fredericton|Fredericton, New Brunswick]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 7 || F || align="left" | {{sortname|Jennifer|Botterill}} || {{convert|5|ft|9|in|abbr=on}} || {{convert|157|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1979|5|1}} || [[Winnipeg|Winnipeg, Manitoba]] || align="left" | {{flagicon|CAN}}  [[Canada women's national ice hockey team|National Team]]
+|-
+| 9 || D || align="left" | {{sortname|Fiona|Smith-Bell|Fiona Smith-Bell}} || {{convert|5|ft|2|in|abbr=on}} || {{convert|124|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|10|31}} || [[Edam, Saskatchewan]] || align="left" | {{flagicon|CAN}}  [[Canada women's national ice hockey team|National Team]]
+|-
+| 12 || F || align="left" | {{sortname|Lori|Dupuis}} || {{convert|5|ft|8|in|abbr=on}} || {{convert|165|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|11|14}} || [[South Glengarry|Williamstown, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 14 || F || align="left" | {{sortname|Kathy|McCormack}} || {{convert|5|ft|9|in|abbr=on}} || {{convert|165|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|2|16}} || [[Fredericton|Fredericton, New Brunswick]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 15 || F || align="left" | {{sortname|Danielle|Goyette}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|143|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1966|1|30}} || [[Saint-Nazaire, Quebec]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 16 || F || align="left" | {{sortname|Jayna|Hefford}} || {{convert|5|ft|5|in|abbr=on}} || {{convert|135|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|5|14}} || [[Kingston, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 17 || F || align="left" | {{sortname|Stacy|Wilson}} – '''[[Captain (ice hockey)|C]]''' || {{convert|5|ft|6|in|abbr=on}} || {{convert|130|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1965|5|12}} || [[Salisbury, New Brunswick]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 18 || F || align="left" | {{sortname|Nancy|Drolet}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|138|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|8|2}} || [[Drummondville|Drummondville, Quebec]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 21 || D || align="left" | {{sortname|Judy|Diduck}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|145|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1966|4|21}} || [[Sherwood Park|Sherwood Park, Alberta]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 22 || F || align="left" | {{sortname|Hayley|Wickenheiser}} || {{convert|5|ft|9|in|abbr=on}} || {{convert|170|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1978|12|8}} || [[Calgary|Calgary, Alberta]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 27 || F || align="left" | {{sortname|Laura|Schuler}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|142|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1970|12|3}} || [[Scarborough, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 30 || G || align="left" | {{sortname|Lesley|Reddon}} || {{convert|5|ft|8|in|abbr=on}} || {{convert|130|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1970|11|15}} || [[Fredericton|Fredericton, New Brunswick]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 33 || G || align="left" | {{sortname|Manon|Rhéaume}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|132|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|2|24}} || [[Charlesbourg, Quebec City|Charlesbourg, Quebec]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 61 || F || align="left" | {{sortname|Vicky|Sunohara}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|160|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1970|5|18}} || [[Scarborough, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 77 || D || align="left" | {{sortname|Cassie|Campbell|Cassie Campbell-Pascall}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|134|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|11|22}} || [[Brampton|Brampton, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 89 || F || align="left" | {{sortname|Karen|Nystrom}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|140|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1969|6|17}} || [[Scarborough, Toronto|Scarborough, Ontario]] || align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|-
+| 91 || D || align="left" | {{sortname|Geraldine|Heaney}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|135|lb|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1967|10|1}}|| [[North York|North York, Ontario]]|| align="left" | {{flagicon|CAN}} [[Canada women's national ice hockey team|National Team]]
+|}<section end=CAN />
+
+==China==
+{{See also|China at the 1998 Winter Olympics|China women's national ice hockey team}}
+<section begin=CHN />The Chinese roster for the women's ice hockey tournament at the 1998 Winter Olympics:<ref>{{cite web |title=1998 Winter Olympics – Ice Hockey, Women – Round-Robin, Match #3 |url=https://www.olympedia.org/results/20764 |website=Olympedia |access-date=1 November 2023}}</ref><ref>{{cite web |title=1998 Winter Olympics – Ice Hockey, Women – Round-Robin, Match #14 |url=https://www.olympedia.org/results/20775 |website=Olympedia |access-date=1 November 2023}}</ref><ref>{{cite web|title=Team China 1998 Winter Olympic Roster|url=http://www.whockey.com/country/china/roster/1998.html|date=December 9, 1997|website=whockey.com|accessdate=November 1, 2023}}</ref>
+
+Head coach: {{flagicon|CHN}} [[Zhang Zhinan (ice hockey)|Zhang Zhinan]]
+
+{| width="100%" class="wikitable sortable" style="font-size: 90%; text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Province of birth
+! style="width: 25%;" | 1997–98 team
+|-
+| 1 || G || align="left" |[[Huo Lina]] || {{convert|165|cm|ftin|abbr=on}} || {{convert|74|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|3|30}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 2 || D || align="left" |[[Gong Ming]] || {{convert|171|cm|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|2|15}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 3 || F || align="left" |[[Liu Hongmei]] – [[Captain (ice hockey)#Alternate captains|'''A''']] || {{convert|162|cm|ftin|abbr=on}} || {{convert|58|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|12|27}} || [[Shandong]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 4 || D || align="left" |[[Li Xuan (ice hockey)|Li Xuan]] || {{convert|169|cm|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|2|29}} || [[Hebei]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 5 || F || align="left" |[[Dang Hong]] – [[Captain (ice hockey)|'''C''']] || {{convert|168|cm|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1969|1|28}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 6 || D || align="left" |[[Lü Yan (ice hockey)|Lu Yan]] || {{convert|166|cm|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|7|25}} || [[Shandong]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 7 || F || align="left" |[[Zhang Lan (ice hockey)|Zhang Lan]]  || {{convert|166|cm|ftin|abbr=on}} || {{convert|57|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1968|9|18}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 8 || F || align="left" |[[Yang Xiuqing (ice hockey)|Yang Xiuqing]] || {{convert|170|cm|ftin|abbr=on}} || {{convert|80|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|2|9}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey
+|-
+| 9 || F || align="left" |[[Sang Hong]] || {{convert|163|cm|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|2|9}} || [[Heilongjiang]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 10 || D || align="left" |[[Chen Jing (ice hockey)|Chen Jing]] || {{convert|166|cm|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1971|4|22}} || [[Shandong]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 12 || F || align="left" |[[Diao Ying]] || {{convert|162|cm|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|11|24}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 13 || D || align="left" |[[Zhang Jing (ice hockey)|Zhang Jing]] || {{convert|166|cm|ftin|abbr=on}} || {{convert|56|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|3|18}} || [[Hebei]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 14 || F || align="left" |[[Guo Wei (ice hockey)|Guo Wei]] || {{convert|169|cm|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1969|11|7}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 15 || F || align="left" |[[Xu Lei (ice hockey)|Xu Lei]] || {{convert|163|cm|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|1|26}} || [[Heilongjiang]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 16 || F || align="left" |[[Guo Lili]] || {{convert|166|cm|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1976|5|5}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 17 || D || align="left" |[[Wang Wei (ice hockey)|Wang Wei]] || {{convert|164|cm|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|2|15}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 18 || F || align="left" |[[Ma Jinping]] || {{convert|162|cm|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|1|1}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 19 || F || align="left" |[[Ma Xiaojun]] || {{convert|166|cm|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1978|7|12}} || [[Heilongjiang]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 20 || G || align="left" |[[Guo Hong]] || {{convert|172|cm|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|5|1}} || [[Heilongjiang]] || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|-
+| 21 || D || align="left" |[[Liu Chunhua (ice hockey)|Liu Chunhua]] || {{convert|172|cm|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|5|6}} ||  || align="left" | {{flagicon|CHN}} Harbin Ice Hockey 
+|}<section end=CHN />
+
+==Finland==
+<section begin=FIN />The Finnish roster for the women's ice hockey tournament at the 1998 Winter Olympics.<ref>{{cite book |editor1-last=Aaltonen |editor1-first=Juha |title=Jääkiekkokirja 2022-2023: Suomen Jaakiekkoliiton ja Liigan Kausijulkaisu |date=2022 |page=358 |url=https://www.jaakiekkokirja.fi/digijulkaisut/jaakiekkokirja-2022-2023/358 |access-date=1 November 2023 |language=fi}}</ref><ref>{{cite web |url= http://www.whockey.com/country/finland/roster/1998.html|title=Team Finland 1998 Olympic Rosters|date=December 9, 1997|website=whockey.com|accessdate=October 29, 2023}}</ref><ref>{{cite web |url=https://www.noc.fi/nagano/jaakiekkon.htm|title=Team Roster Finland|archive-url=https://web.archive.org/web/19980610213009/https://www.noc.fi/nagano/jaakiekkon.htm|access-date=2023-10-29|archive-date=1998-06-10|url-status=dead}}</ref>
+
+Head coach: {{flagicon|FIN}} [[Rauno Korpi]]<br>Assistant coach: {{flagicon|FIN}} [[Jorma Kurjenmäki]]
+
+{| class="wikitable sortable" style="width:100%; font-size: 90%; text-align: center;"
+|-
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 1997–98 team
+|- 
+| 1 || G || align="left" | {{sortname|Liisa-Maria|Sneck}} || {{convert|1.67|m|abbr=on}} || {{convert|80|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1968|11|10}} || [[Helsinki]] || align="left" | {{flagicon|FIN}} [[Keravan Shakers|Shakers Kerava]]
+|- 
+| 3 || D || align="left" | {{sortname|Emma|Laaksonen|Emma Terho}} || {{convert|1.59|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1981|12|17}} || [[Washington, D.C.]] || align="left" | {{flagicon|FIN}} [[Kiekko-Espoo Naiset|Kiekko-Espoo]]
+|- 
+| 4 || D || align="left" | {{sortname|Katja|Lehto}} || {{convert|1.60|m|abbr=on}} || {{convert|58|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|8|14}} || [[Jyväskylä]] || align="left" | {{flagicon|FIN}} [[JYP Naiset|JYP Jyväskylä]]
+|- 
+| 5 || D || align="left" | {{sortname|Satu|Huotari}} || {{convert|1.62|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1967|3|13}} || [[Oulu]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 9 || F || align="left" | {{sortname|Marianne|Ihalainen}} – '''[[Captain (ice hockey)|C]]''' || {{convert|1.65|m|abbr=on}} || {{convert|68|kg|abbr=on|sortable=on}}  || align="right" | {{birth date and age2|df=y|1998|2|8|1967|2|22}} || [[Tampere]] || align="left" | {{flagicon|FIN}} [[Ilves Naiset|Ilves Tampere]]
+|- 
+| 10 || F || align="left" | {{sortname|Sari|Fisk|Sari Marjamäki}} || {{convert|1.64|m|abbr=on}} || {{convert|65|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1971|12|17}} || [[Pori]] || align="left" | {{flagicon|FIN}} [[Ilves Naiset|Ilves Tampere]]
+|- 
+| 13 || F || align="left" | {{sortname|Riikka|Nieminen|Riikka Sallinen}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|1.63|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|6|12}} || [[Jyväskylä]] || align="left" | {{flagicon|FIN}} [[JYP Naiset|JYP Jyväskylä]]
+|- 
+| 14 || F || align="left" | {{sortname|Maria|Selin|Maria Saarni}} || {{convert|1.62|m|abbr=on}} || {{convert|52|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|9|8}} || [[Helsinki]] || align="left" | {{flagicon|FIN}} [[Kiekko-Espoo Naiset|Kiekko-Espoo]]
+|- 
+| 15 || D || align="left" | {{sortname|Johanna|Ikonen}} || {{convert|1.62|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1969|1|9}} || [[Eno, Finland|Eno]] || align="left" | {{flagicon|FIN}} [[Kiekko-Espoo Naiset|Kiekko-Espoo]]
+|- 
+| 16 || F || align="left" | {{sortname|Tiia|Reima}} || {{convert|1.59|m|abbr=on}} || {{convert|57|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1973|2|1}} || [[Tampere]] || align="left" | {{flagicon|FIN}} [[Ilves Naiset|Ilves Tampere]]
+|- 
+| 17 || F || align="left" | {{sortname|Sari|Krooks}} ||{{convert|1.61|m|abbr=on}} || {{convert|53|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1968|2|2}} || [[Vaasa]] || align="left" | {{flagicon|FIN}} [[Ilves Naiset|Ilves Tampere]]
+|- 
+| 19 || G || align="left" | {{sortname|Tuula|Puputti}} || {{convert|1.62|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1977|11|5}} || [[Kuopio]] || align="left" | {{flagicon|FIN}} [[JYP Naiset|JYP Jyväskylä]]
+|- 
+| 20 || D || align="left" | {{sortname|Kirsi|Hänninen}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|1.75|m|abbr=on}} || {{convert|68|kg|abbr=on|sortable=on}}  || align="right" | {{birth date and age2|df=y|1998|2|8|1976|10|3}} || [[Joensuu]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 21 || F || align="left" | {{sortname|Petra|Vaarakallio}} || {{convert|1.76|m|abbr=on}} || {{convert|73|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|6|17}} || [[Helsinki]] || align="left" | {{flagicon|FIN}} [[Kiekko-Espoo Naiset|Kiekko-Espoo]]
+|- 
+| 22 || F || align="left" | {{sortname|Sanna|Lankosaari}} || {{convert|1.62|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1978|8|20}} || [[Kemi]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 25 || D || align="left" | {{sortname|Marja-Helena|Pälvilä}} || {{convert|1.76|m|abbr=on}} || {{convert|70|kg|abbr=on|sortable=on}}  || align="right" | {{birth date and age2|df=y|1998|2|8|1970|3|4}} || [[Oulu]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 26 || F || align="left" | {{sortname|Marika|Lehtimäki}} || {{convert|1.64|m|abbr=on}} || {{convert|70|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|2|7}} || [[Tampere]] || align="left" | {{flagicon|FIN}} [[Ilves Naiset|Ilves Tampere]]
+|- 
+| 27 || D || align="left" | {{sortname|Päivi|Salo}} || {{convert|1.65|m|abbr=on}} || {{convert|58|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|1|31}} || [[Orimattila]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 28 || F || align="left" | {{sortname|Katja|Riipi}} ||{{convert|1.59|m|abbr=on}} || {{convert|65|kg|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|10|26}} || [[Sodankylä]] || align="left" | {{flagicon|FIN}} [[Kärpät Naiset|Kärpät Oulu]]
+|- 
+| 29 || F || align="left" | {{sortname|Karoliina|Rantamäki|}} || {{convert|1.63|m|abbr=on}} || {{convert|65|kg|abbr=on|sortable=on}}  || align="right" | {{birth date and age2|df=y|1998|2|8|1978|2|23}} || [[Vantaa]] || align="left" | {{flagicon|FIN}} [[Kiekko-Espoo Naiset|Kiekko-Espoo]]
+|}<section end=FIN />
+
+==Japan==
+<section begin=JPN />The Japan roster for the women's ice hockey tournament at the 1998 Winter Olympics.<ref>{{cite web |title=1998 Winter Olympics– Ice Hockey, Women – Round-Robin, Match #2 |url=https://www.olympedia.org/results/20763 |website=Olympedia |access-date=2 November 2023}}</ref><ref>{{cite web |title=Japan Ice Hockey at the 1998 Nagano Winter Games |url=http://www.sports-reference.com/olympics/countries/JPN/winter/1998/ICH/ |website=[[Sports Reference]] |access-date=2 November 2023 |archive-url=https://web.archive.org/web/20190414155256/http://www.sports-reference.com/olympics/countries/JPN/winter/1998/ICH/ |archive-date=2019-04-14}}</ref><ref>{{cite web|title=Team Japan 1998 Winter Olympic Roster|url=http://www.whockey.com/country/japan/roster/1998.html|date=December 9, 1997|website=whockey.com|accessdate=November 1, 2023}}</ref>
+
+Head coach: {{flagicon|Japan}} [[Toru Itabashi]]
+
+{| class="wikitable sortable" style="width:100%; font-size: 90%; text-align: center;"
+|-
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 1997–98 team
+|- 
+| 1 || G || align="left"|{{sortname|Yuka|Oda}} || {{convert|1.61|m|abbr=on}} || {{convert|54|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1973|3|15}} || [[Muroran]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 2 || D || align="left"|{{sortname|Yoko|Kondo|Yōko Kondō (ice hockey player)}} || {{convert|1.65|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1979|2|13}} || [[Hachinohe]] || align="left"|{{flagicon|JPN}} [[Seibu Princess Rabbits|Kokudo IHC]]
+|- 
+| 3 || D || align="left"|{{sortname|Rie|Sato|Rie Sato (ice hockey)}} || {{convert|1.61|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1972|1|31}} || [[Tomakomai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 4 || D || align="left"|{{sortname|Akiko|Hatanaka}} || {{convert|1.63|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1975|4|23}} || [[Sakai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 5 || D || align="left"|{{sortname|Chie|Sakuma}} || {{convert|1.58|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1972|3|1}} || [[Houston|Houston, Texas]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 6 || D || align="left"|{{sortname|Maiko|Obikawa}} || {{convert|1.61|m|abbr=on}} || {{convert|67|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1973|3|13}} || [[Tomakomai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 7 || F || align="left"|{{sortname|Satomi|Ono}} || {{convert|1.75|m|abbr=on}} || {{convert|70|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1975|11|18}} || [[Tomakomai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 8 || D || align="left"|{{sortname|Naho|Yoshimi}} || {{convert|1.60|m|abbr=on}} || {{convert|57|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1972|1|31}} || [[Meguro]] || align="left"|{{flagicon|JPN}}  [[Seibu Princess Rabbits|Kokudo IHC]]
+|- 
+| 9 || D || align="left"|{{sortname|Yukio|Satomi}} || {{convert|1.60|m|abbr=on}} || {{convert|55|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1975|10|22}} || [[Sapporo]] || align="left"|{{flagicon|JPN}} Sports SF
+|- 
+| 10 || F || align="left"|{{sortname|Yuki|Togawa}} || {{convert|1.53|m|abbr=on}} || {{convert|56|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1978|2|28}} || [[Kushiro]] || align="left"|{{flagicon|JPN}} [[Kushiro Bears|Rokkatei Bears]]
+|- 
+| 11 || F || align="left"|{{sortname|Miharu|Araki}} || {{convert|1.61|m|abbr=on}} || {{convert|49|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1971|7|20}} || [[Tochigi Prefecture]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 12 || F || align="left"|{{sortname|Ayumi|Sato}} || {{convert|1.60|m|abbr=on}} || {{convert|56|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1977|7|16}} || [[Morioka]] || align="left"|{{flagicon|JPN}} [[Seibu Princess Rabbits|Kokudo IHC]] / [[Kushiro Bears|Rokkatei Bears]]
+|- 
+| 13 || F || align="left"|{{sortname|Mitsuko|Igarashi}} || {{convert|1.58|m|abbr=on}} || {{convert|53|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1977|8|21}} || [[Tomakomai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 14 || F || align="left"|{{sortname|Yukari|Ohno}} || {{convert|1.67|m|abbr=on}} || {{convert|63|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1975|8|10}} || [[Shinjuku]] || align="left"|{{flagicon|JPN}} [[Seibu Princess Rabbits|Kokudo IHC]]
+|- 
+| 15 || F || align="left"|{{sortname|Masako|Sato|Masako Sato (ice hockey)}} || {{convert|1.58|m|abbr=on}} || {{convert|56|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1973|6|9}} || [[Tomakomai]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 16 || F || align="left"|{{sortname|Aki|Sudo}} || {{convert|1.56|m|abbr=on}} || {{convert|53|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1975|1|20}} || [[Kushiro]] || align="left"|{{flagicon|JPN}} [[Kushiro Bears|Rokkatei Bears]]
+|- 
+| 17 || F || align="left"|{{sortname|Shiho|Fujiwara}} || {{convert|1.50|m|abbr=on}} || {{convert|60|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1971|11|16}}|| [[Monbetsu, Hokkaido (Hidaka)|Monbetsu, Hidaka]] || align="left"|{{flagicon|JPN}} [[DK Peregrine|Iwakura Peregrine]]
+|- 
+| 18 || F || align="left"|{{sortname|Aki|Tsuchida}} || {{convert|1.56|m|abbr=on}} || {{convert|56|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1979|5|29}} || [[Kushiro]] || align="left"|{{flagicon|JPN}} [[Kushiro Bears|Rokkatei Bears]]
+|- 
+| 19 || F || align="left"|{{sortname|Akiko|Naka}} || {{convert|1.57|m|abbr=on}} || {{convert|58|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1980|6|5}} || [[Sapporo]] || align="left"|{{flagicon|JPN}} Sports SF
+|- 
+| 20 || G || align="left"|{{sortname|Haruka|Watanabe}} || {{convert|1.65|m|abbr=on}} || {{convert|54|kg|abbr=on|sortable=on}} || align="right"|{{birth date and age2|df=y|1998|2|8|1972|12|13}}|| [[Ashikaga, Tochigi|Ashikaga]] || align="left"|{{flagicon|JPN}} [[Seibu Princess Rabbits|Kokudo IHC]]
+|}<section end=JPN />
+
+==Sweden==
+<section begin=SWE />The following is the Swedish roster for the women's ice hockey tournament at the 1998 Winter Olympics.<ref>{{cite web|title=Team Sweden 1998 Winter Olympic Roster|url=http://www.whockey.com/country/sweden/roster/1998.html|website=whockey.com|accessdate=October 25, 2023}}</ref>
+
+Head coach: {{flagicon|SWE}} [[Bengt Ohlson]]<br>Assistant coach: {{flagicon|SWE}} [[Christian Yngve]]
+
+{| width="100%" class="wikitable sortable" style="font-size: 90%; text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 1997–98 team
+|-
+| 1 || G || align="left" | {{sortname|Charlotte|Göthesson}} || {{convert|1.75|m|ftin|abbr=on}} || {{convert|70|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|1|17}} || [[Krokek]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]]  
+|-
+| 4 || D || align="left" | {{sortname|Linda|Gustafsson}} || {{convert|1.74|m|ftin|abbr=on}} || {{convert|90|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|2|20}} || [[Umeå]] || align="left" | {{flagicon|SWE}} [[Modo Hockey (women)|Modo Hockey]]  
+|-
+| 7 || F || align="left" | {{sortname|Maria|Rooth}} || {{convert|1.72|m|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1979|11|2}} || [[Ängelholm]] || align="left" | {{flagicon|SWE}} [[Helsingborgs HC (women)|Helsingborgs HC J18]] / [[Veddige HK (women)|Veddige HK]]   
+|-
+| 8 || F || align="left" | {{sortname|Erika|Holst}} || {{convert|1.76|m|ftin|abbr=on}} || {{convert|72|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1979|4|28}} || [[Varberg]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]]  
+|-
+| 11 || F || align="left" | {{sortname|Kristina|Bergstrand}} || {{convert|1.63|m|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1963|10|4}} || [[Stockholm]] || align="left" | {{flagicon|SWE}} [[Nacka HK]]  
+|-
+| 12 || F || align="left" | {{sortname|Malin|Gustafsson}} || {{convert|1.68|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1980|1|24}} || [[Skellefteå]] || align="left" | {{flagicon|SWE}} [[Lövånger AIK]] / [[Veddige HK (women)|Veddige HK]]  
+|-
+| 15 || F || align="left" | {{sortname|Lotta|Almblad}} || {{convert|1.71|m|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1972|4|28}}|| [[Älmhult Municipality|Stenbrohult]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]] 
+|-
+| 18 || F || align="left" | {{sortname|Åsa|Elfving}} – [[Captain (ice hockey)#Alternate captains|'''A''']] ||| {{convert|1.73|m|ftin|abbr=on}} || {{convert|70|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1970|2|1}} || [[Umeå]] || align="left" | {{flagicon|SWE}} [[Nacka HK]]  
+|-
+| 19 || F || align="left" | {{sortname|Tina|Månsson}} || {{convert|1.66|m|ftin|abbr=on}} || {{convert|64|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1968|4|22}} || [[Mariefred]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]] 
+|-
+| 20 || D || align="left" | {{sortname|Pernilla|Burholm}} || {{convert|1.64|m|ftin|abbr=on}} || {{convert|60|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|2|16}} || [[Härnösand]] || align="left" | {{flagicon|SWE}} [[Nacka HK]]  
+|-
+| 21 || F || align="left" | {{sortname|Joa|Elfsberg}} || {{convert|1.77|m|ftin|abbr=on}} || {{convert|66|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1979|7|30}} || [[Valbo]] || align="left" | {{flagicon|SWE}} [[Valbo AIF]]  
+|-
+| 22 || F || align="left" | {{sortname|Anne|Ferm}} || {{convert|1.69|m|ftin|abbr=on}} || {{convert|61|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1969|8|26}} || [[Kalmar]] || align="left" | {{flagicon|SWE}} [[Nacka HK]] 
+|-
+| 23 || D || align="left" | {{sortname|Gunilla|Andersson}} || {{convert|1.69|m|ftin|abbr=on}} || {{convert|61|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1974|4|26}} || [[Skutskär]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]]  
+|-
+| 24 || F || align="left" | {{sortname|Ann-Louise|Edstrand}} || {{convert|1.77|m|ftin|abbr=on}} || {{convert|67|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|4|25}} || [[Örnsköldsvik]] || align="left" | {{flagicon|SWE}} [[Nacka HK]]  
+|-
+| 25 || D || align="left" | {{sortname|Therese|Sjölander}} || {{convert|1.73|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1981|5|4}} || [[Sollefteå]] || align="left" | {{flagicon|SWE}} [[Sollefteå HK]] / [[Modo Hockey (women)|Modo Hockey]]  
+|-
+| 26 || D || align="left" | {{sortname|Pia|Morelius}} – [[Captain (ice hockey)#Alternate captains|'''A''']] || {{convert|1.63|m|ftin|abbr=on}} || {{convert|65|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1966|3|31}} || [[Stockholm]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]]  
+|-
+| 27 || D || align="left" | {{sortname|Ylva|Lindberg}} || {{convert|1.65|m|ftin|abbr=on}} || {{convert|70|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1976|6|29}} || [[Umeå]] || align="left" | {{flagicon|SWE}} [[Nacka HK]]  
+|-
+| 28 || F || align="left" | {{sortname|Susanne|Ceder}} – '''[[Captain (ice hockey)|C]]''' || {{convert|1.67|m|ftin|abbr=on}} || {{convert|68|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1967|6|30}} || [[Örnsköldsvik]] || align="left" | {{flagicon|FIN}} [[Keravan Shakers|Shakers Kerava]] <small>([[Naisten Liiga (ice hockey)|NSMs]])</small> 
+|-
+| 29 || D || align="left" | {{sortname|Åsa|Lidström}} || {{convert|1.70|m|ftin|abbr=on}} || {{convert|72|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1968|8|15}} || [[Mullsjö]] || align="left" | {{flagicon|SWE}} [[FOC Farsta]]  
+|-
+| 30 || G || align="left" | {{sortname|Annica|Åhlén}} || {{convert|1.68|m|ftin|abbr=on}} || {{convert|62|kg|lb|abbr=on|sortable=on}} || align="right" | {{birth date and age2|df=y|1998|2|8|1975|6|23}}|| [[Trångsund]]|| align="left" | {{flagicon|SWE}} [[AIK Hockey (women)|AIK IF]] 
+|}<section end=SWE />
+
+==United States==
+<section begin=USA />The following is the United States roster for the women's ice hockey tournament at the 1998 Winter Olympics.<ref>{{cite web|title=1998 U.S. Olympic Women's Hockey Team|url=https://teamusa.usahockey.com/page/show/2908052-1998-nagano-olympic-winter-games-women-s-tournament|publisher=[[USA Hockey]]|access-date=March 20, 2023}}</ref><ref>{{cite web|title=Team USA 1998 Winter Olympic Roster|url=http://www.whockey.com/country/usa/roster/1998.html|date=December 9, 1997|website=whockey.com|accessdate=October 24, 2023}}</ref><ref>{{cite web|title=1998 U.S. Olympic Women's Ice Hockey Team|url=https://www.ushockeyhalloffame.com/page/show/833079-1998-u-s-olympic-women-s-ice-hockey-team|publisher=[[United States Hockey Hall of Fame]]|access-date=March 20, 2023}}</ref><ref>{{cite web|url=https://www.usahockey.com/natteams/women/roster.htm|title=1998 U.S. Olympic Women's Team Roster|publisher=[[USA Hockey]]|date=December 3, 1998|accessdate=October 26, 2023|url-status=dead|archive-url=https://web.archive.org/web/19981203135329/https://www.usahockey.com/natteams/women/roster.htm#roster|archivedate=December 3, 1998}}</ref>
+
+Head coach: {{flagicon|USA}} [[Ben Smith (ice hockey coach)|Ben Smith]]<br>Assistant coach: {{flagicon|USA}} [[Tom Mutch]]
+
+{| width="100%" class="wikitable sortable" style="text-align: center;"
+! style="width:  4%;" | No.
+! style="width:  4%;" | Pos.
+! style="width: 16%;" | Name
+! style="width: 13%;" | Height
+! style="width: 11%;" | Weight
+! style="width: 13%;" | Birthdate
+! style="width: 14%;" | Birthplace
+! style="width: 25%;" | 1996–97 team
+|- 
+|  1 || G || align="left" |{{sortname|Sara|DeCosta|Sara DeCosta-Hayes}} || {{convert|5|ft|9|in|abbr=on}} || {{convert|130|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1977|5|13}}  || [[Warwick, Rhode Island]] || align="left" |{{flagicon|USA}} [[Providence Friars women's ice hockey|Providence College]]
+|-
+| 2 || D || align="left" |{{sortname|Tara|Mounsey}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|150|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1978|3|12}}  || [[Concord, New Hampshire]] || align="left" |{{flagicon|USA}} [[Brown University]]
+|-
+| 3 || F || align="left" |{{sortname|Lisa|Brown-Miller}} || {{convert|5|ft|1|in|abbr=on}} || {{convert|128|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1966|11|16}} || [[Union Lake, Michigan]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 4 || D || align="left" |{{sortname|Angela|Ruggiero}} || {{convert|5|ft|9|in|abbr=on}} || {{convert|175|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1980|1|3}} || [[Panorama City, Los Angeles|Panorama City, California]] || align="left" | {{flagicon|USA}} [[Choate Rosemary Hall]]
+|-
+| 5 || D || align="left" |{{sortname|Colleen|Coyne}} || {{convert|5|ft|3|in|abbr=on}} || {{convert|131|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1971|9|19}} || [[Medford, Massachusetts]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 6 || F || align="left" |{{sortname|Karyn|Bye|Karyn Bye-Dietz}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' || {{convert|5|ft|8|in|abbr=on}} || {{convert|160|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1971|5|18}} || [[River Falls, Wisconsin|River Falls]], [[Wisconsin]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 7 || D || align="left" |{{sortname|Sue|Merz}} || {{convert|5|ft|5|in|abbr=on}} || {{convert|145|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1972|4|10}}  || [[Greenwich, Connecticut]] || align="left" |{{flagicon|CAN}} [[Newtonbrook Panthers]]
+|-
+| 8 || F || align="left" |{{sortname|Laurie|Baker|dab=ice hockey}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|140|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1976|11|6}} || [[Concord, Massachusetts]] || align="left" | {{flagicon|USA}} [[Providence College]]
+|-
+| 9 || F || align="left" |{{sortname|Sandra|Whyte|Sandra Whyte-Sweeney}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|130|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1970|8|24}}  || [[Saugus, Massachusetts]] || align="left" |{{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 11 || F|| align="left" |{{sortname|A. J.|Mleczko}} || {{convert|5|ft|11|in|abbr=on}} || {{convert|160|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1975|6|14}} || [[Nantucket|Nantucket, Massachusetts]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 12 || F || align="left" |{{Sortname|Jenny|Schmidgall|Jenny Schmidgall-Potter}} || {{convert|5|ft|3|in|abbr=on}} || {{convert|130|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1979|1|12}} || [[Saint Paul, Minnesota]] || align="left" | {{flagicon|USA}} [[Edina High School]]
+|-
+| 14 || D || align="left" |{{sortname|Vicki|Movsessian|Vicki Movsessian-Lamoriello}} || {{convert|5|ft|5|in|abbr=on}} || {{convert|140|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1972|11|6}}  || [[Lexington, Massachusetts]] || align="left" |{{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 15 || F || align="left" |{{sortname|Shelley|Looney}} || {{convert|5|ft|5|in|abbr=on}} || {{convert|140|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1972|1|21}}  || [[Brownstown Charter Township, Michigan|Brownstown Township, Michigan]] || align="left" |{{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 18 || F || align=left|{{sortname|Alana|Blahoski}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|127|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1974|4|29}} || [[Saint Paul, Minnesota]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 20 || F || align=left|{{sortname|Katie|King|Katie King-Crowley}} || {{convert|5|ft|8|in|abbr=on}} || {{convert|165|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1975|5|24}} || [[Salem, New Hampshire]] || align="left" | {{flagicon|USA}} [[Brown University]]
+|-
+| 21 || F || align="left" |{{sortname|Cammi|Granato}} – '''[[Captain (ice hockey)|C]]'''|| {{convert|5|ft|7|in|abbr=on}} || {{convert|140|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1971|3|25}}|| [[Downers Grove, Illinois]] || align="left" | {{flagicon|USA}} [[Concordia University]]
+|-
+| 22 || F || align="left" |{{sortname|Gretchen|Ulion}} || {{convert|5|ft|2|in|abbr=on}} || {{convert|130|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1972|5|4}} || [[Marlborough, Connecticut]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 24 || D || align="left" |{{sortname|Chris|Bailey|Chris Bailey (ice hockey)}} || {{convert|5|ft|6|in|abbr=on}} || {{convert|160|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1972|2|5}} || [[Marietta, New York]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+| 25 || F || align=left| {{sortname|Tricia|Dunn|Tricia Dunn-Luoma}} || {{convert|5|ft|8|in|abbr=on}} || {{convert|142|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1974|4|25}} || [[Derry, New Hampshire]] || align="left" | {{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|-
+|  29 || G || align=left|{{sortname|Sarah|Tueting}} || {{convert|5|ft|7|in|abbr=on}} || {{convert|140|lb|abbr=on|sortable=on}} || {{birth date and age2|df=y|1998|2|8|1976|4|26}}  || [[Winnetka, Illinois]] || align="left" |{{flagicon|USA}} [[United States women's national ice hockey team|National Team]]
+|}<section end=USA />
+
+==Bibliography==
+* {{Cite book |title=IIHF Guide & Record Book 2020 |publisher=Moydart |year=2019 |isbn=9780986796470 |editor-last=Podnieks |editor-first=Andrew |location=Toronto |page=315 |language=en |chapter=Olympics, Women |editor-last2=Nordmark |editor-first2=Birger}}
+
+==References==
+{{reflist}}{{Olympic Games women's ice hockey players|state=collapsed}}{{DEFAULTSORT:Ice hockey at the 1998 Winter Olympics - Women's team rosters}}
+[[Category:Ice hockey players at the 1998 Winter Olympics|*]]
+[[Category:Ice hockey at the 1998 Winter Olympics|rosters]]
+[[Category:Olympic ice hockey rosters|1998]]

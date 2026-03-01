@@ -1,0 +1,472 @@
+{{Infobox country at games
+| country           = India
+| flag                 = 
+| flagcaption     =
+| NOC               = IND
+| IAAF              = 
+| games_link    = 2016 Asian Olympic Shooting Qualifying Tournament
+| year              = 2016
+| games             = Asia Olympic Qualifying Competition for Shooting
+| NOCname           = 
+| NPCname           = 
+| oldcode           =
+| fedname           = 
+| website           = 
+| location          = [[New Delhi]], India
+| start_date        = {{Start date|2016|01|27|df=y}}
+| end_date          = {{End date|2016|02|03|df=y}}
+| date              = 
+| competitors       = 64
+| competitors_men   = 
+| competitors_women = 
+| sports            = 
+| events            = 15
+| flagbearer        = 
+| rank              = 5
+| gold              = 1
+| silver            = 1
+| bronze            = 2
+| officials         = 
+| appearances       = 
+| app_begin_year    = 
+| app_interval      = 
+| summerappearances = 
+| winterappearances = 
+| youthappearances  = 
+| seealso           = 
+| previous          = 
+| next              = 
+}}
+
+A total of 64 Indian shooters participated in the [[2016 Asian Olympic Shooting Qualifying Tournament]] held in Dr. Karni Singh Shooting Range, [[New Delhi]].<ref>{{Cite web|title = Asia Olympic Qualifying Competition is about to start in New Delhi|url = https://www.issf-sports.org/news.ashx?newsid=2461|website = ISSF|access-date = 2016-02-01}}</ref> India ranked 5th in the medal list.<ref>{{Cite web|title = UAE's Saif Bin Futtais secures the Skeet Men Gold in the closing event of the Asia Olympic Qualifying Competition|url = https://www.issf-sports.org/news.ashx?newsid=2480|website = ISSF|access-date = 2016-02-02}}</ref>
+
+A total of 4 quotas have been obtained in three different events till 1 February.
+
+== Participants ==
+'''''{{Red|Ranks in bold red indicates 2016 Olympic Quota places.}}'''''
+
+=== Men ===
+{| class="wikitable"
+!Participants
+!Events
+!Qualification
+!Final
+!Rank
+!References
+|-
+|[[Sanjeev Rajput]]
+| rowspan="5" |'''50 m Rifle Three Positions'''
+|1163 - 60x
+|429.5
+|'''{{Red|4}}'''
+|<ref name=":0">{{Cite web|title = Result 50m Rifle 3 Positions Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0202161000.1.FR3X40.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result 50m Rifle 3 Positions Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b4652335834303b313b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Surendra Sinh Rathod
+|1148 - 42x
+| rowspan="2" |did not advance
+|16
+| rowspan="2" |<ref name=":0" />
+|-
+|Satyendra Singh
+|1145 - 40x
+|20
+|-
+|[[Chain Singh]]
+|1171 - 62x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 50m Rifle 3 Positions Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0202161000.2.FR3X40.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Swapnil Kusale
+|1169 - 50x
+|-
+|Swapnil Kusale
+| rowspan="5" |'''50 m Rifle Prone'''
+|617.2
+| rowspan="3" |did not advance
+|14
+| rowspan="3" |<ref>{{Cite web|title = Result 50m Rifle Prone Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.1.FR60PR.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|Sushil Ghalay
+|616.6
+|17
+|-
+|Surendra Sinh Rathod
+|615.9
+|14
+|-
+|[[Chain Singh]]
+|622.9
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 50m Rifle Prone Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.2.FR60PR.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|[[Sanjeev Rajput]]
+|618.3
+|-
+|Akhil Sheoran
+| rowspan="5" |'''10 m Air Rifle'''
+|620.1
+|163.0
+|4
+| rowspan="3" |<ref>{{Cite web|title = Result 10m Air Rifle Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_3001161100.1.AR60.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|Prashant
+|619.4
+| rowspan="2" |did not advance
+|11
+|-
+|Satyendra Singh
+|617.1
+|21
+|-
+|[[Chain Singh]]
+|626.4
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 10m Air Rifle Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_3001161100.2.AR60.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|[[Gagan Narang]]
+|624.4
+|-
+|[[Omkar Singh]]
+| rowspan="5" |'''50 m Pistol'''
+|556 - 12x
+|147.0
+|4
+| rowspan="3" |<ref>{{Cite web|title = Result 50m Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2901161000.1.FP.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref><ref>{{Cite web|title = Result 50m Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b46503b313b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|Jai Singh
+|541 - 07x
+| rowspan="2" |did not advance
+|27
+|-
+|[[Prakash Nanjappa]]
+|534 - 06x
+|30
+|-
+|[[Samaresh Jung]]
+|552 - 10x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 50m Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2901161000.2.FP.0|website = www.issf-sports.org|access-date = 2016-02-01}}</ref>
+|-
+|[[Gurpal Singh]]
+|541 - 04x
+|-
+|[[Vijay Kumar (sport shooter)|Vijay Kumar]]
+| rowspan="5" |'''25 m Rapid Fire Pistol'''
+|576 - 18x
+|14
+|5
+|<ref name=":1">{{Cite web|title = Result 25m Rapid Fire Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.1.RFP.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result 25m Rapid Fire Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b5246503b313b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Neeraj Kumar
+|556 - 13x
+| rowspan="2" |did not advance
+|14
+| rowspan="2" |<ref name=":1" />
+|-
+|Harpreet Singh
+|556 - 09x
+|15
+|-
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|581 - 22x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 25m Rapid Fire Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.2.RFP.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Akshay Suhas Ashtaputre
+|564 - 17x
+|-
+|[[Omkar Singh]]
+| rowspan="5" |'''10 m Air Pistol'''
+|577 - 15x
+|94.6
+|7
+|<ref name=":2">{{Cite web|title = Result 10m Air Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0102161100.1.AP60.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result 10m Air Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b415036303b313b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Aman Pathania
+|570 - 14x
+| rowspan="2" |did not advance
+|20
+| rowspan="2" |<ref name=":2" />
+|-
+|Jitendra Shivaji Vibhute
+|568 - 13x
+|25
+|-
+|[[Gurpreet Singh (sport shooter)|Gurpreet Singh]]
+|582 - 14x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 10m Air Pistol Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0102161100.2.AP60.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|[[Prakash Nanjappa]]
+|573 - 17x
+|-
+|Kynan Chenai
+| rowspan="5" |'''Trap'''
+|120
+|13
+|'''{{Red|4}}'''
+|<ref name=":3">{{Cite web|title = Result Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.1.TR125.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b54523132353b313b4b3b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|[[Manavjit Singh Sandhu]]
+|118
+| rowspan="2" |did not advance
+|9
+| rowspan="2" |<ref name=":3" />
+|-
+|Prithviraj Tondaiman
+|117
+|10
+|-
+|Zoravar Singh Sandhu
+|120
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_2701161000.2.TR125.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Anwer Sultan
+|118
+|-
+|Angad Vir Singh Bajwa
+| rowspan="5" |'''Skeet'''
+|118
+| rowspan="3" |did not advance
+|8
+| rowspan="3" |<ref>{{Cite web|title = Result Skeet Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0202161000.1.SK125.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Man Singh
+|116
+|17
+|-
+|Amrinder Cheema
+|112
+|25
+|-
+|Sheeraz Sheikh
+|114
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result Skeet Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_0202161000.2.SK125.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Smit Singh
+|113
+|-
+|Mohd Asab
+| rowspan="5" |'''Double Trap'''
+|142
+|26
+|{{Bronze3|3}}
+| rowspan="2" |<ref name=":4">{{Cite web|title = Result Double Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_3001161000.1.DT150.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result Double Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b44543135303b313b4b3b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Ankur Mittal
+|141
+|25
+|5
+|-
+|Ronjan Sodhi
+|126
+|did not advance
+|16
+|<ref name=":4" />
+|-
+|Yoginderpal Singh
+|139
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result Double Trap Men|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q10000_I_3001161000.2.DT150.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Sangram Dahiya
+|136
+|}
+
+=== Women ===
+{| class="wikitable"
+!Participants
+!Events
+!Qualification
+!Final
+!Rank
+!References
+|-
+|[[Elizabeth Susan Koshy]]
+| rowspan="5" |'''50 m Rifle Three Positions'''
+|580 - 23x
+|430.5
+|4
+|<ref name=":7">{{Cite web|title = Result 50m Rifle 3 Positions Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_3101161000.1.STR3X20.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result 50m Rifle 3 Positions Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b535452335832303b303b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|[[Lajja Goswami|Lajja Gauswami]]
+|567 - 22x
+| rowspan="2" |did not advance
+|26
+| rowspan="2" |<ref name=":7" />
+|-
+|Anjum Moudgil
+|564 - 21x
+|30
+|-
+|Gaayathri Nithyanandam
+|564 - 17x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 50m Rifle 3 Positions Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_3101161000.2.STR3X20.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Anuja Jung
+|558 - 16x
+|-
+|[[Ayonika Paul]]
+| rowspan="5" |'''10 m Air Rifle'''
+|416.6
+|205.9
+|'''{{Red|2}}''' {{Silver2|2}}
+| rowspan="2" |<ref name=":6">{{Cite web|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2901161400.1.AR40.0|title = Result 10m Air Rifle Women Qualification|date = |access-date = 2016-12-30|website = www.issf-sports.org|publisher = |last = |first = }}</ref><ref>{{Cite web|title = Result 10m Air Rifle Women Finals|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b415234303b303b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|[[Pooja Ghatkar]]
+|415.6
+|184.5
+|{{Bronze3|3}}
+|-
+|[[Elizabeth Susan Koshy]]
+|413.6
+|did not advance
+|13
+|<ref name=":6" />
+|-
+|[[Anjali Bhagwat]]
+|413.1
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 10m Air Rifle Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2901161400.2.AR40.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Shriyanka Sadangi
+|412.5
+|-
+|[[Heena Sidhu]]
+| rowspan="5" |'''10 m Air Pistol'''
+|387 - 12x
+|199.4
+|'''{{Red|1}}''' 
+{{Gold1|1}}
+|<ref name=":5">{{Cite web|title = Result 10m Air Pistol Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2701161130.1.AP40.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref><ref>{{Cite web|title = Result 10m Air Pistol Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b415034303b303b463b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Yashaswini Singh Deswal
+|378 - 07x
+| rowspan="2" |did not advance
+|11
+| rowspan="2" |<ref name=":5" />
+|-
+|Shweta Singh
+|378 - 04x
+|12
+|-
+|Shri Nivetha Paramanantham
+|378 - 11x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 10m Air Pistol Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2701161130.2.AP40.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Malaika Goel
+|377 - 08x
+|-
+|[[Rahi Sarnobat]]
+| rowspan="5" |'''25 m Pistol'''
+|575 - 13x
+| rowspan="3" |did not advance
+|12
+| rowspan="3" |<ref>{{Cite web|title = Result 25m Pistol Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_3001161000.1.SP.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|[[Anisa Sayyed]]
+|572 - 15x
+|17
+|-
+|[[Annu Raj Singh]]
+|570 - 15x
+|21
+|-
+|[[Heena Sidhu]]
+|574 - 22x
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result 25m Pistol Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_3001161000.2.SP.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Gauri Sheoran
+|570 - 12x
+|-
+|[[Shreyasi Singh]]
+| rowspan="5" |'''Trap'''
+|69+0
+| rowspan="3" |did not advance
+|8
+| rowspan="3" |<ref>{{Cite web|title = Result Trap Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2701161000.1.TR75.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Rajeshwari Kumari
+|68
+|12
+|-
+|Shagun CHowdhury
+|67
+|14
+|-
+|Snehlata Singh Rajawat
+|63
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result Trap Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_2701161000.2.TR75.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Seema Tomar
+|63
+|-
+|Arti Singh Rao
+| rowspan="5" |'''Skeet'''
+|69
+|10
+|6
+| rowspan="2" |<ref name=":8">{{Cite web|title = Result Skeet Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_0102161000.1.SK75.0|website = www.issf-sports.org|access-date = 2016-02-02|archive-date = 2017-10-28|archive-url = https://web.archive.org/web/20171028042426/http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_0102161000.1.SK75.0|url-status = dead}}</ref><ref>{{Cite web|title = Result Skeet Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b534b37353b303b4b3b493b313b303b30|website = www.issf-sports.org|access-date = 2016-02-02|archive-date = 2017-10-27|archive-url = https://web.archive.org/web/20171027231932/http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=3b3b303b534b37353b303b4b3b493b313b303b30|url-status = dead}}</ref>
+|-
+|Saniya Sheikh
+|68+2
+|11
+|4
+|-
+|Rashmee Rathore
+|61
+|did not advance
+|16
+|<ref name=":8" />
+|-
+|Maheshwari Chauhan
+|65
+| colspan="2" rowspan="2" |MQS Extra
+| rowspan="2" |<ref>{{Cite web|title = Result Skeet Women|url = http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1932&resultkey=Q00000_I_0102161000.2.SK75.0|website = www.issf-sports.org|access-date = 2016-02-02}}</ref>
+|-
+|Shambhavi Kumari
+|DNS
+|}
+
+== Quota Obtained ==
+{| class="wikitable"
+! rowspan="2" |Player
+! rowspan="2" |Event
+! colspan="2" |Rank in Olympics
+|-
+!2012
+!2016
+|-
+|[[Sanjeev Rajput]]
+|'''50 m Rifle Three Positions M'''
+|26
+|
+|-
+|[[Ayonika Paul]]
+|'''10 m Air Rifle W'''
+|NA
+|
+|-
+|[[Heena Sidhu]]
+|'''10 m Air Pistol W'''
+|12
+|
+|-
+|Kynan Chenai
+|'''Trap M'''
+|NA
+|
+|}
+
+== References ==
+{{Reflist}}
+
+[[Category:2016 in Indian sport]]
+[[Category:2016 in shooting sports|Asian Olympic Shooting]]
+[[Category:Shooting sports in India]]

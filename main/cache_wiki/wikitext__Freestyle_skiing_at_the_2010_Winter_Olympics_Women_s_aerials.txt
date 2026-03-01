@@ -1,0 +1,118 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Women's aerials
+|games = 2010 Winter
+|image = Flower ceremony for Womens Aerials adjusted.jpg
+|image_size = 220px
+|caption = Flower ceremony for the winners of the Women's Aerials. From left: [[Li Nina]] (silver), [[Lydia Lassila]] (gold) and [[Guo Xinxin]] (bronze)
+|venue = [[Cypress Bowl Ski Area]]
+|dates = 20 February (qualification)<br>24 February (final)
+|competitors = 23
+|win_value = 214.74
+|win_label = Winning score
+|nations = 10
+|gold = [[Lydia Lassila]]
+|goldNOC = AUS
+|silver = [[Li Nina]]
+|silverNOC = CHN
+|bronze = [[Guo Xinxin]]
+|bronzeNOC = CHN
+|prev=[[Freestyle skiing at the 2006 Winter Olympics – Women's aerials|2006]]
+|next=[[Freestyle skiing at the 2014 Winter Olympics – Women's aerials|2014]]
+}}
+{{Freestyle skiing at the 2010 Winter Olympics}}
+The women's aerials event in [[freestyle skiing]] at the [[2010 Winter Olympics]] in [[Vancouver]], Canada, took place on the February 20 (qualification) and February 24 (final) at [[Cypress Bowl Ski Area]].
+
+==Results==
+===Qualification===
+The qualification was held on 20 February at 10:00.<ref>[http://medias2.fis-ski.com/pdf/2010/FS/8035/2010FS8035QRL.pdf Qualification results]</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !! Bib !! |Name !! Country !! Jump 1!! Rank !! Jump 2 !! Rank !! Total !! Note
+|- bgcolor="#ccffcc"
+| 1  || 25 || align=left| [[Alla Tsuper]] ||align=left| {{flagIOC|BLR|2010 Winter}} ||105.64 || 1 ||  90.12 ||  4 ||  195.76 || '''Q'''
+|- bgcolor="#ccffcc"
+| 2  || 1 || align=left| [[Li Nina]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 97.11 || 2 || 94.99|| 2 || 192.10 || '''Q'''
+|- bgcolor="#ccffcc"
+| 3  || 2 || align=left| [[Guo Xinxin]] ||align=left| {{flagIOC|CHN|2010 Winter}} ||88.08 || 8 || 101.08|| 1 || 189.16||  '''Q'''
+|- bgcolor="#ccffcc"
+| 4  || 6 || align=left| [[Cheng Shuang]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 94.29||  4 ||86.62 || 6|| 180.91 ||  '''Q'''
+|- bgcolor="#ccffcc"
+| 5  || 18 || align=left| [[Emily Cook (skier)|Emily Cook]] ||align=left| {{flagIOC|USA|2010 Winter}} || 86.31||  12 ||93.94 || 3 || 180.25  ||  '''Q'''
+|- bgcolor="#ccffcc"
+| 6  || 16 || align=left| [[Lacy Schnoor]] ||align=left| {{flagIOC|USA|2010 Winter}} || 87.77|| 10 || 81.74|| 10 ||169.51   || '''Q'''
+|- bgcolor="#ccffcc"
+| 7  || 8 || align=left| [[Assoli Slivets]] ||align=left| {{flagIOC|BLR|2010 Winter}} || 84.17 || 14 || 85.22 ||7  || 169.39  || '''Q'''
+|- bgcolor="#ccffcc"
+| 8  || 3 || align=left| [[Xu Mengtao]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 92.74|| 6 || 75.81 || 12 || 168.55  ||  '''Q'''
+|- bgcolor="#ccffcc"
+| 9  || 4 || align=left| [[Lydia Lassila]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 85.65 || 13 || 81.90 || 9 || 167.55 || '''Q'''
+|- bgcolor="#ccffcc"
+| 10 || 19 || align=left| [[Elizabeth Gardner (athlete)|Elizabeth Gardner]] ||align=left| {{flagIOC|AUS|2010 Winter}} ||89.00|| 7 || 75.60 || 13 || 164.60 || '''Q'''
+|- bgcolor="#ccffcc"
+| 11 || 24 || align=left| [[Jacqui Cooper]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 87.88|| 9 || 75.11 || 14 || 162.99 || '''Q'''
+|- bgcolor="#ccffcc"
+| 12  || 22 || align=left| [[Ashley Caldwell]] ||align=left| {{flagIOC|USA|2010 Winter}} || 79.66 || 16 || 82.68 || 8 ||  	162.34||  '''Q'''
+|- 
+| 13 || 10 || align=left| [[Nadiya Didenko]] ||align=left| {{flagIOC|UKR|2010 Winter}} || 87.77 || 11 ||73.49 || 15 || 161.26  ||
+|- 
+| 14 || 17 || align=left| [[Olha Volkova]] ||align=left| {{flagIOC|UKR|2010 Winter}} ||82.53 || 15 || 78.25 || 11 || 160.78  ||
+|- 
+| 15 || 26 || align=left| [[Veronika Bauer]] ||align=left| {{flagIOC|CAN|2010 Winter}} ||94.47 || 3 || 65.99|| 17 || 160.46||
+|- 
+| 16 || 7 || align=left| [[Evelyne Leu]] ||align=left| {{flagIOC|SUI|2010 Winter}} || 93.75 || 5 || 61.75 || 19 ||  155.50||  
+|- 
+| 17 || 12 || align=left| [[Jana Lindsey]] ||align=left| {{flagIOC|USA|2010 Winter}} || 64.10|| 19 || 87.59 || 5 || 151.69 || 
+|- 
+| 18 || 9 || align=left| [[Bree Munro]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 74.37 || 17 || 69.09 || 16 || 143.46  || 
+|- 
+| 19 || 11 || align=left| [[Tanja Schärer]] ||align=left| {{flagIOC|SUI|2010 Winter}} || 60.63|| 20 || 65.10 || 18 ||125.73 ||
+|- 
+| 20 || 21|| align=left| [[Olga Polyuk]] ||align=left| {{flagIOC|UKR|2010 Winter}} || 60.37|| 21 || 55.36 || 20 || 115.73   ||
+|- 
+| 21 || 30 || align=left| [[Martina Konopová]] ||align=left| {{flagIOC|CZE|2010 Winter}} || 66.84|| 18 || 48.23 || 22 || 115.07 ||
+|- 
+| 22 || 23 || align=left| [[Sarah Ainsworth]] ||align=left| {{flagIOC|GBR|2010 Winter}} || 52.44 || 22 || 52.92|| 21 ||105.36 || 
+|- 
+| 23  || 28 || align=left| [[Zhibek Arapbayeva]] ||align=left| {{flagIOC|KAZ|2010 Winter}} || 48.89 || 23 || 38.09 || 23 || 86.98 || 
+|}
+
+===Final===
+The final was held on 24 February at 19:30.<ref>[http://medias2.fis-ski.com/pdf/2010/FS/8035/2010FS8035FRL.pdf Final results]</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !! Bib !! Name !! Country !! Jump 1!! Rank !! Jump 2 !! Rank !! |Total !! Note
+|- 
+| {{gold01}} || 4 || align=left| [[Lydia Lassila]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 106.25 || 2 || 108.49 || 1 || 214.74 || 
+|- 
+| {{silver02}}  || 1 || align=left| [[Li Nina]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 99.40 || 4 || 107.83 || 2 || 207.23 || 
+|- 
+| {{bronze03}}  || 2 || align=left| [[Guo Xinxin]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 98.82 || 5 || 106.40 || 3 || 205.22 ||
+|- 
+| {{sort|04|4}}  || 8 || align=left| [[Assoli Slivets]] ||align=left| {{flagIOC|BLR|2010 Winter}} || 102.79 || 3 || 95.90 || 5 || 198.69 || 
+|- 
+| {{sort|05|5}}   || 24 || align=left| [[Jacqui Cooper]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 90.82 || 7 || 103.47 || 4 || 194.29 || 
+|- 
+| {{sort|06|6}}  || 3 || align=left| [[Xu Mengtao]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 108.74 || 1 || 82.87 || 11 || 191.61 || 
+|- 
+| {{sort|07|7}}  || 6 || align=left| [[Cheng Shuang]] ||align=left| {{flagIOC|CHN|2010 Winter}} || 94.64 || 6 || 93.23 || 7 || 187.87 || 
+|- 
+| {{sort|08|8}}  || 25 || align=left| [[Alla Tsuper]] ||align=left| {{flagIOC|BLR|2010 Winter}} || 86.64 || 9 || 95.20 || 6 || 181.84 || 
+|- 
+| {{sort|09|9}}  || 16 || align=left| [[Lacy Schnoor]] ||align=left| {{flagIOC|USA|2010 Winter}} || 89.88 || 8 || 83.01 || 10 || 172.89 || 
+|- 
+| 10  || 22 || align=left| [[Ashley Caldwell]] ||align=left| {{flagIOC|USA|2010 Winter}} || 86.53 || 10 || 84.57 || 8 || 171.10 || 
+|- 
+| 11  || 18 || align=left| [[Emily Cook (skier)|Emily Cook]] ||align=left| {{flagIOC|USA|2010 Winter}} || 65.03 || 11 || 83.89 || 9 || 148.92 || 
+|- 
+| 12  || 19 || align=left| [[Elizabeth Gardner (athlete)|Elizabeth Gardner]] ||align=left| {{flagIOC|AUS|2010 Winter}} || 63.09 || 12 || 23.61 || 12 || 86.70 ||
+|}
+
+==References==
+{{reflist}}
+
+{{Footer Olympic Champions In Freestyle Skiing Women}}
+
+{{DEFAULTSORT:Freestyle skiing at the 2010 Winter Olympics - Women's aerials}}
+[[Category:Women's freestyle skiing at the 2010 Winter Olympics]]
+[[Category:Women's events at the 2010 Winter Olympics]]

@@ -1,0 +1,904 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox tennis tournament event|2004|Summer Olympics|
+| defchamp = 
+| champ = {{flagIOCathlete|[[Nicolás Massú]]|CHI|2004 Summer}}
+| runner = {{flagIOCathlete|[[Mardy Fish]]|USA|2004 Summer}}
+| score = 6–3, 3–6, 2–6, 6–3, 6–4
+| quadrennial = yes
+| multi = yes
+}}
+{{Infobox Olympic event
+|event = Men's singles tennis
+|games = 2004 Summer
+|image = File:TennisAt2004SummerOlympics-1.jpg
+|caption = Tennis as the 2004 Olympics
+|venue= [[Athens Olympic Tennis Centre]], [[Athens]]
+|dates = 15–22 August 2004
+|competitors = 64
+|nations = 32
+|longnames = yes
+|gold = [[Nicolás Massú]]
+|goldNOC = CHI
+|silver =[[Mardy Fish]]
+|silverNOC = USA
+|bronze = [[Fernando González]]
+|bronzeNOC = CHI
+|prev = [[Tennis at the 2000 Summer Olympics – Men's singles|2000]]
+|next = [[Tennis at the 2008 Summer Olympics – Men's singles|2008]]
+}} 
+{{main|Tennis at the 2004 Summer Olympics}}
+
+[[Chile at the 2004 Summer Olympics|Chile]]'s [[Nicolás Massú]] defeated the [[United States at the 2004 Summer Olympics|United States]]' [[Mardy Fish]] in the final, 6–3, 3–6, 2–6, 6–3, 6–4 to win the gold medal in Men's Singles [[tennis]] at the [[2004 Summer Olympics]].<ref>{{cite web|url=https://edition.cnn.com/2004/SPORT/08/22/tennis.massu/index.html
+|title=Massu claims second gold in a day|publisher=CNN|accessdate=10 July 2025}}</ref><ref>{{cite web|url=http://news.bbc.co.uk/sport1/hi/olympics_2004/tennis/3589322.stm|title=Massu seals golden double|publisher=BBC News|accessdate=10 July 2025}}</ref> In the bronze-medal match, Chile's [[Fernando González]] defeated the United States' [[Taylor Dent]], 6–4, 2–6, 16–14. Massú became the only man to win both the singles and [[Tennis at the 2004 Summer Olympics – Men's doubles|men's doubles]] gold medals at the same Olympic Games. The two medals were Chile's first in men's singles, and Massú's gold plus the Chileans' doubles gold were the only two gold medals for [[Chile at the Olympics]], until shooter Francisca Crovetto's gold obtained at the [[2024 Summer Olympics]].
+
+The tournament was held at the [[Athens Olympic Tennis Centre|Olympic Tennis Centre]] in [[Athens]], [[Greece]]. There were 64 players from 32 nations.<ref name=Olympedia>{{cite web|url=https://www.olympedia.org/results/45876 |title=Singles, Men |work=Olympedia |access-date=22 December 2020}}</ref> The limit on players per nation had been four since the 2000 Games. Only the final match was best-of-five-sets; all others were best-of-three-sets.
+
+[[Yevgeny Kafelnikov]] of [[Russia at the 2000 Summer Olympics|Russia]] was the reigning gold medalist from [[Tennis at the 2000 Summer Olympics – Men's singles|2000]], but he retired from the sport in 2003.
+
+[[Switzerland at the 2004 Summer Olympics|Switzerland]]'s [[Roger Federer]] was the [[List of ATP number 1 ranked singles tennis players|world No. 1]], but he lost to world No. 74 [[Tomáš Berdych]] of the [[Czech Republic at the 2004 Summer Olympics|Czech Republic]] in the second round.
+
+==Background==
+
+The men's singles tournament of the [[2004 Summer Olympics]] was held at the [[Athens Olympic Tennis Centre]] in [[Athens]], Greece from 15 to 22 August 2004.<ref name="2004TennisOLYMediaGuide" /> [[Tennis at the Summer Olympics|Tennis]] was one of the original sports of the [[1896 Summer Olympics]]. It was withdrawn after the [[1924 Summer Olympics]] due to disagreements between the sport's governing body, the [[International Tennis Federation]] (ITF), and the independent Olympic organisation, the [[International Olympic Committee]] (IOC) over how to define amateur athletes. The IOC reinstated Tennis to the Olympic programme as a demonstration sport at the [[1968 Summer Olympics|1968 Games]] and the [[1984 Summer Olympics|1984 Olympics]] before returning as a full medal sport open to all players at the [[1988 Summer Olympics|1988 Games]].<ref name=2004TennisOLYMediaGuide>{{cite web|title=Tennis Event at the 2004 Olympic Games – Media Guide|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3821_original.PDF|publisher=International Tennis Federation|date=2004|access-date=20 March 2020|archive-url=https://web.archive.org/web/20040823231019/http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3821_original.PDF|archive-date=23 August 2004|url-status=dead}}</ref> The 2004 tournament was the 12th official medal event in men's singles.
+
+Five of the eight quarterfinalists from the 2000 tournament returned: silver medalist [[Tommy Haas]] of Germany, fourth-place finisher [[Roger Federer]] of Switzerland, and three men eliminated in the quarterfinals: [[Max Mirnyi]] of Belarus, [[Juan Carlos Ferrero]] of Spain, and [[Gustavo Kuerten]] of Brazil.
+
+Algeria, Chinese Taipei, and Cyprus each made their debut in the event. France made its 11th appearance, most among all nations, having missed only the 1904 event.
+
+==Qualification==
+
+Qualification for the single tournament was restricted to four players per [[National Olympic Committee]] (NOC), an organisation representing a country at the Olympics. [[List of national tennis associations|National Tennis Associations]] who were members of the ITF before 1 January 2004 were allowed to nominate players for entry into the competition. The tournament featured a total of 64 players with 48 qualifying on their ITF World Ranking on 14 June and two received invitations from the Tripartite Commission. Any NOC who had more than four players able to qualify by this method were encouraged to choose their highest ranked players eligible to compete in the tournament. The remaining 14 qualified via [[Wild card (sports)|wild card]] places: eight were selected on their world ranking and the remaining six were chosen on the basis of his world ranking, whether his country has representation in tennis, the number of players who were in Athens and his geographical location.<ref name="Qualifying">{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3118_original.PDF|title=Qualification|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040823220622/http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3118_original.PDF|archive-date=23 August 2004|access-date=20 March 2020}}</ref><ref name="Tennis2004OLYRegs">{{cite web|url=http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3110_original.PDF|title=Olympic Tennis Event 2004 – Regulations|publisher=International Tennis Federation|pages=4–7, 11 & 17–18|url-status=dead|archive-url=https://web.archive.org/web/20040823230818/http://www.itftennis.com/shared/medialibrary/pdf/original/IO_3110_original.PDF|archive-date=23 August 2004|access-date=20 March 2020}}</ref>
+
+Players who earned automatic entry into the draw and who withdrew from the competition due to illness, injury or bereavement before midnight on 7 August were replaced by one from his own country or the next highest ranking entry. Had this not been the case, then the ITF selected the highest ranked nominated player or eligible competitor if a country had more than four players to the tournament.<ref name="2004TennisOLYMediaGuide" /><ref name="Tennis2004OLYRegs" />
+
+==Preview==
+
+Sixteen players were seeded according to their final position in the ITF world rankings by the referee of the competition.<ref name="Tennis2004OLYRegs" /> The [[2003 Wimbledon Championships – Men's Singles|2003 Wimbledon]] champion [[Roger Federer]] was seeded first, [[Andy Roddick]] was the second seed, [[Carlos Moyá]] was seed third and [[Tim Henman]] was seeded fourth.<ref>{{Cite news|url=https://link.gale.com/apps/doc/A120479943/GPS?u=wikipedia&sid=GPS&xid=9e9cb23e|title=Henin-Hardenne, Federer top Olympic seeds|date=11 August 2004|access-date=20 March 2020|agency=[[United Press International]]|via=Gale In Context: Biography|url-access=subscription}}</ref> [[Martin Verkerk]], the [[2003 French Open – Men's Singles|2003 French Open]] runner-up, sustained a chest muscle injury that required him to withdraw from the tournament. Verkerk was replaced in the draw by [[Wayne Arthurs (tennis)|Wayne Arthurs]].<ref>{{Cite news|url=https://www.abc.net.au/news/2004-08-10/arthurs-gets-last-ditch-olympics-berth/2023084|title=Arthurs gets last-ditch Olympics berth|date=11 August 2004|access-date=20 March 2020|url-status=live|archive-url=https://web.archive.org/web/20161027191022/http://www.abc.net.au/news/2004-08-10/arthurs-gets-last-ditch-olympics-berth/2023084|archive-date=27 October 2016|publisher=[[ABC News (Australia)|ABC News]]}}</ref> World number three [[Guillermo Coria]] had a right shoulder tendinitis injury that made it sore and withdrew from the competition with his place taken by world number 40 [[Mariano Zabaleta]].<ref>{{Cite news|url=https://edition.cnn.com/2004/SPORT/08/04/olympics.coria/|title=Injured Coria misses Olympic games|date=5 August 2004|access-date=20 March 2020|publisher=[[CNN]]}}</ref><ref>{{Cite web|url=http://news.bbc.co.uk/sport1/hi/olympics_2004/tennis/3535888.stm|title=Coria to miss Olympics|date=4 August 2004|publisher=[[BBC Sport]]|access-date=20 March 2020}}</ref> World number five and [[2004 French Open – Men's Singles|2004 French Open]] champion [[Gastón Gaudio]] aggravated a post-traumatic right heel injury and right shoulder pain playing in the [[2004 Western & Southern Financial Group Masters|2004 Cincinnati Masters]] and became the second Argentine to withdraw from the competition. His compatriot and world number 50 [[Agustín Calleri]] replaced him.<ref>{{Cite news|url=http://www.abc.net.au/news/2004-08-08/argentinas-hopes-fade-as-gaudio-is-injured/2022268|title=Argentina's hopes fade as Gaudio is injured|date=7 August 2004|access-date=20 March 2020|url-status=dead|archive-url=https://web.archive.org/web/20161027190419/http://www.abc.net.au/news/2004-08-08/argentinas-hopes-fade-as-gaudio-is-injured/2022268|archive-date=27 October 2016|publisher=ABC News}}</ref> [[David Nalbandian]], the [[2002 Wimbledon Championships – Men's Singles|2002 Wimbledon]] runner-up, withdrew with a strained left thigh and he was the third Argentine player to leave the event. [[Frédéric Niemeyer]] replaced him in the draw.<ref>{{Cite news|url=https://www.cbsnews.com/news/olympic-highlights/|title=Olympic Highlights – Tennis|date=15 August 2004|access-date=20 March 2020|publisher=[[CBS News]]|agency=[[Associated Press]]}}</ref> A right wrist injury caused [[Irakli Labadze]] to withdraw from the tournament and [[Vladimir Voltchkov]], a [[2000 Wimbledon Championships – Men's Singles|2000 Wimbledon]] semi-finalist, replaced him.<ref>{{Cite news|url=https://www.espn.com/olympics/summer04/tennis/news/story?id=1858980|title=2000 Wimbledon semifinalist steps in|date=13 August 2004|access-date=21 March 2020|url-status=live|archive-url=https://web.archive.org/web/20040821183230/http://sports.espn.go.com/oly/summer04/tennis/news/story?id=1858980|archive-date=21 August 2004|publisher=[[ESPN]]|agency=Associated Press}}</ref>
+
+Federer was considered by the press as the strong favourite before the tournament.<ref>{{Cite news|last=Clarey|first=Christopher|url=https://link.gale.com/apps/doc/A120591633/GPS?u=wikipedia&sid=GPS&xid=ee8c5a59|title=Every continent offers potential global stars; Athens 2004|date=13 August 2004|work=[[The New York Times International Edition|International Herald Tribune]]|access-date=20 March 2020|page=26|via=Gale OneFile: News|url-access=subscription}}</ref><ref>{{Cite news|last=Schlink|first=Leo|url=https://link.gale.com/apps/doc/A120364642/GPS?u=wikipedia&sid=GPS&xid=94f96f03|title=The Olympian Athens 2004; Tennis|date=10 August 2004|work=[[The Advertiser (Adelaide)|The Advertiser]]|access-date=20 March 2020|page=L19|via=Gale OneFile: News|url-access=subscription}}</ref> Henman, who had played in two previous Olympic Games, commented on his chances of victory, "Federer goes into the event favourite, there's no doubt about that. And [Andy] Roddick will fancy his chances on a hard court. But I've beaten both of them this year so, if I can stay healthy and execute my intended game-plan, then there's a chance for me too. I'd be lying if I said I haven't dreamed of winning the gold medal."<ref>{{Cite news|last=Hodgkinson|first=Mark|url=https://link.gale.com/apps/doc/A120582939/GPS?u=wikipedia&sid=GPS&xid=6bcff20a|title=Henman must prove his intent|date=13 August 2004|work=[[The Daily Telegraph]]|access-date=20 March 2020|via=Gale OneFile: News|url-access=subscription}}</ref> Roddick used his pre-tournament press conference to state that he wanted to medal at the Olympics and was concerned about his opponent in the first round.<ref>{{Cite news|last=Maher|first=John|url=https://link.gale.com/apps/doc/A120631760/GPS?u=wikipedia&sid=GPS&xid=e945e66c|title=Roddick chasing gold, but so is No. 1 Federer|date=13 August 2004|work=[[Austin American-Statesman]]|access-date=20 March 2020|page=C7|via=Gale OneFile: News|url-access=subscription}}</ref>
+
+==Ranking points==
+
+The breakdown of ranking points towards the [[ATP rankings]] is shown below:<ref name=ITFRP>{{cite web|title=Ranking Points|url=http://www.itftennis.com/olympics/event/points.asp|publisher=International Tennis Federation|access-date=20 March 2020|archive-url=https://web.archive.org/web/20040823165631/http://www.itftennis.com/olympics/event/points.asp|archive-date=23 August 2004|url-status=dead}}</ref>
+{| class="wikitable" style="text-align:center;"
+! width="150" |Stage
+!Gold medal
+!Silver medal
+!Bronze medal
+!Fourth place
+!Quarterfinals
+!Round of 16
+!Round of 32
+!Round of 64
+|-
+! width="150" |ATP Entry Ranking points
+| style="background:Gold;" |400
+| style="background:Silver;" |280
+| style="background:#c96;" |205
+|155
+|100
+|50
+|25
+|5
+|-
+! width="150" |ATP Champions Race points
+| style="background:Gold;" |80
+| style="background:Silver;" |56
+| style="background:#c96;" |41
+|31
+|20
+|10
+|5
+|1
+|}
+
+==Tournament summary==
+
+The tournament was a single elimination competition with a bronze-medal match. The competition was played on [[Hardcourt|hard courts]] as the [[Tennis scoring system|best-of-three sets]] in every match until the gold medal game, which was held to the best-of-five sets.<ref name="Tennis2004OLYRegs" /><ref>{{Cite news|url=https://www.espn.com/olympics/summer04/tennis/news/story?id=1857401|title=ATP, WTA eye rankings points for Olympics|date=11 August 2004|access-date=20 March 2020|url-status=live|archive-url=https://web.archive.org/web/20040821144118/http://sports.espn.go.com/oly/summer04/tennis/news/story?id=1857401|archive-date=21 August 2004|publisher=ESPN|agency=Associated Press}}</ref>
+
+===Round 1===
+
+The draw for the first round of the championship was made on 12 August in Building H of the Athens 2004 Conference Room at ATHOC Headquarters. The first round of the competition, in which 64 players participated, took place from 15 to 16 August.<ref name="2004TennisOLYMediaGuide" /> Roddick took a 6–3, 7–6 straight sets victory over [[Flávio Saretta]] as wild card entrant Arthurs defeated [[Victor Hănescu]] 6–4, 7–6. [[Marcos Baghdatis]], the 2003 ITF  Junior World champion and a player who received funding from Olympic Solidarity, recovered from one set behind to win 5–7, 7–6, 7–5 over [[Grégory Carraz]].A 6–3, 6–1 triumph came for the fifth seed [[Juan Carlos Ferrero]] against [[Hicham Arazi]] before [[Max Mirnyi]] caused an [[Upset (competition)|upset]] over the 11th seed [[Juan Ignacio Chela]] by taking a 3–6, 7–6, 6–4 win.<ref>{{Cite web|url=http://www.itftennis.com/olympics/news/newsarticle.asp?id=12381|title=Men's Round-up, Day One Day Session: Roddick Shakes off Edgy Start|last=Gabriel|first=Craig|date=15 August 2004|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040823215450/http://www.itftennis.com/olympics/news/newsarticle.asp?id=12381|archive-date=23 August 2004|access-date=20 March 2020}}</ref> Henman, a silver medallist in the [[Tennis at the 1996 Summer Olympics – Men's doubles|1996 Olympic doubles event]], was the highest placed seed to lose in the first round when he lost to world number 27 [[Jiří Novák]] 6–3, 6–3 due to an inconsistent and error-prone play in a 68-minute match that took place in blustery weather.<ref>{{Cite web|url=http://news.bbc.co.uk/sport1/hi/olympics_2004/tennis/3565030.stm|title=Henman crashes out|date=15 August 2004|publisher=BBC Sport|url-status=live|archive-url=https://web.archive.org/web/20040825184150/http://news.bbc.co.uk/sport1/hi/olympics_2004/tennis/3565030.stm|archive-date=25 August 2004|access-date=20 March 2020}}</ref><ref>{{Cite news|last=Mochlinski|first=Kaz|url=https://www.telegraph.co.uk/sport/tennis/2384818/Henmans-dream-ends-early-again.html|title=Henman's dream ends early again|date=16 August 2004|work=The Daily Telegraph|access-date=20 March 2020}}</ref>
+
+[[Marat Safin]], a seeded player regarded as one who was in danger of elimination, won the first set of his match against [[Karol Kučera]] within 20 minutes. After Kučera played less cautiously in the second set, a break in the fifth game saw Safin claim a 6–0, 6–4 victory.<ref>{{Cite web|url=http://www.itftennis.com/olympics/news/newsarticle.asp?id=12383|title=Men's Round-up, Day One Night Session: Wind & Novak Blow Henman Away|last=Bowers|first=Chris|date=15 August 2004|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040823215332/http://www.itftennis.com/olympics/news/newsarticle.asp?id=12383|archive-date=23 August 2004|access-date=20 March 2020}}</ref> Moyá, the [[1998 French Open – Men's Singles|1998 French Open]] champion, took almost three hours and a total of five match points in the final two sets of his game against [[Thomas Enqvist]] to win 7–6, 6–7, 9–7.<ref name=":0">{{Cite news|url=https://www.rediff.com/sports/2004/aug/16oly-ten4.htm|title=Moya wins, Dementieva out|date=16 August 2004|access-date=21 March 2020|work=[[Rediff.com]]|agency=[[Reuters]]}}</ref> [[Paradorn Srichaphan]], the 12th seed, was upset by Joachim Johansson in a 6–3, 6–3 straight sets defeat,<ref name=":0" /><ref name=":1">{{Cite news|url=https://www.voanews.com/archive/olympic-results-monday-august-16-2004-08-16-0|archive-url=https://web.archive.org/web/20200321121220/https://www.voanews.com/archive/olympic-results-monday-august-16-2004-08-16-0|url-status=dead|archive-date=21 March 2020|title=Olympic Results: Monday August 16 – 2004-08-16|date=16 August 2004|access-date=21 March 2020|publisher=[[Voice of America]]}}</ref> and another upset victory occurred when the 13th seed [[Andrei Pavel]] lost to [[Ivo Karlović]].<ref name=":1" /> [[Olivier Rochus]] came from a set behind [[Mark Philippoussis]], who played in his first match in four weeks since after receiving artificial cartilage injections into his left knee, to claim a 3–6, 6–0, 6–1 victory. Philippoussis had tendinitis in his left knee that caused discomfort during the match and affected his movement.<ref>{{Cite web|url=http://www.itftennis.com/olympics/news/newsarticle.asp?id=12393|title=Men's Round-Up, Day Two Night Session: Federer Starts Olympic Run|last=Gabriel|first=Craig|date=16 August 2004|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040823214420/http://www.itftennis.com/olympics/news/newsarticle.asp?id=12393|archive-date=23 August 2004|access-date=21 March 2020}}</ref> Federer took 1¾ hours to defeat [[Nikolay Davydenko]] 6–3, 5–7, 6–1.<ref>{{Cite web|url=http://news.bbc.co.uk/sport2/hi/olympics_2004/tennis/3569656.stm|title=Federer battles through|date=16 August 2004|publisher=BBC Sport|url-status=live|archive-url=https://web.archive.org/web/20040829072345/http://news.bbc.co.uk/sport2/hi/olympics_2004/tennis/3569656.stm|archive-date=29 August 2004|access-date=21 March 2020}}</ref> He received an official warning for [[List of tennis violations|ball abuse]] when he struck the [[Tennis ball|ball]] onto the roof of the centre court in frustration over his play in the second set.<ref>{{Cite news|url=https://edition.cnn.com/2004/SPORT/08/16/olympics.federer/index.html|title=Federer through after rare warning|date=16 August 2004|access-date=21 March 2020|publisher=CNN}}</ref>
+
+===Round 2===
+
+The second round occurred on 17 August.<ref name="2004TennisOLYMediaGuide" /> Calleri withdrew at this stage of the tournament because of strain to his left abdominal, giving his opponent [[Igor Andreev]] a [[walkover]] into the third round and no players from Argentina left in the competition.<ref>{{Cite web|url=http://www.itftennis.com/olympics/news/newsarticle.asp?id=12394|title=Calleri withdraws, Andreev advances by walkover|date=17 August 2004|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040825090714/http://www.itftennis.com/olympics/news/newsarticle.asp?id=12394|archive-date=25 August 2004|access-date=21 March 2020}}</ref> Unseeded player and world number 49 [[Mardy Fish]] came from one set and a break point behind to claim a 4–6, 7–6 <small>(7-5)</small>, 6–4 victory over former world number one [[Juan Carlos Ferrero]].<ref name=":2">{{Cite news|url=https://link.gale.com/apps/doc/A120776132/GPS?u=wikipedia&sid=GPS&xid=42344b70|title=Fish surprises Ferrero in Olympic tennis|date=17 August 2004|access-date=21 March 2020|agency=United Press International|via=Gale In Context: Biography|url-access=subscription}}</ref> Fish said of his win, "There were a lot of Spanish people out there cheering for him. So whoever was cheering for me, I was pointing at them."<ref name=":2" /> Another second round winner from the United States came in the form of [[Taylor Dent]], who recovered from a slow start to defeat [[Dominik Hrbatý]] 7–6, 6–4.<ref>{{Cite web|url=http://www.itftennis.com/olympics/news/newsarticle.asp?id=12395|title=Men's Round-up, Day Three Day Session: Fish Nets Biggest Catch of his Career|last=Bowers|first=Chris|date=17 August 2004|publisher=International Tennis Federation|url-status=dead|archive-url=https://web.archive.org/web/20040823212818/http://www.itftennis.com/olympics/news/newsarticle.asp?id=12395|archive-date=23 August 2004|access-date=21 March 2020}}</ref>
+
+Roddick made 17 [[Ace (tennis)|aces]], 30 [[Glossary of tennis terms#W|winners]] and 57 [[Glossary of tennis terms#U|unforced errors]] in coming back from two match points behind and defeating the 2000 silver medallist [[Tommy Haas]] 6–4, 3–6, 9–7 in a 2-hour and 19 minute match.<ref>{{Cite news|last=Crouse|first=Karen|url=https://link.gale.com/apps/doc/A120917587/GPS?u=wikipedia&sid=GPS&xid=1d5966c8|title=Roddick, Fish Scrap For Wins|date=18 August 2004|work=[[The Palm Beach Post]]|access-date=21 March 2020|page=7C|via=Gale OneFile: News|url-access=subscription}}</ref> Federer was the highest ranked player to lose in the second round when world number 74 [[Tomáš Berdych]] beat him 4–6, 7–5, 7–5 due to a poor serve and a series of unforced errors.<ref>{{Cite news|url=https://link.gale.com/apps/doc/A120875903/GPS?u=wikipedia&sid=GPS&xid=614011cd|title=Federer flops; Tennis|date=18 August 2004|work=[[The Times]]|access-date=21 March 2020|page=32|via=Gale Academic OneFile|url-access=subscription}}</ref><ref name=":3">{{Cite web|url=http://news.bbc.co.uk/sport2/hi/olympics_2004/tennis/3572960.stm|title=Federer crashes out|date=17 August 2004|publisher=BBC Sport|url-status=live|archive-url=https://web.archive.org/web/20040828192321/http://news.bbc.co.uk/sport2/hi/olympics_2004/tennis/3572960.stm|archive-date=28 August 2004|access-date=21 March 2020}}</ref> Berdych said of the victory, "It was everything. This guy won Wimbledon and the Australian Open and now you are the player who beats him. Unbelievable."<ref name=":3" /> Moyá defeated [[Olivier Rochus]] 6–0, 7–6 and tenth seed [[Nicolás Massú]] won 7–6, 6–2 over [[Vince Spadea]].<ref name="SRDraw" />
+
+==Schedule==
+
+<small>All times are Greece Standard Time ([[UTC+2]])</small>
+
+The schedule was condensed compared to previous Games, taking only 8 days rather than 11 to complete.
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Sunday, 15 August 2004<br>Monday, 16 August 2004 || || '''Round of 64'''
+|-
+| Tuesday, 17 August 2004 || || '''Round of 32'''
+|-
+| Wednesday, 18 August 2004 || || '''Round of 16'''
+|-
+| Thursday, 19 August 2004 || || '''Quarterfinals'''
+|-
+| Friday, 20 August 2004 || '''17:00''' || '''Semifinals'''
+|-
+| Saturday, 21 August 2004 || '''17:00''' || '''Bronze medal match'''
+|- style=background:lemonchiffon
+| Sunday, 22 August 2004 || || '''Final'''
+|}
+
+==Seeds==
+
+{{columns-list|colwidth=30em|
+# {{flagIOCathlete|[[Roger Federer]]|SUI|2004 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Andy Roddick]]|USA|2004 Summer}} ''(third round)''
+# {{flagIOCathlete|[[Carlos Moyá]]|ESP|2004 Summer}} ''(quarterfinals)''
+# {{flagIOCathlete|[[Tim Henman]]|GBR|2004 Summer}}  ''(first round)''
+# {{flagIOCathlete|[[Juan Carlos Ferrero]]|ESP|2004 Summer}} ''(second round)''
+# {{flagIOCathlete|[[David Nalbandian]]|ARG|2004 Summer}} ''(withdrew)''
+# {{flagIOCathlete|[[Rainer Schüttler]]|GER|2004 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Sébastien Grosjean]]|FRA|2004 Summer}} ''(quarterfinals)''
+# {{flagIOCathlete|[[Marat Safin]]|RUS|2004 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Nicolás Massú]]|CHI|2004 Summer}} '''(champion, gold medalist)'''
+# {{flagIOCathlete|[[Juan Ignacio Chela]]|ARG|2008 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Paradorn Srichaphan]]|THA|2004 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Andrei Pavel]]|ROM|2004 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Nicolas Kiefer]]|GER|2004 Summer}} ''(third round)''
+# {{flagIOCathlete|[[Tommy Robredo]]|ESP|2004 Summer}} ''(third round)''
+# {{flagIOCathlete|[[Fernando González]]|CHI|2004 Summer}} ''(semifinals, bronze medalist)''
+}}
+
+==Draw==
+<ref name=SRDraw>{{cite web|title=Tennis at the 2004 Athina Summer Games: Men's Singles|url=http://www.sports-reference.com/olympics/summer/2004/TEN/mens-singles.html|publisher=Sports Reference|access-date=20 March 2020|archive-url=https://web.archive.org/web/20090426093420/http://www.sports-reference.com/olympics/summer/2004/TEN/mens-singles.html|archive-date=26 April 2009|url-status=dead}}</ref>
+
+=== Finals ===
+{{8TeamBracket
+| sets = 3/3/5/3
+| RD1=Quarterfinals
+| RD2=Semifinals
+| RD3=Final (gold-medal match)
+| 3rd=Bronze-medal match
+| team-width=210
+
+| RD1-seed1=&nbsp;
+| RD1-team1={{flagIOCathlete|[[Tomáš Berdych]]|CZE|2004 Summer}}
+| RD1-score1-1=4
+| RD1-score1-2=1
+| RD1-score1-3=&nbsp;
+| RD1-seed2=&nbsp;
+| RD1-team2='''{{flagIOCathlete|[[Taylor Dent]]|USA|2004 Summer}}'''
+| RD1-score2-1='''6'''
+| RD1-score2-2='''6'''
+| RD1-score2-3=&nbsp;
+
+| RD1-seed3=3
+| RD1-team3={{flagIOCathlete|[[Carlos Moyá]]|ESP|2004 Summer}}
+| RD1-score3-1=2
+| RD1-score3-2=5
+| RD1-score3-3=&nbsp;
+| RD1-seed4=10
+| RD1-team4='''{{flagIOCathlete|[[Nicolás Massú]]|CHI|2004 Summer}}'''
+| RD1-score4-1='''6'''
+| RD1-score4-2='''7'''
+| RD1-score4-3=&nbsp;
+
+| RD1-seed5=&nbsp;
+| RD1-team5='''{{flagIOCathlete|[[Mardy Fish]]|USA|2004 Summer}}'''
+| RD1-score5-1='''6'''
+| RD1-score5-2='''6'''
+| RD1-score5-3=&nbsp;
+| RD1-seed6=&nbsp;
+| RD1-team6={{flagIOCathlete|[[Mikhail Youzhny]]|RUS|2004 Summer}}
+| RD1-score6-1=3
+| RD1-score6-2=4
+| RD1-score6-3=&nbsp;
+
+| RD1-seed7=8
+| RD1-team7={{nowrap|{{flagIOCathlete|[[Sébastien Grosjean]]|FRA|2004 Summer}}}}
+| RD1-score7-1=2
+| RD1-score7-2='''6'''
+| RD1-score7-3=2
+| RD1-seed8=16
+| RD1-team8={{nowrap|'''{{flagIOCathlete|[[Fernando González]]|CHI|2004 Summer}}'''}}
+| RD1-score8-1='''6'''
+| RD1-score8-2=2
+| RD1-score8-3='''6'''
+| RD2-seed1=&nbsp;
+
+| RD2-team1={{flagIOCathlete|[[Taylor Dent]]|USA|2004 Summer}}
+| RD2-score1-1=6<sup>5</sup>
+| RD2-score1-2=1
+| RD2-score1-3=&nbsp;
+| RD2-seed2=10
+| RD2-team2='''{{flagIOCathlete|[[Nicolás Massú]]|CHI|2004 Summer}}'''
+| RD2-score2-1='''7<sup>7</sup>'''
+| RD2-score2-2='''6'''
+| RD2-score2-3=&nbsp;
+
+| RD2-seed3=&nbsp;
+| RD2-team3='''{{flagIOCathlete|[[Mardy Fish]]|USA|2004 Summer}}'''
+| RD2-score3-1=3
+| RD2-score3-2='''6'''
+| RD2-score3-3='''6'''
+| RD2-seed4=16
+| RD2-team4={{flagIOCathlete|[[Fernando González]]|CHI|2004 Summer}}
+| RD2-score4-1='''6'''
+| RD2-score4-2=3
+| RD2-score4-3=4
+
+| RD3-seed1=10
+| RD3-team1='''{{flagIOCathlete|[[Nicolás Massú]]|CHI|2004 Summer}}'''
+| RD3-score1-1='''6'''
+| RD3-score1-2=3
+| RD3-score1-3=2
+| RD3-score1-4='''6'''
+| RD3-score1-5='''6'''
+| RD3-seed2=&nbsp;
+| RD3-team2={{flagIOCathlete|[[Mardy Fish]]|USA|2004 Summer}}
+| RD3-score2-1=3
+| RD3-score2-2='''6'''
+| RD3-score2-3='''6'''
+| RD3-score2-4=3
+| RD3-score2-5=4
+
+| 3rd-seed1=&nbsp;
+| 3rd-team1={{flagIOCathlete|[[Taylor Dent]]|USA|2004 Summer}}
+| 3rd-score1-1=4
+| 3rd-score1-2='''6'''
+| 3rd-score1-3=14
+| 3rd-seed2=16
+| 3rd-team2={{nowrap|'''{{flagIOCathlete|[[Fernando González]]|CHI|2004 Summer}}'''}}
+| 3rd-score2-1='''6'''
+| 3rd-score2-2=2
+| 3rd-score2-3='''16'''
+}}
+
+===Top half===
+
+====Section 1====
+{{16TeamBracket-Compact-Tennis3
+| RD3=Third round
+| RD4=Quarterfinals
+| RD1-seed01=1
+| RD1-team01={{flagIOCathlete|'''[[Roger Federer|R Federer]]'''|SUI|2004 Summer}}
+| RD1-score01-1='''6'''
+| RD1-score01-2=5
+| RD1-score01-3='''6'''
+| RD1-seed02=
+| RD1-team02={{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2004 Summer}}
+| RD1-score02-1=3
+| RD1-score02-2='''7'''
+| RD1-score02-3=1
+| RD1-seed03=
+| RD1-team03={{flagIOCathlete|'''[[Tomáš Berdych|T Berdych]]'''|CZE|2004 Summer}}
+| RD1-score03-1='''6'''
+| RD1-score03-2='''7'''
+| RD1-score03-3=
+| RD1-seed04=
+| RD1-team04={{flagIOCathlete|[[Florian Mayer|F Mayer]]|GER|2004 Summer}}
+| RD1-score04-1=3
+| RD1-score04-2=5
+| RD1-score04-3=
+| RD1-seed05=
+| RD1-team05={{flagIOCathlete|'''[[Fabrice Santoro|F Santoro]]'''|FRA|2004 Summer}}
+| RD1-score05-1='''6'''
+| RD1-score05-2='''6'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06={{flagIOCathlete|[[Filippo Volandri|F Volandri]]|ITA|2004 Summer}}
+| RD1-score06-1=1
+| RD1-score06-2=2
+| RD1-score06-3=
+| RD1-seed07=WC
+| RD1-team07={{flagIOCathlete|[[Lamine Ouahab|L Ouahab]]|ALG|2004 Summer}}
+| RD1-score07-1=3
+| RD1-score07-2=4
+| RD1-score07-3=
+| RD1-seed08=15
+| RD1-team08={{flagIOCathlete|'''[[Tommy Robredo|T Robredo]]'''|ESP|2004 Summer}}
+| RD1-score08-1='''6'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=
+| RD1-seed09=12
+| RD1-team09={{flagIOCathlete|[[Paradorn Srichaphan|P Srichaphan]]|THA|2004 Summer}}
+| RD1-score09-1=2
+| RD1-score09-2=3
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10={{flagIOCathlete|'''[[Joachim Johansson|J Johansson]]'''|SWE|2004 Summer}}
+| RD1-score10-1='''6'''
+| RD1-score10-2='''6'''
+| RD1-score10-3=
+| RD1-seed11=
+| RD1-team11={{flagIOCathlete|[[Sargis Sargsian|S Sargsian]]|ARM|2004 Summer}}
+| RD1-score11-1=3
+| RD1-score11-2=2
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12={{flagIOCathlete|'''[[Ivan Ljubičić|I Ljubičić]]'''|CRO|2004 Summer}}
+| RD1-score12-1='''6'''
+| RD1-score12-2='''6'''
+| RD1-score12-3=
+| RD1-seed13=
+| RD1-team13={{flagIOCathlete|'''[[Dominik Hrbatý|D Hrbatý]]'''|SVK|2004 Summer}}
+| RD1-score13-1='''6'''
+| RD1-score13-2='''6'''
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14={{flagIOCathlete|[[Younes El Aynaoui|Y El Aynaoui]]|MAR|2004 Summer}}
+| RD1-score14-1=3
+| RD1-score14-2=4
+| RD1-score14-3=
+| RD1-seed15=
+| RD1-team15={{flagIOCathlete|'''[[Taylor Dent|T Dent]]'''|USA|2004 Summer}}
+| RD1-score15-1='''6'''
+| RD1-score15-2=3
+| RD1-score15-3='''6'''
+| RD1-seed16=Alt
+| RD1-team16={{flagIOCathlete|[[Frédéric Niemeyer|F Niemeyer]]|CAN|2004 Summer}}
+| RD1-score16-1=2
+| RD1-score16-2='''6'''
+| RD1-score16-3=4
+| RD2-seed01=1
+| RD2-team01={{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2004 Summer}}
+| RD2-score01-1='''6'''
+| RD2-score01-2=5
+| RD2-score01-3=5
+| RD2-seed02=
+| RD2-team02={{flagIOCathlete|'''[[Tomáš Berdych|T Berdych]]'''|CZE|2004 Summer}}
+| RD2-score02-1=4
+| RD2-score02-2='''7'''
+| RD2-score02-3='''7'''
+| RD2-seed03=
+| RD2-team03={{flagIOCathlete|[[Fabrice Santoro|F Santoro]]|FRA|2004 Summer}}
+| RD2-score03-1='''6'''
+| RD2-score03-2=3
+| RD2-score03-3=4
+| RD2-seed04=15
+| RD2-team04={{flagIOCathlete|'''[[Tommy Robredo|T Robredo]]'''|ESP|2004 Summer}}
+| RD2-score04-1=1
+| RD2-score04-2='''6'''
+| RD2-score04-3='''6'''
+| RD2-seed05=
+| RD2-team05={{flagIOCathlete|[[Joachim Johansson|J Johansson]]|SWE|2004 Summer}}
+| RD2-score05-1=6<sup>3</sup>
+| RD2-score05-2=4
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06={{flagIOCathlete|'''[[Ivan Ljubičić|I Ljubičić]]'''|CRO|2004 Summer}}
+| RD2-score06-1='''7<sup>7</sup>'''
+| RD2-score06-2='''6'''
+| RD2-score06-3=
+| RD2-seed07=
+| RD2-team07={{flagIOCathlete|[[Dominik Hrbatý|D Hrbatý]]|SVK|2004 Summer}}
+| RD2-score07-1=6<sup>4</sup>
+| RD2-score07-2=3
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08={{flagIOCathlete|'''[[Taylor Dent|T Dent]]'''|USA|2004 Summer}}
+| RD2-score08-1='''7<sup>7</sup>'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=
+| RD3-seed01=
+| RD3-team01={{flagIOCathlete|'''[[Tomáš Berdych|T Berdych]]'''|CZE|2004 Summer}}
+| RD3-score01-1='''7<sup>7</sup>'''
+| RD3-score01-2=4
+| RD3-score01-3='''8'''
+| RD3-seed02=15
+| RD3-team02={{flagIOCathlete|[[Tommy Robredo|T Robredo]]|ESP|2004 Summer}}
+| RD3-score02-1=6<sup>2</sup>
+| RD3-score02-2='''6'''
+| RD3-score02-3=6
+| RD3-seed03=
+| RD3-team03={{flagIOCathlete|[[Ivan Ljubičić|I Ljubičić]]|CRO|2004 Summer}}
+| RD3-score03-1=4
+| RD3-score03-2=4
+| RD3-score03-3=
+| RD3-seed04=
+| RD3-team04={{flagIOCathlete|'''[[Taylor Dent|T Dent]]'''|USA|2004 Summer}}
+| RD3-score04-1='''6'''
+| RD3-score04-2='''6'''
+| RD3-score04-3=
+| RD4-seed01=
+| RD4-team01={{flagIOCathlete|[[Tomáš Berdych|T Berdych]]|CZE|2004 Summer}}
+| RD4-score01-1=4
+| RD4-score01-2=1
+| RD4-score01-3=
+| RD4-seed02=
+| RD4-team02={{flagIOCathlete|'''[[Taylor Dent|T Dent]]'''|USA|2004 Summer}}
+| RD4-score02-1='''6'''
+| RD4-score02-2='''6'''
+| RD4-score02-3=
+}}
+
+====Section 2====
+{{16TeamBracket-Compact-Tennis3
+| RD3=Third round
+| RD4=Quarterfinals
+| RD1-seed01=3
+| RD1-team01={{flagIOCathlete|'''[[Carlos Moyá|C Moyá]]'''|ESP|2004 Summer}}
+| RD1-score01-1='''7<sup>10</sup>'''
+| RD1-score01-2=6<sup>7</sup>
+| RD1-score01-3='''9'''
+| RD1-seed02=
+| RD1-team02={{flagIOCathlete|[[Thomas Enqvist|T Enqvist]]|SWE|2004 Summer}}
+| RD1-score02-1=6<sup>8</sup>
+| RD1-score02-2='''7<sup>9</sup>'''
+| RD1-score02-3=7
+| RD1-seed03=
+| RD1-team03={{flagIOCathlete|[[Mark Philippoussis|M Philippoussis]]|AUS|2004 Summer}}
+| RD1-score03-1='''6'''
+| RD1-score03-2=0
+| RD1-score03-3=1
+| RD1-seed04=
+| RD1-team04={{flagIOCathlete|'''[[Olivier Rochus|O Rochus]]'''|BEL|2004 Summer}}
+| RD1-score04-1=3
+| RD1-score04-2='''6'''
+| RD1-score04-3='''6'''
+| RD1-seed05=
+| RD1-team05={{flagIOCathlete|'''[[Arnaud Clément|A Clément]]'''|FRA|2004 Summer}}
+| RD1-score05-1='''7<sup>7</sup>'''
+| RD1-score05-2='''6'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06={{flagIOCathlete|[[Nicolás Lapentti|N Lapentti]]|ECU|2004 Summer}}
+| RD1-score06-1=6<sup>5</sup>
+| RD1-score06-2=2
+| RD1-score06-3=
+| RD1-seed07=
+| RD1-team07={{flagIOCathlete|'''[[Ivo Karlović|I Karlović]]'''|CRO|2004 Summer}}
+| RD1-score07-1='''6'''
+| RD1-score07-2=6<sup>10</sup>
+| RD1-score07-3='''6'''
+| RD1-seed08=13
+| RD1-team08={{flagIOCathlete|[[Andrei Pavel|A Pavel]]|ROU|2004 Summer}}
+| RD1-score08-1=4
+| RD1-score08-2='''7<sup>12</sup>'''
+| RD1-score08-3=2
+| RD1-seed09=10
+| RD1-team09={{flagIOCathlete|'''[[Nicolás Massú|N Massú]]'''|CHI|2004 Summer}}
+| RD1-score09-1='''6'''
+| RD1-score09-2=5
+| RD1-score09-3='''6'''
+| RD1-seed10=
+| RD1-team10={{flagIOCathlete|[[Gustavo Kuerten|G Kuerten]]|BRA|2004 Summer}}
+| RD1-score10-1=3
+| RD1-score10-2='''7'''
+| RD1-score10-3=4
+| RD1-seed11=
+| RD1-team11={{flagIOCathlete|[[Jürgen Melzer|J Melzer]]|AUT|2004 Summer}}
+| RD1-score11-1=0
+| RD1-score11-2=1
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12={{flagIOCathlete|'''[[Vincent Spadea|V Spadea]]'''|USA|2004 Summer}}
+| RD1-score12-1='''6'''
+| RD1-score12-2='''6'''
+| RD1-score12-3=
+| RD1-seed13=
+| RD1-team13={{flagIOCathlete|'''[[Agustín Calleri|A Calleri]]'''|ARG|2004 Summer}}
+| RD1-score13-1=2
+| RD1-score13-2='''6'''
+| RD1-score13-3='''8'''
+| RD1-seed14=
+| RD1-team14={{flagIOCathlete|[[Karol Beck|K Beck]]|SVK|2004 Summer}}
+| RD1-score14-1='''6'''
+| RD1-score14-2=3
+| RD1-score14-3=6
+| RD1-seed15=
+| RD1-team15={{flagIOCathlete|'''[[Igor Andreev|I Andreev]]'''|RUS|2004 Summer}}
+| RD1-score15-1=6<sup>5</sup>
+| RD1-score15-2='''7<sup>7</sup>'''
+| RD1-score15-3='''6'''
+| RD1-seed16=7
+| RD1-team16={{flagIOCathlete|[[Rainer Schüttler|R Schüttler]]|GER|2004 Summer}}
+| RD1-score16-1='''7<sup>7</sup>'''
+| RD1-score16-2=6<sup>2</sup>
+| RD1-score16-3=2
+| RD2-seed01=3
+| RD2-team01={{flagIOCathlete|'''[[Carlos Moyá|C Moyá]]'''|ESP|2004 Summer}}
+| RD2-score01-1='''6'''
+| RD2-score01-2='''7<sup>7</sup>'''
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02={{flagIOCathlete|[[Olivier Rochus|O Rochus]]|BEL|2004 Summer}}
+| RD2-score02-1=0
+| RD2-score02-2=6<sup>3</sup>
+| RD2-score02-3=
+| RD2-seed03=
+| RD2-team03={{flagIOCathlete|[[Arnaud Clément|A Clément]]|FRA|2004 Summer}}
+| RD2-score03-1=6<sup>4</sup>
+| RD2-score03-2='''6'''
+| RD2-score03-3=4
+| RD2-seed04=
+| RD2-team04={{flagIOCathlete|'''[[Ivo Karlović|I Karlović]]'''|CRO|2004 Summer}}
+| RD2-score04-1='''7<sup>7</sup>'''
+| RD2-score04-2=4
+| RD2-score04-3='''6'''
+| RD2-seed05=10
+| RD2-team05={{flagIOCathlete|'''[[Nicolás Massú|N Massú]]'''|CHI|2004 Summer}}
+| RD2-score05-1='''7<sup>7</sup>'''
+| RD2-score05-2='''6'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06={{flagIOCathlete|[[Vincent Spadea|V Spadea]]|USA|2004 Summer}}
+| RD2-score06-1=6<sup>3</sup>
+| RD2-score06-2=2
+| RD2-score06-3=
+| RD2-seed07=
+| RD2-team07={{flagIOCathlete|[[Agustín Calleri|A Calleri]]|ARG|2004 Summer}}
+| RD2-score07-1=
+| RD2-score07-2=
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08={{flagIOCathlete|'''[[Igor Andreev|I Andreev]]'''|RUS|2004 Summer}}
+| RD2-score08-1=<small>w/o</small>
+| RD2-score08-2=
+| RD2-score08-3=
+| RD3-seed01=3
+| RD3-team01={{flagIOCathlete|'''[[Carlos Moyá|C Moyá]]'''|ESP|2004 Summer}}
+| RD3-score01-1=4
+| RD3-score01-2='''7<sup>7</sup>'''
+| RD3-score01-3='''6'''
+| RD3-seed02=
+| RD3-team02={{flagIOCathlete|[[Ivo Karlović|I Karlović]]|CRO|2004 Summer}}
+| RD3-score02-1='''6'''
+| RD3-score02-2=6<sup>3</sup>
+| RD3-score02-3=4
+| RD3-seed03=10
+| RD3-team03={{flagIOCathlete|'''[[Nicolás Massú|N Massú]]'''|CHI|2004 Summer}}
+| RD3-score03-1='''6'''
+| RD3-score03-2=6<sup>4</sup>
+| RD3-score03-3='''6'''
+| RD3-seed04=
+| RD3-team04={{flagIOCathlete|[[Igor Andreev|I Andreev]]|RUS|2004 Summer}}
+| RD3-score04-1=3
+| RD3-score04-2='''7<sup>7</sup>'''
+| RD3-score04-3=4
+| RD4-seed01=3
+| RD4-team01={{flagIOCathlete|[[Carlos Moyá|C Moyá]]|ESP|2004 Summer}}
+| RD4-score01-1=2
+| RD4-score01-2=5
+| RD4-score01-3=
+| RD4-seed02=10
+| RD4-team02={{flagIOCathlete|'''[[Nicolás Massú|N Massú]]'''|CHI|2004 Summer}}
+| RD4-score02-1='''6'''
+| RD4-score02-2='''7'''
+| RD4-score02-3=
+}}
+
+===Bottom half===
+
+====Section 3====
+{{16TeamBracket-Compact-Tennis3
+| RD3=Third round
+| RD4=Quarterfinals
+| RD1-seed01=5
+| RD1-team01={{flagIOCathlete|'''[[Juan Carlos Ferrero|JC Ferrero]]'''|ESP|2004 Summer}}
+| RD1-score01-1='''6'''
+| RD1-score01-2='''6'''
+| RD1-score01-3=
+| RD1-seed02=
+| RD1-team02={{flagIOCathlete|[[Hicham Arazi|H Arazi]]|MAR|2004 Summer}}
+| RD1-score02-1=3
+| RD1-score02-2=1
+| RD1-score02-3=
+| RD1-seed03=
+| RD1-team03={{flagIOCathlete|'''[[Mardy Fish|M Fish]]'''|USA|2004 Summer}}
+| RD1-score03-1='''7<sup>9</sup>'''
+| RD1-score03-2=1
+| RD1-score03-3=
+| RD1-seed04=
+| RD1-team04={{flagIOCathlete|[[Jonas Björkman|J Björkman]]|SWE|2004 Summer}}
+| RD1-score04-1=6<sup>7</sup>
+| RD1-score04-2=0
+| RD1-score04-3=r
+| RD1-seed05=
+| RD1-team05={{flagIOCathlete|'''[[Jarkko Nieminen|J Nieminen]]'''|FIN|2004 Summer}}
+| RD1-score05-1='''6'''
+| RD1-score05-2='''6'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06={{flagIOCathlete|[[Lu Yen-hsun|Y-h Lu]]|TPE|2004 Summer}}
+| RD1-score06-1=3
+| RD1-score06-2=3
+| RD1-score06-3=
+| RD1-seed07=
+| RD1-team07={{flagIOCathlete|'''[[Max Mirnyi|M Mirnyi]]'''|BLR|2004 Summer}}
+| RD1-score07-1=3
+| RD1-score07-2='''7<sup>7</sup>'''
+| RD1-score07-3='''6'''
+| RD1-seed08=11
+| RD1-team08={{flagIOCathlete|[[Juan Ignacio Chela|JI Chela]]|ARG|2004 Summer}}
+| RD1-score08-1='''6'''
+| RD1-score08-2=6<sup>0</sup>
+| RD1-score08-3=4
+| RD1-seed09=14
+| RD1-team09={{flagIOCathlete|'''[[Nicolas Kiefer|N Kiefer]]'''|GER|2004 Summer}}
+| RD1-score09-1='''6'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10={{flagIOCathlete|[[Vladimir Voltchkov|V Voltchkov]]|BLR|2004 Summer}}
+| RD1-score10-1=2
+| RD1-score10-2=4
+| RD1-score10-3=
+| RD1-seed11=
+| RD1-team11={{flagIOCathlete|[[Gregory Carraz|G Carraz]]|FRA|2004 Summer}}
+| RD1-score11-1='''7'''
+| RD1-score11-2=6<sup>5</sup>
+| RD1-score11-3=5
+| RD1-seed12=
+| RD1-team12={{flagIOCathlete|'''[[Marcos Baghdatis|M Baghdatis]]'''|CYP|2004 Summer}}
+| RD1-score12-1=5
+| RD1-score12-2='''7<sup>7</sup>'''
+| RD1-score12-3='''7'''
+| RD1-seed13=
+| RD1-team13={{flagIOCathlete|'''[[Mikhail Youzhny|M Youzhny]]'''|RUS|2004 Summer}}
+| RD1-score13-1='''6'''
+| RD1-score13-2='''6'''
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14={{flagIOCathlete|[[Xavier Malisse|X Malisse]]|BEL|2004 Summer}}
+| RD1-score14-1=2
+| RD1-score14-2=2
+| RD1-score14-3=
+| RD1-seed15=
+| RD1-team15={{flagIOCathlete|'''[[Jiří Novák|J Novák]]'''|CZE|2004 Summer}}
+| RD1-score15-1='''6'''
+| RD1-score15-2='''6'''
+| RD1-score15-3=
+| RD1-seed16=4
+| RD1-team16={{flagIOCathlete|[[Tim Henman|T Henman]]|GBR|2004 Summer}}
+| RD1-score16-1=3
+| RD1-score16-2=3
+| RD1-score16-3=
+| RD2-seed01=5
+| RD2-team01={{flagIOCathlete|[[Juan Carlos Ferrero|JC Ferrero]]|ESP|2004 Summer}}
+| RD2-score01-1='''6'''
+| RD2-score01-2=6<sup>5</sup>
+| RD2-score01-3=4
+| RD2-seed02=
+| RD2-team02={{flagIOCathlete|'''[[Mardy Fish|M Fish]]'''|USA|2004 Summer}}
+| RD2-score02-1=4
+| RD2-score02-2='''7<sup>7</sup>'''
+| RD2-score02-3='''6'''
+| RD2-seed03=
+| RD2-team03={{flagIOCathlete|[[Jarkko Nieminen|J Nieminen]]|FIN|2004 Summer}}
+| RD2-score03-1=3
+| RD2-score03-2=4
+| RD2-score03-3=
+| RD2-seed04=
+| RD2-team04={{flagIOCathlete|'''[[Max Mirnyi|M Mirnyi]]'''|BLR|2004 Summer}}
+| RD2-score04-1='''6'''
+| RD2-score04-2='''6'''
+| RD2-score04-3=
+| RD2-seed05=14
+| RD2-team05={{flagIOCathlete|'''[[Nicolas Kiefer|N Kiefer]]'''|GER|2004 Summer}}
+| RD2-score05-1='''6'''
+| RD2-score05-2=3
+| RD2-score05-3='''6'''
+| RD2-seed06=
+| RD2-team06={{flagIOCathlete|[[Marcos Baghdatis|M Baghdatis]]|CYP|2004 Summer}}
+| RD2-score06-1=2
+| RD2-score06-2='''6'''
+| RD2-score06-3=3
+| RD2-seed07=
+| RD2-team07={{flagIOCathlete|'''[[Mikhail Youzhny|M Youzhny]]'''|RUS|2004 Summer}}
+| RD2-score07-1='''6'''
+| RD2-score07-2='''6'''
+| RD2-score07-3=
+| RD2-seed08=
+| RD2-team08={{flagIOCathlete|[[Jiří Novák|J Novák]]|CZE|2004 Summer}}
+| RD2-score08-1=4
+| RD2-score08-2=3
+| RD2-score08-3=
+| RD3-seed01=
+| RD3-team01={{flagIOCathlete|'''[[Mardy Fish|M Fish]]'''|USA|2004 Summer}}
+| RD3-score01-1='''6'''
+| RD3-score01-2=4
+| RD3-score01-3='''6'''
+| RD3-seed02=
+| RD3-team02={{flagIOCathlete|[[Max Mirnyi|M Mirnyi]]|BLR|2004 Summer}}
+| RD3-score02-1=3
+| RD3-score02-2='''6'''
+| RD3-score02-3=1
+| RD3-seed03=14
+| RD3-team03={{flagIOCathlete|[[Nicolas Kiefer|N Kiefer]]|GER|2004 Summer}}
+| RD3-score03-1=3
+| RD3-score03-2='''6'''
+| RD3-score03-3=2
+| RD3-seed04=
+| RD3-team04={{flagIOCathlete|'''[[Mikhail Youzhny|M Youzhny]]'''|RUS|2004 Summer}}
+| RD3-score04-1='''6'''
+| RD3-score04-2=2
+| RD3-score04-3='''6'''
+| RD4-seed01=
+| RD4-team01={{flagIOCathlete|'''[[Mardy Fish|M Fish]]'''|USA|2004 Summer}}
+| RD4-score01-1='''6'''
+| RD4-score01-2='''6'''
+| RD4-score01-3=
+| RD4-seed02=
+| RD4-team02={{flagIOCathlete|[[Mikhail Youzhny|M Youzhny]]|RUS|2004 Summer}}
+| RD4-score02-1=3
+| RD4-score02-2=4
+| RD4-score02-3=
+}}
+
+====Section 4====
+{{16TeamBracket-Compact-Tennis3
+| RD3=Third round
+| RD4=Quarterfinals
+| RD1-seed01=8
+| RD1-team01={{flagIOCathlete|'''[[Sébastien Grosjean|S Grosjean]]'''|FRA|2004 Summer}}
+| RD1-score01-1='''6'''
+| RD1-score01-2='''7'''
+| RD1-score01-3=
+| RD1-seed02=
+| RD1-team02={{flagIOCathlete|[[Luis Horna|L Horna]]|PER|2004 Summer}}
+| RD1-score02-1=2
+| RD1-score02-2=5
+| RD1-score02-3=
+| RD1-seed03=
+| RD1-team03={{flagIOCathlete|[[Victor Hănescu|V Hănescu]]|ROU|2004 Summer}}
+| RD1-score03-1=4
+| RD1-score03-2=6<sup>4</sup>
+| RD1-score03-3=
+| RD1-seed04=
+| RD1-team04={{flagIOCathlete|'''[[Wayne Arthurs (tennis)|W Arthurs]]'''|AUS|2004 Summer}}
+| RD1-score04-1='''6'''
+| RD1-score04-2='''7<sup>7</sup>'''
+| RD1-score04-3=
+| RD1-seed05=
+| RD1-team05={{flagIOCathlete|[[Robin Söderling|R Söderling]]|SWE|2004 Summer}}
+| RD1-score05-1=3
+| RD1-score05-2='''6'''
+| RD1-score05-3=4
+| RD1-seed06=
+| RD1-team06={{flagIOCathlete|'''[[Feliciano López|F López]]'''|ESP|2004 Summer}}
+| RD1-score06-1='''6'''
+| RD1-score06-2=3
+| RD1-score06-3='''6'''
+| RD1-seed07=
+| RD1-team07={{flagIOCathlete|[[Karol Kučera|K Kučera]]|SVK|2004 Summer}}
+| RD1-score07-1=0
+| RD1-score07-2=4
+| RD1-score07-3=
+| RD1-seed08=9
+| RD1-team08={{flagIOCathlete|'''[[Marat Safin|M Safin]]'''|RUS|2004 Summer}}
+| RD1-score08-1='''6'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=
+| RD1-seed09=16
+| RD1-team09={{flagIOCathlete|'''[[Fernando González|F González]]'''|CHI|2004 Summer}}
+| RD1-score09-1='''7<sup>7</sup>'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10={{flagIOCathlete|[[Konstantinos Economidis|K Economidis]]|GRE|2004 Summer}}
+| RD1-score10-1=6<sup>2</sup>
+| RD1-score10-2=2
+| RD1-score10-3=
+| RD1-seed11=
+| RD1-team11={{flagIOCathlete|[[Mariano Zabaleta|M Zabaleta]]|ARG|2004 Summer}}
+| RD1-score11-1='''6'''
+| RD1-score11-2=3
+| RD1-score11-3=2
+| RD1-seed12=
+| RD1-team12={{flagIOCathlete|'''[[Lee Hyung-Taik|H-t Lee]]'''|KOR|2004 Summer}}
+| RD1-score12-1=4
+| RD1-score12-2='''6'''
+| RD1-score12-3='''6'''
+| RD1-seed13=
+| RD1-team13={{flagIOCathlete|[[Mario Ančić|M Ančić]]|CRO|2004 Summer}}
+| RD1-score13-1=1
+| RD1-score13-2=5
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14={{flagIOCathlete|'''[[Tommy Haas|T Haas]]'''|GER|2004 Summer}}
+| RD1-score14-1='''6'''
+| RD1-score14-2='''7'''
+| RD1-score14-3=
+| RD1-seed15=
+| RD1-team15={{flagIOCathlete|[[Flávio Saretta|F Saretta]]|BRA|2004 Summer}}
+| RD1-score15-1=3
+| RD1-score15-2=6<sup>4</sup>
+| RD1-score15-3=
+| RD1-seed16=2
+| RD1-team16={{flagIOCathlete|'''[[Andy Roddick|A Roddick]]'''|USA|2004 Summer}}
+| RD1-score16-1='''6'''
+| RD1-score16-2='''7<sup>7</sup>'''
+| RD1-score16-3=
+| RD2-seed01=8
+| RD2-team01={{flagIOCathlete|'''[[Sébastien Grosjean|S Grosjean]]'''|FRA|2004 Summer}}
+| RD2-score01-1='''7<sup>7</sup>'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02={{flagIOCathlete|[[Wayne Arthurs (tennis)|W Arthurs]]|AUS|2004 Summer}}
+| RD2-score02-1=6<sup>2</sup>
+| RD2-score02-2=3
+| RD2-score02-3=
+| RD2-seed03=
+| RD2-team03={{flagIOCathlete|'''[[Feliciano López|F López]]'''|ESP|2004 Summer}}
+| RD2-score03-1='''7<sup>7</sup>'''
+| RD2-score03-2='''6'''
+| RD2-score03-3=
+| RD2-seed04=9
+| RD2-team04={{flagIOCathlete|[[Marat Safin|M Safin]]|RUS|2004 Summer}}
+| RD2-score04-1=6<sup>4</sup>
+| RD2-score04-2=3
+| RD2-score04-3=
+| RD2-seed05=16
+| RD2-team05={{flagIOCathlete|'''[[Fernando González|F González]]'''|CHI|2004 Summer}}
+| RD2-score05-1='''7'''
+| RD2-score05-2='''6'''
+| RD2-score05-3=
+| RD2-seed06=
+| RD2-team06={{flagIOCathlete|[[Lee Hyung-Taik|H-t Lee]]|KOR|2004 Summer}}
+| RD2-score06-1=5
+| RD2-score06-2=2
+| RD2-score06-3=
+| RD2-seed07=
+| RD2-team07={{flagIOCathlete|[[Tommy Haas|T Haas]]|GER|2004 Summer}}
+| RD2-score07-1='''6'''
+| RD2-score07-2=3
+| RD2-score07-3=7
+| RD2-seed08=2
+| RD2-team08={{flagIOCathlete|'''[[Andy Roddick|A Roddick]]'''|USA|2004 Summer}}
+| RD2-score08-1=4
+| RD2-score08-2='''6'''
+| RD2-score08-3='''9'''
+| RD3-seed01=8
+| RD3-team01={{flagIOCathlete|'''[[Sébastien Grosjean|S Grosjean]]'''|FRA|2004 Summer}}
+| RD3-score01-1=6<sup>4</sup>
+| RD3-score01-2='''6'''
+| RD3-score01-3='''6'''
+| RD3-seed02=
+| RD3-team02={{flagIOCathlete|[[Feliciano López|F López]]|ESP|2004 Summer}}
+| RD3-score02-1='''7<sup>7</sup>'''
+| RD3-score02-2=4
+| RD3-score02-3=0
+| RD3-seed03=16
+| RD3-team03={{flagIOCathlete|'''[[Fernando González|F González]]'''|CHI|2004 Summer}}
+| RD3-score03-1='''6'''
+| RD3-score03-2='''6'''
+| RD3-score03-3=
+| RD3-seed04=2
+| RD3-team04={{flagIOCathlete|[[Andy Roddick|A Roddick]]|USA|2004 Summer}}
+| RD3-score04-1=4
+| RD3-score04-2=4
+| RD3-score04-3=
+| RD4-seed01=8
+| RD4-team01={{flagIOCathlete|[[Sébastien Grosjean|S Grosjean]]|FRA|2004 Summer}}
+| RD4-score01-1=2
+| RD4-score01-2='''6'''
+| RD4-score01-3=4
+| RD4-seed02=16
+| RD4-team02={{flagIOCathlete|'''[[Fernando González|F González]]'''|CHI|2004 Summer}}
+| RD4-score02-1='''6'''
+| RD4-score02-2=2
+| RD4-score02-3='''6'''
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.itftennis.com/olympics/drawsheets/printabledrawsheet.asp?event=1100058330 Results]
+
+{{2004 ATP Tour}}
+{{Footer Olympic Champions Tennis Men}}
+
+{{DEFAULTSORT:Tennis at the 2004 Summer Olympics - Men's singles}}
+[[Category:Tennis at the 2004 Summer Olympics|Men's Singles]]
+[[Category:2004 in men's tennis|Men's Singles]]
+[[Category:Men's events at the 2004 Summer Olympics]]

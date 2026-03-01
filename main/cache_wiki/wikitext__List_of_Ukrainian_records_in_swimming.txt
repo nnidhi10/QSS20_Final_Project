@@ -1,0 +1,1580 @@
+{{Short description|None}}
+The '''Ukrainian Records''' in [[Swimming (sport)|Swimming]] are the fastest times ever swum by a swimmer representing [[Ukraine]]. These records are kept/maintained by the [[Ukrainian Swimming Federation]] (Федерація плавання України).
+
+Records are recognized for the following [[long course]] (50m) and [[Short course (swimming)|short course]] (25m) events:
+*[[Freestyle swimming|freestyle]]: 50, 100, 200, 400, 800 and 1500;
+*[[backstroke]]: 50, 100 and 200;
+*[[breaststroke]]: 50, 100 and 200;
+*[[Butterfly swimming|butterfly]]: 50, 100 and 200;
+*[[individual medley]] (I.M.): 100 (25m only), 200 and 400;
+*[[Relay race|relays]]: 4x50 free (25m only), 4x100 free, 4x200 free, 4x50 medley (25m only) and 4x100 medley.
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 21.38
+|recordinfo = sf
+|firstname = Vladyslav
+|lastname = Bukhov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 16 February 2024
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 50 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011800000101EB0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=16 February 2024|access-date=16 February 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 48.26
+|recordinfo = 
+|firstname = Sergii
+|lastname = Shevtsov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 27 July 2017
+|meet = [[Swimming at the 2017 World Aquatics Championships – Men's 100 metre freestyle|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Results|url=http://www.omegatiming.com/File/Download?id=000111010A0101EC04FFFFFFFFFFFF01|publisher=Omega Timing|date=27 July 2017|access-date=9 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:48.13
+|recordinfo = 
+|firstname = Illia
+|lastname = Linnyk
+|namearticle = 
+|club = Kyiv
+|date = 6 May 2024
+|meet = Ukrainian Championships
+|city = Brovary
+|country = UKR
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Final Results|url=https://swimtime.in.ua/usf/meet/2024_05/docs/result_s4_e12.pdf|publisher=swimtime.in.ua|date=6 May 2024|access-date=14 May 2024}}</ref>
+}}
+{{swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:45.18
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 3 August 2018
+|meet = [[Swimming at the 2018 European Aquatics Championships – Men's 400 metre freestyle|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Final Results|url=http://glasgow2018.microplustiming.com/export/NU_Glasgow2018/NU/pdf/SWMM400MFR------------FNL-000100--_73A1%201.0.pdf?x=00:24:39|publisher=MicroPlus Timing|date=3 August 2018|access-date=3 August 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:40.05
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 21 June 2022
+|meet = [[Swimming at the 2022 World Aquatics Championships – Men's 800 metre freestyle|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700000101F10104FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=21 June 2022|access-date=21 June 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 14:36.10
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 16 August 2022
+|meet = [[Swimming at the 2022 European Aquatics Championships – Men's 1500 metre freestyle|European Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM1500MFR-----------FNL---------_73A2%201.0.pdf?x=01:14:48|publisher=microplustiming.com|date=16 August 2022|accessdate=16 August 2022}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 24.91
+|recordinfo = 
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 7 September 2023
+|meet = [[2023 World Aquatics Junior Swimming Championships|World Junior Championships]]
+|city = Netanya
+|country = ISR
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600080102EB0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=7 September 2023|accessdate=7 September 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 53.73
+|recordinfo = 
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 5 September 2023
+|meet = [[2023 World Aquatics Junior Swimming Championships|World Junior Championships]]
+|city = Netanya
+|country = ISR
+|ref = <ref>{{cite web|title=Men's 100m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600080102EC0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=5 September 2023|accessdate=5 September 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:55.39
+|recordinfo = 
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 19 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 200 metre backstroke|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011800040102EE0104FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=19 June 2024|access-date=19 June 2024}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 27.18
+|recordinfo = 
+|firstname = Oleh
+|lastname = Lisohor
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 2 August 2002
+|meet = [[2002 European Aquatics Championships|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Men's 50m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=000102060049000000FFFFFFFFFFFF01|publisher=Omega Timing|date=2 August 2002|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 58.67
+|recordinfo = tt
+|firstname = Ihor
+|lastname = Borysyk
+|namearticle = 
+|club = Donetsk
+|date = 13 June 2009
+|meet = Ukrainian National Cup
+|city = Kharkiv
+|country = UKR
+|ref =<ref>{{cite web|title=Men, 100m Breaststroke, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=532403&gender=1&styleId=13|publisher=swimrankings.net|date=13 June 2009|access-date=1 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:08.73
+|recordinfo = 
+|firstname = Ihor
+|lastname = Borysyk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 8 July 2009
+|meet = [[Swimming at the 2009 Summer Universiade|Universiade]]
+|city = Belgrade
+|country = SRB
+|ref = 
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 22.27
+|recordinfo = WR
+|firstname = Andriy
+|lastname = Govorov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 1 July 2018
+|meet = Sette Colli Trophy
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web |title=Men's 50m Butterfly Results |url=http://fin2018.microplustiming.com/export/NU_293001_MagGiu_Roma/NU/pdf/CLS-ASM-50FA-FIN-ALL.pdf?x=19:23:58|publisher=Italian Swimming Federation|access-date=1 July 2018|date=1 July 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 51.10
+|recordinfo = h
+|firstname = Andriy
+|lastname = Serdinov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 14 August 2008
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 100 metre butterfly|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:54.79
+|recordinfo = 
+|firstname = Denys
+|lastname = Kesyl
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 24 July 2019
+|meet = [[Swimming at the 2019 World Aquatics Championships – Men's 200 metre butterfly|World Championships]]
+|city = Gwangju
+|country = KOR
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Final Results|url=http://www.omegatiming.com/File/00011301070104EE04FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=24 July 2019|access-date=24 July 2019}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 1:59.33
+|recordinfo = sf
+|firstname = Vadym
+|lastname = Naumenko
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 22 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 200 metre individual medley|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 200m IM Semifinals Results|url=https://www.omegatiming.com/File/00011800040105EE0102FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=22 June 2024|access-date=22 June 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:15.64
+|recordinfo = 
+|firstname = Maksym
+|lastname = Shemberev
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 20 August 2011
+|meet = [[2011 FINA World Junior Swimming Championships|World Junior Championships]]
+|city = Lima
+|country = PER
+|ref = <ref>{{cite web|title=Boys 400m IM Results|url=http://championships.coloradotime.com/lima2011/110816F029.htm|publisher=www.championships.coloradotime.com|date=20 August 2011|access-date=21 August 2011|url-status=dead|archive-url=https://web.archive.org/web/20120330212117/http://championships.coloradotime.com/lima2011/110816F029.htm|archive-date=30 March 2012}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×100m<br />freestyle relay
+|time = 3:15.94
+|recordinfo = 
+|1name = [[Vladyslav Bukhov]]
+|1split = 49.46
+|2name = [[Sergii Shevtsov]]
+|2split = 48.51
+|3name = [[Illya Linnyk]]
+|3split = 48.73
+|4name = [[Valentyn Nesterkin]]
+|4split = 49.24
+|club = {{flagu|Ukraine}}
+|date = 14 August 2022
+|meet = [[Swimming at the 2022 European Aquatics Championships – Men's 4 × 100 metre freestyle relay|European Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM4X100MFR----------FNL---------_73B2%201.0.pdf?x=18:20:50|publisher=microplustiming.com|date=14 August 2022|accessdate=14 August 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×200m<br />freestyle relay
+|time = 7:21.42
+|recordinfo = h
+|1name = [[Serhiy Fesenko]]
+|1split = 1:50.42
+|2name = [[Serhiy Advena]]
+|2split = 1:50.28
+|3name = [[Dmytro Vereitinov]]
+|3split = 1:51.27
+|4name = [[Maksym Kokosha]]
+|4split = 1:49.45
+|club = {{flagu|Ukraine}}
+|date = 29 July 2005
+|meet = [[Swimming at the 2005 World Aquatics Championships – Men's 4 × 200 metre freestyle relay|World Championships]]
+|city = Montreal
+|country = CAN
+|ref = <ref>{{cite web|title=Men's 4x200m Freestyle Heats Results|url=http://www.omegatiming.com/File/Download?id=00010509004B000000FFFFFFFFFFFF01|publisher=Omega Timing|date=29 July 2005|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×100m<br />medley relay
+|time = 3:33.50
+|recordinfo = 
+|1name = [[Oleksandr Zheltyakov]]
+|1split = 53.91
+|2name = [[Volodymyr Lisovets]]
+|2split = 58.95
+|3name = [[Arsenii Kovalov]]
+|3split = 51.90
+|4name = [[Illia Linnyk]]
+|4split = 48.73
+|club = {{flagu|Ukraine}}
+|date = 23 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 4 × 100 metre medley relay|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800040105F70104FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=23 June 2024|accessdate=23 June 2024}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 25.10
+|recordinfo = 
+|firstname = Darya
+|lastname = Stepanyuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 11 August 2015
+|meet = [[2015 FINA Swimming World Cup|World Cup]]
+|city = Moscow
+|country = RUS
+|ref =<ref>{{cite web|title=Women, 50m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=589308&gender=2&styleId=1|publisher=swimrankings.net|date=11 August 2015|access-date=1 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 54.92
+|recordinfo = h
+|firstname = Darya
+|lastname = Stepanyuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 30 July 2009
+|meet = [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Heats Results|url=http://www.omegatiming.com/File/Download?id=0001090B0036000000FFFFFFFFFFFF01|publisher=Omega Timing|date=30 July 2009|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:59.03
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 28 August 2003
+|meet = [[Swimming at the 2003 Summer Universiade|Universiade]]
+|city = Daegu
+|country = KOR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:07.10
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 4 August 2002
+|meet = [[2002 European Aquatics Championships|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite news|title=Women's 400m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000102060061000000FFFFFFFFFFFF01|publisher=Omega Timing|date=4 August 2002|access-date=17 November 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:22.66
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = {{Dts|format=dmy|2000|09|22}}
+|meet = [[Swimming at the 2000 Summer Olympics – Women's 800 metre freestyle|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:27.76
+|recordinfo = h
+|firstname = Olga
+|lastname = Beresnyeva
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 21 July 2003
+|meet = [[Swimming at the 2003 World Aquatics Championships – Women's 1500 metre freestyle|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite news|title=Women's 1500m Freestyle Heats Results|url=http://www.omegatiming.com/File/Download?id=000103050014000000FFFFFFFFFFFF01|publisher=Omega Timing|date=21 July 2003|access-date=9 January 2018}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 28.29
+|recordinfo =
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = Energy Standard
+|date = 8 August 2017
+|meet = Energy for Swim
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 50m Backstroke, Final, 15 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=603381&gender=2&styleId=9|website=swimrankings.net|date=8 August 2017|access-date=30 October 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 59.90
+|recordinfo = sf
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 29 July 2013
+|meet = [[Swimming at the 2013 World Aquatics Championships – Women's 100 metre backstroke|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=Women's 100m Backstroke Semifinal Results|url=http://www.omegatiming.com/File/Download?id=00010D020101011B01FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=29 July 2013|access-date=2 August 2013}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:07.48
+|recordinfo = 
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 17 May 2016
+|meet = [[Swimming at the 2016 European Aquatics Championships – Women's 200 metre backstroke|European Championships]]
+|city = London
+|country = GBR
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Semifinal Results|url=http://london2016.microplustiming.com/Elite/export/Elite_NU_London2016/NU/pdf/CLS-ASF-200DO-FIN-ALL.pdf|publisher=MicroPlus Timing|date=17 May 2016|access-date=1 August 2017|archive-url=https://web.archive.org/web/20160602094449/http://london2016.microplustiming.com/Elite/export/Elite_NU_London2016/NU/pdf/CLS-ASF-200DO-FIN-ALL.pdf|archive-date=2 June 2016|url-status=dead}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 30.60
+|recordinfo = h
+|firstname = Mariya
+|lastname = Liver
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 8 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – Women's 50 metre breaststroke|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Women's 50m Breaststroke Heats Results|url=http://omegatiming.com/File/Download?id=00010F020001021D00FFFFFFFFFFFF02|publisher=Omega Timing|date=8 August 2015|access-date=6 December 2015|archive-url=https://web.archive.org/web/20150924141718/http://www.omegatiming.com/File/Download?id=00010F020001021D00FFFFFFFFFFFF02|archive-date=24 September 2015|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:06.67
+|recordinfo = sf
+|firstname = Viktoriya
+|lastname = Solnceva
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 29 July 2013
+|meet = [[Swimming at the 2013 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=Women's 100m Breaststroke Semifinal Results|url=http://www.omegatiming.com/File/Download?id=00010D020101021E01FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=29 July 2013|access-date=4 August 2013}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:23.01
+|recordinfo =  
+|firstname = Viktoriya
+|lastname = Solnceva
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 2 August 2013
+|meet = [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre breaststroke|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Results|url=http://omegatiming.com/File/Download?id=00010D020101021F02FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=2 August 2013|access-date=4 August 2013|archive-date=21 October 2020|archive-url=https://web.archive.org/web/20201021052617/https://www.omegatiming.com/File/Download?id=00010D020101021F02FFFFFFFFFFFF02|url-status=dead}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 26.52
+|recordinfo = 
+|firstname = Nadiya
+|lastname = Koba
+|namearticle = 
+|club = Kyiv
+|date = 1 March 2012
+|meet = Ukrainian Championships
+|city = Dnipropetrovsk 
+|cityarticle = Dnipro
+|country = UKR
+|ref =<ref>{{cite web|title=Women, 50m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=560157&gender=2&styleId=15|publisher=swimrankings.net|date=1 March 2012|access-date=1 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 58.99
+|recordinfo = 
+|firstname = Kateryna
+|lastname = Zubkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = {{Dts|format=dmy|2008|08|09}}
+|meet = [[Swimming at the 2008 Summer Olympics – Women's 100 metre butterfly|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:09.52
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 30 August 2003
+|meet = [[Swimming at the 2003 Summer Universiade|Universiade]]
+|city = Daegu
+|country = KOR
+|ref = 
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:10.68
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = {{Dts|format=dmy|2000|09|19}}
+|meet = [[Swimming at the 2000 Summer Olympics – Women's 200 metre individual medley|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:33.59
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = {{Dts|format=dmy|2000|09|16}}
+|meet = [[Swimming at the 2000 Summer Olympics – Women's 400 metre individual medley|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×100m<br />freestyle relay
+|time = 3:43.52
+|recordinfo = h
+|1name = [[Darya Stepanyuk]]
+|1split = 56.00
+|2name = [[Oksana Serikova]]
+|2split = 56.21
+|3name = [[Ganna Dzerkal]]
+|3split = 56.21
+|4name = [[Iryna Amshennikova]]
+|4split = 55.10
+|club = {{flagu|Ukraine}}
+|date = {{Dts|format=dmy|2007|03|25}}
+|meet = [[Swimming at the 2007 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Women's 4x100m Freestyle Heats Results|url=http://www.omegatiming.com/File/Download?id=0001070D0006000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=25 March 2007|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×200m<br />freestyle relay
+|time = 8:06.42
+|recordinfo = h
+|1name = [[Valeriya Podlesna]]
+|1split = 2:02.56
+|2name = [[Darya Stepanyuk]]
+|2split = 2:00.86
+|3name = [[Ganna Dzerkal]]
+|3split = 2:02.93
+|4name = [[Daryna Zevina]]
+|4split = 2:00.07
+|club = {{flagu|Ukraine}}
+|date = 28 July 2011
+|meet = [[Swimming at the 2011 World Aquatics Championships – Women's 4 × 200 metre freestyle relay|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = <ref>{{cite web|title=Women's 4x200m Freestyle Heats Results|url=http://www.omegatiming.com/File/Download?id=00010B0D003D000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=28 July 2011|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×100m <br />&nbsp;medley relay
+|time = 4:04.11
+|recordinfo = h
+|1name = [[Daryna Zevina]]
+|1split = 1:01.97
+|2name = [[Mariya Liver]]
+|2split = 1:07.52
+|3name = [[Lyubov Korol]]
+|3split = 59.68
+|4name = [[Darya Stepanyuk]]
+|4split = 54.94
+|club = {{flagu|Ukraine}}
+|date = 24 August 2014
+|meet = [[Swimming at the 2014 European Aquatics Championships – Women's 4 x 100 metre medley relay|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Heats Results|url=http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASF-4X100IM-PRE-ALL.pdf?x=14:30:06|publisher=Microplus Informatica|date=24 August 2014|access-date=13 September 2014|archive-url=https://web.archive.org/web/20140913171504/http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASF-4X100IM-PRE-ALL.pdf?x=14:30:06|archive-date=13 September 2014|url-status=dead}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 
+|event = 4×100m freestyle relay
+|time = 3:42.88 
+|recordinfo = 
+|1name = [[Ivan Denysenko]]
+|1split = 52.34
+|2name = [[Valeriia Timchenko]]
+|2split = 59.54
+|3name = [[Margaryta Bokan]]
+|3split = 59.98
+|4name = [[Viacheslav Ohnov]]
+|4split = 51.02
+|club = {{flagu|Ukraine}}
+|date = 24 June 2015
+|meet = [[Swimming at the 2015 European Games – Mixed 4 × 100 metre freestyle relay|European Games]]
+|city = Baku
+|country = AZE
+|ref = <ref>{{cite web |title= Mixed 4 x 100m Freestyle Relay Results |url=http://www.baku2015.com/en_externalmodules/SW/pdf/SWX411101_C73B1_99.pdf |publisher=2015 European Games |date=24 June 2015 |access-date=22 December 2021 |archive-url=https://web.archive.org/web/20150625003601/http://www.baku2015.com/en_externalmodules/SW/pdf/SWX411101_C73B1_99.pdf |archive-date=25 June 2015 |url-status=usurped}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 
+|event = 4×100m medley relay
+|time = 3:52.73
+|recordinfo = 
+|1name = [[Nika Sharafutdinova]]
+|1split = 1:02.52
+|2name = [[Volodymyr Lisovets']]
+|2split = 1:00.04
+|3name = [[Arsenii Kovalov]]
+|3split = 53.29
+|4name = [[Mariya D'Yachenko]]
+|4split = 56.88
+|club = {{flagu|Ukraine}}
+|date = 8 July 2022
+|meet = [[2022 European Junior Swimming Championships|European Junior Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=http://ejcotopeni2022.microplustiming.com/export/NU_EJC2019/NU/pdf/SWMX4X100MMD----------FNL---------_73A1%201.0.pdf?x=12:15:39|publisher=microplustiming.com|date=8 July 2022|accessdate=9 July 2022}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|r=no|b=no|sf=no|tt=no|†=no}}
+
+
+==Short Course (25m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 20.81
+|recordinfo = 
+|firstname = Nikita
+|lastname = Sheremet
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 7 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0101EB0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=7 December 2025|access-date=7 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100 m freestyle
+|time = 46.38
+|recordinfo = r
+|firstname = Sergii
+|lastname = Shevtsov
+|namearticle = 
+|club = Energy Standard
+|date = 23 November 2019
+|meet = [[2019 International Swimming League|International Swimming League]]
+|city = London
+|country = UK
+|ref = <ref>{{cite web|title=Men's 4x100m Freestyle Relay Results|page=19|url=https://isl.global/wp-content/uploads/2019/11/isl_london_day_1_results.pdf|publisher=isl.global|date=23 November 2019|access-date=1 December 2019|archive-date=9 January 2020|archive-url=https://web.archive.org/web/20200109044411/https://isl.global/wp-content/uploads/2019/11/isl_london_day_1_results.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200 m freestyle
+|time = 1:44.43
+|recordinfo = h
+|firstname = Illia
+|lastname = Linnyk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 3 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0101EE0101FFFFFFFFFF01.pdf|work=omegatiming.com|date=3 December 2025|access-date=3 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400 m freestyle
+|time = 3:38.93
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = Aqua Centurions
+|date = 9 November 2020
+|meet = [[2020 International Swimming League|International Swimming League]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Results|url=https://www.omegatiming.com/File/000114020C0101EF04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=9 November 2020|access-date=9 November 2020}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800 m freestyle
+|time = 7:25.73
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 21 November 2020
+|meet = [[2020 International Swimming League|ISL]] Test Event
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Results|url=https://cdn.swimswam.com/wp-content/uploads/2020/11/C73A1_Result_141_Final_1_Mens-800m-Freestyle-1.pdf|work=swimswam.com|date=21 November 2020|access-date=26 November 2020}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500 m freestyle
+|time = 14:09.14
+|recordinfo = 
+|firstname = Mykhailo
+|lastname = Romanchuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 16 December 2018
+|meet = [[2018 FINA World Swimming Championships (25 m) – Men's 1500 metre freestyle|World Championships]]
+|city = Hangzhou
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000112010C0101F304FFFFFFFFFFFF01|publisher=Omega Timing|date=16 December 2018|access-date=16 December 2018}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 23.98
+|recordinfo = rh
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 6 December 2023{{efn|by official result source; 5 December 2023 by federation source, a typo}}
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Men's 4×50m Medley Relay Heats Results|url=https://www.omegatiming.com/File/00011600090105F60101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=6 December 2023|access-date=10 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 51.78
+|recordinfo = h
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 13 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 100 metre backstroke|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 100m Backstroke Heats Results|url=https://www.omegatiming.com/File/00011800080102EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 December 2024|accessdate=13 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:50.25
+|recordinfo = 
+|firstname = Oleksandr
+|lastname = Zheltyakov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 10 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Men's 200m Backstroke Final Results|url=https://www.omegatiming.com/File/00011600090102EE0104FFFFFFFFFF01.pdf|work=omegatiming.com|date=10 December 2023|access-date=10 December 2023}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 26.17
+|recordinfo = 
+|firstname = Oleh
+|lastname = Lisohor
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 21 January 2006
+|meet = [[2005–2006 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Men's 50m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=000106160015000000FFFFFFFFFFFF01|publisher=Omega Timing|date=21 January 2006|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 56.97
+|recordinfo = 
+|firstname = Ihor
+|lastname = Borysyk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 11 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=000109010027000000FFFFFFFFFFFF01|publisher=Omega Timing|date=11 December 2009|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:03.93
+|recordinfo = 
+|firstname = Ihor
+|lastname = Borysyk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 10 November 2009
+|meet = [[2009 FINA Swimming World Cup|World Cup]]
+|city = Stockholm
+|country = SWE
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010906001D000000FFFFFFFFFFFF01|publisher=Omega Timing|date=10 November 2009|access-date=10 August 2017}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 22.29
+|recordinfo = h
+|firstname = Andriy
+|lastname = Govorov
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 30 August 2016
+|meet = [[2016 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Men's 50m Butterfly Heats Results|url=http://www.omegatiming.com/File/Download?id=000110000500030C00FFFFFFFFFFFF02|publisher=Omega Timing|date=30 August 2016|access-date=31 August 2016}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 50.66
+|recordinfo = sf
+|firstname = Ihor
+|lastname = Troianovskyi
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 4 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/000119000A0204EC0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=4 December 2025|access-date=4 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:53.15
+|recordinfo = sf
+|firstname = Ihor
+|lastname = Troianovskyi
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 6 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Semifinals Results|url=https://www.omegatiming.com/File/000119000A0104EE0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=6 December 2025|access-date=6 December 2025}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 52.91
+|recordinfo = sf
+|firstname = Vadym
+|lastname = Naumenko
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 12 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 100 metre individual medley|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 100m IM Semifinals Results|url=https://www.omegatiming.com/File/00011800080105EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2024|accessdate=12 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 1:55.22
+|recordinfo = sf
+|firstname = Vadym
+|lastname = Naumenko
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 5 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 200m IM Semifinals Results|url=https://www.omegatiming.com/File/000119000A0105EE0102FFFFFFFFFF01.pdf|work=omegatiming.com|date=5 December 2025|access-date=5 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:07.39
+|recordinfo = 
+|firstname = Maksym
+|lastname = Shemberev
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 23 November 2012
+|meet = [[2012 European Short Course Swimming Championships|European Championships]]
+|city = Chartres
+|country = FRA
+|ref = <ref>{{cite web|title=Men's 400m IM Results|url=http://www.omegatiming.com/File/Download?id=00010C010B00041102FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=23 November 2012|access-date=12 December 2012}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:23.92
+|recordinfo = 
+|1name = [[Nikita Sheremet]]
+|1split = 20.84
+|2name = [[Illia Linnyk]]
+|2split = 20.96
+|3name = [[Vladyslav Bukhov]]
+|3split = 20.75
+|4name = [[Stepan Babenko]]
+|4split = 21.37
+|club = {{flagu|Ukraine}}
+|date = 2 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 4x50m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/000119000A0101F60104FFFFFFFFFF01.pdf|work=omegatiming.com|date=2 December 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:15.41
+|recordinfo = 
+|1name = [[Serhii Latsko]]
+|1split = 48.81
+|2name = [[Matvii Ukrainets]]
+|2split = 49.26
+|3name = [[Danil Shapovalov]]
+|3split = 49.04
+|4name = [[Stanislav Kyiashchenko]]
+|4split = 48.30
+|club = {{flagu|Ukraine}}
+|date = 19 December 2025
+|meet = Lithuanian Open Championships
+|city = Vilnius
+|country = LTU
+|ref = <ref>{{cite web|title=Men's 4 x 100m Freestyle Results|url=https://live.swimrankings.net/48350/ResultList_27.pdf|publisher=swimrankings.net|date=19 December 2025|access-date=23 February 2026}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 7:14.38
+|recordinfo = 
+|1name = [[Serhiy Fesenko]]
+|1split = 1:48.77
+|2name = [[Volodymyr Nikolaychuk]]
+|2split = 1:48.63 
+|3name = [[Serhiy Advena]]
+|3split = 1:50.60
+|4name = [[Andriy Serdinov]]
+|4split = 1:46.38
+|club = {{flagu|Ukraine}}
+|date = 4 April 2002
+|meet = [[2002 FINA World Swimming Championships (25m)|World Championships]]
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite web|title=4x200m Relay Free Men Final Ranking|url=http://www.omegatiming.com/File/Download?id=0001020C0026000000FFFFFFFFFFFF01|publisher=Omega Timing|date=4 April 2002|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22.1
+|event = 4×50m medley relay
+|time = 1:34.35
+|recordinfo = h
+|1name = [[Oleksandr Zheltyakov]]
+|1split = 24.25
+|2name = [[Volodymyr Lisovets]]
+|2split = 26.44
+|3name = [[Andriy Govorov]]
+|3split = 22.76
+|4name = [[Vladyslav Bukhov]]
+|4split = 20.90
+|club = {{flagu|Ukraine}}
+|date = 17 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 4 × 50 metre medley relay|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Men's 4x50m Medley Relay Heats Results|url=https://www.omegatiming.com/File/00011700030105F60101FFFFFFFFFF01.pdf|date=17 December 2022|access-date=17 December 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:28.62
+|recordinfo = 
+|1name = [[Andriy Oleynyk]]
+|1split = 52.41
+|2name = [[Oleg Lisogor]]
+|2split = 57.17
+|3name = [[Serhiy Advena]]
+|3split = 51.17
+|4name = [[Andriy Serdinov]]
+|4split = 47.87
+|club = {{flagu|Ukraine}}
+|date = 9 April 2006
+|meet = [[2006 FINA World Swimming Championships (25 m)|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 4 x 100m Medley Relay Final Results|url=http://www.omegatiming.com/File/Download?id=0001060E0064000000FFFFFFFFFFFF01|publisher=Omega Timing|date=9 April 2006|access-date=10 August 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 24.36
+|recordinfo = sf
+|firstname = Darya
+|lastname = Stepanyuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 13 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 50m Freestyle Semifinals Results|url=http://www.omegatiming.com/File/Download?id=000109010052000000FFFFFFFFFFFF01|publisher=Omega Timing|date=13 December 2009|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 53.55
+|recordinfo = sf
+|firstname = Darya
+|lastname = Stepanyuk
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 10 December 2009
+|meet = [[2009 European Short Course Swimming Championships|European Championships]]
+|city = Istanbul
+|country = TUR
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Semifinals Results|url=http://www.omegatiming.com/File/Download?id=000109010016000000FFFFFFFFFFFF01|publisher=Omega Timing|date=10 December 2009|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:56.31
+|recordinfo = 
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 6 October 2012
+|meet = [[2012 FINA Swimming World Cup|World Cup]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Women's 200m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010C010401001602FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=6 October 2012|access-date=9 January 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:01.26
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 5 April 2002
+|meet = [[2002 FINA World Swimming Championships (25m)|World Championships]]
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite web|title=400m Free Women Finals Ranking|url=http://www.omegatiming.com/File/Download?id=0001020C0038000000FFFFFFFFFFFF01|publisher=Omega Timing|date=5 April 2002|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:22.37
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 9 December 1999
+|meet = [[European Short Course Swimming Championships 1999|European Championships]]
+|city = Lisbon
+|country = POR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:25.06
+|recordinfo = 
+|firstname = Olga
+|lastname = Beresnyeva
+|namearticle = 
+|club = -
+|date = 30 April 2002
+|meet = -
+|city =
+|country = BRA
+|ref = 
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 25.99
+|recordinfo = 
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 7 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 50 metre backstroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Women's 50m Backstroke Results|url=http://www.omegatiming.com/File/Download?id=00010E010D01011A02FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=7 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 55.54
+|recordinfo = 
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 4 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 100 metre backstroke|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Women's 100m Backstroke Results|url=http://www.omegatiming.com/File/Download?id=00010E010D01011B02FFFFFFFFFFFF02|publisher=Omega Timing|date=4 December 2014|access-date=4 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 1:59.35
+|recordinfo = 
+|firstname = Daryna
+|lastname = Zevina
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 26 August 2016
+|meet = [[2016 FINA Swimming World Cup|World Cup]]
+|city = Chartres
+|country = FRA
+|ref = <ref>{{cite web|title=Women's 200m Backstroke Results|url=http://www.omegatiming.com/File/Download?id=000110000401011C02FFFFFFFFFFFF02|publisher=Omega Timing|date=26 August 2016|access-date=27 August 2016}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 30.37
+|recordinfo = 
+|firstname = Hanna
+|lastname = Dzerkal
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 20 December 2014
+|meet = Vladimir Salnikov Cup
+|city = Saint Petersburg
+|country = RUS
+|ref = <ref>{{cite web|title=Women, 50m Breaststroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=584549&gender=2&styleId=12|publisher=swimrankings.net|date=20 December 2014|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:05.66
+|recordinfo = 
+|firstname = Hanna
+|lastname = Dzerkal
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 19 December 2014
+|meet = Vladimir Salnikov Cup
+|city = Saint Petersburg
+|country = RUS
+|ref = <ref>{{cite web|title=Women, 100m Breaststroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=584549&gender=2&styleId=13|publisher=swimrankings.net|date=19 December 2014|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:19.50
+|recordinfo = 
+|firstname = Viktoriya
+|lastname = Solnceva
+|namearticle = Viktoriya Zeynep Güneş
+|club = {{flagu|Ukraine}}
+|date = 8 August 2013
+|meet = [[2013 FINA Swimming World Cup|World Cup]]
+|city = Eindhoven
+|country = NED
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Final Results|url=http://www.omegatiming.com/File/Download?id=00010D020501021F02FFFFFFFFFFFF02|publisher=Omega Timing|date=8 August 2013|access-date=10 August 2017}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 26.29
+|recordinfo = 
+|firstname = Nadiya
+|lastname = Koba
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 22 December 2012
+|meet = Vladimir Salnikov Cup
+|city = Saint Petersburg
+|country = RUS
+|ref = <ref>{{cite web|title=Women, 50m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=567495&gender=2&styleId=15|publisher=swimrankings.net|date=22 December 2012|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 58.24
+|recordinfo = 
+|firstname = Lyubov
+|lastname = Korol
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 13 December 2008
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|city = Rijeka
+|country = CRO
+|ref = <ref>{{cite web|title=Women's 100m Butterfly Heats Results|url=http://www.omegatiming.com/File/Download?id=000108000038000000FFFFFFFFFFFF01|publisher=Omega Timing|date=13 December 2008|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:08.04
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 26 January 2003
+|meet = [[2002–2003 FINA Swimming World Cup|World Cup]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Women's 200m Butterfly Final Results|url=http://www.omegatiming.com/File/Download?id=0001030C003D000000FFFFFFFFFFFF01|publisher=Omega Timing|date=26 January 2003|access-date=10 August 2017}}</ref>
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 1:00.31
+|recordinfo = 
+|firstname = Hanna 
+|lastname = Dzerkal
+|namearticle = 
+|club = Donetsk
+|date = 9 November 2014
+|meet = Ukrainian Championships
+|city = Bila Tserkva
+|country = UKR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:08.28
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date =12 December 2012
+|meet = [[European Short Course Swimming Championships 2002|European Championships]]
+|city = Riesa
+|country = GER
+|ref = <ref>{{cite web|title=200m Individual Medley Women Final Results|url=http://www.omegatiming.com/File/Download?id=000102000012000000FFFFFFFFFFFF01|publisher=Omega Timing|date=12 December 2002|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:27.83
+|recordinfo = 
+|firstname = Yana
+|lastname = Klochkova
+|namearticle = 
+|club = {{flagu|Ukraine}}
+|date = 19 January 2002
+|meet = [[2001–2002 FINA Swimming World Cup|World Cup]]
+|city = Paris
+|country = FRA
+|ref = 
+}}
+|-bgcolor=#DDDDDD
+|colspan=9|
+|-
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:39.81
+|recordinfo = 
+|1name = [[Nadiya Koba]]
+|1split = 25.06
+|2name = [[Valeriya Podlesna]]
+|2split =  25.50
+|3name = [[Daryna Zevina]]
+|3split = 24.83
+|4name = [[Oksana Serikova]]
+|4split = 24.42
+|club = {{flagu|Ukraine}}
+|date = 26 November 2010
+|meet = [[2010 European Short Course Swimming Championships|European Championships]]
+|city = Eindhoven
+|country = NED
+|ref = <ref>{{cite web|title=Women's 4x50m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010A030033000000FFFFFFFFFFFF01|publisher=Omega Timing|date=26 November 2010|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:46.68
+|recordinfo = 
+|1name = [[Anastasiya Manakova]]
+|1split = 
+|2name = [[Yuliya Krutogolova]]
+|2split =  
+|3name = [[Oryna Yakuba]]
+|3split = 
+|4name = [[Margaryta Smirnova]]
+|4split = 
+|club = Kyiv
+|date = 23 November 2016
+|meet = Ukrainian Cup
+|city = Bila Tserkva
+|country = UKR
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = {{ref label|scm-w-4x200|Note <br /> 4x200}}
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|club = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 1:47.90
+|recordinfo = 
+|1name = [[Kateryna Zubkova]]
+|1split = 26.82
+|2name = [[Hanna Dzerkal]]
+|2split = 30.40 
+|3name = [[Lyubov Korol]]
+|3split = 26.43
+|4name = [[Oksana Serikova]]
+|4split = 24.25
+|club = {{flagu|Ukraine}}
+|date = 13 December 2008
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|city = Rijeka
+|country = CRO
+|ref = <ref>{{cite web|title=Women's 4 x 50m Medley Relay Finals Results|url=http://www.omegatiming.com/File/Download?id=000108000049000000FFFFFFFFFFFF01|publisher=Omega Timing|date=13 December 2008|access-date=10 August 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 4:02.68
+|recordinfo = 
+|1name = [[Iryna Amshennikova]]
+|1split = 1:01.19
+|2name = [[Svitlana Bondarenko]]
+|2split = 1:08.73
+|3name = [[Yana Klochkova]]
+|3split = 58.66
+|4name = [[Olga Mukomol]]
+|4split = 54.10
+|club = {{flagu|Ukraine}}
+|date = 5 April 2002
+|meet = [[2002 FINA World Swimming Championships (25m)|World Championships]]
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite web|title=4x100m Relay Medley Women Final Ranking|url=http://www.omegatiming.com/File/Download?id=0001020C003C000000FFFFFFFFFFFF01|publisher=Omega Timing|date=5 April 2002|access-date=10 August 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|WR=yes|ER=yes}}
+<small>{{note|formerWR}}'''fWR''': [[List of World records in swimming|World Record]] when originally swum.<br />
+{{note|scm-w-4x200}}'''Note 4x200''': In the short-course Women's 4x200 Free Relay, the Federation has established a time of 8:15.00 as the mark a relay team must meet/better in order to establish the national record. As of December 2016, no team had yet done this.</small>
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m <br />&nbsp; freestyle relay
+|time = 1:31.51 
+|recordinfo = 
+|1name = [[Bogdan Plavin]]
+|1split = 21.97
+|2name = [[Daryna Zevina]]
+|2split = 24.26
+|3name = [[Ganna Dzerkal]]
+|3split = 24.69
+|4name = [[Andriy Govorov]]
+|4split = 20.59
+|club = {{flagu|Ukraine}}
+|date = 6 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – 4 × 50 metre mixed freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title= Mixed 4x50m Freestyle Relay Results|url=http://www.omegatiming.com/File/Download?id=00010E010D02003F02FFFFFFFFFFFF02|publisher=Omega Timing|date=6 December 2014|access-date=3 January 2015}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 20
+|event = 4×50m <br />&nbsp; medley relay
+|time = 1:39.48
+|recordinfo = 
+|1name = [[Daryna Zevina]]
+|1split = 26.10
+|2name = [[Andrei Kovalenko (water polo)|Andriy Kovalenko]]
+|2split = 26.39
+|3name = [[Andriy Govorov]]
+|3split = 22.37
+|4name = [[Ganna Dzerkal]]
+|4split = 24.62
+|club = {{flagu|Ukraine}}
+|date = 4 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – 4 × 50 metre mixed medley relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Mixed 4x50m Medley Relay Results|url=http://www.omegatiming.com/File/Download?id=00010E010D02043E02FFFFFFFFFFFF02|publisher=Omega Timing|date=4 December 2014|access-date=4 December 2014}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Ukrainian Swimming Federation|r=no|b=no|sf=no|tt=no|†=no}}
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+*[https://usf.org.ua/files/records/ukraine_records_50m__01_12_2025.pdf Ukrainian Long Course Records] <small>''1 December 2025 updated''</small>
+*[https://usf.org.ua/files/records/ukraine_records_25m_25_12_2025.pdf Ukrainian Short Course Records] <small>''25 December 2025 updated''</small>
+;Specific
+{{reflist}}
+
+==External links==
+*[http://usf.org.ua/ Ukrainian Swimming Federation]
+*[https://usf.org.ua/ua/Rekordy.html Ukrainian Swimming Federation records page]
+
+{{International swimming}}
+{{Records in swimming}}
+
+[[Category:National records in swimming|Ukraine]]
+[[Category:Swimming in Ukraine|Records]]
+[[Category:Ukrainian records|Swimming]]
+[[Category:Ukraine sport-related lists|Swimming]]

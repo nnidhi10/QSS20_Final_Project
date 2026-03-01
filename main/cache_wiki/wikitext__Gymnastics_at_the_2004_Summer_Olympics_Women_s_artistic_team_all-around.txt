@@ -1,0 +1,201 @@
+{{Infobox Olympic event
+|event = Women's artistic team all-around
+|games = 2004 Summer
+|image =
+|caption =
+|venue = 
+|date =
+|competitors = 
+|nations = 
+|gold =[[Oana Ban]], [[Alexandra Eremia]], [[Cătălina Ponor]], <br/>[[Monica Roșu]], [[Nicoleta Daniela Șofronie]] and [[Silvia Stroescu]]
+|goldNOC = ROM
+|silver = [[Mohini Bhardwaj]], [[Annia Hatch]], [[Terin Humphrey]], <br/>[[Courtney Kupets]], [[Courtney McCool]] and [[Carly Patterson]]
+|silverNOC = USA
+|bronze =[[Ludmila Ezhova]], [[Svetlana Khorkina]], [[Maria Kryuchkova]], <br/>[[Anna Pavlova (gymnast)|Anna Pavlova]], [[Elena Zamolodchikova]] and [[Natalia Ziganshina]]
+|bronzeNOC = RUS
+|prev = [[Gymnastics at the 2000 Summer Olympics – Women's artistic team all-around|2000]]
+|next = [[Gymnastics at the 2008 Summer Olympics – Women's artistic team all-around|2008]]
+}}
+{{GymnasticsAt2004SummerOlympics}}
+These are the results of the '''women's artistic team all-around''' competition, one of six events for female competitors of the [[artistic gymnastics]] discipline contested in the '''[[gymnastics at the 2004 Summer Olympics]]''' in [[Athens]]. The qualification and final rounds took place on August 15 and August 17 at the [[Olympic Indoor Hall]].
+
+The scoring for the team event had been changed again since the [[2000 Summer Olympics]] in [[Sydney]]. The new format only 3 athletes from each national team competed on each piece of apparatus, and all scores counted towards the final combined total at the end.
+
+The medals for the competition were presented by [[Carlos Arthur Nuzman]], [[Brazil]]; [[List of members of the International Olympic Committee|IOC Members]], and the medalists' bouquets were presented by [[Nicolae Vieru]], [[Romania]]; [[International Gymnastics Federation|FIG Vice-President]].
+
+==Results==
+
+===Qualification===
+{{Main article|Gymnastics at the 2004 Summer Olympics – Women's artistic qualification}}
+Twelve national teams composed by six gymnasts competed in the team all-around event in the artistic gymnastics qualification round on August 15.
+The eight highest scoring teams advanced to the final on August 17.
+
+===Final===
+{| class="wikitable" style="text-align:center"
+|-
+!Rank
+!style="width:12em"|Team
+!style="width:6em"| Vault
+!style="width:6em"| Uneven<br/>Bars
+!style="width:6em"| Balance<br/>Beam
+!style="width:6em"| Floor<br/>Exercise
+!style="width:6em"| Total
+|-
+|-bgcolor=gold
+| rowspan=7| [[Image:Gold medal icon.svg]]
+|align=left| {{FlagIOC|ROU|2004 Summer}}
+|28.437 (1)||28.136 (5)||28.961 (1)||28.749 (1)||'''114.283'''
+|-
+|align=left| [[Oana Ban]] || ||9.187||9.512||9.437||28.136
+|-
+|align=left| [[Alexandra Eremia]] || || ||9.687|| ||9.687
+|-
+|align=left| [[Cătălina Ponor]] ||9.412|| ||9.762||9.750||28.924
+|-
+|align=left| [[Monica Roșu]] ||9.625||9.387|| || ||19.012
+|-
+|align=left| [[Nicoleta Daniela Șofronie]] ||9.400||9.562|| ||9.562||28.524
+|-
+|align=left| [[Silvia Stroescu]] || || || || ||
+|-
+!colspan=7|
+|-
+|-bgcolor=silver
+| rowspan=7| [[Image:Silver medal icon.svg]]
+|align=left| {{FlagIOC|USA|2004 Summer}}
+|28.387 (2)||28.524 (1)||28.499 (3)||28.174 (3)||'''113.584'''
+|-
+|align=left| [[Mohini Bhardwaj]] ||9.500|| ||9.400||9.325||28.225
+|-
+|align=left| [[Annia Hatch]] ||9.562|| || || ||9.562
+|-
+|align=left| [[Terin Humphrey]] || ||9.575||9.487|| ||19.062
+|-
+|align=left| [[Courtney Kupets]] || ||9.662|| ||9.187||18.849
+|-
+|align=left| [[Courtney McCool]] || || || || ||
+|-
+|align=left| [[Carly Patterson]] ||9.325||9.287||9.612||9.662||37.886
+|-
+!colspan=7|
+|-
+|-bgcolor=#CC9966
+| rowspan=7| [[Image:Bronze medal icon.svg]]
+|align=left| {{FlagIOC|RUS|2004 Summer}}
+|28.325 (3)||28.137 (4)||28.511 (2)||28.262 (2)||'''113.235'''
+|-
+|align=left| [[Ludmila Ezhova]] || ||9.437||9.437|| ||18.874
+|-
+|align=left| [[Svetlana Khorkina]] ||9.375||9.650||9.437||9.600||38.062
+|-
+|align=left| [[Maria Krioutchkova]] || || || || ||
+|-
+|align=left| [[Anna Pavlova (gymnast)|Anna Pavlova]] ||9.425|| ||9.637||9.275||28.337
+|-
+|align=left| [[Elena Zamolodchikova]] ||9.525|| || ||9.387||18.912
+|-
+|align=left| [[Natalia Ziganchina]] || ||9.050|| || ||9.050
+|-
+!colspan=7|
+|-
+| rowspan=7| 4
+|align=left| {{FlagIOC|UKR|2004 Summer}}
+|28.099 (6)||28.199 (3)||28.024 (4)||27.987 (4)||'''112.309'''
+|-
+|align=left| [[Mirabella Akhunu]] || || || ||8.975||8.975
+|-
+|align=left| [[Alina Kozich]] ||9.362||9.512||9.550||9.650||38.074
+|-
+|align=left| [[Iryna Krasnianska]] || ||9.187||9.387|| ||18.574
+|-
+|align=left| [[Alona Kvasha]] ||9.362|| || ||9.362||18.724
+|-
+|align=left| [[Olga Sherbatykh]] ||9.375|| || || ||9.375
+|-
+|align=left| [[Irina Yarotska]] || ||9.500||9.087|| ||18.587
+|-
+!colspan=7|
+|-
+| rowspan=7| 5
+|align=left| {{FlagIOC|ESP|2004 Summer}}
+|27.599 (7)||28.412 (2)||27.724 (5)||27.837 (5)||'''111.572'''
+|-
+|align=left| [[Laura Campos]] || || || || ||
+|-
+|align=left| [[Tania Gener]] ||9.275||9.500|| || ||18.775
+|-
+|align=left| [[Elena Gómez]] ||9.187||9.475||9.000||9.575||37.237
+|-
+|align=left| [[Monica Mesalles]] ||9.137|| ||9.312||8.800||27.249
+|-
+|align=left| [[Patricia Moreno]] || || || ||9.462||9.462
+|-
+|align=left| [[Sara Moro]] || ||9.437||9.412|| ||18.849
+|-
+!colspan=7|
+|-
+| rowspan=7| 6
+|align=left| {{FlagIOC|FRA|2004 Summer}}
+|28.162 (4)||27.011 (8)||27.537 (6)||27.449 (6)||'''110.159'''
+|-
+|align=left| [[Coralie Chacon]] ||9.462|| || || ||9.462
+|-
+|align=left| [[Soraya Chaouch]] || ||8.937|| ||8.987||17.924
+|-
+|align=left| [[Marine Debauve]] || ||9.437||9.400||9.350||28.187
+|-
+|align=left| [[Emilie Lepennec]] ||9.325||8.637||8.850||9.112||35.924
+|-
+|align=left| [[Camille Schmutz]] || || ||9.287|| ||9.287
+|-
+|align=left| [[Isabelle Severino]] ||9.375|| || || ||9.375
+|-
+!colspan=7|
+|-
+| rowspan=7| 7
+|align=left| {{FlagIOC|CHN|2004 Summer}}
+|28.149 (5)||27.549 (6)||27.224 (7)||27.086 (8)||'''110.008'''
+|-
+|align=left| [[Cheng Fei]] ||9.475|| || ||9.662||19.137
+|-
+|align=left| [[Fan Ye (gymnast)|Fan Ye]] || ||8.537||9.337|| ||17.874
+|-
+|align=left| [[Li Ya]] || ||9.450||8.300|| ||17.750
+|-
+|align=left| [[Lin Li (gymnast)|Lin Li]] || ||9.562|| || ||9.562
+|-
+|align=left| [[Wang Tiantian]] ||9.362|| || ||8.637||17.999
+|-
+|align=left| [[Zhang Nan (gymnast)|Zhang Nan]] ||9.312|| ||9.587||8.787||27.686
+|-
+!colspan=7|
+|-
+| rowspan=7| 8
+|align=left| {{FlagIOC|AUS|2004 Summer}}
+|27.449 (8)||27.100 (7)||26.974 (8)||27.324 (7)||'''108.847'''
+|-
+|align=left| [[Karen Nguyen]] ||9.112|| || || ||9.112
+|-
+|align=left| [[Stephanie Moorhouse]] || || ||9.187||9.037||18.224
+|-
+|align=left| [[Melissa Munro]] ||9.162|| ||9.150||8.912||27.224
+|-
+|align=left| [[Monette Russo]] || ||8.125|| || ||8.125
+|-
+|align=left| [[Lisa Skinner]] || ||9.425|| || ||9.425
+|-
+|align=left| [[Allana Slater]] ||9.175||9.550||8.637||9.375||36.737
+|}
+
+==References==
+*[http://www.gymnasticsresults.com/2004/o2004w.html Gymnastics Results.com]
+*[http://www.fig-gymnastics.com/LOB/media/MEDIA8932.pdf FIG - Fédération Internationale de Gymnastique]
+
+{{Footer Olympic Champions - Artistic Gymnastics - Women TC|2004}}
+
+{{DEFAULTSORT:Gymnastics at the 2004 Summer Olympics - Women's artistic team all-around}}
+[[Category:Gymnastics at the 2004 Summer Olympics|Women's artistic team all-around]]
+[[Category:Artistic gymnastics at the Summer Olympics|2004]]
+[[Category:All-around artistic gymnastics|Olympics]]
+[[Category:2004 in women's gymnastics]]
+[[Category:Women's events at the 2004 Summer Olympics]]

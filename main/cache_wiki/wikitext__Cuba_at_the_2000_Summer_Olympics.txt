@@ -1,0 +1,2450 @@
+{{Use dmy dates|date=September 2021}}
+{{infobox country at games
+| NOC = CUB
+| NOCname = [[Cuban Olympic Committee]]
+| games = Summer Olympics
+| year = 2000
+| flagcaption = 
+| oldcode = 
+| website = 
+| start_date = 15 September
+| end_date = 1 October
+| location = [[Sydney]], Australia
+| competitors = 229 (147 men and 82 women)
+| sports = 24
+| flagbearer = [[Félix Savón]]
+| rank = 9
+| gold = 11
+| silver = 11
+| bronze = 7
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Cuba]] competed at the [[2000 Summer Olympics]] held in Australia's largest city, [[Sydney]]. 229 competitors, 147 men and 82 women, took part in 135 events in 24 sports.<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/countries/CUB/summer/2000/ |archive-url=https://web.archive.org/web/20200417042458/https://www.sports-reference.com/olympics/countries/CUB/summer/2000/ |url-status=dead |archive-date=17 April 2020 |title=Cuba at the 2000 Summer Games |access-date=29 February 2012 |work=sports-reference.com}}</ref>
+
+==Medalists==
+{{further|2000 Summer Olympics medal table|List of 2000 Summer Olympics medal winners}}
+
+{| class="wikitable sortable" style="font-size:95%"
+|-
+!Medal
+!Name
+!Sport
+!Event
+!Date
+|-
+| {{gold medal}}
+| {{Sortname|Anier|García}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's 110 metres hurdles|Men's 110 metres hurdles]]
+| {{dts|format=dmy||9|25}}
+|-
+| {{gold medal}}
+| {{Sortname|Iván|Pedroso}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's long jump|Men's long jump]]
+| {{dts|format=dmy||9|25}}
+|-
+| {{gold medal}}
+| {{Sortname|Guillermo|Rigondeaux}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Bantamweight (– 54 kg)|Bantamweight]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{gold medal}}
+| {{Sortname|Mario|Kindelán}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Lightweight (– 60 kg)|Lightweight]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{gold medal}}
+| {{sortname|Jorge|Gutiérrez|Jorge Gutiérrez (boxer)}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Middleweight (– 75 kg)|Middleweight]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{gold medal}}
+| {{Sortname|Félix|Savón}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Heavyweight (– 91 kg)|Heavyweight]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{gold medal}}
+| {{Sortname|Legna|Verdecia}} || [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's 52 kg|Women's 52 kg]]
+| {{dts|format=dmy||9|17}}
+|-
+| {{gold medal}}
+| {{Sortname|Sibelis|Veranes}} || [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's 70 kg|Women's 70 kg]]
+| {{dts|format=dmy||9|18}}
+|-
+| {{gold medal}}
+| {{Sortname|Ángel|Matos}} || [[Taekwondo at the 2000 Summer Olympics|Taekwondo]]
+| [[Taekwondo at the 2000 Summer Olympics – Men's 80 kg|Men's 80 kg]]
+| {{dts|format=dmy||9|29}}
+|-
+| {{gold medal}}
+|| {{sortname|Cuba|women's national volleyball team}}<br/>{{columns-list|colwidth=10em|small=yes|style=width:22em|{{unbulleted list|[[Taismary Agüero]]|[[Zoila Barros]]|[[Regla Bell]]|[[Marlenis Costa]]|[[Ana Fernández (volleyball)|Ana Fernández]]|[[Mirka Francia]]|[[Idalmis Gato]]|[[Lilia Izquierdo]]|[[Mireya Luis]]|[[Yumilka Ruíz]]|[[Marta Sánchez (volleyball)|Marta Sánchez]]|[[Regla Torres]]}}}}
+| [[Volleyball at the 2000 Summer Olympics|Volleyball]]
+| [[Volleyball at the 2000 Summer Olympics – Women's volleyball|Women's indoor competition]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{gold medal}}
+| {{Sortname|Filiberto|Azcuy}} || [[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 69 kg|Men's Greco-Roman 69 kg]]
+| {{dts|format=dmy||9|27}}
+|-
+| {{silver medal}}
+| {{Sortname|Yoel|García}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's triple jump|Men's triple jump]]
+| {{dts|format=dmy||9|25}}
+|-
+| {{silver medal}}
+| {{Sortname|Javier|Sotomayor}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's high jump|Men's high jump]]
+| {{dts|format=dmy||9|24}}
+|-
+| {{silver medal}}
+| {{sortname|Cuba|national baseball team}}<br/>{{columns-list|colwidth=10em|small=yes|style=width:42em|{{unbulleted list|[[Omar Ajete]]|[[Yovany Aragón]]|[[Miguel Caldés Luis]]|[[Danel Castro]]|[[José Contreras]]|[[Yobal Dueñas]]|[[Yasser Gómez]]|[[José Ibar]]|[[Orestes Kindelán]]|[[Pedro Luis Lazo]]|[[Omar Linares]]|[[Oscar Macías (baseball)|Oscar Macías]]|[[Juan Manrique]]|[[Javier Méndez (baseball)|Javier Méndez]]|[[Rolando Meriño]]|[[Germán Mesa]]|[[Antonio Pacheco Massó]]|[[Ariel Pestano]]|[[Gabriel Pierre]]|[[Maels Rodríguez]]|[[Antonio Scull]]|[[Luis Ulacia]]|[[Lázaro Valle]]|[[Norge Luis Vera]]}}}}
+| align=center colspan=2 |[[Baseball at the 2000 Summer Olympics|Baseball]] (Men-only event)
+| {{dts|format=dmy||9|27}}
+|-
+| {{silver medal}}
+| {{Sortname|Ledis|Balceiro}} || [[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2000 Summer Olympics – Men's C-1 1000 metres|Men's C-1 1000 m]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{silver medal}}
+| {{Sortname|Leobaldo|Pereira}}, [[Ibrahim Rojas]] || [[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2000 Summer Olympics – Men's C-2 1000 metres|Men's C-2 1000 m]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{silver medal}}
+| {{Sortname|Driulis|González}}  || [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's 57 kg|Women's 57 kg]]
+| {{dts|format=dmy||9|18}}
+|-
+| {{silver medal}}
+| {{Sortname|Daima|Beltrán}} || [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's +78 kg|Women's +78 kg]]
+| {{dts|format=dmy||9|22}}
+|-
+| {{silver medal}}
+| {{Sortname|Urbia|Meléndez}} || [[Taekwondo at the 2000 Summer Olympics|Taekwondo]]
+| [[Taekwondo at the 2000 Summer Olympics – Women's 49 kg|Women's 49 kg]]
+| {{dts|format=dmy||9|27}}
+|-
+| {{silver medal}}
+| {{Sortname|Yoel|Romero}} || [[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2000 Summer Olympics – Men's freestyle 85 kg|Men's freestyle 85 kg]]
+| {{dts|format=dmy||10|1}}
+|-
+| {{silver medal}}
+| {{Sortname|Lázaro|Rivas}} || [[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 54 kg|Men's Greco-Roman 54 kg]]
+| {{dts|format=dmy||9|26}}
+|-
+| {{silver medal}}
+| {{Sortname|Juan|Marén}} || [[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 63 kg|Men's Greco-Roman 63 kg]]
+| {{dts|format=dmy||9|26}}
+|-
+| {{bronze medal}}
+| {{Sortname|José Ángel|César}}, [[Iván García (athlete)|Iván García]],<br />[[Freddy Mayola]], [[Luis Alberto Pérez-Rionda]] || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's 4 × 100 metres relay|Men's 4 × 100 m relay]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{bronze medal}}
+| {{Sortname|Osleidys|Menéndez}} || [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Women's javelin throw|Women's javelin throw]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{bronze medal}}
+| {{Sortname|Maikro|Romero}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Light Flyweight (– 48 kg)|Light Flyweight]]
+| {{dts|format=dmy||9|30}}
+|-
+| {{bronze medal}}
+| {{Sortname|Diógenes|Luña}} || [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Light Welterweight (– 63.5 kg)|Light Welterweight]]
+| {{dts|format=dmy||10|1}}
+|-
+| {{bronze medal}}
+| {{Sortname|Nelson|Loyola}}, [[Carlos Pedroso]], [[Iván Trevejo]] || [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Men's team épée|Men's team épée]]
+| {{dts|format=dmy||9|18}}
+|-
+| {{bronze medal}}
+| {{Sortname|Manolo|Poulot}} || [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Men's 60 kg|Men's 60 kg]]
+| {{dts|format=dmy||9|16}}
+|-
+| {{bronze medal}}
+| {{Sortname|Alexis|Rodríguez|Alexis Rodríguez (wrestler)}} || [[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2000 Summer Olympics – Men's freestyle 130 kg|Men's freestyle 130 kg]]
+| {{dts|format=dmy||9|30}}
+|}
+
+==Competitors==
+The following is the list of phone number of competitors in the Games.<ref>[https://www.olympedia.org/countries/CUB/editions/25 Cuba at the 2000 Summer Olympics]</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Archery at the 2000 Summer Olympics|Archery]]
+| 2 || 2 || 4
+|-
+| align=left|[[Athletics at the 2000 Summer Olympics|Athletics]]
+| 19 || 14 || 33
+|-
+| align=left|[[Baseball at the 2000 Summer Olympics|Baseball]]
+| 24 || – || 24
+|-
+| align=left|[[Basketball at the 2000 Summer Olympics|Basketball]]
+| 0 || 12 || 12
+|-
+| align=left|[[Boxing at the 2000 Summer Olympics|Boxing]]
+| 12 || – || 12
+|-
+| align=left|[[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| 3 || 0 || 3
+|-
+| align=left|[[Cycling at the 2000 Summer Olympics|Cycling]]
+| 2 || 2 || 4
+|-
+| align=left|[[Diving at the 2000 Summer Olympics|Diving]]
+| 4 || 2 || 6
+|-
+| align=left|[[Fencing at the 2000 Summer Olympics|Fencing]]
+| 7 || 4 || 11
+|-
+| align=left|[[Gymnastics at the 2000 Summer Olympics|Gymnastics]]
+| 2 || 0 || 2
+|-
+| align=left|[[Handball at the 2000 Summer Olympics|Handball]]
+| 14 || 0 || 14
+|-
+| align=left|[[Judo at the 2000 Summer Olympics|Judo]]
+| 7 || 7 || 14
+|-
+| align=left|[[Rowing at the 2000 Summer Olympics|Rowing]]
+| 6 || 3 || 9
+|-
+| align=left|[[Sailing at the 2000 Summer Olympics|Sailing]]
+| 1 || 1 || 2
+|-
+| align=left|[[Shooting at the 2000 Summer Olympics|Shooting]]
+| 4 || 2 || 6
+|-
+| align=left|[[Softball at the 2000 Summer Olympics|Softball]]
+| – || 15 || 15
+|-
+| align=left|[[Swimming at the 2000 Summer Olympics|Swimming]]
+| 5 || 2 || 7
+|-
+| align=left|[[Synchronized swimming at the 2000 Summer Olympics|Synchronized swimming]]
+| – || 2 || 2
+|-
+| align=left|[[Table tennis at the 2000 Summer Olympics|Table tennis]]
+| 3 || 2 || 5
+|-
+| align=left|[[Taekwondo at the 2000 Summer Olympics|Taekwondo]]
+| 2 || 2 || 4
+|-
+| align=left|[[Volleyball at the 2000 Summer Olympics|Volleyball]]
+| 12 || 10 || 22
+|-
+| align=left|[[Weightlifting at the 2000 Summer Olympics|Weightlifting]]
+| 5 || 0 || 5
+|-
+| align=left|[[Wrestling at the 2000 Summer Olympics|Wrestling]]
+| 13 || – || 13
+|-
+! Total !! 147 !! 82 !! 229
+|}
+
+==Archery==
+{{main|Archery at the 2000 Summer Olympics}}
+Cuba's first appearance in the Olympic archery competition resulted in a surprise pair of victories.
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Ismely Arias]]
+|align=left rowspan=2|[[Archery at the 2000 Summer Olympics – Men's individual|Men's individual]]
+|align=center|616
+|align=center|41
+|align=center|{{flagIOCathlete|[[Ihor Parkhomenko|Parkhomenko]]|UKR|2000 Summer}}<br />'''W''' 160-164
+|align=center|{{flagIOCathlete|[[Simon Needham|Needham]]|GBR|2000 Summer}}<br />'''W''' 165-164
+|align=center|{{flagIOCathlete|[[Simon Fairweather|Fairweather]]|AUS|2000 Summer}}<br />'''L''' 163-167
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Juan Carlos Stevens]]
+|align=center|595
+|align=center|57
+|align=center|{{flagIOCathlete|[[Simon Fairweather|Fairweather]]|AUS|2000 Summer}}<br />'''L''' 161-170
+|align=center colspan=6|Did not advance
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Edisbel Martinez]]
+|align=left rowspan=2|[[Archery at the 2000 Summer Olympics – Women's individual|Women's individual]]
+|align=center|611
+|align=center|56
+|align=center|{{flagIOCathlete|[[Petra Ericsson|Ericsson]]|SWE|2000 Summer}}<br />'''L''' 146-154
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Yaremis Pérez]]
+|align=center|612
+|align=center|54
+|align=center|{{flagIOCathlete|[[Yu Hui (archer)|Yu H]]|CHN|2000 Summer}}<br />'''W''' 159-155
+|align=center|{{flagIOCathlete|[[Karen Scavotto|Scavotto]]|USA|2000 Summer}}<br />'''L''' 155-158
+|align=center colspan=5|Did not advance
+|}
+
+==Athletics==
+{{main|Athletics at the 2000 Summer Olympics}}
+
+;Men's track
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Round 2
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left|[[Freddy Mayola]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 100 metres|100m]]
+|10.33
+|3 '''Q'''
+|10.35
+|6
+|colspan=4|Did not advance
+|- align=center
+|align=left|'''[[Anier García]]'''
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's 110 metres hurdles|110m hurdles]]
+|13.60
+|1 '''Q'''
+|13.53
+|1 '''Q'''
+|13.16
+|1 '''Q'''
+|13.00 '''[[List of Cuban records in athletics|NR]]'''
+|{{gold01}}
+|- align=center
+|align=left|[[Yoel Hernandez (athlete)|Yoel Hernandez]]
+|13.53
+|2 '''Q'''
+|13.40
+|4 '''Q'''
+|13.41
+|5
+|colspan=2|Did not advance
+|- align=center
+|align=left|'''[[José Ángel César]]'''<br /> '''[[Iván García (athlete)|Iván García]]'''<br /> '''[[Freddy Mayola]]'''<br /> '''[[Luis Alberto Pérez-Rionda]]'''
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 4 × 100 metres relay|4 × 100 m relay]]
+|38.74
+|1 '''Q'''
+|colspan=2 {{N/A}}
+|38.16
+|1 '''Q'''
+|38.04 '''SB'''
+|{{bronze03}}
+|}
+
+;Men's field
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|- align=center
+|align=left|'''[[Ivan Pedroso]]'''
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's long jump|Long jump]]
+|8.32
+|1 '''Q'''
+|8.55
+|{{gold01}}
+|- align=center
+|align=left|[[Luis Meliz]]
+|8.21
+|2 '''Q'''
+|8.08
+|7
+|- align=center
+|align=left|[[Michael Calvo]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Men's triple jump|Triple jump]]
+|16.30
+|27
+|colspan=2|Did not advance
+|- align=center
+|align=left|'''[[Yoel Garcia]]'''
+|17.08
+|5 '''Q'''
+|17.47
+|{{silver02}}
+|- align=center
+|align=left|[[Yoelbi Quesada]]
+|17.03
+|7 '''Q'''
+|17.37
+|4
+|- align=center
+|align=left|'''[[Javier Sotomayor]]'''
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's high jump|High jump]]
+|2.27
+|7 '''Q'''
+|2.32
+|{{silver02}}
+|- align=center
+|align=left|[[Frank Casañas]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's discus throw|Discus throw]]
+|60.84
+|24
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Alexis Elizalde]]
+|61.13
+|20
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Emeterio Gonzalez]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's javelin throw|Javelin throw]]
+|82.64
+|10 '''q'''
+|83.33
+|8
+|- align=center
+|align=left|[[Isbel Luaces]]
+|75.17
+|28
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Alexis Paumier]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's shot put|Shot put]]
+|18.31
+|18
+|colspan=2|Did not advance
+|}
+
+;Women's track
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left|[[Zulia Calatayud]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 800 metres|800m]]
+|2:00.18
+|3 '''q'''
+|colspan=2 {{N/A}}
+|1:59.30
+|3 '''Q'''
+|1:58.66
+|6
+|- align=center
+|align=left|[[Aliuska López]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 100 metres hurdles|100m hurdles]]
+|12.97
+|3 '''Q'''
+|12.92
+|3 '''Q'''
+|12.90
+|4 '''Q'''
+|12.83
+|5
+|- align=center
+|align=left|[[Daimí Pernía]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 400 metres hurdles|400m hurdles]]
+|55.53
+|1 '''Q'''
+|colspan=2 {{N/A}}
+|54.92
+|2 '''Q'''
+|53.68 '''SB'''
+|4
+|- align=center
+|align=left|[[Idalmis Bonne]]<br /> [[Zulia Calatayud]]<br /> [[Julia Duporty]]<br /> [[Daimí Pernía]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 4 × 400 metres relay|4 × 400 m relay]]
+|3:25.22
+|2 '''Q'''
+|colspan=4 {{N/A}}
+|3:29.47
+|8
+|}
+
+;Women's field
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|- align=center
+|align=left|[[Lissette Cuza]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's long jump|Long jump]]
+|6.25
+|26
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Yamile Aldama]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's triple jump|Triple jump]]
+|14.27
+|7 '''Q'''
+|14.30
+|4
+|- align=center
+|align=left|[[Ioamnet Quintero]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's high jump|High jump]]
+|1.92
+|14
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Yipsi Moreno]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's hammer throw|Hammer throw]]
+|65.74
+|4 '''Q'''
+|68.33
+|4
+|- align=center
+|align=left|[[Sonia Bisset]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Women's javelin throw|Javelin throw]]
+|60.09
+|11 '''q'''
+|63.26
+|5
+|- align=center
+|align=left|'''[[Osleidys Menéndez]]'''
+|67.34
+|1 '''Q'''
+|66.18
+|{{bronze03}}
+|- align=center
+|align=left|[[Xiomara Rivero]]
+|61.89
+|5 '''Q'''
+|62.92
+|6
+|- align=center
+|align=left|[[Yumileidi Cumbá]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's shot put|Shot put]]
+|18.42
+|8 '''Q'''
+|18.70
+|6
+|}
+
+;Decathlon
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!{{Tooltip| 100 m}}
+!{{Tooltip| LJ | Long jump }}
+!{{Tooltip| SP | Shot put}}
+!{{Tooltip| HJ | High jump }}
+!{{Tooltip| 400 m}}
+!{{Tooltip| 110H | 110 m hurdles}}
+!{{Tooltip| DT | Discus throw}}
+!{{Tooltip| PV | Pole vault}}
+!{{Tooltip| JT | Javelin throw}}
+!{{Tooltip| 1500 m}}
+!Final
+!Rank
+|- align=center
+|align=left rowspan=2|[[Eugenio Balanque]]
+!style="font-size:95%"|Result
+|10.87
+|6.19
+|14.90
+|1.94
+|48.23
+|14.36
+|46.56
+|NM
+|rowspan=2 colspan=4|Did not advance
+|- align=center
+!style="font-size:95%"|Points
+|890
+|628
+|784
+|749
+|898
+|929
+|799
+|0
+|- align=center
+|align=left rowspan=2|[[Raul Duany]]
+!style="font-size:95%"|Result
+|11.09
+|7.33
+|13.34
+|2.06
+|48.73
+|14.44
+|41.17
+|4.60
+|64.31
+|4:29.68
+|rowspan=2|8054
+|rowspan=2|15
+|- align=center
+!style="font-size:95%"|Points
+|841
+|893
+|688
+|859
+|827
+|918
+|688
+|790
+|803
+|747
+|}
+
+;Heptathlon
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!{{Tooltip| 100H |100 m hurdles}}
+!{{Tooltip| HJ | High jump }}
+!{{Tooltip| SP | Shot put}}
+!{{Tooltip| 200 m}}
+!{{Tooltip| LJ | Long jump }}
+!{{Tooltip| JT | Javelin throw}}
+!{{Tooltip| 800 m}}
+!Final
+!Rank
+|- align=center
+|align=left rowspan=2|[[Magalys Garcia]]
+!style="font-size:95%"|Result
+|13.46
+|1.66
+|13.29
+|24.58
+|5.92
+|50.31
+|828
+|rowspan=2|6054
+|rowspan=2|11
+|- align=center
+!style="font-size:95%"|Points
+|1056
+|806
+|747
+|926
+|825
+|866
+|828
+|}
+
+==Baseball==
+{{main|Baseball at the 2000 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=8|Group stage
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|'''[[Cuba national baseball team|Cuba men's]]'''
+|align=left|[[Baseball at the 2000 Summer Olympics|Men's tournament]]
+|{{flagIOC|RSA|2000 Summer}}<br />'''W''' 16–0
+|{{flagIOC|ITA|2000 Summer}}<br />'''W''' 13–5
+|{{flagIOC|KOR|2000 Summer}}<br />'''W''' 6–5
+|{{flagIOC|NED|2000 Summer}}<br />'''L''' 2–4
+|{{flagIOC|AUS|2000 Summer}}<br />'''W''' 1–0
+|{{flagIOC|USA|2000 Summer}}<br />'''W''' 6–1
+|{{flagIOC|JPN|2000 Summer}}<br />'''W''' 6–2
+|1 '''Q'''
+|{{flagIOC|JPN|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|USA|2000 Summer}}<br />'''L''' 0–4
+|{{silver02}}
+|}
+
+==Basketball==
+{{main|Basketball at the 2000 Summer Olympics}}
+
+===Women's tournament===
+;Team roster
+*[[Liset Castillo]]  
+*[[Milayda Enríquez]]  
+*[[Cariola Hechavarría]]  
+*[[Dalia Henry]]  
+*[[Grisel Herrera]]  
+*[[María León (basketball)|María León]]   
+*[[Yamilé Martínez]] 
+*[[Yaquelín Plutín]]  
+*[[Tania Seino]]  
+*[[Yuliseny Soria]] 
+*[[Taimara Suero]]
+*[[Lisdeivis Víctores]]
+
+;Summary
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Cuba women's national basketball team|Cuba women's]]
+|align=left|[[Basketball at the 2000 Summer Olympics – Women's tournament|Women's tournament]]
+|{{flagIOC|RUS|2000 Summer}}<br />'''L''' 62–72
+|{{flagIOC|USA|2000 Summer}}<br />'''L''' 90–61
+|{{flagIOC|NZL|2000 Summer}}<br />'''W''' 74–55
+|{{flagIOC|POL|2000 Summer}}<br />'''L''' 72–65
+|{{flagIOC|KOR|2000 Summer}}<br />'''L''' 69–56
+|5
+|colspan=2 {{N/A}}
+|''9/10th classification''<br />{{flagIOC|CAN|2000 Summer}}<br />'''W''' 67–58
+|9
+|}
+
+==Beach volleyball==
+{{main|Beach volleyball at the 2000 Summer Olympics}}
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!|Preliminary round
+!colspan="2"|Preliminary elimination
+!|Round of 16
+!|Quarterfinals
+!|Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Opposition<br />Score
+!First round
+!Second round
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Dalixia Fernández]]<br />[[Tamara Larrea]]
+|align=left|[[Beach volleyball at the 2000 Summer Olympics – Women's tournament|Women's]]
+|{{flagIOCathlete|[[Sandra Pires|Pires]] – <br />[[Adriana Samuel|Samuel]]|BRA|2000 Summer}}<br />'''L''' 4-15
+|{{flagIOCathlete|[[Tian Jia|Tian]] – <br />[[Zhang Jingkun|Zhang J]]|CHN|2000 Summer}}<br />'''W''' 15-12
+|{{flagIOCathlete|[[Lina Yanchulova|L Yanchulova]] – <br />[[Petia Yanchulova|P Yanchulova]]|BUL|2000 Summer}}<br />'''W''' 15-3
+|{{flagIOCathlete|[[Annett Davis|Davis]] – <br />[[Jenny Johnson Jordan|Johnson Jordan]]|USA|2000 Summer}}<br />'''L''' 9-15
+|colspan=3|Did not advance
+| =9
+|}
+
+==Boxing==
+{{main|Boxing at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|'''[[Maikro Romero]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Light flyweight|Light flyweight]]
+|{{flagIOCathlete|[[José Luis Varela|Varela]]|VEN|2000 Summer}}<br />'''W''' 15-11
+|{{flagIOCathlete|[[Marian Velicu|Velicu]]|ROM|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Valeriy Sidorenko|Sidorenko]]|UKR|2000 Summer}}<br />'''W''' 12-5
+|{{flagIOCathlete|[[Brahim Asloum|Asloum]]|FRA|2000 Summer}}<br />'''L''' 12-13
+|Did not advance
+|{{bronze03}}
+|- align=center
+|align=left|[[Manuel Mantilla]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Flyweight|Flyweight]]
+|{{flagIOCathlete|[[Kim Tae-gyu|Kim T-g]]|KOR|2000 Summer}}<br />'''W''' 20-8
+|{{flagIOCathlete|[[Mihai Bogdan Dobrescu|Dobrescu]]|ROM|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Wijan Ponlid|Ponlid]]|THA|2000 Summer}}<br />'''L''' 8-19
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Guillermo Rigondeaux]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Bantamweight|Bantamweight]]
+|{{flagIOCathlete|[[Moez Zemzeni|Zemzeni]]|TUN|2000 Summer}}<br />'''W''' '''KO'''
+|{{flagIOCathlete|[[Kazumasa Tsujimoto|Tsujimoto]]|JPN|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Agasi Agaguloglu|Agaguloglu]]|TUR|2000 Summer}}<br />'''W''' 14-5
+|{{flagIOCathlete|[[Clarence Vinson|Vinson]]|USA|2000 Summer}}<br />'''W''' 18-6
+|{{flagIOCathlete|[[Raimkul Malakhbekov|Malakhbekov]]|RUS|2000 Summer}}<br />'''W''' 18-12
+|{{gold01}}
+|- align=center
+|align=left|[[Yosvani Aguilera]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Featherweight|Featherweight]]
+|{{flagIOCathlete|[[Hidehiko Tsukamoto|Tsukamoto]]|JPN|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Yuri Mladenov|Mladenov]]|BUL|2000 Summer}}<br />'''W''' 15-8
+|{{flagIOCathlete|[[Kamil Djamaloudinov|Djamaloudinov]]|RUS|2000 Summer}}<br />'''L''' 12-17
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Mario Kindelán]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Lightweight|Lightweight]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Pongsith Wiangwiset|Wiangwiset]]|THA|2000 Summer}}<br />'''W''' 14-8
+|{{flagIOCathlete|[[Tigkran Ouzlian|Ouzlian]]|GRE|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Aleksandr Maletin|Maletin]]|RUS|2000 Summer}}<br />'''W''' 27-15
+|{{flagIOCathlete|[[Andriy Kotelnyk|Kotelnyk]]|UKR|2000 Summer}}<br />'''W''' 14-4
+|{{gold01}}
+|- align=center
+|align=left|'''[[Diógenes Luña]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Light welterweight|Light welterweight]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Willy Blain|Blain]]|FRA|2000 Summer}}<br />'''W''' 25-14
+|{{flagIOCathlete|[[Saleh Khoulef|Khoulef]]|EGY|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Ricardo Williams (boxer)|Williams]]|USA|2000 Summer}}<br />'''L''' 41-42
+|Did not advance
+|{{bronze03}}
+|- align=center
+|align=left|[[Roberto Guerra]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Welterweight|Welterweight]]
+|{{flagIOCathlete|[[Ellis Chibuye|Chibuye]]|ZAM|2000 Summer}}<br />'''W''' 18-4
+|{{flagIOCathlete|[[Dorel Simion|Simion]]|ROM|2000 Summer}}<br />'''L''' 7-11
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Juan Hernandez Sierra]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Light middleweight|Light middleweight]]
+|{{flagIOCathlete|[[Stephane Nzue Mba|Nzue Mba]]|GAB|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Mohamed Marmouri|Marmouri]]|TUN|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Yermakhan Ibraimov|Ibraimov]]|KAZ|2000 Summer}}<br />'''L''' 9-16
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Jorge Gutierrez (boxer)|Jorge Gutierrez]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Middleweight|Middleweight]]
+|{{flagIOCathlete|[[Somchai Cimlum|Cimlum]]|THA|2000 Summer}}<br />'''W''' 20-11
+|{{flagIOCathlete|[[Antonios Giannoulas|Giannoulas]]|GRE|2000 Summer}}<br />'''W''' 20-7
+|{{flagIOCathlete|[[Adrian Diaconu|Diaconu]]|ROM|2000 Summer}}<br />'''W KO'''
+|{{flagIOCathlete|[[Vugar Alakparov|Alakparov]]|AZE|2000 Summer}}<br />''' 19-9'''
+|{{flagIOCathlete|[[Gaydarbek Gaydarbekov|Gaydarbekov]]|RUS|2000 Summer}}<br />'''W''' 17-15
+|{{gold01}}
+|- align=center
+|align=left|[[Isael Alvarez]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Light heavyweight|Light heavyweight]]
+|{{flagIOCathlete|[[Giacobbe Fragomeni|Fragomeni]]|ITA|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Olzhas Orazaliyev|Orazaliyev]]|KAZ|2000 Summer}}<br />'''RSC'''
+|colspan=4|Did not advance
+|- align=center
+|align=left|'''[[Félix Savón]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Heavyweight|Heavyweight]]
+|{{N/A}}
+|{{flagIOCathlete|[[Rasmus Ojemaye|Ojemaye]]|NGR|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Michael Bennett (boxer)|Bennett]]|USA|2000 Summer}}<br />'''RSC'''
+|{{flagIOCathlete|[[Sebastian Kober|Kober]]|GER|2000 Summer}}<br />'''W''' 14-8
+|{{flagIOCathlete|[[Sultan Ibragimov|Ibragimov]]|RUS|2000 Summer}}<br />'''W''' 21-13
+|{{gold01}}
+|- align=center
+|align=left|[[Alexis Rubalcaba]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Super heavyweight|Super heavyweight]]
+|{{N/A}}
+|{{flagIOCathlete|[[Cengiz Koç|Koç]]|GER|2000 Summer}}<br />'''W KO'''
+|{{flagIOCathlete|[[Mukhtarkhan Dildabekov|Dildabekov]]|KAZ|2000 Summer}}<br />'''L''' 12-25
+|colspan=3|Did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2000 Summer Olympics}}
+
+===Sprint===
+;Men's
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heats
+!colspan=2|Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|rowspan=2 align=left|'''[[Ledis Frank Balceiro]]'''
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's C-1 500 metres|Men's C-1 500m]]
+|1:51.918
+|3 '''Q'''
+|colspan=2 {{n/a|Bye}}
+|2:32.229
+|6
+|- align=center
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's C-1 1000 metres|Men's C-1 1000m]]
+|3:55.120
+|1 '''Q'''
+|colspan=2 {{n/a|Bye}}
+|3:56.071
+|{{silver02}}
+|- align=center
+|rowspan=2 align=left|'''[[Leobaldo Pereira]]<br /> [[Ibrahin Rojas]]'''
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's C-2 500 metres|Men's C-2 500m]]
+|1:42.180
+|2 '''Q'''
+|colspan=2 {{n/a|Bye}}
+|2:17.126
+|9
+|- align=center
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's C-2 1000 metres|Men's C-2 1000m]]
+|3:38.978
+|3 '''Q'''
+|colspan=2 {{n/a|Bye}}
+|3:38.753
+|{{silver02}}
+|}
+
+==Cycling==
+{{main|Cycling at the 2000 Summer Olympics}}
+
+===Road cycling===
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Pedro Pablo Pérez]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's individual road race|Men's road race]]
+|5:52:48
+|92
+|- align=center
+|align=left|[[Dania Pérez]]
+|align=left rowspan=2|[[Cycling at the 2000 Summer Olympics – Women's individual road race|Women's road race]]
+|3:28:28
+|46
+|- align=center
+|align=left|[[Yoanka González]]
+|colspan=2| DNF
+|}
+
+===Track cycling===
+;Sprint
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!Round 1
+!Repechage 1
+!Round 2
+!Repechage 2
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Time<br />Speed (km/h)
+!Rank
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Opposition<br />Time<br />Speed (km/h)
+!Rank
+|- align=center
+|align=left|[[Julio César Herrera]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's sprint|Men's sprint]]
+|10.893s<br />66.097&nbsp;km/h
+|17 '''Q'''
+|{{flagIOCathlete|[[Laurent Gane|Gane]]|FRA|2000 Summer}}<br />'''L''' 
+|{{flagIOCathlete|[[Craig MacLean|MacLean]]|GBR|2000 Summer}}<br /> {{flagIOCathlete|[[Shinichi Ota|Ota]]|JPN|2000 Summer}}<br /> 3
+|colspan=6|Did not advance
+|}
+
+;Time trial
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Julio César Herrera]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's track time trial|Men's track time trial]]
+|1:05.537
+|10
+|}
+
+==Diving==
+{{main|Diving at the 2000 Summer Olympics}}
+;Men's
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="4"|Semifinals
+!colspan="3"|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Total
+!Rank
+!Points
+!Total
+!Rank
+|- align=center
+|align=left|[[Erick Fornaris]]
+|align=left rowspan=2|[[Diving at the 2000 Summer Olympics – Men's 3 metre springboard|Men's 3m springboard]]
+|313.86
+|37
+|colspan=7|Did not advance
+|- align=center
+|align=left|[[Yoendris Salazar]]
+|377.58
+|18 '''Q'''
+|197.52
+|17
+|575.10
+|18
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[José Guerra (diver)|José Guerra]]
+|align=left rowspan=2|[[Diving at the 2000 Summer Olympics – Men's 10 metre platform|Men's 10m platform]]
+|403.14
+|13 '''Q'''
+|181.65
+|13
+|584.79
+|14
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Jesus Iory]]
+|368.34
+|22
+|colspan=7|Did not advance
+|}
+
+;Women's
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="4"|Semifinals
+!colspan="3"|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Total
+!Rank
+!Points
+!Total
+!Rank
+|- align=center
+|align=left|[[Iohana Cruz]]
+|align=left|[[Diving at the 2000 Summer Olympics – Women's 3 metre springboard|Women's 3m springboard]]
+|239.97
+|24
+|colspan=7|Did not advance
+|- align=center
+|align=left|[[Yolanda Ortíz (diver)|Yolanda Ortiz]]
+|align=left|[[Diving at the 2000 Summer Olympics – Women's 10 metre platform|Women's 10m platform]]
+|231.63
+|31
+|colspan=7|Did not advance
+|}
+
+==Fencing==
+{{main|Fencing at the 2000 Summer Olympics}}
+Eleven fencers, seven men and four women, represented Cuba in 2000.
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|- align=center
+|align=left|[[Nelson Loyola]]
+|align=left rowspan=3|[[Fencing at the 2000 Summer Olympics – Men's épée|Men's épée]]
+|{{flagIOCathlete|[[Oleksandr Horbachuk|Horbachuk]]|UKR|2000 Summer}}<br />'''L''' 14-15
+|colspan=6|Did not advance
+|- align=center
+|align=left|[[Carlos Pedroso]]
+|{{flagIOCathlete|[[Gerry Adams (fencer)|Adams]]|AUS|2000 Summer}}<br />'''L''' 13-15
+|colspan=6|Did not advance
+|- align=center
+|align=left|[[Ivan Trevejo]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Aleksandr Poddubny|Poddubny]]|KGZ|2000 Summer}}<br />'''W''' 15-10
+|{{flagIOCathlete|[[Alfredo Rota|Rota]]|ITA|2000 Summer}}<br />'''W''' 15-12
+|{{flagIOCathlete|[[Pavel Kolobkov|Kolobkov]]|RUS|2000 Summer}}<br />'''L''' 14-15
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Oscar García (fencer)|Oscar García]]
+|align=left rowspan=3|[[Fencing at the 2000 Summer Olympics – Men's foil|Men's foil]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Sławomir Mocek|Mocek]]|POL|2000 Summer}}<br />'''L''' 9-15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Elvis Gregory]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Abdul Muhsen Ali|Muhsen Ali]]|KUW|2000 Summer}}<br />'''W''' 15-5
+|{{flagIOCathlete|[[Dmitry Shevchenko (fencer)|Shevchenko]]|RUS|2000 Summer}}<br />''''L''' 14-15
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Rolando Tucker]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Benny Wendt|Wendt]]|AUT|2000 Summer}}<br />'''W''' 15-5
+|{{flagIOCathlete|[[Jean-Noel Ferrari|Ferrari]]|FRA|2000 Summer}}<br />'''L''' 13-15
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Cándido Maya]]
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's sabre|Men's sabre]]
+|{{flagIOCathlete|[[Florin Lupeică|Lupeică]]|ROU|2000 Summer}}<br />'''L''' 10-15
+|colspan=6|Did not advance
+|- align=center
+|align=left|'''[[Nelson Loyola]]'''<br /> '''[[Carlos Pedroso]]'''<br /> '''[[Ivan Trevejo]]'''
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's team épée|Men's team épée]]
+|colspan=3 {{N/A}}
+|{{flagIOC|GER|2000 Summer}}<br />'''W''' 45-44
+|{{flagIOC|FRA|2000 Summer}}<br />'''L''' 36-45
+|{{flagIOC|KOR|2000 Summer}}<br />''''W''' 45-31
+|{{bronze03}}
+|- align=center
+|align=left|[[Elvis Gregory]]<br /> [[Oscar García (fencer)|Oscar García]]<br /> [[Rolando Tucker]]
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's team foil|Men's team foil]]
+|colspan=3 {{N/A}}
+|{{flagIOC|FRA|2000 Summer}}<br />'''L''' 43-45
+|colspan=3|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|- align=center
+|align=left|[[Tamara Esteri]]
+|align=left rowspan=3|[[Fencing at the 2000 Summer Olympics – Women's épée|Women's épée]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Zuleydis Ortiz|Ortiz]]|CUB|2000 Summer}}<br />'''L''' 7-15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Mirayda García]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Gianna Hablützel-Bürki|Hablützel-Bürki]]|SUI|2000 Summer}}<br />'''L''' 14-15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Zuleydis Ortiz]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Tamara Esteri|Esteri]]|CUB|2000 Summer}}<br />'''W''' 15-7
+|{{flagIOCathlete|[[Diana Romagnoli|Romagnoli]]|SUI|2000 Summer}}<br />'''W''' 15-11
+|{{flagIOCathlete|[[Gianna Hablützel-Bürki|Hablützel-Bürki]]|SUI|2000 Summer}}<br />'''L''' 14-15
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Migsey Dussu]]
+|align=left|[[Fencing at the 2000 Summer Olympics – Women's foil|Women's foil]]
+|{{flagIOCathlete|[[Liudmyla Vasylieva|Vasylieva]]|UKR|2000 Summer}}<br />'''W''' 15-6
+|{{flagIOCathlete|[[Laura Badea-Cârlescu|Badea-Cârlescu]]|ROU|2000 Summer}}<br />'''L''' 6-15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Tamara Esteri]]<br /> [[Mirayda García]]<br /> [[Zuleydis Ortiz]]
+|align=left|[[Fencing at the 2000 Summer Olympics – Women's team épée|Women's team épée]]
+|colspan=3 {{N/A}}
+|{{flagIOC|SUI|2000 Summer}}<br />'''L''' 38-45
+|colspan=3|Did not advance
+|}
+
+==Gymnastics==
+{{main|Gymnastics at the 2000 Summer Olympics}}
+;Men's artistic
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=8|Qualification
+!colspan=8|Final
+|-style=font-size:95%
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style=font-size:95%
+!{{tooltip|F|Floor}}
+!{{tooltip|PH|Pommel horse}}
+!{{tooltip|R|Rings}}
+!{{tooltip|V|Vault}}
+!{{tooltip|PB|Parallel bars}}
+!{{tooltip|HB|Horizontal bar}}
+!{{tooltip|F|Floor}}
+!{{tooltip|PH|Pommel horse}}
+!{{tooltip|R|Rings}}
+!{{tooltip|V|Vault}}
+!{{tooltip|PB|Parallel bars}}
+!{{tooltip|HB|Horizontal bar}}
+|- align=center
+|align=left|[[Lazaro Lamelas]]
+|align=left rowspan=2|[[Gymnastics at the 2000 Summer Olympics – Men's artistic individual all-around|Individual]]
+|9.137 
+|9.437
+|9.387
+|9.312
+|8.887
+|9.562
+|55.722
+|35 '''Q'''
+|8.775
+|9.262
+|9.437
+|9.262
+|9.275
+|9.575
+|55.586
+|30
+|- align=center
+|align=left|[[Erick López]]
+|8.975
+|9.500
+|9.637
+|9.537
+|9.062
+|9.412
+|56.123
+|28 '''Q'''
+|8.662
+|9.600
+|9.675
+|9.687
+|9.612
+|9.575
+|56.811
+|17
+|}
+
+==Handball==
+{{main|Handball at the 2000 Summer Olympics}}
+
+===Men's tournament===
+* [[Amauris Cardenas]]
+* [[Damian Cuesta]]
+* [[Diego Wong]]
+* [[Félix Romero]]
+* [[Freddy Suárez]]
+* [[José Hernández (handballer)|José Hernández]]
+* [[Juan González (handballer)|Juan González]]
+* [[Luis Silveira (handballer)|Luis Silveira]]
+* [[Miguel Montes (handballer)|Miguel Montes]]
+* [[Misael Iglesias]]
+* [[Odael Marcos]]
+* [[Raúl Hardy]]
+* [[Rolando Uríos]]
+* [[Yunier Noris]]
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Cuba men's national handball team|Cuba men's]]
+|align=left|[[Handball at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+|{{flagIOC|GER|2000 Summer}}<br />'''L''' 20–30
+|{{flagIOC|RUS|2000 Summer}}<br />'''L''' 26–21
+|{{flagIOC|EGY|2000 Summer}}<br />'''L''' 26–29
+|{{flagIOC|YUG|2000 Summer}}<br />'''L''' 26–33
+|{{flagIOC|KOR|2000 Summer}}<br />'''L''' 28–35
+|6
+|colspan=2 {{N/A}}
+|''11/12th classification''<br />{{flagIOC|AUS|2000 Summer}}<br />'''W''' 26–24
+|11
+|}
+
+==Judo==
+{{main|Judo at the 2000 Summer Olympics}}
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-
+|align=left|'''[[Manolo Poulot]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 60 kg|60kg]]
+|align=center|{{flagIOCathlete|[[Evgeny Stanev|Stanev]]|RUS|2000 Summer}}<br />'''W''' 1001–0000
+|align=center|{{flagIOCathlete|[[Aidyn Smagulov|Smagulov]]|KGZ|2000 Summer}}<br />'''W''' 1000–0010
+|align=center|{{flagIOCathlete|[[Giorgi Kurdgelashvili|Kurdgelashvili]]|MDA|2000 Summer}}<br />'''W''' 1000–0000
+|align=center|{{flagIOCathlete|[[Tadahiro Nomura|Nomura]]|JPN|2000 Summer}}<br />'''L''' 0002–0010
+|align=center colspan=3 {{n/a|Bye}}
+|align=center|{{flagIOCathlete|[[Bazarbek Donbay|Donbay]]|KAZ|2000 Summer}}<br />'''W''' 0210–0000
+|align=center|{{bronze03}}
+|-
+|align=left|[[Yordanis Arencibia]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 66 kg|66kg]]
+|align=center|{{flagIOCathlete|[[Giorgi Vazagashvili|Vazagashvili]]|GEO|2000 Summer}}<br />'''L''' 0001-1000
+|align=center colspan=8|Did not advance
+|-
+|align=left|[[Hector Lombard]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 73 kg|73kg]]
+|align=center|{{flagIOCathlete|[[Haitham Awad|Awad]]|EGY|2000 Summer}}<br />'''W''' 1010-0000
+|align=center|{{flagIOCathlete|[[Gennadiy Bilodid|Bilodid]]|UKR|2000 Summer}}<br />'''L''' 0020-1010
+|align=center colspan=7|Did not advance
+|-
+|align=left|[[Gabriel Arteaga]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 81 kg|81kg]]
+|align=center|{{flagIOCathlete|[[Robert Krawczyk|Krawczyk]]|POL|2000 Summer}}<br />'''W''' 1000-0000
+|align=center|{{flagIOCathlete|[[Marcel Aragão|Aragão]]|BRA|2000 Summer}}<br />'''W''' 0010-0000
+|align=center|{{flagIOCathlete|[[Djamel Bouras|Bouras]]|FRA|2000 Summer}}<br />'''L''' 0001-1001
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Maarten Arens|Arens]]|NED|2000 Summer}}<br />'''L''' 0000-0001
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Yosvany Despaigne]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 90 kg|90kg]]
+|align=center|{{flagIOCathlete|[[Mark Huizinga|Huizinga]]|NED|2000 Summer}}<br />'''L''' 0100-1011
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Brian Olson|Olson]]|USA|2000 Summer}}<br />'''L''' 0000-1001
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Yosvani Kessel]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 100 kg|100kg]]
+|align=center|{{flagIOCathlete|[[Kosei Inoue|Inoue]]|JPN|2000 Summer}}<br />'''L''' 0000-1000
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Daniel Gowing|Gowing]]|NZL|2000 Summer}}<br />'''W''' 1000-0001
+|align=center|{{flagIOCathlete|[[Ariel Ze'evi|Ze'evi]]|ISR|2000 Summer}}<br />'''L''' 0010-0120
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Angel Sanchez (judoka)|Angel Sanchez]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's +100 kg|+100kg]]
+|align=center|{{flagIOCathlete|[[Martin Boonzaayer|Boonzaayer]]|USA|2000 Summer}}<br />'''W''' 1000-0000
+|align=center|{{flagIOCathlete|[[Nacanieli Qerewaqa|Qerewaqa]]|FIJ|2000 Summer}}<br />'''W''' 1000-0000
+|align=center|{{flagIOCathlete|[[Valentyn Ruslyakov|Ruslyakov]]|UKR|2000 Summer}}<br />'''W''' 0010-0001
+|align=center|{{flagIOCathlete|[[Shinichi Shinohara|Shionhara]]|JPN|2000 Summer}}<br />'''L''' 0001-0010
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Ruslan Sharapov|Sharapov]]|BLR|2000 Summer}}<br />'''L''' 0100-1000
+|align=center colspan=3|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-
+|align=left|[[Amarilis Savón]]
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 48 kg|48kg]]
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Laura Moise|Moise]]|ROM|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Lyubov Bruletova|Bruletova]]|RUS|2000 Summer}}<br />'''L'''
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOCathlete|[[Victoria Dunn|Dunn]]|GBR|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Ann Simons|Simons]]|BEL|2000 Summer}}<br />'''L'''
+|align=center colspan=2|Did not advance
+|-
+|align=left|'''[[Legna Verdecia]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 52 kg|52kg]]
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Miren Leon|Leon]]|ESP|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Carolina Mariani|Mariani]]|ARG|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Kye Sun-hui|Kye]]|PRK|2000 Summer}}<br />'''W'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Noriko Narazaki|Narazaki]]|JPN|2000 Summer}}<br />'''W'''
+|align=center|{{gold01}}
+|-
+|align=left|'''[[Driulis Gonzalez]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 57 kg|57kg]]
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Barbara Harel|Harel]]|FRA|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Marisabel Lomba|Lomba]]|BEL|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Shen Jun (judoka)|Shen J]]|CHN|2000 Summer}}<br />'''W'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Isabel Fernández (judoka)|Fernández]]|ESP|2000 Summer}}<br />'''L'''
+|align=center|{{silver02}}
+|-
+|align=left|[[Kenia Rodriguez]]
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 63 kg|63kg]]
+|align=center|{{flagIOCathlete|[[Bilkisu Yusuf (judoka)|Yusuf]]|NGR|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Karen Roberts (judoka)|Roberts]]|GBR|2000 Summer}}<br />'''L'''
+|align=center colspan=7|Did not advance
+|-
+|align=left|'''[[Sibelis Veranes]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 70 kg|70kg]]
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Yvonne Wansart|Wansart]]|GER|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Sandra Bacher|Bacher]]|USA|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Cho Min-Sun|Cho M-S]]|KOR|2000 Summer}}<br />'''W'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Kate Howey|Howey]]|GBR|2000 Summer}}<br />'''W'''
+|align=center|{{gold01}}
+|-
+|align=left|[[Diadenis Luna]]
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 78 kg|78kg]]
+|align=center|{{flagIOCathlete|[[Kimberly Ribble|Ribble]]|CAN|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Amy Tong|Tong]]|USA|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Simona Richter|Richter]]|ROM|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Celine Lebrun|Lebrun]]|FRA|2000 Summer}}<br />'''L'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Emanuela Pierantozzi|Pierantozzi]]|ITA|2000 Summer}}<br />'''L'''
+|align=center|5
+|-
+|align=left|'''[[Daima Beltran]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's +78 kg|+78kg]]
+|align=center|{{flagIOCathlete|[[Kim Seon-young (judoka)|Kim S-Y]]|KOR|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Caroline Curren|Curren]]|AUS|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Brigitte Oliver|Oliver]]|BEL|2000 Summer}}<br />'''W'''
+|align=center|{{flagIOCathlete|[[Mayumi Yamashita|Yamashita]]|JPN|2000 Summer}}<br />'''W'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Yuan Hua (judoka)|Yuan H]]|CHN|2000 Summer}}<br />'''L'''
+|align=center|{{silver02}} 
+|}
+
+==Rowing==
+{{main|Rowing at the 2000 Summer Olympics}}
+;Men
+{|class="wikitable" style="font-size:90%;"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Yoennis Hernandez]]<br /> [[Yosbel Martinez]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's double sculls|Men's double sculls]]
+|align=center|6:40.27
+|align=center|4 '''R'''
+|align=center|6:35.76
+|align=center|3 '''SA/B'''
+|align=center|6:40.71
+|align=center|6 '''FB'''
+|align=center|6:40.71
+|align=center|12
+|-
+|align=left|[[Raúl León]]<br /> [[Osmani Martin]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]]
+|align=center|6:42.24
+|align=center|3 '''R'''
+|align=center|6:44.08
+|align=center|3
+|align=center colspan=4|''Withdrew''
+|-
+|align=left|[[Eusebio Acea]]<br /> [[Yoennis Hernandez]]<br /> [[Yosbel Martinez]]<br /> [[Leonides Samé]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's quadruple sculls|Men's quadruple sculls]]
+|align=center|6:00.67
+|align=center|4 '''R'''
+|align=center|6:04.45
+|align=center|1 '''Q'''
+|align=center|6:01.39
+|align=center|6 '''FB'''
+|align=center|6:00.63
+|align=center|12
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%;"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Mayra Gonzalez]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Women's single sculls|Women's single sculls]]
+|align=center|7:48.28
+|align=center|3 '''R'''
+|align=center|7:46.25
+|align=center|1 '''SA/B'''
+|align=center|7:38.97
+|align=center|4 '''FB'''
+|align=center|7:32.29
+|align=center|7
+|-
+|align=left|[[Marlenis Mesa]]<br /> [[Dailin Taset]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Women's lightweight double sculls|Women's lightweight double sculls]]
+|align=center|7:38.26
+|align=center|6 '''R'''
+|align=center|7:29.10
+|align=center|4 '''FC'''
+|align=center colspan=2 {{N/A}}
+|align=center|7:19.63
+|align=center|15
+|}
+
+==Sailing==
+{{main|Sailing at the 2000 Summer Olympics}}
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+|- align=center
+|align=left|[[Anayansi Perez]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Women's Mistral One Design|Women's Mistral]]
+|26
+|(28)
+|19
+|23
+|27
+|24
+|27
+|27
+|(28)
+|27
+|26
+|282
+|27
+|- align=center
+|align=left|Jose Urbay
+|align=left|[[Sailing at the 2000 Summer Olympics – Laser|Laser]]
+|32
+|14
+|37
+|27
+|37
+|31
+|35
+|22
+|(44)
+|35
+|26
+|259
+|35
+|}
+
+==Shooting==
+{{main|Shooting at the 2000 Summer Olympics}}
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-
+!Score
+!Rank
+!Score
+!Rank
+|-
+|rowspan=2|[[Norbelis Bárzaga]]
+||[[Shooting at the 2000 Summer Olympics – Men's 10 metre air pistol|10 m air pistol]]
+|align="center"|566
+|align="center"|33
+|colspan="2"  align="center"|Did not advance
+|-
+||[[Shooting at the 2000 Summer Olympics – Men's 50 metre pistol|50 m pistol]]
+|align="center"|547
+|align="center"|30
+|colspan="2"  align="center"|Did not advance
+|-
+|[[Leuris Pupo]]
+||[[Shooting at the 2000 Summer Olympics – Men's 25 metre rapid fire pistol|25 m rapid fire pistol]]
+|align="center"|584
+|align="center"|9
+|colspan="2"  align="center"|Did not advance
+|-
+|[[Juan Miguel Rodríguez]]
+|rowspan=2|[[Shooting at the 2000 Summer Olympics – Men's skeet|Skeet]]
+|align="center"|116
+|align="center"|39
+|colspan="2"  align="center"|Did not advance
+|-
+|[[Guillermo Torres (sport shooter)|Guillermo Torres]]
+|align="center"|115
+|align="center"|43
+|colspan="2"  align="center"|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-
+!Score
+!Rank
+!Score
+!Rank
+|-
+|rowspan=2|[[Eunice Caballero]]
+|[[Shooting at the 2000 Summer Olympics – Women's 50 metre rifle three positions|50 m rifle three positions]]
+|align="center"|567
+|align="center"|30		
+|colspan="2"  align="center"|Did not advance
+|-
+|[[Shooting at the 2000 Summer Olympics – Women's 10 metre air rifle|10 m air rifle]]
+|align="center"|388
+|align="center"|36		
+|colspan="2"  align="center"|Did not advance
+|-
+|rowspan=2|[[Margarita Tarradell]]
+|[[Shooting at the 2000 Summer Olympics – Women's 25 metre pistol|25 m pistol]]
+|align="center"|575
+|align="center"|20	
+|colspan="2"  align="center"|Did not advance
+|-
+|[[Shooting at the 2000 Summer Olympics – Women's 10 metre air pistol|10 m air pistol]]
+|align="center"|381
+|align="center"|11	
+|colspan="2"  align="center"|Did not advance
+|}
+
+==Softball==
+{{main|Softball at the 2000 Summer Olympics}}
+
+===Women's tournament===
+;Team roster
+*[[Vilma Álvarez]] 
+*[[María Arceo]]
+*[[Yuneisy Castillo]]
+*[[Yamila Degrase]]
+*[[Laritza Espinosa]] 
+*[[Yamila Flor]]
+*[[Haydée Hernández]] 
+*[[Luisa Medina]]
+*[[Estela Milañes]] 
+*[[Yarisleidis Peña]]
+*[[Diamela Puentes]]
+*[[Niolis Ramos]]
+*[[Olga Ruyol]] 
+*[[María Santana]] 
+*[[María Zamora (softball)|María Zamora]]
+
+;Summary
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=8|Group stage
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Cuba's national softball team|Cuba women's]]
+|align=left|[[Softball at the 2000 Summer Olympics|Women's tournament]]
+|{{flagIOC|JPN|2000 Summer}}<br />'''L''' 1–4
+|{{flagIOC|USA|2000 Summer}}<br />'''L''' 0–3
+|{{flagIOC|ITA|2000 Summer}}<br />'''L''' 0–1
+|{{flagIOC|NZL|2000 Summer}}<br />'''L''' 6–2
+|{{flagIOC|CHN|2000 Summer}}<br />'''L''' 0–7
+|{{flagIOC|CAN|2000 Summer}}<br />'''W''' 2–1
+|{{flagIOC|AUS|2000 Summer}}<br />'''L''' 1-8
+|7
+|colspan=3|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2000 Summer Olympics}}
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left rowspan=2|[[Marcos Hernández (swimmer)|Marcos Hernández]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 50 metre freestyle|50m freestyle]]
+|23.20
+|33
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre freestyle|100m freestyle]]
+|50.96
+|30
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Rodolfo Falcon]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre backstroke|100m backstroke]]
+|55.61
+|11 '''Q'''
+|55.59
+|6
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Neisser Bent]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre backstroke|200m backstroke]]
+|2:02.05
+|24
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Yohan Garcia]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre butterfly|100m butterfly]]
+|55.74
+|43
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Gunter Rodriguez]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre butterfly|200m butterfly]]
+|2:01.06
+|27
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Rodolfo Falcon]]<br /> [[Yohan Garcia]]<br /> [[Marcos Hernández (swimmer)|Marcos Hernández]]<br /> [[Gunter Rodriguez]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 4 × 100 metre medley relay|4 × 100 m medley relay]]
+|3:46.88
+|20
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left rowspan=2|[[Ana María González (swimmer)|Ana Maria González]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 100 metre backstroke|100m backstroke]]
+|1:04.95
+|30
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 200 metre backstroke|200m backstroke]]
+|2:19.35
+|26
+|colspan=4|Did not advance
+|- align=center
+|align=left rowspan=2|[[Imaday Núñez]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 100 metre breaststroke|100m breaststroke]]
+|1:13.91
+|31
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 200 metre breaststroke|200m breaststroke]]
+|2:41.97
+|34
+|colspan=4|Did not advance
+|}
+
+==Synchronized swimming==
+{{main|Synchronized swimming at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Technical routine
+!colspan=3|Free routine (preliminary)
+!colspan=3|Free routine (final)
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+|- align=center
+|align=left|[[Kenia Perez]]<br /> [[Yamisleidys Romay]]
+|align=left|[[Synchronized swimming at the 2000 Summer Olympics – Women's duet|Duet]]
+|29.913
+|18
+|55.596
+|85.509
+|18
+|colspan=3|Did not advance
+|}
+
+==Table tennis==
+{{main|Table tennis at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=3|Group stage
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Francisco Arado]]
+|align=left rowspan=2|[[Table tennis at the 2000 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCathlete|[[Seiko Iseki|Iseki]]|JPN|2000 Summer}}<br />'''L''' 0–3
+|{{flagIOCathlete|[[Cheng Yinghua|Cheng]]|USA|2000 Summer}}<br />'''L''' 0-3
+|3
+|colspan=6|Did not advance
+|- align=center
+|align=left|[[Renier Sosa]]
+|{{flagIOCathlete|[[Wenguan Johnny Huang|Huang]]|CAN|2000 Summer}}<br />'''L''' 0-3
+|{{flagIOCathlete|[[Segun Toriola|Toriola]]|NGR|2000 Summer}}<br />'''L''' 1-3
+|3
+|colspan=6|Did not advance
+|}
+
+==Taekwondo==
+{{main|Taekwondo at the 2000 Summer Olympics}}
+;Men
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|- align=center
+|align=left|'''[[Ángel Matos]]'''
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Men's 80 kg|Men's 80kg]]
+|{{flagIOCathlete|[[Felipe Soto|Soto]]|CHI|2000 Summer}}<br />'''W''' 9-2
+|{{flagIOCathlete|[[Victor Estrada|Estrada]]|MEX|2000 Summer}}<br />'''W''' 2-0
+|{{flagIOCathlete|[[Roman Livaja|Livaja]]|SWE|2000 Summer}}<br />'''W''' 4-0
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Faissal Ebnoutalib|Ebnoutalib]]|GER|2000 Summer}}<br />'''W''' 3-1
+|{{gold01}}
+|- align=center
+|align=left|[[Nelson Saenz]]
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Men's +80 kg|Men's +80kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Pascal Gentil|Gentil]]|FRA|2000 Summer}}<br />'''L {{abbr|KO|Knock-out}}'''
+|colspan=5|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|- align=center
+|align=left|'''[[Urbia Melendez]]'''
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Women's 49 kg|Women's 49kg]]
+|{{flagIOCathlete|[[Agueda Pérez|Pérez]]|MEX|2000 Summer}}<br />'''W''' 4-1
+|{{flagIOCathlete|[[Likeleli Thamae|Thamae]]|LES|2000 Summer}}<br />'''W''' 3-0
+|{{flagIOCathlete|[[Döndü Güvenc|Güvenc]]|TUR|2000 Summer}}<br />'''W''' 3-1
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Lauren Burns|Burns]]|AUS|2000 Summer}}<br />'''L''' 2-4
+|{{silver02}}
+|- align=center
+|align=left|[[Sonallis Mayan]]
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Women's +67 kg|Women's +67kg]]
+|{{flagIOCathlete|[[Ireane Ruiz|Ruiz]]|ESP|2000 Summer}}<br />'''L''' 0-3
+|colspan=6|Did not advance
+|}
+
+==Volleyball==
+{{main|Volleyball at the 2000 Summer Olympics}}
+
+;Men's roster
+*[[Alexei Argilagos]]
+*[[Ángel Dennis]]
+*[[Raúl Diago]]
+*[[Yosenki García]]
+*[[Ramón Gato]] 
+*[[Ihosvany Hernández]] 
+*[[Osvaldo Hernández]]
+*[[Leonel Marshall Jr.|Leonel Marshall]]
+*[[Pavel Pimienta]] 
+*[[Alain Roca]]
+*[[Iván Ruíz]]
+*[[Nicolás Vives]]
+*'''Head coach''': [[Juan Díaz Marino]]
+
+;Women's roster
+*[[Taismary Agüero]] 
+*[[Zoila Barros]]
+*[[Regla Bell]]
+*[[Marlenis Costa]]
+*[[Ana Fernández (volleyball)|Ana Fernández]]
+*[[Mirka Francia]]
+*[[Idalmis Gato]]
+*[[Lilia Izquierdo]]
+*[[Mireya Luis]]
+*[[Yumilka Ruíz]]
+*[[Marta Sánchez (volleyball)|Martha Sánchez]]
+*[[Regla Torres]]
+*'''Head coach''': [[Luis Felipe Calderón]]
+
+;Summary
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Cuba men's national volleyball team|Cuba men's]]
+|align=left|[[Volleyball at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+|{{flagIOC|NED|2000 Summer}}<br />'''L''' 0–3
+|{{flagIOC|ESP|2000 Summer}}<br />'''W''' 3–1
+|{{flagIOC|EGY|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|AUS|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|BRA|2000 Summer}}<br />'''L''' 0–3
+|3 '''Q'''
+|{{flagIOC|RUS|2000 Summer}}<br />'''L''' 2–3
+|''5/8th semifinals''<br />{{flagIOC|BRA|2000 Summer}}<br />'''L''' 2–3
+|''7th classification<br />match''<br />{{flagIOC|AUS|2000 Summer}}<br />'''W''' 3–0
+|7
+|-align=center
+|align=left|'''[[Cuba women's national volleyball team|Cuba women's]]'''
+|align=left|[[Volleyball at the 2000 Summer Olympics – Women's tournament|Women's tournament]]
+|{{flagIOC|GER|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|RUS|2000 Summer}}<br />'''L''' 2–3
+|{{flagIOC|KOR|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|ITA|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|PER|2000 Summer}}<br />'''W''' 3–1
+|2 '''Q'''
+|{{flagIOC|CRO|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOC|BRA|2000 Summer}}<br />'''W''' 3–2
+|{{flagIOC|RUS|2000 Summer}}<br />'''W''' 3–2
+|{{gold01}}
+|}
+
+==Weightlifting==
+{{main|Weightlifting at the 2000 Summer Olympics}}
+'''Men'''
+{|class=wikitable style="font-size:95%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="3"|Snatch
+!colspan="3"|Clean & jerk
+!rowspan="2"|Total
+!rowspan="2"|Rank
+|-
+!1
+!2
+!3
+!1
+!2
+!3
+|- align=center
+|align=left width=30%|[[Sergio Álvarez Boulet|Sergio Álvarez]]
+|[[Weightlifting at the 2000 Summer Olympics – Men's 56 kg|&ndash; 56&nbsp;kg]]
+|<s>120.0</s>
+|120.0
+|<s>125.0</s>
+|150.0
+|155.0
+|<s>160.0</s>
+|275.0
+|5
+|- align=center
+|align=left width=30%|[[Idalberto Aranda]]
+|[[Weightlifting at the 2000 Summer Olympics – Men's 77 kg|–77kg]]
+|145.0
+|150.0
+|<s>155.0</s>
+|<s>200.0</s>
+|200.0
+|<s>208.0</s>
+|350.0
+|9
+|- align=center
+|align=left width=30%|[[Ernesto Quiroga]]
+|[[Weightlifting at the 2000 Summer Olympics – Men's 85 kg|&ndash; 85&nbsp;kg]]
+|157.5
+|162.5
+|165.0
+|202.5
+|207.5
+|210.0
+|375.0
+|8
+|- align=center
+|align=left width=30%|[[Joel Mackenzie]]
+|[[Weightlifting at the 2000 Summer Olympics – Men's 85 kg|&ndash; 85&nbsp;kg]]
+|157.5
+|162.5
+|165.0
+|192.5
+|197.5
+|200.0
+|365.0
+|11
+|- align=center
+|align=left width=30%|[[Michel Batista (weightlifter)|Michel Batista]]
+|[[Weightlifting at the 2000 Summer Olympics – Men's 94 kg|–94kg]]
+|170.0
+|175.0
+|<s>180.0</s>
+|<s>205.0</s>
+|205.0
+|210.0
+|385.0
+|9
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2000 Summer Olympics}}
+;Men's freestyle
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=4|Elimination Pool
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Wilfredo García]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 54 kg|-54kg]]
+|{{flagIOCathlete|[[Nurdin Donbaev|Donbaev]]|KGZ|2000 Summer}}<br />'''W''' 4–1
+|{{flagIOCathlete|[[Herman Kantoyeu|Kantoyeu]]|BLR|2000 Summer}}<br />'''L''' 7–1
+|{{N/A}}
+|3
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Carlos Julián Ortiz|Carlos Ortiz]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 63 kg|-63kg]]
+|{{flagIOCathlete|[[Otar Tushishvili|Tushishvili]]|GEO|2000 Summer}}<br />'''W''' 6–1
+|{{flagIOCathlete|[[Kazuyuki Miyata|Miyata]]|JPN|2000 Summer}}<br />'''W''' 4–1
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Serafim Barzakov|Barzakov]]|BUL|2000 Summer}}<br />'''L''' 1–4
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Yosvany Sánchez]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 69 kg|-69kg]]
+|{{flagIOCathlete|[[Petar Kasabov|Kasabov]]|BUL|2000 Summer}}<br />'''W''' 4–0
+|{{flagIOCathlete|[[Mariusz Dąbrowski|Dąbrowski]]|POL|2000 Summer}}<br />'''W''' 7–0
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Daniel Igali|Igali]]|CAN|2000 Summer}}<br />'''L''' 1–3
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Yosmany Romero]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 76 kg|-76kg]]
+|{{flagIOCathlete|[[Alexander Leipold|Leipold]]|GER|2000 Summer}}<br />'''L''' 1–4
+|{{flagIOCathlete|[[Nasir Gadžihanov|Gadžihanov]]|MKD|2000 Summer}}<br />'''L''' 0–3
+|{{flagIOCathlete|[[Radion Kertanti|Kertanti]]|SVK|2000 Summer}}<br />'''W''' 3–2
+|3
+|colspan=4|Did not advance
+|- align=center
+|align=left|'''[[Yoel Romero]]'''
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 85 kg|-85kg]]
+|{{flagIOCathlete|[[Igors Samušonoks|Samušonoks]]|LAT|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOCathlete|[[Justin Abdou|Abdou]]|CAN|2000 Summer}}<br />'''W''' 8–0
+|{{flagIOCathlete|[[Magomed Kurugliyev|Kurugliyev]]|KAZ|2000 Summer}}<br />'''W''' 4–0
+|1 '''Q'''
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Amir Reza Khadem|Khadem]]|IRI|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOCathlete|[[Adam Saitiev|Saitiev]]|RUS|2000 Summer}}<br />'''L''' 1–7
+|{{silver02}}
+|- align=center
+|align=left|[[Wilfredo Morales]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 97 kg|-97kg]]
+|{{flagIOCathlete|[[Davud Magomedov|Magomedov]]|AZE|2000 Summer}}<br />'''L''' 0–3
+|{{flagIOCathlete|[[Islam Bayramukov|Bayramukov]]|KAZ|2000 Summer}}<br />'''W''' 2–0
+|{{N/A}}
+|3
+|colspan=4|Did not advance
+|- align=center
+|align=left|'''[[Alexis Rodríguez (wrestler)|Alexis Rodríguez]]'''
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's freestyle 130 kg|-130kg]]
+|{{flagIOCathlete|[[Krasimir Kochev|Kochev]]|BUL|2000 Summer}}<br />'''W''' 2–0
+|{{flagIOCathlete|[[Dolgorsürengiin Sumiyaabazar|Sumiyaabazar]]|MGL|2000 Summer}}<br />'''W''' 1–1
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Aleksey Medvedev (wrestler)|Medvedev]]|BLR|2000 Summer}}<br />'''W''' 4–0
+|{{flagIOCathlete|[[Artur Taymazov|Taymazov]]|UZB|2000 Summer}}<br />'''TO'''
+|{{flagIOCathlete|[[Abbas Jadidi|Jadidi]]|IRI|2000 Summer}}<br />'''W''' 1–0
+|{{bronze03}}
+|}
+
+;Men's Greco-Roman
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=4|Elimination Pool
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|'''[[Lázaro Rivas]]'''
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 54 kg|-54kg]]
+|{{flagIOCathlete|[[Ercan Yıldız|Yıldız]]|TUR|2000 Summer}}<br />'''W''' 10–0
+|{{flagIOCathlete|[[Natig Eyvazov|Eyvazov]]|AZE|2000 Summer}}<br />'''W''' 6–1
+|{{flagIOCathlete|[[Jotham Pellew|Pellew]]|NZL|2000 Summer}}<br />'''W''' 15–0
+|1 '''Q'''
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Andriy Kalashnykov|Kalashnykov]]|UKR|2000 Summer}}<br />'''W''' 11–0
+|{{flagIOCathlete|[[Sim Kwon-ho|Sim]]|KOR|2000 Summer}}<br />'''L''' 0–8
+|{{silver02}}
+|- align=center
+|align=left|'''[[Juan Marén]]'''
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 63 kg|-63kg]]
+|{{flagIOCathlete|[[Gurbinder Singh|Singh]]|IND|2000 Summer}}<br />'''W''' 8–0
+|{{flagIOCathlete|[[Mkhitar Manukyan|Manukyan]]|KAZ|2000 Summer}}<br />'''W''' 5–3
+|{{flagIOCathlete|[[Yassine Djakrir|Djakrir]]|ALG|2000 Summer}}<br />'''W''' 4–1
+|1 '''Q'''
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Beat Motzer|Motzer]]|SUI|2000 Summer}}<br />'''W''' 3–0
+|{{flagIOCathlete|[[Varteres Samurgashev|V Samurgashev]]|RUS|2000 Summer}}<br />'''L''' 0–3
+|{{silver02}}
+|- align=center
+|align=left|'''[[Filiberto Azcuy]]'''
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 69 kg|-69kg]]
+|{{flagIOCathlete|[[Ender Memet|Memet]]|ROU|2000 Summer}}<br />'''W''' 4–3
+|{{flagIOCathlete|[[Ali Abdo (wrestler)|Abdo]]|AUS|2000 Summer}}<br />'''W''' 10–0
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Son Sang-pil|Son]]|KOR|2000 Summer}}<br />'''W''' 9–2
+|{{flagIOCathlete|[[Valeri Nikitin (wrestler)|Nikitin]]|EST|2000 Summer}}<br />'''W''' 6–0
+|{{flagIOCathlete|[[Katsuhiko Nagata|Nagata]]|JPN|2000 Summer}}<br />'''W''' 11–0
+|{{gold01}}
+|- align=center
+|align=left|[[Luis Enrique Méndez]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 85 kg|-85kg]]
+|{{flagIOCathlete|[[Quincey Clark|Clark]]|USA|2000 Summer}}<br />'''W''' 5–0
+|{{flagIOCathlete|[[Mohamed Abdelfatah (wrestler)|Abdelfatah]]|EGY|2000 Summer}}<br />'''W''' 4–3
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Hamza Yerlikaya|Yerlikaya]]|TUR|2000 Summer}}<br />'''L''' 0–3
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Reynaldo Peña]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 97 kg|-97kg]]
+|{{flagIOCathlete|[[Sergey Matviyenko|Matviyenko]]|KAZ|2000 Summer}}<br />'''W''' 1–0
+|{{flagIOCathlete|[[Rafael Samurgashev|R Samurgashev]]|ARM|2000 Summer}}<br />'''L''' 0–1
+|{{N/A}}
+|3
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Héctor Milián]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 130 kg|-130kg]]
+|{{flagIOCathlete|[[Zhao Hailin|Zhao H]]|CHN|2000 Summer}}<br />'''W''' 1–0
+|{{flagIOCathlete|[[Helger Hallik|Hallik]]|EST|2000 Summer}}<br />'''W''' 3–0
+|{{N/A}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Dmitry Debelka|Debelka]]|BLR|2000 Summer}}<br />'''L''' 0–1
+|colspan=3|Did not advance
+|}
+
+==See also==
+* [[Cuba at the 1999 Pan American Games]]
+* [[Cuba at the 2000 Summer Paralympics]]
+
+==Notes==
+{{refbegin}}
+*Wallechinsky, David (2004). ''The Complete Book of the Summer Olympics (Athens 2004 Edition)''. Toronto, Canada. {{ISBN|1-894963-32-6}}. 
+*International Olympic Committee (2001). [https://webarchive.nla.gov.au/awa/20020918140000/http://pandora.nla.gov.au/pan/13323/20020919-0000/www.gamesinfo.com.au/results/results.pdf The Results]{{cbignore|bot=medic}}. Retrieved 12 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20001109071400/http://www.olympics.com/eng/ Official Report of the XXVII Olympiad Volume 1: Preparing for the Games]. Retrieved 20 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20090327000622/http://www.la84foundation.org/6oic/OfficialReports/2000/2000v2.pdf Official Report of the XXVII Olympiad Volume 2: Celebrating the Games]. Retrieved 20 November 2005.
+*Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20070927222411/http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf The Results]. Retrieved 20 November 2005.
+*[https://web.archive.org/web/20150705032224/http://www.olympic.org/ International Olympic Committee Web Site]
+{{refend}}
+
+==References==
+{{reflist}}
+
+{{NOCin2000SummerOlympics}}
+{{country at games navbox|Cuba|Summer Olympics}}
+
+[[Category:Nations at the 2000 Summer Olympics]]
+[[Category:Cuba at the Summer Olympics by year|2000 Summer Olympics]]
+[[Category:2000 in Cuban sport]]
+[[Category:Australia–Cuba sports relations|2000]]

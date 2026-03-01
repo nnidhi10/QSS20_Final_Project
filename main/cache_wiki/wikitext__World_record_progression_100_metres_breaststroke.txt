@@ -1,0 +1,3340 @@
+{{Short description|none}}
+[[File:Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m.png|thumb|Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m Long and Short Course Butterfly-Backstroke-Breaststroke-Freestyle]]
+{{main article|List of world records in swimming}}
+
+This is a listing of the '''history of the World Record''' in the 100 [[breaststroke]] [[Swimming (sport)|swimming]] event.
+
+The first world record in long course (50&nbsp;metres) [[swimming (sport)|swimming]] was recognized by the [[International Swimming Federation]] (FINA) in [[1961 in sports|1961]], while the women's world record times were officially acknowledged in [[1958 in sports|1958]].{{Citation needed|date=March 2012}} In the short course (25&nbsp;metres) swimming events the world's governing body has recognized world records since 3 March 1991.
+
+==Men==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|-
+|number = 1
+|time = 1:14.1
+|recordinfo =
+|firstname = Leonid
+|lastname = Kolesnikov
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1961|May|2}}
+|meet = -
+|country = URS
+|city = Moscow
+|ref =
+}}
+{{Swimmingrecord
+|-
+|number = 2
+|time = 1:11.1
+|recordinfo =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|July|2}}
+|meet = -
+|country = USA
+|city = Chicago
+|ref  =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:10.7
+|recordinfo =
+|firstname = Gunter
+|lastname = Tittes
+|namearticle =
+|nation = GDR
+|date = {{Dts|format=dmy|1961|July|5}}
+|meet = -
+|country = GDR
+|city = East Berlin
+|ref  =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:10.7
+|recordinfo = =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|July|28}}
+|meet = -
+|country = JPN
+|city = Tokyo
+|ref  =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:10.0
+|recordinfo =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|July|30}}
+|meet = -
+|country = JPN
+|city = Tokyo
+|ref  =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:09.5
+|recordinfo =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|August|3}}
+|meet = -
+|country = JPN
+|city = Osaka
+|ref  =
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:07.8
+|recordinfo =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|August|20}}
+|meet = Men’s NAAA Championships
+|country = USA
+|city = Los Angeles
+|ref  =
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:07.5
+|recordinfo =
+|firstname = Chet
+|lastname = Jastremski
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1961|August|20}}
+|meet = Men’s NAAA Championships
+|country = USA
+|city = Los Angeles
+|ref  =
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:07.4
+|recordinfo =
+|firstname = Georgy
+|lastname = Prokopenko
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1964|March|26}}
+|meet = -
+|country = URS
+|city = Baku
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:06.9
+|recordinfo =
+|firstname = Georgy
+|lastname = Prokopenko
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1964|September|3}}
+|meet = -
+|country = URS
+|city = Moscow
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:06.7
+|recordinfo =
+|firstname = Vladimir
+|lastname = Kosinsky
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1967|November|8}}
+|meet = -
+|country = URS
+|city = Leningrad
+|ref =
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:06.4
+|recordinfo =
+|firstname = Jose
+|lastname = Fiolo
+|namearticle =
+|nation = BRA
+|date = {{Dts|format=dmy|1968|February|19}}
+|meet = -
+|country = BRA
+|city = Rio de Janeiro
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:06.2
+|recordinfo =
+|firstname = Nikolai
+|lastname = Pankin
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1968|April|18}}
+|meet = -
+|city = Moscow
+|country = URS
+|ref =
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:05.8
+|recordinfo =
+|firstname = Nikolai
+|lastname = Pankin
+|namearticle =
+|nation = URS
+|date = {{Dts|format=dmy|1969|April|20}}
+|meet = -
+|city = Magdeburg
+|country = GDR
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:05.68
+|recordinfo = sf
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1972|August|29}}
+|meet = Olympic Games
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 1:05.13
+|recordinfo = sf
+|firstname = Nobutaka
+|lastname = Taguchi
+|namearticle =
+|nation = JPN
+|date = {{Dts|format=dmy|1972|August|29}}
+|meet = Olympic Games
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 1:04.94
+|recordinfo =
+|firstname = Nobutaka
+|lastname = Taguchi
+|namearticle =
+|nation = JPN
+|date = {{Dts|format=dmy|1972|August|30}}
+|meet = Olympic Games
+|city = Munich
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 1:04.35
+|recordinfo = h
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1973|September|4}}
+|meet = World Championships
+|city = Belgrade
+|country = Yugoslavia
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 1:04.02
+|recordinfo =
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1973|September|4}}
+|meet = World Championships
+|city = Belgrade
+|country = Yugoslavia
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 1:03.88
+|recordinfo =
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1974|August|31}}
+|meet = USA vs GDR Dual Meet
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 1:03.88
+|recordinfo = =, h
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1976|July|19}}
+|meet = Olympic Games
+|city = Montreal
+|country = Canada
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 1:03.62
+|recordinfo = sf
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1976|July|19}}
+|meet = Olympic Games
+|city = Montreal
+|country = Canada
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 1:03.11
+|recordinfo =
+|firstname = John
+|lastname = Hencken
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1976|July|20}}
+|meet = Olympic Games
+|city = Montreal
+|country = Canada
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 1:02.86
+|recordinfo =
+|firstname = Gerald
+|lastname = Mörken
+|namearticle =
+|nation = FRG
+|date = {{Dts|format=dmy|1977|August|18}}
+|meet = -
+|city = Jönköping
+|country = SWE
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 1:02.62
+|recordinfo =
+|firstname = Steve
+|lastname = Lundquist
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1982|July|19}}
+|meet = USA World Championship Trials
+|city = Mission Viejo
+|cityarticle = Mission Viejo, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 24
+|time = 1:02.53
+|recordinfo =
+|firstname = Steve
+|lastname = Lundquist
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1982|August|21}}
+|meet = -
+|city = Indianapolis
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 1:02.34
+|recordinfo =
+|firstname = Steve
+|lastname = Lundquist
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1983|July|19}}
+|meet = US National Championships
+|city = Clovis
+|cityarticle = Clovis, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 1:02.28
+|recordinfo =
+|firstname = Steve
+|lastname = Lundquist
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1983|August|17}}
+|meet = Pan American Games
+|city = Caracas
+|country = VEN
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 1:02.13
+|recordinfo =
+|firstname = John
+|lastname = Moffet
+|namearticle = John Moffet (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1984|June|25}}
+|meet = US Olympic Trials
+|city = Indianapolis
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 1:01.65
+|recordinfo =
+|firstname = Steve
+|lastname = Lundquist
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|1984|July|29}}
+|meet = Olympic Games
+|city = Los Angeles
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:01.49
+|recordinfo = h
+|firstname = Adrian
+|lastname = Moorhouse
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|1989|August|15}}
+|meet = European Championships
+|city = Bonn
+|country = FRG
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:01.49
+|recordinfo = =
+|firstname = Adrian
+|lastname = Moorhouse
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|1990|January|25}}
+|meet = Commonwealth Games
+|city = Auckland
+|country = NZL
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:01.49
+|recordinfo = =
+|firstname = Adrian
+|lastname = Moorhouse
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|1990|July|26}}
+|meet = -
+|city = London
+|country = UK
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:01.49
+|recordinfo = =, h
+|firstname = Norbert
+|lastname = Rózsa
+|namearticle =
+|nation = HUN
+|date = {{Dts|format=dmy|1991|January|7}}
+|meet = World Championships
+|city = Perth
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 1:01.45
+|recordinfo = 
+|firstname = Norbert
+|lastname = Rózsa
+|namearticle =
+|nation = HUN
+|date = {{Dts|format=dmy|1991|January|7}}
+|meet = World Championships
+|city = Perth
+|country = AUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 1:01.45
+|recordinfo = =
+|firstname = Vasili
+|lastname = Ivanov
+|namearticle = Vasili Ivanov (swimmer)
+|nation = USSR
+|date = {{Dts|format=dmy|1991|June|11}}
+|meet = -
+|city = Moscow
+|country = USSR
+|ref =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 1:01.29
+|recordinfo = h
+|firstname = Norbert
+|lastname = Rózsa
+|namearticle =
+|nation = HUN
+|date = {{Dts|format=dmy|1991|August|20}}
+|meet = European Championships
+|city = Athens
+|country = GRE
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 1:00.95
+|recordinfo = h
+|firstname = Károly
+|lastname = Güttler
+|namearticle =
+|nation = HUN
+|date = {{Dts|format=dmy|1993|August|3}}
+|meet = European Championships
+|city = Sheffield
+|country = GBR
+|ref =
+}}
+{{Swimmingrecord
+|number = 33
+|time = 1:00.60
+|recordinfo = h
+|firstname = Frederik
+|lastname = Deburghgraeve
+|namearticle =
+|nation = BEL
+|date = {{Dts|format=dmy|1996|July|20}}
+|meet = Olympic Games
+|city = Atlanta
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 34
+|time = 1:00.36
+|recordinfo = sf
+|firstname = Roman
+|lastname = Sludnov
+|namearticle =
+|nation = RUS
+|date = {{Dts|format=dmy|2000|June|15}}
+|meet = -
+|city = Moscow
+|country = RUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 35
+|time = 1:00.29
+|recordinfo = 
+|firstname = Ed
+|lastname = Moses
+|namearticle = Ed Moses (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|2001|March|28}}
+|meet = US National Championships
+|city = Austin
+|cityarticle = Austin, Texas
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 36
+|time = 1:00.26
+|recordinfo = sf
+|firstname = Roman
+|lastname = Sludnov
+|namearticle =
+|nation = RUS
+|date = {{Dts|format=dmy|2001|June|28}}
+|meet = Russian Championships
+|city = Moscow
+|country = RUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 37
+|time = 59.97
+|recordinfo = 
+|firstname = Roman
+|lastname = Sludnov
+|namearticle =
+|nation = RUS
+|date = {{Dts|format=dmy|2001|June|29}}
+|meet = Russian Championships
+|city = Moscow
+|country = RUS
+|ref =
+}}
+{{Swimmingrecord
+|number = 38
+|time = 59.94
+|recordinfo = sf
+|firstname = Roman
+|lastname = Sludnov
+|namearticle =
+|nation = RUS
+|date = {{Dts|format=dmy|2001|July|23}}
+|meet = World Championships
+|city = Fukuoka
+|country = JPN
+|ref =
+}}
+{{Swimmingrecord
+|number = 39
+|time = 59.78
+|recordinfo =
+|firstname = Kosuke
+|lastname = Kitajima
+|namearticle =
+|nation = JPN
+|date = {{Dts|format=dmy|2003|July|21}}
+|meet = World Championships
+|city = Barcelona
+|country = ESP
+|ref =
+}}
+{{Swimmingrecord
+|number = 40
+|time = 59.30
+|recordinfo =
+|firstname = Brendan
+|lastname = Hansen
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2004|July|8}}
+|meet = US Olympic Trials
+|city = Long Beach
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 41
+|time = 59.13
+|recordinfo =
+|firstname = Brendan
+|lastname = Hansen
+|namearticle =
+|nation = USA
+|date = {{Dts|format=dmy|2006|August|1}}
+|meet = US National Championships
+|city = Irvine
+|cityarticle = Irvine, California
+|country = USA
+|ref =
+}}
+{{Swimmingrecord
+|number = 42
+|time = 58.91
+|recordinfo =
+|firstname = Kosuke
+|lastname = Kitajima
+|namearticle =
+|nation = JPN
+|date = {{Dts|format=dmy|2008|August|11}}
+|meet = Olympic Games
+|city = Beijing
+|country = CHN
+|ref =
+}}
+{{Swimmingrecord
+|number = -
+|time = 58.67
+|recordinfo = 
+|firstname = Ihor
+|lastname = Borysyk
+|namearticle = 
+|nation = UKR
+|date = {{Dts|format=dmy|2009|June|13}}
+|meet = Ukrainian National Cup
+|city = Kharkiv
+|country = UKR
+|ref = <ref name=2009Ukraine>{{cite news|title=Ukraine’s Igor Borysik Loses Chance at 100 Breast World Record|url=https://www.swimmingworldmagazine.com/news/ukraines-igor-borysik-loses-chance-at-100-breast-world-record/|date=25 July 2009|access-date=22 April 2025|website=Swimming World}}</ref>
+}}
+{{Swimmingrecord
+|number = 43
+|time = 58.58
+|recordinfo = 
+|firstname = Brenton
+|lastname = Rickard
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2009|July|27}}
+|meet = World Championships
+|city = Rome
+|country = ITA
+|ref = <ref name=M2009WC>{{cite web|title=13th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/0001090B0016000000FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=27 July 2009|access-date=22 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 44
+|time = 58.46
+|recordinfo =
+|firstname = Cameron
+|lastname = van der Burgh
+|namearticle =
+|nation = RSA
+|date = {{Dts|format=dmy|2012|July|29}}
+|meet = Olympic Games
+|city = London
+|country = UK
+|ref = <ref name=M2012OG>{{cite news|title=2012 London Olympics: Cameron van der Burgh's World Record Ends Kosuke Kitajima's Threepeat Bid in 100 Breast; Hansen Medals|url=https://www.swimmingworldmagazine.com/lane9/news/World/31443.asp|publisher=[[Swimming World Magazine]]|date=29 July 2012|accessdate=7 July 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 45
+|time = 57.92
+|recordinfo =
+|firstname = Adam
+|lastname = Peaty
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|2015|April|17}}
+|meet = British Championships
+|city = London
+|country = UK
+|ref = <ref>{{cite magazine|title=Adam Peaty Breaks 100 Breast World Record To Set Day Four Of British Nationals Ablaze|url=https://www.swimmingworldmagazine.com/news/adam-peaty-breaks-100-breast-world-record-to-set-day-four-of-british-nationals-ablaze/|magazine=[[Swimming World]]|author=Jeff Commings|date=17 April 2015|access-date=22 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 46
+|time = 57.55
+|recordinfo = h
+|firstname = Adam
+|lastname = Peaty
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|2016|August|6}}
+|meet = Olympic Games
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref name=M2016OGh>
+{{cite web|title=Men's 100m Breaststroke Heats Result|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031900_ResultsSummary_2016_08_06.pdf|publisher=Rio 2016|accessdate=6 August 2016|archive-url=https://web.archive.org/web/20160807150619/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031900_ResultsSummary_2016_08_06.pdf|archive-date=7 August 2016|url-status=dead|df=dmy-all}}
+</ref>
+}}
+{{Swimmingrecord
+|number = 47
+|time = 57.13
+|recordinfo = 
+|firstname = Adam
+|lastname = Peaty
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|2016|August|7}}
+|meet = Olympic Games
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref name=M2016OG>
+{{cite web|title=2016 Olympic Games - Men's 100m Breaststroke Final Results|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031101_Results_2016_08_07.pdf|publisher=Rio 2016|accessdate=7 August 2016|archive-url=https://web.archive.org/web/20160808024900/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031101_Results_2016_08_07.pdf|archive-date=8 August 2016|url-status=dead|df=dmy-all}}
+</ref>
+}}
+{{Swimmingrecord
+|number = 48
+|time = 57.10
+|recordinfo =
+|firstname = Adam
+|lastname = Peaty
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|2018|August|4}}
+|meet = European Championships
+|city = Glasgow
+|country = UK
+|ref = <ref name=M2018EC>{{cite web|title=2018 European Championships - Men's 100m Breaststroke Final Results|url=https://glasgow2018.microplustiming.com/export/NU_Glasgow2018/NU/pdf/SWMM100MBR------------FNL-000100--_73A1%201.1.pdf|publisher=MicroPlus Timing|date=4 August 2018|access-date=6 August 2018}}</ref>
+}}
+{{Swimmingrecord
+|number = 49
+|time = 56.88
+|recordinfo = sf
+|firstname = Adam
+|lastname = Peaty
+|namearticle =
+|nation = GBR
+|date = {{Dts|format=dmy|2019|July|21}}
+|meet = World Championships
+|city = Gwangju
+|country = KOR
+|ref = <ref name=M2019WCsf>{{cite web|title=18th FINA World Championships - Men's 100m Breaststroke Semifinals Results|url=http://www.omegatiming.com/File/00011301070103EC02FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=21 July 2019|access-date=21 July 2019}}</ref>
+}}
+{{end}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|-
+|number = 1
+|time = 59.30
+|recordinfo = 
+|firstname = Dmitry
+|lastname = Volkov
+|namearticle = Dmitry Volkov (swimmer)
+|nation = URS
+|date = {{Dts|format=dmy|1990|2|10}}
+|meet = World Cup
+|country = FRG
+|city = Bonn
+|ref =
+}}
+{{Swimmingrecord
+|-
+|number = 2
+|time = 59.07
+|recordinfo = 
+|firstname = Phil
+|lastname = Rogers
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1993|8|27}}
+|meet = -
+|country = AUS
+|city = Melbourne
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 59.02
+|recordinfo = 
+|firstname = Frédérik
+|lastname = Deburghgraeve
+|namearticle = 
+|nation = BEL
+|date = {{Dts|format=dmy|1996|2|17}}
+|meet = -
+|country = BEL
+|city = Bastogne
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 58.79
+|recordinfo = 
+|firstname = Frédérik
+|lastname = Deburghgraeve
+|namearticle = 
+|nation = BEL
+|date = {{Dts|format=dmy|1998|12|4}}
+|meet = -
+|country = USA
+|city = College Station
+|cityarticle = College Station, Texas
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 58.51
+|recordinfo = sf
+|firstname = Roman
+|lastname = Sludnov
+|namearticle = 
+|nation = RUS
+|date = {{Dts|format=dmy|2000|3|17}}
+|meet = World Championships
+|country = GRE
+|city = Athens
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 58.05
+|recordinfo = h
+|firstname = Ed
+|lastname = Moses
+|namearticle = Ed Moses (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|2000|3|24}}
+|meet = NCAA Men's Division I Championships
+|country = USA
+|city = Minneapolis
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 57.66
+|recordinfo = 
+|firstname = Ed
+|lastname = Moses
+|namearticle = Ed Moses (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|2000|3|24}}
+|meet = NCAA Men's Division I Championships
+|country = USA
+|city = Minneapolis
+|cityarticle =
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 57.47
+|recordinfo = 
+|firstname = Ed
+|lastname = Moses
+|namearticle = Ed Moses (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|2003|1|23}}
+|meet = World Cup
+|country = SWE
+|city = Sweden
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 56.88
+|recordinfo = 
+|firstname = Cameron
+|lastname = van der Burgh
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2008|11|9}}
+|meet = World Cup
+|country = RUS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 55.99
+|recordinfo = 
+|firstname = Cameron
+|lastname = van der Burgh
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2009|8|9}}
+|meet = South African Championships
+|country = RSA
+|city = Pietermaritzburg
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 55.61
+|recordinfo = 
+|firstname = Cameron
+|lastname = van der Burgh
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2009|11|15}}
+|meet = World Cup
+|country = GER
+|city = Berlin
+|cityarticle = 
+|ref = <ref name=M2009Berlin>{{cite web|title=2009 FINA World Cup (Berlin) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000109050037000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=15 November 2009|access-date=10 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 55.49
+|recordinfo = 
+|firstname = Adam
+|lastname = Peaty
+|namearticle = 
+|nation = GBR
+|date = {{Dts|format=dmy|2020|11|15}}
+|meet = International Swimming League
+|country = HUN
+|city = Budapest
+|ref = <ref name=M2020ISLsf1>{{cite web|title=2020 International Swimming League (Semifinal 1) - Men's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000114020D0103EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=15 November 2020|access-date=10 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 55.41
+|recordinfo = 
+|firstname = Adam
+|lastname = Peaty
+|namearticle = 
+|nation = GBR
+|date = {{Dts|format=dmy|2020|11|22}}
+|meet = International Swimming League
+|country = HUN
+|city = Budapest
+|cityarticle = 
+|ref = <ref name=M2020ISL>{{cite web|title=2020 International Swimming League (Final) - Men's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000114020F0103EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=22 November 2020|access-date=10 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.34
+|recordinfo = 
+|firstname = Ilya
+|lastname = Shymanovich
+|namearticle = 
+|nation = BLR
+|date = {{Dts|format=dmy|2020|12|19}}
+|meet = Belarusian Championships
+|country = BLR
+|city = Brest
+|cityarticle = Brest, Belarus
+|ref = <ref name=M2020BLR>{{cite magazine|title=Ilya Shymanovich Shatters Peaty’s SCM 100 Breast World Record in 55.34|url=https://swimswam.com/ilya-shymanovich-shatters-peatys-scm-100-breast-world-record-in-55-34/|magazine=[[SwimSwam]]|author=James Sutherland|date=19 December 2020|access-date=10 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.32
+|recordinfo = 
+|firstname = Ilya
+|lastname = Shymanovich
+|namearticle = 
+|nation = BLR
+|date = {{Dts|format=dmy|2021|11|19}}
+|meet = International Swimming League
+|country = NED
+|city = Eindhoven
+|cityarticle = 
+|ref = <ref name=M2021ISL14>{{cite web|title=2021 International Swimming League (Match 14) - Men's 100m Breaststroke Results|url=https://www.omegatiming.com/File/00011500160103EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=19 November 2021|access-date=10 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.28
+|recordinfo = 
+|firstname = Ilya
+|lastname = Shymanovich
+|namearticle = 
+|nation = BLR
+|date = {{Dts|format=dmy|2021|11|26}}
+|meet = International Swimming League
+|country = NED
+|city = Eindhoven
+|cityarticle = 
+|ref = <ref name=M2021ISL16>{{cite web|title=2021 International Swimming League (Match 16) - Men's 100m Breaststroke Results|url=https://www.omegatiming.com/File/00011500170103EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=19 November 2021|access-date=10 May 2025}}</ref>
+}}
+{{end}}
+
+==Women==
+
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 1:20.3
+|recordinfo = 
+|firstname = Karin
+|lastname = Beyer
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1958|July|20}}
+|meet = -
+|country = GDR
+|city = East Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 2
+|time = 1:19.6
+|recordinfo = 
+|firstname = Karin
+|lastname = Beyer
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1958|September|12}}
+|meet = -
+|country = GDR
+|city = Leipzig
+|ref =
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:19.1
+|recordinfo = 
+|firstname = Wiltrud
+|lastname = Urselmann
+|namearticle = 
+|nation = FRG
+|date = {{Dts|format=dmy|1960|March|12}}
+|meet = -
+|country = SUI
+|city = Zürich
+|ref =
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:19.0
+|recordinfo = 
+|firstname = Ursula
+|lastname = Küper
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1960|July|14}}
+|meet = -
+|country = GDR
+|city = Leipzig
+|ref =
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:18.2
+|recordinfo = 
+|firstname = Barbara
+|lastname = Göbel
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1961|July|1}}
+|meet = -
+|country = GDR
+|city = Rostock
+|ref =
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:17.9
+|recordinfo = 
+|firstname = Claudia
+|lastname = Kolb
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1964|July|11}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|ref =
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:17.2
+|recordinfo = 
+|firstname = Svetlana
+|lastname = Babanina
+|namearticle = 
+|nation = URS
+|date = {{Dts|format=dmy|1964|September|3}}
+|meet = -
+|country = URS
+|city = Moscow
+|ref =
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:16.5
+|recordinfo = 
+|firstname = Svetlana
+|lastname = Babanina
+|namearticle = 
+|nation = URS
+|date = {{Dts|format=dmy|1965|May|11}}
+|meet = -
+|country = URS
+|city = Tashkent
+|ref =
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:16.4
+|recordinfo = 
+|firstname = Catie
+|lastname = Ball
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1966|July|15}}
+|meet = -
+|country = USA
+|city = Winter Park
+|cityarticle = Winter Park, Florida
+|ref =
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:15.7
+|recordinfo = 
+|firstname = Galina
+|lastname = Prozumenshchikova
+|namearticle = 
+|nation = URS
+|date = {{Dts|format=dmy|1966|July|17}}
+|meet = -
+|country = URS
+|city = Leningrad
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:15.6
+|recordinfo = 
+|firstname = Catie
+|lastname = Ball
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1966|December|28}}
+|meet = -
+|country = USA
+|city = Fort Lauderdale
+|cityarticle = Fort Lauderdale, Florida
+|ref =
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:14.8
+|recordinfo = 
+|firstname = Catie
+|lastname = Ball
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|July|31}}
+|meet = [[Swimming at the 1967 Pan American Games|Pan American Games]]
+|country = CAN
+|city = Winnipeg
+|ref =
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:14.6
+|recordinfo = 
+|firstname = Catie
+|lastname = Ball
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|August|19}}
+|meet = AAU National Championships
+|country = USA
+|city = Philadelphia
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:14.2
+|recordinfo = 
+|firstname = Catie
+|lastname = Ball
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1968|August|25}}
+|meet = US Olympic Trials
+|country = USA
+|city = Los Angeles
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 15
+|time = 1:13.58
+|recordinfo = 
+|firstname = Cathy
+|lastname = Carr
+|namearticle = Cathy Carr (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1972|September|2}}
+|meet = [[Swimming at the 1972 Summer Olympics – Women's 100 metre breaststroke|Olympic Games]]
+|country = FRG
+|city = Munich
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 16
+|time = 1:12.91
+|recordinfo = h
+|firstname = Renate
+|lastname = Vogel
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1974|August|22}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|country = AUT
+|city = Vienna
+|ref =
+}}
+{{Swimmingrecord
+|number = 17
+|time = 1:12.55
+|recordinfo = 
+|firstname = Christel
+|lastname = Justen
+|namearticle = 
+|nation = FRG
+|date = {{Dts|format=dmy|1974|August|23}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|country = AUT
+|city = Vienna
+|ref =
+}}
+{{Swimmingrecord
+|number = 18
+|time = 1:12.28
+|recordinfo = 
+|firstname = Renate
+|lastname = Vogel
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1974|September|1}}
+|meet = USA vs. GDR Dual Meet
+|country = USA
+|city = Concord
+|cityarticle = Concord, California
+|ref =
+}}
+{{Swimmingrecord
+|number = 19
+|time = 1:11.93
+|recordinfo = 
+|firstname = Carola
+|lastname = Nitschke
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|June|2}}
+|meet = GDR National Championships
+|country = GDR
+|city = East Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 20
+|time = 1:11.11
+|recordinfo = h
+|firstname = Hannelore
+|lastname = Anke
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|July|22}}
+|meet = [[Swimming at the 1976 Summer Olympics – Women's 100 metre breaststroke|Olympic Games]]
+|country = CAN
+|city = Montreal
+|ref =
+}}
+{{Swimmingrecord
+|number = 21
+|time = 1:10.86
+|recordinfo = sf
+|firstname = Hannelore
+|lastname = Anke
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|July|22}}
+|meet = [[Swimming at the 1976 Summer Olympics – Women's 100 metre breaststroke|Olympic Games]]
+|country = CAN
+|city = Montreal
+|ref =
+}}
+{{Swimmingrecord
+|number = 22
+|time = 1:10.31
+|recordinfo = 
+|firstname = Yuliya
+|lastname = Bogdanova
+|namearticle = 
+|nation = URS
+|date = {{Dts|format=dmy|1978|August|22}}
+|meet = [[Swimming at the 1978 World Aquatics Championships|World Championships]]
+|country = FRG
+|city = West Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 23
+|time = 1:10.20
+|recordinfo = 
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1980|May|26}}
+|meet = -
+|country = GDR
+|city = Magdeburg
+|ref =
+}}
+{{Swimmingrecord
+|number = 24
+|time = 1:10.11
+|recordinfo = h
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1980|July|24}}
+|meet = [[Swimming at the 1980 Summer Olympics – Women's 100 metre breaststroke|Olympic Games]]
+|country = URS
+|city = Moscow
+|ref =
+}}
+{{Swimmingrecord
+|number = 25
+|time = 1:09.52
+|recordinfo = 
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1981|April|9}}
+|meet = -
+|country = GDR
+|city = Gera
+|ref =
+}}
+{{Swimmingrecord
+|number = 26
+|time = 1:09.39
+|recordinfo = 
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1981|July|2}}
+|meet = -
+|country = GDR
+|city = East Berlin
+|ref =
+}}
+{{Swimmingrecord
+|number = 27
+|time = 1:08.60
+|recordinfo = 
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1981|April|9}}
+|meet = [[1981 European Aquatics Championships#Swimming|European Championships]]
+|country = YUG
+|city = Split
+|cityarticle = Split (city)
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 1:08.51
+|recordinfo = 
+|firstname = Ute
+|lastname = Geweniger
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1983|August|25}}
+|meet = [[1983 European Aquatics Championships#Swimming|European Championships]]
+|country = ITA
+|city = Rome
+|ref =
+}}
+{{Swimmingrecord
+|number = 28
+|time = 1:08.29
+|recordinfo = 
+|firstname = Sylvia
+|lastname = Gerasch
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1984|August|23}}
+|meet = Friendship Games
+|country = URS
+|city = Moscow
+|ref =
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:08.11
+|recordinfo = 
+|firstname = Sylvia
+|lastname = Gerasch
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1986|August|11}}
+|meet = [[Swimming at the 1986 World Aquatics Championships|World Championships]]
+|country = ESP
+|city = Madrid
+|ref  =
+}}
+{{Swimmingrecord
+|number = 30
+|time = 1:07.91
+|recordinfo = 
+|firstname = Silke
+|lastname = Hörner
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1987|August|21}}
+|meet = [[Swimming at the 1987 European Aquatics Championships – Women's 100 metre breaststroke|European Championships]]
+|country = FRA
+|city = Strasbourg
+|ref  =
+}}
+{{Swimmingrecord
+|number = 31
+|time = 1:07.69
+|recordinfo = 
+|firstname = Samantha
+|lastname = Riley
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1994|September|9}}
+|meet = [[Swimming at the 1994 World Aquatics Championships|World Championships]]
+|country = ITA
+|city = Rome
+|cityarticle = 
+|ref =
+}}
+{{Swimmingrecord
+|number = 32
+|time = 1:07.46
+|recordinfo = 
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1996|July|2}}
+|meet = South African National Championships
+|country = RSA
+|city = Durban
+|ref  =
+}}
+{{Swimmingrecord
+|number = 33
+|time = 1:07.02
+|recordinfo = h
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1996|July|21}}
+|meet = [[Swimming at the 1996 Summer Olympics – Women's 100 metre breaststroke|Olympic Games]]
+|country = USA
+|city = Atlanta
+|cityarticle = Atlanta, Georgia
+|ref  =
+}}
+{{Swimmingrecord
+|number = 34
+|time = 1:06.99
+|recordinfo = h
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1999|July|18}}
+|meet = Janet Evans Invitational
+|country = USA
+|city = Los Angeles
+|ref  =
+}}
+{{Swimmingrecord
+|number = 35
+|time = 1:06.95
+|recordinfo = 
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1999|July|18}}
+|meet = Janet Evans Invitational
+|country = USA
+|city = Los Angeles
+|ref  =
+}}
+{{Swimmingrecord
+|number = 36
+|time = 1:06.52
+|recordinfo = h
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1999|August|23}}
+|meet = [[1999 Pan Pacific Swimming Championships – Women's 100 metre breaststroke|Pan Pacific Championships]]
+|country = AUS
+|city = Sydney
+|ref  =
+}}
+{{Swimmingrecord
+|number = 37
+|time = 1:06.37
+|recordinfo = sf
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2003|July|21}}
+|meet = [[Swimming at the 2003 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|country = ESP
+|city = Barcelona
+|ref  =
+}}
+{{Swimmingrecord
+|number = 38
+|time = 1:06.20
+|recordinfo = sf
+|firstname = Jessica
+|lastname = Hardy
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2005|July|25}}
+|meet = [[Swimming at the 2005 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|country = CAN
+|city = Montreal
+|ref  =
+}}
+{{Swimmingrecord
+|number = 39
+|time = 1:05.71
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2006|February|3}}
+|meet = Australian Championships
+|country = AUS
+|city = Melbourne
+|ref  =
+}}
+{{Swimmingrecord
+|number = 40
+|time = 1:05.09
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2006|March|20}}
+|meet = [[Aquatics at the 2006 Commonwealth Games#Swimming|Commonwealth Games]]
+|country = AUS
+|city = Melbourne
+|ref = <ref name=W2006CG>{{cite news|first=Caroline|last=Wilson|title=Lethal Leisel|url=https://www.theage.com.au/news/swimming/lethal-leisel/2006/03/20/1142703290137.html?page=fullpage|newspaper=[[The Age]]|date=21 March 2006|access-date=24 March 2008}}</ref>
+}}
+{{Swimmingrecord
+|number = 41
+|time = 1:04.84
+|recordinfo = sf
+|firstname = Rebecca
+|lastname = Soni
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2009|July|27}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=W2009WC>{{cite web|title=13th FINA World championships - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/0001090B0019000000FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=27 July 2009|access-date=3 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 42
+|time = 1:04.45
+|recordinfo = 
+|firstname = Jessica
+|lastname = Hardy
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2009|August|7}}
+|meet = US Open
+|city = Federal Way
+|country = USA
+|ref = <ref name=W2009US>{{cite web|title=2009 US Open - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/0001090A002E000000FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=7 August 2009|access-date=3 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 43
+|time = 1:04.35
+|recordinfo = sf
+|firstname = Rūta
+|lastname = Meilutytė
+|namearticle = 
+|nation = LTU
+|date = {{Dts|format=dmy|2013|July|29}}
+|meet = [[Swimming at the 2013 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref name=W2013WC>{{cite web|title=15th FINA World championships - Women's 100m Breaststroke Semifinals Results|url=http://www.omegatiming.com/File/Download?id=00010D020101021E00FFFFFFFFFFFF02|publisher=[[Omega SA|Omega Timing]]|date=29 July 2013|access-date=29 July 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 44
+|time = 1:04.13
+|recordinfo = 
+|firstname = Lilly
+|lastname = King
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2017|July|25}}
+|meet = [[Swimming at the 2017 World Aquatics Championships – Women's 100 metre breaststroke|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref name=W2017WC>{{cite web|title=17th FINA World Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000111010A0203EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=25 July 2017|access-date=3 April 2025}}</ref>
+}}
+{{end}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|-
+|number = 1
+|time = 1:06.58
+|recordinfo = 
+|firstname = Dai
+|lastname = Guohong
+|namearticle = 
+|nation = CHN
+|date = {{Dts|format=dmy|1993|12|4}}
+|meet = [[1993 FINA World Swimming Championships (25 m) – Women's 100 metre breaststroke|World Championships]]
+|country = ESP
+|city = Palma de Mallorca
+|ref =
+}}
+{{Swimmingrecord
+|-
+|number = 2
+|time = 1:05.70
+|recordinfo = 
+|firstname = Samantha
+|lastname = Riley
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1995|12|1}}
+|meet = [[1995 FINA World Swimming Championships (25 m)|World Championships]]
+|country = BRA
+|city = Rio de Janeiro
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:05.57
+|recordinfo = 
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1999|9|5}}
+|meet = -
+|country = RSA
+|city = Johannesburg
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:05.40
+|recordinfo = 
+|firstname = Penelope
+|lastname = Heyns
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|1999|9|26}}
+|meet = South African Championships
+|country = RSA
+|city = Durban
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:05.29
+|recordinfo = 
+|firstname = Emma
+|lastname = Igelström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2003|3|15}}
+|meet = -
+|country = SWE
+|city = Stockholm
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:05.11
+|recordinfo = 
+|firstname = Emma
+|lastname = Igelström
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2003|3|16}}
+|meet = -
+|country = SWE
+|city = Stockholm
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:05.09
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2003|11|28}}
+|meet = World Cup
+|country = AUS
+|city = Melbourne
+|cityarticle =
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:04.79
+|recordinfo = 
+|firstname = Tara
+|lastname = Kirk
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2004|3|18}}
+|meet = NCAA Women's Division I Championships
+|country = USA
+|city = Austin
+|cityarticle = Austin, Texas
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:04.12
+|recordinfo = sf
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2006|8|27}}
+|meet = Australian Championships
+|country = AUS
+|city = Hobart
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:03.86
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2006|8|28}}
+|meet = Australian Championships
+|country = AUS
+|city = Hobart
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:03.72
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|4|26}}
+|meet = Swimming Australia Grand Prix
+|country = AUS
+|city = Canberra
+|cityarticle = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:03.00
+|recordinfo = 
+|firstname = Leisel
+|lastname = Jones
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2009|11|14}}
+|meet = World Cup
+|country = GER
+|city = Berlin
+|ref = <ref name=W2009Berlin>{{cite web|title=2009 FINA World Cup (Berlin) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000109050015000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=14 November 2009|access-date=9 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:02.70
+|recordinfo = 
+|firstname = Rebecca
+|lastname = Soni
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2009|12|19}}
+|meet = Duel in the Pool
+|country = UK
+|city = Manchester
+|cityarticle = 
+|ref = <ref name=W2009Duel>{{cite web|title=2009 Duel in the Pool - Women's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000109000014000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=19 December 2009|access-date=5 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:02.36
+|recordinfo = 
+|firstname = Rūta
+|lastname = Meilutytė
+|namearticle = 
+|nation = LTU
+|date = {{Dts|format=dmy|2013|10|12}}
+|meet = World Cup
+|country = RUS
+|city = Moscow
+|ref = <ref name=W2013Moscow>{{cite web|title=2013 FINA World Cup (Moscow) - Women's 100m Breaststroke Final Results Summary|url=https://www.omegatiming.com/File/00010D020701021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=12 October 2013|access-date=9 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:02.36
+|recordinfo = =
+|firstname = Alia
+|lastname = Atkinson
+|namearticle = 
+|nation = JAM
+|date = {{Dts|format=dmy|2014|12|3}}
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 100 metre breaststroke|World Championships]]
+|country = QAT
+|city = Doha
+|ref = <ref name=W2014WC>{{cite web|title=2014 FINA World Championships (25m) - Women's 100m Breaststroke Final Results Summary|url=https://www.omegatiming.com/File/00010E010D01021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=6 December 2014|access-date=9 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:02.36
+|recordinfo = =
+|firstname = Alia
+|lastname = Atkinson
+|namearticle = 
+|nation = JAM
+|date = {{Dts|format=dmy|2016|8|26}}
+|meet = World Cup
+|country = FRA
+|city = Chartres
+|ref = <ref name=W2016Chartres>{{cite web|title=2016 FINA World Cup (Chartres) - Women's 100m Breaststroke Final Results Summary|url=https://www.omegatiming.com/File/000110000401021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=26 August 2016|access-date=9 April 2025}}</ref>
+}}
+{{end}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''100 m breaststroke times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''100 m breaststroke times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''100 m breaststroke times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 100 m breaststroke times''
+|}
+
+===Men long course===
+*Correct as of September 2025<ref>{{cite web|title=Men's 100m Breaststroke Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=BREASTSTROKE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=14 September 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}
+! {{abbr|Perf.#|Performance rank}}
+! Time
+! Athlete
+! Nation
+! Date
+! Place
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 56.88
+| [[Adam Peaty]]
+| {{GBR2}}
+| 21 July 2019
+| [[Gwangju]]
+| <ref name=M2019WCsf/>
+|-
+| rowspan="13" | 
+| align=center | 2
+| 57.10
+|''Peaty #2''
+| rowspan="13" | 
+| 4 August 2018
+| [[Glasgow]]
+| <ref name=M2018EC/>
+|-
+| align=center | 3
+| 57.13
+|''Peaty #3''
+| 7 August 2016
+| [[Rio de Janeiro]]
+| <ref name=M2016OG/>
+|-
+| align=center | 4
+| 57.14
+|''Peaty #4''
+| 22 July 2019
+| Gwangju
+| <ref name=M2019WC>{{cite web|title=18th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011301070103EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=22 July 2019|access-date=22 April 2025}}</ref>
+|-
+| align=center | 5
+| 57.37
+|''Peaty #5''
+| 26 July 2021
+| [[Tokyo]]
+| <ref>{{Cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MBR------------FNL-000100--.pdf |title=2020 Olympic Games - Men's 100m Breaststroke Final Results|access-date=1 August 2021 |archive-date=22 August 2021 |archive-url=https://web.archive.org/web/20210822141836/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MBR------------FNL-000100--.pdf |url-status=dead }}</ref>
+|-
+| align=center | 6
+| 57.39
+|''Peaty #6''
+| 14 April 2021
+| [[London]]
+| <ref>{{cite web|title=2021 British Trials - Men's 100m Breaststroke Final Results|url=https://results.swimming.org/swimming/results/2021/bsst/RM8F154.HTM|publisher=britishswimming.org|date=14 April 2021|access-date=10 May 2025}}</ref>
+|-
+| align=center | 7
+| 57.47
+|''Peaty #7''
+| 24 July 2017
+| [[Budapest]]
+| <ref>{{cite web|title=17th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000111010A0103EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=24 July 2017|access-date=24 April 2025}}</ref>
+|-
+| align=center | 8
+| 57.55
+|''Peaty #8''
+| 6 August 2016
+| Rio de Janeiro
+| <ref name=M2016OGh/>
+|-
+| align=center | 9
+| 57.56
+|''Peaty #9''
+| 24 July 2021
+| Tokyo
+| <ref name=M2020OGh>{{Cite web|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBR------------HEAT--------.pdf |title=2020 Olympic Games - Men's 100m Breaststroke Heats Results|access-date=24 July 2021 |archive-date=22 August 2021 |archive-url=https://web.archive.org/web/20210822141849/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBR------------HEAT--------.pdf |url-status=dead }}</ref>
+|-
+| align=center | 10
+| 57.59
+|''Peaty #10''
+| 21 July 2019
+| Gwangju
+| <ref>{{cite web|title=18th FINA World Championships - Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011301070103EC01FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=21 July 2019|access-date=22 April 2025}}</ref>
+|-
+| align=center | 11
+| 57.62
+|''Peaty #11''
+| 6 August 2016
+| Rio de Janeiro
+| <ref>
+{{cite web|title=2016 Olympic Games - Men's 100m Breaststroke Semifinals Results|url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031200_ResultsSummary_2016_08_06.pdf|publisher=Rio 2016|accessdate=6 August 2016|archive-url=https://web.archive.org/web/20160807150621/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM031200_ResultsSummary_2016_08_06.pdf|archive-date=7 August 2016|url-status=dead|df=dmy-all}}
+</ref>
+|-
+| align=center | 12
+| 57.63
+|''Peaty #12''
+| 25 July 2021
+| Tokyo
+| <ref>{{Cite web|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBR------------SFNL--------.pdf |title=2020 Olympic Games - Men's 100m Breaststroke Semifinals Results|access-date=1 August 2021 |archive-date=22 August 2021 |archive-url=https://web.archive.org/web/20210822141840/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MBR------------SFNL--------.pdf |url-status=dead }}</ref>
+|-
+| align=center | 13
+| 57.66
+|''Peaty #13''
+| 18 May 2021
+| Budapest
+| <ref>{{cite web|title=2020 European Championships - Men's 100m Breaststroke Final Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM100MBR------------FNL-000100--_73A1%201.0.pdf|publisher=microplustiming.com|date=18 May 2021|access-date=10 May 2025}}</ref>
+|-
+| align=center | 14
+| 57.67
+|''Peaty #14''
+| 17 May 2021
+| Budapest
+| <ref>{{cite web|title=2020 European Championships - Men's 100m Breaststroke Semifinals Results|url=https://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM100MBR------------SFNL--------_73A2%201.0.pdf|publisher=microplustiming.com|date=17 May 2021|access-date=10 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 2
+| rowspan="2" align=center | 15
+| rowspan="2" | 57.69
+| rowspan="2" | [[Qin Haiyang]]
+| rowspan="2" | {{CHN}}
+| 24 July 2023
+| [[Fukuoka]]
+| <ref>{{cite web|title=2023 World Aquatics Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600010103EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=24 July 2023|access-date=24 July 2023}}</ref>
+|- bgcolor=f6F5CE
+| 6 October 2023
+| [[Berlin]]
+| <ref>{{cite web|title=2023 World Aquatics Cup (Berlin) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600050103EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=6 October 2023|access-date=7 October 2023}}</ref>
+|-
+| rowspan="4" | 
+| align=center | 17
+| 57.70
+|''Peaty #15''
+| rowspan="4" | 
+| 14 April 2021
+| London
+| <ref>{{cite web|title=2021 British Trials - Men's 100m Breaststroke Heats Results|url=https://results.swimming.org/swimming/results/2021/bsst/RM8H104.HTM|publisher=britishswimming.org|date=14 April 2021|access-date=10 May 2025}}</ref>
+|-
+| align=center | 18
+| 57.75
+|''Peaty #16''
+| 23 July 2017
+| Budapest
+| <ref name=M2017WCsf>{{cite web|title=17th FINA World Championships - Men's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/000111010A0103EC02FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=23 July 2017|access-date=22 April 2025}}</ref>
+|-
+| align=center | 19
+| 57.76
+|''Qin #3''
+| 25 September 2023
+| [[Hangzhou]]
+| <ref>{{cite magazine|title=Qin Haiyang, Siobhan Haughey Shatter Meet Records at Asian Games; Korea Zooms to Gold in 800 Freestyle Relay|url=https://www.swimmingworldmagazine.com/news/siobhan-haughey-routs-field-for-gold-in-200-freestyle-at-asian-games-xu-jiayu-continues-to-flash-speed/|magazine=[[Swimming World Magazine]]|author=John Lohn|date=25 September 2023|access-date=10 May 2025}}</ref>
+|-
+| align=center | 20
+| 57.79
+|''Peaty #17''
+| 18 April 2017
+| [[Sheffield]]
+| <ref>{{cite web|title=2017 British Championships - Men's 100m Breaststroke Final Results|url=https://results.swimming.org/swimming/results/2017/bstrials17/RM8F168.HTM|publisher=britishswimming.org|date=18 April 2017|access-date=10 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 21
+| 57.80
+| [[Arno Kamminga]]
+| {{NED}}
+| 24 July 2021
+| Tokyo
+| <ref name=M2020OGh/>
+|-
+| rowspan="4" | 
+| rowspan="2" align=center | 22
+| rowspan="2" | 57.82
+|''Qin #4''
+| rowspan="4" | 
+| 23 July 2023
+| Fukuoka
+| <ref>{{cite web|title=2023 World Aquatics Championships - Men's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00011600010103EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=23 July 2023|access-date=10 May 2025}}</ref>
+|-
+|''Qin #5''
+| 20 October 2023
+| Budapest
+| <ref>{{cite web|title=2023 World Aquatics Cup (Budapest) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600070103EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=20 October 2023|access-date=10 May 2025}}</ref>
+|-
+| align=center | 24
+| 57.87
+|''Peaty #18''
+| 16 April 2019
+| Glasgow
+| <ref>{{cite web|title=2019 British Championships - Men's 100m Breaststroke Final Results|url=https://results.swimming.org/swimming/results/2019/bschamps/RM8F168.HTM|publisher=britishswimming.org|date=16 April 2019|access-date=10 May 2025}}</ref>
+|-
+| align=center | 25
+| 57.89
+|''Peaty #19''
+| 3 August 2018
+| Glasgow
+| <ref>{{cite web|title=2018 European Championships - Men's 100m Breaststroke Heats Results|url=https://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM100MBR------------HEAT--------_74A%201.0.pdf|publisher=microplustiming.com|date=3 August 2018|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 4
+| rowspan="23" |
+| 58.14
+| [[Michael Andrew (swimmer)|Michael Andrew]]
+| {{USA}}
+| 13 June 2021
+| [[Omaha]]
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Men's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00011500030103EC02FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=13 June 2021|access-date=4 July 2021}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 5
+| rowspan="2" | 58.26
+| rowspan="2" | [[Nicolò Martinenghi]]
+| rowspan="2" | {{ITA}}
+| 19 June 2022
+| Budapest
+| <ref>{{cite web|title=19th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011700000103EC0104FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=19 June 2022|access-date=19 June 2022}}</ref>
+|- bgcolor=CCFFCC
+| 12 August 2022
+| [[Rome]]
+| <ref>{{cite web|title=2022 European Championships - Men's 100m Breaststroke Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM100MBR------------FNL---------_73A2%201.0.pdf?x=00:28:49|publisher=microplustiming.com|date=12 August 2022|accessdate=12 August 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 6
+| 58.29
+| [[Ilya Shymanovich]]
+| {{BLR}}
+| 24 March 2019
+| [[Marseille]]
+| <ref>{{cite web|title=FFN Golden Tour - Men's 100m Breaststroke Final Results|url=https://www.liveffn.com/cgi-bin/resultats.php?competition=57779&langue=fra&go=epreuve&epreuve=72|publisher=liveffn.com|date=24 March 2019|access-date=24 March 2019}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 7
+| 58.36
+| [[Nic Fink]]
+| {{USA}}
+| 30 June 2023
+| [[Indianapolis]]
+| <ref>{{cite web|title=2023 US National Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600030103EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 June 2023|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 8
+| rowspan="2" | 58.46
+| [[Cameron van der Burgh]]
+| {{RSA}}
+| 29 July 2012
+| London
+| <ref name=M2012OG/>
+|- bgcolor=CCFFCC
+| [[James Wilby (swimmer)|James Wilby]]
+| {{GBR2}}
+| 22 July 2019
+| Gwangju
+| <ref name=M2019WC/>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 58.53
+| [[Kirill Prigoda]]
+| {{RUS}}
+| 27 July 2025
+| [[Singapore]]
+| <ref>{{cite web|title=2025 World Aquatics Championships - Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011900010103EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2025|access-date=27 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 58.58
+| [[Brenton Rickard]]
+| {{AUS}}
+| 27 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 58.63
+| [[Yan Zibei]]
+| {{CHN}}
+| 22 July 2019
+| Gwangju
+| <ref name=M2019WC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 13
+| rowspan="2" | 58.64
+| [[Hugues Duboscq]]
+| {{FRA}}
+| 27 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| [[Kevin Cordes]]
+| {{USA}}
+| 23 July 2017
+| Budapest
+| <ref name=M2017WCsf/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 58.67
+| [[Ihor Borysyk]]
+| {{UKR}}
+| 13 June 2009
+| [[Kharkiv]]
+| <ref name=2009Ukraine/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 58.71
+| [[Alexander Dale Oen]]
+| {{NOR}}
+| 25 July 2011
+| [[Shanghai]]
+| <ref>{{cite web|title=14th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010B0D001F000000FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=25 July 2011|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 58.72
+| [[Evgenii Somov]]
+| {{RUS}}
+| 16 May 2024
+| [[Atlanta, Georgia|Atlanta]]
+| <ref>{{cite magazine|title=Evgenii Somov Blasts 58.72 100 Breast for New Russian Record, First Time Sub-1:00|url=https://swimswam.com/evgenii-somov-blasts-58-72-100-breast-for-new-russian-record-first-time-sub-100/|magazine=[[SwimSwam]]|author=James Sutherland|date=16 May 2024|access-date=18 May 2024}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 18
+| rowspan="2" | 58.73
+| [[Federico Poggio]]
+| {{ITA}}
+| 14 April 2023
+| [[Riccione]]
+| <ref>{{cite web|title=2023 Italian Championships - Men's 100m Breaststroke Final Results|url=https://fin2023.microplustiming.com/export/NU_2023_04_13-17_Riccione/NU/pdf/CLS-ASM-100RA-FIN-ALL.pdf?x=18:03:09|publisher=microplustiming.com|date=14 April 2023|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Sun Jiajun (swimmer)|Sun Jiajun]]
+| {{CHN}}
+| 20 April 2024
+| [[Shenzhen]]
+| <ref name=2024Chinese>{{cite magazine|title=Chinese National Championships, Day 2: Tang Qianting Blasts Asian Record 1:04.68 in 100 Breaststroke|url=https://www.swimmingworldmagazine.com/news/chinese-national-championships-day-2-tang-qianting-blasts-asian-record-104-68-in-100-breaststroke/|magazine=[[Swimming World]]|author=David Rieder|date=20 April 2024|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 20
+| rowspan="2" | 58.74
+| [[Andrew Wilson (swimmer)|Andrew Wilson]]
+| {{USA}}
+| 14 June 2021
+| Omaha
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011500030103EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=14 June 2021|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Lucas Matzerath]]
+| {{GER}}
+| 23 July 2023
+| Fukuoka
+| <ref>{{cite web|title=2023 World Aquatics Championships - Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011600010103EC0101FFFFFFFFFF01.pdf|date=23 July 2023|accessdate=23 July 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 58.78
+| [[Yasuhiro Koseki]]
+| {{JPN}}
+| 16 June 2018
+| [[Monaco]]
+| <ref>{{cite magazine|title=Fast-Moving Koseki Breaks Legendary Kitajima’s Breaststroke Record|url=https://swimswam.com/fast-moving-koseki-breaks-legendary-kitajimas-breaststroke-records/|magazine=[[SwimSwam]]|author=Retta Race|date=16 June 2018|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 58.79
+| [[Christian Sprenger]]
+| {{AUS}}
+| 29 July 2013
+| [[Barcelona]]
+| <ref>{{cite web|title=15th FINA World Championships - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010D020100020A02FFFFFFFFFFFF02.pdf|publisher=[[Omega Timing]]|date=29 July 2013|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 58.80
+| [[Samuel Williamson (swimmer)|Samuel Williamson]]
+| {{AUS}}
+| 10 June 2024
+| [[Brisbane]]
+| <ref>{{cite web|title=2024 Australian Trials - Men's 100m Breaststroke Final Results|url=https://liveresults.swimming.org.au/sal/2024Trials/240610F003.htm|publisher=Swimming Australia|date=10 June 2024|access-date=10 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 58.83
+| [[Anton Chupkov]]
+| {{RUS}}
+| 26 October 2020
+| [[Kazan]]
+| <ref>{{cite web|title=2020 Russian Championships - Men's 100m Breaststroke Final Results|url=https://russwimming.ru/upload/live/4R_LC_2020/ResultList_105F.pdf|publisher=russwimming.ru|date=26 October 2020|access-date=26 October 2020|archive-date=29 October 2020|archive-url=https://web.archive.org/web/20201029230535/https://russwimming.ru/upload/live/4R_LC_2020/ResultList_105F.pdf|url-status=dead}}</ref>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 100m Breaststroke Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=BREASTSTROKE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=15 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}
+! {{abbr|Perf.#|Performance rank}}
+! Time
+! Athlete
+! Nation
+! Date
+! Place
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 55.28
+| [[Ilya Shymanovich]]
+| {{BLR}}
+| 26 November 2021
+| [[Eindhoven]]
+|  <ref name=M2021ISL16/>
+|-
+| rowspan="2" | 
+| align=center | 2
+| 55.32
+|''Shymanovich #2''
+| rowspan="2" |
+| 19 November 2021
+| Eindhoven
+| <ref name=M2021ISL14/>
+|-
+| align=center | 3
+| 55.34
+|''Shymanovich #3''
+| 19 December 2020
+| [[Brest, Belarus|Brest]]
+| <ref name=M2020BLR/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 4
+| 55.41
+| [[Adam Peaty]]
+| {{GBR2}}
+| 22 November 2020
+| [[Budapest]]
+| <ref name=M2020ISL/>
+|-
+| 
+| align=center | 5
+| 55.45
+|''Shymanovich #4''
+| 
+| 3 November 2021
+| [[Kazan]]
+| 
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 6
+| 55.47
+| [[Qin Haiyang]]
+| {{CHN}}
+| 12 December 2024
+| Budapest
+| <ref name=M2024WC>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011800080103EC0104FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=12 December 2024|access-date=28 December 2024}}</ref>
+|-
+| rowspan="2" |
+| rowspan="2" align=center | 7
+| rowspan="2" | 55.49
+|''Peaty #2''
+| rowspan="2" |
+| 15 November 2020
+| Budapest
+| <ref name=M2020ISLsf1/>
+|-
+|''Shymanovich #5''
+| 22 November 2020
+| Budapest
+| <ref name=M2020ISL/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 7
+| 55.49
+| [[Kirill Prigoda]]
+| {{RUS}}
+| 12 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|-
+|
+| align=center | 10
+| 55.51
+|''Prigoda #2''
+|
+| 9 November 2025
+| Kazan
+|<ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://russwimming.ru/upload/live/4R_SC_2025/ResultList_113F.pdf|website=russwimming.ru|date=9 November 2025|access-date=15 November 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 11
+| 55.54
+| [[Caspar Corbeau]]
+| {{NED}}
+| 2 December 2025
+| [[Lublin]]
+| <ref name=M2025EC(25)>{{cite web|title=2025 European Championships (25m) - Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/000119000A0103EC0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=2 December 2025|accessdate=4 December 2025}}</ref>
+|-
+|
+| align=center | 12
+| 55.55
+|''Corbeau #2''
+|
+| 23 October 2025
+| [[Toronto]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Toronto) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011900080103EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=23 October 2025|access-date=24 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 13
+| 55.56
+| [[Nic Fink]]
+| {{USA}}
+| 4 December 2021
+| Eindhoven
+| <ref>{{cite web|title=2021 International Swimming League (Final) - Men's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000115001B0103EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=4 December 2021|access-date=16 December 2025}}</ref>
+|-
+| rowspan="3" |
+| rowspan="2" align=center | 14
+| rowspan="2" | 55.59
+|''Shymanovich #6''
+| rowspan="3" |
+| 4 December 2021
+| Eindhoven
+| <ref name=M2021ISLf>[[International Swimming League|ISL]] (4 December 2021). [https://www.omegatiming.com/File/000115001B0103EC04FFFFFFFFFFFF01.pdf "ISL 2021 Final Eindhoven (NED): Men's 100m Breaststroke Results"]. ''[[Omega Timing]]''. Retrieved 4 December 2021.</ref>
+|-
+|''Corbeau #3''
+| 7 November 2025
+| [[Ghent]]
+|<ref>{{cite magazine|title=Vanotterdijk & Gaspard Hit Belgian Records, Corbeau 55.59 100 Breast in Ghent|url=https://swimswam.com/vanotterdijk-gaspard-hit-belgian-records-corbeau-55-59-100breast-in-ghent/|magazine=[[SwimSwam]]|author=Retta Race|date=7 November 2025|access-date=15 November 2025}}</ref>
+|-
+| align=center | 16
+| 55.60
+|''Shymanovich #7''
+| 12 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 17
+| 55.61
+| [[Cameron van der Burgh]]
+| {{RSA}}
+| 15 November 2009
+| [[Berlin]]
+| <ref name=M2009Berlin/>
+|-
+| rowspan="2" |
+| align=center | 17
+| 55.61
+|''Qin #2''
+| rowspan="2" |
+| 31 October 2024
+| [[Singapore]]
+| 
+|-
+| align=center | 19
+| 55.63
+|''Shymanovich #8''
+| 19 September 2021
+| [[Naples]]
+| 
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 19
+| 55.63
+| [[Nicolo Martinenghi]]
+| {{ITA}}
+| 4 November 2021
+| Kazan
+| <ref name=M2021EC>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM100MBR------------FNL-000100--_73A1%201.0.pdf?x=01:48:17|work=microplustiming.com|date=4 November 2021|accessdate=18 November 2021}}</ref>
+|-
+| rowspan="4" |
+| align=center | 21
+| 55.69
+|''Shymanovich #9''
+| rowspan="4" |
+| 15 November 2020
+| Budapest
+| <ref name=M2020ISLsf1/>
+|-
+| align=center | 22
+| 55.70
+|''Shymanovich #10''
+| 17 December 2021
+| [[Abu Dhabi]]
+| 
+|-
+| align=center | 23
+| 55.72
+|''Shymanovich #11''
+| 31 October 2024
+| Singapore
+| 
+|-
+| align=center | 24
+| 55.73
+|''Qin #3''
+| 18 October 2024
+| [[Shanghai]]
+| 
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 25
+| 55.74
+| [[Emre Sakçı]]
+| {{TUR}}
+| 10 November 2020
+| Budapest
+| 
+|- bgcolor=CCFFCC
+| align=center | 10
+| rowspan="17" |
+| 55.77
+| [[Yuya Hinomoto]]
+| {{JPN}}
+| 16 October 2021
+| [[Tokyo]]
+| <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://swim.seiko.co.jp/2021/S70702/ranking/01R038.pdf|publisher=seiko.co.jp|date=16 October 2021|accessdate=26 October 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 55.79
+| [[Arno Kamminga]]
+| {{NED}}
+| 4 November 2021
+| Kazan
+| <ref name=M2021EC/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 55.91
+| [[Denis Petrashov]]
+| {{KGZ}}
+| 12 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 13
+| rowspan="2" | 56.11
+| rowspan="2" | [[Yasuhiro Koseki]]
+| rowspan="2" | {{JPN}}
+| 26 October 2019
+| Tokyo
+| 
+|- bgcolor=CCFFCC
+| 31 October 2020
+| Budapest
+| 
+|- bgcolor=CCFFCC
+| align=center | 14
+| 56.15
+| [[Fabio Scozzoli]]
+| {{ITA}}
+| 16 December 2017
+| [[Copenhagen]]
+| 
+|- bgcolor=CCFFCC
+| rowspan="3" align=center | 15
+| rowspan="3" | 56.16
+| [[Oleg Kostin]]
+| {{RUS}}
+| 19 November 2017
+| Kazan
+| 
+|- bgcolor=CCFFCC
+| [[Fabian Schwingenschlögl]]
+| {{GER}}
+| 28 October 2021
+| Kazan
+| <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011500120103EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=28 October 2021|accessdate=17 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| [[Sun Jiajun (swimmer)|Sun Jiajun]]
+| {{CHN}}
+| 18 October 2024
+| Shanghai
+| 
+|- bgcolor=CCFFCC
+| align=center | 18
+| 56.21
+| [[Simone Cerasuolo]]
+| {{ITA}}
+| 2 December 2025
+| Lublin
+| <ref name=M2025EC(25)/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 19
+| rowspan="2" | 56.25
+| [[Felipe França Silva]]
+| {{BRA}}
+| 4 September 2014
+| [[Guaratinguetá]]
+| 
+|- bgcolor=CCFFCC
+| [[Danil Semianinov]]
+| {{RUS}}
+| 21 November 2022
+| Kazan
+| <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://russwimming.ru/upload/live/4R_SC_2022/ResultList_107F.pdf|work=russwimming.ru|date=21 November 2022|access-date=27 November 2022|archive-date=22 November 2022|archive-url=https://web.archive.org/web/20221122073618/https://russwimming.ru/upload/live/4R_SC_2022/ResultList_107F.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 21
+| rowspan="2" | 56.27
+| [[Taku Taniguchi]]
+| {{JPN}}
+| 19 October 2024
+| Tokyo
+| <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://swim.seiko.co.jp/en/2024/S70702/ranking/eng01R056.pdf|publisher=seiko.co.jp|date=19 October 2024|access-date=19 October 2024}}</ref>
+|- bgcolor=CCFFCC
+| [[Luka Mladenovic]]
+| {{AUT}}
+| 3 December 2025
+| Lublin
+| <ref>{{cite web|title=2025 European Championships (25m) - Men's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000119000A0103EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 December 2025|accessdate=4 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 56.28
+| [[Carles Coll]]
+| {{ESP}}
+| 2 December 2025
+| Lublin
+| <ref name=M2025EC(25)/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 24
+| rowspan="2" | 56.29
+| [[Robin van Aggele]]
+| {{NED}}
+| 11 December 2009
+| [[Istanbul]]
+| 
+|- bgcolor=CCFFCC
+| [[Ian Finnerty]]
+| {{USA}}
+| 17 November 2019
+| [[College Park, Maryland|College Park]]
+| 
+|}
+
+===Women long course===
+*Correct as of September 2025<ref>{{cite web|title=Women's 100m Breaststroke Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=BREASTSTROKE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=17 September 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}
+! {{abbr|Perf.#|Performance rank}}
+! Time
+! Athlete
+! Nation
+! Date
+! Place
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 1:04.13
+| [[Lilly King]]
+| {{USA}}
+| 25 July 2017
+| [[Budapest]]
+| <ref name=W2017WC/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 1:04.35
+| [[Rūta Meilutytė]]
+| {{LTU}}
+| 29 July 2013
+| [[Barcelona]]
+| <ref name=W2013WC/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 1:04.36
+| [[Yulia Yefimova]]
+| {{RUS}}
+| 24 July 2017
+| Budapest
+| <ref name=W2017WCsf>{{cite web|title=17th FINA World Championships - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/000111010A0203EC02FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=24 July 2017|access-date=3 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 1:04.39
+| [[Tang Qianting]]
+| {{CHN}}
+| 21 April 2024
+| [[Shenzhen]]
+| <ref>{{cite news|title=World Champion Tang Qianting Lowers Newly-minted 100 Breast Asian Record to 1:04.39|url=https://swimswam.com/world-champion-tang-qianting-lowers-newly-minted-100breast-asian-record-to-104-39/|magazine=[[SwimSwam]]|author=Retta Race|date=21 April 2024|accessdate=10 September 2025}}</ref>
+|-
+|
+| align=center | 5
+| 1:04.42
+|''Meilutytė #2''
+| 
+| 30 July 2013
+| Barcelona
+| <ref>{{cite web|title=15th FINA World championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010D020101021E02FFFFFFFFFFFF02.pdf|publisher=[[Omega SA|Omega Timing]]|date=30 July 2013|access-date=3 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 6
+| 1:04.45
+| [[Jessica Hardy]]
+| {{USA}}
+| 7 August 2009
+| [[Federal Way]]
+| <ref name=W2009US/>
+|-
+| rowspan="9" |
+| align=center | 7
+| 1:04.52
+|''Meilutytė #3''
+| rowspan="9" |
+| 29 July 2013
+| Barcelona
+| <ref>{{cite web|title=15th FINA World Championships - Women's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00010D020101021E00FFFFFFFFFFFF02.pdf|publisher=[[Omega SA|Omega Timing]]|date=29 July 2013|access-date=3 April 2025}}</ref>
+|-
+| align=center | 8
+| 1:04.53
+|''King #2''
+| 24 July 2017
+| Budapest
+| <ref name=W2017WCsf/>
+|-
+| align=center | 9
+| 1:04.62
+|''Meilutytė #4''
+| 25 July 2023
+| [[Fukuoka]]
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011600010203EC0104FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=25 July 2023|access-date=22 April 2025}}</ref>
+|-
+| align=center | 10
+| 1:04.67
+|''Meilutytė #5''
+| 24 July 2023
+| Fukuoka
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011600010203EC0101FFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=24 July 2023|access-date=22 April 2025}}</ref>
+|-
+| align=center | 11
+| 1:04.68
+|''Tang #2''
+| 20 April 2024
+| Shenzhen
+| <ref name=2024Chinese/>
+|-
+| align=center | 12
+| 1:04.72
+|''King #3''
+| 14 June 2021
+| [[Omaha]]
+| <ref name=W2020US>{{cite web|title=2020 US Olympic Trials (Wave II) - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00011500030203EC02FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=14 June 2021|access-date=22 April 2025}}</ref>
+|-
+| align=center | 13
+| 1:04.75
+|''King #4''
+| 30 June 2023
+| [[Indianapolis]]
+| <ref name=W2023US>{{cite web|title=2023 US National Championships - Women's 100m Breaststroke Results|url=https://www.omegatiming.com/File/00011600030203EC0104FFFFFFFFFF01.pdf|publisher=[[Omega Timing]]|date=30 June 2023|accessdate=3 July 2023}}</ref>
+|-
+| align=center | 14
+| 1:04.79
+|''King #5''
+| 15 June 2021
+| Omaha
+| <ref>{{cite web|title=2020 US Olympic Trials (Wave II) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011500030203EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=15 June 2021|access-date=22 April 2025}}</ref>
+|-
+| align=center | 15
+| 1:04.82
+|''Yefimova #2''
+| 17 June 2017
+| [[Canet-en-Roussillon]]
+| <ref>{{cite news|title=Efimova Drops 1:04.8 100 Breast, Moves Into 3rd On All-Time List|url=https://swimswam.com/efimova-drops-104-8-100-breast-moves-3rd-time-list/|magazine=[[SwimSwam]]|author=James Sutherland|date=17 June 2017|accessdate=5 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 15
+| 1:04.82
+| [[Tatjana Smith]]
+| {{RSA}}
+| 25 July 2021
+| [[Tokyo]]
+| <ref>{{cite web|title=2020 Olympic Games - Women's 100m Breaststroke Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW100MBR------------HEAT--------.pdf|publisher=olympics.com|date=25 July 2021|accessdate=25 July 2021|archive-date=25 July 2021|archive-url=https://web.archive.org/web/20210725113329/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW100MBR------------HEAT--------.pdf|url-status=dead}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 17
+| 1:04.84
+| [[Rebecca Soni]]
+| {{USA}}
+| 27 July 2009
+| [[Rome]]
+| <ref name=W2009WC/>
+|-
+| 
+| align=center | 18
+| 1:04.91
+|''Soni #2''
+| 
+| 25 July 2011
+| [[Shanghai]]
+| <ref>{{cite web|title=14th FINA World Championships - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00010B0D001A000000FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=25 July 2011|access-date=22 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 19
+| 1:04.92
+| [[Evgeniia Chikunova]]
+| {{RUS}}
+| 19 April 2023
+| [[Kazan]]
+| <ref>{{cite web|title=2023 Russian Championships - Women's 100m Breaststroke Final Results|url=https://new.russwimming.ru/upload/live/4R_LC_2023/ResultList_118F.pdf|publisher=russwimming.ru|date=19 April 2023|access-date=24 April 2023}}</ref>
+|-
+| rowspan="5" | 
+| rowspan="4" align=center | 20
+| rowspan="4" | 1:04.93
+|''Soni #3''
+| rowspan="5" | 
+| 28 July 2009
+| Rome
+| <ref>{{cite web|title=13th FINA World Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/0001090B0029000000FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=28 July 2009|access-date=3 April 2025}}</ref>
+|-
+|''Soni #4''
+| 19 August 2010
+| [[Irvine, California|Irvine]]
+| <ref>{{cite web|title=2010 Pan Pacific Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010A0B0020000000FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=19 August 2010|access-date=3 April 2025}}</ref>
+|-
+|''King #6''
+| 8 August 2016
+| [[Rio de Janeiro]]
+|  <ref>{{cite web|url=https://www.rio2016.com/en/swimming-standings-sw-womens-100m-breaststroke |title=2016 Olympic Games - Women's 100m Breaststroke Results|publisher=[[Rio 2016]] |accessdate=5 August 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160922161106/https://www.rio2016.com/en/swimming-standings-sw-womens-100m-breaststroke |archivedate=22 September 2016 }}</ref>
+|-
+|''King #7''
+| 23 July 2019
+| [[Gwangju]]
+| <ref>{{cite web|title=18th FINA World Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011301070203EC04FFFFFFFFFFFF01.pdf|publisher=[[Omega SA|Omega Timing]]|date=23 July 2019|access-date=22 April 2025}}</ref>
+|-
+| align=center | 24
+| 1:04.95
+|''King #8''
+| 30 June 2017
+| Indianapolis
+| <ref>{{cite web|title=2017 US National Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000111010E01021E02FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=30 June 2017|access-date=3 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 24
+| 1:04.95
+| [[Lydia Jacoby]]
+| {{USA}}
+| 27 July 2021
+| Tokyo
+| <ref>{{Cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MBR------------FNL-000100--.pdf |title=2016 Olympic Games - Women's 100m Breaststroke Results|access-date=1 August 2021 |archive-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823071509/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MBR------------FNL-000100--.pdf |url-status=dead }}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| rowspan="16" |
+| 1:05.03
+| [[Katie Meili]]
+| {{USA}}
+| 25 July 2017
+| Budapest
+| <ref name=W2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 1:05.09
+| [[Leisel Jones]]
+| {{AUS}}
+| 20 March 2006
+| [[Melbourne]]
+| <ref name=W2006CG/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 12
+| rowspan="2" | 1:05.19
+| [[Reona Aoki]]
+| {{JPN}}
+| 2 March 2022
+| Tokyo
+| <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://swim.seiko.co.jp/2021/S70706/ranking/01R014.pdf|publisher=seiko.co.jp|date=2 March 2022|accessdate=2 March 2022}}</ref>
+|- bgcolor=CCFFCC
+| [[Anna Elendt]]
+| {{GER}}
+| 29 July 2025
+| [[Singapore]]
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011900010203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2025|access-date=29 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 1:05.27
+| [[Kate Douglass]]
+| {{USA}}
+| 29 July 2025
+| Singapore
+| <ref name=W2025WC/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 1:05.32
+| [[Ji Liping]]
+| {{CHN}}
+| 29 August 2009
+| [[Beijing]]
+| <ref>{{cite magazine|title=Liping Ji, Run Jiang Shi Set Asian Records at Chinese National|url=https://www.swimmingworldmagazine.com/news/liping-ji-run-jiang-shi-set-asian-records-at-chinese-nationals/|date=1 September 2009|access-date=5 May 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 1:05.35
+| [[Katy Freeman]]
+| {{USA}}
+| 7 August 2009
+| Federal Way
+| <ref name=W2009US/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 17
+| rowspan="2" | 1:05.37
+| [[Annie Lazor]]
+| {{USA}}
+| 14 June 2021
+| Omaha
+| <ref name=W2020US/>
+|- bgcolor=CCFFCC
+| [[Angharad Evans]]
+| {{GBR2}}
+| 20 April 2025
+| [[London]]
+| <ref>{{cite web|title=2025 British Championships - Women's 100m Breaststroke Final Results|url=https://results.swimming.org/swimming/results/2025/agbchamps/R659.pdf|publisher=swimming.org|date=20 April 2025|access-date=20 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 1:05.44
+| [[Benedetta Pilato]]
+| {{ITA}}
+| 21 June 2024
+| Rome
+| <ref>{{cite web|title=2024 Sette Colli Trophy - Women's 100m Breaststroke Final Results|url=https://results.microplustimingservices.com/FINSettecolli2024/export/NU_2024_06_21-23_Roma/NU/pdf/CLS-ASF-100RA-FIN-ALL.pdf?x=02:27:45|publisher=microplustiming.com|accessdate=21 June 2024|date=21 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 20
+| rowspan="2" | 1:05.47
+| [[Qi Hui]]
+| {{CHN}}
+| 19 October 2009
+| [[Jinan]]
+| <ref>{{cite magazine|title=Chinese National Games: Asian Record Falls to Zhao Jing|url=https://www.swimmingworldmagazine.com/news/chinese-national-games-asian-record-falls-to-zhao-jing/|date=19 October 2009|access-date=5 May 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| [[Lara van Niekerk]]
+| {{RSA}}
+| 2 August 2022
+| [[Birmingham]]
+| <ref>{{cite web|title=2022 Commonwealth Games - Women's 100m Breaststroke Final Results|url=https://b2022-pdf.microplustimingservices.com/SWM/2022-08-02/SWMW100MBR------------FNL-000100--__C73A1_1.0.pdf|work=Omega Timing|date=2 August 2022|accessdate=10 September 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 1:05.48
+| [[Kaitlyn Dobler]]
+| {{USA}}
+| 30 June 2023
+| Indianapolis
+| <ref name=W2023US/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 1:05.51
+| [[Mona McSharry]]
+| {{IRL}}
+| 28 July 2024
+| [[Paris]]
+| <ref>{{Cite web|title=2024 Olympic Games - Women's 100m Breaststroke Semifinals Results|url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMW100MBR------------SFNL--------.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815165610/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A2_SWMW100MBR------------SFNL--------.pdf |archive-date=15 August 2024|access-date=18 December 2024|website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 1:05.53
+| [[Satomi Suzuki]]
+| {{JPN}}
+| 14 September 2025
+| [[Kusatsu, Shiga|Kusatsu]]
+| <ref>{{cite web|title=79th National Sports Festival - Women's 100m Breaststroke Final Results|url=https://swim.seiko.co.jp/2025/S70703/ranking/02R071.pdf|publisher=seiko.co.jp|date=14 September 2025|access-date=15 September 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 1:05.61
+| [[Anita Bottazzo]]
+| {{ITA}}
+| 28 July 2025
+| Singapore
+| <ref>{{Cite web|title=2025 World Aquatics Championships - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/00011900010203EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2025|access-date=28 July 2025}}</ref>
+|}
+
+===Women short course===
+*Correct as of December 2025<ref>{{cite web|title=Women's 100m Breaststroke Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=BREASTSTROKE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=15 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}
+! {{abbr|Perf.#|Performance rank}}
+! Time
+! Athlete
+! Nation
+! Date
+! Place
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| rowspan="3" align=center | 1
+| rowspan="3" align=center | 1
+| rowspan="3" | 1:02.36
+| [[Rūta Meilutytė]]
+| {{LTU}}
+| 12 October 2013
+| [[Moscow]]
+| <ref name=W2013Moscow/>
+|- bgcolor=f6F5CE
+| rowspan="2" | [[Alia Atkinson]]
+| rowspan="2" | {{JAM}}
+| 6 December 2014
+| [[Doha]]
+| <ref name=W2014WC/>
+|- bgcolor=f6F5CE
+| 26 August 2016
+| [[Chartres]]
+| <ref name=W2016Chartres/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 4
+| 1:02.37
+| [[Tang Qianting]]
+| {{CHN}}
+| 11 December 2024
+| [[Budapest]]
+| <ref>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Breaststroke Semifinals Results Summary|url=https://www.omegatiming.com/File/00011800080203EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=11 December 2024|access-date=28 December 2024}}</ref>
+|-
+| rowspan="4" |
+| align=center | 5
+| 1:02.38
+|''Tang #2''
+| rowspan="4" |
+| 12 December 2024
+| Budapest
+| <ref name=W2024WC>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011800080203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 December 2024|access-date=28 December 2024}}</ref>
+|-
+| align=center | 6
+| 1:02.40
+|''Atkinson #3''
+| 21 October 2016
+| [[Singapore]]
+| <ref>{{cite web|title=2016 FINA World Cup (Singapore) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000110000A01021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=21 October 2016|access-date=6 May 2025}}</ref>
+|-
+| align=center | 7
+| 1:02.43
+|''Meilutytė #2''
+| 5 December 2014
+| Doha
+| <ref>{{cite web|title=2014 FINA World Championships (25m) - Women's 100m Breaststroke Semifinals Results Summary|url=https://www.omegatiming.com/File/00010E010D01021E01FFFFFFFFFFFF02.pdf|work=Omega Timing|date=5 December 2014|access-date=6 May 2025}}</ref>
+|-
+| align=center | 8
+| 1:02.46
+|''Meilutytė #3''
+| 6 December 2014
+| Doha
+| <ref name=W2014WC/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 9
+| 1:02.50
+| [[Lilly King]]
+| {{USA}}
+| 22 November 2020
+| Budapest
+| <ref name=W2020ISL>{{cite web|title=2020 International Swimming League (Final) - Women's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000114020F0203EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=22 November 2020|access-date=6 May 2025}}</ref>
+|-
+| rowspan="7" | 
+| align=center | 10
+| 1:02.53
+|''Tang #3''
+| rowspan="7" | 
+| 19 October 2024
+| [[Shanghai]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Shanghai) - Women's 100m Breaststroke Final Results Summary|url=https://www.omegatiming.com/File/00011800050203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 October 2024|access-date=6 May 2025}}</ref>
+|-
+| align=center | 11
+| 1:02.54
+|''Atkinson #4''
+| 1 November 2014
+| Singapore
+| <ref>{{cite web|title=2014 FINA World Cup (Singapore) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010E010C01021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=1 November 2014|access-date=6 May 2025}}</ref>
+|-
+| rowspan="2" align=center | 12
+| rowspan="2" | 1:02.66
+|''Atkinson #5''
+| 15 November 2020
+| Budapest
+| <ref name=W2020ISLsf>{{cite web|title=2020 International Swimming League (Semifinal 1) - Women's 100m Breaststroke Results|url=https://www.omegatiming.com/File/000114020D0203EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=15 November 2020|access-date=6 May 2025}}</ref>
+|-
+|''Tang #4''
+| 25 September 2024
+| [[Wuhan]]
+| 
+|-
+| rowspan="2" align=center | 14
+| rowspan="2" | 1:02.67
+|''Atkinson #6''
+| 11 August 2017
+| [[Eindhoven]]
+| <ref>{{cite web|title=2017 FINA World Cup (Eindhoven) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011101030203EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=11 August 2017|access-date=6 May 2025}}</ref>
+|-
+|''King #2''
+| 15 December 2022
+| [[Melbourne]]
+| <ref name=W2022WC>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011700030203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=15 December 2022|access-date=18 December 2022}}</ref>
+|-
+| align=center | 16
+| 1:02.68
+|''Atkinson #7''
+| 29 October 2016
+| [[Hong Kong]]
+| <ref>{{cite web|title=2016 FINA World Cup (Hong Kong) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000110000C01021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=29 October 2016|access-date=6 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 17
+| 1:02.70
+| [[Rebecca Soni]]
+| {{USA}}
+| 19 December 2009
+| [[Manchester]]
+| <ref name=W2009Duel/>
+|-
+| rowspan="6" |
+| align=center | 18
+| 1:02.74
+|''Atkinson #8''
+| rowspan="6" |
+| 16 November 2018
+| Singapore
+| <ref>{{cite web|title=2018 FINA World Cup (Singapore) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000112010B0203EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=16 November 2018|access-date=6 May 2025}}</ref>
+|-
+| rowspan="2" align=center | 19
+| rowspan="2" | 1:02.77
+|''Meilutytė #4''
+| 4 November 2022
+| [[Indianapolis]]
+| <ref>{{cite web|title=2022 FINA World Cup (Indianapolis) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011700090203EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 November 2022|access-date=16 December 2025}}</ref>
+|-
+|''Tang #5''
+| 26 September 2024
+| Wuhan
+| 
+|-
+| rowspan="2" align=center | 21
+| rowspan="2" | 1:02.80
+|''Atkinson #9''
+| 5 October 2018
+| Budapest
+| <ref>{{cite web|title=2018 FINA World Cup (Budapest) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011201080203EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=5 October 2018|access-date=6 May 2025}}</ref>
+|-
+|''King #3''
+| 12 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|-
+| align=center | 23
+| 1:02.82
+|''Tang #6''
+| 25 October 2024
+| [[Incheon]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Incheon) - Women's 100m Breaststroke Final Results Summary|url=https://www.omegatiming.com/File/00011800060203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 October 2024|access-date=6 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 23
+| 1:02.82
+| [[Eneli Jefimova]]
+| {{EST}}
+| 3 December 2025
+| [[Lublin]]
+| <ref>{{cite web|title=2025 European Championships (25m) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000119000A0203EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 December 2025|accessdate=4 December 2025}}</ref>
+|-
+|
+| align=center | 25
+| 1:02.86
+|''Atkinson #10''
+|
+| 28 October 2014
+| [[Tokyo]]
+| <ref>{{cite web|title=2014 FINA World Cup (Tokyo) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00010E010B01021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=28 October 2014|access-date=6 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 7
+| rowspan="21" |
+| 1:02.90
+| [[Kate Douglass]]
+| {{USA}}
+| 11 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref name=W2025Carmel>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011900060203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=11 October 2025|access-date=13 October 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 8
+| 1:02.91
+| [[Yulia Yefimova]]
+| {{RUS}}
+| 3 September 2016
+| Moscow
+| <ref>{{cite web|title=2016 FINA World Cup (Moscow) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000110000601021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=3 September 2016|access-date=6 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 9
+| 1:02.92
+| [[Katie Meili]]
+| {{USA}}
+| 30 August 2016
+| [[Berlin]]
+| <ref>{{cite web|title=2016 FINA World Cup (Berlin) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000110000501021E02FFFFFFFFFFFF02.pdf|work=Omega Timing|date=30 August 2016|access-date=6 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 1:03.00
+| [[Leisel Jones]]
+| {{AUS}}
+| 14 November 2009
+| Berlin
+| <ref name=W2009Berlin/>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 1:03.30
+| [[Jessica Hardy]]
+| {{USA}}
+| 14 November 2009
+| Berlin
+| <ref name=W2009Berlin/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 1:03.41
+| [[Alina Zmushka]]
+| {{BLR}}
+| 12 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 1:03.45
+| [[Angharad Evans]]
+| {{GBR2}}
+| 11 December 2024
+| Budapest
+| <ref>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011800080203EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=11 December 2024|access-date=28 December 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 1:03.50
+| [[Sophie Hansson]]
+| {{SWE}}
+| 20 December 2021
+| [[Abu Dhabi]]
+| <ref>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011500190203EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=20 December 2021|access-date=20 December 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 1:03.53
+| [[Evgeniia Chikunova]]
+| {{RUS}}
+| 24 November 2022
+| [[Kazan]]
+| <ref name=W2022Russian>{{cite web|title=Women's 100m Breaststroke Final Results|url=https://russwimming.ru/upload/live/4R_SC_2022/ResultList_131F.pdf|work=russwimming.ru|date=24 November 2022|access-date=27 November 2022|archive-date=25 November 2022|archive-url=https://web.archive.org/web/20221125024824/https://russwimming.ru/upload/live/4R_SC_2022/ResultList_131F.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 1:03.55
+| [[Benedetta Pilato]]
+| {{ITA}}
+| 15 November 2020
+| Budapest
+| <ref name=W2020ISLsf/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 1:03.57
+| [[Molly Hannis]]
+| {{USA}}
+| 22 November 2020
+| Budapest
+| <ref name=W2020ISL/>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 1:03.61
+| [[Florine Gaspard]]
+| {{BEL}}
+| 2 December 2025
+| Lublin
+| <ref>{{cite web|title=2025 European Championships (25m) - Women's 100m Breaststroke Semifinals Results|url=https://www.omegatiming.com/File/000119000A0203EC0102FFFFFFFFFF01.pdf|publisher=Omega Timing|date=2 December 2025|accessdate=4 December 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 1:03.69
+| [[Annie Lazor]]
+| {{USA}}
+| 22 November 2020
+| Budapest
+| <ref name=W2020ISL/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 1:03.71
+| [[Nika Godun]]
+| {{RUS}}
+| 24 November 2022
+| Kazan
+| <ref name=W2022Russian/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 1:03.73
+| [[Sarah Katsoulis]]
+| {{AUS}}
+| 21 November 2009
+| Singapore
+| <ref>{{cite web|title=2009 FINA World Cup (Singapore) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/000109040015000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=21 November 2009|access-date=6 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 1:03.74
+| [[Rikke Møller Pedersen]]
+| {{DEN}}
+| 10 August 2013
+| Berlin
+| 
+|- bgcolor=CCFFCC
+| align=center | 23
+| 1:03.80
+| [[Breeja Larson]]
+| {{USA}}
+| 20 October 2019
+| [[Lewisville, Texas|Lewisville]]
+|
+|- bgcolor=CCFFCC
+| align=center | 24
+| 1:03.84
+| [[Mona McSharry]]
+| {{IRL}}
+| 24 October 2025
+| [[Toronto]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Toronto) - Women's 100m Breaststroke Final Results|url=https://www.omegatiming.com/File/00011900080203EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=24 October 2025|access-date=24 October 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 1:03.88
+| [[Anna Elendt]]
+| {{GER}}
+| 11 October 2025
+| Carmel
+| <ref name=W2025Carmel/>
+|}
+
+==References==
+
+{{Reflist}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Breaststroke 100 metres]]
+[[Category:Breaststroke|World record progression 100 metres breaststroke]]

@@ -1,0 +1,215 @@
+{{Use dmy dates|date=January 2025}}
+{{infobox country at games
+| NOC = MEX
+| NOCname = [[Mexican Olympic Committee]]
+| games = Summer Olympics
+| year = 1976
+| flagcaption = 
+| oldcode = 
+| website = 
+| location = [[Montreal]]
+| competitors = 97 (92 men, 5 women)
+| sports = 17
+| flagbearer = [[Teresa Díaz]]
+| rank = 25
+| gold = 1
+| silver = 0
+| bronze = 1
+| officials = 
+| appearances = auto
+| app_begin_year = 1900
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+Mexico competed at the [[1976 Summer Olympics]] in Montreal, Quebec, Canada. 97 competitors, 92 men and 5 women, took part in 54 events in 17 sports.<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/countries/MEX/summer/1976/ |archive-url=https://web.archive.org/web/20200417052336/https://www.sports-reference.com/olympics/countries/MEX/summer/1976/ |url-status=dead |archive-date=17 April 2020 |title=Mexico at the 1976 Montreal Summer Games |access-date=17 April 2015 |work=sports-reference.com}}</ref>
+
+==Medalists==
+
+===Gold===
+* [[Daniel Bautista]] – Athletics, Men's 20&nbsp;km Walk
+
+===Bronze===
+* [[Juan Paredes (boxer)|Juan Paredes]] – Boxing, Men's Featherweight
+
+==Athletics==
+{{main|Athletics at the 1976 Summer Olympics}}
+'''Men's 5.000 metres'''
+* [[Rodolfo Gomez]]
+:* Heat – 13:46.23 (→ did not advance)
+
+'''Men's 10.000 metres'''
+* [[Luis Hernández (athlete)|Luis Hernández]]
+:* Heat – 28:44.17 (→ did not advance)
+
+* [[Rodolfo Gomez]]
+:* Heat – 30:05.19 (→ did not advance)
+
+'''Men's Marathon'''
+* [[Mario Cuevas (athlete)|Mario Cuevas]] – 2:18:08 (→ 18th place)
+* [[Rodolfo Gomez]] – 2:18:21 (→ 19th place)
+
+'''Men's 20&nbsp;km Race Walk'''
+* [[Daniel Bautista]] – 1:24:40 (→ [[Image:Med 1.png|Gold]] '''Gold Medal''')
+* [[Raúl González (racewalker)|Raúl González]] – 1:28:18 (→ 5th place)
+* [[Domingo Colin]] – DSQ (→ no ranking)
+
+==Basketball==
+{{main|Basketball at the 1976 Summer Olympics}}
+
+===Men's team competition===
+*'''Preliminary round (group A)''':
+:* Lost to Soviet Union (77-120)
+:* Defeated Japan (108-90) 
+:* Lost to Australia (117-120) 
+:* Lost to Cuba (75-89) 
+:* Lost to Canada (84-92) 
+*'''Classification Match''':
+:* '''9th/10th place''': Lost to Puerto Rico (84-89) → '''10th place'''
+
+*'''Team roster'''
+:*[[Jesús García (basketball)|Jesús García]]
+:*[[Arturo Guerrero]]
+:*[[Jorge Flores (basketball)|Jorge Flores]]
+:*[[Rafael Palomar]]
+:*[[Antonio Ayala]]
+:*[[Samuel Campis]]
+:*[[Héctor Rodríguez (basketball)|Héctor Rodríguez]]
+:*[[Anastacio Reyes]]
+:*[[Gabriel Nava]]
+:*[[Ruben Alcala]]
+:*[[Manuel Saenz]]
+:*[[Manuel Raga]]
+*'''Head coach''': [[Carlos Bru]]
+
+==Boxing==
+{{main|Boxing at the 1976 Summer Olympics}}
+'''Men's Flyweight (&ndash; 51&nbsp;kg)'''
+* [[Ernesto Rios (boxer)|Ernesto Rios]]
+:* First Round – Lost to [[Alfredo Pérez (boxer)|Alfredo Pérez]] (VEN), 0:5
+
+'''Men's Featherweight'''
+*[[Juan Paredes (boxer)|Juan Paredes]]
+
+'''Men's Middleweight'''
+*[[Nicolás Arredondo (boxer)|Nicolas Arredondo]]
+
+==Canoeing==
+{{main|Canoeing at the 1976 Summer Olympics}}
+
+==Cycling==
+{{main|Cycling at the 1976 Summer Olympics}}
+Six cyclists represented Mexico in 1976.
+
+;[[Cycling at the 1976 Summer Olympics – Men's individual road race|Individual road race]]
+* [[Rubén Camacho]] – 4:54:49.0 (→ 45th place) 
+* [[Luis Rosendo Ramos|Luis Ramos]] – did not finish (→ no ranking) 
+* [[José Castañeda]] – did not finish (→ no ranking) 
+* [[Rodolfo Vitela]] – did not finish (→ no ranking)
+
+;[[Cycling at the 1976 Summer Olympics – Men's team time trial|Team time trial]]
+:* 2:18:48 – 18th Place
+'''Team roster'''
+* [[José Castañeda]]
+* [[Rodolfo Vitela]]
+* [[Ceferino Estrada]]
+* [[Francisco Huerta]]
+
+==Diving==
+{{main|Diving at the 1976 Summer Olympics}}
+
+==Equestrian==
+{{main|Equestrian at the 1976 Summer Olympics}}
+
+==Football==
+{{main|Football at the 1976 Summer Olympics}}
+
+==Gymnastics==
+{{main|Gymnastics at the 1976 Summer Olympics}}
+
+==Judo==
+{{main|Judo at the 1976 Summer Olympics}}
+
+==Rowing==
+{{main|Rowing at the 1976 Summer Olympics}}
+
+==Sailing==
+{{main|Sailing at the 1976 Summer Olympics}}
+
+==Shooting==
+{{main|Shooting at the 1976 Summer Olympics}}
+
+==Swimming==
+{{main|Swimming at the 1976 Summer Olympics}}
+'''Men's 200m Freestyle'''
+*[[Eduardo Perez (swimmer)|Eduardo Pérez]]
+*[[Guillermo Garcia (swimmer)|Guillermo García]]
+
+'''Men's 100m Backstroke'''
+*José Urueta
+*[[Ignacio Álvarez]]
+
+'''Men's 200m Backstroke'''
+*José Urueta
+*[[Ignacio Álvarez]]
+
+'''Men's 100m Breaststroke'''
+*[[Gustavo Lozano]]
+
+'''Men's 200m Breaststroke'''
+*[[Gustavo Lozano]]
+
+'''Men's 100m Butterfly'''
+*[[José Luis Prado]]
+
+'''Men's 200m Butterfly'''
+*[[Ricardo Marmolejo]]
+
+'''Men's 400m Individual Medley'''
+*[[Ricardo Marmolejo]]
+*[[Guillermo Zavala]]
+
+'''Men's 4 × 200 m Freestyle Relay'''
+
+'''Men's 4 × 100 m Medley Relay'''
+
+'''Women's 100m Breaststroke'''
+*[[Beatriz Camuñas]]
+
+'''Women's 200m Breaststroke'''
+*[[Beatriz Camuñas]]
+
+==Water polo==
+{{main|Water polo at the 1976 Summer Olympics}}
+
+===Men's team competition===
+*'''Team roster'''
+:*[[Alfred Schmidt (water polo)|Alfred Schmidt]]
+:*[[Arturo Valencia]]
+:*[[Daniel Gómez (water polo)|Daniel Gómez]]
+:*[[Francisco García (water polo)|Francisco García]]
+:*[[Javier Guerra (water polo)|Javier Guerra]]
+:*[[Jorge Coste (water polo)|Jorge Coste]]
+:*[[Juan García (water polo)|Juan García]]
+:*[[Juan Yanez]]
+:*[[Maximiliano Aguilar]]
+:*[[Victorino Beristain]]
+:*[[Armando Fernández (water polo)|Armando Fernández]]
+
+==Weightlifting==
+{{main|Weightlifting at the 1976 Summer Olympics}}
+
+==Wrestling==
+{{main|Wrestling at the 1976 Summer Olympics}}
+
+==References==
+{{reflist}}
+
+{{Nations at the 1976 Summer Olympics}}
+{{country at games navbox|Mexico|Olympics}}
+
+[[Category:Nations at the 1976 Summer Olympics]]
+[[Category:Mexico at the Summer Olympics by year|1976 Summer Olympics]]
+[[Category:1976 in Mexican sports|Olympics]]

@@ -1,0 +1,1588 @@
+{{Short description|None}}
+The '''Sammarinese records in swimming''' are the fastest ever performances of swimmers from [[San Marino]], which are recognised and ratified by the [[Federazione Sammarinese Nuoto|San Marino Swimming Federation]] (FSN).
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 24.26
+|recordinfo = 
+|firstname = Pietro
+|lastname = Camilloni
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 31 May 2011
+|meet = [[2011 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Vaduz
+|country = LIE
+|ref = <ref>[http://www.liegames2011.li/Portals/20/contortionistUniverses/2605/rsc/Event_ergebnissePdf/ResultList_20F.pdf 50m Freestyle Men Results] {{webarchive|url=https://web.archive.org/web/20120330112725/http://www.liegames2011.li/Portals/20/contortionistUniverses/2605/rsc/Event_ergebnissePdf/ResultList_20F.pdf |date=2012-03-30 }}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 52.83
+|recordinfo = 
+|firstname = Diego
+|lastname = Mularoni
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 29 May 2001
+|meet = [[2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:52.15
+|recordinfo = h, #
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 20 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 200 metre freestyle|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011800040101EE0101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=20 June 2024|access-date=20 June 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:55.89
+|recordinfo = h
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 23 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 400 metre freestyle|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 400m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011800040101EF0101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=23 June 2024|access-date=23 June 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:12.19
+|recordinfo = h
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 18 June 2024
+|meet = [[Swimming at the 2024 European Aquatics Championships – Men's 800 metre freestyle|European Championships]]
+|city = Belgrade
+|country = SRB
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011800040101F10101FFFFFFFFFF01.pdf|publisher=omegatiming.com|date=18 June 2024|access-date=18 June 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:53.45
+|recordinfo = 
+|firstname = Diego
+|lastname = Mularoni
+|namearticle = 
+|club = -
+|date = 6 April 2003
+|meet = -
+|city = Ravenna
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 5000m freestyle
+|time = 57:22.8
+|recordinfo = 
+|firstname = Emanuele
+|lastname = Nicolini
+|namearticle = 
+|club = -
+|date = 26 March 2005
+|meet = -
+|city = Pescara
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 28.19
+|recordinfo = h
+|firstname = Davide
+|lastname = Bernardi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 19 August 2014
+|meet = [[Swimming at the 2014 Summer Youth Olympics|Youth Olympic Games]]
+|city = Nanjing
+|country = CHN
+|ref = <ref>{{cite web|title=Men's 50m Backstroke Heat 1 Results|url=http://result.nanjing2014.org/IRS/ENG/SW/SWR173A_YO2014SWM040901ENG.htm|publisher=result.nanjing2014.org|date=19 August 2014|access-date=18 March 2015|url-status=dead|archive-url=https://archive.today/20150318152324/http://result.nanjing2014.org/IRS/ENG/SW/SWR173A_YO2014SWM040901ENG.htm|archive-date=18 March 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:00.89
+|recordinfo = 
+|firstname = Davide
+|lastname = Bernardi
+|namearticle = 
+|club = -
+|date = 13 July 2016
+|meet = Finali Regionali Riccione
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:08.86
+|recordinfo = 
+|firstname = Marco
+|lastname = Cesarini
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 29 May 2001
+|meet = [[2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 28.90
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 30 July 2022
+|meet = Italian Summer Championships
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Men, 50m Breaststroke, Final, 17 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=632926&gender=1&styleId=12|publisher=swimrankings.net|date=30 July 2022|access-date=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:01.93
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 28 May 2025
+|meet = [[2025 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Andorra la Vella
+|country = AND
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Final Results|url=https://live.swimrankings.net/47155/ResultList_24F.pdf|publisher=swimrankings.net|date=28 May 2025|access-date=29 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:15.54
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 31 May 2023
+|meet = [[2023 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Msida
+|country = MLT
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Results|url=https://live.swimrankings.net/38302/ResultList_408F.pdf|publisher=swimrankings.net|date=31 May 2023|access-date=4 June 2023|archive-date=4 June 2023|archive-url=https://web.archive.org/web/20230604132350/https://live.swimrankings.net/38302/ResultList_408F.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.65
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 29 April 2022
+|meet = Meeting Squalo Blu
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=Men, 50m Butterfly, Timed Final, 19 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=631250&gender=1&styleId=15|publisher=swimrankings.net|date=29 April 2022|access-date=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 56.42
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 1 May 2022
+|meet = Meeting Squalo Blu
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=Men, 100m Butterfly, Final, 17 - 18 years|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=631250&gender=1&styleId=16|publisher=swimrankings.net|date=1 May 2022|access-date=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:04.07
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 31 July 2022
+|meet = Italian Age Group Championships
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Final Results|url=https://fin2022.microplustiming.com/export/NU_2022_07_28-08_04_Roma/NU/pdf/CLS-JUM-200FA-FIN-ALL.pdf|work=Microplus Informatica|date=31 July 2022|access-date=7 June 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:10.81
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 30 May 2023
+|meet = [[2023 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Msida
+|country = MLT
+|ref = <ref>{{cite web|title=Men's 200m IM Final Results|url=https://live.swimrankings.net/38302/ResultList_208F.pdf|publisher=swimrankings.net|date=30 May 2023|access-date=4 June 2023|archive-date=4 June 2023|archive-url=https://web.archive.org/web/20230604133015/https://live.swimrankings.net/38302/ResultList_208F.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:39.12
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 2 June 2023
+|meet = [[2023 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Msida
+|country = MLT
+|ref = <ref>{{cite web|title=Men's 400m IM Timed Final 1 Results|url=https://results.european-games.org/GSSE2023/eng/sw/engsw_swimming-results-men-s-400-m-medley-9-01.htm|publisher=results.european-games.org|date=2 June 2023|access-date=7 June 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:38.07
+|recordinfo = 
+|1name = [[Davide Bernardi]]
+|1split = 53.27
+|2name = [[Raffaele Tamagnini]]
+|2split = 55.66
+|3name = [[Cristian Santi]]
+|3split = 54.11
+|4name = [[Gianluca Pasolini]]
+|4split = 55.03
+|club = {{flagu|San Marino}}
+|date = 2 June 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=4x100m FREESTYLE Men|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM411101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=2 June 2017|access-date=3 June 2017|archive-url=https://web.archive.org/web/20170728123420/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM411101_C73_1.0.pdf|archive-date=28 July 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 7:52.72
+|recordinfo = 
+|1name = [[Emanuele Nicolini]]
+|1split = 
+|2name = [[Matteo Cesarini]]
+|2split =  
+|3name = [[Marco Cesarini]]
+|3split = 
+|4name = [[Diego Mularoni]]
+|4split = 
+|club = {{flagu|San Marino}}
+|date = 30 May 2001
+|meet = [[2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4:02.78
+|recordinfo = 
+|1name = [[Marco Cesarini]]
+|1split = 
+|2name = [[Danilo Zavoli]]
+|2split =  
+|3name = [[Emanuele Nicolini]]
+|3split = 
+|4name = [[Diego Mularoni]]
+|4split = 
+|club = {{flagu|San Marino}}
+|date = 31 May 2001
+|meet = [[2001 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = 
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 26.58
+|recordinfo = 
+|firstname = Clelia
+|lastname = Tini
+|namearticle = 
+|club = -
+|date = 2 June 2012
+|meet = S.S.E. Swimming Championships
+|city = Andorra la Vella
+|country = AND
+|ref = <ref name="femalerecords">{{cite web|title=San Marino Female Records|url=http://www.fsn.sm/pdf/record-femminili-FEDERALI-8-Giugno-2017.pdf|publisher=FSN|date=8 June 2017|access-date=2 August 2017|archive-date=31 July 2017|archive-url=https://web.archive.org/web/20170731192530/http://www.fsn.sm/pdf/record-femminili-FEDERALI-8-Giugno-2017.pdf|url-status=dead}}</ref><ref name="andorrachamp">{{cite web|title=III Swimming Championships Small States of Europe Results|url=http://www.fsn.sm/pdf/giochi-dei-piccoli-stati-europa-andorra-2012.pdf|publisher=FSN|date=3 June 2012|access-date=25 August 2013|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305055905/http://www.fsn.sm/pdf/giochi-dei-piccoli-stati-europa-andorra-2012.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 58.12
+|recordinfo = h
+|firstname = Clelia
+|lastname = Tini
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 22 May 2012
+|meet = [[Swimming at the 2012 European Aquatics Championships – Women's 100 metre freestyle|European Championships]]
+|city = Debrecen
+|country = HUN
+|ref = <ref>[http://omegatiming.com/swimming/racearchives/2012/Debrecen/C74A_Results%20%28Summary%20-%20Individual%29_13_Women_100_Free.pdf 2012 European Aquatics Championships: Women's 100 metre freestyle Heats results] {{Webarchive|url=https://web.archive.org/web/20120526093640/http://www.omegatiming.com/swimming/racearchives/2012/Debrecen/C74A_Results%20(Summary%20-%20Individual)_13_Women_100_Free.pdf |date=2012-05-26 }}, from OmegaTiming.com; retrieved 2012-05-22.</ref><ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 2:04.12
+|recordinfo = 
+|firstname = Sara
+|lastname = Lettoli
+|namearticle = 
+|club = Gens Acquatica
+|date = 15 July 2017
+|meet = Finali Campionati Regionali di Categoria Estivi
+|city = Bologna
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 200m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=603534&gender=2&styleId=3|publisher=swimrankings.net|date=15 July 2017|access-date=14 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:21.38
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 31 May 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=FINAL 400m FREESTYLE Women|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW014101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=31 May 2017|access-date=31 May 2017|archive-url=https://web.archive.org/web/20170731200205/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW014101_C73_1.0.pdf|archive-date=31 July 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:48.79
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = Pol Comunale Riccione
+|date = 7 August 2021
+|meet = Italian Summer Championships
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=SENIOR FEMALE - 800M FREESTYLE OFFICIAL RESULTS|url=https://fin2021.microplustiming.com/export/NU_2021_08_04-11_Roma/NU/pdf/CLS-SEF-800SL-TIM-RIEP.pdf?x=19:52:56|publisher=microplustiming.com|date=7 August 2021|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:45.40
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 11 August 2020
+|meet = Sette Colli Trophy
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Results|url=http://fin2020.microplustiming.com/export/NU_2020_08_11-13_Roma/NU/pdf/CLS-ASF-1500SL-TIM-RIEP.pdf?x=00:48:50|publisher=microplustiming.com|date=11 August 2020|access-date=12 August 2020}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 5000m freestyle
+|time = 59:56.30
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = Nuoto Venezia
+|date = 25 February 2018
+|meet = Campionati Regionali di Fondo Veneto
+|city = -
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 31.26
+|recordinfo = b
+|firstname = Carlotta 
+|lastname = Bulzoni
+|namearticle = 
+|date = 31 January 2016
+|meet = 3° Gran Prix d'inverno
+|club = {{flagu|San Marino}}
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=3° Gran Prix d'inverno Results|url=http://www.fsn.sm/pdf/28-1-16/3-grand-prix-inverno-Risultati.pdf|publisher=fsn.sm|date=31 January 2016|access-date=1 June 2017|archive-url=https://web.archive.org/web/20171201042009/http://www.fsn.sm/pdf/28-1-16/3-grand-prix-inverno-Risultati.pdf|archive-date=1 December 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:07.82
+|recordinfo = 
+|firstname = Carlotta
+|lastname = Bulzoni
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 31 May 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=FINAL 100m BACKSTROKE Women|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW041101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=31 May 2017|access-date=31 May 2017|archive-url=https://web.archive.org/web/20171021122449/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW041101_C73_1.0.pdf|archive-date=21 October 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:28.46
+|recordinfo = 
+|firstname = Elisa
+|lastname = Bernardi
+|namearticle = 
+|club = -
+|date = 3 July 2013
+|meet = -
+|city = Riccione
+|cityarticle =
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 36.03
+|recordinfo = 
+|firstname = Martina
+|lastname = Savaglia
+|namearticle = 
+|club = -
+|date = 25 April 2008
+|meet = Coppa Latina
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:16.31
+|recordinfo = 
+|firstname = Martina
+|lastname = Savaglia
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 2 June 2005
+|meet = [[2005 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city =  Andorra la Vella
+|country = AND
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:45.12
+|recordinfo = 
+|firstname = Martina
+|lastname = Savaglia
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 4 July 2005
+|meet = [[European Youth Olympic Festival]]
+|city = Lignano Sabbiadoro
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 28.23
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = Gens Acquatica
+|date = 28 April 2018
+|meet = Meeting Squalo Blu
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=Women, 50m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=608989&gender=2&styleId=15|publisher=swimrankings.net|date=28 April 2018|access-date=15 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 1:02.87
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = Gens Acquatica
+|date = 2 August 2017
+|meet = Italian Summer Championships
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=100 m Farfalla - Donne Finale Cadette|url=http://fin2017.microplustiming.com/export/NU_0107_Ago_Roma/NU/pdf/CLS-ASF-100FA-FIN-ALL.pdf?x=20:30:30|publisher=fin2017.microplustiming.com|date=2 August 2017|access-date=15 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:17.51
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = -
+|date = 20 May 2010
+|meet = Coppa Latina
+|city = Mar del Plata
+|country = ARG
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:25.57
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = -
+|date = 25 April 2009
+|meet = -
+|city = Ravenna
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 5:09.45
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 5 June 2009
+|meet = [[Swimming at the 2009 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Limassol
+|country = CYP
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:55.72
+|recordinfo = 
+|1name = [[Sara Lettoli]]
+|1split = 58.14
+|2name = [[Carlotta Bulzoni]]
+|2split = 59.80
+|3name = [[Elisa Bernardi]]
+|3split = 58.90
+|4name = [[Beatrice Felici]]
+|4split = 58.88
+|club = {{flagu|San Marino}}
+|date = 2 June 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=4x100m FREESTYLE Women|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW411101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=2 June 2017|access-date=3 June 2017|archive-url=https://web.archive.org/web/20170731195724/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW411101_C73_1.0.pdf|archive-date=31 July 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 8:28.40
+|recordinfo = h
+|1name = [[Sara Lettoli]]
+|1split = 2:06.26
+|2name = [[Elena Giovannini]]
+|2split = 2:06.93
+|3name = [[Arianna Valloni]]
+|3split = 2:07.12
+|4name = [[Elisa Bernardi]]
+|4split = 2:08.09
+|club = {{flagu|San Marino}}
+|date = 31 May 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=HEATS 4x200m FREESTYLE Women|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW412101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=31 May 2017|access-date=1 June 2017|archive-url=https://web.archive.org/web/20170731200649/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWW412101_C73_1.0.pdf|archive-date=31 July 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4.30.91
+|recordinfo = 
+|1name = [[Carlotta Bulzoni]]
+|1split = 1:08.03
+|2name = [[Linda Canti]]
+|2split = 1:19.38
+|3name = [[Beatrice Felici]]
+|3split = 1:04.37
+|4name = [[Sara Lettoli]]
+|4split = 59.13
+|club = {{flagu|San Marino}}
+|date = 25 February 2017
+|meet = Meeting del Titano
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=Women, 4 x 100m Medley, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=600639&gender=2&styleId=40|publisher=swimrankings.net|date=25 February 2017|access-date=2 August 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 01
+|event = 4×100 m freestyle relay
+|time = 3:47.48
+|recordinfo = h
+|1name = [[Davide Bernardi]]
+|1split = 53.39
+|2name = [[Christian Santi]]
+|2split = 54.95
+|3name = [[Elisa Bernardi]]
+|3split = 59.81
+|4name = [[Martina Cecciaroni]]
+|4split = 59.33
+|club = {{flagu|San Marino}}
+|date = 20 May 2016
+|meet = [[Swimming at the 2016 European Aquatics Championships – Mixed 4 x 100 metre freestyle relay|European Championships]]
+|city = London
+|country = GBR
+|ref = <ref>{{cite web|title=Mixed 4×100m Freestyle Relay Heats Results|url=http://london2016.microplustiming.com/Elite/export/Elite_NU_London2016/NU/pdf/CLS-ASX-4X100SL-PRE-RIEP.pdf|publisher=microplustiming.com|date=20 May 2016|access-date=21 May 2016}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 02
+|event = 4×200 m freestyle relay
+|time = 8:21.31
+|recordinfo = h
+|1name = [[Cristian Santi]]
+|1split = 1:58.98
+|2name = [[Gianluca Pasolini]]
+|2split = 2:01.25
+|3name = [[Elisa Bernardi]]
+|3split = 2:10.29
+|4name = [[Arianna Valloni]]
+|4split = 2:10.79
+|club = {{flagu|San Marino}}
+|date = 4 August 2018
+|meet = [[Swimming at the 2018 European Aquatics Championships – Mixed 4 × 200 metre freestyle relay|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Mixed 4×200m Freestyle Relay Heats Results|url=http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMX4X200MFR----------HEAT--------_74B%201.0.pdf|publisher=microplustiming.com|date=4 August 2018|access-date=23 September 2018}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 03
+|event = 4×100 m medley relay
+|time = 4:02.86
+|recordinfo = '#'
+|1name = [[Matteo Oppioli]]
+|1split = 58.57
+|2name = [[Elisa Celli]]
+|2split = 1:10.36
+|3name = [[Alessandro Rebosio]]
+|3split = 55.77
+|4name = [[Ilaria Ceccaroni]]
+|4split = 58.16
+|club = {{flagu|San Marino}}
+|date = 30 May 2025
+|meet = [[2025 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Andorra la Vella
+|country = AND
+|ref = <ref>{{cite web|title=Mixed 4x100m Medley Relay Results|url=https://live.swimrankings.net/47155/ResultList_41.pdf|publisher=swimrankings.net|date=30 May 2025|access-date=30 May 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|r=no|b=no|sf=no|tt=no|†=no|WR=yes|ER=yes}}
+
+==Short Course (25 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 23.60
+|recordinfo = 
+|firstname = Stefano
+|lastname = Berti
+|namearticle = 
+|club = -
+|date = 23 December 2018
+|meet = Coppa Caduti di Brema
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 51.50
+|recordinfo = 
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = -
+|date = 24 March 2024
+|meet = Regional Championships
+|city = Carpi
+|cityarticle = Carpi, Emilia-Romagna
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:48.91
+|recordinfo = h
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 8 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROM
+|ref = <ref>{{cite web|title=Men's 200m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011600090101EE0101FFFFFFFFFF01.pdf|work=Omega Timing|date=8 December 2023|access-date=8 December 2023}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:48.52
+|recordinfo = h
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 5 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROM
+|ref =<ref> {{cite web|title=Men's 400m Heats Results|url=https://www.omegatiming.com/File/00011600090101EF0101FFFFFFFFFF01.pdf|work=Omega Timing|date=5 December 2023|access-date=5 December 2023}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:54.35
+|recordinfo = h
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 9 December 2023
+|meet = [[2023 European Short Course Swimming Championships|European Championships]]
+|city = Otopeni
+|country = ROU
+|ref = <ref>{{cite web|title=Men's 800m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011600090101F10101FFFFFFFFFF01.pdf|work=Omega Timing|date=9 December 2023|access-date=9 December 2023}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:24.62
+|recordinfo = 
+|firstname = Loris
+|lastname = Bianchi
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 22 October 2023
+|meet = Trofeo Nuoto
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 26.98
+|recordinfo = 
+|firstname = Davide
+|lastname = Bernardi
+|namearticle = 
+|club = -
+|date = 23 March 2015
+|meet = -
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 58.41
+|recordinfo = 
+|firstname = Davide
+|lastname = Bernardi
+|namearticle = 
+|club = -
+|date = 2 November 2014
+|meet = Trofeo Nico Sapio
+|city = Genoa
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:07.95
+|recordinfo = 
+|firstname = Alberto
+|lastname = Tasini 
+|namearticle = 
+|club = -
+|date = 28 February 2010
+|meet = -
+|city = Forlì
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 28.55
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = Gens Acquatica San Marino
+|date = 8 November 2025
+|meet = Trofeo Nico Sapio Genova
+|city = Genoa
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 28.27
+|recordinfo = h, †, #
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 2 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/000119000A0103EC0101FFFFFFFFFF01.pdf|work=omegatiming.com|date=2 December 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 59.65
+|recordinfo = h
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 2 December 2025
+|meet = [[2025 European Short Course Swimming Championships|European Championships]]
+|city = Lublin
+|country = POL
+|ref = <ref>{{cite web|title=Men's 100m Breaststroke Heats Results|url=https://www.omegatiming.com/File/000119000A0103EC0101FFFFFFFFFF01.pdf|work=omegatiming.com|date=2 December 2025|access-date=2 December 2025}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:11.91
+|recordinfo = h
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 13 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 200 metre breaststroke|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Heats Results|url=https://www.omegatiming.com/File/00011800080203EE0101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2024|accessdate=13 December 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.64
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 21 December 2021
+|meet = Qualifiche regionali
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Men, 50m Butterfly, Timed Final, 17 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=628934&gender=1&styleId=15|publisher=swimrankings.net|date=21 December 2021|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 55.37
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 29 March 2022
+|meet = Italian Junior Championships
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Men, 100m Butterfly, Timed Final, 17 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=630302&gender=1&styleId=16|publisher=swimrankings.net|date=29 March 2022|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:02.70
+|recordinfo = 
+|firstname = Alessandro
+|lastname = Rebosio
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 28 March 2022
+|meet = Italian Junior Championships
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Men, 200m Butterfly, Timed Final, 17 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=630302&gender=1&styleId=17|publisher=swimrankings.net|date=28 March 2022|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 1:00.27
+|recordinfo = 
+|firstname = Alberto
+|lastname = Guidi
+|namearticle = 
+|club = Gens Acquatica
+|date = 9 February 2020
+|meet = Qual. Regionali Forlì
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Men, 100m Medley, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=622192&gender=1&styleId=20|publisher=swimrankings.net|date=9 February 2020|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:08.39
+|recordinfo = 
+|firstname = Giacomo
+|lastname = Casadei
+|namearticle = 
+|club = Gens Aquatica San Marino
+|date = 22 December 2022
+|meet = Coppa Brema
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:37.6
+|recordinfo = 
+|firstname = Diego
+|lastname = Mularoni
+|namearticle = 
+|club = -
+|date = 14 April 2002
+|meet = -
+|city = Bologna
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 3:36.08
+|recordinfo = 
+|1name = [[Raffaele Tamagnini]]
+|1split = 
+|2name = [[Loris Bianchi]]
+|2split =  
+|3name = [[Andrea Gatti]]
+|3split = 
+|4name = [[Giacomo Casadei]]
+|4split = 
+|club = Gens Acquatica
+|date = 23 Fedruary 2019
+|meet = Regional Championships
+|city = Forlì
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 3:56.30
+|recordinfo = 
+|1name = [[Matteo Prosperi]]
+|1split = 
+|2name = [[Giacomo Casadei]]
+|2split =  
+|3name = [[Alessandro Rebosio]]
+|3split = 
+|4name = [[Loris Bianchi]]
+|4split = 
+|club = Gens Aquatica San Marino
+|date = 22 December 2022
+|meet = Coppa Brema
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50 m freestyle
+|time = 26.14
+|recordinfo = 
+|firstname = Clelia
+|lastname = Tini
+|namearticle = 
+|club = -
+|date = 22 December 2010
+|meet = Italian Championships
+|city = Riccione
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 57.09
+|recordinfo = 
+|firstname = Ilaria
+|lastname = Ceccaroni
+|namearticle = 
+|club = -
+|date = 16 March 2025
+|meet = Finali regionali CRCVC
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 2:02.44
+|recordinfo = h
+|firstname = Sara
+|lastname = Lettoli
+|namearticle = 
+|club = {{flagu|San Marino}}
+|date = 16 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Women's 200m Freestyle Heats Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-200FR-PRE-ALL.pdf|work=microplustiming.com|date=16 December 2017|access-date=16 December 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:14.53
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = Pol Comunale Riccione
+|date = 20 December 2020
+|meet = Coppa Caduti di Brema
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 400m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=623853&gender=2&styleId=5|publisher=swimrankings.net|date=20 December 2020|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:40.45
+|recordinfo =
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = Pol Comunale Riccione
+|date = 20 December 2020
+|meet = Coppa Caduti di Brema
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 800m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=623853&gender=2&styleId=6|publisher=swimrankings.net|date=20 December 2020|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:27.62
+|recordinfo = 
+|firstname = Arianna
+|lastname = Valloni
+|namearticle = 
+|club = Pol Comunale Riccione
+|date = 13 February 2021
+|meet = Italian Regional Meet
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 1500m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=624198&gender=2&styleId=8|publisher=swimrankings.net|date=13 February 2021|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 29.98
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = -
+|date = 21 January 2017
+|meet = -
+|city = Forlì
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:04.72
+|recordinfo = 
+|firstname = Carlotta
+|lastname = Bulzoni
+|namearticle = 
+|club = -
+|date = 24 January 2016
+|meet = -
+|city = Riccione
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:25.69
+|recordinfo = 
+|firstname = Carlotta
+|lastname = Modula
+|namearticle = 
+|club = -
+|date = 22 December 2024
+|meet = Coppa Brema
+|city = Riccione
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 35.22
+|recordinfo = 
+|firstname = Linda
+|lastname = Canti
+|namearticle = 
+|club = -
+|date = 20 March 2016
+|meet = Trofeo Città di Milano
+|city = Milan
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:15.56
+|recordinfo = 
+|firstname = Linda
+|lastname = Canti
+|namearticle = 
+|club = -
+|date = 28 February 2016
+|meet = -
+|city = Forlì
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:41.75
+|recordinfo = 
+|firstname = Linda
+|lastname = Canti
+|namearticle = 
+|club = -
+|date = 20 December 2015
+|meet = Coppa Caduti di Brema
+|city = Riccione
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 28.24
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = Gens Acquatica
+|date = 15 December 2018
+|meet = Qual. Regionali Forlì
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 50m Butterfly, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=618583&gender=2&styleId=15|publisher=swimrankings.net|date=15 December 2018|accessdate=10 November 2022}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 1:02.41
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = Gens Acquatica
+|date = 4 March 2018
+|meet = Campionati Regionali Vasca Corta
+|city = Forlì
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 100m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=609048&gender=2&styleId=16|publisher=swimrankings.net|date=4 March 2018|access-date=15 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:17.51
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = -
+|date = 20 May 2010
+|meet = Coppa Latina
+|city = Mar Del Plata
+|country = ARG
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 1:09.93
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = -
+|date = 7 November 2009
+|meet = -
+|city = Bolzano
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:23.75
+|recordinfo = 
+|firstname = Beatrice
+|lastname = Felici
+|namearticle = 
+|club = Gens Acquatica
+|date = 28 January 2018
+|meet = Campionato Regionale vasca corta conc.C Seconda prova
+|city = Riccione
+|country = ITA
+|ref = <ref>{{cite web|title=Women, 200m Medley, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=607178&gender=2&styleId=18|publisher=swimrankings.net|date=28 January 2018|access-date=15 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 5:02.70
+|recordinfo = 
+|firstname = Simona
+|lastname = Muccioli
+|namearticle = 
+|club = -
+|date = 14 March 2009
+|meet = -
+|city = Forlì
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:51.02
+|recordinfo = h
+|1name = [[Beatrice Felici]]
+|1split = 27.12
+|2name = [[Elena Giovannini]]
+|2split = 27.51
+|3name = [[Elisa Bernardi]]
+|3split = 28.10
+|4name = [[Chiara Gualtieri]]
+|4split = 28.29
+|club = {{flagu|San Marino}}
+|date = 7 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 4 × 50 metre freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Women's 4×50m Freestyle Relay Heats Results|url=http://omegatiming.com/File/Download?id=00010E010D01003200FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=4 January 2015|archive-url=https://web.archive.org/web/20150924140807/http://www.omegatiming.com/File/Download?id=00010E010D01003200FFFFFFFFFFFF02|archive-date=24 September 2015|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 9:18.60
+|recordinfo = 
+|1name = [[Michela Broccoli]]
+|1split = 
+|2name = [[Linda Leardini]]
+|2split =  
+|3name = [[Monica Toccaceli]]
+|3split = 
+|4name = [[Simona Muccioli]]
+|4split = 
+|nation = SMR
+|date = 10 April 1999
+|meet = -
+|city = Bologna
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 4:23.58
+|recordinfo = 
+|1name = [[Carlotta Bulzoni]]
+|1split = 1:05.54
+|2name = [[Linda Canti]]
+|2split = 1:15.77
+|3name = [[Beatrice Felici]]
+|3split = 1:04.65
+|4name = [[Sara Lettoli]]
+|4split = 57.62
+|club = Gens Acquatica
+|date = 18 December 2016
+|meet = Coppa Caduti di Brema
+|city = Riccione
+|country = ITA
+|ref = <ref name="femalerecords" />
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|WR=yes|ER=yes}}
+
+===Mixed relay===
+{{swimmingrecordlisttop|club=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 01
+|event = 4×50m freestyle relay
+|time = 1:44.65
+|recordinfo = h
+|1name = [[Gianluca Pasolini]]
+|1split = 25.08
+|2name = [[Cristian Santi]]
+|2split = 24.43
+|3name = [[Beatrice Felici]]
+|3split = 28.11
+|4name = [[Elena Giovannini]]
+|4split = 27.03
+|club = {{flagu|San Marino}}
+|date = 6 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – 4 × 50 metre mixed freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title= Mixed 4x50m Freestyle Relay Heats Results|url=http://www.omegatiming.com/File/Download?id=00010E010D02003F00FFFFFFFFFFFF02|publisher=Omega Timing|date=6 December 2014|access-date=3 January 2015}}</ref>
+}}
+{{swimmingrecordrelay
+|eventsort = 02
+|event = 4×50m medley relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split = 
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|club = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=Federazione Sammarinese Nuoto{{!}}FSN|r=no|b=no|sf=no|tt=no|†=no|WR=yes|ER=yes}}
+
+==References==
+;General
+*[https://www.fsn.sm/wp-content/uploads/2025/06/record-Assoluti-50m-maschili-2025_05_31.pdf Sammarinese Long Course Records – Men] <small>''31 May 2025 updated''</small>
+*[http://www.fsn.sm/wp-content/uploads/2021/08/record-Assoluti-50m-femminili-2021_08_08.pdf Sammarinese Long Course Records – Women] <small>''8 August 2021 updated''</small>
+*[https://www.fsn.sm/wp-content/uploads/2025/03/record-Assoluti-25m-maschili-2025_03_09.pdf Sammarinese Short Course Records – Men] <small>''2 December 2025 updated''</small>
+*[https://www.fsn.sm/wp-content/uploads/2025/03/record-Assoluti-25m-femminili-2025_03_16.pdf Sammarinese Short Course Records – Women] <small>''16 March 2025 updated''</small>
+;Specific
+{{Reflist|2}}
+
+==External links==
+*[http://www.fsn.sm/ FSN web site]
+*[http://www.fsn.sm/federazione/record/ FSN records page]
+
+{{International swimming}}
+{{Records in swimming}}
+
+[[Category:National records in swimming|San Marino]]
+[[Category:Swimming in San Marino|Records]]
+[[Category:San Marino sport-related lists|Swimming]]

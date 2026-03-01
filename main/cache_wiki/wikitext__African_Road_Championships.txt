@@ -1,0 +1,647 @@
+{{short description|Series of cycling races held annually in Africa}}
+The '''African Continental Cycling Championships''' are a series of cycling races held annually in [[Africa]] where the African cyclists decide who will be the champion for the year to come. They have been held since 2001.
+
+== Editions ==
+{{columns-start}}
+{| class="wikitable"
+! Editions
+! Year
+! Host country 
+! Host city
+|-
+| align="center" |  || 2001 || {{RSA}} || 
+|-
+| align="center" | I || 2005 || {{EGY}} || 
+|-
+| align="center" | II || 2006 || {{MRI}} || [[Port Louis]]
+|-
+| align="center" | III || 2007 || {{CMR}} || [[Yaoundé]]
+|-
+| align="center" | IV || 2008 || {{MAR}} || [[Casablanca]]
+|-
+| align="center" | V || 2009 || {{NAM}} || [[Windhoek]]
+|-
+| align="center" | VI || 2010 || {{RWA}} || [[Kigali]]
+|-
+| align="center" | VII || 2011 || {{ERI}} || [[Asmara]]
+|-
+| align="center" | VIII || 2012 || {{BUR}} || [[Ouagadougou]]
+|}
+{{column}}
+{| class="wikitable"
+! Editions
+! Year
+! Host country 
+! Host city
+|-
+| align="center" | IX || 2013 || {{EGY}} || [[Sharm El Sheikh]]
+|-
+| align="center" | X || 2015 || {{RSA}} || [[Wartburg]]
+|-
+| align="center" | XI || 2016 || {{MAR}} || [[Benslimane]]
+|-
+| align="center" | XII || 2017 || {{EGY}} || [[Luxor]]
+|-
+| align="center" | XIII || 2018 || {{RWA}} || [[Kigali]]
+|-
+| align="center" | XIV || 2019 || {{ETH}} || [[Bahir Dar]]
+|-
+| align="center" | XV || 2021 || {{EGY}} || [[Cairo]]
+|-
+| align="center" | XVI || 2022 || {{EGY}} || [[Sharm El Sheikh]]
+|-
+| align="center" | XVII || 2023 || {{GHA}} || [[Accra]]
+|-
+| align="center" | XVIII || 2024 || {{KEN}} || [[Eldoret]]
+|}
+{{columns-end}}
+
+== Men ==
+=== Road Race ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2001 || {{flagicon|RSA}} [[Jacques Fullard]] || {{flagicon|RSA}} [[Douglas Ryder]] || {{flagicon|RSA}} [[Ross Grant]]
+|-
+| 2005 || {{flagicon|RSA}} [[Rupert Rheeder]] || {{flagicon|MRI}} [[Thomas Desvaux]] || {{flagicon|EGY}} [[Mohamed Abdel Aziz (cyclist)|Mohamed Abdel Aziz]]
+|-bgcolor="#EFEFEF"
+| 2006 || {{flagicon|RSA}} [[Darren Lill]] || {{flagicon|RSA}} [[Daniel Spence]] || {{flagicon|RSA}} [[Robert Hunter (cyclist)|Robert Hunter]]
+|-
+| 2007 || {{flagicon|RSA}} [[Nicholas White (South African cyclist)|Nicholas White]] ||{{flagicon|RSA}} [[Johann Rabie]] ||  {{flagicon|RSA}} [[Jay Thomson]]
+|-bgcolor="#EFEFEF"
+| 2008 || {{flagicon|NAM}} [[Dan Craven]] || {{flagicon|MAR}} [[Hassan Zahboune]] || {{flagicon|ALG}} [[Abdelmalek Madani]]
+|-
+| 2009 || {{flagicon|RSA}} [[Ian McLeod (cyclist)|Ian McLeod]] || {{flagicon|RSA}} [[Jay Thomson]] || {{flagicon|NAM}} [[Erik Hoffmann]]
+|-bgcolor="#EFEFEF"
+| 2010 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|ERI}} [[Meron Russom]] || {{flagicon|NAM}} [[Dan Craven]]
+|-
+| 2011 || {{flagicon|ERI}} [[Natnael Berhane]] || {{flagicon|ERI}} Tesfay Abraha || {{flagicon|RSA}} [[Jacques Janse van Rensburg]]
+|-bgcolor="#EFEFEF"
+| 2012 || {{flagicon|ERI}} [[Natnael Berhane]] || {{flagicon|RSA}} [[Jay Thomson]] || {{flagicon|ERI}} [[Fregalsi Debesay]]
+|-
+| 2013 || {{flagicon|ERI}} [[Tesfom Okubamariam]] || {{flagicon|NAM}} [[Dan Craven]] || {{flagicon|ERI}} [[Merhawi Kudus]]
+|-bgcolor="#EFEFEF"
+| 2015 || {{flagicon|RSA}} [[Louis Meintjes]] || {{flagicon|RSA}} [[Jay Thomson]] || {{flagicon|RSA}} [[Jacques Janse van Rensburg]]
+|-
+| 2016 || {{flagicon|ERI}} [[Tesfom Okubamariam]] || {{flagicon|ALG}} [[Youcef Reguigui]] || {{flagicon|ERI}} [[Mekseb Debesay]]
+|-bgcolor="#EFEFEF"
+| 2017 || {{flagicon|RSA}} [[Willie Smit]] || {{flagicon|ERI}} [[Meron Abraham]] || {{flagicon|MAR}} [[Ahmed Amine Galdoune]]
+|-
+| 2018 || {{flagicon|ERI}} [[Amanuel Gebreigzabhier]] || {{flagicon|ERI}} [[Metkel Eyob]] || {{flagicon|ALG}} [[Azzedine Lagab]]
+|-bgcolor="#EFEFEF"
+| 2019 || {{flagicon|ERI}} [[Mekseb Debesay]] || {{flagicon|ALG}} [[Azzedine Lagab]] || {{flagicon|ALG}} [[Youcef Reguigui]]
+|-
+| 2021 || {{flagicon|RSA}} [[Ryan Gibbons (cyclist)|Ryan Gibbons]]<ref>{{cite web|url=http://www.votrecourse.com/medias/resultats/20210306-30863_Road%20Race%20-%20Men%20Elites%20&%20U23.pdf|title=Classification: Road Race / Men Elites & U23|work=15th CAC Road African Championships|publisher=VotreCourse|date=6 March 2021|access-date=6 March 2021}}</ref> || {{flagicon|ALG}}  [[Nassim Saidi]] || {{flagicon|ALG}}  [[Youcef Reguigui]]
+|-bgcolor="#EFEFEF"
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=370&y=2022|title=CC Africa RR Men - 2022|website=FirstCycling|date=27 March 2022|access-date=27 March 2022}}</ref> || {{flagicon|ERI}} [[Henok Mulubrhan]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|ALG}} [[Hamza Amari]] 
+|-
+| 2023 || {{flagicon|ERI}} [[Henok Mulubrhan]] || {{flagicon|ALG}} [[Yacine Hamza]] || {{flagicon|MAR}} [[Achraf Ed Doghmy]] 
+|-bgcolor="#EFEFEF"
+| 2024 || {{flagicon|ERI}} [[Henok Mulubrhan]] || {{flagicon|RSA}} [[Emile van Niekerk]] || {{flagicon|UGA}} [[Charles Kagimu]]
+|}
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_ALG =  0 | silver_ALG = 4 | bronze_ALG = 5
+ | gold_EGY =  0 | silver_EGY = 0 | bronze_EGY = 1
+ | gold_ERI = 10 | silver_ERI = 4 | bronze_ERI = 3
+ | gold_MAR =  0 | silver_MAR = 1 | bronze_MAR = 2
+ | gold_MRI =  0 | silver_MRI = 1 | bronze_MRI = 0
+ | gold_NAM =  1 | silver_NAM = 1 | bronze_NAM = 2
+ | gold_RSA =  8 | silver_RSA = 8 | bronze_RSA = 5
+ | gold_UGA =  0 | silver_UGA = 0 | bronze_UGA = 1
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+=== U23 Road Race ===
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2008 || {{flagicon|ALG}} [[Hichem Chaabane]]|| {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|ALG}} [[Redouane Chabaane]]
+|-
+| 2009 || {{flagicon|NAM}} [[Lotto Petrus]]|| {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|RWA}} [[Adrien Niyonshuti]]
+|-bgcolor="#EFEFEF"
+| 2010 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|ERI}} [[Natnael Berhane]]
+|-
+| 2011 || {{flagicon|ERI}} [[Natnael Berhane]] || {{flagicon|ERI}} Tesfay Abraha || {{flagicon|ALG}} [[Youcef Reguigui]]
+|-bgcolor="#EFEFEF"
+| 2012 || {{flagicon|ERI}} [[Natnael Berhane]] || {{flagicon|ALG}} [[Hamza Merdj]] || {{flagicon|RSA}} [[Songezo Jim]]
+|-
+| 2013 || {{flagicon|ERI}} [[Tesfom Okubamariam]] || {{flagicon|ERI}} [[Merhawi Kudus]] || {{flagicon|RWA}} [[Janvier Hadi]]
+|-bgcolor="#EFEFEF"
+| 2015 || {{flagicon|RSA}} [[Jayde Julius]] || {{flagicon|ERI}} [[Merhawi Kudus]] || {{flagicon|ETH}} [[Temesgen Buru]]
+|-
+|2016 || {{flagicon|ERI}} [[Amanuel Gebrezgabihier]] || {{flagicon|RWA}} [[Jean Claude Uwizeye]] || {{flagicon|ALG}} [[Nassim Saidi]]
+|-bgcolor="#EFEFEF"
+|2017 || {{flagicon|ERI}} [[Meron Abraham]] || {{flagicon|MAR}} [[Ahmed Galdoune]] || {{flagicon|RWA}} [[Joseph Areruya]]
+|-
+|2018 || {{flagicon|RWA}} [[Joseph Areruya]] || {{flagicon|ERI}} [[Henok Mulubrhan]] || {{flagicon|RWA}} [[Didier Munyaneza]]
+|-bgcolor="#EFEFEF"
+|2019
+| {{flagicon|ERI}} [[Henok Mulubrhan]]
+| {{flagicon|ALG}} [[Yacine Hamza]]
+| {{flagicon|BUR}} [[Paul Daumont]]
+|-
+|2021
+| {{flagicon|RSA}} [[Travis Barrett]]
+| {{flagicon|ALG}} [[Ayoub Sahiri]]
+| {{flagicon|RWA}} [[Jean Eric Habimana]]
+|-bgcolor="#EFEFEF"
+|2022
+| {{flagicon|ALG}} [[Hamza Amari]]
+| {{flagicon|ALG}} [[Muhammed Amine Nhari]]
+| {{flagicon|RSA}} [[Tiano Da Silva]]
+|-
+|2023
+| {{flagicon|RWA}} [[Renus Uhiriwe Byiza]]
+| {{flagicon|ERI}} [[Aklilu Arefayne]]
+| {{flagicon|ALG}} [[Hamza Amari]]
+|}
+
+===Time Trial===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2001 || {{flagicon|RSA}} [[Simon Kessler]]|| {{flagicon|RSA}} [[Morne Bester ]] || {{flagicon|EGY}} [[Mohamed Abdel Fattah (cyclist)|Mohamed Abdel Fattah]]
+|-
+| 2005 || {{flagicon|RSA}} [[Alex Pavlov]] || {{flagicon|TUN}} [[Rafaâ Chtioui]] || {{flagicon|RSA}} [[Rupert Rheeder]]
+|-bgcolor="#EFEFEF"
+| 2006 || {{flagicon|RSA}} [[Robert Hunter (cyclist)|Robert Hunter]] || {{flagicon|NAM}} [[Dan Craven]] || {{flagicon|RSA}} [[Daryl Impey]]
+|-
+| 2007 || {{flagicon|RSA}} [[Nicholas White (South African cyclist)|Nicholas White]] || {{flagicon|RSA}} [[Jay Robert Thomson]] || {{flagicon|ERI}} [[Bereket Yemane]]
+|-bgcolor="#EFEFEF"
+| 2008 || {{flagicon|RSA}} [[Jay Robert Thomson]] || {{flagicon|RSA}} [[Nicholas White (South African cyclist)|Nicholas White]] || {{flagicon|NAM}} [[Dan Craven]]
+|-
+| 2009 || {{flagicon|RSA}} [[Jay Robert Thomson]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg ]] || {{flagicon|NAM}} [[Erik Hoffmann]]
+|-bgcolor="#EFEFEF"
+| 2010 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|ALG}} [[Azzedine Lagab]]
+|-
+| 2011 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Louis Meintjes]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]]
+|-bgcolor="#EFEFEF"
+| 2012 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|ETH}} [[Tsgabu Grmay]] || {{flagicon|RSA}} [[Jay Robert Thomson]]
+|-
+| 2013 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Willie Smit]] || {{flagicon|RSA}} [[Johannes Christoffel Nel]]
+|-bgcolor="#EFEFEF"
+| 2015 || {{flagicon|ETH}} [[Tsgabu Grmay]] || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]]
+|-
+| 2016 || {{flagicon|MAR}} [[Mouhssine Lahsaini]] || {{flagicon|ETH}} [[Tsgabu Grmay]] || {{flagicon|ERI}} [[Daniel Teklehaimanot]]
+|-bgcolor="#EFEFEF"
+| 2017 || {{flagicon|ERI}} [[Meron Teshome]] || {{flagicon|RSA}} [[Stefan de Bod]] || {{flagicon|ERI}} [[Awet Habtom]]
+|-
+| 2018 || {{flagicon|ERI}} [[Mekseb Debesay]] || {{flagicon|RWA}} [[Jean Bosco Nsengimana]] || {{flagicon|RWA}} [[Joseph Areruya]]
+|-bgcolor="#EFEFEF"
+| 2019 || {{flagicon|RSA}} [[Stefan de Bod]] || {{flagicon|ERI}} [[Sirak Tesfom]] || {{flagicon|RSA}} [[Ryan Gibbons (cyclist)|Ryan Gibbons]]
+|-
+| 2021<ref>{{cite web|url=http://www.votrecourse.com/medias/resultats/20210303-13094_ITT%20Men%20Elites%20&%20U23.pdf|title=Classification: Individual Time Trial / Men Elites & U23|work=15th CAC Road African Championships|publisher=VotreCourse|date=3 March 2021|access-date=3 March 2021}}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> || {{flagicon|RSA}} [[Ryan Gibbons (cyclist)|Ryan Gibbons]] || {{flagicon|RSA}} [[Kent Main]] || {{flagicon|RWA}} [[Moise Mugisha]]
+|-bgcolor="#EFEFEF"
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=369&y=2022|title=CC Africa ITT Men - 2022|website=FirstCycling|date=24 March 2022|access-date=24 March 2022}}</ref> || {{flagicon|RSA}} [[Gustav Basson]] || {{flagicon|ERI}} [[Henok Mulubrhan]] || {{flagicon|RWA}} [[Jean Bosco Nsengimana]] 
+|-
+|2023
+| {{flagicon|UGA}} [[Charles Kagimu]]
+| {{flagicon|RWA}} [[Moise Mugisha]]
+| {{flagicon|ERI}} [[Henok Mulubrhan]]
+|-bgcolor="#EFEFEF"
+|2024
+| {{flagicon|UGA}} [[Charles Kagimu]]
+| {{flagicon|RSA}} [[Brandon Downes]]
+| {{flagicon|MAR}} [[Adil El Arbaoui]]
+|}
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_ALG =  0 | silver_ALG =  0 | bronze_ALG = 1
+ | gold_EGY =  0 | silver_EGY =  0 | bronze_EGY = 1
+ | gold_ETH =  1 | silver_ETH =  2 | bronze_ETH = 0
+ | gold_ERI =  6 | silver_ERI =  3 | bronze_ERI = 4
+ | gold_MAR =  1 | silver_MAR =  0 | bronze_MAR = 1
+ | gold_NAM =  0 | silver_NAM =  1 | bronze_NAM = 2
+ | gold_RSA =  9 | silver_RSA = 10 | bronze_RSA = 7
+ | gold_RWA =  0 | silver_RWA =  2 | bronze_RWA = 3
+ | gold_TUN =  0 | silver_TUN =  1 | bronze_TUN = 0
+ | gold_UGA =  2 | silver_UGA =  0 | bronze_UGA = 0
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+=== U23 Time Trial ===
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2008 || {{flagicon|RSA}} [[Jay Robert Thomson]] || {{flagicon|ERI}} [[Daniel Teklehaimanot]]|| {{flagicon|ERI}} [[Bereket Yemane]]
+|-
+| 2009 || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|NAM}} [[Heiko Redecker]] || {{flagicon|RWA}} [[Adrien Niyonshuti]]
+|-bgcolor="#EFEFEF"
+| 2010 || {{flagicon|ERI}} [[Daniel Teklehaimanot]] || {{flagicon|RSA}} [[Reinardt Janse van Rensburg]] || {{flagicon|ETH}} [[Tsgabu Grmay]]
+|-
+| 2011 || {{flagicon|RSA}} [[Louis Meintjes]] || {{flagicon|MAR}} [[Reda Aadel]] || {{flagicon|ALG}} [[Fayçal Hamza]]
+|-bgcolor="#EFEFEF"
+| 2012 || {{flagicon|ETH}} [[Tsgabu Grmay]] || {{flagicon|ALG}} [[Adil Barbari]] || {{flagicon|ERI}} [[Natnael Berhane]]
+|-
+| 2013 || {{flagicon|RSA}} [[Willie Smit]] || {{flagicon|RSA}} [[Johannes Christoffel Nel]] || {{flagicon|ALG}} [[Adil Barbari]]
+|-bgcolor="#EFEFEF"
+| 2015 || {{flagicon|ERI}} [[Merhawi Kudus]] || {{flagicon|RWA}} [[Valens Ndayisenga]] || {{flagicon|ALG}} [[Adil Barbari]]
+|-
+|2016 || {{flagicon|RWA}} [[Valens Ndayisenga]] || {{flagicon|ERI}} [[Amanuel Gebrezgabihier]] || {{flagicon|ALG}} [[Abderrahmane Bechlaghem]]
+|-bgcolor="#EFEFEF"
+|2017 || {{flagicon|RSA}} [[Stefan de Bod]] || {{flagicon|ERI}} [[Awet Habtom]] || {{flagicon|RWA}} [[Joseph Areruya]]
+|-
+|2018 || {{flagicon|RWA}} [[Joseph Areruya]] || {{flagicon|ETH}} [[Redwan Ebrahim]] || {{flagicon|ERI}} Simon Musie
+|-bgcolor="#EFEFEF"
+|2019
+| {{flagicon|RWA}} [[Moise Mugisha]]
+| {{flagicon|ETH}} [[Redwan Ebrahim]]
+| {{flagicon|ALG}} [[Islam Mansouri]]
+|-
+|2021
+| {{flagicon|ALG}} [[Hamza Mansouri]]
+| {{flagicon|RWA}} [[Jean Eric Habimana]]
+| {{flagicon|BUR}} [[Paul Daumont]]
+|-bgcolor="#EFEFEF"
+|2022
+| {{flagicon|RWA}} [[Renus Uhiriwe]]
+| {{flagicon|EGY}} Youssef Ahmed
+| {{flagicon|ALG}} [[Salah Eddine Ayoubi Cherki]]
+|-
+|2023
+| {{flagicon|ETH}} [[Kiya Rogora]]
+| {{flagicon|ERI}} [[Aklili Arefayne]]
+| {{flagicon|ALG}} [[Hamza Amari]]
+|-bgcolor="#EFEFEF"
+| 2024
+| {{flagicon|UGA}} [[Paul Lomuria]]
+| {{flagicon|UGA}} [[Lawrence Lorot]]
+| {{flagicon|RSA}} [[Joshua Dike]]
+|}
+
+=== Team Time Trial ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|- bgcolor="#EFEFEF"
+| 2009
+| {{nowrap|{{RSA}}<br>[[Reinardt Janse van Rensburg]]<br>[[Ian McLeod (cyclist)|Ian McLeod]]<br>[[Jay Robert Thomson]]<br>[[Christoff van Heerden]]}}
+| {{nowrap|{{RSA}}<br>[[Jacques Celliers]]<br>[[Heinrich Koehne]]<br>[[Victor Krohne]]<br>[[Lotto Petrus]]}}
+| {{nowrap|{{RSA}}<br>[[Mohamed Ali Almabruk Abubregh]]<br>[[Faysal Shaban Alsharaa]]<br>[[Ahmed Youcef Belgasem]]}}
+|-
+| 2010
+| {{nowrap|{{ERI}}<br>[[Fregalsi Debesay]]<br>[[Meron Russom]]<br>[[Tesfai Teklit]]<br>[[Daniel Teklehaimanot]]}}
+| {{nowrap|{{RSA}}<br>[[Reinardt Janse van Rensburg]]<br>[[Luthando Kaka]]<br>[[Jason Bakke]]}}
+| {{nowrap|{{ETH}}<br>[[Msgena Kindeya]]<br>[[Sollomon Bittew Shiferaw]]<br>[[Goton Mebrahtu Biru]]}}
+|-bgcolor="#EFEFEF"
+| 2011
+| {{nowrap|{{ERI}}<br>[[Natnael Berhane]]<br>[[Fregalsi Debesay]]<br>Jani Tewelde<br>[[Daniel Teklehaimanot]]}}
+| {{nowrap|{{RSA}}<br>[[Reinardt Janse van Rensburg]]<br>[[Herman Fouche]]<br>[[Louis Meintjes]]<br>[[Jaco Venter]]}}
+| {{nowrap|{{MAR}}<br>[[Reda Aadel]]<br>[[Adil Jelloul]]<br>[[Mouhssine Lahsaini]]<br>[[Abdelati Saadoune]]}}
+|-
+| 2012
+| {{nowrap|{{ERI}}<br>[[Natnael Berhane]]<br>[[Fregalsi Debesay]]<br>[[Daniel Teklehaimanot]]<br>Jani Tewelde}}
+| {{nowrap|{{TUN}}<br>[[Akkouche Said Ali]]<br>[[Rafaâ Chtioui]]<br>[[Maher Hasnaoui]]<br>[[Ahmed M'Raïhi]]}}
+| {{nowrap|{{ALG}}<br>[[Adil Barbari]]<br>[[Hichem Chaabane]]<br>[[Karim Hadjbouzit]]<br>[[Fayçal Hamza]]}}
+|-bgcolor="#EFEFEF"
+| 2013
+| {{nowrap|{{ERI}}<br>[[Natnael Berhane]]<br>[[Meron Russom]]<br>[[Daniel Teklehaimanot]]<br>[[Meron Teshome]]}}
+| {{nowrap|{{ALG}}<br>[[Adil Barbari]]<br>[[Hichem Chaabane]]<br>[[Azzedine Lagab]]<br>[[Abdelmalek Madani]]}}
+| {{nowrap|{{RSA}}<br>[[Calvin Beneke]]<br>[[Shaun-Nick Bester]]<br>[[Johannes Christoffel Nel]]<br>[[Ryan Gibbons (cyclist)|Ryan Gibbons]]}}
+|-
+| 2015
+| {{nowrap|{{ERI}}<br>[[Natnael Berhane]]<br>[[Mekseb Debesay]]<br>[[Merhawi Kudus]]<br>[[Daniel Teklehaimanot]]}}
+| {{nowrap|{{RSA}}<br>[[Nicholas Dlamini]]<br>[[Reinardt Janse van Rensburg]]<br>[[Louis Meintjes]]<br>[[Jay Thomson]]}}
+| {{nowrap|{{ETH}}<br>[[Getachew Atsbha]]<br>[[Temesgen Buru]]<br>[[Kibrom Giday]]<br>[[Tsgabu Grmay]]}}
+|-bgcolor="#EFEFEF"
+| 2016
+| {{nowrap|{{ERI}}<br>[[Elias Afewerki]]<br>[[Tesfom Okubamariam]]<br>[[Amanuel Gebrezgabihier]]<br>[[Mekseb Debesay]]}}
+| {{nowrap|{{ALG}}<br>[[Azzedine Lagab]]<br>[[Abderrahmane Mansouri]]<br>[[Abderrahmane Bechlaghem]]<br>[[Nassim Saidi]]}}
+| {{nowrap|{{MAR}}<br>[[Lahcen Saber]]<br>[[Mouhssine Lahsaini]]<br>[[Salaheddine Mraouni]]<br>[[Mohamed Er Rafai]]}}
+|-
+| 2017
+| {{nowrap|{{ERI}}<br>[[Awet Habtom]]<br>[[Meron Abraham]]<br>[[Meron Teshome]]<br>[[Amanuel Gebrezgabihier]]}}
+| {{nowrap|{{ALG}}<br>[[Abdelkader Belmokhtar]]<br>[[Abderrahmane Mansouri]]<br>[[Azzedine Lagab]]<br>[[Abdallah Benyoucef]]}}
+| {{nowrap|{{RWA}}<br>[[Valens Ndayisenga]]<br>[[Joseph Areruya]]<br>[[Jean Bosco Nsengimana]]<br>[[Samuel Mugisha]]}}
+|-bgcolor="#EFEFEF"
+| 2018
+| {{nowrap|{{ERI}}<br>[[Amanuel Gebrezgabihier]]<br>[[Metkel Eyob]]<br>[[Mekseb Debesay]]<br>Saymon Musie}}
+| {{nowrap|{{RWA}}<br>[[Adrien Niyonshuti]]<br>[[Joseph Areruya]]<br>[[Valens Ndayisenga]]<br>[[Jean Bosco Nsengimana]]}}
+| {{nowrap|{{ALG}}<br>[[Youcef Reguigui]]<br>[[Abderrahmane Mansouri]]<br>[[Azzedine Lagab]]<br>[[Islam Mansouri]]}}
+|-
+| 2019
+| {{nowrap|{{ERI}}<br>[[Meron Teshome]]<br>[[Yakob Debesay]]<br>[[Sirak Tesfom]]<br>[[Mekseb Debesay]]}}
+| {{nowrap|{{RWA}}<br>[[Valens Ndayisenga]]<br>[[Moise Mugisha]]<br>[[Jean-Claude Uwizeye]]<br>[[Jean Bosco Nsengimana]]}}
+| {{nowrap|{{ETH}}<br>[[Fiseha Gebremariam]]<br>[[Temesgen Buru]]<br>[[Tesfay Teklehaimanot]]<br>[[Redwan Ebrahim]]}}
+|-bgcolor="#EFEFEF"
+| 2021<ref>{{cite web|url=http://www.votrecourse.com/medias/resultats/20210302-73141_TTT%20Elite%20&%20U23%20Men.pdf|title=Classification: TTT Elite & U23 Men|work=15th CAC Road African Championships|publisher=VotreCourse|date=2 March 2021|access-date=3 March 2021}}</ref>
+| {{nowrap|{{RSA}}<br>[[Gustav Basson]]<br>[[Ryan Gibbons (cyclist)|Ryan Gibbons]]<br>[[Kent Main]]<br>[[Jason Oosthuizen]]}}
+| {{nowrap|{{RWA}}<br>[[Joseph Areruya]]<br>[[Jean Eric Habimana]]<br>[[Moise Mugisha]]<br>[[Jean Bosco Nsengimana]]}}
+| {{nowrap|{{ALG}}<br>[[Azzedine Lagab]]<br>[[Hamza Mansouri]]<br>[[Youcef Reguigui]]<br>[[Nassim Saidi]]}}
+|-
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=462&y=2022|title=CC Africa TTT Men - 2022|website=FirstCycling|date=24 March 2022|access-date=24 March 2022}}</ref>
+| {{nowrap|{{ERI}}<br>[[Aklilu Gebrehiwet]]<br>[[Mikiel Habtom]]<br>[[Henok Mulubrhan]]<br>[[Dawit Yemane]]}}
+| {{nowrap|{{RSA}}<br>[[Gustav Basson]]<br>[[Reinardt Janse Van Rensburg]]<br>[[Kent Main]]<br>[[Callum Ormiston]]}}
+| {{nowrap|{{ALG}}<br>[[Salah Eddine Ayoubi Cherki]]<br>[[Azzedine Lagab]]<br>[[Hamza Mansouri]]<br>[[Islam Mansouri]]}}
+|-bgcolor="#EFEFEF"
+|2023 
+| {{nowrap|{{ALG}}<br />[[Nassim Saidi]]<br />[[Azzedine Lagab]]<br />[[Hamza Amari]]<br />[[Hamza Mansouri]]}}
+| {{nowrap|{{ERI}}<br />[[Nahom Zerai]]<br />[[Henok Mulubrhan]]<br />[[Milkias Kudus]]<br />[[Aklilu Arefayne]]}}
+| {{nowrap|{{RWA}}<br />[[Renus Byiza Uhiriwe]]<br />[[Jean Bosco Nsengimana]]<br />[[Etienne Tuyizere]]<br />[[Moise Mugisha]]}}
+|}
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_ALG =   1 | silver_ALG =  3 | bronze_ALG = 4
+ | gold_ETH =   0 | silver_ETH =  0 | bronze_ETH = 3
+ | gold_ERI =  10 | silver_ERI =  1 | bronze_ERI = 0
+ | gold_MAR =   0 | silver_MAR =  0 | bronze_MAR = 2
+ | gold_RSA =   2 | silver_RSA =  5 | bronze_RSA = 2
+ | gold_RWA =   0 | silver_RWA =  3 | bronze_RWA = 2
+ | gold_TUN =   0 | silver_TUN =  1 | bronze_TUN = 0
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+== Women ==
+=== Road Race ===
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2005 || {{flagicon|RSA}} [[Anke Erlank]] || {{flagicon|RSA}} [[Marissa van der Merwe]] || {{flagicon|RSA}} [[Chrissie Viljoen]]
+|-
+| 2006 || {{flagicon|RSA}} [[Yolandi du Toit]] || {{flagicon|RSA}} [[Ronel Van Wyk]] || {{flagicon|RSA}} [[Marissa van der Merwe]]
+|-bgcolor="#EFEFEF"
+| 2007 || {{flagicon|RSA}} [[Marissa van der Merwe]] || {{flagicon|RSA}} [[Lynette Burger]] || {{flagicon|RSA}} [[Yolandi du Toit]]
+|-
+| 2008 || {{flagicon|RSA}} [[Cassandra Slingerland]] || {{flagicon|RSA}} [[Marissa van der Merwe]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-bgcolor="#EFEFEF"
+| 2009 || {{flagicon|RSA}} [[Lynette Burger]] || {{flagicon|RSA}} [[Cherise Taylor]] || {{flagicon|RSA}} [[Lizanne Naude]]
+|-
+| 2010 || {{flagicon|RSA}} [[Lylanie Lauwrens]] || {{flagicon|RSA}} [[Lise Olivier]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-bgcolor="#EFEFEF"
+| 2011 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|RSA}} [[Cherise Taylor]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-
+| 2012 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|RSA}} [[An-Li Pretorius]] || {{flagicon|RSA}} [[Lise Olivier]]
+|-bgcolor="#EFEFEF"
+| 2013 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|NAM}} [[Vera Adrian]] || {{flagicon|ERI}} [[Wehazit Kidane]]
+|-
+| 2015 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|RSA}} [[Lise Olivier]] || {{flagicon|ETH}} [[Hadnet Kidane]]
+|-bgcolor="#EFEFEF"
+| 2016 || {{flagicon|NAM}} [[Vera Adrian]] || {{flagicon|RSA}} [[An-Li Kachelhoffer]] || {{flagicon|MRI}} [[Kimberley Le Court]]
+|-
+| 2017 || {{flagicon|MRI}} [[Aurelie Halbwachs]] || {{flagicon|MRI}} [[Kimberley Le Court]] || {{flagicon|RSA}} [[Charlene Roux]]
+|-bgcolor="#EFEFEF"
+| 2018 || {{flagicon|ERI}} [[Bisrat Ghebremeskel]] || {{flagicon|ETH}} [[Tsega Beyene]] || {{flagicon|ERI}} [[Mossana Debesay]]
+|-
+| 2019 || {{flagicon|ERI}} [[Mossana Debesay]] || {{flagicon|ETH}} [[Eyeru Tesfoam Gebru]] || {{flagicon|RSA}} [[Joanna van de Winkel]]
+|-bgcolor="#EFEFEF"
+| 2021<ref>{{cite web|url=http://www.votrecourse.com/medias/resultats/20210306-21200_Road%20Race%20-%20Women%20Elites%20&%20U23.pdf|title=Classification: Road Race / Women Elites & U23|work=15th CAC Road African Championships|publisher=VotreCourse|date=6 March 2021|access-date=6 March 2021}}</ref> || {{flagicon|RSA}} [[Carla Oberholzer]] || {{flagicon|RSA}} [[Hayley Preen]] || {{flagicon|NAM}} [[Vera Looser]]
+|-
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=9336&y=2022|title=CC Africa RR Women - 2022|website=FirstCycling|date=27 March 2022|access-date=27 March 2022}}</ref> || {{flagicon|EGY}} [[Ebtissam Mohamed]] || {{flagicon|MRI}} [[Kimberley Le Court]] || {{flagicon|BFA}} [[Awa Bamogo]] 
+|-bgcolor="#EFEFEF"
+|2023 
+| {{flagicon|NGR}} [[Ese Ukpeseraye]]
+| {{flagicon|BUR}} [[Awa Bamogo]]
+| {{flagicon|MRI}} [[Lucie de Marigny-Lagesse]]
+|}
+
+=== Time Trial ===
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2005 || {{flagicon|RSA}} [[Anke Erlank]] || {{flagicon|RSA}} [[Dianne Emery]] || {{flagicon|RSA}} [[Chrissie Viljoen]]
+|-
+| 2006 || {{flagicon|MRI}} [[Aurélie Halbwachs]] || {{flagicon|RSA}} [[Ronel Van Wyk]] || {{flagicon|ZIM}} Linda Davidson
+|-bgcolor="#EFEFEF"
+| 2007 || {{flagicon|RSA}} [[Lynette Burger]] || {{flagicon|RSA}} [[Yolandi du Toit]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-
+| 2008 || {{flagicon|RSA}} [[Cassandra Slingerland]] || {{flagicon|RSA}} [[Marissa van der Merwe]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-bgcolor="#EFEFEF"
+| 2009 || {{flagicon|RSA}} [[Cassandra Slingerland]] || {{flagicon|RSA}} [[Lynette Burger]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-
+| 2010 || {{flagicon|RSA}} [[Lylanie Lauwrens]] || {{flagicon|MRI}} [[Aurélie Halbwachs]] || {{flagicon|RSA}} [[Lizanne Naude]] 
+|-bgcolor="#EFEFEF"
+| 2011 || {{flagicon|RSA}} [[Cherise Taylor]] || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-
+| 2012 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|RSA}} [[An-Li Pretorius]] || {{flagicon|NAM}} [[Vera Adrian]]
+|-bgcolor="#EFEFEF"
+| 2013 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|ERI}} [[Wehazit Kidane]] || {{flagicon|NAM}} [[Vera Adrian]]
+|-
+| 2015 || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|RSA}} [[Heidi Dalton]] || {{flagicon|MRI}} [[Aurélie Halbwachs]]
+|-bgcolor="#EFEFEF"
+| 2016 || {{flagicon|NAM}} [[Vera Adrian]] || {{flagicon|RWA}} [[Jeanne D'arc Girubuntu]] || {{flagicon|RSA}} [[Samantha Sanders]]
+|-
+| 2017 || {{flagicon|MRI}} [[Aurélie Halbwachs]] || {{flagicon|ERI}} [[Mossana Debesay]] || {{flagicon|RSA}} [[Juanita Venter]]
+|-bgcolor="#EFEFEF"
+| 2018 || {{flagicon|ERI}} [[Mossana Debesay]] || {{flagicon|ETH}} [[Selam Amha Gerefiel]] || {{flagicon|ETH}} [[Eyeru Tesfoam Gebru]]
+|-
+| 2019 || {{flagicon|ETH}} [[Selam Amha Gerefiel]] || {{flagicon|ETH}} [[Eyeru Tesfoam Gebru]] || {{flagicon|ERI}} [[Desiet Kidane]]
+|-bgcolor="#EFEFEF"
+| 2021<ref>{{cite web|url=http://www.votrecourse.com/medias/resultats/20210303-04683_ITT%20Women%20Elites%20&%20U23.pdf|title=Classification: Individual Time Trial / Women Elites & U23|work=15th CAC Road African Championships|publisher=VotreCourse|date=3 March 2021|access-date=3 March 2021}}</ref> || {{flagicon|RSA}} [[Carla Oberholzer]] || {{flagicon|RSA}} [[Frances Janse van Rensburg]] || {{flagicon|NAM}} [[Vera Looser]]
+|-
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=9338&y=2022|title=CC Africa ITT Women - 2022|website=FirstCycling|date=24 March 2022|access-date=24 March 2022}}</ref> || {{flagicon|ALG}} [[Nesrine Houili]] || {{flagicon|EGY}} [[Ebtissam Zayed Ahmed]] || {{flagicon|RSA}} [[Kerry Jonker]]
+|-bgcolor="#EFEFEF"
+| 2023 || {{flagicon|MRI}} [[Aurélie Halbwachs]] || {{flagicon|RWA}} [[Valentine Nzayisenga]] || {{flagicon|MRI}} [[Kimberley Le Court]]
+|-
+| 2024|| {{flagicon|RSA}} [[Lucy Young (cycling)|Lucy Young]] || {{flagicon|RSA}} [[Ashleigh Moolman]] || {{flagicon|NAM}} [[Melissa Hinz]]
+|}
+
+===U23 Time Trial===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2024 || {{flagicon|ERI}} [[Suzana Fiseha]] || {{flagicon|ERI}} [[Adiam Dawit]]|| {{flagicon|ETH}} [[Mieraf Aregawi]]
+|}
+
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_ETH =   1 | silver_ETH =  1 | bronze_ETH = 0
+ | gold_ERI =   0 | silver_ERI =  0 | bronze_ERI = 1
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+=== Team Time Trial ===
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+| 2013
+| {{nowrap|{{ERI}}<br>[[Tsehainesh Fitsum]]<br>[[Yorsalem Ghebru]]<br>[[Wehazit Kidane]]<br>[[Senayt Mengsteab]]}}
+| {{nowrap|{{NGR}}<br>[[Tombrapa Gripka]]<br>[[Rosemary Marcus]]<br>[[Glory Odiase]]}}
+| {{nowrap|{{ETH}}<br>[[Meseret Hagos]]<br>[[Selam Hagos]]<br>Eyerusalem Kelil<br>[[Hadnet Kidane]]}}
+|-
+| 2015
+| {{nowrap|{{RSA}}<br>[[Ashleigh Moolman]]<br>[[Heidi Dalton]]<br>[[Lynette Burger]]<br>[[An-Li Pretorius]]}}
+| {{nowrap|{{NAM}}<br>[[Vera Adrian]]<br>[[Michelle Vorster]]<br>[[Irene Steyn]]}}
+| {{nowrap|{{ERI}}<br>[[Tsehainesh Fitsum]]<br>[[Yohana Dawit]]<br>[[Wehazit Kidane]]<br>[[Mossana Debesay]]}}
+|-bgcolor="#EFEFEF"
+| 2021<ref>{{cite web|url=https://www.votrecourse.com/medias/resultats/20210302-70499_TTT%20Elite%20&%20U23%20Women.pdf|title=Classification: TTT Elite & U23 Women|work=15th CAC Road African Championships|publisher=VotreCourse|date=3 March 2021|access-date=24 March 2022}}</ref>
+| {{nowrap|{{RSA}}<br>[[Frances Janse van Rensburg]]<br>[[Carla Oberholzer]]<br>[[Hayley Preen]]}}
+| {{nowrap|{{RWA}}<br>[[Diane Ingabire]]<br>[[Valantine Nzayisenga]]<br>[[Jacqueline Tuyishimire]]}}
+| {{nowrap|{{ETH}}<br>[[Selam Amha]]<br>[[Taye Watango]]<br>[[Mhiret Gebreyewhans]]}}
+|-
+| 2022<ref>{{cite web|url=https://firstcycling.com/race.php?r=9338&y=2022|title=CC Africa TTT Women - 2022|website=FirstCycling|date=24 March 2022|access-date=24 March 2022}}</ref>
+| {{nowrap|{{ERI}}<br>[[Monalisa Araya]]<br>[[Adiam Dawit]]<br>[[Milena Fafiet]]<br>[[Danait Fitsum]]}}
+| {{nowrap|{{MRI}}<br>[[Lucie de Marigny-Lagesse]]<br>[[Celia Halbwachs]]<br>[[Raphaëlle Lamusse]]<br>[[Kimberley Le Court]]}}
+| {{nowrap|{{EGY}}<br>[[Nada Aboubalash]]<br>[[Hapepa Eliwa]]<br>[[Rehab Elsherbini]]<br>[[Ebtissam Zayed Ahmed]]}}
+|-bgcolor="#EFEFEF"
+|2023
+| {{nowrap|{{MUS}}<br />[[Lucie de Marigny-Lagesse]]<br />[[Aurélie Halbwachs]]<br />[[Raphaëlle Lamusse]]<br />[[Kimberley Le Court]]}}
+| {{nowrap|{{NAM}}<br />[[Anri Krugel]]<br />[[Courtney Liebenberg]]<br />[[Vera Looser]]<br />[[Melissa Hinz]]}}
+| {{nowrap|{{RWA}}<br />[[Xaverine Nirere]]<br />[[Valantine Nzayisenga]]<br />[[Diane Ingabire]]}}
+|}
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_ETH =   0 | silver_ETH =  0 | bronze_ETH = 2
+ | gold_ERI =   2 | silver_ERI =  0 | bronze_ERI = 1
+ | gold_EGY =   0 | silver_EGY =  0 | bronze_EGY = 1
+ | gold_MUS =   1 | silver_MUS =  1 | bronze_MUS = 0
+ | gold_NAM =   0 | silver_NAM =  2 | bronze_NAM = 0
+ | gold_NGA =   0 | silver_NGA =  1 | bronze_NGA = 0
+ | gold_RSA =   2 | silver_RSA =  0 | bronze_RSA = 0
+ | gold_RWA =   0 | silver_RWA =  1 | bronze_RWA = 1
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+==Mixed team time trial==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable alternance" style="font-size:95%"
+|-  style="text-align:center; background:#e4e4e4; font-weight:bold;"
+| style="background:#ddd;" | Year
+| style="background:gold;" | Gold
+| style="background:silver;" | Silver
+| style="background:#c96;" | Bronze
+|- style="background:#efefef;"
+|-bgcolor="#EFEFEF"
+|2021
+| {{RSA}} <br>[[Ryan Gibbons (cyclist)|Ryan Gibbons]]<br>[[Kent Main]]<br>[[Gustav Basson]]<br>[[Carla Oberholzer]]<br>[[Frances Janse van Rensburg]]<br>[[Hayley Preen]]
+| {{RWA}} <br>[[Jacqueline Tuyishimire]]<br>[[Jean Bosco Nsengimana]]<br>[[Moise Mugisha]]<br>[[Jean Eric Habimana]]<br>[[Diane Ingabire]]<br>[[Valantine Nzayisenga]]
+| {{ETH}} <br>[[Serkalen Taye Watango]]<br>[[Tsgabu Grmay]]<br>[[Sintayehu Kebede]]<br>[[Yared Beharu]]<br>[[Selam Ahama Gerefiel]]<br>[[Miheret Asegele Gebreyewhans]]
+|-
+|2022
+| {{MUS}}<br />[[Aurélien de Comarmond]]<br />[[Lucie de Marigny-Lagesse]]<br />[[Raphaelle Lamusse]]<br />[[Kimberley Le Court]]<br />[[Alexandre Mayer]]<br />[[Christopher Rougier-Lagane]]
+| {{ERI}}<br />[[Monalisa Araya]]<br />[[Milena Fafiet]]<br />[[Aklilu Gebrehiwet]]<br />[[Mikiel Habtom]]<br />[[Feven Haile]]<br />[[Dawit Yemane]] 
+| {{EGY}}<br />[[Youssef Abouelhassan]]<br />[[Assem Elhosseiny Khalil]]<br />[[Hapepa Eliwa]]<br />[[Rehab Elsherbini]]<br />[[Ahmed Saad (cyclist)|Ahmed Saad]]<br />[[Ebtissam Zayed Ahmed]]
+|-bgcolor="#EFEFEF"
+|2023
+| {{MUS}}<br />[[Aurélie Halbwachs]]<br />[[Raphaëlle Lamusse]]<br />[[Kimberley Le Court]]<br />[[Alexandre Mayer]]<br />[[Gregory Mayer]]<br />[[Christopher Lagane]]
+| {{RWA}}<br />[[Etienne Tuyizere]]<br />[[Samuel Niyonkuru]]<br />[[Eric Muhoza]]<br />[[Valantine Nzayisenga]]<br />[[Diane Ingabire]]<br />[[Xaverine Nirere]]
+| {{BUR}}<br />[[Awa Bamogo]]<br />[[Pascaline Dambinga]]<br />[[Issouf Ilboudo]]<br />[[Vincent Mouni]]<br />[[Bachirou Nikiema]]<br />[[Lamoussa Zoungrana]]
+|-
+|2024
+| {{nowrap|{{RWA}}<br />[[Moise Mugisha]]<br />[[Vainqueur Masengesho]]<br />[[Etienne Tuyizere]]<br />[[Diane Ingabire]]<br />[[Josiane Mukashema]]<br />[[Valantine Nzayisenga]]}}
+| {{nowrap|{{ERI}}<br />[[Natan Medhanie]]<br />[[Hebron Berhane]]<br />[[Milkiyas Maekele]]<br />[[Suzana Fiseha]]<br />[[Milena Yafiet]]<br />[[Adiam Dawit]]}}
+| {{nowrap|{{ETH}}<br />[[Negasi Haylu Abreha]]<br />[[Geremedhin Hailemaryam]]<br />[[Kiya Rogora]]<br />[[Mieraf Aregawi]]<br />[[Merhawit Asgodom]]<br />[[Taye Watango]]}}
+|}
+{{col-2}}
+
+{{Medals table
+ | caption        = Medallists by nation
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_BDI =   0 | silver_BDI =  0 | bronze_BDI = 1
+ | gold_ETH =   0 | silver_ETH =  0 | bronze_ETH = 2
+ | gold_ERI =   0 | silver_ERI =  2 | bronze_ERI = 0
+ | gold_EGY =   0 | silver_EGY =  0 | bronze_EGY = 1
+ | gold_MUS =   2 | silver_MUS =  0 | bronze_MUS = 0
+ | gold_RSA =   1 | silver_RSA =  0 | bronze_RSA = 0
+ | gold_RWA =   1 | silver_RWA =  2 | bronze_RWA = 0
+}}
+''Updated after the 2024 African Road Championships''
+{{col-end}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{official website|https://web.archive.org/web/20141205065110/http://www.africanccc.com/french/championnts-africains/}}
+
+{{Road bicycle racing}}
+{{International cycling}}
+{{African Championships}}
+
+[[Category:Cycle racing in Africa]]
+[[Category:UCI Africa Tour races]]
+[[Category:Under-23 cycle racing]]
+[[Category:Recurring sporting events established in 2001]]

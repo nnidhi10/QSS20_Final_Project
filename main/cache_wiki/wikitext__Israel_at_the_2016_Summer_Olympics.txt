@@ -1,0 +1,1044 @@
+{{short description|none}}
+{{good article}}
+{{Use dmy dates|date=January 2017}}
+{{infobox country at games
+| NOC = ISR
+| NOCname = [[Olympic Committee of Israel]]
+| games = Summer Olympics
+| year = 2016
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.olympicsil.co.il}}&nbsp;{{in lang|he|en}}
+| location = [[Rio de Janeiro]]
+| competitors = 47
+| sports = 17
+| flagbearer = [[Neta Rivkin]] (opening)<br />[[Alona Koshevatskiy]] (closing)
+| rank = 77
+| gold = 0
+| silver = 0
+| bronze = 2
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+[[Israel]] competed at the [[2016 Summer Olympics]] in [[Rio de Janeiro]], Brazil, from 5 to 21 August 2016. It was the nation's sixteenth appearance at the Summer Olympics. The [[Olympic Committee of Israel]] confirmed a team of 47 athletes, 22 men and 25 women, to compete across 17 sports at the Games. Breaking its previous record of 43 athletes set in [[2008 Summer Olympics|2008]], it was the nation's largest ever delegation sent to the Olympics, until the record was again broken by the 90 athletes delegation to the [[2020 Summer Olympics]] in Tokyo. Among the sports represented by its athletes, Israel marked its Olympic debut in golf (new to the 2016 Games), mountain biking, and triathlon, as well as its return to road cycling, taekwondo, weightlifting, and wrestling after long years of absence. The nation's full roster also reached a historic milestone for Israeli women, as they officially outnumbered the men for the first time.
+
+The Israeli delegation featured 14 returning Olympians. Five of them participated in their third straight Games, namely windsurfer and 2008 bronze medalist [[Shahar Tzuberi]], butterfly and medley swimmer [[Gal Nevo]], synchronized swimmer [[Anastasia Gloushkov]], artistic gymnast [[Alexander Shatilov]], and rhythmic gymnast [[Neta Rivkin]], who was chosen as the nation's flag bearer at the opening ceremony, the first by a female since [[1996 Summer Olympics|1996]] and fourth overall in Israel's Olympic history.
+
+Israel returned home from Rio de Janeiro with two bronze medals, each won by judoka [[Yarden Gerbi]] (women's 63&nbsp;kg) and [[Or Sasson]] (men's +100&nbsp;kg), an improvement from the nation's out-of-medal feat at [[London 2012]]. Several Israeli athletes advanced to the finals of their respective sporting events, but narrowly missed out of the podium, including the women's rhythmic gymnastics squad (captained by [[Alona Koshevatskiy]]) in the group all-around, triple jumper [[Hanna Knyazyeva-Minenko]], and windsurfer [[Maayan Davidovich]] in the women's RS:X.
+
+==Background==
+Israel participated in 16 [[Summer Olympic Games|Summer Olympics]] between its debut at the [[1952 Summer Olympics]] in [[Helsinki]], Finland and the [[2016 Summer Olympics]] in [[Rio de Janeiro]], Brazil. The nation chose rhythmic gymnast [[Neta Rivkin]] as its flagbearer in the opening ceremony and rhythmic gymnastics squad captain [[Alona Koshevatskiy]] as its flagbearer in the closing ceremony.<ref>{{cite news|url=http://www.ynet.co.il/articles/0,7340,L-4827398,00.html|script-title=he:ריבקין תישא את הדגל בטקס הפתיחה בריו|trans-title=Rivkin will carry the flag at the opening ceremony in Rio|language=he|first=Oren|last=Aharoni|date=12 July 2016|publisher=[[Ynet]]|access-date=13 July 2016|archive-date=30 June 2018|archive-url=https://web.archive.org/web/20180630030207/https://www.ynet.co.il/articles/0,7340,L-4827398,00.html|url-status=live}}</ref><ref>{{cite web|title=Rio 2016 Closing Ceremony - Flag Bearers|url=https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/News/2016/08/2016-08-21-Rio-2016-Closing-Ceremony-Flag-Bearers.pdf#_ga=1.264051660.1756211746.1483958843|publisher=International Olympic Committee|access-date=9 January 2017|date=21 August 2016|archive-date=22 August 2016|archive-url=https://web.archive.org/web/20160822094245/https://stillmed.olympic.org/media/Document%20Library/OlympicOrg/News/2016/08/2016-08-21-Rio-2016-Closing-Ceremony-Flag-Bearers.pdf#_ga=1.264051660.1756211746.1483958843|url-status=live}}</ref> A total of 47 athletes, 22 men and 25 women, travelled to Rio de Janeiro and competed across 17 sports. It was the nation's largest ever delegation sent to the Olympics, breaking its previous record of 43 athletes set in [[2008 Summer Olympics|2008]].<ref name="ISR-Olympics">{{cite web|url=https://www.jpost.com/Israel-News/Sports/Israeli-delegation-to-hit-ground-running-463309|title=Israeli Olympic delegation preparing to wow in Rio|publisher=[[Jerusalem Post]]|access-date=15 August 2016|archive-date=29 March 2017|archive-url=https://web.archive.org/web/20170329112815/http://www.jpost.com/Israel-News/Sports/Israeli-delegation-to-hit-ground-running-463309|url-status=live}}</ref><ref name="sinaisays">{{cite web|url=https://www.jpost.com/Israel-News/Sports/Sinai-Says-With-multiple-medal-contenders-Israeli-Olympians-primed-for-podium-return-463068|title=Sinai Says: With multiple medal contenders, Israeli Olympians primed for podium return|publisher=[[Jerusalem Post]]|access-date=15 August 2016|archive-date=15 February 2017|archive-url=https://web.archive.org/web/20170215235537/http://www.jpost.com/Israel-News/Sports/Sinai-Says-With-multiple-medal-contenders-Israeli-Olympians-primed-for-podium-return-463068|url-status=live}}</ref> Among the sports represented by its athletes, Israel marked its Olympic debut in golf (new to the 2016 Games), mountain biking, and triathlon, as well as its return to road cycling, taekwondo, weightlifting, and wrestling after long years of absence. The nation's full roster also reached a historic milestone on the Israeli women, as they officially outnumbered the men for the first time.<ref name="ISR-medals">{{cite web|url=http://www.timesofisrael.com/israels-olympic-tally-two-bronzes-7-finals-more-than-half-women/|title=Israel's Olympic tally: 2 bronzes, 7 finals, a delegation with more than half women|publisher=[[Times of Israel]]|date=22 August 2016|access-date=2 December 2016|archive-date=2 December 2016|archive-url=https://web.archive.org/web/20161202173409/http://www.timesofisrael.com/israels-olympic-tally-two-bronzes-7-finals-more-than-half-women/|url-status=live}}</ref> Israel has won a total of nine medals up to and including {{As of|2017|1|7|alt=the 2016 Summer Olympics}}.<ref>{{Cite news|url=https://www.olympic.org/israel|title=Israel - National Olympic Committee (NOC)|date=21 June 2016|newspaper=International Olympic Committee|access-date=7 January 2017|archive-date=11 January 2017|archive-url=https://web.archive.org/web/20170111094658/https://www.olympic.org/israel|url-status=live}}</ref>
+
+==Medalists==
+{{further|2016 Summer Olympics medal table|List of 2016 Summer Olympics medal winners}}
+[[File:Yarden Gerbi.jpg|thumb|180px|[[Yarden Gerbi]], a judoka]]
+[[File:Or Sasson - Rio 2016.jpg|thumb|180px|Judoka [[Or Sasson]] after winning his bronze medal at the 2016 Summer Olympics]]
+{| class="wikitable sortable" style="font-size: 95%"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{bronze medal}} || {{sortname|Yarden|Gerbi}} || [[Judo at the 2016 Summer Olympics|Judo]] || [[Judo at the 2016 Summer Olympics – Women's 63 kg|Women's 63 kg]] || {{dts|9 August}}<ref>{{cite news|author=Times of Israel staff|title=Israeli judoka Yarden Gerbi wins bronze at Rio Olympics|url=http://www.timesofisrael.com/israeli-judoka-yarden-gerbi-takes-home-bronze-at-rio/|publisher=[[The Times of Israel]]|date=9 August 2016|access-date=30 December 2016|archive-date=10 August 2016|archive-url=https://web.archive.org/web/20160810171007/http://www.timesofisrael.com/israeli-judoka-yarden-gerbi-takes-home-bronze-at-rio/|url-status=live}}</ref>
+|- 
+|{{bronze medal}} || {{sortname|Or|Sasson}} || [[Judo at the 2016 Summer Olympics|Judo]] || [[Judo at the 2016 Summer Olympics – Men's +100 kg|Men's +100 kg]] || {{dts|12 August}}<ref>{{cite news|first=Andrew|last=Sherwood|title=Sasson wins Israel's second Olympic medal|url=http://jewishnews.timesofisrael.com/sasson-wins-israels-second-olympic-medal/|publisher=[[Jewish News]]|date=12 August 2016|access-date=30 December 2016|archive-date=30 December 2016|archive-url=https://web.archive.org/web/20161230234602/http://jewishnews.timesofisrael.com/sasson-wins-israels-second-olympic-medal/|url-status=live}}</ref>
+|}
+
+==Competitors==
+The Israeli delegation included 47 athletes competing in 17 sports.<ref>{{Cite news|last=Klein Leichman|first=Abigail|url=http://www.israel21c.org/israels-largest-ever-olympic-delegation-heads-to-rio/|title=Israel's largest-ever Olympic delegation heads to Rio|newspaper=israel 21c|date=21 July 2016|access-date=3 January 2017|archive-date=4 January 2017|archive-url=https://web.archive.org/web/20170104000128/http://www.israel21c.org/israels-largest-ever-olympic-delegation-heads-to-rio/|url-status=live}}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 2016 Summer Olympics|Athletics]]
+| 5 || 3 || 8
+|-
+| align=left|[[Badminton at the 2016 Summer Olympics|Badminton]]
+| 1 || 0 || 1
+|-
+| align=left|[[Cycling at the 2016 Summer Olympics|Cycling]]
+| 1 || 1 || 2
+|-
+| align=left|[[Golf at the 2016 Summer Olympics|Golf]]
+| 0 || 1 || 1
+|-
+| align=left|[[Gymnastics at the 2016 Summer Olympics|Gymnastics]]
+| 1 || 6 || 7
+|-
+| align=left|[[Judo at the 2016 Summer Olympics|Judo]]
+| 3 || 4 || 7
+|-
+| align=left|[[Sailing at the 2016 Summer Olympics|Sailing]]
+| 3 || 3 || 6
+|-
+| align=left|[[Shooting at the 2016 Summer Olympics|Shooting]]
+| 1 || 0 || 1
+|-
+| align=left|[[Swimming at the 2016 Summer Olympics|Swimming]]
+| 3 || 4 || 7
+|-
+| align=left|[[Synchronized swimming at the 2016 Summer Olympics|Synchronized swimming]]
+| 0 || 2 || 2
+|-
+| align=left|[[Taekwondo at the 2016 Summer Olympics|Taekwondo]]
+| 1 || 0 || 1
+|-
+| align=left|[[Tennis at the 2016 Summer Olympics|Tennis]]
+| 1 || 0 || 1
+|-
+| align=left|[[Triathlon at the 2016 Summer Olympics|Triathlon]]
+| 1 || 0 || 1
+|-
+| align=left|[[Weightlifting at the 2016 Summer Olympics|Weightlifting]]
+| 1 || 0 || 1
+|-
+| align=left|[[Wrestling at the 2016 Summer Olympics|Wrestling]]
+| 0 || 1 || 1
+|-
+! Total || 22 || 25 || 47
+|}
+
+==Athletics==
+{{main article|Athletics at the 2016 Summer Olympics|Athletics at the 2016 Summer Olympics – Qualification}} 
+[[File:Donald_Sanford_at_European_Championships_Helsinki_2013-03.jpg|thumb|240px|[[Donald Sanford (athlete)|Donald Sanford]] finishing 4th at the 400 meters dash in the [[2012 European Athletics Championships – Men's 400 metres|2012 European Athletics Championships]]]]
+[[File:Lornah Chemtai Korlima Rio2016.jpg|thumb|180px|[[Lonah Chemtai Salpeter]] in the marathon event of the [[2016 Summer Olympics]]]]
+[[File:Hanna Knyazyeva-Minenko by Augustas Didzgalvis.jpg|thumb|180px|[[Hanna Knyazyeva-Minenko]] at the [[2013 World Championships in Athletics]]]]
+[[Donald Sanford (athlete)|Donald Sanford]] qualified for the [[Athletics at the 2016 Summer Olympics – Men's 400 metres|men's 400 metres]] by having a qualifying time of under 45.40 seconds. Sanford finished in his heat with a time of 46.06 seconds, but did not qualify for the semifinals due to finishing in fifth place.<ref>{{cite web|title=IAAF Games of the XXX Olympiad – Rio 2016 Entry Standards|url=http://www.insidethegames.biz/media/file/559/IAAF%20Rio%202016%20standards.pdf|publisher=[[IAAF]]|access-date=18 April 2015|archive-date=7 July 2016|archive-url=https://web.archive.org/web/20160707211107/http://www.insidethegames.biz/media/file/559/IAAF%20Rio%202016%20standards.pdf|url-status=live}}</ref><ref>{{cite news|last1=Zenziper|first1=Nadav|last2=Aharoni|first2=Oren|title=One year to Rio: Does Israel stand a chance?|url=http://www.ynetnews.com/articles/0,7340,L-4688032,00.html|publisher=[[Ynet]]|date=5 August 2015|access-date=22 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202004320/http://www.ynetnews.com/articles/0,7340,L-4688032,00.html|url-status=live}}</ref><ref>{{cite news|last=Sherwood|first=Andrew|title=Sanford fails to reach 400m semi-final|url=http://jewishnews.timesofisrael.com/sanford-fails-to-reach-400m-semi-final/|publisher=[[Jewish News]]|date=13 August 2016|access-date=22 January 2017|archive-date=10 January 2017|archive-url=https://web.archive.org/web/20170110140724/http://jewishnews.timesofisrael.com/sanford-fails-to-reach-400m-semi-final/|url-status=live}}</ref>
+
+Israel had five marathon runners qualify, three males and two females. They all qualified via the entry standard of 2:19 and 2:45 for men and women, respectively. [[Lonah Chemtai Salpeter]] [[Did Not Finish|did not finish]] the marathon. The highest place finish was by [[Marhu Teferi]], finishing in 74th place.<ref>{{cite news|title=Rio 2016 Olympics: Israeli runner Maor Tiyouri finishes 90th in women's marathon|url=http://www.ynetnews.com/articles/0,7340,L-4841430,00.html|publisher=[[Ynet]]|date=14 August 2016|access-date=22 January 2017|archive-date=10 May 2017|archive-url=https://web.archive.org/web/20170510090126/http://www.ynetnews.com/articles/0,7340,L-4841430,00.html|url-status=live}}</ref><ref name="mmarathon"/>
+
+Both [[Dmitry Kroyter]] and [[Hanna Knyazyeva-Minenko]] competed in field events, with the former competing in high jump and the latter in triple jump. Kroyter did not perform well enough to advance to the final round; he cleared the {{convert|2.17|m|ft}} height on his second try, but failed to clear the {{convert|2.22|m|ft}} height in his three attempts, finishing 41st overall.<ref name="HighJumpResults">{{Cite web|url=https://sports.yahoo.com/olympics/rio-2016/g/mens-high-jump-ATM071/|title=Track and Field - Men's High Jump {{!}} Rio 2016|publisher=[[Yahoo]]|access-date=2 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103094053/https://sports.yahoo.com/olympics/rio-2016/g/mens-high-jump-ATM071/|url-status=live}}</ref>
+
+Minenko scratched on her first two jumps, and her third jump was long enough for her to place 8th in the round with a distance of {{convert|14.2|m}}.<ref>{{cite web|url=https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/qualification/series|title=Triple Jump Women - qualification series|publisher=[[IAAF]]|access-date=22 January 2017|archive-date=16 September 2016|archive-url=https://web.archive.org/web/20160916002226/https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/qualification/series|url-status=live}}</ref> The final round is split into two sets of three jumps, with the top eight from the first set advancing to the second. The longest distance from all six jumps is the distance that is considered for placing. Minenko placed seventh in the first set, with her longest jump from the set being {{convert|14.39|m|ft}}. Minenko achieved her season best in the second set of jumps with a length of {{convert|14.68|m|ft}}, finishing in fifth place overall.<ref>{{cite web|url=https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/final/series|title=Triple Jump Women - final series|publisher=[[IAAF]]|access-date=22 January 2017|archive-date=16 September 2016|archive-url=https://web.archive.org/web/20160916015426/https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/final/series|url-status=live}}</ref>
+
+{{smalldiv|1=<nowiki/>
+
+;Key
+*'''Note'''&ndash;Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track & road events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|- style="text-align:center;"
+|align=left|[[Donald Sanford (athlete)|Donald Sanford]]
+|align=left|[[Athletics at the 2016 Summer Olympics – Men's 400 metres|Men's 400 m]]
+|46.06
+|5<ref>{{Cite web|url=https://www.bbc.com/sport/olympics/rio-2016/results/sports/athletics/mens-400m|title=Results - Mens 400m - Athletics - Rio 2016 - Olympics|website=BBC Sport|access-date=2 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103101023/http://www.bbc.com/sport/olympics/rio-2016/results/sports/athletics/mens-400m|url-status=live}}</ref>
+| colspan="4" |Did not advance
+|- align=center
+|align=left|[[Ageze Guadie]]
+| rowspan="3" style="text-align:left;"|[[Athletics at the 2016 Summer Olympics – Men's marathon|Men's marathon]]
+|colspan=4 {{n/a}}
+|2:30:45
+|122<ref name="mmarathon">{{cite web|title=Men's Marathon|url=https://www.olympic.org/rio-2016/athletics/marathon-men|website=[[IOC]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103170013/https://www.olympic.org/rio-2016/athletics/marathon-men|url-status=live}}</ref>
+|- align=center
+|align=left|[[Tesama Moogas]]
+|colspan=4 {{n/a}}
+|2:30:30
+|121<ref name="mmarathon"/>
+|-
+|align=left|[[Marhu Teferi]]
+|colspan=4 {{n/a}}
+|2:21:06
+|align=center|74<ref name="mmarathon" />
+|- align=center
+|align=left|[[Lonah Chemtai Salpeter]]
+| style="text-align:left;" rowspan="2"|[[Athletics at the 2016 Summer Olympics – Women's marathon|Women's marathon]]
+|colspan=4 {{n/a}}
+| colspan="2" |{{abbr|DNF|Did not finish}}<ref name="wmarathon">{{cite web|url=https://www.olympic.org/rio-2016/athletics/marathon-women|title=Women's Marathon|publisher=[[IOC]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103170548/https://www.olympic.org/rio-2016/athletics/marathon-women|url-status=live}}</ref>
+|- align=center
+|align=left|[[Maor Tiyouri]]
+|colspan=4 {{n/a}}
+|2:47:27
+|90<ref name="wmarathon"/>
+|}
+
+;Field events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|- align=center
+|align=left|[[Dmitry Kroyter]]
+|align=left|[[Athletics at the 2016 Summer Olympics – Men's high jump|Men's high jump]]
+|2.17
+|41<ref name="HighJumpResults"/>
+|colspan=2|did not advance
+|- align=center
+|align=left|[[Hanna Knyazyeva-Minenko]]
+|align=left|[[Athletics at the 2016 Summer Olympics – Women's triple jump|Women's triple jump]]
+|14.20 
+|8 '''q'''<ref>{{cite web|url=https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/qualification/summary|title=Triple Jump Women - qualification summary|publisher=[[IAAF]]|access-date=3 January 2017|archive-date=16 September 2016|archive-url=https://web.archive.org/web/20160916000455/https://www.iaaf.org/results/olympic-games/2016/the-xxxi-olympic-games-5771/women/triple-jump/qualification/summary|url-status=live}}</ref>
+|14.68
+|5<ref>{{cite web|url=https://www.olympic.org/rio-2016/athletics/triple-jump-women|title=Ttiple Jump Women - final ranking|publisher=[[IOC]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103165721/https://www.olympic.org/rio-2016/athletics/triple-jump-women|url-status=live}}</ref>
+|}
+
+==Badminton==
+{{main article|Badminton at the 2016 Summer Olympics}}
+Israel qualified one badminton player for the men's singles into the Olympic tournament. [[Misha Zilberman]], who debuted at the London 2012 Olympic Games as Israel's first badminton Olympian, claimed his Olympic spot as one of the top 34 individual shuttlers in the [[Badminton World Federation|BWF]] World Rankings as of 5 May 2016.<ref>{{cite news|first=Dev|last=Sukumar|title=Provisional List of Olympic Qualifiers Published|url=http://bwfbadminton.com/2016/05/05/provisional-list-of-olympic-qualifiers-published/|publisher=[[Badminton World Federation]]|date=5 May 2016|access-date=5 May 2016|url-status=dead|archive-url=https://web.archive.org/web/20160508130917/http://bwfbadminton.com/2016/05/05/provisional-list-of-olympic-qualifiers-published/|archive-date=8 May 2016|df=dmy-all}}</ref> According to Zilberman, his ambition is "to win a medal at the European or World Championships or the Olympic Games."<ref>{{cite web|url=http://bwfbadminton.com/player/52953/misha-zilberman|title=Performance Overview|access-date=January 14, 2017|archive-date=30 March 2016|archive-url=https://web.archive.org/web/20160330142018/http://bwfbadminton.com/player/52953/misha-zilberman|url-status=live}}</ref> When it comes to his Olympic training regimen, he said "training under my parents is hard because on the court, they are always trying to push me to my limit."<ref>{{cite web|url=https://www.fromthegrapevine.com/lifestyle/misha-zilberman-israel-badminton-rio-summer-olympics|title=This guy wants to be the world's best badminton player|last1=McColl|first1=T. Duncan|date=July 21, 2016|access-date=January 14, 2017|website=From the Grapevine|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116165658/https://www.fromthegrapevine.com/lifestyle/misha-zilberman-israel-badminton-rio-summer-olympics|url-status=live}}</ref> Zilberman's win was Israel's first badminton win at the Olympics. He lost to [[Chou Tien-chen]], and Chou's victory over [[Yuhan Tan]] eliminated Zilberman from competition.<ref>{{cite web|url=http://jewishnews.timesofisrael.com/badminton-campaign-gets-off-to-a-losing-start/|title=Zilberman wins Israel's first Olympic badminton match|last1=Sherwood|first1=Andrew|date=August 13, 2016|access-date=January 14, 2017|website=Jewish News Online|archive-date=20 September 2016|archive-url=https://web.archive.org/web/20160920112756/http://jewishnews.timesofisrael.com/badminton-campaign-gets-off-to-a-losing-start/|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Group Stage
+!Elimination
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Misha Zilberman]]
+|align=left|[[Badminton at the 2016 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCathlete|[[Chou Tien-chen|Chou]]|TPE|2016 Summer}}<br />'''L''' (9–21, 11–21)<ref>{{cite web|url=http://olympics.bwfbadminton.com/live/?match=BDM001C03&tab=live|title=Men's singles - group c - Chou vs Zilberman|publisher=[[Badminton World Federation]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103181609/http://olympics.bwfbadminton.com/live/?match=BDM001C03&tab=live|url-status=live}}</ref>
+|{{flagIOCathlete|[[Yuhan Tan|Tan]]|BEL|2016 Summer}}<br />'''W''' (22–20, 21–12)<ref>{{cite web|url=http://olympics.bwfbadminton.com/live/?match=BDM001C01&tab=live|title=Men's singles - group c - Tan vs Zilberman|publisher=[[Badminton World Federation]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103165316/http://olympics.bwfbadminton.com/live/?match=BDM001C01&tab=live|url-status=live}}</ref>
+|[[Badminton at the 2016 Summer Olympics – Men's singles#Group C|2]]
+|colspan="5"|did not advance
+|}
+
+==Cycling==
+{{main article|Cycling at the 2016 Summer Olympics}}
+
+===Road===
+Israel qualified one rider in the women's Olympic road race, [[Shani Bloch]], by virtue of a top-22 international finish in the 2016 ''[[Union Cycliste Internationale]]'' (UCI) World Rankings, signifying the nation's Olympic comeback to the sport for the first time since [[1960 Summer Olympics|1960]].<ref>{{cite news|title=UCI announce women's road cycling quotas for Rio Olympics|url=http://www.cyclingnews.com/news/uci-announce-womens-road-cycling-quotas-for-rio-olympics/|publisher=[[Cyclingnews.com]]|date=1 June 2016|access-date=2 June 2016|archive-date=6 October 2017|archive-url=https://web.archive.org/web/20171006215950/http://www.cyclingnews.com/news/uci-announce-womens-road-cycling-quotas-for-rio-olympics/|url-status=live}}</ref> Bloch had retired in 2004 to start a family, but came out of retirement in 2014, training with her Israeli teammates to qualify for Rio.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Shani-Bloch-462812|title=Israeli Olympic Profiles: Shani Bloch|access-date=January 15, 2017|date=July 31, 2016|website=The Jerusalem Post|archive-date=27 August 2016|archive-url=https://web.archive.org/web/20160827020927/http://www.jpost.com/Israel-News/Sports/Shani-Bloch-462812|url-status=live}}</ref> She was the oldest member of the Rio delegation at the age of 37. On finishing, the race Bloch said "I'm so happy that I managed to finish the race. This gives me an amazing sense of satisfaction. I'm so proud to represent Israel. I thank God for this opportunity." Bloch was ranked 88 in the world at the time of qualification, and finished in 48th place with a time of 4:02:59.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Sinai-Says-Bloch-an-inspiration-for-young-and-old-463611|title=Sinai Says: Bloch an Inspiration for Young and Old|website=The Jerusalem Post|access-date=January 15, 2017|date=August 9, 2016|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818070804/http://www.jpost.com/Israel-News/Sports/Sinai-Says-Bloch-an-inspiration-for-young-and-old-463611|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Shani Bloch]]
+|align=left|[[Cycling at the 2016 Summer Olympics – Women's individual road race|Women's road race]]
+|4:02:59
+|48<ref>{{cite web|url=https://www.olympic.org/rio-2016/cycling-road/individual-road-race-women|title=Women's Individual road race|publisher=[[IOC]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103165723/https://www.olympic.org/rio-2016/cycling-road/individual-road-race-women|url-status=live}}</ref>
+|}
+
+===Mountain biking===
+Israel qualified one mountain biker for the men's Olympic cross-country race, as a result of his nation's twenty-second-place finish in the UCI Olympic Ranking List of 25 May 2016. This marked the first time an Israeli competed in the Olympics in [[mountain biking]].<ref name="sinaisays"/> Haimy started the race well, sitting in fourth place after the first kilometer. Haimy was passed by several competitors when his bike tire was punctured. The puncture caused him to fall to 44th place. He continued the race and finished in 29th place with a time of 1:43:30, slightly over 10 minutes behind the winner.<ref>{{cite web|url=http://jewishnews.timesofisrael.com/flat-tire-punctures-cyclist-haimys-hopes-in-rio/|title=Flat tire punctures cyclist Haimy's hopes in Rio|access-date=January 15, 2017|date=August 21, 2016|last1=Sherwood|first1=Andrew|website=The Times of Israel|archive-date=20 September 2016|archive-url=https://web.archive.org/web/20160920054034/http://jewishnews.timesofisrael.com/flat-tire-punctures-cyclist-haimys-hopes-in-rio/|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Shlomi Haimy]]
+|align=left|[[Cycling at the 2016 Summer Olympics – Men's cross-country|Men's cross-country]]
+|1:43:30
+|29<ref>{{cite web|title=Men's Cross-country|url=https://www.olympic.org/rio-2016/cycling-mountain-bike/cross-country-men|website=[[IOC]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103165327/https://www.olympic.org/rio-2016/cycling-mountain-bike/cross-country-men|url-status=live}}</ref>
+|}
+
+== Golf ==
+
+[[File:2013 Women's British Open - Laetitia Beck (1).jpg|thumb|180px|[[Laetitia Beck]] in the final practice round of [[2013 Ricoh Women's British Open]]]]
+{{main article|Golf at the 2016 Summer Olympics}}
+Israel entered one golfer into the Olympic tournament. [[Laetitia Beck]] (world no. 237)<ref>{{cite web|title=Official Rolex Website: Rolex Rankings|url=http://www.rolexrankings.com/|access-date=19 August 2016|archive-date=13 March 2007|archive-url=https://web.archive.org/web/20070313231025/http://www.rolexrankings.com/|url-status=live}} Data as of 15 August 2016, prior to the beginning of the Olympic women's golf tournament.</ref> qualified directly among the top 60 eligible players for the women's event based on the [[International Golf Federation]] (IGF) World Rankings as of 11 July 2016.<ref>{{cite news|title=Olympic Rankings – Women|url=http://www.igfgolf.org/olympic-games/qualification-system/ogr-women/|publisher=[[International Golf Federation]]|date=11 July 2016|access-date=13 July 2016|archive-date=20 July 2016|archive-url=https://web.archive.org/web/20160720201658/http://www.igfgolf.org/olympic-games/qualification-system/ogr-women/|url-status=dead}}</ref> This marked the first time Israel sent a golfer to the Olympics.<ref name="sinaisays"/> Due to Israel's inexperience representing golf athletes, Beck was required to procure all of her equipment to prepare for Rio, such as her uniform and hats. Israel's Olympic committee reimbursed her for the equipment.<ref>{{cite web|url=http://www.espn.com/espnw/sports/article/16673814/laetitia-beck-hopes-make-name-israel-olympic-golf|title=Laetitia Beck hopes to make a name for herself -- and Israel -- in Olympic golf|last1=Fields|first1=Bill|date=July 11, 2016|website=ESPN|access-date=January 13, 2017|archive-date=19 August 2016|archive-url=https://web.archive.org/web/20160819200935/http://www.espn.com/espnw/sports/article/16673814/laetitia-beck-hopes-make-name-israel-olympic-golf|url-status=live}}</ref>  On the topic of representing Israel at the Olympics, Beck said "I think it's because of what my grandparents had to go through, not just my grandparents but everyone during World War II, all the Jewish people during World War II and the holocaust, that obviously brings me anger, but i think what i'm trying to do is bring the anger and try to do something meaningful."<ref>{{cite web|url=http://www.lpga.com/videos/laetitia-beck-honored-to-represent-israel-in-rio-olympics|title=Laetitia Beck Honored to Represent Israel in Rio Olympics|access-date=January 13, 2017|date=July 12, 2016|website=LPGA|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118035356/http://www.lpga.com/videos/laetitia-beck-honored-to-represent-israel-in-rio-olympics|url-status=live}}</ref> Beck finished tied for 31st with a score of two over par.<ref>{{cite web|url=https://www.olympic.org/rio-2016/golf/individual-women|title=Individual Women|website=Olympic Games|access-date=January 13, 2017|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116172604/https://www.olympic.org/rio-2016/golf/individual-women|url-status=live}}</ref> Her best round was the third round, where she was tied for 13th place.<ref>{{cite web|url=http://www.golf.com/tour-and-news/olympics-2016-womens-golf-final-scores-and-results|title=Olympics 2016: Women's Golf Final Scores and Results|website=Golf|date=August 20, 2016|access-date=January 13, 2017|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116163423/http://www.golf.com/tour-and-news/olympics-2016-womens-golf-final-scores-and-results|url-status=live}}</ref>
+
+{|class=wikitable style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!colspan=3|Total
+|- style="font-size:95%"
+!Score
+!Score
+!Score
+!Score
+!Score
+!Par
+!Rank
+|- align=center
+|align=left|[[Laetitia Beck]]
+|align=left|[[Golf at the 2016 Summer Olympics – Women's individual|Women's]]
+|75
+|70
+|71
+|70
+|286
+| +2
+|=31<ref>{{cite web|title=Olympic Games - Women's Leaderboard|url=http://www.igfgolf.org/olympic-games/scores/womens/|website=[[International Golf Federation]]|access-date=3 January 2017|archive-date=3 January 2017|archive-url=https://web.archive.org/web/20170103170655/http://www.igfgolf.org/olympic-games/scores/womens/|url-status=dead}}</ref>
+|}
+
+== Gymnastics ==
+
+[[File:2015 European Artistic Gymnastics Championships - Floor - Alexander Shatilov 03.jpg|thumb|180px|[[Alexander Shatilov]] at the [[2015 European Artistic Gymnastics Championships]]]]
+{{main article|Gymnastics at the 2016 Summer Olympics}}
+
+===Artistic===
+Israel entered one artistic gymnast into the Olympic competition. Two-time Olympian [[Alexander Shatilov]] qualified and claimed his Olympic spot in the men's apparatus and all-around events via the [[2016 Gymnastics Olympic Test Event|Olympic Test Event]] in [[Rio de Janeiro]] by participation.<ref>{{cite news|title=Rio 2016 Olympic qualifiers in Men's Artistic Gymnastics: See the updated list!|url=http://www.fig-gymnastics.com/site/figNews/view?id=1513|publisher=[[International Federation of Gymnastics|FIG]]|date=16 April 2016|access-date=18 April 2016|archive-date=23 April 2016|archive-url=https://web.archive.org/web/20160423154041/http://www.fig-gymnastics.com/site/figNews/view?id=1513|url-status=live}}</ref> Shatilov participated in both the London and Beijing Olympics.<ref>{{Cite news|url=http://www.london2012.com/gymnastics-artistic/event/men-qualifications/phase=gam499900/doc=allaround.html|title=London 2012 Gymnastics Artistic - Results & Videos|date=2016-11-20|newspaper=International Olympic Committee|access-date=2017-01-14|archive-date=8 December 2012|archive-url=https://archive.today/20121208225824/http://www.london2012.com/gymnastics-artistic/event/men-qualifications/phase=gam499900/doc=allaround.html|url-status=live}}</ref> He did not advance following the qualification round in the floor and horizontal bar events due to not achieving eighth place or higher in either.<ref>{{Cite news|url=https://www.haaretz.com/israel-news/sports/1.735534|title=Disappointing Showings for Israeli Olympians in Day One of Rio Games|last1=Talshir|first1=Uri|date=2016-08-07|last2=Staff|first2=Haaretz Sports|newspaper=Haaretz|language=en|access-date=2017-01-14|archive-date=20 December 2016|archive-url=https://web.archive.org/web/20161220135411/http://www.haaretz.com/israel-news/sports/1.735534|url-status=live}}</ref> Shatilov's loss in the qualification rounds makes Rio his worst Olympic finish ever. In regards to the loss, he said "things didn't go as I planned, but that happens in sport and there's nothing I can do about it. You need to know how to cope with disappointments and life continues. I trained hard and wanted to have a good competition, but you can't turn the clock back. I started my floor drill well, but a small mistake cost me and I knew I had no chance after that. I never imagined a scenario like this." He performed poorly in both the floor and bar routines, scoring 13.5 points in the floor routine, and 14.066 points in the bar routine.<ref>{{cite web|url=http://jewishnews.timesofisrael.com/gymnast-stumbles-his-way-out-of-rio/|title=Gymnast Shatilov stumbles his way out of Rio|last1=Sherwood|first1=Andrew|date=August 7, 2016|access-date=January 15, 2017|website=Jewish News Online|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118112915/http://jewishnews.timesofisrael.com/gymnast-stumbles-his-way-out-of-rio/|url-status=live}}</ref> The floor exercise was riddled with errors and ended with a landing where it appeared as if he was trying to break a fall.<ref>{{cite web|url=https://www.haaretz.com/israel-news/sports/1.735534|title=Disappointing Showings for Israeli Olympians in Day One of Rio Games|date=August 7, 2016|last1=Talshir|first1=Uri|website=Haaretz|access-date=January 15, 2017|archive-date=20 December 2016|archive-url=https://web.archive.org/web/20161220135411/http://www.haaretz.com/israel-news/sports/1.735534|url-status=live}}</ref>
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan =8|Qualification
+!colspan =8|Final
+|- style="font-size:95%"
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+|- align=center
+| style="text-align:left;" rowspan="2"|[[Alexander Shatilov]]
+|align=left|[[Gymnastics at the 2016 Summer Olympics – Men's floor|Floor]]
+|13.500
+|colspan=5 {{n/a}}
+|13.500
+|58<ref>{{cite web|title=Results for Men's Artistic Gymnastics Senior - Floor Exercise|url=https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=2&idCategory=58&idFederation=|website=[[International Federation of Gymnastics|FIG]]|access-date=3 January 2017|archive-date=6 March 2021|archive-url=https://web.archive.org/web/20210306203454/https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=2&idCategory=58&idFederation=|url-status=live}}</ref>
+|colspan=8|did not advance
+|- align=center
+|align=left|[[Gymnastics at the 2016 Summer Olympics – Men's horizontal bar|Horizontal bar]]
+|colspan=5 {{n/a}}
+|14.066
+|14.066
+|44<ref>{{cite web|title=Results for Men's Artistic Gymnastics Senior - Horizontal Bar|url=https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=2&idCategory=63&idFederation=|website=[[International Federation of Gymnastics|FIG]]|access-date=3 January 2017|archive-date=6 March 2021|archive-url=https://web.archive.org/web/20210306203451/https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=2&idCategory=63&idFederation=|url-status=live}}</ref>
+|colspan=8|did not advance
+|}
+
+=== Rhythmic ===
+[[File:Neta_Rivkin_ISR_Rhythmische_Gymnastin.JPG|thumb|180px|[[Neta Rivkin]] at the [[Rhythmic Gymnastics Grand Prix Series|Rhythmic Gymnastics Grand Prix]] in Austria]]
+Israel qualified a squad of rhythmic gymnasts for the individual and group all-around by finishing in the top 15 (for individual) and top 10 (for group) at the [[2015 World Rhythmic Gymnastics Championships|2015 World Championships]] in [[Stuttgart]], Germany.<ref>{{Cite news|url=https://www.jpost.com/Israel-News/Sports/Israel-delegation-to-return-to-heros-welcome-407441|title=Israel delegation to return from Baku to hero's welcome|newspaper=[[The Jerusalem Post]]|access-date=2017-01-14|archive-date=23 May 2016|archive-url=https://web.archive.org/web/20160523175527/http://www.jpost.com/Israel-News/Sports/Israel-delegation-to-return-to-heros-welcome-407441|url-status=live |issn=0792-822X }}</ref> The competitors in the team event all made their first Olympic debut.<ref name="RhytmicResults"/> The group was considered Israel's best chance for a gold at the Olympics after they had finished in first place for the hoops and clubs disciplines at the European Championships. In the first round, Israel finished in sixth place. The team performed worse in the second round, with their score the worst among all teams. The group all-around achieved a total of 34.883 points and qualified for the final after finishing in sixth place in the qualification round. The team finished in sixth place again in the finals round with a total of 34.549 and did not win a medal.<ref>{{cite web|url=http://www.timesofisrael.com/israels-rhythmic-gymnastics-team-misses-out-on-medals-in-rio/|title=Israel rhythmic gymnastics team misses out on medals in Rio|date=August 21, 2016|access-date=January 15, 2017|website=The Times of Israel|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118120407/http://www.timesofisrael.com/israels-rhythmic-gymnastics-team-misses-out-on-medals-in-rio/|url-status=live}}</ref>
+
+[[Neta Rivkin]] was the flag bearer of the Israeli team at Rio's opening ceremony, her third Olympic Games, at the age of 24.<ref>{{cite web|url=http://www.intlgymnast.com/index.php?option=com_content&view=article&id=4641:five-female-gymnasts-flag-bearers-at-opening-ceremonies&catid=104:2016-olympic-news&Itemid=316|title=Five Female Gymnasts Flag Bearers at Opening Ceremonies|first=Amanda|last=Turner|access-date=15 January 2017|archive-date=11 October 2016|archive-url=https://web.archive.org/web/20161011103639/http://www.intlgymnast.com/index.php?option=com_content&view=article&id=4641:five-female-gymnasts-flag-bearers-at-opening-ceremonies&catid=104:2016-olympic-news&Itemid=316|url-status=live}}</ref> In her first rotation, the ball, she scored 17.866 and was in 6th place out of 26 competitors, but she dropped the hoop and ribbon in her next two rotations. She came in 13th overall in the individual qualification round, with a total score of 69.223 points, and consequently did not advance into the top 10 finals.<ref>{{cite web|url=http://www.timesofisrael.com/israels-rythmic-gymnast-out-after-qualifiers-in-rio/|title=Israel's rhythmic gymnast out after qualifiers in Rio|access-date=15 January 2017|archive-date=24 October 2016|archive-url=https://web.archive.org/web/20161024084505/http://www.timesofisrael.com/israels-rythmic-gymnast-out-after-qualifiers-in-rio/|url-status=live}}</ref> Rivkin announced her retirement from gymnastics in a press conference following the Olympics.<ref>{{cite news|title=Rhythmic Gymnastics: 2016 Olympic Games, 2016 Olympic Test Event and The World Games 2017 qualifiers confirmed|url=http://www.fig-gymnastics.com/site/figNews/view?id=1297|publisher=[[International Federation of Gymnastics|FIG]]|date=12 September 2015|access-date=17 September 2015|archive-date=14 September 2015|archive-url=https://web.archive.org/web/20150914161857/http://www.fig-gymnastics.com/site/figNews/view?id=1297|url-status=live}}</ref>
+
+{| class=wikitable style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|- style="font-size:95%"
+!Hoop
+!Ball
+!Clubs
+!Ribbon
+!Total
+!Rank
+!Hoop
+!Ball
+!Clubs
+!Ribbon
+!Total
+!Rank
+|- align=center
+|align=left|[[Neta Rivkin]]
+|align=left|[[Gymnastics at the 2016 Summer Olympics – Women's rhythmic individual all-around|Individual]]
+|17.041
+|17.866
+|17.533
+|16.783
+|69.223
+|13<ref>{{cite web|title=Results for Rhythmic Individual Senior - Individual All-Around|url=https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=6&idCategory=71&idFederation=|website=[[International Federation of Gymnastics|FIG]]|access-date=3 January 2017|archive-date=6 March 2021|archive-url=https://web.archive.org/web/20210306203449/https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=6&idCategory=71&idFederation=|url-status=live}}</ref>
+|colspan="6"|did not advance
+|}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2" |Athlete
+!rowspan="2"|Event
+!colspan="4"|Qualification
+!colspan="4"|Final
+|- style="font-size:95%"
+!5 ribbons
+!3 clubs<br />2 hoops
+!Total
+!Rank
+!5 ribbons
+!3 clubs<br />2 hoops
+!Total
+!Rank
+|- align=center
+|align=left|[[Alona Koshevatskiy]]<br />[[Ekaterina Levina]]<br />[[Karina Lykhvar]]<br />[[Ida Mayrin]]<br />[[Yuval Filo]]
+|align=left|[[Gymnastics at the 2016 Summer Olympics – Women's rhythmic group all-around|Team]]
+|17.250
+|17.633
+|34.883
+|6 '''{{abbr|Q|Qualified for final}}'''
+|17.166
+|17.383
+|34.549
+|6<ref name="RhytmicResults">{{cite web|title=Results for Rhythmic Group Senior - Group All-Around|url=https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=8&idCategory=78&idFederation=|website=[[International Federation of Gymnastics|FIG]]|access-date=3 January 2017|archive-date=6 March 2021|archive-url=https://web.archive.org/web/20210306203449/https://database.fig-gymnastics.com/public/results/display/6405?backUrl=&idAgeCategory=8&idCategory=78&idFederation=|url-status=live}}</ref>
+|}
+
+==Judo==
+[[File:GolanPolak_DSC3480_799_1200.jpg|thumb|right|180px|[[Golan Pollack]], a judoka]]
+{{main article|Judo at the 2016 Summer Olympics}}
+Israel qualified seven judokas for the Games. Six of them (three per gender), including 2015 European champion [[Sagi Muki]] and London 2012 Olympian [[Golan Pollack]], were ranked among the top 22 eligible judokas for men and top 14 for women in the [[International Judo Federation]] (IJF) World Ranking List as of 30 May 2016. [[Shira Rishony]] earned a continental quota spot from the European region as Israel's top-ranked judoka outside of direct qualifying position for the women's extra-lightweight (48&nbsp;kg) class.<ref>{{cite news|url=http://www.intjudo.eu/News/cikk3913 |archive-url=https://web.archive.org/web/20160707205937/http://www.intjudo.eu/News/cikk3913 |archive-date= 7 July 2016 |title=IJF Officially Announces Qualified Athletes for Rio 2016 Olympic Games |date=23 June 2016 |publisher=[[International Judo Federation]] |access-date=24 June 2016 |url-status=dead }}</ref>
+
+During the first two days of competition, the Israeli judokas did not win a match. [[Shira Rishony]] has lost in the first round after she was disqualified for illegally touching her opponent's leg.<ref>{{cite news|url=http://www.ynetnews.com/articles/0,7340,L-4838023,00.html|title=Rio 2016 Olympics: Israeli Judoka Shira Rishony loses in first round|newspaper=[[Ynet]]|date=6 August 2016|access-date=20 January 2017|archive-date=10 August 2016|archive-url=https://web.archive.org/web/20160810030123/http://www.ynetnews.com/articles/0,7340,L-4838023,00.html|url-status=live}}</ref> [[Golan Pollack]] lost by ippon in the second round. Also in the second round, [[Gili Cohen]] led during the first three minutes of the fight after her opponent got two shido, but lost by yuko.<ref>{{cite news|url=https://www.haaretz.com/israel-news/1.735667|title=Tough Day for Israeli Judo as Two Team Members Are Knocked Out of Contention|newspaper=[[Haaretz]]|first=Uri|last=Talshir|date=7 August 2016|access-date=20 January 2017|archive-date=7 August 2016|archive-url=https://web.archive.org/web/20160807155934/http://www.haaretz.com/israel-news/1.735667|url-status=live}}</ref>
+
+On the third day, [[Sagi Muki]] competed in the [[Judo at the 2016 Summer Olympics - Men's 73 kg|Men's 73 kg]]. He started the competition at the second round. During his first match, which was against [[Rok Drakšič]], he won by ippon. In the third round, he won by points after he scored a waza-ari during the fight. He defeated [[Nick Delpopolo]] at the quarterfinals with an ippon. Muki lost in the semifinals by points after his opponent got yuko during the fight. Muki lost the fight for the bronze medal by ippon to [[Lasha Shavdatuashvili]] and finished in fifth place.<ref>{{cite news|url=http://www.timesofisrael.com/israeli-judoka-loses-in-olympic-semifinals/|title=Israeli judoka loses in Olympic semifinals|newspaper=[[The Times of Israel]]|date=8 August 2016|access-date=20 January 2017|archive-date=8 August 2016|archive-url=https://web.archive.org/web/20160808200317/http://www.timesofisrael.com/israeli-judoka-loses-in-olympic-semifinals/|url-status=live}}</ref><ref>{{cite news|url=https://www.haaretz.com/israel-news/sports/1.735859|title=Israeli Judoka Sagi Muki Fails to Win Bronze Medal at Rio Olympics|first=Uri|last=Talshir|newspaper=[[Haaretz]]|date=9 August 2016|access-date=20 January 2017|archive-date=8 August 2016|archive-url=https://web.archive.org/web/20160808172102/http://www.haaretz.com/israel-news/sports/1.735859|url-status=live}}</ref> At the end of the competition, Muki revealed that he suffered from two slipped discs a month before the games and that he ruptured two ankle ligaments a month earlier.<ref>{{cite news|url=https://www.jpost.com/Israel-News/Sports/Sinai-Says-A-roller-coaster-of-emotions-for-Muki-463706|title=Sinai says:a roller coaster of emotions for Muki|first=Allon|last=Sinai|newspaper=[[The Jerusalem Post]]|date=10 August 2016|access-date=20 January 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201234051/http://www.jpost.com/Israel-News/Sports/Sinai-Says-A-roller-coaster-of-emotions-for-Muki-463706|url-status=live}}</ref>
+
+During the fourth day [[Yarden Gerbi]] won a bronze medal in the [[Judo at the 2016 Summer Olympics – Women's 63 kg|women's 63 kg]]. She started the competition at the second round with a win by waza-ari, awasete ippon. Gerbi lost in the quarterfinals by points after her opponent [[Mariana Silva]] got yuko during the fight. At the repechage, she won by points with a waza-ari. Finally, she won the fight for the bronze medal by points with yuko and waza-ari.<ref>{{cite news|url=https://www.jpost.com/Israel-News/Sports/Israel-wins-first-Olympic-medal-since-2008-463697|title=Israel wins first Olympic medal since 2008|first=Allon|last=Sinai|newspaper=[[The Jerusalem Post]]|date=9 August 2016|access-date=20 January 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201233904/http://www.jpost.com/Israel-News/Sports/Israel-wins-first-Olympic-medal-since-2008-463697|url-status=live}}</ref>
+
+[[Linda Bolder]] competed on the fifth day. She started the competition with two wins. During her first round match, she won by ippon after a waza-ari and at the second round, she won by points with a waza-ari. Bolder lost in the quarterfinals by ippon. She lost also at the repechage to [[María Bernabéu]].<ref>{{cite news|url=https://www.jpost.com/Breaking-News/Judoka-Linda-Boulder-falls-short-in-2016-Rio-Olympics-463784|title=Judoka Linda Bolder falls short in 2016 Rio Olympics|newspaper=[[The Jerusalem Post]]|date=10 August 2016|access-date=15 August 2016|archive-date=14 August 2016|archive-url=https://web.archive.org/web/20160814063850/http://www.jpost.com/Breaking-News/Judoka-Linda-Boulder-falls-short-in-2016-Rio-Olympics-463784|url-status=live}}</ref><ref>{{cite news|first=Allon|last=Sinai|url=https://www.jpost.com/Israel-News/Sports/Bolder-bows-out-Toumarkin-scrapes-into-semis-Nevo-just-misses-463807|title=Bolder bows out Toumarkin scrapes into semis Nevo just misses|newspaper=[[The Jerusalem Post]]|date=11 August 2016|access-date=20 January 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201234000/http://www.jpost.com/Israel-News/Sports/Bolder-bows-out-Toumarkin-scrapes-into-semis-Nevo-just-misses-463807|url-status=live}}</ref>
+
+On the last day of the competition, [[Or Sasson]] won a bronze medal in the [[Judo at the 2016 Summer Olympics - Men's +100 kg|Men's +100 kg]]. He won the first round by waza-ari, awasete-ippon against Egyptian judoka [[Islam El Shehaby]]. El Shehaby refused to shake Sasson hand at the end of the match.<ref>{{cite news|agency=Reuters|url=https://www.jpost.com/Breaking-News/Egyptian-judoka-sent-home-from-Rio-after-Israeli-handshake-refusal-464196|title=Egyptian judoka sent home from Rio after Israeli handshake refusal|newspaper=[[The Jerusalem Post]]|date=15 August 2016|access-date=20 January 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201234006/http://www.jpost.com/Breaking-News/Egyptian-judoka-sent-home-from-Rio-after-Israeli-handshake-refusal-464196|url-status=live}}</ref> At the second round, he won by points with a waza-ari. Sasson defeated [[Roy Meyer]] at the quarterfinals by points with a waza-ari but lost in the semifinals by points after [[Teddy Riner]] got waza-ari during the fight. Sasson won the fight for the bronze medal by a penalty.<ref>{{cite news|author=Nadav Zenziper and Ynetnews|url=http://www.ynetnews.com/articles/0,7340,L-4840838,00.html|title=Israeli judoka Ori Sasson wins Olympic bronze|newspaper=[[Ynet]]|date=12 August 2016|access-date=20 January 2017|archive-date=27 January 2017|archive-url=https://web.archive.org/web/20170127081616/http://www.ynetnews.com/articles/0,7340,L-4840838,00.html|url-status=live}}</ref>
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Golan Pollack]]
+|align=left|[[Judo at the 2016 Summer Olympics – Men's 66 kg|−66 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Mathews Punza|Punza]]|ZAM|2016 Summer}}<br /> '''L''' 000–100
+|colspan=6|did not advance
+|- align=center
+|align=left|[[Sagi Muki]]
+|align=left|[[Judo at the 2016 Summer Olympics – Men's 73 kg|−73 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Rok Drakšič|Drakšič]]|SLO|2016 Summer}}<br />'''W''' 100–000
+|{{flagIOCathlete|[[Igor Wandtke|Wandtke]]|GER|2016 Summer}}<br />'''W''' 010–000
+|{{flagIOCathlete|[[Nick Delpopolo|Delpopolo]]|USA|2016 Summer}}<br />'''W''' 100–000
+|{{flagIOCathlete|[[Rustam Orujov|Orujov]]|AZE|2016 Summer}}<br />'''L''' 000–001
+|{{n/a}}
+|{{flagIOCathlete|[[Lasha Shavdatuashvili|Shavdatuashvili]]|GEO|2016 Summer}}<br />'''L''' 000–100
+|5<ref>{{cite news|url=http://www.ynetnews.com/articles/0,7340,L-4839116,00.html|title=Judoka Sagi Muki comes in fifth|newspaper=[[Ynet]]|date=8 August 2016|access-date=8 August 2016|archive-date=9 August 2016|archive-url=https://web.archive.org/web/20160809152555/http://www.ynetnews.com/articles/0,7340,L-4839116,00.html|url-status=live}}</ref>
+|- align=center
+|align=left|'''[[Or Sasson]]'''
+|align=left|[[Judo at the 2016 Summer Olympics – Men's +100 kg|+100 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Islam El Shehaby|El Shehaby]]|EGY|2016 Summer}}<br />'''W''' 100–000
+|{{flagIOCathlete|[[Maciej Sarnacki|Sarnacki]]|POL|2016 Summer}}<br />'''W''' 010–000
+|{{flagIOCathlete|[[Roy Meyer|Meyer]]|NED|2016 Summer}}<br />'''W''' 010–000
+|{{flagIOCathlete|[[Teddy Riner|Riner]]|FRA|2016 Summer}}<br />'''L''' 000–010
+|{{n/a}}
+|{{flagIOCathlete|[[Alex García Mendoza|Mendoza]]|CUB|2016 Summer}}<br />'''W''' 000–000 {{abbr|S|Decision by shido}}
+|{{bronze03}}<ref>{{cite web|title=Rio de Janeiro 2016 men's +100 kg contests results|url=https://www.judobase.org/#/competition/profile/1339/contests/7|publisher=[[International Judo Federation]]|access-date=3 January 2017|archive-date=3 December 2010|archive-url=https://web.archive.org/web/20101203182145/https://www.judobase.org/#/competition/profile/1339/contests/7|url-status=live}}</ref>
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Shira Rishony]]
+|align=left|[[Judo at the 2016 Summer Olympics – Women's 48 kg|−48 kg]]
+|{{flagIOCathlete|[[Maryna Cherniak|Cherniak]]|UKR|2016 Summer}}<br />'''L''' 000–100
+|colspan=6|did not advance
+|- align=center
+|align=left|[[Gili Cohen]]
+|align=left|[[Judo at the 2016 Summer Olympics – Women's 52 kg|−52 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Christianne Legentil|Legentil]]|MRI|2016 Summer}}<br /> '''L''' 000–001
+|colspan=6|did not advance
+|- align=center
+|align=left|'''[[Yarden Gerbi]]'''
+|align=left|[[Judo at the 2016 Summer Olympics – Women's 63 kg|−63 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Maricet Espinosa|Espinosa]]|CUB|2016 Summer}}<br />'''W''' 100–001
+|{{flagIOCathlete|[[Mariana Silva|M Silva]]|BRA|2016 Summer}}<br />'''L''' 000–001
+|Did not advance
+|{{flagIOCathlete|[[Yang Junxia|Yang Jx]]|CHN|2016 Summer}}<br />'''W''' 010–000
+|{{flagIOCathlete|[[Miku Tashiro|Tashiro]]|JPN|2016 Summer}}<br />'''W''' 011–000
+|{{bronze03}}<ref>{{cite web|title=Rio de Janeiro 2016 women's -63 kg contests results|url=https://www.judobase.org/#/competition/profile/1339/contests/11|publisher=[[International Judo Federation]]|access-date=3 January 2017|archive-date=3 December 2010|archive-url=https://web.archive.org/web/20101203182145/https://www.judobase.org/#/competition/profile/1339/contests/11|url-status=live}}</ref>
+|- align=center
+|align=left|[[Linda Bolder]]
+|align=left|[[Judo at the 2016 Summer Olympics – Women's 70 kg|−70 kg]]
+|{{flagIOCathlete|[[Yolande Mabika|Mabika]]|ROT|2016 Summer}}<br />'''W''' 110–000
+|{{flagIOCathlete|[[Kim Seong-yeon|Kim S-y]]|KOR|2016 Summer}}<br />'''W''' 010–000
+|{{flagIOCathlete|[[Sally Conway|Conway]]|GBR|2016 Summer}}<br />'''L''' 000–100 
+|Did not advance
+|{{flagIOCathlete|[[María Bernabéu|Bernabéu]]|ESP|2016 Summer}}<br />'''L''' 000–000 {{abbr|S|Decision by shido}}
+|Did not advance
+|7<ref>{{cite web|title=Rio de Janeiro 2016 women's -70 kg contests results|url=https://www.judobase.org/#/competition/profile/1339/contests/12|publisher=[[International Judo Federation]]|access-date=3 January 2017|archive-date=3 December 2010|archive-url=https://web.archive.org/web/20101203182145/https://www.judobase.org/#/competition/profile/1339/contests/12|url-status=live}}</ref>
+|}
+
+==Sailing==
+[[File:Shahar_z.jpg|thumb|right|180px|[[Shahar Tzuberi]] with the bronze medal from the [[2008 Summer Olympics]]]]
+{{main article|Sailing at the 2016 Summer Olympics}}
+Israel entered six athletes into the sailing competition at the Olympics. For the RS:X class, [[Maayan Davidovich]] won the bronze medal at the women's event in the [[2014 ISAF Sailing World Championships]] while [[Nimrod Mashiah]] finished eleventh place at the Men's event. Both of them secured a place for Israel in the Olympics.<ref>{{cite web|url=http://www.rsxclass.com/2014-isaf-sailing-world-championship-afterword/|title=2014 ISAF Sailing World Championship afterword|publisher=Olympic Windsurfing Class Association|access-date=19 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202065722/http://www.rsxclass.com/2014-isaf-sailing-world-championship-afterword/|url-status=live}}</ref><ref>{{cite web|url=http://www.sailing.org/2014-ISAF-Worlds.php?view=eventoa&rgtaid=13866&regattaid=13866&evntid=31440&includeref=regattaevents25747#results__13866|title=2014 ISAF Sailing World Championships - RS:X (Men) Fleet racing Results|publisher=[[International Sailing Federation|ISAF]]|access-date=18 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202061530/http://www.sailing.org/2014-ISAF-Worlds.php?view=eventoa&rgtaid=13866&regattaid=13866&evntid=31440&includeref=regattaevents25747#results__13866|url-status=live}}</ref> In April 2016, Davidovich and [[Shahar Tzuberi]], Beijing 2008 bronze medalist, secured their spots on Israel's Olympic delegation. Tzuberi defeated Mashiah in the battle for representing Israel at the Olympics. This was the third time Tzuberi participated at the Olympic Games and the second time for Davidovich.<ref>{{cite news|last=Noy|first=Becca|url=http://www.jerusalemonline.com/news/in-israel/sports/2008-beijing-bronze-medalist-shahar-tzuberi-will-represent-israel-again-20215|title=For the third time: Windsurfer Shahar Tzuberi will represent Israel in the Olympic Games|publisher=jerusalemonline|date=2 April 2016|access-date=18 January 2017|archive-url=https://web.archive.org/web/20160403230132/http://www.jerusalemonline.com/news/in-israel/sports/2008-beijing-bronze-medalist-shahar-tzuberi-will-represent-israel-again-20215|archive-date=3 April 2016|url-status=dead|df=dmy-all}}</ref> Davidovich finished ninth in the final race, taking 24 minutes and 46 seconds to complete her sail. Her overall ranking was seventh with 78 net points. Before the final race, she was ranked fifth with 60 net points. Tzuberi failed to qualify for the finals and finished seventeenth with 160 net points.<ref>{{cite web|url=https://www.haaretz.com/israel-news/1.736876|title=Israeli Windsurfer Maayan Davidovich Fails to Fulfill Medal Hopes at Rio Olympics|date=14 August 2016|author=Haaretz Sports Staff|website=Haaretz|access-date=18 January 2017|archive-date=19 September 2016|archive-url=https://web.archive.org/web/20160919073038/http://www.haaretz.com/israel-news/1.736876|url-status=live}}</ref><ref name="MensRSXResults">{{cite web|title=2016 Summer Olympics - Results - Men's RS:X|url=http://www.espn.co.uk/olympics/summer/2016/results/_/discipline/36/event/810|website=[[ESPN]]|access-date=6 January 2017|archive-date=7 January 2017|archive-url=https://web.archive.org/web/20170107003740/http://www.espn.co.uk/olympics/summer/2016/results/_/discipline/36/event/810|url-status=live}}</ref><ref name="WomensRSXResults">{{cite web|title=2016 Summer Olympics - Results - Women's RS:X|url=http://www.espn.co.uk/olympics/summer/2016/results/_/discipline/36/event/815|website=[[ESPN]]|access-date=6 January 2017|archive-date=7 January 2017|archive-url=https://web.archive.org/web/20170107004053/http://www.espn.co.uk/olympics/summer/2016/results/_/discipline/36/event/815|url-status=live}}</ref>
+
+At the 470 class, [[Dan Froyliche]] and [[Eyal Levin]] secured a place for the Games by managing to finish twenty-fourth in the men's event at the 2015 [[470 World Championships]] that took place in Haifa.<ref>{{cite news|author=Jerusalem Post sports staff|url=https://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Dan-Froyliche-and-Eyal-Levin-462836|title=Israeli Olympic profiles: Dan Froyliche and Eyal Levin|publisher=[[The Jerusalem Post]]|date=31 July 2016|access-date=19 January 2017|archive-date=21 August 2016|archive-url=https://web.archive.org/web/20160821222042/http://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Dan-Froyliche-and-Eyal-Levin-462836|url-status=live}}</ref> [[Nina Amir]] and [[Gil Cohen (sailor)|Gil Cohen]] first teamed up in March 2016. In their first competition together at the [[Trofeo Princesa Sofía]], they finished in ninth place and secured a place on the Israeli sailing team for the Games. This was the second time Cohen represented Israel at the Olympics.<ref>{{cite news|author=Jerusalem Post sports staff|url=https://www.jpost.com/Israel-News/Sports/Nina-Amir-and-Gil-Cohen-462807|title=Israeli Olympic profiles: Nina Amir and Gil Cohen|publisher=[[The Jerusalem Post]]|date=31 July 2016|access-date=19 January 2017|archive-date=18 October 2018|archive-url=https://web.archive.org/web/20181018104201/https://www.jpost.com//Israel-News/Sports/Nina-Amir-and-Gil-Cohen-462807|url-status=live}}</ref> The two teams failed to qualify for the finals. Amir and Cohen finished seventeenth with 120 net points.<ref name="Womens470Results">{{cite web|title=2016 Summer Olympics - Results - Women's 470|url=http://www.espn.co.uk/olympics/summer/2016/results/_/event/812/discipline/36|website=[[ESPN]]|access-date=6 January 2017|archive-date=7 January 2017|archive-url=https://web.archive.org/web/20170107003938/http://www.espn.co.uk/olympics/summer/2016/results/_/event/812/discipline/36|url-status=live}}</ref> Froyliche and Levin finished twenty-first with 152 net points.<ref name="Mens470Results">{{cite web|title=2016 Summer Olympics - Results - Men's 470|url=http://www.espn.co.uk/olympics/summer/2016/results/_/event/806/discipline/36|website=[[ESPN]]|access-date=6 January 2017|archive-date=7 January 2017|archive-url=https://web.archive.org/web/20170107004201/http://www.espn.co.uk/olympics/summer/2016/results/_/event/806/discipline/36|url-status=live}}</ref>
+
+{{smalldiv|1=<nowiki/>
+;Key
+*M = Medal race
+*EL = Eliminated – did not advance into the medal race
+*N/A = Round not applicable for the event
+*DNF = Did not finish
+*DSQ = Disqualified}}
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=13|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!M
+|- align=center
+|align=left|[[Shahar Tzuberi]]
+|align=left|[[Sailing at the 2016 Summer Olympics – Men's RS:X|Men's RS:X]]
+|9
+|17
+|20
+|22
+|DNF<br/><s>(37)</s>
+|18
+|19
+|6
+|7
+|17
+|21
+|4
+|EL
+|160
+|17<ref name="MensRSXResults"/>
+|- align=center
+|align=left|[[Dan Froyliche]]<br />[[Eyal Levin]]
+|align=left|[[Sailing at the 2016 Summer Olympics – Men's 470|Men's 470]]
+|7
+|15
+|17
+|21
+|21
+|20
+|16
+|19
+|<s>22</s>
+|16
+|colspan=2 {{n/a}}
+|EL
+|152
+|21<ref name="Mens470Results"/>
+|- align=center
+|align=left|[[Maayan Davidovich]]
+|align=left|[[Sailing at the 2016 Summer Olympics – Women's RS:X|Women's RS:X]]
+|5
+|6
+|6
+|11
+|4
+|3
+|2
+|<s>15</s>
+|14
+|5
+|2
+|2
+|9
+|78
+|7<ref name="WomensRSXResults"/>
+|- align=center
+|align=left|[[Nina Amir]]<br />[[Gil Cohen (sailor)|Gil Cohen]]
+|align=left|[[Sailing at the 2016 Summer Olympics – Women's 470|Women's 470]]
+|DSQ<br/><s>(21)</s>
+|9
+|19
+|15
+|17
+|17
+|15
+|5
+|10
+|13
+|colspan=2 {{n/a}}
+|EL
+|120
+|17<ref name="Womens470Results"/>
+|}
+
+==Shooting==
+[[File:SergeyRikhter_DSC3006_799_1200.jpg|thumb|right|180px|[[Sergey Rikhter]], an Israeli sharpshooter]]
+{{main article|Shooting at the 2016 Summer Olympics}} 
+Sergey Richter qualified to compete in the event by winning a medal in the [[2015 European Games]].<ref name="jpostrichter">{{cite news|first=Allon|last=Sinai|title=Israeli shooter Richter wins medal at Baku, qualifies for Rio Olympics|url=https://www.jpost.com/Israel-News/Sports/Israeli-shooter-Richter-wins-medal-at-Baku-qualifies-for-Rio-Olympics-406219|publisher=[[The Jerusalem Post]]|date=16 June 2015|access-date=30 December 2016|archive-date=30 December 2016|archive-url=https://web.archive.org/web/20161230230832/http://www.jpost.com/Israel-News/Sports/Israeli-shooter-Richter-wins-medal-at-Baku-qualifies-for-Rio-Olympics-406219|url-status=live}}</ref><ref>{{cite web|url=http://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|title=Quota Places by Nation and Number|date=30 May 2016|publisher=[[International Shooting Sport Federation|ISSF]]|access-date=30 May 2016|archive-date=4 August 2016|archive-url=https://web.archive.org/web/20160804170828/http://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|url-status=live}}</ref> This was Richter's second Olympics. He placed 9th at the London Olympics, missing the finals by one place.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Sergey-Richter-462844|title=Israeli Olympic Profiles: Sergey Richter|date=July 31, 2016|access-date=January 14, 2017|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116162439/http://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Sergey-Richter-462844|url-status=live}}</ref> In regards to qualifying for Rio, Richter said "the pressure ahead of Baku was unbearable and it took me a few seconds to regain my composure in the final once I realized I clinched my place in the Olympics."<ref name="jpostrichter"/> Richter scored 623.8 out of a possible 654.0 points during the qualification round of the 10 m air rifle. He would have needed a score of at least 625.5 to qualify for the finals.<ref>{{cite web|url=https://www.bbc.com/sport/olympics/rio-2016/results/sports/shooting/10m-air-rifle-men|title=Shooting: 10m Air Rifle Men|website=BBC|access-date=January 14, 2017|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116194827/http://www.bbc.com/sport/olympics/rio-2016/results/sports/shooting/10m-air-rifle-men|url-status=live}}</ref> For the 50 m rifle prone, he scored 622.6 points. He required a score of at least 624.8 to qualify for the final round.<ref>{{cite web|url=https://www.bbc.com/sport/olympics/rio-2016/results/sports/shooting/50m-rifle-prone-men|title=Shooting: 50m Rifle Prone Men|access-date=January 14, 2017|website=BBC|archive-date=12 August 2017|archive-url=https://web.archive.org/web/20170812010744/http://www.bbc.com/sport/olympics/rio-2016/results/sports/shooting/50m-rifle-prone-men|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|- align=center
+| style="text-align:left;" rowspan="2"|[[Sergey Richter]]
+|align=left|[[Shooting at the 2016 Summer Olympics – Men's 10 metre air rifle|Men's 10 m air rifle]]
+|623.8
+|14<ref>{{cite web|url=http://www.timesofisrael.com/liveblog_entry/israels-olympic-air-rifle-hopeful-rikhter-falls-short/|title=Israel's Olympic air rifle hopeful Rikhter falls short|publisher=The Times of Israel|date=8 August 2016|access-date=15 August 2016|archive-date=13 August 2016|archive-url=https://web.archive.org/web/20160813060824/http://www.timesofisrael.com/liveblog_entry/israels-olympic-air-rifle-hopeful-rikhter-falls-short/|url-status=live}}</ref>
+|colspan=2|did not advance
+|- style="text-align:center;"
+|align=left|[[Shooting at the 2016 Summer Olympics – Men's 50 metre rifle prone|Men's 50 m rifle prone]]
+|622.6
+|15<ref>{{cite web|url=http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHISRM2304198901|title=Portrait of Richter Sergey|publisher=[[International Shooting Sport Federation|ISSF]]|access-date=3 January 2017|archive-date=24 October 2016|archive-url=https://web.archive.org/web/20161024174539/http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHISRM2304198901|url-status=live}}</ref>
+| colspan="2" |Did not advance
+|}
+<small>Qualification Legend: '''Q''' = Qualify for the next round; '''q''' = Qualify for the bronze medal (shotgun)</small>
+
+==Swimming==
+[[File:Yakov_Toumarkin_2.JPG|thumb|right|180px|[[Yakov-Yan Toumarkin]] in the Israeli Championships for swimming in 2010]]
+[[File:Keren_Ziebner_2.jpg|thumb|180px|[[Keren Siebner]] after winning a gold medal in 50 m freestyle at Israel Swimming Championships (25-meter pool)]]
+{{main article|Swimming at the 2016 Summer Olympics}}
+Seven athletes qualified in the swimming events - six in individual events and one ([[Keren Siebner]]) in the relay events. The qualifying standards are up to a maximum of 2 swimmers in each event at the Olympic Qualifying Time (OQT), and potentially 1 at the Olympic Selection Time (OST).<ref>{{cite news|title=Rio 2016 – FINA Swimming Qualification System |url=http://www.fina.org/H2O/docs/events/rio2016/2014-07%20-%20Rio%202016%20-%20Qualification%20System%20-%20FINAL%20-%20Swimming%20-%20EN.pdf |archive-url=https://web.archive.org/web/20150221025939/http://www.fina.org/H2O/docs/events/rio2016/2014-07%20-%20Rio%202016%20-%20Qualification%20System%20-%20FINAL%20-%20Swimming%20-%20EN.pdf |archive-date=21 February 2015 |work=[[Rio 2016]] |publisher=[[FINA]] |access-date=23 January 2015 |url-status=dead }}</ref>
+
+[[Yakov Toumarkin]] qualified at the 2015 Israel swimming State Cup after finishing the men's 200 metre backstroke final in 1:58.20 minutes.<ref name="Toumarkin&MurezQ">{{cite news|url=https://www.jpost.com/Israel-News/Sports/Israeli-swimmers-qualify-for-Rio-Olympics-398527|title=Israeli swimmers qualify for Rio Olympics|publisher=[[The Jerusalem Post]]|date=19 April 2015|access-date=20 January 2017|archive-date=1 February 2017|archive-url=https://web.archive.org/web/20170201234719/http://www.jpost.com/Israel-News/Sports/Israeli-swimmers-qualify-for-Rio-Olympics-398527|url-status=live}}</ref> He competed in the men's 100 and 200 metre backstroke and was the only swimmer who managed to qualify for the semifinals but did not advance to the finals.<ref name="Men200mBack"/> [[Ziv Kalontorov]] qualified at the [[2015 European Games]] after he won a gold medal in the men's 50 metre freestyle with a time of 22.16 seconds, breaking the Israeli record.<ref>{{cite news|author=Tazpit, Ynetnews|url=http://www.ynetnews.com/articles/0,7340,L-4673803,00.html|title=Israelis bring home 12 medals as 2015 European Games wrap up|publisher=[[Ynet]]|date=29 June 2015|access-date=20 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202000703/http://www.ynetnews.com/articles/0,7340,L-4673803,00.html|url-status=live}}</ref> He competed in the men's 50 and 100 metre freestyle. [[Gal Nevo]] qualified after he won a silver medal at the [[2016 European Aquatics Championships]] in London in the men's 200 metre individual medley with a time of 1:59.69 minutes.<ref>{{cite news|last=Pileggi|first=Tamar|url=http://www.timesofisrael.com/israels-gal-nevo-takes-silver-at-european-swimming-finals/|title=Israel's Gal Nevo takes silver at European swimming finals|publisher=[[The Times of Israel]]|date=19 May 2016|access-date=20 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202123849/http://www.timesofisrael.com/israels-gal-nevo-takes-silver-at-european-swimming-finals/|url-status=live}}</ref> He competed in the men's 200 metre butterfly, 200 and 400 metre individual medley.<ref name="swimmerflounder">{{cite news|url=http://www.timesofisrael.com/israeli-swimmer-squeaks-into-rio-semis-others-flounder/|title=Israeli swimmer squeaks into Rio semis, others flounder|publisher=[[The Times of Israel]]|date=10 August 2016|access-date=4 January 2017|archive-date=5 January 2017|archive-url=https://web.archive.org/web/20170105000126/http://www.timesofisrael.com/israeli-swimmer-squeaks-into-rio-semis-others-flounder/|url-status=live}}</ref>
+
+[[Andrea Murez]] and [[Amit Ivry]] qualified at the 2015 Israel swimming State Cup. Murez qualified after finishing the women's 50 metre freestyle in 25.12 seconds, which registered a new national record time.<ref name="Toumarkin&MurezQ"/> She competed in the women's 50 and 100  metre freestyle buy did not start in the 200 metre freestyle. She also competed in the 4×100 metre freestyle relay.<ref name="MurezDNS"/> Ivry qualified after finishing the women's 100 metre breaststroke in 1:07.47 minutes and broke the national record she set at 2014.<ref>{{cite news|last=Alagem|first=Shiri|url=http://www.sport5.co.il/articles.aspx?FolderID=1659&docID=188632&lang=HE|script-title=he:שוחה לריו. עמית עברי הבטיחה את מקומה באולימפיאדה|trans-title=Swimming to Rio. Amit Ivry secured her spot in the Olympics|language=he|publisher=[[Sport 5]]|date=20 April 2015|access-date=20 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202000948/http://www.sport5.co.il/articles.aspx?FolderID=1659&docID=188632&lang=HE|url-status=live}}</ref> She competed in the women's 100 and 200 metre breaststroke and the 100 metre butterfly. [[Zohar Shikler]] qualified at the 2016 Israel swimming State Cup after finishing the women's 50 metre freestyle in 25.18 seconds.<ref>{{cite news|last=Aharoni|first=Oren|url=http://www.ynet.co.il/articles/0,7340,L-4788728,00.html|script-title=he:זוהר שיקלר הבטיחה את הכרטיס לריו 2016|trans-title=Zohar Shikler secured her ticket to Rio 2016|language=he|publisher=[[Ynet]]|date=7 April 2016|access-date=20 January 2017|archive-date=6 August 2016|archive-url=https://web.archive.org/web/20160806101151/http://www.ynet.co.il/articles/0,7340,L-4788728,00.html|url-status=live}}</ref> She also competed in the women's 50 metre freestyle.<ref name="swimmerflounder"/>
+
+[[Keren Siebner]] competed with Murez, Ivry and Shikler in the women's 4×100 metre freestyle relay after FINA reviewed swimmers' results of all relay teams and found out that one of the relay teams did not meet the qualifications.<ref>{{cite web|url=http://www.isrswimming.com/single-post/2016/07/25/Keren-Siebners-Surprise-ticket-to-Rio-Olympic-Games|title=Keren Siebner's Surprise ticket to Rio Olympic Games!|publisher=Swimming Israel|date=25 July 2016|access-date=20 January 2017|archive-date=2 February 2017|archive-url=https://web.archive.org/web/20170202165626/http://www.isrswimming.com/single-post/2016/07/25/Keren-Siebners-Surprise-ticket-to-Rio-Olympic-Games|url-status=live}}</ref> They finished sixteenth with a time of 3:41.97 minutes.<ref name="relayrank">{{cite web|url=http://www.fina.org/competition-detailed-results/3946/9884|title=Results Olympic Games Rio 2016 - Women Relays Freestyle 4x100m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017}}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+!Summary
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Rank
+|- align=center
+| rowspan="2" style="text-align:left;"|[[Ziv Kalontarov]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 50 metre freestyle|50 m freestyle]]
+|22.80
+|41<ref>{{Cite web |title=Men's 50m Freestyle Schedule & Results – Olympic Swimming |url=https://www.rio2016.com/en/swimming-mens-50m-freestyle-heat-8 |url-status=dead |archive-url=https://web.archive.org/web/20160922170747/https://www.rio2016.com/en/swimming-mens-50m-freestyle-heat-8 |archive-date=2016-09-22 |website=Rio 2016}}</ref>
+|colspan="4" |Did not advance
+|42<ref>{{Cite web |title=Rio 2016 Swimming 50m freestyle men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/50m-freestyle-men |url-status=live |archive-url=https://web.archive.org/web/20240926085548/https://olympics.com/en/olympic-games/rio-2016/results/swimming/50m-freestyle-men |archive-date=2024-09-26 |access-date=2025-04-01 |publisher=International Olympic Committee}}</ref>
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|50.64
+|45<ref>{{cite web|url=https://www.reuters.com/article/olympics-swimming-men-results-idUSISS769273|title=Olympics Swimming Men's 100m freestyle heats results|publisher=reuters|date=9 August 2016|access-date=4 January 2017|archive-date=4 January 2017|archive-url=https://web.archive.org/web/20170104234342/http://www.reuters.com/article/olympics-swimming-men-results-idUSISS769273|url-status=live}}</ref>
+| colspan="4" |Did not advance
+|46<ref>{{Cite web |title=Rio 2016 Swimming 100m freestyle men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/100m-freestyle-men |url-status=live |archive-url=https://web.archive.org/web/20241001055611/https://olympics.com/en/olympic-games/rio-2016/results/swimming/100m-freestyle-men |archive-date=2024-10-01 |access-date=2025-04-01 |publisher=International Olympic Committee}}</ref>
+|- style="text-align:center;"
+| rowspan="3" style="text-align:left;"|[[Gal Nevo]]
+| style="text-align:left;"|[[Swimming at the 2016 Summer Olympics – Men's 200 metre butterfly|200 m butterfly]]
+|1:58.64
+|26<ref>{{Cite web |title=Men's 200m Butterfly Schedule & Results – Olympic Swimming |url=https://www.rio2016.com/en/swimming-mens-200m-butterfly-heat-1 |url-status=dead |archive-url=https://web.archive.org/web/20160922162442/https://www.rio2016.com/en/swimming-mens-200m-butterfly-heat-1 |archive-date=2016-09-22 |website=Rio 2016}}</ref>
+| colspan="4" |Did not advance
+|26<ref>{{Cite web |title=Rio 2016 Swimming 200m butterfly men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/200m-butterfly-men |url-status=live |archive-url=https://web.archive.org/web/20241001055622/https://olympics.com/en/olympic-games/rio-2016/results/swimming/200m-butterfly-men |archive-date=2024-10-01 |access-date=2025-04-02 |publisher=International Olympic Committee}}</ref>
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 200 metre individual medley|200 m individual medley]]
+|1:59.80
+|17<ref>{{cite web|url=http://www.fina.org/competition-detailed-results/3940/9884|title=Results Olympic Games Rio 2016 - Men Medley 200m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017}}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}<!-- previous citation (also now dead link): {{cite web|url=http://results.nbcolympics.com/swimming/event/men-200m-medley/phase=swm052900/index.html|title=Rio 2016 Olympic Games - Swimming|publisher=|accessdate=15 August 2016}} --></ref>
+| colspan="4" |Did not advance
+|17<ref>{{Cite web |title=Rio 2016 Swimming 200m individual medley men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/200m-individual-medley-men |url-status=live |archive-url=https://web.archive.org/web/20241001055632/https://olympics.com/en/olympic-games/rio-2016/results/swimming/200m-individual-medley-men |archive-date=2024-10-01 |access-date=2025-04-02 |publisher=International Olympic Committee}}</ref>
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 400 metre individual medley|400 m individual medley]]
+|4:18.29
+|19<ref>{{cite web|url=http://www.fina.org/competition-detailed-results/3941/9884|title=Results Olympic Games Rio 2016 - Men Medley 400m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017|archive-date=1 May 2017|archive-url=https://web.archive.org/web/20170501121318/http://www.fina.org/competition-detailed-results/3941/9884|url-status=live}}</ref>
+|colspan=2 {{n/a}}
+|colspan=2|did not advance
+|19<ref>{{Cite web |title=Rio 2016 Swimming 400m individual medley men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/400m-individual-medley-men |url-status=live |archive-url=https://web.archive.org/web/20241001055643/https://olympics.com/en/olympic-games/rio-2016/results/swimming/400m-individual-medley-men |archive-date=2024-10-01 |access-date=2025-04-02 |publisher=International Olympic Committee}}</ref>
+|- align=center
+| style="text-align:left;" rowspan="2"|[[Yakov Toumarkin]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 100 metre backstroke|100 m backstroke]]
+|54.66
+|27<ref name="tourmarkinfails">{{cite news|last=Sherwood|first=Andrew|url=http://jewishnews.timesofisrael.com/tourmarkin-fails-to-reach-swimming-semi-finals/|title=Tourmarkin fails to reach swimming semi-finals|publisher=[[The Times of Israel]]|date=7 August 2016|access-date=15 August 2016|archive-date=8 August 2016|archive-url=https://web.archive.org/web/20160808145445/http://jewishnews.timesofisrael.com/tourmarkin-fails-to-reach-swimming-semi-finals/|url-status=live}}</ref>
+|colspan=4|did not advance
+|27<ref>{{Cite web |title=Rio 2016 Swimming 100m backstroke men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/100m-backstroke-men |url-status=live |archive-url=https://web.archive.org/web/20241222161636/https://olympics.com/en/olympic-games/rio-2016/results/swimming/100m-backstroke-men |archive-date=2024-12-22 |access-date=2025-04-02 |publisher=International Olympic Committee}}</ref>
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]]
+|1:57.58
+|16 '''Q'''
+|1:58.63
+|15<ref name="Men200mBack">{{cite web|url=http://www.fina.org/competition-detailed-results/3921/9884|title=Results Olympic Games Rio 2016 - Men Backstroke 200m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017|archive-date=21 May 2017|archive-url=https://web.archive.org/web/20170521024357/http://www.fina.org/competition-detailed-results/3921/9884|url-status=live}}</ref>
+|colspan=2|did not advance
+|15<ref>{{Cite web |title=Rio 2016 Swimming 200m backstroke men Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/200m-backstroke-men |url-status=live |archive-url=https://web.archive.org/web/20250120182054/https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/200m-backstroke-men |archive-date=2025-01-20 |access-date=2025-04-02 |publisher=International Olympic Committee}}</ref>
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- style="text-align:center;"
+| style="text-align:left;" rowspan="3"|[[Amit Ivry]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:09.42
+|29<ref name="tourmarkinfails"/>
+| colspan="4" |Did not advance
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+|2:31.49
+|28<ref>{{cite web|url=http://www.fina.org/competition-detailed-results/3927/9884|title=Results Olympic Games Rio 2016 - Women Breaststroke 200m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017|archive-date=10 August 2017|archive-url=https://web.archive.org/web/20170810041159/http://www.fina.org/competition-detailed-results/3927/9884|url-status=live}}</ref>
+|colspan="4" |Did not advance
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 100 metre butterfly|100 m butterfly]]
+|59.42
+|26<ref>{{cite web|url=http://www.fina.org/competition-detailed-results/1440/9884|title=Results Olympic Games Rio 2016 - Women Butterfly 100m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017}}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|colspan=4|did not advance
+|- style="text-align:center;"
+| style="text-align:left;" rowspan="3"|[[Andrea Murez]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|25.41
+|35<ref name="WomenFreestyle50">{{cite web|url=http://www.fina.org/competition-detailed-results/3935/9884|title=Results Olympic Games Rio 2016 - Women Freestyle 50m|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017|archive-date=21 May 2017|archive-url=https://web.archive.org/web/20170521024231/http://www.fina.org/competition-detailed-results/3935/9884|url-status=live}}</ref>
+| colspan="4" |Did not advance
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|55.47
+|30<ref name="swimmerflounder"/>
+|colspan=4|did not advance
+|- align=center
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 200 metre freestyle|200 m freestyle]]
+|colspan=2|{{abbr|DNS|Did not start}}<ref name="MurezDNS">{{Cite web |title=Rio 2016 Swimming 200m freestyle women Results |url=https://www.olympics.com/en/olympic-games/rio-2016/results/swimming/200m-freestyle-women |url-status=live |archive-url=https://web.archive.org/web/20241001055628/https://olympics.com/en/olympic-games/rio-2016/results/swimming/200m-freestyle-women |archive-date=2024-10-01 |access-date=2025-04-01 |publisher=International Olympic Committee}} / {{Cite web |title=Andrea MUREZ |url=https://www.olympics.com/en/athletes/andrea-murez |url-status=live |archive-url=https://web.archive.org/web/20250219180855/https://www.olympics.com/en/athletes/andrea-murez |archive-date=2025-02-19 |access-date=2025-04-01 |publisher=International Olympic Committee}}</ref>
+|colspan=4|did not advance
+|- style="text-align:center;"
+|align=left|[[Zohar Shikler]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 50 metre freestyle|50 m freestyle]]
+|25.38
+|33<ref name="WomenFreestyle50"/>
+| colspan="4" |Did not advance
+|- style="text-align:center;"
+|align=left|[[Amit Ivry]]<br />[[Andrea Murez]]<br />[[Zohar Shikler]]<br />[[Keren Siebner]]
+|align=left|[[Swimming at the 2016 Summer Olympics – Women's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|3:41.97
+|16<ref name="relayrank"/>
+|colspan=2 {{n/a}}
+|colspan=2|did not advance
+|}
+
+==Synchronized swimming==
+{{main article|Synchronized swimming at the 2016 Summer Olympics}}
+Israel fielded a squad of two synchronized swimmers to compete in the women's duet by virtue of their twelfth-place finish at the FINA Olympic test event in [[Rio de Janeiro]].<ref>{{cite news|first=Daniel|last=Etchells|title=Ukraine land first-ever Olympic synchronised swimming team event berth at Rio 2016 qualifier|url=http://www.insidethegames.biz/articles/1035136/ukraine-land-first-ever-olympic-synchronised-swimming-team-event-berth-at-rio-2016-qualifier|publisher=Inside the Games|date=7 March 2016|access-date=8 March 2016|archive-date=8 March 2016|archive-url=https://web.archive.org/web/20160308125336/http://www.insidethegames.biz/articles/1035136/ukraine-land-first-ever-olympic-synchronised-swimming-team-event-berth-at-rio-2016-qualifier|url-status=live}}</ref> [[Anastasia Gloushkov]] competed in her fourth Olympics, becoming the first Israeli woman to compete in four Olympics. Even though Gloushkov gave birth after the London Olympics, she still trained enough to compete in the Rio Olympics.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Ievgenia-Tetelbaum-and-Anastasia-Gloushkov-Leventhal-462854|title=Israeli Olympic Profiles: Ievgenia Tetelbaum and Anastasia Gloushkov Leventhal|website=The Jerusalem Post|access-date=January 14, 2017|date=July 31, 2017|archive-date=16 January 2017|archive-url=https://web.archive.org/web/20170116165240/http://www.jpost.com/Israel-News/Sports/Israeli-Olympic-profiles-Ievgenia-Tetelbaum-and-Anastasia-Gloushkov-Leventhal-462854|url-status=live}}</ref> The duo scored 79.4488 points in the technical routine, placing 20th in that portion. They placed 21st in the free routine, scoring 78.9000 points. Their combined score was 158.3488, garnering 20th place overall. To qualify for the finals, they required a score better than 170.3304 points.<ref>{{cite web|url=https://www.bbc.com/sport/olympics/rio-2016/results/sports/synchronised-swimming/duets|title=Synchronised Swimming: Duets|website=BBC|access-date=January 14, 2017|archive-date=5 April 2018|archive-url=https://web.archive.org/web/20180405141736/http://www.bbc.com/sport/olympics/rio-2016/results/sports/synchronised-swimming/duets|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Free routine (preliminary)
+!colspan=3|Technical routine
+!colspan=3|Free routine (final)
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+|- align=center
+|align=left|[[Anastasia Gloushkov]]<br />[[Ievgeniia Tetelbaum]]
+|align=left|[[Synchronized swimming at the 2016 Summer Olympics – Women's duet|Duet]]
+|78.9000
+|21
+|79.4488
+|158.3488
+|20<ref>{{cite web|title=Results Olympic Games Rio 2016 - Women Duet|url=http://www.fina.org/competition-detailed-results/1433/9884|publisher=[[World Aquatics|FINA]]|access-date=3 January 2017|archive-date=17 August 2017|archive-url=https://web.archive.org/web/20170817215335/http://www.fina.org/competition-detailed-results/1433/9884|url-status=live}}</ref>
+|colspan="3"|did not advance
+|}
+
+==Taekwondo==
+{{main article|Taekwondo at the 2016 Summer Olympics}} 
+Israel entered one athlete into the taekwondo competition at the Olympics. [[Ron Atias]] secured a place in the men's flyweight category (58&nbsp;kg) by virtue of his top two finish at the [[2016 European Taekwondo Olympic Qualification Tournament|2016 European Qualification Tournament]] in [[Istanbul]], [[Turkey]].<ref>{{cite news|url=http://www.worldtaekwondofederation.net/refugee-athlete-among-16-taekwondo-fighters-to-secure-rio-2016-place-at-european-qualification-tournament/|title=Refugee Athlete Among 16 Taekwondo Fighters to Secure Rio 2016 Place at European Qualification Tournament|publisher=[[World Taekwondo Federation]]|date=18 January 2016|access-date=21 January 2016|archive-date=24 January 2016|archive-url=https://web.archive.org/web/20160124164423/http://www.worldtaekwondofederation.net/refugee-athlete-among-16-taekwondo-fighters-to-secure-rio-2016-place-at-european-qualification-tournament/|url-status=live}}</ref> He is the first-ever Israeli male taekwondo athlete to compete in the Olympics.<ref>{{Cite news|url=http://www.israel21c.org/taekwondo-athlete-wins-rio-olympics-berth/|title=Taekwondo athlete wins Rio Olympics berth|newspaper=Israel21c|access-date=2017-01-14|archive-date=10 March 2017|archive-url=https://web.archive.org/web/20170310152947/https://www.israel21c.org/taekwondo-athlete-wins-rio-olympics-berth/|url-status=live}}</ref>
+
+In the first round, Teixeira connected with a head kick for three points. He delivered another blow to Atias' head in the second round, bringing the score to 8:0. Atias' coach got the score adjusted to 7:0 after a discussion with the judges. Teixeira's success continued, scoring 16 total points by the end of the third round. Atias' only scored two points after being penalized for an illegal kick to the legs. Atias lost in the round of 16 against [[Venilton Teixeira]] from [[Brazil]] by point gap of 2–16.<ref name="AtiasDrawsheet"/> Atias would have had a chance to compete for the bronze medal if Teixeira reached the finals, however he failed to do so and therefore Atias was eliminated from competition.<ref>{{cite web|url=http://www.timesofisrael.com/israels-taekwondo-olympian-has-medal-hopes-dashed/|title=Israel's Taekwondo Olympian has Medal Hopes Dashed|date=August 17, 2016|last1=Winer|first1=Stuart|access-date=January 15, 2017|website=The Times of Israel|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118112752/http://www.timesofisrael.com/israels-taekwondo-olympian-has-medal-hopes-dashed/|url-status=live}}</ref>
+
+{|class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{tooltip|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|- align=center
+|align=left|[[Ron Atias]]
+|align=left|[[Taekwondo at the 2016 Summer Olympics – Men's 58 kg|Men's −58 kg]]
+|{{flagIOCathlete|[[Venilton Teixeira|Teixeira]]|BRA|2016 Summer}}<br />'''L''' 2–16 {{abbr|PTG|Decision by points gap}}<ref name="AtiasDrawsheet">{{cite web|title=Draw Sheet Men –58 kg|url=http://www.worldtaekwondofederation.net/rio2016/result-pdf/Drawsheet_M-58kg.pdf|website=[[World Taekwondo Federation]]|access-date=4 January 2017|archive-date=9 September 2016|archive-url=https://web.archive.org/web/20160909235129/http://www.worldtaekwondofederation.net/rio2016/result-pdf/Drawsheet_M-58kg.pdf|url-status=live}}</ref>
+|colspan=5|did not advance
+|}
+
+==Tennis==
+[[File:Sela_QC13-010_(9429806924).jpg|thumb|180px|[[Dudi Sela]] at [[Queen's Club Championships|Queen's Club]] 2013]]
+{{main article|Tennis at the 2016 Summer Olympics}}
+Israel entered one male tennis player into the Olympic tournament. [[Dudi Sela]] (world no. 65) qualified directly to the event as one of the top 56 eligible players in the [[ATP rankings|ATP World Rankings]] {{As of|2016|June|6|lc=y}}, making him the first Israeli to compete in the men's singles tournament since 1992, when [[Gilad Bloom]] lost his second round match to [[Jim Courier]] of the United States.<ref>{{cite news|url=http://www.itftennis.com/news/232270.aspx|title=ITF announces entries for Rio 2016 Olympics|publisher=[[International Tennis Federation]]|date=30 June 2016|access-date=1 July 2016|archive-date=24 August 2016|archive-url=https://web.archive.org/web/20160824185413/http://www.itftennis.com/news/232270.aspx|url-status=live}}</ref> In the round of 64, Sela won both sets 6–4 against [[Damir Džumhur]] from [[Bosnia and Herzegovina|Bosnia]]. During the hour and a half match, there was a five-minute stoppage when Dzumhur claimed fans were cursing at him from the crowd.<ref>{{cite web|url=http://www.timesofisrael.com/israel-defeats-bosnia-in-olympic-tennis-round-1/|title=Israeli tennis champ defeats Bosnian in Olympic round 1|date=August 7, 2016|access-date=January 15, 2017|website=The Times of Israel|archive-date=10 August 2016|archive-url=https://web.archive.org/web/20160810010741/http://www.timesofisrael.com/israel-defeats-bosnia-in-olympic-tennis-round-1/|url-status=live}}</ref>  Sela failed to advance following the round of 32 after being beaten by [[David Goffin]] (ranked 13th in the world) from [[Belgium]] 3–6 in both sets.<ref>{{cite news|first=Allon|last=Sinai|url=https://www.jpost.com/Israel-News/Sports/Sela-set-to-compete-for-blue-and-white-at-Rio-Olympics-456125|title=Sela set to compete for blue-and-white at Rio Olympics|publisher=[[Jerusalem Post]]|date=6 June 2016|access-date=7 June 2016|archive-date=8 June 2016|archive-url=https://web.archive.org/web/20160608060446/http://www.jpost.com/Israel-News/Sports/Sela-set-to-compete-for-blue-and-white-at-Rio-Olympics-456125|url-status=live}}</ref><ref>{{Cite web|url=http://www.rio.itftennis.com/olympics/draws|title=Olympic Tennis Event Rio 2016|publisher=International Tennis Federation|access-date=2017-01-14|archive-url=https://web.archive.org/web/20160811152455/http://www.rio.itftennis.com/olympics/draws|archive-date=11 August 2016|url-status=dead}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br /> Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Dudi Sela]]
+|align=left|[[Tennis at the 2016 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCathlete|[[Damir Džumhur|Džumhur]]|BIH|2016 Summer}}<br />'''W''' 6–4, 6–4<ref>{{cite news|url=http://www.timesofisrael.com/israel-defeats-bosnia-in-olympic-tennis-round-1/|title=Israeli tennis champ defeats Bosnian in Olympic round 1|publisher=[[The Times of Israel]]|date=7 August 2016|access-date=15 August 2016|archive-date=10 August 2016|archive-url=https://web.archive.org/web/20160810010741/http://www.timesofisrael.com/israel-defeats-bosnia-in-olympic-tennis-round-1/|url-status=live}}</ref>
+|{{flagIOCathlete|[[David Goffin|Goffin]]|BEL|2016 Summer}}<br />{{0}}'''L''' 3–6, 3–6<ref>{{cite news|first=Ronnie|last=Rear|url=http://www.tennisworldusa.org/news/news/ATP_Tennis/35216/rio-olympics-men-s-singles-andy-murray-and-rafael-nadal-race-through-/|title=Rio Olympics - Men's Singles: Andy Murray and Rafael Nadal Race Through|publisher=Tennis World Magazine|date=9 August 2016|access-date=15 August 2016|archive-date=22 September 2016|archive-url=https://web.archive.org/web/20160922200639/http://www.tennisworldusa.org/news/news/ATP_Tennis/35216/rio-olympics-men-s-singles-andy-murray-and-rafael-nadal-race-through-/|url-status=live}}</ref>
+|colspan=5|did not advance
+|}
+
+==Triathlon==
+[[File:Ron_Darmon.jpg|thumb|180px|[[Ron Darmon]] preparing before the race in the [[2016 Summer Olympics]]]]
+{{main article|Triathlon at the 2016 Summer Olympics}} 
+Israel entered one triathlete to compete at the Games, signifying the nation's Olympic debut in the sport.<ref name="sinaisays"/>  [[Ron Darmon]] was ranked among the top 43 eligible triathletes in the men's event based on the ITU Olympic Qualification List as of 15 May 2016.<ref>{{cite news|title=Swimming: Plenty at stake for Israelis in European championships pool|url=https://www.jpost.com/Israel-News/Sports/Swimming-Plenty-at-stake-for-Israelis-in-European-championships-pool-454085|publisher=[[The Jerusalem Post]]|date=16 May 2016|access-date=18 May 2016|archive-date=19 May 2016|archive-url=https://web.archive.org/web/20160519000942/http://www.jpost.com/Israel-News/Sports/Swimming-Plenty-at-stake-for-Israelis-in-European-championships-pool-454085|url-status=live}}</ref> On the topic of being the first Israeli triathlete at the Olympics, he said "Records can be broken but being the first one, that can never be taken away. I'm pretty happy about that." He also said that he did not expect to qualify for Rio, and that he expected his first Olympic qualification to be for Tokyo.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Israeli-triathlete-Darmon-rolls-into-Rio-for-1st-Olympics-461993|title=Israeli Triathlete Darmon Rolls Into Rio for 1st Olympics|access-date=January 14, 2017|last1=Newman|first1=Logan|date=July 21, 2016|website=The Jerusalem Post|archive-date=29 August 2016|archive-url=https://web.archive.org/web/20160829164722/http://www.jpost.com/Israel-News/Sports/Israeli-triathlete-Darmon-rolls-into-Rio-for-1st-Olympics-461993|url-status=live}}</ref> Darmon trains in Australia with coach Warwick Dalziel. He received surgery for a broken collarbone in 2015 and had to train to get back in Olympic form.<ref>{{cite web|url=http://wts.triathlon.org/athletes/profile/10955/ron_darmon|title=Athlete Profile: Ron Darmon|access-date=January 14, 2017|archive-date=21 September 2016|archive-url=https://web.archive.org/web/20160921134123/http://wts.triathlon.org/athletes/profile/10955/ron_darmon|url-status=live}}</ref> He placed 26th out of 55 participants, with a total time of 1:48.41, 3:40 behind the winner. His best portion of the race was the cycling section, where he had the 16th best time.<ref name="triathresults"/>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Swim (1.5&nbsp;km)
+!Trans 1
+!Bike (40&nbsp;km)
+!Trans 2
+!Run (10&nbsp;km)
+!Total Time
+!Rank
+|- align=center
+|align=left|[[Ron Darmon]]
+|align=left|[[Triathlon at the 2016 Summer Olympics – Men's|Men's]]
+|18:06
+|0:47
+|55:48
+|0:39
+|33:21
+|1:48:41
+|26<ref name="triathresults">{{cite web|title=Results: 2016 Rio de Janeiro Olympic Games - Elite Men|url=http://www.triathlon.org/results/result/2016_rio_de_janeiro_olympic_games/305290|website=[[International Triathlon Union]]|access-date=4 January 2017|archive-date=4 January 2017|archive-url=https://web.archive.org/web/20170104234807/http://www.triathlon.org/results/result/2016_rio_de_janeiro_olympic_games/305290|url-status=live}}</ref>
+|}
+
+==Weightlifting==
+{{main article|Weightlifting at the 2016 Summer Olympics}}
+Israel received a quota place from [[International Weightlifting Federation|IWF]] to send a male weightlifter to the Olympics, signifying the nation's return to the sport for the first time since [[1996 Summer Olympics|1996]].<ref>{{cite news|url=http://www.iwf.net/2016/06/23/second-day-of-the-iwf-executive-board-meeting-in-tbilisi/|title=Second day of the IWF Executive Board meeting in Tbilisi|date=23 June 2016|publisher=[[International Weightlifting Federation]]|access-date=23 June 2016|archive-date=27 June 2018|archive-url=https://web.archive.org/web/20180627202205/http://www.iwf.net/2016/06/23/second-day-of-the-iwf-executive-board-meeting-in-tbilisi/|url-status=live}}</ref> Olshanetskyi successfully cleared his first two snatches at {{convert|160|kg|lb}} and {{convert|165|kg|lb}}, but scratched his third attempt of {{convert|170|kg|lb}}. In the clean and jerk, he cleared his first attempt of {{convert|200|kg|lb}}. Olshanetskyi scratched his second attempt of {{convert|206|kg|lb}} and successfully cleared his third attempt of {{convert|207|kg|lb}}. This gave him a total score of 372 and 17th place out of 23.<ref name="WeightliftResults">{{cite web|title=Results XXXI Olympic Games|url=http://www.iwf.net/results/results-by-events/?event=362|website=[[International Weightlifting Federation]]|access-date=4 January 2017|archive-date=29 December 2016|archive-url=https://web.archive.org/web/20161229101837/http://www.iwf.net/results/results-by-events/?event=362|url-status=live}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Snatch
+!colspan="2"|Clean & Jerk
+!rowspan="2"|Total
+!rowspan="2"|Rank
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left|[[Igor Olshanetskyi]]
+|align=left|[[Weightlifting at the 2016 Summer Olympics – Men's +105 kg|Men's +105 kg]]
+|165
+|21
+|207
+|17
+|372
+|17<ref name="WeightliftResults"/>
+|}
+
+==Wrestling==
+{{main article|Wrestling at the 2016 Summer Olympics}}
+Israel qualified one wrestler for the women's freestyle 69&nbsp;kg into the Olympic competition as a result of her semifinal triumph at the [[2016 World Wrestling Olympic Qualification Tournament 1|first]] meet of the World Qualification Tournament, signifying the nation's Olympic comeback to the sport for the first time since [[2004 Summer Olympics|2004]].<ref>{{cite news|title=Wrestling for Rio 2016|url=https://unitedworldwrestling.org/rio-2016|access-date=19 September 2015|publisher=[[United World Wrestling]]|archive-date=1 December 2016|archive-url=https://web.archive.org/web/20161201222421/https://unitedworldwrestling.org/rio-2016|url-status=live}}</ref><ref>{{cite news|first=William|last=May|title=Kratysh Becomes 1st Female Wrestler from Israel to Qualify for Olympic Games|url=https://unitedworldwrestling.org/article/kratysh-becomes-1st-female-wrestler-from-israel-to-qualify-for-olympic-games|date=23 April 2016|access-date=24 April 2016|publisher=[[United World Wrestling]]|archive-url=https://web.archive.org/web/20160822122700/https://unitedworldwrestling.org/article/kratysh-becomes-1st-female-wrestler-from-israel-to-qualify-for-olympic-games|archive-date=22 August 2016|url-status=dead|df=dmy-all}}</ref> Kratysh was the first female Israeli to compete in [[wrestling at the Olympics]].<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/Kratysh-proud-to-be-Israels-first-female-Olympic-wrestler-462997|title=Kratysh proud to be Israel's first female Olympic wrestler|access-date=15 August 2016|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818191423/http://www.jpost.com/Israel-News/Sports/Kratysh-proud-to-be-Israels-first-female-Olympic-wrestler-462997|url-status=live}}</ref> She was ranked fifth in the world when she lost to Oliveira six to two. Kratysh said that, "the opponent smeared herself with oil and I couldn't control the holds." If Oliveira won her semifinal match, Kratysh could have competed for the bronze medal; however Oliveira lost in the quarterfinals to [[Enas Mostafa]]<ref>{{cite web|url=http://www.timesofisrael.com/israels-wrestling-taekwondo-olympians-lose-first-round-matches/|title=Israel's wrestling, taekwondo Olympians lose first round matches|last1=Winer|first1=Stuart|date=August 17, 2016|access-date=January 13, 2017|website=The Times of Israel|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118092146/http://www.timesofisrael.com/israels-wrestling-taekwondo-olympians-lose-first-round-matches/|url-status=live}}</ref>
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* VT (ranking points: 5–0 or 0–5) – [[Pin (amateur wrestling)|Victory by fall]].
+* VB (ranking points: 5–0 or 0–5) – Victory by injury (VF for forfeit, VA for withdrawal or disqualification)
+* PP (ranking points: 3–1 or 1–3) – Decision by points – the loser with technical points.
+* PO (ranking points: 3–0 or 0–3) – Decision by points – the loser without technical points.
+* ST (ranking points: 4–0 or 0–4) – Great superiority – the loser without technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+* SP (ranking points: 4–1 or 1–4) – Technical superiority – the loser with technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+}}
+
+;Women's freestyle
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Ilana Kratysh]]
+|align=left|[[Wrestling at the 2016 Summer Olympics – Women's freestyle 69 kg|−69 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Gilda Oliveira|Oliveira]]|BRA|2016 Summer}}<br />'''L''' 2–6 <sup>PP</sup>
+|colspan=5|did not advance
+|13<ref>{{cite web|title=Freestyle 69 kg women|url=https://www.olympic.org/rio-2016/wrestling/freestyle-69-kg-women|website=[[IOC]]|access-date=4 January 2017|archive-date=4 January 2017|archive-url=https://web.archive.org/web/20170104235557/https://www.olympic.org/rio-2016/wrestling/freestyle-69-kg-women|url-status=live}}</ref>
+|}
+
+==Controversy==
+Prior to the Olympics, [[Facebook]] allowed users to add the Olympic logo and the team flag to their profile pictures, however Israel was not included on this list.<ref>{{cite web|url=http://www.israelnationalnews.com/News/News.aspx/215979|title=Facebook deletes Israel from list of Olympics participants|publisher=[[Arutz Sheva|Israel National News]]|first=Shai|last=Landesman|date=4 August 2016|access-date=4 August 2016|archive-date=17 August 2016|archive-url=https://web.archive.org/web/20160817122243/http://www.israelnationalnews.com/News/News.aspx/215979|url-status=live}}</ref><ref>{{cite news|url=http://forward.com/news/breaking-news/346839/facebook-feature-eliminates-flag-of-israel-from-list-of-olympic-participant/|title=Facebook Feature Eliminates Flag of Israel from List of Olympic Participants|newspaper=[[The Forward]]|first=Marcy|last=Oster|date=4 August 2016|access-date=4 August 2016|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818170337/http://forward.com/news/breaking-news/346839/facebook-feature-eliminates-flag-of-israel-from-list-of-olympic-participant/|url-status=live}}</ref> The flag was later added to the list, however was not listed alphabetically, and was included at the end of the list.<ref>{{cite news|url=https://www.jpost.com/Israel-News/Israeli-Olympic-team-snubbed-by-facebook-treatment-463296|title=Israeli Olympic team snubbed by Facebook|newspaper=[[The Jerusalem Post]]|date=4 August 2016|access-date=4 August 2016|archive-date=18 August 2016|archive-url=https://web.archive.org/web/20160818194949/http://www.jpost.com/Israel-News/Israeli-Olympic-team-snubbed-by-facebook-treatment-463296|url-status=live}}</ref>
+
+Prior to the opening ceremony, the [[Lebanon at the 2016 Summer Olympics|Lebanese delegation]] was assigned to ride on the same bus as the Israeli delegation.<ref>{{cite news|url=https://www.theguardian.com/sport/2016/aug/08/olympics-israel-lebanese-athletes-refuse-share-bus|title=Israel protests after Lebanese athletes refuse to share Olympic bus|newspaper=[[The Guardian]]|first=Elle|last=Hunt|date=8 August 2016|access-date=8 August 2016|archive-date=16 August 2016|archive-url=https://web.archive.org/web/20160816210611/https://www.theguardian.com/sport/2016/aug/08/olympics-israel-lebanese-athletes-refuse-share-bus|url-status=live}}</ref> The head of the Lebanese team, Salim al-Haj Nicolas, admitted that he demanded that the bus door be closed on the Israeli team, and that the Lebanese demanded that the Israeli athletes not board the bus. Lebanon and Israel have no diplomatic relations. [[Udi Gal]], an Israeli Olympic sailor, said his team ultimately decided to travel separately to avoid an "international and physical incident" but added "How could they let this happen on the eve of the Olympic Games? Isn't this the opposite of what the Olympics represents?"<ref>{{cite web|url=https://www.bbc.com/sport/olympics/36998989|title=Rio 2016 Olympics: Lebanese athletes refuse to travel with Israel team|publisher=[[BBC Sport]]|date=6 August 2016|access-date=13 February 2018|archive-date=6 February 2018|archive-url=https://web.archive.org/web/20180206121251/http://www.bbc.com/sport/olympics/36998989|url-status=live}}</ref>
+
+On 3 August 2016, two days before the start of the Olympics, the [[International Olympic Committee]] officially honored the 11 Israelis murdered during the [[Munich massacre]] for the first time.<ref>{{cite web|url=https://www.jpost.com/Israel-News/Sports/First-official-IOC-ceremony-in-memory-of-Munich-victims-463185|title=First official Olympic ceremony held in memory of Munich victims|access-date=15 August 2016|archive-date=14 August 2016|archive-url=https://web.archive.org/web/20160814135256/http://www.jpost.com/Israel-News/Sports/First-official-IOC-ceremony-in-memory-of-Munich-victims-463185|url-status=live}}</ref><ref>{{cite news|url=http://www.timesofisrael.com/ioc-honors-israelis-slain-in-terror-attack-1972-olympics/|title=IOC honors Israelis slain in terror attack 1972 Olympics|date=4 August 2016|newspaper=[[The Times of Israel]]|agency=AP|access-date=5 August 2016|archive-date=15 August 2016|archive-url=https://web.archive.org/web/20160815012001/http://www.timesofisrael.com/ioc-honors-israelis-slain-in-terror-attack-1972-olympics/|url-status=live}}</ref>
+
+A Saudi Arabian judoka, [[Joud Fahmy]], was accused of forfeiting her match in order to avoid competing against [[Gili Cohen]].<ref>{{cite news|url=http://www.timesofisrael.com/saudi-judoka-forfeits-rio-match-apparently-to-avoid-israeli/|title=Saudi judoka forfeits Rio match, apparently to avoid Israeli|newspaper=[[The Times of Israel]]|date=7 August 2016|access-date=8 August 2016|archive-date=15 August 2016|archive-url=https://web.archive.org/web/20160815195416/http://www.timesofisrael.com/saudi-judoka-forfeits-rio-match-apparently-to-avoid-israeli|url-status=live}}</ref> Fahmy, Saudi Arabia's news agency [[Al Arabiya]], and the Saudi Olympic delegation have both stated that Fahmy forfeited because she received an injury.<ref>{{cite news|url=http://english.alarabiya.net/en/media/print/2016/08/08/Israeli-media-ignore-Saudi-Judoka-s-injury-insist-withdrawal-for-political-reasons.html|title=Israeli media ignores Saudi Judoka's injury, insist withdrawal is political|publisher=[[Al Arabiya]]|date=8 August 2016|access-date=9 August 2016|archive-date=11 August 2016|archive-url=https://web.archive.org/web/20160811061659/http://english.alarabiya.net/en/media/print/2016/08/08/Israeli-media-ignore-Saudi-Judoka-s-injury-insist-withdrawal-for-political-reasons.html|url-status=live}}</ref> However, other media outlets such as [[Channel 2 (Israel)|Israel Channel 2]] reported she was not injured.<ref>{{cite web|url=http://smdp.com/santa-monica-judoka-bows-out-of-olympic-match/156605|title=Santa Monica judoka bows out of Olympic match|date=10 August 2016|access-date=28 July 2020|archive-date=16 August 2016|archive-url=https://web.archive.org/web/20160816112905/http://smdp.com/santa-monica-judoka-bows-out-of-olympic-match/156605|url-status=live}}</ref><ref>{{Cite web|url=http://www.timesofisrael.com/saudi-judoka-forfeits-rio-match-apparently-to-avoid-israeli/|title=Saudi judoka forfeits Rio match, apparently to avoid Israeli|access-date=8 August 2016|archive-date=15 August 2016|archive-url=https://web.archive.org/web/20160815195416/http://www.timesofisrael.com/saudi-judoka-forfeits-rio-match-apparently-to-avoid-israeli|url-status=live}}</ref>
+
+[[Egypt]]ian judoka [[Islam El Shehaby]] refused to shake hands with Israeli [[Or Sasson]] or to perform the traditional post-match bow (giving only a quick nod), after Sasson defeated El Shehaby in a first-round match in the heaviest weight class on 12 August. During the Games, [[social media]] users pressured Shehaby not to arrive to the match because "it would shame Islam."<ref>{{cite news|last1=Grohmann|first1=Carlos|title=Egyptian judoka sent home over handshake refusal with Israeli|url=https://www.reuters.com/article/us-olympics-rio-judo-egypt-israel-idUSKCN10Q1WC|access-date=16 August 2016|work=Reuters|date=15 August 2016|archive-date=15 August 2016|archive-url=https://web.archive.org/web/20160815220845/http://www.reuters.com/article/us-olympics-rio-judo-egypt-israel-idUSKCN10Q1WC|url-status=live}}</ref> American coach Jimmy Pedro called the Egyptian's behavior "completely dishonorable and totally unsportsmanlike."<ref>[https://www.nytimes.com/2016/08/12/sports/olympics/rio-schedule-phelps-ledecky-hosszu-results.html?_r=0 Egyptian Judoka Refuses Handshake after Losing to Israeli] {{Webarchive|url=https://web.archive.org/web/20160815181522/http://www.nytimes.com/2016/08/12/sports/olympics/rio-schedule-phelps-ledecky-hosszu-results.html?_r=0 |date=15 August 2016 }}, New York Times</ref> El Shehaby was sent home early by the IOC and Egypt's Olympic committee for refusing to shake Sasson's hand.<ref>{{Cite news|url=https://www.bbc.com/sport/olympics/37090339|title=Rio Olympics 2016: Egyptian judoka Islam El Shehaby 'sent home for handshake snub'|date=16 August 2016|newspaper=BBC Sport|language=en-GB|access-date=1 January 2017|archive-date=1 January 2017|archive-url=https://web.archive.org/web/20170101231558/http://www.bbc.com/sport/olympics/37090339|url-status=live}}</ref>
+
+==See also==
+*[[Israel at the 2016 Summer Paralympics]]
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category}}
+* {{SR/Olympics country at games}}
+
+{{Nations at the 2016 Summer Olympics}}
+{{Olympic medalists for Israel}}
+{{Country at games navbox|Israel|Olympics}}
+{{Israel at international sports competitions}}
+
+[[Category:2016 in Israeli sport|Olympics]]
+[[Category:Israel at the Summer Olympics by year|2016]]
+[[Category:Nations at the 2016 Summer Olympics]]

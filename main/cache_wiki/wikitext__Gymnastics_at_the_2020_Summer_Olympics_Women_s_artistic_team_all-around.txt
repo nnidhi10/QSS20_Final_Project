@@ -1,0 +1,441 @@
+{{short description|none}}
+{{Main|Gymnastics at the 2020 Summer Olympics}}
+{{Infobox Olympic event
+| event       = Women's artistic team all-around
+| games       = 2020 Summer 
+| image       = 
+| caption     = Artistic gymnastics pictogram
+| venue       = [[Ariake Gymnastics Centre]]
+| date        = 25 July (qualification) <br /> 27 July (final)
+| competitors = 48
+| nations     = 12
+| win_label   = Winning total
+| win_value   = 169.528 points
+| gold        = [[Lilia Akhaimova]] <br /> [[Viktoria Listunova]] <br /> [[Angelina Melnikova]] <br /> [[Vladislava Urazova]]
+| goldNOC     = ROC
+| silver      = [[Simone Biles]] <br /> [[Jordan Chiles]] <br /> [[Sunisa Lee]] <br /> [[Grace McCallum]]
+| silverNOC   = USA
+| bronze      = [[ Jennifer Gadirova]] <br /> [[Jessica Gadirova]] <br /> [[Alice Kinsella]] <br /> [[Amelie Morgan]]
+| bronzeNOC   = GBR
+| prev        = [[Gymnastics at the 2016 Summer Olympics – Women's artistic team all-around|2016]]
+| next        = [[Gymnastics at the 2024 Summer Olympics – Women's artistic team all-around|2024]]
+}}
+{{Gymnastics at the 2020 Summer Olympics}}
+
+The women's artistic team all-around event at the [[2020 Summer Olympics]] was held on 25 and 27 July 2021 at the [[Ariake Gymnastics Centre]].<ref name=Dates>{{cite web |url=https://olympics.com/tokyo-2020/en/schedule/artistic-gymnastics-schedule |publisher=Tokyo 2020 |title=Artistic Gymnastics Competition Schedule |access-date=2 July 2021 |archive-date=4 July 2021 |archive-url=https://web.archive.org/web/20210704072302/https://olympics.com/tokyo-2020/en/schedule/artistic-gymnastics-schedule |url-status=live }}</ref> There were 12 teams of 4 gymnasts each.
+
+The competition was won by the [[Russian Olympic Committee athletes at the 2020 Summer Olympics|Russian athletes]] competing as the [[Russian Olympic Committee]] (ROC), the 2016 silver medalists, when they competed as Russia. It was the first women's team all-around title for the Russian team since 1992, when it competed as the Unified Team. They led throughout the competition despite two falls on balance beam in the third rotation. The [[United States at the 2020 Summer Olympics|United States]], the two-time defending champions and 2019 world champions, were second. Notably, top American gymnast [[Simone Biles]] withdrew from competing following the first rotation due to health concerns, and the three remaining American athletes had to alter their planned lineups and routines.<ref>{{Cite news |url=https://www.washingtonpost.com/sports/olympics/2021/07/27/olympic-gymnastics-live-updates-womens-final/ |title=Simone Biles makes stunning withdrawal; U.S. women’s gymnastics takes silver |first=Emily |last=Giambalvo |date=July 27, 2021 |newspaper=[[The Washington Post]] |access-date=2021-08-04 |archive-date=2021-08-11 |archive-url=https://web.archive.org/web/20210811152117/https://www.washingtonpost.com/sports/olympics/2021/07/27/olympic-gymnastics-live-updates-womens-final/ |url-status=live }}</ref> The bronze was won by [[Great Britain at the 2020 Summer Olympics|Great Britain]], which displaced [[Italy at the 2020 Summer Olympics|Italy]] from the bronze medal position in the last rotation. Great Britain have not medaled in the women's team all-around since 1928, when they won bronze.
+
+ROC is the first nation to win both the men's and women's team all-around titles at the same Olympics since [[China at the 2008 Summer Olympics|China]] did so at the [[2008 Summer Olympics]].
+
+The medals for the competition were presented by [[Andrew Parsons (sports administrator)|Andrew Parsons]], [[Brazil]]; [[List of members of the International Olympic Committee|IOC Executive Board Member]], and the medalists' bouquets were presented by [[Vasily Titov]], [[Russia]]; [[International Gymnastics Federation|FIG Vice-President]].
+
+== Background ==
+This was the 21st appearance of the women's artistic team all-around event. It was first introduced in 1928 and has featured at every Summer Olympics since 1936.
+
+== Qualified teams ==
+To reach the Olympics, a [[National Olympic Committee]] had to earn one of 12 team quota places. These were allocated through the [[2018 World Artistic Gymnastics Championships]] (top three teams) and the [[2019 World Artistic Gymnastics Championships]] (top nine teams, excluding those qualified in 2018).<ref name=Qual>{{cite web |url=https://www.gymnastics.sport/publicdir/rules/files/en_Olympic%20Qualification%20System%20Tokyo%202020%20ART.pdf |title=Artistic Gymnastics |publisher=FIG |access-date=2 July 2021 |archive-date=4 March 2021 |archive-url=https://web.archive.org/web/20210304223334/https://www.gymnastics.sport/publicdir/rules/files/en_Olympic%20Qualification%20System%20Tokyo%202020%20ART.pdf |url-status=live }}</ref> Those 12 teams competed in the qualification round in Tokyo on 25 July, with the top eight advancing to the final.<ref name=NBC>{{cite news |url=https://www.nbcolympics.com/news/gymnastics-101-competition-format |title=Gymnastics 101: Competition format |publisher=NBC |date=17 March 2021 |access-date=2 July 2021 |archive-date=28 June 2021 |archive-url=https://web.archive.org/web/20210628103416/https://www.nbcolympics.com/news/gymnastics-101-competition-format |url-status=live }}</ref>
+
+The following teams qualified for the Olympics by achieving a top three placement at the [[2018 World Artistic Gymnastics Championships]]:
+
+* {{flagIOC|USA|2020 Summer}}
+* {{flagIOC|ROC|2020 Summer}}
+* {{flagIOC|CHN|2020 Summer}}
+
+The following teams qualified for the event by achieving a top nine placement among non-qualified teams at the [[2019 World Artistic Gymnastics Championships]]:
+
+* {{flagIOC|FRA|2020 Summer}}
+* {{flagIOC|CAN|2020 Summer}}
+* {{flagIOC|NED|2020 Summer}}
+* {{flagIOC|GBR|2020 Summer}}
+* {{flagIOC|ITA|2020 Summer}}
+* {{flagIOC|GER|2020 Summer}}
+* {{flagIOC|BEL|2020 Summer}}
+* {{flagIOC|JPN|2020 Summer}}
+* {{flagIOC|ESP|2020 Summer}}
+
+== Schedule ==
+{| class="wikitable"
+! Date
+! Time
+! Round
+! Subdivision
+|-
+| rowspan=5|25 July || 10:00 || rowspan=5|'''Qualification''' || Subdivision 1
+|-
+| 11:50 || Subdivision 2
+|-
+| 15:10 || Subdivision 3
+|-
+| 17:05 || Subdivision 4
+|-
+| 20:20 || Subdivision 5
+|-style=background:lemonchiffon
+| 27 July || 19:45 || '''Final''' || –
+|-
+| colspan=4 align=center | <small>All times are [[Japan Standard Time|local time]] ([[UTC+09:00]]).</small>
+|}
+
+== Qualifications ==
+{{main|Gymnastics at the 2020 Summer Olympics – Women's artistic qualification}}
+
+The top eight teams in [[Gymnastics at the 2020 Summer Olympics – Women's artistic qualification|qualifications]], based on combined scores of each apparatus, advanced to the final. In the final, each team selected three gymnasts to compete on each apparatus. All scores on each apparatus were summed to give a final team score. The scores in qualification did not carry over to the final.<ref name=NBC/>
+
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+! scope="col" style="width:50px;" | Rank
+! scope="col" style="width:100px;" | Team
+! scope="col" style="width:60px;" | {{Vault}}
+! scope="col" style="width:60px;" | {{Uneven bars}}
+! scope="col" style="width:60px;" | {{Balance beam}}
+! scope="col" style="width:60px;" | {{Floor (gymnastics)}}
+! Total
+|-
+! 1
+| align="left"|{{flagIOC|ROC|2020 Summer}}
+| 43.832
+| 44.565
+| 41.599
+| 41.633
+| '''171.629'''
+|-
+! 2
+| align="left"|{{flagIOC|USA|2020 Summer}}
+| 44.199
+| 43.866
+| 41.332
+| 41.165
+| '''170.562'''
+|-
+! 3
+| align="left"|{{flagIOC|CHN|2016 Summer}}
+| 42.366
+| 42.633
+| 42.399
+| 39.465
+| '''166.863'''
+|-
+! 4
+| align="left"|{{flagIOC|FRA|2020 Summer}}
+| 43.665
+| 42.198
+| 39.899
+| 38.799
+| '''164.561'''
+|-
+! 5
+| align="left"|{{flagIOC|BEL|2020 Summer}}
+| 41.066
+| 43.099
+| 40.465
+| 39.265
+| '''163.895'''
+|-
+! 6
+| align="left"|{{flagIOC|GBR|2020 Summer}}
+| 43.199
+| 40.699
+| 39.199
+| 40.599
+| '''163.396'''{{efn|name=GBR|Great Britain incurred a neutral deduction of 0.300 points for [[Jennifer Gadirova]] exceeding the touch warm-up time on vault.<ref>{{cite web|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GAR/OG2020-_GAR_C73B_GARW------------------QUAL--------.pdf|title=Results – Intermediate: Subdivision 2 of 5|publisher=[[International Olympic Committee]]|access-date=25 July 2021|archive-date=25 July 2021|archive-url=https://web.archive.org/web/20210725051108/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GAR/OG2020-_GAR_C73B_GARW------------------QUAL--------.pdf|url-status=live}}</ref>}}
+|-
+! 7
+| align="left"|{{flagIOC|ITA|2020 Summer}}
+| 42.766
+| 41.866
+| 38.799
+| 39.899
+| '''163.330'''
+|-
+! 8
+| align="left"|{{flagIOC|JPN|2020 Summer}}
+| 42.432
+| 39.632
+| 39.999
+| 40.599
+| '''162.662'''
+|}
+
+== Final ==
+
+{| class="wikitable sortable" style="text-align:center; font-size:95%"
+! scope="col" style="width:50px;" | Rank
+! scope="col" style="width:225px;" | Team
+! scope="col" style="width:60px;" | {{Vault}}
+! scope="col" style="width:60px;" | {{Uneven bars}}
+! scope="col" style="width:60px;" | {{Balance beam}}
+! scope="col" style="width:60px;" | {{Floor (gymnastics)}}
+! Total
+|-style="background:#fffcaf;"
+| rowspan="5" | '''{{gold01}}'''
+| style="text-align:left;" | '''{{flagIOC|ROC|2020 Summer}}'''
+| '''43.799 (1)'''
+| '''44.699 (1)'''
+| '''39.532 (4)'''
+| '''41.498 (1)'''
+| rowspan="5" | '''169.528'''
+|-
+| align=left | {{flagIOCathlete|[[Lilia Akhaimova]]|ROC|2020 Summer}}
+| 14.733
+| 
+| 
+| 
+|-
+| align=left | {{flagIOCathlete|[[Viktoria Listunova]]|ROC|2020 Summer}}
+| 
+| 14.900
+| 14.333
+| 14.166
+|-
+| align=left | {{flagIOCathlete|[[Angelina Melnikova]]|ROC|2020 Summer}}
+| 14.600
+| 14.933
+| 12.566
+| 13.966
+|-
+| align=left | {{flagIOCathlete|[[Vladislava Urazova]]|ROC|2020 Summer}}
+| 14.466
+| 14.866
+| 12.633
+| 13.366
+|-style="background:#e5e5e5;"
+| rowspan="5" | '''{{silver02}}'''
+| style="text-align:left;" | '''{{flagIOC|USA|2020 Summer}}'''
+| '''42.732 (4)'''
+| '''43.266 (2)'''
+| '''41.232 (2)'''
+| '''38.866 (8)'''
+| rowspan="5" | '''166.096'''
+|-
+| align=left | {{flagIOCathlete|[[Simone Biles]]|USA|2020 Summer}}
+| 13.766
+| 
+| 
+| 
+|-
+| align=left | {{flagIOCathlete|[[Jordan Chiles]]|USA|2020 Summer}}
+| 14.666
+| 14.166
+| 13.433
+| 11.700
+|-
+| align=left | {{flagIOCathlete|[[Sunisa Lee]]|USA|2020 Summer}}
+| 
+| 15.400
+| 14.133
+| 13.666
+|-
+| align=left | {{flagIOCathlete|[[Grace McCallum]]|USA|2020 Summer}}
+| 14.300
+| 13.700
+| 13.666
+| 13.500
+|-style="background:#ec9;"
+| rowspan="5" | '''{{bronze03}}'''
+| style="text-align:left;" | '''{{flagIOC|GBR|2020 Summer}}'''
+| '''43.132 (3)'''
+| '''41.765 (3)'''
+| '''38.866 (6)'''
+| '''40.333 (3)'''
+| rowspan="5" | '''164.096'''
+|-
+| align=left | {{flagIOCathlete|[[Jennifer Gadirova]]|GBR|2020 Summer}}
+| 14.433
+| 
+| 13.300
+| 13.700
+|-
+| align=left | {{flagIOCathlete|[[Jessica Gadirova]]|GBR|2020 Summer}}
+| 14.433
+| 13.566
+| 
+| 13.833
+|-
+| align=left | {{flagIOCathlete|[[Alice Kinsella]]|GBR|2020 Summer}}
+| 14.266
+| 14.166
+| 13.333
+| 12.800
+|-
+| align=left | {{flagIOCathlete|[[Amelie Morgan]]|GBR|2020 Summer}}
+| 
+| 14.033
+| 12.233
+| 
+|-style="background:#eee;"
+| rowspan="5" | '''4'''
+| style="text-align:left;" | '''{{flagIOC|ITA|2020 Summer}}'''
+| '''42.665 (5)'''
+| '''41.499 (5)'''
+| '''39.108 (5)'''
+| '''40.366 (2)'''
+| rowspan="5" | '''163.638'''
+|-
+| align=left | {{flagIOCathlete|[[Alice D'Amato]]|ITA|2020 Summer}}
+| 14.166
+| 14.166
+| 13.133
+| 13.100
+|-
+| align=left | {{flagIOCathlete|[[Asia D'Amato]]|ITA|2020 Summer}}
+| 14.266
+| 13.900
+| 12.900
+| 13.166
+|-
+| align=left | {{flagIOCathlete|[[Vanessa Ferrari]]|ITA|2020 Summer}}
+| 14.233
+| 
+| 
+| 14.100
+|-
+| align=left | {{flagIOCathlete|[[Martina Maggio]]|ITA|2020 Summer}}
+| 
+| 13.433
+| 13.075
+| 
+|-style="background:#eee;"
+| rowspan="5" | '''5'''
+| style="text-align:left;" | '''{{flagIOC|JPN|2020 Summer}}'''
+| '''42.349 (6)'''
+| '''40.133 (8)'''
+| '''40.732 (3)'''
+| '''40.066 (4)'''
+| rowspan="5" | '''163.280'''
+|-
+| align=left | {{flagIOCathlete|[[Hitomi Hatakeda]]|JPN|2020 Summer}}
+| 
+| 14.100
+| 13.333
+| 12.800
+|-
+| align=left | {{flagIOCathlete|[[Yuna Hiraiwa]]|JPN|2020 Summer}}
+| 13.900
+| 
+| 13.566
+| 
+|-
+| align=left | {{flagIOCathlete|[[Mai Murakami]]|JPN|2020 Summer}}
+| 14.266
+| 12.700
+| 13.833
+| 14.066
+|-
+| align=left | {{flagIOCathlete|[[Aiko Sugihara]]|JPN|2020 Summer}}
+| 14.183
+| 13.333
+| 
+| 13.200
+|-style="background:#eee;"
+| rowspan="5" | '''6'''
+| style="text-align:left;" | '''{{flagIOC|FRA|2020 Summer}}'''
+| '''43.600 (2)'''
+| '''41.399 (6)'''
+| '''38.465 (7)'''
+| '''39.800 (5)'''
+| rowspan="5" | '''163.264'''
+|-
+| align=left | {{flagIOCathlete|[[Marine Boyer]]|FRA|2020 Summer}}
+| 
+| 
+| 12.066
+| 13.000
+|-
+| align=left | {{flagIOCathlete|[[Mélanie de Jesus dos Santos]]|FRA|2020 Summer}}
+| 14.500
+| 14.200
+| 13.566
+| 13.700
+|-
+| align=left | {{flagIOCathlete|[[Aline Friess]]|FRA|2020 Summer}}
+| 14.900
+| 13.733
+| 
+| 
+|-
+| align=left | {{flagIOCathlete|[[Carolann Héduit]]|FRA|2020 Summer}}
+| 14.200
+| 13.466
+| 12.833
+| 13.100
+|-style="background:#eee;"
+| rowspan="5" | '''7'''
+| style="text-align:left;" | '''{{flagIOC|CHN|2020 Summer}}'''
+| '''39.366 (8)'''
+| '''41.066 (7)'''
+| '''41.599 (1)'''
+| '''39.165 (7)'''
+| rowspan="5" | '''161.196'''
+|-
+| align=left | {{flagIOCathlete|[[Lu Yufei]]|CHN|2020 Summer}}
+| 
+| 13.333
+| 13.966
+| 13.166
+|-
+| align=left | {{flagIOCathlete|[[Ou Yushan]]|CHN|2020 Summer}}
+| 12.700
+| 13.233
+| 
+| 
+|-
+| align=left | {{flagIOCathlete|[[Tang Xijing]]|CHN|2020 Summer}}
+| 12.600
+| 14.500
+| 13.733
+| 12.866
+|-
+| align=left | {{flagIOCathlete|[[Zhang Jin (gymnast)|Zhang Jin]]|CHN|2020 Summer}}
+| 14.066
+| 
+| 13.900
+| 13.133
+|-style="background:#eee;"
+| rowspan="5" | '''8'''
+| style="text-align:left;" | '''{{flagIOC|BEL|2020 Summer}}'''
+| '''41.732 (7)'''
+| '''41.632 (4)'''
+| '''36.999 (8)'''
+| '''39.332 (6)'''
+| rowspan="5" | '''159.695'''
+|-
+| align=left | {{flagIOCathlete|[[Maellyse Brassart]]|BEL|2020 Summer}}
+| 14.033
+| 
+| 10.933
+| 
+|-
+| align=left | {{flagIOCathlete|[[Nina Derwael]]|BEL|2020 Summer}}
+| 
+| 15.400
+| 13.866
+| 13.366
+|-
+| align=left | {{flagIOCathlete|[[Lisa Vaelen]]|BEL|2020 Summer}}
+| 14.233
+| 13.766
+| 
+| 12.900
+|-
+| align=left | {{flagIOCathlete|[[Jutta Verkest]]|BEL|2020 Summer}}
+| 13.466
+| 12.466
+| 12.200
+| 13.066
+|}
+
+<ref>{{cite web|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GAR/OG2020-_GAR_C73D_GARWTEAM--------------FNL---------.pdf|title=Artistic Gymnastics: Women's Team Final – Results|publisher=[[International Olympic Committee]]|access-date=27 July 2021|archive-date=27 July 2021|archive-url=https://web.archive.org/web/20210727125951/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/GAR/OG2020-_GAR_C73D_GARWTEAM--------------FNL---------.pdf|url-status=live}}</ref>
+
+== Notes ==
+{{noteslist}}
+
+== References ==
+{{reflist}}
+
+{{Footer Olympic Champions - Artistic Gymnastics - Women TC|2020}}
+
+{{DEFAULTSORT:Gymnastics at the 2020 Summer Olympics - Women's artistic team all-around}}
+[[Category:Gymnastics at the 2020 Summer Olympics|Women's artistic team all-around]]
+[[Category:2021 in women's gymnastics|Women's artistic team all-around]]
+[[Category:Artistic gymnastics at the Summer Olympics|2020]]
+[[Category:2021 in artistic gymnastics]]
+[[Category:Women's events at the 2020 Summer Olympics]]

@@ -1,0 +1,141 @@
+{{Short description|None}}
+
+[[File:Turnerinnen der niederländischen Goldriege von 1928.jpg|thumb|Gold medal-winning Dutch team at the [[Gymnastics at the 1928 Summer Olympics|1928 Olympic Games]]]]
+[[Gymnastics]] events have been staged at the [[Olympic Games]] since 1896, with women competing for the time at the [[Gymnastics at the 1928 Summer Olympics|1928 Olympic Games]],<ref>Gutman, Dan (1996). ''[https://books.google.com/books?id=UsnUxfFEQxUC Gymnastics]''. Puffin Books. p. 8.</ref>  where the team from the Netherlands won gold.<ref>{{cite web|url=https://olympics.com/en/olympic-games/amsterdam-1928/results/gymnastics-artistic/team-competition-women|title=Amsterdam 1928: Gymnastics Artistic Team Competition Women Results|work=[[International Olympic Committee]]}}</ref>
+
+== Gymnasts ==
+<ref name=olympedia>{{cite web|url=https://www.olympedia.org/countries/NED/sports/GAR.1|title=Netherlands in Artistic Gymnastics|work=[[Sports Reference|Olympedia]]}}</ref>
+[[File:Ginasta holandesa ganha ouro nas traves (29008613375).jpg|thumb|Gold medalist [[Sanne Wevers]] at the [[Gymnastics at the 2016 Summer Olympics|2016 Olympic Games]]]]
+{| class="wikitable sortable" width=50% style="text-align:center;"
+|-
+! Gymnast
+! Years
+|-
+| {{sortname|Estella|Agsteribbe}} || 1928
+|-
+| {{sortname|Elvira|Becks}} || 1992
+|-
+| {{sortname|Monique|Bolleboom}} || 1976
+|-
+| {{sortname|Carla|Braan}} || 1976
+|-
+| {{sortname|Jo|Cox-Ladru}} || 1952
+|-
+| {{sortname|Elka|de Levie}} || 1928
+|-
+| {{sortname|Ans|Dekker}} || 1972, 1976
+|-
+| {{sortname|Nel|Fritz}} || 1960
+|-
+| {{sortname|Lenie|Gerrietsen}} || 1948, 1952
+|-
+| {{sortname|Suzanne|Harmes}} || 2004, 2008
+|-
+| {{sortname|Truida|Heil-Bonnet}} || 1948
+|-
+| {{sortname|Joke|Kos}} || 1976
+|-
+| {{sortname|Huiberdina|Krul}} || 1952
+|-
+| {{sortname|Lineke|Majolee}} || 1960
+|-
+| {{sortname|Dientje|Meijer-Haantjes}} || 1948
+|-
+| {{sortname|Ria|Meyburg}} || 1960
+|-
+| {{sortname|Ikina|Morsch}} || 1972
+|-
+| {{sortname|Lea|Nordheim}} || 1928
+|-
+| {{sortname|Ans|Polak}} || 1928
+|-
+| {{sortname|Klara|Post}} || 1948
+|-
+| {{sortname|Annie|Ros}} || 1948, 1952
+|-
+| {{sortname|Tootje|Selbach}} || 1952
+|-
+| {{sortname|Toetie|Selbach}} || 1952
+|-
+| {{sortname|Nanny|Simon}} || 1952
+|-
+| {{sortname|Jacoba|Stelma}} || 1928
+|-
+| {{sortname|Eythora|Thorsdottir}} || 2016, 2020
+|-
+| {{sortname|Linda|Toorop}} || 1972
+|-
+| {{sortname|Jacomina|van den Berg}} || 1928
+|-
+| {{sortname|Alida|van den Bos}} || 1928
+|-
+| {{sortname|Anna|van der Vegt}} || 1928
+|-
+| {{sortname|Nel|van der Voort}} || 1928
+|-
+| {{sortname|Anna Maria|van Geene}} || 1948
+|-
+| {{sortname|Céline|van Gerner}} || 2012, 2016
+|-
+| {{sortname|Ans|van Gerwen}} || 1972, 1976
+|-
+| {{sortname|Bep|van Ipenburg-Drommel}} || 1960
+|-
+| {{sortname|Cootje|van Kampen-Tonneman}} || 1948, 1952
+|-
+| {{sortname|Laura|van Leeuwen|Laura van Leeuwen (gymnast)}} || 2004
+|-
+| {{sortname|Vera|van Pol}} || 2016, 2020
+|-
+| {{sortname|Petronella|van Randwijk}} || 1928
+|-
+| {{sortname|Jeannette|van Ravenstijn}} || 1976
+|-
+| {{sortname|Hendrika|van Rumt}} || 1928
+|-
+| {{sortname|Sanna|Veerman}} || 2024
+|-
+| {{sortname|Ria|van Velsen|dab=gymnast}} || 1960
+|-
+| {{sortname|Margo|Velema}} || 1972
+|-
+| {{sortname|Naomi|Visser}} || 2024
+|-
+| {{sortname|Tisha|Volleman}} || 2024
+|-
+| {{sortname|Nel|Wambach}} || 1960
+|-
+| {{sortname|Lieke|Wevers}} || 2016, 2020, 2024
+|-
+| {{sortname|Sanne|Wevers}} || 2016, 2020, 2024
+|-
+| {{sortname|Jacoba|Wijnands}} || 1948
+|}
+
+==Medalists==
+{| class="wikitable sortable"
+|-
+!style="width:5em;"|Medal
+!width=250|Name
+!Year
+!Event
+|-
+| {{Gold medal}} || [[Estella Agsteribbe|Agsteribbe]], [[Jacomina van den Berg|van den Berg]], [[Alida van den Bos|van den Bos]], [[Petronella Burgerhof|Burgerhof]], [[Elka de Levie|de Levie]], [[Helena Nordheim|Nordheim]], [[Ans Polak|Polak]], [[Petronella van Randwijk|van Randwijk]], [[Hendrika van Rumt|van Rumt]], [[Jud Simons|Simons]], [[Jacoba Stelma|Stelma]], [[Anna van der Vegt|van der Vegt]] || rowspan="1" | {{flagicon|NED}} [[Gymnastics at the 1928 Summer Olympics|1928 Amsterdam]] || [[Gymnastics at the 1928 Summer Olympics – Women's artistic team all-around|Women's team]]
+|-
+| {{Gold medal}} || [[Sanne Wevers]] || rowspan="1" | {{flagicon|BRA}} [[Gymnastics at the 2016 Summer Olympics|2016 Rio de Janeiro]] || [[Gymnastics at the 2016 Summer Olympics – Women's balance beam|Women's balance beam]]
+|}
+
+== See also ==
+{{Portal|Netherlands|Olympics}}
+* [[Netherlands women's national gymnastics team]]
+
+==References==
+{{reflist|2}}
+
+{{OlympicFemaleGymnasts}}
+{{Gymnastics at the Summer Olympics}}
+
+[[Category:Olympic gymnasts for the Netherlands|*]]
+[[Category:Lists of Olympic female artistic gymnasts|Netherlands]]
+[[Category:Lists of Dutch sportspeople|gymnasts]]
+[[Category:Lists of Dutch women|Olympic]]

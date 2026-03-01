@@ -1,0 +1,801 @@
+{{Infobox Double Wintersport World Cup
+| title=  Snowboard World Cup 2016/17
+| competition1=Parallel overall
+| competition1men={{flagicon|AUT}} [[Andreas Prommegger]] 
+| competition1ladies={{flagicon|CZE}} [[Ester Ledecká]]
+| competition2=Parallel giant slalom 
+| competition2men={{flagicon|BUL}} [[Radoslav Yankov]]
+| competition2ladies={{flagicon|RUS}} [[Alena Zavarzina]]
+| competition3=Parallel slalom 
+| competition3men={{flagicon|ITA}} [[Aaron March]] 
+| competition3ladies={{flagicon|AUT}} [[Daniela Ulbing]]
+| competition4=Freestyle overall
+| competition4men={{flagicon|CAN}} [[Mark McMorris]]
+| competition4ladies={{flagicon|AUT}} [[Anna Gasser]]
+| competition5=Snowboard cross
+| competition5men={{flagicon|FRA}} [[Pierre Vaultier]]
+| competition5ladies={{flagicon|CZE}} [[Eva Samková]]
+| competition6=Halfpipe
+| competition6men={{flagicon|AUS}} [[Scotty James]]
+| competition6ladies={{flagicon|USA}} [[Chloe Kim]]
+| competition7=Slopestyle 
+| competition7men={{flagicon|USA}} [[Redmond Gerard]]
+| competition7ladies={{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]]
+| competition8=Big Air
+| competition8men={{flagicon|CAN}} [[Mark McMorris]]
+| competition8ladies={{flagicon|AUT}} [[Anna Gasser]]
+| competition9=FIS Super Series
+| competition9men={{flagicon|CAN}} [[Mark McMorris]]
+| competition9ladies={{flagicon|AUT}} [[Anna Gasser]]
+| menlocations=25
+| ladieslocations=25
+| menindividual=33
+| ladiesindividual=33
+| teammen=5
+| teamladies=5
+| previous=[[2015–16 FIS Snowboard World Cup|2015/16]]
+| next=[[2017–18 FIS Snowboard World Cup|2017/18]]
+}}
+The '''2016–17 [[FIS Snowboard World Cup]]''' was 23rd multi race season in [[snowboarding]]. Competition consisted of the parallel slalom, parallel giant slalom, [[snowboard cross]], [[Half-pipe|halfpipe]], slopestyle and big air.
+
+== Men ==
+
+=== Parallel ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|15 December 2016 || {{flagicon|ITA}} [[Carezza]] || align=center|PGS || {{flagicon|AUT}} [[Benjamin Karl]] || {{flagicon|RUS}} [[Andrey Sobolev]] || {{flagicon|BUL}} [[Radoslav Yankov]] || <ref>{{cite web|title=Men's parallel giant slalom: Carezza|url=http://medias4.fis-ski.com/pdf/2017/SB/7079/2017SB7079RLF.pdf|publisher=[[International Ski Federation]]|date=15 December 2016}}</ref> 
+|- 
+|17 December 2016 || {{flagicon|ITA}} [[Cortina d'Ampezzo]] || align=center|PSL || {{flagicon|RUS}} [[Andrey Sobolev]] || {{flagicon|ITA}} [[Roland Fischnaller (snowboarder)|Roland Fischnaller]] || {{flagicon|AUT}} [[Benjamin Karl]] || <ref>{{cite web|title=Men's parallel slalom: Cortina d'Ampezzo|url=http://medias2.fis-ski.com/pdf/2017/SB/7067/2017SB7067RLF.pdf|publisher=[[International Ski Federation]]|date=17 December 2016}}</ref> 
+|- 
+|10 January 2017 || {{flagicon|AUT}} [[Bad Gastein]] || align=center|PSL || {{flagicon|ITA}} [[Christoph Mick]] || {{flagicon|SUI}} [[Kaspar Flütsch]] || {{flagicon|AUT}} [[Andreas Prommegger]] || <ref>{{cite web|title=Men's parallel slalom: Bad Gastein|url=http://medias3.fis-ski.com/pdf/2017/SB/7107/2017SB7107RLF.pdf|publisher=[[International Ski Federation]]|date=10 January 2017}}</ref> 
+|- 
+|28 January 2017 || {{flagicon|SLO}} [[Rogla Ski Resort|Rogla]] || align=center|PGS || {{flagicon|SUI}} [[Nevin Galmarini]] || {{flagicon|BUL}} [[Radoslav Yankov]] || {{flagicon|SLO}} [[Žan Košir]] || <ref>{{cite web|title=Men's parallel giant slalom: Rogla |url=http://medias2.fis-ski.com/pdf/2017/SB/7402/2017SB7402RLF.pdf|publisher=[[International Ski Federation]]|date=28 January 2017}}</ref>
+|- 
+|3 February 2017 || {{flagicon|BUL}} [[Bansko]] ||align=center|PGS || {{flagicon|BUL}} [[Radoslav Yankov]]  || {{flagicon|SUI}} [[Nevin Galmarini]] || {{flagicon|AUT}} [[Benjamin Karl]] || <ref>{{cite web|title=Men's parallel giant slalom: Bansko 1 |url=http://medias2.fis-ski.com/pdf/2017/SB/7128/2017SB7128RLF.pdf|publisher=[[International Ski Federation]]|date=3 February 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|BUL}} [[Bansko]] ||align=center|PGS || {{flagicon|FRA}} [[Sylvain Dufour]] || {{flagicon|BUL}} [[Radoslav Yankov]]  || {{flagicon|GER}} [[Stefan Baumeister]] || <ref>{{cite web|title=Men's parallel giant slalom: Bansko 2 |url=http://medias3.fis-ski.com/pdf/2017/SB/7132/2017SB7132RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|12 February 2017 || {{flagicon|KOR}} [[Bokwang Phoenix Park|Bokwang]] || align=center|PGS || {{flagicon|AUT}} [[Andreas Prommegger]] || {{flagicon|AUT}} [[Sebastian Kislinger]]  || {{flagicon|ITA}} [[Aaron March]] || <ref>{{cite web|title=Men's parallel giant slalom: Bokwang |url=http://medias4.fis-ski.com/pdf/2017/SB/7366/2017SB7366RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|25 February 2017 || {{flagicon|RUS}} [[Moscow]] || align=center|PSL || colspan=4 align=center|''Cancelled due to organizational issues''
+|- 
+|5 March 2017 || {{flagicon|TUR}} [[Kayseri]] || align=center|PGS || {{flagicon|AUT}} [[Andreas Prommegger]] || {{flagicon|KOR}} [[Lee Sang-ho (snowboarder)|Lee Sang-ho]]  || {{flagicon|KOR}} [[Choi Bo-gun]] || <ref>{{cite web|title=Men's parallel giant slalom: Kayseri |url=http://medias1.fis-ski.com/pdf/2017/SB/7482/2017SB7482RLF.pdf|publisher=[[International Ski Federation]]|date=5 March 2017}}</ref>
+|- 
+|18 March 2017 || {{flagicon|GER}} [[Winterberg]] || align=center|PSL || {{flagicon|GER}} [[Stefan Baumeister]] || {{flagicon|ITA}} [[Aaron March]] || {{flagicon|AUT}} [[Alexander Payer]] || <ref>{{cite web|title=Men's parallel slalom: Winterberg |url=http://medias3.fis-ski.com/pdf/2017/SB/7280/2017SB7280RLF.pdf|publisher=[[International Ski Federation]]|date=18 March 2017}}</ref>
+|}
+
+=== Snowboard Cross ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|16 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SBX || {{flagicon|USA}} [[Hagen Kearney]] || {{flagicon|ITA}} [[Omar Visintin]] || {{flagicon|AUS}} [[Alex Pullin]] || <ref>{{cite web|title=Men's snowboard cross: Montafon|url=http://medias3.fis-ski.com/pdf/2017/SB/7091/7091RLF.pdf|publisher=[[International Ski Federation]]|date=16 December 2016}}</ref> 
+|- 
+|21 January 2017 || {{flagicon|USA}} [[Solitude Mountain Resort|Solitude]] || align=center|SBX || {{flagicon|AUT}} [[Alessandro Hämmerle]] || {{flagicon|ITA}} [[Omar Visintin]] || {{flagicon|USA}} [[Alex Deibold]] || <ref>{{cite web|title=Men's snowboard cross: Solitude|url=http://medias2.fis-ski.com/pdf/2017/SB/7502/2017SB7502RLF.pdf|publisher=[[International Ski Federation]]|date=21 January 2017}}</ref> 
+|- 
+|4 February 2017 || {{flagicon|BUL}} [[Bansko]] || align=center|SBX || {{flagicon|AUT}} [[Alessandro Hämmerle]] || {{flagicon|FRA}} [[Pierre Vaultier]] || {{flagicon|CAN}} [[Baptiste Brochu]] || <ref>{{cite web|title=Men's snowboard cross: Bansko|url=http://medias1.fis-ski.com/pdf/2017/SB/7130/2017SB7130RLF.pdf|publisher=[[International Ski Federation]]|date=4 February 2017}}</ref> 
+|- 
+|11 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SBX || {{flagicon|FRA}} [[Pierre Vaultier]] || {{flagicon|ESP}} [[Lucas Eguibar]] || {{flagicon|ITA}} [[Omar Visintin]] || <ref>{{cite web|title=Men's snowboard cross: Feldberg 1|url=http://medias4.fis-ski.com/pdf/2017/SB/7270/2017SB7270RLF.pdf|publisher=[[International Ski Federation]]|date=11 February 2017}}</ref> 
+|- 
+|12 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SBX || {{flagicon|AUS}} [[Alex Pullin]] || {{flagicon|AUS}} [[Jarryd Hughes]] || {{flagicon|AUT}} [[Alessandro Hämmerle]] || <ref>{{cite web|title=Men's snowboard cross: Feldberg 2|url=http://medias3.fis-ski.com/pdf/2017/SB/7272/2017SB7272RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|26 February 2017 || {{flagicon|RUS}} [[Kazan]] || align=center|SBX || colspan=4 align=center|''Cancelled''
+|- 
+|5 March 2017 || {{flagicon|ESP}} [[La Molina (ski resort)|La Molina]] || align=center|SBX || {{flagicon|FRA}} [[Pierre Vaultier]] || {{flagicon|AUT}} [[Lukas Pachner]] || {{flagicon|USA}} [[Nick Baumgartner]] || <ref>{{cite web|title=Men's snowboard cross: La Molina|url=http://medias4.fis-ski.com/pdf/2017/SB/7238/2017SB7238RLF.pdf|publisher=[[International Ski Federation]]|date=5 March 2017}}</ref> 
+|- 
+|25 March 2017 || {{flagicon|SUI}} [[Veysonnaz]] || align=center|SBX || {{flagicon|FRA}} [[Pierre Vaultier]] || {{flagicon|USA}} [[Alex Deibold]] || {{flagicon|AUS}} [[Alex Pullin]] || <ref>{{cite web|title=Men's snowboard cross: Veysonnaz|url=http://medias2.fis-ski.com/pdf/2017/SB/7452/2017SB7452RLF.pdf|publisher=[[International Ski Federation]]|date=25 March 2017}}</ref> 
+|}
+
+=== Big Air ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|12 November 2016 || {{flagicon|ITA}} [[Milan]] || align=center|BA || {{flagicon|NOR}} [[Marcus Kleveland]] || {{flagicon|BEL}} [[Seppe Smits]] || {{flagicon|CAN}} [[Mark McMorris]] || <ref>{{cite web|title=Men's big air: Milan|url=http://medias4.fis-ski.com/pdf/2017/SB/7061/7061RLF.pdf|publisher=[[International Ski Federation]]|date=12 November 2016}}</ref>
+|- 
+|14 November 2016 || {{flagicon|KOR}} [[Alpensia Resort|Alpensia]] || align=center|BA || {{flagicon|CAN}} [[Mark McMorris]] || {{flagicon|CAN}} [[Maxence Parrot|Max Parrot]] || {{flagicon|USA}} [[Ryan Stassel]] || <ref>{{cite web|title=Men's big air: Alpensia|url=http://medias2.fis-ski.com/pdf/2017/SB/7065/2017SB7065RLF.pdf|publisher=[[International Ski Federation]]|date=14 November 2016}}</ref>
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|3 December 2016 || {{flagicon|GER}} [[Mönchengladbach]] || align=center|BA || {{flagicon|FIN}} [[Roope Tonteri]] || {{flagicon|SWI}} [[Jonas Bösinger]] || {{flagicon|GBR}} [[Billy Morgan (snowboarder)|Billy Morgan]] || <ref>{{cite web|title=Men's big air: Mönchengladbach|url=http://medias2.fis-ski.com/pdf/2017/SB/7077/7077RLF.pdf|publisher=[[International Ski Federation]]|date=3 December 2016}}</ref>
+|- 
+|17 December 2016 || {{flagicon|USA}} [[Cooper Spur ski area|Cooper]] || align=center|BA || {{flagicon|CAN}} [[Maxence Parrot|Max Parrot]] || {{flagicon|CAN}} [[Sebastien Toutant]] || {{flagicon|USA}} [[Ryan Stassel]] || <ref>{{cite web|title=Men's big air: Cooper|url=http://medias3.fis-ski.com/pdf/2017/SB/7087/7087RLF.pdf|publisher=[[International Ski Federation]]|date=17 December 2016}}</ref>
+|- 
+|7 January 2017 || {{flagicon|RUS}} [[Moscow]] || align=center|BA || {{flagicon|RUS}} [[Vlad Khadarin]] || {{flagicon|CAN}} [[Antoine Truchon]] || {{flagicon|NOR}} [[Fridtjof Tischendorf]] || <ref>{{cite web|title=Men's big air: Moscow|url=http://medias3.fis-ski.com/pdf/2017/SB/7390/2017SB7390RLF.pdf|publisher=[[International Ski Federation]]|date=7 January 2017}}</ref>
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|11 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|BA || {{flagicon|CAN}} [[Mark McMorris]] || {{flagicon|CAN}} [[Maxence Parrot|Max Parrot]] || {{flagicon|RUS}} [[Anton Mamaev]] || <ref>{{cite web|title=Men's big air: Quebec City|url=http://medias1.fis-ski.com/pdf/2017/SB/7156/7156RLF.pdf|publisher=[[International Ski Federation]]|date=11 February 2017}}</ref>
+|- bgcolor=#EDC9AF
+| colspan=3 align=center|FIS Super Series (12 November 2016 – 11 February 2017)
+| {{flagicon|CAN}} [[Mark McMorris]]
+| {{flagicon|BEL}} [[Seppe Smits]]
+| {{flagicon|NOR}} [[Marcus Kleveland]]
+|colspan=2|
+|-
+|}
+
+=== Slopestyle ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|14 January 2017 || {{flagicon|AUT}} [[Kreischberg]] || align=center|SBS || {{flagicon|NOR}} [[Mons Roysland]] || {{flagicon|USA}} [[Ryan Stassel]] || {{flagicon|USA}} [[Redmond Gerard]] || <ref>{{cite web|title=Men's slopestyle: Kreischberg|url=http://medias1.fis-ski.com/pdf/2017/SB/7112/2017SB7112RLF.pdf|publisher=[[International Ski Federation]]|date=14 January 2017}}</ref>
+|- 
+|20 January 2017 || {{flagicon|SWI}} [[Laax]] || align=center|SBS || {{flagicon|CAN}} [[Maxence Parrot|Max Parrot]] || {{flagicon|CAN}} [[Mark McMorris]] || {{flagicon|CAN}} [[Tyler Nicholson]] || <ref>{{cite web|title=Men's slopestyle: Laax|url=http://medias2.fis-ski.com/pdf/2017/SB/7635/2017SB7635RLF.pdf|publisher=[[International Ski Federation]]|date=20 January 2017}}</ref>
+|- 
+|27 January 2017 || {{flagicon|ITA}} [[Seiser Alm]] || align=center|SBS || {{flagicon|BEL}} [[Seppe Smits]] || {{flagicon|GBR}} [[Jamie Nicholls (snowboarder)|Jamie Nicholls]] || {{flagicon|BEL}} [[Sebbe de Buck]] || <ref>{{cite web|title=Men's slopestyle: Seiser Alm|url=http://medias2.fis-ski.com/pdf/2017/SB/7328/7328RLF.pdf|publisher=[[International Ski Federation]]|date=27 January 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth]] || align=center|SBS || {{flagicon|USA}} [[Redmond Gerard]] || {{flagicon|USA}} [[Kyle Mack]] || {{flagicon|USA}} [[Dylan Thomas (snowboarder)|Dylan Thomas]] || <ref>{{cite web|title=Men's slopestyle: Mammoth|url=http://medias3.fis-ski.com/pdf/2017/SB/7510/7510RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|12 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|SBS || {{flagicon|CAN}} [[Sebastien Toutant]] || {{flagicon|CAN}} [[Mark McMorris]] || {{flagicon|NOR}} [[Marcus Kleveland]] || <ref>{{cite web|title=Men's slopestyle: Quebec City|url=http://medias2.fis-ski.com/pdf/2017/SB/7158/7158RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|25 March 2017 || {{flagicon|CZE}} [[Špindlerův Mlýn]] || align=center|SBS || {{flagicon|USA}} [[Chris Corning]] || {{flagicon|NOR}} [[Fridtjof Tischendorf]] || {{flagicon|GBR}} [[Jamie Nicholls (snowboarder)|Jamie Nicholls]] || <ref>{{cite web|title=Men's slopestyle: Špindlerův Mlýn|url=http://medias1.fis-ski.com/pdf/2017/SB/7228/2017SB7228RLF.pdf|publisher=[[International Ski Federation]]|date=25 March 2017 }}</ref>
+|}
+
+=== Halfpipe ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|16 December 2016 || {{flagicon|USA}} [[Cooper Spur ski area|Cooper]] || align=center|HP || {{flagicon|SWI}} [[Patrick Burgener]] || {{flagicon|SWI}} [[Iouri Podladtchikov]] || {{flagicon|USA}} [[Chase Josey]] || <ref>{{cite web|title=Men's halfpipe: Cooper|url=http://medias3.fis-ski.com/pdf/2017/SB/7083/7083RLF.pdf|publisher=[[International Ski Federation|FIS]]|date=16 December 2016}}</ref>
+|- 
+|21 January 2017 || {{flagicon|SWI}} [[Laax]] || align=center|HP || {{flagicon|USA}} [[Chase Josey]] || {{flagicon|AUS}} [[Scotty James]] || {{flagicon|SUI}} [[Iouri Podladtchikov]] || <ref>{{cite web|title=Men's halfpipe: Laax|url=http://medias2.fis-ski.com/pdf/2017/SB/7637/2017SB7637RLF.pdf|publisher=[[International Ski Federation]]|date=21 January 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth]] || align=center|HP || {{flagicon|USA}} [[Shaun White]] || {{flagicon|USA}} [[Ryan Wachendorfer]] || {{flagicon|USA}} [[Louie Vito]] || <ref>{{cite web|title=Men's halfpipe: Mammoth|url=http://medias3.fis-ski.com/pdf/2017/SB/7512/7512RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|19 February 2017 || {{flagicon|KOR}} [[Bokwang Phoenix Park|Bokwang]] || align=center|HP || {{flagicon|AUS}} [[Scotty James]] || {{flagicon|USA}} [[Shaun White]] || {{flagicon|CHN}} [[Zhang Yiwei]] || <ref>{{cite web|title=Men's halfpipe: Bokwang|url=http://medias2.fis-ski.com/pdf/2017/SB/7370/2017SB7370RLF.pdf|publisher=[[International Ski Federation]]|date=19 February 2017}}</ref>
+|}
+
+== Women ==
+
+=== Parallel ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|15 December 2016 || {{flagicon|ITA}} [[Carezza]] || align=center|PGS || {{flagicon|AUT}} [[Ina Meschik]] || {{flagicon|CZE}} [[Ester Ledecká]] || {{flagicon|RUS}} [[Alena Zavarzina]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Carezza|url=http://medias3.fis-ski.com/pdf/2017/SB/7078/2017SB7078RLF.pdf|publisher=[[International Ski Federation|FIS]]|date=15 December 2016}}</ref> 
+|- 
+|17 December 2016 || {{flagicon|ITA}} [[Cortina d'Ampezzo]] || align=center|PSL || {{flagicon|CZE}} [[Ester Ledecká]] || {{flagicon|AUT}} [[Daniela Ulbing]] || {{flagicon|ITA}} [[Nadya Ochner]] || <ref>{{cite web|title=Ladies' parallel slalom: Cortina d'Ampezzo|url=http://medias1.fis-ski.com/pdf/2017/SB/7066/2017SB7066RLF.pdf|publisher=[[International Ski Federation|FIS]]|date=17 December 2016}}</ref> 
+|- 
+|10 January 2017 || {{flagicon|AUT}} [[Bad Gastein]] || align=center|PSL || {{flagicon|AUT}} [[Daniela Ulbing]] || {{flagicon|NED}} [[Michelle Dekker]] || {{flagicon|AUT}} [[Sabine Schöffmann]] || <ref>{{cite web|title=Ladies' parallel slalom: Bad Gastein|url=http://medias3.fis-ski.com/pdf/2017/SB/7106/2017SB7106RLF.pdf|publisher=[[International Ski Federation]]|date=10 January 2017}}</ref> 
+|- 
+|28 January 2017 || {{flagicon|SLO}} [[Rogla Ski Resort|Rogla]] || align=center|PGS || {{flagicon|CZE}} [[Ester Ledecká]] || {{flagicon|GER}} [[Carolin Langenhorst]] || {{flagicon|AUT}} [[Ina Meschik]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Rogla |url=http://medias3.fis-ski.com/pdf/2017/SB/7401/2017SB7401RLF.pdf|publisher=[[International Ski Federation]]|date=28 January 2017}}</ref>
+|- 
+||3 February 2017 || {{flagicon|BUL}} [[Bansko]] ||align=center|PGS || {{flagicon|SUI}} [[Patrizia Kummer]]  || {{flagicon|AUT}} [[Julia Dujmovits]] || {{flagicon|SUI}} [[Ladina Jenny]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Bansko 1 |url=http://medias2.fis-ski.com/pdf/2017/SB/7127/2017SB7127RLF.pdf|publisher=[[International Ski Federation]]|date=3 February 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|BUL}} [[Bansko]] || align=center|PGS || {{flagicon|RUS}} [[Alena Zavarzina]]  || {{flagicon|SUI}} [[Patrizia Kummer]] || {{flagicon|JPN}} [[Tomoka Takeuchi]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Bansko 2 |url=http://medias3.fis-ski.com/pdf/2017/SB/7131/2017SB7131RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|12 February 2017 || {{flagicon|KOR}} [[Bokwang Phoenix Park|Bokwang]] || align=center|PGS || {{flagicon|RUS}} [[Alena Zavarzina]] || {{flagicon|SUI}} [[Patrizia Kummer]] || {{flagicon|SUI}} [[Julie Zogg]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Bokwang |url=http://medias3.fis-ski.com/pdf/2017/SB/7365/2017SB7365RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|25 February 2017 || {{flagicon|RUS}} [[Moscow]] || align=center|PSL || colspan=4 align=center|''Cancelled due to organizational issues''
+|- 
+|5 March 2017 || {{flagicon|TUR}} [[Kayseri]] || align=center|PGS || {{flagicon|CZE}} [[Ester Ledecká]] || {{flagicon|JPN}} [[Tomoka Takeuchi]] || {{flagicon|GER}} [[Ramona Hofmeister]] || <ref>{{cite web|title=Ladies' parallel giant slalom: Kayseri |url=http://medias1.fis-ski.com/pdf/2017/SB/7481/2017SB7481RLF.pdf|publisher=[[International Ski Federation]]|date=5 March 2017}}</ref>
+|- 
+|18 March 2017 || {{flagicon|GER}} [[Winterberg]] || align=center|PSL || {{flagicon|AUT}} [[Sabine Schöffmann]] || {{flagicon|CZE}} [[Ester Ledecká]] || {{flagicon|AUT}} [[Julia Dujmovits]] || <ref>{{cite web|title=Ladies' parallel slalom: Winterberg|url=http://medias2.fis-ski.com/pdf/2017/SB/7279/2017SB7279RLF.pdf|publisher=[[International Ski Federation]]|date=18 March 2017}}</ref>
+|}
+
+=== Snowboard Cross ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|16 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SBX || {{flagicon|AUS}} [[Belle Brockhoff]] || {{flagicon|FRA}} [[Chloé Trespeuch]] || {{flagicon|USA}} [[Lindsey Jacobellis]] || <ref>{{cite web|title=Ladies' snowboard cross: Montafon|url=http://medias3.fis-ski.com/pdf/2017/SB/7090/7090RLF.pdf|publisher=[[International Ski Federation]]|date=16 December 2016}}</ref> 
+|- 
+|21 January 2017 || {{flagicon|USA}} [[Solitude Mountain Resort|Solitude]] || align=center|SBX || {{flagicon|CZE}} [[Eva Samková]] || {{flagicon|ITA}} [[Michela Moioli]] || {{flagicon|USA}} [[Lindsey Jacobellis]] || <ref>{{cite web|title=Ladies' snowboard cross: Solitude|url=http://medias4.fis-ski.com/pdf/2017/SB/7501/2017SB7501RLF.pdf|publisher=[[International Ski Federation]]|date=21 January 2017}}</ref> 
+|- 
+|4 February 2017 || {{flagicon|BUL}} [[Bansko]] || align=center|SBX || {{flagicon|AUS}} [[Belle Brockhoff]] || {{flagicon|CZE}} [[Eva Samková]] || {{flagicon|FRA}} [[Chloé Trespeuch]] || <ref>{{cite web|title=Ladies' snowboard cross: Bansko|url=http://medias4.fis-ski.com/pdf/2017/SB/7129/2017SB7129RLF.pdf|publisher=[[International Ski Federation]]|date=4 February 2017}}</ref> 
+|- 
+|11 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SBX || {{flagicon|ITA}} [[Michela Moioli]] || {{flagicon|AUS}} [[Belle Brockhoff]] || {{flagicon|CAN}} [[Meryeta Odine]] || <ref>{{cite web|title=Ladies' snowboard cross: Feldberg 1|url=http://medias4.fis-ski.com/pdf/2017/SB/7269/2017SB7269RLF.pdf|publisher=[[International Ski Federation]]|date=11 February 2017}}</ref> 
+|- 
+|12 February 2017 || {{flagicon|GER}} [[Feldberg, Baden-Württemberg|Feldberg]] || align=center|SBX || {{flagicon|CZE}} [[Eva Samková]] || {{flagicon|USA}} [[Lindsey Jacobellis]] || {{flagicon|FRA}} [[Chloé Trespeuch]] || <ref>{{cite web|title=Ladies' snowboard cross: Feldberg 2|url=http://medias1.fis-ski.com/pdf/2017/SB/7271/2017SB7271RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|26 February 2017 || {{flagicon|RUS}} [[Kazan]] || align=center|SBX || colspan=4 align=center|''Cancelled''
+|- 
+|5 March 2017 || {{flagicon|ESP}} [[La Molina (ski resort)|La Molina]] || align=center|SBX || {{flagicon|ITA}} [[Michela Moioli]] || {{flagicon|CZE}} [[Eva Samková]] || {{flagicon|FRA}} [[Chloé Trespeuch]] || <ref>{{cite web|title=Ladies' snowboard cross: La Molina|url=http://medias2.fis-ski.com/pdf/2017/SB/7237/2017SB7237RLF.pdf|publisher=[[International Ski Federation]]|date=5 March 2017}}</ref>
+|- 
+|25 March 2017 || {{flagicon|SUI}} [[Veysonnaz]] || align=center|SBX || {{flagicon|FRA}} [[Charlotte Bankes]] || {{flagicon|CZE}} [[Eva Samková]] || {{flagicon|ITA}} [[Michela Moioli]] || <ref>{{cite web|title=Ladies' snowboard cross: Veysonnaz|url=http://medias2.fis-ski.com/pdf/2017/SB/7452/2017SB7452RLF.pdf|publisher=[[International Ski Federation]]|date=25 March 2017}}</ref>
+|}
+
+=== Big Air ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|12 November 2016 || {{flagicon|ITA}} [[Milan]] || align=center|BA || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|USA}} [[Hailey Langland]] || {{flagicon|CZE}} [[Šárka Pančochová]] || <ref>{{cite web|title=Ladies' big air: Milan|url=http://medias4.fis-ski.com/pdf/2017/SB/7060/7060RLF.pdf|publisher=[[International Ski Federation]]|date=12 November 2016}}</ref>
+|- 
+|14 November 2016 || {{flagicon|KOR}} [[Alpensia Resort|Alpensia]] || align=center|BA || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || {{flagicon|GBR}} [[Katie Ormerod]] || <ref>{{cite web|title=Ladies' big air: Alpensia|url=http://medias2.fis-ski.com/pdf/2017/SB/7064/2017SB7064RLF.pdf|publisher=[[International Ski Federation]]|date=14 November 2016}}</ref>
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|3 December 2016 || {{flagicon|GER}} [[Mönchengladbach]] || align=center|BA || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|GBR}} [[Katie Ormerod]] || {{flagicon|JPN}} [[Miyabi Onitsuka]] || <ref>{{cite web|title=Ladies' big air: Mönchengladbach|url=http://medias2.fis-ski.com/pdf/2017/SB/7076/7076RLF.pdf|publisher=[[International Ski Federation]]|date=3 December 2016}}</ref>
+|- 
+|17 December 2016 || {{flagicon|USA}} [[Cooper Spur ski area|Cooper]] || align=center|BA || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || {{flagicon|FIN}} [[Enni Rukajärvi]] || {{flagicon|SVK}} [[Klaudia Medlová]] || <ref>{{cite web|title=Ladies' big air: Cooper|url=http://medias3.fis-ski.com/pdf/2017/SB/7086/7086RLF.pdf|publisher=[[International Ski Federation]]|date=17 December 2016}}</ref>
+|- 
+|7 January 2017 || {{flagicon|RUS}} [[Moscow]] || align=center|BA || {{flagicon|GBR}} [[Katie Ormerod]] || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|SVK}} [[Klaudia Medlová]] || <ref>{{cite web|title=Ladies' big air: Moscow|url=http://medias2.fis-ski.com/pdf/2017/SB/7389/2017SB7389RLF.pdf|publisher=[[International Ski Federation]]|date=7 January 2017}}</ref>
+|- 
+|colspan=9|
+|- bgcolor=#EDC9AF
+|11 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|BA || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || {{flagicon|NZL}} [[Zoi Sadowski-Synnott]] ||  <ref>{{cite web|title=Ladies' big air: Quebec City|url=http://medias2.fis-ski.com/pdf/2017/SB/7155/7155RLF.pdf|publisher=[[International Ski Federation]]|date=11 February 2017}}</ref>
+|- bgcolor=#EDC9AF
+| colspan=3 align=center|FIS Super Series (12 November 2016 – 11 February 2017)
+| {{flagicon|AUT}} [[Anna Gasser]]
+| {{flagicon|GBR}} [[Katie Ormerod]]
+| {{flagicon|JPN}} [[Miyabi Onitsuka]]
+|colspan=2|
+|-
+|}
+
+=== Slopestyle ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|14 January 2017 || {{flagicon|AUT}} [[Kreischberg]] || align=center|SBS || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|SUI}} [[Sina Candrian]] || {{flagicon|NOR}} [[Silje Norendal]] || <ref>{{cite web|title=Ladies' slopestyle: Kreischberg|url=http://medias1.fis-ski.com/pdf/2017/SB/7111/2017SB7111RLF.pdf|publisher=[[International Ski Federation]]|date=14 January 2017}}</ref>
+|- 
+|20 January 2017 || {{flagicon|SWI}} [[Laax]] || align=center|SBS || {{flagicon|FIN}} [[Enni Rukajärvi]] || {{flagicon|AUT}} [[Anna Gasser]] || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || <ref>{{cite web|title=Ladies' slopestyle: Laax|url=http://medias2.fis-ski.com/pdf/2017/SB/7634/2017SB7634RLF.pdf|publisher=[[International Ski Federation]]|date=20 January 2017}}</ref>
+|- 
+|27 January 2017 || {{flagicon|ITA}} [[Seiser Alm]] || align=center|SBS || {{flagicon|FIN}} [[Enni Rukajärvi]] || {{flagicon|CAN}} [[Laurie Blouin]] || {{flagicon|SUI}} [[Sina Candrian]] || <ref>{{cite web|title=Ladies' slopestyle: Seiser Alm]|url=http://medias1.fis-ski.com/pdf/2017/SB/7327/7327RLF.pdf|publisher=[[International Ski Federation]]|date=27 January 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth]] || align=center|SBS || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || {{flagicon|USA}} [[Hailey Langland]] || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || <ref>{{cite web|title=Ladies' slopestyle: Mammoth|url=http://medias4.fis-ski.com/pdf/2017/SB/7509/7509RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|12 February 2017 || {{flagicon|CAN}} [[Quebec City]] || align=center|SBS || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || {{flagicon|CAN}} [[Brooke Voigt]] || <ref>{{cite web|title=Ladies' slopestyle: Quebec City|url=http://medias3.fis-ski.com/pdf/2017/SB/7157/7157RLF.pdf|publisher=[[International Ski Federation]]|date=12 February 2017}}</ref>
+|- 
+|25 March 2017 || {{flagicon|CZE}} [[Špindlerův Mlýn]] || align=center|SBS || {{flagicon|NZL}} [[Zoi Sadowski-Synnott]] || {{flagicon|CAN}} [[Spencer O'Brien]] || {{flagicon|GER}} [[Silvia Mittermueller|Silvia Mittermüller]] || <ref>{{cite web|title=Ladies' slopestyle: Špindlerův Mlýn|url=http://medias2.fis-ski.com/pdf/2017/SB/7227/2017SB7227RLF.pdf|publisher=[[International Ski Federation]]|date=25 March 2017}}</ref>
+|}
+
+=== Halfpipe ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|16 December 2016 || {{flagicon|USA}} [[Cooper Spur ski area|Cooper]] || align=center|HP || {{flagicon|USA}} [[Chloe Kim]] || {{flagicon|CHN}} [[Liu Jiayu]] || {{flagicon|CHN}} [[Cai Xuetong]] || <ref>{{cite web|title=Ladies' halfpipe: Cooper|url=http://medias3.fis-ski.com/pdf/2017/SB/7082/7082RLF.pdf|publisher=[[International Ski Federation|FIS]]|date=16 December 2016}}</ref>
+|- 
+|21 January 2017 || {{flagicon|SWI}} [[Laax]] || align=center|HP || {{flagicon|USA}} [[Chloe Kim]] || {{flagicon|USA}} [[Arielle Gold]] || {{flagicon|CHN}} [[Cai Xuetong]] || <ref>{{cite web|title=Ladies' halfpipe: Laax|url=http://medias2.fis-ski.com/pdf/2017/SB/7636/2017SB7636RLF.pdf|publisher=[[International Ski Federation]]|date=21 January 2017}}</ref>
+|- 
+|5 February 2017 || {{flagicon|USA}} [[Mammoth Mountain Ski Area|Mammoth]] || align=center|HP ||  {{flagicon|USA}} [[Kelly Clark]] || {{flagicon|JPN}} [[Haruna Matsumoto]] || {{flagicon|USA}} [[Hannah Teter]] || <ref>{{cite web|title=Ladies' halfpipe: Mammoth|url=http://medias3.fis-ski.com/pdf/2017/SB/7511/7511RLF.pdf|publisher=[[International Ski Federation]]|date=5 February 2017}}</ref>
+|- 
+|19 February 2017 || {{flagicon|KOR}} [[Bokwang Phoenix Park|Bokwang]] || align=center|HP || {{flagicon|USA}} [[Kelly Clark]] || {{flagicon|CHN}} [[Liu Jiayu]] || {{flagicon|CHN}} [[Cai Xuetong]] || <ref>{{cite web|title=Ladies' halfpipe: Bokwang|url=http://medias4.fis-ski.com/pdf/2017/SB/7369/2017SB7369RLF.pdf|publisher=[[International Ski Federation]]|date=19 February 2017}}</ref>
+|}
+
+== Team ==
+
+=== Snowboard cross men ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|18 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SBX || {{Relay|{{ESP}} I|[[Regino Hernández]]|[[Lucas Eguibar]]}} || {{Relay|{{ITA}} I|[[Omar Visintin]]|[[Emanuel Perathoner]]}} || {{Relay|{{USA}} II|[[Alex Deibold]]|[[Nick Baumgartner]]}} || <ref>{{cite web|title=Men's snowboard cross team: Montafon|url=http://medias4.fis-ski.com/pdf/2017/SB/7093/7093RLF.pdf|publisher=[[International Ski Federation]]|date=18 December 2016}}</ref>
+|- 
+|22 January 2017 || {{flagicon|USA}} [[Solitude]] || align=center|SBX || {{Relay|{{ITA}} I|[[Luca Matteotti]]|[[Emanuel Perathoner]]}} || {{Relay|{{AUT}} II|[[Julian Lueftner]]|[[Lukas Pachner]]}} || {{Relay|{{USA}} I|[[Nate Holland]]|[[Alex Deibold]]}} || <ref>{{cite web|title=Men's snowboard cross team: Solitude|url=http://medias1.fis-ski.com/pdf/2017/SB/7504/2017SB7504RBLF.pdf|publisher=[[International Ski Federation]]|date=22 January 2017}}</ref> 
+|- 
+|26 March 2017 || {{flagicon|SUI}} [[Veysonnaz]] || align=center|SBX || {{Relay|{{AUT}} I|[[Markus Schairer]]|[[Alessandro Hämmerle]]}}   || {{Relay|{{USA}} II|[[Jonathan Cheever]]|[[Mick Dierdorff]]}} || {{Relay|{{CAN}} I|[[Chris Robanske]]|[[Kevin Hill (snowboarder)|Kevin Hill]]}} || <ref>{{cite web|title=Men's snowboard cross team: Veysonnaz|url=http://medias3.fis-ski.com/pdf/2017/SB/7454/2017SB7454RLF.pdf|publisher=[[International Ski Federation]]|date=26 March 2017}}</ref> 
+|}
+
+=== Snowboard cross ladies ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|18 December 2016 || {{flagicon|AUT}} [[Montafon]] || align=center|SBX || {{Relay|{{FRA}} I|[[Nelly Moenne Loccoz]]|[[Chloé Trespeuch]]}} || {{Relay|{{ITA}} I|[[Raffaella Brutto]]|[[Michela Moioli]]}} || {{Relay|{{FRA}} II|[[Manon Petit]]|[[Charlotte Bankes]]}} || <ref>{{cite web|title=Ladies' snowboard cross team: Montafon|url=http://medias4.fis-ski.com/pdf/2017/SB/7092/7092RLF.pdf|publisher=[[International Ski Federation]]|date=18 December 2016}}</ref>
+|- 
+|22 January 2017 || {{flagicon|USA}} [[Solitude]] || align=center|SBX || {{Relay|{{USA}} I|[[Lindsey Jacobellis]]|[[Rosina Mancari]]}} || {{Relay|{{FRA}} I|[[Nelly Moenne Loccoz]]|[[Chloé Trespeuch]]}} || {{Relay|{{ITA}} I|[[Raffaella Brutto]]|[[Michela Moioli]]}} || <ref>{{cite web|title=Ladies' snowboard cross team: Solitude|url=http://medias1.fis-ski.com/pdf/2017/SB/7503/2017SB7503RBLF.pdf|publisher=[[International Ski Federation]]|date=22 January 2017}}</ref> 
+|- 
+|26 March 2017 || {{flagicon|SUI}} [[Veysonnaz]] || align=center|SBX || {{Relay|{{ITA}} I|[[Raffaella Brutto]]|[[Michela Moioli]]}} || {{Relay|{{FRA}} I|[[Nelly Moenne Loccoz]]|[[Chloé Trespeuch]]}} || {{Relay|{{CAN}} I|[[Carle Brenneman]]|[[Tess Critchlow]]}} || <ref>{{cite web|title=Ladies' snowboard cross team: Veysonnaz|url=http://medias2.fis-ski.com/pdf/2017/SB/7453/2017SB7453RLF.pdf|publisher=[[International Ski Federation]]|date=26 March 2017}}</ref> 
+|}
+
+=== Parallel mixed ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%;"
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:180px;"|Place
+!scope="col" style="width:15px;" |Event
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+|11 January 2017 || {{flagicon|AUT}} [[Bad Gastein]] || align=center|PSLT || {{Relay|{{AUT}} I|[[Daniela Ulbing]]|[[Benjamin Karl]]}} || {{Relay|{{SUI}} II|[[Patrizia Kummer]]|[[Nevin Galbarini]]}} || {{Relay|{{AUT}} III|[[Claudia Riegler (snowboarder)|Claudia Riegler]]|[[Andreas Prommegger]]}} || <ref>{{cite web|title=Mixed parallel team: Bad Gastein|url=http://medias1.fis-ski.com/pdf/2017/SB/7108/2017SB7108RLF.pdf|publisher=[[International Ski Federation]]|date=11 January 2017}}</ref>
+|- 
+|19 March 2017 || {{flagicon|GER}} [[Winterberg]] || align=center|PSLT || {{Relay|{{ITA}} I|[[Nadya Ochner]]|[[Aaron March]]}} || {{Relay|{{AUT}} I|[[Daniela Ulbing]]|[[Andreas Prommegger]]}} || {{Relay|{{GER}} I|[[Carolin Langenhorst]]|[[Stefan Baumeister]]}} || <ref>{{cite web|title=Mixed parallel team: Winterberg|url=http://medias3.fis-ski.com/pdf/2017/SB/7281/2017SB7281RLF.pdf|publisher=[[International Ski Federation]]|date=19 March 2017}}</ref>
+|}
+
+== Men's standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Parallel overall <small>(PSL/PGS)</small> ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUT}} [[Andreas Prommegger]] || align=center|4500
+|- 
+| align=center|2 || {{flagicon|BUL}} [[Radoslav Yankov]] || align=center|4310
+|- 
+| align=center|3 || {{flagicon|AUT}} [[Benjamin Karl]] || align=center|3680
+|- 
+| align=center|4 || {{flagicon|SUI}} [[Nevin Galmarini]] || align=center|3566.5
+|- 
+| align=center|5 || {{flagicon|KOR}} [[Lee Sang-ho (snowboarder)|Lee Sang-ho]] || align=center|3280
+|}
+*Standings after 9 races.
+{{col-break|width=33%}}
+
+=== Parallel slalom ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|ITA}} [[Aaron March]] || align=center|1560
+|- 
+| align=center|2 || {{flagicon|GER}} [[Stefan Baumeister]] || align=center|1440
+|- 
+| align=center|3 || {{flagicon|ITA}} [[Christoph Mick]] || align=center|1410
+|- 
+| align=center|4 || {{flagicon|ITA}} [[Roland Fischnaller (snowboarder)|Roland Fischnaller]] || align=center|1350
+|- 
+| align=center|5 || {{flagicon|AUT}} [[Andreas Prommegger]] || align=center|1200
+|}
+*Standings after 3 races.
+{{col-break|width=33%}}
+
+=== Parallel giant slalom ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|BUL}} [[Radoslav Yankov]] || align=center|3630
+|- 
+| align=center|2 || {{flagicon|AUT}} [[Andreas Prommegger]] || align=center|3300
+|- 
+| align=center|3 || {{flagicon|AUT}} [[Benjamin Karl]] || align=center|2920
+|- 
+| align=center|4 || {{flagicon|SUI}} [[Nevin Galmarini]] || align=center|2718.5
+|-
+| align=center|5 || {{flagicon|KOR}} [[Lee Sang-ho (snowboarder)|Lee Sang-ho]] || align=center|2470
+|}
+*Standings after 6 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Snowboard Cross ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|FRA}} [[Pierre Vaultier]] || align=center|4450
+|- 
+| align=center|2 || {{flagicon|ITA}} [[Omar Visintin]] || align=center|3920
+|- 
+| align=center|3 || {{flagicon|AUT}} [[Alessandro Hämmerle]] || align=center|3404.6
+|- 
+| align=center|4 || {{flagicon|AUS}} [[Alex Pullin]] || align=center|3390
+|- 
+| align=center|5 || {{flagicon|USA}} [[Hagen Kearney]] || align=center|2580
+|}
+*Standings after 7 races.
+{{col-break|width=33%}}
+
+=== Freestyle overall <small>(BA/SBS/HP)</small> ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Mark McMorris]] || align=center|4200
+|- 
+| align=center|2 || {{flagicon|CAN}} [[Max Parrot]] || align=center|3617.6
+|- 
+| align=center|3 || {{flagicon|BEL}} [[Seppe Smits]] || align=center|3320
+|- 
+| align=center|4 || {{flagicon|USA}} [[Redmond Gerard]] || align=center|2900
+|- 
+| align=center|5 || {{flagicon|AUS}} [[Scotty James]] || align=center|2700
+|}
+*Standings after 16 races.
+{{col-break|width=33%}}
+
+=== Big Air ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Mark McMorris]] || align=center|2600
+|- 
+| align=center|2 || {{flagicon|CAN}} [[Max Parrot]] || align=center|2600
+|- 
+| align=center|3 || {{flagicon|BEL}} [[Seppe Smits]] || align=center|2190
+|- 
+| align=center|4 || {{flagicon|FIN}} [[Roope Tonteri]] || align=center|1768.8
+|- 
+| align=center|5 || {{flagicon|USA}} [[Ryan Stassel]] || align=center|1720
+|}
+*Standings after 6 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Slopestyle ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|USA}} [[Redmond Gerard]] || align=center|2460
+|- 
+| align=center|2 || {{flagicon|GBR}} [[Jamie Nicholls (snowboarder)|Jamie Nicholls]] || align=center|2040
+|- 
+| align=center|3 || {{flagicon|CAN}} [[Mark McMorris]] || align=center|1600
+|- 
+| align=center|4 || {{flagicon|BEL}} [[Seppe Smits]] || align=center|1526
+|- 
+| align=center|5 || {{flagicon|USA}} [[Brock Crouch]] || align=center|1410
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== Halfpipe ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUS}} [[Scotty James]] || align=center|2700
+|- 
+| align=center|2 || {{flagicon|USA}} [[Chase Josey]] || align=center|2360
+|- 
+| align=center|3 || {{flagicon|USA}} [[Shaun White]] || align=center|1930
+|- 
+| align=center|4 || {{flagicon|SWI}} [[Iouri Podladtchikov]] || align=center|1660
+|- 
+| align=center|5 || {{flagicon|SWI}} [[Patrick Burgener]] || align=center|1610
+|}
+*Standings after 4 races.
+{{col-break|width=33%}}
+
+=== FIS Super Series ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CAN}} [[Mark McMorris]] || align=center|1600
+|- 
+| align=center|2 || {{flagicon|BEL}} [[Seppe Smits]] || align=center|1460
+|- 
+| align=center|3 || {{flagicon|CAN}} [[Marcus Kleveland]] || align=center|1400
+|- 
+| align=center|4 || {{flagicon|FIN}} [[Roope Tonteri]] || align=center|1220
+|- 
+| align=center|5 || {{flagicon|RUS}} [[Anton Mamaev]] || align=center|1130
+|}
+*Standings after 3 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+== Ladies' standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Parallel overall <small>(PSL/PGS)</small> ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CZE}} [[Ester Ledecká]] || align=center|4860
+|- 
+| align=center|2 || {{flagicon|RUS}} [[Alena Zavarzina]] || align=center|4500
+|- 
+| align=center|3 || {{flagicon|SUI}} [[Patrizia Kummer]] || align=center|4060
+|- 
+| align=center|4 || {{flagicon|AUT}} [[Sabine Schöffmann]] || align=center|3470
+|- 
+| align=center|5 || {{flagicon|AUT}} [[Ina Meschik]] || align=center|3260 
+|}
+*Standings after 9 races.
+{{col-break|width=33%}}
+
+=== Parallel slalom ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUT}} [[Daniela Ulbing]] || align=center|2300
+|- 
+| align=center|2 || {{flagicon|CZE}} [[Ester Ledecká]] || align=center|2060
+|- 
+| align=center|3 || {{flagicon|AUT}} [[Sabine Schöffmann]] || align=center|2000
+|- 
+| align=center|4 || {{flagicon|NED}} [[Michelle Decker]] || align=center|1226
+|- 
+| align=center|5 || {{flagicon|SWI}} [[Julie Zogg]] || align=center|1130
+|}
+*Standings after 3 races.
+{{col-break|width=33%}}
+
+=== Parallel giant slalom ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|RUS}} [[Alena Zavarzina]] || align=center|3900
+|- 
+| align=center|2 || {{flagicon|SUI}} [[Patrizia Kummer]] || align=center|3460
+|- 
+| align=center|3 || {{flagicon|CZE}} [[Ester Ledecká]] || align=center|2800
+|- 
+| align=center|4 || {{flagicon|AUT}} [[Ina Meschik]] || align=center|2430
+|- 
+| align=center|5 || {{flagicon|JPN}} [[Tomoka Takeuchi]] || align=center|2420
+|}
+*Standings after 6 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Snowboard Cross ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|CZE}} [[Eva Samková]] || align=center|5170
+|- 
+| align=center|2 || {{flagicon|ITA}} [[Michela Moioli]] || align=center|4490
+|- 
+| align=center|3 || {{flagicon|AUS}} [[Belle Brockhoff]] || align=center|4060
+|- 
+| align=center|4 || {{flagicon|FRA}} [[Chloé Trespeuch]] || align=center|3740
+|- 
+| align=center|5 || {{flagicon|USA}} [[Lindsey Jacobellis]] || align=center|3220
+|}
+*Standings after 7 races.
+{{col-break|width=33%}}
+
+=== Freestyle  overall <small>(BA/SBS/HP)</small> ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUT}} [[Anna Gasser]] || align=center|5800
+|- 
+| align=center|2 || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || align=center|4210
+|- 
+| align=center|3 || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || align=center|4200
+|- 
+| align=center|4 || {{flagicon|GBR}} [[Katie Ormerod]] || align=center|3610
+|- 
+| align=center|5 || {{flagicon|FIN}} [[Enni Rukajärvi]] || align=center|3160
+|}
+*Standings after 16 races.
+{{col-break|width=33%}}
+
+=== Big Air ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUT}} [[Anna Gasser]] || align=center|4800
+|- 
+| align=center|2 || {{flagicon|GBR}} [[Katie Ormerod]] || align=center|3350
+|- 
+| align=center|3 || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || align=center|2250
+|- 
+| align=center|4 || {{flagicon|SVK}} [[Klaudia Medlová]] || align=center|1880
+|- 
+| align=center|5 || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || align=center|1810
+|}
+*Standings after 6 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Slopestyle ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|USA}} [[Jamie Anderson (snowboarder)|Jamie Anderson]] || align=center|2400
+|- 
+| align=center|2 || {{flagicon|USA}} [[Julia Marino (snowboarder)|Julia Marino]] || align=center|2215
+|- 
+| align=center|3 || {{flagicon|AUT}} [[Anna Gasser]] || align=center|2200
+|- 
+| align=center|4 || {{flagicon|FIN}} [[Enni Rukajärvi]] || align=center|2000
+|- 
+| align=center|5 || {{flagicon|GBR}} [[Aimee Fuller]] || align=center|1648.5
+|}
+*Standings after 6 races.
+{{col-break|width=33%}}
+
+=== Halfpipe ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|USA}} [[Chloe Kim]] || align=center|3000
+|- 
+| align=center|2 || {{flagicon|USA}} [[Kelly Clark]] || align=center|2500
+|- 
+| align=center|3 || {{flagicon|CHN}} [[Liu Jiayu]] || align=center|2500
+|- 
+| align=center|4 || {{flagicon|CHN}} [[Cai Xuetong]] || align=center|1960
+|- 
+| align=center|5 || {{flagicon|JPN}} [[Haruna Matsumoto]] || align=center|1450
+|}
+*Standings after 4 races.
+{{col-break|width=33%}}
+
+=== FIS Super Series ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px;"|
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|- 
+| align=center|1 || {{flagicon|AUT}} [[Anna Gasser]] || align=center|3000
+|- 
+| align=center|2 || {{flagicon|GBR}} [[Katie Ormerod]] || align=center|1300
+|- 
+| align=center|3 || {{flagicon|JPN}} [[Miyabi Onitsuka]] || align=center|1000
+|- 
+| align=center|4 || {{flagicon|CZE}} [[Šárka Pančochová]] || align=center|980
+|- 
+| align=center|5 || {{flagicon|GBR}} [[Almee Fuller]] || align=center|970
+|}
+*Standings after 3 races.
+{{col-break|width=1%}}
+{{col-end}}
+
+== Podium table by nation ==
+Table showing the World Cup podium places (gold–1st place, silver–2nd place, bronze–3rd place) by the countries represented by the athletes.
+
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           =
+ | gold_AUT = 15 | silver_AUT = 8  | bronze_AUT = 9
+ | gold_USA = 13 | silver_USA = 13 | bronze_USA = 15
+ | gold_ITA = 6  | silver_ITA = 7  | bronze_ITA = 5
+ | gold_FRA = 6  | silver_FRA = 4  | bronze_FRA = 4
+ | gold_CAN = 5  | silver_CAN = 8  | bronze_CAN = 7
+ | gold_CZE = 5  | silver_CZE = 5  | bronze_CZE = 1
+ | gold_AUS = 4  | silver_AUS = 3  | bronze_AUS = 2
+ | gold_RUS = 4  | silver_RUS = 1  | bronze_RUS = 2
+ | gold_SUI = 3  | silver_SUI = 8  | bronze_SUI = 4
+ | gold_FIN = 3  | silver_FIN = 1  | bronze_FIN = 0
+ | gold_NOR = 2  | silver_NOR = 1  | bronze_NOR = 3
+ | gold_GBR = 1  | silver_GBR = 2  | bronze_GBR = 3
+ | gold_BUL = 1  | silver_BUL = 2  | bronze_BUL = 1
+ | gold_GER = 1  | silver_GER = 1  | bronze_GER = 4
+ | gold_BEL = 1  | silver_BEL = 1  | bronze_BEL = 1
+ | gold_ESP = 1  | silver_ESP = 1  | bronze_ESP = 0
+ | gold_NZL = 1  | silver_NZL = 0  | bronze_NZL = 1
+ | gold_CHN = 0  | silver_CHN = 2  | bronze_CHN = 4
+ | gold_JPN = 0  | silver_JPN = 2  | bronze_JPN = 2
+ | gold_KOR = 0  | silver_KOR = 1  | bronze_KOR = 1
+ | gold_NED = 0  | silver_NED = 1  | bronze_NED = 0
+ | gold_SVK = 0  | silver_SVK = 0  | bronze_SVK = 2
+ | gold_SLO = 0  | silver_SLO = 0  | bronze_SLO = 1
+|}}
+
+==Footnotes==
+{{Reflist|group=nb}}
+
+==References==
+{{reflist|2}}
+
+{{FIS Snowboard World Cup seasons}}
+{{Wintersport season 2016–17}}
+
+{{DEFAULTSORT:2016-17 FIS Snowboard World Cup}}
+[[Category:FIS Snowboard World Cup]]
+[[Category:2016 in snowboarding|FIS Snowboard World Cup]]
+[[Category:2017 in snowboarding|FIS Snowboard World Cup]]
+[[Category:Test events for the 2018 Winter Olympic and Paralympic Games|Snowboarding]]

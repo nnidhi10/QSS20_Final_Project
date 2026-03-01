@@ -1,0 +1,298 @@
+{{Short description|none}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox Olympic event
+|event=Women's 4 × 400 metres relay
+|games=2024 Summer
+|image= RelaisUSA4x400m Femelle JO2024.jpg
+|image_size=300px
+|alt=Photo of four athletes with American flags on purple athletics tracks
+|caption=The four athletes of the United States on the tracks after their victory in the final
+|venue=[[Stade de France]]<br>[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France
+|dates={{ubl|9 August 2024 (round 1)|10 August 2024 (final)}}
+|competitors=
+|nations=
+|teams=
+|win_value= 3:15.27&nbsp;min {{AthAbbr|AR|North, Central American and Caribbean}}
+|gold= [[Shamier Little]], [[Sydney McLaughlin-Levrone]], [[Gabrielle Thomas]], [[Alexis Holmes]], [[Quanera Hayes]],{{efn|name="round1only"|This athlete competed in round 1, but was replaced in the final.}} [[Aaliyah Butler]],{{efn|name="round1only"}} [[Kaylyn Brown]]{{efn|name="round1only"}}
+|goldNOC= USA
+|silver= [[Lieke Klaver]], [[Cathelijn Peeters]], [[Lisanne de Witte]], [[Femke Bol]], [[Eveline Saalberg]],{{efn|name="round1only"}} [[Myrte van der Schoot]]{{efn|name="round1only"}}
+|silverNOC= NED
+|bronze= [[Victoria Ohuruogu]], [[Laviai Nielsen]], [[Nicole Yeargin]], [[Amber Anning]], [[Yemi Mary John]],{{efn|name="round1only"}} [[Hannah Kelly (athlete)|Hannah Kelly]],{{efn|name="round1only"}} [[Jodie Williams]],{{efn|name="round1only"}} [[Lina Nielsen]]{{efn|name="round1only"}}
+|bronzeNOC= GBR
+|prev=[[Athletics at the 2020 Summer Olympics – Women's 4 × 400 metres relay|2020]]
+|next=
+}}
+<!--[[Image:TV-icon-2.svg|thumb|110px|'''[https://www.youtube.com/watch?v= Official Video]''']]-->
+{{Athletics at the 2024 Summer Olympics}}
+
+The women's [[4 × 400 metres relay]] at the [[2024 Summer Olympics]] was held over two rounds at the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France, on 9 and 10 August 2024. This was the fourteenth time that this event was contested at the [[Summer Olympics]].
+
+Sixteen teams qualified through the [[2024 World Athletics Relays]] or by their ranking on the World Athletics top list. From round 1, eight teams advanced to the final the next day.
+
+The final was won by the team of the United States in an [[List of North, Central American and Caribbean records in athletics|area record]] of 3:15.27&nbsp;minutes, followed by the team of the Netherlands in a [[List of Dutch records in athletics|national record]] of 3:19.50&nbsp;min in second place and the team of Great Britain in a [[List of British records in athletics|national record]] of 3:19.72&nbsp;min in third place.
+
+== Background ==
+[[File:JO PARIS 2024 ATHLETISME TRACK AND FIELD STADE DE FRANCE AUGUST 03 (53903871704).jpg|thumb|alt=Photo of the stadium with raised spectator seats around a purple athletics track with green grass inside|[[Stade de France]] in August 2024]]
+
+The [[4 × 400 metres relay]] at the [[Summer Olympics]] is the longest [[track relay]] event held at the [[multi-sport event]]. The women's relay has been present on the [[Athletics at the Summer Olympics|Olympic athletics programme]] since [[1972 Summer Olympics|1972]] and was contested thirteen times before 2024.{{citation needed|date=May 2025}}
+
+The USA has finished no worse than silver at every Olympics since the 4 × 400 has been on the program, except at the boycotted 1980 games. They have [[4 × 400 metres relay at the Olympics#Women|won every gold since 1996]]. Jamaica has medaled in every Olympics since 2000, behind the USA.{{citation needed|date=May 2025}}
+
+The event was held at the [[Stade de France]] in [[Saint-Denis, Seine-Saint-Denis|Saint-Denis]], France,<ref name="schedule"/> which is part of the [[Paris metropolitan area]]. The stadium was built for the [[1998 FIFA World Cup]]. During the 2024 Summer Olympics, it had a capacity of 77,083 spectators.<ref>William Imbo, "[https://www.olympics.com/en/news/discover-iconic-sports-history-venues-paris-2024 11 Iconic venues of the Paris 2024 Olympic Games]", ''[[Olympics.com]]'', 8 March 2023. Retrieved 25 May 2025.</ref>
+
+{| class="wikitable"
+|+Global records before the 2024 Summer Olympics
+!scope="col"| Record
+!scope="col"| Nation (athletes)
+!scope="col"| {{Abbr|Time|Time in minutes{{hair space}}:{{hair space}}seconds}}
+!scope="col"| Location
+!scope="col"| Date
+|-
+!scope="row"| [[List of world records in athletics|World record]]
+|rowspan="2"| {{Flagu|Soviet Union}}<br><small>([[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olha Bryzhina|Olga Bryzgina]])</small>
+|rowspan="2"| 3:15.17<ref name="WR">"[https://worldathletics.org/records/all-time-toplists/relays/4x400-metres-relay/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=204596&ageCategory=senior All-time Top lists – Senior – 4 x 400 Metres Relay Women]", ''[[World Athletics]]'', 29 June 2024. Retrieved 29 June 2024.</ref>
+|rowspan="2"| [[Seoul]], South Korea
+|rowspan="2"| 1 October 1988
+|-
+!scope="row"| [[List of Olympic records in athletics|Olympic record]]
+|-
+!scope="row"| World leading
+| [[Arkansas Razorbacks]]<br><small>([[Amber Anning]], [[Rosey Effiong]], [[Nickisha Pryce]], [[Kaylyn Brown]])</small>
+| 3:17.96<ref name="WL">"[https://worldathletics.org/records/all-time-toplists/relays/4x400-metres-relay/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=2024-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=204596&ageCategory=senior Season Top Lists – Senior 2024 – 4 x 400 Metres Relay Women]", ''[[World Athletics]]'', 2024. Retrieved 29 June 2024.</ref>
+| [[Eugene, Oregon|Eugene]], Oregon, United States
+| 8 June 2024
+|}
+
+{| class="wikitable"
+|+Area records before the 2024 Summer Olympics<ref>{{Cite web |date=3 July 2024 |title=Records – 4 x 400 Metres Relay Women |url=https://worldathletics.org/records/by-discipline/relays/4x400-metres-relay/all/women |access-date=3 July 2024 |website=[[World Athletics]]}}</ref>
+!scope="col"| Record
+!scope="col"| Nation (athletes)
+!scope="col"| {{Abbr|Time|Time in minutes{{hair space}}:{{hair space}}seconds}}
+!scope="col"| Location
+!scope="col"| Date
+|-
+!scope="row"| [[List of African records in athletics|African record]]
+| {{Flagu|Nigeria}}<br><small>([[Olabisi Afolabi]], [[Fatima Yusuf|Fatimat Yusuf]], [[Charity Opara]], [[Falilat Ogunkoya|Falilat Ogunkoya-Osheku]])</small>
+| 3:21.04
+| [[Atlanta]], Georgia, United States
+| 3 August 1996
+|-
+!scope="row"| [[List of Asian records in athletics|Asian record]]
+| {{Flagu|China}}<br><small>([[An Xiaohong]], [[Bai Xiaoyun]], [[Cao Chunying]], [[Ma Yuqin]])</small>
+| 3:24.28
+| [[Beijing]], China
+| 13 September 1993
+|-
+!scope="row"| [[List of European records in athletics|European record]]
+| {{Flagu|Soviet Union}}<br><small>([[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olha Bryzhina|Olga Bryzgina]])</small>
+| 3:15.17
+| [[Seoul]], South Korea
+| 1 October 1988
+|-
+!scope="row"| [[List of North, Central American and Caribbean records in athletics|North, Central American<br>and Caribbean record]]
+| {{Flagu|United States}}<br><small>([[Denean Howard|Denean Howard-Hill]], [[Diane Dixon]], [[Valerie Brisco-Hooks]], [[Florence Griffith Joyner|Florence Griffith-Joyner]])</small>
+| 3:15.51
+| [[Seoul]], South Korea
+| 1 October 1988
+|-
+!scope="row"| [[List of Oceanian records in athletics|Oceanian record]]
+| {{Flagu|Australia}}<br><small>([[Nova Peris|Nova Peris-Kneebone]], [[Tamsyn Manou]], [[Melinda Gainsford-Taylor]], [[Cathy Freeman]])</small>
+| 3:23.81
+| [[Sydney]], Australia
+| 30 September 2000
+|-
+!scope="row"| [[List of South American records in athletics|South American record]]
+| {{Flagu|Brazil}}<br><small>([[Geisa Coutinho]], {{ill|Barbara de Oliveira|es}}, [[Joelma Sousa]], [[Jailma de Lima]])</small>
+| 3:26.68
+| [[São Paulo]], Brazil
+| 7 August 2011
+|}
+
+== Qualification ==
+{{main|Athletics at the 2024 Summer Olympics – Qualification}}For this event, fourteen teams qualified during the [[2024 World Athletics Relays – Women's 4 × 400 metres relay|women's 4 × 400 metres relay]] at the [[2024 World Athletics Relays]]. The remaining two spots were awarded to the teams with the highest ranking on the World Athletics top list. The qualification period is between 1 July 2023 and 30 June 2024.<ref name="qualification">Sean McAlister, "[https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained How to qualify for athletics at Paris 2024. The Olympics qualification system explained]", ''[[Olympics.com]]'', 20 December 2022. Retrieved 29 June 2024.</ref>
+{|class=wikitable style="text-align:left" width=600
+! Qualification event
+! {{nowrap|No. of teams}}
+! {{nowrap|Qualified teams}}
+|-
+|[[2024 World Athletics Relays – Women's 4 × 400 metres relay|2024 World Athletics Relays –<br>Women's 4 × 400 metres relay]]
+|align=center|14
+|{{flagIOC|BEL|2024 Summer}}<br>{{flagIOC|CAN|2024 Summer}}<br>{{flagIOC|FRA|2024 Summer}}<br>{{flagIOC|GBR|2024 Summer}}<br>{{flagIOC|IND|2024 Summer}}<br>{{flagIOC|IRL|2024 Summer}}<br>{{flagIOC|ITA|2024 Summer}}<br>{{flagIOC|JAM|2024 Summer}}<br>{{flagIOC|NED|2024 Summer}}<br>{{flagIOC|NOR|2024 Summer}}<br>{{flagIOC|POL|2024 Summer}}<br>{{flagIOC|ESP|2024 Summer}}<br>{{flagIOC|SUI|2024 Summer}}<br>{{flagIOC|USA|2024 Summer}}
+|-
+|World Athletics top list<br />(as of June 30, 2024)
+|align=center|2
+|{{flagIOC|CUB|2024 Summer}}<br>{{flagIOC|GER|2024 Summer}}
+|-
+! Total
+! 16
+!
+|}
+
+== Results ==
+=== Round 1 ===
+[[File:Athletics at the 2024 Summer Olympics – Women's 4 × 400 metres relay round 1 - 14.jpg|thumb|alt=Photo of athletes running behind one another in the bend of a purple athletics track|Third-leg runners coming out of the first bend during the first heat of round 1]]
+[[File:Athletics at the 2024 Summer Olympics – Women's 4 × 400 metres relay round 2 - 09.jpg|thumb|alt=Photo of eight athletes in a row waiting for another eight athletes running on a purple athletics track|Third-leg runners approaching the final hand-over during the second heat of round 1]]
+
+Round 1 was held on 9 August and started at 10:40 ([[UTC+2]]) in the morning.<ref name="schedule">"[https://olympics.com/en/paris-2024/schedule/athletics Paris 2024 - Olympic Schedule - Athletics]", ''[[Olympics.com]]''. Retrieved 29 June 2024.</ref><ref>{{Cite web |title=Road To {{!}} World Athletics |url=https://worldathletics.org/stats-zone/road-to/7153115?eventId=10229511 |access-date=7 July 2024 |website=worldathletics.org}}</ref>
+
+The USA's team qualified in the heats with 3:21.44&nbsp;min, running 3 seconds faster than the next-best team, with the team of Great Britain behind them in the first heat. All the other qualifying teams were evenly matched, spread across a little over a second. The Canadian team was the slowest qualifier with 3:25.77&nbsp;min.{{citation needed|date=May 2025}}
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the first heat of round 1<ref>{{cite web |title=Women's 4 x 400m Relay - Round 1 - Heat 1/2 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------RND1000100--.pdf |website=Olympics |archive-url=https://web.archive.org/web/20240815213600/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------RND1000100--.pdf| archive-date=15 August 2024 |access-date=11 August 2024 |date=9 August 2024}}</ref>
+|-
+!scope="col"| Rank
+!scope="col"| Lane
+!scope="col"| Nation
+!scope="col"| Competitors
+!scope="col"| Reaction
+!scope="col"| {{Abbr|Time|Time in minutes{{hair space}}:{{hair space}}seconds}}
+!scope="col"| Notes
+|-bgcolor=bbf3bb
+| 1 || 6 || align=left | {{flagIOC|USA|2024 Summer}} || align=left | [[Quanera Hayes]], [[Shamier Little]], [[Aaliyah Butler]], [[Kaylyn Brown]] || 0.243 || 3:21.44|| {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=bbf3bb
+| 2 || 7 || align=left | {{flagIOC|GBR|2024 Summer}} || align=left | [[Yemi Mary John]], [[Hannah Kelly (athlete)|Hannah Kelly]], [[Jodie Williams]], [[Lina Nielsen]] || 0.202|| 3:24.72 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=bbf3bb
+| 3 || 8 || align=left | {{flagIOC|FRA|2024 Summer}} || align=left | [[Sounkamba Sylla]], [[Shana Grebo]], [[Alexe Déau]], [[Amandine Brossier]] || 0.172 || 3:24.73 || {{AthAbbr|Q}}
+|-bgcolor=ccf9cc
+| 4 || 4 || align=left | {{flagIOC|BEL|2024 Summer}} || align=left | [[Hanne Claes]], [[Imke Vervaet]], [[Camille Laus]], [[Helena Ponette]] || 0.226 || 3:24.92 || {{AthAbbr|q}}
+|-
+| 5 || 9 || align=left | {{flagIOC|ESP|2024 Summer}} || align=left | [[Blanca Hervás]], [[Berta Segura]], [[Eva Santidrián]], [[Carmen Avilés]] || 0.151 || 3:28.29 ||
+|-
+| 6 || 5 || align=left | {{flagIOC|NOR|2024 Summer}} || align=left | [[Josefine Tomine Eriksen]], [[Lakeri Ertzgaard]], [[Elisabeth Slettum]], [[Amalie Iuel]] || 0.172 || 3:28.61 ||
+|-
+| 7 || 2 || align=left | {{flagIOC|SUI|2024 Summer}} || align=left | [[Giulia Senn]], [[Julia Niederberger]], [[Annina Fahr]], [[Yasmin Giger]] || 0.150 || 3:29.75 ||
+|-
+| 8 || 3 || align=left | {{flagIOC|CUB|2024 Summer}} || align=left | [[Melissa Padrón]], [[Daily Cooper Gaspar]], [[Sahily Diago]], [[Roxana Gómez]] || 0.244 || 3:33.99 ||
+|}
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the second heat of round 1<ref>{{cite web |title=Women's 4 x 400m Relay - Round 1 - Heat 2/2 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------RND1000200--.pdf |archive-url=https://web.archive.org/web/20240816161424/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------RND1000200--.pdf |archive-date=16 August 2024 |access-date=11 August 2024 |date=9 August 2024}}</ref>
+|-
+!scope="col"| Rank
+!scope="col"| Lane
+!scope="col"| Nation
+!scope="col"| Competitors
+!scope="col"| Reaction
+!scope="col"| {{Abbr|Time|Time in minutes{{hair space}}:{{hair space}}seconds}}
+!scope="col"| Notes
+|-bgcolor=bbf3bb
+| 1 || 9 || align=left | {{flagIOC|JAM|2024 Summer}} || align=left | [[Andrenette Knight]], [[Ashley Williams (sprinter)|Ashley Williams]], [[Charokee Young]], [[Stephenie Ann McPherson]] || 0.182 || 3:24.92|| {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=bbf3bb
+| 2 || 4 || align=left | {{flagIOC|NED|2024 Summer}} || align=left | [[Eveline Saalberg]], [[Lieke Klaver]], [[Myrte van der Schoot]], [[Lisanne de Witte]] || 0.195|| 3:25.03 || {{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+| 3 || 8 || align=left | {{flagIOC|IRL|2024 Summer}} || align=left | [[Sophie Becker]], [[Phil Healy]], [[Kelly McGrory]], [[Sharlene Mawdsley]] || 0.204 || 3:25.05 || {{AthAbbr|Q}}
+|-bgcolor=ccf9cc
+| 4 || 7 || align=left | {{flagIOC|CAN|2024 Summer}} || align=left | [[Zoe Sherar]], [[Aiyanna Stiverne]], [[Lauren Gale (sprinter)|Lauren Gale]], [[Kyra Constantine]] || 0.162 || 3:25.77 || {{AthAbbr|q}}
+|-
+| 5 || 5 || align=left | {{flagIOC|ITA|2024 Summer}} || align=left | [[Ilaria Accame]], [[Anna Polinari]], [[Giancarla Trevisan]], [[Alice Mangione]] || 0.235 || 3:26.50 ||
+|-
+| 6 || 6 || align=left | {{flagIOC|POL|2024 Summer}} || align=left | [[Anastazja Kuś]], [[Justyna Święty-Ersetic]], [[Aleksandra Formella]], [[Alicja Wrona-Kutrzepa]] || 0.172 || 3:26.69 ||
+|-
+| 7 || 3 || align=left | {{flagIOC|GER|2024 Summer}} || align=left | [[Skadi Schier]], [[Alica Schmidt]], [[Mona Mayer]], [[Eileen Demes]] || 0.150 || 3:26.95 ||
+|-
+| 8 || 2 || align=left | {{flagIOC|IND|2024 Summer}} || align=left | [[Vithya Ramraj]], [[Jyothika Sri Dandi]], [[M. R. Poovamma]], [[Subha Venkatesan]] || 0.175 || 3:32.51 ||
+|}
+
+=== Final ===
+The final was held on 10 August and started at 21:22 (UTC+2) in the evening.<ref name="schedule" />
+
+For the final, the USA replaced three of the team members, [[Quanera Hayes]], [[Aaliyah Butler]] and [[Kaylyn Brown]] in the heats, with [[Athletics at the 2024 Summer Olympics – Women's 400 metres hurdles|400 metres hurdle champion]] and world record holder, [[Sydney McLaughlin-Levrone]], [[Athletics at the 2024 Summer Olympics – Women's 200 metres|200 metre champion]] [[Gabrielle Thomas]] and [[Alexis Holmes]]. [[Shamier Little]] was the lone carry over.{{citation needed|date=May 2025}}
+
+Coming out of the blocks. [[Stacey-Ann Williams]] took the early lead for Jamaica in lane 8, almost swallowing up the entire three-turn stagger gap to France's [[Sounkamba Sylla]] to her outside before the end of the backstretch. Williams came onto the home stretch with a 5-metre lead (deceived by the additional turn of stagger), but Williams would slow on her final 100&nbsp;m. Running a more controlled pace to her inside, Little and [[Lieke Klaver]] of the Netherlands gained that last 100, Little passing the baton to McLaughlin-Levrone clearly in the lead, who extended the lead close to 15 metres on the field by the break line. [[Andrenette Knight]] of Jamaica had a slight lead on [[Cathelijn Peeters]] of the Netherlands, but Ireland had put their star [[Rhasidat Adeleke]] on their second leg. Adeleke moved into third before the end of the straightaway. As she was passing Knight on the curve, Knight stopped running due to a dropped baton, resulting in disqualification. By the end of her leg, McLaughlin-Levrone handed off to Thomas with almost 30 metres on Adeleke who in turn had 5 metres on a tightening group consisting of the Netherlands, Great Britain, Canada, Belgium, and France. McLaughlin-Levrone's relay split of 47.71&nbsp;s was the [[400 metres#Fastest relay splits|fourth fastest relay split in history]].<ref>Lindsay Schnell, "[https://www.usatoday.com/story/sports/olympics/2024/08/10/usa-womens-4x400-olympics-gold-medal/74751695007/ Team USA wins women's 4x400 for eighth consecutive Olympic gold medal]", ''[[USA Today]]'', 10 August 2024.</ref> As Thomas took the baton, she didn't let off the gas, adding just a little more to the American lead. Great Britain's Nicole Yeargin overtook Ireland's [[Phil Healy]] going into the final handoff. Holmes of the USA kept the pressure on to hold onto every inch of that huge lead. In pursuit, Great Britain had [[Amber Anning]], part of the [[University of Arkansas]] super sweep at the NCAA meet; Ireland had [[Sharlene Mawdsley]], who had already produced a 49.40&nbsp;s split earlier in the year; and the Netherlands had [[Femke Bol]]. Holmes pressed all the way to the finish, with the USA winning with 3:15.27&nbsp;min, coming just 0.1 second short of the Soviet [[Athletics at the 1988 Summer Olympics – Women's 4 × 400 metres relay|1988 world record]]. Behind her, Mawdsley regained Ireland's advantage on the handoff, holding Anning to the outside through the penultimate turn, but Anning got ahead on the backstretch. Closing behind was Bol, passing Mawdsley then Anning to take silver for the Netherlands. Mawdsley tried to follow Bol past Anning but didn't get there, and Great Britain took the bronze.<ref>"[https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C77A_ATHW4X400M------------FNL-000100--.pdf Race Analysis]", ''[[Olympics.com]]'', 10 August 2024. [https://web.archive.org/web/20240816160908/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C77A_ATHW4X400M------------FNL-000100--.pdf Archived] 16 August 2024.</ref>
+
+The American team improved upon the American and [[List of North, Central American and Caribbean records in athletics |North American Record]] of the USA at the 1988 Olympics, anchored by [[Florence Griffith Joyner|FloJo]] in 48.0&nbsp;s. The next four teams each set National Records. In addition to McLaughlin-Levrone 's split, Bol's anchor was automatically timed in 48.00&nbsp;s, the ninth fastest in history. For Little, primarily a 400 metres hurdler, #7 of all time, this was her second relay medal at these Olympics. This one gold was her first appearance after failing to qualify against the tidal wave of McLaughlin-Levrone and [[Dalilah Muhammad]] since 2016.{{citation needed|date=May 2025}}
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the final<ref>{{cite web |title=Women's 4 x 400m Relay - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------FNL-000100--.pdf |website=Olympics |archive-url=https://web.archive.org/web/20240812003121/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHW4X400M------------FNL-000100--.pdf |archive-date=12 August 2024 |access-date=11 August 2024 |date=10 August 2024}}</ref>
+|-
+!scope="col"| Rank
+!scope="col"| Lane
+!scope="col"| Nation
+!scope="col"| Competitors
+!scope="col"| Reaction
+!scope="col"| {{Abbr|Time|Time in minutes{{hair space}}:{{hair space}}seconds}}
+!scope="col"| Notes
+|-
+| {{gold1}}
+| 6
+| align=left |{{flagIOC|USA|2024 Summer}}
+| align=left | [[Shamier Little]], [[Sydney McLaughlin-Levrone]], [[Gabrielle Thomas]], [[Alexis Holmes]]
+| 0.198
+| 3:15.27
+| {{AthAbbr|WL}}, {{AthAbbr|AR|North, Central American and Caribbean}}
+|-
+| {{silver2}}
+| 5
+| align=left |{{flagIOC|NED|2024 Summer}}
+| align=left | [[Lieke Klaver]], [[Cathelijn Peeters]], [[Lisanne de Witte]], [[Femke Bol]]
+| 0.191
+| 3:19.50
+| {{AthAbbr|NR|Dutch}}
+|-
+| {{bronze3}}
+| 7
+| align=left |{{flagIOC|GBR|2024 Summer}}
+| align=left | [[Victoria Ohuruogu]], [[Laviai Nielsen]], [[Nicole Yeargin]], [[Amber Anning]]
+| 0.200
+| 3:19.72
+| {{AthAbbr|NR|British}}
+|-
+| 4
+| 4
+| align=left |{{flagIOC|IRL|2024 Summer}}
+| align=left | [[Sophie Becker]], [[Rhasidat Adeleke]], [[Phil Healy]], [[Sharlene Mawdsley]]
+| 0.207
+| 3:19.90
+| {{AthAbbr|NR|Irish}}
+|-
+| 5
+| 9
+| align=left |{{flagIOC|FRA|2024 Summer}}
+| align=left |[[Sounkamba Sylla]], [[Shana Grebo]], [[Amandine Brossier]], [[Louise Maraval]]
+| 0.196
+| 3:21.41
+| {{AthAbbr|NR|French}}
+|-
+| 6
+| 2
+| align=left |{{flagIOC|CAN|2024 Summer}}
+| align=left |[[Zoe Sherar]], [[Savannah Sutherland]], [[Kyra Constantine]], [[Lauren Gale (sprinter)|Lauren Gale]]
+| 0.156
+| 3:22.01
+| {{AthAbbr|SB}}
+|-
+| 7
+| 3
+| align=left |{{flagIOC|BEL|2024 Summer}}
+| align=left |[[Naomi Van den Broeck]], [[Imke Vervaet]], [[Hanne Claes]], [[Helena Ponette]]
+| 0.136
+| 3:22.40
+| {{AthAbbr|SB}}
+|-
+| –
+| 8
+| align=left |{{flagIOC|JAM|2024 Summer}}
+| align=left |[[Stacey Ann Williams]], [[Andrenette Knight]], [[Shiann Salmon]], [[Stephenie Ann McPherson]]
+| 0.153
+| {{AthAbbr|DNF}}
+|
+|}
+
+==Notes==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*{{YouTube|Pf1Ap5Cl0Mg|Women's 4 × 400 metres relay final}}
+
+{{Olympics 4 × 400 metres}}
+{{Olympic champions 4 × 400 metres women}}
+
+{{DEFAULTSORT:Women's 4 x 400 metres relay}}
+[[Category:4 × 400 metres relay|Olympics 2024]]
+[[Category:Athletics at the 2024 Summer Olympics|Women's 4 x 400 metres relay]]
+[[Category:2024 in women's sport of athletics|Women's 4 x 400 metres relay]]
+[[Category:Women's events at the 2024 Summer Olympics]]

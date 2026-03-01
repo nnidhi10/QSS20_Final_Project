@@ -1,0 +1,119 @@
+{{short description|Italian sprinter}}
+{{Infobox sportsperson
+| headercolor =
+| name = Claudio Licciardello
+| imagesize = 
+| image = 
+| caption = 
+| nationality = [[Italy|Italian]]
+| sport = [[Athletics (sport)|Athletics]]
+| event = [[400 metres]]
+| club = [[G.S. Fiamme Gialle]]
+| collegeteam =
+| birth_date = {{Birth date and age|mf=yes|1986|1|11}}
+| birth_place = [[Catania]], [[Italy]]
+| residence = 
+| coach=
+| death_date = 
+| death_place= 
+| height = {{height|m=1.86}}
+| weight = {{convert|73|kg|lb|abbr=on}}
+| pb = 
+*400 m:	45.25 (2008)
+| country = {{flagicon|ITA}} [[Italy national athletics team|Italy]]
+| medaltemplates=
+{{MedalCompetition|[[European Indoor Championships in Athletics|European Indoor Championships]]}}
+{{MedalGold|[[2009 European Indoor Championships in Athletics|2009 Torino]]|[[2009 European Athletics Indoor Championships – Men's 4 × 400 metres relay|4 × 400 m]]}}
+{{MedalSilver|[[2009 European Indoor Championships in Athletics|2009 Torino]]|400 m}}
+{{MedalCompetition|[[European Athletics Team Championships|European Cup]]}}
+{{MedalSilver|[[2008 European Cup (athletics)|2008 Annecy]]|400 m}}
+}}
+
+'''Claudio Licciardello''' (born 11 January 1986 in [[Catania]]) is a [[track and field]] sprinter from [[Italy]], who specializes in the [[400 metres]]. His personal best time is 45.25 seconds, achieved in the heats at the 2008 Olympics in [[Beijing]].<ref name=bio/>
+
+==Biography==
+At the [[2009 European Indoor Championships in Athletics|2009 European Indoor Championships]] he won the silver medal in the 400 metres,<ref name=bio>{{World Athletics}}</ref> and a gold medal in the [[4 × 400 metres relay]] together with teammates [[Jacopo Marin]], [[Matteo Galvan]] and [[Domenico Rao]].<ref>{{cite web|url=http://www.sportresult.com/sports/la/framework/eaa2.asp?event_id=10000100000083&comp_id=28693&module=competition&show=RL&lang=en#round2360040|title=Results. 4x400m Relay Men|date=8 March 2009|website=sportresult.com|publisher=European Athletics|accessdate=9 March 2009|archive-date=10 April 2009|archive-url=https://web.archive.org/web/20090410074639/http://www.sportresult.com/sports/la/framework/eaa2.asp?event_id=10000100000083&comp_id=28693&module=competition&show=RL&lang=en#round2360040|url-status=dead}}</ref> He also competed at the [[2004 World Junior Championships in Athletics|2004 World Junior Championships]], the [[2006 European Athletics Championships|2006 European Championships]] and the [[Athletics at the 2008 Summer Olympics – Men's 400 metres|2008 Olympic Games]] without reaching the final.<ref name=bio/>
+
+==Achievements==
+{| {{AchievementTable|Event=yes}}
+|-
+|rowspan=2|2004
+|rowspan=2|[[2004 World Junior Championships in Athletics|World Junior Championships]]
+|rowspan=2|[[Grosseto]], [[Italy]]
+|19th (sf)
+|400 m
+|[[2004 World Junior Championships in Athletics – Men's 400 metres|48.19]]
+|-
+|10th (h)
+|4 × 400 m relay
+|[[2004 World Junior Championships in Athletics – Men's 4 × 400 metres relay|3:10.48]]
+|-
+|rowspan=2|2006
+|rowspan=2|[[2006 European Athletics Championships|European Championships]]
+|rowspan=2|[[Gothenburg, Sweden]]
+|14th (sf)
+|400 m
+|[[2006 European Athletics Championships – Men's 400 metres|46.21]]
+|-
+|10th (h)
+|4 × 400 m relay
+|[[2006 European Athletics Championships – Men's 4 × 400 metres relay|3:05.53]]
+|-
+|2008
+|[[Athletics at the 2008 Summer Olympics|Olympic Games]]
+|[[Beijing, China]]
+|23rd (sf)
+|400 m
+|[[Athletics at the 2008 Summer Olympics – Men's 400 metres|45.64]]
+|-
+|rowspan=2|2009
+|rowspan=2|[[2009 European Indoor Championships in Athletics|European Indoor Championships]]
+|rowspan=2|[[Turin, Italy]]
+|bgcolor="silver" | 2nd
+|400 m
+|[[2009 European Athletics Indoor Championships – Men's 400 metres|46.32]]
+|-
+|bgcolor="gold" | 1st
+|4 × 400 m relay
+|[[2009 European Athletics Indoor Championships – Men's 4 × 400 metres relay|3:06.68]]
+|-
+|2010
+|[[2010 European Athletics Championships|European Championships]]
+|[[Barcelona, Spain]]
+|8th
+|4 × 400 m relay
+|[[2010 European Athletics Championships – Men's 4 × 400 metres relay|3:04.20]]
+|-
+|2012
+|[[2012 European Athletics Championships|European Championships]]
+|[[Helsinki, Finland]]
+|9th (h)
+|4 × 400 m relay
+|[[2012 European Athletics Championships – Men's 4 × 400 metres relay|3:08.78]]
+|}
+
+==See also==
+* [[Athletics in Italy#400 metres|Italian all-time lists - 400 metres]]
+* [[Italy national relays team at the international athletics championships|Italy national relay team]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Italian Athletics Champions in men's 400 m}}
+{{Footer Italy Athletics 2008 Summer Olympics}}
+{{Footer European Athletics Indoor Championships – men's 4 × 400 metres relay}}
+{{Authority control}}
+
+{{DEFAULTSORT:Licciardello, Claudio}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:Italian men sprinters]]
+[[Category:Athletes (track and field) at the 2008 Summer Olympics]]
+[[Category:Olympic athletes for Italy]]
+[[Category:Athletes from Catania]]
+[[Category:Athletics competitors of Fiamme Gialle]]
+[[Category:Italian Athletics Championships winners]]
+[[Category:21st-century Italian sportsmen]]

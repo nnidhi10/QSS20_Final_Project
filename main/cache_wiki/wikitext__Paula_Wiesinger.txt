@@ -1,0 +1,117 @@
+{{short description|Italianalpine skier}}
+{{Infobox alpine ski racer
+|name          = Paula Wiesinger
+|fullname      = Paula (Paola) Rosa Wiesinger, later Steger
+|image         = Paula Wiesinger.jpg
+|image_size    = 
+|caption       = Wiesinger skiing on the [[Dolomites]] in 1930
+|disciplines   = Polyvalent
+| birth_date        = {{birth date|1907|02|27|df=y}} 
+| birth_place       = [[Bolzano]], [[Austria-Hungary]]
+| death_date        = {{death date and age|2001|06|12|1907|02|27|df=y}} 
+| death_place       = [[Seiser Alm]], [[Italy]]
+| height            = 
+| club              =
+|retired=1936
+|worldsteams   = 4
+|worldsmedals  = 1
+|worldsgolds   = 1
+| seasons           = 
+| wins              = 
+| additionalpodiums = 
+| totalpodiums      = 
+| medaltemplates    = 
+{{MedalCompetition|[[FIS Alpine World Ski Championships|World Championships]]}}
+{{MedalGold| [[FIS Alpine World Ski Championships 1932|1932 Cortina d'Ampezzo]]|Downhill}}
+| show-medals       = yes
+| updated           = 
+}}
+'''Paula (Paola) Rosa Wiesinger''' later '''Steger''' (27 February 1907 &ndash; 12 June 2001) was a pioneering [[Italy|Italian]] [[alpine skier]] and [[Mountaineering|mountain climber]] who competed at one edition of [[Winter Olympics]] and three editions of the [[FIS Alpine World Ski Championships]] (1932, 1933, 1934, 1936).<ref name=COR1932DHW>{{Cite web|url=https://alpineskiworld.net/worlds32dhw.pdf|title=04.02.1932. Cortina d'Ampezzo Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932SLW>{{Cite web|url=https://alpineskiworld.net/worlds32slw.pdf|title=05.02.1932. Cortina d'Ampezzo Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=COR1932KW>{{Cite web|url=https://alpineskiworld.net/worlds32acw.pdf|title= 05.02.1932. Cortina d'Ampezzo Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933DHW>{{Cite web|url=https://alpineskiworld.net/worlds33dhw.pdf|title=08.02.1933. Innsbruck Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933SLW>{{Cite web|url=https://alpineskiworld.net/worlds33slw.pdf|title=10.02.1933. Innsbruck/Seegrube Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1933KW>{{Cite web|url=https://alpineskiworld.net/worlds33acw.pdf|title=10.02.1933. Innsbruck Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934DHW>{{Cite web|url=https://alpineskiworld.net/worlds34dhw.pdf|title=15.02.1934. Sankt Moritz Downhill, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934SL>{{Cite web|url=https://alpineskiworld.net/worlds34slw.pdf|title=16.02.1934. Sankt Moritz Slalom, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=STM1934K>{{Cite web|url=https://alpineskiworld.net/worlds34acw.pdf|title=16.02.1934. Sankt Moritz Alpine Combined, women|publisher=alpineskiworld.net|access-date=14 February 2021}}</ref><ref name=INN1936SLW>{{Cite web|url=https://alpineskiworld.net/worlds36slw.pdf|title=22.02.1936. Innsbruck/Seefeld Slalom, women|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref><ref name=INN1936DHW>{{Cite web|url=https://alpineskiworld.net/worlds36dhw.pdf|title=21.02.1936. Innsbruck Downhill, women|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref><ref name=INN1936KW>{{Cite web|url=https://alpineskiworld.net/worlds36acw.pdf|title=22.02.1936. Innsbruck Alpine Combined, women
+|publisher=alpineskiworld.net|access-date=24 February 2021}}</ref>
+
+==Biography==
+Wiesinger was born in [[Bolzano]]. She won the 1932 women's [[FIS Alpine World Ski Championships|Downhill world championship]] in [[Cortina d'Ampezzo]], and competed in the [[1936 Winter Olympics]], finishing 16th in the [[Alpine skiing at the 1936 Winter Olympics – Women's combined|alpine skiing combined event]]. She married Hans Steger.<ref>[http://www.fembio.org/biographie.php/frau/biographie/paula-wiesinger/ ''Paula Wiesinger''] (German), FemBio.</ref>
+
+In 1935 Wiesinger was invited to view the [[Trofeo Mezzalama]], a competition that was only intended for male [[ski mountaineer]]s. Due to an injury leave of [[Giusto Gervasutti]], she took his military uniform, covered her face with sunglasses and his cap, and took part instead of him, but the cheat was discovered at a check point of the race.<ref>[http://www.fembio.org/biographie.php/frau/biographie/paula-wiesinger/ ''Paula Wiesinger''] (German), FemBio.</ref> She died in [[Seiser Alm]]. A hotel and a statue in [[Siusi allo Sciliar]] are dedicated to Wiesinger.<ref>{{cite web|url=http://www.alpesiusi.it/lapaula/|title=Paula Wiesinger Apartments & Suites|publisher=alpesiusi.it|accessdate=28 January 2018}}</ref>
+
+==Olympic Games results==
+{| class="wikitable" width=40% style="font-size:100%; text-align:center;"
+|-
+! Year
+! Vanue
+! Race
+! Rank
+|-
+| align=left|[[Alpine skiing at the 1936 Winter Olympics|1936]]
+| align=left|{{flagicon|GER|1935}} [[Garmisch-Partenkirchen]]
+| Alpine combined
+| [[Alpine skiing at the 1936 Winter Olympics – Women's combined|16]]
+|}
+
+==World Championship results==
+{| class="wikitable" width=30% style="font-size:100%; text-align:center;"
+|-
+! Edition
+! Slalom
+! Downhill
+! Combined
+|-
+| [[FIS Alpine World Ski Championships 1932|1932]]
+| 13||bgcolor=gold|1||6
+|-
+| [[FIS Alpine World Ski Championships 1933|1933]]
+|  19
+|  4
+| 11
+|-
+| [[FIS Alpine World Ski Championships 1934|1934]]
+|  5
+|  12
+| 11
+|-
+| [[FIS Alpine World Ski Championships 1936|1936]]
+|  -
+|  DNF
+| -
+|}
+
+==National titles==
+Wiesinger won '''15''' national titles.<ref>{{cite web|url=http://www.fisi.org/taxonomy/term/468|title=Campionati italiani assoluti, l'albo d'oro della discesa|publisher=fisi.org|language=it|access-date=16 February 2021|archive-date=13 January 2014|archive-url=https://web.archive.org/web/20140113053058/http://www.fisi.org/taxonomy/term/468|url-status=dead}}</ref><ref>{{cite web|url=https://www.fisi.org/sci-alpino/news/flash-news/19104-campionati-italiani-assoluti-l-albo-d-oro-della-discesa-maschile-marsaglia-torna-re-dopo-quattro-anni|title=L'albo d'oro della discesa femminile dei Campionati Italiani|publisher=fisi.org|language=it|access-date=16 February 2021}}{{dead link|date=February 2024|bot=medic}}</ref>
+
+*[[Italian Alpine Ski Championships]]
+**Downhill: 1931, 1933, 1934, 1935, 1936 (5)
+**Slalom: 1931, 1933, 1934, 1936 (4)
+**Combined: 1931, 1932, 1933, 1934, 1935, 1936 (6)
+
+==See also==
+* [[Italy national alpine ski team#World championships|Italy national alpine ski at the World championships]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{sports links}}
+* [http://www.fembio.org/biographie.php/frau/biographie/paula-wiesinger/ Biography] {{in lang|de}}
+* [http://www.fembio.org/english/biography.php/woman/biography_3rd/paula-wiesinger Profile] {{in lang|it}}
+* [http://olympic.w.interia.pl/ Alpine skiing 1936] {{in lang|pl}}
+* [http://www.hotelsteger-dellai.com/geschichte2_e.htm Bio for Hans and Paula Steger] {{Webarchive|url=https://web.archive.org/web/20090605230531/http://www.hotelsteger-dellai.com/geschichte2_e.htm |date=2009-06-05 }}
+* [https://www.lapaula.info/it?q=user/(( Paula Wiesinger Apartments & Suites]
+
+{{Footer World Champions Downhill Women}}
+{{Italian Alpine Ski Champions in women's downhill}}
+{{Italian Alpine Ski Champions in women's slalom}}
+{{Italian Alpine Ski Champions in women's combined}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wiesinger, Paula}}
+[[Category:Skiers from Bolzano]]
+[[Category:Italian female alpine skiers]]
+[[Category:Olympic alpine skiers for Italy]]
+[[Category:Italian female ski mountaineers]]
+[[Category:Alpine skiers at the 1936 Winter Olympics]]
+[[Category:Female-to-male cross-dressers]]
+[[Category:1907 births]]
+[[Category:2001 deaths]]
+[[Category:Germanophone Italian people]]
+[[Category:21st-century Italian women]]
+[[Category:20th-century Italian sportswomen]]

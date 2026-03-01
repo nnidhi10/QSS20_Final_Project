@@ -1,0 +1,249 @@
+{{Short description|None}}
+{{good article}}
+{{Use dmy dates|date=May 2025}}
+{{Infobox sports competition event
+| event         = Women's 400 metres
+| games         = 2016 European Athletics Championships
+| image         = 5266 finale 400m dames (28463062501).jpg
+| image_size    = 325px
+| alt           = Photo of seven athletes running on a red track with white lane stripes
+| caption       = Medalists [[Libania Grenot]], [[Floria Gueï]], and [[Anyika Onuora]] (third, fifth, and sixth from the left) during the final
+| venue         = [[Olympic Stadium (Amsterdam)|Olympic Stadium]]
+| location      = [[Amsterdam]], Netherlands
+| dates         = {{Unbulleted list|6 July 2016 (qualifying round)|7 July 2016 (semifinals)|8 July 2016 (final)}}
+| competitors   = 31
+| nations       = 18
+| win_value     = 50.73&nbsp;s
+| gold          = [[Libania Grenot]]
+| silver        = [[Floria Gueï]]
+| bronze        = [[Anyika Onuora]]
+| gold_nation   = ITA
+| silver_nation = FRA
+| bronze_nation = GBR
+| previous      = [[2014 European Athletics Championships – Women's 400 metres|2014]]
+| next          = [[2018 European Athletics Championships – Women's 400 metres|2018]]
+}}
+{{2016 European Athletics Championships}}
+
+The women's [[400 metres]] at the [[2016 European Athletics Championships]] was held over three rounds at the [[Olympic Stadium (Amsterdam)|Olympic Stadium]] in [[Amsterdam]], Netherlands, on 6, 7, and 8 July 2016. It was the eighteenth time that this event was contested at the [[European Athletics Championships]]. Athletes could qualify by achieving the entry standard of 53.40&nbsp;seconds or by their placement at selected athletics meetings. Thirty-one athletes from eighteen nations competed in the event.
+
+Twenty athletes started in the qualifying round, where thirteen advanced to the semifinals. Eleven athletes, who had a [[bye (sports)|bye]] in the qualifying round, joined them there. Eight athletes advanced to the final, which was won by [[2014 European Athletics Championships – Women's 400 metres|defending champion]] [[Libania Grenot]] of Italy in 50.73&nbsp;seconds, followed by [[Floria Gueï]] of France in 51.21&nbsp;seconds in second place and [[Anyika Onuora]] of Great Britain and Northern Ireland in 51.47&nbsp;seconds in third place.
+
+==Background==
+[[File:2016 European Athletics Championships Day 1.jpg|thumb|alt=Photo of a red athletics track with green grass in the middle seen from the spectator seats|[[Olympic Stadium (Amsterdam)|Olympic Stadium]] on 6 July 2016]]
+
+At the [[European Athletics Championships]], the women's 400 metres had been contested seventeen times before 2016, at every edition since its introduction in [[1958 European Athletics Championships – Women's 400 metres|1958]].<ref>"[http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/67/StatisticsHandbook_Final_Neutral.pdf European Athletics Championships 2016 – Statistics Handbook]", [[European Athletics]], {{nowrap|p. 557}}. [https://web.archive.org/web/20160707230328/http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/67/StatisticsHandbook_Final_Neutral.pdf Archived] 7 July 2016. Retrieved 22 May 2025.</ref> In the event, athletes run one lap on a 400-metre athletics track in designated lanes.<ref>"[https://worldathletics.org/disciplines/sprints/400-metres 400 Metres]", [[World Athletics]]. Retrieved 22 May 2025.</ref>
+
+At the start of the 2016 championships, [[Marita Koch]] of East Germany held the [[List of European records in athletics|European]] and [[List of world records in athletics|world record]] of 47.60&nbsp;s set in 1985 and the [[List of European Athletics Championships records|championship record]] of 48.16&nbsp;s set in [[1982 European Athletics Championships – Women's 400 metres|1982]].<ref name="WR">"[https://worldathletics.org/records/by-discipline/sprints/400-metres/outdoor/women Records – Records by Events — 400 Metres – Women - Senior]", [[World Athletics]]. Retrieved 22 May 2025.</ref><ref name="ResultsFinal">"[http://www.european-athletics.org/externalmodules/AT/pdf/ATW004101_C73A.pdf European Athletics Championships – Results – 400m Women – Final]", [[European Athletics]], 8 July 2016. [https://web.archive.org/web/20161203143637/http://www.european-athletics.org/externalmodules/AT/pdf/ATW004101_C73A.pdf Archived] 3 December 2016. Retrieved 22 May 2025.</ref> [[Allyson Felix]] of the United States had set a world leading time of 49.68&nbsp;s on 3 July 2016 and [[Antonina Krivoshapka]] of Russia had set a European leading time of 50.70&nbsp;s on 21 June 2016.<ref name="WL-EL">"[https://worldathletics.org/records/all-time-toplists/sprints/400-metres/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=2016-01-01&lastDay=2016-07-05&maxResultsByCountry=all&eventId=10229511&ageCategory=senior Toplists – All time Top lists – Senior - 400 Metres Women]", [[World Athletics]]. Retrieved 22 May 2025.</ref> [[Libania Grenot]] of Italy was the defending champion after winning the [[2014 European Athletics Championships – Women's 400 metres|2014 title]] in 51.10&nbsp;s.<ref name="2014final">"[http://www.european-athletics.org/externalmodules/AT/pdf/ATW004101_C73A.pdf European Athletics Championships – Results – 400m Women]", [[European Athletics]], 15 August 20144. [https://web.archive.org/web/20141015074011/http://www.european-athletics.org/externalmodules/AT/pdf/ATW004101_C73A.pdf Archived] 15 October 2014. Retrieved 22 May 2025.</ref>
+
+The event was held at the [[Olympic Stadium (Amsterdam)|Olympic Stadium]] in [[Amsterdam]], Netherlands. The stadium was built for the [[1928 Summer Olympics]] and renovated in 1996. During the 2016 European Athletics Championships, it had a capacity of around 20,000 spectators.<ref>"[http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/46/AmsterdamECHMediaGuide_Neutral.pdf European Athletics Championships 2016 – Media Guide]", [[European Athletics]], {{nowrap|p. 23}}. [https://web.archive.org/web/20160705032602/http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/46/AmsterdamECHMediaGuide_Neutral.pdf Archived] 5 July 2016. Retrieved 22 May 2025.</ref>
+
+{| class="wikitable"
+|+ Records before to the 2016 European Athletics Championships
+!scope="col"| Record
+!scope="col"| Athlete (nation)
+!scope="col"| {{Abbr|Time|Time in seconds}}
+!scope="col"| Location
+!scope="col"| Date
+|-
+!scope="row"| [[List of world records in athletics|World record]]<ref name="WR"/>
+|rowspan="3"| {{flagathlete|[[Marita Koch]]|GDR}}
+|rowspan="2"| 47.60
+|rowspan="2"| [[Canberra]], Australia
+|rowspan="2"| 6 October 1985
+|-
+!scope="row"| [[List of European records in athletics|European record]]<ref name="ResultsFinal"/>
+|-
+!scope="row"| [[List of European Athletics Championships records|Championship record]]<ref name="ResultsFinal"/>
+| 48.16
+| [[Athens]], Greece
+| 8 September 1982
+|-
+!scope="row"| World leading<ref name="WL-EL"/>
+| {{flagathlete|[[Allyson Felix]]|USA}}
+| 49.68
+| [[Eugene, Oregon|Eugene]], Oregon, United States
+| 3 July 2016
+|-
+!scope="row"| European leading<ref name="WL-EL"/>
+| {{flagathlete|[[Antonina Krivoshapka]]|RUS}}
+| 50.70
+| [[Cheboksary]], Russia
+| 21 June 2016
+|}
+
+==Qualification==
+For this event, the qualification period was from 1 January 2015 until 26 June 2016. Athletes could qualify by achieving the entry standard with a performance of 53.40&nbsp;s or faster, by finishing in the top three at a European Athletics Premium meeting, or by winning at a European Athletics Classic meeting. Up to three athletes from one nation could participate. The host nation could enter one unqualified athlete if no athletes had qualified. There was a target of 32 athletes.<ref name="qualification">"[https://www.taf.org.tr/wp-content/uploads/2016/03/2016_ECHStandarts2.pdf European Athletics Championships 2016 – Entry Standards & Conditions]", [[European Athletics]], June 2015. [https://web.archive.org/web/20210521103845/https://www.taf.org.tr/wp-content/uploads/2016/03/2016_ECHStandarts2.pdf Archived] 21 May 2021. Retrieved 23 May 2025.</ref> European Athletics published a final entry list with 32 athletes on 1 July 2016.<ref>"[http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/36/ECH2016-FinalEntries_updated2_Neutral.pdf European Athletics Championships Amsterdam 2016 – Final Entries – Athletes List by event]", [[European Athletics]], {{nowrap|p. 11}}, 1 July 2016. [https://web.archive.org/web/20160707214722/http://www.european-athletics.org/mm/Document/EventsMeetings/General/01/27/93/36/ECH2016-FinalEntries_updated2_Neutral.pdf Archived] 7 July 2016. Retrieved 23 May 2025.</ref>
+
+==Results==
+===Qualifying round===
+Twenty athletes from thirteen nations competed in the three heats of the qualifying round on 6 July 2016, starting at 13:10 ([[UTC+2]]). The first three athletes in each heat ({{AthAbbr|Q}}) and the next fastest four athletes overall ({{AthAbbr|q}}) advanced to the semifinals. In the second heat, [[Benedicte Hauge]] of Norway set a personal best ({{AthAbbr|PB}}) of 53.13&nbsp;s. In the third heat, [[Indira Terrero]] of Spain did not finish ({{AthAbbr|DNF}}).<ref name="ResultsQualifyinground">"[http://www.european-athletics.org/externalmodules/AT/pdf/ATW004900_C74A.pdf European Athletics Championships – Results – 400m Women – Qualification Round]", [[European Athletics]], 6 July 2016. [https://web.archive.org/web/20161203140304/http://www.european-athletics.org/externalmodules/AT/pdf/ATW004900_C74A.pdf Archived] 3 December 2016. Retrieved 22 May 2025.</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the qualifying round<ref name="ResultsQualifyinground"/>
+|-
+!scope="col"| Rank
+!scope="col"| Heat
+!scope="col"| Lane
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| {{Abbr|Time|Time in seconds}}
+!scope="col"| Note
+|-bgcolor=ccffcc
+| 1 || 2 || 5 ||style="text-align:left"| {{Sortname|Nicky van|Leuveren}} ||style="text-align:left"| {{flagteamlink|NED}} || 52.45 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 2 || 1 || 4 ||style="text-align:left"| {{Sortname|Christine|Ohuruogu}} ||style="text-align:left"| {{flagteamlink|GBR}} || 52.69 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 3 || 2 || 3 ||style="text-align:left"| {{Sortname|Patrycja|Wyciszkiewicz}} ||style="text-align:left"| {{flagteamlink|POL}} || 52.79 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 4 || 3 || 2 ||style="text-align:left"| {{Sortname|Lisanne de|Witte}} ||style="text-align:left"| {{flagteamlink|NED}} || 52.84 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 5 || 2 || 6 ||style="text-align:left"| {{Sortname|Adelina|Pastor}} ||style="text-align:left"| {{flagteamlink|ROU}} || 53.03 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=ddffdd
+| 6 || 2 || 8 ||style="text-align:left"| {{Sortname|Benedicte|Hauge}} ||style="text-align:left"| {{flagteamlink|NOR}} || 53.13 || {{AthAbbr|q}}, {{AthAbbr|PB}}
+|-bgcolor=ccffcc
+| 7 || 1 || 6 ||style="text-align:left"| {{Sortname|Gunta|Latiševa-Cudare}} ||style="text-align:left"| {{flagteamlink|LAT}} || 53.36 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=ccffcc
+| 8 || 1 || 5 ||style="text-align:left"| {{Sortname|Aauri Lorena|Bokesa}} ||style="text-align:left"| {{flagteamlink|ESP}} || 53.46 || {{AthAbbr|Q}}
+|-bgcolor=ddffdd
+| 9 || 1 || 7 ||style="text-align:left"| {{Sortname|Maria Benedicta|Chigbolu}} ||style="text-align:left"| {{flagteamlink|ITA}} || 53.51 || {{AthAbbr|q}}
+|-bgcolor=ccffcc
+| 10 || 3 || 6 ||style="text-align:left"| {{Sortname|Irini|Vasiliou}} ||style="text-align:left"| {{flagteamlink|GRE}} || 53.86 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 11 || 3 || 4 ||style="text-align:left"| {{Sortname|Sinead|Denny}} ||style="text-align:left"| {{flagteamlink|IRL}} || 53.95 || {{AthAbbr|Q}}
+|-bgcolor=ddffdd
+| 12 || 1 || 8 ||style="text-align:left"| {{Sortname|Iveta|Putálová}} ||style="text-align:left"| {{flagteamlink|SVK}} || 53.96 || {{AthAbbr|q}}
+|-bgcolor=ddffdd
+| 13 || 2 || 4 ||style="text-align:left"| {{Sortname|Anna|Vasiliou}} ||style="text-align:left"| {{flagteamlink|GRE}} || 53.98 || {{AthAbbr|q}}
+|-
+| 14 || 2 || 7 ||style="text-align:left"| {{Sortname|Laura|Bueno}} ||style="text-align:left"| {{flagteamlink|ESP}} || 54.01 ||
+|-
+| 15 || 1 || 2 ||style="text-align:left"| {{Sortname|Sanda|Belgyan}} ||style="text-align:left"| {{flagteamlink|ROU}} || 54.33 ||
+|-
+| 16 || 3 || 5 ||style="text-align:left"| {{Sortname|Ilona|Usovich}} ||style="text-align:left"| {{flagteamlink|BLR}} || 54.58 ||
+|-
+| 17 || 3 || 3 ||style="text-align:left"| {{Sortname|Marta|Milani}} ||style="text-align:left"| {{flagteamlink|ITA}} || 54.85 ||
+|-
+| 18 || 1 || 3 ||style="text-align:left"| {{Sortname|Claire|Mooney}} ||style="text-align:left"| {{flagteamlink|IRL}} || 55.66 ||
+|-
+| 19 || 2 || 2 ||style="text-align:left"| {{Sortname|Vijona|Kryeziu}} ||style="text-align:left"| {{flagteamlink|KOS}} || 56.04 || {{AthAbbr|SB}}
+|-
+| {{hs|20}} || 3 || 7 ||style="text-align:left"| {{Sortname|Indira|Terrero}} ||style="text-align:left"| {{flagteamlink|ESP}} || {{sort|99.99|{{AthAbbr|DNF}}}} ||
+|}
+
+=== Semifinals ===
+Twenty-four athletes from sixteen nations – thirteen who advanced from the qualifying round plus eleven who had a [[bye (sports)|bye]] in that round because they had the highest season ranking – competed in the three heats of the semifinals on 7 July 2016, starting at 17:35 (UTC+2).<ref name="qualification"/><ref name="ResultsSemifinals">"[http://www.european-athletics.org/externalmodules/AT/pdf/ATW004200_C74A.pdf European Athletics Championships – Results – 400m Women – Semifinal]", [[European Athletics]], 7 July 2016. [https://web.archive.org/web/20160923063839/http://www.european-athletics.org/externalmodules/AT/pdf/ATW004200_C74A.pdf Archived] 23 September 2016. Retrieved 22 May 2025.</ref> The first two athletes of each heat ({{AthAbbr|Q}}) and the next two fastest athletes overall ({{AthAbbr|q}}) qualified for the final. In the first heat, [[Nicky van Leuveren]] of the Netherlands ran a personal best ({{AthAbbr|PB}}) of 52.02&nbsp;s. In the third heat, [[Libania Grenot]] of Italy ran a European leading time ({{AthAbbr|EL}}) of 50.43&nbsp;s and [[Małgorzata Hołub]] ran a person best of 51.67&nbsp;s.<ref name="ResultsSemifinals"/>
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the semifinals<ref name="ResultsSemifinals"/>
+|-
+!scope="col"| Rank
+!scope="col"| Heat
+!scope="col"| Lane
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| {{Abbr|Time|Time in seconds}}
+!scope="col"| Note
+|-bgcolor=ccffcc
+| 1 || 3 || 3 ||style="text-align:left"| {{Sortname|Libania|Grenot}}* ||style="text-align:left"| {{flagteamlink|ITA}} || 50.43 || {{AthAbbr|Q}}, {{AthAbbr|EL}}
+|-bgcolor=ccffcc
+| 2 || 1 || 4 ||style="text-align:left"| {{Sortname|Floria|Gueï}}* ||style="text-align:left"| {{flagteamlink|FRA}} || 51.01 || {{AthAbbr|Q}}
+|-bgcolor=ccffcc
+| 3 || 1 || 5 ||style="text-align:left"| {{Sortname|Christine|Ohuruogu}} ||style="text-align:left"| {{flagteamlink|GBR}} || 51.35 || {{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=ccffcc
+| 4 || 3 || 6 ||style="text-align:left"| {{Sortname|Małgorzata|Hołub}}* ||style="text-align:left"| {{flagteamlink|POL}} || 51.67 || {{AthAbbr|Q}}, {{AthAbbr|PB}}
+|-bgcolor=ccffcc
+| 5 || 2 || 5 ||style="text-align:left"| {{Sortname|Anyika|Onuora}}* ||style="text-align:left"| {{flagteamlink|GBR}} || 51.84 || {{AthAbbr|Q}}
+|-bgcolor=ddffdd
+| 6 || 1 || 7 ||style="text-align:left"| {{Sortname|Nicky van|Leuveren}} ||style="text-align:left"| {{flagteamlink|NED}} || 52.02 || {{AthAbbr|q}}, {{AthAbbr|PB}}
+|-bgcolor=ccffcc
+| 7 || 2 || 6 ||style="text-align:left"| {{Sortname|Tamara|Salaški}}* ||style="text-align:left"| {{flagteamlink|SRB}} || 52.27 || {{AthAbbr|Q}}
+|-bgcolor=ddffdd
+| 8 || 1 || 3 ||style="text-align:left"| {{Sortname|Justyna|Święty}}* ||style="text-align:left"| {{flagteamlink|POL}} || 52.34 || {{AthAbbr|q}}
+|-
+| 9 || 2 || 7 ||style="text-align:left"| {{Sortname|Lisanne de|Witte}} ||style="text-align:left"| {{flagteamlink|NED}} || 52.37 ||
+|-
+| 10 || 3 || 7 ||style="text-align:left"| {{Sortname|Aauri Lorena|Bokesa}} ||style="text-align:left"| {{flagteamlink|ESP}} || 52.39 || {{AthAbbr|SB}}
+|-
+| 11 || 2 || 3 ||style="text-align:left"| {{Sortname|Ruth Sophia|Spelmeyer}}* ||style="text-align:left"| {{flagteamlink|GER}} || 52.40 ||
+|-
+| 12 || 3 || 4 ||style="text-align:left"| {{Sortname|Cátia|Azevedo}}* ||style="text-align:left"| {{flagteamlink|POR}} || 52.46 ||
+|-
+| 13 || 3 || 5 ||style="text-align:left"| {{Sortname|Yuliya|Olishevska}}* ||style="text-align:left"| {{flagteamlink|UKR}} || 52.54 ||
+|-
+| 14 || 2 || 4 ||style="text-align:left"| {{Sortname|Olha|Zemlyak}}* ||style="text-align:left"| {{flagteamlink|UKR}} || 52.58 ||
+|-
+| 14 || 3 || 8 ||style="text-align:left"| {{Sortname|Irin|Vasiliou}} ||style="text-align:left"| {{flagteamlink|GRE}} || 52.58 ||
+|-
+| 16 || 1 || 8 ||style="text-align:left"| {{Sortname|Maria Benedicta|Chigbolu}} ||style="text-align:left"| {{flagteamlink|ITA}} || 52.69 ||
+|-
+| 17 || 3 || 2 ||style="text-align:left"| {{Sortname|Adelina|Pastor}} ||style="text-align:left"| {{flagteamlink|ROU}} || 52.90 || {{AthAbbr|SB}}
+|-
+| 18 || 2 || 8 ||style="text-align:left"| {{Sortname|Patrycja|Wyciszkiewicz}} ||style="text-align:left"| {{flagteamlink|POL}} || 52.92 ||
+|-
+| 19 || 1 || 6 ||style="text-align:left"| {{Sortname|Olha|Bibik}}* ||style="text-align:left"| {{flagteamlink|UKR}} || 53.02 ||
+|-
+| 20 || 1 || 2 ||style="text-align:left"| {{Sortname|Gunta|Latiševa-Cudare}} ||style="text-align:left"| {{flagteamlink|LAT}} || 53.11 || {{AthAbbr|SB}}
+|-
+| 21 || 3 || 1 ||style="text-align:left"| {{Sortname|Sinead|Denny}} ||style="text-align:left"| {{flagteamlink|IRL}} || 53.27 ||
+|-
+| 22 || 1 || 1 ||style="text-align:left"| {{Sortname|Anna|Vasiliou}} ||style="text-align:left"| {{flagteamlink|GRE}} || 53.77 ||
+|-
+| 23 || 2 || 2 ||style="text-align:left"| {{Sortname|Iveta|Putálová}} ||style="text-align:left"| {{flagteamlink|SVK}} || 54.04 ||
+|-
+| 24 || 2 || 1 ||style="text-align:left"| {{Sortname|Benedicte|Hauge}} ||style="text-align:left"| {{flagteamlink|NOR}} || 54.50 ||
+|}
+:<nowiki>*</nowiki>''Athletes who received a bye to the semifinals''<ref name="ResultsQualifyinground"/><ref name="ResultsSemifinals"/>
+
+=== Final ===
+[[File:European Athletic Championships 2016 in Amsterdam - 8 July (28210470741).jpg|thumb|alt=Photo of eight runners on a red athletics track with the heads of spectators in the foreground|Finalists at the end of the second bend]]
+[[File:Libania Grenot Amsterdam 2016.jpg|thumb|alt=Photo of Libania Grenot with raised arms|Winner [[Libania Grenot]] of Italy]]
+
+Eight athletes from six nations competed in the final on 8 July 2016, starting at 20:25 (UTC+2).<ref name="ResultsFinal"/> [[Libania Grenot]] of Italy came off the second bend in the lead.<ref name="IAAFreport">Thomas Byrne, "[https://worldathletics.org/news/report/european-championships-2016-schippers Schippers wins second European 100m gold in Amsterdam]", [[World Athletics]], 9 July 2016. Retrieved 23 May 2025.</ref> [[Floria Gueï]] of France and [[Anyika Onuora]] of Great Britain and Northern Ireland were gaining ground in the last 100 metres, but they didn't overtake the Italian.<ref name="GazettaReport">Daniele Perboni, "[https://www.gazzetta.it/Atletica/08-07-2016/atletica-europei-grenot-vince-400-secondo-oro-continentale-consecutivo-160279649122.shtml Atletica, Europei: Grenot vince i 400, secondo oro continentale consecutivo]" (in Italian), ''[[La Gazzetta dello Sport]]'', 8 July 2016. Retrieved 24 May 2025.</ref> Grenot won the race in 50.73&nbsp;s, followed by Gueï in 51.21&nbsp;s in second place and Onuora in 51.47&nbsp;s in third place.<ref name="ResultsFinal"/> While Grenot and Gueï were 0.30&nbsp;s and 0.20&nbsp;s slower than in the semifinals, Onuora was 0.37&nbsp;s faster resulting in her season's best ({{AthAbbr|SB}}).<ref name="ResultsFinal"/><ref name="ResultsSemifinals"/>
+
+According to Steve Smythe of ''[[Athletics Weekly]]'', Grenot won "comfortably".<ref>Steve Smythe, "[https://athleticsweekly.com/news/reports/martyn-rooney-and-dafne-schippers-retain-european-titles-46371/ Martyn Rooney and Dafne Schippers retain European titles]", ''[[Athletics Weekly]]'', 10 February 2025. Retrieved 23 May 2025.</ref> Thomas Byrne of the [[IAAF]] wrote that Grenot was "[[:en:wikt:cut above|a cut above]] in the final".<ref name="IAAFreport"/> Daniele Perboni of the Italian ''[[La Gazzetta dello Sport]]'' described Grenot's victory as: "A European title strongly desired and sought, with determination, anger, and courage."<ref name="GazettaReport"/> Grenot became the first athlete to successfully defend her [[2014 European Athletics Championships – Women's 400 metres|400 metres title]] since world record holder [[Marita Koch]] in [[1986 European Athletics Championships – Women's 400 metres|1986]].<ref name="2014final"/><ref>"[https://www.european-athletics.com/news/two-time-european-champion-grenot-hangs-her-spikes Two-time European champion Grenot hangs up her spikes]", [[European Athletics]], 26 April 2019. Retrieved 23 May 2025.</ref>
+
+The medalists were each interviewed about the race. Grenot said: "I'm more determined than ever, finally number 1 in front of my name."<ref name="GazettaReport"/> Gueï said: "I gave my all. The medal is what I dreamt of, and now I've got it."<ref>"[http://www.european-athletics.org/competitions/european-athletics-championships/2016/athletics/event/womens-400m/phase=atw004200/doc=flashinterview.html European Athletics Championships – Amsterdam 2016 – 400m Women – Semifinals – Flash Interviews]", [[European Athletics]]. [https://web.archive.org/web/20160710221855/http://www.european-athletics.org/competitions/european-athletics-championships/2016/athletics/event/womens-400m/phase=atw004200/doc=flashinterview.html Archived] 10 July 2016. Retrieved 23 May 2025.</ref> And Onuora said: "This means the world to me. I have been competing for 15 years. This is the first time I have had the chance to compete for an individual medal."<ref>"[http://www.european-athletics.org/competitions/european-athletics-championships/2016/athletics/event/womens-400m/phase=atw004100/doc=flashinterview.html European Athletics Championships – Amsterdam 2016 – 400m Women – Final – Flash Interviews]", [[European Athletics]]. [https://web.archive.org/web/20160710175429/http://www.european-athletics.org/competitions/european-athletics-championships/2016/athletics/event/womens-400m/phase=atw004100/doc=flashinterview.html Archived] 10 July 2016. Retrieved 23 May 2025.</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|+ Results of the final<ref name="ResultsFinal"/>
+|-
+!scope="col"| Rank
+!scope="col"| Lane
+!scope="col"| Athlete
+!scope="col"| Nation
+!scope="col"| {{Abbr|Time|Time in seconds}}
+!scope="col"| Note
+|- 
+| {{gold01}} || 6 ||style="text-align:left"| {{Sortname|Libania|Grenot}} ||style="text-align:left"| {{flagteamlink|ITA}} || 50.73 || 
+|-
+| {{silver02}} || 4 ||style="text-align:left"| {{Sortname|Floria|Gueï}} ||style="text-align:left"| {{flagteamlink|FRA}} || 51.21 || 
+|-
+| {{bronze03}} || 3 ||style="text-align:left"| {{Sortname|Anyika|Onuora}} ||style="text-align:left"| {{flagteamlink|GBR}} || 51.47 || {{AthAbbr|SB}}
+|-
+| 4 || 5 ||style="text-align:left"| {{Sortname|Christine|Ohuruogu}} ||style="text-align:left"| {{flagteamlink|GBR}} || 51.55 || 
+|-
+| 5 || 8 ||style="text-align:left"| {{Sortname|Małgorzata|Hołub}} ||style="text-align:left"| {{flagteamlink|POL}} || 51.89 || 
+|-
+| 6 || 2 ||style="text-align:left"| {{Sortname|Justyna|Święty}} ||style="text-align:left"| {{flagteamlink|POL}} || 51.96 || 
+|-
+| 7 || 7 ||style="text-align:left"| {{Sortname|Tamara|Salaški}} ||style="text-align:left"| {{flagteamlink|SRB}} || 52.23 || 
+|-
+| 8 || 1 ||style="text-align:left"| {{Sortname|Nicky van|Leuveren}} ||style="text-align:left"| {{flagteamlink|NED}} || 52.76 || 
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline}}
+
+{{EC400metres}}
+{{Footer European Champions 400 m Women}}
+
+{{DEFAULTSORT:2016 European Athletics Championships, Women's 400 Metres}}
+[[Category:2016 in women's sport of athletics]]
+[[Category:400 metres at the European Athletics Championships]]
+[[Category:Events at the 2016 European Athletics Championships|400 W]]
+[[Category:Women's events at the European Athletics Championships]]

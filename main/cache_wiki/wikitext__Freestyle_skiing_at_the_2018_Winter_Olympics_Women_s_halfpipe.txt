@@ -1,0 +1,132 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event       = Women's halfpipe
+|games       = 2018 Winter
+|image       = Freestyle skiing pictogram.svg
+|image_size  = 150px
+|caption     = 
+|venue       = [[Bogwang Phoenix Park]], [[Pyeongchang County|Pyeongchang]], [[South Korea]]
+|dates       = 19 February (qualification)<br>20 February (final)
+|competitors = 24
+|nations     = 13
+|win_value   = 95.80
+|win_label   = Winning score
+|gold        = [[Cassie Sharpe]]
+|goldNOC     = CAN
+|silver      = [[Marie Martinod]]
+|silverNOC   = FRA
+|bronze      = [[Brita Sigourney]]
+|bronzeNOC   = USA
+|prev        = [[Freestyle skiing at the 2014 Winter Olympics – Women's halfpipe|2014]]
+|next        = [[Freestyle skiing at the 2022 Winter Olympics – Women's halfpipe|2022]]
+}}
+{{Freestyle skiing at the 2018 Winter Olympics}}
+The '''Women's halfpipe''' event in '''[[freestyle skiing]]''' at the '''[[2018 Winter Olympics]]''' took place on 19 and 20 February 2018 at the [[Bogwang Phoenix Park]], [[Pyeongchang County|Pyeongchang]], [[South Korea]].<ref>{{cite web|url=https://www.pyeongchang2018.com/en/schedule|title=Schedule|publisher=[[POCOG]]|access-date=13 January 2018|archive-date=5 November 2017|archive-url=https://web.archive.org/web/20171105010048/https://www.pyeongchang2018.com/en/schedule|url-status=dead}}</ref><ref>[http://data.fis-ski.com/pdf/2018/FS/8058/2018FS8058SLQ1.pdf Start list]</ref>
+
+==Qualification==
+{{main|Freestyle skiing at the 2018 Winter Olympics – Qualification}}
+The top 30 athletes in the Olympic quota allocation list qualified, with a maximum of four athletes per [[National Olympic Committee]] (NOC) allowed. All athletes qualifying must also have placed in the top 30 of a FIS World Cup event or the [[FIS Freestyle Ski and Snowboarding World Championships 2017]] during the qualification period (July 1, 2016 to January 21, 2018) and also have a minimum of 50 FIS points to compete. If the host country, [[South Korea at the 2018 Winter Olympics]] did not qualify, their chosen athlete would displace the last qualified athlete, granted all qualification criteria were met.<ref>{{cite web|url=https://data.fis-ski.com/media/olympic-games/2018/english-qs/owg-pyeongchang-2018-qualification-system-freestyle-skiing.pdf|title=Qualification Systems for XXII Olympic Winter Games, PyeongChang 2018 Freestyle skiing|date=9 September 2016|publisher=[[International Ski Federation]] (FIS)|access-date=21 January 2018}}</ref>
+
+==Results==
+===Qualification===
+The qualification was held on 19 February at 10:00.<ref>[http://data.fis-ski.com/pdf/2018/FS/8058/2018FS8058RLQ.pdf Qualification results]</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+!Rank !!  Start Order !!  Bib !!  Name !!  Country !!  Run 1 !! Run 2 !! Best !!  Notes
+|-bgcolor=#ccffcc
+| 1 || 8 || 3 || align=left| [[Cassie Sharpe]] ||align=left| {{flagIOC|CAN|2018 Winter}} ||93.00||'''93.40'''||'''93.40'''||'''Q'''
+|-bgcolor=#ccffcc
+| 2 || 10 || 7 || align=left| [[Marie Martinod]] ||align=left| {{flagIOC|FRA|2018 Winter}} ||91.60||'''92.00'''||'''92.00'''||'''Q'''
+|-bgcolor=#ccffcc
+| 3 || 5 || 1 || align="left" | [[Brita Sigourney]] || align="left" | {{flagIOC|USA|2018 Winter}} ||90.60||'''90.60'''||'''90.60'''||'''Q'''
+|-bgcolor=#ccffcc
+| 4 || 7 || 6 || align=left| [[Annalisa Drew]] ||align=left| {{flagIOC|USA|2018 Winter}} ||85.40||'''86.00'''||'''86.00'''||'''Q'''
+|-bgcolor=#ccffcc
+| 5 || 2 || 13 || align="left" | [[Ayana Onozuka]] || align="left" | {{flagIOC|JPN|2018 Winter}} ||74.60||'''84.80'''||'''84.80'''||'''Q'''
+|-bgcolor=#ccffcc
+| 6 || 15 || 4 || align=left| [[Maddie Bowman]] ||align=left| {{flagIOC|USA|2018 Winter}} ||83.60||'''83.80'''||'''83.80'''||'''Q'''
+|-bgcolor=#ccffcc
+| 7 || 16 || 11 || align=left| [[Sabrina Cakmakli]] ||align=left| {{flagIOC|GER|2018 Winter}} ||'''81.80'''||31.40||'''81.80'''||'''Q'''
+|-bgcolor=#ccffcc
+| 8 || 1 || 2 || align="left" | [[Zhang Kexin (freestyle skier)|Zhang Kexin]] || align="left" | {{flagIOC|CHN|2018 Winter}} ||80.60||'''81.00'''||'''81.00'''||'''Q'''
+|-bgcolor=#ccffcc
+| 9 || 20 || 22 || align="left" | [[Rowan Cheshire]] || align="left" | {{flagIOC|GBR|2018 Winter}} ||'''74.00'''||71.40||'''74.00'''||'''Q'''
+|-bgcolor=#ccffcc
+| 10 || 11 || 8 || align=left| [[Valeriya Demidova]] ||align=left| {{flagIOC|OAR|2018 Winter}} ||71.00||'''73.60'''||'''73.60'''||'''Q'''
+|-bgcolor=#ccffcc
+| 11 || 17 || 24 || align=left| [[Rosalind Groenewoud]] ||align=left| {{flagIOC|CAN|2018 Winter}} ||'''73.20'''||72.80||'''73.20'''||'''Q'''
+|-bgcolor=#ccffcc
+| 12 || 18 || 17 || align=left| [[Anaïs Caradeux]] ||align=left| {{flagIOC|FRA|2018 Winter}} ||25.00||'''72.80'''||'''72.80'''||'''Q'''
+|-
+| 13 || 6 || 12 || align=left| [[Elisabeth Gram]] ||align=left| {{flagIOC|AUT|2018 Winter}} ||'''72.20'''||20.00||'''72.20'''||
+|-
+| 14 || 3 || 10 || align="left" | [[Saori Suzuki]] || align="left" | {{flagIOC|JPN|2018 Winter}} ||69.20||'''71.80'''||'''71.80'''||
+|-
+| 15 || 13 || 5 || align="left" | [[Devin Logan]] || align="left" | {{flagIOC|USA|2018 Winter}} ||'''71.60'''||25.60||'''71.60'''||
+|-
+| 16 || 19 || 20 || align=left| [[Janina Kuzma]] ||align=left| {{flagIOC|NZL|2018 Winter}} ||'''67.80'''||48.60||'''67.80'''||
+|-
+| 17 || 4 || 14 || align="left" | [[Molly Summerhayes]] || align="left" | {{flagIOC|GBR|2018 Winter}} ||60.80||'''66.00'''||'''66.00'''||
+|-
+| 18 || 12 || 16 || align=left| [[Jang Yu-jin]] ||align=left| {{flagIOC|KOR|2018 Winter}} ||'''64.40'''||60.00||'''64.40'''||
+|-
+| 19 || 21 || 21 || align="left" | [[Chai Hong (skier)|Chai Hong]] || align="left" | {{flagIOC|CHN|2018 Winter}} ||58.00||'''63.60'''||'''63.60'''||
+|-
+| 20 || 9 || 15 || align=left| [[Wu Meng]] ||align=left| {{flagIOC|CHN|2018 Winter}} ||53.40||'''61.00'''||'''61.00'''||
+|-
+| 21 || 23 || 18 || align=left| [[Britt Hawes]] ||align=left| {{flagIOC|NZL|2018 Winter}} ||52.20||'''57.40'''||'''57.40'''||
+|-
+| 22 || 14 || 9 || align="left" | [[Yurie Watabe]] || align="left" | {{flagIOC|JPN|2018 Winter}} ||21.20||'''56.60'''||'''56.60'''||
+|-
+| 23 || 22 || 19 || align=left| [[Laila Friis-Salling]] ||align=left| {{flagIOC|DEN|2018 Winter}} ||'''45.00'''||11.80||'''45.00'''||
+|-
+| 24 || 24 || 23 || align=left| [[Elizabeth Swaney]] ||align=left| {{flagIOC|HUN|2018 Winter}} ||30.00||'''31.40'''||'''31.40'''||
+|}
+
+===Final===
+The final was held on 20 February at 10:30.<ref>[http://data.fis-ski.com/pdf/2018/FS/8059/2018FS8059RLF.pdf Final results]</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !! Bib !!  Name !!  Country !!  Run 1 !! Run 2 !! Run 3 !! Best !!  Notes
+|-
+| {{gold1}} || 3 || align=left| [[Cassie Sharpe]] ||align=left| {{flagIOC|CAN|2018 Winter}} || 94.40 || '''95.80''' || 42.00 || '''95.80''' ||
+|-
+| {{silver2}} || 7 || align=left| [[Marie Martinod]] ||align=left| {{flagIOC|FRA|2018 Winter}} || 92.20 || '''92.60''' || 23.20 || '''92.60''' ||
+|-
+| {{bronze3}} || 1 || align="left" | [[Brita Sigourney]] || align="left" | {{flagIOC|USA|2018 Winter}} || 89.80 || 88.60 || '''91.60''' || '''91.60''' ||
+|-
+| {{sort|04|4}} || 6 || align=left| [[Annalisa Drew]] ||align=left| {{flagIOC|USA|2018 Winter}} || 86.80 || 73.00 || '''90.80''' || '''90.80''' ||
+|-
+| {{sort|05|5}} || 13 || align="left" | [[Ayana Onozuka]] || align="left" | {{flagIOC|JPN|2018 Winter}} || 50.80 || 77.20 || '''82.20''' || '''82.20''' ||
+|-
+| {{sort|06|6}} || 8 || align=left| [[Valeriya Demidova]] ||align=left| {{flagIOC|OAR|2018 Winter}} || 79.00 || '''80.60''' || 77.60 || '''80.60''' ||
+|-
+| {{sort|07|7}} || 22 || align="left" | [[Rowan Cheshire]] || align="left" | {{flagIOC|GBR|2018 Winter}} || '''75.40''' || 17.80 || 13.60 || '''75.40''' ||
+|-
+| {{sort|08|8}} || 11 || align=left| [[Sabrina Cakmakli]] ||align=left| {{flagIOC|GER|2018 Winter}} || '''74.20''' || 57.60 || 20.40 || '''74.20''' ||
+|-
+| {{sort|09|9}} || 2 || align="left" | [[Zhang Kexin (freestyle skier)|Zhang Kexin]] || align="left" | {{flagIOC|CHN|2018 Winter}} || '''73.00''' || 55.40 || 71.00 || '''73.00'''||
+|-
+| 10 || 24 || align=left| [[Rosalind Groenewoud]] ||align=left| {{flagIOC|CAN|2018 Winter}} || '''70.60''' || 67.80 || 66.60 || '''70.60''' ||
+|-
+| 11 || 4 || align=left| [[Maddie Bowman]] ||align=left| {{flagIOC|USA|2018 Winter}} || 25.80 || 26.40 || '''27.00''' || '''27.00''' ||
+|-
+| 12 || 17 || align=left| [[Anaïs Caradeux]] ||align=left| {{flagIOC|FRA|2018 Winter}} || DNS || DNS || DNS || '''DNS''' ||
+|}
+
+==Qualification controversies==
+{{Main|Elizabeth_Swaney#2018_Olympics}}
+[[Elizabeth Swaney]], who represented [[Hungary]], qualified for the Olympics using "a loophole", by attending many World Cup events and just finishing the runs without falling. This has been called a "mockery" and her being labelled as a "scammer" by some people, while being seen by some people as "[a person who has] put in the time and effort to be here" by others.<ref>{{Cite news |first = Davy |last = Rothbart |date = 14 March 2019 |url = https://story.californiasunday.com/elizabeth-swaney |department = The Believer  |title = After a mysterious freestyle ski run in last year’s Winter Olympics, people called Elizabeth Swaney a scam artist and the worst athlete in the history of the games. They’re wrong. |work = The California Sunday Magazine |access-date = 2019-03-16 |language = en }}</ref>
+
+==References==
+{{reflist}}
+
+{{Footer Olympic Champions In Freestyle Skiing Women}}
+
+{{DEFAULTSORT:Freestyle skiing at the 2018 Winter Olympics - Women's halfpipe}}
+[[Category:Women's freestyle skiing at the 2018 Winter Olympics]]
+
+
+{{Skiing-stub}}
+{{2018-winter-Olympic-stub}}

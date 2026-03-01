@@ -1,0 +1,6657 @@
+{{short description|None}}
+
+{{Speed skating at the 2022 Winter Olympics}}
+
+The following is about the qualification rules and the quota allocation for the [[Speed skating at the 2022 Winter Olympics|speed skating]] at the [[2022 Winter Olympics]].
+
+==Qualification rules==
+A total quota of 166 athletes were allowed to compete at the Games. Countries were assigned quotas based on their performance during the [[2021–22 ISU Speed Skating World Cup]] in the autumn of 2021. Each nation was permitted to enter a maximum of three athletes per gender for all events apart from the women's 5000m, men's 10000m and mass start events, for which they could enter a maximum of two athletes per event. Additionally, each nation is permitted to send at most 7 speed skating athletes per gender in total, or 8 when the nation is qualified for all events for the gender, or 9 when the nation is qualified with the maximum quota in every event for the gender.<ref>{{cite web|url=https://nocnsf.nl/media/3514/beijing-2022-qualification-system-speed-skating.pdf|title=Qualification Systems for XXIV Olympic Winter Games, Beijing 2022 Speed Skating|publisher=[[International Skating Union]]|accessdate=13 November 2021}}</ref>
+
+===Qualification times===
+The following qualification times were released on July 1, 2021, and were unchanged from 2018.<ref name=qt>{{cite web|url=https://www.isu.org/inside-isu/isu-communications/communications/25952-isu-communication-2405/file|title=Communication No. 2405 Qualifying competitions and qualifying times for Speed Skating events at the 2022 Olympic Winter Games|date=1 July 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=6 September 2021}}</ref> Skaters had the time period of July 1, 2021 – January 16, 2022 to achieve qualification times at valid [[International Skating Union]] (ISU) events.<ref name=qt/>
+
+{| class = "wikitable"
+! Event !! Men !! Women
+|-
+| 500 metres || align=center| 35.70 ||align=center| 39.50
+|-
+| 1000 metres || align=center| 1:10.50 ||align=center| 1:18.00
+|-
+| 1500 metres ||align=center| 1:48.00|| align=center| 1:59.50
+|-
+| 3000 metres ||{{n/a}}|| align=center| 4:12.00
+|-
+| 5000 metres ||align=center| 6:30.00  || align=center| 7:20.00 or 4:08.00 (3000 m)
+|-
+| 10,000 metres ||align=center|13:30.00 or 6:25.00 (5000 m) || {{n/a}}
+|-
+| Mass start ||align=center| 1:57.50 (1500 m)  || align=center| 2:10.00 (1500 m)
+|}
+
+===Maximum entries by country per event===
+{| class = "wikitable"
+! Event !! Men !! Women
+|-
+| 500 metres || align=center| 3 ||align=center| 3
+|-
+| 1000 metres || align=center| 3 ||align=center| 3
+|-
+| 1500 metres ||align=center| 3|| align=center| 3
+|-
+| 3000 metres ||{{n/a}}|| align=center| 3
+|-
+| 5000 metres ||align=center| 3 || align=center|2
+|-
+| 10,000 metres ||align=center|2 || {{n/a}}
+|-
+| Mass start ||align=center|2  || align=center| 2
+|-
+| Team pursuit ||align=center| 1 team || align=center| 1 team
+|}
+
+===Maximum quotas per event===
+;Men
+{| class = "wikitable"
+! Event !! By Ranking !! By time !! Total
+|-
+| 500 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 1000 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 1500 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 5000 metres || align=center| 14 ||align=center| 6 || align=center| 20
+|-
+| 10,000 metres || align=center| 8 ||align=center| 4 || align=center| 12
+|-
+| Mass start || align=center| 24 ||align=center {{n/a}} || align=center| 24
+|}
+
+;Women
+{| class = "wikitable"
+! Event !! By Ranking !! By time !! Total
+|-
+| 500 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 1000 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 1500 metres || align=center| 20 ||align=center| 10 || align=center| 30
+|-
+| 3,000 metres || align=center| 14 ||align=center| 6 || align=center| 20
+|-
+| 5000 metres  || align=center| 8 ||align=center| 4 || align=center| 12
+|-
+| Mass start || align=center| 24 ||align=center {{n/a}} || align=center| 24
+|}
+
+==Qualification timeline==
+{|class="wikitable"
+|-
+! Events !! Date !! Venue
+|-
+| [[2021–22 ISU Speed Skating World Cup|ISU Speed Skating World Cup 1]] || 12–14 November 2021 || {{flagicon|POL}} [[Tomaszów Mazowiecki]]
+|-
+| [[2021–22 ISU Speed Skating World Cup|ISU Speed Skating World Cup 2]] || 19–21 November 2021 || {{flagicon|NOR}} [[Stavanger]]
+|-
+| [[2021–22 ISU Speed Skating World Cup|ISU Speed Skating World Cup 3]] || 3–5 December 2021 || {{flagicon|USA}} [[Salt Lake City]]
+|-
+| [[2021–22 ISU Speed Skating World Cup|ISU Speed Skating World Cup 4]] || 10–12 December 2021 || {{flagicon|CAN}} [[Calgary]]
+|}
+
+==Qualification summary==
+On 22 December 2021, the ISU published their list of provisional allocations for each race and the total maximum allocation for each NOC.<ref>{{cite web|url=https://www.isu.org/docman-documents-links-2/2022-beijing/internal-documentation-1/26783-isu-communication-2449-1/file|title= Communication No. 2449 XXIV Olympic Winter Games 2022 Beijing Entries Speed Skating|date=22 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=29 December 2021}}</ref>  NOCs will inform the ISU how many quotas they will use by 16 January 2022, at which point either withdrawal or reallocation will be done to get to 166 total athletes. The final entries were revealed on January 24, 2022.<ref>{{cite web|url=https://www.isu.org/inside-isu/isu-communications/communications/27084-2452-owg-2022-final-allocation-quota-places-speed-skating-short-track-speed-skating/file|title= Communication No. 2452 XXIV Olympic Winter Games 2022 Beijing Entries Speed Skating|date=24 January 2022|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=24 January 2022}}</ref>  
+{| class="wikitable sortable" style="text-align:center; font-size:85%"
+!rowspan="2" align="left"| NOC
+!colspan="7"| Men
+!colspan="7" | Women
+!rowspan="2"|Total
+|-
+![[#Men's_500m|500m]] || [[#Men's_1,000m|1,000m]] || [[#Men's_1,500m|1500m]] || [[#Men's_5,000m|5,000m]] || [[#Men's_10,000m|10,000m]] || {{Nowrap|[[#Men's_Mass_start|MS]]}}|| [[#Men's_Team_pursuit|TP]]||   [[#Women's_500m|500m]] || [[#Women's_1,000m|1,000m]] || [[#Women's_1,500m|1500m]] || [[#Women's_3,000m|3,000m]] || [[#Women's_5,000m|5,000m]]|| {{Nowrap|[[#Women's_Mass_start|MS]]}} || {{Nowrap|[[#Women's_Team_pursuit|TP]]}}
+|-
+| align=left|{{flagIOC|ARG|2022 Winter}} || ||  || || || || ||  || <s>0</s> 1 || || || || || || ||'''1'''
+|-
+| align=left|{{flagIOC|AUT|2022 Winter}} || ||  || || || || 1||  || 1|| 1|| || || || || ||'''<s>3</s> 2'''
+|-
+| align=left|{{flagIOC|BEL|2022 Winter}} || ||1|| 2 ||1 || 1||1 ||  || <s>0</s> 1|| <s>0</s> 1|| <s>0</s> 1|| || ||1|| ||'''<s>7</s> 3'''
+|-
+| align=left|{{flagIOC|BLR|2022 Winter}} ||1||1 || || || || || ||1|| 2||2||1||1||1||X||'''<s>10</s> 5'''
+|-
+| align=left|{{flagIOC|CAN|2022 Winter}} ||<s>2</s> 3|| 3|| <s>2</s> 3|| 1||2|| 2|| X||3 || 2||2|| 3||2||2||X||'''16'''
+|-
+| align=left|{{flagIOC|CHN|2022 Winter}} ||2|| 2||<s>2</s> 3 || || || 1||X||2 || 3||3||2 ||1||2||X||'''14'''
+|-
+| align=left|{{flagIOC|COL|2022 Winter}} || ||  ||  || || || || || || || || || ||1|| ||'''1'''
+|-
+| align=left|{{flagIOC|CZE|2022 Winter}} || ||  || || || || || ||1 ||1 ||1||2||1||1|| ||'''<s>7</s> 2'''
+|-
+| align=left|{{flagIOC|DEN|2022 Winter}} || || ||  || <s>0</s> 1|| || 2||  || ||  || || || || || ||'''2'''
+|-
+| align=left|{{flagIOC|EST|2022 Winter}} ||1||1||  || || || ||  || ||  || || || || || ||'''<s>2</s> 1'''
+|-
+| align=left|{{flagIOC|GER|2022 Winter}} ||1||<s>2</s> 1|| <s>2</s> 0||2 ||1 ||1 || || <s>1</s> 0|| ||1 || <s>0</s> 1|| ||2|| ||'''<s>11</s> 5'''
+|-
+| align=left|{{flagIOC|GBR|2022 Winter}} ||<s>0</s> 1 ||1||1 || || || || || || <s>0</s> 1||<s>0</s> 1|| || || || ||'''<s>3</s> 2'''
+|-
+| align=left|{{flagIOC|ITA|2022 Winter}} ||2|| 1||1 || 3||2||1 ||X|| || ||1||1||1||1|| ||'''<s>12</s> 7'''
+|-
+| align=left|{{flagIOC|JPN|2022 Winter}} ||3|| 3|| <s>3</s> 2|| 1||1 ||1 || || 3|| 2 ||2||2||2||2||X||'''15'''
+|-
+| align=left|{{flagIOC|KAZ|2022 Winter}} ||<s>0</s> 1||<s>1</s> 2||1 || || || 1|| ||1 ||2||2||1|| ||1|| ||'''<s>9</s> 5'''
+|-
+| align=left|{{flagIOC|LAT|2022 Winter}} || ||  ||<s>0</s> 1 || || || || || || || || || || || ||'''1'''
+|-
+| align=left|{{flagIOC|NED|2022 Winter}} ||3|| 3||3 ||3||2|| 2||X||3||3 ||3||3||2||2||X||'''18'''
+|-
+| align=left|{{flagIOC|NZL|2022 Winter}} || ||  ||1 || || || || || || || || || || || ||'''1'''
+|-
+| align=left|{{flagIOC|NOR|2022 Winter}} ||2|| <s>2</s> 3||3 ||1 || || 2||X|| 2|| 1||2|| 1||1||1||X||'''<s>15</s> 12'''
+|-
+| align=left|{{flagIOC|POL|2022 Winter}} ||3|| <s>1</s> 2|| <s>0</s> 1|| || ||2 || || 2||2 ||2|| || ||1||X||'''<s>11</s> 10'''
+|-
+| align=left|{{flagIOC|ROC|2022 Winter}} ||3|| 2||<s>2</s> 3 ||3 ||2 || 2||X||3 || 3||<s>2</s> 3||2||1||1||X||'''16'''
+|-
+| align=left|{{flagIOC|ROU|2022 Winter}} || ||  || || || || ||  || <s>0</s> 1|| <s>0</s> 1|| || || || || ||'''1'''
+|-
+| align=left|{{flagIOC|KOR|2022 Winter}} ||2|| 2||<s>1</s> 2 || || || 2||X||1 ||2 || || || ||2|| ||'''10'''
+|-
+| align=left|{{flagIOC|SWE|2022 Winter}} || ||  || || 1||1|| || || || || || || || || ||'''<s>2</s> 1'''
+|-
+| align=left|{{flagIOC|SUI|2022 Winter}} || ||  || || 1|| || 1|| || || || || || ||1|| ||'''<s>3</s> 2'''
+|-
+| align=left|{{flagIOC|TPE|2022 Winter}} || || || || || || || ||1 ||1||1|| || || || ||'''<s>4</s> 1'''
+|-
+| align=left|{{flagIOC|USA|2022 Winter}} ||2||2||<s>2</s> 3 ||2 || ||2 ||X|| <s>2</s> 3|| 2||2||<s>0</s> 1|| ||2|| ||'''12'''
+|-
+!Total: 27 NOCs 
+!(27)30
+!(28)30
+!(26)30
+!(19)20
+!12
+!24
+!8
+!(27)30
+!(27)30
+!(27)30
+!(18)20
+!12
+!24
+!8
+!(207)166<br>(87 men/79 women)
+|}
+
+==Points Ranking==
+===Men's 500m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 8 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_500/standings|title= World Cup Standings ISU World Cup 500m Men|date=12 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=12 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] 1
+!{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] 2
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]] 1
+!{{flagicon|NOR}} [[Sørmarka Arena|SOR]] 2
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] 1
+!{{flagicon|USA}} [[Utah Olympic Oval|SLC]] 2
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] 1
+!{{flagicon|CAN}} [[Olympic Oval|CGY]] 2
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Laurent Dubreuil]]|CAN|2022 Winter}}
+| 48
+| 54
+| 60
+| 54
+| 48
+| 48
+| 60
+| 48
+| 420
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Wataru Morishige]]|JPN|2022 Winter}}
+| 30
+| 48
+| 38
+| 43
+| 54
+| 60
+| 38
+| 40
+| 351
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Tatsuya Shinhama]]|JPN|2022 Winter}}
+| 54
+| 60
+| 40
+| 60
+| 38
+| 34
+| 32
+| 28
+| 346
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Yuma Murakami]]|JPN|2022 Winter}}
+| 43
+| 30
+| 32
+| 28
+| 40
+| 36
+| 48
+| 54
+| 311
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Artem Arefyev (speed skater)|Artem Arefyev]]|ROC|2022 Winter}}
+| 36
+| 43
+| 54
+| 48
+| 25
+| 54
+| 27
+| 21
+| 308
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Viktor Mushtakov]]|ROC|2022 Winter}}
+| 38
+| 38
+| 21
+| 40
+| 43
+| 0
+| 43
+| 60
+| 283
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Yamato Matsui]]|JPN|2022 Winter}}
+| 26
+| 31
+| 29
+| 34
+| 60
+| 43
+| 28
+| 29
+| 280
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Kim Jun-ho (speed skater)|Kim Joon-ho]]|KOR|2022 Winter}}
+| 40
+| 25
+| 43
+| 31
+| 32
+| 40
+| 31
+| 38
+| 280
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Piotr Michalski]]|POL|2022 Winter}}
+| 28
+| 28
+| 30
+| 30
+| 31
+| 38
+| 34
+| 32
+| 251
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Ignat Golovatsiuk]]|BLR|2022 Winter}}
+| 28
+| 40
+| 24
+| 21
+| 23
+| 25
+| 29
+| 43
+| 233
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Cha Min-kyu]]|KOR|2022 Winter}}
+| 23
+| 28
+| 36
+| 24
+| 28
+| 30
+| 24
+| 30
+| 223
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Håvard Holmefjord Lorentzen]]|NOR|2022 Winter}}
+| 31
+| 24
+| 31
+| 22
+| 34
+| 28
+| 30
+| 22
+| 222
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Marek Kania]]|POL|2022 Winter}}
+| 15
+| 24
+| 48
+| 32
+| 24
+| 27
+| 25
+| 26
+| 221
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Kai Verbij]]|NED|2022 Winter}}
+| 34
+| 36
+| 34
+| 25
+| 30
+| 32
+|
+|
+| 191
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Damian Żurek]]|POL|2022 Winter}}
+| 24
+| 22
+| 17
+| 24
+| 26
+| 17
+| 23
+| 31
+| 184
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Dai Dai Ntab|Dai Dai N'tab]]|NED|2022 Winter}}
+| 27
+| 27
+| 28
+| 38
+| 29
+| 31
+|
+|
+| 180
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Gao Tingyu]]|CHN|2022 Winter}}
+| 60
+| 34
+|
+|
+| 28
+| 0
+| 54
+|
+| 176
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Ruslan Murashov]]|ROC|2022 Winter}}
+| 22
+|
+| 24
+| 29
+| 13
+| 21
+| 40
+| 27
+| 176
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Merijn Scheperkamp]]|NED|2022 Winter}}
+| 32
+| 26
+| 23
+| 36
+| 28
+| 29
+|
+|
+| 174
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Yang Tao (speed skater)|Yang Tao]]|CHN|2022 Winter}}
+| 21
+| 29
+| 26
+| 11
+| 10
+| 13
+| 28
+| 34
+| 172
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Alex Boisvert-Lacroix]]|CAN|2022 Winter}}
+| 24
+| 21
+| 11
+| 15
+| 16
+| 16
+| 21
+| 36
+| 160
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Hein Otterspeer]]|NED|2022 Winter}}
+| 29
+| 34
+| 27
+| 26
+| 36
+| 0
+|
+|
+| 152
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Takuya Morimoto]]|JPN|2022 Winter}}
+| 17
+| 17
+| 15
+| 14
+| 24
+| 26
+| 12
+| 24
+| 149
+|
+|-
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Gilmore Junio]]|CAN|2022 Winter}}
+| 25
+| 23
+| 22
+| 16
+| 8
+| 12
+| 17
+| 25
+| 148
+|
+|-
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Bjørn Magnussen]]|NOR|2022 Winter}}
+|
+|
+| 28
+| 27
+| 15
+| 15
+| 15
+| 28
+| 128
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Pavel Kulizhnikov]]|ROC|2022 Winter}}
+| 21
+| 0
+| 1
+| 28
+| 22
+| 14
+| 16
+| 24
+| 126
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Joel Dufter]]|GER|2022 Winter}}
+| 7
+| 14
+| 13
+| 0
+| 11
+| 24
+| 26
+| 21
+| 116
+|
+|-
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Liu An (speed skater)|Liu An]]|CHN|2022 Winter}}
+| 16
+| 21
+| 25
+| 12
+| 14
+| 1
+| 11
+| 13
+| 113
+|
+|-
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Jeffrey Rosanelli]]|ITA|2022 Winter}}
+| 9
+| 16
+| 21
+| 23
+| 0
+| 10
+| 14
+| 15
+| 108
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Mirko Giacomo Nenzi]]|ITA|2022 Winter}}
+| 3
+| 9
+| 9
+| 21
+| 21
+| 7
+| 9
+| 7
+| 86
+|
+|}
+
+===Men's 1000m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_1000/standings|title= World Cup Standings ISU World Cup 1000m Men|date=12 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=12 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Thomas Krol]]|NED|2022 Winter}}
+| 54
+| 60
+| 60
+|
+| 174
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Kjeld Nuis]]|NED|2022 Winter}}
+| 48
+| 48
+| 54
+|
+| 150
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Håvard Holmefjord Lorentzen]]|NOR|2022 Winter}}
+| 31
+| 27
+| 43
+| 43
+| 144
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Hein Otterspeer]]|NED|2022 Winter}}
+| 60
+| 34
+| 48
+|
+| 142
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Ning Zhongyan]]|CHN|2022 Winter}}
+| 34
+| 43
+|
+| 60
+| 137
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Laurent Dubreuil]]|CAN|2022 Winter}}
+| 40
+| 29
+| 34
+| 34
+| 137
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Kai Verbij]]|NED|2022 Winter}}
+| 36
+| 54
+| 40
+|
+| 130
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Masaya Yamada]]|JPN|2022 Winter}}
+| 30
+| 40
+| 27
+| 23
+| 120
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Ignat Golovatsiuk]]|BLR|2022 Winter}}
+| 29
+| 28
+| 32
+| 31
+| 120
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Cha Min-kyu]]|KOR|2022 Winter}}
+| 28
+| 30
+| 25
+| 36
+| 119
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Cornelius Kersten]]|GBR|2022 Winter}}
+| 24
+| 32
+| 31
+| 32
+| 119
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Connor Howe]]|CAN|2022 Winter}}
+| 16
+| 28
+| 36
+| 38
+| 118
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Viktor Mushtakov]]|ROC|2022 Winter}}
+| 43
+| 25
+| 0
+| 48
+| 116
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Marten Liiv]]|EST|2022 Winter}}
+| 13
+| 24
+| 38
+| 40
+| 115
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Antoine Gélinas-Beaulieu]]|CAN|2022 Winter}}
+| 32
+| 26
+| 23
+| 29
+| 110
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Taiyo Nonomura]]|JPN|2022 Winter}}
+| 21
+| 31
+| 30
+| 28
+| 110
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Kim Min-seok (speed skater)|Kim Min-seok]]|KOR|2022 Winter}}
+| 26
+| 36
+| 26
+| 21
+| 109
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Ryota Kojima]]|JPN|2022 Winter}}
+| 38
+| 38
+| 0
+| 30
+| 106
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Vincent De Haître]]|CAN|2022 Winter}}
+| 27
+| 23
+| 24
+| 24
+| 98
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Merijn Scheperkamp]]|NED|2022 Winter}}
+| 28
+| 22
+| 29
+|
+| 79
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Allan Dahl Johansson]]|NOR|2022 Winter}}
+|
+| 21
+| 28
+| 27
+| 76
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Joel Dufter]]|GER|2022 Winter}}
+| 25
+| 9
+| 16
+| 26
+| 76
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Jordan Stolz]]|USA|2022 Winter}}
+|
+|
+| 21
+| 54
+| 75
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Pavel Kulizhnikov]]|ROC|2022 Winter}}
+|
+| 24
+| 28
+| 22
+| 74
+|
+|-
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Piotr Michalski]]|POL|2022 Winter}}
+| 15
+| 15
+| 10
+| 28
+| 68
+|
+|-
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Damian Żurek]]|POL|2022 Winter}}
+| 17
+| 17
+| 9
+| 25
+| 68
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Lian Ziwen]]|CHN|2022 Winter}}
+| 14
+| 12
+| 24
+|
+| 50
+|
+|-
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Mathias Vosté]]|BEL|2022 Winter}}
+|
+| 21
+| 13
+| 16
+| 50
+|
+|-
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[David Bosa]]|ITA|2022 Winter}}
+| 2
+| 8
+| 17
+| 13
+| 40
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Henrik Fagerli Rukke]]|NOR|2022 Winter}}
+| 12
+| 2
+| 14
+| 12
+| 40
+|
+|}
+
+===Men's 1500m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_1500/standings|title= World Cup Standings ISU World Cup 1500m Men|date=11 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=11 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Joey Mantia]]|USA|2022 Winter}}
+| 48
+| 54
+| 60
+| 60
+| 222
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ning Zhongyan]]|CHN|2022 Winter}}
+| 54
+| 60
+| 54
+| 0
+| 168
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Connor Howe]]|CAN|2022 Winter}}
+| 40
+| 28
+| 38
+| 54
+| 160
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Allan Dahl Johansson]]|NOR|2022 Winter}}
+| 31
+| 43
+| 34
+| 48
+| 156
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Seitaro Ichinohe]]|JPN|2022 Winter}}
+| 43
+| 31
+| 36
+| 38
+| 148
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Takuro Oda]]|JPN|2022 Winter}}
+| 36
+| 27
+| 40
+| 36
+| 139
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Kim Min-seok (speed skater)|Kim Min-seok]]|KOR|2022 Winter}}
+| 60
+| 48
+| 29
+|
+| 137
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Peder Kongshaug]]|NOR|2022 Winter}}
+| 34
+| 32
+| 32
+| 32
+| 130
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 28
+| 30
+| 31
+| 40
+| 129
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Taiyo Nonomura]]|JPN|2022 Winter}}
+| 24
+| 38
+| 27
+| 28
+| 117
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Thomas Krol]]|NED|2022 Winter}}
+| 25
+| 40
+| 48
+|
+| 113
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Kristian Ulekleiv]]|NOR|2022 Winter}}
+| 32
+| 29
+| 28
+| 23
+| 112
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Kazuya Yamada]]|JPN|2022 Winter}}
+| 28
+| 34
+| 24
+| 24
+| 110
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Kjeld Nuis]]|NED|2022 Winter}}
+| 38
+| 36
+| 30
+|
+| 104
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Emery Lehman]]|USA|2022 Winter}}
+| 13
+| 21
+| 25
+| 43
+| 102
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Daniil Aldoshkin]]|ROC|2022 Winter}}
+| 16
+| 28
+| 22
+| 34
+| 100
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Sergey Trofimov]]|ROC|2022 Winter}}
+| 27
+| 25
+| 16
+| 30
+| 98
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Tyson Langelaar]]|CAN|2022 Winter}}
+| 26
+| 22
+| 21
+| 26
+| 95
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Patrick Roest]]|NED|2022 Winter}}
+| 29
+| 26
+| 23
+|
+| 78
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Mathias Vosté]]|BEL|2022 Winter}}
+| 0
+| 15
+| 28
+| 31
+| 74
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Jan Blokhuijsen]]|NED|2022 Winter}}
+| 30
+| 23
+| 21
+|
+| 74
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Shane Williamson]]|JPN|2022 Winter}}
+| 21
+| 24
+| 17
+|
+| 62
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Hallgeir Engebråten]]|NOR|2022 Winter}}
+|
+| 21
+| 11
+| 28
+| 60
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Stefan Emele]]|GER|2022 Winter}}
+| 12
+| 16
+| 14
+| 17
+| 59
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Casey Dawson]]|USA|2022 Winter}}
+| 0
+| 5
+| 24
+| 29
+| 58
+|
+|-
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Cornelius Kersten]]|GBR|2022 Winter}}
+| 14
+| 17
+| 10
+| 15
+| 56
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Dmitry Morozov (speed skater)|Dmitry Morozov]]|KAZ|2022 Winter}}
+| 4
+| 24
+| 26
+| 0
+| 54
+|
+|-
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Daniil Beliaev]]|ROC|2022 Winter}}
+| 24
+| 9
+| 9
+| 6
+| 48
+|
+|-
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Antoine Gélinas-Beaulieu]]|CAN|2022 Winter}}
+| 22
+| 8
+| 4
+| 12
+| 46
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Wesly Dijs]]|NED|2022 Winter}}
+|
+|
+| 43
+|
+| 43
+|
+|}
+
+===Men's 5000m and 10000m===
+The qualification points ranking for the men's 5000m and 10000m are combined.
+The top 14 athletes, with a maximum of 3 per NOC, will earn a quota for their country in the 5000m. The top 8 athletes, with a maximum of 2 per NOC, will earn a quota for their country in the 10000m.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_5000/standings|title= World Cup Standings ISU World Cup Long Distances Men|date=10 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=10 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Nils van der Poel]]|SWE|2022 Winter}}
+| 60
+| 60
+| 60
+| 60
+| 240
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ted-Jan Bloemen]]|CAN|2022 Winter}}
+| 54
+| 48
+| 34
+| 48
+| 184
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Davide Ghiotto]]|ITA|2022 Winter}}
+| 36
+| 38
+| 48
+| 54
+| 176
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 40
+| 30
+| 43
+| 38
+| 151
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Ruslan Zakharov (born 1987)|Ruslan Zakharov]]|ROC|2022 Winter}}
+| 30
+| 36
+| 40
+| 43
+| 149
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Alexander Rumyantsev (speed skater)|Aleksandr Rumyantsev]]|ROC|2022 Winter}}
+| 38
+| 40
+| 26
+| 36
+| 140
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Jorrit Bergsma]]|NED|2022 Winter}}
+| 43
+| 54
+| 38
+|
+| 135
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Patrick Beckert]]|GER|2022 Winter}}
+| 31
+| 34
+| 36
+| 34
+| 135
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Patrick Roest]]|NED|2022 Winter}}
+| 48
+| 32
+| 54
+|
+| 134
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Seitaro Ichinohe]]|JPN|2022 Winter}}
+| 28
+| 29
+| 32
+| 32
+| 121
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Marwin Talsma]]|NED|2022 Winter}}
+| 34
+| 31
+| 29
+| 26
+| 120
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Andrea Giovannini]]|ITA|2022 Winter}}
+| 26
+| 23
+| 27
+| 31
+| 107
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Michele Malfatti]]|ITA|2022 Winter}}
+| 21
+| 29
+| 28
+| 29
+| 107
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Sergey Trofimov]]|ROC|2022 Winter}}
+| 32
+|
+| 32
+| 40
+| 104
+| {{Abbr|q|Qualified by points for the shorter event, ineligible for longer event due to per NOC limits}}
+|-
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Peter Michael (speed skater)|Peter Michael]]|NZL|2022 Winter}}
+| 27
+| 24
+| 25
+| 25
+| 101
+|
+|-
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Casey Dawson]]|USA|2022 Winter}}
+| 20
+| 21
+| 25
+| 30
+| 96
+|
+|-
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Ryosuke Tsuchiya]]|JPN|2022 Winter}}
+|
+| 36
+| 30
+| 27
+| 93
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Danila Semerikov]]|ROC|2022 Winter}}
+| 19
+| 25
+| 15
+| 25
+| 84
+|
+|-
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Yegor Yunin]]|ROC|2022 Winter}}
+| 10
+| 16
+| 28
+| 28
+| 82
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Marcel Bosker]]|NED|2022 Winter}}
+| 25
+| 22
+| 0
+| 32
+| 79
+|
+|}
+
+===Men's Mass Start===
+The top 24 athletes, with a maximum of 2 per NOC, will earn a quota for their country in the mass start. The next 8 athletes will be on the reserve list.
+Up to six additional starting positions for the mass start will be made available during the games, given in reserve order, with priority given to countries that do not yet have an entry. However, only skaters that already took part in another event will be eligible.
+
+'''After all 3 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_500/standings|title= World Cup Standings ISU World Cup Mass Start Men|date=11 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=11 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] SF
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] F
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] SF
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] F
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] SF
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] F
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 54
+| 76
+| 54
+| 120
+| 60
+| 108
+| 472
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ruslan Zakharov (born 1987)|Ruslan Zakharov]]|ROC|2022 Winter}}
+| 38
+| 108
+| 43
+| 96
+| 60
+| 80
+| 425
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Andrea Giovannini]]|ITA|2022 Winter}}
+| 48
+| 86
+| 34
+| 80
+| 54
+| 86
+| 388
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Chung Jae-won]]|KOR|2022 Winter}}
+| 54
+| 72
+| 48
+| 86
+| 40
+| 76
+| 376
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Lee Seung-hoon (speed skater)|Lee Seung-hoon]]|KOR|2022 Winter}}
+| 43
+| 0
+| 60
+| 60
+| 43
+| 60
+| 266
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Ian Quinn (speed skater)|Ian Quinn]]|USA|2022 Winter}}
+| 60
+| 64
+| 32
+|
+| 48
+| 58
+| 262
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Livio Wenger]]|SUI|2022 Winter}}
+| 48
+| 80
+| 54
+| 68
+|
+|
+| 250
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Joey Mantia]]|USA|2022 Winter}}
+| 60
+| 58
+| 60
+| 62
+|
+|
+| 240
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Antoine Gélinas-Beaulieu]]|CAN|2022 Winter}}
+| 32
+|
+| 40
+| 72
+| 25
+| 64
+| 233
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Kristian Ulekleiv]]|NOR|2022 Winter}}
+| 40
+| 62
+| 28
+|
+| 43
+| 56
+| 229
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Jorrit Bergsma]]|NED|2022 Winter}}
+| 43
+| 68
+| 40
+| 76
+|
+|
+| 227
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Stefan Due Schmidt]]|DEN|2022 Winter}}
+| 25
+|
+| 38
+| 64
+| 38
+| 62
+| 227
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Jordan Belchos]]|CAN|2022 Winter}}
+| 26
+|
+| 36
+| 56
+| 36
+| 68
+| 222
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Albertus Hoolwerf]]|NED|2022 Winter}}
+| 29
+|
+| 32
+|
+| 40
+| 120
+| 221
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Viktor Hald Thorup]]|DEN|2022 Winter}}
+| 31
+|
+| 48
+| 108
+| 28
+|
+| 215
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Odin By Farstad]]|NOR|2022 Winter}}
+| 23
+|
+| 43
+| 58
+| 38
+| 50
+| 212
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Masahito Obayashi]]|JPN|2022 Winter}}
+| 38
+| 120
+| 29
+|
+|
+|
+| 187
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Felix Rijhnen]]|GER|2022 Winter}}
+| 27
+|
+| 25
+|
+| 36
+| 96
+| 184
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Zbigniew Bródka]]|POL|2022 Winter}}
+| 36
+| 96
+| 22
+|
+| 18
+|
+| 172
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Artur Janicki]]|POL|2022 Winter}}
+| 28
+|
+| 30
+|
+| 34
+| 72
+| 164
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Danila Semerikov]]|ROC|2022 Winter}}
+| 32
+|
+| 38
+| 52
+| 29
+|
+| 151
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Dmitry Morozov (speed skater)|Dmitry Morozov]]|KAZ|2022 Winter}}
+| 34
+| 60
+| 26
+|
+| 30
+|
+| 150
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Gabriel Odor]]|AUT|2022 Winter}}
+| 23
+|
+| 34
+| 54
+| 31
+|
+| 142
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Yahor Damaratski]]|BLR|2022 Winter}}
+| 30
+|
+| 36
+| 50
+| 23
+|
+| 139
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Ning Zhongyan]]|CHN|2022 Winter}}
+|
+|
+|
+|
+| 54
+| 54
+| 108
+| {{Abbr|QH|Qualified as host}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Jordan Stolz]]|USA|2022 Winter}}
+|
+|
+|
+|
+| 48
+| 52
+| 100
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Tai Wei-lin]]|TPE|2022 Winter}}
+| 36
+| 0
+| 31
+|
+| 23
+|
+| 90
+| {{Abbr|R2|Second reserve}}
+|- bgcolor="#ffffcc"
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Timothy Loubineaud]]|FRA|2022 Winter}}
+| 30
+|
+| 30
+|
+| 30
+|
+| 90
+| {{Abbr|R3|Third reserve}}
+|- bgcolor="#ffffcc"
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Haralds Silovs]]|LAT|2022 Winter}}
+| 27
+|
+| 31
+|
+| 32
+|
+| 90
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Lukás Steklý]]|CZE|2022 Winter}}
+| 40
+| 0
+| 24
+|
+| 25
+|
+| 89
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Peter Michael (speed skater)|Peter Michael]]|NZL|2022 Winter}}
+| 29
+|
+| 27
+|
+| 28
+|
+| 84
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Kars Jansman]]|NED|2022 Winter}}
+|
+|
+|
+|
+| 34
+| 48
+| 82
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[German Tirado]]|COL|2022 Winter}}
+| 32
+|
+| 18
+|
+| 31
+|
+| 81
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Mathieu Belloir]]|FRA|2022 Winter}}
+| 28
+|
+| 26
+|
+| 27
+|
+| 81
+| {{Abbr|R8|Eighth reserve}}
+|-
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Diogo Marreiros]]|POR|2022 Winter}}
+| 25
+|
+| 28
+|
+| 27
+|
+| 80
+|
+|-
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Evgeniy Bolgov]]|BLR|2022 Winter}}
+| 34
+| 0
+| 20
+|
+| 21
+|
+| 75
+|
+|-
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Kierryn Hughes]]|NZL|2022 Winter}}
+| 24
+|
+| 25
+|
+| 22
+|
+| 71
+|
+|-
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Kahanbai Alemasi]]|CHN|2022 Winter}}
+| 22
+|
+| 29
+|
+| 19
+|
+| 70
+|
+|-
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Oliver Grob]]|SUI|2022 Winter}}
+| 21
+|
+| 19
+|
+| 24
+|
+| 64
+|
+|-
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Botond Bejczi]]|HUN|2022 Winter}}
+| 19
+|
+| 21
+|
+| 24
+|
+| 64
+|
+|}
+
+===Men's Team pursuit===
+The top six nations will earn a quota for the Team pursuit.
+
+'''After all 3 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_TP/standings|title= World Cup Standings ISU World Cup Team Men|date=12 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=12 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |ou
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOC|USA|2022 Winter}}
+| 72
+| 120
+| 120
+| 312
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOC|NOR|2022 Winter}}
+| 86
+| 108
+| 108
+| 302
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOC|CAN|2022 Winter}}
+| 108
+| 80
+| 96
+| 284
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOC|NED|2022 Winter}}
+| 120
+| 76
+| 72
+| 268
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOC|ITA|2022 Winter}}
+| 76
+| 96
+| 80
+| 252
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOC|CHN|2022 Winter}}
+| 80
+| 86
+| 76
+| 242
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |7
+| align="left" |{{flagIOC|NZL|2022 Winter}}
+| 72
+| 72
+| 68
+| 212
+|
+|-
+! style="text - align:center; " |8
+| align="left" |{{flagIOC|DEN|2022 Winter}}
+| 63
+| 63
+| 67
+| 193
+|
+|-
+! style="text - align:center; " |9
+| align="left" |{{flagIOC|POL|2022 Winter}}
+| 67
+| 58
+| 63
+| 188
+|
+|-
+! style="text - align:center; " |10
+| align="left" |{{flagIOC|KOR|2022 Winter}}
+| 58
+| 67
+| 54
+| 179
+|
+|-
+! style="text - align:center; " |11
+| align="left" |{{flagIOC|JPN|2022 Winter}}
+| 96
+| 0
+| 72
+| 168
+|
+|-
+! style="text - align:center; " |12
+| align="left" |{{flagIOC|GER|2022 Winter}}
+| 52
+| 56
+| 58
+| 166
+|
+|-
+! style="text - align:center; " |13
+| align="left" |{{flagIOC|ROC|2022 Winter}}
+| 0
+| 72
+| 86
+| 158
+|
+|-
+! style="text - align:center; " |14
+| align="left" |{{flagIOC|BLR|2022 Winter}}
+| 0
+| 54
+| 56
+| 110
+|
+|-
+! style="text - align:center; " |15
+| align="left" |{{flagIOC|KAZ|2022 Winter}}
+| 56
+|
+|
+| 56
+|
+|-
+! style="text - align:center; " |16
+| align="left" |{{flagIOC|SUI|2022 Winter}}
+| 54
+|
+|
+| 54
+|
+|}
+
+===Women's 500m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 8 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_500/standings|title= World Cup Standings ISU World Cup 500m Women|date=11 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=11 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] 1
+!{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] 2
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]] 1
+!{{flagicon|NOR}} [[Sørmarka Arena|SOR]] 2
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] 1
+!{{flagicon|USA}} [[Utah Olympic Oval|SLC]] 2
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] 1
+!{{flagicon|CAN}} [[Olympic Oval|CGY]] 2
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Erin Jackson]]|USA|2022 Winter}}
+| 60
+| 60
+| 60
+| 54
+| 60
+| 38
+| 40
+| 48
+| 420
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Angelina Golikova]]|ROC|2022 Winter}}
+| 43
+| 54
+| 43
+| 48
+| 54
+| 54
+| 48
+| 60
+| 404
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Nao Kodaira]]|JPN|2022 Winter}}
+| 54
+| 48
+| 54
+| 60
+| 38
+| 34
+| 54
+| 54
+| 396
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Olga Fatkulina]]|ROC|2022 Winter}}
+| 48
+| 32
+| 40
+| 40
+| 40
+| 48
+| 60
+|
+| 308
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Andzelika Wójcik]]|POL|2022 Winter}}
+| 28
+| 30
+| 32
+| 27
+| 43
+| 60
+| 43
+| 43
+| 306
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Kaja Ziomek]]|POL|2022 Winter}}
+| 40
+| 28
+| 48
+| 38
+| 25
+| 29
+| 32
+| 40
+| 280
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Tian Ruining]]|CHN|2022 Winter}}
+| 36
+| 40
+| 27
+| 30
+| 34
+| 36
+| 38
+| 38
+| 279
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 31
+| 38
+| 38
+| 36
+| 31
+| 40
+| 34
+|
+| 248
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Kim Min-sun (speed skater)|Kim Min-sun]]|KOR|2022 Winter}}
+| 25
+| 24
+| 28
+| 31
+| 30
+| 28
+| 36
+| 34
+| 236
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Hanna Nifantava]]|BLR|2022 Winter}}
+| 32
+| 43
+| 30
+| 24
+| 22
+| 27
+| 29
+| 27
+| 234
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Arisa Go]]|JPN|2022 Winter}}
+| 28
+| 36
+| 25
+| 22
+| 27
+| 30
+| 31
+| 32
+| 231
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Kimi Goetz]]|USA|2022 Winter}}
+| 24
+| 26
+| 28
+| 28
+| 34
+| 32
+| 25
+| 30
+| 227
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Femke Kok]]|NED|2022 Winter}}
+| 30
+| 34
+| 29
+| 32
+| 48
+| 43
+|
+|
+| 216
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Michelle de Jong]]|NED|2022 Winter}}
+| 12
+| 28
+| 26
+| 34
+| 28
+| 25
+| 30
+| 29
+| 212
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Dione Voskamp]]|NED|2022 Winter}}
+| 21
+| 27
+| 24
+| 23
+| 28
+| 26
+| 28
+| 28
+| 205
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Jutta Leerdam]]|NED|2022 Winter}}
+| 29
+| 29
+| 36
+| 43
+| 36
+| 21
+|
+|
+| 194
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Jin Jingzhu]]|CHN|2022 Winter}}
+| 38
+| 25
+| 31
+| 29
+| 26
+| 31
+|
+|
+| 180
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Maki Tsuji]]|JPN|2022 Winter}}
+| 26
+| 23
+| 21
+| 21
+| 15
+| 21
+| 27
+| 23
+| 177
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Brooklyn McDougall]]|CAN|2022 Winter}}
+| 24
+| 21
+| 13
+| 28
+| 23
+| 22
+| 21
+| 22
+| 174
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Kristina Silaeva]]|ROC|2022 Winter}}
+| 13
+| 21
+| 23
+| 14
+| 14
+| 24
+| 24
+| 36
+| 169
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Heather Mclean]]|CAN|2022 Winter}}
+| 27
+| 22
+| 24
+| 26
+| 10
+| 12
+| 15
+| 24
+| 160
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Marsha Hudey]]|CAN|2022 Winter}}
+| 22
+| 17
+| 21
+| 25
+| 24
+| 24
+| 23
+| 0
+| 156
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 34
+| 31
+| 34
+|
+|
+|
+| 24
+| 31
+| 154
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Marrit Fledderus]]|NED|2022 Winter}}
+| 17
+| 24
+| 22
+| 16
+| 13
+| 17
+| 16
+| 26
+| 151
+|
+|-
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 15
+| 16
+| 11
+| 0
+| 16
+| 28
+| 26
+| 28
+| 140
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Kako Yamane]]|JPN|2022 Winter}}
+| 21
+| 12
+| 15
+| 21
+| 24
+| 13
+|
+| 24
+| 130
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+| 11
+| 14
+| 14
+| 24
+| 21
+| 16
+| 12
+| 16
+| 128
+|
+|-
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Zhang Lina (speed skater)|Zhang Lina]]|CHN|2022 Winter}}
+| 16
+| 13
+| 9
+| 9
+| 21
+| 23
+| 17
+| 17
+| 125
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Kaylin Irvine]]|CAN|2022 Winter}}
+| 14
+| 15
+| 12
+| 15
+| 11
+| 11
+| 21
+| 25
+| 124
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Julie Nistad Samsonsen]]|NOR|2022 Winter}}
+| 7
+| 8
+| 8
+| 11
+| 13
+| 14
+| 10
+| 13
+| 84
+|
+|}
+
+===Women's 1000m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_1000/standings|title= World Cup Standings ISU World Cup 1000m Women|date=11 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=11 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 60
+| 60
+| 48
+| 54
+| 222
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Nao Kodaira]]|JPN|2022 Winter}}
+| 48
+| 48
+| 36
+| 60
+| 192
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 54
+| 54
+| 60
+|
+| 168
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Angelina Golikova]]|ROC|2022 Winter}}
+| 43
+| 25
+| 43
+| 43
+| 154
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 30
+| 38
+| 38
+| 36
+| 142
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 34
+| 36
+| 29
+| 40
+| 139
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Elizaveta Golubeva]]|ROC|2022 Winter}}
+| 32
+| 40
+| 28
+| 38
+| 138
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Jutta Leerdam]]|NED|2022 Winter}}
+| 40
+| 43
+| 54
+|
+| 137
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Kimi Goetz]]|USA|2022 Winter}}
+| 29
+| 34
+| 34
+| 34
+| 131
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 28
+| 28
+| 30
+| 32
+| 118
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Andzelika Wójcik]]|POL|2022 Winter}}
+| 27
+| 30
+| 26
+| 29
+| 112
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Olga Fatkulina]]|ROC|2022 Winter}}
+| 0
+| 31
+| 28
+| 48
+| 107
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Ireen Wüst]]|NED|2022 Winter}}
+| 38
+| 32
+| 32
+|
+| 102
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 28
+| 22
+| 24
+| 28
+| 102
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 24
+| 26
+| 23
+| 26
+| 99
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+| 15
+| 21
+| 31
+| 31
+| 98
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 21
+| 23
+| 22
+| 30
+| 96
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Femke Kok]]|NED|2022 Winter}}
+| 31
+| 24
+| 40
+|
+| 95
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Kim Hyun-yung]]|KOR|2022 Winter}}
+| 24
+| 29
+| 21
+| 21
+| 95
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Lotte van Beek]]|NED|2022 Winter}}
+|
+| 28
+| 27
+| 27
+| 82
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Jin Jingzhu]]|CHN|2022 Winter}}
+| 25
+| 27
+| 25
+|
+| 77
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Kim Min-sun (speed skater)|Kim Min-sun]]|KOR|2022 Winter}}
+| 17
+| 14
+| 17
+| 24
+| 72
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Yin Qi (speed skater)|Yin Qi]]|CHN|2022 Winter}}
+| 14
+| 13
+| 16
+| 28
+| 71
+|
+|-
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 26
+| 21
+|
+| 23
+| 70
+|
+|-
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 13
+| 16
+| 11
+| 24
+| 64
+|
+|-
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Rio Yamada]]|JPN|2022 Winter}}
+|
+| 15
+| 24
+| 22
+| 61
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Maddison Pearman]]|CAN|2022 Winter}}
+| 12
+| 11
+| 14
+| 12
+| 49
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Marrit Fledderus]]|NED|2022 Winter}}
+| 23
+| 6
+| 12
+| 6
+| 47
+|
+|-
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Kaja Ziomek]]|POL|2022 Winter}}
+|
+| 17
+| 6
+| 21
+| 44
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Kaylin Irvine]]|CAN|2022 Winter}}
+| 22
+| 3
+| 3
+| 13
+| 41
+|
+|}
+
+===Women's 1500m===
+The top 20 athletes, with a maximum of 3 per NOC, will earn a quota for their country.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_1500/standings|title= World Cup Standings ISU World Cup 1500m Women|date=12 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=12 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Ayano Sato (speed skater)|Ayano Sato]]|JPN|2022 Winter}}
+| 38
+| 48
+| 54
+| 48
+| 188
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 54
+| 36
+| 34
+| 60
+| 184
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 60
+| 60
+| 60
+|
+| 180
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Elizaveta Golubeva]]|ROC|2022 Winter}}
+| 31
+| 38
+| 40
+| 40
+| 149
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 40
+| 32
+| 36
+| 38
+| 146
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 29
+| 40
+| 30
+| 43
+| 142
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Ireen Wüst]]|NED|2022 Winter}}
+| 43
+| 54
+| 43
+|
+| 140
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 48
+| 31
+| 32
+| 29
+| 140
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 36
+| 43
+| 48
+|
+| 127
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 32
+| 30
+| 27
+| 36
+| 125
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 30
+| 27
+| 28
+| 34
+| 119
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Nana Takagi]]|JPN|2022 Winter}}
+|
+| 28
+| 31
+| 54
+| 113
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Isabelle Weidemann]]|CAN|2022 Winter}}
+| 28
+| 28
+| 26
+| 30
+| 112
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Misaki Oshigiri]]|JPN|2022 Winter}}
+| 27
+| 29
+| 29
+| 27
+| 112
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 34
+| 34
+| 38
+|
+| 106
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 21
+| 26
+| 24
+| 32
+| 103
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 28
+| 25
+| 24
+| 25
+| 102
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Elena Eranina]]|ROC|2022 Winter}}
+| 26
+| 24
+| 23
+| 23
+| 96
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 23
+| 12
+| 21
+| 31
+| 87
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 24
+| 22
+| 10
+| 26
+| 82
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Yin Qi (speed skater)|Yin Qi]]|CHN|2022 Winter}}
+| 16
+| 17
+| 17
+| 28
+| 78
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 25
+| 23
+| 8
+| 21
+| 77
+|
+|-
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 24
+| 21
+|
+| 22
+| 67
+|
+|-
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Maddison Pearman]]|CAN|2022 Winter}}
+| 15
+| 10
+| 14
+| 24
+| 63
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Jorien ter Mors]]|NED|2022 Winter}}
+| 17
+| 24
+| 22
+|
+| 63
+|
+|-
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Evgeniia Lalenkova]]|ROC|2022 Winter}}
+|
+|
+| 25
+| 28
+| 53
+|
+|-
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Alexa Scott]]|CAN|2022 Winter}}
+| 13
+| 15
+| 11
+| 11
+| 50
+|
+|-
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Mia Kilburg-Manganello]]|USA|2022 Winter}}
+| 14
+| 5
+| 12
+| 15
+| 46
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Marijke Groenewoud]]|NED|2022 Winter}}
+| 12
+| 14
+| 16
+|
+| 42
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Elena Sokhryakova]]|ROC|2022 Winter}}
+| 11
+| 9
+| 7
+| 12
+| 39
+|
+|}
+
+===Women's 3000m and 5000m===
+The qualification points ranking for the women's 3000m and 5000m are combined.
+The top 14 athletes, with a maximum of 3 per NOC, will earn a quota for their country in the 3000m. The top 8 athletes, with a maximum of 2 per NOC, will earn a quota for their country in the 5000m.
+
+'''After all 4 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_5000/standings|title= World Cup Standings ISU World Cup Long Distances Women|date=10 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=10 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|NOR}} [[Sørmarka Arena|SOR]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Isabelle Weidemann]]|CAN|2022 Winter}}
+| 54
+| 54
+| 43
+| 54
+| 205
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 43
+| 48
+| 48
+| 43
+| 182
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 60
+| 60
+| 60
+|
+| 180
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 48
+| 38
+| 34
+| 60
+| 180
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Martina Sáblíková]]|CZE|2022 Winter}}
+| 38
+| 43
+| 40
+| 48
+| 169
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Joy Beune]]|NED|2022 Winter}}
+| 40
+| 30
+| 36
+| 36
+| 142
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 34
+| 40
+| 38
+| 27
+| 139
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Natalya Voronina]]|ROC|2022 Winter}}
+| 32
+| 34
+| 32
+| 34
+| 132
+| {{Abbr|Q|Qualified by points for both events}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 29
+| 29
+| 31
+| 38
+| 127
+| {{Abbr|q|Qualified by points for the shorter event, ineligible for longer event due to per NOC limits}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 36
+| 36
+| 54
+|
+| 126
+| {{Abbr|q|Qualified by points for the shorter event, ineligible for longer event due to per NOC limits}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Marina Zueva]]|BLR|2022 Winter}}
+| 30
+| 31
+| 30
+| 32
+| 123
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Misaki Oshigiri]]|JPN|2022 Winter}}
+| 32
+| 32
+| 26
+| 31
+| 121
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#ccffff
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Ayano Sato (speed skater)|Ayano Sato]]|JPN|2022 Winter}}
+| 31
+| 29
+| 28
+| 30
+| 118
+| {{Abbr|q|Qualified by points for the shorter event}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Carlijn Achtereekte]]|NED|2022 Winter}}
+| 26
+| 36
+| 27
+| 28
+| 117
+|
+|- bgcolor=#ccffff
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 25
+| 24
+| 28
+| 29
+| 106
+| {{Abbr|q|Qualified by points for the shorter event}}
+|-
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 28
+| 21
+| 29
+| 25
+| 103
+|
+|-
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Sanne in 't Hof]]|NED|2022 Winter}}
+| 20
+| 32
+| 25
+| 21
+| 98
+|
+|-
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Evgeniia Lalenkova]]|ROC|2022 Winter}}
+| 27
+|
+| 25
+| 40
+| 92
+|
+|-
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 28
+| 19
+| 8
+| 28
+| 83
+|
+|-
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Claudia Pechstein]]|GER|2022 Winter}}
+| 25
+| 22
+| 12
+| 20
+| 79
+|
+|}
+
+===Women's Mass Start===
+The top 24 athletes, with a maximum of 2 per NOC, will earn a quota for their country in the mass start. The next 8 athletes will be on the reserve list.
+Up to six additional starting positions for the mass start will be made available during the games, given in reserve order, with priority given to countries that do not yet have an entry. However, only skaters that already took part if another event will be eligible.
+
+'''After all 3 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_MS/standings|title= World Cup Standings ISU World Cup Mass Start Women|date=12 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=12 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] SF
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]] F
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] SF
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]] F
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] SF
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]] F
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 54
+| 108
+| 54
+| 120
+| 48
+| 108
+| 492
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 48
+| 96
+| 54
+| 80
+| 60
+| 120
+| 458
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Guo Dan (speed skater)|Guo Dan]]|CHN|2022 Winter}}
+| 38
+| 72
+| 38
+| 76
+| 48
+| 86
+| 358
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Elizaveta Golubeva]]|ROC|2022 Winter}}
+| 54
+| 60
+| 48
+| 44
+| 54
+| 96
+| 356
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Mia Kilburg-Manganello]]|USA|2022 Winter}}
+| 40
+| 64
+| 48
+| 64
+| 43
+| 80
+| 339
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 60
+| 120
+| 60
+| 86
+|
+|
+| 326
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Marijke Groenewoud]]|NED|2022 Winter}}
+| 60
+| 86
+| 60
+| 108
+|
+|
+| 314
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Kim Bo-reum]]|KOR|2022 Winter}}
+| 43
+| 76
+| 43
+| 58
+| 40
+| 46
+| 306
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Park Ji-woo (speed skater)|Park Ji-woo]]|KOR|2022 Winter}}
+| 48
+| 58
+| 43
+| 52
+| 40
+| 56
+| 297
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 36
+| 56
+| 36
+| 56
+| 34
+| 72
+| 290
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Michelle Uhrig]]|GER|2022 Winter}}
+| 32
+|
+| 40
+| 68
+| 54
+| 68
+| 262
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Marina Zueva]]|BLR|2022 Winter}}
+| 34
+| 80
+| 34
+| 72
+| 30
+|
+| 250
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Rin Kosaka]]|JPN|2022 Winter}}
+| 34
+| 68
+| 25
+|
+| 34
+| 76
+| 237
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Sofie Karoline Haugen]]|NOR|2022 Winter}}
+| 28
+|
+| 23
+| 96
+| 38
+| 48
+| 233
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 38
+| 50
+| 32
+|
+| 60
+| 50
+| 230
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 43
+| 62
+| 0
+|
+| 43
+| 64
+| 212
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Claudia Pechstein]]|GER|2022 Winter}}
+| 26
+|
+| 36
+| 60
+| 30
+| 60
+| 212
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Dessie Weigel]]|USA|2022 Winter}}
+| 40
+| 52
+| 38
+| 50
+| 32
+|
+| 212
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 36
+| 54
+| 30
+| 54
+| 26
+|
+| 200
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Momoka Horikawa]]|JPN|2022 Winter}}
+| 32
+|
+| 40
+| 62
+| 32
+|
+| 166
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 31
+|
+| 29
+|
+| 36
+| 62
+| 158
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Sandrine Tas]]|BEL|2022 Winter}}
+| 31
+|
+| 34
+| 48
+| 29
+|
+| 142
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Laura Isabel Gomez Quintero]]|COL|2022 Winter}}
+| 27
+|
+| 24
+|
+| 28
+| 54
+| 133
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Nadja Wenger]]|SUI|2022 Winter}}
+| 29
+|
+| 25
+| 46
+| 0
+|
+| 100
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Evelien Vijn]]|NED|2022 Winter}}
+|
+|
+|
+|
+| 36
+| 58
+| 94
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Robin Groot]]|NED|2022 Winter}}
+|
+|
+|
+|
+| 38
+| 52
+| 90
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Gemma Cooper]]|GBR|2022 Winter}}
+| 27
+|
+| 31
+|
+| 28
+|
+| 86
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Elena Eranina]]|ROC|2022 Winter}}
+| 30
+|
+| 31
+|
+| 23
+|
+| 84
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Yauheniya Varabyova]]|BLR|2022 Winter}}
+| 25
+|
+| 28
+|
+| 31
+|
+| 84
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Natalia Jabrzyk]]|POL|2022 Winter}}
+| 30
+|
+| 24
+|
+| 29
+|
+| 83
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Marit Fjellanger Bøhm]]|NOR|2022 Winter}}
+| 28
+|
+| 29
+|
+| 25
+|
+| 82
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Zuzana Kursová]]|CZE|2022 Winter}}
+| 29
+|
+| 27
+|
+| 25
+|
+| 81
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Katharina Thien]]|AUT|2022 Winter}}
+| 24
+|
+| 26
+|
+| 27
+|
+| 77
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Zul Altan-Ochir]]|MGL|2022 Winter}}
+| 24
+|
+| 22
+|
+| 26
+|
+| 72
+| {{Abbr|R3|Third reserve}}
+|-
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Ramona Härdi]]|SUI|2022 Winter}}
+|
+|
+| 30
+|
+| 31
+|
+| 61
+|
+|-
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Noemi Bonazza]]|ITA|2022 Winter}}
+| 25
+|
+| 32
+|
+| 0
+|
+| 57
+|
+|-
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Natalie Kerschbaummayr]]|AUT|2022 Winter}}
+|
+|
+| 28
+|
+| 24
+|
+| 52
+|
+|-
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Ainoa Carreño]]|ESP|2022 Winter}}
+|
+|
+|
+|
+| 27
+|
+| 27
+|
+|-
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Ranya Ezzi]]|SWE|2022 Winter}}
+|
+|
+| 27
+|
+|
+|
+| 27
+|
+|-
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+|
+|
+| 26
+|
+|
+|
+| 26
+|
+|}
+
+===Women's Team pursuit===
+The top six nations will earn a quota for the Team pursuit.
+
+'''After all 3 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_F_TP/standings|title= World Cup Standings ISU World Cup Team pursuit Women|date=11 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=11 December 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Country
+! scope="col" |{{flagicon|POL}} [[Ice Arena Tomaszów Mazowiecki|TOM]]
+! scope="col" |{{flagicon|USA}} [[Utah Olympic Oval|SLC]]
+! scope="col" |{{flagicon|CAN}} [[Olympic Oval|CGY]]
+! style="width:45px;" |Points
+! style="width:45px;" |Note
+|- bgcolor=#ccffcc
+! style="text - align:center; " |1
+| align="left" |{{flagIOC|CAN|2022 Winter}}
+| 120
+| 120
+| 120
+| 360
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOC|JPN|2022 Winter}}
+| 108
+| 68
+| 108
+| 284
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |3
+| align="left" |{{flagIOC|NED|2022 Winter}}
+| 96
+| 108
+| 76
+| 280
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOC|ROC|2022 Winter}}
+| 80
+| 96
+| 86
+| 262
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOC|NOR|2022 Winter}}
+| 76
+| 86
+| 80
+| 242
+| {{Abbr|Q|Qualified by points}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |6
+| align="left" |{{flagIOC|POL|2022 Winter}}
+| 86
+| 80
+| 72
+| 238
+| {{Abbr|Q|Qualified by points}}
+|-
+! style="text - align:center; " |7
+| align="left" |{{flagIOC|BLR|2022 Winter}}
+| 72
+| 76
+| 68
+| 216
+|
+|-
+! style="text - align:center; " |8
+| align="left" |{{flagIOC|USA|2022 Winter}}
+| 72
+| 72
+| 63
+| 207
+|
+|-
+! style="text - align:center; " |9
+| align="left" |{{flagIOC|GER|2022 Winter}}
+| 63
+| 67
+| 72
+| 202
+|
+|-
+! style="text - align:center; " |10
+| align="left" |{{flagIOC|SUI|2022 Winter}}
+| 67
+| 63
+| 67
+| 197
+|
+|-
+! style="text - align:center; " |11
+| align="left" |{{flagIOC|CHN|2022 Winter}}
+| 0
+| 72
+| 96
+| 168
+|
+|}
+
+==Time Ranking==
+===Men's 500m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list.  Three quotas from the reserve list were available, green shading indicates acceptance.
+
+'''After all 8 races'''<ref name="times">{{cite web|date=5 December 2021|title=Provisional Special Olympic Qualification Classification for allocation of Quota places for Olympic Winter Games 2022|url=https://www.isu.org/docman-documents-links-2/2022-beijing/internal-documentation-1/26593-final-special-olympic-qualification-classification-for-allocation-of-quota-places/file|access-date=5 December 2021|website=www.isu.org/|publisher=[[International Skating Union]]}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Laurent Dubreuil]]|CAN|2022 Winter}}
+| 33.778
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Gao Tingyu]]|CHN|2022 Winter}}
+| 33.876
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Yuma Murakami]]|JPN|2022 Winter}}
+| 33.898
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Viktor Mushtakov]]|ROC|2022 Winter}}
+| 33.903
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Wataru Morishige]]|JPN|2022 Winter}}
+| 33.997
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Artem Arefyev (speed skater)|Artem Arefyev]]|ROC|2022 Winter}}
+| 34.003
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Yamato Matsui]]|JPN|2022 Winter}}
+| 34.048
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Ruslan Murashov]]|ROC|2022 Winter}}
+| 34.088
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Jordan Stolz]]|USA|2022 Winter}}
+| 34.110
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Ignat Golovatsiuk]]|BLR|2022 Winter}}
+| 34.123
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Kim Jun-ho (speed skater)|Kim Joon-ho]]|KOR|2022 Winter}}
+| 34.188
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Piotr Michalski]]|POL|2022 Winter}}
+| 34.189
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Tatsuya Shinhama]]|JPN|2022 Winter}}
+| 34.192
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Alex Boisvert-Lacroix]]|CAN|2022 Winter}}
+| 34.203
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Yang Tao (speed skater)|Yang Tao]]|CHN|2022 Winter}}
+| 34.234
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Damian Żurek]]|POL|2022 Winter}}
+| 34.295
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Håvard Holmefjord Lorentzen]]|NOR|2022 Winter}}
+| 34.296
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Kai Verbij]]|NED|2022 Winter}}
+| 34.311
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Joel Dufter]]|GER|2022 Winter}}
+| 34.320
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Cha Min-kyu]]|KOR|2022 Winter}}
+| 34.335
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Dai Dai Ntab|Dai Dai N'tab]]|NED|2022 Winter}}
+| 34.349
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Hein Otterspeer]]|NED|2022 Winter}}
+| 34.360
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Bjørn Magnussen]]|NOR|2022 Winter}}
+| 34.368
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Pavel Kulizhnikov]]|ROC|2022 Winter}}
+| 34.404
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Takuya Morimoto]]|JPN|2022 Winter}}
+| 34.428
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Marten Liiv]]|EST|2022 Winter}}
+| 34.439
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[David Bosa]]|ITA|2022 Winter}}
+| 34.459
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Marek Kania]]|POL|2022 Winter}}
+| 34.463
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Henrik Fagerli Rukke]]|NOR|2022 Winter}}
+| 34.479
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Merijn Scheperkamp]]|NED|2022 Winter}}
+| 34.483
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Gilmore Junio]]|CAN|2022 Winter}}
+| 34.502
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Liu An (speed skater)|Liu An]]|CHN|2022 Winter}}
+| 34.511
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Jeffrey Rosanelli]]|ITA|2022 Winter}}
+| 34.542
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Austin Kleba]]|USA|2022 Winter}}
+| 34.569
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Artur Nogal]]|POL|2022 Winter}}
+| 34.605
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Kim Tae-yun (speed skater)|Kim Tae-yun]]|KOR|2022 Winter}}
+| 34.652
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Cooper McLeod]]|USA|2022 Winter}}
+| 34.662
+|{{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Mirko Giacomo Nenzi]]|ITA|2022 Winter}}
+| 34.713
+|{{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Hendrik Dombek]]|GER|2022 Winter}}
+| 34.765
+| {{Abbr|R9|Ninth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Ronald Mulder]]|NED|2022 Winter}}
+| 34.795
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Cornelius Kersten]]|GBR|2022 Winter}}
+| 34.826
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Roman Krech]]|KAZ|2022 Winter}}
+| 34.844
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Nico Ihle]]|GER|2022 Winter}}
+| 34.845
+|{{Abbr|R10|Tenth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Jeong Seon Kyo]]|KOR|2022 Winter}}
+| 34.858
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Yevgeniy Koshkin]]|KAZ|2022 Winter}}
+| 34.868
+| {{Abbr|R11|Eleventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Zach Stoppelmoor]]|USA|2022 Winter}}
+| 34.883
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Ivan Arzhanikov]]|KAZ|2022 Winter}}
+| 34.901
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Tijmen Snel]]|NED|2022 Winter}}
+| 34.936
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Xu Yutong]]|CHN|2022 Winter}}
+| 34.959
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Nil Llop]]|ESP|2022 Winter}}
+| 34.972
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Victor Lobas]]|ROC|2022 Winter}}
+| 35.003
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Alexandr Klenko]]|KAZ|2022 Winter}}
+| 35.054
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Serge Yoro]]|NED|2022 Winter}}
+| 35.060
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Moritz Klein]]|GER|2022 Winter}}
+| 35.106
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Cedrick Brunet]]|CAN|2022 Winter}}
+| 35.109
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Lennart Velema]]|NED|2022 Winter}}
+| 35.115
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Jacob Graham]]|CAN|2022 Winter}}
+| 35.116
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Christian Oberbichler]]|SUI|2022 Winter}}
+| 35.120
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Stefan Westenbroek]]|NED|2022 Winter}}
+| 35.128
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Stefan Neumiarzhytski]]|BLR|2022 Winter}}
+| 35.151
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |61
+| align="left" |{{flagIOCathlete|[[Pål Myhren Kristensen]]|NOR|2022 Winter}}
+| 35.170
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |62
+| align="left" |{{flagIOCathlete|[[Sung Ching-yang]]|TPE|2022 Winter}}
+| 35.278
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |63
+| align="left" |{{flagIOCathlete|[[Kimani Griffin]]|USA|2022 Winter}}
+| 35.281
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |64
+| align="left" |{{flagIOCathlete|[[Artiom Chaban]]|BLR|2022 Winter}}
+| 35.334
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |65
+| align="left" |{{flagIOCathlete|[[Janno Botman]]|NED|2022 Winter}}
+| 35.441
+|
+|}
+
+===Men's 1000m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Three quotas from the reserve list were available, green shading indicates acceptance.
+
+'''After all 4 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Thomas Krol]]|NED|2022 Winter}}
+| 1:06.448
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ning Zhongyan]]|CHN|2022 Winter}}
+| 1:06.656
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Kjeld Nuis]]|NED|2022 Winter}}
+| 1:06.867
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Hein Otterspeer]]|NED|2022 Winter}}
+| 1:06.959
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Jordan Stolz]]|USA|2022 Winter}}
+| 1:06.968
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Viktor Mushtakov]]|ROC|2022 Winter}}
+| 1:06.988
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Pavel Kulizhnikov]]|ROC|2022 Winter}}
+| 1:07.005
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Håvard Holmefjord Lorentzen]]|NOR|2022 Winter}}
+| 1:07.007
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Lian Ziwen]]|CHN|2022 Winter}}
+| 1:07.021
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Kai Verbij]]|NED|2022 Winter}}
+| 1:07.037
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Marten Liiv]]|EST|2022 Winter}}
+| 1:07.103
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Piotr Michalski]]|POL|2022 Winter}}
+| 1:07.135
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Connor Howe]]|CAN|2022 Winter}}
+| 1:07.194
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Laurent Dubreuil]]|CAN|2022 Winter}}
+| 1:07.305
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Cha Min-kyu]]|KOR|2022 Winter}}
+| 1:07.322
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Cornelius Kersten]]|GBR|2022 Winter}}
+| 1:07.338
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Ignat Golovatsiuk]]|BLR|2022 Winter}}
+| 1:07.374
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[David Bosa]]|ITA|2022 Winter}}
+| 1:07.408
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Joel Dufter]]|GER|2022 Winter}}
+| 1:07.432
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Ryota Kojima]]|JPN|2022 Winter}}
+| 1:07.438
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Taiyo Nonomura]]|JPN|2022 Winter}}
+| 1:07.461
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Merijn Scheperkamp]]|NED|2022 Winter}}
+| 1:07.463
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Moritz Klein]]|GER|2022 Winter}}
+| 1:07.531
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Joey Mantia]]|USA|2022 Winter}}
+| 1:07.551
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Henrik Fagerli Rukke]]|NOR|2022 Winter}}
+| 1:07.630
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Denis Kuzin]]|KAZ|2022 Winter}}
+| 1:07.659
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Antoine Gélinas-Beaulieu]]|CAN|2022 Winter}}
+| 1:07.696
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Nico Ihle]]|GER|2022 Winter}}
+| 1:07.746
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Mathias Vosté]]|BEL|2022 Winter}}
+| 1:07.753
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Ivan Arzhanikov]]|KAZ|2022 Winter}}
+| 1:07.820
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Allan Dahl Johansson]]|NOR|2022 Winter}}
+| 1:07.992
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Masaya Yamada]]|JPN|2022 Winter}}
+| 1:07.993
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Lennart Velema]]|NED|2022 Winter}}
+| 1:08.025
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Damian Żurek]]|POL|2022 Winter}}
+| 1:08.073
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Bjørn Magnussen]]|NOR|2022 Winter}}
+| 1:08.175
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Tijmen Snel]]|NED|2022 Winter}}
+| 1:08.182
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Kim Min-seok (speed skater)|Kim Min-seok]]|KOR|2022 Winter}}
+| 1:08.187
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Hendrik Dombek]]|GER|2022 Winter}}
+| 1:08.197
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Vincent De Haître]]|CAN|2022 Winter}}
+| 1:08.212
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Austin Kleba]]|USA|2022 Winter}}
+| 1:08.275
+|{{Abbr|R6|Sixth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Marek Kania]]|POL|2022 Winter}}
+| 1:08.285
+|{{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Kazuya Yamada]]|JPN|2022 Winter}}
+| 1:08.337
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Cooper McLeod]]|USA|2022 Winter}}
+| 1:08.386
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Alexandr Klenko]]|KAZ|2022 Winter}}
+| 1:08.403
+|{{Abbr|R8|Eighth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Serge Yoro]]|NED|2022 Winter}}
+| 1:08.436
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Jeong Seon Kyo]]|KOR|2022 Winter}}
+| 1:08.489
+|{{Abbr|R9|Ninth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Victor Lobas]]|ROC|2022 Winter}}
+| 1:08.502
+|{{Abbr|R10|Tenth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Kimani Griffin]]|USA|2022 Winter}}
+| 1:08.507
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Tyson Langelaar]]|CAN|2022 Winter}}
+| 1:08.508
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Daniil Beliaev]]|ROC|2022 Winter}}
+| 1:08.572
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Ruslan Murashov]]|ROC|2022 Winter}}
+| 1:08.614
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Mamoru Takada]]|JPN|2022 Winter}}
+| 1:08.620
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Dmitry Morozov (speed skater)|Dmitry Morozov]]|KAZ|2022 Winter}}
+| 1:08.657
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Tai Wei-lin]]|TPE|2022 Winter}}
+| 1:08.658
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Louis Hollaar]]|NED|2022 Winter}}
+| 1:08.666
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Wang Haotian]]|CHN|2022 Winter}}
+| 1:08.673
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Nil Llop]]|ESP|2022 Winter}}
+| 1:08.869
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Victor Rudenko]]|BLR|2022 Winter}}
+| 1:08.900
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Odin By Farstad]]|NOR|2022 Winter}}
+| 1:08.910
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Kim Tae-yun (speed skater)|Kim Tae-yun]]|KOR|2022 Winter}}
+| 1:08.946
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |61
+| align="left" |{{flagIOCathlete|[[Mirko Giacomo Nenzi]]|ITA|2022 Winter}}
+| 1:09.000
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |62
+| align="left" |{{flagIOCathlete|[[Konrád Nagy]]|HUN|2022 Winter}}
+| 1:09.017
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |63
+| align="left" |{{flagIOCathlete|[[Jeffrey Rosanelli]]|ITA|2022 Winter}}
+| 1:09.437
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |64
+| align="left" |{{flagIOCathlete|[[Artem Arefyev (speed skater)|Artem Arefyev]]|ROC|2022 Winter}}
+| 1:09.625
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |65
+| align="left" |{{flagIOCathlete|[[Diego Amaya]]|COL|2022 Winter}}
+| 1:09.628
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |66
+| align="left" |{{flagIOCathlete|[[Samuli Suomalainen]]|FIN|2022 Winter}}
+| 1:09.677
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |67
+| align="left" |{{flagIOCathlete|[[Ronald Mulder]]|NED|2022 Winter}}
+| 1:10.059
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |68
+| align="left" |{{flagIOCathlete|[[Christian Oberbichler]]|SUI|2022 Winter}}
+| 1:10.176
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |69
+| align="left" |{{flagIOCathlete|[[Stefan Neumiarzhytski]]|BLR|2022 Winter}}
+| 1:10.240
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |70
+| align="left" |{{flagIOCathlete|[[Ignaz Gschwentner]]|AUT|2022 Winter}}
+| 1:10.296
+|
+|}
+
+===Men's 1500m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Seven quotas from the reserve list were available, green shading indicates acceptance, quotas achieved from points by Germany and Japan were refused.
+
+'''After all 4 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Joey Mantia]]|USA|2022 Winter}}
+| 1:41.154
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ning Zhongyan]]|CHN|2022 Winter}}
+| 1:41.386
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Thomas Krol]]|NED|2022 Winter}}
+| 1:41.892
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Wesly Dijs]]|NED|2022 Winter}}
+| 1:42.382
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Connor Howe]]|CAN|2022 Winter}}
+| 1:42.425
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Takuro Oda]]|JPN|2022 Winter}}
+| 1:42.445
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Seitaro Ichinohe]]|JPN|2022 Winter}}
+| 1:42.594
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Allan Dahl Johansson]]|NOR|2022 Winter}}
+| 1:42.619
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Peder Kongshaug]]|NOR|2022 Winter}}
+| 1:42.880
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 1:42.936
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Kjeld Nuis]]|NED|2022 Winter}}
+| 1:43.043
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Kim Min-seok (speed skater)|Kim Min-seok]]|KOR|2022 Winter}}
+| 1:43.050
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Mathias Vosté]]|BEL|2022 Winter}}
+| 1:43.247
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Emery Lehman]]|USA|2022 Winter}}
+| 1:43.410
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Kristian Ulekleiv]]|NOR|2022 Winter}}
+| 1:43.435
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Casey Dawson]]|USA|2022 Winter}}
+| 1:43.493
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Taiyo Nonomura]]|JPN|2022 Winter}}
+| 1:43.631
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Daniil Aldoshkin]]|ROC|2022 Winter}}
+| 1:43.662
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Tyson Langelaar]]|CAN|2022 Winter}}
+| 1:43.697
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Hallgeir Engebråten]]|NOR|2022 Winter}}
+| 1:43.715
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Dmitry Morozov (speed skater)|Dmitry Morozov]]|KAZ|2022 Winter}}
+| 1:43.729
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Riku Tsuchiya]]|JPN|2022 Winter}}
+| 1:43.746
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Wang Haotian]]|CHN|2022 Winter}}
+| 1:43.820
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Stefan Emele]]|GER|2022 Winter}}
+| 1:43.915
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Shane Williamson]]|JPN|2022 Winter}}
+| 1:43.940
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Sergey Trofimov]]|ROC|2022 Winter}}
+| 1:44.037
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Kazuya Yamada]]|JPN|2022 Winter}}
+| 1:44.061
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Patrick Roest]]|NED|2022 Winter}}
+| 1:44.199
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Yegor Yunin]]|ROC|2022 Winter}}
+| 1:44.205
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Cornelius Kersten]]|GBR|2022 Winter}}
+| 1:44.295
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Lian Ziwen]]|CHN|2022 Winter}}
+| 1:44.343
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Moritz Klein]]|GER|2022 Winter}}
+| 1:44.510
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Marcel Bosker]]|NED|2022 Winter}}
+| 1:44.830
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Daniil Beliaev]]|ROC|2022 Winter}}
+| 1:44.967
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Alessio Trentini]]|ITA|2022 Winter}}
+| 1:44.998
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Peter Michael (speed skater)|Peter Michael]]|NZL|2022 Winter}}
+| 1:45.031
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Odin By Farstad]]|NOR|2022 Winter}}
+| 1:45.118
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Vincent De Haître]]|CAN|2022 Winter}}
+| 1:45.176
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Antoine Gélinas-Beaulieu]]|CAN|2022 Winter}}
+| 1:45.275
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Haralds Silovs]]|LAT|2022 Winter}}
+| 1:45.344
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Park Seong-hyeon (speed skater)|Park Seong-hyeon]]|KOR|2022 Winter}}
+| 1:45.348
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Jan Blokhuijsen]]|NED|2022 Winter}}
+| 1:45.373
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Andrea Giovannini]]|ITA|2022 Winter}}
+| 1:45.401
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Denis Kuzin]]|KAZ|2022 Winter}}
+| 1:45.501
+| {{Abbr|R9|Ninth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Ethan Cepuran]]|USA|2022 Winter}}
+| 1:45.567
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Jakub Piotrowski]]|POL|2022 Winter}}
+| 1:45.570
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Zbigniew Bródka]]|POL|2022 Winter}}
+| 1:45.592
+| {{Abbr|R10|Tenth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Vitaliy Chshigolev]]|KAZ|2022 Winter}}
+| 1:45.630
+|{{Abbr|R11|Eleventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Marcin Bachanek]]|POL|2022 Winter}}
+| 1:45.715
+|{{Abbr|R12|Twelfth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Louis Hollaar]]|NED|2022 Winter}}
+| 1:45.763
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Sander Eitrem]]|NOR|2022 Winter}}
+| 1:45.822
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Kim Cheol-min]]|KOR|2022 Winter}}
+| 1:45.939
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Marten Liiv]]|EST|2022 Winter}}
+| 1:46.117
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Tijmen Snel]]|NED|2022 Winter}}
+| 1:46.163
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Ivan Arzhanikov]]|KAZ|2022 Winter}}
+| 1:46.178
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Conor McDermott-Mostowy]]|USA|2022 Winter}}
+| 1:46.208
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Demyan Gavrilov]]|KAZ|2022 Winter}}
+| 1:46.400
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Tai Wei-lin]]|TPE|2022 Winter}}
+| 1:46.491
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Michele Malfatti]]|ITA|2022 Winter}}
+| 1:46.546
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Davide Ghiotto]]|ITA|2022 Winter}}
+| 1:46.642
+|
+|}
+
+===Men's 5000m===
+The top 6 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. One quota from the reserve list was available, green shading indicates acceptance
+
+'''After all 3 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Nils van der Poel]]|SWE|2022 Winter}}
+| 6:01.566
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Patrick Roest]]|NED|2022 Winter}}
+| 6:04.415
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Davide Ghiotto]]|ITA|2022 Winter}}
+| 6:07.271
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Sergey Trofimov]]|ROC|2022 Winter}}
+| 6:08.648
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 6:08.765
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Ted-Jan Bloemen]]|CAN|2022 Winter}}
+| 6:09.521
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Ruslan Zakharov (born 1987)|Ruslan Zakharov]]|ROC|2022 Winter}}
+| 6:09.828
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Jorrit Bergsma]]|NED|2022 Winter}}
+| 6:09.946
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Yegor Yunin]]|ROC|2022 Winter}}
+| 6:10.569
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Marcel Bosker]]|NED|2022 Winter}}
+| 6:10.626
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Casey Dawson]]|USA|2022 Winter}}
+| 6:10.803
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Patrick Beckert]]|GER|2022 Winter}}
+| 6:12.056
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Felix Rijhnen]]|GER|2022 Winter}}
+| 6:12.111
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Livio Wenger]]|SUI|2022 Winter}}
+| 6:12.132
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Ethan Cepuran]]|USA|2022 Winter}}
+| 6:12.378
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Alexander Rumyantsev (speed skater)|Aleksandr Rumyantsev]]|ROC|2022 Winter}}
+| 6:12.430
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Danila Semerikov]]|ROC|2022 Winter}}
+| 6:12.809
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Sander Eitrem]]|NOR|2022 Winter}}
+| 6:12.876
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Emery Lehman]]|USA|2022 Winter}}
+| 6:13.198
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Seitaro Ichinohe]]|JPN|2022 Winter}}
+| 6:13.427
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Andrea Giovannini]]|ITA|2022 Winter}}
+| 6:13.689
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Riku Tsuchiya]]|JPN|2022 Winter}}
+| 6:14.011
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Sverre Lunde Pedersen]]|NOR|2022 Winter}}
+| 6:14.320
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Michele Malfatti]]|ITA|2022 Winter}}
+| 6:15.065
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Hallgeir Engebråten]]|NOR|2022 Winter}}
+| 6:15.130
+|{{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Kars Jansman]]|NED|2022 Winter}}
+| 6:15.560
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Ryosuke Tsuchiya]]|JPN|2022 Winter}}
+| 6:15.584
+|{{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Jordan Belchos]]|CAN|2022 Winter}}
+| 6:15.813
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Marwin Talsma]]|NED|2022 Winter}}
+| 6:15.849
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Shane Williamson]]|JPN|2022 Winter}}
+| 6:17.151
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Felix Maly]]|GER|2022 Winter}}
+| 6:17.308
+|{{Abbr|R9|Ninth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Masahito Obayashi]]|JPN|2022 Winter}}
+| 6:17.459
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Peder Kongshaug]]|NOR|2022 Winter}}
+| 6:17.505
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Viktor Hald Thorup]]|DEN|2022 Winter}}
+| 6:17.687
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Timothy Loubineaud]]|FRA|2022 Winter}}
+| 6:18.915
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Dmitry Morozov (speed skater)|Dmitry Morozov]]|KAZ|2022 Winter}}
+| 6:19.262
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Peter Michael (speed skater)|Peter Michael]]|NZL|2022 Winter}}
+| 6:19.526
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Lee Seung-hoon (speed skater)|Lee Seung-hoon]]|KOR|2022 Winter}}
+| 6:20.336
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Chung Jae-won]]|KOR|2022 Winter}}
+| 6:21.474
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Muhamaiti Hanahati]]|CHN|2022 Winter}}
+| 6:22.132
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Kaleb Muller]]|CAN|2022 Winter}}
+| 6:23.932
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Nicola Tumolero]]|ITA|2022 Winter}}
+| 6:24.686
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Daniel Niero]]|ITA|2022 Winter}}
+| 6:25.211
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Vitaliy Chshigolev]]|KAZ|2022 Winter}}
+| 6:25.867
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Stefan Due Schmidt]]|DEN|2022 Winter}}
+| 6:26.496
+|
+|}
+
+===Men's 10000m===
+The top 4 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes will form the reserve list.
+
+'''After the only race has been held'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Nils van der Poel]]|SWE|2022 Winter}}
+| 12:38.928
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Jorrit Bergsma]]|NED|2022 Winter}}
+| 12:56.088
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Ted-Jan Bloemen]]|CAN|2022 Winter}}
+| 13:00.230
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Ryosuke Tsuchiya]]|JPN|2022 Winter}}
+| 13:03.652
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Graeme Fish]]|CAN|2022 Winter}}
+| 13:07.739
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Alexander Rumyantsev (speed skater)|Aleksandr Rumyantsev]]|ROC|2022 Winter}}
+| 13:09.835
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Kars Jansman]]|NED|2022 Winter}}
+| 13:10.074
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Davide Ghiotto]]|ITA|2022 Winter}}
+| 13:10.252
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Michele Malfatti]]|ITA|2022 Winter}}
+| 13:12.324
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Ruslan Zakharov (born 1987)|Ruslan Zakharov]]|ROC|2022 Winter}}
+| 13:12.892
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Patrick Beckert]]|GER|2022 Winter}}
+| 13:13.267
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Danila Semerikov]]|ROC|2022 Winter}}
+| 13:14.910
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Patrick Roest]]|NED|2022 Winter}}
+| 13:15.085
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Peter Michael (speed skater)|Peter Michael]]|NZL|2022 Winter}}
+| 13:15.293
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Marwin Talsma]]|NED|2022 Winter}}
+| 13:15.837
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Bart Swings]]|BEL|2022 Winter}}
+| 13:18.039
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Andrea Giovannini]]|ITA|2022 Winter}}
+| 13:18.283
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Marcel Bosker]]|NED|2022 Winter}}
+| 13:18.443
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Casey Dawson]]|USA|2022 Winter}}
+| 13:19.507
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Riku Tsuchiya]]|JPN|2022 Winter}}
+| 13:20.286
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Jordan Belchos]]|CAN|2022 Winter}}
+| 13:20.564
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Felix Rijhnen]]|GER|2022 Winter}}
+| 13:21.074
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Seitaro Ichinohe]]|JPN|2022 Winter}}
+| 13:24.182
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Daniil Aldoshkin]]|ROC|2022 Winter}}
+| 13:27.630
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Yegor Yunin]]|ROC|2022 Winter}}
+| 13:28.031
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Timothy Loubineaud]]|FRA|2022 Winter}}
+| 13:29.606
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Shane Williamson]]|JPN|2022 Winter}}
+| 13:31.922
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Nicola Tumolero]]|ITA|2022 Winter}}
+| 13:32.111
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Ethan Cepuran]]|USA|2022 Winter}}
+| 13:32.689
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Fridtjof Petzold]]|GER|2022 Winter}}
+| 13:34.745
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Sverre Lunde Pedersen]]|NOR|2022 Winter}}
+| 13:35.217
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Felix Maly]]|GER|2022 Winter}}
+| 13:36.283
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Sigurd Henriksen]]|NOR|2022 Winter}}
+| 13:36.496
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Shen Hanyang]]|CHN|2022 Winter}}
+| 13:37.152
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Takahiro Ito (speed skater)|Takahiro Ito]]|JPN|2022 Winter}}
+| 13:38.410
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Lee Seung-hoon (speed skater)|Lee Seung-hoon]]|KOR|2022 Winter}}
+| 13:40.453
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Hallgeir Engebråten]]|NOR|2022 Winter}}
+| 13:41.065
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Chung Jae-won]]|KOR|2022 Winter}}
+| 13:42.238
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Szymon Palka]]|POL|2022 Winter}}
+| 13:46.397
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Yahor Damaratski]]|BLR|2022 Winter}}
+| 13:53.289
+|
+|}
+
+===Men's Team pursuit===
+The top 2 nations not qualified through the point ranking will earn a quota.
+The top 3 unqualified nations will form the reserve list.
+
+'''After all 3 races'''<ref>{{cite web|url=https://live.isuresults.eu/worldcup/WC_2022_M_TP/standings|title= World Cup Standings ISU World Cup Team pursuit Men|date=15 November 2021|website=www.isu.org/|publisher=[[International Skating Union]]|access-date=15 November 2021}}</ref>
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Country
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOC|USA|2022 Winter}}
+| 3:34.473
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |2
+| align="left" |{{flagIOC|ROC|2022 Winter}}
+| 3:35.904
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOC|NOR|2022 Winter}}
+| 3:36.242
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOC|ITA|2022 Winter}}
+| 3:37.989
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOC|CAN|2022 Winter}}
+| 3:38.604
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOC|CHN|2022 Winter}}
+| 3:38.930
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOC|NED|2022 Winter}}
+| 3:39.796
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOC|KOR|2022 Winter}}
+| 3:40.221
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOC|JPN|2022 Winter}}
+| 3:40.634
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOC|DEN|2022 Winter}}
+| 3:40.880
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOC|POL|2022 Winter}}
+| 3:41.587
+| {{Abbr|R3|Third reserve}}
+|-
+! style="text - align:center; " |12
+| align="left" |{{flagIOC|GER|2022 Winter}}
+| 3:44.607
+|
+|-
+! style="text - align:center; " |13
+| align="left" |{{flagIOC|NZL|2022 Winter}}
+| 3:46.560
+|
+|-
+! style="text - align:center; " |14
+| align="left" |{{flagIOC|BLR|2022 Winter}}
+| 3:47.514
+|
+|-
+! style="text - align:center; " |15
+| align="left" |{{flagIOC|KAZ|2022 Winter}}
+| 3:57.516
+|
+|-
+! style="text - align:center; " |16
+| align="left" |{{flagIOC|SUI|2022 Winter}}
+| 3:58.803
+|
+|}
+
+===Women's 500m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Four quotas from the reserve list were available, green shading indicates acceptance
+
+'''After all 8 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Angelina Golikova]]|ROC|2022 Winter}}
+| 36.669
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Olga Fatkulina]]|ROC|2022 Winter}}
+| 36.726
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Nao Kodaira]]|JPN|2022 Winter}}
+| 36.764
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Andzelika Wójcik]]|POL|2022 Winter}}
+| 36.775
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Erin Jackson]]|USA|2022 Winter}}
+| 36.809
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Femke Kok]]|NED|2022 Winter}}
+| 36.962
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 36.986
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Tian Ruining]]|CHN|2022 Winter}}
+| 37.035
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Kaja Ziomek]]|POL|2022 Winter}}
+| 37.083
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Kristina Silaeva]]|ROC|2022 Winter}}
+| 37.204
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Kim Min-sun (speed skater)|Kim Min-sun]]|KOR|2022 Winter}}
+| 37.205
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Jutta Leerdam]]|NED|2022 Winter}}
+| 37.226
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Kimi Goetz]]|USA|2022 Winter}}
+| 37.251
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Jin Jingzhu]]|CHN|2022 Winter}}
+| 37.290
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 37.299
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Arisa Go]]|JPN|2022 Winter}}
+| 37.323
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 37.395
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Vanessa Herzog]]|AUT|2022 Winter}}
+| 37.461
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Michelle de Jong]]|NED|2022 Winter}}
+| 37.523
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 37.558
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Hanna Nifantava]]|BLR|2022 Winter}}
+| 37.563
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Dione Voskamp]]|NED|2022 Winter}}
+| 37.574
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Kako Yamane]]|JPN|2022 Winter}}
+| 37.757
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Maki Tsuji]]|JPN|2022 Winter}}
+| 37.813
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Marsha Hudey]]|CAN|2022 Winter}}
+| 37.843
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Marrit Fledderus]]|NED|2022 Winter}}
+| 37.868
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+| 37.878
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Letitia de Jong]]|NED|2022 Winter}}
+| 37.926
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 37.928
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Julie Nistad Samsonsen]]|NOR|2022 Winter}}
+| 37.943
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Zhang Lina (speed skater)|Zhang Lina]]|CHN|2022 Winter}}
+| 37.981
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Kaylin Irvine]]|CAN|2022 Winter}}
+| 38.007
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Rio Yamada]]|JPN|2022 Winter}}
+| 38.053
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Brooklyn McDougall]]|CAN|2022 Winter}}
+| 38.074
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Heather Mclean]]|CAN|2022 Winter}}
+| 38.086
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 38.108
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Martine Ripsrud]]|NOR|2022 Winter}}
+| 38.120
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Elizaveta Agafoshina]]|ROC|2022 Winter}}
+| 38.214
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Sarah Warren]]|USA|2022 Winter}}
+| 38.247
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Pei Chong]]|CHN|2022 Winter}}
+| 38.247
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Femke Beuling]]|NED|2022 Winter}}
+| 38.298
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Sophie Warmuth]]|GER|2022 Winter}}
+| 38.349
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Maria Victoria Rodriguez]]|ARG|2022 Winter}}
+| 38.354
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Kim Hyun-yung]]|KOR|2022 Winter}}
+| 38.366
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Mihaela Hogas]]|ROU|2022 Winter}}
+| 38.377
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Park Chae-eun]]|KOR|2022 Winter}}
+| 38.653
+|{{Abbr|R9|Ninth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Brianna Bocox]]|USA|2022 Winter}}
+| 38.653
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Sandrine Tas]]|BEL|2022 Winter}}
+| 38.667
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Ekaterina Sloeva]]|BLR|2022 Winter}}
+| 38.878
+| {{Abbr|R10|Tenth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Ellia Smeding]]|GBR|2022 Winter}}
+| 38.985
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Maddison Pearman]]|CAN|2022 Winter}}
+| 39.102
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Lea-Sophie Scholz]]|GER|2022 Winter}}
+| 39.170
+| {{Abbr|R11|Eleventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 39.275
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Stien Vanhoutte]]|BEL|2022 Winter}}
+| 39.278
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 39.322
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Carolina Hiller]]|CAN|2022 Winter}}
+| 39.385
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Bianca Stanica]]|ROU|2022 Winter}}
+| 39.559
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Natalia Jabrzyk]]|POL|2022 Winter}}
+| 39.610
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Anna Ostlender]]|GER|2022 Winter}}
+| 39.642
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Vera Güntert]]|SUI|2022 Winter}}
+| 39.687
+|
+|}
+
+===Women's 1000m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Three quotas from the reserve list were available, green shading indicates acceptance
+
+'''After all 4 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 1:11.834
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Jutta Leerdam]]|NED|2022 Winter}}
+| 1:12.254
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Nao Kodaira]]|JPN|2022 Winter}}
+| 1:12.510
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 1:12.543
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Angelina Golikova]]|ROC|2022 Winter}}
+| 1:12.777
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Femke Kok]]|NED|2022 Winter}}
+| 1:12.878
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 1:12.915
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Kimi Goetz]]|USA|2022 Winter}}
+| 1:12.992
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Olga Fatkulina]]|ROC|2022 Winter}}
+| 1:13.013
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 1:13.272
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Ireen Wüst]]|NED|2022 Winter}}
+| 1:13.393
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+| 1:13.448
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Elizaveta Golubeva]]|ROC|2022 Winter}}
+| 1:13.454
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 1:13.467
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 1:13.836
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Rio Yamada]]|JPN|2022 Winter}}
+| 1:13.926
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Lotte van Beek]]|NED|2022 Winter}}
+| 1:13.931
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Andzelika Wójcik]]|POL|2022 Winter}}
+| 1:14.091
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Jin Jingzhu]]|CHN|2022 Winter}}
+| 1:14.112
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 1:14.118
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Kim Min-sun (speed skater)|Kim Min-sun]]|KOR|2022 Winter}}
+| 1:14.162
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Yin Qi (speed skater)|Yin Qi]]|CHN|2022 Winter}}
+| 1:14.432
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Vanessa Herzog]]|AUT|2022 Winter}}
+| 1:14.465
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 1:14.564
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Maddison Pearman]]|CAN|2022 Winter}}
+| 1:14.674
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 1:14.697
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 1:14.861
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Letitia de Jong]]|NED|2022 Winter}}
+| 1:14.869
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Kaja Ziomek]]|POL|2022 Winter}}
+| 1:14.885
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Hanna Nifantava]]|BLR|2022 Winter}}
+| 1:14.921
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 1:14.925
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Marrit Fledderus]]|NED|2022 Winter}}
+| 1:14.954
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Ekaterina Sloeva]]|BLR|2022 Winter}}
+| 1:15.072
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Tian Ruining]]|CHN|2022 Winter}}
+| 1:15.161
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 1:15.222
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Elizaveta Agafoshina]]|ROC|2022 Winter}}
+| 1:15.271
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Alexa Scott]]|CAN|2022 Winter}}
+| 1:15.293
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Brianna Bocox]]|USA|2022 Winter}}
+| 1:15.332
+| {{Abbr|R9|Ninth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Dione Voskamp]]|NED|2022 Winter}}
+| 1:15.371
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Kaylin Irvine]]|CAN|2022 Winter}}
+| 1:15.436
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Kako Yamane]]|JPN|2022 Winter}}
+| 1:15.466
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Kim Hyun-yung]]|KOR|2022 Winter}}
+| 1:15.596
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Lea-Sophie Scholz]]|GER|2022 Winter}}
+| 1:15.696
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Kaitlyn McGregor]]|SUI|2022 Winter}}
+| 1:15.783
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Ellia Smeding]]|GBR|2022 Winter}}
+| 1:15.816
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Erin Jackson]]|USA|2022 Winter}}
+| 1:15.847
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Park Ji-woo (speed skater)|Park Ji-woo]]|KOR|2022 Winter}}
+| 1:15.922
+|{{Abbr|R10|Tenth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Martine Ripsrud]]|NOR|2022 Winter}}
+| 1:16.174
+| {{Abbr|R11|Eleventh reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Mihaela Hogas]]|ROU|2022 Winter}}
+| 1:16.195
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Sandrine Tas]]|BEL|2022 Winter}}
+| 1:16.467
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 1:16.504
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Femke Beuling]]|NED|2022 Winter}}
+| 1:16.558
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Maki Tsuji]]|JPN|2022 Winter}}
+| 1:16.587
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Natalia Jabrzyk]]|POL|2022 Winter}}
+| 1:16.639
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Rin Kosaka]]|JPN|2022 Winter}}
+| 1:16.719
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Nana Takagi]]|JPN|2022 Winter}}
+| 1:16.811
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Maria Victoria Rodriguez]]|ARG|2022 Winter}}
+| 1:16.995
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Julie Nistad Samsonsen]]|NOR|2022 Winter}}
+| 1:17.099
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Brooklyn McDougall]]|CAN|2022 Winter}}
+| 1:17.255
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Sophie Warmuth]]|GER|2022 Winter}}
+| 1:17.387
+|
+|}
+
+===Women's 1500m===
+The top 10 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Three quotas from the reserve list were available, green shading indicates acceptance
+
+'''After all 4 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 1:49.990
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Ayano Sato (speed skater)|Ayano Sato]]|JPN|2022 Winter}}
+| 1:51.468
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 1:51.722
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Brittany Bowe]]|USA|2022 Winter}}
+| 1:52.054
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Nana Takagi]]|JPN|2022 Winter}}
+| 1:52.063
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Ireen Wüst]]|NED|2022 Winter}}
+| 1:52.105
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Elizaveta Golubeva]]|ROC|2022 Winter}}
+| 1:52.109
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 1:52.128
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 1:52.238
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 1:52.418
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 1:52.476
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Nao Kodaira]]|JPN|2022 Winter}}
+| 1:52.670
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Misaki Oshigiri]]|JPN|2022 Winter}}
+| 1:53.029
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 1:53.095
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 1:53.096
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Evgeniia Lalenkova]]|ROC|2022 Winter}}
+| 1:53.291
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 1:53.476
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Joy Beune]]|NED|2022 Winter}}
+| 1:53.505
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Lotte van Beek]]|NED|2022 Winter}}
+| 1:53.894
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Isabelle Weidemann]]|CAN|2022 Winter}}
+| 1:54.026
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Li Qishi]]|CHN|2022 Winter}}
+| 1:54.073
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Yin Qi (speed skater)|Yin Qi]]|CHN|2022 Winter}}
+| 1:54.263
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Marijke Groenewoud]]|NED|2022 Winter}}
+| 1:54.505
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Kimi Goetz]]|USA|2022 Winter}}
+| 1:54.533
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 1:54.688
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Yekaterina Aydova]]|KAZ|2022 Winter}}
+| 1:54.697
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Elena Eranina]]|ROC|2022 Winter}}
+| 1:54.756
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Maddison Pearman]]|CAN|2022 Winter}}
+| 1:54.989
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Jorien ter Mors]]|NED|2022 Winter}}
+| 1:55.071
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Ekaterina Sloeva]]|BLR|2022 Winter}}
+| 1:55.092
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Mia Kilburg-Manganello]]|USA|2022 Winter}}
+| 1:55.334
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Alexa Scott]]|CAN|2022 Winter}}
+| 1:55.348
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 1:55.375
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Reina Anema]]|NED|2022 Winter}}
+| 1:56.117
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Leia Behlau]]|GER|2022 Winter}}
+| 1:56.171
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Tao Jiaying]]|CHN|2022 Winter}}
+| 1:56.250
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Elena Sokhryakova]]|ROC|2022 Winter}}
+| 1:56.374
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Karolina Bosiek]]|POL|2022 Winter}}
+| 1:56.455
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Daria Kachanova]]|ROC|2022 Winter}}
+| 1:56.670
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Ahena Er Adake]]|CHN|2022 Winter}}
+| 1:56.935
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |41
+| align="left" |{{flagIOCathlete|[[Rin Kosaka]]|JPN|2022 Winter}}
+| 1:57.102
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |42
+| align="left" |{{flagIOCathlete|[[Marina Zueva]]|BLR|2022 Winter}}
+| 1:57.160
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |43
+| align="left" |{{flagIOCathlete|[[Huang Yu-ting]]|TPE|2022 Winter}}
+| 1:57.176
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |44
+| align="left" |{{flagIOCathlete|[[Sofie Karoline Haugen]]|NOR|2022 Winter}}
+| 1:57.279
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |45
+| align="left" |{{flagIOCathlete|[[Kaitlyn McGregor]]|SUI|2022 Winter}}
+| 1:57.420
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |46
+| align="left" |{{flagIOCathlete|[[Ellia Smeding]]|GBR|2022 Winter}}
+| 1:57.624
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |47
+| align="left" |{{flagIOCathlete|[[Momoka Horikawa]]|JPN|2022 Winter}}
+| 1:57.890
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |48
+| align="left" |{{flagIOCathlete|[[Michelle Uhrig]]|GER|2022 Winter}}
+| 1:58.136
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |49
+| align="left" |{{flagIOCathlete|[[Lea-Sophie Scholz]]|GER|2022 Winter}}
+| 1:58.204
+|{{Abbr|R8|Eighth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |50
+| align="left" |{{flagIOCathlete|[[Brianna Bocox]]|USA|2022 Winter}}
+| 1:58.302
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |51
+| align="left" |{{flagIOCathlete|[[Sandrine Tas]]|BEL|2022 Winter}}
+| 1:58.559
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |52
+| align="left" |{{flagIOCathlete|[[Anastasiia Grigoreva]]|ROC|2022 Winter}}
+| 1:58.701
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |53
+| align="left" |{{flagIOCathlete|[[Magdalena Czyszczon]]|POL|2022 Winter}}
+| 1:58.905
+|{{Abbr|R9|Ninth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |54
+| align="left" |{{flagIOCathlete|[[Noemi Bonazza]]|ITA|2022 Winter}}
+| 1:59.098
+| {{Abbr|R10|Tenth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |55
+| align="left" |{{flagIOCathlete|[[Zuzana Kursová]]|CZE|2022 Winter}}
+| 1:59.802
+| {{Abbr|R11|Eleventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |56
+| align="left" |{{flagIOCathlete|[[Sanne in 't Hof]]|NED|2022 Winter}}
+| 1:59.946
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |57
+| align="left" |{{flagIOCathlete|[[Stien Vanhoutte]]|BEL|2022 Winter}}
+| 1:59.953
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |58
+| align="left" |{{flagIOCathlete|[[Marit Fjellanger Bøhm]]|NOR|2022 Winter}}
+| 2:00.750
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |59
+| align="left" |{{flagIOCathlete|[[Park Ji-woo (speed skater)|Park Ji-woo]]|KOR|2022 Winter}}
+| 2:00.831
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |60
+| align="left" |{{flagIOCathlete|[[Natalie Kerschbaummayr]]|AUT|2022 Winter}}
+| 2:01.286
+|
+|}
+
+===Women's 3000m===
+The top 6 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes, including athletes who could not qualify through the time ranking because their NOC already has 2 quotas, will form the reserve list. Two quotas from the reserve list were available, green shading indicates acceptance
+
+'''After all 3 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 3:52.899
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 3:54.437
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 3:55.194
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Isabelle Weidemann]]|CAN|2022 Winter}}
+| 3:55.334
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 3:55.450
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Martina Sáblíková]]|CZE|2022 Winter}}
+| 3:55.500
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 3:55.519
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 3:56.887
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Joy Beune]]|NED|2022 Winter}}
+| 3:57.093
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Nana Takagi]]|JPN|2022 Winter}}
+| 3:57.812
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Evgeniia Lalenkova]]|ROC|2022 Winter}}
+| 3:57.876
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 3:58.760
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Natalya Voronina]]|ROC|2022 Winter}}
+| 3:59.032
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 3:59.223
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Marina Zueva]]|BLR|2022 Winter}}
+| 3:59.228
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 3:59.647
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 3:59.664
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Ayano Sato (speed skater)|Ayano Sato]]|JPN|2022 Winter}}
+| 3:59.795
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Carlijn Achtereekte]]|NED|2022 Winter}}
+| 4:00.381
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Misaki Oshigiri]]|JPN|2022 Winter}}
+| 4:00.948
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Sanne in 't Hof]]|NED|2022 Winter}}
+| 4:01.671
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Elena Sokhryakova]]|ROC|2022 Winter}}
+| 4:02.321
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Sofie Karoline Haugen]]|NOR|2022 Winter}}
+| 4:02.662
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Mia Kilburg-Manganello]]|USA|2022 Winter}}
+| 4:02.914
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Claudia Pechstein]]|GER|2022 Winter}}
+| 4:03.695
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Ahena Er Adake]]|CHN|2022 Winter}}
+| 4:04.147
+| {{Abbr|QH|Qualified as host}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Natalia Czerwonka]]|POL|2022 Winter}}
+| 4:04.222
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Ekaterina Sloeva]]|BLR|2022 Winter}}
+| 4:04.685
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Momoka Horikawa]]|JPN|2022 Winter}}
+| 4:04.751
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Reina Anema]]|NED|2022 Winter}}
+| 4:05.239
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Magdalena Czyszczon]]|POL|2022 Winter}}
+| 4:05.328
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Noemi Bonazza]]|ITA|2022 Winter}}
+| 4:05.967
+| {{Abbr|R9|Ninth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Leia Behlau]]|GER|2022 Winter}}
+| 4:06.185
+| {{Abbr|R10|Tenth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Yin Qi (speed skater)|Yin Qi]]|CHN|2022 Winter}}
+| 4:06.609
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Marit Fjellanger Bøhm]]|NOR|2022 Winter}}
+| 4:06.692
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |36
+| align="left" |{{flagIOCathlete|[[Dessie Weigel]]|USA|2022 Winter}}
+| 4:06.857
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |37
+| align="left" |{{flagIOCathlete|[[Nene Sakai]]|JPN|2022 Winter}}
+| 4:07.448
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |38
+| align="left" |{{flagIOCathlete|[[Tao Jiaying]]|CHN|2022 Winter}}
+| 4:08.423
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |39
+| align="left" |{{flagIOCathlete|[[Anastasiia Grigoreva]]|ROC|2022 Winter}}
+| 4:08.434
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |40
+| align="left" |{{flagIOCathlete|[[Alexa Scott]]|CAN|2022 Winter}}
+| 4:08.474
+|
+|}
+
+===Women's 5000m===
+The top 4 athletes not qualified through the point ranking, with a maximum of 2 per NOC, will earn a quota for their country.
+The top 8 unqualified athletes will form the reserve list.
+
+'''After the only race has been held'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Racer
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOCathlete|[[Irene Schouten]]|NED|2022 Winter}}
+| 6:52.837
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOCathlete|[[Isabelle Weidemann]]|CAN|2022 Winter}}
+| 6:54.953
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOCathlete|[[Ragne Wiklund]]|NOR|2022 Winter}}
+| 6:56.469
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOCathlete|[[Martina Sáblíková]]|CZE|2022 Winter}}
+| 7:00.794
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |5
+| align="left" |{{flagIOCathlete|[[Carlijn Achtereekte]]|NED|2022 Winter}}
+| 7:01.913
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOCathlete|[[Ivanie Blondin]]|CAN|2022 Winter}}
+| 7:02.978
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |7
+| align="left" |{{flagIOCathlete|[[Sanne in 't Hof]]|NED|2022 Winter}}
+| 7:03.852
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |8
+| align="left" |{{flagIOCathlete|[[Francesca Lollobrigida]]|ITA|2022 Winter}}
+| 7:04.956
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |9
+| align="left" |{{flagIOCathlete|[[Antoinette de Jong]]|NED|2022 Winter}}
+| 7:05.235
+|
+|- bgcolor=#ffcccc
+! style="text - align:center; " |10
+| align="left" |{{flagIOCathlete|[[Natalya Voronina]]|ROC|2022 Winter}}
+| 7:06.634
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |11
+| align="left" |{{flagIOCathlete|[[Valérie Maltais]]|CAN|2022 Winter}}
+| 7:07.489
+|
+|- bgcolor=#ccffcc
+! style="text - align:center; " |12
+| align="left" |{{flagIOCathlete|[[Miho Takagi (speed skater)|Miho Takagi]]|JPN|2022 Winter}}
+| 7:07.809
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |13
+| align="left" |{{flagIOCathlete|[[Misaki Oshigiri]]|JPN|2022 Winter}}
+| 7:08.052
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |14
+| align="left" |{{flagIOCathlete|[[Marina Zueva]]|BLR|2022 Winter}}
+| 7:09.102
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |15
+| align="left" |{{flagIOCathlete|[[Han Mei (speed skater)|Han Mei]]|CHN|2022 Winter}}
+| 7:09.580
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |16
+| align="left" |{{flagIOCathlete|[[Joy Beune]]|NED|2022 Winter}}
+| 7:10.378
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |17
+| align="left" |{{flagIOCathlete|[[Magdalena Czyszczon]]|POL|2022 Winter}}
+| 7:10.456
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |18
+| align="left" |{{flagIOCathlete|[[Claudia Pechstein]]|GER|2022 Winter}}
+| 7:10.778
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |19
+| align="left" |{{flagIOCathlete|[[Nadezhda Morozova (speed skater)|Nadezhda Morozova]]|KAZ|2022 Winter}}
+| 7:11.062
+| {{Abbr|R3|Third reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |20
+| align="left" |{{flagIOCathlete|[[Momoka Horikawa]]|JPN|2022 Winter}}
+| 7:11.278
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |21
+| align="left" |{{flagIOCathlete|[[Nikola Zdráhalová]]|CZE|2022 Winter}}
+| 7:12.898
+| {{Abbr|R5|Fifth reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |22
+| align="left" |{{flagIOCathlete|[[Ahena Er Adake]]|CHN|2022 Winter}}
+| 7:12.969
+| {{Abbr|R6|Sixth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |23
+| align="left" |{{flagIOCathlete|[[Nene Sakai]]|JPN|2022 Winter}}
+| 7:14.462
+|
+|- bgcolor=#dddddd
+! style="text - align:center; " |24
+| align="left" |{{flagIOCathlete|[[Ayano Sato (speed skater)|Ayano Sato]]|JPN|2022 Winter}}
+| 7:15.439
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |25
+| align="left" |{{flagIOCathlete|[[Elena Sokhryakova]]|ROC|2022 Winter}}
+| 7:16.124
+| {{Abbr|R7|Seventh reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |26
+| align="left" |{{flagIOCathlete|[[Sofie Karoline Haugen]]|NOR|2022 Winter}}
+| 7:18.945
+| {{Abbr|R8|Eighth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |27
+| align="left" |{{flagIOCathlete|[[Elena Eranina]]|ROC|2022 Winter}}
+| 7:22.278
+|
+|- bgcolor=#ffffcc
+! style="text - align:center; " |28
+| align="left" |{{flagIOCathlete|[[Maria Lamb]]|USA|2022 Winter}}
+| 7:24.881
+| {{Abbr|R4|Fourth reserve}}
+|- bgcolor=#dddddd
+! style="text - align:center; " |29
+| align="left" |{{flagIOCathlete|[[Tao Jiaying]]|CHN|2022 Winter}}
+| 7:26.035
+|
+|-
+! style="text - align:center; " |30
+| align="left" |{{flagIOCathlete|[[Michelle Uhrig]]|GER|2022 Winter}}
+| 7:28.214
+|
+|-
+! style="text - align:center; " |31
+| align="left" |{{flagIOCathlete|[[Josie Hofmann]]|GER|2022 Winter}}
+| 7:30.613
+|
+|-
+! style="text - align:center; " |32
+| align="left" |{{flagIOCathlete|[[Jamie Jurak]]|USA|2022 Winter}}
+| 7:34.334
+|
+|-
+! style="text - align:center; " |33
+| align="left" |{{flagIOCathlete|[[Anna Kovaleva]]|BLR|2022 Winter}}
+| 7:36.154
+|
+|-
+! style="text - align:center; " |34
+| align="left" |{{flagIOCathlete|[[Victoria Stirnemann]]|GER|2022 Winter}}
+| 7:37.357
+|
+|-
+! style="text - align:center; " |35
+| align="left" |{{flagIOCathlete|[[Kim Bo-reum]]|KOR|2022 Winter}}
+| 7:37.709
+|
+|}
+
+===Women's Team pursuit===
+The top 2 nations not qualified through the point ranking will earn a quota.
+The top 3 unqualified nations will form the reserve list.
+
+'''After all 3 races'''<ref name="times" />
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+! scope="col" |Pos.
+! scope="col" |Country
+! scope="col" |Best Time
+! scope="col" |Note
+|- bgcolor=#ffcccc
+! style="text - align:center; " |1
+| align="left" |{{flagIOC|CAN|2022 Winter}}
+| 2:52.067
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |2
+| align="left" |{{flagIOC|NED|2022 Winter}}
+| 2:52.692
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |3
+| align="left" |{{flagIOC|JPN|2022 Winter}}
+| 2:52.892
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |4
+| align="left" |{{flagIOC|ROC|2022 Winter}}
+| 2:56.220
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |5
+| align="left" |{{flagIOC|NOR|2022 Winter}}
+| 2:56.794
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ffcccc
+! style="text - align:center; " |6
+| align="left" |{{flagIOC|POL|2022 Winter}}
+| 2:58.263
+| {{Abbr|PQ|Qualified by points, not considered in time ranking}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |7
+| align="left" |{{flagIOC|CHN|2022 Winter}}
+| 2:58.310
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ccffcc
+! style="text - align:center; " |8
+| align="left" |{{flagIOC|BLR|2022 Winter}}
+| 2:58.601
+| {{Abbr|Q|Qualified by time}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |9
+| align="left" |{{flagIOC|GER|2022 Winter}}
+| 3:02.068
+| {{Abbr|R1|First reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |10
+| align="left" |{{flagIOC|SUI|2022 Winter}}
+| 3:03.666
+| {{Abbr|R2|Second reserve}}
+|- bgcolor=#ffffcc
+! style="text - align:center; " |11
+| align="left" |{{flagIOC|USA|2022 Winter}}
+| 3:07.503
+| {{Abbr|R3|Third reserve}}
+|}
+
+==References==
+{{reflist}}
+
+{{Speed skating Qualification at the Winter Olympics}}
+{{Qualification for the 2022 Winter Olympics}}
+
+{{DEFAULTSORT:Speed skating at the 2022 Winter Olympics - Qualification}}
+[[Category:Speed skating at the 2022 Winter Olympics|Qualification]]
+[[Category:Qualification for the 2022 Winter Olympics]]

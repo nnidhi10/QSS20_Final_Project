@@ -1,0 +1,114 @@
+{{Short description|Argentine judoka (born 1984)}}
+{{Use dmy dates|date=March 2024}}
+{{Infobox judoka
+| name         = Emmanuel Lucenti
+| image        = <!-- name.jpg -->
+| image_size   = <!-- only when absolutely necessary -->
+| alt          = 
+| caption      = 
+| birth_date   = {{Birth date and age|1984|11|23|df=y}}
+| birth_place  = [[San Miguel de Tucuman]], Argentina
+| height       = 
+<!-- Sport -->
+| country      = [[Argentina]]
+| weight_class = {{nbnd}}81&nbsp;kg
+| rank         = <!-- Belt color ONLY. Automated when "dan" is used. -->
+| rank_ref     = 
+| dan          = <!-- Dan rank (number, 1-11), for Black belts only -->
+| club         = 
+<!-- Achievements and titles -->
+| worlds_rank       = R32
+| worlds_year       = 2010
+| worlds_weight     = Men's 81 kg
+| worlds_year2      = 2011
+| worlds_weight2    = Men's 81 kg
+| worlds_year3      = 2013
+| worlds_weight3    = Men's 81 kg
+| worlds_year4      = 2014
+| worlds_weight4    = Men's 81 kg
+| worlds_year5      = 2015
+| worlds_weight5    = Men's 81 kg
+| worlds_year6      = 2018
+| worlds_weight6    = Men's 81 kg
+| regionals_type    = AM
+| regionals_rank    = 2
+| regionals_year    = 2007
+| regionals_weight  = <!-- Optional – To link to specific weightclass competition article (when one exists) -->
+| regionals_year2   = 2015
+| regionals_weight2 = <!-- Optional – To link to specific weightclass competition article (when one exists) -->
+| regionals_year3   = 2017
+| regionals_weight3 = <!-- Optional – To link to specific weightclass competition article (when one exists) -->
+| regionals_year4   = 2021
+| regionals_weight4 = <!-- Optional – To link to specific weightclass competition article (when one exists) -->
+| nationals         = 
+| olympics_rank     = 7
+| olympics_year     = 2012
+| olympics_weight   = Men's 81 kg
+<!-- Medal record -->
+| show-medals    = 
+| medaltemplates =
+{{Medal|Sport| Men's [[judo]] }}
+{{Medal|Country| {{ARG}} }}
+{{Medal|Competition| [[Judo at the Pan American Games|Pan American Games]] }}
+{{Medal|B| [[Judo at the 2011 Pan American Games|2011&nbsp;Guadalajara]] | [[Judo at the 2011 Pan American Games – Men's 81 kg|{{nbnd}}81&nbsp;kg]] }}
+{{Medal|Competition| [[Pan American Judo Championships|Pan American Championships]] }}
+{{Medal|S| [[2007 Pan American Judo Championships|2007&nbsp;Montreal]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|S| [[2015 Pan American Judo Championships|2015&nbsp;Edmonton]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|S| [[2017 Pan American Judo Championships|2017&nbsp;Panama&nbsp;City]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|S| [[2021 Pan American Judo Championships|2021&nbsp;Guadalajara]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2006 Pan American Judo Championships|2006&nbsp;Buenos&nbsp;Aires]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2009 Pan American Judo Championships|2009&nbsp;Buenos&nbsp;Aires]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2010 Pan American Judo Championships|2010&nbsp;San&nbsp;Salvador]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2011 Pan American Judo Championships|2011&nbsp;Guadalajara]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2012 Pan American Judo Championships|2012&nbsp;Montreal]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|Competition| [[International Judo Federation|IJF]] Grand Prix }}
+{{Medal|G| [[2017 Judo Grand Prix Cancún|2017&nbsp;Cancún]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|S| [[2013 Judo Grand Prix Miami|2013&nbsp;Miami]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|B| [[2009 Judo Grand Prix Qingdao|2009&nbsp;Qingdao]] | {{nbnd}}81&nbsp;kg }}
+{{Medal|Competition| [[Pan American Junior Judo Championships|Pan American Junior Championships]] }}
+{{Medal|S| [[2001 Pan American Junior Judo Championships|2001&nbsp;Acapulco]] | {{nbnd}}73&nbsp;kg }}
+| updated = 7 December 2022
+}}
+
+'''Emmanuel "Emma" Lucenti''' (born 23 November 1984) is a [[judoka]] from [[Argentina]].  He competed at the 2008, 2012 and 2016 Summer Olympics in the men's half-middleweight ({{nbnd}}81&nbsp;kg).<ref name=":0">{{Cite web|title=Emmanuel Lucenti Bio, Stats, and Results |url=https://www.sports-reference.com/olympics/athletes/lu/emmanuel-lucenti-1.html |website=Olympics at Sports-Reference.com |accessdate=11 September 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150930120531/http://www.sports-reference.com/olympics/athletes/lu/emmanuel-lucenti-1.html |archivedate=30 September 2015 }}</ref>  At the [[2008 Summer Olympics]], he lost in second round to [[Euan Burton]].<ref>{{Cite web|title = 73 - 81kg (half-middleweight) men results - Judo - Beijing 2008 Olympics|url = http://www.olympic.org/olympic-results/beijing-2008/judo/73-81kg-half-middleweight-m|website = www.olympic.org|accessdate = 11 September 2015}}</ref>  At the [[2012 Summer Olympics]], he reached the quarter-finals, where he lost to [[Kim Jae-bum]].<ref name=":0" />  As Kim continued on to the gold medal match, Lucenti took part in the bronze medal repechage, where he lost in the first round to [[Antoine Valois-Fortier]].<ref>{{Cite web|title = 73 - 81kg (half-middleweight) men results - Judo - London 2012 Olympics|url = http://www.olympic.org/olympic-results/london-2012/judo/73-81kg-half-middleweight-m|website = www.olympic.org|accessdate = 11 September 2015}}</ref> At the [[2016 Summer Olympics]], Lucenti was once again eliminated by Valois-Fortier, this time in the third round.<ref>{{cite web|title=Emmanuel Lucenti|url=https://www.rio2016.com/en/athlete/emmanuel-lucenti|website=Rio 2016|accessdate=16 August 2016|archiveurl=https://web.archive.org/web/20160817030547/https://www.rio2016.com/en/athlete/emmanuel-lucenti|archivedate=17 August 2016}}</ref><ref>{{cite web|title=Men's -81 kg - Standings|url=https://www.rio2016.com/en/judo-standings-ju-men-81-kg|website=Rio 2016|accessdate=16 August 2016|archiveurl=https://web.archive.org/web/20160815024027/https://www.rio2016.com/en/judo-standings-ju-men-81-kg|archivedate=15 August 2016}}</ref>
+
+Lucenti qualified to represent [[Argentina at the 2020 Summer Olympics]].<ref>{{Cite web|title=Diario Democracia|url=https://www.diariodemocracia.com/mas-deportivo/polideportivo/242525-tucumano-emmanuel-lucenti-logro-ranking-plaza-ir-t/|access-date=27 June 2021 |website=Diario Democracia|language=es}}</ref>
+
+Lucenti's older brother [[Rodrigo Lucenti|Rodrigo]] was also an Olympic judoka, competing in the lightweight ({{nbnd}}73&nbsp;kg) category.<ref name=":0" /><ref>{{Cite web|title=Rodrigo Lucenti Bio, Stats, and Results |url=https://www.sports-reference.com/olympics/athletes/lu/rodrigo-lucenti-1.html |website=Olympics at Sports-Reference.com |accessdate=11 September 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150911033616/http://www.sports-reference.com/olympics/athletes/lu/rodrigo-lucenti-1.html |archivedate=11 September 2015 }}</ref>
+
+== References ==
+{{reflist}}
+==External links==
+* {{Sports links}}
+<!-- * {{Sports reference}} already in References & current website Olympedia displayed via {{Sports links}} -->
+* {{The-Sports}}
+* {{Instagram}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lucenti, Emmanuel}}
+[[Category:Argentine male judoka]]
+[[Category:Living people]]
+[[Category:1984 births]]
+[[Category:Argentine people of Italian descent]]
+[[Category:Sportspeople of Italian descent]]
+[[Category:Pan American Games bronze medalists for Argentina]]
+[[Category:Judoka at the 2011 Pan American Games]]
+[[Category:Judoka at the 2008 Summer Olympics]]
+[[Category:Judoka at the 2012 Summer Olympics]]
+[[Category:Judoka at the 2016 Summer Olympics]]
+[[Category:Olympic judoka for Argentina]]
+[[Category:Pan American Games bronze medalists in judo]]
+[[Category:Judoka at the 2015 Pan American Games]]
+[[Category:South American Games gold medalists for Argentina]]
+[[Category:South American Games bronze medalists for Argentina]]
+[[Category:South American Games medalists in judo]]
+[[Category:Competitors at the 2006 South American Games]]
+[[Category:Medalists at the 2011 Pan American Games]]
+[[Category:Judoka at the 2020 Summer Olympics]]
+[[Category:Sportspeople from San Miguel de Tucumán]]
+[[Category:21st-century Argentine sportsmen]]
+[[Category:Competitors at the 2010 South American Games]]
+
+
+{{Argentina-judo-bio-stub}}

@@ -1,0 +1,1807 @@
+{{Use Australian English|date=February 2017}}
+{{Use dmy dates|date=March 2022}}
+{{infobox country at games
+| NPC = AUS
+| NPCname = [[Australian Paralympic Committee]]
+| games = Summer Paralympics
+| year = 1968
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.paralympic.org.au }}
+| location = [[Tel Aviv]]
+| competitors = 32
+| sports = 10
+| flagbearer = 
+| rank = 4
+| gold = 15
+| silver = 16
+| bronze = 7
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+'''Australia''' competed at the '''[[1968 Summer Paralympics]]''' in [[Tel Aviv]], [[Israel]].<ref name="Reference C">[http://www.paralympic.org/results/historical International Paralympic Committee: Paralympic Results]</ref> The Games significantly expanded in 1968 when compared to previous years, as did the Australian team and the events included in the Games.<ref name="Reference C" /><ref name=":0" /> Mexico City were originally to host the 1968 Paralympics, however, they were moved to Tel Aviv in Israel.<ref name=":0" />
+
+Although there was disappointment expressed at not being able to have to Paralympics in the 'Olympic' city of that year, the Tel Aviv organising committee worked hard to provide a positive experience for the athletes and their support staff.<ref name=":0">Brittain, Ian. From Stoke-Mandeville to Stratford: A History of the Summer Paralympic Games. Illinois: Common Ground, 2012.</ref><ref>Bailey, Steven. Athlete First: A History of the Paralympic Movement. West Sussex: John Wiley & Sons, 2008</ref><ref name=":1">{{Cite news|url=https://www.paralympic.org/news/44th-anniversary-1968-games|title=44th Anniversary of the 1968 Paralympic Games|last=International Paralympic Committee|date=9 November 2012|work=Paralympic Movement Media Center|access-date=12 October 2017}}</ref> The Australian team however had to be content with dubious living conditions for the duration of the competition, being housed in an underground car park.<ref name=":2">Coombs, Kevin. A Fortunate Accident: A Boy from Balranald. Melbourne: Aboriginal Affairs Victoria, 2005</ref> Despite the poor accommodation the athletes performed well, with world records falling and numerous Australian competitors taking home a swag of gold medals (see 'Medalists' table below). Australia's haul of 38 medals earned them fourth spot on the 'unofficial' placing.<ref name="Reference C" /><ref name="ReferenceA">Brittain, Ian. From Stoke-Mandeville to Stratford: A History of the Summer Paralympic Games. Illinois: Common Ground, 2012</ref>
+
+==Background==
+
+=== The Paralympic Games ===
+Sir Ludwig Guttman was a German and Jewish neurologist who worked with the disabled in the national spinal injuries center called the Stoke Mandeville Hospital in England.<ref name=":0" /><ref name=":3">{{Cite book|title=The Paralympic Games explained|last=Brittain|first=I|publisher=Routledge|year=2016|location=Oxon, UK}}</ref><ref name=":4">{{Cite journal|last=Jobling|first=Ian F.|last2=Naar|first2=Tony|author-link2=Tony Naar|last3=Hanley|first3=Marian|date=2012-09-01|title=The Australian Paralympic Oral History Project: Remembering, reflecting, recording and promoting disability in sport|journal=International Journal of Disability, Development and Education|volume=59|issue=3|pages=295–303|doi=10.1080/1034912x.2012.697746|issn=1034-912X}}</ref> Sport for the disabled was involved in the rehabilitation of spinal cord injury patients as it was believed to provide a physiological and psychological therapy.<ref name=":0" /><ref name=":5">{{Cite journal|last=Legg|first=David|last2=Steadward|first2=Robert|date=2011-11-01|title=The Paralympic Games and 60 years of change (1948–2008): unification and restructuring from a disability and medical model to sport-based competition|journal=Sport in Society|volume=14|issue=9|pages=1099–1115|doi=10.1080/17430437.2011.614767|issn=1743-0437}}</ref><ref name=":6">{{Cite journal|last=DePauw|first=Karen P.|date=2012-03-01|title=A Historical Perspective of the Paralympic Games|journal=Journal of Physical Education, Recreation & Dance|volume=83|issue=3|pages=21–31|doi=10.1080/07303084.2012.10598739|issn=0730-3084}}</ref> Guttman organised a competition with Archery and Javelin called the Stoke Mandeville Games that began on 28 July in 1948, the same day as the opening of the 1948 Olympic Games in London, with the hope it would one day become the Olympic Games for the disabled.<ref name=":1" /><ref name=":0" /><ref name=":6" /> This competition became international in 1952 when athletes from Holland participated and continued to grow.<ref name=":3" /><ref name=":7">{{Cite book|title=Pushing Strong: Celebrating fifty years of wheelchair sports NSW 1961–2011|last=Smith|first=J|publisher=Playright Publishing|year=2011|location=Caringbah, NSW}}</ref><ref name=":0" /> Sir Ludwig Guttman visited the Melville Rehabilitation Centre and invited Australian athletes to compete in the Stoke Mandeville Games in 1957.<ref name=":7" /><ref name=":8">{{Cite news|title=Paralympics honours the man who started it all|last=Thornburgh|first=B|date=2011|work=ProQuest|id = {{ProQuest|1034110986}}}}</ref><ref name=":4"/> The 1960 Stoke Mandeville Games in Rome have been officially recognised by the International Olympic Committee as the first Summer Paralympic Games and Guttman went down in history as the man who connected rehabilitation to competitive sport and created the Paralympic Games.
+
+=== 1968 Tel Aviv Paralympic Games ===
+The [[1968 Summer Paralympics|1968 Paralympic Games]] were held in Tel Aviv from 4 to 13 November, in and around the ILAN Sports Centre. The four other locations that were used were the Hayarkon Souts Club, [[Ramat Gan Stadium]] and the Ramat Gan Bowling Club.<ref name=":0" /><ref name=":4" /> The logo of the 1968 Games represents three interlocking wheelchair wheels that were used by the Stoke Mandeville Games at the time and represent the ideals of the Games which are friendship, unity and sportsmanship.<ref name=":0" /> ISMG 1968 stands for International Stoke Mandeville Games 1968, which was the name of the Games before they were labelled the Paralympics.<ref name=":3" /><ref name=":0" /> The length of the 1968 Paralympics was longer than that of the Paralympics prior in both Rome in 1960 and Tokyo in 1964.<ref name=":1" /><ref name=":9">{{Cite news|url=https://www.insidethegames.biz/articles/1010781/1968-tel-aviv-|title=1968 – Tel Aviv|access-date=2017-10-19}}</ref><ref name="Reference C" />
+
+The Paralympic games expanded in 1968 compared to previous years as the participating nations increased by seven to include Canada, Ethiopia, India, Jamaica, Korea, New Zealand and Spain in their first Paralympics in Tel Aviv.<ref name=":1" /><ref name="Reference C" /><ref name=":0" /> The Games saw an increase in sports with the addition of Lawn Bowls and an increase in the number of events from 144 to 188 with changes in classifications and Women's Basketball and the Men's 100m Sprint were added.<ref name=":9" /><ref name=":5" /><ref name=":10">{{Cite web|url=http://paralympics.org.uk/games/the-games|title=Overview of each Paralympic Games from Rome 1960 to Beijing 2008 Paralympics {{!}} British Paralympic Association|website=British Paralympic Association|language=en|access-date=2017-10-19|archive-url=https://web.archive.org/web/20171102211720/http://paralympics.org.uk/games/the-games|archive-date=2 November 2017|url-status=dead}}</ref><ref name=":0" /><ref name="Reference C" /> The 1968 Paralympics saw a large increase in participation in that there were 378 in Tokyo and 750 athletes in Tel Aviv.<ref name="Reference C" /><ref name=":9" /><ref name=":10" /> The only type of disability included in Tel Aviv was spinal cord injuries, other disabilities were not added until 1976.<ref name=":3" /><ref name="Reference C" /> At this time, the wheelchairs used by the Australian athletes were multipurpose and few had changes to them from the generic everyday wheelchair that increased stability or maneuverability to specialise them for sport.<ref name=":4" /><ref name=":3" /><ref name=":0" /> There were also restrictions in that athletes could not use straps to secure them to the wheelchair and rules were provided for cushion and wheelchair height to create and even playing field among the athletes.<ref name=":3" /><ref name=":4" /> While the 1968 Paralympics in Tel Aviv were not as developed and professional as they are in the present day, Australian paraplegic athletes involved have largely discussed the high competitiveness of making the Australian team and the Tel Aviv Games themselves.<ref name=":4" /><ref name=":2" /> 
+[[File:Xx1068 - Jeff Simmonds on tarmac prior to departure to Tel Aviv - 3a - scan cleaned cropped.jpg|thumb|Jeff Simmonds on tarmac before departing for Tel Aviv 1968]]
+
+=== Disabled Sport in Australia ===
+Paraplegic sport in Australia was, like the United Kingdom, an aspect of rehabilitation from spinal injury for many patients, but the growing international status of sport for the disabled helped in the creation of initiatives in Australia.<ref name=":11">{{Cite book|title=Sport in Australian history|last=Adair & Vamplew|first=D. W.|publisher=Oxford University Press|year=1997|location=Melbourne}}</ref> Interstate competitions began in Australia in 1959 and sporting organisations for disabled athletes were prevalent and still growing in each state.<ref name=":12">{{Cite web|url=https://www.paralympic.org.au/australia-key-to-integration-of-para-sport-at-commonwealth-games/|title=Australia key to integration of Para-sport at Commonwealth Games {{!}} Australian Paralympic Committee|website=paralympic.org.au|language=en-AU|access-date=2017-10-19}}</ref><ref name=":13">{{Cite web|url=http://www.paralympic.org.au/athletes/australian-paralympic-hall-of-fame/|title=Australian Paralympic Hall of Fame {{!}} Australian Paralympic Committee|website=paralympic.org.au|language=en-AU|access-date=2017-10-19}}</ref><ref name=":7" /><ref name=":11" /><ref name=":4" /> These organisations as well as Sir George Bedbrook, a surgeon and director of the spinal unit of the Royal Perth Hospital, and others played a vital role in the rise of organised, competitive disabled sport and the Paralympic movement in Australia.<ref name=":14">{{Cite web|url=https://www.paralympic.org.au/interview-with-paralympic-legend-tony-south/|title=Interview with Paralympic legend Tony South {{!}} Australian Paralympic Committee|website=paralympic.org.au|language=en-AU|access-date=2017-10-19}}</ref><ref name=":12" />
+
+=== Host City ===
+A key component of the Paralympic Games is that it is always aimed to closely follow the Olympics and to be hosted by the same nation as the Olympic Games.<ref name=":5" /><ref name=":3" /> However, there have been some exceptions to this due to various reasons and the 1968 Paralympic Games is one such exception. The competition was set to be held in Mexico City as the Olympic Games were that year and everything seemed to be progressing well until an American team led by Ben Lipton was to travel to Mexico City to assess the altitude impact on the disabled athletes as there were some concerns.<ref name=":0" /><ref name=":5" /><ref name=":3" /> Upon arranging their travel, the president of the rehabilitation center in Mexico sent a letter stating that due to financial constraints and accessibility issues with the facilities, Mexico city would not be able to host the Paralympic Games in 1968.<ref name=":15">{{Cite news|url=https://www.jpost.com/Features/In-Thespotlight/This-Week-in-History-Israel-hosts-the-Paralympics|title=This Week in History: Israel hosts the Paralympics|work=[[The Jerusalem Post]]|access-date=2017-10-19 |issn=0792-822X}}</ref><ref name=":0" /><ref name=":10" /><ref name=":5" /><ref name=":3" /> This rejection of the Olympic host city was a blow to the agenda of Guttman as well as those involved in promoting sport internationally for the disabled but applications to be the host city were put forward by Buenos Aires, New York, and Tel Aviv.<ref name=":16">{{Cite book|title=The cultural politics of the Paralympic movement|last=Howe|first=D.P.|publisher=Routledge|year=2008|location=Oxon, UK}}</ref> Guttman selected Tel Aviv, Israel as the host city and the President of the Israeli Stoke Mandeville Committee Arieh Fink, stated that the Israeli Government was most enthusiastic about being selected, given that it coincided with the twentieth anniversary of the State of Israel, as well as the twentieth anniversary of the Stoke Mandeville Games.<ref name=":0" /><ref name="ReferenceA" /><ref name=":3" /><ref name=":1" /><ref name=":16" /> Israel is a country with a long tradition of wheelchair sports due to their large number of spinal injuries from war, they had the resources to host a Paralympic Games and were, at the time, a powerful country of the International Olympic Committee.<ref name=":0" /><ref name=":2" /><ref name=":1" />
+
+== Cost and Funding ==
+The cost to compete in the 1968 Paralympics in Tel Aviv was a challenge that all athletes faced in the Australian team, however, Israel paid for 50% of all teams travel costs which undoubtedly helped Australians to fund their trip.<ref name=":7" /><ref name=":16" /><ref name=":4" /><ref name=":0" /> Some funding was also received from the Australian government to support these athletes.<ref name=":4" /> The athletes were responsible to raise the money required for the Games, their uniforms, equipment, travel, training and administration fees themselves and this was achieved through full-time work and a large amount of fundraising.<ref name=":14" /><ref name=":4" /><ref name=":2" /> Athletes fundraised through demonstration Games, donations, parties, street stalls, competitions, raffles, balls and anything they could do to raise funds to compete.<ref name="Reference C" /><ref name=":7" /><ref name=":4" /> When interviewed regarding the 1968 Paralympic Games,<ref name=":4" /> Australian athletes state that it was a necessity to work full-time to be able to afford to compete, but employment was not easy for all the athletes. Full-time work and fundraising meant that Australian athletes were not able to focus on and dedicate the same time to their training as much as some other countries athletes were able to.
+[[File:Xx1068 - Jeff Simmonds carried onto the plane - 3a - scan.jpg|thumb|Jeff Simmonds Carried onto plane headed for Tel Aviv Paralympics 1968]]
+
+== Accommodation and Travel ==
+A highly prevalent concern of Australian athletes at the 1968 Paralympic Games was the accommodation and facilities that were provided in Israel. While the women athletes and other nations like America were in the rooms at the Kfar Maccabiah or Ramat-Aviv hotels, the male athletes on the Australia team were provided makeshift rooms in the carpark area beneath the high-rise building.<ref name=":4" /><ref name=":14" /><ref name=":2" /> The grounds were covered in plastic, athletes were provided camp stretchers with straw mattresses, that were replaced by the Australian team and staff with mattresses.<ref name=":4" /><ref name=":2" /> There was one shower for all the men that was said to not have proper plumbing and very quickly overflowed and slightly flooded the area they were living in and one toilet.<ref name=":14" /><ref name=":4" /><ref name=":2" /> It is believed mosquitos were also present in the area in which the Australian team were living.<ref name=":4" /> The food provided was described by some of the Australian athletes as insufficient and unappetising, however, this may reflect cultural and cuisine differences and not the quality or nutritional content of the food. Multiple athletes on the Australian team, however not all athletes at the Games, have stated that these factors created some unpleasantness and reduced enjoyment of their experience at the 1968 Paralympic Games. The travel to and from the Games is not widely documented and as the image shows, the athletes were carried onto the planes in Australia heading to Israel and reports from the Daphne Hilton in the NLA interviews (NLA) state that a forklift was used to transport the passengers off the plane in Israel. During the Games, athletes travelled by bus to the venues and were almost always accompanied by Israeli female army officers.<ref name=":4" /><ref name=":2" /><ref name=":14" />
+
+==Opening ceremony==
+
+The opening ceremony for the 1968 Paralympic Games took place on 4 November 1968, in the [[University of Jerusalem]] Stadium.<ref name=":15" /><ref name="Reference C" /><ref name=":1" /><ref name=":0" /> Approximately twenty thousand spectators were present at the ceremony, which included an introduction and lap of honour, known as the 'wheel past' of competing athletes, a military band performance, and folk dancing accompanied by a girls choir.<ref name=":0" /> Deputy Prime Minister of Israel [[Yigal Allon]] delivered the welcome message, as the President was recovering from illness at the time, and the founder and president of the Paralympic Games, [[Sir Ludwig Guttmann]] gave the opening speech.<ref name=":0" /><ref name=":15" /><ref name=":1" /><ref name=":8" /> Giving the oath on behalf of the athletes was Israeli's Zvi Ben-Zvi, one of the pioneering Israeli Paralympians during the 1954&nbsp;[[Stoke Mandeville Games]], having becoming a paraplegic serving in the Arab-Israeli War.<ref name=":0" /><ref name=":1" />
+
+==Team==
+[[File:Xx1068_-_1968_Australian_Paralympic_Team_-_3a_-_scan.jpg|thumb|right|1968 Australian Paralympic Team in Bangkok on the way to Tel Aviv]]
+The Australian team doubled in size from 16 in 1964 to 32 in 1968, it consisted of 32 members in total, 23 men and 9 women (results, Australia at paralympics, remembering and reflecting). :
+<ref name="Reference C" /><br>
+Women – Pam Smith, Di Workman, [[Cherrie Ireland]] (née Loydstrom), [[Elaine Schreiber]], [[Marion O'Brien]], [[Daphne Hilton]] (née Ceeney), [[Elizabeth Edmondson]], [[Lorraine Dodd]], [[Sally Lamb]] <br/>
+Men – [[Kevin Coombs]], [[Kevin Cunningham (Paralympian)|Kevin Cunningham]], [[Bill Mather-Brown]], [[Bruno Moretti (Paralympian)|Bruno Moretti]], [[Frank Ponta]], [[Gary Hooper (Paralympian)|Gary Hooper]], [[Vic Renalson]], [[Kevin Munro]], [[Roy Fowler (Paralympian)|Roy Fowler]], [[Kevin Bawden]], Brian Chambers, [[Robert McIntyre (Paralympian)|Robert McIntyre]], John Beattie, Peter Burt, [[Allan McLucas|Alan McLucas]], [[Tony South (Paralympian)|Tony South]], [[Alan Conn]], Felix Blums, [[Jeff Simmonds]], [[Don Watts]], John Newton, [[John Martin (Paralympian)|John Martin]], Noel Simmons
+
+The athletes were supported by a large, dedicated support staff, a mixture of experienced practitioners and fresh faces (results, NLA:)<ref name=apc>{{cite book|title=1968 Paralympics Games Papers of Elizabeth Edmondson|year=1968|publisher=Australian Paraplegic Council|location=Perth}}</ref>
+<br>
+– Dr John Yeo (Team Leader), [[George Bedbrook]](Senior Medical Officer), [[John Johnston (physiotherapist)|John 'Johnno' Johnston]] (Team Manager), [[Elizabeth Kosmala]] (née Richards)(Assistant Secretary), Mr Ashley Coops (Secretary), Mrs Aileen Coops (Attendant), Mr E. Kyle (Assistant Medical Officer), Miss D. Newton (Physiotherapist), Jan Hooper (Nurse), [[Kevin Betts]] (Attendant), M. Wilson (Attendant), William 'Bill' Gibbs (Sports Instructor), Jack McCafferty (Attendant), [[Janet Tyler (Nurse)|Miss Janet Tyler]] (nurse), Miss Nancy Joyce (nurse), Jan Hooper (Assistant Sports instructor, Baggage Marshall) and S.C. Chase (Assistant Baggage Marshall).
+
+[[Kevin Coombs]] commented that the Australian team didn't have the sponsorship or training camps that other countries were providing their athletes. He noted that due to inadequate funding to be eligible athletes had to participate in several sports.<ref name=coombs>{{cite book|last=Coombs|first=Kevin|title=A fortunate accident – a boy from Balranald|year=2005|publisher=Aboriginal Press Victoria|location=Melbourne|pages=31–32}}</ref> Coombs also noted that the accommodation was very rough with the team being housed in an undercover car park, with one toilet and shower for 32 men and camp stretches with straw mattresses.<ref name=coombs/>
+
+=== Selections ===
+The competing athletes in the Games underwent selection by first being nominated to be eligible for selection by their state association and then being selected by coaches based on performance in the National Paraplegic Games held in 1968 before the Paralympic Games.<ref name=":4" /> This selection process was seen by some, as slightly flawed, yet other athletes had no issue with this process. Competitiveness to be selected to represent Australia at the Paralympic Games in 1968 was very high and athletes participated in numerous events because they were skillful enough but primarily to increase their chances of being selected.<ref name=":14" /><ref name=":9" /><ref name=":4" /> All of the athletes listed above competed and performed well enough in their events to be selected to represent Australia in the Paralympic Games in 1968.
+
+== Events and results ==
+There were 188 events from 10 sports included in the schedule of the 1968 Paralympic games in Tel Aviv and as a nation, Australia competed in 7 of these sports. Both the sports included and the number of events at the 1968 Paralympic Games increased from the previous Games from 144 to 188 events and from 9 to 10 sports adding Lawn Bowls as well as the Men's 100m Sprint for men and Women's Basketball events.<ref name=":0" /><ref name="Reference C" /><ref name=":3" /> Australian athletes were considered as quite successful, demonstrated as Australia claimed 4th place in the final medal tally.<ref name=":0" /><ref name="Reference C" /> Details of events, Australian competitors and their results official results as reported by the International Paralympic Committee<ref name="Reference C" /> can be found below.
+
+=== Archery ===
+[[File:Janet Tyler with archer.jpg|thumb|Archery 1968 Paralympic Games Tel Aviv]]
+{{See also|Archery at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" /><ref name="Para Archery Teams">{{Cite web|url=http://www.archery.org.au/About-Us/Teams-Medal-Winners/Para-Archery-Teams|title=Para Archery Teams|website=archery.org.au|language=en-AU|access-date=2017-10-19}}</ref>
+
+'''Men''' – [[Kevin Bawden]], Felix Blums, [[Alan Conn]], [[Roy Fowler (Paralympian)|Roy Fowler]], [[Alan McLucas]], [[Tony South (Paralympian)|Tony South]]
+
+'''Women''' – Pam Smith, Di Workman <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Archery was a strength of Australian athletes as three podium finishes were achieved in this sport, which saw a large number of athletes competing in these events.<ref name="Para Archery Teams"/><ref name=":4" /><ref name=":7" /> Tony South took the gold medal in the Men's Ablion Round Open event of his strongest sport by a mere 2 points to his Dutch opponent but was not able to beat him in the FITA Round Open and came in second.<ref name=":4" /><ref name="Reference C" /> Whereas, [[Alan McLucas]] missed out of a gold medal in the Men's St. Nicholas Round Cervical by just 4 points winning the silver medal.<ref name="Reference C" /> [[Alan Conn]] finished with a gold medal in the Men's Columbia Round Open, setting a new world record in the process with a score of 618.<ref name="Reference C" /> While the women did not have as many competitors, both Workman and Smith placed in the middle of their event rankings.<ref name="Reference C" /> 
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in archery<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Score/Time
+|-
+| rowspan="5" |Men
+|FITA Round Open
+|Tony South
+
+Fowler
+|2nd
+
+13th
+|2029
+
+1907
+|-
+|Ablion Round Open
+|Tony South
+
+Fowler
+|1st
+
+7th
+|800
+
+714
+|-
+|Columbia Round Open
+|Conn
+
+Bawden
+|1st
+
+20th
+|618
+
+536
+|-
+|St. Nicholas Rounds Cervical 
+|McLucas
+|2nd
+|523
+|-
+|St. Nicholas Rounds Paraplegic
+|Blums
+|15th
+|624
+|-
+| rowspan="2" |Women
+|Columbia Round Open
+|Workman
+|7th
+|443
+|-
+|St. Nicholas Round Paraplegic
+|Smith
+|6th
+|582
+|}
+
+=== Athletics ===
+{{See also|Athletics at the 1968 Summer Paralympics}}
+
+Australia was represented by:<ref name="Reference C" />
+
+'''Men''' – Peter Burt, Brian Chambers, [[Kevin Coombs]], [[Kevin Cunningham (Paralympian)|Kevin Cunningham]], [[Gary Hooper (Paralympian)|Gary Hooper]], [[John Martin (Paralympian)|John Martin]], [[Bill Mather-Brown]], [[Robert McIntyre (Paralympian)|Robert McIntyre]], [[Alan McLucas]], [[Bruno Moretti (Paralympian)|Bruno Moretti]], [[Kevin Munro]], [[Frank Ponta]], [[Vic Renalson]], Noel Simmons
+
+'''Women''' – [[Lorraine Dodd]], [[Daphne Hilton]], Cherrie Loydstrom, [[Marion O'Brien]], [[Elaine Schreiber]], Pam Smith, Di Workman <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Athletics was Australia's most successful pursuit in Tel Aviv, finishing with a total of 19 medals made up of 7 gold, 7 silver, and 5 bronze.<ref name=":4" /><ref name="Reference C" /> Australia had multiple competitors and took part in a large portion of the events that were available, as is seen in the table below.
+
+Although Athletics wasn't her primary pursuit, [[Lorraine Dodd]] still managed to find herself on the medal podium twice, earning a silver medal in the Women's Slalom A event, and a bronze in the Women's 60m Wheelchair dash A.<ref name=":17">{{Cite web|url=http://wais.org.au/other/hoc_detail.php?id=71|title=WAIS|last=WAIS|website=wais.org.au|access-date=2017-10-19}}</ref><ref name="Reference C" /><ref name=":4" /> Dodd actually finished with the same time as the silver medallist in the 60m dash, but upon review was awarded the bronze.<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup> [[Gary Hooper (Paralympian)|Gary Hooper]] competed in eight different track and field disciplines, earning a medal in three.<ref name="Reference C" /> There was a close battle between Australia's Gary Hooper and Bruno Moretti in the Men's 100m Wheelchair Dash. Hooper finished second to compatriot Bruno Moretti in the heats but Hooper came through to finish first in the final ahead of Moretti by 0.40 seconds and took home the gold medal.<ref name="Reference C" />
+
+The Men's 4x40m Open Relay team was made up of Gary Hooper, Martin, Moretti and Munro who won a silver medal, only being beaten by a world record time set by the United States (results). The Australians were faster in the final than in the heat but this was not enough to surpass the American team.<ref name="Reference C" /> The Women's 4x40m Open Relay team was Dodd, Hilton, Loydstrom and Shreiber were not as successful as the men and finished in 8th place just behind the French team.<ref name="Reference C" />
+
+Australia's men also saw some success in the slalom events, finishing one-two in the A and B events.<ref name="Reference C" /> Moretti and Mather-Brown topped their events comfortably in the A event and Martin narrowly beat Suga from Japan in the B event.<ref name=":4" /><ref name="Reference C" />
+
+Australia had a large amount of competition in the field events, for example the Men's Shot Put C event saw 51 athletes compete, but Australia were still able to achieve a few podium finishes and come very close to those in front in of them other events.<ref name="Reference C" /> Renalson dominated the throwing events, improving on all of his qualification distances in the Men's Shot Put A, men's Discus A, men's Javelin A and Men's Club Throw A earning him two gold medals, one bronze and one silver.<ref name="Reference C" /> Australia had many competitors in the Precision Javelin event but were unable to finish the event with a medal. The Pentathlon event at the 1968 games was a mixture of Archery, Athletics and Swimming and Australia had five athletes compete in the men's and women's event overall. Frank Ponta did not place as well as he hoped in his favourite event finishing 7th in the Men's Pentathlon Complete event, but Daphne Hilton took the bronze medal in the Women's Pentathlon Special Class.<ref name=":4" /><ref name="Reference C" />
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in athletics<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place|Score/Time
+|-
+| rowspan="27" |Men
+|Novice 60m A
+|Heat – Simmons
+
+Final – Simmons
+|4th
+
+4th
+|16.40s
+
+16.30s
+|-
+|Novice 60m B
+|Heat – McIntyre
+
+Heat – Burte
+
+Heat – Chambers
+|6th
+
+9th
+
+10th
+|15.40s
+
+16.30s
+
+16.30s
+|-
+|100m A
+|Heat – Moretti
+
+Final- Moretti
+
+Heat – Hooper
+
+Final – Hooper
+
+Heat – Ponta
+
+Final – Ponta
+
+Heat – Mather-Brown
+|1st
+
+2nd
+
+2nd
+
+1st
+
+6th
+
+6th
+
+8th
+|24.00s
+
+24.60s
+
+24.20s
+
+24.20s
+
+26.10s
+
+26.60s
+
+26.40s
+|-
+|100m B
+|Heat – Munro
+
+Final – Munro
+
+Heat – Martin
+
+Heat – Coombs
+|1st
+
+1st
+
+7th
+
+11th
+|21.60s
+
+21.80s
+
+24.50s
+
+25.90
+|-
+|4x40m Open
+|Heat
+
+Final
+|2nd
+
+2nd
+|40.60s
+
+39.80s
+|-
+|Slalom A
+|Moretti
+
+Mather-Brown
+
+Ponta
+
+Hooper
+|1st
+
+2nd
+
+6th
+
+7th
+|1:07:20min
+
+1:11:00min
+
+1:21:40min
+
+1:21:80min
+|-
+|Slalom B
+|McIntyre
+
+Martin
+
+Munro
+|1st
+
+2nd
+
+20th
+|1:04:90min
+
+1:06:90min
+
+1:25:70min
+|-
+|Slalom Cervical Class
+|McLucas
+|1st
+|1:29:20min
+|-
+|Shot Put A
+|Q – Renalson
+
+Final – Renalson
+|2nd
+
+3rd
+|6.31m
+
+6.82m
+|-
+|Shot Put B
+|Q – Hooper
+
+Final – Hooper
+|3rd
+
+2nd
+|7.18m
+
+7.33m 
+|-
+|Shot Put C
+|Q – Munro
+|38th
+|5.12m
+|-
+|Shot Put D
+|Q – Simmons
+
+Q – Chambers
+|8th
+
+19th
+|6.64m
+
+4.81m
+|-
+|Discus A
+|Q – Renalson
+
+Final – Renalson
+
+Q – Simmons
+|1st
+
+1st
+
+23rd
+|21.90m
+
+22.34m
+
+13.93m
+|-
+|Discus B
+|Q – Hooper
+
+Q – Moretti
+|13th
+
+17th
+|15.92m
+
+13.76m
+|-
+|Discus C
+|Q – Munro
+|29th
+|15.59m
+|-
+|Discus D
+|Q – Simmons
+
+Q – Chambers
+|7th
+
+17th
+|20.33m
+
+15.73m
+|-
+|Javelin A
+|Q – Renalson
+
+Final – Renalson
+|2nd
+
+2nd
+|18.41m
+
+19.48m 
+|-
+|Javelin B
+|Q – Hooper
+
+Final – Hooper
+
+Q – Moretti
+|5th
+
+5th
+
+12th
+|18.59m
+
+19.30m
+
+15.61m 
+|-
+|Javelin C
+|Q – Munro
+|30th
+|13.22m
+|-
+|Javelin D
+|Q – Simmons
+
+Q – Chambers
+|7th
+
+19th
+|19.43m
+
+14.30m
+|-
+|Club Throw A
+|Q – Renalson
+
+Final – Renalson
+|1st
+
+1st
+|35.97m
+
+39.02m 
+|-
+|Club Throw B
+|Q – Hooper
+
+Q – Moretti
+|8th
+
+13th
+|32.96m
+
+26.70m
+|-
+|Club Throw C
+|Q – Munro
+|22nd
+|27.55m
+|-
+|Club Throw D
+|Q – Simmons
+
+Q – Chambers
+|13th
+
+23rd
+|32.47m
+
+24.08m
+|-
+|Precision Javelin Open
+|Q – Hooper
+
+Final – Hooper
+
+Q – Simmons
+
+Final – Simmons
+
+Q – Ponta
+
+Q – Coombs
+|2nd
+
+5th
+
+2nd
+
+6th
+
+24th
+
+49th
+|72
+
+62
+
+72
+
+60
+
+64
+
+60
+|-
+|Pentathlon Complete
+|Ponta
+|7th
+|2016
+|-
+|Pentathlon Incomplete
+|Chambers
+|9th
+|1962
+|-
+| rowspan="27" |Women
+|Novice 60m A
+|Heat – Dodd
+
+Final – Dodd
+|2nd
+
+3rd
+|20.90s
+
+20.70s
+|-
+|Novice 60m C
+|Heat – O’Brien
+
+Heat – Workman
+|13th
+
+17th
+|20.00s
+
+22.10s
+|-
+|Wheelchair 60m B
+|Heat – Schreiber
+
+Final – Schreiber
+|6th
+
+5th
+|24.80s
+
+21.40s
+|-
+|Wheelchair 60m C
+|Heat – Hilton
+
+Final – Hilton
+|5th
+
+3rd
+|18.60s
+
+18.10s
+|-
+|4x40m Open
+|Heat
+|8th
+|56.50s
+|-
+|Slalom A
+|Dodd
+|2nd
+|1:31:70min
+|-
+|Slalom C
+|O’Brien
+
+Workman
+
+Loydstrom
+|3rd
+
+6th
+
+20th
+|1:19:30min
+
+1:21:60min
+
+1:40:20min
+|-
+|Shot Put A
+|Q – Dodd
+
+Final – Dodd
+|5th
+
+5th
+|3.90m
+
+3.90m
+|-
+|Shot Put B
+|Schreiber
+|10th
+|3.68m
+|-
+|Shot Put C
+|Q – Loydstrom
+
+Q – Smith
+|14th
+
+21st
+|4.24m
+
+3.73m
+|-
+|Shot Put D
+|Q – O’Brien
+|12th
+|3.60m
+|-
+|Discus A
+|Q – Dodd
+
+Final – Dodd
+|4th
+
+5th
+|10.20m
+
+10.23m
+|-
+|Discus B
+|Q – Schreiber
+|12th
+|7.61m
+|-
+|Discus C
+|Q – Loydstrom
+
+Final – Loydstrom
+
+Q – Workman
+|3rd
+
+4th
+
+22nd
+|14.26m
+
+14.26m
+
+8.69m
+|-
+|Discus D
+|Q – O’Brien
+|10th
+|9.28m
+|-
+|Javelin A
+|Q – Dodd
+
+Final – Dodd
+|4th
+
+4th
+|8.67m
+
+8.71m
+|-
+|Javelin B
+|Q – Schreiber
+
+Final – Schreiber
+|6th
+
+6th
+|9.46m
+
+9.46m
+|-
+|Javelin C
+|Q – Loydstrom
+
+Q – Smith
+
+Q – Workman
+|10th
+
+20th
+
+23rd
+|9.73m
+
+8.17m
+
+6.74m
+|-
+|Javelin D
+|Q – Hilton
+
+Final – Hilton
+
+Q – O’brien
+|5th
+
+5th
+
+9th
+|10.40m
+
+10.40m
+
+9.74m
+|-
+|Club Throw A
+|Q – Dodd
+
+Final – Dodd
+|6th
+
+4th
+|17.28m
+
+18.36m
+|-
+|Club Throw B
+|Q – Schreiber
+
+Final – Schreiber
+|4th
+
+5th
+|19.30m
+
+19.30m
+|-
+|Club Throw C
+|Q – Smith
+
+Q – Loydstrom
+
+Q – Workman
+|9th
+
+10th
+
+17th
+|20.05m
+
+19.47m
+
+16.85m
+|-
+|Club Throw D
+|Q – Hilton
+
+Q – O’brien
+|7th
+
+13th
+|19.65m
+
+14.43m
+|-
+|Precision Javelin Open
+|Q – Smith
+
+Final – Smith
+
+Q – Schreiber
+
+Final – Schreiber
+
+Q – Hilton
+
+Q – Dodd
+|2nd
+
+5th
+
+7th
+
+4th
+
+36th
+
+43rd
+|72
+
+66
+
+70
+
+70
+
+58
+
+50
+|-
+|Pentathlon Complete
+|Dodd
+|4th
+|2185
+|-
+|Pentathlon Incomplete
+|Loydstrom
+|5th
+|1873
+|-
+|Pentathlon Special Class
+|Hilton
+|3rd
+|3192
+|}
+
+=== Dartchery ===
+{{See also|Dartchery at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – [[Kevin Bawden]], [[Alan Conn]], [[Roy Fowler (Paralympian)|Roy Fowler]], [[Tony South (Paralympian)|Tony South]] <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Australia's only competitors in the dartchery competed in the Mixed Pairs event, with [[Kevin Bawden]] and [[Roy Fowler (Paralympian)|Roy Fowler]] being paired up, and the two gold medalists from the individual events, [[Tony South]] and [[Alan Conn]], teaming up.<ref name="Reference C" />
+
+South and Conn made their way to the gold-medal match against the US team of Geissinger and Kelderhouse, with the Australian pair coming up short and taking home the silver medal. The Australian team of Bawden and Fowler made it to the round of 16 where they were overcome by the eventual gold medal-winning US pair.<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup>
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in datchery<ref name="Reference C" />
+|Gender
+|Event
+|Team
+|Match
+|Score/Time
+|-
+| rowspan="7" |Mixed
+| rowspan="7" |Pairs Open
+|Conn/South vs India
+|1/16
+|Win
+|-
+|Conn/South vs USA
+|1/8
+|Win
+|-
+|Conn/South vs Belgium
+|Quarterfinal
+|Win
+|-
+|Conn/South vs Italy
+|Semifinal
+|Win
+|-
+|Conn/South vs USA
+|Final
+|Loss
+|-
+|Bawden/Fowler vs Sweden
+|1/16th 
+|Win
+|-
+|Bawden/Fowler vs USA
+|1/8th 
+|Loss
+|}
+
+=== Lawn Bowls ===
+{{See also|Lawn bowls at the 1968 Summer Paralympics}}
+
+Lawn bowls was a sport that was first included in the Paralympics in 1968. The events that took place were the Men's Singles, men's Pairs, women's Singles and Women's Pairs. According to official records of the games, there were no Australian athletes that competed in the Lawn Bowls competition in Tel Aviv.<ref name=":0" /><ref name=":3" /><ref name="Reference C" />
+
+=== Snooker ===
+{{See also|Snooker at the 1968 Summer Paralympics}}
+
+Australia represented by:
+
+'''Men''' – John Beattie, John Newton<sup>[[Australia at the 1968 Summer Paralympics#cite note-apc-6|[6]]]</sup> <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+John Newton finished with a bronze medal after losing his semifinal to eventual gold medallist, Great Britain's [[Michael Shelton]].<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup>
+
+Men's Tournament open was the only Snooker event at the Games. John Newton advanced to the semifinals after defeating Italy's Gambatesa but lost the semifinal to Michael Shelton from Great Britain, who went on to win the gold medal, to finish equal third with Ruschioni from Italy.<ref name="Reference C" /><ref name="apc" />
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in snooker<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Score/Time
+|-
+| rowspan="2" |Men
+| rowspan="2" |Tournament Open
+|AUS vs Italy
+|Quarterfinal
+|Win
+|-
+|AUS vs GBR
+|Semifinal
+|Loss
+|}
+
+=== Swimming ===
+{{See also|Swimming at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – Felix Blums, Brian Chambers, [[Gary Hooper (Paralympian)|Gary Hooper]], [[Bill Mather-Brown]], [[Alan McLucas]], [[Frank Ponta]], [[Jeff Simmonds]], [[Don Watts]]
+
+'''Women''' – [[Lorraine Dodd]], [[Elizabeth Edmondson]], [[Daphne Hilton]], Sally Lamb, Cherrie Loydstrom <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Australia's females dominated the pool, with [[Lorraine Dodd]] and [[Elizabeth Edmondson]] setting five World Records between them at the Games.<ref name=":13" /><ref name="Reference C" /> Dodd set three World Records on her way to three gold medals in the 25m [[Backstroke]], [[Breaststroke]], and [[Freestyle swimming|Freestyle]] Class 2 Complete events.<ref name=":13" /><ref name="Reference C" /> Edmondson's two gold medals also came in world-record time; one in the Freestyle 50m Class 4 Incomplete and the other in the Freestyle 100m Open event.<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup>
+
+[[Daphne Hilton]] followed up her pair of bronze medals in Athletics with a silver medal in the Class 5 (cauda equina) 50m Freestyle event, demonstrating a lot of range with her athletic abilities.<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup>
+
+Edmondson finished the Backstroke 50m C4 Incomplete event with a silver medal despite her final time being slower than her qualifying time.<ref name="Reference C" /> Chambers ranked first in his heat of the same event but was not fast enough to make the final.<ref name="Reference C" /> While America and Great Britain significantly surpassed every other nation in the Swimming medal tally, Australia took away 11 medals from the Swimming events alone, which demonstrated a very successful event for the Australian team at the 1968 Paralympic Games.<ref name=":10" /><ref name="Reference C" /><ref name=":13" /> 
+{| class="wikitable sortable mw-collapsible"
+|+Australia athlete results in swimming<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Score/Time
+|-
+| rowspan="15" |
+|Freestyle 25m C2 Complete
+|Heat – McLucas in Overall 
+|3rd
+
+9th 
+|51.00s
+|-
+|Freestyle 25m C2 Incomplete
+|Heat – Mather-Brown Final – Mather-Brown
+|2nd
+
+5th 
+|27.00s
+
+27.60s
+|-
+|Freestyle 50m C3 Incomplete
+|Heat – Watts 
+|4th 
+|50.80s
+|-
+|Freestyle 50m C4 Incomplete
+|Heat – Simmons
+
+Heat – Chambers
+
+Final – Chambers 
+|4th
+
+2nd
+
+6th 
+|44.70s
+
+43.40s
+
+41.90s
+|-
+|Backstroke 25m C2 Complete
+|Heat – Ponta
+
+Final – Ponta
+
+Heat – McLucas 
+|1st
+
+3rd
+
+4th 
+|30.80s
+
+30.90s
+
+44.90s
+|-
+|Backstroke 25m C2 Incomplete
+|Heat – Mather-Brown 
+|3rd 
+|38.20s
+|-
+|Backstroke 50m C3 Complete
+|Heat – Simmons
+
+Final – Simmons
+|1st
+
+4th 
+|1:05:80min
+
+1:07:80min
+|-
+|Backstroke 50m C4 Complete
+|Heat – Blums 
+|4th 
+|1:49:70min
+|-
+|Backstroke 50m C4 Incomplete
+|Heat – Chambers 
+|1st 
+|53.80s
+|-
+|Breaststroke 25m C2 Complete
+|Heat – Ponta
+
+Final – Ponta
+|3rd
+
+5th 
+|35.50s
+
+36.50s
+|-
+|Breaststroke 25m C2 Incomplete
+|Heat – Mather-Brown 
+|3rd 
+|39.30s
+|-
+|Breaststroke 50m C3 Complete
+|Heat – Simmons
+
+Final – Simmons
+|1st
+
+2nd 
+|1:02:20min
+
+1:02:60min
+|-
+|Breaststroke 50m C3 Incomplete
+|Heat – Watts
+
+Final – Watts
+
+Heat – Hooper 
+|1st
+
+2nd
+
+6th 
+|1:00:40min
+
+59.50s
+
+1:46:10min
+|-
+|Breaststroke 50m C4 Incomplete
+|Heat – Chambers 
+|4th 
+|1:08:50min
+|-
+|3x50m Medley Relay Open
+|AUS
+|9th 
+|2:41:80min
+|-
+| rowspan="12" |Women
+|Freestyle 25m C2 Complete
+|Heat – Dodd
+
+Final – Dodd 
+|1st
+
+1st  
+|27.20s
+
+26.90s
+|-
+|Freestyle 50m C4 Incomplete
+|Heat – Edmondson
+
+Final – Edmondson
+
+Heat – Loydstrom
+
+Final – Loydstrom
+|1st
+
+1st
+
+2nd
+
+6th 
+|44.00s
+
+44.10s
+
+1:01:40min
+
+1:06:50min
+|-
+|Freestyle 50m C5 Cauda Equina
+|Final – Hilton
+|2nd 
+|46.50s
+|-
+|Freestyle 100m Open
+|Final – Edmondson
+
+Final – Hilton
+|1st
+
+5th 
+|1:33:00min
+
+1:48:50min
+|-
+|Backstroke 25m C2 Complete
+|Heat – Dodd
+
+Final – Dodd
+|1st
+
+1st 
+|32.80s
+
+32.00s
+|-
+|Backstroke 25m C2 Incomplete
+|Heat – Lamb
+
+Final – Lamb
+|2nd
+
+2nd 
+|32.90s
+
+32.00s
+|-
+|Backstroke 50m C4 Incomplete
+|Heat – Edmondson Final – Edmondson
+
+Heat – Loydstrom 
+|1st
+
+2nd
+
+4th 
+|49.90s
+
+52.30s
+
+1:16:40min
+|-
+|Backstroke 50m C5 Cauda Equina
+|Heat – Hilton DQ
+|
+|
+|-
+|Breaststroke 25m C2 Complete
+|Heat – Dodd
+
+Final – Dodd
+|1st
+
+1st 
+|33.00s
+
+32.80s
+|-
+|Breaststroke 25m C2 Incomplete
+|Heat – Lamb
+
+Final – Lamb
+|2nd
+
+4th 
+|38.60s
+
+38.80s
+|-
+|Breaststroke 50m C4 Incomplete
+|Heat – Loydstrom 
+|4th 
+|1:36:00min
+|-
+|3x50m Medley Relay Open
+|
+|5th 
+|3:03:60min
+|}
+
+=== Table tennis ===
+{{See also|Table tennis at the 1968 Summer Paralympics}}
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – [[Kevin Bawden]], [[Alan Conn]], [[Kevin Coombs]], [[John Martin (Paralympian)|John Martin]], [[Bill Mather-Brown]], [[Alan McLucas]], [[Bruno Moretti (Paralympian)|Bruno Moretti]], Jimmy Newton, [[Tony South]], [[Don Watts]]
+
+'''Women''' – [[Lorraine Dodd]], [[Daphne Hilton]], [[Cherrie Ireland]], [[Marion O'Brien]], [[Elaine Schreiber]], Pam Smith <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Australia, had many athletes compete in Table Tennis in Tel Aviv, as did most nations that attended the Games.<ref name="Reference C" /> Both men's doubles teams were beaten and eliminated in the first round of the Men's Doubles B and C events but the Women's Doubles C team of [[Marion O'Brien]] and [[Elaine Schreiber]] won their way to the gold-medal match where they played Great Britain's pairing of Bryant and Carol Barnard, eventually going down and finishing in second place and the silver medal.<ref name="Reference C" /> The next highest ranking achieved by Australia was Martin, Kraft and O’brien all making the quarterfinal of their respective events.<ref name="Reference C" /> Great Britain, America and Germany all proved to be the most challenging teams for Australia as they topped the medal tally in Table Tennis along with the host nation, Israel.<ref name=":4" /><ref name="Reference C" /> 
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in table tennis<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Match
+|Score/Time
+|-
+| rowspan="8" |
+|Singles A2
+|McLucas
+|1/8th 
+|Win 1 – Loss 1
+|-
+|Singles B
+|Moretti
+
+Newton
+
+Mather-Brown
+|1/16th
+
+1/16th
+
+1/32nd 
+|Win 1 – Loss 1
+
+Win 1 – Loss 1
+
+Win 0 – Loss 1
+|-
+|Singles C
+|Martin
+
+Watts
+
+Coombs
+|QF
+
+1/32nd
+
+1/32nd 
+|Win 3 – Loss 1
+
+Win 0 – Loss 1
+
+Win 0 – Loss 1
+|-
+|Doubles B
+|Conn/South
+
+Moretti/Newton
+|1/16th
+
+1/16th 
+|Win 0 – Loss 1
+
+Win 0 – Loss 1
+|-
+|Doubles C
+|Coomb/Mather-Brown
+
+Martin/Watts
+|1/16th
+
+1/16th 
+|Win 0 – Loss 1
+
+Win 0 – Loss 1
+|-
+|Singles B
+|Dodd
+|1/16th 
+|Win 0 – Loss 1
+|-
+|Singles C
+|Smith
+
+Hilton
+
+Kraft
+
+Loydstrom
+
+O’Brien
+|1/32nd
+
+1/16th
+
+QF
+
+1/32nd
+
+QF 
+|Win 0 – Loss 1
+
+Win 0 – Loss 1
+
+Win 3 – Loss 1
+
+Win 0 – Loss 1
+
+Win 3 – Loss 1
+|-
+|Doubles C
+|O’Brien/Schreiber
+
+Loydstrom/Smith
+|Final
+
+1/8th 
+|Win 4 – Loss 1
+
+Win 1 – Loss 1
+|}
+
+=== Weightlifting ===
+{{See also|Weightlifting at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – [[Gary Hooper (Paralympian)|Gary Hooper]], [[Vic Renalson]] <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+The Weightlifting event had four different weight classifications but the only lift discipline was the Bench Press lift.<ref name=":3" /> [[Vic Renalson]] picked up his third gold medal of the Games in the Heavyweight lifting event, with a lift of 200&nbsp;kg not being challenged by the other competitors.<sup>[[Australia at the 1968 Summer Paralympics#cite note-Reference C-9|[9]]]</sup> Hooper just missed out on receiving a medal in the Lightweight event, equaling the weight lifted by Jamaica but placing fourth.<ref name="Reference C" /> 
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in weightlifting<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Weight
+|-
+| rowspan="2" |
+|Lightweight
+|Hooper
+|4th 
+|110&nbsp;kg
+|-
+|Heavyweight
+|Renalson
+|1st 
+|200&nbsp;kg
+|}
+
+=== Wheelchair basketball ===
+{{See also|Wheelchair basketball at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – [[Kevin Bawden]], Peter Burt, Brian Chambers, [[Kevin Cunningham (Paralympian)|Kevin Cunningham]], [[Kevin Coombs]], [[Bill Mather-Brown]], [[John Martin (Paralympian)|John Martin]], [[Robert McIntyre (Paralympian)|Robert McIntyre]], [[Bruno Moretti (Paralympian)|Bruno Moretti]], [[Frank Ponta]], Noel Simmons, [[Don Watts]]
+
+Basketball at the 1968 Paralympic Games was played outdoors on a polished brick court late in the afternoon under lights.<ref name=":2" /><ref name=":3" /><ref name=":0" /> Basketball was an important event to the Australian male Basketball athletes but they did not place as well as they wanted, coming in 5th overall.<ref name=":14" /><ref name=":1" /><ref name="Reference C" /> In Pool D, Australia lost to both Italy and Argentina and as a result, Australia did not proceed to the medal rounds.<ref name="Reference C" /> A classification event was played, in which the Australian team won against both Germany and Sweden and were placed 5th overall.<sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]] [[Australia at the 1968 Summer Paralympics#cite note-the-age-11|[11]]]</sup> The Basketball final in Tel Aviv was said to be the highlight of the 1968 Paralympic Games in which America played the home team of Israel.<ref name=":1" /><ref name=":0" /> While Australia did not compete in this match, the team has described what an insight this was and that they took a lot from the game and the athletes in that final.<ref name=":4" />
+
+Event: Men and new women comp that we did not have a team for
+{| class="wikitable sortable mw-collapsible"
+|+Australian athlete results in wheelchair basketball<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Score/Time
+|-
+| rowspan="4" |Men
+| rowspan="2" |Wheelchair Basketball
+|AUS vs Italy
+|Loss
+|23–37
+|-
+|AUS vs Argentina
+|Loss
+|20–24
+|-
+| rowspan="2" |Classification
+|AUS vs Germany
+|Win
+|37–22
+|-
+|AUS vs Sweden
+|Win
+|43–22
+|}
+
+=== Wheelchair fencing ===
+{{See also|Wheelchair fencing at the 1968 Summer Paralympics}}
+
+Australia represented by:<ref name="Reference C" />
+
+'''Men''' – [[Kevin Bawden]], [[Gary Hooper (Paralympian)|Gary Hooper]], [[John Martin (Paralympian)|John Martin]], Jimmy Newton
+
+'''Women''' – [[Daphne Hilton]], Pam Smith, Di Workman <sup>[[Australia at the 1968 Summer Paralympics#cite note-results-8|[8]]]</sup>
+
+Australia had multiple participants in the Wheelchair Fencing events in Tel Aviv, however, this was not their strongest event.<ref name=":4" /><ref name="Reference C" /> Hooper was successful in all five matches in his pool in the Men's Foil Individual event but did not progress past the second round of games as he was defeated by France, Italy and Great Britain.<ref name="Reference C" /> Hilton was the only other athlete to progress into round two and she placed 5th in the Women's Foil Individual event.<ref name="Reference C" /> 
+{| class="wikitable sortable mw-collapsible"
+|+Australian Athlete Results in Wheelchair Fencing<ref name="Reference C" />
+|Gender
+|Event
+|Athlete
+|Place
+|Score/Time
+|-
+| rowspan="3" |Men
+|Épée Individual 
+|Pool – Newton
+|5th 
+|Win 2 – Lost 4
+|-
+|Foil Individual
+|Pool – Newton
+
+Pool – Hooper
+
+2nd Round – Hooper
+|6th
+
+1st 
+|Win 0 – Lost 5
+
+Won 5 – Lost 0
+
+Win 0 – Lost 5
+|-
+|Novice Foil
+|Pool – Bawden
+
+Pool – Martin
+|4th
+
+4th 
+|Won 1 – Lost 3
+
+Won 0 – Lost 3
+|-
+| rowspan="2" |Women
+|Foil Individual
+|Pool – Workman
+
+Pool – Hilton
+
+2nd Round – Hilton
+|4th
+
+3rd
+
+5th 
+|Won 2 – Lost 3
+
+Won 2 – Lost 3
+
+Won 2 – Lost 3
+|-
+|Novice Foil
+|Pool – Smith
+|5th 
+|Won 0 – Lost 4
+|}
+
+==Medalists==
+{{further|1968 Summer Paralympics medal table}}While the 1968 Paralympic Games official medal tally was not incorporated in the games, after adding the final official results it was found that Australia ranked 4th in the nation with the most medals.<ref name=":0" /><ref name="Reference C" /> Australia won 15 Gold, 16 Silver and 7 Bronze, and was behind the United States of America, Great Britain and Israel on the medal tally but nonetheless achieved a very successful result in the 1968 Paralympic Games in Tel Aviv.<ref name=":4" /><ref name="Reference C" /><ref name=":0" /> A full list of Australia's medal winners is depicted below.<ref name="Reference C" />{{col-begin}}
+|  style="text-align:left; width:78%; vertical-align:top;"|
+
+{| class="wikitable sortable" style="font-size:90%"
+|-
+! Medal
+! Name
+! Sport
+! Event
+|-
+|| {{gold medal}}
+| {{sortname|Tony| South|Tony South (Paralympian)}}
+| [[Archery at the 1968 Summer Paralympics|Archery]]
+| [[Archery at the 1968 Summer Paralympics|Men's Albion Round Open]]
+|-
+|| {{gold medal}}
+| {{sortname|Alan|Conn}}
+| [[Archery at the 1968 Summer Paralympics|Archery]]
+| [[Archery at the 1968 Summer Paralympics|Men's Columbia Round Open]]
+|-
+|| {{gold medal}}
+| {{sortname|Gary|Hooper|Gary Hooper (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's 100 m Wheelchair A]]
+|-
+|| {{gold medal}}
+| {{sortname|Kevin|Munro}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's 100 m Wheelchair B]]
+|-
+|| {{gold medal}}
+| {{sortname|Vic|Renalson}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Club Throw A]]
+|-
+|| {{gold medal}}
+| {{sortname|Vic|Renalson}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Discus Throw A]]
+|-
+|| {{gold medal}}
+| {{sortname|Bruno|Moretti|Bruno Moretti (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Slalom A]]
+|-
+|| {{gold medal}}
+| {{sortname|Robert|McIntyre|Robert McIntyre (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Slalom B]]
+|-
+|| {{gold medal}}
+| {{sortname|Alan|McLucas}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Slalom Cervical Class]]
+|-
+|| {{gold medal}}
+| {{sortname|Lorraine|Dodd}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 25 m Freestyle Class 2 Complete]]
+|-
+|| {{gold medal}}
+| {{sortname|Lorraine|Dodd}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 25 m Backstroke Class 2 Complete]]
+|-
+|| {{gold medal}}
+| {{sortname|Lorraine|Dodd}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 25 m Breaststroke Class 2 Complete]]
+|-
+|| {{gold medal}}
+| {{sortname|Elizabeth|Edmondson}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 50 m Freestyle Class 4 Incomplete]]
+|-
+|| {{gold medal}}
+| {{sortname|Elizabeth|Edmondson}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 100 m Freestyle Open]]
+|-
+|| {{gold medal}}
+| {{sortname|Vic|Renalson}}
+| [[Weightlifting at the 1968 Summer Paralympics|Weightlifting]]
+| [[Weightlifting at the 1968 Summer Paralympics|Men's Heavyweight]]
+|-
+|| {{silver medal}}
+| {{sortname|Tony| South|}}
+| [[Archery at the 1968 Summer Paralympics|Archery]]
+| [[Archery at the 1968 Summer Paralympics|Men's FITA Round Open]]
+|-
+|| {{silver medal}}
+| {{sortname|Tony|South}}
+| [[Dartchery at the 1968 Summer Paralympics|Dartchery]]
+| [[Dartchery at the 1968 Summer Paralympics|Mixed Pairs Open]]
+|-
+|| {{silver medal}}
+| {{sortname|Alan|McLucas|}}
+| [[Archery at the 1968 Summer Paralympics|Archery]]
+| [[Archery at the 1968 Summer Paralympics|Men's St. Nicholas Round Cervical]]
+|-
+|| {{silver medal}}
+| {{sortname|Bruno|Moretti|Bruno Moretti (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's 100 m Wheelchair A]]
+|-
+|| {{silver medal}}
+| {{sortname|Gary|Hooper|Gary Hooper (Paralympian)}}, [[John Martin (Paralympian)|John Martin]], [[Bruno Moretti (Paralympian)|Bruno Moretti]], [[Kevin Munro]]
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's 4×40 m Relay Open]]
+|-
+|| {{silver medal}}
+| {{sortname|Vic|Renalson}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Javelin Throw A]]
+|-
+|| {{silver medal}}
+| {{sortname|Gary|Hooper|Gary Hooper (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Shot Put B]]
+|-
+|| {{silver medal}}
+| {{sortname|Bill|Mather-Brown}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Slalom A]]
+|-
+|| {{silver medal}}
+| {{sortname|John|Martin| John Martin (Paralympian)}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Slalom B]]
+|-
+|| {{silver medal}}
+| {{sortname|Lorraine|Dodd}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Women's Slalom A]]
+|-
+|| {{silver medal}}
+| {{sortname|Jeff|Simmonds}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Men's 50 m Breaststroke Class 3 Complete]]
+|-
+|| {{silver medal}}
+| {{sortname|Don|Watts}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Men's 50 m Breaststroke Class 3 Incomplete]]
+|-
+|| {{silver medal}}
+| {{sortname|Daphne|Hilton}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 50 m Freestyle Class 5 (cauda equina)]]
+|-
+|| {{silver medal}}
+| {{sortname|Sally|Lamb}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 25 m Backstroke Class 2 Incomplete]]
+|-
+|| {{silver medal}}
+| {{sortname|Elizabeth|Edmondson}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Women's 50 m Backstroke Class 4 Incomplete]]
+|-
+|| {{silver medal}}
+| {{sortname|Marion|O'Brien|Marion O'Brien}}, [[Elaine Schreiber]]
+| [[Table tennis at the 1968 Summer Paralympics|Table Tennis]]
+| [[Table tennis at the 1968 Summer Paralympics|Women's Doubles C]]
+|-
+|| {{bronze medal}}
+| {{sortname|Vic|Renalson}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Men's Shot Put A]]
+|-
+|| {{bronze medal}}
+| {{sortname|Lorraine|Dodd}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Women's Novices 60 m Wheelchair Dash A]]
+|-
+|| {{bronze medal}}
+| {{sortname|Daphne|Hilton}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Women's 60 m Wheelchair C]]
+|-
+|| {{bronze medal}}
+| {{sortname|Daphne|Hilton}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Women's Pentathlon Special Class]]
+|-
+|| {{bronze medal}}
+| {{sortname|Marion|O'Brien}}
+| [[Athletics at the 1968 Summer Paralympics|Athletics]]
+| [[Athletics at the 1968 Summer Paralympics|Women's Slalom C]]
+|-
+|| {{bronze medal}}
+| {{sortname|John|Newton|John Newton (bowls)}}
+| [[Snooker at the 1968 Summer Paralympics|Snooker]]
+| [[Snooker at the 1968 Summer Paralympics|Men's Open]]
+|-
+|| {{bronze medal}}
+| {{sortname|Frank|Ponta}}
+| [[Swimming at the 1968 Summer Paralympics|Swimming]]
+| [[Swimming at the 1968 Summer Paralympics|Men's 25 m Backstroke Class 2 Complete]]
+|}
+|  style="text-align:left; width:22%; vertical-align:top;"|
+
+{| class="wikitable"  style="font-size:85%; float:right;"
+|-
+!colspan=6|Medals by discipline
+|- style="text-align:center;"
+!Discipline
+![[File:Gold medal icon.svg]]
+![[File:Silver medal icon.svg]]
+![[File:Bronze medal icon.svg]]
+!Total
+|- style="text-align:center; font-weight:bold;"
+|[[#Archery|Archery]]
+|2
+|2
+|0
+|4
+|- style="text-align:center; font-weight:bold;"
+|[[#Athletics|Athletics]]
+|7
+|7
+|5
+|19
+|- style="text-align:center; font-weight:bold;"
+|[[#Dartchery|Dartchery]]
+|0
+|1
+|0
+|1
+|- style="text-align:center; font-weight:bold;"
+|[[#Snooker|Snooker]]
+|0
+|0
+|1
+|1
+|- style="text-align:center; font-weight:bold;"
+|[[#Swimming|Swimming]]
+|5
+|5
+|1
+|11
+|- style="text-align:center; font-weight:bold;"
+|[[#Table tennis|Table tennis]]
+|0
+|1
+|0
+|1
+|- style="text-align:center; font-weight:bold;"
+|[[#Weightlifting|Weightlifting]]
+|1
+|0
+|0
+|1
+|- style="text-align:center; font-weight:bold;"
+|[[#Wheelchair basketball|Wheelchair basketball]]
+|0
+|0
+|0
+|0
+|- style="text-align:center; "
+|[[#Wheelchair fencing|Wheelchair fencing]]
+|0
+|0
+|0
+|0
+|- style="text-align:center;"
+!Total
+!15
+!16
+!7
+!38
+|}
+
+{{col-end}}
+
+== Outstanding Performances ==
+[[File:Xx1168 - Tony South receives 1968 gold medal - 3b - scan.jpg|thumb|Tony South medal Tel Aviv 1968]]
+Among the Australian athlete team there were clearly a number of standout athletes whose performances at the 1968 Paralympic Games are worth acknowledging. These are athletes who have set world records, won numerous medals and/or participated in a large number of events in Tel Aviv.
+
+Tony South competed in 3 different sports, a total of 4 events and also won a gold medal in Men's Archery Albion Round Open and Silver in the Men's Archery FITA Round Open as well as Men's Dartchery Mixed Pairs Open.<ref name="Reference C" /> While he did not medal in Table Tennis, he won medals in all three of the four events he competed in.
+
+Lorraine Dodd had one of the highest achieving performances of the Australian team at these Games. In swimming Dodd competed in, won the gold medal and set a new world record in the Women's Freestyle, Backstroke and Breaststroke 25m Class 2 Complete, all in the same day.<ref name=":13" /><ref name=":4" /><ref name="Reference C" /><ref name=":17" /> Dodd also competed Table Tennis and in 9 Athletic events where she won a silver medal for Women's Slalom A and a bronze medal in the Women's Novice 60m Wheelchair Dash A.<ref name="Reference C" /> She not only participated in a large number of event but she performed well enough to win a total of 5 medals in the 1968 Paralympics, more than any Australian athlete at these games.<ref name="Reference C" />
+
+Daphne Hilton also competed in a large number of events in Tel Aviv which were five Athletics events, three Swimming events, one Table Tennis event and Fencing (results). Hilton won a silver medal in the Women's 50m Freestyle Class 5 (cauda equina) and a bronze medal in the Women's 60m Wheelchair C and Women's Pentathlon Special Class.<ref name=":13" /><ref name=":2" /><ref name=":4" /><ref name="Reference C" />
+
+Gary Hoper competed in a total of 12 events in Tel Aviv, nine Athletics events, one Swimming, one Weightlifting and one Fencing even.<ref name="Reference C" /> Hooper completed the Games with a gold medal in Men's 100m Wheelchair A Sprint, Silver in the Men's 4x40m Relay Open (Athletics) and a silver medal in the Men's Shot Put B.<ref name="Reference C" />
+
+Bill Mather-Brown represented Australia in two Athletics events, three Swimming events, two Table Tennis events and in the Men's Basketball, competing in a total of 8 events.<ref name="Reference C" /> Mather-Brown was able to secure a silver medal in the Men's Slalom A event.<ref name="Reference C" />
+
+Bruno Moretti's won a gold medal for the Men's Slalom A, a silver medal in the Men's 100m Wheelchair A and a silver medal in the Men's 4x40m Relay Open (Athletics).<ref name="Reference C" /> Moretti also competed in three other Athletics events, two Table Tennis events and Men's Basketball.<ref name="Reference C" />
+
+Vic Renalson's results at the 1968 Paralympic Games were one of the most successful from Australia's team. Renalson won a gold medal in Men's club throw A, men's discuss A, heavyweight weightlifting, a silver medal in Men's javelin A and a bronze medal in Men's shot put A, winning a medal in every event he competed in.<ref name="Reference C" />
+
+Elizabeth Edmondson won a medal in all the events she competed in at the Games but she also set two world records in the events in which she won the gold medal for.<ref name="Reference C" /> Edmondson won the gold medal and broke the world record in the Women's 50m freestyle class 4 incomplete and the Women's 100m Freestyle Open.<ref name="Reference C" /> The third and only other event Edmondson participated in was the Women's 50m backstroke class 4 incomplete in which she won a silver medal.<ref name="Reference C" />
+
+The final standout athlete from the Games in the Australian team was Allan McLucas who competed in four different sports as well as won two medals. McLucas won a gold medal in the Men's slalom cervical event and a silver medal in the Men's Archery St. Nicholas round cervical event.<ref name="Reference C" /> While no podium finish was achieved, McLucas also competed in the Men's freestyle and backstroke 25m class 2 complete events at the 1968 Paralympic Games.<ref name="Reference C" />
+
+== Politics ==
+The Paralympic Games were held Israel approximately one year after the Six Day War took place between Israel and Egypt, Syria and Jordan.<ref name=":16" /><ref name=":4" /><ref name=":1" /> Australian athletes were accompanied by female army staff throughout the duration of the Games. Armed army officers were present at the games and on the streets and many athletes recall seeing damaged tanks, cars and bullet holes during their time at the Games.<ref name=":4" /> The presence and abundance of these aspects could have been exaggerated or seen to stand out due to the Australia athletes potentially not have been exposed to anything like this prior, however, many athletes recall that these were present in Israel during the Games and left them with a feeling of slight apprehension at times.
+
+After competition had finished, Daphne Hilton and other athletes attended a marketplace in Maccabi, Israel when gunfire broke out and the Army got involved.<ref name=":4" /> These recounts describe potential political unrest in Israel during the Paralympic Games in 1968. However, the details are not well documented and are simply the Australian teams interpretation of the situation. At a Paralympic dinner event in Israel that followed the games, Israeli personnel discussed how they do not want peace and not to fight. No threatening events or disruption or hostile events occurred during the Paralympic Games and remnants are not an indicator of the actual situation in Israel at the time.<ref name=":16" /><ref name=":4" />
+
+An incidence of racial discrimination towards Australian team member Kevin Coombs was stated by Coobs and other athletes and support staff to have taken place stemming from a South African athlete in a bar at the Maccabi Village during the Games.<ref name=":2" /> Coombs and Billy Mather-Brown recall an athlete saying out loud to Coombs "What, are they opening a bar for niggers now?". This is potentially related to why South Africa were banned from participating in the Summer Olympic Games that same year.<ref name=":16" /><ref name=":0" /><ref name=":2" /> Although, this appeared to be an isolated incident and was resolved soon after as the athlete apologised.
+
+There was a policy arranged by Israel with Britain to have Rhodesian athletes enter the country without their passports being checked to eliminate political issues associated with their participation in the Paralympic Games in Tel Aviv as their Olympic team were banned from the Olympics in Mexico in 1968 by Britain as a result of national racial and political issues that occurred at the time.<ref name=":16" /><ref name=":0" /> There was also a policy in place in Israel at the time that required the German athletes and staff to complete a questionnaire regarding their political past and if and what category they had been denazified in, this was due to issues surrounding the Holocaust that occurred many years earlier.<ref name=":0" /> The official medal tally, raising of national flags and playing national anthems for medal presentations were completely removed from the games in an attempt to reduce the political competitiveness between nations as it was reportedly seen at the 1968 Summer Olympics.<ref name=":0" /> There were a number of political issues that were factored into the 1968 Paralympic Games in Tel Aviv and, like those experienced by Kevin Coombs, some did affect the Australian team.
+
+==Closing ceremony==
+The closing ceremony took place at the Tel Aviv Fair Grounds on 13 November. Deputy Prime Minister [[Yigal Allon]] and the Mayor of Tel Aviv, [[Mordechai Namir]], were both in attendance for the ceremony to see trophies presented to athletes, as well as a display by dancers from three local [[kibbutzim]]. Allon thanked participants for their involvement and contribution to world unity, and declared the Games closed.<ref name="ReferenceA"/>
+
+==Post Games==
+Following the Games, the Australian team visited a Kibbutz near Lake Tiberias where they were provided with lunch and received a small bottle of holy water each on their return (stoke to mandeville, NLA). When travelling back to Australia, the team spent two days in Bangkok, followed by three days in Singapore. While in Singapore, the Australian team demonstrated sport to local paraplegics.<sup>[[Australia at the 1968 Summer Paralympics#cite note-12|[12]]]</sup><ref>{{cite book|title=Report and accounts|year=1968|publisher=Paraplegic Association of Western Australia|location=Perth|page=8}}</ref> In support of the Australian Athletes and the Games, Australia Post introduced stamps of both the Olympic and Paralympic Games for the first time in 1968 of the Mexico Olympics and the Paralympics in Tel Aviv.<ref name=":0" />
+
+===Reunions===
+
+In June 2013, four [[South Australia]] members of the 1968 Australian Paralympics Team relived memories as part of the [[Australian Paralympic Committee]] history project.<ref name=advertiser/> Archer Pam McLeod née Smith and wheelchair sprinter [[Kevin Munro]] were joined by [[Libby Kosmala]] and team nurse Janet Tyler. Kosmala who went on to compete in a record eleven Paralympic Games commented that:  ''In those days athletes had to use their everyday chair to compete in, now they've got specialized chairs for all sports from sprinting to basketball to shooting''.<ref name=advertiser>{{cite news|last=Homfray|first=Reece|title=First SA Paralympians reunite 45 years on|work=The Advertiser|location=Adelaide|date=24 June 2013}}</ref> The 1968 Games were the first Games where South Australia athletes had been selected for Australia.<ref name=advertiser/> 
+`
+
+== See also ==
+* [[Australia at the 1968 Summer Olympics]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+Several oral histories are available online from Australian athletes who competed at the Games.
+* [http://trove.nla.gov.au/work/28440803 Kevin Coombs interviewed by Robin Poke in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://catalogue.nla.gov.au/Record/4939930 Daphne Hilton (née Ceeney) interviewed by Robin Poke in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://catalogue.nla.gov.au/Record/4972103 Gary Hooper interviewed by Rob Willis in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://catalogue.nla.gov.au/Record/4901272 Frank Ponta interviewed by Robin Poke in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://catalogue.nla.gov.au/Record/4901270 Bill Mather-Brown interviewed by Robin Poke in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://catalogue.nla.gov.au/Record/4972112 Bruno Moretti interviewed by Nikki Henningham in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2010]
+* [http://trove.nla.gov.au/work/166768126 John Martin interviewed by Ian Jobling in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2012]
+* [http://catalogue.nla.gov.au/Record/5350493 Kevin Cunningham interviewed by Ian Jobling in the Australian Centre for Paralympic Studies oral history project, National Library of Australia, 2011]
+
+{{NPCin1968SummerParalympics}}
+
+[[Category:Nations at the 1968 Summer Paralympics]]
+[[Category:Australia at the Paralympics|1968]]
+[[Category:1968 in Australian sport|Paralympics]]

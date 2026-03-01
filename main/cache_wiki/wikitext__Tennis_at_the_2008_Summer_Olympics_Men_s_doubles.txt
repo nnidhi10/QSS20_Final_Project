@@ -1,0 +1,498 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox tennis tournament event|2008|Summer Olympics|s
+| defchamp = 
+| champ = {{flagIOCathlete|[[Roger Federer]] <br> {{flagicon|SUI}} [[Stan Wawrinka]]|SUI|2008 Summer}}
+| runner = {{flagIOCathlete|[[Simon Aspelin]] <br> {{flagicon|SWE}} [[Thomas Johansson]]|SWE|2008 Summer}}
+| score = 6–3, 6–4, 6–7<sup>(4–7)</sup>, 6–3
+| quadrennial = yes
+| multi = yes
+| qual_type = qual
+}}
+{{Infobox Olympic event
+|event = Men's doubles tennis
+|games = 2008 Summer
+|image = File:Olympic Green Tennis Centre Interior.jpg
+|caption = Tennis at the 2008 Olympics
+|venue = [[Olympic Green Tennis Centre]]
+|dates = 10–16 August 2008
+|competitors = 64
+|nations = 24
+|gold = [[Roger Federer]]<br>[[Stan Wawrinka]]
+|goldNOC = SUI
+|silver = [[Simon Aspelin]]<br>[[Thomas Johansson]]
+|silverNOC = SWE
+|bronze = [[Bob Bryan]]<br>[[Mike Bryan]]
+|bronzeNOC = USA
+|prev = [[Tennis at the 2004 Summer Olympics – Men's doubles|2004]]
+|next = [[Tennis at the 2012 Summer Olympics – Men's doubles|2012]]
+}}
+{{main|Tennis at the 2008 Summer Olympics}}
+
+[[Switzerland at the 2008 Summer Olympics|Switzerland]]'s [[Roger Federer]] and [[Stanislas Wawrinka]] defeated [[Sweden at the 2008 Summer Olympics|Sweden]]'s [[Simon Aspelin]] and [[Thomas Johansson]] in the final, 6–3, 6–4, 6–7<sup>(4–7)</sup>, 6–3 to win the gold medal in men's doubles [[tennis]] at the [[2008 Summer Olympics]].<ref>{{cite web|url=https://www.olympics.com/en/news/roger-federer-tennis-men-double|title=With Stan Wawrinka, Roger Federer's Olympic dream comes true|publisher=olympics.com|accessdate=10 July 2025}}</ref> In the bronze medal match, the [[United States at the 2008 Summer Olympics|United States]]' [[Bob Bryan]] and [[Mike Bryan]] defeated [[France at the 2008 Summer Olympics|France]]'s [[Arnaud Clément]] and [[Michaël Llodra]], 3–6, 6–3, 6–4. It was Sweden's and the United States' first medals in the event since [[Tennis at the 1988 Summer Olympics – Men's doubles|1988]].
+
+The tournament was held from August 10 to August 16 at the [[Olympic Green Tennis Centre]], in [[Beijing]], China. The [[DecoTurf]] surface rendered the event a [[hardcourt]] tournament. There were 32 pairs from 24 nations.<ref name=Olympedia/>
+
+[[Chile at the 2008 Summer Olympics|Chile]]'s [[Fernando González]] and [[Nicolas Massú]] were the reigning gold medalists from [[Tennis at the 2004 Summer Olympics – Men's doubles|2004]], but they lost in the first round to [[Russia at the 2008 Summer Olympics|Russia]]'s [[Dmitry Tursunov]] and [[Mikhail Youzhny]].
+
+==Background==
+
+This was the 13th appearance of men's doubles tennis. The event has been held at every Summer Olympics where tennis has been on the program: from 1896 to 1924 and then from 1988 to the current program. A demonstration event was held in 1968.
+
+The American pair of the [[Bryan brothers]], [[Bob Bryan]] and [[Mike Bryan]], were the top seed in 2004 but had exited in the quarterfinals. They were again the number one seed in Beijing.<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/261950 |work=Olympedia |title=Doubles, Men |access-date=28 December 2020}}</ref> The 2004 gold winning pair of [[Fernando González]] and [[Nicolás Massú]] returned, as did German silver medalists [[Nicolas Kiefer]] and [[Rainer Schüttler]] and Indian fourth-place finishers [[Mahesh Bhupathi]] and [[Leander Paes]]. 2000 gold medalist [[Daniel Nestor]] of Canada competed once again with his 2004 partner, [[Frédéric Niemeyer]]. Each of the [[Big Three (tennis)|Big Four]] competed, but expectations of them in the doubles were not particularly high.
+
+Serbia made its debut in the event. France and Great Britain each made their 10th appearance in the event, tied for most of all nations.
+
+==Qualification==
+{{main|Tennis at the 2008 Summer Olympics – Qualification}}
+
+Qualification for the men's doubles was primarily through the ATP ranking list of 9 June 2008. Nations had been able to enter two pairs (four players) in the event since the 2004 Games. Each nation was limited to a total of 6 male players in the singles and doubles events combined, so nations with 4 singles players could add only 2 more in doubles. The men's doubles draw was 32 pairs (64 players), with most of the pairs coming from the singles event where nations had 2 or 4 players. There were 10 quota places for direct qualification to the doubles event, based on world ranking. The ITF allocated 12 places based on ranking and continental and national representation (bringing the total number of male tennis players to 86).
+
+==Competition format==
+
+The competition was a single-elimination tournament with a bronze medal match. Matches were best-of-3 sets, except for the final which was best-of-5 sets. [[Tiebreak]]ers were not played in the final set.
+
+==Schedule==
+{| class="wikitable" style="text-align:center"
+!width=10%|August
+!width=10%|11
+!width=10%|12
+!width=10%|13
+!width=10%|14
+!width=10%|15
+!width=10%|16
+|-
+!Morning
+!10.30
+!10.30
+!
+!
+!
+!
+|-
+!Afternoon
+!17.00
+!17.00
+!16.00
+!18.00<br />'''(rain delay)'''
+!16.00
+!16.00
+|-
+|
+|First round
+|First round
+|Second round
+|Quarterfinals
+|Semifinals
+|bgcolor="FFDF80"|Bronze medal match<br>Gold medal match
+|-
+|}
+
+==Seeds==
+{{columns-list|colwidth=30em|
+# {{flagIOCathlete|[[Bob Bryan]] / [[Mike Bryan]]|USA|2008 Summer}} ''(semifinals, bronze medalists)''
+# {{flagIOCathlete|[[Novak Djokovic]] / [[Nenad Zimonjić]]|SRB|2008 Summer}} ''(first round)''
+# {{flagIOCathlete|[[Jonathan Erlich]] / [[Andy Ram]]|ISR|2008 Summer}} ''(first round)''
+# '''{{flagIOCathlete|[[Roger Federer]] '''/''' [[Stan Wawrinka]]|SUI|2008 Summer}} (champions, gold medalists)'''
+# {{flagIOCathlete|[[Nicolás Almagro]] / [[David Ferrer]]|ESP|2008 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Rafael Nadal]] / [[Tommy Robredo]]|ESP|2008 Summer}} ''(second round)''
+# {{flagIOCathlete|[[Mahesh Bhupathi]] / [[Leander Paes]]|IND|2008 Summer}} ''(quarterfinals)''
+# {{flagIOCathlete|[[Igor Andreev]] / [[Nikolay Davydenko]]|RUS|2008 Summer}} ''(quarterfinals)''
+}}
+
+==Draw==
+
+===Key===
+{{col-begin}}
+{{col-2}}
+* INV = [[Tennis at the 2008 Summer Olympics – Qualification#Qualifying criteria|Tripartite Invitation]]
+* IP = [[Tennis at the 2008 Summer Olympics – Qualification#Qualifying criteria|ITF place]]
+* ALT = [[Tennis terminology#A|Alternate]]
+{{col-2}}
+* r = [[Retired (tennis)|Retired]]
+* w/o = [[Walkover (tennis)|Walkover]]
+{{col-end}}
+
+===Finals===
+{{4TeamBracket
+| sets = 3/5/3
+| RD1=Semifinals
+| RD2=Final (gold medal match)
+| 3rd=Bronze medal match
+| team-width=185
+| RD1-seed1=1
+| RD1-team1={{flagIOCathlete|[[Bob Bryan]]|USA|2008 Summer}}<br />{{flagIOCathlete|[[Mike Bryan]]|USA|2008 Summer}}
+| RD1-score1-1=6<sup>6</sup>
+| RD1-score1-2=4
+| RD1-score1-3=&nbsp;
+| RD1-seed2=4
+| RD1-team2='''{{flagIOCathlete|[[Roger Federer]]|SUI|2008 Summer}}<br />{{flagIOCathlete|[[Stan Wawrinka]]|SUI|2008 Summer}}'''
+| RD1-score2-1='''7<sup>8</sup>'''
+| RD1-score2-2='''6'''
+| RD1-score2-3=&nbsp;
+| RD1-seed3=&nbsp;
+| RD1-team3={{flagIOCathlete|[[Arnaud Clément]]|FRA|2008 Summer}}<br />{{flagIOCathlete|[[Michaël Llodra]]|FRA|2008 Summer}}
+| RD1-score3-1=6<sup>6</sup>
+| RD1-score3-2='''6'''
+| RD1-score3-3=17
+| RD1-seed4=&nbsp;
+| RD1-team4='''{{flagIOCathlete|[[Simon Aspelin]]|SWE|2008 Summer}}<br />{{flagIOCathlete|[[Thomas Johansson]]|SWE|2008 Summer}}'''
+| RD1-score4-1='''7<sup>8</sup>'''
+| RD1-score4-2=4
+| RD1-score4-3='''19'''
+| RD2-seed1=4
+| RD2-team1='''{{flagIOCathlete|[[Roger Federer]]|SUI|2008 Summer}}<br />{{flagIOCathlete|[[Stan Wawrinka]]|SUI|2008 Summer}}'''
+| RD2-score1-1='''6'''
+| RD2-score1-2='''6'''
+| RD2-score1-3=6<sup>4</sup>
+| RD2-score1-4='''6'''
+| RD2-score1-5=&nbsp;
+| RD2-seed2=&nbsp;
+| RD2-team2={{flagIOCathlete|[[Simon Aspelin]]|SWE|2008 Summer}}<br />{{flagIOCathlete|[[Thomas Johansson]]|SWE|2008 Summer}}
+| RD2-score2-1=3
+| RD2-score2-2=4
+| RD2-score2-3='''7<sup>7</sup>'''
+| RD2-score2-4=3
+| RD2-score2-5=&nbsp;
+| 3rd-seed1=1
+| 3rd-team1='''{{flagIOCathlete|[[Bob Bryan]]|USA|2008 Summer}}<br />{{flagIOCathlete|[[Mike Bryan]]|USA|2008 Summer}}'''
+| 3rd-score1-1=3
+| 3rd-score1-2='''6'''
+| 3rd-score1-3='''6'''
+| 3rd-seed2=&nbsp;
+| 3rd-team2={{flagIOCathlete|[[Arnaud Clément]]|FRA|2008 Summer}}<br />{{flagIOCathlete|[[Michaël Llodra]]|FRA|2008 Summer}}
+| 3rd-score2-1='''6'''
+| 3rd-score2-2=3
+| 3rd-score2-3=4
+}}
+
+===Top half===
+{{16TeamBracket-Compact-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Quarterfinals
+| RD4=Semifinals
+| RD1-seed01=1
+| RD1-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2008 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2008 Summer}}'''
+| RD1-score01-1='''6'''
+| RD1-score01-2='''6'''
+| RD1-score01-3=&nbsp;
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagIOCathlete|[[Mark Knowles|M Knowles]]|BAH|2008 Summer}}<br/>{{flagIOCathlete|[[Devin Mullings|D Mullings]]|BAH|2008 Summer}}
+| RD1-score02-1=2
+| RD1-score02-2=1
+| RD1-score02-3=&nbsp;
+| RD1-seed03=IP
+| RD1-team03={{flagIOCathlete|[[Nicolas Kiefer|N Kiefer]]|GER|2008 Summer}}<br/>{{flagIOCathlete|[[Rainer Schüttler|R Schüttler]]|GER|2008 Summer}}
+| RD1-score03-1='''7<sup>7</sup>'''
+| RD1-score03-2=3
+| RD1-score03-3=1
+| RD1-seed04=&nbsp;
+| RD1-team04='''{{flagIOCathlete|[[Julian Knowle|J Knowle]]|AUT|2008 Summer}}<br/>{{flagIOCathlete|[[Jürgen Melzer|J Melzer]]|AUT|2008 Summer}}'''
+| RD1-score04-1=6<sup>3</sup>
+| RD1-score04-2='''6'''
+| RD1-score04-3='''6'''
+| RD1-seed05=IP
+| RD1-team05='''{{flagIOCathlete|[[Chris Guccione (tennis)|C Guccione]]|AUS|2008 Summer}}<br/>{{flagIOCathlete|[[Lleyton Hewitt|L Hewitt]]|AUS|2008 Summer}}'''
+| RD1-score05-1=4
+| RD1-score05-2='''7<sup>7</sup>'''
+| RD1-score05-3='''18'''
+| RD1-seed06=IP
+| RD1-team06={{flagIOCathlete|[[Agustín Calleri|A Calleri]]|ARG|2008 Summer}}<br/>{{flagIOCathlete|[[Juan Mónaco|J Mónaco]]|ARG|2008 Summer}}
+| RD1-score06-1='''6'''
+| RD1-score06-2=6<sup>4</sup>
+| RD1-score06-3=16
+| RD1-seed07=&nbsp;
+| RD1-team07={{flagIOCathlete|[[Jonas Björkman|J Björkman]]|SWE|2008 Summer}}<br/>{{flagIOCathlete|[[Robin Söderling|R Söderling]]|SWE|2008 Summer}}
+| RD1-score07-1=3
+| RD1-score07-2=3
+| RD1-score07-3=&nbsp;
+| RD1-seed08=6
+| RD1-team08='''{{flagIOCathlete|[[Rafael Nadal|R Nadal]]|ESP|2008 Summer}}<br/>{{flagIOCathlete|[[Tommy Robredo|T Robredo]]|ESP|2008 Summer}}'''
+| RD1-score08-1='''6'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=&nbsp;
+| RD1-seed09=4
+| RD1-team09='''{{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2008 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2008 Summer}}'''
+| RD1-score09-1='''7'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=&nbsp;
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagIOCathlete|[[Simone Bolelli|S Bolelli]]|ITA|2008 Summer}}<br/>{{flagIOCathlete|[[Andreas Seppi|A Seppi]]|ITA|2008 Summer}}
+| RD1-score10-1=5
+| RD1-score10-2=1
+| RD1-score10-3=&nbsp;
+| RD1-seed11=Alt
+| RD1-team11='''{{flagIOCathlete|[[Dmitry Tursunov|D Tursunov]]|RUS|2008 Summer}}<br/>{{flagIOCathlete|[[Mikhail Youzhny|M Youzhny]]|RUS|2008 Summer}}'''
+| RD1-score11-1='''7<sup>7</sup>'''
+| RD1-score11-2='''6'''
+| RD1-score11-3=&nbsp;
+| RD1-seed12=IP
+| RD1-team12={{flagIOCathlete|[[Fernando González|F González]]|CHI|2008 Summer}}<br/>{{flagIOCathlete|[[Nicolás Massú|N Massú]]|CHI|2008 Summer}}
+| RD1-score12-1=6<sup>5</sup>
+| RD1-score12-2=4
+| RD1-score12-3=&nbsp;
+| RD1-seed13=&nbsp;
+| RD1-team13={{flagIOCathlete|[[Tomáš Berdych|T Berdych]]|CZE|2008 Summer}}<br/>{{flagIOCathlete|[[Radek Štěpánek|R Štěpánek]]|CZE|2008 Summer}}
+| RD1-score13-1='''7'''
+| RD1-score13-2=2
+| RD1-score13-3=6
+| RD1-seed14=&nbsp;
+| RD1-team14='''{{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2008 Summer}}<br/>{{flagIOCathlete|[[André Sá|A Sá]]|BRA|2008 Summer}}'''
+| RD1-score14-1=5
+| RD1-score14-2='''6'''
+| RD1-score14-3='''8'''
+| RD1-seed15=&nbsp;
+| RD1-team15={{flagIOCathlete|[[Gaël Monfils|G Monfils]]|FRA|2008 Summer}}<br/>{{flagIOCathlete|[[Gilles Simon|G Simon]]|FRA|2008 Summer}}
+| RD1-score15-1=3
+| RD1-score15-2=3
+| RD1-score15-3=&nbsp;
+| RD1-seed16=7
+| RD1-team16='''{{flagIOCathlete|[[Mahesh Bhupathi|M Bhupathi]]|IND|2008 Summer}}<br/>{{flagIOCathlete|[[Leander Paes|L Paes]]|IND|2008 Summer}}'''
+| RD1-score16-1='''6'''
+| RD1-score16-2='''6'''
+| RD1-score16-3=&nbsp;
+| RD2-seed01=1
+| RD2-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2008 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2008 Summer}}'''
+| RD2-score01-1='''7<sup>7</sup>'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=&nbsp;
+| RD2-seed02=&nbsp;
+| RD2-team02={{flagIOCathlete|[[Julian Knowle|J Knowle]]|AUT|2008 Summer}}<br/>{{flagIOCathlete|[[Jürgen Melzer|J Melzer]]|AUT|2008 Summer}}
+| RD2-score02-1=6<sup>2</sup>
+| RD2-score02-2=4
+| RD2-score02-3=&nbsp;
+| RD2-seed03=IP
+| RD2-team03='''{{flagIOCathlete|[[Chris Guccione (tennis)|C Guccione]]|AUS|2008 Summer}}<br/>{{flagIOCathlete|[[Lleyton Hewitt|L Hewitt]]|AUS|2008 Summer}}'''
+| RD2-score03-1='''6'''
+| RD2-score03-2='''7<sup>7</sup>'''
+| RD2-score03-3=&nbsp;
+| RD2-seed04=6
+| RD2-team04={{flagIOCathlete|[[Rafael Nadal|R Nadal]]|ESP|2008 Summer}}<br/>{{flagIOCathlete|[[Tommy Robredo|T Robredo]]|ESP|2008 Summer}}
+| RD2-score04-1=2
+| RD2-score04-2=6<sup>5</sup>
+| RD2-score04-3=&nbsp;
+| RD2-seed05=4
+| RD2-team05='''{{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2008 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2008 Summer}}'''
+| RD2-score05-1='''6'''
+| RD2-score05-2='''6'''
+| RD2-score05-3=&nbsp;
+| RD2-seed06=Alt
+| RD2-team06={{flagIOCathlete|[[Dmitry Tursunov|D Tursunov]]|RUS|2008 Summer}}<br/>{{flagIOCathlete|[[Mikhail Youzhny|M Youzhny]]|RUS|2008 Summer}}
+| RD2-score06-1=4
+| RD2-score06-2=3
+| RD2-score06-3=&nbsp;
+| RD2-seed07=&nbsp;
+| RD2-team07={{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2008 Summer}}<br/>{{flagIOCathlete|[[André Sá|A Sá]]|BRA|2008 Summer}}
+| RD2-score07-1=4
+| RD2-score07-2=2
+| RD2-score07-3=&nbsp;
+| RD2-seed08=7
+| RD2-team08='''{{flagIOCathlete|[[Mahesh Bhupathi|M Bhupathi]]|IND|2008 Summer}}<br/>{{flagIOCathlete|[[Leander Paes|L Paes]]|IND|2008 Summer}}'''
+| RD2-score08-1='''6'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=&nbsp;
+| RD3-seed01=1
+| RD3-team01='''{{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2008 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2008 Summer}}'''
+| RD3-score01-1='''6'''
+| RD3-score01-2='''6'''
+| RD3-score01-3=&nbsp;
+| RD3-seed02=IP
+| RD3-team02={{flagIOCathlete|[[Chris Guccione (tennis)|C Guccione]]|AUS|2008 Summer}}<br/>{{flagIOCathlete|[[Lleyton Hewitt|L Hewitt]]|AUS|2008 Summer}}
+| RD3-score02-1=4
+| RD3-score02-2=3
+| RD3-score02-3=&nbsp;
+| RD3-seed03=4
+| RD3-team03='''{{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2008 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2008 Summer}}'''
+| RD3-score03-1='''6'''
+| RD3-score03-2='''6'''
+| RD3-score03-3=&nbsp;
+| RD3-seed04=7
+| RD3-team04={{flagIOCathlete|[[Mahesh Bhupathi|M Bhupathi]]|IND|2008 Summer}}<br/>{{flagIOCathlete|[[Leander Paes|L Paes]]|IND|2008 Summer}}
+| RD3-score04-1=2
+| RD3-score04-2=4
+| RD3-score04-3=&nbsp;
+| RD4-seed01=1
+| RD4-team01={{flagIOCathlete|[[Bob Bryan|B Bryan]]|USA|2008 Summer}}<br/>{{flagIOCathlete|[[Mike Bryan|M Bryan]]|USA|2008 Summer}}
+| RD4-score01-1=6<sup>6</sup>
+| RD4-score01-2=4
+| RD4-score01-3=&nbsp;
+| RD4-seed02=4
+| RD4-team02='''{{flagIOCathlete|[[Roger Federer|R Federer]]|SUI|2008 Summer}}<br/>{{flagIOCathlete|[[Stan Wawrinka|S Wawrinka]]|SUI|2008 Summer}}'''
+| RD4-score02-1='''7<sup>8</sup>'''
+| RD4-score02-2='''6'''
+| RD4-score02-3=&nbsp;
+}}
+
+===Bottom half===
+{{16TeamBracket-Compact-Tennis3
+| RD1=First round
+| RD2=Second round
+| RD3=Quarterfinals
+| RD4=Semifinals
+| RD1-seed01=8
+| RD1-team01='''{{flagIOCathlete|[[Igor Andreev|I Andreev]]|RUS|2008 Summer}}<br/>{{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2008 Summer}}'''
+| RD1-score01-1='''6'''
+| RD1-score01-2='''6'''
+| RD1-score01-3=&nbsp;
+| RD1-seed02=&nbsp;
+| RD1-team02={{flagIOCathlete|[[James Blake (tennis)|J Blake]]|USA|2008 Summer}}<br/>{{flagIOCathlete|[[Sam Querrey|S Querrey]]|USA|2008 Summer}}
+| RD1-score02-1=3
+| RD1-score02-2=4
+| RD1-score02-3=&nbsp;
+| RD1-seed03=&nbsp;
+| RD1-team03={{flagIOCathlete|[[Guillermo Cañas|G Cañas]]|ARG|2008 Summer}}<br/>{{flagIOCathlete|[[David Nalbandian|D Nalbandian]]|ARG|2008 Summer}}
+| RD1-score03-1='''7<sup>8</sup>'''
+| RD1-score03-2=6<sup>5</sup>
+| RD1-score03-3=3
+| RD1-seed04=IP
+| RD1-team04='''{{flagIOCathlete|[[Steve Darcis|S Darcis]]|BEL|2008 Summer}}<br/>{{flagIOCathlete|[[Olivier Rochus|O Rochus]]|BEL|2008 Summer}}'''
+| RD1-score04-1=6<sup>6</sup>
+| RD1-score04-2='''7<sup>7</sup>'''
+| RD1-score04-3='''6'''
+| RD1-seed05=&nbsp;
+| RD1-team05='''{{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2008 Summer}}<br/>{{flagIOCathlete|[[Jamie Murray|J Murray]]|GBR|2008 Summer}}'''
+| RD1-score05-1=4
+| RD1-score05-2='''6'''
+| RD1-score05-3='''6'''
+| RD1-seed06=&nbsp;
+| RD1-team06={{flagIOCathlete|[[Daniel Nestor|D Nestor]]|CAN|2008 Summer}}<br/>{{flagIOCathlete|[[Frédéric Niemeyer|F Niemeyer]]|CAN|2008 Summer}}
+| RD1-score06-1='''6'''
+| RD1-score06-2=3
+| RD1-score06-3=4
+| RD1-seed07=&nbsp;
+| RD1-team07='''{{flagIOCathlete|[[Arnaud Clément|A Clément]]|FRA|2008 Summer}}<br/>{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2008 Summer}}'''
+| RD1-score07-1='''6'''
+| RD1-score07-2='''6'''
+| RD1-score07-3=&nbsp;
+| RD1-seed08=3
+| RD1-team08={{flagIOCathlete|[[Jonathan Erlich|J Erlich]]|ISR|2008 Summer}}<br/>{{flagIOCathlete|[[Andy Ram|A Ram]]|ISR|2008 Summer}}
+| RD1-score08-1=4
+| RD1-score08-2=4
+| RD1-score08-3=&nbsp;
+| RD1-seed09=5
+| RD1-team09='''{{flagIOCathlete|[[Nicolás Almagro|N Almagro]]|ESP|2008 Summer}}<br/>{{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2008 Summer}}'''
+| RD1-score09-1=3
+| RD1-score09-2='''6'''
+| RD1-score09-3='''6'''
+| RD1-seed10=&nbsp;
+| RD1-team10={{flagIOCathlete|[[Kevin Anderson (tennis)|K Anderson]]|RSA|2008 Summer}}<br/>{{flagIOCathlete|[[Jeff Coetzee|J Coetzee]]|RSA|2008 Summer}}
+| RD1-score10-1='''6'''
+| RD1-score10-2=3
+| RD1-score10-3=4
+| RD1-seed11=&nbsp;
+| RD1-team11='''{{flagIOCathlete|[[Simon Aspelin|S Aspelin]]|SWE|2008 Summer}}<br/>{{flagIOCathlete|[[Thomas Johansson|T Johansson]]|SWE|2008 Summer}}'''
+| RD1-score11-1='''7<sup>9</sup>'''
+| RD1-score11-2='''6'''
+| RD1-score11-3=&nbsp;
+| RD1-seed12=&nbsp;
+| RD1-team12={{flagIOCathlete|[[Paul Hanley (tennis)|P Hanley]]|AUS|2008 Summer}}<br/>{{flagIOCathlete|[[Jordan Kerr|J Kerr]]|AUS|2008 Summer}}
+| RD1-score12-1=6<sup>7</sup>
+| RD1-score12-2=3
+| RD1-score12-3=&nbsp;
+| RD1-seed13=&nbsp;
+| RD1-team13={{nowrap|'''{{flagIOCathlete|[[Mariusz Fyrstenberg|M Fyrstenberg]]|POL|2008 Summer}}<br/>{{flagIOCathlete|[[Marcin Matkowski|M Matkowski]]|POL|2008 Summer}}'''}}
+| RD1-score13-1='''6'''
+| RD1-score13-2='''6'''
+| RD1-score13-3=&nbsp;
+| RD1-seed14=IP
+| RD1-team14={{flagIOCathlete|[[Yu Xinyuan|X Yu]]|CHN|2008 Summer}}<br/>{{flagIOCathlete|[[Zeng Shaoxuan|S Zeng]]|CHN|2008 Summer}}
+| RD1-score14-1=3
+| RD1-score14-2=4
+| RD1-score14-3=&nbsp;
+| RD1-seed15=&nbsp;
+| RD1-team15='''{{flagIOCathlete|[[Martin Damm|M Damm]]|CZE|2008 Summer}}<br/>{{flagIOCathlete|[[Pavel Vízner|P Vízner]]|CZE|2008 Summer}}'''
+| RD1-score15-1=3
+| RD1-score15-2='''6'''
+| RD1-score15-3='''6'''
+| RD1-seed16=2
+| RD1-team16={{flagIOCathlete|[[Novak Djokovic|N Djokovic]]|SRB|2008 Summer}}<br/>{{flagIOCathlete|[[Nenad Zimonjić|N Zimonjić]]|SRB|2008 Summer}}
+| RD1-score16-1='''6'''
+| RD1-score16-2=0
+| RD1-score16-3=2
+| RD2-seed01=8
+| RD2-team01='''{{flagIOCathlete|[[Igor Andreev|I Andreev]]|RUS|2008 Summer}}<br/>{{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2008 Summer}}'''
+| RD2-score01-1='''7<sup>8</sup>'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=&nbsp;
+| RD2-seed02=IP
+| RD2-team02={{flagIOCathlete|[[Steve Darcis|S Darcis]]|BEL|2008 Summer}}<br/>{{flagIOCathlete|[[Olivier Rochus|O Rochus]]|BEL|2008 Summer}}
+| RD2-score02-1=6<sup>6</sup>
+| RD2-score02-2=2
+| RD2-score02-3=&nbsp;
+| RD2-seed03=&nbsp;
+| RD2-team03={{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2008 Summer}}<br/>{{flagIOCathlete|[[Jamie Murray|J Murray]]|GBR|2008 Summer}}
+| RD2-score03-1=1
+| RD2-score03-2=3
+| RD2-score03-3=&nbsp;
+| RD2-seed04=&nbsp;
+| RD2-team04='''{{flagIOCathlete|[[Arnaud Clément|A Clément]]|FRA|2008 Summer}}<br/>{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2008 Summer}}'''
+| RD2-score04-1='''6'''
+| RD2-score04-2='''6'''
+| RD2-score04-3=&nbsp;
+| RD2-seed05=5
+| RD2-team05={{flagIOCathlete|[[Nicolás Almagro|N Almagro]]|ESP|2008 Summer}}<br/>{{flagIOCathlete|[[David Ferrer|D Ferrer]]|ESP|2008 Summer}}
+| RD2-score05-1=6<sup>6</sup>
+| RD2-score05-2=4
+| RD2-score05-3=&nbsp;
+| RD2-seed06=&nbsp;
+| RD2-team06='''{{flagIOCathlete|[[Simon Aspelin|S Aspelin]]|SWE|2008 Summer}}<br/>{{flagIOCathlete|[[Thomas Johansson|T Johansson]]|SWE|2008 Summer}}'''
+| RD2-score06-1='''7<sup>8</sup>'''
+| RD2-score06-2='''6'''
+| RD2-score06-3=&nbsp;
+| RD2-seed07=&nbsp;
+| RD2-team07={{nowrap|'''{{flagIOCathlete|[[Mariusz Fyrstenberg|M Fyrstenberg]]|POL|2008 Summer}}<br/>{{flagIOCathlete|[[Marcin Matkowski|M Matkowski]]|POL|2008 Summer}}'''}}
+| RD2-score07-1=1
+| RD2-score07-2='''7<sup>7</sup>'''
+| RD2-score07-3='''7'''
+| RD2-seed08=&nbsp;
+| RD2-team08={{flagIOCathlete|[[Martin Damm|M Damm]]|CZE|2008 Summer}}<br/>{{flagIOCathlete|[[Pavel Vízner|P Vízner]]|CZE|2008 Summer}}
+| RD2-score08-1='''6'''
+| RD2-score08-2=6<sup>3</sup>
+| RD2-score08-3=5
+| RD3-seed01=8
+| RD3-team01={{flagIOCathlete|[[Igor Andreev|I Andreev]]|RUS|2008 Summer}}<br/>{{flagIOCathlete|[[Nikolay Davydenko|N Davydenko]]|RUS|2008 Summer}}
+| RD3-score01-1=2
+| RD3-score01-2='''7<sup>7</sup>'''
+| RD3-score01-3=4
+| RD3-seed02=&nbsp;
+| RD3-team02='''{{flagIOCathlete|[[Arnaud Clément|A Clément]]|FRA|2008 Summer}}<br/>{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2008 Summer}}'''
+| RD3-score02-1='''6'''
+| RD3-score02-2=6<sup>4</sup>
+| RD3-score02-3='''6'''
+| RD3-seed03=&nbsp;
+| RD3-team03='''{{flagIOCathlete|[[Simon Aspelin|S Aspelin]]|SWE|2008 Summer}}<br/>{{flagIOCathlete|[[Thomas Johansson|T Johansson]]|SWE|2008 Summer}}'''
+| RD3-score03-1='''7<sup>7</sup>'''
+| RD3-score03-2='''6'''
+| RD3-score03-3=&nbsp;
+| RD3-seed04=&nbsp;
+| RD3-team04={{nowrap|{{flagIOCathlete|[[Mariusz Fyrstenberg|M Fyrstenberg]]|POL|2008 Summer}}<br/>{{flagIOCathlete|[[Marcin Matkowski|M Matkowski]]|POL|2008 Summer}}}}
+| RD3-score04-1=6<sup>5</sup>
+| RD3-score04-2=4
+| RD3-score04-3=&nbsp;
+| RD4-seed01=&nbsp;
+| RD4-team01={{flagIOCathlete|[[Arnaud Clément|A Clément]]|FRA|2008 Summer}}<br/>{{flagIOCathlete|[[Michaël Llodra|M Llodra]]|FRA|2008 Summer}}
+| RD4-score01-1=6<sup>6</sup>
+| RD4-score01-2='''6'''
+| RD4-score01-3=17
+| RD4-seed02=&nbsp;
+| RD4-team02={{nowrap|'''{{flagIOCathlete|[[Simon Aspelin|S Aspelin]]|SWE|2008 Summer}}<br/>{{flagIOCathlete|[[Thomas Johansson|T Johansson]]|SWE|2008 Summer}}'''}}
+| RD4-score02-1='''7<sup>8</sup>'''
+| RD4-score02-2=4
+| RD4-score02-3='''19'''
+}}
+
+==External links==
+{{reflist}}
+*[https://web.archive.org/web/20080911023959/http://www.itftennis.com/shared/medialibrary/pdf/original/IO_35061_original.PDF Draw]
+
+{{2008 ATP Tour}}
+{{Footer Olympic Champions Tennis Men's Doubles}}
+{{Men's Doubles Tennis at the Summer Olympics}}
+{{Roger Federer}}
+
+{{DEFAULTSORT:Tennis at the 2008 Summer Olympics - Men's doubles}}
+[[Category:Men's doubles tennis at the Summer Olympics|2008]]
+[[Category:Tennis at the 2008 Summer Olympics|Men's Doubles]]
+[[Category:2008 in men's tennis|Men's Doubles]]
+[[Category:Men's events at the 2008 Summer Olympics]]

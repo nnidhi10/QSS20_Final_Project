@@ -1,0 +1,158 @@
+{{short description|none}}
+{{infobox country at games
+| NOC = ISR
+| NOCname = [[Olympic Committee of Israel]]
+| games = Winter Olympics
+| year = 2002
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.olympicsil.co.il}}&nbsp;{{in lang|he|en}}
+| location = [[Salt Lake City]], [[Utah]]
+| competitors = 5 (2 men, 3 women)
+| sports = 2
+| flagbearer = [[Galit Chait]]
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1994
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+Israel was represented at the [[2002 Winter Olympics]] in [[Salt Lake City]], [[Utah]], United States by the [[Olympic Committee of Israel]].
+
+In total, five athletes including two men and three woman represented Israel in two different sports including figure skating and short track speed skating.
+
+==Competitors==
+In total, five athletes represented Israel at the [[2002 Winter Olympics]] in [[Salt Lake City]], [[Utah]], United States across two different sports.<ref name="israel">{{cite web |title=Israel at the 2002 Winter Olympics |url=https://www.olympedia.org/countries/ISR/editions/47 |publisher=Olympedia |access-date=17 June 2025}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! width=200|Sport !! width=60|Men !! width=60|Women !! width=60|Total
+|-
+| align=left|[[Figure skating at the 2002 Winter Olympics|Figure skating]]
+| 2||2||4
+|-
+| align=left|[[Short track speed skating at the 2002 Winter Olympics|Short track speed skating]]
+| 0||1||1
+|-
+! Total ||2||3||5
+|}
+
+==Figure skating==
+{{Main|Figure skating at the 2002 Winter Olympics}}
+
+In total, four Israeli athletes participated in the figure skating events – [[Alexei Beletski]], [[Galit Chait]], [[Natalia Gudina]] and [[Sergei Sakhnovski]] in the [[Figure skating at the 2002 Winter Olympics – Ice dance|ice dance]].<ref name="israel"/>
+
+The ice dance took place on 15, 17 and 18 February 2002. Chait and Sakhnovski were ranked sixth in each of the four dances and finished sixth overall. Gudina and Beletski were ranked 19th in each of the four dances and finished 19th overall.<ref>{{cite web |title=2002 Winter Olympics, Ice Dancing, Mixed |url=https://www.olympedia.org/results/14337 |publisher=Olympedia |access-date=17 June 2025}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+! rowspan="2"|Athlete(s)
+! rowspan="2"|Event
+! {{abbr|CD1|Compulsory dance 1}}
+! {{abbr|CD2|Compulsory dance 2}}
+! {{abbr|SP|Short program}}/{{abbr|OD|Original dance}}
+! {{abbr|FS|Free skating}}/{{abbr|FD|Free dance}}
+! colspan="2"|Total
+|-
+!{{abbr|FP|Factored places}}
+!{{abbr|FP|Factored places}}
+!{{abbr|FP|Factored places}}
+!{{abbr|FP|Factored places}}
+!{{abbr|TFP|Total factored places}}
+!Rank
+|-align="center"
+|align="left"|[[Galit Chait]] and [[Sergei Sakhnovski]]
+|align="left" rowspan=2|[[Figure skating at the 2002 Winter Olympics – Ice dance|Ice dance]]
+|6
+|6
+|6
+|6
+|12.0
+|6
+|-align="center"
+|align="left"|[[Natalia Gudina]] and [[Alexei Beletski]]
+|19
+|19
+|19
+|19
+|38.0
+|19
+|}
+
+==Short track speed skating==
+{{Main|Short track speed skating at the 2002 Winter Olympics}}
+
+In total, one Israeli athlete participated in the short track speed skating events – [[Olga Danilov]] in the [[Short track speed skating at the 2002 Winter Olympics – Women's 500 metres|women's 500&nbsp;m]], the [[Short track speed skating at the 2002 Winter Olympics – Women's 1000 metres|women's 1,000&nbsp;m]] and the [[Short track speed skating at the 2002 Winter Olympics – Women's 1500 metres|women's 1,500&nbsp;m]].<ref name="israel"/>
+
+The women's 1,500&nbsp;m took place on 13 February 2002. Danilov finished third in her heat in a time of two minutes 32.458 to advance to the semi-finals. She finished fifth in her semi-final in a time of two minutes 36.114 and did not advance to the finals.<ref>{{cite web |title=2002 Winter Olympics, 1,500 metres, Women |url=https://www.olympedia.org/results/819 |publisher=Olympedia |access-date=17 June 2025}}</ref>
+
+The women's 500&nbsp;m took place on 16 February 2002. Danilov finished second in her heat in a time of 46.422 to advance to the quarter-finals. She finished fourth in her quarter-final in a time of 46.695 and did not advance to the semi-finals.<ref>{{cite web |title=2002 Winter Olympics, 500 metres, Women |url=https://www.olympedia.org/results/779 |publisher=Olympedia |access-date=17 June 2025}}</ref>
+
+Round one for the women's 1,000&nbsp;m took place on 20 February 2002. Danilov finished third in her heat in a time of one minute 42.767 and did not advance to the quarter-finals.<ref>{{cite web |title=2002 Winter Olympics, 1,000 metres, Women |url=https://www.olympedia.org/results/799 |publisher=Olympedia |access-date=17 June 2025}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Gender
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align="center"
+|rowspan="3"|Women's
+|align="left" rowspan=3|[[Olga Danilov]]
+|align="left"|[[Short track speed skating at the 2002 Winter Olympics – Women's 500 metres|500&nbsp;m]]
+|46.422
+|2 '''Q'''
+|46.695
+|4
+|colspan=3|did not advance
+|16
+|-align="center"
+|align="left"|[[Short track speed skating at the 2002 Winter Olympics – Women's 1000 metres|1,000&nbsp;m]]
+|1:42.767
+|3
+|colspan=5|did not advance
+|21
+|-align="center"
+|align="left"|[[Short track speed skating at the 2002 Winter Olympics – Women's 1500 metres|1,500&nbsp;m]]
+|2:32.458
+|3 '''Q'''
+|2:36.114
+|5
+|colspan=3|did not finish
+|14
+|}
+
+==External links==
+*[https://web.archive.org/web/20100506004523/http://www.la84foundation.org/6oic/OfficialReports/2002/SLC2002Results1.pdf Salt Lake City 2002 Official Report]
+*[https://web.archive.org/web/20090525134256/http://www.sports-reference.com/olympics/countries/ISR/winter/2002/ Sports Reference]
+
+==References==
+{{reflist}}
+
+{{country at games navbox|Israel|Olympics}}
+{{Israel at international sports competitions}}
+{{Nations at the 2002 Winter Olympics}}
+
+[[Category:Nations at the 2002 Winter Olympics]]
+[[Category:Israel at the Winter Olympics by year|2002 Winter Olympics]]
+[[Category:2002 in Israeli sport|Winter Olympics]]
+[[Category:Israel–United States sports relations|2002]]

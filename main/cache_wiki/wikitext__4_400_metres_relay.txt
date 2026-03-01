@@ -1,0 +1,1663 @@
+{{Short description|Track and field relay event covering 1600 metres}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox athletics event
+|event= 4 × 400 metres relay
+|image= 4 x 400 m men final Barcelona 2010.jpg
+|image_upright= 1.15
+|caption= 4 × 400 m men relay at the [[2010 European Athletics Championships|2010 European Championships]] ([[Martyn Rooney]] (GBR), [[Thomas Schneider (sprinter)|Thomas Schneider]] (GER), [[Kacper Kozłowski (sprinter)]] (POL), [[Jonathan Borlée]] (BEL), [[Vladimir Krasnov]] (RUS), [[Teddy Venel]] (FRA))
+|WRmen= {{flagu|United States}} <small>([[Andrew Valmon]], [[Quincy Watts]], [[Butch Reynolds]], [[Michael Johnson (sprinter)|Michael Johnson]])</small> 2:54.29 (1993)
+|ORmen= {{flagu|United States}} <small>([[Christopher Bailey (runner)|Christopher Bailey]], [[Vernon Norwood]], [[Bryce Deadmon]], [[Rai Benjamin]])</small> 2:54.43 (2024)
+|CRmen = {{flagu|United States}} <small>([[Andrew Valmon]], [[Quincy Watts]], [[Butch Reynolds]], [[Michael Johnson (sprinter)|Michael Johnson]])</small> 2:54.29 (1993)
+|WRwomen= {{flagu|Soviet Union}} <small>([[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olga Bryzgina]])</small> 3:15.17 (1988)
+|ORwomen={{flagu|Soviet Union}} <small>([[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olga Bryzgina]])</small> 3:15.17 (1988)
+|CRwomen={{flagu|United States}} <small>([[Isabella Whittaker]], [[Lynna Irby]], [[Aaliyah Butler]], [[Sydney McLaughlin-Levrone]])</small> 3:16.61 (2025)
+|WRmixed={{USA}} <small>([[Vernon Norwood]] (M), [[Shamier Little]] (F), [[Bryce Deadmon]] (M), [[Kaylyn Brown]] (F))</small> 3:07.41 (2024)|ORmixed={{USA}} <small>([[Vernon Norwood]] (M), [[Shamier Little]] (F), [[Bryce Deadmon]] (M), [[Kaylyn Brown]] (F))</small> 3:07.41 (2024)|CRmixed={{USA}} <small>([[Justin Robinson (sprinter)|Justin Robinson]] (M), [[Rosey Effiong]] (F), [[Matthew Boling]] (M), [[Alexis Holmes]] (F))</small> 3:08.80 (2023)}}
+
+The '''4&nbsp;×&nbsp;400&nbsp;metres relay''' or long relay is an athletics [[track and field|track event]] in which teams consist of four runners who each complete 400&nbsp;metres or one lap, totaling 1600 meters. It is traditionally the final event of a track meet. The first leg and the first bend of the second leg are run in lanes. Start lines are thus staggered over a greater distance than in an individual [[400 metres|400&nbsp;metres]] race; the runners then typically move to the inside of the track. The slightly longer '''4 × 440 yards relay''', on an [[Imperial units|Imperial distance]], was a formerly run British Commonwealth and American event, until [[metrication]] was completed in the 1970s.
+
+==Format==
+[[Relay race]] runners typically carry a relay baton which they must transfer between teammates. Runners have a 20&nbsp;m box (usually marked with blue lines) in which to transfer the baton. The first transfer is made within the staggered lane lines; for the second and third transfers, runners typically line up across the track despite the fact that runners are usually running in line on the inside of the track. This prevents confusion and collisions during transfer. Unlike the [[4 × 100 metres relay|4&nbsp;×&nbsp;100&nbsp;m]] relay, runners in the 4&nbsp;×&nbsp;400 typically look back and grasp the baton from the incoming runner, due to the fatigue of the incoming runner, and the wider margins allowed by the longer distance of the race. Consequently, disqualification is rare.
+
+As runners have a running start, split times cannot be compared to individual 400 m performances. Internationally, the U.S. men's team has dominated the event, but have been challenged by [[Jamaica]] in the 1950s and Britain in the 1990s.  The current men's Olympic champions are from the United States.
+
+According to the IAAF rules, world records in relays can only be set if all team members have the same nationality.
+
+=== Mixed ===
+{{main|Mixed 4 × 400 metres relay}}
+
+[[Mixed 4 × 400 metres relay|Mixed-sex 4 × 400 metres relays]] were introduced at the [[2017 IAAF World Relays]], with the IAAF first recognizing a world record in that event at the [[2019 World Athletics Championships]]. In March 2022 World Athletics Council decided a set order – man, woman, man, woman – at future championships.<ref>{{cite news|title=Key competition decisions made at 227th World Athletics Council Meeting|url=https://www.worldathletics.org/news/press-releases/competition-decisions-227th-council-meeting|publisher=World Athletics|date=15 March 2022|access-date=9 April 2022}}</ref>  Eventually, the format was added to the Olympics, starting with the [[Athletics at the 2020 Summer Olympics – Mixed 4 × 400 metres relay|Tokyo Olympics]] in 2021.
+
+==Records==
+{{see also|Men's 4 × 400 metres relay world record progression|Women's 4 × 400 metres relay world record progression|Mixed 4 × 400 metres relay world record progression}}
+
+=== World Records ===
+{|class=wikitable
+|-
+!colspan=5|Men's Outdoor World Record<ref>{{cite web|title=4x400 Metres Relay Records – outdoor|url=http://www.iaaf.org/statistics/records/inout=o/discType=5/disc=4X4/detail.html|publisher=[[International Association of Athletics Federations]]|access-date=1 September 2011}}</ref> 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|United States}} ||[[Andrew Valmon]], [[Quincy Watts]], [[Butch Reynolds]], [[Michael Johnson (sprinter)|Michael Johnson]] ||[[Stuttgart]], Germany ||22 August 1993 ||2:54.29
+|}
+''Note:'' The IAAF rescinded a time of 2:54.20 set at [[Uniondale, New York|Uniondale]] on 22 July 1998 by the [[United States]] ([[Jerome Young]], [[Antonio Pettigrew]], [[Tyree Washington]], [[Michael Johnson (sprinter)|Michael Johnson]]) on 12 August 2008 after Pettigrew admitted to using human growth hormone and EPO between 1997 and 2003.<ref>{{cite news|title=IAAF deletes Americans' 4 × 400 m world record from the books|url=http://thestar.com.my/sports/story.asp?file=/2008/8/13/olympics/22071007&sec=Olympics|access-date=1 September 2011|work=The Star|location=Malaysia|date=13 August 2008|url-status=dead|archive-url=https://web.archive.org/web/20121019125624/http://thestar.com.my/sports/story.asp?file=%2F2008%2F8%2F13%2Folympics%2F22071007&sec=Olympics|archive-date=19 October 2012}}</ref>
+
+{|class=wikitable
+|-
+!colspan=5|Men's Indoor World Record<ref>{{cite web|title=4x400 Metres Relay Records – indoor|url=https://worldathletics.org/records/by-discipline/relays/4x400-metres-relay/indoor/men|publisher=[[World Athletics]]|access-date=14 August 2021}}</ref>
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|United States}} || [[Amere Lattin]], [[Obi Igbokwe]], [[Jermaine Holt]], [[Kahmari Montgomery]] ||[[Clemson, South Carolina|Clemson]], United States ||9 February 2019 ||3:01.51
+|}
+
+''Note:'' The above world record was bettered by three teams at the 2018 NCAA Division I Championship on 10 March 2018 at the [[Gilliam Indoor Track Stadium]] in [[College Station, Texas|College Station]], United States:
+* 3:00.77 by the [[University of Southern California|USC]] team of [[Zach Shinnick]], [[Rai Benjamin]], [[Ricky Morgan Jr.]], [[Michael Norman (sprinter)|Michael Norman]]). This time was not record-eligible because Benjamin was a citizen of Antigua & Barbuda, and the others are United States citizens. Benjamin has since switched to represent the United States.
+* 3:01.39 by the [[Texas A&M]] team of [[Ilolo Izu]], [[Robert Grant (athlete)|Robert Grant]], [[Devin Dixon]] and [[Mylik Kerley]]. All four runners represent the United States, and World Athletics currently lists this as the NACAC area record, but it has not been ratified as the world record.<ref>{{cite news|title=Norman breaks world indoor 400m record at NCAA Indoor Championships|url=https://www.iaaf.org/news/report/ncaa-indoor-championships-2018-norman-400-wor|publisher=IAAF|author=Roy Jordan|date=10 March 2018|access-date=12 March 2018}}</ref>
+* 3:01.43 by the [[University of Florida|Florida]] team of [[Kunle Fasasi]], [[Grant Holloway]], [[Chantz Sawyers]], and [[Benjamin Lobo Vedel]]. This time was not record-eligible because Fasasi represents Nigeria, Holloway represents the United States, Sawyers represents Jamaica, and Vedel represents Denmark.
+
+{|class=wikitable
+|-
+!colspan=5|Women's Outdoor World Record
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|USSR}} ||[[Tatyana Ledovskaya]] (BLR), [[Olga Nazarova]] (RUS), [[Mariya Pinigina]] (UKR), [[Olga Bryzgina]] (UKR) ||[[Seoul, Korea]] ||1 October 1988 ||3:15.17
+|}
+{|class=wikitable
+|-
+!colspan=5|Women's Indoor World Record 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|Russia}} ||[[Yuliya Gushchina]], [[Olga Kotlyarova]], [[Olga Zaytseva]], [[Olesya Krasnomovets]] ||Glasgow, Scotland ||27 January 2006 ||3:23.37
+|}
+''Note:'' The above world record was bettered in a time of 3:21.75 by the University of Arkansas team of Amber Anning, Joanne Reid, Rosey Effiong, and Britton Wilson at the 2023 NCAA Division I Indoor Championship on 11 March 2023 in Albuquerque, New Mexico, United States. This time was not record-eligible because Anning was a citizen of Great Britain, Reid was a citizen of Jamaica, and Effiong and Wilson were United States citizens.<ref>{{cite news|title=Alfred, Garland and Wilson threaten world records at NCAA Indoor Championships|url=https://worldathletics.org/news/report/ncaa-indoor-championships-alfred-garland-wilson-records|publisher=World Athletics|date=12 March 2023|access-date=23 March 2023}}</ref>
+{| class="wikitable"
+|-
+! colspan="5" |Mixed Outdoor World Record 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|United States}} ||[[Vernon Norwood]], [[Shamier Little]], [[Bryce Deadmon]], [[Kaylyn Brown]] ||Saint-Denis, France ||2 August 2024 ||3:07.41
+|}
+{| class="wikitable"
+|-
+! colspan="5" |Mixed Indoor World Record 
+|-
+| colspan="5" |Nonexistent<ref>{{Cite web |title=4x400 Metres Relay - mixed - senior - all |url=https://worldathletics.org/records/all-time-toplists/relays/4x400-metres-relay/outdoor/mixed/senior |access-date=2024-08-10 |website=worldathletics.org}}</ref> 
+|}
+
+=== Olympic Records ===
+{| class="wikitable"
+|-
+! colspan="5" |Men's Olympic Record 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|United States}} ||[[Christopher Bailey (runner)|Christopher Bailey]], [[Vernon Norwood]], [[Bryce Deadmon]], [[Rai Benjamin]] ||Saint-Denis, France ||10 August 2024 ||2:54.43
+|}
+{| class="wikitable"
+|-
+! colspan="5" |Women's Olympic Record 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|Soviet Union}} ||[[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olga Bryzgina]] ||[[Athletics at the 1988 Summer Olympics – Women's 4 × 400 metres relay|Seoul]], South Korea ||1 October 1988 ||3:15.17
+|}
+{| class="wikitable"
+|-
+! colspan="5" |Mixed Olympic Record 
+|-
+!Country !!Members !!Place !!Date !!Time
+|-
+|{{flagu|United States}} ||[[Vernon Norwood]], [[Shamier Little]], [[Bryce Deadmon]], [[Kaylyn Brown]] ||Saint-Denis, France ||2 August 2024 ||3:07.41
+|}
+
+=== Continental Records ===
+
+* Updated 10 August 2024.<ref>{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/by-discipline/relays/4x400-metres-relay/outdoor/men |access-date=2024-08-10 |website=worldathletics.org}}</ref><ref>{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/by-discipline/relays/4x400-metres-relay/outdoor/women |access-date=2024-08-10 |website=worldathletics.org}}</ref><ref>{{Cite web |title=Stats {{!}} World Athletics {{!}} World Athletics |url=https://worldathletics.org/records/by-discipline/relays/4x400-metres-relay/outdoor/mixed |access-date=2024-08-10 |website=worldathletics.org}}</ref>
+
+{| class="wikitable"
+! rowspan="2" |Area
+! colspan="3" |Men
+! colspan="3" |Women
+! colspan="3" |Mixed
+|-
+!Time
+!Athletes
+!Team
+!Time
+!Athletes
+!Team
+!Time  
+!Athletes
+!Team
+|-
+|[[Confederation of African Athletics|Africa]] {{small|(''[[List of African records in athletics|records]]'')}}
+|'''2:54.53'''
+|[[Bayapo Ndori]], [[Busang Kebinatshipi|Busang Collen Kebinatshipi]], [[Anthony Pesela]], [[Letsile Tebogo]]
+|{{flagu|Botswana}}
+|'''3:21.04'''
+|[[Olabisi Afolabi]], [[Fatima Yusuf|Fatimat Yusuf]], [[Charity Opara]], [[Falilat Ogunkoya|Falilat Ogunkoya-Osheku]]
+|{{flagu|Nigeria}}
+|3:11.88
+|[[Zablon Ekwam|Zablon Ekhal Ekwam]], [[Mary Moraa]], [https://worldathletics.org/athletes/kenya/kelvin-sane-tauta-14748368 Kelvin Sane Tauta], [https://worldathletics.org/athletes/kenya/mercy-chebet-14894319 Mercy Chebet]
+|{{flagIOC|KEN}}
+|-
+|[[Asian Athletics Association|Asia]] {{small|(''[[List of Asian records in athletics|records]]'')}}
+|'''2:58.33'''
+|[[Yuki Joseph Nakajima]], [[Kaito Kawabata]], [[Fuga Sato]], [[Kentaro Sato (sprinter)|Kentaro Sato]]
+|{{flagu|Japan}}
+|'''3:24.28'''
+|[https://worldathletics.org/athletes/pr-of-china/xiaohong-an-14367778 Xiaohong An], [https://worldathletics.org/athletes/pr-of-china/xiaoyun-bai-14266779 Xiaoyun Bai], [https://worldathletics.org/athletes/pr-of-china/chunying-cao-14266739 Chunying Cao], [[Ma Yuqin|Yuqin Ma]]
+|{{flagu|China}}
+|3:11.82
+|[[Musa Isah]], [[Aminat Yusuf Jamal]], [[Salwa Eid Naser]], [[Abbas Abubakar Abbas]]
+|{{flagIOC|BRN}}
+|-
+|[[European Athletic Association|Europe]] {{small|(''[[List of European records in athletics|records]]'')}}
+|'''2:55.83''' {{NoteTag|Awaiting ratification}}
+|[[Alex Haydock-Wilson]], [[Matthew Hudson-Smith]], [[Lewis Davey]], [[Charlie Dobson|Charles Dobson]]
+|{{flagu|Great Britain}}
+|'''3:15.17 [[List of world records in athletics|WR]]'''
+|[[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olha Bryzhina|Olga Bryzgina]]
+|{{flagu|Soviet Union}}
+|3:07.43{{NoteTag|Awaiting ratification}}
+|[[Eugene Omalla]], [[Lieke Klaver]], [[Isaya Klein Ikkink]], [[Femke Bol]]
+|{{flagIOC|NED|2024 Summer}}
+|-
+|[[North American, Central American and Caribbean Athletic Association|North, Central America]]
+[[North American, Central American and Caribbean Athletic Association|and Caribbean]] {{small|(''[[List of North, Central American and Caribbean records in athletics|records]]'')}}
+|'''2:54.29 [[List of world records in athletics|WR]]'''
+|[[Andrew Valmon]], [[Quincy Watts]], [[Butch Reynolds]], [[Michael Johnson (sprinter)|Michael Johnson]]
+|{{flagu|United States}}
+|'''3:15.27'''
+|[[Shamier Little]], [[Sydney McLaughlin-Levrone]], [[Gabrielle Thomas]], [[Alexis Holmes]]
+|{{flagu|United States}}
+|3:07.41 '''[[List of world records in athletics|WR]]'''
+|[[Vernon Norwood]], [[Shamier Little]], [[Bryce Deadmon]], [[Kaylyn Brown]]
+|{{flagIOC|USA}}
+|-
+|[[Oceania Athletics Association|Oceania]] {{small|(''[[List of Oceanian records in athletics|records]]'')}}
+|'''2:59.70'''
+|[[Bruce Frayne]], [[Darren Clark]], [[Gary Minihan]], [[Rick Mitchell]]
+|{{flagu|Australia}}
+|'''3:23.81'''
+|[[Nova Peris-Kneebone]], [[Tamsyn Manou]], [[Melinda Gainsford-Taylor]], [[Cathy Freeman]]
+|{{flagu|Australia}}
+|3:17.00
+|[[Bendere Oboya]], [[Anneliese Rubie|Anneliese Rubie-Renshaw]], [https://worldathletics.org/athletes/australia/tyler-gunn-14736124 Tyler Gunn], [https://worldathletics.org/athletes/australia/alex-beck-14360445 Alex Benn]
+|{{flagIOC|AUS}}
+|-
+|[[CONSUDATLE|South America]] {{small|(''[[List of South American records in athletics|records]]'')}}
+|'''2:58.56'''
+|[[Eronilde de Araújo|Eronilde Nunes De Araújo]], [[Anderson Jorge dos Santos|Anderson Jorge Oliveira Dos Santos]], [[Claudinei da Silva|Claudinei Quirino Da Silva]], [[Sanderlei Parrela|Sanderlei Claro Parrela]]
+|{{flagu|Brazil}}
+|'''3:26.68'''
+|[[Geisa Coutinho|Geisa Aparecida Coutinho]], [https://worldathletics.org/athletes/brazil/barbara-farias-de-oliveira-14366027 Barbara Farias De Oliveira], [[Joelma Sousa|Joelma Das Neves Souza]], [[Jailma de Lima|Jailma Sales De Lima]]
+|{{flagu|Brazil}}
+|3:14.48
+|[[Jhon Perlaza]], [[Lina Licona]], {{ill|Nicolás Salinas|de}}, [[Evelis Aguilar]]
+|{{flagIOC|COL}}
+|}
+
+==== Notes ====
+<references group="note" />
+
+== All-time top 10 by country (outdoor) ==
+
+===Men===
+*Correct as of May 2025.<ref>{{cite web|title=All-time men's best 4 × 400m Relay|url=https://www.iaaf.org/records/toplists/relays/4x400-metres-relay/outdoor/men/senior|publisher=IAAF|date=24 August 2019|access-date=24 August 2019}}</ref><ref name="auto2">{{cite web|title=All-time men's best 4 × 400m Relay|url=http://www.alltime-athletics.com/m4x400ok.htm|publisher=alltime-athletics.com|date=13 August 2017|access-date=13 August 2017}}</ref>
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|'''2:54.29'''
+|[[Andrew Valmon]], [[Quincy Watts]], [[Butch Reynolds]], [[Michael Johnson (sprinter)|Michael Johnson]]
+|{{flagu|United States}}
+|22 August 1993
+|[[1993 World Championships in Athletics – Men's 4 × 400 metres relay|Stuttgart]]
+|
+|-
+!2
+|'''2:54.53'''
+|[[Bayapo Ndori]], [[Busang Kebinatshipi|Busang Collen Kebinatshipi]], [[Anthony Pesela]], [[Letsile Tebogo]]
+|{{flagu|Botswana}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":13" />
+|-
+!3
+|'''2:55.83'''
+|[[Alex Haydock-Wilson]], [[Matthew Hudson-Smith]], [[Lewis Davey]], [[Charlie Dobson|Charles Dobson]]
+|{{flagu|Great Britain}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":13" />
+|-
+!4
+|'''2:56.72'''
+|[[Chris Brown (sprinter)|Chris Brown]], [[Demetrius Pinder]], [[Michael Mathieu]], [[Ramon Miller]]
+|{{flagu|Bahamas}}
+|10 August 2012
+|[[Athletics at the 2012 Summer Olympics – Men's 4 × 400 metres relay|London]]
+|
+|-
+!5
+|'''2:56.75'''
+|[[Michael McDonald (runner)|Michael McDonald]], [[Gregory Haughton]], [[Danny McFarlane]], [[Davian Clarke]]
+|{{flagu|Jamaica}}
+|10 August 1997
+|[[1997 World Championships in Athletics – Men's 4 × 400 metres relay|Athens]]
+|
+|-
+!6
+|'''2.57.18'''
+|[[Liemarvin Bonevacia]], [[Terrence Agard]], [[Tony van Diepen]], [[Ramsey Angela]]
+|{{flagu|Netherlands}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Men's 4 × 400 metres relay|Tokyo]]
+|<ref name="men's 4x400 m">{{cite web|title=Men's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=7 August 2021|archive-url=https://web.archive.org/web/20210807131910/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!7
+|'''2:57.50'''
+|[[Gardeo Isaacs|Gardeo Issacs]], [[Zakithi Nene]], [[Lythe Pillay]], [[Antonie Nortje|Antoine Matthys Nortje]]
+|{{flagu|South Africa}}
+|11 May 2025
+|[[Guangzhou]]
+|<ref>{{Cite web |date=11 May 2025 |title=Results Men's 4X400 Metres Relay - Final |url=https://media.aws.iaaf.org/competitiondocuments/pdf/7203345/AT-4X4-M-f----.RS6.pdf |archive-url=https://web.archive.org/web/20250511174856/https://media.aws.iaaf.org/competitiondocuments/pdf/7203345/AT-4X4-M-f----.RS6.pdf |archive-date=11 May 2025 |access-date=11 May 2025 |website=[[World Athletics]]}}</ref>
+|-
+!8
+|'''2:57.75'''
+|[[Jonathan Sacoor]], [[Dylan Borlée]], [[Kevin Borlée|Kévin Borlée]], [[Florent Mabille]]
+|{{flagu|Belgium}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":13" />
+|-
+!9
+|'''2:58.00'''
+|[[Piotr Rysiukiewicz]], [[Tomasz Czubak]], [[Piotr Haczek]], [[Robert Maćkowiak]]
+|{{flagu|Poland}}
+|22 July 1998
+|[[Athletics at the 1998 Goodwill Games|New York]]
+|
+|-
+!10
+|'''2:58.12'''
+|[[Jarrin Solomon]], [[Jereem Richards]], [[Machel Cedenio]], [[Lalonde Gordon]]
+|{{flagu|Trinidad and Tobago}}
+|13 August 2017
+|[[2017 World Championships in Athletics – Men's 4 × 400 metres relay|London]]
+|
+|}
+
+===Women===
+*Correct as of August 2024.<ref>{{cite web|title=All-time women's best 4 × 400m Relay|url=https://www.iaaf.org/records/toplists/relays/4x400-metres-relay/outdoor/women/senior|publisher=IAAF|date=24 August 2019|access-date=24 August 2019}}</ref><ref name="auto6">{{cite web|title=All-time women's best 4 × 400m Relay|url=http://www.alltime-athletics.com/w4x400ok.htm|publisher=alltime-athletics.com|date=13 August 2017|access-date=13 August 2017}}</ref>
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|'''3:15.17'''
+|[[Tatyana Ledovskaya]], [[Olga Nazarova]], [[Mariya Pinigina]], [[Olga Bryzgina]]
+|{{flagu|Soviet Union}}
+|1 October 1988
+|[[Athletics at the 1988 Summer Olympics – Women's 4 × 400 metres relay|Seoul]]
+|
+|-
+!2
+||'''3:15.27'''
+|[[Shamier Little]], [[Sydney McLaughlin-Levrone]], [[Gabrielle Thomas]], [[Alexis Holmes]]
+|{{flagu|United States}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":14">{{Cite web |title=4x400 Metres Relay Result {{!}} The XXXIII Olympic Games |url=https://worldathletics.org/results/olympic-games/2024/the-xxxiii-olympic-games-7153115/women/4x400-metres-relay/final/result |access-date=2024-08-10 |website=worldathletics.org |language=en}}</ref>
+|-
+!3
+|'''3:15.92'''
+|[[Gesine Walther]], [[Sabine Busch]], [[Dagmar Rübsam-Neubauer]], [[Marita Koch]]
+|{{flagu|German Democratic Republic}}
+|3 June 1984
+|Erfurt 
+|
+|-
+!4
+|'''3:18.38'''
+|[[Yelena Ruzina]], [[Tatyana Alekseyeva]], [[Margarita Ponomaryova]], [[Irina Privalova]]
+|{{flagu|Russia}}
+|22 August 1993
+|[[1993 World Championships in Athletics – Women's 4 × 400 metres relay|Stuttgart]]
+|
+|-
+!5
+|'''3:18.71'''
+|[[Rosemarie Whyte]], [[Davita Prendergast]], [[Novlene Williams-Mills]], [[Shericka Williams]]
+|{{flagu|Jamaica}}
+|3 September 2011
+|[[2011 World Championships in Athletics – Women's 4 × 400 metres relay|Deagu]]
+|
+|-
+!6
+|'''3:19.50'''
+|[[Lieke Klaver]], [[Cathelijn Peeters]], [[Lisanne de Witte]], [[Femke Bol]]
+|{{flagu|Netherlands}}
+| rowspan="3" |10 August 2024
+| rowspan="3" |Saint-Denis
+| rowspan="3" |<ref name=":14" />
+|-
+!7
+|'''3:19.72'''
+|[[Victoria Ohuruogu]], [[Laviai Nielsen]], [[Nicole Yeargin]], [[Amber Anning]]
+|{{flagu|Great Britain}}
+|-
+!8
+|'''3:19.90'''
+|[[Sophie Becker]], [[Rhasidat Adeleke]], [[Phil Healy]], [[Sharlene Mawdsley]]
+|{{flagu|Ireland}}
+|-
+!9
+|'''3:20.32'''
+|[[Taťána Kocembová]], [[Milena Matějkovičová]], [[Zuzana Moravčíková (sprinter)|Zuzana Moravčíková]], [[Jarmila Kratochvílová]]
+|{{flagu|Czechoslovakia}}
+|14 August 1983
+|[[1983 World Championships in Athletics – Women's 4 × 400 metres relay|Helsinki]]
+|
+|-
+!10
+|'''3:20.53'''
+|[[Natalia Kaczmarek]], [[Iga Baumgart-Witan]], [[Małgorzata Hołub-Kowalik|Malgorzata Holub-Kowalik]], [[Justyna Święty-Ersetic|Justyna Swiety-Ersetic]]
+|{{flagu|Poland}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Women's 4 × 400 metres relay|Tokyo]]
+|<ref>{{cite web|title=Women's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHW4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=9 August 2021|archive-url=https://web.archive.org/web/20210809081625/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHW4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|}
+
+==All-time top 25 (outdoor)==
+===Men===
+*Updated August 2024.
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|2:54.29
+|[[Andrew Valmon]] (44.43)<br>[[Quincy Watts]] (43.59)<br>[[Butch Reynolds]] (43.36)<br>[[Michael Johnson (sprinter)|Michael Johnson]] (42.91)
+|{{flagu|United States}}
+|22 August 1993
+|[[1993 World Championships in Athletics|Stuttgart]]
+|
+|-
+!2
+|2:54.43
+|[[Christopher Bailey (runner)|Christopher Bailey]] (44.45)<br>[[Vernon Norwood]] (43.26)<br>[[Bryce Deadmon]] (43.54)<br>[[Rai Benjamin]] (43.18)
+|{{flagu|United States}}
+| rowspan="2" |10 August 2024
+| rowspan="2" |[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+| rowspan="2" |<ref name=":13">{{Cite web |title=4x400 Metres Relay Result {{!}} The XXXIII Olympic Games |url=https://worldathletics.org/results/olympic-games/2024/the-xxxiii-olympic-games-7153115/men/4x400-metres-relay/final/result |access-date=2024-08-10 |website=worldathletics.org |language=en}}</ref>
+|-
+!3
+|2:54.53
+|[[Bayapo Ndori]] (44.30)<br>[[Busang Kebinatshipi|Busang Collen Kebinatshipi]] (43.39)<br>[[Anthony Pesela]] (43.80)<br>[[Letsile Tebogo]] (43.04)
+|{{flagu|Botswana}}
+|-
+!4
+|2:55.39
+|[[LaShawn Merritt]], [[Angelo Taylor]], [[David Neville (sprinter)|David Neville]], [[Jeremy Wariner]]
+|{{flagu|United States}}
+|23 August 2008
+|[[2008 Summer Olympic Games|Beijing]]
+|
+|-
+!5
+|2:55.56
+|[[LaShawn Merritt]], [[Angelo Taylor]], [[Darold Williamson]], [[Jeremy Wariner]]
+|{{flagu|United States}}
+|2 September 2007
+|[[2007 World Championships in Athletics|Osaka]]
+|-
+!6
+|2:55.70
+|[[Michael Cherry (athlete)|Michael Cherry]] (43.87)<br> [[Michael Norman (sprinter)|Michael Norman]] (44.44)<br> [[Bryce Deadmon]] (44.03)<br> [[Rai Benjamin]] (43.36)
+|{{flagu|United States}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Men's 4 × 400 metres relay|Tokyo]]
+|<ref>{{cite web|title=Men's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=7 August 2021|archive-url=https://web.archive.org/web/20210807131910/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!7
+|2:55.74
+|[[Andrew Valmon]], [[Quincy Watts]], [[Michael Johnson (sprinter)|Michael Johnson]], [[Steve Lewis (sprinter)|Steve Lewis]]
+|{{flagu|United States}}
+|8 August 1992
+|[[1992 Summer Olympic Games|Barcelona]]
+|
+|-
+!8
+|2:55.83
+|[[Alex Haydock-Wilson]] (44.51)<br>[[Matthew Hudson-Smith]] (43.09)<br>[[Lewis Davey]] (44.90)<br>[[Charlie Dobson|Charles Dobson]] (43.33)
+|{{flagu|Great Britain}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":13" />
+|-
+!9
+|2:55.91
+|[[Otis Harris]], [[Derrick Brew]], [[Jeremy Wariner]], [[Darold Williamson]]
+|{{flagu|United States}}
+|28 August 2004
+|[[2004 Summer Olympic Games|Athens]]
+|
+|-
+!10
+|2:55.99
+|[[LaMont Smith]], [[Alvin Harrison]], [[Derek Mills]], [[Anthuan Maybank]]
+|{{flagu|United States}}
+|3 August 1996
+|[[1996 Summer Olympic Games|Atlanta]]
+|
+|-
+! rowspan="2" |11
+|2:56.16 {{AthAbbr|A}}
+|[[Vincent Matthews (athlete)|Vincent Matthews]], [[Ron Freeman]], [[Larry James]], [[Lee Evans (sprinter)|Lee Evans]]
+|{{flagu|United States}}
+|20 October 1968
+|[[1968 Summer Olympic Games|Mexico City]]
+|
+|-
+|2:56.16
+|[[Danny Everett]], [[Steve Lewis (sprinter)|Steve Lewis]], [[Kevin Robinzine]], [[Butch Reynolds|Harry Reynolds]]
+|{{flagu|United States}}
+|1 October 1988
+|[[1988 Summer Olympic Games|Seoul]]
+|
+|-
+!13
+|2:56.17
+|[[Elija Godwin]] (44.28)<br>[[Michael Norman (sprinter)|Michael Norman]] (43.64)<br>[[Bryce Deadmon]] (43.82)<br>[[Champion Allison]] (44.43)
+|{{flagu|United States}}
+|24 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web|title=Men's 4 × 400 m Relay Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-4X4-M-f----.RS6.pdf|work=World Athletics|date=24 July 2022|access-date=6 August 2022}}</ref>
+|-
+!14
+|2:56.60
+|[[Iwan Thomas]], [[Jamie Baulch]], [[Mark Richardson (sprinter)|Mark Richardson]], [[Roger Black]]
+|{{flagu|Great Britain}}
+|3 August 1996
+|[[1996 Summer Olympic Games|Atlanta]]
+|
+|-
+!15
+|2:56.65
+|[[Iwan Thomas]], [[Roger Black]], [[Jamie Baulch]], [[Mark Richardson (sprinter)|Mark Richardson]]
+|{{flagu|Great Britain}}
+|10 August 1997
+|[[1997 World Championships in Athletics|Athens]]
+|
+|-
+!16
+|2:56.69
+|[[Fred Kerley]] (43.44)<br>[[Michael Cherry (athlete)|Michael Cherry]] (44.63)<br>[[Wilbert London]] (44.43)<br>[[Rai Benjamin]] (44.19)
+|{{flagu|United States}}
+|6 October 2019
+|[[2019 World Athletics Championships – Men's 4 × 400 metres relay|Doha]]
+|<ref>{{cite web|title=4 × 400 m Relay Men − Final − Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/6033/AT-4X4-M-f----.RS6.pdf?v=-408215284|date=6 October 2019|publisher=IAAF|access-date=8 October 2019}}</ref>
+|-
+!17
+|2:56.72
+|[[Chris Brown (sprinter)|Chris Brown]], [[Demetrius Pinder]], [[Michael Mathieu]], [[Ramon Miller]]
+|{{flagu|Bahamas}}
+|10 August 2012
+|[[2012 Summer Olympic Games|London]]
+|
+|-
+!18
+|2:56.75
+|[[Michael McDonald (runner)|Michael McDonald]], [[Gregory Haughton]], [[Danny McFarlane]], [[Davian Clarke]]
+|{{flagu|Jamaica}}
+|10 August 1997
+|[[1997 World Championships in Athletics|Athens]]
+|
+|-
+!19
+|2:56.91
+|[[Andrew Rock]], [[Derrick Brew]], [[Darold Williamson]], [[Jeremy Wariner]]
+|{{flagu|United States}}
+|14 August 2005
+|[[2005 World Championships in Athletics|Helsinki]]
+|
+|-
+!20
+|2:57.05
+|[[Bryshon Nellum]], [[Joshua Mance]], [[Tony McQuay]], [[Angelo Taylor]]
+|{{flagu|United States}}
+|10 August 2012
+|[[2012 Summer Olympic Games|London]]
+|
+|-
+!21
+|2:57.18
+|[[Liemarvin Bonevacia]], [[Terrence Agard]], [[Tony van Diepen]], [[Ramsey Angela]]
+|{{flagu|Netherlands}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Men's 4 × 400 metres relay|Tokyo]]
+|<ref>{{cite web|title=Men's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=7 August 2021|archive-url=https://web.archive.org/web/20210807131910/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!22
+|2:57.25
+|[[David Verburg]], [[Tony McQuay]], [[Christian Taylor (athlete)|Christian Taylor]], [[LaShawn Merritt]]
+|{{flagu|United States}}
+|25 May 2014
+|[[2014 IAAF World Relays|Nassau]]
+|
+|-
+!23
+|2:57.27
+|[[Isaac Makwala|Issac Makwala]], [[Baboloki Thebe]], [[Zibane Ngozi]], [[Bayapo Ndori]]
+|{{flagu|Botswana}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Men's 4 × 400 metres relay|Tokyo]]
+|<ref>{{cite web|title=Men's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=7 August 2021|archive-url=https://web.archive.org/web/20210807131910/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHM4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!24
+|2:57.29
+|[[Danny Everett]], [[Roddie Haley]], [[Antonio McKay]], [[Butch Reynolds|Harry Reynolds]]
+|{{flagu|United States}}
+|6 September 1987
+|[[1987 World Championships in Athletics|Rome]]
+|
+|-
+!25
+|2:57.30
+|[[Arman Hall]], [[Tony McQuay]], [[Gil Roberts]], [[LaShawn Merritt]]
+|{{flagu|United States}}
+|20 August 2016
+|[[2016 Summer Olympic Games|Rio de Janeiro]]
+|
+|}
+'''Note'''
+* A USA team ran 2:54.20 in [[1998 Goodwill Games|Uniondale]] in 1998 but the performance was annulled due to the use of performance-enhancing drugs by [[Antonio Pettigrew]]
+* A USA team ran 2:56.35 in [[2000 Summer Olympics|Sydney]] in 2000 but the performance was annulled due to the use of performance-enhancing drugs by [[Antonio Pettigrew]]
+* A USA team ran 2:56.45 in [[1999 World Championships in Athletics|Seville]] in 1999 but the performance was annulled due to the use of performance-enhancing drugs by [[Antonio Pettigrew]]
+* A USA team ran 2:56.47 in [[1997 World Championships in Athletics|Athens]] in 1997 but the performance was annulled due to the use of performance-enhancing drugs by [[Antonio Pettigrew]]
+* A USA team ran 2:56.60 in [[Penn Relays|Philadelphia]] in 2000 but the performance was annulled due to the use of performance-enhancing drugs by [[Antonio Pettigrew]]
+
+===Women===
+*Correct as of September 2025.<ref name="auto6"/>
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|3:15.17
+|[[Tatyana Ledovskaya]] (50.12)<br> [[Olga Nazarova]] (47.82)<br> [[Mariya Pinigina]] (49.43)<br>[[Olha Bryzhina]] (47.80)
+|{{flagu|Soviet Union}}
+|1 October 1988
+|[[1988 Summer Olympic Games|Seoul]]
+|
+|-
+!2
+|3:15.27
+|[[Shamier Little]] (49.48)<br>[[Sydney McLaughlin-Levrone]] (47.71)<br>[[Gabrielle Thomas]] (49.3)<br>[[Alexis Holmes]] (48.78)
+|{{flagu|United States}}
+|10 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":14" />
+|-
+!3
+|3:15.51
+|[[Denean Howard-Hill]] (49.82)<br> [[Diane Dixon]] (49.17)<br> [[Valerie Brisco-Hooks]] (48.44)<br>[[Florence Griffith Joyner]] (48.08)
+|{{flagu|United States}}
+|1 October 1988
+|[[1988 Summer Olympic Games|Seoul]]
+|
+|-
+!4
+|3:15.92
+|[[Gesine Walther]], [[Sabine Busch]], [[Dagmar Rübsam-Neubauer]], [[Marita Koch]]
+|{{flagu|German Democratic Republic}}
+|3 June 1984
+|Erfurt 
+|
+|-
+!5
+|3:16.61
+|[[Isabella Whittaker]] (50.12)<br>[[Lynna Irby-Jackson]] (48.71)<br>[[Aaliyah Butler]] (49.96)<br>[[Sydney McLaughlin-Levrone]] (47.82)
+|{{flagu|United States}}
+|21 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 4×400m Relay Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-4X4-W-f----.RS6.pdf|website=World Athletics|date=21 September 2025|access-date=22 September 2025}}</ref>
+|-
+!6
+|3:16.71
+|[[Gwen Torrence]] (49.02)<br>[[Maicel Malone-Wallace]] (49.43)<br>[[Natasha Kaiser-Brown]] (49.50)<br>[[Jearl Miles Clark]] (48.76)
+|{{flagu|United States}}
+|22 August 1993
+|[[1993 World Championships in Athletics|Stuttgart]]
+|
+|-
+!7
+|3:16.85
+|[[Sydney McLaughlin]] (49.96)<br>[[Allyson Felix]] (49.58)<br>[[Dalilah Muhammad]] (48.97)<br>[[Athing Mu]] (48.37)
+|{{flagu|United States}}
+|7 August 2021
+|[[Athletics at the 2020 Summer Olympics – Women's 4 × 400 metres relay|Tokyo]]
+|<ref>{{cite web|title=Women's 4 × 400 m Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHW4X400M------------FNL-000100--.pdf|website=olympics.com|date=7 August 2021|access-date=26 August 2021|archive-date=9 August 2021|archive-url=https://web.archive.org/web/20210809081625/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/ATH/OG2020-_ATH_C73E_ATHW4X400M------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+! rowspan="2" |8
+| rowspan="2" |3:16.87
+|[[Kirsten Emmelmann]], [[Sabine Busch]], [[Petra Müller]], [[Marita Koch]]
+|{{flagu|German Democratic Republic}}
+|31 August 1986
+|[[1986 European Athletics Championships|Stuttgart]]
+|
+|-
+|[[DeeDee Trotter]] (50.19)<br>[[Allyson Felix]] (48.19)<br>[[Francena McCorory]] (49.39)<br>[[Sanya Richards-Ross]] (49.10)
+|{{flagu|United States}}
+|11 August 2012
+|[[2012 Summer Olympic Games|London]]
+|
+|-
+!10
+|3:17.79
+|[[Talitha Diggs]] (50.50)<br>[[Abby Steiner]] (49.99)<br>[[Britton Wilson]] (49.39)<br>[[Sydney McLaughlin]] (47.91)
+|{{flagu|United States}}
+|24 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web|title=Women's 4 × 400 m Relay Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-4X4-W-f----.RS6.pdf|work=World Athletics|date=24 July 2022|access-date=6 August 2022}}</ref>
+|-
+!11
+|3:17.83
+|[[Debbie Dunn]] (50.55)<br>[[Allyson Felix]] (48.75)<br>[[Lashinda Demus]] (50.10)<br>[[Sanya Richards-Ross]] (48.43)
+|{{flagu|United States}}
+|23 August 2009
+|[[2009 World Championships in Athletics|Berlin]]
+|
+|-
+!12
+|3:17.96
+|[[Arkansas Razorbacks track and field|''Arkansas Razorbacks'']]<br>[[Amber Anning]] (50.52)<br>[[Rosey Effiong]] (49.21)<br>[[Nickisha Pryce]] (49.20)<br>[[Kaylyn Brown]] (49.05)
+|{{flagu|United Kingdom}}<br>{{flagu|United States}}<br>{{flagu|Jamaica}}<br>{{flagu|United States}}
+|8 June 2024
+|[[2024 NCAA Division I Outdoor Track and Field Championships|Eugene]]
+|<ref>{{Cite web|title=Women 4x400 M Relay Result|url=https://flashresults.ncaa.com/Outdoor/2024/032-2_compiled.htm|website=flashresults.ncaa.com|date=8 June 2024|access-date=14 June 2024}}</ref><ref>{{Cite web|title=Pryce, Long and Jones impress in sprints at NCAA Championships|url=https://worldathletics.org/news/report/ncaa-championships-2024-pryce-long-jones-valby|website=World Athletics|author=Jon Mulkeen|date=9 June 2024|access-date=14 June 2024}}</ref>
+|-
+!13
+|3:18.09
+|[[Sanya Richards-Ross]] (49.30)<br>[[Allyson Felix]] (49.33)<br>[[Jessica Beard]] (49.95)<br>[[Francena McCorory]] (49.51)
+|{{flagu|United States}}
+|3 September 2011
+|[[2011 World Championships in Athletics|Daegu]]
+|
+|-
+! rowspan="2" |14
+| rowspan="2" |3:18.29
+|[[Lillie Leatherwood]], [[Sherri Howard]], [[Valerie Brisco-Hooks]], [[Chandra Cheeseborough]]
+|{{flagu|United States}}
+|11 August 1984
+|[[1984 Summer Olympic Games|Los Angeles]]
+|
+|-
+|[[Dagmar Rübsam-Neubauer]], [[Kirsten Emmelmann]], [[Sabine Busch]], [[Petra Müller]]
+|{{flagu|German Democratic Republic}} 
+|1 October 1988
+|[[1988 Summer Olympic Games|Seoul]]
+|
+|-
+!16
+|3:18.38
+|[[Yelena Ruzina]], [[Tatyana Alekseyeva]], [[Margarita Khromova-Ponomaryova]], [[Irina Privalova]]
+|{{flagu|Russia}}
+|22 August 1993
+|[[1993 World Championships in Athletics|Stuttgart]]
+|
+|-
+!17
+|3:18.43
+|[[Tatyana Ledovskaya]], [[Lyudmila Dzhigalova]], [[Olga Nazarova]], [[Olha Bryzhina]]
+|{{flagu|USSR}}
+|1 September 1991
+|[[1991 World Championships in Athletics – Women's 4 × 400 metres relay|Tokyo]]
+|
+|-
+!18
+|3:18.54
+|[[Mary Wineberg]] (51.00)<br>[[Allyson Felix]] (48.55)<br>[[Monique Henderson]] (50.06)<br>[[Sanya Richards-Ross]] (48.93)
+|{{flagu|United States}}
+|23 August 2008
+|[[2008 Summer Olympic Games|Beijing]]
+|
+|-
+!19
+|3:18.55
+|[[DeeDee Trotter]] (51.39)<br>[[Allyson Felix]] (48.01)<br>[[Monique Henderson]] (50.24)<br>[[Sanya Richards-Ross]] (48.91)
+|{{flagu|United States}}
+|2 September 2007
+|[[2007 World Championships in Athletics|Osaka]]
+|
+|-
+!20
+|3:18.58
+|[[Irina Nazarova]], [[Nadiya Olizarenko]], [[Mariya Pinigina]], [[Olha Bryzhina|Olga Vladykina]]
+|{{flagu|USSR}}
+|18 August 1985
+|Moscow
+|
+|-
+!21
+|3:18.63
+|[[Dagmar Rübsam-Neubauer]], [[Kirsten Emmelmann]], [[Petra Müller]], [[Sabine Busch]]
+|{{flagu|German Democratic Republic}}
+|6 September 1987
+|[[1987 World Championships in Athletics|Rome]]
+|
+|-
+!22
+|3:18.71
+|[[Rosemarie Whyte]], [[Davita Prendergast]], [[Novlene Williams-Mills]], [[Shericka Williams]]
+|{{flagu|Jamaica}}
+|3 September 2011
+|[[2011 World Championships in Athletics|Deagu]]
+|
+|-
+!23
+|3:18.92
+|[[Phyllis Francis]] (49.51)<br>[[Sydney McLaughlin]] (49.78)<br>[[Dalilah Muhammad]] (49.43)<br>[[Wadeline Jonathas]] (50.20)
+|{{flagu|United States}}
+|6 October 2019
+|[[2019 World Athletics Championships – Women's 4 × 400 metres relay|Doha]]
+|<ref>{{cite web|url=https://media.aws.iaaf.org/competitiondocuments/pdf/6033/AT-4X4-W-f----.RS6.pdf|title=4 x 400 Metres Relay Women − Final − Results|publisher=[[International Association of Athletics Federations|IAAF]]|date=6 October 2019|access-date=8 October 2019}}</ref>
+|-
+!24
+|3:19.01
+|[[DeeDee Trotter]] (49.19)<br>[[Monique Henderson]] (50.29)<br>[[Sanya Richards-Ross]] (49.81)<br>[[Monique Hennagan]] (49.72)
+|{{flagu|United States}}
+|28 August 2004
+|[[2004 Summer Olympic Games|Athens]]
+|
+|-
+!25
+|3:19.02
+|[[Quanera Hayes]] (50.60)<br>[[Allyson Felix]] (48.60)<br>[[Shakima Wimbley]] (49.50) <br>[[Phyllis Francis]] (50.32)
+|{{flagu|United States}}
+|13 August 2017
+|[[2017 World Championships in Athletics – Women's 4 × 400 metres relay|London]]
+|<ref>{{cite web|title=4 × 400 m Relay Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/5151/AT-4X4-W-f----.RS6.pdf?v=220770694|publisher=IAAF|date=13 August 2017|access-date=13 August 2017}}</ref>
+|}
+'''Note'''
+* A Russian team ran 3:18.82 in [[2008 Summer Olympics|Beijing]] in 2008 but the performance was annulled due to the use of performance-enhancing drugs by [[Tatyana Firova]]
+
+== All-time top 10 by country (indoor) ==
+
+===Men===
+*Correct as of March 2024.<ref>{{Cite web |title=4x400 Metres Relay Short Track Men |url=https://worldathletics.org/records/all-time-toplists/relays/4x400-metres-relay-short-track/all/men/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-03-03&maxResultsByCountry=all&eventId=204609&ageCategory=senior |access-date=3 March 2024 |website=worldathletics.org}}</ref>
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|3:01.39
+|[[Ilolo Izu|Illolo Izu]], [[Robert Grant (athlete)|Robert Grant]], [[Devin Dixon]], [[My'Lik Kerley|Mylik Kerley]]
+|{{flagu|United States}}
+|10 March 2018
+|College Station
+|
+|-
+!2
+|3:01.77
+|[[Karol Zalewski]], [[Rafał Omelko]], [[Łukasz Krawczuk]], [[Jakub Krzewina]]
+|{{flagu|Poland}}
+|4 March 2018
+|Birmingham
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!3
+|3:02.51
+|[[Dylan Borlée]], [[Jonathan Borlée]], [[Jonathan Sacoor]], [[Kevin Borlée]]
+|{{Flagu|Belgium}}
+|4 March 2018
+|Birmingham
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!4
+|3:02.52
+|[[Deon Lendore]], [[Jereem Richards]], [[Asa Guevara]], [[Lalonde Gordon]]
+|{{flagu|Trinidad and Tobago}}
+|4 March 2018
+|Birmingham
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!5
+|3:03.05
+|[[Rico Lieder]], [[Jens Carlowitz]], [[Karsten Just]], [[Thomas Schönlebe]]
+|{{Flagu|Germany}}
+|10 March 1991
+|Sevilla
+|
+|-
+!6
+|3:03.20
+|[[Allyn Condon]], [[Solomon Wariso]], [[Adrian Patrick]], [[Jamie Baulch]]
+|{{Flagu|Great Britain}}
+|7 March 1999
+|Maebashi
+|
+|-
+!7
+|3:03.69
+|[[Errol Nolan]], [[Allodin Fothergill]], [[Akheem Gauntlett]], [[Edino Steele]]
+|{{flagu|Jamaica}}
+|9 March 2014
+|Sopot
+|
+|-
+!8
+|3:04.09
+|[[Daniel Němeček]], [[Patrik Šorm]], [[Jan Tesař (athlete)|Jan Tesař]], [[Pavel Maslák]]
+|{{Flagu|Czech Republic}}
+|8 March 2015
+|Prague
+|
+|-
+!9
+|3:04.25
+|[[Liemarvin Bonevacia]], [[Ramsey Angela]], [[Terrence Agard]], [[Tony van Diepen]]
+|{{flagu|Netherlands}}
+|3 March 2024
+|Glasgow
+|<ref>{{Cite web|date=3 March 2024|title=Results 4 x 400 Metres Relay Men - Final|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7180312/AT-4X4sh-M-f----.RS6.pdf|access-date=4 March 2024|website=[[World Athletics]]}}</ref>
+|-
+!10
+|3:04.75
+|[[Michael Mathieu]], [[Alonzo Russell (sprinter)|Alonzo Russell]], [[Shavez Hart]], [[Chris Brown (athlete)|Chris Brown]]
+|{{flagu|Bahamas}}
+|20 March 2016
+|Portland
+|<ref>[http://media.aws.iaaf.org/competitiondocuments/pdf/5681/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|}
+
+===Women===
+*Correct as of March 2025.<ref>{{Cite web |date=3 March 2024 |title=4x400 Metres Relay Short Track Women |url=https://worldathletics.org/records/all-time-toplists/relays/4x400-metres-relay-short-track/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-03-03&maxResultsByCountry=all&eventId=204610&ageCategory=senior |access-date=3 March 2024 |website=[[World Athletics]]}}</ref>
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|3:23.37
+|[[Olesya Forsheva|Olesya Krasnomovets-Forsheva]], [[Olga Zaytseva]], [[Olga Kotlyarova]], [[Yuliya Gushchina]]
+|{{flagu|Russia}}
+|28 January 2006
+|Glasgow
+|
+|-
+!2
+|3:23.85
+|[[Quanera Hayes]], [[Georganne Moline]], [[Shakima Wimbley]], [[Courtney Okolo]]
+|{{flagu|United States}}
+|4 March 2018
+|Birmingham
+|<ref name=":7">[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-W-f----.RS6.pdf Final results]</ref>
+|-
+!3
+|3:24.34
+|[[Lieke Klaver]], [[Nina Franke]], [[Cathelijn Peeters]], [[Femke Bol]]
+|{{flagu|Netherlands}}
+| rowspan="5" |9 March 2025
+| rowspan="5" |Apeldoorn 
+| rowspan="5" |<ref>{{Cite web |date=9 March 2025 |title=Results 4x400m Relay Women - Final |url=https://reneaprdsnstg001.blob.core.windows.net/publicfiles-container/EICH2025_C73D_ATHW4X400M------------FNL-000100--.pdf?sv=2024-11-04&se=2075-03-09T18%3A54%3A41Z&sr=b&sp=r&sig=rl6NazbcGf7WtAX6dts0hxdomNiSYSQBZQiPk3ZJ8YA%3D |archive-url=https://web.archive.org/web/20250309194239/https://reneaprdsnstg001.blob.core.windows.net/publicfiles-container/EICH2025_C73D_ATHW4X400M------------FNL-000100--.pdf?sv=2024-11-04&se=2075-03-09T18%3A54%3A41Z&sr=b&sp=r&sig=rl6NazbcGf7WtAX6dts0hxdomNiSYSQBZQiPk3ZJ8YA%3D |archive-date=9 March 2025 |access-date=9 March 2025 |website=[[European Athletics]]}}</ref>
+|-
+!4
+|3:24.89
+|[[Lina Nielsen]], [[Hannah Kelly (athlete)|Hannah Kelly]], [[Emily Newnham]], [[Amber Anning]]
+|{{Flagu|Great Britain}}
+|-
+!5
+|3:25.31
+|[[Lada Vondrová]], [[Nikoleta Jíchová]], [[Tereza Petržilková]], [[Lurdes Gloria Manuel]]
+|{{flagu|Czech Republic}}
+|-
+!6
+|3:25.68
+|[[Paula Sevilla]], [[Eva Santidrián]], [[Daniela Fra]], [[Blanca Hervás|Blanca Hervas]]
+|{{flagu|Spain}}
+|-
+!7
+|3:25.80
+|[[Camille Séri|Camille Seri]], [[Louise Maraval]], [[Marjorie Veyssiere]], [[Amandine Brossier]]
+|{{flagu|France}}
+|-
+!8
+|3:26.09
+|[[Justyna Święty-Ersetic]], [[Patrycja Wyciszkiewicz]], [[Aleksandra Gaworska]], [[Małgorzata Hołub-Kowalik]]
+|{{flagu|Poland}}
+|4 March 2018
+|Birmingham
+|<ref name=":7" />
+|-
+!9
+|3:26.54
+|[[Patricia Hall (athlete)|Patricia Hall]], [[Anneisha McLaughlin]], [[Kaliese Spencer]], [[Stephenie Ann McPherson]]
+|{{flagu|Jamaica}}
+|9 March 2014
+|Sopot
+|<ref>[https://iaafmedia.s3.amazonaws.com/competitiondocuments/pdf/4952/AT-4X4-W-f----.RS6.pdf?v=347621854 Final results]</ref>
+|-
+!10
+|3:26.87
+|[[Susan Andrews]], [[Tania Van Heer]], [[Tamsyn Lewis]], [[Cathy Freeman]]
+|{{Flagu|Australia}}
+|7 March 1999
+|Maebashi
+|
+|}
+
+==All-time top 25 (indoor)==
+===Men===
+*Updated February 2025.
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|3:00.77
+|''[[USC Trojans]]''<br>[[Zach Shinnick]] (46.24)<br>[[Rai Benjamin]] (44.35)<br>[[Ricky Morgan Jr.]] (45.67)<br>[[Michael Norman (sprinter)|Michael Norman]] (44.52)
+|{{flagu|United States}}<br>{{flagu|Antigua and Barbuda}}<br>{{flagu|United States}}<br>{{flagu|United States}}
+|10 March 2018
+|[[Gilliam Indoor Track Stadium|College Station]]
+|<ref>{{cite news|title=Norman breaks world indoor 400m record at NCAA Indoor Championships|url=https://www.iaaf.org/news/report/ncaa-indoor-championships-2018-norman-400-wor|publisher=IAAF|author=Roy Jordan|date=10 March 2018|access-date=4 March 2024}}</ref>
+|-
+!2
+|3:01.09
+|''[[Arkansas Razorbacks]]''<br>[[Connor Washington]]<br>[[James Benson (athlete)|James Benson]]<br>[[Ayden Owens-Delerme]]<br>[[Christopher Bailey (runner)|Christopher Bailey]]
+|{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|Puerto Rico}}<br>{{flagu|United States}}
+|4 February 2023
+|[[Albuquerque, New Mexico|Albuquerque]]
+|
+|-
+!3
+|3:01.39
+|''[[Texas A&M Aggies]]''<br>[[Ilolo Izu|Illolo Izu]]<br>[[Robert Grant (athlete)|Robert Grant]]<br>[[Devin Dixon]]<br>[[My'Lik Kerley|Mylik Kerley]]
+|{{flagu|United States}}
+|10 March 2018
+|[[Gilliam Indoor Track Stadium|College Station]]
+|<ref>{{cite news |author=Roy Jordan |date=10 March 2018 |title=Norman breaks world indoor 400m record at NCAA Indoor Championships |url=https://www.iaaf.org/news/report/ncaa-indoor-championships-2018-norman-400-wor |access-date=4 March 2024 |publisher=IAAF}}</ref>
+|-
+!4
+|3:01.43
+|''[[Florida Gators]]''<br>[[Kunle Fasasi]]<br>[[Grant Holloway]]<br>[[Chantz Sawyers]]<br>[[Benjamin Lobo Vedel]]
+|{{flagu|Nigeria}}<br>{{flagu|United States}}<br>{{flagu|Jamaica}}<br>{{flagu|Denmark}}
+|10 March 2018
+|[[Gilliam Indoor Track Stadium|College Station]]
+|<ref>{{cite news |author=Roy Jordan |date=10 March 2018 |title=Norman breaks world indoor 400m record at NCAA Indoor Championships |url=https://www.iaaf.org/news/report/ncaa-indoor-championships-2018-norman-400-wor |access-date=4 March 2024 |publisher=IAAF}}</ref>
+|-
+!5
+|3:01.51
+|''[[Houston Cougars]]''<br>[[Amere Lattin]]<br>[[Obi Igbokwe|Obi Ogbokwe]]<br>[[Jermaine Holt]]<br>[[Kahmari Montgomery]]
+|{{flagu|United States}}
+|9 February 2019
+|[[Clemson, South Carolina|Clemson]]
+|
+|-
+!6
+|3:01.56
+|''[[Texas A&M Aggies]]''<br>[[Ilolo Izu|Illolo Izu]]<br>[[Bryce Deadmon]]<br>[[Kyree Johnson]]<br>[[Devon Dixon]]
+|{{flagu|United States}}
+|9 February 2019
+|[[Clemson, South Carolina|Clemson]]
+|
+|-
+!7
+|3:01.77
+|[[Karol Zalewski]]<br>[[Rafał Omelko]]<br>[[Łukasz Krawczuk]]<br>[[Jakub Krzewina]]
+|{{flagu|Poland}}
+|4 March 2018
+|[[Birmingham]]
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!8
+|3:01.78
+|''[[Alabama Crimson Tide]]''<br>[[Chris Robinson (sprinter)|Chris Robinson]]<br>[[Demetrius Jackson (athlete)|Demetrius Jackson]]<br>[[Tarsis Orogot|Tarsis Gracious Orogot]]<br>[[Khaleb McRae]]
+|{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|Uganda}}<br>{{flagu|United States}}
+|25 February 2023
+|[[Fayetteville, Arkansas|Fayetteville]]
+|
+|-
+!9
+|3:01.96
+|[[Kerron Clement]]<br>[[Jeremy Wariner]]<br>[[Wallace Spearmon]]<br>[[Darold Williamson]]
+|{{flagu|United States}}
+|11 February 2006
+|[[Fayetteville, Arkansas|Fayetteville]]
+|
+|-
+!10
+|3:01.97
+|[[Fred Kerley]]<br>[[Michael Cherry (athlete)|Michael Cherry]]<br>[[Aldrich Bailey|Aldrich Bailey Jr.]]<br>[[Vernon Norwood]]
+|{{flagu|United States}}
+|4 March 2018
+|[[Birmingham]]
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!11
+|3:01.98
+|''[[USC Trojans]]''<br>[[Zachary Shinnick]]<br>[[Rai Benjamin]]<br>[[Ricky Morgan]]<br>[[Michael Norman (sprinter)|Michael Norman]]
+|{{flagu|United States}}
+|10 February 2018
+|[[Clemson, South Carolina|Clemson]]
+|
+|-
+!12
+|3:02.09
+|''[[Arkansas Razorbacks]]''<br>[[Connor Washington]]<br>[[James Benson (athlete)|James Benson]]<br>[[Ayden Owens-Delerme]]<br>[[Christopher Bailey (runner)|Christopher Bailey]]
+|{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|Puerto Rico}}<br>{{flagu|United States}}
+|11 March 2023
+|[[Albuquerque, New Mexico|Albuquerque]]
+|
+|-
+!13
+|3:02.13
+|[[Kyle Clemons]]<br>[[David Verburg]]<br>[[Kind Butler III|Kind Butler]]<br>[[Calvin Smith Jr.|Calvin Smith]]
+|{{flagu|United States}}
+|9 March 2014
+|[[Sopot]]
+|
+|-
+!14
+|3:02.18
+|''[[Florida Gators]]''<br>[[Jacory Patterson]]<br>[[Emmanuel Bamidele]]<br>[[Jevaughn Powell]]<br>[[Ryan Willie]]
+|{{flagu|United States}}<br>{{flagu|Nigeria}}<br>{{flagu|Jamaica}}<br>{{flagu|United States}}
+|11 February 2023
+|[[Fayetteville, Arkansas|Fayetteville]]
+|
+|-
+!15
+|3:02.21
+|''[[Texas A&M Aggies]]''
+[[Auhmad Robinson]]<br>[[Hossam Hatib]]<br>[[Antonie Nortje|Antonie Mathys Nortje]]<br>[[Cutler Zamzow]]
+|{{flagu|United States}}<br>{{flagu|Morocco}}<br>{{flagu|South Africa}}<br>{{flagu|United States}}
+|15 February 2025
+|[[Clemson, South Carolina|Clemson]]
+|<ref>{{Cite web |date=15 February 2025 |title=Clemson Tiger Paw Invitational Men's 4x400 Metres Relay Short Track Final 1 |url=https://worldathletics.org/competition/calendar-results/results/7221840?eventId=204609&gender=M |access-date=11 March 2025 |website=[[World Athletics]]}}</ref>
+|-
+!16
+|3:02.23
+|''[[Florida Gators]]''<br>[[Kunle Fasasi]]<br>[[Grant Holloway]]<br>[[Chantz Sawyers]]<br>[[Benjamin Lobo Vedel]]
+|{{flagu|Nigeria}}<br>{{flagu|United States}}<br>{{flagu|Jamaica}}<br>{{flagu|Denmark}}
+|10 February 2018
+|[[Clemson, South Carolina|Clemson]]
+|
+|-
+! rowspan="2" |17
+| rowspan="2" |3:02.35
+|''[[Texas A&M Aggies]]''<br>[[Ilolo Izu|Illolo Izu]]<br>[[Robert Grant (athlete)|Robert Grant]]<br>[[Kyree Johnson|Devon Dixon]]<br>[[My'Lik Kerley]]
+|{{flagu|United States}}
+|25 February 2018
+|[[Gilliam Indoor Track Stadium|College Station]]
+|
+|-
+|''[[Arizona State Sun Devils]]''<br>[[Justin Robinson (sprinter)|Justin Robinson]]<br>[[Kaleb Simpson]]<br>[[Jayden Davis (athlete)|Jayden Davis]]<br>[[Gamali Felix]]
+|{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|Grenada}}
+|9 March 2024
+|[[Boston]]
+|
+|-
+!19
+|3:02.45
+|[[Kyle Clemons]]<br>[[Calvin Smith Jr.|Calvin Smith]]<br>[[Christopher Giesting|Chris Giesting]]<br>[[Vernon Norwood]]
+|{{flagu|United States}}
+|20 March 2016
+|[[Portland, Oregon|Portland]]
+|
+|-
+!20
+|3:02.51
+|[[Dylan Borlée]]<br>[[Jonathan Borlée]]<br>[[Jonathan Sacoor]]<br>[[Kevin Borlée]]
+|{{Flagu|Belgium}}
+|4 March 2018
+|[[Birmingham]]
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+! rowspan="2" |21
+| rowspan="2" |3:02.52
+|''[[Texas A&M Aggies]]''<br>[[Fred Kerley]]<br>[[Richard Rose (athlete)|Richard Rose]]<br>[[Devon Dixon]]<br>[[My'Lik Kerley]]
+|{{flagu|United States}}
+|28 January 2017
+|[[Fayetteville, Arkansas|Fayetteville]]
+|
+|-
+|[[Deon Lendore]]<br>[[Jereem Richards]]<br>[[Asa Guevara]]<br>[[Lalonde Gordon]]
+|{{flagu|Trinidad and Tobago}}
+|4 March 2018
+|[[Birmingham]]
+|<ref>[https://media.aws.iaaf.org/competitiondocuments/pdf/6019/AT-4X4-M-f----.RS6.pdf Final results]</ref>
+|-
+!23
+|3:02.53
+|''[[Florida Gators]]''<br>[[Jevaughn Powell]]<br>[[Robert Gregory (athlete)|Robert Gregory]]<br>[[Jenoah McKiver]]<br>[[Reheem Hayles]]
+|{{flagu|Jamaica}}<br>{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|Jamaica}}
+|9 March 2024
+|[[Boston]]
+|
+|-
+!24
+|3:02.54
+|[[Jonathan Sacoor]] (46.21<br>[[Dylan Borlée]] (45.67)<br>[[Christian Iguacel]] (45.78)<br>[[Alexander Doom]] (44.88)
+|{{flagu|Belgium}}
+|3 March 2024
+|[[Commonwealth Arena and Sir Chris Hoy Velodrome|Glasgow]]
+|<ref>{{cite web |date=3 March 2024 |title=Men's 4×400m Relay Final Results |url=https://media.aws.iaaf.org/competitiondocuments/pdf/7180312/AT-4X4sh-M-f----.RS6.pdf |access-date=4 March 2024 |work=World Athletics}}</ref>
+|-
+!25
+|3:02.59
+|''[[Georgia Bulldogs]]''<br>[[Matthew Boling]]<br>[[Caleb Cavanaugh]]<br>[[Bryce McCray]]<br>[[Elija Godwin]]
+|{{flagu|United States}}
+|26 February 2022
+|[[Gilliam Indoor Track Stadium|College Station]]
+|
+|}
+
+===Women===
+*Updated March 2025.
+
+{| class="wikitable"
+!Rank
+!Time
+!Team
+!Nation
+!Date
+!Place
+!Ref
+|-
+!1
+|3:21.75 {{AthAbbr|A}}
+|[[Arkansas Razorbacks track and field|''Arkansas Razorbacks'']]<br>[[Amber Anning]] ''51.47''<br />[[Joanne Reid (sprinter)|Joanne Reid]] ''50.52''<br />[[Rosey Effiong]] ''50.57''<br />[[Britton Wilson]] ''49.20''
+|{{flagu|England}}<br />{{flagu|Jamaica}}<br />{{flagu|United States}}<br />{{flagu|United States}}
+|11 March 2023
+|[[Albuquerque Convention Center|Albuquerque]]
+|<ref>[https://flashresults.ncaa.com/Indoor/2023/025-1-03.htm NCAA Indoor Championships Albuquerque, NM - March 10-11, 2023 - Women 4x400 M Relay (Finals) section 3 splits] NCAA</ref>
+|-
+!2
+|3:23.37
+|[[Olesya Forsheva|Olesya Krasnomovets-Forsheva]]<br>[[Olga Zaytseva]]<br>[[Olga Kotlyarova]]<br>[[Yuliya Gushchina]]
+|{{flagu|Russia}}
+|28 January 2006
+|Glasgow
+|
+|-
+!3
+|3:23.85
+|[[Quanera Hayes]]<br>[[Georganne Moline]]<br>[[Shakima Wimbley]]<br>[[Courtney Okolo]]
+|{{flagu|United States}}
+|4 March 2018
+|Birmingham
+|
+|-
+!4
+|3:23.88
+|[[Olesya Forsheva|Olesya Krasnomovets-Forsheva]]<br>[[Olga Zaytseva|Olga Kotlyarova]]<br>[[Tatyana Levina]]<br>[[Natalya Nazarova]]
+|{{flagu|Russia}}
+|7 March 2004
+|Budapest
+|
+|-
+!5
+|3:24.09
+|[[Arkansas Razorbacks track and field|''Arkansas Razorbacks'']]<br>[[Rosey Effiong]]<br />[[Jayla Hollis]]<br />[[Shafiqua Maloney]]<br />[[Britton Wilson]]
+|{{flagu|United States}}<br />{{flagu|United States}}<br />{{flagu|Saint Vincent and the Grenadines}}<br />{{flagu|United States}}
+|26 February 2022
+|College Station
+|
+|-
+!6
+|3:24.25
+|[[Tatyana Chebykina]]<br>[[Svetlana Goncharenko]]<br>[[Tatyana Levina|Olga Kotlyarova]]<br>[[Natalya Nazarova]]
+|{{flagu|Russia}}
+|7 March 1999
+|Maebashi
+|
+|-
+!7
+|3:24.34
+|[[Lieke Klaver]] (50.98)<br>[[Nina Franke]] (51.83)<br>[[Cathelijn Peeters]] (51.11)<br>[[Femke Bol]] (50.42)
+|{{flagu|Netherlands}}
+|9 March 2025
+|Apeldoorn
+|<ref name=":8">{{Cite web |date=9 March 2025 |title=Results 4x400m Relay Women - Final |url=https://reneaprdsnstg001.blob.core.windows.net/publicfiles-container/EICH2025_C73D_ATHW4X400M------------FNL-000100--.pdf?sv=2024-11-04&se=2075-03-09T18%3A54%3A41Z&sr=b&sp=r&sig=rl6NazbcGf7WtAX6dts0hxdomNiSYSQBZQiPk3ZJ8YA%3D |archive-url=https://web.archive.org/web/20250311190750/https://reneaprdsnstg001.blob.core.windows.net/publicfiles-container/EICH2025_C73D_ATHW4X400M------------FNL-000100--.pdf?sv=2024-11-04&se=2075-03-09T18%3A54%3A41Z&sr=b&sp=r&sig=rl6NazbcGf7WtAX6dts0hxdomNiSYSQBZQiPk3ZJ8YA%3D |archive-date=11 March 2025 |access-date=11 March 2025 |website=[[European Athletics]]}}</ref>
+|-
+!8
+|3:24.83
+|[[Natasha Hastings]]<br>[[Joanna Atkins]]<br>[[Francena McCorory]]<br>[[Cassandra Tate]]
+|{{flagu|United States}}
+|9 March 2014
+|Sopot
+|<ref>{{cite web |date=9 March 2014 |title=Women's 4×400m Relay Final Results |url=https://iaafmedia.s3.amazonaws.com/competitiondocuments/pdf/4952/AT-4X4-W-f----.RS6.pdf?v=347621854 |access-date=4 March 2023 |work=IAAF}}</ref>
+|-
+!9
+|3:24.89
+|[[Lina Nielsen]] (51.24)<br>[[Hannah Kelly (athlete)|Hannah Kelly]] (51.85)<br>[[Emily Newnham]] (51.24)<br>[[Amber Anning]] (50.56)
+|{{Flagu|Great Britain}}
+|9 March 2025
+|Apeldoorn
+|<ref name=":8" />
+|-
+!10
+|3:24.91
+|[[Tatyana Levina]]<br>[[Natalya Nazarova]]<br>[[Olesya Forsheva|Olesya Krasnomovets-Forsheva]]<br>[[Natalya Antyukh|Natayla Antyukh]]
+|{{flagu|Russia}}
+|12 March 2006
+|Moscow
+|
+|-
+!11
+|3:25.07
+|[[Lieke Klaver]] (50.26)<br>[[Cathelijn Peeters]] (51.99)<br>[[Lisanne de Witte]] (52.28)<br>[[Femke Bol]] (50.54)
+|{{flagu|Netherlands}}
+|3 March 2024
+|[[Commonwealth Arena and Sir Chris Hoy Velodrome|Glasgow]]
+|<ref>{{cite web|title=Women's 4×400m Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7180312/AT-4X4sh-W-f----.RS6.pdf|work=World Athletics|date=3 March 2024|access-date=4 March 2024}}</ref>
+|-
+!12
+|3:25.20
+|[[Arkansas Razorbacks track and field|''Arkansas Razorbacks'']]<br>[[Joanne Reid (sprinter)|Joanne Reid]]<br />[[Sanaria Butler]]<br />[[Kaylyn Brown]]<br>[[Isabella Whittaker]]
+|{{flagu|Jamaica}}<br>{{flagu|United States}}<br>{{flagu|United States}}<br>{{flagu|United States}}
+|15 March 2025
+|Virginia Beach
+|<ref>{{cite web|title=4×400m Relay Results|url=https://flashresults.ncaa.com/Indoor/2025/025-1.pdf|website=flashresults.ncaa.com|date=15 March 2025|access-date=1 April 2025}}</ref>
+|-
+!13
+|3:25.31
+|[[Lada Vondrová]] (52.30)<br>[[Nikoleta Jíchová]] (51.08)<br>[[Tereza Petržilková]] (52.11)<br>[[Lurdes Gloria Manuel]] (49.82)
+|{{flagu|Czech Republic}}
+|9 March 2025
+|Apeldoorn
+|<ref name=":8" />
+|-
+!14
+|3:25.34
+|[[Quanera Hayes]] (52.33)<br>[[Talitha Diggs]] (50.50)<br>[[Bailey Lear]] (52.02)<br>[[Alexis Holmes]] (50.49)
+|{{flagu|United States}}
+|3 March 2024
+|[[Commonwealth Arena and Sir Chris Hoy Velodrome|Glasgow]]
+|<ref>{{cite web|title=Women's 4×400m Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7180312/AT-4X4sh-W-f----.RS6.pdf|work=World Athletics|date=3 March 2024|access-date=4 March 2024}}</ref>
+|-
+!15
+|3:25.43
+|''[[Texas A&M Aggies]]''<br>[[Laila Owens]]<br>[[Tierra Robinson-Jones]]<br>[[Syaira Richardson]]<br>[[Charokee Young]]
+|{{flagu|United States}}<br />{{flagu|United States}}<br />{{flagu|United States}}<br />{{flagu|Jamaica}}
+|26 February 2022
+|College Station 
+|
+|-
+!16
+|3:25.59
+|[[Arkansas Razorbacks track and field|''Arkansas Razorbacks'']]<br>[[Rosey Effiong]]<br />[[Amber Anning]]<br />[[Nickisha Pryce]]<br />[[Sanu Jallow]]
+|{{flagu|United States}}<br />{{flagu|Great Britain}}<br />{{flagu|Jamaica}}<br />{{flagu|United States}}
+|27 January 2024
+|Fayetteville
+|
+|-
+!17
+|3:25.66
+|[[Lieke Klaver]]<br>[[Eveline Saalberg]]<br>[[Cathelijn Peeters]]<br>[[Femke Bol]]
+|{{flagu|Netherlands}}
+|5 March 2023
+|Istanbul
+|
+|-
+!18
+|3:25.67 {{AthAbbr|A}}
+|''[[Texas Longhorns]]''<br>[[Rachel Helbling]]<br>[[Kennedy Simon (sprinter)|Kennedy Simon]]<br>[[Julien Alfred]]<br>[[Rhasidat Adeleke]]
+|{{flagu|United States}}<br />{{flagu|United States}}<br />{{flagu|Saint Lucia}}<br />{{flagu|Ireland}}
+|11 March 2023
+|[[Albuquerque Convention Center|Albuquerque]]
+|<ref>{{cite web |date=11 March 2023 |title=4x400m Relay Results |url=https://flashresults.ncaa.com/Indoor/2023/025-1_compiled.htm |access-date=4 March 2024 |website=flashresults.com}}</ref>
+|-
+!19
+|3:25.68
+|[[Paula Sevilla]] (51.54)<br>[[Eva Santidrián]] (51.51)<br>[[Daniela Fra]] (51.26)<br>[[Blanca Hervás|Blanca Hervas]] (51.37)
+|{{flagu|Spain}}
+|9 March 2025
+|Apeldoorn
+|<ref name=":8" />
+|-
+!20
+|3:25.73
+|''Cique Elite''<br>[[Quanera Hayes]]<br>[[Maya Singletary]]<br>[[Karimah Davis]]
+|{{flagu|United States}}
+|14 February 2025
+|Clemson
+|<ref>{{Cite web |date=14 February 2025 |title=Clemson Tiger Paw Invitational Women's 4x400 Metres Relay Short Track Final 1 |url=https://worldathletics.org/competition/calendar-results/results/7221840?eventId=204610&gender=W |access-date=11 March 2025 |website=[[World Athletics]]}}</ref>
+|-
+!21
+|3:25.80
+|[[Camille Séri|Camille Seri]] (52.32)<br>[[Louise Maraval]] (51.03)<br>[[Marjorie Veyssiere]] (52.65)<br>[[Amandine Brossier]] (49.80)
+|{{flagu|France}}
+|9 March 2025
+|Apeldoorn
+|<ref name=":8" />
+|-
+!22
+|3:25.89
+|''[[Kentucky Wildcats]]''<br>[[Megan Moss]]<br>[[Abby Steiner]]<br>[[Karimah Davis]]<br>[[Alexis Holmes]]
+|{{flagu|Bahamas}}<br />{{flagu|United States}}<br />{{flagu|United States}}<br />{{flagu|United States}}
+|26 February 2022
+|College Station
+|
+|-
+!23
+|3:25.91
+|[[Tatyana Levina|Yuliya Gushchina]]<br>[[Tatyana Veshkurova]]<br>[[Olesya Forsheva|Tatyana Levina]]<br>[[Natalya Antyukh]]
+|{{flagu|Russia}}
+|12 March 2006
+|Moscow
+|
+|-
+!24
+|3:26.05
+|''[[South Carolina Gamecocks]]''<br>[[Zaya Akins]]<br>[[Jahnile Registre]]<br>[[Jayla Jamison]]<br>[[JaMeesia Ford]]
+|{{flagu|United States}}
+|24 February 2024
+|Fayetteville
+|
+|-
+!25
+|3:26.07
+|''[[Georgia Bulldogs]]''<br>[[Dejanea Oakley]]<br>[[Michelle Smith (athlete)|Michelle Smith]]<br>[[Haley Tate]]<br>[[Aaliyah Butler]]
+|{{flagu|Jamaica}}<br>{{flagu|US Virgin Islands}}<br>{{flagu|United States}}<br>{{flagu|United States}}
+|15 March 2025
+|Virginia Beach
+|<ref>{{cite web|title=4×400m Relay Results|url=https://flashresults.ncaa.com/Indoor/2025/025-1.pdf|website=flashresults.ncaa.com|date=15 March 2025|access-date=1 April 2025}}</ref>
+|}
+
+==Olympic medalists==
+{{main|4 × 400 metres relay at the Olympics}}
+
+===Men===
+{{Olympic medalists in men's 4 × 400 metres relay}}
+
+===Women===
+{{Olympic medalists in women's 4 × 400 metres relay}}
+
+==World Championships medalists==
+{{main|4 × 400 metres relay at the World Championships in Athletics}}
+===Men===
+{{World Championships in Athletics medalists in men's 4 × 400 metres relay}}
+
+===Women===
+{{World Championships in Athletics medalists in women's 4 × 400 metres relay}}
+
+==World Indoor Championships medalists==
+===Men===
+{| {{MedalistTable}}
+|-
+|[[1991 IAAF World Indoor Championships|1991 Seville]]<br>{{DetailsLink|1991 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|Germany}}<br>[[Rico Lieder]]<br>[[Jens Carlowitz]]<br>[[Karsten Just]]<br>[[Thomas Schönlebe]]
+|{{flagu|United States}}<br>[[Raymond Pierre]]<br>[[Charles Jenkins Jr.]]<br>[[Andrew Valmon]]<br>[[Antonio McKay]]<br>[[Clifton Campbell]]*<br>[[Willie Smith (sprinter)|Willie Smith]]*
+|{{flagu|Italy}}<br>[[Marco Vaccari]]<br>[[Vito Petrella]]<br>[[Alessandro Aimar]]<br>[[Andrea Nuti]]
+|-
+|[[1993 IAAF World Indoor Championships|1993 Toronto]]<br>{{DetailsLink|1993 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Darnell Hall]]<br>[[Brian Irvin]]<br>[[Jason Rouser]]<br>[[Mark Everett (runner)|Mark Everett]]
+|{{flag|Trinidad and Tobago}}<br>[[Dazel Jules]]<br>[[Alvin Daniel]]<br>[[Neil de Silva]]<br>[[Ian Morris (athlete)|Ian Morris]]
+|{{flagu|Japan}}<br>[[Masayoshi Kan]]<br>[[Seiji Inagaki]]<br>[[Yoshihiko Saito]]<br>[[Hiroyuki Hayashi (athlete)|Hiroyuki Hayashi]]
+|-
+|[[1995 IAAF World Indoor Championships|1995 Barcelona]]<br>{{DetailsLink|1995 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Rod Tolbert]]<br>[[Calvin Davis]]<br>[[Tod Long]]<br>[[Frankie Atwater]]
+|{{flagu|Italy}}<br>[[Fabio Grossi (athlete)|Fabio Grossi]]<br>[[Andrea Nuti]]<br>[[Roberto Mazzoleni]]<br>[[Ashraf Saber]]
+|{{flagu|Japan}}<br>[[Masayoshi Kan]]<br>[[Seiji Inagaki]]<br>[[Tomonari Ono]]<br>[[Hiroyuki Hayashi (athlete)|Hiroyuki Hayashi]]
+|-
+|[[1997 IAAF World Indoor Championships|1997 Paris]]<br>{{DetailsLink|1997 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Jason Rouser]]<br>[[Mark Everett (runner)|Mark Everett]]<br>[[Sean Maye]]<br>[[Deon Minor]]
+|{{flag|Jamaica}}<br>[[Linval Laird]]<br>[[Michael McDonald (runner)|Michael McDonald]]<br>[[Dinsdale Morgan]]<br>[[Greg Haughton]]<br>[[Garth Robinson]]*
+|{{flagu|France}}<br>[[Pierre-Marie Hilaire]]<br>[[Rodrigue Nordin]]<br>[[Loic Lerouge]]<br>[[Fred Mango]]
+|-
+|[[1999 IAAF World Indoor Championships|1999 Maebashi]]<br>{{DetailsLink|1999 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Andre Morris]]<br>[[Dameon Johnson]]<br>[[Deon Minor]]<br>[[Milton Campbell]]<br>[[Khadevis Robinson]]*
+|{{flag|Poland}}<br>[[Piotr Haczek]]<br>[[Jacek Bocian]]<br>[[Piotr Rysiukiewicz]]<br>[[Robert Maćkowiak]]
+|{{flagu|Great Britain and N.I.}}<br>[[Allyn Condon]]<br>[[Solomon Wariso]]<br>[[Adrian Patrick]]<br>[[Jamie Baulch]]<br>[[Sean Baldock]]*
+|-
+|[[2001 IAAF World Indoor Championships|2001 Lisbon]]<br>{{DetailsLink|2001 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flag|Poland}}<br>[[Piotr Rysiukiewicz]]<br>[[Piotr Haczek]]<br>[[Jacek Bocian]]<br>[[Robert Maćkowiak]]
+|{{flagu|Russia}}<br>[[Aleksandr Ladeyshchikov]]<br>[[Ruslan Mashchenko]]<br>[[Boris Gorban]]<br>[[Andrey Semyonov (sprinter)|Andrey Semyonov]]<br>[[Dmitry Forshev]]*
+|{{flag|Jamaica}}<br>[[Michael McDonald (runner)|Michael McDonald]]<br>[[Davian Clarke]]<br>[[Michael Blackwood (sprinter)|Michael Blackwood]]<br>[[Danny McFarlane]]<br>[[Greg Haughton]]*
+|-
+|[[2003 IAAF World Indoor Championships|2003 Birmingham]]<br>{{DetailsLink|2003 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flag|Jamaica}}<br>[[Leroy Colquhoun]]<br>[[Danny McFarlane]]<br>[[Michael Blackwood (sprinter)|Michael Blackwood]]<br>[[Davian Clarke]]<br>[[Kemel Thompson]]*
+|{{flagu|Great Britain and N.I.}}<br>[[Jamie Baulch]]<br>[[Timothy Benjamin]]<br>[[Cori Henry]]<br>[[Daniel Caines]]<br>[[Mark Hylton (sprinter)|Mark Hylton]]*<br>[[Jared Deacon]]*
+|{{flag|Poland}}<br>[[Rafał Wieruszewski]]<br>[[Grzegorz Zajączkowski]]<br>[[Marcin Marciniszyn]]<br>[[Marek Plawgo]]<br>[[Artur Gąsiewski]]*<br>[[Piotr Rysiukiewicz]]*
+|-
+|[[2004 IAAF World Indoor Championships|2004 Budapest]]<br>{{DetailsLink|2004 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flag|Jamaica}}<br>[[Greg Haughton]]<br>[[Leroy Colquhoun]]<br>[[Michael McDonald (runner)|Michael McDonald]]<br>[[Davian Clarke]]<br>[[Richard James (Jamaican athlete)|Richard James]]*<br>[[Sanjay Ayre]]*
+|{{flagu|Russia}}<br>[[Boris Gorban]]<br>[[Dmitry Forshev]]<br>[[Andrey Rudnitskiy]]<br>[[Aleksandr Usov (sprinter)|Aleksandr Usov]]
+|{{flag|Ireland}}<br>[[Robert Daly (sprinter)|Robert Daly]]<br>[[Gary Ryan (athlete)|Gary Ryan]]<br>[[David Gillick]]<br>[[David McCarthy (sprinter)|David McCarthy]]
+|-
+|[[2006 IAAF World Indoor Championships|2006 Moscow]]<br>{{DetailsLink|2006 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Tyree Washington]]<br>[[LaShawn Merritt]]<br>[[Milton Campbell]]<br>[[Wallace Spearmon]]<br>[[James Davis (athlete)|James Davis]]*<br>[[O.J. Hogans]]*
+|{{flag|Poland}}<br>[[Daniel Dąbrowski]]<br>[[Marcin Marciniszyn]]<br>[[Rafał Wieruszewski]]<br>[[Piotr Klimczak]]<br>[[Paweł Ptak]]*<br>[[Piotr Kędzia]]*
+|{{flagu|Russia}}<br>[[Konstantin Svechkar]]<br>[[Aleksandr Derevyagin]]<br>[[Yevgeniy Lebedev]]<br>[[Dmitry Petrov (sprinter)|Dmitry Petrov]]<br>[[Andrey Polukeyev]]*
+|-
+|[[2008 IAAF World Indoor Championships|2008 Valencia]]<br>{{DetailsLink|2008 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[James Davis (athlete)|James Davis]]<br>[[Jamaal Torrance]]<br>[[Greg Nixon]]<br>[[Kelly Willie]]<br>[[Joel Stallworth]]*
+|{{flag|Jamaica}}<br>[[Michael Blackwood (sprinter)|Michael Blackwood]]<br>[[Edino Steele]]<br>[[Adrian Findlay]]<br>[[DeWayne Barrett]]<br>[[Aldwyn Sappleton]]*
+|{{flag|Dominican Republic}}<br>[[Arismendy Peguero]]<br>[[Carlos Santa]]<br>[[Pedro Mejía (athlete)|Pedro Mejía]]<br>[[Yoel Tapia]]
+|-
+|[[2010 IAAF World Indoor Championships|2010 Doha]]<br>{{DetailsLink|2010 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Jamaal Torrance]]<br>[[Greg Nixon]]<br>[[Tavaris Tate]]<br>[[Bershawn Jackson]]<br>[[LeJerald Betters]]*<br>[[Kerron Clement]]*
+|{{flagu|Belgium}}<br>[[Cédric Van Branteghem]]<br>[[Kevin Borlée]]<br>[[Antoine Gillet]]<br>[[Jonathan Borlée]]<br>[[Nils Duerinck]]*
+|{{flagu|Great Britain and N.I.}}<br>[[Conrad Williams (athlete)|Conrad Williams]]<br>[[Nigel Levine]]<br>[[Chris Clarke (sprinter)|Chris Clarke]]<br>[[Richard Buck]]<br>[[Luke Lennon-Ford]]*
+|-
+|[[2012 IAAF World Indoor Championships|2012 Istanbul]]<br>{{DetailsLink|2012 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Frankie Wright]]<br>[[Calvin Smith Jr.]]<br>[[Manteo Mitchell]]<br>[[Gil Roberts]]<br>[[Jamaal Torrance]]*<br>[[Quentin Iglehart-Summers]]*
+|{{flagu|Great Britain and N.I.}}<br>[[Conrad Williams (athlete)|Conrad Williams]]<br>[[Nigel Levine]]<br>[[Michael Bingham]]<br>[[Richard Buck]]<br>[[Luke Lennon-Ford]]*
+|{{flag|Trinidad and Tobago}}<br>[[Lalonde Gordon]]<br>[[Renny Quow]]<br>[[Jereem Richards]]<br>[[Jarrin Solomon]]
+|-
+|[[2014 IAAF World Indoor Championships|2014 Sopot]]<br>{{DetailsLink|2014 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Kyle Clemons]]<br>[[David Verburg]]<br>[[Kind Butler III]]<br>[[Calvin Smith Jr.]]<br>[[Clayton Parros]]*<br>[[Ricky Babineaux]]*
+|{{flagu|Great Britain and N.I.}}<br>[[Conrad Williams (athlete)|Conrad Williams]]<br>[[Jamie Bowie]]<br>[[Luke Lennon-Ford]]<br>[[Nigel Levine]]<br>[[Michael Bingham]]*
+|{{flag|Jamaica}}<br>[[Errol Nolan]]<br>[[Allodin Fothergill]]<br>[[Akheem Gauntlett]]<br>[[Edino Steele]]<br>[[Dane Hyatt]]*<br>[[Jermaine Brown (athlete)|Jermaine Brown]]*
+|-
+|[[2016 IAAF World Indoor Championships|2016 Portland]]<br>{{DetailsLink|2016 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Kyle Clemons]]<br>[[Calvin Smith Jr.]]<br>[[Christopher Giesting]]<br>[[Vernon Norwood]]<br>[[Elvyonn Bailey]]*<br>[[Patrick Feeney]]*
+|{{flag|Bahamas}}<br>[[Michael Mathieu]]<br>[[Alonzo Russell (sprinter)|Alonzo Russell]]<br>[[Shavez Hart]]<br>[[Chris Brown (sprinter)|Chris Brown]]<br>[[Ashley Riley]]*
+|{{flag|Trinidad and Tobago}}<br>[[Jarrin Solomon]]<br>[[Lalonde Gordon]]<br>[[Ade Alleyne-Forte]]<br>[[Deon Lendore]]<br>[[Rondel Sorrillo]]*<br>[[Machel Cedenio]]*
+|-
+|[[2018 IAAF World Indoor Championships|2018 Birmingham]]<br>{{DetailsLink|2018 IAAF World Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagteam|POL}}<br />[[Karol Zalewski]]<br />[[Rafał Omelko]]<br />[[Łukasz Krawczuk]]<br />[[Jakub Krzewina]]<br />[[Patryk Adamczyk]]*
+|{{flagteam|USA}}<br />[[Fred Kerley]]<br />[[Michael Cherry (athlete)|Michael Cherry]]<br />[[Aldrich Bailey]]<br />[[Vernon Norwood]]<br />[[Marqueze Washington]]*<br />[[Paul Dedewo]]*
+|{{flagteam|BEL}}<br />[[Dylan Borlée]]<br />[[Jonathan Borlée]]<br />[[Jonathan Sacoor]]<br />[[Kevin Borlée]]
+|-
+|[[2022 World Athletics Indoor Championships|2022 Belgrade]]<br>{{DetailsLink|2022 World Athletics Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagteam|BEL}}<br />[[Julien Watrin]]<br />[[Alexander Doom]]<br />[[Jonathan Sacoor]]<br />[[Kevin Borlée]]<br />[[Dylan Borlée]]*
+|{{flagteam|ESP}}<br />[[Bruno Hortelano]]<br />[[Iñaki Cañal]]<br />[[Manuel Guijarro (athlete)|Manuel Guijarro]]<br />[[Bernat Erta]]
+|{{flagteam|NED}}<br />[[Taymir Burnet]]<br />[[Nick Smidt]]<br />[[Terrence Agard]]<br />[[Tony van Diepen]]<br />[[Jochem Dobber]]*<br />[[Isayah Boers]]*
+|-
+|[[2024 World Athletics Indoor Championships|2024 Glasgow]]<br>{{DetailsLink|2024 World Athletics Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagteam|BEL}}<br />[[Jonathan Sacoor]]<br />[[Dylan Borlée]]<br />[[Christian Iguacel]]<br />[[Alexander Doom]]<br /> [[Tibo De Smet]]*
+|{{flagteam|USA}}<br />[[Jacory Patterson]]<br />[[Matthew Boling]]<br />[[Noah Lyles]]<br />[[Christopher Bailey (runner)|Christopher Bailey]] <br /> [[Paul Dedewo]]* <br /> [[Trevor Bassitt]]*
+|{{flagteam|NED}}<br />[[Liemarvin Bonevacia]]<br />[[Ramsey Angela]]<br />[[Terrence Agard]]<br />[[Tony van Diepen]]<br />[[Taymir Burnet]]*<br />[[Isaya Klein Ikkink]]*
+|-
+|[[2025 World Athletics Indoor Championships|2025 Nanjing]]<br>{{DetailsLink|2025 World Athletics Indoor Championships – Men's 4 × 400 metres relay}}
+|{{flagteam|USA}}<br />[[Elija Godwin]]<br>[[Brian Faust]]<br>[[Jacory Patterson]]<br>[[Christopher Bailey (runner)|Christopher Bailey]]
+|{{flagteam|JAM}}<br />[[Rusheen McDonald]]<br>[[Jasauna Dennis]]<br>[[Kimar Farquharson]]<br>[[Demar Francis]]
+|{{flagteam|HUN}}<br />[[Patrik Simon Enyingi]]<br>[[Zoltán Wahl]]<br>[[Árpád Kovács]]<br>[[Attila Molnár (runner)|Attila Molnár]]
+|}
+<small>'''Note''': * Indicates athletes who ran only in the preliminary round and also received medals.</small>
+* A USA team of [[Milton Campbell]], [[Leonard Byrd]], [[Trinity Gray]] and [[Jerome Young]] originally finished second in the 2001 World Indoor Championships, but was disqualified after Young was found to have used performance-enhancing drugs.<ref>{{cite web|url=https://www.worldathletics.org/competitions/world-athletics-indoor-championships/news/mens-4x400-metre-relay-final|title=2001 World Indoor Championships men's 4x400m final|access-date=12 November 2020}}</ref>
+* A USA team of [[James Davis (athlete)|James Davis]], [[Jerome Young]], [[Milton Campbell]] and [[Tyree Washington]] originally won in the 2003 World Indoor Championships, but was disqualified after Young was found to have used performance-enhancing drugs.<ref>{{cite web|url=https://www.worldathletics.org/news/news/men-4x400-metres-final|title=2003 World Indoor Championships men's 4x400m final|access-date=12 November 2020}}</ref>
+
+===Women===
+{| {{MedalistTable}}
+|-
+|[[1991 IAAF World Indoor Championships|1991 Seville]]<br>{{DetailsLink|1991 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Germany}}<br>[[Sandra Seuser]]<br>[[Katrin Schreiter]]<br>[[Annett Hesselbarth]]<br>[[Grit Breuer]]
+|{{flag|Soviet Union}}<br>[[Marina Shmonina]]<br>[[Lyudmila Dzhigalova]]<br>[[Margarita Ponomaryova]]<br>[[Aelita Yurchenko]]
+|{{flagu|United States}}<br>[[Terri Dendy]]<br>[[Lillie Leatherwood]]<br>[[Jearl Miles Clark|Jearl Miles]]<br>[[Diane Dixon]]
+|-
+|[[1993 IAAF World Indoor Championships|1993 Toronto]]<br>{{DetailsLink|1993 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flag|Jamaica}}<br>[[Deon Hemmings]]<br>[[Beverly Grant (athlete)|Beverly Grant]]<br>[[Cathy Rattray-Williams]]<br>[[Sandie Richards]]
+|{{flagu|United States}}<br>[[Trevaia Williams]]<br>[[Terri Dendy]]<br>[[Dyan Webber]]<br>[[Natasha Kaiser-Brown]]
+|''none awarded''
+|-
+|[[1995 IAAF World Indoor Championships|1995 Barcelona]]<br>{{DetailsLink|1995 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Tatyana Chebykina]]<br>[[Yelena Ruzina]]<br>[[Yekaterina Kulikova]]<br>[[Svetlana Goncharenko]]
+|{{flag|Czech Republic}}<br>[[Naděžda Koštovalová]]<br>[[Helena Fuchsová|Helena Dziurová]]<br>[[Hana Benešová]]<br>[[Ludmila Formanová]]
+|{{flagu|United States}}<br>[[Nelrae Pasha]]<br>[[Tanya Dooley]]<br>[[Kim Graham]]<br>[[Flirtisha Harris]]
+|-
+|[[1997 IAAF World Indoor Championships|1997 Paris]]<br>{{DetailsLink|1997 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Tatyana Chebykina]]<br>[[Svetlana Goncharenko]]<br>[[Olga Kotlyarova]]<br>[[Tatyana Alekseyeva]]<br>[[Natalya Sharova]]*<br>[[Yekaterina Bakhvalova]]*
+|{{flagu|United States}}<br>[[Shanelle Porter]]<br>[[Natasha Kaiser-Brown]]<br>[[Anita Howard]]<br>[[Jearl Miles Clark]]<br>[[Carlette Guidry-White|Carlette Guidry]]*
+|{{flagu|Germany}}<br>[[Anja Rücker]]<br>[[Anke Feller]]<br>[[Heike Meißner]]<br>[[Grit Breuer]]<br>[[Anja Knippel]]*
+|-
+|[[1999 IAAF World Indoor Championships|1999 Maebashi]]<br>{{DetailsLink|1999 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Tatyana Chebykina]]<br>[[Svetlana Goncharenko]]<br>[[Olga Kotlyarova]]<br>[[Natalya Nazarovaa]]
+|{{flagu|Australia}}<br>[[Susan Andrews]]<br>[[Tania Van Heer]]<br>[[Tamsyn Manou|Tamsyn Lewis]]<br>[[Cathy Freeman]]
+|{{flagu|United States}}<br>[[Monique Hennagan]]<br>[[Michelle Collins (athlete)|Michelle Collins]]<br>[[Zundra Feagin-Alexander]]<br>[[Shanelle Porter]]
+|-
+|[[2001 IAAF World Indoor Championships|2001 Lisbon]]<br>{{DetailsLink|2001 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Yuliya Pechonkina|Yuliya Nosova]]<br>[[Olesya Zykina]]<br>[[Yuliya Sotnikova]]<br>[[Olga Kotlyarova]]
+|{{flag|Jamaica}}<br>[[Charmaine Howell]]<br>[[Juliet Campbell (athlete)|Juliet Campbell]]<br>[[Catherine Scott (athlete)|Catherine Scott]]<br>[[Sandie Richards]]
+|{{flagu|Germany}}<br>[[Claudia Marx]]<br>[[Birgit Rockmeier]]<br>[[Florence Ekpo-Umoh]]<br>[[Shanta Ghosh]]
+|-
+|[[2003 IAAF World Indoor Championships|2003 Birmingham]]<br>{{DetailsLink|2003 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Natalya Antyukh]]<br>[[Yuliya Pechonkina]]<br>[[Olesya Zykina]]<br>[[Natalya Nazarova]]
+|{{flag|Jamaica}}<br>[[Ronetta Smith]]<br>[[Catherine Scott (athlete)|Catherine Scott]]<br>[[Sheryl Morgan]]<br>[[Sandie Richards]]
+|{{flagu|United States}}<br>[[Monique Hennagan]]<br>[[Meghan Addy]]<br>[[Brenda Taylor (athlete)|Brenda Taylor]]<br>[[Mary Wineberg]]
+|-
+|[[2004 IAAF World Indoor Championships|2004 Budapest]]<br>{{DetailsLink|2004 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Olesya Forsheva]]<br>[[Olga Kotlyarova]]<br>[[Tatyana Levina]]<br>[[Natalya Nazarova]]<br>[[Olesya Zykina]]*<br>[[Natalya Antyukh]]*
+|{{flag|Belarus}}<br>[[Natallia Solohub]]<br>[[Anna Kozak]]<br>[[Ilona Vusovich]]<br>[[Sviatlana Vusovich]]
+|{{flag|Romania}}<br>[[Angela Moroșanu]]<br>[[Alina Rîpanu]]<br>[[Maria Rus]]<br>[[Ionela Târlea]]
+|-
+|[[2006 IAAF World Indoor Championships|2006 Moscow]]<br>{{DetailsLink|2006 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Tatyana Levina]]<br>[[Natalya Nazarova]]<br>[[Olesya Forsheva]]<br>[[Natalya Antyukh]]<br>[[Yuliya Gushchina]]*<br>[[Tatyana Veshkurova]]*
+|{{flagu|United States}}<br>[[Debbie Dunn]]<br>[[Tiffany Williams]]<br>[[Monica Hargrove]]<br>[[Mary Wineberg]]<br>[[Kia Davis]]*
+|{{flag|Belarus}}<br>[[Natallia Solohub]]<br>[[Anna Kozak]]<br>[[Yulyana Yushchanka]]<br>[[Ilona Vusovich]]
+|-
+|[[2008 IAAF World Indoor Championships|2008 Valencia]]<br>{{DetailsLink|2008 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Russia}}<br>[[Yuliya Gushchina]]<br>[[Tatyana Levina]]<br>[[Natalya Nazarova]]<br>[[Olesya Zykina]]
+|{{flag|Belarus}}<br>[[Anna Kozak]]<br>[[Iryna Khliustava]]<br>[[Ilona Vusovich]]<br>[[Sviatlana Vusovich]]
+|{{flagu|United States}}<br>[[Angel Perkins]]<br>[[Miriam Barnes]]<br>[[Shareese Woods]]<br>[[Moushaumi Robinson]]
+|-
+|[[2010 IAAF World Indoor Championships|2010 Doha]]<br>{{DetailsLink|2010 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Debbie Dunn]]<br>[[DeeDee Trotter]]<br>[[Natasha Hastings]]<br>[[Allyson Felix]]
+|{{flag|Czech Republic}}<br>[[Denisa Rosolová]]<br>[[Jitka Bartoničková]]<br>[[Zuzana Bergrová]]<br>[[Zuzana Hejnová]]
+|{{flagu|Great Britain and N.I.}}<br>[[Kim Wall (athlete)|Kim Wall]]<br>[[Vicki Barr (athlete)|Vivki Barr]]<br>[[Perri Shakes-Drayton]]<br>[[Lee McConnell]]
+|-
+|[[2012 IAAF World Indoor Championships|2012 Istanbul]]<br>{{DetailsLink|2012 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|Great Britain and N.I.}}<br>[[Shana Cox]]<br>[[Nicola Sanders]]<br>[[Christine Ohuruogu]]<br>[[Perri Shakes-Drayton]]
+|{{flagu|United States}}<br>[[Leslie Cole (athlete)|Leslie Cole]]<br>[[Natasha Hastings]]<br>[[Jernail Hayes]]<br>[[Sanya Richards-Ross]]
+|{{flag|Romania}}<br>[[Angela Moroșanu]]<br>[[Angela Panainte]]<br>[[Adelina Pastor]]<br>[[Elena Mirela Lavric]]
+|-
+|[[2014 IAAF World Indoor Championships|2014 Sopot]]<br>{{DetailsLink|2014 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Natasha Hastings]]<br>[[Joanna Atkins]]<br>[[Francena McCorory]]<br>[[Cassandra Tate]]<br>[[Jernail Hayes]]*<br>[[Monica Hargrove]]*
+|{{flag|Jamaica}}<br>[[Patricia Hall (athlete)|Patricia Hall]]<br>[[Anneisha McLaughlin-Whilby|Anneisha McLaughlin]]<br>[[Kaliese Spencer]]<br>[[Stephenie Ann McPherson]]<br>[[Verone Chambers]]*<br>[[Natoya Goule]]*
+|{{flagu|Great Britain and N.I.}}<br>[[Eilidh Doyle|Eilidh Child]]<br>[[Shana Cox]]<br>[[Margaret Adeoye]]<br>[[Christine Ohuruogu]]<br>[[Victoria Ohuruogu]]*
+|-
+|[[2016 IAAF World Indoor Championships|2016 Portland]]<br>{{DetailsLink|2016 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagu|United States}}<br>[[Natasha Hastings]]<br>[[Quanera Hayes]]<br>[[Courtney Okolo]]<br>[[Ashley Spencer (athlete)|Ashley Spencer]]
+|{{flag|Poland}}<br>[[Ewelina Ptak]]<br>[[Małgorzata Hołub]]<br>[[Magdalena Gorzkowska]]<br>[[Justyna Święty]]
+|{{flag|Romania}}<br>[[Adelina Pastor]]<br>[[Mirela Lavric]]<br>[[Andrea Miklós]]<br>[[Bianca Răzor]]
+|-
+|[[2018 IAAF World Indoor Championships|2018 Birmingham]]<br>{{DetailsLink|2018 IAAF World Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagteam|USA}}<br />[[Quanera Hayes]]<br />[[Georganne Moline]]<br />[[Shakima Wimbley]]<br />[[Courtney Okolo]]<br />[[Joanna Atkins]]*<br />[[Raevyn Rogers]]*
+|{{flagteam|POL}}<br />[[Justyna Święty-Ersetic]]<br />[[Patrycja Wyciszkiewicz]]<br />[[Aleksandra Gaworska]]<br />[[Małgorzata Hołub-Kowalik]]<br />[[Joanna Linkiewicz]]*<br />[[Natalia Kaczmarek]]*
+|{{flagteam|GBR}}<br />[[Meghan Beesley]]<br />[[Hannah Williams (athlete)|Hannah Williams]]<br />[[Amy Allcock]]<br />[[Zoey Clark]]<br />[[Anyika Onuora]]*
+|-
+|[[2022 World Athletics Indoor Championships|2022 Belgrade]]<br>{{DetailsLink|2022 World Athletics Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagteam|JAM}}<br />[[Junelle Bromfield]]<br />[[Janieve Russell]]<br />[[Roneisha McGregor]]<br />[[Stephenie Ann McPherson]]<br />[[Tiffany James]]*
+|{{flagteam|NED}}<br />[[Lieke Klaver]]<br />[[Eveline Saalberg]]<br />[[Lisanne de Witte]]<br />[[Femke Bol]]<br />[[Andrea Bouma]]*
+|{{flagteam|POL}}<br />[[Natalia Kaczmarek]]<br />[[Iga Baumgart-Witan]]<br />[[Kinga Gacka]]<br />[[Justyna Święty-Ersetic]]<br />[[Aleksandra Gaworska]]*
+|-
+|[[2024 World Athletics Indoor Championships|2024 Glasgow]]<br>{{DetailsLink|2024 World Athletics Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagteam|NED}}<br/>[[Lieke Klaver]]<br>[[Cathelijn Peeters]]<br>[[Lisanne de Witte]]<br>[[Femke Bol]]<br>[[Myrte van der Schoot]]*<br>[[Eveline Saalberg]]*
+|{{flagteam|USA}}<br/>[[Quanera Hayes]]<br>[[Talitha Diggs]]<br>[[Bailey Lear]]<br>[[Alexis Holmes]]<br>[[Jessica Wright (sprinter)|Jessica Wright]]*<br>[[Na'Asha Robinson]]*
+|{{flagteam|GBR}}<br/>[[Laviai Nielsen]]<br>[[Lina Nielsen]]<br>[[Ama Pipi]]<br>[[Jessie Knight (athlete)|Jessie Knight]]<br>[[Hannah Kelly (athlete)|Hannah Kelly]]*
+|-
+|[[2025 World Athletics Indoor Championships|2025 Nanjing]]<br>{{DetailsLink|2025 World Athletics Indoor Championships – Women's 4 × 400 metres relay}}
+|{{flagteam|USA}}<br/>[[Quanera Hayes]]<br>[[Bailey Lear]]<br>[[Rosey Effiong]]<br>[[Alexis Holmes]]
+|{{flagteam|POL}}<br/>[[Justyna Święty-Ersetic]]<br>[[Aleksandra Formella]]<br>[[Anastazja Kuś]]<br>[[Anna Gryc]]
+|{{flagteam|AUS}}<br/>[[Ellie Beer]]<br>[[Ella Connolly]]<br>[[Bella Pasquali]]<br>[[Jemma Pollard]]
+|}
+<small>'''Note''': * Indicates athletes who ran only in the preliminary round and also received medals.</small>
+* A Russian team of [[Svetlana Pospelova]], [[Natalya Nazarova]], [[Kseniya Ryzhova|Kseniya Vdovina]] and [[Tatyana Firova]] originally finished second in the 2010 World Indoor Championships, but was disqualified after Firova was found to have used performance-enhancing drugs.<ref name="auto1">{{cite web|url=https://www.worldathletics.org/competitions/world-athletics-indoor-championships/news/event-report-womens-4x400-metres-relay-fina|title=2010 World Indoor Championships - Women's 4x400m Relay Final|access-date=12 November 2020}}</ref>
+* A Jamaican team of [[Bobby-Gaye Wilkins]], [[Clora Williams]], [[Davita Prendergast]] and [[Novlene Williams-Mills]] originally finished third in the 2010 World Indoor Championships, but was disqualified after Wilkins was found to have used performance-enhancing drugs.<ref name="auto1"/>
+* A Russian team of [[Yuliya Gushchina]], [[Kseniya Aksyonova|Kseniya Ustalova]], [[Marina Karnaushchenko]] and [[Aleksandra Fedoriva]] originally finished third in the 2012 World Indoor Championships, but was disqualified in 2019 after Gushchina was found to have used performance-enhancing drugs.<ref>{{cite web|url=https://www.worldathletics.org/competitions/world-athletics-indoor-championships/news/event-report-womens-4x400-metres-relay-fi|title=2012 World Indoor Championships - Women's 4x400m Relay Final|access-date=12 November 2020}}</ref>
+
+==Notable splits==
+
+===Men===
+* [[Herb McKenley]] ([[Jamaica]]) ran a 44.6 split in the [[Athletics at the 1952 Summer Olympics|1952 Helsinki Olympic]] final.
+* [[Ron Freeman]] (USA) ran a 43.2 split in the [[Athletics at the 1968 Summer Olympics|1968 Mexico Olympic]] final.
+* [[Julius Sang]] ([[Kenya]]) ran a 43.6 split in the [[Athletics at the 1972 Summer Olympics|1972 Munich Olympic]] final.
+* [[Alberto Juantorena]] (Cuba) ran a 43.7 split in the [[1977 IAAF World Cup]] event as part of the Americas team.
+* [[Quincy Watts]] ran a 43.1 split and [[Steve Lewis (sprinter)|Steve Lewis]] (USA) ran a 43.4 split in the [[Athletics at the 1992 Summer Olympics|1992 Barcelona Olympic]] final.
+* [[Butch Reynolds]] ran a 43.23 split and [[Michael Johnson (sprinter)|Michael Johnson]] (both USA) ran a 42.91 split in the [[1993 World Championships in Athletics|1993 Stuttgart World Championship]] final; the USA team's final time of 2:54.29 is the current world record.
+* [[Mark Richardson (sprinter)|Mark Richardson]] (GBR) ran a 43.57 split and [[Davian Clarke]] (JAM) ran a 43.51 split in the [[1997 World Championships in Athletics|1997 Athens World Championship]] final.
+* [[Jeremy Wariner]] (USA) ran a 43.10 split in the [[2007 World Championships in Athletics – Men's 4 × 400 metres relay|2007 Osaka World Championship]] final.
+* [[Jeremy Wariner]] (USA) ran a 43.18 split in the [[Athletics at the 2008 Summer Olympics – Men's 4 × 400 metres relay|2008 Beijing Olympic]] final.
+* [[Michael Norman (sprinter)|Michael Norman]] (USA) ran a 43.06 split in the 2018 NCAA West Preliminaries final.<ref>{{cite news|title=Norman and Benjamin the latest stars to shine in the IAAF Diamond League|url=https://www.iaaf.org/news/feature/michael-norman-rai-benjamin-diamond-league|access-date=15 January 2019|newspaper=IAAF|date=1 July 2018}}</ref>
+* [[Matthew Hudson-Smith]] (GBR) ran a 43.00 split, [[Letsile Tebogo]] (BOT) ran a 43.04 split, and [[Rai Benjamin]] (USA) ran a 43.13 in the [[Athletics at the 2024 Summer Olympics – Men's 4 × 400 metres relay|2024 Paris Olympics]] final.<ref>{{cite web |date=10 August 2024 |title=Men's 4 x 400m Relay - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73D_ATHM4X400M------------FNL-000100--.pdf |access-date=11 August 2024 |website=Olympics}}</ref>
+
+===Women===
+* [[Jarmila Kratochvílová]] ([[Czechoslovakia|CZE]]) ran a 47.6 split in the [[1982 European Athletics Championships|1982 Athens European Championship final]], a 47.75 split in the [[1983 World Championships in Athletics|1983 Helsinki World Championship final]], and a 47.9 split in the 1983 Europa Cup in London.
+* [[Marita Koch]] ([[East Germany|GDR]]) ran a 47.70 split in Erfurt 1984, a 47.9 split in the 1982 European Championship final, and a 47.9 split at the [[1985 IAAF World Cup|1985 Canberra World Cup]].
+* [[Allyson Felix]] (USA) ran a 47.72 split in the [[2015 World Championships in Athletics|2015 Beijing World Championships final]], a 48.01 split in the [[2007 World Championships in Athletics|2007 Osaka World Championships final]], and a 48.20 split in the [[Athletics at the 2012 Summer Olympics|2012 London Olympic final]].
+* [[Olga Nazarova]] and [[Olga Bryzgina]] ([[USSR]]) both ran a 47.80 split in the [[Athletics at the 1988 Summer Olympics|1988 Seoul Olympics]] final; the Soviet team's final time of 3:15.17 is the current world record.
+* [[Sydney McLaughlin]] (USA) ran a 47.70<ref>{{cite web | url=https://www.usatoday.com/story/sports/olympics/2024/08/10/usa-womens-4x400-olympics-gold-medal/74751695007/ | title=Team USA wins women's 4x400 for eighth consecutive Olympic gold medal | website=[[USA Today]] }}</ref> split in the [[Athletics at the 2024 Summer Olympics|2024 Paris Olympics]], and a 47.91 split at the [[2022 World Athletics Championships|2022 World Championships]] in Eugene.
+* [[Femke Bol]] (NED) ran a 47.93 split in the [[Athletics at the 2024 Summer Olympics – Mixed 4 × 400 metres relay|2024 Paris Olympics]] mixed 4 × 400 final.
+* [[Florence Griffith Joyner]] (USA) ran a 48.08 split in the 1988 Seoul Olympic final.
+
+== Notes and references ==
+{{reflist}}
+
+==External links==
+*[https://iaaf.gekko.de/?a=relays&d=4x400-metres-relay IAAF list of 4x400-metres-relay records in XML]
+
+{{Athletics events}}
+{{Portal bar|Athletics|Sports}}
+
+{{DEFAULTSORT:4 by 400 metres relay}}
+[[Category:4 × 400 metres relay| ]]
+[[Category:Track relay races]]
+[[Category:Events in track and field]]
+[[Category:Summer Olympic disciplines in athletics]]

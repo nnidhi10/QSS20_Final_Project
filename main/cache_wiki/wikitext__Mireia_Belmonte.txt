@@ -1,0 +1,1029 @@
+{{Short description|Spanish swimmer (born 1990)}}
+{{BLP more footnotes needed|date=June 2020}}
+{{Use dmy dates|date=July 2016
+}}
+{{family name hatnote|Belmonte|[[García (surname)|García]]|lang=Spanish}}
+{{Infobox swimmer
+| name = Mireia Belmonte
+| image = Mireia_Belmonte_(ESP)_2018.jpg
+| image_size     = 
+| alt            = 
+| caption        = Belmonte in 2018
+| full_name = Mireia Belmonte García
+| national_team = {{ESP}}
+| birth_date = {{birth date and age|1990|11|10|df=y}}<ref name="FINAprofile">[https://www.fina.org/athletes/1001117/mireia-belmonte "Mireia Belmonte"]. ''[[FINA]]''. Retrieved 22 October 2022.</ref>
+| birth_place = [[Badalona]], [[Spain]]
+| height = 1.70 m
+| weight = 60 kg
+| strokes =  [[freestyle swimming|Freestyle]], [[butterfly swimming|Butterfly]], [[medley swimming|Individual Medley]]
+| club = UCAM Club Natación Fuensanta
+| show-medals = 
+| medaltemplates =
+{{MedalSport|Women's [[swimming (sport)|swimming]]}}
+{{MedalCountry|{{ESP}}}}
+{{MedalCompetition|International aquatics competitions}}
+{{MedalCount
+|[[Summer Olympics|Olympic Games]]|1|2|1
+|[[FINA World Aquatics Championships|World Championships (LC)]]|1|4|1
+|[[FINA World Swimming Championships (25 m)|World Championships (SC)]]|7|2|1
+|[[LEN European Aquatics Championships|European Championships (LC)]]|4|5|4
+|[[European Short Course Swimming Championships|European Championships (SC)]]|9|2|0
+|[[Mediterranean Games]]|2|4|0
+|'''Total'''|'''24'''|'''20'''|'''7'''
+}}
+{{MedalCompetition|[[Olympic Games]]}}
+{{MedalGold|{{GamesName|SOG|2016|Swimming}}|[[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalSilver|{{GamesName|SOG|2012|Swimming}}|[[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800&nbsp;m freestyle]]}}
+{{MedalSilver|{{GamesName|SOG|2012|Swimming}}|[[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalBronze|{{GamesName|SOG|2016|Swimming}}|[[Swimming at the 2016 Summer Olympics – Women's 400 metre individual medley|400&nbsp;m medley]]}}
+{{MedalCompetition|[[World Aquatics Championships|World Championships (LC)]]}}
+{{MedalGold|[[2017 World Aquatics Championships|2017 Budapest]]|[[Swimming at the 2017 World Aquatics Championships – Women's 200 metre butterfly|200 m butterfly]]}}
+{{MedalSilver|[[2013 World Aquatics Championships|2013 Barcelona]]|[[Swimming at the 2013 World Aquatics Championships – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalSilver|2013 Barcelona|[[Swimming at the 2013 World Aquatics Championships – Women's 400 metre individual medley|400&nbsp;m medley]]}}
+{{MedalSilver|2017 Budapest|[[Swimming at the 2017 World Aquatics Championships – Women's 1500 metre freestyle|1500 m freestyle]]}}
+{{MedalSilver|2017 Budapest|[[Swimming at the 2017 World Aquatics Championships – Women's 400 metre individual medley|400 m medley]]}}
+{{MedalBronze|2013 Barcelona|[[Swimming at the 2013 World Aquatics Championships – Women's 200 metre individual medley|200&nbsp;m medley]]}}
+{{MedalCompetition|[[FINA World Swimming Championships (25 m)|World Championships (SC)]]}}
+{{MedalGold|[[2010 FINA Short Course World Championships|2010 Dubai]]|[[2010 FINA World Swimming Championships (25 m) – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalGold|2010 Dubai|[[2010 FINA World Swimming Championships (25 m) – Women's 200 metre individual medley|200&nbsp;m medley]]}}
+{{MedalGold|2010 Dubai|[[2010 FINA World Swimming Championships (25 m) – Women's 400 metre individual medley|400&nbsp;m medley]]}}
+{{MedalGold|[[2014 FINA World Swimming Championships (25 m)|2014 Doha]]|[[2014 FINA World Swimming Championships (25 m) – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalGold|2014 Doha|[[2014 FINA World Swimming Championships (25 m) – Women's 400 metre individual medley|400&nbsp;m medley]]}}
+{{MedalGold|2014 Doha|[[2014 FINA World Swimming Championships (25 m) – Women's 400 metre freestyle|400&nbsp;m freestyle]]}}
+{{MedalGold|2014 Doha|[[2014 FINA World Swimming Championships (25 m) – Women's 800 metre freestyle|800&nbsp;m freestyle]]}}
+{{MedalSilver|[[2008 FINA Short Course World Championships|2008 Manchester]] | 200&nbsp;m medley}}
+{{MedalSilver|2010 Dubai|[[2010 FINA World Swimming Championships (25 m) – Women's 800 metre freestyle|800&nbsp;m freestyle]]}}
+{{MedalBronze|2008 Manchester | 400&nbsp;m medley}}
+{{MedalCompetition|[[LEN European Aquatics Championships|European Championships (LC)]]}}
+{{MedalGold|[[2008 European Aquatics Championships|2008 Eindhoven]]|200&nbsp;m medley}}
+{{MedalGold|[[2012 European Aquatics Championships|2012 Debrecen]]|[[Swimming at the 2012 European Aquatics Championships – Women's 1500 metre freestyle|1500&nbsp;m freestyle]]}}
+{{MedalGold|[[2014 European Aquatics Championships|2014 Berlin]]|[[Swimming at the 2014 European Aquatics Championships – Women's 200 metre butterfly|200&nbsp;m butterfly]]}}
+{{MedalGold|2014 Berlin|[[Swimming at the 2014 European Aquatics Championships – Women's 1500 metre freestyle|1500&nbsp;m freestyle]]}}
+{{MedalSilver|2012 Debrecen|[[Swimming at the 2012 European Aquatics Championships – Women's 400 metre freestyle|400&nbsp;m freestyle]]}}
+{{MedalSilver|2014 Berlin|[[Swimming at the 2014 European Aquatics Championships – Women's 400 metre individual medley|400&nbsp;m medley]]}}
+{{MedalSilver|2014 Berlin|[[Swimming at the 2014 European Aquatics Championships – Women's 800 metre freestyle|800&nbsp;m freestyle]]}}
+{{MedalSilver|[[2016 European Aquatics Championships|2016 London]]|[[Swimming at the 2016 European Aquatics Championships – Women's 1500 metre freestyle|1500&nbsp;m freestyle]]}}
+{{MedalSilver|2016 London|[[Swimming at the 2016 European Aquatics Championships – Women's 4 x 200 metre freestyle relay|4×200&nbsp;m freestyle]]}}
+{{MedalBronze|2008 Eindhoven|200&nbsp;m butterfly}}
+{{MedalBronze|2014 Berlin|[[Swimming at the 2014 European Aquatics Championships – Women's 400 metre freestyle|400&nbsp;m freestyle]]}}
+{{MedalBronze|2014 Berlin| [[Open water swimming at the 2014 European Aquatics Championships – Women's 5 km|5 km open water]]}}
+{{MedalBronze|2016 London|[[Swimming at the 2016 European Aquatics Championships – Women's 400 metre freestyle|400&nbsp;m freestyle]]}}
+{{MedalCompetition|[[European Short Course Swimming Championships|European Championships (SC)]]}}
+{{MedalGold|[[European Short Course Swimming Championships 2008|2008 Rijeka]] | 400&nbsp;m medley}}
+{{MedalGold|[[2011 European Short Course Swimming Championships|2011 Szczecin]] | 400&nbsp;m freestyle}}
+{{MedalGold|2011 Szczecin|200&nbsp;m butterfly}}
+{{MedalGold|2011 Szczecin|200&nbsp;m medley}}
+{{MedalGold|2011 Szczecin|400&nbsp;m medley}}
+{{MedalGold|[[2013 European Short Course Swimming Championships|2013 Herning]] | 400&nbsp;m freestyle}}
+{{MedalGold|2013 Herning|800&nbsp;m freestyle}}
+{{MedalGold|2013 Herning|200&nbsp;m butterfly}}
+{{MedalGold|2013 Herning|400&nbsp;m medley}}
+{{MedalSilver|[[European Short Course Swimming Championships 2007|2007 Debrecen]]|400&nbsp;m medley}}
+{{MedalSilver|[[European Short Course Swimming Championships 2009|2009 Istanbul]]|400&nbsp;m medley}}
+{{MedalCompetition|[[Mediterranean Games]]}}
+{{MedalGold|[[2018 Mediterranean Games|2018 Tarragona]]|200&nbsp;m  medley}}
+{{MedalGold|[[2018 Mediterranean Games|2018 Tarragona]]|200&nbsp;m butterfly}}
+{{MedalSilver|[[2009 Mediterranean Games|2009 Pescara]]|200&nbsp;m butterfly}}
+{{MedalSilver|2009 Pescara|200&nbsp;m medley}}
+{{MedalSilver|[[2018 Mediterranean Games|2018 Tarragona]]|800&nbsp;m freestyle}}
+{{MedalSilver|[[2018 Mediterranean Games|2018 Tarragona]]|400&nbsp;m freestyle}}
+}}
+[[Image:TV-icon-2.svg|thumb|140px| [https://www.youtube.com/watch?v=IJGs5UPFQvc Olympics official video: Belmonte Olympic champion in 200 m butterfly]]]
+
+'''Mireia Belmonte García''' (born 10 November 1990) is a Spanish Olympic, world, and European champion [[Swimming (sport)|swimmer]]. She is the former [[List of world records in swimming|world record]] holder in the [[Short course (swimming)|short course]] [[World record progression 200 metres butterfly|200 metre butterfly]], [[World record progression 400 metres individual medley|400 metre individual medley]], [[World record progression 400 metres freestyle|400 metre freestyle]], [[World record progression 800 metres freestyle|800 metre freestyle]], and [[World record progression 1500 metres freestyle|1500 metre freestyle]]. She was the first Spanish woman to win a [[Olympic medal|gold medal]] in swimming at an [[Olympic Games]] and is widely considered to be the greatest Spanish swimmer of all time.
+
+At the [[Olympic Games|2016 Olympic Games]] in Rio de Janeiro she became [[List of Olympic medalists in swimming (women)|Olympic champion]] in the 200-metre [[Butterfly stroke|butterfly]], and also won the bronze medal in the 400-metre [[Medley swimming|individual medley]]. She previously competed at the [[2008 Summer Olympics|2008 Beijing Olympic Games]], where she debuted at 17 years old, and at [[2012 Summer Olympics|2012 London]], where she won two silver medals, one in the [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 metre butterfly]] with a time of 2:05.25 and one in the 800-metre [[Freestyle swimming|freestyle]] with a time of 8:18.76.
+
+==Early years==
+Mireia's parents, José Belmonte (from [[Freila]], Granada) and Paqui García (from [[Huelma]], Jaén), moved to Catalonia and the family has always lived in the La Salut quarter of [[Badalona]].
+
+She was advised to swim at the age of 5 by her doctor. ''[https://www.cnbadalona.cat/ Club Natació Badalona]'' (in Catalan) was the swimming club where she started to compete. In 2003, she obtained a scholarship from [https://aquatics.cat/ Federación Catalana de Natación] (in Catalan) to train at the [http://www.csd.gob.es/csd/instalaciones/4CenAltRend/1CenAltRen/04card/03cardbarcelona/ Centro de Alto Rendimiento] (High Performance Center, CAR) in Sant Cugat del Vallès. Her coach was Jordi Murio when she was signed by [https://cnlh.es/ Club Natació L'Hospitalet] (in Catalan). After 6 years in this club, she was signed in the 2007/08 season by [https://www.nataciosabadell.com Club Natació Sabadell] (in Catalan). She continued training at the CAR with her new coach, Carles Subirana. In 2009 she left the CAR and moved to the Club Natación Sabadell to train with Michael Piper and later Fred Vernoux.<ref name="CNA11Aug16"/>
+
+==Swimming career==
+===2006 Youth World Championships===
+At the [[2006 FINA Youth World Swimming Championships|2006 FINA Youth World Championships]], she was the [[FINA Youth World Swimming Championships|Junior World Champion]] in the 400-metre freestyle and in the 400-metre individual medley, and the [[European Junior Swimming Championships|Junior European Champion]] in the 200-metre freestyle and in the 400-metre individual medley.
+
+===2007 European Championships===
+The following year, training with Carles Subirana, she reached the second place in the 400-metre individual medley at the [[2007 European Short Course Swimming Championships]] with 4:31.06, just behind the [[Italy|Italian]] [[Alessia Filippi]]. She also qualified to compete at the 2008 Summer Olympics.
+
+===2008===
+====2008 European Aquatics Championships====
+On 21 March, at the [[2008 European Aquatics Championships|2008 European Long Course Championships]] held in [[Eindhoven]], [[Netherlands]], Belmonte won the 200-metre individual medley breaking the [[List of European Championships records in swimming|Championships record]] with her time of 2:11.16. She also placed eighth in the 400-metre individual medley. Later in the year, at the [[2008 European Short Course Swimming Championships]] held in [[Rijeka]], [[Croatia]] in December, she won the 400 metre individual medley gold medal in a new world record time of [[World record progression 400 metres individual medley|4:25:06]]. The record was previously held by the American swimmer [[Julia Smit]], who set a time of 4:25.87 on 28 November 2008 in Toronto, Canada.
+
+====2008 Summer Olympics====
+{{see also|Swimming at the 2008 Summer Olympics}}
+At the [[2008 Summer Olympics]] held in [[Beijing]], [[China]] in August 2008, Belmonte competed in three individual events and one relay representing [[Spain]] in swimming.
+
+She competed in the [[Swimming at the 2008 Summer Olympics – Women's 200 metre breaststroke|200-metre breaststroke]] finishing in 24th place in the prelims heats with a time of 2:29.46.<ref name="2008ESPN200BR">[https://www.espn.com/olympics/summer08/results?eventId=86 "2008 Summer Olympics Results - Swimming - Women's 200m Breaststroke Results"]. ''[[ESPN]]''. Retrieved 21 June 2021.</ref> In the [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200-metre individual medley]], she advanced to the semifinals where she finished 7th in Semifinal 1 with a time of 2:13.45.<ref name="2008ESPN200IM">[https://www.espn.com/olympics/summer08/results?eventId=103 "2008 Summer Olympics Results - Swimming - Women's 200m Individual Medley Results"]. ''[[ESPN]]''. Retrieved 21 June 2021.</ref> For the [[Swimming at the 2008 Summer Olympics – Women's 400 metre individual medley|400-metre individual medley]] she finished 14th with a time of 4:37.91 in the prelims heats.<ref name="2008ESPN400IM">[https://www.espn.com/olympics/summer08/results?eventId=311 "2008 Summer Olympics Results - Swimming - Women's 400m Individual Medley Results"]. ''[[ESPN]]''. Retrieved 21 June 2021.</ref>
+
+{| class="wikitable"
+| colspan="3" | '''2008 Summer Olympics'''
+|-
+| '''Event'''
+| '''Time'''
+| '''Rank'''
+|-
+| 400&nbsp;m Individual Medley
+| 4:37.91
+| 14th
+|-
+| 200&nbsp;m Individual Medley
+| 2:13.45
+| 14th
+|-
+| 200&nbsp;m  Breaststroke
+| 2:29.46
+| 24th
+|-
+| 4 x 100&nbsp;m Medley Relay
+| 4:06.40
+| 15th
+|}
+
+In the [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|4x100 metre medley relay]], Belmonte swam the breaststroke leg of the relay in a time of 1:10.46 with [[Nina Zhivanevskaya]] swimming the backstroke leg, [[Ángela San Juan]] swimming the butterfly leg, and [[María Fuster]] swimming the freestyle leg.<ref name="USAS2008r">[https://www.usaswimming.org/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2008-olympic-games.pdf "2008 Olympic Games Results"]. ''[[USA Swimming]]''. 2008. Retrieved 28 June 2021.</ref> The relay finished 15th in the prelims heats with a time of 4:06.40 and did not advance to the final.<ref name="USAS2008r"/><ref name="2008ESPN4x100MR">[https://www.espn.com/olympics/summer08/results?eventId=252 "2008 Summer Olympics Results - Swimming - Women's 4x100m Medley Relay Results"]. ''[[ESPN]]''. Retrieved 21 June 2021.</ref>
+
+====2008 European Swimming Championships====
+December 2008 at the [[2008 European Short Course Swimming Championships|2008 European Swimming Championships]] held in [[Rijeka]], [[Croatia]], Belmonte competed in multiple events. In the 400-metre individual medley she swam a 4:25.06 breaking the [[World record progression 400 metres individual medley|world record]].<ref name="OT14Dec08">[https://www.omegatiming.com/File/0001080000FFFFFFFFFFFFFFFFFFFF00.pdf "European Short Course Swimming Championships Rijeka 2008: Results Book"]. ''[[Omega Timing]]''. 14 December 2008. Retrieved 23 June 2021.</ref>
+
+===2010 World Swimming Championships===
+Although the season 2009–2010 was not very good for her, Belmonte recovered her best form and appeared strengthened when she arrived at the [[2010 FINA World Swimming Championships (25 m)|2010 FINA World Swimming Championships]], where she achieved a very remarkable performance, winning three gold medals: the 200-metre butterfly, the 200-metre medley and the 400-metre medley and a silver medal in the 800-metre freestyle, in which she was only surpassed by her teammate [[Érika Villaécija]].
+
+===2011 XII Spanish Championship===
+In 2011 at the XII Championship of Spain, she swam the best time of the year in the 400-metre medley and a new record with 4:24.91 {{Clarify|reason=World or national record.  Cannot find any record of this time.|date=June 2020}}. She also reached a record in the 200-metre butterfly with 2:06:25, obtaining the minimum marks for the World Championships in Shanghai at three different distances {{Clarify|reason=Unclear if world or national record|date=June 2020}}. Also in 2011 she was at the head in the Holland competition of the 800-metre freestyle, beating the record of Spain with 8:22.78.{{Clarify|reason=Competition unclear|date=June 2020}}
+
+===2012 Summer Olympics===
+{{MedalTableTop|name=no|header=[[Swimming at the 2012 Summer Olympics|2012 Summer Olympics]]}}
+{{MedalSilver | [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]] | 2:05.25 (NR) }}
+{{MedalSilver | [[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]] | 8:18.76 (NR) }}
+{{MedalBottom}}
+{{see also|Swimming at the 2012 Summer Olympics}}
+
+In August 2012 Belmonte won two silver medals at the [[2012 Summer Olympics]] in [[London]]. The first medal she won was a silver medal in the [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200-metre butterfly]]. Not only was it her first Olympic medal, it was the first medal won by a Spanish-born woman in swimming at an [[Olympic Games]], and it was the first medal for Spain in any sport at the 2012 Summer Olympics.<ref name="Dillman1Aug12">Dillman, Lisa (1 August 2017). [https://www.latimes.com/sports/olympics/la-xpm-2012-aug-01-la-sp-on-jiao-butterfly-hersey-20120801-story.html "London Olympics: Jiao wins 200 butterfly, Hersey places fourth"]. ''[[Los Angeles Times]]''. Retrieved 24 June 2021.</ref><ref name="Besa28Sep12">Besa, Ramon (28 September 2012). [https://english.elpais.com/elpais/2012/09/28/inenglish/1348834584_060751.html "Olympic heroine Belmonte in limbo after club funding spat"]. ''[[El País]]''. 28 September 2012. Retrieved 26 June 2021.</ref> Her second medal was also a silver medal, this time in the [[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800-metre freestyle]] behind 15-year-old [[Katie Ledecky]] and ahead of world record holder [[Rebecca Adlington]].<ref name="Dillman3Aug12">Dillman, Lisa (3 August 2017). [https://www.latimes.com/sports/olympics/la-xpm-2012-aug-03-la-sp-on-katie-ledecky-20120803-story.html "London Olympics: Swimmer Katie Ledecky, 15, wins Olympic gold"]. ''[[Los Angeles Times]]''. Retrieved 24 June 2021.</ref> She became the first Spanish swimmer to win two Olympic medals.<ref name="Campbell22Jul13">Campbell, Duncan (22 July 2013). [https://blog.arenaswim.com/en/elite-team/fred-vernaeaux-spains-biggest-swim-asset-talks-barcelona-mireia/ "Fred Vergnoux talks Barcelona and Spain's 'número uno' Mireia Belmonte"]. ''[[Arena (swimwear)|Arena]]''. 22 July 2013. Retrieved 26 June 2021.</ref>
+
+Belmonte competed in four events in addition to the two she medaled in. In the [[Swimming at the 2012 Summer Olympics – Women's 400 metre freestyle|400-metre freestyle]] she finished 13th in the prelims heats, in the [[Swimming at the 2012 Summer Olympics – Women's 200 metre individual medley|200-metre individual medley]] she placed 10th in the semifinals, in the [[Swimming at the 2012 Summer Olympics – Women's 400 metre individual medley|400-metre individual medley]] she placed 8th in the final, and she placed 10th in the prelims heats of the [[Swimming at the 2012 Summer Olympics – Women's 4 × 200 metre freestyle relay|4x200-metre freestyle relay]] swimming the relay's anchoring leg.<ref name="OlympicsResultsBook10Aug2012">[[London Organising Committee of the Olympic and Paralympic Games]] (10 August 2012). [https://www.usaswimming.org/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2012-olympic-games.pdf "Official results book London 2012: Swimming 28 July — 10 August"]. ''[[USA Swimming]]''. Retrieved 26 June 2021.</ref>
+
+===2013===
+====2013 World Aquatics Championships====
+After four months without training, she was presented as a member of the team of the ''Universidad Católica San Antonio de Murcia'' on 21 January, with a federative license for the ''UCAM Club Natación Fuensanta'' {{Clarify|reason=|date=June 2020}}. Thus, she could combine her studies in Business Management with her training in Sabadell (Barcelona) through a blended learning program.
+
+That year, at the [[2013 World Aquatics Championships]] held in [[Barcelona]], Belmonte competes in six events during the eight days of competition. On 29 July, she won the bronze medal in the [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre individual medley|200-metre individual medley]]. On 1 August, she won the silver medal in the [[Swimming at the 2013 World Aquatics Championships – Women's 200 metre butterfly|200-metre butterfly]]. On 4 August, the last day of the championships, she won her second silver medal, this time in the [[Swimming at the 2013 World Aquatics Championships – Women's 400 metre individual medley|400-metre individual medley]]. On 5 August, she was honored in her birthplace, Badalona, where he was received by hundreds of fans and decorated by the Mayor Xavier García Albiol in an institutional act.
+
+====2013 Swimming World Cup====
+At the [[2013 FINA Swimming World Cup]] held in [[Berlin]], [[Germany]] in August 2013 and conducted in short course metres, Belmonte set two world records in distance freestyle events. On 10 August, she broke the world record in the [[World record progression 800 metres freestyle|800-metre freestyle]], becoming the first woman to achieve a time under 8 minutes. Her time of 7:59.34 broke the former world record held by [[Camille Muffat]] by more than 1.5 seconds.<ref name="OT10Aug13">{{Cite web |title=FINA Swimming World Cup 2013 - Berlin - Women's 800 m freestyle |url=https://www.omegatiming.com/File/Download?id=00010D020601001802FFFFFFFFFFFF02 |website=omegatiming.com |access-date=12 June 2020 |archive-url=https://web.archive.org/web/20191210053826/https://www.omegatiming.com/File/Download?id=00010D020601001802FFFFFFFFFFFF02 |archive-date=10 December 2019 |url-status=live }}</ref> The next day, 11 August, she broke the world record for the [[World record progression 400 metres freestyle|400-metre freestyle]] with a time of 3:54.52, more than 3 tenths of a second faster than the previous world record set by Camille Muffat.<ref name="OT11Aug13">{{Cite web |title=FINA Swimming World Cup 2013 - Berlin - Women's 400 m freestyle |url=https://www.omegatiming.com/File/Download?id=00010D020601001702FFFFFFFFFFFF02 |website=omegatiming.com |access-date=12 June 2020 |archive-url=https://web.archive.org/web/20200306165859/https://www.omegatiming.com/File/Download?id=00010D020601001702FFFFFFFFFFFF02 |archive-date=6 March 2020 |url-status=live }}</ref>
+
+====2013 Spanish and European Championships====
+At the 2013 Spanish Championships in [[Castellón de la Plana]], [[Spain]], Belmonte swam a 15:26.95 in the short course 1500-metre freestyle on 29 November, setting a new world record in the event.<ref name="Martínez30Nov14">Martínez, Alberto (30 November 2013). [https://as.com/masdeporte/2013/11/29/portada/1385723993_571110.html "Tercer récord mundial de una Mireia Belmonte insaciable"] (in Spanish). ''[[Diario AS]]''. Retrieved 23 June 2021.</ref><ref name="SW29Nov13">[https://www.swimmingworldmagazine.com/news/mireia-belmonte-garcia-blasts-1500-free-world-record-in-short-course/ "Mireia Belmonte Garcia Blasts 1500 Free World Record in Short Course"]. ''[[Swimming World]]''. 29 November 2013. Retrieved 26 June 2021.</ref> On 12 December, at the [[2013 European Short Course Swimming Championships]] held in Herning (Denmark), Mireia won the gold medal in the 200-metre butterfly, beating the continental record in at time of 2:01.52.19.  The next day, she won another gold medal in the 800-metre freestyle with a time of 8:05.18. She defeated the local heroine [[Lotte Friis]] in that final.{{citation needed|date=June 2021}}
+
+===2014===
+====2014 World Swimming Championships====
+{{MedalTableTop|name=no|header=[[2014 FINA World Swimming Championships (25 m)|2014 World Championships]]}}
+{{MedalGold | [[2014 FINA World Swimming Championships (25 m) – Women's 200 metre butterfly|200 m butterfly]] | 1:59.61 (WR) }}
+{{MedalGold | [[2014 FINA World Swimming Championships (25 m) – Women's 400 metre individual medley|400 m individual medley]] | 4:19.86 (WR) }}
+{{MedalGold | [[2014 FINA World Swimming Championships (25 m) – Women's 800 metre freestyle|800 m freestyle]] | 8:03.41 (CR) }}
+{{MedalGold | [[2014 FINA World Swimming Championships (25 m) – Women's 400 metre freestyle|400 m freestyle]] | 3:55.76 (CR) }}
+{{MedalBottom}}
+On 3 December 2014 at the [[2014 FINA World Swimming Championships (25 m)|12th FINA World Swimming Championships]] in [[Doha]], [[Qatar]], Belmonte won two gold medals. One in the [[2014 FINA World Swimming Championships (25 m) – Women's 200 metre butterfly|200-metre butterfly]] and one in the [[2014 FINA World Swimming Championships (25 m) – Women's 400 metre individual medley|400-metre individual medley]].<ref>{{cite news |url=https://www.nytimes.com/2014/12/05/sports/two-golds-for-spanish-swimmer.html?_r=0 |title=Two Golds for Spanish Swimmer |date=4 December 2014 |newspaper=[[The New York Times]] |access-date=2 August 2016 |archive-url=https://web.archive.org/web/20170804214653/https://www.nytimes.com/2014/12/05/sports/two-golds-for-spanish-swimmer.html?_r=0 |archive-date=4 August 2017 |url-status=live }}</ref> At the same time she achieved the world record with substantial time improvements, making her the first female swimmer to go under 2 minutes in the 200-metre butterfly with her time of 1:59.61. Belmonte lowered the [[World record progression 200 metres butterfly|world record]] by 1.17 seconds and finished ahead of second-place finisher [[Katinka Hosszú]] by more than 1.5 seconds.<ref name="OTFWSC3Dec14f200fly">[https://www.omegatiming.com/File/00010E010D01032202FFFFFFFFFFFF02.pdf "12th FINA World Swimming Championships (25m) Doha (QAT): Women's 200m Butterfly Final Results"]. ''[[Omega Timing]]''. 3 December 2014. Retrieved 22 June 2021.</ref> Approximately 45 minutes later, she also set a new world record with her gold medal-winning time of 4:19.86 in the 400-metre individual medley, lowering the [[World record progression 400 metres individual medley|world record]] by 99 hundredths of a second and finishing over 3 seconds ahead of second-place finisher Katinka Hosszú.<ref name="OTFWSC3Dec14f400IM">[https://www.omegatiming.com/File/00010E010D01042502FFFFFFFFFFFF02.pdf "12th FINA World Swimming Championships (25m) Doha (QAT): Women's 400m Individual Medley Final Results"]. ''[[Omega Timing]]''. 3 December 2014. Retrieved 22 June 2021.</ref>
+
+One day later, 4 December, Belmonte won her third gold medal, this time in the [[2014 FINA World Swimming Championships (25 m) – Women's 800 metre freestyle|800-metre freestyle]]. Her time of 8:03.41 in the final was a new [[List of World Championships records in swimming|Championship Record]] and a few seconds off her [[World record progression 800 metres freestyle|world record]] of 7:59.34 in the event.<ref name="OTFWSC4Dec14f800FR">[https://www.omegatiming.com/File/00010E010D01001802FFFFFFFFFFFF02.pdf "12th FINA World Swimming Championships (25m) Doha (QAT): Women's 800m Freestyle Final Results Summary"]. ''[[Omega Timing]]''. 4 December 2014. Retrieved 22 June 2021.</ref> The following day, she won her fourth gold medal. She swam a 3:55.76 in the [[2014 FINA World Swimming Championships (25 m) – Women's 400 metre freestyle|400-metre freestyle]] final setting a new Championship Record and a little over a second behind her [[World record progression 400 metres freestyle|world record]] time of 3:54.52.<ref name="OTFWSC5Dec14f400FR">[https://www.omegatiming.com/File/00010E010D01001702FFFFFFFFFFFF02.pdf "12th FINA World Swimming Championships (25m) Doha (QAT): Women's 400m Freestyle Final Results"]. ''[[Omega Timing]]''. 5 December 2014. Retrieved 22 June 2021.</ref>
+
+====2014 Spanish Championships====
+On 12 December, at the 2014 Spanish Championships conducted in short course metres, Belmonte broke the world record in the [[World record progression 1500 metres freestyle|1500-metre freestyle]], setting a new world record of 15:19.71, which lowered the record over seven full seconds from the former mark of 15:26.95 by [[Lauren Boyle]] of [[New Zealand]].<ref name="ESPN12Dec14">[https://www.espn.com/olympics/swimming/story/_/id/12019113/mireia-belmonte-garcia-sets-1500-meter-freestyle-record "Belmonte Garcia sets swimming mark"]. ''[[ESPN]]''. 12 December 2014. Retrieved 23 June 2021.</ref><ref name="AP12Dec14">[https://apnews.com/article/7acceb35713243f8aaf055436af5b3fc "Spain's Belmonte Garcia sets 1500 freestyle record"]. ''[[Associated Press]]''. 12 December 2014. Retrieved 26 June 2021.</ref>
+
+===2015 World Aquatics Championships===
+For the [[2015 World Aquatics Championships]], held in [[Kazan]], [[Russia]], Belmonte was unable to participate due to a chronic shoulder injury. Belmonte said that her goal was to prepare for the [[2016 Summer Olympics|2016 Rio Olympic Games]], although she had tried to be at the World Championships until the very last moment.<ref name="Commings26Jul15">Commings, Jeff (26 July 2015). [https://www.swimmingworldmagazine.com/news/mireia-belmonte-out-of-world-championships/ "Mireia Belmonte Out Of World Championships"]. ''[[Swimming World]]''. Retrieved 26 June 2021.</ref><ref name="Race26Jul15">Race, Retta (26 July 2015). [https://swimswam.com/spanish-superstar-mireia-belmonte-drops-out-of-world-championships/ "Spanish Superstar Mireia Belmonte Drops Out of World Championships"]. ''[[SwimSwam]]''. Retrieved 26 June 2021.</ref>
+
+===2016 Summer Olympics===
+{{see also|Swimming at the 2016 Summer Olympics}}
+
+{{MedalTableTop|name=no|header=[[Swimming at the 2016 Summer Olympics|2016 Summer Olympics]]}}
+{{MedalGold | [[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]] | 2:04.85 }}
+{{MedalBronze | [[Swimming at the 2016 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]] | 4:32.39}}
+{{MedalBottom}}
+
+In [[Rio de Janeiro]], [[Brazil]] at the [[2016 Summer Olympics]] Belmonte won a bronze medal in the [[Swimming at the 2016 Summer Olympics – Women's 400 metre individual medley|400-metre individual medley]] on 6 August. Her bronze medal was the first medal for Spain in any sport at the 2016 Summer Olympics.<ref name="Romano7Aug16">Romano, Javier (7 August 2016). [https://www.marca.com/en/olympic-games/2016/08/07/57a70467468aeb8e558b469b.html "Mireia Belmonte wins first Spanish medal of Rio 2016"]. ''[[Marca (newspaper)|Marca]]''. Retrieved 22 June 2021.</ref> In the prelims heats of the [[Swimming at the 2016 Summer Olympics – Women's 400 metre freestyle|400-metre freestyle]] on 7 August, Belmonte ranked 15th with a time of 4:08.12 and did not advance to the final. The next day, in the [[Swimming at the 2016 Summer Olympics – Women's 200 metre individual medley|200-metre individual medley]] on 8 August, Belmonte ranked 15th in the prelims heats and qualified for the semifinals where she ranked 16th overall and did not advance to the final.<ref name="Mendes19Aug16">Mendes, Rodrigo (19 August 2016). [https://library.olympic.org/Default/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?parentDocumentId=165312&documentId=165357 "Rio 2016 Swimming 6 - 13: Results Book"]. ''[[Omega Timing]]''; ''[[Atos]]''. Version 1.1. Retrieved 24 June 2021.</ref>
+
+Belmonte achieved a historic victory for Spain by winning the gold medal in the [[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200-metre butterfly]] on 10 August in a time of 2:04.85, which was 3 hundredths of a second ahead of the silver medalist, Australian swimmer [[Madeline Groves]].<ref>{{cite web |url=https://www.sbnation.com/2016/8/10/12433334/olympics-2016-swimming-results-200m-butterfly-womens-gold-mireia-belmonte |title=Olympic swimming results 2016: Spain's Mireia Belmonte wins gold in women's 200m butterfly |date=10 August 2016 |publisher=[[SB Nation]] |access-date=10 August 2016 |archive-url=https://web.archive.org/web/20160812173209/http://www.sbnation.com/2016/8/10/12433334/olympics-2016-swimming-results-200m-butterfly-womens-gold-mireia-belmonte |archive-date=12 August 2016 |url-status=live }}</ref> She was the first Spanish female swimmer to become an Olympic champion.<ref name="Baldwin11Aug16">Baldwin, Alan (11 August 2016). [https://www.reuters.com/article/us-olympics-rio-swimming-idUSKCN10M0Q7 "Swimming: Night of individual firsts in Rio pool"]. ''[[Reuters]]''. Retrieved 22 June 2021.</ref><ref name="Arribas22Aug16">Arribas, Carlos (22 August 2016). [https://english.elpais.com/elpais/2016/08/22/inenglish/1471854140_252140.html "A late finish in Rio earns Team Spain a place in the history books: Despite limited resources, Spanish Olympians showed their mettle, taking seven gold medals"]. ''[[El País]]''. Retrieved 22 June 2021.</ref> Her gold medal was the first gold medal in the swimming pool at an Olympic Games for a Spanish swimmer of any gender since 1992.<ref name="CNA11Aug16">[https://www.catalannews.com/sports/item/catalan-swimmer-mireia-belmonte-brings-first-gold-for-spain-at-rio-olympics "Catalan swimmer Mireia Belmonte brings first gold for Spain at Rio Olympics"]. ''[[Catalan News Agency]]''. 11 August 2016. Retrieved 24 June 2021.</ref> On 11 August, Belmonte ranked eighth in the prelims heats of the [[Swimming at the 2016 Summer Olympics – Women's 800 metre freestyle|800-metre freestyle]], qualifying for the final. The next day, 12 August, she finished fourth with a time of 8:18.55 in the final.<ref name="Mendes19Aug16"/>
+
+Belmonte's two new [[Olympic medal]]s added to her previous two medals won at the 2012 Summer Olympics to amount to four total Olympic medals. Only three Spaniards before her had won four Olympic medals, making her the fourth to do so.<ref name="Marca11Aug16">[https://www.marca.com/en/olympic-games/2016/08/11/57acc7dd268e3e097c8b4661.html "Belmonte becomes fourth Spaniard to win four Olympic medals"]. ''[[Marca (newspaper)|Marca]]''. 11 August 2016. Retrieved 22 June 2021.</ref> She was one medal shy of tying the most decorated Olympic Games athlete of Spain at the time, [[Canoeing|canoeist]] [[David Cal]], who won a total of five medals.<ref name="CNA11Aug16"/>
+
+===2017===
+====2017 World Aquatics Championships====
+{{MedalTableTop|name=no|header=[[Swimming at the 2017 World Aquatics Championships|2017 World Championships]]}}
+{{MedalGold | [[Swimming at the 2017 World Aquatics Championships – Women's 200 metre butterfly|200 m butterfly]] | 2:05.26 }}
+{{MedalSilver | [[Swimming at the 2017 World Aquatics Championships – Women's 1500 metre freestyle|1500 m freestyle]] | 15:50.89 (NR) }}
+{{MedalSilver | [[Swimming at the 2017 World Aquatics Championships – Women's 400 metre individual medley|400 m individual medley]] | 4:32.17 }}
+{{MedalBottom}}
+
+At the [[2017 World Aquatics Championships]] held in [[Budapest]], [[Hungary]] in July 2017 and conducted in long course metres, Belmonte won a total of three medals in individual events. She won her first medal, a silver medal in the 1500-metre freestyle with a time of 15:50.89, on 25 July ahead of bronze medalist [[Simona Quadarella]] and behind gold medalist [[Katie Ledecky]].<ref name="OT1500FRf25Jul17">[https://www.omegatiming.com/File/000111010A0201F304FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 1500m Freestyle Final Results Summary"]. ''[[Omega Timing]]''. 25 July 2017. Retrieved 24 June 2021.</ref><ref name="Zaccardi25Jul17">Zaccardi, Nick (25 July 2017). [https://olympics.nbcsports.com/2017/07/25/katie-ledecky-swimming-world-championships-1500-200-freestyle/ "Katie Ledecky wins by 19 seconds, breaks world swimming titles record"]. ''[[NBC Sports]]''. Retrieved 24 June 2021.</ref> Belmonte's time of 15:50.89 was a new [[List of Spanish records in swimming|Spanish record]] for the women's long course 1500-metre freestyle.<ref name="Brien25Jul17">Brien, Taylor (25 July 2017). [https://www.swimmingworldmagazine.com/news/mireia-belmonte-sizzles-with-1500-free-spanish-record/ "Mireia Belmonte Sizzles with 1500 Free Spanish Record in Budapest"]. ''[[Swimming World]]''. Retrieved 26 June 2021.</ref> The second medal she won was a gold medal in the 200-metre butterfly, the same event she won gold in at the 2016 Summer Olympic Games in Rio, on 27 July.<ref name="OT200FLf27Jul17">[https://www.omegatiming.com/File/000111010A0204EE04FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 200m Butterfly Final Results Summary"]. ''[[Omega Timing]]''. 27 July 2017. Retrieved 24 June 2021.</ref> Belmonte was highlighted by [[FINA]] as shining on day five of the swimming competitions for her win.<ref name="PACC27Jul17">Adrega, Pedro; Chappelet, Camille (27 July 2017). [https://www.fina.org/news/1910064/swimming-day-5-belmonte-and-medeiros-shine-in-a-3-gold-session-for-usa "Swimming Day 5 - Belmonte and Medeiros shine in a 3-gold session for USA"]. ''[[FINA]]''. Retrieved 24 June 2021.</ref> Belmonte shared her excitement about the win with ''[[Diario AS]]'', "I still can't believe it. This golden medal was the only one which was missing from my collection. Rio was the best moment in my life, but this is an important moment. The key to win this final was the first 100 metres."<ref name="DAS27Jul17">[https://en.as.com/en/2017/07/27/other_sports/1501179926_364764.html "Mireia Belmonte on top of the world after clinching gold"]. ''[[Diario AS]]''. 27 July 2017. Retrieved 24 June 2021.</ref> The third medal Belmonte won, with a time of 4:32.17, was a silver medal in the 400-metre individual medley on 30 July.<ref name="OT400IMf30Jul17">[https://www.omegatiming.com/File/000111010A0205EF04FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 400m Individual Medley Final Results Summary"]. ''[[Omega Timing]]''. 30 July 2017. Retrieved 24 June 2021.</ref>
+
+In addition to the events she medaled in, Belmonte competed in the 800-metre freestyle ranking fourth in the final behind [[Leah Smith (swimmer)|Leah Smith]] on 29 July.<ref name="OT800FRf29Jul17">[https://www.omegatiming.com/File/000111010A0201F104FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 800m Freestyle Final Results Summary"]. ''[[Omega Timing]]''. 29 July 2017. Retrieved 24 June 2021.</ref> She also ranked 10th in the heats of the 400-metre freestyle on 23 July and 20th in the heats of the 200-metre individual medley on the same day.<ref name="OT400FRh28Jul17">[https://www.omegatiming.com/File/000111010A0201EF01FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 400m Freestyle Heats Results Summary"]. ''[[Omega Timing]]''. 28 July 2017. Retrieved 24 June 2021.</ref><ref name="OT200IMh23Jul17">[https://www.omegatiming.com/File/000111010A0205EE01FFFFFFFFFFFF01.pdf "17th FINA World Championships Budapest (HUN): Women's 200m Individual Medley Heats Results Summary"]. ''[[Omega Timing]]''. 23 July 2017. Retrieved 24 June 2021.</ref> At the end of the meet when points were totaled for each swimmer as part of the FINA Trophy, Belmonte ranked seventh out of all competitors, ahead of Chinese distance-freestyle swimmer [[Sun Yang]] who took eighth place and behind British breaststroke swimmer [[Adam Peaty]] who took sixth place.<ref name="OTResultsBook30Jul17">[https://www.omegatiming.com/File/000111010AFFFFFFFFFFFFFFFFFFFF22.pdf "17th FINA World Championships Budapest (HUN): Results Book"]. ''[[Omega Timing]]''. 30 July 2017. Retrieved 24 June 2021.</ref>
+
+====2017 Swimming World Cup====
+At the [[2017 FINA Swimming World Cup]] held in the [[Netherlands]] in August 2017, Belmonte broke the world record in the short course 400-metre individual medley with her time of 4:18.94.<ref name="Marca12Aug17">[https://www.marca.com/en/more-sports/2017/08/12/598f4640e2704ef17d8b4661.html "Mireia Belmonte beats 400m world record in the short pool"]. ''[[Marca (newspaper)|Marca]]''. 12 August 2017. Retrieved 25 June 2021.</ref> She lowered the former world record set by Katinka Hosszú in 2015 by more than half a second.<ref name="OT12Aug17">[https://www.omegatiming.com/File/Download?id=00011101030205EF04FFFFFFFFFFFF01 "FINA Swimming World Cup 2017: Women's 400m Individual Medley Fastest Heat(s) Results Summary"]. ''[[Omega Timing]]''. 12 August 2017. Retrieved 22 June 2021.</ref><ref name="Race12Aug17">Race, Retta (12 August 2017). [https://swimswam.com/belmonte-blasts-new-short-course400im-world-record-in-eindhoven/ "Belmonte Blasts New Short Course 400 IM World Record in Eindhoven"]. ''[[SwimSwam]]''. Retrieved 25 June 2021.</ref>
+
+===2018 Mediterranean Games===
+Belmonte competed in multiple individual events, earning four medals for Spain, in June 2018 at the [[2018 Mediterranean Games|Mediterranean Games]] in [[Tarragona]]. She won a gold medal in the [[Swimming at the 2018 Mediterranean Games – Women's 200 metre butterfly|200-metre butterfly]] and a gold medal in the [[Swimming at the 2018 Mediterranean Games – Women's 200 metre individual medley|200-metre individual medley]]. In the [[Swimming at the 2018 Mediterranean Games – Women's 400 metre freestyle|400-metre freestyle]], Belmonte won the silver medal. Her swim in the [[Swimming at the 2018 Mediterranean Games – Women's 800 metre freestyle|800-metre freestyle]] earned her the silver medal in the event.<ref name="ICMGresults2018swimming">[https://results.tarragona2018.cat/en/SWM/medals/by-event "Tarragona 2018: Swimming Medals by Event"]. ''[[International Committee of Mediterranean Games]]''. Retrieved 25 June 2021.</ref> She also competed in the [[Swimming at the 2018 Mediterranean Games – Women's 400 metre individual medley|400-metre individual medley]], finishing seventh in the final.<ref name="Race25Jun21">Race, Retta (25 June 2018). [https://swimswam.com/2018-mediterranean-games-conclude-by-rattling-world-rankings/ "2018 Mediterranean Games Conclude By Rattling World Rankings"]. ''[[SwimSwam]]''. Retrieved 25 June 2021.</ref>
+
+===2021===
+====2020 Olympic Games build-up====
+Belmonte [[Swimming at the 2020 Summer Olympics – Qualification|qualified]] for the [[2020 Summer Olympics]], held in July and August 2021 due to the [[COVID-19 pandemic]], in the 800-metre freestyle and the 1500-metre freestyle at the 2020 Open Castalia Castelión held in [[Castellón de la Plana|Castellón]], [[Spain]] in December 2020.<ref name="Race6Dec20">Race, Retta (6 December 2020). [https://swimswam.com/5-spanish-swimmers-qualify-for-tokyo-2020-at-castalia-castellon/ "5 Spanish Swimmers Qualify For Tokyo 2020 At Castalia Castellón"]. ''[[SwimSwam]]''. Retrieved 22 June 2021.</ref> In May 2021 Belmonte was officially confirmed by the Spanish Olympic Committee as one of two [[2020 Summer Olympics Parade of Nations|flag bearers]] for Spain at the [[2020 Summer Olympics opening ceremony|Opening Ceremony]] of the 2020 Summer Olympics in [[Tokyo]], Japan on 23 July 2021.<ref name="SN12May21">[https://spainsnews.com/saul-craviotto-and-mireia-belmonte-officially-confirmed-as-spanish-flag-bearers-at-tokyo-2020/ "Saúl Craviotto and Mireia Belmonte, officially confirmed as Spanish flag bearers at Tokyo 2020"]. ''Spain's News''. 12 May 2021. Retrieved 22 June 2021.</ref>
+
+As part of the 2021 Sette Colli Trophy from 25 to 27 June 2021 in [[Rome]], Belmonte entered to swim the 200-metre butterfly and 400-metre individual medley in an attempt to qualify to compete in those events at the 2020 Summer Olympics.<ref name="Marca24Jun21">[https://www.marca.com/natacion/2021/06/24/60d4a51fca4741eb1c8b4588.html "Mireia Belmonte nada el Sette Colli de Roma, último test antes de Tokio"] (in Spanish). ''[[Marca (newspaper)|Marca]]''. 24 June 2021. Retrieved 25 June 2021.</ref> Belmonte won bronze in the 400-metre individual medley with a time of 4:39.37 on 26 June.<ref name="Race26Jun21">Race, Retta (26 June 2021). [https://swimswam.com/2021-sette-colli-trophy-day2-finals-recap/ "2021 Sette Colli Trophy Day 2 Finals Recap"]. ''[[SwimSwam]]''. Retrieved 26 June 2021.</ref> On 27 June, she swam a 2:13.63 in the 200-metre butterfly.<ref name="ISF27Jun21">[https://fin2021.microplustiming.com/export/NU_2021_06_25-27_Roma/NU/pdf/CLS-ASF-200FA-TIM-ALL.pdf?x=15:37:03 "58th Settecolli - V. 50m: Results 200m Butterfly - Women"]. ''[[Italian Swimming Federation]]''. 27 June 2021. Retrieved 27 June 2021.</ref><ref name="Race27Jun21">Race, Retta (27 June 2021). [https://swimswam.com/2021-sette-colli-trophy-day3-finals-recap/ "2021 Sette Colli Trophy Day 3 Finals Recap"]. ''[[SwimSwam]]''. Retrieved 27 June 2021.</ref> ''[[SwimSwam]]'' later confirmed that if the Royal Spanish Swimming Federation approved, Belmonte could swim the 200-meter butterfly and 400-meter individual medley at the 2020 Olympics as well as the two events she had already qualified in.<ref name="Johnson6Jul21">Johnson, Annika (6 July 2021). [https://swimswam.com/2020-olympic-previews-veterans-zhang-yufei-and-hali-flickinger-in-200-fly/ "2020 Olympic Previews: Veterans Zhang Yufei and Hali Flickinger in 200 Fly"]. ''[[SwimSwam]]''. Retrieved 9 July 2021.</ref> On 14 July, [[FINA]] released that Belmonte was entered in three individual events for the 2020 Olympics: 1500-metre freestyle, 800-metre freestyle, and [[Swimming at the 2020 Summer Olympics – Women's 400 metre individual medley|400-metre individual medley]].<ref name="FINA14Jul2021">[https://resources.fina.org/fina/document/2021/07/14/570bd66a-8f35-4c66-b344-e79f3d9598e6/Tokyo2020_SW_Entry_List.pdf "Tokyo 2020 Swimming Entry List (as of 14 July 2021)"]. ''[[FINA]]''. 14 July 2021. Retrieved 15 July 2021.</ref>
+
+====2020 Summer Olympics====
+{{see also|Swimming at the 2020 Summer Olympics}}
+At the Tokyo 2020 Olympics [[2020 Summer Olympics opening ceremony|Opening Ceremony]] on 23 July, Belmonte was one of 86 swimmers serving as a flag bearer for their nation, contributing to the sport of swimming being the most represented sport in terms of number of flag bearers at the ceremony.<ref name="Miller23Jul2021">Miller, Nicole (23 July 2021). [https://swimswam.com/over-80-swimmers-carry-flags-in-tokyo-olympics-opening-ceremonies-full-list/ "Over 80 Swimmers Carry Flags in Tokyo Olympics Opening Ceremonies (Full List)"]. ''[[SwimSwam]]''. Retrieved 23 July 2021.</ref> The first day of swimming competition, 24 July 2021, Belmonte advanced to the final of the [[Swimming at the 2020 Summer Olympics – Women's 400 metre individual medley|400-metre individual medley]] with her fourth-place finish in a time of 4:35.88.<ref name="Sutherland24Jul2021">Sutherland, James (24 July 2021). [https://swimswam.com/tokyo-2020-olympics-day-1-prelims-live-recap/ "Tokyo 2020 Olympics: Day 1 Prelims Live Recap"]. ''[[SwimSwam]]''. Retrieved 24 July 2021.</ref><ref name="Torres24Jul2021">Torres, Diego (24 July 2021). [https://elpais.com/deportes/juegos-olimpicos/2021-07-24/mireia-belmonte-se-mete-en-la-final-de-400-estilos-con-un-golpe-de-suerte-y-de-maestria.html "Mireia Belmonte se mete en la final de 400 estilos con un golpe de suerte y de maestría"] (in Spanish). ''[[El País]]''. Retrieved 24 July 2021.</ref><ref name="Bizerra24Jul2021">Bizerra, Fernando (24 July 2021). [https://www.heraldo.es/noticias/deportes/deportes-juegos-olimpicos/2021/07/24/mireia-belmonte-se-clasifica-para-la-final-de-400-estilos-tokio-2020-natacion-juegos-olimpicos-1508516.html "Mireia Belmonte se clasifica para la final de 400 estilos"] (in Spanish). ''[[Heraldo de Aragón]]''. Retrieved 24 July 2021.</ref> She finished in fourth place in the final, behind American [[Hali Flickinger]] and ahead of Hungarian [[Katinka Hosszú]].<ref name="Anderson24Jul2021">Anderson, Jared (24 July 2021). [https://swimswam.com/tokyo-2020-olympics-day-1-finals-live-recap/ "Tokyo 2020 Olympics: Day 1 Finals Live Recap"]. ''[[SwimSwam]]''. Retrieved 24 July 2021.</ref><ref name="EP25Jul2021">[https://www.europapress.es/deportes/olimpiadas-00169/noticia-mireia-belmonte-queda-borde-medalla-20210725043038.html "Mireia Belmonte se queda al borde de la medalla"] (in Spanish). ''[[Europa Press (news agency)|Europa Press]]''. 25 July 2021. Retrieved 25 July 2021.</ref> On 26 July, in the debut of the [[Swimming at the 2020 Summer Olympics – Women's 1500 metre freestyle|1500-metre freestyle]] for women at the Olympic Games, Belmonte swam a 16:11.68, ranked fifteenth overall, and did not qualify for the final.<ref name="Bizerra26Jul2021">Bizerra, Fernando (26 July 2021). [https://www.heraldo.es/noticias/deportes/2021/07/26/mireia-belmonte-se-queda-fuera-de-la-final-de-los-1-500-1508912.html "Mireia Belmonte se queda fuera de la final de los 1.500"] (in Spanish). ''[[Heraldo de Aragón]]''. Retrieved 26 July 2021.</ref><ref name="Suárez26Jul2021">Suárez, Orfeo (26 July 2021). [https://www.elmundo.es/deportes/juegos-olimpicos/2021/07/26/60feae79e4d4d8980a8b45dd.html "Mireia Belmonte, fuera de la final olímpica de 1.500"] (in Spanish). ''[[El Mundo (Spain)|El Mundo]]''. Retrieved 26 July 2021.</ref> On the sixth day of competition, 29 July, Belmonte competed in the prelims heats of the [[Swimming at the 2020 Summer Olympics – Women's 800 metre freestyle|800-metre freestyle]], swam a 8:26.71, and did not advance to the final of the event.<ref name="EP29Jul2021">[https://www.europapress.es/deportes/olimpiadas-00169/noticia-mireia-belmonte-cierra-participacion-individual-eliminada-series-800-libres-20210729132831.html "Mireia Belmonte cierra su participación individual eliminada en las series de 800 libres"] (in Spanish). ''[[Europa Press (news agency)|Europa Press]]''. 29 July 2021. Retrieved 29 July 2021.</ref><ref name="IOC1Aug2021">[[Omega Timing]]; [[Atos]] (1 August 2021). [https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf "Tokyo 2020 Olympic Games: Swimming Results Book"] {{Webarchive|url=https://web.archive.org/web/20210807054827/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_B99_SWM-------------------------------.pdf |date=7 August 2021 }}. ''[[International Olympic Committee]]''. Retrieved 3 August 2021.</ref> The following day, she swam the butterfly leg of the [[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre medley relay|4×100-metre medley relay]], placed 16th with her relay teammates in the prelims and did not advance to the final.<ref name="IOC1Aug2021"/>
+
+====2021 International Swimming League====
+Belmonte decided not to take part in the draft process to compete in the [[2021 International Swimming League]], spanning August to December 2021, in part due to health issues.<ref name="Keith3Jun2021">Keith, Braden (3 June 2021). [https://swimswam.com/isl-releases-list-of-940-athletes-registered-for-2021-draft/ "ISL Releases List Of 940 Athletes Registered For 2021 Draft"]. ''[[SwimSwam]]''. Retrieved 3 August 2021.</ref>
+
+===2022===
+On 5 August, Belmonte was announced to the official Spain roster for the [[2022 European Aquatics Championships]].<ref name="R2022n5Aug2022">[https://www.roma2022.eu/en/2022/08/05/austria-israele-e-spagna-sono-pronte-per-gli-europei-di-roma2022/ "Austria, Israel and Spain make official their Roma 2022 teams"]. ''roma2022.eu''. 5 August 2022. Retrieved 8 August 2022.</ref><ref name="LE11Aug2022">[https://www.lesportiudecatalunya.cat/mes-esport/article/2178527-el-retorn-de-belmonte.html "El retorn de Belmonte"] (in Catalan). ''lesportiudecatalunya.cat''. 11 August 2022. Retrieved 13 August 2022.</ref> On day three of competition, she placed tenth in the preliminaries of the [[Swimming at the 2022 European Aquatics Championships – Women's 400 metre individual medley|400-metre individual medley]] with a time of 4:48.19 and achieved first-alternate status for the final.<ref name="LEN13Aug2022p400im">[[LEN]] (13 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW400MIM------------HEAT--------_74A%201.0.pdf?x=06:20:06 "European Aquatics Championships Roma 2022: Results 400m Individual Medley Women Preliminary"]. ''Microplus''. Retrieved 13 August 2022.</ref><ref name="Pérez13Aug2022">Pérez, Marta (13 August 2022). [https://www.mundodeportivo.com/natacion/20220813/1001850226/mireia-belmonte-final-400-estilos-estara-alba-vazquez.html "Mireia Belmonte, sin una final de 400 estilos en la que estará Alba Vázquez"] (in Spanish). ''[[Mundo Deportivo]]''. Retrieved 13 August 2022.</ref><ref name="EFE13Aug2022">[https://www.efe.com/efe/espana/deportes/alba-vazquez-a-la-final-de-los-400-estilos-mireia-se-queda-las-puertas/10006-4866566 "Alba Vázquez a la final de los 400 estilos; Mireia se queda a las puertas"] (in Spanish). ''[[EFE]]''. 13 August 2022. Retrieved 13 August 2022.</ref><ref name="LE13Aug2022">[https://www.lesportiudecatalunya.cat/mes-esport/article/2179929-mireia-belmonte-a-les-portes-de-la-final-de-400-m-estils.html "Mireia Belmonte, a les portes de la final de 400 m estils"] (in Catalan). ''lesportiudecatalunya.cat''. 13 August 2022. Retrieved 13 August 2022.</ref> For the preliminaries of the [[Swimming at the 2022 European Aquatics Championships – Women's 200 metre individual medley|200-metre individual medley]], she finished in a time of 2:15.91, ranked eleventh, and qualified for the semifinals.<ref name="LEN15Aug2022p200im">[[LEN]] (15 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW200MIM------------HEAT--------_74A%201.0.pdf?x=07:12:08 "European Aquatics Championships Roma 2022: Results 200m Individual Medley Women Preliminary"]. ''Microplus''. Retrieved 15 August 2022.</ref> She placed seventh in semifinal heat two, fourteenth overall in the semifinals, with a time of 2:15.47.<ref name="LEN15Aug2022sf200im">[[LEN]] (15 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW200MIM------------SFNL--------_74A%201.0.pdf?x=10:23:11 "European Aquatics Championships Roma 2022: Results 200m Individual Medley Women Semi-Final"]. ''Microplus''. Retrieved 15 August 2022.</ref><ref name="Pérez15Aug2022">Pérez, Marta (15 August 2022). [https://www.mundodeportivo.com/natacion/20220815/1001851383/alba-vazquez-mireia-belmonte-caen-semis-200-estilos.html "Mireia Belmonte y Alba Vázquez caen en las 'semis' de los 200 estilos"] (in Spanish). ''[[Mundo Deportivo]]''. Retrieved 15 August 2022.</ref><ref name="les15Aug2022">[https://www.lesportiudecatalunya.cat/mes-esport/article/2180645-mireia-belmonte-queda-fora-de-la-final-dels-200-m-estils-de-l-europeu.html "Mireia Belmonte queda fora de la final dels 200 m estils de l'europeu"] (in Catalan). ''lesportiudecatalunya.cat''. 15 August 2022. Retrieved 15 August 2022.</ref> Day six, she ranked fifteenth in the preliminaries of the [[Swimming at the 2022 European Aquatics Championships – Women's 200 metre butterfly|200-metre butterfly]] with a time of 2:16.75 and qualified for the semifinals.<ref name="LEN16Aug2022p200fl">[[LEN]] (16 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW200MBF------------HEAT--------_74A%201.0.pdf?x=07:18:15 "European Aquatics Championships Roma 2022: Results 200m Butterfly Women Preliminary"]. ''Microplus''. Retrieved 16 August 2022.</ref><ref name="Martínez16Aug2022">Martínez, Alberto (16 August 2022). [https://as.com/futbol/primera/coll-entra-como-un-tiro-en-las-semifinales-de-los-200-estilos-n/?omnil=resrelrecom "Coll entra como un tiro en las semifinales de los 200 estilos"] (in Spanish). ''[[Diario AS]]''. Retrieved 16 August 2022.</ref><ref name="CC16Aug2022">[https://www.cope.es/deportes/mas-deporte/noticias/mireia-belmonte-pasa-las-semifinales-200-mariposa-20220816_2245896 "Mireia Belmonte pasa a las semifinals de 200 mariposa"] (in Spanish). ''[[Cadena COPE]]''. Retrieved 16 August 2022.</ref><ref name="EFE16Aug2022">[https://www.efe.com/efe/espana/deportes/mireia-belmonte-estara-en-las-semifinales-de-los-200-mariposa/10006-4867640 "Mireia Belmonte estará en las semifinales de los 200 mariposa"] (in Spanish). ''[[EFE]]''. Retrieved 16 August 2022.</ref> She followed up with a 2:14.01 in the semifinals, ranking eleventh and not advancing to the final.<ref name="LEN16Aug2022sf200fl">[[LEN]] (16 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW200MBF------------SFNL--------_74A%201.0.pdf?x=10:43:01 "European Aquatics Championships Roma 2022: Results 200m Butterfly Women Semi-Final"]. ''Microplus''. Retrieved 16 August 2022.</ref><ref name="LVdG16Aug2022">[https://www.lavozdegalicia.es/noticia/deportes/2022/08/16/mireia-belmonte-julia-pujadas-quedan-fuera-final-200-mariposa/00031660674573060300476.htm "Mireia Belmonte y Julia Pujadas se quedan fuera de la final de 200 mariposa"] (in Spanish). ''[[La Voz de Galicia]]''. 16 August 2022. Retrieved 16 August 2022.</ref> The final day of competition, she placed seventeenth in the [[Swimming at the 2022 European Aquatics Championships – Women's 400 metre freestyle|400-metre freestyle]] with a time of 4:18.33.<ref name="LEN17Aug2022p400wfr">[[LEN]] (17 August 2022). [https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMW400MFR------------HEAT--------_74A%201.0.pdf?x=06:17:16 "European Aquatics Championships Roma 2022: Results 400m Freestyle Women Preliminary"]. ''Microplus''. Retrieved 17 August 2022.</ref><ref name="Toni17Aug2022">Toni López Jordà (17 August 2022). [https://www.lavanguardia.com/deportes/20220817/8469459/natacion-europeos-de-roma-mireia-belmonte-regreso-finales-fuera-de-forma-400-mariposa.html "Sin noticias de Mireia Belmonte, sin ninguna final en el Europeo"] (in Spanish). ''[[La Vanguardia]]''. Retrieved 17 August 2022.</ref>
+
+Later in the year, on 22 October 2022 at the [[2022 FINA Swimming World Cup|year's Swimming World Cup]] stop in [[Berlin]], [[Germany]], Belmonte placed fifth in the 400-metre individual medley on day two with a time of 4:35.63.<ref name="Pérez22Oct2022">Pérez, Marta (22 October 2022). [https://www.mundodeportivo.com/natac-on/20221022/1001885023/mireia-belmonte-quinta-400-estilos-dia-favoritos-firmes-berlin.html "Mireia Belmonte, quinta en 400 estilos en un día con los favoritos firmes en Berlín"] (in Spanish). ''[[Mundo Deportivo]]''. Retrieved 22 October 2022.</ref> In her four other individual events during the three day competition, she placed fourteenth in the 200 metre individual medley with a 2:13.70, sixteenth in the 400 metre freestyle with a 4:11.63, eighteenth in the 200 metre butterfly with a 2:14.59, and thirty-first in the 100 metre butterfly with a 1:02.15.
+<ref name="FINA23Oct2022rb">[[FINA]] (23 October 2022). [https://www.omegatiming.com/File/0001170007FFFFFFFFFFFFFFFFFFFF22.pdf "FINA Swimming World Cup 2022 Berlin (GER): Results Book"]. ''[[Omega Timing]]''. Retrieved 23 October 2022.</ref>
+
+==International championships (50 m and open water)==
+{| class="sortable wikitable"
+! Meet
+! class="unsortable"|400 free
+! class="unsortable"|800 free
+! class="unsortable"|1500 free
+! class="unsortable"|200 breast
+! class="unsortable"|200 fly
+! class="unsortable"|200 medley
+! class="unsortable"|400 medley
+! class="unsortable"|4×200 free
+! class="unsortable"|4×100 medley
+! class="unsortable"|5&nbsp;km open water
+|-
+| [[Swimming at the 2007 World Aquatics Championships|WC 2007]] || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|22nd || align="center"|19th || align="center"|12th || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#ccccff"| [[2008 European Aquatics Championships|EC 2008]] || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|{{Bronze3}} || align="center"|{{Gold1}} || align="center"|8th || align="center"|8th || align="center"|6th || {{n/a}} 
+|-
+| style="background:#f0e68c"| [[Swimming at the 2008 Summer Olympics|OG 2008]] || style="background:#f0e68c"| || style="background:#f0e68c"| || {{n/a}} || align="center"|24th || style="background:#f0e68c"| || align="center"|14th || align="center"|14th || style="background:#f0e68c"| || align="center"|15th || {{n/a}} 
+|-
+| [[Swimming at the 2009 World Aquatics Championships|WC 2009]] || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|28th || align="center"|22nd || align="center"|DSQ || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| [[Swimming at the 2011 World Aquatics Championships|WC 2011]] || style="background:#fdffe7"| || align="center"|DNS || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|9th || align="center"|10th || align="center"|4th || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#ccccff"| [[2012 European Aquatics Championships|EC 2012]] || align="center"|{{Silver2}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|4th || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|DSQ || style="background:#fdffe7"| || {{n/a}} 
+|-
+| style="background:#f0e68c"| [[Swimming at the 2012 Summer Olympics|OG 2012]] || align="center"|13th || align="center"|{{Silver2}} || {{n/a}} || style="background:#f0e68c"| || align="center"|{{Silver2}} || align="center"|10th || align="center"|8th || align="center"|10th || style="background:#f0e68c"| || {{n/a}} 
+|-
+| [[Swimming at the 2013 World Aquatics Championships|WC 2013]] || align="center"|9th || align="center"|5th || align="center"|4th || style="background:#fdffe7"| || align="center"|{{Silver2}} || align="center"|{{Bronze3}} || align="center"|{{Silver2}} || align="center"|5th || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#ccccff"| [[2014 European Aquatics Championships|EC 2014]] || align="center"|{{Bronze3}} || align="center"|{{Silver2}} || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || align="center"|8th || align="center"|{{Silver2}} || align="center"|6th || style="background:#fdffe7"| || align="center"|{{Bronze3}} 
+|-
+| style="background:#ccccff"| [[2016 European Aquatics Championships|EC 2016]] || align="center"|{{Bronze3}} || style="background:#fdffe7"| || align="center"|{{Silver2}} || style="background:#fdffe7"| || align="center"|12th || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|{{Silver2}} || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#f0e68c"| [[Swimming at the 2016 Summer Olympics|OG 2016]] || align="center"|15th || align="center"|4th || {{n/a}} || style="background:#f0e68c"| || align="center"|{{Gold1}} || align="center"|16th || align="center"|{{Bronze3}} || style="background:#f0e68c"| || style="background:#f0e68c"| || {{n/a}} 
+|-
+| [[Swimming at the 2017 World Aquatics Championships|WC 2017]] || align="center"|10th || align="center"|4th || align="center"|{{Silver2}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || align="center"|20th || align="center"|{{Silver2}} || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#cceeff"| [[Swimming at the 2018 Mediterranean Games|MG 2018]] || align="center"|{{Silver2}} || align="center"|{{Silver2}} || {{n/a}} || style="background:#cceeff"| || align="center"|{{Gold1}} || align="center"|{{Gold1}} || align="center"|7th || style="background:#cceeff"| || style="background:#cceeff"| || {{n/a}} 
+|-
+| [[Swimming at the 2019 World Aquatics Championships|WC 2019]] || align="center"|15th || align="center"|8th || align="center"|8th || style="background:#fdffe7"| || align="center"|16th || align="center"|21st || align="center"|13th || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|-
+| style="background:#f0e68c"| [[Swimming at the 2020 Summer Olympics|OG 2020]] || style="background:#f0e68c"| || align="center"|14th || align="center"|15th || style="background:#f0e68c"| || style="background:#f0e68c"| || style="background:#f0e68c"| || align="center"|4th || style="background:#f0e68c"| || align="center"|16th || {{n/a}} 
+|-
+| style="background:#ccccff"| [[2022 European Aquatics Championships|EC 2022]] || align="center"|17th || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|11th || align="center"|14th || align="center"|10th || style="background:#fdffe7"| || style="background:#fdffe7"| || style="background:#fdffe7"| 
+|}
+
+==International championships (25 m)==
+{| class="sortable wikitable"
+! Meet
+! class="unsortable"|400 free
+! class="unsortable"|800 free
+! class="unsortable"|200 breast
+! class="unsortable"|200 fly
+! class="unsortable"|100 medley
+! class="unsortable"|200 medley
+! class="unsortable"|400 medley
+|-
+| [[2008 FINA World Swimming Championships (25 m)|WC 2008]] || align="center"|9th || style="background:#fdffe7"| || align="center"|6th || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|{{Silver2}} || align="center"|{{Bronze3}} 
+|-
+| style="background:#ccccff"| [[2008 European Short Course Swimming Championships|EC 2008]] || align="center"|13th || style="background:#fdffe7"| || align="center"|14th || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|6th || align="center"|{{Gold1}} 
+|-
+| style="background:#ccccff"| [[2009 European Short Course Swimming Championships|EC 2009]] || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|DSQ || align="center"|DSQ || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|{{Silver2}} 
+|-
+| [[2010 FINA World Swimming Championships (25 m)|WC 2010]] || style="background:#fdffe7"| || align="center"|{{Silver2}} || align="center"|19th || align="center"|{{Gold1}} || align="center"|28th || align="center"|{{Gold1}} || align="center"|{{Gold1}} 
+|-
+| style="background:#ccccff"| [[2011 European Short Course Swimming Championships|EC 2011]] || align="center"|{{Gold1}} || style="background:#fdffe7"| || style="background:#fdffe7"| || align="center"|{{Gold1}} || align="center"|13th (h,WD) || align="center"|{{Gold1}} || align="center"|{{Gold1}} 
+|-
+| style="background:#ccccff"| [[2013 European Short Course Swimming Championships|EC 2013]] || align="center"|{{Gold1}} || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|4th || align="center"|{{Gold1}} 
+|-
+| [[2014 FINA World Swimming Championships (25 m)|WC 2014]] || align="center"|{{Gold1}} || align="center"|{{Gold1}} || style="background:#fdffe7"| || align="center"|{{Gold1}} || align="center"|27th || align="center"|10th || align="center"|{{Gold1}} 
+|-
+| [[2016 FINA World Swimming Championships (25 m)|WC 2016]] || align="center"|DNS || align="center"|DNS || style="background:#fdffe7"| || align="center"|19th || style="background:#fdffe7"| || align="center"|DNS || align="center"|5th 
+|}
+
+==Personal best times==
+===Long course metres (50 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Notes
+! Ref
+|-
+| 400&nbsp;m freestyle
+| style="text-align:center;" | '''4:03.84'''
+| 
+| 2014 Spanish Open Spring Championships
+| [[Spain]]
+| 10 April 2014
+| style="text-align:center;" | 
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|-
+| 800&nbsp;m freestyle
+| style="text-align:center;" | '''8:18.55'''
+| 
+| [[2016 Summer Olympics]]
+| [[Rio de Janeiro]], [[Brazil]]
+| 12 August 2016
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="Mendes19Aug16"/>
+|-
+| 1500&nbsp;m freestyle
+| style="text-align:center;" | '''15:50.89'''
+| 
+| [[2017 World Aquatics Championships]]
+| [[Budapest]], [[Hungary]]
+| 25 July 2017
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="OT1500FRf25Jul17"/>
+|-
+| 200&nbsp;m breaststroke
+| style="text-align:center;" | '''2:29.46'''
+| '''h'''
+| [[2008 Summer Olympics]]
+| [[Beijing]], [[China]]
+| 13 August 2008
+| style="text-align:center;" | 
+| style="text-align:center;" | <ref name="2008ESPN200BR"/>
+|-
+| 200&nbsp;m butterfly
+| style="text-align:center;" | '''2:04.78'''
+| 
+| [[2013 World Aquatics Championships]]
+| [[Barcelona]]
+| 1 August 2013
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|-
+| 200&nbsp;m individual medley
+| style="text-align:center;" | '''2:09.45'''
+| 
+| [[2013 World Aquatics Championships]]
+| [[Barcelona]]
+| 29 July 2013
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|-
+| 400&nbsp;m individual medley
+| style="text-align:center;" | '''4:31.21'''
+| 
+| [[2013 World Aquatics Championships]]
+| [[Barcelona]]
+| 4 August 2013
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|}
+{{Swimmingrecordlegend|nation=Spanish}}
+
+===Short course metres (25 m pool)===
+{| class="wikitable"
+|-
+! Event
+! Time
+! 
+! Meet
+! Location
+! Date
+! Notes
+! Ref
+|-
+| 400&nbsp;m freestyle
+| style="text-align:center;" | '''3:54.52'''
+| 
+| [[2013 FINA Swimming World Cup]]
+| [[Berlin]], [[Germany]]
+| 11 August 2013
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', Former '''[[List of world records in swimming|WR]]'''
+| style="text-align:center;" | <ref name="OT11Aug13"/>
+|-
+| 800&nbsp;m freestyle
+| style="text-align:center;" | '''7:59.34'''
+| 
+| [[2013 FINA Swimming World Cup]]
+| [[Berlin]], [[Germany]]
+| 10 August 2013
+| style="text-align:center;" | '''[[List of European records in swimming|ER]]''', Former '''[[List of world records in swimming|WR]]'''
+| style="text-align:center;" | <ref name="OT10Aug13"/>
+|-
+| 1500&nbsp;m freestyle
+| style="text-align:center;" | '''15:19.71'''
+| 
+| 2014 Spanish Championships
+| [[Sabadell]], [[Spain]]
+| 12 December 2014
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]''', Former '''[[List of world records in swimming|WR]]'''
+| style="text-align:center;" | <ref name="ESPN12Dec14"/><ref name="TS16Nov19"/>
+|-
+| 200&nbsp;m breaststroke
+| style="text-align:center;" | '''2:21.65'''
+| 
+| [[2008 FINA World Swimming Championships (25 m)|2008 World Swimming Championships]]
+| [[Manchester]], [[England]]
+| 13 April 2008
+| style="text-align:center;" | 
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|-
+| 100&nbsp;m butterfly
+| style="text-align:center;" | '''58.24'''
+| '''†'''
+| [[2014 FINA World Swimming Championships (25 m)|2014 World Swimming Championships]]
+| [[Doha]], [[Qatar]]
+| 3 December 2014
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="OTFWSC3Dec14f200fly"/>
+|-
+| 200&nbsp;m butterfly
+| style="text-align:center;" | '''1:59.61'''
+| 
+| [[2014 FINA World Swimming Championships (25 m)|2014 World Swimming Championships]]
+| [[Doha]], [[Qatar]]
+| 3 December 2014
+| style="text-align:center;" | '''[[List of world records in swimming|WR]]'''
+| style="text-align:center;" | <ref name="OTFWSC3Dec14f200fly"/>
+|-
+| 200&nbsp;m individual medley
+| style="text-align:center;" | '''2:05.73'''
+| 
+| [[2010 FINA World Swimming Championships (25 m)|2010 World Swimming Championships]]
+| [[Dubai]], [[United Arab Emirates]]
+| 18 December 2010
+| style="text-align:center;" | '''[[List of Spanish records in swimming|NR]]'''
+| style="text-align:center;" | <ref name="FINAprofile"/>
+|-
+| 400&nbsp;m individual medley
+| style="text-align:center;" | '''4:18.94'''
+| 
+| [[2017 FINA Swimming World Cup]]
+| [[Eindhoven]], [[Netherlands]]
+| 12 August 2017
+| style="text-align:center;" | '''[[List of world records in swimming|WR]]'''
+| style="text-align:center;" | <ref name="OT12Aug17"/>
+|}
+{{Swimmingrecordlegend|WR=yes|ER=yes|nation=Spanish}}
+
+==Olympic Games==
+{| class="wikitable sortable"
+|-
+! Olympic Games
+! Location
+! Date
+! Start time
+! Event
+! Stage
+! Rank
+! Time
+! Age
+! Ref
+|-
+| rowspan=5|[[2008 Summer Olympics]]
+| rowspan=5|[[Beijing National Aquatics Center|National Aquatics Center]],<br />[[Beijing]], [[China]]
+| 9 August 2008
+| 19:48
+| [[Swimming at the 2008 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| heats
+| 14
+| 4:37.91
+| 17
+| <ref name="USAS2008r"/>
+|-
+| 11 August 2008
+| 19:41
+| [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| heats
+| 14
+| 2:12.75
+| 17
+| <ref name="USAS2008r"/>
+|-
+| 12 August 2008
+| 11:26
+| [[Swimming at the 2008 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| semifinals
+| 14
+| 2:13.45
+| 17
+| <ref name="USAS2008r"/>
+|-
+| 13 August 2008
+| 19:18
+| [[Swimming at the 2008 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+| heats
+| 24
+| 2:29.46
+| 17
+| <ref name="USAS2008r"/>
+|-
+| 15 August 2008
+| 20:32
+| [[Swimming at the 2008 Summer Olympics – Women's 4 × 100 metre medley relay|{{nowrap|4 × 100 m}} medley relay]] (breaststroke)
+| heats
+| 15
+| 4:06.40 (1:10.46)
+| 17
+| <ref name="USAS2008r"/>
+|-
+| rowspan=11|[[2012 Summer Olympics]]
+| rowspan=11|[[London Aquatics Centre|Aquatics Centre]],<br />[[London]], [[United Kingdom]]
+| 28 July 2012
+| 11:17
+| [[Swimming at the 2012 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| heats
+| 5
+| 4:34.70
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 28 July 2012
+| 20:11
+| [[Swimming at the 2012 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| final
+| 8
+| 4:35.62
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 29 July 2012
+| 11:23
+| [[Swimming at the 2012 Summer Olympics – Women's 400 metre freestyle|400 m freestyle]]
+| heats
+| 13
+| 4:08.23
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 30 July 2012
+| 10:41
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| heats
+| 6
+| 2:11.73
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 30 July 2012
+| 20:55
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| semifinals
+| 10
+| 2:11.54
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 31 July 2012
+| 10:23
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| heats
+| 9
+| 2:08.19
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 31 July 2012
+| 19:57
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| semifinals
+| 4
+| 2:06.62
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 1 August 2012
+| 11:26
+| [[Swimming at the 2012 Summer Olympics – Women's 4 × 200 metre freestyle relay|{{nowrap|4 × 200 m}} freestyle relay]] (fourth leg)
+| heats
+| 10
+| 7:54.59 (1:59.18)
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 1 August 2012
+| 20:12
+| [[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| final
+| 2
+| 2:05.25
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 2 August 2012
+| 10:19
+| [[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+| heats
+| 4
+| 8:25.26
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| 3 August 2012
+| 19:45
+| [[Swimming at the 2012 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+| final
+| 2
+| 8:18.76
+| 21
+| <ref name="OlympicsResultsBook10Aug2012"/>
+|-
+| rowspan=10|[[2016 Summer Olympics]]
+| rowspan=10|[[Olympic Aquatics Stadium]],<br />[[Rio de Janeiro]], [[Brazil]]
+| 6 August 2016
+| 14:32
+| [[Swimming at the 2016 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| heats
+| 2
+| 4:32.75
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 6 August 2016
+| 22:49
+| [[Swimming at the 2016 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| final
+| 3
+| 4:32.39
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 7 August 2016
+| 14:28
+| [[Swimming at the 2016 Summer Olympics – Women's 400 metre freestyle|400 m freestyle]]
+| heats
+| 15
+| 4:08.12
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 8 August 2016
+| 13:56
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| heats
+| 15
+| 2:12.58
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 8 August 2016
+| 23:36
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+| semifinals
+| 16
+| 2:13.33
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 9 August 2016
+| 13:28
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| heats
+| 1
+| 2:06.64
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 9 August 2016
+| 22:37
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| semifinals
+| 2
+| 2:06.06
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 10 August 2016
+| 22:54
+| [[Swimming at the 2016 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+| final
+| 1
+| 2:04.85
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 11 August 2016
+| 13:26
+| [[Swimming at the 2016 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+| heats
+| 8
+| 8:25.55
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| 12 August 2016
+| 22:20
+| [[Swimming at the 2016 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+| final
+| 4
+| 8:18.55
+| 25
+| <ref name="Mendes19Aug16"/>
+|-
+| rowspan=5|[[2020 Summer Olympics]]
+| rowspan=5|Olympic Aquatics Centre,<br />[[Tokyo]], Japan
+| 24 July 2021
+| 20:05
+| [[Swimming at the 2020 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| heats
+| 4
+| 4:35.88
+| 30
+| <ref name="IOC1Aug2021"/>
+|-
+| 25 July 2021
+| 11:12
+| [[Swimming at the 2020 Summer Olympics – Women's 400 metre individual medley|400 m individual medley]]
+| final
+| 4
+| 4:35.13
+| 30
+| <ref name="IOC1Aug2021"/>
+|-
+| 26 July 2021
+| 19:53
+| [[Swimming at the 2020 Summer Olympics – Women's 1500 metre freestyle|1500 m freestyle]]
+| heats
+| 15
+| 16:11.68
+| 30
+| <ref name="IOC1Aug2021"/>
+|-
+| 29 July 2021
+| 19:00
+| [[Swimming at the 2020 Summer Olympics – Women's 800 metre freestyle|800 m freestyle]]
+| heats
+| 14
+| 8:26.71
+| 30
+| <ref name="IOC1Aug2021"/>
+|-
+| 30 July 2021
+| 20:57
+| [[Swimming at the 2020 Summer Olympics – Women's 4 × 100 metre medley relay|{{nowrap|4 × 100 m}} medley relay]] (butterfly)
+| heats
+| 16
+| 4:04.14 (1:00.88)
+| 30
+| <ref name="IOC1Aug2021"/>
+|-
+|}
+
+Belmonte has swum in the heats of every event she has competed in at the Olympic Games including every relay she has been a member of.<ref name="USAS2008r"/><ref name="OlympicsResultsBook10Aug2012"/><ref name="Mendes19Aug16"/><ref name="IOC1Aug2021"/>
+
+Totals:<ref name="USAS2008r"/><ref name="OlympicsResultsBook10Aug2012"/><ref name="Mendes19Aug16"/><ref name="IOC1Aug2021"/>
+* Metres swam (stroke): 12,100 metres (total); 6,300 metres (individual freestyle); 4,000 metres (individual medley); 1,200 metres (individual butterfly); 200 metres (individual breaststroke); 200 metres (relay freestyle); 100 metres (relay breaststroke); 100 metres (relay butterfly).
+* Stages swam (count): total stages (31); heats (19); semifinals (5); final (7).
+* Distinct events (# of Olympic Games competed in for event): total of 9 distinct events (4 Olympic Games); 400-metre individual medley (4); 800-metre freestyle (3); 200-metre individual medley (3); 200-metre butterfly (2); 400-metre freestyle (2); 4x100-metre medley relay (2); 1500-metre freestyle (1); 200-metre breaststroke (1); 4x200-metre freestyle relay (1).
+
+==Swimming World Cup circuits==
+The following medals Belmonte has won at [[FINA Swimming World Cup|Swimming World Cup]] circuits.<ref name="FINAmedals">[https://www.fina.org/athletes/1001117/mireia-belmonte/medals "Mireia Belmonte: Medals"]. ''[[FINA]]''. Retrieved 9 July 2022.</ref>
+
+{| class="wikitable"
+|-
+! Edition !! Gold medals !! Silver medals !! Bronze medals !! Total 
+|-
+| [[2009 FINA Swimming World Cup|2009]] || style="text-align:center;" | 2 || style="text-align:center;" | 0 || style="text-align:center;" | 0 || style="text-align:center;" | 2 
+|-
+| [[2013 FINA Swimming World Cup|2013]] || style="text-align:center;" | 8 || style="text-align:center;" | 8 || style="text-align:center;" | 9 || style="text-align:center;" | 25 
+|-
+| [[2014 FINA Swimming World Cup|2014]] || style="text-align:center;" | 13 || style="text-align:center;" | 15 || style="text-align:center;" | 2 || style="text-align:center;" | 30 
+|-
+| [[2017 FINA Swimming World Cup|2017]] || style="text-align:center;" | 5 || style="text-align:center;" | 2 || style="text-align:center;" | 1 || style="text-align:center;" | 8 
+|-
+| [[2019 FINA Swimming World Cup|2019]] || style="text-align:center;" | 1 || style="text-align:center;" | 2 || style="text-align:center;" | 2 || style="text-align:center;" | 5 
+|-
+! Total !! style="text-align:center;" | 29 !! style="text-align:center;" | 27 !! style="text-align:center;" | 14 !! style="text-align:center;" | 70 
+|}
+
+==World records==
+===Short course metres (25 m pool)===
+{| class="wikitable sortable"
+|-
+! No.
+! Event
+! Time
+! Meet
+! Date
+! Location
+! Duration
+! {{Abbr|Ref|Reference(s)}}
+|-
+| 1
+| [[World record progression 400 metres individual medley|400&nbsp;m individual medley]]
+| align="center" | '''4:25.06'''
+| [[2008 European Short Course Swimming Championships|2008 European Swimming Championships]]
+| align="center" | 14 December 2008
+| [[Rijeka]], [[Croatia]]
+| align="center" | 11 months, 8 days
+| <ref name="OT14Dec08"/><ref name="OT22Nov09">[https://www.omegatiming.com/File/000109040036000000FFFFFFFFFFFF01.pdf "FINA/ARENA Swimming World Cup 2009: Women's 400m Individual Medley Final Results"]. ''[[Omega Timing]]''. 22 November 2009. Retrieved 23 June 2021.</ref>
+|-
+| 2
+| [[World record progression 800 metres freestyle|800&nbsp;m freestyle]]
+| align="center" | '''7:59.34'''
+| [[2013 FINA Swimming World Cup]]
+| align="center" | 10 August 2013
+| [[Berlin]], [[Germany]]
+| align="center" | 9 years, 2 months, 26 days
+| <ref name="OT10Aug13"/>
+|-
+| 3
+| [[World record progression 400 metres freestyle|400&nbsp;m freestyle]]
+| align="center" | '''3:54.52'''
+| [[2013 FINA Swimming World Cup]]
+| align="center" | 11 August 2013
+| [[Berlin]], [[Germany]]
+| align="center" | 5 years, 1 month, 23 days
+| <ref name="OT11Aug13"/><ref name="OT4Oct18">[https://www.omegatiming.com/File/Download?id=00011201080201EF04FFFFFFFFFFFF01 "FINA Swimming World Cup 2018: Women's 400m Freestyle Final Results"]. ''[[Omega Timing]]''. 4 October 2018. Retrieved 23 June 2021.</ref>
+|-
+| 4
+| [[World record progression 1500 metres freestyle|1500&nbsp;m freestyle]]
+| align="center" | '''15:26.95'''
+| Spanish Championships
+| align="center" | 29 November 2013
+| [[Castellón de la Plana]], [[Spain]]
+| align="center" | 1 year, 8 months, 11 days
+| <ref name="Martínez30Nov14"/><ref name="Stuff9Aug14">[http://www.stuff.co.nz/sport/10367780/Swimmer-Lauren-Boyle-sets-new-world-record "Swimmer Lauren Boyle sets new world record"]. ''[[Stuff (website)|Stuff]]''. 9 August 2014. Retrieved 23 June 2021.</ref>
+|-
+| 5
+| [[World record progression 200 metres butterfly|200&nbsp;m butterfly]]
+| align="center" | '''1:59.61'''
+| [[2014 FINA World Swimming Championships (25 m)|2014 World Swimming Championships]]
+| align="center" | 3 December 2014
+| [[Doha]], [[Qatar]]
+| align="center" | '''Current'''
+| <ref name="OTFWSC3Dec14f200fly"/>
+|-
+| 6
+| [[World record progression 400 metres individual medley|400&nbsp;m individual medley]] (2)
+| align="center" | '''4:19.86'''
+| [[2014 FINA World Swimming Championships (25 m)|2014 World Swimming Championships]]
+| align="center" | 3 December 2014
+| [[Doha]], [[Qatar]]
+| align="center" | 11 months, 29 days
+| <ref name="OTFWSC3Dec14f400IM"/><ref name="Parent2Dec15">Parent, Charlotte (2 December 2015). [https://www.swimmingworldmagazine.com/news/katinka-hosszus-world-record-highlights-sizzling-day-1-prelims-at-2015-euro-scs/ "Katinka Hosszu's World Record Highlights Sizzling Day 1 Prelims at 2015 Euro SCs"]. ''[[Swimming World]]''. Retrieved 23 June 2021.</ref>
+|-
+| 7
+| [[World record progression 1500 metres freestyle|1500&nbsp;m freestyle]] (2)
+| align="center" | '''15:19.71'''
+| Spanish Championships
+| align="center" | 12 December 2014
+| [[Sabadell]], [[Spain]]
+| align="center" | 4 years, 11 months, 4 days
+| <ref name="ESPN12Dec14"/><ref name="TS16Nov19">[https://www.titanium-sportservice.de/data/competition/2019-11-14_286/protocol/pk_wk131_0.pdf "Internationale Deutsche Kurzbahnmeisterschaften 2019: 1500m Freistil Frauen schnellster Zeitlauf"] (in German). ''Titanium sportservice''. 16 November 2019. Retrieved 23 June 2021.</ref>
+|-
+| 8
+| [[World record progression 400 metres medley|400&nbsp;m individual medley]] (3)
+| align="center" | '''4:18.94'''
+| [[2017 FINA Swimming World Cup]]
+| align="center" | 12 August 2017
+| [[Eindhoven]], [[Netherlands]]
+| align="center" | '''Current'''
+| <ref name="OT12Aug17"/>
+|}
+
+==Awards and honours==
+* In 2013, Belmonte received the Premio Reina Sofía, also known as Best Spanish Sportswoman, award of the annual set of [[Premios Nacionales del Deporte]] awarded to Spanish athletes.<ref name="EP23Oct14">[https://elpais.com/deportes/2014/10/23/actualidad/1414076484_423538.html "Gómez Noya y Mireia Belmonte, Premios Nacionales del Deporte"] (in Spanish). ''[[El País]]''. 23 October 2014. Retrieved 22 June 2021.</ref><ref name="RTVE4Dec14">[https://www.rtve.es/deportes/20141204/mireia-belmonte-gomez-noya-reciben-premios-como-mejores-deportistas-espanoles-2013/1061300.shtml "Premios Nacionales del Deporte: Mireia Belmonte y Gómez Noya, premiados como Mejores Deportistas españoles de 2013"] (in Spanish). ''[[RTVE]]''. 4 December 2014. Retrieved 22 June 2021.</ref> The award ceremony was held in [[Madrid]] at the [[Royal Palace of El Pardo]].<ref name="RTVE4Dec14"/>
+* In 2017, the award for "Best Spanish Sportswoman in History" from newspaper ''[[Diario AS]]'' went to Belmonte for her accomplishments in the sport of swimming. The award was part of the newspaper's 50th Anniversary Awards gala that were held in celebration of the newspaper's 50th anniversary.<ref name="Martínez2Dec17">Martínez, Alberto (2 December 2017). [https://en.as.com/en/2017/12/02/other_sports/1512231112_590997.html "Mireia Belmonte: "I don't feel less popular for being a woman""]. ''[[Diario AS]]''. Retrieved 22 June 2021.</ref>
+* On 1 January 2020, [[SwimSwam]] revealed they ranked Belmonte as #11 in the Top 20 Swimmers internationally for the 2010 to 2019 decade.<ref name="SS1Jan20">[https://swimswam.com/swimswams-top-20-swimmers-of-the-2010s/ "SwimSwam's Top 20 Swimmers of the 2010s"]. ''[[SwimSwam]]''. 1 January 2020. Retrieved 26 June 2021.</ref>
+* For the 2021 year, [[SwimSwam]] ranked Belmonte as #73 on their list of Top 100 female swimmers for the year.<ref name="Ortegon10Feb2021">Ortegon, Karl (10 February 2021). [https://swimswam.com/swimswams-top-100-for-2021-womens-75-51/ "SwimSwam's Top 100 For 2021: Women's #75 — #51"]. ''[[SwimSwam]]''. Retrieved 11 October 2021.</ref>
+
+==See also==
+* [[List of Olympic medalists in swimming (women)]]
+* [[List of Spanish records in swimming]]
+* [[List of European records in swimming]]
+*[[List of World Aquatics Championships medalists in swimming (women)]]
+* [[World record progression 200 metres butterfly]]
+* [[World record progression 400 metres freestyle]]
+* [[World record progression 400 metres individual medley]]
+* [[World record progression 800 metres freestyle]]
+* [[World record progression 1500 metres freestyle]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Mireia Belmonte García}}
+* {{Official website}}
+* {{World Aquatics}}
+* {{Olympedia}}
+* {{Olympics.com|name=Mireia Belmonte|oc_archive=20210427141214}}
+* {{Comité Olímpico Español|id1=1341*&DEPORTISTA=465*|id2=80332981c25c4a5fc1256d5700616d0d|name=Mireia Belmonte García}}
+
+{{s-start}}
+{{s-ach|rec}}
+{{succession box
+| before = {{flagicon|CHN}} [[Liu Zige]]
+| title = [[World record progression 200 metres butterfly|Women's 200 metres butterfly<br />world record holder (short course)]]
+| years = 3 December 2014–12 December 2024
+| after = {{flagicon|CAN}} [[Summer McIntosh]]
+}}
+{{succession box
+| before = <br /> {{flagicon|USA}} [[Julia Smit]]<br />{{flagicon|HUN}} [[Katinka Hosszú]]<br />{{flagicon|HUN}} [[Katinka Hosszú]]
+| title = [[World record progression 400 metres individual medley|Women's 400 metres individual medley<br />world record holder (short course)]]
+| years = 14 December 2008 – 22 November 2009<br />3 December 2014 – 2 December 2015<br>12 August 2017 – 14 December 2024
+| after = <br />{{flagicon|RSA}} [[Katheryn Meaklim]]<br />{{flagicon|HUN}} [[Katinka Hosszú]]<br />{{flagicon|CAN}} [[Summer McIntosh]]
+}}
+{{succession box
+| before = {{flagicon|FRA}} [[Camille Muffat]]
+| title = [[World record progression 400 metres freestyle|Women's 400 metre freestyle<br />world record holder (short course)]]
+| years = 11 August 2013 – 4 October 2018
+| after = {{flagicon|CHN}} [[Wang Jianjiahe]]
+}}
+{{succession box
+| before = {{flagicon|FRA}} [[Camille Muffat]]
+| title = [[World record progression 800 metres freestyle|Women's 800 metre freestyle<br />world record holder (short course)]]
+| years = 10 August 2013 – 5 November 2022
+| after = {{flagicon|USA}} [[Katie Ledecky]]
+}}
+{{succession box
+| before = <br />{{flagicon|DEN}} [[Lotte Friis]]<br />{{flagicon|NZL}} [[Lauren Boyle]]
+| title = [[World record progression 1500 metres freestyle|Women's 1500 metre freestyle<br />world record holder (short course)]]
+| years = 29 November 2013 – 9 August 2014<br />12 December 2014 – 16 November 2019
+| after = <br />{{flagicon|NZL}} [[Lauren Boyle]]<br />{{flagicon|GER}} [[Sarah Köhler]]
+| rec
+}}
+{{s-ach|aw}}
+{{succession box
+| before = [[Marina Alabau]]
+| after = [[Carolina Marín]]
+| title = [[Premios Nacionales del Deporte|Spanish Sportswoman of the Year]]
+| years = 2013
+}}
+{{s-sports|oly}}
+{{succession box
+| before = [[Rafael Nadal]]
+| title = [[List of flag bearers for Spain at the Olympics|Flagbearer]] for [[Spain]]
+| years = (with [[Saúl Craviotto ]])<br>[[2020 Summer Olympics|Tokyo 2020]]
+| after = ''Incumbent''
+}}
+{{s-end}}
+
+{{Navboxes|list=
+{{Footer Olympic Champions 200&nbsp;m Butterfly Women}}
+{{Footer World LC Champions 200m Butterfly Women}}
+{{Footer World SC Champions 400m Freestyle Women}}
+{{Footer World SC Champions 800m Freestyle Women}}
+{{Footer World SC Champions 200m Butterfly Women}}
+{{Footer World SC Champions 200m Medley Women}}
+{{Footer World SC Champions 400m Medley Women}}
+{{Footer European Champions 1500m Freestyle Women}}
+{{Footer European Champions 200m Butterfly Women}}
+{{Footer European Champions 200m Individual Medley Women}}
+{{Footer European SC Champions 400m Freestyle Women}}
+{{Footer European SC Champions 800m Freestyle Women}}
+{{Footer European SC Champions 200m Butterfly Women}}
+{{Footer European SC Champions 200m Medley Women}}
+{{Footer European SC Champions 400m Medley Women}}
+{{Footer Spain Swimming 2008 Summer Olympics}}
+}}
+
+{{DEFAULTSORT:Belmonte, Mireia}}
+[[Category:1990 births]]
+[[Category:Living people]]
+[[Category:Swimmers from Catalonia]]
+[[Category:Spanish female breaststroke swimmers]]
+[[Category:Swimmers at the 2008 Summer Olympics]]
+[[Category:Swimmers at the 2012 Summer Olympics]]
+[[Category:Swimmers at the 2016 Summer Olympics]]
+[[Category:Swimmers at the 2020 Summer Olympics]]
+[[Category:World record holders in swimming]]
+[[Category:Olympic swimmers for Spain]]
+[[Category:Olympic gold medalists for Spain]]
+[[Category:Olympic silver medalists for Spain]]
+[[Category:Olympic bronze medalists for Spain]]
+[[Category:Olympic bronze medalists in swimming]]
+[[Category:Spanish female freestyle swimmers]]
+[[Category:Spanish female medley swimmers]]
+[[Category:Spanish female butterfly swimmers]]
+[[Category:Medalists at the FINA World Swimming Championships (25 m)]]
+[[Category:European Aquatics Championships medalists in swimming]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Medalists at the 2016 Summer Olympics]]
+[[Category:World Aquatics Championships medalists in swimming]]
+[[Category:Olympic gold medalists in swimming]]
+[[Category:Olympic silver medalists in swimming]]
+[[Category:Mediterranean Games gold medalists for Spain]]
+[[Category:Mediterranean Games silver medalists for Spain]]
+[[Category:Swimmers at the 2009 Mediterranean Games]]
+[[Category:Swimmers at the 2018 Mediterranean Games]]
+[[Category:Sportspeople from Badalona]]
+[[Category:Mediterranean Games medalists in swimming]]
+[[Category:Saint Anthony Catholic University of Murcia alumni]]
+[[Category:21st-century Spanish sportswomen]]

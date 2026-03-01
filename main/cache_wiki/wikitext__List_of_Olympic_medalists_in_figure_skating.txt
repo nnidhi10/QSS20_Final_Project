@@ -1,0 +1,2259 @@
+{{short description|None}}
+{{Figure skating records and statistics}}
+{{Use mdy dates|date=February 2025}}
+[[Figure skating at the Olympic Games|Figure skating has been part of the Olympic Games]] since [[figure skating at the 1908 Summer Olympics|1908]] and has been contested at 26 Olympic Games. There have been 301 medals (101 gold, 100 silver, and 100 bronze) awarded to figure skaters representing 30 [[National Olympic Committee]]s. Six events have been contested, but one, men's [[special figures]], was discontinued after a single Olympics. 
+
+Canadian ice dancers [[Tessa Virtue]] and [[Scott Moir]] are the only figure skaters to win five Olympic medals (three gold medals and two silver medals). Swedish figure skater [[Gillis Grafström]], Russian figure skater [[Evgeni Plushenko]], and Japanese figure skaters [[Yuma Kagiyama]] and [[Kaori Sakamoto]] have each won four medals. The only skaters with three consecutive titles are Grafström in men's singles, [[Sonja Henie]] for Norway in women's singles, and [[Irina Rodnina]] from the Soviet Union in pair skating. Americans [[Nathan Chen]] and [[Alysa Liu]], along with Canadians Tessa Virtue and Scott Moir, are the only skaters to win two gold medals in the same Olympics. {{clear}}
+
+==Medalists==
+{{multiple image
+| align             = left
+| direction         = horizontal
+| total_width       = 600
+| footer            = ''From left to right:'' The reigning Olympic figure skating champions: [[Mikhail Shaidorov]] of Kazakhstan ([[single skating|men's singles]]); [[Alysa Liu]] of the United States ([[single skating|women's singles]]); and [[Riku Miura]] and [[Ryuichi Kihara]] of Japan ([[pair skating]])
+| footer_align      = center
+| image1            = Mikhail Shaidorov during the short program at the 2024-25 Grand Prix Final.jpg
+| image2            = Alysa Liu – Women’s free – 2026 Nationals 06 (cropped).jpg
+| image3            = Riku Miura & Ryuichi Kihara 2024 Worlds Short Program 6.jpg
+| image4            = 
+| alt1              = Mikhail Shaidorov at the 2024 Grand Prix Final
+| alt2              = Alysa Liu at the 2025 Skate America
+| alt3              = Riku Miura and Ryuichi Kihara at the 2024 World Championships
+| alt4              = 
+}}
+{{clear}}
+
+===Men's singles===
+{| class="wikitable unsortable" style="text-align:left; width:85%"
+|+Men's event medalists
+! scope="col" | Year
+! scope="col" style="width:20%"| Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1908 Summer Olympics|1908]]
+| {{flagicon|GBR}} [[London]]
+| {{flagicon|SWE}} [[Ulrich Salchow]]
+| {{flagicon|SWE}} [[Richard Johansson]]
+| {{flagicon|SWE}} [[Per Thorén]]
+| rowspan="3" | <ref name="OLY-History">{{cite magazine |date=January 1928 |title=Skating in the Olympic Games |url=https://magazinearchive.blob.core.windows.net/resources/issue/192801.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |issue=15 |pages=30–32 |archive-date=January 20, 2025 |archive-url=https://web.archive.org/web/20250120095410/https://magazinearchive.blob.core.windows.net/resources/issue/192801.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | 1912
+| {{flagicon|SWE}} [[Stockholm]]
+| colspan="3" align="center" bgcolor="e5e4e2" | ''Figure skating not contested at these Olympics''
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1920 Summer Olympics|1920]]
+| {{flagicon|BEL}} [[Antwerp]]
+| {{flagicon|SWE}} [[Gillis Grafström]]
+| {{flagicon|NOR}} [[Andreas Krogh]]
+| {{flagicon|NOR}} [[Martin Stixrud]]
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1924 Winter Olympics|1924]]
+| {{flagicon|FRA}} [[Chamonix]]
+| {{flagicon|SWE}} [[Gillis Grafström]]
+| {{flagicon|AUT}} [[Willy Böckl]]
+| {{flagicon|SUI}} [[Georges Gautschi]]
+| <ref name="OLY1924">{{cite magazine |last=Niles |first=Nathaniel |author-link=Nathaniel Niles (sportsman) |date=April 1924 |title=Olympics 1924 |url=https://magazinearchive.blob.core.windows.net/resources/issue/192404.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |volume=3 |pages=3–18 |archive-date=November 3, 2024 |archive-url=https://web.archive.org/web/20241103231807/https://magazinearchive.blob.core.windows.net/resources/issue/192404.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1928 Winter Olympics|1928]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{flagicon|SWE}} [[Gillis Grafström]]
+| {{flagicon|AUT}} [[Willy Böckl]]
+| {{flagicon|BEL}} [[Robert van Zeebroeck]]
+| <ref name="OLY1928">{{cite magazine |last=Liberman |first=Joel B. |date=April 1928 |title=A Survey of the 1928 Olympic Games |url=https://magazinearchive.blob.core.windows.net/resources/issue/192804.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issue=16 |pages=5–27 |issn=0037-6132 |archive-date=January 20, 2025 |archive-url=https://web.archive.org/web/20250120034132/https://magazinearchive.blob.core.windows.net/resources/issue/192804.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1932 Winter Olympics|1932]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{flagicon|AUT}} [[Karl Schäfer (figure skater)|Karl Schäfer]]
+| {{flagicon|SWE}} [[Gillis Grafström]]
+| {{flagicon|CAN|1957}} [[Montgomery Wilson]]
+| <ref name="OLY1932">{{cite magazine |last=Liberman |first=Joel B. |date=March 1932 |title=Figure Skating at the 1932 Olympic Games |url=https://magazinearchive.blob.core.windows.net/resources/issue/193203.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |issue=32 |pages=5–32 |archive-date=June 30, 2025 |archive-url=https://web.archive.org/web/20250630043728/https://magazinearchive.blob.core.windows.net/resources/issue/193203.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1936 Winter Olympics|1936]]
+| {{flagicon|GER|}} [[Garmisch-Partenkirchen]]
+| {{flagicon|AUT}} [[Karl Schäfer (figure skater)|Karl Schäfer]]
+| {{flagicon|GER|}} [[Ernst Baier]]
+| {{flagicon|AUT}} [[Felix Kaspar]]
+| <ref name=OLY1936>{{cite magazine |date=March 1936 |title=Olympic Results |url=https://magazinearchive.blob.core.windows.net/resources/issue/193603.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |archive-date=February 24, 2025 |archive-url=https://web.archive.org/web/20250224204354/https://magazinearchive.blob.core.windows.net/resources/issue/193603.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1948 Winter Olympics|1948]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{flagicon|USA}} [[Dick Button]]
+| {{flagicon|SUI}} [[Hans Gerschwiler]]
+| {{flagicon|AUT}} [[Edi Rada]]
+| <ref name="OLY1948">{{cite magazine |last=Weld Blanchard |first=Theresa |author-link=Theresa Blanchard |title=The Olympics: 1948 |url=https://magazinearchive.blob.core.windows.net/resources/issue/194804.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |date=April 1948|issue=6|volume=25|pages=7–13}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1952 Winter Olympics|1952]]
+| {{flagicon|NOR}} [[Oslo]]
+| {{flagicon|USA}} [[Dick Button]]
+| {{flagicon|AUT}} [[Helmut Seibt]]
+| {{flagicon|USA}} [[James Grogan]]
+| <ref name="OLY1952">{{cite magazine |last=Weld Blanchard |first=Theresa |author-link=Theresa Blanchard |date=April 1952 |title=The 1952 Olympic Championships |url=https://magazinearchive.blob.core.windows.net/resources/issue/195204.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |issue=6 |volume=29 |pages=17–24 |archive-date=January 26, 2025 |archive-url=https://web.archive.org/web/20250126074315/https://magazinearchive.blob.core.windows.net/resources/issue/195204.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1956 Winter Olympics|1956]]
+| {{flagicon|ITA}} [[Cortina d'Ampezzo]]
+| {{flagicon|USA}} [[Hayes Alan Jenkins]]
+| {{flagicon|USA}} [[Ronald Robertson (figure skater)|Ronnie Robertson]]
+| {{flagicon|USA}} [[David Jenkins (figure skater)|David Jenkins]]
+| <ref name="OLY1956">{{cite magazine |title=The Olympic Championships |url=https://magazinearchive.blob.core.windows.net/resources/issue/195604.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132  |last=Weld Blanchard |first=Theresa |date=April 1956 |issue=6 |volume=33 |pages=23–30 |author-link=Theresa Blanchard}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1960 Winter Olympics|1960]]
+| {{flagicon|USA}} [[Olympic Valley, California|Squaw Valley]]
+| {{flagicon|USA}} [[David Jenkins (figure skater)|David Jenkins]]
+| {{flagicon|TCH}} [[Karol Divín]]
+| {{flagicon|CAN|1957}} [[Donald Jackson (figure skater)|Donald Jackson]]
+| <ref name="OLY1960">{{cite magazine |date=April 1960 |title=The Olympics: 1960 |url=https://magazinearchive.blob.core.windows.net/resources/issue/196004.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |last=E. Ray |first=Edith |issue=4 |volume=37 |pages=10–15; 38–40 |archive-date=April 23, 2025 |archive-url=https://web.archive.org/web/20250423221428/https://magazinearchive.blob.core.windows.net/resources/issue/196004.pdf }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1964 Winter Olympics|1964]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{flagicon|EUA}} [[Manfred Schnelldorfer]]
+| {{flagicon|FRA}} [[Alain Calmat]]
+| {{flagicon|USA}} [[Scott Allen (figure skater)|Scott Allen]]
+| <ref name="OLY1964">{{cite magazine |title=Olympic Drama |url=https://magazinearchive.blob.core.windows.net/resources/issue/196404.pdf |magazine=[[Skating (magazine)|Skating]] |access-date=February 13, 2026 |archive-date= |archive-url= |url-status=live |date=April 1964 |last=Noel |first=John |issn=0037-6132 |issue=4 |volume=41 |pages=4–11; 32–34}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1968 Winter Olympics|1968]]
+| {{flagicon|FRA}} [[Grenoble]]
+| {{flagicon|AUT}} [[Wolfgang Schwarz]]
+| {{flagicon|USA}} [[Timothy Lyle Wood|Timothy Wood]]
+| {{flagicon|FRA}} [[Patrick Péra]]
+|<ref>{{Cite news |date=February 17, 1968 |title=Tim Wood of U.S. second in skating |url=https://www.newspapers.com/article/the-cincinnati-post-tim-wood-of-us-sec/191228350/ |url-status=live |access-date=February 13, 2026 |work=[[The Cincinnati Post]] |pages=13 |via=[[Newspapers.com]]}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1972 Winter Olympics|1972]]
+| {{flagicon|JPN}} [[Sapporo]]
+| {{flagicon|TCH}} [[Ondrej Nepela]]
+| {{flagicon|URS}} [[Sergei Chetverukhin]]
+| {{flagicon|FRA}} [[Patrick Péra]]
+| <ref name="OLY1972">{{cite magazine |date=April 1972 |title=XI Olympic Winter Games |url=https://magazinearchive.blob.core.windows.net/resources/issue/197204.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |last=Minami |first=Kikuko |issue=4 |volume=49 |pages=12–29}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1976 Winter Olympics|1976]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{flagicon|GBR}} [[John Curry]]
+| {{flagicon|URS}} [[Vladimir Kovalev]]
+| {{flagicon|CAN}} [[Toller Cranston]]
+| <ref name="OLY1976">{{cite magazine |date=April 1976 |title=Tyrolean Olympics: Good show for young U.S. team |url=https://magazinearchive.blob.core.windows.net/resources/issue/197604.pdf |url-status=live |access-date=February 13, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132 |last=Bass|first=Howard|issue=4|volume=53|pages=21–37}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1980 Winter Olympics|1980]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{flagicon|GBR}} [[Robin Cousins]]
+| {{flagicon|GDR}} [[Jan Hoffmann]]
+| {{flagicon|USA}} [[Charles Tickner]]
+| <ref name="OLY1980">{{Cite magazine |last=Bass |first=Howard |date=April 1980 |title=And another view of the Lake Placid Olympics |url=https://magazinearchive.blob.core.windows.net/resources/issue/198004.pdf |url-status=live |access-date=February 14, 2026 |magazine=[[Skating (magazine) |Skating]] |issue=4 |volume=60 |pages=21–23 |issn=0037-6132}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1984 Winter Olympics|1984]]
+| {{flagicon|YUG}} [[Sarajevo]]
+| {{flagicon|USA}} [[Scott Hamilton (figure skater)|Scott Hamilton]]
+| {{flagicon|CAN}} [[Brian Orser]]
+| {{flagicon|TCH}} [[Jozef Sabovčík]]
+| <ref name="OLY1984">{{cite magazine |date=April 1984 |title=Sarajevo '84: A gold, two silvers – and a mixed bag of memories |url=https://magazinearchive.blob.core.windows.net/resources/issue/198404.pdf |url-status=live |access-date=February 14, 2026 |magazine=[[Skating (magazine)|Skating]] |issn=0037-6132|issue=4|volume=61|pages=24–41}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1988 Winter Olympics|1988]]
+| {{flagicon|CAN}} [[Calgary]]
+| {{flagicon|USA}} [[Brian Boitano]]
+| {{flagicon|CAN}} [[Brian Orser]]
+| {{flagicon|URS}} [[Viktor Petrenko]]
+| <ref name="OLY1988">{{cite magazine |title=XV Olympic Winter Games: Showdown in Calgary |url=https://magazinearchive.blob.core.windows.net/resources/issue/198804.pdf |url-status=live |access-date=February 13, 2026 |website=[[Skating (magazine)|Skating]] |issn=0037-6132|date=April 1988|issue=4|volume=65|pages=24–39}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1992 Winter Olympics|1992]]
+| {{flagicon|FRA}} [[Albertville]]
+| {{flagicon|EUN}} [[Viktor Petrenko]]
+| {{flagicon|USA}} [[Paul Wylie]]
+| {{flagicon|TCH}} [[Petr Barna]]
+| <ref name="OLY1992">{{cite magazine |title=XVI Olympic Winter Games |url=https://magazinearchive.blob.core.windows.net/resources/issue/199204.pdf |url-status=live |access-date=February 13, 2026 |website=[[Skating (magazine)|Skating]] |date=April 1992 |issue=4 |volume=69 |page=50 |issn=0037-6132}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1994 Winter Olympics|1994]]
+| {{flagicon|NOR}} [[Lillehammer]]
+| {{flagicon|RUS}} [[Alexei Urmanov]]
+| {{flagicon|CAN}} [[Elvis Stojko]]
+| {{flagicon|FRA}} [[Philippe Candeloro]]
+| <ref name=OLY1994>{{cite web |title=1994 Winter Olympic Games |url=http://www.eiskunstlauf-ecke.de/archiv/1993-94/eoly94.shtml |url-status=dead |archive-url=https://web.archive.org/web/20070625093841/http://www.eiskunstlauf-ecke.de/archiv/1993-94/eoly94.shtml |archive-date=June 25, 2007 |access-date=June 25, 2007 |website=The Figure Skating Corner}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1998 Winter Olympics|1998]]
+| {{flagicon|JPN}} [[Nagano (city)|Nagano]]
+| {{flagicon|RUS}} [[Ilia Kulik]]
+| {{flagicon|CAN}} [[Elvis Stojko]]
+| {{flagicon|FRA}} [[Philippe Candeloro]]
+| <ref name="OLY1998">{{cite web |title=1998 XVIII. Winter Olympic Games |url=http://www.eiskunstlauf-ecke.de/archiv/1997-98/eoly98.shtml |url-status=dead |archive-url=https://web.archive.org/web/20081009091710/http://www.eiskunstlauf-ecke.de/archiv/1997-98/eoly98.shtml |archive-date=October 9, 2008 |access-date=October 9, 2008 |website=The Figure Skating Corner}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2002 Winter Olympics|2002]]
+| {{flagicon|USA}} [[Salt Lake City]]
+| {{flagicon|RUS}} [[Alexei Yagudin]]
+| {{flagicon|RUS}} [[Evgeni Plushenko]]
+| {{flagicon|USA}} [[Timothy Goebel]]
+| <ref name=OLY2002>{{cite web |title=2002 Olympic Games |url=https://tracings.net/2002oly.html |url-status=live |access-date=February 13, 2026 |website=Tracings |archive-date=December 17, 2025 |archive-url=https://web.archive.org/web/20251217103431/http://www.tracings.net/2002oly.html}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2006 Winter Olympics|2006]]
+| {{flagicon|ITA}} [[Turin]]
+| {{flagicon|RUS}} [[Evgeni Plushenko]]
+| {{flagicon|SUI}} [[Stéphane Lambiel]]
+| {{flagicon|CAN}} [[Jeffrey Buttle]]
+| <ref name=OLY2006>{{cite web |title=2006 Olympic Winter Games |url=https://skatingscores.com/0506/oly/ |url-status=live |access-date=February 13, 2026 |website=Skating Scores |archive-date=February 4, 2024 |archive-url=https://web.archive.org/web/20240204063700/https://www.skatingscores.com/0506/oly/}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2010 Winter Olympics|2010]]
+| {{flagicon|CAN}} [[Vancouver]]
+| {{flagicon|USA}} [[Evan Lysacek]]
+| {{flagicon|RUS}} [[Evgeni Plushenko]]
+| {{flagicon|JPN}} [[Daisuke Takahashi]]
+| <ref name=OLY2010>{{cite web |title=2010 Olympic Winter Games |url=https://skatingscores.com/0910/oly/ |url-status=live |access-date=February 13, 2026 |website=Skating Scores |archive-date=September 11, 2025 |archive-url=https://web.archive.org/web/20250911150421/https://skatingscores.com/0910/oly/}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2014 Winter Olympics|2014]]
+| {{flagicon|RUS}} [[Sochi]]
+| {{flagicon|JPN}} [[Yuzuru Hanyu]]
+| {{flagicon|CAN}} [[Patrick Chan]]
+| {{flagicon|KAZ}} [[Denis Ten]]
+| <ref name=OLY2014>{{cite web |title=2014 Olympic Winter Games |url=https://skatingscores.com/1314/oly/ |url-status=live |access-date=February 13, 2026 |website=Skating Scores |archive-date=September 3, 2025 |archive-url=https://web.archive.org/web/20250903114052/https://skatingscores.com/1314/oly/}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2018 Winter Olympics|2018]]
+| {{flagicon|KOR}} [[Pyeongchang County|Pyeongchang]]
+| {{flagicon|JPN}} [[Yuzuru Hanyu]]
+| {{flagicon|JPN}} [[Shoma Uno]]
+| {{flagicon|ESP}} [[Javier Fernández (figure skater)|Javier Fernández]]
+| <ref name=OLY2018>{{cite web |title=2018 Olympic Winter Games |url=https://skatingscores.com/1718/oly/ |access-date=February 13, 2026 |website=Skating Scores |archive-date=September 3, 2025 |archive-url=https://web.archive.org/web/20250903054734/https://skatingscores.com/1718/oly/ |url-status=live}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2022 Winter Olympics|2022]]
+| {{flagicon|CHN}} [[Beijing]]
+| {{flagicon|USA}} [[Nathan Chen]]
+| {{flagicon|JPN}} [[Yuma Kagiyama]]
+| {{flagicon|JPN}} [[Shoma Uno]]
+| <ref name=OLY2022>{{cite web |title=2022 Olympic Winter Games |url=https://skatingscores.com/2122/oly/ |url-status=live |access-date=February 13, 2026 |website=Skating Scores |archive-date=February 14, 2023 |archive-url=https://web.archive.org/web/20230214181254/https://skatingscores.com/2122/oly/}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2026 Winter Olympics|2026]]
+| {{flagicon|ITA}} [[Milan]]
+| {{flagicon|KAZ}} [[Mikhail Shaidorov]]
+| {{flagicon|JPN}} [[Yuma Kagiyama]]
+| {{flagicon|JPN}} [[Shun Sato (figure skater)|Shun Sato]]
+| <ref name=OLY2026>{{cite web |title=2026 Olympic Winter Games |url=https://skatingscores.com/2526/oly/ |url-status=live |website=Skating Scores}}</ref>
+|}
+
+=== Men's special figures ===
+Men's [[special figures]] was only included in one Olympic Games before being discontinued. The sole winner of the event was Russian [[Nikolai Panin]], who gave his country its first ever Olympic gold medal.<ref>{{cite journal |last=Windhausen |first=John D. |year=1976 |title=Russia's First Olympic Victor |journal=Journal of Sport History |publisher=North American Society for Sport History |volume=3 |issue=1 |pages=35–44 |url=http://www.la84foundation.org/SportsLibrary/JSH/JSH1976/JSH0301/jsh0301d.pdf|access-date=July 15, 2009 |archive-date=August 7, 2010 |archive-url=https://web.archive.org/web/20100807185857/http://www.la84foundation.org/SportsLibrary/JSH/JSH1976/JSH0301/jsh0301d.pdf |url-status=dead}}</ref>
+
+{| class="wikitable unsortable" style="text-align:left" width="85%"
+|+Men's special figures event medalists
+! scope="col" | Year
+! scope="col" style="width:20%"| Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" | [[Figure skating at the 1908 Summer Olympics|1908]]
+| {{flagicon|GBR}} [[London]]
+| {{flagicon|RU1}} [[Nikolai Panin]]
+| {{flagicon|GBR}} [[Arthur Cumming (skater)|Arthur Cumming]]
+| {{flagicon|GBR}} [[Geoffrey Hall-Say]]
+| <ref name="OLY-History" />
+|}
+
+===Women's singles===
+{| class="wikitable unsortable" style="text-align:left" width="85%"
+|+Women's event medalists
+! scope="col" | Year
+! scope="col" style="width:20%"| Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1908 Summer Olympics|1908]]
+| {{flagicon|GBR}} [[London]]
+| {{flagicon|GBR}} [[Madge Syers]]
+| {{flagicon|German Empire}} [[Elsa Rendschmidt]]
+| {{flagicon|GBR}} [[Dorothy Greenhough-Smith]]
+| rowspan="3" | <ref name="OLY-History" />
+|-
+! scope="row" style="text-align:left" | 1912
+| {{flagicon|SWE}} [[Stockholm]]
+| colspan="3" align="center" bgcolor="e5e4e2" | ''Figure skating not contested at these Olympics''
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1920 Summer Olympics|1920]]
+| {{flagicon|BEL}} [[Antwerp]]
+| {{flagicon|SWE}} [[Magda Julin]]
+| {{flagicon|SWE}} [[Svea Norén]]
+| {{flagicon|USA}} [[Theresa Weld]]
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1924 Winter Olympics|1924]]
+| {{flagicon|FRA}} [[Chamonix]]
+| {{flagicon|AUT}} [[Herma Szabo]]
+| {{flagicon|USA}} [[Beatrix Loughran]]
+| {{flagicon|GBR}} [[Ethel Muckelt]]
+| <ref name="OLY1924" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1928 Winter Olympics|1928]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{flagicon|NOR}} [[Sonja Henie]]
+| {{flagicon|AUT}} [[Fritzi Burger]]
+| {{flagicon|USA}} [[Beatrix Loughran]]
+| <ref name="OLY1928" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1932 Winter Olympics|1932]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{flagicon|NOR}} [[Sonja Henie]]
+| {{flagicon|AUT}} [[Fritzi Burger]]
+| {{flagicon|USA}} [[Maribel Vinson]]
+| <ref name="OLY1932" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1936 Winter Olympics|1936]]
+| {{flagicon|GER|}} [[Garmisch-Partenkirchen]]
+| {{flagicon|NOR}} [[Sonja Henie]]
+| {{flagicon|GBR}} [[Cecilia Colledge]]
+| {{flagicon|SWE}} [[Vivi-Anne Hultén]]
+|<ref name="OLY1936" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1948 Winter Olympics|1948]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{flagicon|CAN}} [[Barbara Ann Scott]]
+| {{flagicon|AUT}} [[Eva Pawlik]]
+| {{flagicon|GBR}} [[Jeannette Altwegg]]
+|<ref name="OLY1948" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1952 Winter Olympics|1952]]
+| {{flagicon|NOR}} [[Oslo]]
+| {{flagicon|GBR}} [[Jeannette Altwegg]]
+| {{flagicon|USA}} [[Tenley Albright]]
+| {{flagicon|FRA}} [[Jacqueline du Bief]]
+|<ref name="OLY1952" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1956 Winter Olympics|1956]]
+| {{flagicon|ITA}} [[Cortina d'Ampezzo]]
+| {{flagicon|USA}} [[Tenley Albright]]
+| {{flagicon|USA}} [[Carol Heiss]]
+| {{flagicon|AUT}} [[Ingrid Wendl]]
+|<ref name="OLY1956" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1960 Winter Olympics|1960]]
+| {{flagicon|USA}} [[Olympic Valley, California|Squaw Valley]]
+| {{flagicon|USA}} [[Carol Heiss]]
+| {{flagicon|NED}} [[Sjoukje Dijkstra]]
+| {{flagicon|USA}} [[Barbara Roles]]
+|<ref name="OLY1960" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1964 Winter Olympics|1964]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{flagicon|NED}} [[Sjoukje Dijkstra]]
+| {{flagicon|AUT}} [[Regine Heitzer]]
+| {{flagicon|CAN|1957}} [[Petra Burka]]
+|<ref name="OLY1964" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1968 Winter Olympics|1968]]
+| {{flagicon|FRA}} [[Grenoble]]
+| {{flagicon|USA}} [[Peggy Fleming]]
+| {{flagicon|GDR}} [[Gabriele Seyfert]]
+| {{flagicon|TCH}} [[Hana Mašková]]
+|<ref>{{Cite news |date=February 11, 1968 |title=Peggy Fleming wins first US gold medal |url=https://www.newspapers.com/article/the-sacramento-bee-peggy-fleming-wins-fi/191227995/ |url-status=live |access-date=February 13, 2026 |work=[[The Sacramento Bee]] |pages=F8 |via=[[Newspapers.com]]}}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1972 Winter Olympics|1972]]
+| {{flagicon|JPN}} [[Sapporo]]
+| {{flagicon|AUT}} [[Beatrix Schuba]]
+| {{flagicon|CAN}} [[Karen Magnussen]]
+| {{flagicon|USA}} [[Janet Lynn]]
+|<ref name="OLY1972" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1976 Winter Olympics|1976]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{flagicon|USA}} [[Dorothy Hamill]]
+| {{flagicon|NED}} [[Dianne de Leeuw]]
+| {{flagicon|GDR}} [[Christine Errath]]
+|<ref name="OLY1976" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1980 Winter Olympics|1980]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{flagicon|GDR}} [[Anett Pötzsch]]
+| {{flagicon|USA}} [[Linda Fratianne]]
+| {{flagicon|FRG}} [[Dagmar Lurz]]
+|<ref name="OLY1980" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1984 Winter Olympics|1984]]
+| {{flagicon|YUG}} [[Sarajevo]]
+| {{flagicon|GDR}} [[Katarina Witt]]
+| {{flagicon|USA}} [[Rosalynn Sumners]]
+| {{flagicon|URS}} [[Kira Ivanova]]
+|<ref name="OLY1984" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1988 Winter Olympics|1988]]
+| {{flagicon|CAN}} [[Calgary]]
+| {{flagicon|GDR}} [[Katarina Witt]]
+| {{flagicon|CAN}} [[Elizabeth Manley]]
+| {{flagicon|USA}} [[Debi Thomas]]
+| <ref name="OLY1988" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1992 Winter Olympics|1992]]
+| {{flagicon|FRA}} [[Albertville]]
+| {{flagicon|USA}} [[Kristi Yamaguchi]]
+| {{flagicon|JPN}} [[Midori Ito]]
+| {{flagicon|USA}} [[Nancy Kerrigan]]
+| <ref name="OLY1992" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1994 Winter Olympics|1994]]
+| {{flagicon|NOR}} [[Lillehammer]]
+| {{flagicon|UKR}} [[Oksana Baiul]]
+| {{flagicon|USA}} [[Nancy Kerrigan]]
+| {{flagicon|CHN}} [[Chen Lu (figure skater)|Chen Lu]]
+| <ref name="OLY1994" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1998 Winter Olympics|1998]]
+| {{flagicon|JPN}} [[Nagano (city)|Nagano]]
+| {{flagicon|USA}} [[Tara Lipinski]]
+| {{flagicon|USA}} [[Michelle Kwan]]
+| {{flagicon|CHN}} [[Chen Lu (figure skater)|Chen Lu]]
+| <ref name="OLY1998" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2002 Winter Olympics|2002]]
+| {{flagicon|USA}} [[Salt Lake City]]
+| {{flagicon|USA}} [[Sarah Hughes]]
+| {{flagicon|RUS}} [[Irina Slutskaya]]
+| {{flagicon|USA}} [[Michelle Kwan]]
+| <ref name="OLY2002" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2006 Winter Olympics|2006]]
+| {{flagicon|ITA}} [[Turin]]
+| {{flagicon|JPN}} [[Shizuka Arakawa]]
+| {{flagicon|USA}} [[Sasha Cohen]]
+| {{flagicon|RUS}} [[Irina Slutskaya]]
+| <ref name="OLY2006" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2010 Winter Olympics|2010]]
+| {{flagicon|CAN}} [[Vancouver]]
+| {{flagicon|KOR}} [[Yuna Kim]]
+| {{flagicon|JPN}} [[Mao Asada]]
+| {{flagicon|CAN}} [[Joannie Rochette]]
+| <ref name="OLY2010" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2014 Winter Olympics|2014]]
+| {{flagicon|RUS}} [[Sochi]]
+| {{flagicon|RUS}} [[Adelina Sotnikova]]
+| {{flagicon|KOR}} [[Yuna Kim]]
+| {{flagicon|ITA}} [[Carolina Kostner]]
+| <ref name="OLY2014" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2018 Winter Olympics|2018]]
+| {{flagicon|KOR}} [[Pyeongchang County|Pyeongchang]]
+| {{flagicon|IOC}} [[Alina Zagitova]]
+| {{flagicon|IOC}} [[Evgenia Medvedeva]]
+| {{flagicon|CAN}} [[Kaetlyn Osmond]]
+| <ref name="OLY2018" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2022 Winter Olympics|2022]]
+| {{flagicon|CHN}} [[Beijing]]
+| {{flagicon|Russia|roc-olympics}} [[Anna Shcherbakova]]
+| {{flagicon|Russia|roc-olympics}} [[Alexandra Trusova]]
+| {{flagicon|JPN}} [[Kaori Sakamoto]]
+| <ref name="OLY2022" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2026 Winter Olympics|2026]]
+| {{flagicon|ITA}} [[Milan]]
+| {{flagicon|USA}} [[Alysa Liu]]
+| {{flagicon|JPN}} [[Kaori Sakamoto]]
+| {{flagicon|JPN}} [[Ami Nakai]]
+| <ref name="OLY2026" />
+|}
+
+=== Pairs ===
+At the 1964 Olympics, [[Marika Kilius]] and [[Hans-Jürgen Bäumler]] of Germany, [[Debbi Wilkes]] and [[Guy Revell]] of Canada, and [[Vivian Joseph]] and [[Ronald Joseph (figure skater)|Ronald Joseph]] of the United States placed second, third, and fourth, respectively. Two years later, Kilius and Bäumler's results were invalidated because the pair had signed a professional contract before the Olympics. The silver medals were re-allocated to Wilkes and Revell and the bronze medals to Joseph and Joseph. However, in 1987, the German team was re-awarded their silver medals after an appeal. In November 2014, the [[International Olympic Committee]] clarified that both the German and Canadian teams were the silver medalists, and the U.S. team were the bronze medalists.<ref>{{cite web | url = http://web.icenetwork.com/news/2014/11/25/102439578/ | title = Fifty years later, Joseph siblings find redemption | work = IceNetwork.com | date = November 25, 2014 | access-date = November 28, 2014 | archive-url = https://web.archive.org/web/20141129185254/http://web.icenetwork.com/news/2014/11/25/102439578 | archive-date = November 29, 2014 | url-status = dead | df = mdy-all }}</ref><ref>{{cite news |last=Hersh |first=Philip |date=November 25, 2014 |title=A Half-Century Later, Joseph Siblings Recognized as Olympic Medal-Winners |url=http://www.chicagotribune.com/sports/international/ct-figure-skating-spt-1126-20141125-column.html |newspaper=[[Chicago Tribune]] |access-date=November 28, 2014 |archive-date=February 26, 2018 |archive-url=https://web.archive.org/web/20180226134818/http://www.chicagotribune.com/sports/international/ct-figure-skating-spt-1126-20141125-column.html |url-status=live }}</ref>
+
+At the [[Figure skating at the 2002 Winter Olympics – Pair skating|2002 Winter Olympics]], a controversy involving allegations of vote swapping and buying of votes of the French judge culminated in the judge's scores being discarded and [[Jamie Salé]] and [[David Pelletier]] of Canada, who had originally finished second, being awarded gold medals, with [[Elena Berezhnaya]] and [[Anton Sikharulidze]] of Russia, who originally finished first, being allowed to keep theirs.<ref name="TMH02162002">{{cite news |last=Robertson|first=Linda|date=February 16, 2002|title=Extra championship medal granted to settle controversy in pairs event|url=https://www.newspapers.com/article/the-miami-herald-extra-championships-med/189662517/|access-date=January 23, 2026|work=[[The Miami Herald]]|pages=[https://www.newspapers.com/article/the-miami-herald-extra-championships-med/189662517/ 1A], [https://www.newspapers.com/article/the-miami-herald-second-gold-medal-grant/189662563/ 14A]|via=[[Newspapers.com]]}}</ref> An arrangement had allegedly been concocted whereby the French judge, [[Marie-Reine Le Gougne]], was to award the gold medal to the Russian pairs team, while the Russian ice dance judge was to award the gold medal to the French ice dance team.<ref name="Guardian050120022">{{cite news |last=Mackay |first=Duncan |date=May 1, 2002 |title=French officials banned over gold scandal |url=https://www.theguardian.com/sport/2002/may/01/olympicgames.winterolympics2002 |url-status=live |archive-url=https://web.archive.org/web/20140216011053/https://www.theguardian.com/sport/2002/may/01/olympicgames.winterolympics2002 |archive-date=February 16, 2014 |access-date=January 23, 2026 |work=[[The Guardian]]}}</ref> In April 2002, the [[International Skating Union]] (ISU) announced that Marie-Reine Le Gougne and [[Didier Gailhaguet]], president of the [[French Federation of Ice Sports]], had both been suspended for three years for their roles in the scandal and also prohibited from any official involvement with the [[2006 Winter Olympics]].<ref>{{cite web |title=Communication No. 1181 |url=http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-137120-154336-25640-0-file,00.pdf |url-status=dead |archive-url=https://web.archive.org/web/20090325050602/http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-137120-154336-25640-0-file,00.pdf |archive-date=March 25, 2009 |access-date=November 4, 2007}}</ref><ref name="Guardian050120022" />
+
+{| class="wikitable unsortable" style="text-align:left" width="85%"
+|+Pairs' event medalists
+! scope="col" | Year
+! scope="col" | Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1908 Summer Olympics|1908]]
+| {{flagicon|GBR}} [[London]]
+| {{FS skater|German Empire|Anna Hübler|Heinrich Burger}}
+| {{FS skater|GBR|Phyllis Johnson|link2=James H. Johnson (figure skater)|James H. Johnson}}
+| {{FS skater|GBR|Madge Syers|Edgar Syers}}
+| rowspan="3" | <ref name="OLY-History" />
+|-
+! scope="row" style="text-align:left" | 1912
+| {{flagicon|SWE}} [[Stockholm]]
+| colspan="3" align="center" bgcolor="e5e4e2" | ''Figure skating not contested at these Olympics''
+|-
+! [[Figure skating at the 1920 Summer Olympics|1920]]
+| {{flagicon|BEL}} [[Antwerp]]
+| {{FS skater|FIN|Ludowika Jakobsson|Walter Jakobsson}}
+| {{FS skater|NOR|Alexia Bryn|Yngvar Bryn}}
+| {{FS skater|GBR|Phyllis Johnson|link2=Basil Williams (figure skater)|Basil Williams}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1924 Winter Olympics|1924]]
+| {{flagicon|FRA}} [[Chamonix]]
+| {{FS skater|AUT|Helene Engelmann|Alfred Berger}}
+| {{FS skater|FIN|Ludowika Jakobsson|Walter Jakobsson}}
+| {{FS skater|FRA|link=Andrée Brunet|Andrée Joly|link2=Pierre Brunet (figure skater)|Pierre Brunet}}
+| <ref name="OLY1924" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1928 Winter Olympics|1928]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{FS skater|FRA|link=Andrée Brunet|Andrée Joly|link2=Pierre Brunet (figure skater)|Pierre Brunet}}
+| {{FS skater|AUT|Lilly Scholz|link2=Otto Kaiser (figure skater)|Otto Kaiser}}
+| {{FS skater|AUT|Melitta Brunner|Ludwig Wrede}}
+| <ref name="OLY1928" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1932 Winter Olympics|1932]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{FS skater|FRA|Andrée Brunet|link2=Pierre Brunet (figure skater)|Pierre Brunet}}
+| {{FS skater|USA|Beatrix Loughran|Sherwin Badger}}
+| {{FS skater|HUN|altflag=1946|Emília Rotter|László Szollás}}
+| <ref name="OLY1932" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1936 Winter Olympics|1936]]
+| {{flagicon|GER|}} [[Garmisch-Partenkirchen]]
+| {{FS skater|GER|Maxi Herber|Ernst Baier}}
+| {{FS skater|AUT|Ilse Pausin|Erik Pausin}}
+| {{FS skater|HUN|altflag=1946|Emília Rotter|László Szollás}}
+|<ref name="OLY1936" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1948 Winter Olympics|1948]]
+| {{flagicon|SUI}} [[St. Moritz]]
+| {{FS skater|BEL|Micheline Lannoy|Pierre Baugniet}}
+| {{FS skater|HUN|altflag=1949|Andrea Kékesy|Ede Király}}
+| {{FS skater|CAN|altflag=1957|Suzanne Morrow|Wallace Diestelmeyer}}
+|<ref name="OLY1948" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1952 Winter Olympics|1952]]
+| {{flagicon|NOR}} [[Oslo]]
+| {{FS skater|GER|link=Ria Baran|Ria Falk|Paul Falk}}
+| {{FS skater|USA|Karol Kennedy|link2=Peter Kennedy (figure skater)|Peter Kennedy}}
+| {{FS skater|HUN|altflag=1949|link=Marianna Nagy (figure skater)|Marianna Nagy|link2=László Nagy (figure skater)|László Nagy}}
+|<ref name="OLY1952" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1956 Winter Olympics|1956]]
+| {{flagicon|ITA}} [[Cortina d'Ampezzo]]
+| {{FS skater|AUT|Sissy Schwarz|Kurt Oppelt}}
+| {{FS skater|CAN|altflag=1957|Frances Dafoe|Norris Bowden}}
+| {{FS skater|HUN|altflag=1956|link=Marianna Nagy (figure skater)|Marianna Nagy|link2=László Nagy (figure skater)|László Nagy}}
+|<ref name="OLY1956" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1960 Winter Olympics|1960]]
+| {{flagicon|USA}} [[Olympic Valley, California|Squaw Valley]]
+| {{FS skater|CAN|altflag=1957|Barbara Wagner|link2=Robert Paul (figure skater)|Robert Paul}}
+| {{FS skater|GER|altflag=EUA|Marika Kilius|Hans-Jürgen Bäumler}}
+| {{FS skater|USA|Nancy Ludington|Ronald Ludington}}
+|<ref name="OLY1960" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1964 Winter Olympics|1964]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{FS skater|URS|Ludmila Belousova|Oleg Protopopov}}
+| {{FS skater|GER|altflag=EUA|Marika Kilius|Hans-Jürgen Bäumler}}<br>{{FS skater|CAN|altflag=1957|Debbi Wilkes|Guy Revell}}
+| {{FS skater|USA|Vivian Joseph|link2=Ronald Joseph (figure skater)|Ronald Joseph}}
+| <ref>{{cite web |title=Innsbruck 1964 Figure Skating Pairs Mixed Results |url=https://olympics.com/en/olympic-games/innsbruck-1964/results/figure-skating/pairs-mixed |website=[[Olympics.com]] |access-date=June 29, 2024 |archive-date=October 9, 2024 |archive-url=https://web.archive.org/web/20241009081121/https://olympics.com/en/olympic-games/innsbruck-1964/results/figure-skating/pairs-mixed |url-status=live }}</ref>
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1968 Winter Olympics|1968]]
+| {{flagicon|FRA}} [[Grenoble]]
+| {{FS skater|URS|Ludmila Belousova|Oleg Protopopov}}
+| {{FS skater|URS|Tatyana Zhuk|Aleksandr Gorelik}}
+| {{FS skater|FRG|Margot Glockshuber|Wolfgang Danne}}
+|<ref>{{Cite web |title=Grenoble 1968 Figure Skating Pairs Mixed Results |url=https://olympics.com/en/olympic-games/grenoble-1968/results/figure-skating/pairs-mixed |website=Olympics.com |access-date=June 29, 2024 |archive-date=October 9, 2024 |archive-url=https://web.archive.org/web/20241009081349/https://olympics.com/en/olympic-games/grenoble-1968/results/figure-skating/pairs-mixed |url-status=live }}</ref>
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1972 Winter Olympics|1972]]
+| {{flagicon|JPN}} [[Sapporo]]
+| {{FS skater|URS|Irina Rodnina|Alexei Ulanov}}
+| {{FS skater|URS|Lyudmila Smirnova|Andrei Suraikin}}
+| {{FS skater|GDR|Manuela Groß|Uwe Kagelmann}}
+|<ref name="OLY1972" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1976 Winter Olympics|1976]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{FS skater|URS|Irina Rodnina|link2=Alexander Zaitsev (pair skater)|Alexander Zaitsev}}
+| {{FS skater|GDR|Romy Kermer|Rolf Österreich}}
+| {{FS skater|GDR|Manuela Groß|Uwe Kagelmann}}
+|<ref name="OLY1976" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1980 Winter Olympics|1980]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{FS skater|URS|Irina Rodnina|link2=Alexander Zaitsev (pair skater)|Alexander Zaitsev}}
+| {{FS skater|URS|Marina Cherkasova|Sergei Shakhrai}}
+| {{FS skater|GDR|Manuela Mager|Uwe Bewersdorf}}
+|<ref name="OLY1980" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1984 Winter Olympics|1984]]
+| {{flagicon|YUG}} [[Sarajevo]]
+| {{FS skater|URS|Elena Valova|link2=Oleg Vasiliev (figure skater)|Oleg Vasiliev}}
+| {{FS skater|USA|Kitty Carruthers|link2=Peter Carruthers (figure skater)|Peter Carruthers}}
+| {{FS skater|URS|Larisa Selezneva|link2=Oleg Makarov (figure skater)|Oleg Makarov}}
+|<ref name="OLY1984" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1988 Winter Olympics|1988]]
+| {{flagicon|CAN}} [[Calgary]]
+| {{FS skater|URS|Ekaterina Gordeeva|Sergei Grinkov}}
+| {{FS skater|URS|Elena Valova|link2=Oleg Vasiliev (figure skater)|Oleg Vasiliev}}
+| {{FS skater|USA|Jill Watson|Peter Oppegard}}
+| <ref name="OLY1988" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1992 Winter Olympics|1992]]
+| {{flagicon|FRA}} [[Albertville]]
+| {{FS skater|EUN|Natalia Mishkutenok|Artur Dmitriev}}
+| {{FS skater|EUN|Elena Bechke|Denis Petrov}}
+| {{FS skater|CAN|Isabelle Brasseur|Lloyd Eisler}}
+| <ref name="OLY1992" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1994 Winter Olympics|1994]]
+| {{flagicon|NOR}} [[Lillehammer]]
+| {{FS skater|RUS|Ekaterina Gordeeva|Sergei Grinkov}}
+| {{FS skater|RUS|Natalia Mishkutenok|Artur Dmitriev}}
+| {{FS skater|CAN|Isabelle Brasseur|Lloyd Eisler}}
+| <ref name="OLY1994" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 1998 Winter Olympics|1998]]
+| {{flagicon|JPN}} [[Nagano (city)|Nagano]]
+| {{FS skater|RUS|Oksana Kazakova|Artur Dmitriev}}
+| {{FS skater|RUS|Elena Berezhnaya|Anton Sikharulidze}}
+| {{FS skater|GER|Mandy Wötzel|Ingo Steuer}}
+| <ref name="OLY1998" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 2002 Winter Olympics|2002]]
+| {{flagicon|USA}} [[Salt Lake City]]
+| {{FS skater|RUS|Elena Berezhnaya|Anton Sikharulidze}}<br>{{FS skater|CAN|Jamie Salé|David Pelletier}}
+| align="center" bgcolor="e5e4e2" | ''No silver medals awarded''
+| {{FS skater|CHN|Shen Xue|Zhao Hongbo}}
+| <ref name="OLY2002" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 2006 Winter Olympics|2006]]
+| {{flagicon|ITA}} [[Turin]]
+| {{FS skater|RUS|Tatiana Totmianina|Maxim Marinin}}
+| {{FS skater|CHN|Zhang Dan|link2=Zhang Hao (figure skater)|Zhang Hao}}
+| {{FS skater|CHN|Shen Xue|Zhao Hongbo}}
+| <ref name="OLY2006" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 2010 Winter Olympics|2010]]
+| {{flagicon|CAN}} [[Vancouver]]
+| {{FS skater|CHN|Shen Xue|Zhao Hongbo}}
+| {{FS skater|CHN|Pang Qing|Tong Jian}}
+| {{FS skater|GER|Aljona Savchenko|Robin Szolkowy}}
+| <ref name="OLY2010" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 2014 Winter Olympics|2014]]
+| {{flagicon|RUS}} [[Sochi]]
+| {{FS skater|RUS|Tatiana Volosozhar|Maxim Trankov}}
+| {{FS skater|RUS|Ksenia Stolbova|Fedor Klimov}}
+| {{FS skater|GER|Aljona Savchenko|Robin Szolkowy}}
+| <ref name="OLY2014" />
+|- 
+! scope="row" style="text-align:left" | [[Figure skating at the 2018 Winter Olympics|2018]]
+| {{flagicon|KOR}} [[Pyeongchang County|Pyeongchang]]
+| {{FS skater|GER|Aljona Savchenko|Bruno Massot}}
+| {{FS skater|CHN|Sui Wenjing|Han Cong}}
+| {{FS skater|CAN|Meagan Duhamel|Eric Radford}}
+| <ref name="OLY2018" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2022 Winter Olympics|2022]]
+| {{flagicon|CHN}} [[Beijing]]
+| {{FS skater|CHN|Sui Wenjing|Han Cong}}
+| {{FS skater|RUS|altflag=roc-olympics|Evgenia Tarasova|link2=Vladimir Morozov (figure skater)|Vladimir Morozov}}
+| {{FS skater|RUS|altflag=roc-olympics|Anastasia Mishina|Aleksandr Galliamov}}
+| <ref name="OLY2022" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2026 Winter Olympics|2026]]
+| {{flagicon|ITA}} [[Milan]]
+| {{FS skater|JAP|Riku Miura|Ryuichi Kihara}}
+| {{FS skater|GEO|Anastasiia Metelkina|Luka Berulava}}
+| {{FS skater|GER|Minerva Fabienne Hase|Nikita Volodin}}
+| <ref name="OLY2026" />
+|}
+
+=== Ice dance ===
+{| class="wikitable unsortable" style="text-align:left" width="85%"
+|+Ice dance event medalists
+! scope="col" | Year
+! scope="col" | Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1976 Winter Olympics|1976]]
+| {{flagicon|AUT}} [[Innsbruck]]
+| {{FS skater|URS|Lyudmila Pakhomova|link2=Aleksandr Gorshkov (figure skater)|Aleksandr Gorshkov}}
+| {{FS skater|URS|Irina Moiseyeva|Andrei Minenkov}}
+| {{FS skater|USA|Colleen O'Connor|James Millns}}
+|<ref name="OLY1976" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1980 Winter Olympics|1980]]
+| {{flagicon|USA}} [[Lake Placid, New York|Lake Placid]]
+| {{FS skater|URS|Natalia Linichuk|Gennadi Karponossov}}
+| {{FS skater|HUN|Krisztina Regőczy|András Sallay}}
+| {{FS skater|URS|Irina Moiseyeva|Andrei Minenkov}}
+|<ref name="OLY1980" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1984 Winter Olympics|1984]]
+| {{flagicon|YUG}} [[Sarajevo]]
+| {{FS skater|GBR|Jayne Torvill|Christopher Dean}}
+| {{FS skater|URS|Natalia Bestemianova|Andrei Bukin}}
+| {{FS skater|URS|Marina Klimova|Sergei Ponomarenko}}
+|<ref name="OLY1984" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1988 Winter Olympics|1988]]
+| {{flagicon|CAN}} [[Calgary]]
+| {{FS skater|URS|Natalia Bestemianova|Andrei Bukin}}
+| {{FS skater|URS|Marina Klimova|Sergei Ponomarenko}}
+| {{FS skater|CAN|Tracy Wilson|link2=Robert McCall (figure skater)|Robert McCall}}
+| <ref name="OLY1988" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1992 Winter Olympics|1992]]
+| {{flagicon|FRA}} [[Albertville]]
+| {{FS skater|EUN|Marina Klimova|Sergei Ponomarenko}}
+| {{FS skater|FRA|Isabelle Duchesnay|Paul Duchesnay}}
+| {{FS skater|EUN|Maya Usova|Alexander Zhulin}}
+| <ref name="OLY1992" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1994 Winter Olympics|1994]]
+| {{flagicon|NOR}} [[Lillehammer]]
+| {{FS skater|RUS|Oksana Grishuk|Evgeny Platov}}
+| {{FS skater|RUS|Maya Usova|Alexander Zhulin}}
+| {{FS skater|GBR|Jayne Torvill|Christopher Dean}}
+| <ref name="OLY1994" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 1998 Winter Olympics|1998]]
+| {{flagicon|JPN}} [[Nagano (city)|Nagano]]
+| {{FS skater|RUS|Oksana Grishuk|Evgeny Platov}}
+| {{FS skater|RUS|Anjelika Krylova|Oleg Ovsyannikov}}
+| {{FS skater|FRA|Marina Anissina|Gwendal Peizerat}}
+| <ref name="OLY1998" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2002 Winter Olympics|2002]]
+| {{flagicon|USA}} [[Salt Lake City]]
+| {{FS skater|FRA|Marina Anissina|Gwendal Peizerat}}
+| {{FS skater|RUS|Irina Lobacheva|Ilia Averbukh}}
+| {{FS skater|ITA|Barbara Fusar-Poli|Maurizio Margaglio}}
+| <ref name="OLY2002" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2006 Winter Olympics|2006]]
+| {{flagicon|ITA}} [[Turin]]
+| {{FS skater|RUS|Tatiana Navka|Roman Kostomarov}}
+| {{FS skater|USA|Tanith Belbin|Benjamin Agosto}}
+| {{FS skater|UKR|Elena Grushina|Ruslan Honcharov}}
+| <ref name="OLY2006" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2010 Winter Olympics|2010]]
+| {{flagicon|CAN}} [[Vancouver]]
+| {{FS skater|CAN|Tessa Virtue|Scott Moir}}
+| {{FS skater|USA|Meryl Davis|link2=Charlie White (figure skater)|Charlie White}}
+| {{FS skater|RUS|Oksana Domnina|Maxim Shabalin}}
+| <ref name="OLY2010" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2014 Winter Olympics|2014]]
+| {{flagicon|RUS}} [[Sochi]]
+| {{FS skater|USA|Meryl Davis|link2=Charlie White (figure skater)|Charlie White}}
+| {{FS skater|CAN|Tessa Virtue|Scott Moir}}
+| {{FS skater|RUS|Elena Ilinykh|Nikita Katsalapov}}
+| <ref name="OLY2014" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2018 Winter Olympics|2018]]
+| {{flagicon|KOR}} [[Pyeongchang County|Pyeongchang]]
+| {{FS skater|CAN|Tessa Virtue|Scott Moir}}
+| {{FS skater|FRA|Gabriella Papadakis|Guillaume Cizeron}}
+| {{FS skater|USA|Maia Shibutani|Alex Shibutani}}
+| <ref name="OLY2018" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2022 Winter Olympics|2022]]
+| {{flagicon|CHN}} [[Beijing]]
+| {{FS skater|FRA|Gabriella Papadakis|Guillaume Cizeron}}
+| {{FS skater|RUS|altflag=roc-olympics|Victoria Sinitsina|Nikita Katsalapov}}
+| {{FS skater|USA|Madison Hubbell|Zachary Donohue}}
+| <ref name="OLY2022" />
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2026 Winter Olympics|2026]]
+| {{flagicon|ITA}} [[Milan]]
+| {{FS skater|FRA|Laurence Fournier Beaudry|Guillaume Cizeron}}
+| {{FS skater|USA|Madison Chock|Evan Bates}}
+| {{FS skater|CAN|Piper Gilles|Paul Poirier}}
+| <ref name="OLY2026" />
+|}
+
+=== Team event ===
+The team event is the newest Olympic figure skating event, first contested in the [[Figure skating at the 2014 Winter Olympics|2014 Games]]. It combines the four [[Figure skating#Olympic disciplines|Olympic figure skating disciplines]] (men's singles, women's singles, pairs, and ice dance) into a single event; gold is awarded to the team that earns the most placement points.
+
+The results of the 2022 team event were fraught with controversy. The medal ceremony originally scheduled for February 8 was delayed over what International Olympic Committee (IOC) spokesperson Mark Adams described as a situation that required "legal consultation" with the International Skating Union.<ref>{{Cite web |date=February 9, 2022 |title=Olympic Medals in Team Figure Skating Delayed by Legal Issue |url=https://apnews.com/article/winter-olympics-figure-skating-sports-international-olympic-committee-court-of-arbitration-for-sport-c49077705737be8a7d41a2847c2f355b |access-date=February 9, 2022 |website=[[The Associated Press|AP News]] |language=en |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209061349/https://apnews.com/article/winter-olympics-figure-skating-sports-international-olympic-committee-court-of-arbitration-for-sport-c49077705737be8a7d41a2847c2f355b |url-status=live }}</ref> Several media outlets reported that the issue was over a positive test from December 2021 that showed the presence of [[trimetazidine]] in a sample given by [[Kamila Valieva]] from the [[Russian Olympic Committee athletes at the 2022 Winter Olympics|Russian Olympic Committee]] (ROC),<ref>{{Cite news |last1=Tétrault-Farber |first1=Gabrielle |last2=Axon |first2=Iain |last3=Grohmann |first3=Karolos |date=February 9, 2022 |title=Figure skating-Russian Media Say Teen Star Tested Positive for Banned Drug |url=https://www.reuters.com/lifestyle/sports/figure-skating-medals-ceremony-delayed-over-legal-consultation-2022-02-09/ |access-date=February 9, 2022 |work=[[Reuters]] |language=en |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209062431/https://www.reuters.com/lifestyle/sports/figure-skating-medals-ceremony-delayed-over-legal-consultation-2022-02-09/ |url-status=live }}</ref><ref>{{cite web |last=Brennan |first=Christine |author-link=Christine Brennan |date=February 9, 2022 |title=Positive Drug Test by Russian Kamila Valieva Has Forced a Delay of Olympic Team Medals Ceremony |url=https://www.usatoday.com/story/sports/olympics/beijing/2022/02/09/olympic-figure-skating-team-medals-delayed-russian-drug-test/6717526001/ |website=[[USA Today]] |access-date=May 27, 2023 |archive-date=February 9, 2022 |archive-url=https://web.archive.org/web/20220209113551/https://www.usatoday.com/story/sports/olympics/beijing/2022/02/09/olympic-figure-skating-team-medals-delayed-russian-drug-test/6717526001/ |url-status=live }}</ref> which was officially confirmed on February 11. The [[Russian Anti-Doping Agency]] (RUSADA), under suspension from the [[World Anti-Doping Agency]] (WADA) since 2015<ref>{{cite news |last=Faloyin |first=Dipo |date=November 19, 2015 |title=WADA Suspends Russia's Anti-Doping Agency |url=http://europe.newsweek.com/wada-suspends-russias-anti-doping-agency-non-compliance-396283?rm=eu |access-date=February 14, 2022 |work=[[Newsweek]] |archive-date=July 26, 2021 |archive-url=https://web.archive.org/web/20210726114519/http://europe.newsweek.com/wada-suspends-russias-anti-doping-agency-non-compliance-396283?rm=eu |url-status=live }}</ref> for its years of serving solely to hide the positive doping results of Russian athletes,<ref>{{cite news |last=Ford |first=Bonnie D. |date=July 18, 2016 |title=Takeaways from McLaren Report? Confusion, Corruption, Cynicism |url=https://www.espn.com/olympics/story/_/id/17100024/takeaways-mclaren-report-confusion-corruption-cynicism |access-date=February 13, 2022 |work=[[ESPN]] |archive-date=July 24, 2016 |archive-url=https://web.archive.org/web/20160724232925/http://espn.go.com/olympics/story/_/id/17100024/takeaways-mclaren-report-confusion-corruption-cynicism |url-status=live }}</ref><ref>{{Cite news |last=Hendricks |first=Maggie |date=July 18, 2016 |title=The Damning McLaren Report on Russian Olympic Doping, Explained |url=http://ftw.usatoday.com/2016/07/the-damning-mclaren-report-on-russian-olympic-doping-explained |access-date=February 13, 2022 |work=[[USA Today]] |archive-date=February 14, 2022 |archive-url=https://web.archive.org/web/20220214044648/https://ftw.usatoday.com/2016/07/the-damning-mclaren-report-on-russian-olympic-doping-explained |url-status=live }}</ref> cleared Valieva on February 9, a day after the December test results were released and two months after the test. The IOC, WADA, and the ISU appealed the RUSADA's decision.<ref>{{Cite web |title=Russian Anti-Doping Agency Allowed Kamila Valieva to Compete in Olympics Despite Failed Drug Test |url=https://www.cnn.com/2022/02/10/sport/kamila-valieva-roc-drugs-test-olympics-spt-intl-hnk/index.html |access-date=February 15, 2022 |website=Cnn.com |date=February 11, 2022 |archive-date=February 14, 2022 |archive-url=https://web.archive.org/web/20220214230148/https://www.cnn.com/2022/02/10/sport/kamila-valieva-roc-drugs-test-olympics-spt-intl-hnk/index.html |url-status=live }}</ref>
+
+On February 14, the [[Court of Arbitration for Sport]] (CAS) ruled that Valieva be allowed to compete in the [[Figure skating at the 2022 Winter Olympics – Women's singles|individual women's event]], on grounds that preventing her from competing "would cause her irreparable harm in the circumstances",<ref name=":1">{{Cite web |last=Ellingworth|first=James|last2=Dunbar|first2=Graham|date=14 February 2022|title=Russian skater can compete, but medal ceremony won’t be held|url=https://apnews.com/article/winter-olympics-kamila-valieva-doping-decision-0dd063b5092681697525b69cd0c7212d|url-status=live|archive-url=https://web.archive.org/web/20250211090611/https://apnews.com/article/winter-olympics-kamila-valieva-doping-decision-0dd063b5092681697525b69cd0c7212d|archive-date=11 February 2025|access-date=30 December 2025|website=[[AP News]]|language=}}</ref> though her gold medal in the team event was still under consideration. The favorable decision from the Court was made in part due to her age, as minor athletes were subject to different rules than adult athletes.<ref name=":1" /><ref>{{cite web |date=14 February 2022 |title=Olympic Winter Games Beijing 2022 (8) – The CAS Ad Hoc Division declines to impose a provisional suspension on the Russian figure skater Kamila Valieva |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Ad_Hoc_Media_Release_Beijing_8.pdf |url-status=dead |archive-url=https://web.archive.org/web/20220214151257/https://www.tas-cas.org/fileadmin/user_upload/CAS_Ad_Hoc_Media_Release_Beijing_8.pdf |archive-date=14 February 2022 |access-date=15 February 2022 |website= |publisher=[[Court of Arbitration for Sport]]}}</ref> The IOC announced that the medal ceremony would not take place until the investigation was over and there was a concrete decision of whether to strip Russia of their medals.<ref>{{cite web |date=14 February 2022 |title=IOC EB decides no medal ceremonies following CAS decision on the case of ROC skater |url=https://olympics.com/ioc/news/ioc-eb-decides-no-medal-ceremonies-following-cas-decision-on-the-case-of-roc-skater |url-status=live |archive-url=https://web.archive.org/web/20220214101407/https://olympics.com/ioc/news/ioc-eb-decides-no-medal-ceremonies-following-cas-decision-on-the-case-of-roc-skater |archive-date=14 February 2022 |access-date=30 December 2025 |website=[[International Olympic Committee]]}}</ref>
+
+On January 29, 2024, the CAS disqualified Valieva for four years retroactive to 25 December 2021 for the positive test for trimetazidine, which they ruled constituted an anti-doping rule violation.<ref name="Valieva12">{{cite web |date=29 January 2024 |title=Kamila Valieva is found to have committed an anti-doping rule violation and sanctioned with a four-year period of ineligibility commencing on 25 December 2021 |url=https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9451_9455_9456_Decision.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240130172848/https://www.tas-cas.org/fileadmin/user_upload/CAS_Media_Release_9451_9455_9456_Decision.pdf |archive-date=30 January 2024 |access-date=29 January 2024 |website= |publisher=[[Court of Arbitration for Sport]]}}</ref> On 30 January 2024, the ISU, among other actions, subtracted Valieva's points from Russia's score without changing any other scores, and re-allocated the medals in the figure skating team event, upgrading the United States and Japan to gold and silver, respectively, while downgrading Russia to bronze.<ref name="ISUReranking2">{{cite web |date=30 January 2024 |title=ISU Statement – Decision of CAS – Kamila Valieva (ROC) |url=https://www.isu.org/isu-news/news/145-news/14898-isu-statement-decision-of-cas-kamila-valieva-roc2?templateParam=15 |url-status=dead |archive-url=https://web.archive.org/web/20240504025723/https://isu.org/isu-news/news/145-news/14898-isu-statement-decision-of-cas-kamila-valieva-roc2?templateParam=15 |archive-date=4 May 2024 |access-date=4 May 2024 |website=[[International Skating Union]]}}</ref> The American and Japanese teams ultimately received their medals at a ceremony which took place on 7 August 2024 at the [[Jardins du Trocadéro]] during the [[2024 Summer Olympics]] in [[Paris]].<ref>{{cite web |date=7 August 2024 |title=Figure Skating Team Event medalists from Beijing 2022 Olympic Winter Games honored in Paris |url=https://www.isu.org/isu-news/news/145-news/15036-figure-skating-team-event-medalists-from-beijing-2022-olympic-winter-games-honored-in-paris?templateParam=15 |url-status=dead |archive-url=https://web.archive.org/web/20240808165039/https://www.isu.org/isu-news/news/145-news/15036-figure-skating-team-event-medalists-from-beijing-2022-olympic-winter-games-honored-in-paris |archive-date=8 August 2024 |access-date=8 August 2024 |website=[[International Skating Union]]}}</ref>
+
+{| class="wikitable unsortable" style="text-align:left"
+|+Team event medalists
+! scope="col" | Year
+! scope="col" | Location
+! scope="col" style="width:25%; background:gold" | Gold
+! scope="col" style="width:25%; background:silver" | Silver
+! scope="col" style="width:25%; background:#c96" | Bronze
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2014 Winter Olympics|2014]]
+| {{flagicon|RUS}} [[Sochi]]
+| valign="top" | '''{{RUS}}'''<br>[[Evgeni Plushenko]]<br>[[Yulia Lipnitskaya]]<br>[[Tatiana Volosozhar]]<br> [[Maxim Trankov]]<br>[[Ksenia Stolbova]]<br>[[Fedor Klimov]]<br>[[Ekaterina Bobrova]]<br>[[Dmitri Soloviev]]<br>[[Elena Ilinykh]]<br>[[Nikita Katsalapov]]
+| valign="top" | '''{{CAN}}'''<br>[[Patrick Chan]]<br>[[Kevin Reynolds (figure skater)|Kevin Reynolds]]<br>[[Kaetlyn Osmond]]<br>[[Meagan Duhamel]]<br>[[Eric Radford]]<br>[[Kirsten Moore-Towers]]<br>[[Dylan Moscovitch]]<br>[[Tessa Virtue]]<br>[[Scott Moir]]
+| valign="top" | '''{{USA}}'''<br>[[Jeremy Abbott]]<br>[[Jason Brown (figure skater)|Jason Brown]]<br>[[Ashley Wagner]]<br>[[Gracie Gold]]<br>[[Marissa Castelli]]<br>[[Simon Shnapir]]<br>[[Meryl Davis]]<br>[[Charlie White (figure skater)|Charlie White]]
+| <ref>{{Cite web |title=Sochi 2014 Figure Skating Team Mixed Results |url=https://olympics.com/en/olympic-games/sochi-2014/results/figure-skating/team-mixed |website=Olympics.com |access-date=May 16, 2024 |archive-date=May 1, 2022 |archive-url=https://web.archive.org/web/20220501095831/https://olympics.com/en/olympic-games/sochi-2014/results/figure-skating/team-mixed |url-status=live }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2018 Winter Olympics|2018]]
+| {{flagicon|KOR}} [[Pyeongchang County|Pyeongchang]]
+| valign="top" | '''{{CAN}}'''<br>[[Patrick Chan]]<br>[[Kaetlyn Osmond]]<br>[[Gabrielle Daleman]]<br>[[Meagan Duhamel]]<br>[[Eric Radford]]<br>[[Tessa Virtue]]<br>[[Scott Moir]]
+| valign="top" | {{flagicon|IOC}} '''{{Abbr|OAR|Olympic Athletes of Russia}}'''<br>[[Mikhail Kolyada]]<br>[[Evgenia Medvedeva]]<br>[[Alina Zagitova]]<br>[[Evgenia Tarasova]]<br>[[Vladimir Morozov (figure skater)|Vladimir Morozov]]<br>[[Natalia Zabiiako]]<br>[[Alexander Enbert]]<br>[[Ekaterina Bobrova]]<br>[[Dmitri Soloviev]]
+| valign="top" | '''{{USA}}'''<br>[[Nathan Chen]]<br>[[Adam Rippon]]<br>[[Bradie Tennell]]<br>[[Mirai Nagasu]]<br>[[Alexa Scimeca Knierim]]<br>[[Chris Knierim]]<br>[[Maia Shibutani]]<br>[[Alex Shibutani]]
+| <ref>{{Cite web |title=Pyeongchang Figure Skating Team Event Results |url=https://olympics.com/en/olympic-games/pyeongchang-2018/results/figure-skating/mixed-team-event |website=Olympics.com |access-date=May 16, 2024 |archive-date=November 27, 2022 |archive-url=https://web.archive.org/web/20221127040227/https://olympics.com/en/olympic-games/pyeongchang-2018/results/figure-skating/mixed-team-event |url-status=live }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2022 Winter Olympics|2022]]
+| {{flagicon|CHN}} [[Beijing]]
+| valign="top" | '''{{USA}}'''<br>[[Nathan Chen]]<br>[[Vincent Zhou]]<br>[[Karen Chen]]<br>[[Alexa Knierim]]<br>[[Brandon Frazier]]<br>[[Madison Hubbell]]<br>[[Zachary Donohue]]<br>[[Madison Chock]]<br>[[Evan Bates]]
+| valign="top" | '''{{JPN}}'''<br>[[Shoma Uno]]<br>[[Yuma Kagiyama]]<br>[[Wakaba Higuchi]]<br>[[Kaori Sakamoto]]<br>[[Riku Miura]]<br>[[Ryuichi Kihara]]<br>[[Misato Komatsubara]]<br>[[Tim Koleto]]
+| valign="top" | {{flagicon|RUS|roc-olympics}} '''{{Abbr|ROC|Russian Olympic Committee}}'''<br>[[Mark Kondratiuk]]<br>''<s>[[Kamila Valieva]]</s>'' (DQ)<br>[[Anastasia Mishina]]<br>[[Aleksandr Galliamov]]<br>[[Victoria Sinitsina]]<br>[[Nikita Katsalapov]]
+| <ref>{{cite web |title=Beijing 2022 Figure Skating Team Event Results |url=https://olympics.com/en/olympic-games/beijing-2022/results/figure-skating/team-event |website=Olympics.com |access-date=March 22, 2024 |archive-date=March 22, 2024 |archive-url=https://web.archive.org/web/20240322120735/https://olympics.com/en/olympic-games/beijing-2022/results/figure-skating/team-event |url-status=live }}</ref>
+|-
+! scope="row" style="text-align:left" | [[Figure skating at the 2026 Winter Olympics|2026]]
+| {{flagicon|ITA}} [[Milan]]
+| valign="top" | '''{{USA}}'''<br>[[Ilia Malinin]]<br>[[Alysa Liu]]<br>[[Amber Glenn]]<br>[[Ellie Kam]]<br>[[Daniel O'Shea]]<br>[[Madison Chock]]<br>[[Evan Bates]]
+| valign="top" | '''{{JPN}}'''<br>[[Yuma Kagiyama]]<br>[[Shun Sato (figure skater)|Shun Sato]]<br>[[Kaori Sakamoto]]<br>[[Riku Miura]]<br>[[Ryuichi Kihara]]<br>[[Utana Yoshida]]<br>[[Masaya Morita]]
+| valign="top" | '''{{ITA}}'''<br>[[Daniel Grassl]]<br>[[Matteo Rizzo]]<br>[[Lara Naki Gutmann]]<br>[[Sara Conti]]<br>[[Niccolò Macii]]<br>[[Charlène Guignard]]<br>[[Marco Fabbri]]
+|<ref>{{cite web |title=2026 Olympic Team Event |url=https://skatingscores.com/2526/olyt/ |url-status=live |access-date=February 11, 2026 |website=Skating Scores}}</ref>
+|}
+
+==Skaters who won multiple Olympic medals==
+[[File:2011 Four Continents Tessa VIRTUE Scott MOIR 3.jpg|thumb|upright=0.9|alt=Ice dancers Tessa Virtue and Scott Moir dancing on ice together.|[[Tessa Virtue]] and [[Scott Moir]] of Canada are the most decorated Olympic figure skaters, having won a total of five medals.]]
+[[File:Marina Klimova and Sergei Ponomarenko.jpg|thumb|upright=0.9|alt=An ice dance couple performing a routine. The man, on the right, is dressed with a dark suit and holds his white-dressed partner by her waist and left hand.|[[Marina Klimova]] and [[Sergei Ponomarenko]] of the Soviet Union won bronze medals in 1984, silver in 1988, and gold in 1992.]]
+
+=== Skaters who won the most Olympic medals ===
+These skaters have won three or more Olympic medals.
+ 
+{| class="wikitable unsortable" style="text-align:center"
+|+Skaters who have won three or more Olympic medals
+! scope="col" | Skater
+! scope="col" | Nation
+! scope="col" | Event(s)
+! scope="col" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place]]
+! scope="col" | Total
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Scott|Moir}}
+| rowspan="2" align="left" | {{CAN}}
+| rowspan="2" align="left" | Ice dance &<br>team event
+| rowspan="2" align="left" | 2010, 2014, 2018
+| rowspan="2" bgcolor="#F7F6A8" | 3
+| rowspan="2" bgcolor="#DCE5E5" | 2
+| rowspan="2" bgcolor="#FFDAB9" | – 
+| rowspan="2" | 5
+| rowspan="2" | <ref name="VirtueMoir">{{cite web |date=June 25, 2018|title=Competition Results – Tessa Virtue/Scott Moir|url=https://www.isuresults.com/bios/isufs_cr_00006989.htm|url-status=live|archive-url=https://web.archive.org/web/20250319235914/https://www.isuresults.com/bios/isufs_cr_00006989.htm|archive-date=March 19, 2025|access-date=December 26, 2025|website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Tessa|Virtue}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Gillis|Grafström}}
+| align="left" | {{SWE}}
+| align="left" | Men's singles
+| align="left" | 1920, 1924, 1928, 1932
+| bgcolor="#F7F6A8" | 3
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | – 
+| 4
+| <ref name=GillisGrafström>{{cite web |title=Gillis Grafström |url=https://www.olympedia.org/athletes/86175 |url-status=live |access-date=February 13, 2026 |website=[[Olympedia]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Sonja|Henie}}
+| align="left" | {{NOR}}
+| align="left" | Women's singles
+| align="left" | 1928, 1932, 1936
+| bgcolor="#F7F6A8" | 3
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | – 
+| 3
+| <ref name="SonjaHenie">{{cite web |last= |first= |title=Sonja Henie |url=http://www.snl.no/Sonja_Henie |url-status=live |archive-url=https://web.archive.org/web/20121008193416/http://snl.no/Sonja_Henie |archive-date=October 8, 2012 |access-date=November 2, 2025 |website=Store Norske Leksikon |language=no}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Irina|Rodnina}}{{efn|name=Rodnina|Irina Rodnina won one gold medal with [[Alexei Ulanov]] (1972), and two gold medals with [[Alexander Zaitsev (pair skater)|Alexander Zaitsev]] (1976, 1980).<ref name="IrinaRodnina" />}}
+| align="left" | {{URS}}
+| align="left" | Pairs
+| align="left" | 1972, 1976, 1980
+| bgcolor="#F7F6A8" | 3
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | – 
+| 3
+| <ref name="IrinaRodnina">{{cite web |title=Irina Rodnina |url=https://www.olympedia.org/athletes/82209 |url-status=live |archive-url=https://web.archive.org/web/20240502123905/https://www.olympedia.org/athletes/82209 |archive-date=May 2, 2024 |access-date=December 28, 2025 |website=[[Olympedia]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Evgeni|Plushenko}}
+| align="left" | {{RUS}}
+| align="left" | Men's singles<br>& team event
+| align="left" | 2002, 2006, 2010, 2014
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | – 
+| 4
+| <ref name="EvgeniPlushenko">{{cite web |date=July 27, 2014|title=Competition Results – Evgeni Plushenko|url=https://www.isuresults.com/bios/isufs_cr_00000124.htm|url-status=live|archive-url=https://web.archive.org/web/20250119131224/https://www.isuresults.com/bios/isufs_cr_00000124.htm|archive-date=January 19, 2025|access-date=May 5, 2025|website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Evan|Bates}}
+| rowspan="2" align="left" | {{USA}}
+| rowspan="2" align="left" | Ice dance &<br>team event
+| rowspan="2" align="left" | 2022, 2026
+| rowspan="2" bgcolor="#F7F6A8" | 2
+| rowspan="2" bgcolor="#DCE5E5" | 1
+| rowspan="2" bgcolor="#FFDAB9" | – 
+| rowspan="2" | 3
+| rowspan="2" | <ref name="ChockBates">{{cite web |date=December 24, 2025 |title=Competition Results – Madison Chock/Evan Bates (USA) |url=https://www.isuresults.com/bios/isufs_cr_00013665.htm |url-status=live |archive-url=https://web.archive.org/web/20251226194329/https://www.isuresults.com/bios/isufs_cr_00013665.htm |archive-date=December 26, 2025 |access-date=December 26, 2025 |website=[[International Skating Union]] }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Madison|Chock}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Guillaume|Cizeron}}{{efn|name=Cizeron|Guillaume Cizeron won one silver medal and one gold medal with [[Gabriella Papadakis]] (2018, 2022),<ref name="PapadakisCizeron" /> and one gold medal with [[Laurence Fournier Beaudry]] (2026).<ref name=BeaudryCizeron />}}
+| align="left" | {{FRA}}
+| align="left" | Ice dance 
+| align="left" | 2018, 2022, 2026
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | – 
+| 3
+| <ref name="PapadakisCizeron">{{cite web |title=Competition Results – Gabriella Papadakis/Guillaume Cizeron (FRA) |url=https://www.isuresults.com/bios/isufs_cr_00011507.htm |url-status=live |archive-url=https://web.archive.org/web/20250311235257/http://www.isuresults.com/bios/isufs_cr_00011507.htm |archive-date=March 11, 2025 |access-date=May 5, 2025 |website=[[International Skating Union]]}}</ref><br><ref name=BeaudryCizeron>{{cite web |date=February 11, 2026 |title=Competition Results – Laurence Fournier Beaudry/Guillaume Cizeron (FRA) |url=https://www.isuresults.com/bios/isufs_cr_00123484.htm |url-status=live |access-date=February 13, 2026 |website=[[International Skating Union]] |archive-date=February 8, 2026 |archive-url=https://web.archive.org/web/20260208195313/https://www.isuresults.com/bios/isufs_cr_00123484.htm }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Artur|Dmitriev}}{{efn|name=Dmitriev|Artur Dmitriev won one gold medal and one silver medal with [[Natalia Mishkutionok]] (1992, 1994),<ref name=MishutienokDmitriev /> and one gold medal with [[Oksana Kazakova]] (1998).<ref name=KazakovaDmitriev />}}
+| align="left" | {{EUN}}<br>{{RUS}}
+| align="left" | Pairs
+| align="left" | 1992, 1994, 1998
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | – 
+| 3
+| <ref name=MishutienokDmitriev>{{cite web |title=Mishutienok Natalia/Dmitriev Artur RUS Russia |url=http://dev.figureskating.sportresult.com/Bios/RUS/2014/8/51462/ladies/SP/1551 |url-status=dead |archive-url=https://web.archive.org/web/20140618132026/http://dev.figureskating.sportresult.com/Bios/RUS/2014/8/51462/ladies/SP/1551 |archive-date=June 18, 2014 |access-date=June 18, 2014 |website=[[International Skating Union]]}}</ref><br><ref name=KazakovaDmitriev>{{cite web |title=Kazakova Oksana/Dmitriev Artur RUS Russia |url=http://dev.figureskating.sportresult.com/Bios/RUS/2014/8/51462/ladies/SP/565 |url-status=dead |archive-url=https://web.archive.org/web/20140618131254/http://dev.figureskating.sportresult.com/Bios/RUS/2014/8/51462/ladies/SP/565 |archive-date=June 18, 2014 |access-date=June 18, 2014 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Andrée|Brunet}}
+| rowspan="2" align="left" | {{FRA}}
+| rowspan="2" align="left" | Pairs
+| rowspan="2" align="left" | 1924, 1928, 1932
+| rowspan="2" bgcolor="#F7F6A8" | 2
+| rowspan="2" bgcolor="#DCE5E5" | – 
+| rowspan="2" bgcolor="#FFDAB9" | 1
+| rowspan="2" | 3
+| rowspan="2" | <ref name="BrunetBrunet">{{cite web |title=Andrée Brunet-Joly |url=https://www.olympedia.org/athletes/81421 |url-status=live |archive-url=https://web.archive.org/web/20250216033719/https://www.olympedia.org/athletes/81421 |archive-date=February 16, 2025 |access-date=December 28, 2025 |website=[[Olympedia]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Pierre|Brunet|Pierre Brunet (figure skater)}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Nathan|Chen}}
+| align="left" | {{USA}}
+| align="left" | Men's singles<br>& team event
+| align="left" | 2018, 2022
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="NathanChen">{{cite web |date=May 12, 2022 |title=Competition Results – Nathan Chen (USA) |url=https://www.isuresults.com/bios/isufs_cr_00054124.htm |url-status=live |archive-url=https://web.archive.org/web/20250126231045/http://www.isuresults.com/bios/isufs_cr_00054124.htm |archive-date=January 26, 2025 |access-date=May 5, 2025 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Patrick|Chan}}
+| align="left" | {{CAN}}
+| align="left" | Men's singles<br>& team event
+| align="left" | 2014, 2018
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | – 
+| 3
+| <ref name="PatrickChan">{{cite web |date=June 25, 2018 |title=Competition Results – Patrick Chan |url=https://www.isuresults.com/bios/isufs_cr_00007980.htm |url-status=live |archive-url=https://web.archive.org/web/20250227093544/https://www.isuresults.com/bios/isufs_cr_00007980.htm |archive-date=February 27, 2025 |access-date=January 24, 2026 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Nikita|Katsalapov}}{{efn|name=Katsalapov|Nikita Katsalapov won one gold medal in the team event and one bronze medal in ice dance with [[Elena Ilinykh]] (2014),<ref name=IlinykhKatsalapov /> and one silver medal in ice dance and one bronze medal in the team event with [[Victoria Sinitsina]] (2022).<ref name=SinitsinaKatsalapov />}}
+| align="left" | {{RUS}}<br>{{FlagIOC|ROC|2022 Winter}}
+| align="left" | Ice dance &<br>team event
+| align="left" | 2014, 2022
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 2
+| 4
+| <ref name=SinitsinaKatsalapov>{{cite web |date=May 12, 2022 |title=Competition Results – Victoria Sinitsina/Nikita Katsalapov (RUS) |url=https://www.isuresults.com/bios/isufs_cr_00054477.htm |url-status=live |access-date=February 13, 2026 |website=[[International Skating Union]] |archive-date=April 1, 2025 |archive-url=https://web.archive.org/web/20250401003246/https://www.isuresults.com/bios/isufs_cr_00054477.htm }}</ref><br><ref name=IlinykhKatsalapov>{{cite web |date=July 27, 2014 |title=Competition Results – Elena Ilinykh/Nikita Katsalapov |url=https://www.isuresults.com/bios/isufs_cr_00011927.htm |url-status=live |access-date=February 13, 2026 |website=[[International Skating Union]] |archive-date=September 28, 2025 |archive-url=https://web.archive.org/web/20250928013852/http://www.isuresults.com/bios/isufs_cr_00011927.htm }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Meryl|Davis}}
+| align="left" | {{USA}}
+| align="left" | Ice dance &<br>team event
+| align="left" | 2010, 2014
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="DavisWhite">{{cite web |date=July 27, 2014 |title=Competition Results – Meryl Davis/Charlie White |url=https://www.isuresults.com/bios/isufs_cr_00006260.htm |url-status=live |archive-url=https://web.archive.org/web/20241127094420/http://www.isuresults.com/bios/isufs_cr_00006260.htm |archive-date=November 27, 2024 |access-date=May 5, 2025 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Meagan|Duhamel}}
+| align="left" | {{CAN}}
+| align="left" | Pairs &<br>team event
+| align="left" | 2014, 2018
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name=DuhamelRadford>{{cite web |date=June 25, 2018 |title=Competition Results – Meagan Duhamel/Eric Radford |url=https://www.isuresults.com/bios/isufs_cr_00012877.htm |url-status=live |access-date=February 13, 2026 |website=[[International Skating Union]] |archive-date=November 26, 2024 |archive-url=https://web.archive.org/web/20241126183244/http://www.isuresults.com/bios/isufs_cr_00012877.htm }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Marina|Klimova}}
+| align="left" | {{URS}}<br>{{EUN}}
+| align="left" | Ice dance
+| align="left" | 1984, 1988, 1992
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="KlimovaPonomarenko">{{cite web |title=Marina Klimova |url=https://www.olympedia.org/athletes/81517 |url-status=live |archive-url=https://web.archive.org/web/20250224003552/https://www.olympedia.org/athletes/81517 |archive-date=February 24, 2025 |access-date=December 26, 2025 |website=[[Olympedia]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Kaetlyn|Osmond}}
+| align="left" | {{CAN}}
+| align="left" | Women's singles<br>& team event
+| align="left" | 2014, 2018
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref>{{cite web |title=Kaetlyn Osmond named athlete ambassador for 2020 Canadian Tire National Skating Championships |url=https://skatecanada.ca/2020/01/08/kaetlyn-osmond-named-athlete-ambassador-for-2020-canadian-tire-national-skating-championships/ |url-status=live |access-date=February 13, 2026 |website=[[Skate Canada]] |archive-date=December 18, 2025 |archive-url=https://web.archive.org/web/20251218020357/https://skatecanada.ca/2020/01/08/kaetlyn-osmond-named-athlete-ambassador-for-2020-canadian-tire-national-skating-championships/ }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Sergei|Ponomarenko}}
+| align="left" | {{URS}}<br>{{EUN}}
+| align="left" | Ice dance
+| align="left" | 1984, 1988, 1992
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="KlimovaPonomarenko" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Eric|Radford}}
+| align="left" | {{CAN}}
+| align="left" | Pairs &<br>team event
+| align="left" | 2014, 2018
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="DuhamelRadford" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Charlie|White|Charlie White (figure skater)}}
+| align="left" | {{USA}}
+| align="left" | Ice dance &<br>team event
+| align="left" | 2010, 2014
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="DavisWhite" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Zhao|Hongbo}}
+| align="left" | {{CHN}}
+| align="left" | Pairs
+| align="left" | 2002, 2006, 2010
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | 2
+| 3
+| <ref name="ShenZhao">{{cite web |date=July 24, 2010 |title=Competition Results – Xue Shen/Hongbo Zhao |url=https://www.isuresults.com/bios/isufs_cr_00000595.htm |url-status=live |archive-url=https://web.archive.org/web/20250426082351/https://www.isuresults.com/bios/isufs_cr_00000595.htm |archive-date=April 26, 2025 |access-date=December 28, 2025 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Aljona|Savchenko}}{{efn|name=Savchenko|Aljona Savchenko won two bronze medals with [[Robin Szolkowy]] (2010, 2014),<ref name="SavchenkoSzolkowy" /> and one gold medal with [[Bruno Massot]] (2018).<ref name=SavchenkoMassot />}}
+| align="left" | {{GER}}
+| align="left" | Pairs
+| align="left" | 2010, 2014, 2018
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | 2
+| 3
+| <ref name="SavchenkoSzolkowy">{{cite web |date=July 27, 2014 |title=Competition Results – Aliona Savchenko/Robin Szolkowy |url=https://www.isuresults.com/bios/isufs_cr_00007498.htm |url-status=live |archive-url=https://web.archive.org/web/20250528142903/https://www.isuresults.com/bios/isufs_cr_00007498.htm |archive-date=May 28, 2025 |access-date=December 28, 2025 |website=[[International Skating Union]]}}</ref><br><ref name=SavchenkoMassot>{{cite web |date=June 25, 2018 |title=Competition Results – Aljona Savchenko/Bruno Massot |url=https://www.isuresults.com/bios/isufs_cr_00035319.htm |url-status=live |access-date=February 13, 2026 |website=[[International Skating Union]] |archive-date=November 26, 2024 |archive-url=https://web.archive.org/web/20241126155426/https://www.isuresults.com/bios/isufs_cr_00035319.htm }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Shen|Xue}}
+| align="left" | {{CHN}}
+| align="left" | Pairs
+| align="left" | 2002, 2006, 2010
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | – 
+| bgcolor="#FFDAB9" | 2
+| 3
+| <ref name="ShenZhao" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Yuma|Kagiyama}}
+| align="left" | {{JPN}}
+| align="left" | Men's singles<br>& team event
+| align="left" | 2022, 2026
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 4
+| bgcolor="#FFDAB9" | –
+| 4
+| <ref name=YumaKagiyama>{{cite web |date=February 13, 2026 |title=Competition Results – Yuma Kagiyama (JPN) |url=https://www.isuresults.com/bios/isufs_cr_00102339.htm |url-status=live |access-date=February 14, 2026 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Kaori|Sakamoto}}
+| align="left" | {{JPN}}
+| align="left" | Women's singles<br>& team event
+| align="left" | 2022, 2026
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 3
+| bgcolor="#FFDAB9" | 1
+| 4
+| <ref name=KaoriSakamoto>{{cite web |date=February 19, 2026 |title=Competition Results – Kaori Sakamoto (JPN) |url=https://www.isuresults.com/bios/isufs_cr_00014151.htm |url-status=live |access-date=February 25, 2026 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Beatrix|Loughran}}
+| align="left" | {{USA}}
+| align="left" | Women's singles<br>& pairs
+| align="left" | 1924, 1928, 1932
+| bgcolor="#F7F6A8" | – 
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name=BeatrixLoughran>{{cite web |title=Beatrix Loughran |url=https://www.sports-reference.com/olympics/athletes/lo/beatrix-loughran-1.html |url-status=dead |archive-url=https://web.archive.org/web/20200417062022/https://www.sports-reference.com/olympics/athletes/lo/beatrix-loughran-1.html |archive-date=April 17, 2020 |access-date=April 17, 2020 |website=Sports-Reference}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Shoma|Uno}}
+| align="left" | {{JPN}}
+| align="left" | Men's singles<br>& team event
+| align="left" | 2018, 2022
+| bgcolor="#F7F6A8" | – 
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | 1
+| 3
+| <ref name="ShomaUno">{{cite web |date=May 28, 2025 |title=Competition Results – Shoma Uno (JPN) |url=https://www.isuresults.com/bios/isufs_cr_00012455.htm |url-status=live |archive-url=https://web.archive.org/web/20250427094926/http://www.isuresults.com/bios/isufs_cr_00012455.htm |archive-date=April 27, 2025 |access-date=May 5, 2025 |website=[[International Skating Union]]}}</ref>
+|}
+{{notelist}}
+
+===Multiple gold medals===
+[[File:Bundesarchiv Bild 102-12803, Gilles Grafström.jpg|thumb|upright=0.9|right|alt=A male figure skater looks at the camera while performing a figure skating element on an outdoor ice rink.|Swedish [[Gillis Grafström]] is a three-time Olympic figure skating gold medalist in the men's singles event.]]
+The only skaters with three consecutive titles are [[Gillis Grafström]] in men's singles, [[Sonja Henie]] in women's singles, and [[Irina Rodnina]] in pairs. The most consecutive titles in ice dance is two, which has only been achieved by [[Oksana Grishuk]] and [[Evgeny Platov]]. In addition, one women's singles skater, three men's singles skaters, and five pair skaters have earned consecutive titles. Two ice dancers and three pair skaters have earned non-consecutive titles.
+
+Six skaters have won Olympic gold medals in multiple events. [[Evgeni Plushenko]] won gold in men's singles in 2006 and team event gold in 2014. [[Tatiana Volosozhar]] and [[Maxim Trankov]] were the first skaters to win multiple events at a single Olympics, winning in both pairs and the team event. [[Tessa Virtue]] and [[Scott Moir]] matched this feat four years later, earning golds in ice dance and the team event. [[Nathan Chen]] won gold in both men's singles and the team event in 2022.
+
+{| class="wikitable unsortable" style="text-align:left"
+|+Skaters who have won multiple Olympic gold medals
+! scope="col" | Skater
+! scope="col" | Nation
+! scope="col" | Event(s)
+! scope="col" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place|alt=A gold circle with a G in it.]]
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Gillis|Grafström}}
+| {{SWE}}
+| Men's singles
+| 1920, 1924, 1928
+| align="center" bgcolor="#F7F6A8" | 3
+| <ref name="GillisGrafström" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Sonja|Henie}}
+| {{NOR}}
+| Women's singles
+| 1928, 1932, 1936
+| align="center" bgcolor="#F7F6A8" | 3
+| <ref name="SonjaHenie" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Scott|Moir}}
+| {{CAN}}
+| Ice dance &<br>team event
+| 2010, 2018
+| align="center" bgcolor="#F7F6A8" | 3
+| <ref name="VirtueMoir" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Irina|Rodnina}}{{efn|name=Rodnina|Irina Rodnina won three gold medals in pair skating with two different partners: one in 1972 with [[Alexei Ulanov]] and one each in 1976 and 1980 with [[Alexander Zaitsev (pair skater)|Alexander Zaitsev]].}}
+| {{URS}}
+| Pairs
+| 1972, 1976, 1980
+| align="center" bgcolor="#F7F6A8" | 3
+| <ref name="IrinaRodnina" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Tessa|Virtue}}
+| {{CAN}}
+| Ice dance &<br>team event
+| 2010, 2018
+| align="center" bgcolor="#F7F6A8" | 3
+| <ref name="VirtueMoir" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Evan|Bates}}
+| {{USA}}
+| Team event
+| 2022, 2026
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="ChockBates" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Ludmila|Belousova}}
+| {{URS}}
+| Pairs
+| 1964, 1968
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="BelousovaProtopopov">{{cite web |last=Russell |first=Susan D. |title=Ludmila and Oleg Protopopov: Revolutionaries in pairs skating |url=http://assets.ngin.com/attachments/document/0047/9811/Protopopov_Article.pdf |publisher=Skating Club of Lake Placid |access-date=February 13, 2026 |archive-date=June 12, 2024 |archive-url=https://web.archive.org/web/20240612231013/http://assets.ngin.com/attachments/document/0047/9811/Protopopov_Article.pdf |url-status=live }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Andrée|Brunet}}
+| rowspan="2" | {{FRA}}
+| rowspan="2" | Pairs
+| rowspan="2" | 1928, 1932
+| rowspan="2" align="center" bgcolor="#F7F6A8" | 2
+| rowspan="2" | <ref name="BrunetBrunet" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Pierre|Brunet|Pierre Brunet (figure skater)}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Dick|Button}}
+| {{USA}}
+| Men's singles
+| 1948, 1952
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name=DickButton>{{cite web |title=Dick Button |url=https://www.olympedia.org/athletes/84513 |url-status=live |access-date=February 13, 2026 |website=[[Olympedia]] |archive-date=June 10, 2025 |archive-url=https://web.archive.org/web/20250610133356/https://www.olympedia.org/athletes/84513 }}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Nathan|Chen}}
+| {{USA}}
+| Men's singles<br>& team event
+| 2022
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="NathanChen" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Madison|Chock}}
+| {{USA}}
+| Team event
+| 2022, 2026
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="ChockBates" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Guillaume|Cizeron}}{{efn|name=Cizeron|Guillaume Cizeron won one gold medal in ice dance with [[Gabriella Papadakis]] and one gold medal with [[Laurence Fournier Beaudry]].}}
+| {{FRA}}
+| Ice dance
+| 2022, 2026
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="PapadakisCizeron" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Artur|Dmitriev}}{{efn|name=Dmitriev|Artur Dmitriev won one gold medal with [[Natalia Mishkutionok]],<ref name="MishutienokDmitriev" /> and one with [[Oksana Kazakova]].<ref name="KazakovaDmitriev" />}}
+| {{EUN}}<br>{{RUS}}
+| Pairs
+| 1992, 1998
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="MishutienokDmitriev" /><br><ref name="KazakovaDmitriev" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Ekaterina|Gordeeva}}
+| {{URS}}<br>{{RUS}}
+| Pairs
+| 1988, 1994
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Sergei|Grinkov}}
+| {{URS}}<br>{{RUS}}
+| Pairs
+| 1988, 1994
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Oksana|Grishuk}}
+| {{RUS}}
+| Ice dance
+| 1994, 1998
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Yuzuru|Hanyu}}
+| {{JPN}}
+| Men's singles
+| 2014, 2018
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="YuzuruHanyu" />
+|-
+! scope="row" style="text-align:left" | [[Alysa Liu]]
+| {{USA}}
+| Women's singles<br>& team event
+| 2026
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Evgeny|Platov}}
+| {{RUS}}
+| Ice dance
+| 1994, 1998
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Evgeni|Plushenko}}
+| {{RUS}}
+| Men's singles<br>& team event
+| 2006, 2014
+| align="center" bgcolor="#F7F6A8" | 2
+| <ref name="EvgeniPlushenko" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Oleg|Protopopov}}
+| {{URS}}
+| Pairs
+| 1964, 1968
+| align="center" bgcolor="#F7F6A8" | 2
+|<ref name="BelousovaProtopopov" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Karl|Schäfer|dab=figure skater}}
+| {{AUT}}
+| Men's singles
+| 1932, 1936
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Maxim|Trankov}}
+| {{RUS}}
+| Pairs &<br>team event
+| 2014
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Tatiana|Volosozhar}}
+| {{RUS}}
+| Pairs &<br>team event
+| 2014
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Katarina|Witt}}
+| {{GDR}}
+| Women's singles
+| 1984, 1988
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Alexander|Zaitsev|Alexander Zaitsev (figure skater)}}{{efn|name=Rodnina}}
+| {{URS}}
+| Pairs
+| 1976, 1980
+| align="center" bgcolor="#F7F6A8" | 2
+|
+|}
+{{notelist}}
+
+=== Multiple Olympic medals by event ===
+==== Men's singles ====
+[[File:Karl_Schaefer_1935_by_Karl_Schleich.jpg|thumb|upright=0.9|right|alt=Male figure skater performing a jump|[[Karl Schäfer (figure skater)|Karl Schäfer]] of Austria won two Olympic gold medals in the men's competition in the 1930s.]]
+[[File:2018_Winter_Olympics_-_Yuzuru_Hanyu_SP.jpg|thumb|upright=0.9|right|alt=Male figure skater on the ice|[[Yuzuru Hanyu]] of Japan is one of only two skaters to win two Olympic gold medals in the men's competition after [[World War II]].]]
+
+{| class="wikitable unsortable" style="text-align:center"
+|+Skaters who have won multiple Olympic medals in the men's event
+! scope="col" | Skater
+! scope="col" | Nation
+! scope="col" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place]]
+! scope="col" | Total
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Gillis|Grafström}}
+| align=left | {{SWE}}
+| align=left | 1920, 1924,<br>1928, 1932
+| bgcolor="#F7F6A8" | 3
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | –
+| 4
+| <ref name="GillisGrafström" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Dick|Button}}
+| align=left | {{USA}}
+| align=left | 1948, 1952
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name="DickButton" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Yuzuru|Hanyu}}
+| align=left | {{JPN}}
+| align=left | 2014, 2018
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name=YuzuruHanyu>{{Cite web |date=May 12, 2022 |title=Competition Results – Yuzuru Hanyu (JPN) |url=https://www.isuresults.com/bios/isufs_cr_00010967.htm |url-status=live |access-date=February 15, 2026 |website=[[International Skating Union]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Karl|Schäfer|dab=figure skater}}
+| align=left | {{AUT}}
+| align=left | 1932, 1936
+| bgcolor="#F7F6A8" | 2
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Evgeni|Plushenko}}
+| align=left | {{RUS}}
+| align=left | 2002, 2006,<br>2010
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | –
+| 3
+| <ref name="EvgeniPlushenko" />
+|-
+! scope="row" style="text-align:left" | {{sortname|David|Jenkins|David Jenkins (figure skater)}}
+| align=left | {{USA}}
+| align=left | 1956, 1960
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | 1
+| 2
+| <ref name=LAT01072002>{{cite web |last=Elliott |first=Helene |date=January 7, 2002 |title=In long run, little things remain |url=http://articles.latimes.com/2002/jan/07/sports/sp-20903/2 |url-status=dead |archive-url=https://web.archive.org/web/20171118080732/http://articles.latimes.com/2002/jan/07/sports/sp-20903/2 |archive-date=November 18, 2017 |access-date=November 18, 2017 |website=[[Los Angeles Times]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Viktor|Petrenko}}
+| align=left | {{URS}}<br>{{EUN}} 
+| align=left | 1988, 1992
+| bgcolor="#F7F6A8" | 1
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | 1
+| 2
+| <ref name=ViktorPetrenko>{{cite web |title=Viktor Petrenko |url=http://www.sports-reference.com/olympics/athletes/pe/viktor-petrenko-1.html |archive-url=https://web.archive.org/web/20090630155041/http://www.sports-reference.com/olympics/athletes/pe/viktor-petrenko-1.html |archive-date=June 30, 2009 |access-date=June 30, 2009 |website=[[Sports-Reference]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Willy|Böckl}}
+| align=left | {{AUT}}
+| align=left | 1924, 1928
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name=WillyBöckl>{{cite web |title=Willy Böckl |url=https://www.sports-reference.com/olympics/athletes/bo/willy-bockl-1.html |url-status=dead |archive-url=https://web.archive.org/web/20161202233600/https://www.sports-reference.com/olympics/athletes/bo/willy-bockl-1.html |archive-date=December 2, 2016 |access-date=December 2, 2016 |website=[[Sports-Reference]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Yuma|Kagiyama}}
+| align="left" |{{JPN}}
+| align="left" |2022, 2026
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name="YumaKagiyama" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Brian|Orser}}
+| align="left" | {{CAN}}
+| align="left" | 1984, 1988
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name=LAT03132009>{{cite web |last=Elliott |first=Helene |date=March 13, 2009 |title=Brian Orser heads list of World Figure Skating Hall of Fame inductees |url=https://www.latimes.com/archives/blogs/sports-now/story/2009-03-13/brian-orser-heads-list-of-world-figure-skating-hall-of-fame-inductees |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20250113045227/https://www.latimes.com/archives/blogs/sports-now/story/2009-03-13/brian-orser-heads-list-of-world-figure-skating-hall-of-fame-inductees |archive-date=January 13, 2025 |access-date=January 13, 2025 |website=[[Los Angeles Times]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Elvis|Stojko}}
+| align="left" | {{CAN}}
+| align="left" | 1994, 1998
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 2
+| bgcolor="#FFDAB9" | –
+| 2
+| <ref name=ElvisStojko>{{cite web |title=Elvis Stojko |url=https://www.olympedia.org/athletes/97868 |url-status=live |access-date=February 15, 2026 |website=[[Olympedia]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Shoma|Uno}}
+| align="left" | {{JPN}}
+| align="left" | 2018, 2022
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | 1
+| bgcolor="#FFDAB9" | 1
+| 2
+| <ref name="ShomaUno" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Philippe|Candeloro}}
+| align="left" |{{FRA}}
+| align="left" |1994, 1998
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | 2
+| 2
+| <ref name=PhilippeCandeloro>{{cite web |title=Philippe Candeloro |url=https://www.sports-reference.com/olympics/athletes/ca/philippe-candeloro-1.html |url-status=dead |archive-url=https://web.archive.org/web/20200417064148/https://www.sports-reference.com/olympics/athletes/ca/philippe-candeloro-1.html |archive-date=April 17, 2020 |access-date=April 17, 2020 |website=[[Sports-Reference]]}}</ref>
+|-
+! scope="row" style="text-align:left" | {{sortname|Patrick|Péra}}
+| align="left" | {{FRA}}
+| align="left" | 1968, 1972
+| bgcolor="#F7F6A8" | –
+| bgcolor="#DCE5E5" | –
+| bgcolor="#FFDAB9" | 2
+| 2
+| <ref name=PatrickPéra>{{cite web |title=Patrick Pera |url=https://www.sports-reference.com/olympics/athletes/pe/patrick-pera-1.html |url-status=dead |archive-url=https://web.archive.org/web/20200417063036/https://www.sports-reference.com/olympics/athletes/pe/patrick-pera-1.html |archive-date=April 17, 2020 |access-date=April 17, 2020 |website=[[Sports-Reference]]}}</ref>
+|}
+
+====Women's singles====
+[[File:Bundesarchiv Bild 102-09482, Sonja Henie.jpg|thumb|upright=0.9|right|alt=A young smiling woman wearing an embroidered hat and a jacket with furred collar and sleeve hems.|Norwegian [[Sonja Henie]] won three consecutive gold medals in the women's individual event (1928–1936).]]
+[[File:Bundesarchiv Bild 183-1988-0105-018, Katarina Witt.jpg|thumb|upright=0.9|right|alt=A young smiling woman wearing a traditional Spanish flamenco dress and head gear, and executing the typical flamenco posture.|[[Katarina Witt]] from East Germany won the 1988 women's singles gold medal, becoming the second female figure skater in history to win back-to-back Olympic titles.]]
+[[File:Yunakimedal2.jpg|thumb|upright=0.9|right|alt=Female figure skater showing her gold medal|[[Yuna Kim]] of South Korea won the women's singles event in 2010 with world record scores in the short program, free skating, and combined total.]]
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col" | Skater
+! scope="col" class="unsortable" | Nation
+! scope="col" class="unsortable" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place|alt=A gold circle with a G in it.]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place|alt=A silver circle with an S in it.]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place|alt=A bronze circle with a B in it.]]
+! scope="col" | Total
+!Ref.
+|-
+! scope="row" style="text-align:left" | {{sortname|Sonja|Henie}}
+| align=left | {{NOR}}
+| align=left | 1928, 1932, 1936
+| 3
+| –
+| –
+| 3
+|<ref name="SonjaHenie" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Katarina|Witt}}
+| align=left | {{GDR}}
+| align=left | 1984, 1988
+| 2
+| –
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Tenley|Albright}}
+| align=left | {{USA}}
+| align=left | 1952, 1956
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Carol|Heiss}}
+| align=left | {{USA}}
+| align=left | 1956, 1960
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Sjoukje|Dijkstra}}
+| align=left | {{NED}}
+| align=left | 1960, 1964
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Yuna|Kim}}
+| align=left | {{KOR}}
+| align=left | 2010, 2014
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Jeannette|Altwegg}}
+| align=left | {{GBR2}}
+| align=left | 1948, 1952
+| 1
+| –
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Fritzi|Burger}}
+| align=left | {{AUT}}
+| align=left | 1928, 1932
+| –
+| 2
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Beatrix|Loughran}}
+| align=left | {{USA}}
+| align=left | 1924, 1928
+| –
+| 1
+| 1
+| 2
+|<ref name="BeatrixLoughran" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Nancy|Kerrigan}}
+| align=left | {{USA}}
+| align=left | 1992, 1994
+| –
+| 1
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Michelle|Kwan}}
+| align=left | {{USA}}
+| align=left | 1998, 2002
+| –
+| 1
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Irina|Slutskaya}}
+| align=left | {{RUS}}
+| align=left | 2002, 2006
+| –
+| 1
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Kaori|Sakamoto}}
+| align=left | {{JPN}}
+| align=left | 2022, 2026
+| –
+| 1
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sort|Chen, Lu|[[Chen Lu (figure skater)|Chen Lu]]}}
+| align=left | {{CHN}}
+| align=left | 1994, 1998
+| –
+| –
+| 2
+| 2
+|
+|}
+
+====Pairs====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col" | Skater
+! scope="col" class="unsortable" | Nation
+! scope="col" class="unsortable" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place|alt=A gold circle with a G in it.]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place|alt=A silver circle with an S in it.]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place|alt=A bronze circle with a B in it.]]
+! scope="col" | Total
+!Ref.
+|-
+! scope="row" style="text-align:left" | {{sortname|Irina|Rodnina}}{{efn|name=Rodnina|[[Irina Rodnina]] won three medals in pair skating with two different partners: one gold medal in 1972 with [[Alexei Ulanov]] and one gold medal each in 1976 and 1980 with [[Alexander Zaitsev (figure skater)|Alexander Zaitsev]].}}
+| align=left | {{URS}}
+| align=left | 1972, 1976, 1980
+| 3
+| –
+| –
+| 3
+|<ref name="IrinaRodnina" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Artur|Dmitriev}}{{efn|name=Dmitriev|[[Artur Dmitriev]] won one gold medal and one silver medal with [[Natalia Mishkutionok]],<ref name="MishutienokDmitriev" /> and one gold medal with [[Oksana Kazakova]].<ref name="KazakovaDmitriev" />}}
+| align=left | {{EUN}}<br>{{RUS}}
+| align=left | 1992, 1994, 1998
+| 2
+| 1
+| –
+| 3
+| <ref name="MishutienokDmitriev" /><br><ref name="KazakovaDmitriev" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Andrée|Brunet}}
+| rowspan="2" align="left" | {{FRA}}
+| rowspan="2" align="left" | 1924, 1928, 1932
+| rowspan="2" | 2
+| –
+| rowspan="2" | 1
+| rowspan="2" | 3
+| rowspan="2" |<ref name="BrunetBrunet" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Pierre|Brunet|Pierre Brunet (figure skater)}}
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Ludmila|Belousova}}
+| align="left" | {{URS}}
+| align="left" | 1964, 1968
+| 2
+| –
+| –
+| 2
+|<ref name="BelousovaProtopopov" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Ekaterina|Gordeeva}}
+| align=left | {{URS}}<br>{{RUS}}
+| align=left | 1988, 1994
+| 2
+| –
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Sergei|Grinkov}}
+| align=left | {{URS}}<br>{{RUS}}
+| align=left | 1988, 1994
+| 2
+| –
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Oleg|Protopopov}}
+| align=left | {{URS}}
+| align=left | 1964, 1968
+| 2
+| –
+| –
+| 2
+|<ref name="BelousovaProtopopov" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Alexander|Zaitsev|Alexander Gennadiyevich Zaitsev}}{{efn|name=Rodnina}}
+| align=left | {{URS}}
+| align=left | 1976, 1980
+| 2
+| –
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Elena|Berezhnaya}}
+| align=left | {{RUS}}
+| align=left | 1998, 2002
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sort|Han, Cong|[[Han Cong]]}}
+| align=left | {{CHN}}
+| align=left | 2018, 2022
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Ludowika|Jakobsson}}
+| align="left" | {{FIN}}
+| align="left" | 1920, 1924
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Walter|Jakobsson}}
+| align=left | {{FIN}}
+| align=left | 1920, 1924
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Natalia|Mishkutenok}}{{efn|name=Dmitriev}}
+| align=left | {{EUN}}<br>{{RUS}}
+| align=left | 1992, 1994
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Anton|Sikharulidze}}
+| align=left | {{RUS}}
+| align=left | 1998, 2002
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sort|Sui, Wenjing|[[Sui Wenjing]]}}
+| align=left | {{CHN}}
+| align=left | 2018, 2022
+| 1
+| 1
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Aljona|Savchenko}}{{efn|name=Savchenko|[[Aljona Savchenko]] won three medals in pair skating with two different partners: two bronze medals in 2010 and 2014 with [[Robin Szolkowy]] and one gold medal in 2018 with [[Bruno Massot]].}}
+| align=left | {{GER}}
+| align=left | 2010, 2014, 2018
+| 1
+| –
+| 2
+| 3
+|<ref name="SavchenkoSzolkowy" />
+|-
+! scope="row" style="text-align:left" | {{sort|Shen, Xue|[[Shen Xue]]}}
+| rowspan="2" align="left" | {{CHN}}
+| rowspan="2" align="left" | 2002, 2006, 2010
+| rowspan="2" | 1
+| –
+| rowspan="2" | 2
+| rowspan="2" | 3
+| rowspan="2" |<ref name="ShenZhao" />
+|-
+! scope="row" style="text-align:left" | {{sort|Zhao, Hongbo|[[Zhao Hongbo]]}}
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Hans-Jürgen|Bäumler}}
+| align="left" | {{EUA}}
+| align="left" | 1960, 1964
+| –
+| 2
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Marika|Kilius}}
+| align="left" | {{EUA}}
+| align="left" | 1960, 1964
+| –
+| 2
+| –
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Phyllis|Johnson}}{{efn|name=Johnson|[[Phyllis Johnson]] won two medals in pair skating with two different partners: one silver medal in 1908 with [[James H. Johnson (figure skater)|James H. Johnson]] and one bronze medal in 1920 with [[Basil Williams (figure skater)|Basil Williams]].}}
+| align=left | {{GBR2}}
+| align=left | 1908, 1920
+| –
+| 1
+| 1
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Isabelle|Brasseur}}
+| align=left | {{CAN}}
+| align=left | 1992, 1994
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Lloyd|Eisler}}
+| align=left | {{CAN}}
+| align=left | 1992, 1994
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Manuela|Groß}}
+| align=left | {{GDR}}
+| align=left | 1972, 1976
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Uwe|Kagelmann}}
+| align=left | {{GDR}}
+| align=left | 1972, 1976
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|László|Nagy|László Nagy (figure skater)}}
+| align=left | {{HUN}}
+| align=left | 1952, 1956
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Marianna|Nagy|Marianna Nagy (figure skater)}}
+| align=left | {{HUN}}
+| align=left | 1952, 1956
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Emília|Rotter}}
+| align="left" | {{HUN}}
+| align="left" | 1932, 1936
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Robin|Szolkowy}}{{efn|name=Savchenko}}
+| align=left | {{GER}}
+| align=left | 2010, 2014
+| –
+| –
+| 2
+| 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|László|Szollás}}
+| align=left | {{HUN}}
+| align=left | 1932, 1936
+| –
+| –
+| 2
+| 2
+|
+|}
+{{notelist}}
+
+====Ice dance====
+{| class="wikitable sortable" style="text-align:center"
+|-
+! scope="col" | Skater
+! scope="col" class="unsortable" | Nation
+! scope="col" class="unsortable" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place|alt=A gold circle with a G in it.]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place|alt=A silver circle with an S in it.]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place|alt=A bronze circle with a B in it.]]
+! scope="col" | Total
+!Ref.
+|-
+! scope="row" style="text-align:left" | {{sortname|Tessa|Virtue}}
+| rowspan="2" align="left" | {{CAN}}
+| rowspan="2" align="left" | 2010, 2014, 2018
+| rowspan="2" | 2
+| rowspan="2" | 1
+| rowspan="2" | –
+| rowspan="2" | 3
+| rowspan="2" |<ref name="VirtueMoir" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Scott|Moir}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Guillaume|Cizeron}}{{efn|name=Cizeron|Guillaume Cizeron won three medals in ice dance with two different partners: a silver medal in 2018 and a gold medal in 2022 with [[Gabriella Papadakis]] and a gold medal in 2026 with [[Laurence Fournier Beaudry]].}}
+| align="left" | {{FRA}}
+| align="left" | 2018, 2022, 2026
+| 2
+| 1
+| –
+| 3
+|<ref name="PapadakisCizeron" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Oksana|Grishuk}}
+| rowspan="2" align="left" | {{RUS}}
+| rowspan="2" align="left" | 1994, 1998
+| rowspan="2" | 2
+| rowspan="2" | 0
+| rowspan="2" | –
+| rowspan="2" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Evgeny|Platov}}
+!
+|-
+! scope="row" style="text-align:left" | {{sortname|Marina|Klimova}}
+| rowspan="2" align="left" | {{URS}}<br>{{EUN}}
+| rowspan="2" align="left" | 1984, 1992
+| rowspan="2" | 1
+| rowspan="2" | 1
+| rowspan="2" | 1
+| rowspan="2" | 3
+| rowspan="2" |<ref name="KlimovaPonomarenko" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Sergei|Ponomarenko}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Natalia|Bestemianova}}
+| rowspan="2" align="left" | {{URS}}
+| rowspan="2" align="left" | 1984, 1988
+| rowspan="2" | 1
+| rowspan="2" | 1
+| rowspan="2" | –
+| rowspan="2" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Andrei|Bukin}}
+!
+|-
+! scope="row" style="text-align:left" | {{sortname|Meryl|Davis}}
+| rowspan="2" align="left" | {{USA}}
+| rowspan="2" align="left" | 2010, 2014
+| rowspan="2" | 1
+| rowspan="2" | 1
+| rowspan="2" | –
+| rowspan="2" | 2
+| rowspan="2" |<ref name="DavisWhite" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Charlie|White|Charlie White (figure skater)}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Gabriella|Papadakis}}
+| align="left" | {{FRA}}
+| align="left" | 2018, 2022
+| 1
+| 1
+| –
+| 2
+|<ref name="PapadakisCizeron" />
+|-
+! scope="row" style="text-align:left" | {{sortname|Jayne|Torvill}}
+| rowspan="2" align="left" | {{GBR2}}
+| rowspan="2" align="left" | 1984, 1994
+| rowspan="2" | 1
+| rowspan="2" | –
+| rowspan="2" | 1
+| rowspan="2" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Christopher|Dean}}
+!
+|-
+! scope="row" style="text-align:left" | {{sortname|Marina|Anissina}}
+| rowspan="2" align="left" | {{FRA}}
+| rowspan="2" align="left" | 1998, 2002
+| rowspan="2" | 1
+| rowspan="2" | –
+| rowspan="2" | 1
+| rowspan="2" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Gwendal|Peizerat}}
+!
+|-
+! scope="row" style="text-align:left" | {{sortname|Maya|Usova}}
+| rowspan="2" align="left" | {{EUN}}<br>{{RUS}}
+| rowspan="2" align="left" | 1992, 1994
+| rowspan="2" | –
+| rowspan="2" | 1
+| rowspan="2" | 1
+| rowspan="2" | 2
+|
+|-
+! scope="row" style="text-align:left" | {{sortname|Alexander|Zhulin}}
+!
+|-
+! scope="row" style="text-align:left" | {{sortname|Nikita|Katsalapov}}{{efn|name=Katsalpov|Nikita Katsalapov won one bronze medal with [[Elena Ilinykh]],<ref name="IlinykhKatsalapov" /> and one silver medal with [[Victoria Sinitsina]].<ref name="SinitsinaKatsalapov" />}}
+| align="left" | {{RUS}}<br>{{FlagIOC|ROC|2022 Winter}}
+| align="left" | 2014, 2022
+| –
+| 1
+| 1
+| 2
+| <ref name="SinitsinaKatsalapov" /><br><ref name="IlinykhKatsalapov" />
+|}
+{{notelist}}
+
+===Multiple disciplines===
+[[File:Beatrix Loughran LOC.jpg|thumb|upright=0.9|right|alt=A young smiling woman wearing a fur coat waving.|[[Beatrix Loughran]] of the United States won two Olympic medals in [[single skating|women's singles]] and one in [[pair skating]].]]
+Only three skaters have won Olympic medals in multiple [[Figure skating#Disciplines|figure skating disciplines]]. In 1908, [[Madge Syers]] of Great Britain became the first skater to medal in multiple figure skating disciplines at a single Olympics. The only skater to match this feat was [[Ernst Baier]] of Germany in 1936. [[Beatrix Loughran]] of the United States won a silver medal in [[Single skating|women's singles]] at the [[1924 Winter Olympics]], a bronze medal in women's singles at the [[1928 Winter Olympics]], and a silver medal in [[pair skating]] at the [[1932 Winter Olympics]].<ref name="BeatrixLoughran" />
+
+{| class="wikitable unsortable" style="text-align:center"
+|+Skaters who have won Olympic medals in multiple disciplines
+! scope="col" | Skater
+! scope="col" | Nation
+! scope="col" | Events
+! scope="col" | Olympics
+! scope="col" style="width:1em; background-color:gold" | [[File:Gold medal icon (G initial).svg|20px|link=|Gold medal – first place|alt=A gold circle with a G in it.]]
+! scope="col" style="width:1em;background-color:silver" | [[File:Silver medal icon (S initial).svg|20px|link=|Silver medal – second place|alt=A silver circle with an S in it.]]
+! scope="col" style="width:1em;background-color:#CC9966" | [[File:Bronze medal icon (B initial).svg|20px|link=|Bronze medal – third place|alt=A bronze circle with a B in it.]]
+! scope="col" | Total
+! scope="col" | {{Abbr|Ref.|References}}
+|-
+! scope="row" style="text-align:left" rowspan="2" | [[Ernst Baier]]
+| rowspan="2" align="left" | {{GER}} 
+| align="left" | Men's singles
+| rowspan="2" align="left" | 1936
+| –
+| 1
+| –
+| rowspan="2" | 2
+| rowspan="2" |
+|-
+| align="left" | Pairs
+| 1
+| –
+| –
+|-
+! scope="row" style="text-align:left" rowspan="2" | [[Madge Syers]]
+| rowspan="2" align="left" | {{GBR2}}
+| align="left" | Women's singles
+| rowspan="2" align="left" | 1908
+| 1
+| –
+| –
+| rowspan="2" | 2
+| rowspan="2" |
+|-
+| align="left" | Pairs
+| –
+| –
+| 1
+|-
+! scope="row" style="text-align:left" rowspan="2" | [[Beatrix Loughran]]
+| rowspan="2" align="left" | {{USA}}
+| align="left" | Women's singles
+| align="left" | 1924, 1928
+| –
+| 1
+| 1
+| rowspan="2" | 3
+| rowspan="2" |<ref name="BeatrixLoughran" />
+|-
+| align="left" | Pairs
+| align="left" | 1932
+| –
+| 1
+| –
+|}
+{{clear}}
+
+== Total medal count by nation ==
+* Countries or entities that can no longer participate are indicated in ''italics'' with a dagger ({{dagger}}).
+
+===Men's singles===
+[[File:1908 Olympic Games Ulrich Salchow.jpg|thumb|upright=0.9|alt=A male figure skater poses for a shot at an indoor ice rink; the background is very blurred.|[[Ulrich Salchow]] of Sweden, who created the [[Salchow jump]], was the first Olympic champion in men's figure skating.]]
+{{Medals table
+ | caption        = Number of Olympic medals in men's singles by nation
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_USA = 8 | silver_USA = 3 | bronze_USA = 5
+ | gold_SWE = 4 | silver_SWE = 2 | bronze_SWE = 1
+ | gold_RUS = 4 | silver_RUS = 2 | bronze_RUS = 0 | name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+ | gold_AUT = 3 | silver_AUT = 3 | bronze_AUT = 2
+ | gold_JPN = 2 | silver_JPN = 3 | bronze_JPN = 3
+ | gold_GBR = 2 | silver_GBR = 0 | bronze_GBR = 0
+ | gold_TCH = 1 | silver_TCH = 1 | bronze_TCH = 2 | name_TCH = ''{{FlagIOC|TCH}}'' {{dagger}}
+ | gold_EUN = 1 | silver_EUN = 0 | bronze_EUN = 0 | name_EUN = ''{{FlagIOC|EUN}}'' {{dagger}}
+ | gold_EUA = 1 | silver_EUA = 0 | bronze_EUA = 0 | name_EUA = ''{{FlagIOC|EUA}}'' {{dagger}}
+ | gold_CAN = 0 | silver_CAN = 5 | bronze_CAN = 4
+ | gold_URS = 0 | silver_URS = 2 | bronze_URS = 1 | name_URS = ''{{FlagIOC|URS}}'' {{dagger}}
+ | gold_SUI = 0 | silver_SUI = 2 | bronze_SUI = 1
+ | gold_FRA = 0 | silver_FRA = 1 | bronze_FRA = 4
+ | gold_NOR = 0 | silver_NOR = 1 | bronze_NOR = 1
+ | gold_GDR = 0 | silver_GDR = 1 | bronze_GDR = 0 | name_GDR = ''{{FlagIOC|GDR}}'' {{dagger}}
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 0
+ | gold_BEL = 0 | silver_BEL = 0 | bronze_BEL = 1
+ | gold_KAZ = 1 | silver_KAZ = 0 | bronze_KAZ = 1
+ | gold_ESP = 0 | silver_ESP = 0 | bronze_ESP = 1
+}}
+
+===Women's singles===
+{{Medals table
+ | caption        = Number of Olympic medals in women's singles by nation
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_USA = 8 | silver_USA = 8 | bronze_USA = 8
+ | gold_GDR = 3 | silver_GDR = 1 | bronze_GDR = 1 | name_GDR = ''{{FlagIOC|GDR}}'' {{dagger}}
+ | gold_NOR = 3 | silver_NOR = 0 | bronze_NOR = 0
+ | gold_AUT = 2 | silver_AUT = 4 | bronze_AUT = 1
+ | gold_GBR = 2 | silver_GBR = 1 | bronze_GBR = 3
+ | gold_CAN = 1 | silver_CAN = 2 | bronze_CAN = 3
+ | gold_JPN = 1 | silver_JPN = 3 | bronze_JPN = 2
+ | gold_NED = 1 | silver_NED = 2 | bronze_NED = 0
+ | gold_RUS = 1 | silver_RUS = 1 | bronze_RUS = 1 | name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+ | gold_SWE = 1 | silver_SWE = 1 | bronze_SWE = 1
+ | gold_OAR = 1 | silver_OAR = 1 | bronze_OAR = 0 | name_OAR = ''{{FlagIOC|OAR}}'' {{dagger}}
+ | gold_ROC = 1 | silver_ROC = 1 | bronze_ROC = 0 | name_ROC = ''{{FlagIOC|ROC|2022 Winter}}'' {{dagger}}
+ | gold_KOR = 1 | silver_KOR = 1 | bronze_KOR = 0
+ | gold_UKR = 1 | silver_UKR = 0 | bronze_UKR = 0
+ | gold_GER = 0 | silver_GER = 1 | bronze_GER = 0
+ | gold_CHN = 0 | silver_CHN = 0 | bronze_CHN = 2
+ | gold_TCH = 0 | silver_TCH = 0 | bronze_TCH = 1 | name_TCH = ''{{FlagIOC|TCH}}'' {{dagger}}
+ | gold_FRA = 0 | silver_FRA = 0 | bronze_FRA = 1
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_URS = 0 | silver_URS = 0 | bronze_URS = 1 | name_URS = ''{{FlagIOC|URS}}'' {{dagger}}
+ | gold_FRG = 0 | silver_FRG = 0 | bronze_FRG = 1 | name_FRG = ''{{FlagIOC|FRG}}'' {{dagger}}
+}}
+
+===Pairs===
+{{Medals table
+ | caption        = Number of Olympic medals in pair skating by nation
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_URS = 7 | silver_URS = 4 | bronze_URS = 1 | name_URS = ''{{FlagIOC|URS}}'' {{dagger}}
+ | gold_RUS = 5 | silver_RUS = 3 | bronze_RUS = 0 | name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+
+ | gold_CHN = 2 | silver_CHN = 3 | bronze_CHN = 2
+ | gold_CAN = 2 | silver_CAN = 2 | bronze_CAN = 4
+ | gold_AUT = 2 | silver_AUT = 2 | bronze_AUT = 1
+ | gold_FRA = 2 | silver_FRA = 0 | bronze_FRA = 1
+ | gold_FIN = 1 | silver_FIN = 1 | bronze_FIN = 0
+ | gold_EUN = 1 | silver_EUN = 1 | bronze_EUN = 0 | name_EUN = ''{{FlagIOC|EUN}}'' {{dagger}}
+ | gold_BEL = 1 | silver_BEL = 0 | bronze_BEL = 0
+ | gold_USA = 0 | silver_USA = 3 | bronze_USA = 3
+ | gold_EUA = 0 | silver_EUA = 2 | bronze_EUA = 0 | name_EUA = ''{{FlagIOC|EUA}}'' {{dagger}}
+ | gold_HUN = 0 | silver_HUN = 1 | bronze_HUN = 4
+ | gold_GBR = 0 | silver_GBR = 1 | bronze_GBR = 2
+ | gold_GDR = 0 | silver_GDR = 1 | bronze_GDR = 3 | name_GDR = ''{{FlagIOC|GDR}}'' {{dagger}}
+ | gold_GEO = 0 | silver_GEO = 1 | bronze_GEO = 0
+ | gold_GER = 4 | silver_GER = 0 | bronze_GER = 4
+ | gold_JPN = 1 | silver_JPN = 0 | bronze_JPN = 0
+ | gold_ROC = 0 | silver_ROC = 1 | bronze_ROC = 1 | name_ROC = ''{{FlagIOC|ROC|2022 Winter}}'' {{dagger}}
+ | gold_NOR = 0 | silver_NOR = 1 | bronze_NOR = 0
+ | gold_FRG = 0 | silver_FRG = 0 | bronze_FRG = 1 | name_FRG = ''{{FlagIOC|FRG}}'' {{dagger}}
+}}
+
+===Ice dance===
+{{Medals table
+ | caption        = Number of Olympic medals in ice dance by nation
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_CAN = 2 | silver_CAN = 1 | bronze_CAN = 2
+ | gold_EUN = 1 | silver_EUN = 0 | bronze_EUN = 1 | name_EUN = ''{{FlagIOC|EUN}}'' {{dagger}}
+ | gold_FRA = 3 | silver_FRA = 2 | bronze_FRA = 1
+ | gold_GBR = 1 | silver_GBR = 0 | bronze_GBR = 1
+ | gold_HUN = 0 | silver_HUN = 1 | bronze_HUN = 0
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_ROC = 0 | silver_ROC = 1 | bronze_ROC = 0 | name_ROC = ''{{FlagIOC|ROC|2022 Winter}}'' {{dagger}}
+ | gold_RUS = 3 | silver_RUS = 3 | bronze_RUS = 2 | name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+ | gold_URS = 3 | silver_URS = 3 | bronze_URS = 2 | name_URS = ''{{FlagIOC|URS}}'' {{dagger}}
+ | gold_USA = 1 | silver_USA = 3 | bronze_USA = 3
+}}
+
+===Team event===
+{{Medals table
+ | caption        = Number of Olympic medals in the figure skating team event by nation
+ | host           = 
+ | flag_template  = FlagIOC
+ | event          = 
+ | team           = 
+ | gold_CAN = 1 | silver_CAN = 1 | bronze_CAN = 0
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_JPN = 0 | silver_JPN = 2 | bronze_JPN = 0
+ | gold_OAR = 0 | silver_OAR = 1 | bronze_OAR = 0 | name_OAR = ''{{FlagIOC|OAR}}'' {{dagger}}
+ | gold_ROC = 0 | silver_ROC = 0 | bronze_ROC = 1 | name_ROC = ''{{FlagIOC|ROC|2022 Winter}}'' {{dagger}}
+ | gold_RUS = 1 | silver_RUS = 0 | bronze_RUS = 0 | name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+ | gold_USA = 2 | silver_USA = 0 | bronze_USA = 2
+}}
+
+=== Overall ===
+{{Medals table
+|caption  = Total number of Olympic medals by nation
+|host     = 
+|flag_template = FlagIOC 
+|event    =  
+|team     = 
+|gold_USA = 19|silver_USA = 17|bronze_USA = 21
+|gold_RUS = 15|silver_RUS = 9|bronze_RUS = 3|name_RUS = ''{{FlagIOC|RUS}}'' {{dagger}}
+|gold_URS = 10|silver_URS = 9|bronze_URS = 5|name_URS = ''{{FlagIOC|URS}}'' {{dagger}}
+|gold_AUT = 7|silver_AUT = 9|bronze_AUT = 4
+|gold_CAN = 6|silver_CAN = 11|bronze_CAN = 13
+|gold_GBR = 5|silver_GBR = 3|bronze_GBR = 7
+|gold_FRA = 5|silver_FRA = 3|bronze_FRA = 7
+|gold_SWE = 5|silver_SWE = 3|bronze_SWE = 2
+|gold_JPN = 4|silver_JPN = 8|bronze_JPN = 5
+|gold_GER = 4|silver_GER = 2|bronze_GER = 4
+|gold_GDR = 3|silver_GDR = 3|bronze_GDR = 4|name_GDR = ''{{FlagIOC|GDR}}'' {{dagger}}
+|gold_NOR = 3|silver_NOR = 2|bronze_NOR = 1
+|gold_EUN = 3|silver_EUN = 1|bronze_EUN = 1|name_EUN = ''{{FlagIOC|EUN}}'' {{dagger}}
+|gold_CHN = 2|silver_CHN = 3|bronze_CHN = 4
+|gold_ROC = 1|silver_ROC = 3|bronze_ROC = 2|name_ROC = ''{{FlagIOC|ROC|2022 Winter}}'' {{dagger}}
+|gold_NED = 1|silver_NED = 2|bronze_NED = 0
+|gold_OAR = 1|silver_OAR = 2|bronze_OAR = 0|name_OAR = ''{{FlagIOC|OAR}}'' {{dagger}}
+|gold_EUA = 1|silver_EUA = 2|bronze_EUA = 0|name_EUA = ''{{FlagIOC|EUA}}'' {{dagger}}
+|gold_TCH = 1|silver_TCH = 1|bronze_TCH = 3|name_TCH = ''{{FlagIOC|TCH}}'' {{dagger}}
+|gold_FIN = 1|silver_FIN = 1|bronze_FIN = 0
+|gold_KOR = 1|silver_KOR = 1|bronze_KOR = 0
+|gold_BEL = 1|silver_BEL = 0|bronze_BEL = 1
+|gold_UKR = 1|silver_UKR = 0|bronze_UKR = 1
+|gold_HUN = 0|silver_HUN = 2|bronze_HUN = 4
+|gold_SUI = 0|silver_SUI = 2|bronze_SUI = 1
+|gold_GEO = 0|silver_GEO = 1|bronze_GEO = 0
+|gold_ITA = 0|silver_ITA = 0|bronze_ITA = 3
+|gold_FRG = 0|silver_FRG = 0|bronze_FRG = 2|name_FRG = ''{{FlagIOC|FRG}}'' {{dagger}}
+|gold_KAZ = 1|silver_KAZ = 0|bronze_KAZ = 1
+|gold_ESP = 0|silver_ESP = 0|bronze_ESP = 1
+}}
+
+==See also==
+* [[Figure skating at the Olympic Games]]
+* [[World Figure Skating Championships]]
+
+==References==
+'''General'''
+* ISU – Olympic Games Figure Skating results:
+** 1908–2002 [https://web.archive.org/web/20060221144238/http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-130381-131689-25997-0-file,00.pdf Men] [https://web.archive.org/web/20060221144254/http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-130384-131692-25996-0-file,00.pdf Ladies] [https://web.archive.org/web/20060221144230/http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-130380-131688-25998-0-file,00.pdf Pairs] [https://web.archive.org/web/20060221144246/http://www.isu.org/vsite/vfile/page/fileurl/0,11040,4844-130382-131690-25995-0-file,00.pdf Ice dance]
+** [http://www.isuresults.com/results/owg2006/ 2006] {{Webarchive|url=https://web.archive.org/web/20181029052655/http://www.isuresults.com/results/owg2006/ |date=October 29, 2018 }} [http://www.isuresults.com/results/owg2010/ 2010] {{Webarchive|url=https://web.archive.org/web/20181029053512/http://www.isuresults.com/results/owg2010/ |date=October 29, 2018 }} [http://www.isuresults.com/results/owg2014/ 2014] {{Webarchive|url=https://web.archive.org/web/20191120002201/http://www.isuresults.com/results/owg2014/ |date=November 20, 2019 }} [http://www.isuresults.com/results/season1718/owg2018/ 2018] {{Webarchive|url=https://web.archive.org/web/20200115215321/http://www.isuresults.com/results/season1718/owg2018/ |date=January 15, 2020 }} [https://results.isu.org/results/season2122/owg2022/ 2022] {{Webarchive|url=https://web.archive.org/web/20220203192833/https://results.isu.org/results/season2122/owg2022/ |date=February 3, 2022 }}
+
+'''Specific'''
+{{Reflist}}
+
+{{Figure skating at the Olympic Games}}
+{{Olympic medalists}}
+{{Figure skating}}
+
+{{featured list}}
+
+{{DEFAULTSORT:List Of Olympic Medalists In Figure Skating}}
+[[Category:Lists of Winter Olympic medalists by sport|Figure skating]]
+[[Category:Lists of figure skating medalists|Olympic Games]]
+[[Category:Figure skating records and statistics|Olympic medalists]]
+[[Category:Olympic medalists in figure skating]]
+[[Category:Figure skating at the Olympic Games|medalists]]

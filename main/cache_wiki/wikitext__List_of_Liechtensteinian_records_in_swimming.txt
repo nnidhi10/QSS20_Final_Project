@@ -1,0 +1,1465 @@
+{{Short description|None}}
+The '''Liechtensteinian records in swimming''' are the fastest ever performances of swimmers from [[Liechtenstein]], which are recognised and ratified by the [[Liechtensteiner Schwimmverband|Liechtenstein Swimming Association]] (LSchV).
+
+All records were set in finals unless noted otherwise.
+
+==Long Course (50 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 23.22
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 30 May 2019
+|meet = [[Swimming at the 2019 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Podgorica
+|country = MNE
+|ref = <ref>{{cite web|title=Men's 50m Freestyle Results|url=http://www.serbia-swim.org.rs/live/2019/mne-2019/ResultList_302.pdf|publisher=serbia-swim.org.rs|date=30 May 2019|access-date=1 October 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 51.20
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 30 May 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=FINAL 100m FREESTYLE Men|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM011101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=30 May 2017|access-date=31 May 2017|archive-date=21 October 2017|archive-url=https://web.archive.org/web/20171021122222/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM011101_C73_1.0.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:52.51
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 8 July 2018
+|meet = Luxembourgish Championships
+|city = Luxembourg
+|cityarticle = Luxembourg City
+|country = LUX
+|ref = <ref>{{cite web|title=Men, 200m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=609861&gender=1&styleId=3|publisher=swimrankings.net|date=8 July 2018|access-date=18 August 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:01.03
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 28 May 2016
+|meet = -
+|city = Bergen
+|country = NOR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:26.31
+|recordinfo = †
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 5 June 2015
+|meet = [[Swimming at the 2015 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Reykjavík
+|country = ISL
+|ref = <ref>{{cite web|title=Men's 1500m Results|url=http://www.swimrankings.net/services/CalendarFile/13072/live/ResultList_29.pdf|archive-url=https://web.archive.org/web/20150924135030/http://www.swimrankings.net/services/CalendarFile/13072/live/ResultList_29.pdf|url-status=dead|archive-date=24 September 2015|publisher=swimrankings.net|date=5 June 2015|access-date=6 June 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:55.71
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 5 June 2015
+|meet = [[Swimming at the 2015 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Reykjavík
+|country = ISL
+|ref = <ref>{{cite magazine|title=Hilda Luthersdottir Sets Four Records at Small States Games|url=http://www.swimmingworldmagazine.com/news/hilda-luthersdottir-sets-four-records-at-small-states-games/|magazine=[[Swimming World Magazine]]|date=5 June 2015|access-date=6 June 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 27.75
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Bern Swimming Club
+|date = 15 December 2018
+|meet = Christmas Cup
+|city = Uster
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 59.65
+|recordinfo = 
+|firstname = Fabio
+|lastname = Toscan
+|namearticle = 
+|club = SV St. Gallen - Wittenbach
+|date = 14 June 2025
+|meet = -
+|city = Romanshorn
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:08.88
+|recordinfo = 
+|firstname = Fabio
+|lastname = Toscan
+|namearticle = 
+|club = SV St. Gallen - Wittenbach
+|date = 5 April 2025
+|meet = -
+|city = Sursee
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 29.03
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 29 May 2016
+|meet = -
+|city = Bergen
+|country = NOR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:02.88
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 28 May 2016
+|meet = -
+|city = Bergen
+|country = NOR
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:14.65
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = SC Uster Wallisellen
+|date = 21 March 2019
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref = <ref>{{cite web|title=Men's 200m Breaststroke Final Results|url=https://live.swimrankings.net/23494/ResultList_7F.pdf|publisher=swimrankings.net|date=21 March 2019|access-date=21 March 2019|archive-date=21 March 2019|archive-url=https://web.archive.org/web/20190321210254/https://live.swimrankings.net/23494/ResultList_7F.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.79
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Bern Swimming Club
+|date = 15 December 2018
+|meet = Christmas Cup
+|city = Uster
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 57.36
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 13 July 2018
+|meet = Swiss Summer Championships
+|city = Aarau
+|country = SUI
+|ref = <ref>{{cite web|title=Men, 100m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=609951&gender=1&styleId=16|publisher=swimrankings.net|date=13 July 2018|access-date=18 August 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:02.34
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 28 May 2019
+|meet = [[Swimming at the 2019 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Podgorica
+|country = MNE
+|ref = <ref>{{cite web|title=Men's 200m Butterfly Results|url=http://www.serbia-swim.org.rs/live/2019/mne-2019/ResultList_104.pdf|publisher=serbia-swim.org.rs|date=28 May 2019|access-date=28 May 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:02.68
+|recordinfo = h
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 24 July 2019
+|meet = [[Swimming at the 2019 World Aquatics Championships – Men's 200 metre individual medley|World Championships]]
+|city = Gwangju
+|country = KOR
+|ref = <ref>{{cite web|title=Men's 200m IM Heats Results|url=http://omegatiming.com/File/00011301070105EE01FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=24 July 2019|access-date=24 July 2019|archive-date=24 July 2019|archive-url=https://web.archive.org/web/20190724022552/http://www.omegatiming.com/File/00011301070105EE01FFFFFFFFFFFF01.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:19.19
+|recordinfo = h
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 6 August 2016
+|meet = [[Swimming at the 2016 Summer Olympics – Men's 400 metre individual medley|Olympic Games]]
+|city = Rio de Janeiro
+|country = BRA
+|ref = <ref>{{cite web|title=Men's 400m IM Heats Results |url=https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM054900_ResultsSummary_2016_08_06.pdf |work=smsprio2016-a.akamaihd.net |date=6 August 2016 |access-date=6 August 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160807151100/https://smsprio2016-a.akamaihd.net/_odf-documents/S/W/SWM054900_ResultsSummary_2016_08_06.pdf |archive-date= 7 August 2016 }}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 4×100m freestyle relay
+|time = 3:41.50
+|recordinfo = 
+|1name = [[Patrick Vetsch]]
+|1split = 51.52
+|2name = [[Simon-Aramis Greuter]]
+|2split = 59.99
+|3name = [[Christoph Meier]]
+|3split = 52.75
+|4name = [[Tarik Hoch]]
+|4split = 57.24
+|club = {{flagu|Liechtenstein}}
+|date = 2 June 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=HEATS 4x100m FREESTYLE Men|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM411101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=2 June 2017|access-date=28 July 2017|archive-url=https://web.archive.org/web/20170728123420/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM411101_C73_1.0.pdf|archive-date=28 July 2017|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×200m freestyle relay
+|time = 8:48.04
+|recordinfo = 
+|1name = [[T. Gross]]
+|1split = 
+|2name = [[Alexander Höpker]]
+|2split =  
+|3name = [[T. Mathis]]
+|3split = 
+|4name = [[Thomas Wanger]]
+|4split = 
+|club = {{flagu|Liechtenstein}}
+|date = 26 June 1999
+|meet = -
+|city = Kreuzlingen
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m medley relay
+|time = 4:01.74
+|recordinfo = 
+|1name = [[Tarik Hoch]]
+|1split = 1:04.41
+|2name = [[Simon-Aramis Greuter]]
+|2split = 1:09.48
+|3name = [[Christoph Meier]]
+|3split = 56.88
+|4name = [[Patrick Vetsch]]
+|4split = 50.97
+|club = {{flagu|Liechtenstein}}
+|date = 1 June 2017
+|meet = [[Swimming at the 2017 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Serravalle
+|cityarticle = Serravalle (San Marino)
+|country = SMR
+|ref = <ref>{{cite web|title=HEATS 4x100m MEDLEY Men|url=https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM451101_C73_1.0.pdf|publisher=sanmarino2017.sportresult.com|date=1 June 2017|access-date=28 July 2017|archive-date=28 July 2017|archive-url=https://web.archive.org/web/20170728130800/https://sanmarino2017.sportresult.com/nh/en/-120/Root/ViewPdf/SWM451101_C73_1.0.pdf|url-status=dead}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Liechtensteiner Schwimmverband{{!}}LSchV|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 27.08
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SV Nikar Heidelberg
+|date = 12 March 2021
+|meet = SV Nikar Heidelberg Invitation Meet
+|city = Heidelberg
+|country = GER
+|ref = <ref>{{cite web|title=Wettkampf 11 - 50m Freistil weiblich|url=https://www.sv-nikar.de/fileadmin/Pictures/PDFs/Einladungswettkampf_BSP_03_2021/proto_abs001.pdf|publisher=sv-nikar.de|date=12 March 2021|accessdate=14 September 2022|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028144813/https://www.sv-nikar.de/fileadmin/Pictures/PDFs/Einladungswettkampf_BSP_03_2021/proto_abs001.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 57.03
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SV Nikar Heidelberg
+|date = 13 March 2021
+|meet = SV Nikar Heidelberg Invitation Meet
+|city = Heidelberg
+|country = GER
+|ref = <ref>{{cite web|title=Wettkampf 21 - 100m Freistil weiblich|url=https://www.sv-nikar.de/fileadmin/Pictures/PDFs/Einladungswettkampf_BSP_03_2021/proto_abs002.pdf|publisher=sv-nikar.de|date=13 March 2021|accessdate=17 March 2021|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028144646/https://www.sv-nikar.de/fileadmin/Pictures/PDFs/Einladungswettkampf_BSP_03_2021/proto_abs002.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 2:00.28
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 25 June 2021
+|meet = Sette Colli Trophy
+|city = Rome
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 200m Freestyle Results|url=http://fin2021.microplustiming.com/export/NU_2021_06_25-27_Roma/NU/pdf/CLS-ASF-200SL-TIM-RIEP.pdf?x=00:19:02|work=microplustiming.com|date=25 June 2021|accessdate=25 June 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:06.98
+|recordinfo = h
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 25 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Women's 400 metre freestyle|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 400m Freestyle Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW400MFR------------HEAT--------.pdf|publisher=olympics.com|date=25 July 2021|accessdate=25 July 2021|archive-date=2 August 2021|archive-url=https://web.archive.org/web/20210802223258/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW400MFR------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:26.99
+|recordinfo = h
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 29 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Women's 800 metre freestyle|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 800m Freestyle Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW800MFR------------HEAT--------.pdf|publisher=olympics.com|date=29 July 2021|accessdate=29 July 2021|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729104815/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW800MFR------------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:12.55
+|recordinfo = h
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 26 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Women's 1500 metre freestyle|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW1500MFR-----------HEAT--------.pdf|publisher=olympics.com|date=26 July 2021|accessdate=26 July 2021|archive-date=26 July 2021|archive-url=https://web.archive.org/web/20210726144343/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW1500MFR-----------HEAT--------.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 32.63
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = Schwimmclub Aquarius Triesen
+|date = 30 June 2012
+|meet = Swiss Championships
+|city = Nyon
+|country = SUI
+|ref = <ref>{{cite web|title=Women, 50m Backstroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=563329&gender=2&styleId=9|publisher=swimrankings.net|date=30 June 2012|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:07.42
+|recordinfo = 
+|firstname = Maria
+|lastname = Batliner
+|namearticle = 
+|club = -
+|date = 17 July 2009
+|meet = -
+|city = Renens
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:29.59
+|recordinfo = 
+|firstname = Maria
+|lastname = Batliner
+|namearticle = 
+|club = -
+|date = 29 January 2011
+|meet = -
+|city = Enzersdorf
+|country = AUT
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 34.42
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = Schwimmclub Aquarius Triesen
+|date = 19 February 2012
+|meet = -
+|city = Montreux
+|country = SUI
+|ref = <ref>{{cite web|title=Women, 50m Breaststroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=559446&gender=2&styleId=12|publisher=swimrankings.net|date=19 February 2012|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:13.25
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = -
+|date = 11 March 2016
+|meet = -
+|city = Oerlikon
+|cityarticle = Oerlikon (Zürich)
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:34.91
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 29 May 2013
+|meet = [[Swimming at the 2013 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Luxembourg
+|cityarticle = Luxembourg (city)
+|country = LUX
+|ref = <ref>{{cite web|title=Women's 200m Breaststroke Results|url=http://www.luxembourg2013.lu/jpee/ResultList_115F.pdf|publisher=www.luxembourg2013.lu|date=29 May 2013|access-date=6 June 2013|archive-date=10 September 2016|archive-url=https://web.archive.org/web/20160910150543/http://www.luxembourg2013.lu/jpee/ResultList_115F.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 29.00
+|recordinfo = h
+|firstname = Theresa 
+|lastname = Hefel
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 7 July 2018
+|meet = Luxembourgish Championships
+|city = Luxembourg
+|cityarticle = Luxembourg City
+|country = LUX
+|ref = <ref>{{cite web|title=Women, 50m Butterfly, Prelim, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=609861&gender=2&styleId=15|publisher=swimrankings.net|date=7 July 2018|access-date=18 August 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 1:02.27
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 29 May 2019
+|meet = [[Swimming at the 2019 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Podgorica
+|country = MNE
+|ref = <ref>{{cite web|title=Women's 100m Butterfly Results|url=http://www.serbia-swim.org.rs/live/2019/mne-2019/ResultList_207.pdf|publisher=serbia-swim.org.rs|date=29 May 2019|access-date=29 May 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:15.39
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 28 May 2019
+|meet = [[Swimming at the 2019 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Podgorica
+|country = MNE
+|ref = <ref>{{cite web|title=Women's 200m Butterfly Results|url=http://www.serbia-swim.org.rs/live/2019/mne-2019/ResultList_103.pdf|publisher=serbia-swim.org.rs|date=28 May 2019|access-date=28 May 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 200m individual medley
+|time = 2:23.26
+|recordinfo = 
+|firstname = Teresa
+|lastname = Banzer
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 2 June 2015
+|meet = [[Swimming at the 2015 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Reykjavík
+|country = ISL
+|ref = <ref>{{cite web|title=Women's 200m IM Results|url=http://www.swimrankings.net/services/CalendarFile/13072/live/ResultList_7F.pdf|archive-url=https://web.archive.org/web/20150924135037/http://www.swimrankings.net/services/CalendarFile/13072/live/ResultList_7F.pdf|url-status=dead|archive-date=24 September 2015|publisher=swimrankings.net|date=2 June 2015|access-date=5 June 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 400m individual medley
+|time = 4:58.29
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 30 May 2019
+|meet = [[Swimming at the 2019 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Podgorica
+|country = MNE
+|ref = <ref>{{cite web|title=Women's 400m IM Results|url=http://www.serbia-swim.org.rs/live/2019/mne-2019/ResultList_309.pdf|publisher=serbia-swim.org.rs|date=30 May 2019|access-date=30 May 2019}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 18
+|event = 4×50m<br>&nbsp; freestyle relay
+|time = 1:55.09
+|recordinfo = 
+|1name = [[Laura Manco]]
+|1split = 
+|2name = [[Theresa Banzer]]
+|2split = 
+|3name = [[Tamara Vetsch]]
+|3split = 
+|4name = [[Valentina Banzer]]
+|4split = 
+|club = -
+|date = 27 April 2013
+|meet = -
+|city = Geneva
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×100m<br>&nbsp; freestyle relay
+|time = 4:00.94
+|recordinfo = 
+|1name = [[Jasmin Buechel]]
+|1split = 1:02.16
+|2name = [[Theresa Banzer]]
+|2split = 59.31
+|3name = [[Julia Hassler]]
+|3split = 57.45
+|4name = [[Tamara Vetsch]]
+|4split = 1:02.02
+|club = {{flagu|Liechtenstein}}
+|date = 31 May 2013
+|meet = [[Swimming at the 2013 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Luxembourg
+|cityarticle = Luxembourg (city)
+|country = LUX
+|ref = <ref>{{cite web|title=Women's 4×100m Freestyle Relay Results|url=http://www.luxembourg2013.lu/jpee/ResultList_31.pdf|publisher=www.luxembourg2013.lu|date=31 May 2013|access-date=7 June 2013|archive-date=10 September 2016|archive-url=https://web.archive.org/web/20160910150842/http://www.luxembourg2013.lu/jpee/ResultList_31.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×200m<br>&nbsp; freestyle relay
+|time = 8:43.34
+|recordinfo = 
+|1name = [[Celina Kind]]
+|1split = 2:16.90
+|2name = [[Jasmin Büchel]]
+|2split = 2:13.95
+|3name = [[Theresa Banzer]]
+|3split = 2:08.75
+|4name = [[Julia Hassler]]
+|4split = 2:03.74
+|club = {{flagu|Liechtenstein}}
+|date = 29 May 2013
+|meet = [[Swimming at the 2013 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Luxembourg
+|cityarticle = Luxembourg (city)
+|country = LUX
+|ref = <ref>{{cite web|title=Women's 4×200m Freestyle Relay Results|url=http://www.luxembourg2013.lu/jpee/ResultList_17.pdf|publisher=www.luxembourg2013.lu|date=29 May 2013|access-date=7 June 2013|archive-date=10 September 2016|archive-url=https://web.archive.org/web/20160910150910/http://www.luxembourg2013.lu/jpee/ResultList_17.pdf|url-status=dead}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×50m<br>&nbsp; medley relay
+|time = 2:21.05
+|recordinfo = 
+|1name = [[Nora Zenhäusern]]
+|1split = 
+|2name = [[Nicole Wenaweser]]
+|2split = 
+|3name = [[Nicole Rothmund]]
+|3split = 
+|4name = [[Petra Wolfinger]]
+|4split = 
+|club = -
+|date = 3 May 1997
+|meet = -
+|city = Antwerp
+|country = BEL
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×100m<br>&nbsp; medley relay
+|time = 4:28.03
+|recordinfo = 
+|1name = [[Celina Kind]]
+|1split = 1:10.00
+|2name = [[Theresa Banzer]]
+|2split = 1:13.50
+|3name = [[Julia Hassler]]
+|3split = 1:02.75
+|4name = [[Jasmin Büchel]]
+|4split = 1:01.78
+|club = {{flagu|Liechtenstein}}
+|date = 30 May 2013
+|meet = [[Swimming at the 2013 Games of the Small States of Europe|Games of the Small States of Europe]]
+|city = Luxembourg
+|cityarticle = Luxembourg (city)
+|country = LUX
+|ref = <ref>{{cite web|title=Women's 4×100m Medley Relay Results|url=http://www.luxembourg2013.lu/jpee/ResultList_25.pdf|publisher=www.luxembourg2013.lu|date=30 May 2013|access-date=8 June 2013|archive-date=4 March 2016|archive-url=https://web.archive.org/web/20160304104120/http://www.luxembourg2013.lu/jpee/ResultList_25.pdf|url-status=dead}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Liechtensteiner Schwimmverband{{!}}LSchV|WR=yes|ER=yes}}
+
+
+==Short Course (25 m)==
+===Men===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 22.52
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Bern Swimming Club
+|date = 16 November 2018
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref =
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 49.48
+|recordinfo = h
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 16 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Men's 100m Freestyle Heats Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-100FR-PRE-ALL.pdf|work=microplustiming.com|date=16 December 2017|access-date=16 December 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:48.16
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Schwimmgemeinschaft Liechtenstein
+|date = 25 November 2017
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref = <ref>{{cite web|title=Men, 200m Freestyle, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=604844&gender=1&styleId=3|work=swimrankings.net|date=25 November 2017|access-date=2 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 3:48.67
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 19 March 2016
+|meet = -
+|city = Lausanne
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 7:59.81
+|recordinfo = †
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 7 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Men's 1500 metre freestyle|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite web|title=Men's 1500m Freestyle Results|url=http://www.omegatiming.com/File/Download?id=00010E010D00000502FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=8 January 2015}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 15:09.40
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 21 March 2015
+|meet = -
+|city = Lugano
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 26.21
+|recordinfo = 
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Bern Swimming Club
+|date = 16 November 2018
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref =
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 56.64
+|recordinfo = b
+|firstname = Fabio
+|lastname = Toscan
+|namearticle = 
+|club = SV St.Gallen-Witten
+|date = 16 November 2024
+|meet = Swiss Championships
+|city = Sursee
+|country = SUI
+|ref =<ref>{{cite web|title=Men's 100m Backstroke B-Final Results|url=https://live.swimrankings.net/44281/ResultList_15F.pdf|publisher=swimrankings.net|date=16 November 2024|access-date=22 November 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:02.86
+|recordinfo = b
+|firstname = Fabio
+|lastname = Toscan
+|namearticle = 
+|club = SV St.Gallen-Witten
+|date = 17 November 2024
+|meet = Swiss Championships
+|city = Sursee
+|country = SUI
+|ref =<ref>{{cite web|title=Men's 200m Backstroke B-Final Results|url=https://live.swimrankings.net/44281/ResultList_29F.pdf|publisher=swimrankings.net|date=17 November 2024|access-date=22 November 2024}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 28.71
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 21 December 2016
+|meet = -
+|city = Uster
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:01.07
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 21 March 2015
+|meet = -
+|city = Lugano
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:10.67
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 21 November 2014
+|meet = -
+|city = Uster
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 25.27
+|recordinfo = b
+|firstname = Patrick
+|lastname = Vetsch
+|namearticle = 
+|club = Schwimmgemeinschaft Liechtenstein
+|date = 26 November 2017
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref = <ref>{{cite web|title=Men, 50m Butterfly, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=604844&gender=1&styleId=15|work=swimrankings.net|date=26 November 2017|access-date=2 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 56.14
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = SC Uster Wallisellen
+|date = 24 November 2017
+|meet = Swiss Championships
+|city = Uster
+|country = SUI
+|ref = <ref>{{cite web|title=Men, 100m Butterfly, Prelim, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=604844&gender=1&styleId=16|work=swimrankings.net|date=24 November 2017|access-date=2 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 1:59.55
+|recordinfo = 
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = -
+|date = 21 March 2015
+|meet = -
+|city = Lugano
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 55.46
+|recordinfo = h
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 16 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Men's 100m IM Heats Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-100MD-PRE-ALL.pdf|work=microplustiming.com|date=16 December 2017|access-date=16 December 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 1:58.13
+|recordinfo = h
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 15 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref =<ref>{{cite web|title=Men's 200m IM Heats Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-200MD-PRE-ALL.pdf|publisher=microplustiming.com|date=15 December 2017|access-date=15 December 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:11.12
+|recordinfo = h
+|firstname = Christoph
+|lastname = Meier
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 14 December 2017
+|meet = [[2017 European Short Course Swimming Championships|European Championships]]
+|city = Copenhagen
+|country = DEN
+|ref = <ref>{{cite web|title=Men's 400m IM Heats Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-400MD-PRE-ALL.pdf|work=microplustiming.com|date=14 December 2017|access-date=14 December 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 
+|recordinfo = 
+|1name = 
+|1split = 
+|2name = 
+|2split =  
+|3name = 
+|3split = 
+|4name = 
+|4split = 
+|nation = 
+|date = 
+|meet = 
+|city = 
+|country = 
+|ref = 
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Liechtensteiner Schwimmverband{{!}}LSchV|WR=yes|ER=yes}}
+
+===Women===
+{{Swimmingrecordlisttop|meet=yes|club=yes}}
+{{Swimmingrecord
+|eventsort = 01
+|event = 50m freestyle
+|time = 26.45
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle =
+|club = SV Nikar Heidelberg
+|date = 19 September 2020
+|meet = Malbun Championships
+|city = Eschen
+|country = LIE
+|ref = <ref>{{cite web|title=Women, 50m Freestyle, Timed Final, 16 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=622703&gender=2&styleId=1|publisher=swimrankings.net|date=19 September 2020|accessdate=19 September 2020}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 02
+|event = 100m freestyle
+|time = 55.58
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 16 October 2021
+|meet = International Swim Meet
+|city = Saint-Dizier
+|country = FRA
+|ref = <ref>{{cite web|title=Women's 100m Freestyle Final Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=627257&gender=2&styleId=2|publisher=swimrankings.net|date=16 October 2021|accessdate=14 November 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 03
+|event = 200m freestyle
+|time = 1:56.27
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SV Nikar Heidelberg
+|date = 15 November 2019
+|meet = German Championships
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Women's 200m Freestyle A-Final Results|url=https://www.titanium-sportservice.de/data/competition/2019-11-14_286/protocol/pk_wk316_3.pdf|publisher=titanium-sportservice.de|date=15 November 2019|access-date=15 November 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 04
+|event = 400m freestyle
+|time = 4:01.09
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = Toronto Titans
+|date = 9 September 2021
+|meet = [[2021 International Swimming League|International Swimming League]]
+|city = Naples
+|country = ITA
+|ref = <ref>{{cite web|title=Women's 400m Freestyle Results|url=https://www.omegatiming.com/File/00011500080201EF04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=9 September 2021|accessdate=9 September 2021}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 05
+|event = 800m freestyle
+|time = 8:15.73
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 5 December 2019
+|meet = [[2019 European Short Course Swimming Championships|European Championships]]
+|city = Glasgow
+|country = GBR
+|ref = <ref>{{cite web|title=Women's 800m Freestyle Final Results|url=http://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMW800MFR------------FNL-000100--_73A1%201.0.pdf?x=02:56:41|website=microplustiming.com|date=5 December 2019|access-date=5 December 2019}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 06
+|event = 1500m freestyle
+|time = 16:11.01
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SV Nikar Heidelberg
+|date = 2 February 2020
+|meet = German Team Championships
+|city = Wiesbaden
+|country = GER
+|ref = <ref>{{cite web|title=Women's 1500m Freestyle Timed Final Results|url=https://bundesliga-schwimmen.de/wp-content/livetiming/startliste-und-ergebnisse/proto_wk049.pdf|publisher=bundesliga-schwimmen.de|date=2 February 2020|access-date=4 February 2020}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 07
+|event = 50m backstroke
+|time = 31.53
+|recordinfo = 
+|firstname = Theresa
+|lastname = Hefel
+|namearticle = 
+|club = Gamprin Swim Team Club
+|date = 17 November 2018
+|meet = Cambomare Sprintpokal
+|city = Kempten
+|country = SUI
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 08
+|event = 100m backstroke
+|time = 1:03.52
+|recordinfo = 
+|firstname = Maria
+|lastname = Batliner
+|namearticle = 
+|club = SVS Schwimmen
+|date = 8 November 2009
+|meet = Austrian Team Championships
+|city = Vienna
+|country = AUT
+|ref = <ref>{{cite web|title=Women, 100m Backstroke, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=537864&gender=2&styleId=10|publisher=swimrankings.net|date=8 November 2009|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 09
+|event = 200m backstroke
+|time = 2:16.64
+|recordinfo = 
+|firstname = Maria
+|lastname = Batliner
+|namearticle = 
+|club = SVS Schwimmen
+|date = 7 November 2009
+|meet = Austrian Team Championships
+|city = Vienna
+|country = AUT
+|ref = <ref>{{cite web|title=Women, 200m Backstroke, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=537864&gender=2&styleId=11|publisher=swimrankings.net|date=7 November 2009|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 10
+|event = 50m breaststroke 
+|time = 33.94
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 7 November 2015
+|meet = -
+|city = Bolzano
+|country = ITA
+|ref = 
+}}
+{{Swimmingrecord
+|eventsort = 11
+|event = 100m breaststroke
+|time = 1:11.97
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = Region Ostschweiz
+|date = 15 December 2013
+|meet = -
+|city = Singen 
+|country = GER
+|ref = <ref>{{cite web|title=Women, 100m Breaststroke, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=576323&gender=2&styleId=13|publisher=swimrankings.net|date=15 December 2013|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 12
+|event = 200m breaststroke
+|time = 2:30.39
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = Schwimmclub Unterland
+|date = 21 November 2014
+|meet = Swiss Championships
+|city =  Uster
+|country = SUI 
+|ref = <ref>{{cite web|title=Women, 200m Breaststroke, Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=583301&gender=2&styleId=14|publisher=swimrankings.net|date=21 November 2014|access-date=20 September 2017}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 13
+|event = 50m butterfly
+|time = 28.86
+|recordinfo = b
+|firstname = Theresa
+|lastname = Hefel
+|namearticle = 
+|club = Schwimmclub Unterland
+|date = 9 December 2017
+|meet = 5. Int. Oesterr. Kurzbahnstaatsmeisterschaften
+|city = Graz
+|country = AUT
+|ref = <ref>{{cite web|title=Women, 50m Butterfly, Final, 13 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=605255&gender=2&styleId=15|publisher=swimrankings.net|date=9 December 2017|access-date=2 June 2018}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 14
+|event = 100m butterfly
+|time = 1:01.98
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SV Nikar Heidelberg
+|date = 1 February 2020
+|meet = German Team Championships
+|city = Wiesbaden
+|country = GER
+|ref = <ref>{{cite web|title=Women's 100m Butterfly Timed Final Results|url=https://bundesliga-schwimmen.de/wp-content/livetiming/startliste-und-ergebnisse/proto_wk009.pdf|publisher=bundesliga-schwimmen.de|date=1 February 2020|access-date=4 February 2020}}</ref> 
+}}
+{{Swimmingrecord
+|eventsort = 15
+|event = 200m butterfly
+|time = 2:12.90
+|recordinfo = h
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = {{flagu|Liechtenstein}}
+|date = 3 December 2014
+|meet = [[2014 FINA World Swimming Championships (25 m) – Women's 200 metre butterfly|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref>{{cite news|title=Women's 200m Butterfly Heats Results|url=http://www.omegatiming.com/File/Download?id=00010E010D01032200FFFFFFFFFFFF02|publisher=Omega Timing|date=3 December 2014|access-date=4 December 2014}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 16
+|event = 100m individual medley
+|time = 1:05.79
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = -
+|date = 17 September 2016
+|meet = Liechtensteinian Championships
+|city = Eschen
+|country = LIE
+|ref = <ref>{{cite web|title=Women, 100m Medley, Final, 16 years and older|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=596422&gender=2&styleId=20|publisher=swimrankings.net|date=17 September 2016|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 17
+|event = 200m individual medley
+|time = 2:19.51
+|recordinfo = 
+|firstname = Theresa
+|lastname = Banzer
+|namearticle = 
+|club = Region Ostschweiz
+|date = 14 December 2013
+|meet = -
+|city = Singen
+|country = GER
+|ref = <ref>{{cite web|title=Women, 200m Medley, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=576323&gender=2&styleId=18|publisher=swimrankings.net|date=14 December 2013|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecord
+|eventsort = 18
+|event = 400m individual medley
+|time = 4:51.64
+|recordinfo = 
+|firstname = Julia
+|lastname = Hassler
+|namearticle = 
+|club = SC Uster Wallisellen
+|date = 25 March 2012
+|meet = Swiss Team Championships
+|city = Uster
+|country = SUI
+|ref = <ref>{{cite web|title=Women, 400m Medley, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=560867&gender=2&styleId=19|publisher=swimrankings.net|date=25 March 2012|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 19
+|event = 4×50m freestyle relay
+|time = 1:52.88
+|recordinfo = 
+|1name = [[Laura Manco]]
+|1split = 28.37
+|2name = [[Tamara Vetsch]]
+|2split = 28.64
+|3name = [[Jasmin Büchel]]
+|3split = 28.45
+|4name = [[Theresa Banzer]]
+|4split = 27.42
+|club = Schwimmclub Aquarius Triesen
+|date = 27 October 2012
+|meet = -
+|city = Chur
+|country = SUI 
+|ref = <ref>{{cite web|title=Women, 4 x 50m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=565549&gender=2&styleId=24|publisher=swimrankings.net|date=27 October 2012|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 20
+|event = 4×100m freestyle relay
+|time = 4:08.44
+|recordinfo = 
+|1name = [[Laura Manco]]
+|1split = 1:01.04
+|2name = [[Jasmin Büchel]]
+|2split = 1:02.98
+|3name = [[Tamara Vetsch]]
+|3split = 1:02.49
+|4name = [[Theresa Banzer]]
+|4split = 1:01.93
+|club = Schwimmclub Aquarius Triesen
+|date = 17 December 2011
+|meet = Liechtensteinian Championships 
+|city = Eschen
+|country = LIE
+|ref = <ref>{{cite web|title=Women, 4 x 100m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=500962&gender=2&styleId=27|publisher=swimrankings.net|date=17 December 2011|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 21
+|event = 4×200m freestyle relay
+|time = 9:42.82
+|recordinfo = 
+|1name = [[Nicole Wenaweser]]
+|1split = 2:21.31
+|2name = [[Petra Wolfinger]]
+|2split = 2:30.14
+|3name = [[Nora Zenhäusern]]
+|3split = 2:20.88
+|4name = [[Nicole Rothmund]]
+|4split = 2:30.49
+|club = {{flagu|Liechtenstein}}
+|date = 20 March 1998
+|meet = Swiss Championships
+|city = Lausanne
+|country = SUI
+|ref = <ref>{{cite web|title=men, 4 x 200m Freestyle, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=511222&gender=2&styleId=29|publisher=swimrankings.net|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 22
+|event = 4×50m medley relay
+|time = 2:06.88
+|recordinfo = 
+|1name = [[Laura Manco]]
+|1split = 32.56
+|2name = [[Theresa Banzer]]
+|2split = 35.07
+|3name = [[Jasmin Büchel]]
+|3split = 31.08
+|4name = [[Tamara Vetsch]]
+|4split = 28.17
+|club = Schwimmclub Aquarius Triesen
+|date = 28 October 2012
+|meet = -
+|city = Chur
+|country = SUI 
+|ref = <ref>{{cite web|title=Women, 4 x 50m Medley, Timed Final, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=565549&gender=2&styleId=39|publisher=swimrankings.net|date=28 October 2012|access-date=20 September 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|eventsort = 23
+|event = 4×100m medley relay
+|time = 4:55.80
+|recordinfo = 
+|1name = [[Nora Zenhäusern]]
+|1split = 
+|2name = [[Nicole Wenaweser]]
+|2split =  
+|3name = [[Nicole Rothmund]]
+|3split = 
+|4name = [[Petra Wolfinger]]
+|4split = 
+|club = {{flagu|Liechtenstein}}
+|date = 7 February 1999
+|meet = -
+|city = Biel
+|country = SUI
+|ref = <ref>{{cite web|title=Women, 4 x 100m Medley, Open|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=502571&gender=2&styleId=40|publisher=swimrankings.net|access-date=20 September 2017}}</ref>
+}}
+{{end}}
+{{Swimmingrecordlegend|ratifier=Liechtensteiner Schwimmverband{{!}}LSchV|WR=yes|ER=yes}}
+
+==References==
+;General
+* [https://www.lieswimming.li/swimming/herren-langbahn-50m.html Liechtensteinian Long Course Records – Men] <small>''14 June 2025 updated''</small>
+* [https://www.lieswimming.li/swimming/damen-langbahn-50m.html Liechtensteinian Long Course Records – Women] <small>''29 July 2021 updated''</small>
+* [https://www.lieswimming.li/swimming/herren-kurzbahn-25m.html Liechtensteinian Short Course Records – Men] <small>''22 November 2024 updated''</small>
+* [https://www.lieswimming.li/swimming/damen-kurzbahn-25m.html Liechtensteinian Short Course Records – Women] <small>''16 October 2021 updated''</small>
+;Specific
+{{Reflist|2}}
+
+==External links==
+* [http://www.lschv.li/ LSchV web site]
+
+{{Records in swimming}}
+
+[[Category:National records in swimming|Liechtenstein]]
+[[Category:Swimming in Liechtenstein|Records]]
+[[Category:Liechtenstein sport-related lists|Swimming]]

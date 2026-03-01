@@ -1,0 +1,475 @@
+{{Use Australian English|date=June 2020}}
+{{short description|Ski resort in Victoria, Australia}}
+{{Use dmy dates|date=August 2019}}
+{{more citations needed|date=September 2018}}
+{{Infobox ski area
+ |name          = Falls Creek
+ |logo          = Falls Creek1.jpg
+ |picture       = Falls-creek-ruined-castle-and-terrain-park.jpg
+ |caption       = The Ruined Castle chairlift and terrain park
+ |location      = [[Alpine National Park]]<br>[[Australian Alps]]<br>[[Victoria (Australia)|Victoria]], [[Australia]]
+ |nearest_city  = [[Mount Beauty, Victoria|Mount Beauty]] – {{convert|30|km|-1|abbr=on}}<br>[[Wodonga, Victoria|Wodonga]]
+ |pushpin_map   = Australia Victoria Alpine Shire
+ |map_caption   = Location near Alpine Shire
+ |coordinates   = {{coord|-36.865|147.273|type:landmark_region:AU|display=inline,title}}
+<!--
+ |lat_degrees   = 36
+ |lat_minutes   = 59
+ |lat_seconds   = 0
+ |lat_direction = S
+ |long_degrees  = 147
+ |long_minutes  = 16
+ |long_seconds  = 0
+ |long_direction= E-->
+ |owner         = [[Alpine Resorts Victoria (ARV)]]
+ |vertical      = &nbsp;&nbsp; {{convert|280|m|0|abbr=on}}
+ |top_elevation = {{convert|1780|m|0|abbr=on}}
+ |base_elevation= {{convert|1500|m|0|abbr=on}}
+ |skiable_area  = {{convert|450|ha|abbr=on}}
+ |number_trails = 76+<br>[[Image:Ski trail rating symbol-green circle.svg|13px]] – 17% beginner<br>[[Image:Ski trail rating symbol-blue square.svg|13px]] – 60% intermediate<br>[[Image:Ski trail rating symbol-black diamond.svg|13px]] – 23% advanced
+ |longest_run   = {{convert|3|km|abbr=on}}, ''Wishing Well''
+ |liftsystem    = 16 lifts
+ |terrainparks  = 4
+ |snowmaking    = ~30% of slopes have snowmaking capabilities
+ |nightskiing   = Wed & Sat 6–9 pm
+ |snowfall      = {{convert|4|m|in|abbr=on}} per year
+ |external_link = [https://www.fallscreek.com.au fallscreek.com.au]
+ |}}
+[[File:Falls Creek1.jpg|alt=New logo for Falls Creek|thumb|New logo for Falls Creek]]
+The '''Falls Creek Alpine Resort''' is an [[Alpine skiing|alpine]] [[ski resort]] in the [[Hume (region)|Hume]] region in northeastern [[Victoria (Australia)|Victoria]], [[Australia]]. It is located in the [[Alpine National Park]] in the [[Victorian Alps]], approximately {{convert|350|km|abbr=off}} by road from [[Melbourne]], with the nearest town being [[Mount Beauty]], which is approximately {{convert|30|km|-1|abbr=on}} away. The resort lies between an [[elevation]] of {{convert|1500|and|1830|m|0|abbr=on}} [[Australian Height Datum|above sea level]],<ref>{{Cite web|url=https://www.fallscreek.com.au/environment/|title=Environment - Falls Creek - www.fallscreek.com.au Victoria's largest family summer and winter alpine resort|website=Falls Creek|language=en-AU|access-date=2019-04-19}}</ref> with the highest lifted point at {{convert|1780|m|0|abbr=on}}. Skiing is possible on the nearby peak of [[Mount McKay (Australia)|Mount McKay]] at {{convert|1842|m|abbr=on}}, accessed by [[snowcat]] from the resort.
+
+The resort is an [[Unincorporated areas of Australia|unincorporated area]], directly administered by the government of Victoria, and surrounded by the [[Alpine Shire]].
+
+==Alpine resort==
+[[File:AU Falls Creek Hotel.JPG|thumb|right|Falls Creek Hotel in summer (January)]]
+[[File:St Falls ski lodge 2012.jpg|thumb|St Falls ski lodge]]
+[[File:Huski Hotel 2012.jpg|thumb|Huski Hotel]]
+Falls Creek is beginner/intermediate friendly, with almost 80% of the resort dedicated to these types of skiers/snowboarders. However, Australia's notoriously fickle snow conditions ensure that [[snowmaking]] using the water from the nearby [[Rocky Valley Dam|Rocky Valley Lake]] is sometimes, particularly early in the season, the main source of skiable snow. Consequently, like all Australian snowfields, Falls Creek's customer base is almost entirely domestic, however many international cross country skiers travel to Falls Creek for the [[Kangaroo Hoppet]], Australia's [[Worldloppet]] event on the last Saturday of August and international snowboarders to [https://web.archive.org/web/20160313110603/http://stylewars.com.au/ Stylewars, The Australian Slopestyle Championships] and Australia's highest sanctioned {{usurped|1=[https://web.archive.org/web/20060205054450/http://www.ttrworldtour.com/ TTR World Tour]}} event held in the first week of September.
+
+The resort features 4500 accommodation beds, and consequently a large number of restaurants, bars and nightclubs to entertain guests at night. Some apartments are privately owned, but the resort's management requires that they must be available for hire when not occupied.
+
+The resort also serves as a summer base to explore the national park surrounding the resort. The Falls to Hotham alpine crossing is a 37km three day hike that starts at Falls Creek and finishes at [[Mount Hotham Alpine Resort|Mount Hotham]].<ref>{{Cite web |title=Falls to Hotham Alpine Crossing |url=https://www.parks.vic.gov.au/places-to-see/parks/alpine-national-park/things-to-do/falls-to-hotham-alpine-crossing |access-date=2025-12-16 |website=www.parks.vic.gov.au |language=en}}</ref> A planned expansion of the walk to make it 52km over 4 days with new huts being built has raised community concerns.<ref>{{Cite web |title=Falls to Hotham Alpine Crossing project |url=https://www.parks.vic.gov.au/projects/eastern-victoria/falls-to-hotham-alpine-crossing-project |access-date=2025-12-16 |website=www.parks.vic.gov.au |language=en}}</ref><ref>{{Cite web |last=Wolf |first=Isabelle |last2=Smart |first2=Jen |last3=Scherrer |first3=Pascal |date=2025-03-12 |title=Luxury hiking developments look picture-perfect, but could stop everyday Australians from accessing national parks |url=http://theconversation.com/luxury-hiking-developments-look-picture-perfect-but-could-stop-everyday-australians-from-accessing-national-parks-250626 |access-date=2025-12-16 |website=The Conversation |language=en-US}}</ref>
+
+Falls Creek is accessible by the Bogong High Plains Road from Mount Beauty all year round, though like all of Australia's snow resorts [[snow chains]] must be carried during winter and fitted if directed.  The road continues across the High Plains and descends to meet the [[Omeo Highway]] north of the hamlet of [[Anglers Rest, Victoria|Anglers Rest]], however the route from this side is closed during the snow season.<ref>{{Cite web |date=2012-06-27 |title=TTR World Snowboard Tour: Home |url=http://ttrworldtour.com/ |access-date=2023-12-05 |url-status=usurped |archive-url=https://web.archive.org/web/20120627143102/http://ttrworldtour.com/ |archive-date=27 June 2012 }}</ref>
+
+In summer both routes are popular with cyclists, and various cycling events are held that involve climbing to the resort, including the popular [[SCODY 3 Peaks Challenge]] (recently renamed to Falls Creek Peaks Challenge).
+
+===Quick Statistics===
+* Highest elevation: {{convert|1842|m|abbr=on}}
+* Highest lifted elevation: {{convert|1780|m|0|abbr=on}}
+* Village elevation: {{convert|1600|m|-1|abbr=on}}
+* Number of lifts: 16
+
+====In winter====
+* Snowline elevation: {{convert|1100|m|-1|abbr=on}}
+* Average yearly snowfall: {{convert|4|m|in|abbr=on}}
+* Average days open in winter: 128
+
+====Alpine====
+* Number of Runs: 76+
+* Longest advanced run: ''Wishing Well'', {{convert|3|km|abbr=on}}
+* Longest beginner run: ''Wombats Ramble'', {{convert|2.2|km|abbr=on}}
+* Terrain mix: 17% [[Image:Ski trail rating symbol-green circle.svg|13px]] beginner, 60% [[Image:Ski trail rating symbol-blue square.svg|13px]] intermediate, 23% [[Image:Ski trail rating symbol-black diamond.svg|13px]] advanced
+* Total lift length: 8.1km
+* Lift capacity: 28,392 Passengers/hour
+'''Cross country'''
+* Number of trails: 21
+* [[Groomed trail]] network: {{convert|65|km|abbr=on}}
+* Longest trail: [[Rocky Valley Dam]] Loop, {{convert|21|km|abbr=on}}
+* Terrain mix: Beginner 33% [[Image:Ski trail rating symbol-green circle.svg|13px]], Intermediate 48% [[Image:Ski trail rating symbol-blue square.svg|13px]], Advanced 19% [[Image:Ski trail rating symbol-black diamond.svg|13px]]
+
+== Lift network ==
+{| class="wikitable"
+|+
+!Lift Name<ref>{{Cite web |title=Australian ski lift directory: details of 500 lifts & ropeways |url=https://www.australianmountains.com/australianskilifts |access-date=2022-08-21 |website=Australian mountains |language=en-AU}}</ref><ref>{{Cite web |title=Ski lifts Falls Creek - cable cars Falls Creek - lifts Falls Creek |url=https://www.skiresort.info/ski-resort/falls-creek/ski-lifts/ |access-date=2022-08-21 |website=www.skiresort.info}}</ref>
+!Lift Type
+!'''Manufacturer'''
+!Moving Capacity / Hour
+!Year built
+!Speed
+!Ride Time
+!Lift Length
+!Elevation Climb
+|-
+|Eagle Express
+|4 person chair, [[Detachable chairlift|detachable]]
+|[[Leitner-Poma]]
+|2400 people
+|2018
+|5.1m/s
+|2:50 mins
+|800m
+|191m
+|-
+|Halley's Comet
+|4 person chair, [[Detachable chairlift|detachable]]
+|[[Doppelmayr/Garaventa Group|Doppelmayr]]
+|2400 people
+|1986
+|5.0m/s
+|3:20 mins
+|900m
+|200m
+|-
+|Summit
+|4 person chair, [[Fixed-grip chairlift|fixed]]
+|[[Doppelmayr/Garaventa Group|Doppelmayr]]
+|2400 people
+|1992
+|2.0m/s
+|4:40 mins
+|587m
+|187m
+|-
+|International 
+|1 person poma, detachable
+|[[Leitner-Poma|Poma]]
+|1000 people
+|1969
+|2.0m/s
+|11:00 mins
+|1216m
+|278m
+|-
+|Gully
+|3 person chair, [[Fixed-grip chairlift|fixed]]
+|[[Leitner-Poma|Poma]]
+|1500 people
+|1982
+|2.0m/s
+|6:00 mins
+|475m
+|76m
+|-
+|Drover's Dream
+|4 person chair, [[Fixed-grip chairlift|fixed]]
+|[[Leitner-Poma]]
+|2400 people
+|2004
+|2.2m/s
+|6:00 mins
+|710m
+|104m
+|-
+|Towers
+|4 person chair, [[Fixed-grip chairlift|fixed]]
+|[[Doppelmayr/Garaventa Group|Garaventa]]
+|2400 people
+|1999
+|2.0m/s
+|5:50 mins
+|634m
+|136m
+|-
+|Boardwalk
+|[[Conveyor lift]]
+|Sunkid
+|1500 people
+|2004
+|0.7m/s
+|2:10 mins
+|81m
+| -
+|-
+|Mouse Trap
+|[[Conveyor lift]] with enclosure
+|Sunkid
+|1500 people
+|2006
+|0.7m/s
+|3:30 mins
+|114m
+| -
+|-
+|Monkey Bar
+|1 person platter, [[Fixed-grip chairlift|fixed]]
+|[[Doppelmayr Garaventa Group|Doppelmayr]]
+|792 people
+|2006
+|2.0m/s
+|2:30 mins
+|271m
+|33m
+|-
+|Lakeside
+|1 person poma, detachable
+|GMM
+|1000 people
+|1967
+|2.0m/s
+|7:20 mins
+|737m
+|140m
+|-
+|Scotts
+|4 person chair, [[Fixed-grip chairlift|fixed]]
+|[[Doppelmayr/Garaventa Group|Doppelmayr]]
+|2400 people
+|1989
+|2.3m/s
+|6:00 mins
+|760m
+|150m
+|-
+|Ruined Castle
+|4 person chair, [[Fixed-grip chairlift|fixed]], with loading conveyor
+|Doppelmayr
+|2600 people
+|1995
+|2.0m/s
+|6:00 mins
+|651m
+|150m
+|-
+|The Tube
+|[[Conveyor lift]]
+|Sunkid
+|1500 people
+|2004
+|0.7m/s
+| -
+| -
+| -
+|-
+|Pete's Train
+|[[Conveyor lift]]
+|Sunkid
+|1500 people
+|2018
+|0.7m/s
+| -
+| -
+| -
+|-
+|Snowsports School
+|[[Conveyor lift]]
+|Sunkid
+|1500 people
+| -
+|0.7m/s
+| -
+| -
+| -
+|}
+
+== History ==
+After [[World War II]], the Kiewa electrical scheme was started in the [[Kiewa River]] valley by the [[State Electricity Commission of Victoria]]. On land previously used only for summer cattle grazing in the natural alpine grasslands, the first ski lodge was built in 1948 by workers from the scheme.<ref name=":0">{{Cite web |title=Falls Creek, VIC |url=http://www.aussietowns.com.au/town/falls-creek-vic |access-date=2019-04-19 |website=Aussie Towns |language=en-US}}</ref> The first lift, a [[Ski tow|rope tow]], was built in 1951 and the first [[chairlift]] in Australia was constructed there in 1957.<ref name=":0" />
+
+Falls Creek Post Office opened on 9 June 1958 (with [[telegraph]] and telephone facilities only until 1964).<ref name="PostOffice">{{Citation |last=Phoenix Auctions History |title=Post Office List |url=http://www.phoenixauctions.com.au/cgi-bin/wsPhoenix.sh/Viewpocdwrapper.p?SortBy=VIC&filter=*Falls*Creek* |access-date=23 February 2021}}</ref>
+
+The [[Bogong High Plains|high plains]] in the area were used for summer cattle grazing from 1851 until 2005, when the [[Government of Victoria]] did not renew grazing licences due to concerns about the cattle's impact on the fragile alpine environment. Some of the cattlemen's huts still survive and are a tourist attraction in summer. [[Mount Bogong]], Victoria's highest mountain, is nearby. The nearest town to Falls Creek is Mount Beauty.
+
+In 2019, Vail Resorts announced the acquisition of Falls Creek and Hotham for AU$174 million, and today they operate three of the largest ski resorts in Australia, including Perisher Ski Resort in New South Wales.
+
+==Climate==
+Falls Creek has a very cold [[Oceanic climate|Oceanic]] / [[Subpolar oceanic climate]] (''Cfb'' / ''Cfc'') under the {{convert|-3|C}} isotherm, or a [[Humid continental climate|Humid continental]] / [[Subarctic climate]] (''Dfb'' / ''Dfc'') under the {{convert|0|C}} isotherm, with short, cool summers and cold, very snowy winters. 
+
+On 3 February 2023, Falls Creek reached a top of just {{convert|0.5|C}}.<ref>{{Cite web |title=Falls Creek Daily Summaries |url=https://www.weatherzone.com.au/station/SITE/83084/daily-summaries |access-date=2023-02-04 |website=www.weatherzone.com.au |language=en}}</ref> Falls Creek registered the lowest temperature recorded in [[Victoria (state)|Victoria]] (along with [[Omeo]] in June 1965); a reading of {{convert|-11.7|C|F|1|}} on 3 July 1970.<ref>{{Cite web|url=http://www.bom.gov.au/climate/extreme/records.shtml|title=Rainfall and temperature records|website=[[Bureau of Meteorology]]|date=30 September 2022|access-date=1 January 2024}}</ref>
+
+{{Weather box
+| location = Falls Creek (1990–2023); 1,765 m AMSL; 36.87° S, 147.28° E
+| single line = y
+| metric first = y
+| unit precipitation days = 0.2 mm
+| Jan record high C = 29.7
+| Feb record high C = 28.6
+| Mar record high C = 25.3
+| Apr record high C = 19.1
+| May record high C = 16.1
+| Jun record high C = 13.2
+| Jul record high C = 9.8
+| Aug record high C = 11.9
+| Sep record high C = 16.2
+| Oct record high C = 21.7
+| Nov record high C = 25.3
+| Dec record high C = 26.6
+| year record high C = 
+| Jan high C = 17.8
+| Feb high C = 17.1
+| Mar high C = 14.2
+| Apr high C = 9.8
+| May high C = 5.9
+| Jun high C = 2.8
+| Jul high C = 1.2
+| Aug high C = 1.9
+| Sep high C = 5.0
+| Oct high C = 9.1
+| Nov high C = 12.6
+| Dec high C = 15.1
+| year high C = 
+<!-- Mean daily temperature -->
+| Jan mean C  = 13.4
+| Feb mean C  = 12.8
+| Mar mean C  = 10.2
+| Apr mean C  = 6.5
+| May mean C  = 3.2
+| Jun mean C  = 0.6
+| Jul mean C  = -0.9
+| Aug mean C  = -0.4
+| Sep mean C  = 2.1
+| Oct mean C  = 5.4
+| Nov mean C  = 8.5
+| Dec mean C  = 10.7
+| year mean C =
+| Jan low C = 8.9
+| Feb low C = 8.5
+| Mar low C = 6.2
+| Apr low C = 3.2
+| May low C = 0.5
+| Jun low C = -1.6
+| Jul low C = -2.9
+| Aug low C = -2.7
+| Sep low C = -0.8
+| Oct low C = 1.6
+| Nov low C = 4.4
+| Dec low C = 6.3
+| year low C = 
+| Jan record low C = -3.9
+| Feb record low C = -3.9
+| Mar record low C = -3.6
+| Apr record low C = -6.9
+| May record low C = -7.7
+| Jun record low C = -8.6
+| Jul record low C = -8.5
+| Aug record low C = -9.6
+| Sep record low C = -8.6
+| Oct record low C = -7.0
+| Nov record low C = -6.3
+| Dec record low C = -4.8
+| year record low C = 
+| Jan avg record high C  = 24.6
+| Feb avg record high C  = 23.2
+| Mar avg record high C  = 20.3
+| Apr avg record high C  = 15.5
+| May avg record high C  = 12.1
+| Jun avg record high C  = 8.9
+| Jul avg record high C  = 6.3
+| Aug avg record high C  = 7.4
+| Sep avg record high C  = 11.7
+| Oct avg record high C  = 16.8
+| Nov avg record high C  = 19.9
+| Dec avg record high C  = 22.3
+| year avg record high C = 25.5
+| Jan avg record low C  = -0.1
+| Feb avg record low C  = -0.1
+| Mar avg record low C  = -1.7
+| Apr avg record low C  = -3.5
+| May avg record low C  = -5.1
+| Jun avg record low C  = -6.2
+| Jul avg record low C  = -6.6
+| Aug avg record low C  = -7.3
+| Sep avg record low C  = -6.5
+| Oct avg record low C  = -4.9
+| Nov avg record low C  = -3.8
+| Dec avg record low C  = -2.0
+| year avg record low C = -7.9
+| precipitation colour = green
+| Jan precipitation mm = 114.5
+| Feb precipitation mm = 91.5
+| Mar precipitation mm = 107.1
+| Apr precipitation mm = 101.1
+| May precipitation mm = 103.8
+| Jun precipitation mm = 143.9
+| Jul precipitation mm = 96.2
+| Aug precipitation mm = 106.2
+| Sep precipitation mm = 119.9
+| Oct precipitation mm = 142.3
+| Nov precipitation mm = 134.3
+| Dec precipitation mm = 104.9
+| year precipitation mm = 1366.6
+| Jan precipitation days = 10.6
+| Feb precipitation days = 10.4
+| Mar precipitation days = 11.0
+| Apr precipitation days = 11.1
+| May precipitation days = 11.9
+| Jun precipitation days = 14.4
+| Jul precipitation days = 15.1
+| Aug precipitation days = 15.2
+| Sep precipitation days = 14.4
+| Oct precipitation days = 13.2
+| Nov precipitation days = 12.7
+| Dec precipitation days = 10.4
+| year precipitation days = 150.4
+|Jan afthumidity = 66
+|Feb afthumidity = 68
+|Mar afthumidity = 71
+|Apr afthumidity = 78
+|May afthumidity = 85
+|Jun afthumidity = 91
+|Jul afthumidity = 92
+|Aug afthumidity = 90
+|Sep afthumidity = 87
+|Oct afthumidity = 74
+|Nov afthumidity = 69
+|Dec afthumidity = 66
+|year afthumidity = 78
+| source = Bureau of Meteorology<ref>{{cite web
+|url = http://www.bom.gov.au/climate/averages/tables/cw_083084_All.shtml
+|title = Climate Statistics for Falls Creek
+|publisher = Bureau of Meteorology
+|work = Climate statistics for Australian locations
+|access-date = 13 November 2016}}</ref><ref>{{cite web
+|url = http://www.bom.gov.au/climate/data/
+|title = Climate data online (Site number: 083084)
+|publisher = Bureau of Meteorology
+|access-date = 30 Jun 2025}}</ref>
+}}
+
+== Proposed developments ==
+In 2009, the Falls Creek resort plan proposed replacing the Gully triple chair with a gondola, having a capacity of 1800 passengers per hour and a speed of up to 6 metres per second. This proposal also made its appearance in the 2016 masterplan, but nothing has resulted as of yet. It is worth noting that a gondola this short would be considerably expensive, where it would be much more cost effective to replace a much longer lift.
+
+== Snowmaking ==
+In 2021, Falls Creek invested AU$1.88 million into snowmaking machines. These new TechnoAlpin guns were placed along Wombats Ramble, Main Street and at the base of Drovers Dream. These snow machines now accompany the older snowmaking technology along Ruined Castle and Main Street.
+
+== Notable seasons ==
+2022 saw unusually large snowfalls in June, resulting in an established snowpack before the start of the ski season. As a result of this, Falls Creek and many other resorts opened to visitors one week early, with a snow depth of over 75cm at beginning of June.
+
+==Notable racers==
+
+Source:<ref>{{Cite web|url=https://www.fallscreekraceclub.com.au/about/history/|title=History|website=Falls Creek Race Club|language=en-AU|access-date=2019-04-19|archive-date=19 April 2019|archive-url=https://web.archive.org/web/20190419064623/https://www.fallscreekraceclub.com.au/about/history/|url-status=dead}}</ref>
+
+* [[Steven Lee]], Olympic and World Cup alpine skier. Also a back-country tour guide for Falls Creek 
+* [[Malcolm Milne]] (born 1948), [[FIS Alpine Ski World Cup|World Cup]] alpine racer, learned to ski at Falls Creek
+* [[Ross Milne (alpine skier)|Ross Milne]] (1944–1964), learned to ski at Falls Creek.
+* [[Britteny Cox]] (born 1994), Australian Mogul Skier and the youngest athlete to compete at the [[2010 Olympic Winter Games|Vancouver 2010 Olympic Winter Games]]. 2017 – World Champion, World Cup Moguls Crystal Globe Winner, World Cup Freestyle Overall Crystal Globe Winner
+
+== Notable snowboarders ==
+* [[Scotty James|Scott James]] (born 1994), Australian Snowboarder, Australia's youngest male Olympian in 50 years and the youngest male competitor at the [[2010 Winter Olympics|Vancouver Games]]. He won bronze in Men’s halfpipe at the 2018 Winter Olympics.
+
+==See also==
+* [[Skiing in Australia]]
+* [[Mount Hotham|Mt Hotham]]
+* [[Perisher Ski Resort|Perisher]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Falls Creek, Victoria}}
+{{wikivoyage|Falls Creek}}
+* {{official website|http://www.fallscreek.com.au}}
+* [http://www.skifalls.com.au Falls Creek Ski Lifts Pty Ltd Site]
+* [https://web.archive.org/web/20100609191303/http://www.terrainparkinstitute.com.au/ Falls Creek Terrain Park Site]
+* [http://www.theagerace.com.au The Age – Falls Creek Corporate Ski Race Site]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [http://www.fallscreekemployment.com Falls Creek Official Employment Site] {{Webarchive|url=https://web.archive.org/web/20100126041503/http://www.fallscreekemployment.com/ |date=26 January 2010 }}
+* [https://web.archive.org/web/20180322034055/http://www.raceclubfallscreek.com.au/ Falls Creek Race Club Official Site]
+* [https://www.ski.com.au/reports/australia/vic/fallscreek/index.html Falls Creek snow report on ski.com.au]
+* [https://www.skireport.com/australia/falls_creek/trailmap/ Falls Creek Trailmap]
+* [https://web.archive.org/web/20161106042212/http://wikiski.com/wiki/index.php/Falls_Creek Falls Creek on wikiski.com]
+* [http://www.vicjuniorxcski.com Victorian Cross Country Ski Team] {{Webarchive|url=https://web.archive.org/web/20211229121343/http://www.vicjuniorxcski.com/ |date=29 December 2021 }}
+* A list of all 40 lifts to operate at Falls Creek at the [http://australianmountains.com/australianskilifts/#6 Australian ski lift directory].
+
+{{Skifields of Australia}}
+{{Localities in Unincorporated areas}}
+{{Towns in Alpine Shire}}
+{{Local Government Areas of Victoria}}
+{{Merlin Entertainments}}
+
+{{authority control}}
+
+[[Category:Ski areas and resorts in Victoria (state)]]
+[[Category:Victorian Alps]]
+[[Category:Towns in Victoria (state)]]
+[[Category:Unincorporated areas of Victoria (state)]]
+[[Category:Merlin Entertainments Group]]
+[[Category:Subnational enclaves and exclaves in Australia]]

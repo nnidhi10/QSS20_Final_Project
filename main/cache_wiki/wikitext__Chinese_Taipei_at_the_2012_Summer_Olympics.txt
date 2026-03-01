@@ -1,0 +1,876 @@
+{{Use dmy dates|date=September 2021}}
+{{infobox country at games
+| NOC = TPE
+| NOCname = [[Chinese Taipei Olympic Committee]]
+| games = Summer Olympics
+| year = 2012
+| flagcaption = [[Chinese Taipei Olympic flag]]
+| oldcode = 
+| website = {{url|www.tpenoc.net}}&nbsp;{{in lang|zh|en}}
+| location = [[London]]
+| competitors = '''44'''
+| sports = '''14'''
+| flagbearer = [[Chen Shih-chieh]] (opening)<br /> [[Tseng Li-cheng]] (closing)
+| rank = 49
+| gold = 1
+| silver = 0
+| bronze = 1
+| officials = 
+| summerappearances = {{Team appearances list|team=Chinese Taipei|competition=Summer Olympics|begin_year=1984|end_year=}}
+| seealso = {{flagIOC|ROC}} (1924–1972)
+}}
+
+[[Chinese Taipei]] competed at the [[2012 Summer Olympics]] in [[London]], from 27 July to 12 August 2012. "Chinese Taipei" was the designated name used by [[Taiwan]] to participate in some international [[organizations]] and almost all sporting events, including the [[Olympic Games]].  Neither the common name "Taiwan" nor the official name "Republic of China" would be used due primarily to opposition from the [[People's Republic of China]]. This was the nation's eighth consecutive appearance at the Olympics.
+
+With the absence of baseball and softball at the Olympics, the [[Chinese Taipei Olympic Committee]] sent the nation's smallest delegation to the Games since [[1992 Summer Olympics|1992]]. A total of 44 athletes, 19 men and 25 women, competed in 14 sports. For the second time in its Olympic history, Chinese Taipei was represented by more female than male athletes. There was only a single competitor in fencing, judo, rowing, and sailing. This was also the youngest delegation in Chinese Taipei's Olympic history, with more than half under the age of 25, and many of them were expected to reach their peak in time for the [[2016 Summer Olympics]] in Rio de Janeiro. Fourteen athletes had competed in Beijing, including taekwondo jin and fourth-placer [[Yang Shu-Chun]]. Four Chinese Taipei athletes made their third consecutive Olympic appearance: table tennis players [[Chuang Chih-Yuan]] and [[Huang Yi-Hua]], and badminton players [[Cheng Wen-Hsing]] and [[Chien Yu-Chin]] in the women's doubles. Weightlifter [[Chen Shih-chieh]], who competed at his first Olympics, was the nation's flag bearer at the opening ceremony.
+
+Chinese Taipei left London with two medals: a gold and a bronze, the lowest in Summer Olympic history since [[1996 Summer Olympics|1996]]. These medals were awarded to the female athletes in weightlifting and taekwondo.
+
+==Medalists==
+{| class="wikitable sortable" style="font-size: 95%"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}} || [[Hsu Shu-ching]] || [[Weightlifting at the 2012 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2012 Summer Olympics – Women's 53&nbsp;kg|Women's 53&nbsp;kg]] || {{dts|29 July}}
+|-
+| {{bronze medal}} || [[Tseng Li-cheng]] || [[Taekwondo at the 2012 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2012 Summer Olympics – Women's 57&nbsp;kg|Women's 57&nbsp;kg]] || {{dts|9 August}}
+|}
+
+==Archery==
+{{main|Archery at the 2012 Summer Olympics}}
+Chinese Taipei has qualified three archers for the [[Archery at the 2012 Summer Olympics – Men's individual|men's individual event]], a team for the [[Archery at the 2012 Summer Olympics – Men's team|men's team event]], three archers for the [[Archery at the 2012 Summer Olympics – Women's individual|women's individual event]], and a team for the [[Archery at the 2012 Summer Olympics – Women's team|women's team event]]
+
+;Men
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Chen Yu-chen]]
+|align=left rowspan=3|[[Archery at the 2012 Summer Olympics – Men's individual|Individual]]
+|649
+|54
+|{{flagIOCathlete|[[Mauro Nespoli|Nespoli]]|ITA|2012 Summer}} (11)<br/>'''W''' 6–2
+|{{flagIOCathlete|[[Viktor Ruban|Ruban]]|UKR|2012 Summer}} (43)<br/>'''L'''  0–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Kuo Cheng-wei]]
+|660
+|40
+|{{flagIOCathlete|[[Elías Malavé|Malavé]]|VEN|2012 Summer}} (25)<br/>'''W''' 6–5
+|{{flagIOCathlete|[[Ahmed El-Nemr|El-Nemr]]|EGY|2012 Summer}} (57)<br/>'''W''' 6–2
+|{{flagIOCathlete|[[Markiyan Ivashko|Ivashko]]|UKR|2012 Summer}} (24)<br/>'''W''' 6–0
+|{{flagIOCathlete|[[Rick van der Ven|van der Ven]]|NED|2012 Summer}} (16)<br/>'''L''' 0–6
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Wang Cheng-pang]]
+|663
+|33
+|{{flagIOCathlete|[[Daniel Pineda (archer)|Pineda]]|COL|2012 Summer}} (32)<br/>'''W''' 6–0
+|{{flagIOCathlete|[[Im Dong-Hyun|Im D-h]]|KOR|2012 Summer}} (1)<br/>'''L''' 4–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Chen Yu-chen]]<br />[[Kuo Cheng-wei]]<br />[[Wang Cheng-pang]]
+|align=left|[[Archery at the 2012 Summer Olympics – Men's team|Team]]
+|1972
+|11
+|colspan=2 {{n/a}}
+|{{flagIOC|ITA|2012 Summer}} (6)<br/>'''L''' 206–212
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Le Chien-ying]]
+|align=left rowspan=3|[[Archery at the 2012 Summer Olympics – Women's individual|Individual]]
+|638
+|39
+|{{flagIOCathlete|[[Begül Löklüoğlu|Löklüoğlu]]|TUR|2012 Summer}} (25)<br/>'''W''' 6–0
+|{{flagIOCathlete|[[Carina Christiansen|Christiansen]]|DEN|2012 Summer}} (7)<br/>'''L''' 4–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Lin Chia-en]]
+|667
+|5
+|{{flagIOCathlete|[[Nurul Syafiqah Hashim|Hashim]]|MAS|2012 Summer}} (60)<br/>'''W''' 6–2
+|{{flagIOCathlete|[[Bérengère Schuh|Schuh]]|FRA|2012 Summer}} (37)<br/>'''L''' 5–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Tan Ya-ting]]
+|671
+|3
+|{{flagIOCathlete|[[Nathalie Dielen|Dielen]]|SUI|2012 Summer}} (25)<br/>'''W''' 6–4
+|{{flagIOCathlete|[[Elena Richter|Richter]]|GER|2012 Summer}} (30)<br/>'''W''' 6–2
+|{{flagIOCathlete|[[Pia Lionetti|Lionetti]]|ITA|2012 Summer}} (19)<br/>'''L''' 2–6
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Le Chien-ying]]<br />[[Lin Chia-en]]<br />[[Tan Ya-ting]]
+|align=left|[[Archery at the 2012 Summer Olympics – Women's team|Team]]
+|1976
+|3
+|colspan=2 {{n/a}}
+|{{n/a|Bye}}
+|{{flagIOC|RUS|2012 Summer}} (6)<br/>'''L''' 216 (26)–216 (28)
+|colspan=3|Did not advance
+|}
+
+==Athletics==
+{{main|Athletics at the 2012 Summer Olympics}}
+Athletes from Chinese Taipei have so far achieved qualifying standards in the following athletics events (up to a maximum of 3 athletes in each event at the 'A' Standard, and 1 at the 'B' Standard):<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|access-date=4 June 2011}}</ref><ref>{{citation|title=IAAF Games of the XXX Olympiad – London 2012 ENTRY STANDARDS |url=http://www.iaaf.org/mm/Document/Statistics/Standards/05/97/61/20110415082248_httppostedfile_EntryStandards_London2012_24135.pdf |publisher=IAAF |access-date=4 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120707020747/http://www.iaaf.org/mm/document/statistics/standards/05/97/61/20110415082248_httppostedfile_entrystandards_london2012_24135.pdf |archive-date=7 July 2012 }}</ref>
+{{smalldiv|1=
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+[[File:Chia-Che Chang (Taipei) - London 2012.jpg|thumb|210px|[[Chang Chia-che]] finished seventy-seventh in men's marathon.]]
+;Men
+;Track & road events
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat 
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Chang Chia-che]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's marathon|Marathon]]
+|colspan=4 {{n/a}}
+|2:29:58
+|77
+|-align=center
+|align=left|[[Chen Chieh]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 400 metres hurdles|400 m hurdles]]
+|50.27
+|6
+|colspan=4|Did not advance
+|}
+
+;Field events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-align=center
+|align=left|[[Chang Ming-huang]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's shot put|Shot put]]
+|20.25
+|12 '''q'''
+|19.99
+|12
+|-align=center
+|align=left|[[Lin Ching-hsuan (long jumper)|Lin Ching-hsuan]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's long jump|Long jump]]
+|7.38
+|=33
+|colspan=2|Did not advance
+|}
+
+;Women
+;Field events
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-align=center
+|align=left|[[Li Wen-hua]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's discus throw|Discus throw]]
+|59.91
+|22
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Lin Chia-ying]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's shot put|Shot put]]
+|17.43 '''[[List of Taiwanese records in athletics|NR]]'''
+|25
+|colspan=2|Did not advance
+|}
+
+==Badminton==
+{{main|Badminton at the 2012 Summer Olympics}}
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Hsu Jen-hao]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Men's singles|Singles]]
+|{{flagIOCathlete|[[Son Wan-Ho|Son W-h]]|KOR|2012 Summer}}<br/>'''L''' 14–21, 10–21
+|{{flagIOCathlete|[[Vladimir Ivanov (badminton)|Ivanov]]|RUS|2012 Summer}}<br/>'''L''' 15–21, 13–21 
+|{{n/a}}
+|3
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Fang Chieh-min]]<br />[[Lee Sheng-mu]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Men's doubles|Doubles]]
+|{{flagIOCathlete|[[Cai Yun|Cai Y]] / <br/>[[Fu Haifeng|Fu Hf]]|CHN|2012 Summer}}<br/>'''L''' 19–21, 13–21
+|{{flagIOCathlete|[[Ingo Kindervater|Kindervater]] / <br/>[[Johannes Schöttler|Schöttler]]|GER|2012 Summer}}<br/>'''W''' 21–15, 21–16
+|{{flagIOCathlete|[[Ross Smith (badminton)|Smith]] / <br/>[[Glenn Warfe|Warfe]]|AUS|2012 Summer}}<br/>'''W''' 21–14, 21–13
+|2 '''Q'''
+|{{n/a}}
+|{{flagIOCathlete|[[Mathias Boe|Boe]] / <br/>[[Carsten Mogensen|Mogensen]]|DEN|2012 Summer}}<br/>'''L''' 16–21, 18–21
+|colspan=3|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Cheng Shao-chieh]]
+|align=left rowspan=2|[[Badminton at the 2012 Summer Olympics – Women's singles|Singles]]
+|{{flagIOCathlete|[[Neslihan Yiğit|Yiğit]]|TUR|2012 Summer}}<br/>'''W''' 21–10, 21–6
+|{{flagIOCathlete|[[Simone Prutsch|Prutsch]]|AUT|2012 Summer}}<br/>'''W''' 21–11, 21–9
+|{{n/a}}
+|1 '''Q'''
+|{{flagIOCathlete|[[Gu Juan|Gu J]]|SIN|2012 Summer}}<br/>'''W''' 21–18, 21–10
+|{{flagIOCathlete|[[Wang Yihan|Wang Yh]]|CHN|2012 Summer}}<br/>'''L''' 14–21, 11–21
+|colspan=3|Did not advance
+|-align=center
+|align=left|[[Tai Tzu-ying]]
+|{{flagIOCathlete|[[Anu Nieminen|Nieminen]]|FIN|2012 Summer}}<br/>'''W''' 21–11, 21–14
+|{{flagIOCathlete|[[Victoria Montero|Montero]]|MEX|2012 Summer}}<br/>'''W''' 21–6, 21–10
+|{{n/a}} 
+|1 '''Q'''
+|{{flagIOCathlete|[[Li Xuerui|Li Xr]]|CHN|2012 Summer}}<br/>'''L''' 16–21, 21–23
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Cheng Wen-hsing]]<br />[[Chien Yu-chin]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Women's doubles|Doubles]]
+|{{flagIOCathlete|[[Mizuki Fujii|Fujii]] / <br />[[Reika Kakiiwa|Kakiiwa]]|JPN|2012 Summer}}<br/>'''W''' 21–19, 21–11
+|{{flagIOCathlete|[[Jwala Gutta|Gutta]] / <br />[[Ashwini Ponnappa|Ponnappa]]|IND|2012 Summer}}<br/>'''L''' 23–25, 21–16, 18–21
+|{{flagIOCathlete|[[Shinta Mulia Sari|Sari]] / <br />[[Yao Lei|Yao]]|SIN|2012 Summer}}<br/>'''W''' 18–21, 21–15, 21–15
+|1 '''Q'''
+|{{n/a}}
+|{{flagIOCathlete|[[Tian Qing|Tian Q]] / <br />[[Zhao Yunlei|Zhao Yl]]|CHN|2012 Summer}}<br/>'''L''' 10–21, 14–21
+|colspan=3|Did not advance
+|}
+
+;Mixed
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group Stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Chen Hung-ling]]<br />[[Cheng Wen-hsing]]
+|align=left|[[Badminton at the 2012 Summer Olympics – Mixed doubles|Doubles]]
+|{{flagIOCathlete|[[Xu Chen|Xu C]] / <br/>[[Ma Jin|Ma J]]|CHN|2012 Summer}}<br/>'''L''' 16–21, 20–22
+|{{flagIOCathlete|[[Sudket Prapakamol|Prapakamol]] / <br/>[[Saralee Thoungthongkam|Thoungthongkam]]|THA|2012 Summer}}<br/>'''L''' 15–21, 16–21
+|{{flagIOCathlete|[[Chan Peng Soon|Chan P S]] / <br/>[[Goh Liu Ying|Goh L Y]]|MAS|2012 Summer}}<br/>'''W''' 21–12, 6–21, 21–15
+|3
+|colspan=4|Did not advance
+|}
+
+==Cycling==
+{{main|Cycling at the 2012 Summer Olympics}}
+
+===Road===
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Hsiao Mei-yu]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's road race|Women's road race]]
+|colspan=2|{{abbr|OTL|Over time limit}}
+|}
+
+===Track===
+;Omnium
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Flying lap
+!colspan=2|Points race
+!Elimination race
+!colspan=2|Individual pursuit
+!Scratch race
+!colspan=2|Time trial
+!rowspan=2|Total points
+!rowspan=2|Rank
+|-style="font-size:95%"
+!Time
+!Rank
+!Points
+!Rank
+!Rank
+!Time
+!Rank
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Hsiao Mei-yu]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Women's Omnium|Women's omnium]]
+|14.662
+|11
+|2
+|17
+|17
+|3:49.051
+|16
+|15
+|36.482
+|9
+|85
+|17
+|}
+
+==Fencing==
+{{Main|Fencing at the 2012 Summer Olympics}}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|-align=center
+|align=left|[[Hsu Jo-ting]]
+|align=left|[[Fencing at the 2012 Summer Olympics – Women's épée|Individual épée]]
+|{{flagIOCathlete|[[Mona Hassanein|Hassanein]]|EGY|2012 Summer}} <br/> '''W''' 15–10
+|{{flagIOCathlete|[[Ana Maria Brânză|Brânză]]|ROU|2012 Summer}} <br/> '''L''' 8–15
+|colspan=5|Did not advance
+|}
+
+==Judo==
+{{main|Judo at the 2012 Summer Olympics}}
+Chinese Taipei has qualified 1 [[judoka]]
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Tu Kai-wen]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's 66&nbsp;kg|Men's −66 kg]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Tsagaanbaatar Khashbaatar|Khashbaatar]]|MGL|2012 Summer}}<br/>'''L''' 0001–0111
+|colspan=6|Did not advance
+|}
+
+==Rowing==
+{{main|Rowing at the 2012 Summer Olympics}}
+Chinese Taipei has qualified the following boats.
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan=2|Quarterfinals
+!colspan="2"|Semifinal 
+!colspan="2"|Final 
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time 
+!Rank
+|-align=center
+|align=left|[[Wang Ming-hui]]
+|align=left|[[Rowing at the 2012 Summer Olympics – Men's single sculls|Single sculls]]
+|7:15.77
+|4 '''R'''
+|{{abbr|BUW|Boat under weight}}
+|5 '''SE/F'''
+|colspan=2 {{n/a|Bye}}
+|7:33.18
+|1 '''FE'''
+|7:33.28
+|26
+|}
+<small>Qualification Legend: '''FA'''=Final A (medal); '''FB'''=Final B (non-medal); '''FC'''=Final C (non-medal); '''FD'''=Final D (non-medal); '''FE'''=Final E (non-medal); '''FF'''=Final F (non-medal); '''SA/B'''=Semifinals A/B; '''SC/D'''=Semifinals C/D; '''SE/F'''=Semifinals E/F; '''QF'''=Quarterfinals; '''R'''=Repechage</small>
+
+==Sailing==
+{{main|Sailing at the 2012 Summer Olympics}}
+Chinese Taipei has qualified 1 boat for each of the following events
+
+;Men
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final Rank
+|-style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!M*
+|-align=center
+|align=left|[[Chang Hao (sailor)|Chang Hao]]
+|align=left|[[Sailing at the 2012 Summer Olympics – Men's sailboard|RS:X]]
+|33
+|36
+|35
+|36
+|33
+|33
+|<s>37</s>
+|37
+|24
+|22
+|EL
+|289
+|35
+|}
+<small>'''M''' = Medal race; EL = Eliminated – did not advance into the medal race;</small>
+
+==Shooting==
+{{main|Shooting at the 2012 Summer Olympics}}
+Chinese Taipei has ensured berths in the following shooting events:<ref name="issf">{{cite web | url=http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx | title=Quota places by nation and name. | access-date=20 April 2011 | publisher=[[International Shooting Sport Federation]] | archive-date=16 July 2011 | archive-url=https://web.archive.org/web/20110716090849/http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx | url-status=dead }}</ref> 	
+
+;Women
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Lin Yi-chun (sport shooter)|Lin Yi-chun]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's trap|Trap]]
+|68
+|10
+|colspan=2|Did not advance
+|-align=center
+|align=left rowspan=2|[[Tien Chia-chen]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 25 metre pistol|25 m pistol]]
+|580
+|16
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air pistol|10 m air pistol]]
+|378
+|27
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Yu Ai-wen]]
+|align=left|[[Shooting at the 2012 Summer Olympics – Women's 10 metre air pistol|10 m air pistol]]
+|375
+|36
+|colspan=2|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2012 Summer Olympics}}
+Swimmers from Chinese Taipei have so far achieved qualifying standards in the following events (up to a maximum of 2 swimmers in each event at the Olympic Qualifying Time (OQT), and potentially 1 at the Olympic Selection Time (OST)):<ref>{{cite web|title=Swimming World Rankings |url=http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |publisher=FINA |access-date=8 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110106131744/http://www.fina.org/H2O/index.php?option=com_wrapper&view=wrapper&Itemid=805 |archive-date=6 January 2011 }}</ref><ref>{{citation |title=FÉDÉRATION INTERNATIONALE DE NATATION – Swimming |url=http://www.fina.org/H2O/docs/events/london2012/sw/sw_qual.pdf |publisher=FINA |access-date=8 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110726002300/http://www.fina.org/H2O/docs/events/london2012/sw/sw_qual.pdf |archive-date=26 July 2011 }}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Hsu Chi-chieh]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 200 metre butterfly|200 m butterfly]]
+|1:59.81
+|30
+|colspan=4|Did not advance
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Chen I-chuan]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:11.28
+|38
+|colspan=4|Did not advance
+|-align=center
+|align=left rowspan=2|[[Cheng Wan-jung]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre butterfly|200 m butterfly]]
+|2:14.29
+|28
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+|2:17.39
+|31
+|colspan=4|Did not advance
+|}
+
+==Table tennis ==
+{{main|Table tennis at the 2012 Summer Olympics}}
+Chinese Taipei has qualified a man and two women in table tennis.
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminary round
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Chuang Chih-yuan]]
+|align=left|[[Table tennis at the 2012 Summer Olympics – Men's singles|Men's singles]]
+|colspan=3 {{n/a|Bye}}
+|{{flagIOCathlete|[[Dániel Zwickl|Zwickl]]|HUN|2012 Summer}}<br/>'''W''' 4–0 
+|{{flagIOCathlete|[[Andrej Gaćina|Gaćina]]|CRO|2012 Summer|}}<br/>'''W''' 4–2
+|{{flagIOCathlete|[[Adrian Crișan|Crișan]]|ROM|2012 Summer}}<br/>'''W''' 4–0
+|{{flagIOCathlete|[[Wang Hao (table tennis, born 1983)|Wang H]]|CHN|2012 Summer}}<br/>'''L''' 1–4
+|{{flagIOCathlete|[[Dimitrij Ovtcharov|Ovtcharov]]|GER|2012 Summer}}<br/> '''L''' 2–4
+|4
+|-align=center
+|align=left|[[Chen Szu-yu (table tennis)|Chen Szu-yu]]
+|align=left rowspan=2|[[Table tennis at the 2012 Summer Olympics – Women's singles|Women's singles]]
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Krisztina Tóth (table tennis)|Tóth]]|HUN|2012 Summer}}<br/>'''W''' 4–3
+|{{flagIOCathlete|[[Feng Tianwei|Feng Tw]]|SIN|2012 Summer}}<br/>'''L''' 1–4
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Huang Yi-hua]]
+|colspan=2 {{n/a|Bye}}
+|{{flagIOCathlete|[[Miao Miao|Miao]]|AUS|2012 Summer}}<br/>'''W''' 4–0
+|{{flagIOCathlete|[[Li Qian (Polish table tennis)|Li Q]]|POL|2012 Summer}}<br/>'''L''' 0–4
+|colspan=5|Did not advance
+|}
+[[File:ExCel Exhibition Centre.jpg|thumb|right|200px|London ExCel Exhibition Centre]]
+
+==Taekwondo ==
+{{main|Taekwondo at the 2012 Summer Olympics}}
+Chinese Taipei has ensured berths in the following events of taekwondo by reaching the top 3 of the [[2011 World Taekwondo Olympic Qualification Tournament|2011 WTF World Qualification Tournament]] or the [[2011 Asian Taekwondo Olympic Qualification Tournament|Asian Qualification Tournament]]:<ref name="wtf">{{cite web | url=http://www.wtf.org/wtf_eng/site/news/notice.html?bbs_no=5618&bbs_code=10008&bbs_num=510&symode=view| title=Competition Results (Day 3 of World Olympic Taekwondo Qualification Tournament on July 2, 2011 in Baku, Azerbaijan) | access-date=3 July 2011 | publisher=[[World Taekwondo Federation]]}}</ref><ref name="wtf2">{{cite web | url=http://www.wtf.org/wtf_eng/site/news/notice.html?bbs_no=5621&bbs_code=10008&bbs_num=511&symode=view&PHPSESSID=905db7bdb36de72956bd39cc87eb4c37| title=Competition Results - Day 4 & final of World Olympic Taekwondo Qualification Tournament on July 3, 2011 in Baku, Azerbaij | access-date=4 July 2011 | publisher=[[World Taekwondo Federation]]}}</ref>
+
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!Bronze Medal
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Wei Chen-yang]]
+|align=left|[[Taekwondo at the 2012 Summer Olympics – Men's 58&nbsp;kg|Men's −58 kg]]
+|{{flagIOCathlete|[[Le Huynh Chau|Le H C]]|VIE|2012 Summer}}<br />'''W''' 5–1
+|{{flagIOCathlete|[[Alexey Denisenko|Denisenko]]|RUS|2012 Summer}}<br />'''L''' 7–10
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Yang Shu-chun]]
+|align=left|[[Taekwondo at the 2012 Summer Olympics – Women's 49&nbsp;kg|Women's −49 kg]]
+|{{flagIOCathlete|[[Sümeyye Manz|Manz]]|GER|2012 Summer}}<br />'''W''' 10–3
+|{{flagIOCathlete|[[Chanatip Sonkham|Chanatip]]|THA|2012 Summer}}<br />'''L''' 0–6
+|colspan=5|Did not advance
+|-align=center
+|align=left|'''[[Tseng Li-cheng]]'''
+|align=left|[[Taekwondo at the 2012 Summer Olympics – Women's 57&nbsp;kg|Women's −57 kg]]
+|{{flagIOCathlete|[[Rangsiya Nisaisom|Nisaisom]]|THA|2012 Summer}}<br />'''W''' 4–1
+|{{flagIOCathlete|[[Andrea Paoli|Paoli]]|LIB|2012 Summer}}<br />'''W''' 5–2
+|{{flagIOCathlete|[[Jade Jones (taekwondo)|Jones]]|GBR|2012 Summer}}<br />'''L''' 6–10
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Suvi Mikkonen|Mikkonen]]|FIN|2012 Summer}}<br />'''W''' 14–2
+|Did not advance
+|{{Bronze03}}
+|}
+
+==Tennis==
+{{main|Tennis at the 2012 Summer Olympics}}
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Lu Yen-hsun]]
+|align=left|[[Tennis at the 2012 Summer Olympics – Men's singles|Men's singles]]
+|{{flagIOCathlete|[[Malek Jaziri|Jaziri]]|TUN|2012 Summer}}<br/>'''L''' 6–7<sup>(10–12)</sup>, 6–4, 3–6
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Hsieh Su-wei]]
+|align=left|[[Tennis at the 2012 Summer Olympics – Women's singles|Women's singles]]
+|{{flagIOCathlete|[[Peng Shuai|Peng]]|CHN|2012 Summer}}<br/>'''L''' 3–6, 7–6<sup>(7–3)</sup>, 5–7
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Chuang Chia-jung]]<br />[[Hsieh Su-wei]]
+|align=left|[[Tennis at the 2012 Summer Olympics – Women's doubles|Women's doubles]]
+|{{n/a}}
+|{{flagIOCathlete|[[Rushmi Chakravarthi|Chakravarthi]] / <br/>[[Sania Mirza|Mirza]]|IND|2012 Summer}}<br/>'''W''' 6–1, 3–6, 6–1
+|{{flagIOCathlete|[[Flavia Pennetta|Pennetta]] / <br/>[[Francesca Schiavone|Schiavone]]|ITA|2012 Summer}}<br/>'''W''' 6–7, 7–5, 6–4
+|{{flagIOCathlete|[[Andrea Hlaváčková|Hlaváčková]] / <br/>[[Lucie Hradecká|Hradecká]]|CZE|2012 Summer}}<br/>'''L''' 3–6, 4–6
+|colspan=3|Did not advance
+|}
+
+==Weightlifting==
+{{main|Weightlifting at the 2012 Summer Olympics}}
+Chinese Taipei has qualified 1 man and 3 women.
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Snatch
+!colspan="2"|Clean & Jerk
+!rowspan="2"|Total
+!rowspan="2"|Rank
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Chen Shih-chieh]]
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Men's +105 kg|Men's +105 kg]]
+|182
+|13
+|236
+|6
+|418
+|10
+|-align=center
+|align=left|'''[[Hsu Shu-ching]]'''
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Women's 53&nbsp;kg|Women's −53 kg]]
+|96 
+|2
+|123 
+|2
+|219 
+|{{gold01}}
+|-align=center
+|align=left|[[Kuo Hsing-chun]]
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Women's 58&nbsp;kg|Women's −58 kg]]
+|99
+|12
+|129
+|5
+|228
+|8
+|-align=center
+|align=left|[[Huang Shih-hsu]]
+|align=left|[[Weightlifting at the 2012 Summer Olympics – Women's 69&nbsp;kg|Women's −69 kg]]
+|110
+|8
+|131
+|8
+|241
+|7
+|}
+
+==References==
+{{Reflist}}
+{{Nations at the 2012 Summer Olympics}}
+{{Country at games navbox|Chinese Taipei|Olympics}}
+{{Commons category}}
+
+{{DEFAULTSORT:Chinese Taipei at the 2012 Summer Olympics}}
+[[Category:2012 in Taiwanese sport|Summer Olympics]]
+[[Category:Nations at the 2012 Summer Olympics]]
+[[Category:Taiwan at the Summer Olympics by year|2012]]

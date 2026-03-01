@@ -1,0 +1,632 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox Olympic event
+  |event       = Mixed 49er<ref name="A" />
+  |games       = 2004 Summer
+  |image       = 49er skiff.svg
+  |image_size  = 100px
+  |caption     = Line drawing of the 49er
+  |venue       = [[Agios Kosmas Olympic Sailing Centre]]
+  |dates       = First race: {{Start date|df=yes|2004|08|17}}<br/>Last race: {{End date|df=yes|2004|08|26}}
+  |competitors = 38
+  |nations     = 19
+  |teams       = 
+  |gold        = [[Iker Martínez]]<br/>[[Xabier Fernández]]
+  |goldNOC     = ESP
+  |silver      = [[Rodion Luka]]<br/>[[George Leonchuk]]
+  |silverNOC   = UKR
+  |bronze      = [[Chris Draper]]<br/>[[Simon Hiscocks]]
+  |bronzeNOC   = GBR
+  |prev        = [[Sailing at the 2000 Summer Olympics – 49er|2000]]
+  |next        = [[Sailing at the 2008 Summer Olympics – 49er|2008]]
+}}
+
+{{Classes used for Sailing at the Summer Olympics|year = 2004}}
+
+The '''Mixed 49er''' was a sailing event on the [[Sailing at the 2004 Summer Olympics]] program in [[Agios Kosmas Olympic Sailing Centre]].<ref name="A" /> sixteen races were scheduled and completed with two discards. 38 sailors, on 19 boats, from 19 nation competed.<ref name="Scoring_System" /><ref>{{cite web|url=https://www.olympedia.org/results/11159 |title=Sailing at the 2004 Summer Olympics: Skiff (49er), Open |work=Olympedia |access-date=29 June 2020}}</ref>
+
+== Race schedule==
+{| class="wikitable" style="margin:0.5em auto; font-size:90%;position:relative;"
+|-
+|bgcolor=#cedff2 align=center|&nbsp;●&nbsp;||Practice races || bgcolor=#3399ff align=center|&nbsp;●&nbsp;||Competition day || bgcolor=#ffcc00 align=center|&nbsp;●&nbsp;||Last day of racing 
+|}
+{| class="wikitable" style="margin:0.5em auto; font-size:90%; line-height:1.25em;"
+|-
+!rowspan=2|Date<ref name="C" /> 
+!colspan=18|August
+|-
+!12<br/>Thu!!13<br/>Fri!!14<br/>Sat!!15<br/>Sun!!16<br/>Mon!!17<br/>Tue!!18<br/>Wed!!19<br/>Thu!!20<br/>Fri!!21<br/>Sat!!22<br/>Sun!!23<br/>Mon!!24<br/>Tue!!25<br/>Wed!!26<br/>Thu!!27<br/>Fri!!28<br/>Sat!!29<br/>Sun
+|- align="center"
+| align="center" | '''Mixed 49er'''
+| bgcolor=#cedff2 |<span style="line-height:0.7em;"> ● </span>
+| bgcolor=#cedff2 |<span style="line-height:0.7em;"> ● </span>
+| 
+| 
+| 
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● </span>
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● ● ● </span>
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● ● </span>
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● ● ● </span>
+| bgcolor=#cedff2 |Spare<br/>day
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● ● </span>
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● </span>
+| bgcolor=#3399ff |<span style="line-height:0.7em;"> ● ● ● </span>
+| bgcolor=#cedff2 |Spare<br/>day
+| bgcolor=#ffcc00 |<span style="line-height:0.7em;"> ● </span>
+| 
+| 
+| 
+|}
+== Final results ==
+Source:<ref name="B" />
+{{Sailing result block | event = Olympics | classinsigna = 49er black.svg| crew = yes | sailno = no | boatsname = no | races = 16 | total = yes | netto = yes
+  | resultlines =                   {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = gold
+                    | countrycode = ESP
+                    | helmsman    = {{Sailor|[[Iker Martínez]]|gender=m}}
+                    | crew01      = {{Sailor|[[Xabier Fernández]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace02 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace03 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace04 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace05 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace06 = {{Fleetrace|place=12|points= 12.0|discard=yes}}
+                    | fleetrace07 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace08 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace09 = {{Fleetrace|place=12|points= 12.0|discard=yes}}
+                    | fleetrace10 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace11 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace12 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace13 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace14 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace15 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace16 = {{Fleetrace|place=7|points= 7.0}}
+                    | total       = 91.0
+                    | netto       = 67.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = silver
+                    | countrycode = UKR
+                    | helmsman    = {{Sailor|[[Rodion Luka]]|gender=m}}
+                    | crew01      = {{Sailor|[[George Leonchuk]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace02 = {{Fleetrace|place=15|points= 15.0|discard=yes}}
+                    | fleetrace03 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace04 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace05 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace06 = {{Fleetrace|place=10|points= 10.0|discard=yes}}
+                    | fleetrace07 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace08 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace09 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace10 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace11 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace12 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace13 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace14 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace15 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace16 = {{Fleetrace|place=3|points= 3.0}}
+                    | total       = 97.0
+                    | netto       = 72.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = bronze
+                    | countrycode = GBR
+                    | helmsman    = {{Sailor|[[Chris Draper]]|gender=m}}
+                    | crew01      = {{Sailor|[[Simon Hiscocks]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace02 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace03 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace04 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace05 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace06 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace07 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace08 = {{Fleetrace|place=13|points= 13.0|discard=yes}}
+                    | fleetrace09 = {{Fleetrace|place=11|points= 11.0|discard=yes}}
+                    | fleetrace10 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace11 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace12 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace13 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace14 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace15 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace16 = {{Fleetrace|place=6|points= 6.0}}
+                    | total       = 101.0
+                    | netto       = 77.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 4
+                    | countrycode = NOR
+                    | helmsman    = {{Sailor|[[Christoffer Sundby]]|gender=m}}
+                    | crew01      = {{Sailor|[[Frode Bovim]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace02 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace03 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace04 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace05 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace06 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace07 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace08 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace09 = {{Fleetrace|place=15|points= 15.0|discard=yes}}
+                    | fleetrace10 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace11 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace12 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace13 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace14 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace15 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace16 = {{Fleetrace|place=2|points= 2.0}}
+                    | total       = 123.0
+                    | netto       = 88.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 5
+                    | countrycode = USA
+                    | helmsman    = {{Sailor|[[Tim Wadlow]]|gender=m}}
+                    | crew01      = {{Sailor|[[Pete Spaulding]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace02 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace03 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace04 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace05 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace06 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace07 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace08 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace09 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace10 = {{Fleetrace|place=13|points= 13.0|discard=yes}}
+                    | fleetrace11 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace12 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace13 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace14 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace15 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace16 = {{Fleetrace|place=10|points= 10.0}}
+                    | total       = 125.0
+                    | netto       = 92.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 6
+                    | countrycode = BRA
+                    | helmsman    = {{Sailor|[[André Fonseca]]|gender=m}}
+                    | crew01      = {{Sailor|[[Rodrigo Duarte]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace02 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace03 = {{Fleetrace|place=13|points= 13.0|discard=yes}}
+                    | fleetrace04 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace05 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace06 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace07 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace08 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace09 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace10 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace11 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace12 = {{Fleetrace|place=15|points= 15.0|discard=yes}}
+                    | fleetrace13 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace14 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace15 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace16 = {{Fleetrace|place=5|points= 5.0}}
+                    | total       = 132.0
+                    | netto       = 104.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 7
+                    | countrycode = AUS
+                    | helmsman    = {{Sailor|[[Chris Nicholson (sailor)|Chris Nicholson]]|gender=m}}
+                    | crew01      = {{Sailor|[[Gary Boyd (sailor)|Gary Boyd]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace02 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace03 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace04 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace05 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace06 = {{Fleetrace|place=18|points= 18.0|discard=yes}}
+                    | fleetrace07 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace08 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace09 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace10 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace11 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace12 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace13 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace14 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace15 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace16 = {{Fleetrace|place=11|points= 11.0}}
+                    | total       = 143.0
+                    | netto       = 105.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 8
+                    | countrycode = FIN
+                    | helmsman    = {{Sailor|[[Thomas Johanson]]|gender=m}}
+                    | crew01      = {{Sailor|[[Jukka Piirainen]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace02 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace03 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace04 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace05 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace06 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace07 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace08 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace09 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace10 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace11 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace12 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace13 = {{Fleetrace|place=14|points= 14.0|discard=yes}}
+                    | fleetrace14 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace15 = {{Fleetrace|place=15|points= 15.0|discard=yes}}
+                    | fleetrace16 = {{Fleetrace|place=4|points= 4.0}}
+                    | total       = 140.0
+                    | netto       = 111.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 9
+                    | countrycode = GER
+                    | helmsman    = {{Sailor|[[Marcus Baur]]|gender=m}}
+                    | crew01      = {{Sailor|[[Max Groy]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace02 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace03 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace04 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace05 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace06 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace07 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace08 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace09 = {{Fleetrace|place=16|points= 16.0|discard=yes}}
+                    | fleetrace10 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace11 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace12 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace13 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace14 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace15 = {{Fleetrace|place=DNF|points= 20.0|discard=yes}}
+                    | fleetrace16 = {{Fleetrace|place=1|points= 1.0}}
+                    | total       = 152.0
+                    | netto       = 116.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 10
+                    | countrycode = AUT
+                    | helmsman    = {{Sailor|[[Nico Delle Karth]]|gender=m}}
+                    | crew01      = {{Sailor|[[Nikolaus Resch]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace02 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace03 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace04 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace05 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace06 = {{Fleetrace|place=14|points= 14.0|discard=yes}}
+                    | fleetrace07 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace08 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace09 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace10 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace11 = {{Fleetrace|place=15|points= 15.0|discard=yes}}
+                    | fleetrace12 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace13 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace14 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace15 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace16 = {{Fleetrace|place=8|points= 8.0}}
+                    | total       = 154.0
+                    | netto       = 122.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 11
+                    | countrycode = FRA
+                    | helmsman    = {{Sailor|[[Marc Audineau]]|gender=m}}
+                    | crew01      = {{Sailor|[[Stéphane Christidis]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace02 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace03 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace04 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace05 = {{Fleetrace|place=16|points= 16.0|discard=yes}}
+                    | fleetrace06 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace07 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace08 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace09 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace10 = {{Fleetrace|place=18|points= 18.0|discard=yes}}
+                    | fleetrace11 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace12 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace13 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace14 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace15 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace16 = {{Fleetrace|place=14|points= 14.0}}
+                    | total       = 164.0
+                    | netto       = 130.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 12
+                    | countrycode = SUI
+                    | helmsman    = {{Sailor|[[Chris Rast]]|gender=m}}
+                    | crew01      = {{Sailor|[[Christian Steiger]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace02 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace03 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace04 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace05 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace06 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace07 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace08 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace09 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace10 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace11 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace12 = {{Fleetrace|place=16|points= 16.0|discard=yes}}
+                    | fleetrace13 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace14 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace15 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace16 = {{Fleetrace|place=9|points= 9.0}}
+                    | total       = 173.0
+                    | netto       = 137.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 13
+                    | countrycode = DEN
+                    | helmsman    = {{Sailor|[[Michael Hestbæk]]|gender=m}}
+                    | crew01      = {{Sailor|[[Dennis Dengsø Andersen]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace02 = {{Fleetrace|place=17|points= 17.0|discard=yes}}
+                    | fleetrace03 = {{Fleetrace|place=17|points= 17.0|discard=yes}}
+                    | fleetrace04 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace05 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace06 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace07 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace08 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace09 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace10 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace11 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace12 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace13 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace14 = {{Fleetrace|place=6|points= 6.0}}
+                    | fleetrace15 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace16 = {{Fleetrace|place=13|points= 13.0}}
+                    | total       = 172.0
+                    | netto       = 138.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 14
+                    | countrycode = ITA
+                    | helmsman    = {{Sailor|[[Pietro Sibello]]|gender=m}}
+                    | crew01      = {{Sailor|[[Gianfranco Sibello]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=DSQ|points= 20.0|discard=yes}}
+                    | fleetrace02 = {{Fleetrace|place=1|points= 1.0}}
+                    | fleetrace03 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace04 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace05 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace06 = {{Fleetrace|place=17|points= 17.0|discard=yes}}
+                    | fleetrace07 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace08 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace09 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace10 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace11 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace12 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace13 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace14 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace15 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace16 = {{Fleetrace|place=16|points= 16.0}}
+                    | total       = 175.0
+                    | netto       = 138.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 15
+                    | countrycode = JPN
+                    | helmsman    = {{Sailor|[[Kenji Nakamura (sailor)|Kenji Nakamura]]|gender=m}}
+                    | crew01      = {{Sailor|[[Masato Takaki]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace02 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace03 = {{Fleetrace|place=19|points= 19.0|discard=yes}}
+                    | fleetrace04 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace05 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace06 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace07 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace08 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace09 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace10 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace11 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace12 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace13 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace14 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace15 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace16 = {{Fleetrace|place=15|points= 15.0}}
+                    | total       = 185.0
+                    | netto       = 146.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 16
+                    | countrycode = IRL
+                    | helmsman    = {{Sailor|[[Tom Fitzpatrick (Irish sailor)|Tom Fitzpatrick]]|gender=m}}
+                    | crew01      = {{Sailor|[[Fraser Brown (sailor)|Fraser Brown]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace02 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace03 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace04 = {{Fleetrace|place=4|points= 4.0}}
+                    | fleetrace05 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace06 = {{Fleetrace|place=5|points= 5.0}}
+                    | fleetrace07 = {{Fleetrace|place=17|points= 17.0|discard=yes}}
+                    | fleetrace08 = {{Fleetrace|place=2|points= 2.0}}
+                    | fleetrace09 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace10 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace11 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace12 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace13 = {{Fleetrace|place=DSQ|points= 20.0|discard=yes}}
+                    | fleetrace14 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace15 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace16 = {{Fleetrace|place=12|points= 12.0}}
+                    | total       = 189.0
+                    | netto       = 152.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 17
+                    | countrycode = GRE
+                    | helmsman    = {{Sailor|[[Athanasios Pachoumas]]|gender=m}}
+                    | crew01      = {{Sailor|[[Vasileios Portosalte]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace02 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace03 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace04 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace05 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace06 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace07 = {{Fleetrace|place=14|points= 14.0}}
+                    | fleetrace08 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace09 = {{Fleetrace|place=8|points= 8.0}}
+                    | fleetrace10 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace11 = {{Fleetrace|place=DSQ|points= 20.0|discard=yes}}
+                    | fleetrace12 = {{Fleetrace|place=12|points= 12.0}}
+                    | fleetrace13 = {{Fleetrace|place=RDG|points= 13.4}}
+                    | fleetrace14 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace15 = {{Fleetrace|place=7|points= 7.0}}
+                    | fleetrace16 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | total       = 221.4
+                    | netto       = 181.4
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 18
+                    | countrycode = POL
+                    | helmsman    = {{Sailor|[[Marcin Czajkowski]]|gender=m}}
+                    | crew01      = {{Sailor|[[Krzysztof Kierkowski]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=DSQ|points= 20.0|discard=yes}}
+                    | fleetrace02 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace03 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace04 = {{Fleetrace|place=OCS|points= 20.0|discard=yes}}
+                    | fleetrace05 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace06 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace07 = {{Fleetrace|place=11|points= 11.0}}
+                    | fleetrace08 = {{Fleetrace|place=10|points= 10.0}}
+                    | fleetrace09 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace10 = {{Fleetrace|place=9|points= 9.0}}
+                    | fleetrace11 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace12 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace13 = {{Fleetrace|place=3|points= 3.0}}
+                    | fleetrace14 = {{Fleetrace|place=13|points= 13.0}}
+                    | fleetrace15 = {{Fleetrace|place=16|points= 16.0}}
+                    | fleetrace16 = {{Fleetrace|place=17|points= 17.0}}
+                    | total       = 230.0
+                    | netto       = 190.0
+                  }}
+                  {{Sailing result line
+                    | year        = 2004
+                    | qualified   = no
+                    | rank        = 19
+                    | countrycode = IND
+                    | helmsman    = {{Sailor|[[Malav Shroff]]|gender=m}}
+                    | crew01      = {{Sailor|[[Sumeet Patel]]|gender=m}}
+                    | fleetrace01 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace02 = {{Fleetrace|place=19|points= 19.0|discard=yes}}
+                    | fleetrace03 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace04 = {{Fleetrace|place=15|points= 15.0}}
+                    | fleetrace05 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace06 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace07 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace08 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace09 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace10 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace11 = {{Fleetrace|place=18|points= 18.0}}
+                    | fleetrace12 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace13 = {{Fleetrace|place=DNC|points= 20.0|discard=yes}}
+                    | fleetrace14 = {{Fleetrace|place=19|points= 19.0}}
+                    | fleetrace15 = {{Fleetrace|place=17|points= 17.0}}
+                    | fleetrace16 = {{Fleetrace|place=18|points= 18.0}}
+                    | total       = 292.0
+                    | netto       = 253.0
+                  }}
+  | legendlines = {{sailing result legend
+                    |discard = yes
+                    |DNC     = yes
+                    |DSQ     = yes
+                    |OCS     = yes
+                    |DNF     = yes
+                    |RDG     = yes
+                  }}
+}}
+
+== Daily standings ==
+[[Image:2004 49er Positions during the serie.png|500px|thumb|none|Graph showing the daily standings in the 49er at the 2004 Summer Olympics]]
+
+== Further reading ==
+* {{cite web
+ |title       = Digital Library Collection (Official Olympic Reports 1896 - 2008)
+ |url         = http://search.la84.org/search
+ |work        = Digital Library Collection at la84.org
+ |publisher   = la84foundation
+ |access-date = 20 March 2014
+}}{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+* {{cite web 
+    |author     = Kubatko, Justin 
+    |title      = Sailing at the 2004 Athina Summer Games
+    |url     = https://www.sports-reference.com/olympics/summer/2004/SAI/
+    |archive-url = https://web.archive.org/web/20200417040931/https://www.sports-reference.com/olympics/summer/2004/SAI/
+    |url-status = dead
+    |archive-date = 17 April 2020
+    |work=Olympics at Sports-Reference.com 
+    |publisher  = Sports Reference LLC 
+    |access-date = 20 March 2014 
+  }}
+* {{IOC games|games=2004 Summer Olympics}}
+
+== References ==
+{{reflist|refs  =
+  <ref name      = "A">{{cite web
+      |title=2004 Summer Olympics official report Volume 1
+      |url=http://www.la84foundation.org/6oic/OfficialReports/2004/or2004a.pdf
+      |format=PDF
+      |access-date=20 March 2014
+      |archive-date=8 August 2012
+      |archive-url=https://web.archive.org/web/20120808034305/http://www.la84foundation.org/6oic/OfficialReports/2004/or2004a.pdf
+      |url-status=dead
+      }}</ref>
+  <ref name      = "B">
+    {{cite web 
+      |title=2004 Summer Olympics official report Volume 2
+      |url        = http://www.la84foundation.org/6oic/OfficialReports/2004/or2004b.pdf 
+      |format     = PDF 
+      |access-date = 20 March 2014
+    }}
+</ref>
+  <ref name      = "C">
+    {{cite web 
+      |title      = Sailing at the 2004 Athina Summer Games: Mixed Skiff
+      |url      = https://www.sports-reference.com/olympics/summer/2004/SAI/mixed-skiff.html
+      |archive-url = https://web.archive.org/web/20200417182439/https://www.sports-reference.com/olympics/summer/2004/SAI/mixed-skiff.html
+      |url-status = dead
+      |archive-date = 17 April 2020
+      |work       = Olympics at Sports-Reference.com 
+      |publisher  = Sports Reference LLC 
+      |access-date = 20 March 2014
+    }}
+</ref>
+  <ref name      = "Scoring_System">
+    The [[Scoring systems for Sailing at the Summer Olympics#2004 Olympic scoring system|2004 Olympic scoring system]] was used.
+</ref>
+}}
+
+{{Footer Olympic Champions 49er}}
+
+{{DEFAULTSORT:Sailing at the 2004 Summer Olympics - Mixed 49er}}
+[[Category:Sailing at the 2004 Summer Olympics|Open 49er]]
+[[Category:Unisex sailing at the Summer Olympics]]
+[[Category:49er class sailing competitions]]

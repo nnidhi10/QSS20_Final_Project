@@ -1,0 +1,174 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Snowboarding
+|games = 2010 Winter
+|image = [[Image:Snowboarding pictogram.svg|100px]][[Image:Snowboarding (snowboard cross) pictogram.svg|100px]]
+|image_size = 100px
+|caption = Pictograms for Snowboarding
+|venue = [[Cypress Bowl Ski Area|Cypress Mountain]]
+|dates = February 15–27, 2010
+|num_events = 6
+|competitors = 188
+|nations = 27
+|prev = [[Snowboarding at the 2006 Winter Olympics|2006]]
+|next = [[Snowboarding at the 2014 Winter Olympics|2014]]
+}}
+{{Snowboarding at the 2010 Winter Olympics}}
+
+The [[snowboarding]] competition of the [[2010 Winter Olympics|Vancouver 2010 Olympics]] was held at [[Cypress Mountain]]. The events were held between the 15 and 27 February 2010.
+
+==Medal summary==
+
+===Medal table===
+Source:<ref name="snowboard">{{cite web|url=http://www.vancouver2010.com/olympic-snowboard-schedule-results/|title=Snowboard Schedule and Results|publisher=Vancouver 2010|accessdate=16 February 2010|archive-date=2 August 2010|archive-url=https://web.archive.org/web/20100802191036/http://www.vancouver2010.com/olympic-snowboard-schedule-results/|url-status=dead}}</ref>
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 2010 Winter
+ | team           = 
+ | gold_USA = 2 | silver_USA = 1 | bronze_USA = 2
+ | gold_CAN = 2 | silver_CAN = 1 | bronze_CAN = 0
+ | gold_AUS = 1 | silver_AUS = 0 | bronze_AUS = 0
+ | gold_NED = 1 | silver_NED = 0 | bronze_NED = 0
+ | gold_FRA = 0 | silver_FRA = 1 | bronze_FRA = 2
+ | gold_AUT = 0 | silver_AUT = 1 | bronze_AUT = 1
+ | gold_FIN = 0 | silver_FIN = 1 | bronze_FIN = 0
+ | gold_RUS = 0 | silver_RUS = 1 | bronze_RUS = 0
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 1
+}}
+
+===Men's events===
+Source:<ref name="snowboard" />
+[[Image:2010 Winter Olympic Men's Snowboard Cross medalists.jpg|thumb|right|The medalists from the Snowboard cross. From left: [[Mike Robertson (snowboarder)|Mike Robertson]] (silver), [[Seth Wescott]] (gold), [[Tony Ramoin]] (bronze)]]
+{| {{MedalistTable|type=Event|columns=2}}
+|-valign="top"
+| Halfpipe <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's halfpipe}}
+|{{flagIOCmedalist|[[Shaun White]]|USA|2010 Winter}}||48.4
+|{{flagIOCmedalist|[[Peetu Piiroinen]]|FIN|2010 Winter}}||45.0
+|{{flagIOCmedalist|[[Scott Lago]]|USA|2010 Winter}}||42.8
+|-valign="top"
+| Parallel giant slalom <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom}}
+|colspan="2"|{{flagIOCmedalist|[[Jasey-Jay Anderson]]|CAN|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Benjamin Karl]]|AUT|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Mathieu Bozzetto]]|FRA|2010 Winter}}
+|-valign="top"
+| Snowboard cross <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's snowboard cross}}
+|colspan="2"|{{flagIOCmedalist|[[Seth Wescott]]|USA|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Mike Robertson (snowboarder)|Mike Robertson]]|CAN|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Tony Ramoin]]|FRA|2010 Winter}}
+|}
+
+===Women's events===
+Source:<ref name="snowboard" />
+{| {{MedalistTable|type=Event|columns=2}}
+|-valign="top"
+| Halfpipe <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's halfpipe}}
+|{{flagIOCmedalist|[[Torah Bright]]|AUS|2010 Winter}}||45.0
+|{{flagIOCmedalist|[[Hannah Teter]]|USA|2010 Winter}}||42.4
+|{{flagIOCmedalist|[[Kelly Clark]]|USA|2010 Winter}}||42.2
+|-valign="top"
+| Parallel giant slalom <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's parallel giant slalom}}
+|colspan="2"|{{flagIOCmedalist|[[Nicolien Sauerbreij]]|NED|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Ekaterina Ilyukhina]]|RUS|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Marion Kreiner]]|AUT|2010 Winter}}
+|-valign="top"
+| Snowboard cross <br>{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's snowboard cross}}
+|colspan="2"|{{flagIOCmedalist|[[Maëlle Ricker]]|CAN|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Déborah Anthonioz]]|FRA|2010 Winter}}
+|colspan="2"|{{flagIOCmedalist|[[Olivia Nobs]]|SUI|2010 Winter}}
+|}
+
+==Competition schedule==
+<small>All times are [[Pacific Time Zone|Pacific Standard Time]] ([[UTC-8]]).</small>
+
+{| class=wikitable
+! Day !! Date !! Start !! Finish !! Event !! Phase
+|- 
+|rowspan=2| Day 4 ||rowspan=2| Monday, 2010-02-15 || 10:30 || 12:50 || Snowboard Cross Men || Qualification
+|-
+|| 14:00 || 15:00 || '''Snowboard Cross Men''' || '''Finals'''
+|-
+|rowspan=2| Day 5 ||rowspan=2| Tuesday, 2010-02-16 || 10:00 || 11:40 || Snowboard Cross Women || Qualification
+|-
+|| 12:15 || 12:50 || '''Snowboard Cross Women''' || '''Finals'''
+|-
+|rowspan=3| Day 6 ||rowspan=3| Wednesday, 2010-02-17 || 13:05 || 15:45 || Halfpipe Men || Qualification
+|-
+|| 17:15 || 18:15 || Halfpipe Men || Qualification
+|-
+|| 19:15 || 20:15 || '''Halfpipe Men''' || '''Finals'''
+|-
+|rowspan=3| Day 7 ||rowspan=3| Thursday, 2010-02-18 || 12:30 || 14:05 || Halfpipe Women || Qualification
+|-
+|| 16:00 || 17:00 || Halfpipe Women || Qualification
+|-
+|| 18:00 || 19:00 || '''Halfpipe Women''' || '''Finals'''
+|-
+|rowspan=2| Day 15 ||rowspan=2| Friday, 2010-02-26 || 10:00 || 11:00 || Parallel Giant Slalom Women || Qualification
+|-
+|| 12:15 || 13:45 || '''Parallel Giant Slalom Women''' || '''Finals'''
+|-
+|rowspan=2| Day 16 ||rowspan=2| Saturday, 2010-02-27 || 10:00 || 11:00 || Parallel Giant Slalom Men || Qualification
+|-
+|| 12:15 || 13:45 || '''Parallel Giant Slalom Men''' || '''Finals'''
+|}
+
+==Qualification==
+<ref>{{cite web |url=http://www.fis-ski.com/data/document/olympic-winter-games-2010-vancouver-quota-list-18th-jan-2010.pdf |title=Archived copy |accessdate=2010-02-27 |url-status=dead |archiveurl=https://web.archive.org/web/20110604013119/http://www.fis-ski.com/data/document/olympic-winter-games-2010-vancouver-quota-list-18th-jan-2010.pdf |archivedate=2011-06-04 }}</ref> For the six events, there are a maximum 190 athletes allowed to compete. This includes a maximum of 30 in parallel giant slalom, 40 in halfpipe, and 40 in snowboard cross for men and 25 in parallel giant slalom, 30 in halfpipe, and 25 in snowboard cross for women. No nation can have more than 18 snowboarders with maximum of ten men or ten women per specific nation. For each event, no nation can enter four skiers per individual event.
+
+Skiers are qualified if they have placed in the top 30 in an FIS World Cup event of FIS World Championships in the event concerned. A minimum of 100 FIS points in the respective event. Host nation Canada is expected to enter a skier in all events. If no skier meets the qualification standards, they can enter one skier per event.
+
+Quota allocation will be given using the World Ranking List (WRL) for the twelve-month period of World Cup Standings from the 2008–09 and 2009-10 Snowboard World Cup and the FIS Freestyle World Ski Championships 2009. It will be assigned one slot per skier from the top the WRL downwards. When a nation has the maximum four skiers per event, the next eligible nation on the WRL will be given a slot until the maximum total per event in moguls, aerials, and ski cross per gender has been reached.
+
+In the case any nation is given more than 18 skiers, it is up the nation to select the team of a maximum of 18 skiers by 25 January 2010. Once quota slots are allocated by the FIS and the national entries confirmed, a reallocation of unused slots per event will be made by the FIS to the next eligible nation on the WRL for quota allocation in the respective event and gender. This process started on 18 January 2010 and will run until 28 January 2010. Deadline to VANOC is 1 February 2010.
+
+==Participating nations==
+Twenty-seven nations competed in the snowboarding events at Vancouver.
+
+{{div col|colwidth=22em}}
+*{{flagIOC|AND|2010 Winter|1}}
+*{{flagIOC|AUS|2010 Winter|8}}
+*{{flagIOC|AUT|2010 Winter|14}}
+*{{flagIOC|BRA|2010 Winter|1}}
+*{{flagIOC|BUL|2010 Winter|2}}
+*{{flagIOC|CAN|2010 Winter|18}}
+*{{flagIOC|CHN|2010 Winter|5}}
+*{{flagIOC|CZE|2010 Winter|5}}
+*{{flagIOC|DEN|2010 Winter|1}}
+*{{flagIOC|FIN|2010 Winter|5}}
+*{{flagIOC|FRA|2010 Winter|17}}
+*{{flagIOC|GER|2010 Winter|8}}
+*{{flagIOC|GBR|2010 Winter|4}}
+*{{flagIOC|ITA|2010 Winter|11}}
+*{{flagIOC|JPN|2010 Winter|12}}
+*{{flagIOC|NED|2010 Winter|2}}
+*{{flagIOC|NZL|2010 Winter|5}}
+*{{flagIOC|NOR|2010 Winter|10}}
+*{{flagIOC|POL|2010 Winter|4}}
+*{{flagIOC|RUS|2010 Winter|6}}
+*{{flagIOC|SLO|2010 Winter|7}}
+*{{flagIOC|KOR|2010 Winter|1}}
+*{{flagIOC|ESP|2010 Winter|4}}
+*{{flagIOC|SWE|2010 Winter|1}}
+*{{flagIOC|SUI|2010 Winter|16}}
+*{{flagIOC|UKR|2010 Winter|2}}
+*{{flagIOC|USA|2010 Winter|18}}
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Snowboarding at the 2010 Winter Olympics}}
+*[https://web.archive.org/web/20090617081323/http://www.fis-ski.com/data/document/qual-criteria-may-09.pdf May 2009 FIS Qualification for the 2010 Winter Olympics.] - accessed 22 January 2010. Snowboarding is on pages 14–16.
+*[http://www.vancouver2010.com/dl/00/44/31/-/44312/prop=data/o1kl3j/44312.pdf Vancouver 2010 Olympic Winter Games Competition Schedule v12] {{Webarchive|url=https://web.archive.org/web/20100116005723/http://www.vancouver2010.com/dl/00/44/31/-/44312/prop=data/o1kl3j/44312.pdf |date=2010-01-16 }}
+*[http://wintergames.ap.org/story.aspx?st=id&id=p94d4259e2e24454186ab6135f8cf1e97 Associated Press: Olympic Snowboard Results]{{dead link|date=May 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{Events at the 2010 Winter Olympics}}
+{{Snowboarding at the Winter Olympics}}
+
+[[Category:Snowboarding at the 2010 Winter Olympics| ]]
+[[Category:Snowboarding at the Winter Olympics|2010]]
+[[Category:Events at the 2010 Winter Olympics]]
+[[Category:2010 in snowboarding]]

@@ -1,0 +1,837 @@
+{{use dmy dates|date=April 2015}}
+{{infobox country at games
+| NOC = NZL
+| NOCname = [[New Zealand Olympic Committee|New Zealand Olympic and Commonwealth Games Association]]
+| games = Summer Olympics
+| year = 1976
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.olympic.org.nz }}
+| location = [[Montreal]]
+| competitors = 80 (71 men, 9 women)
+| sports = 13
+| flagbearer = [[David Aspin]] (wrestling)
+| rank = 18
+| gold = 2
+| silver = 1
+| bronze = 1
+| officials = 
+| appearances = auto
+| app_begin_year = 1920
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = {{flagIOC|ANZ}} ([[Australasia at the 1908 Summer Olympics|1908]] · [[Australasia at the 1912 Summer Olympics|1912]])
+}}
+
+New Zealand competed at the [[1976 Summer Olympics]] in [[Montreal]], [[Quebec]], [[Canada]]. The [[New Zealand Olympic Committee]] was represented by 80 athletes, 71 men and 9 women, and 29 officials.<ref name="sports-reference">{{cite web |url=https://www.sports-reference.com/olympics/countries/NZL/summer/1976/ |archive-url=https://web.archive.org/web/20200417052334/https://www.sports-reference.com/olympics/countries/NZL/summer/1976/ |url-status=dead |archive-date=17 April 2020 |title=New Zealand at the 1976 Summer Games |access-date=13 April 2015 |work=sports-reference.com}}</ref> The flag bearer at the opening ceremony was wrestler [[David Aspin]].
+
+In protest at a tour of [[South Africa]] by the [[New Zealand national rugby union team|All Blacks]] team early in the year, [[Republic of the Congo|Congo]]'s official [[Jean-Claude Ganga]] led a boycott of 28 [[Africa]]n nations as the [[International Olympic Committee]] refused to bar the New Zealand team.<ref>{{cite web | url= https://nzhistory.govt.nz/media/photo/montreal-olympics-boycott | title=The Montreal Olympics boycott | access-date=3 May 2017 | publisher=[[Ministry for Culture and Heritage]]  | date=12 June 2014}}</ref> Some of the nations (including [[Morocco]], [[Cameroon]] and [[Egypt]]) had already participated however, as the teams only withdrew after the first day. From Southern and Central Africa, only [[Senegal]] and [[Ivory Coast]] took part. Both [[Iraq]] and [[Guyana]] also opted to join the Congolese-led boycott. ''For the full list of boycotting countries, see [[1976 Summer Olympics#Non-participating National Olympic Committees]]''
+
+==Medal tables==
+
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+!Medal
+!Name
+!Sport
+!Event
+!Date
+|-
+| {{Gold medal}} || [[New Zealand men's national field hockey team|New Zealand men's hockey team]]<br>{{columns-list|colwidth=10em|small=yes|style=width:32em|{{ubl|[[Paul Ackerley]]|[[Jeff Archibald]]|[[Arthur Borren]]|[[Alan Chesney]]|[[John Christensen (field hockey)|John Christensen]]|[[Greg Dayman]]|[[Tony Ineson]]|[[Barry Maister]]|[[Selwyn Maister]]|[[Trevor Manning]]|[[Alan McIntyre]]|[[Arthur Parkin]]|[[Mohan Patel]]|[[Ramesh Patel (field hockey)|Ramesh Patel]]}}}}
+| [[Field hockey at the 1976 Summer Olympics|Field hockey]] || [[Field hockey at the 1976 Summer Olympics|Men's tournament]] || 30 July
+|-
+| {{Gold medal}} || [[John Walker (runner)|John Walker]] || [[Athletics at the 1976 Summer Olympics|Athletics]] || [[Athletics at the 1976 Summer Olympics – Men's 1500 metres|Men's 1500 m]] || 31 July
+|-
+| {{Silver medal}} || [[Dick Quax]] || [[Athletics at the 1976 Summer Olympics|Athletics]] || [[Athletics at the 1976 Summer Olympics – Men's 5000 metres|Men's 5000 m]] || 30 July
+|-
+| {{Bronze medal}} || {{sort|Coker|[[Ivan Sutherland (rower)|Ivan Sutherland]]}}<br />[[Trevor Coker]]<br />[[Peter Dignan]]<br />[[Lindsay Wilson (rower)|Lindsay Wilson]]<br />[[Joe Earl]]<br />[[Dave Rodger]]<br />[[Alec McLean]]<br />[[Tony Hurt]]<br />[[Simon Dickie]] (cox) || [[Rowing at the 1976 Summer Olympics|Rowing]] || [[Rowing at the 1976 Summer Olympics – Men's eight|Men's eight]] || 25 July
+|}
+
+{| class="wikitable" style="text-align:center;font-size:90%"
+|-
+!colspan=7|Medals by sport
+|- 
+|'''Sport'''
+| bgcolor=#f7f6a8 |[[Image:Gold medal icon.svg]]
+| bgcolor=#dce5e5 |[[Image:Silver medal icon.svg]]
+| bgcolor=#ffdab9 |[[Image:Bronze medal icon.svg]]
+|'''Total'''
+|- 
+| style="text-align:left;"| [[#Athletics|Athletics]] 
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''2'''
+|- 
+| style="text-align:left;"| [[#Field hockey|Field hockey]] 
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |0
+|'''1'''
+|- 
+| style="text-align:left;"| [[#Rowing|Rowing]] 
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|- 
+! style="text-align:left;"| Total
+! style="background:gold;" |2
+! style="background:silver;" |1
+! style="background:#c96;" |1
+!4
+|}
+
+{| class="wikitable" style="text-align:center;font-size:90%"
+|-
+!colspan=7|Medals by gender
+|- 
+|'''Gender'''
+| bgcolor=#f7f6a8 |[[Image:Gold medal icon.svg]]
+| bgcolor=#dce5e5 |[[Image:Silver medal icon.svg]]
+| bgcolor=#ffdab9 |[[Image:Bronze medal icon.svg]]
+|'''Total'''
+|- 
+| style="text-align:left;"| Male
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|'''4'''
+|- 
+| style="text-align:left;"| Female
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|'''0'''
+|-
+! style="text-align:left;"| Total
+! style="background:gold;" |2
+! style="background:silver;" |1
+! style="background:#c96;" |1
+!4
+|}
+
+==Athletics==
+{{main|Athletics at the 1976 Summer Olympics}}
+
+===Track and road===
+<section begin=tracktable />
+{|class=wikitable style=font-size:90%
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Result
+!Rank{{efn-lr|Ranks given are within the heat}}
+!Result
+!Rank{{efn-lr|Ranks given are within the quarterfinal}}
+!Result
+!Rank{{efn-lr|Ranks given are within the semifinal}}
+!Result
+!Rank
+|-align=center
+|align=left|[[Rod Dixon]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's 5000 metres|Men's 5000 m]]
+| 13:20.48 || 2 '''Q'''
+| colspan=4 {{n/a}}
+| 13:25.50 || 4
+|-align=center
+|align=left|[[Jack Foster (athlete)|Jack Foster]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's marathon|Men's marathon]]
+| colspan=6 {{n/a}}
+| 2:17:53 || 17
+|-align=center
+|align=left rowspan=2|[[Anne Audain|Anne Garrett]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Women's 800 metres|Women's 800 m]]
+| 2:05.78 || 7
+| colspan=2 {{n/a}}
+| colspan=4 | did not advance
+|-align=center
+|align=left|[[Athletics at the 1976 Summer Olympics – Women's 1500 metres|Women's 1500 m]]
+| 4:10.68 || 7
+| colspan=2 {{n/a}}
+| colspan=4 | did not advance
+|-align=center
+|align=left rowspan=2|[[Sue Jowett]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Women's 100 metres|Women's 100 m]]
+| 11.70 || 3 '''Q'''
+| 11.81 || 8
+| colspan=4 | did not advance
+|-align=center
+|align=left|[[Athletics at the 1976 Summer Olympics – Women's 200 metres|Women's 200 m]]
+| 24.12 || 2 '''Q'''
+| 24.23 || 8
+| colspan=4 | did not advance
+|-align=center
+|align=left|'''[[Dick Quax]]'''
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's 5000 metres|Men's 5000 m]]
+| 13:30.85 || 1 '''Q'''
+| colspan=4 {{n/a}}
+| 13:25.16 || {{Silver2}}
+|-align=center
+|align=left|[[Euan Robertson]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's 3000 metres steeplechase|Men's 3000 m steeplechase]]
+| 8:26.31 || 5 '''Q'''
+| colspan=4 {{n/a}}
+| 8:21.08 || 5
+|-align=center
+|align=left|[[Kevin Ryan (runner)|Kevin Ryan]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's marathon|Men's marathon]]
+| colspan=6 {{n/a}}
+| colspan=2 | {{abbr|DNF|Did not finish}}
+|-align=center
+|align=left rowspan=2|'''[[John Walker (runner)|John Walker]]'''
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's 800 metres|Men's 800 m]]
+| 1:47.63 || 3
+| colspan=2 {{n/a}}
+| colspan=4 | did not advance
+|-align=center
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's 1500 metres|Men's 1500 m]]
+| 3:36.87 || 1 '''Q'''
+| colspan=2 {{n/a}}
+| 3:39.65 || 1 '''Q'''
+| 3:39.17 || {{Gold1}}
+|-align=center
+|align=left|[[Dianne Zorn]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Women's 1500 metres|Women's 1500 m]]
+| 4:12.81 || 7
+| colspan=2 {{n/a}}
+| colspan=4 | did not advance
+|}
+{{notelist-lr}}<section end=tracktable />
+
+===Field===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result 
+!Rank
+!Result 
+!Rank
+|-align=center
+|align=left|[[Murray Cheater]]
+|align=left|[[Athletics at the 1976 Summer Olympics – Men's hammer throw|Men's hammer throw]]
+| 67.38 || 16
+| colspan=2 | did not advance
+|}
+
+==Boxing==
+{{main|Boxing at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Final
+!rowspan=2|Rank
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+|- 
+|align=left|[[Robert Colley (boxer)|Robert Colley]]
+|align=left|[[Boxing at the 1976 Summer Olympics#Light Welterweight (– 63.5 kg)|Men's light welterweight]]
+|{{flagIOCathlete|[[Valery Limasov|Limasov]]|URS|1976 Summer}}<br>'''L''' {{abbr|RSC-3|Referee stops contest, round 3}}
+|colspan=5|Did not advance
+|=25
+|- 
+|align=left|[[David Jackson (New Zealand boxer)|David Jackson]]
+|align=left|[[Boxing at the 1976 Summer Olympics#Welterweight (– 67 kg)|Men's welterweight]]
+|{{flagIOCathlete|[[Fredj Chtioui|Chtioui]]|TUN|1972 Summer}}<br>'''W''' {{abbr|RSC-2|Referee stops contest, round 2}}
+|{{flagIOCathlete|[[Valery Rachkov|Rachkov]]|URS|1972 Summer}}<br>'''L''' 0 – 5
+|colspan=4|Did not advance
+|=17
+|}
+
+==Canoeing==
+{{main|Canoeing at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heats
+!colspan=2|Repechages
+!colspan=2|Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- 
+|align=left|[[Donald Cooper]]
+|align=left|[[Canoeing at the 1976 Summer Olympics – Men's K-1 1000 metres|Men's K-1 1000 m]]
+|4:04.29 || 5 '''R'''
+|3:55.52 || 2 '''Q'''
+|3:53.21 || 4
+|colspan=2 | did not advance
+|- 
+|align=left|[[Ian Ferguson (canoeist)|Ian Ferguson]]
+|align=left|[[Canoeing at the 1976 Summer Olympics – Men's K-1 500 metres|Men's K-1 500 m]]
+|1:59.18 || 4 '''R'''
+|1:53.65 || 4
+|colspan=4 | did not advance
+|- 
+|align=left rowspan=2|[[Rod Gavin]]<br>[[John Leonard (canoeist)|John Leonard]]
+|align=left|[[Canoeing at the 1976 Summer Olympics – Men's K-2 500 metres|Men's K-2 500 m]]
+|1:47.03 || 5 '''R'''
+|1:47.45 || 3 '''Q'''
+|1:45.61 || 6
+|colspan=2 | did not advance
+|- 
+|align=left|[[Canoeing at the 1976 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000 m]]
+|3:37.09 || 5 '''R'''
+|3:35.28 || 5
+|colspan=4 | did not advance
+|}
+
+==Cycling==
+{{main|Cycling at the 1976 Summer Olympics}}
+Four cyclists represented New Zealand in 1976.
+
+===Road===
+;Men's individual road race
+{|class=wikitable style="font-size:90%;"
+|-
+!Athlete
+!Time
+!Rank
+|- align=center
+|align=left|[[Garry Bell]]
+| 4:49:01 || 15
+|- align=center
+|align=left|[[Vern Hanaray]]
+| 5:00:19 || 52
+|- align=center
+|align=left|[[Jamie Richards (cyclist)|Jamie Richards]]
+| colspan=2 | {{abbr|DNF|Did not finish}}
+|}
+
+===Track===
+;Men's individual pursuit
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|-
+!rowspan=2|Athlete
+!colspan=2|Qualification
+!Round 1
+!Quarterfinals
+!Semifinals
+!Final
+!rowspan=2|Rank
+|- style="font-size:95%"
+!Time
+!Rank
+!Opposition<br/>Time
+!Opposition<br/>Time
+!Opposition<br/>Time
+!Opposition<br/>Time
+|- 
+|align=left|[[Mike Richards (cyclist)|Mike Richards]]
+|4:55.08 || 9 '''Q'''
+|{{flagIOCathlete|[[Jan Georg Iversen|Iversen]]|NOR|1976 Summer}}<br/>'''L''' 4:53.33
+| colspan=3 | did not advance
+| 9
+|}
+
+==Diving==
+{{main|Diving at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Preliminaries
+!colspan=2|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|- align=center
+|align=left|[[Rebecca Ewert]]
+|align=left|[[Diving at the 1976 Summer Olympics – Women's 3 metre springboard|Women's 3 m springboard]]
+| 352.62 || 21
+| colspan=2 | did not advance
+|}
+
+==Equestrian==
+{{main|Equestrian at the 1976 Summer Olympics}}
+
+===Jumping===
+{|class=wikitable style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Round 1
+!colspan="2"|Round 2
+!colspan="2"|Overall
+|-style="font-size:95%"
+!Faults
+!Rank
+!Faults
+!Rank
+!Faults
+!Rank
+|-align=center
+|align=left|[[Joe Yorke]]
+|align=left|Big Red
+|align=left|[[Equestrian at the 1976 Summer Olympics|Individual]]
+|20.00 || =30
+|colspan=4 | did not advance
+|}
+
+==Field hockey==
+{{main|Field hockey at the 1976 Summer Olympics}}
+
+===Men's tournament===
+;Team roster
+{| style="width: 30em;"
+|-
+|-align=left valign=top
+| [[Paul Ackerley]]<br>[[Jeff Archibald]]<br>[[Arthur Borren]]<br>[[Alan Chesney]]<br>[[John Christensen (field hockey)|John Christensen]]<br>[[Greg Dayman]]<br>[[Tony Ineson]]<br>[[Barry Maister]]
+| [[Selwyn Maister]]<br>[[Trevor Manning]]<br>[[Neil McLeod (field hockey)|Neil McLeod]]<br>[[Alan McIntyre]]<br>[[Arthur Parkin]]<br>[[Mohan Patel]]<br>[[Ramesh Patel (field hockey)|Ramesh Patel]]<br>[[Les Wilson (field hockey)|Les Wilson]]
+|}
+
+;Head coach
+[[Ross Gillespie]]
+
+;Group B
+{{fieldhockeybox
+|date=18 July 1976
+|team1={{flagIOC-rt|FRG|1976 Summer}}
+|report=[https://tms.fih.ch/matches/553/reports/matchreport Report]
+|score=1–1
+|team2={{flagIOC|NZL|1976 Summer}}
+}}
+{{fieldhockeybox
+|date=20 July 1976
+|team1={{flagIOC-rt|ESP|1976 Summer}}
+|report=[https://tms.fih.ch/matches/560/reports/matchreport Report]
+|score=1–1
+|team2={{flagIOC|NZL|1976 Summer}}
+}}
+{{fieldhockeybox
+|date=21 July 1976
+|team1={{flagIOC-rt|NZL|1976 Summer}}
+|report=[https://tms.fih.ch/matches/565/reports/matchreport Report]
+|score=2–1
+|team2={{flagIOC|BEL|1976 Summer}}
+}}
+{{fieldhockeybox
+|date=24 July 1976
+|team1={{flagIOC-rt|PAK|1976 Summer}}
+|report=[https://tms.fih.ch/matches/572/reports/matchreport Report]
+|score=5–2
+|team2={{flagIOC|NZL|1976 Summer}}
+}}
+
+{{:Field hockey at the 1976 Summer Olympics|transcludesection=Group B|showteam=NZL}}
+
+;Group B play-off
+{{fieldhockeybox
+|date=26 July 1976
+|team1={{flagIOC-rt|ESP|1976 Summer}}
+|report=[https://tms.fih.ch/matches/578/reports/matchreport Report]
+|score=0–1
+|aet=yes
+|team2={{flagIOC|NZL|1976 Summer}}
+}}
+
+New Zealand advanced to the semi-finals, while Spain continued to the classification round for fifth to eighth places.
+
+;Semi-final
+{{fieldhockeybox
+|date=29 July 1976
+|team1={{flagIOC-rt|NED|1976 Summer}}
+|report=[https://tms.fih.ch/matches/579/reports/matchreport Report]
+|score=1–2
+|aet=yes
+|team2={{flagIOC|NZL|1976 Summer}}
+}}
+
+;Final
+{{fieldhockeybox
+|date=30 July 1976
+|team1={{flagIOC-rt|NZL|1976 Summer}}
+|report=[https://tms.fih.ch/matches/588/reports/matchreport Report]
+|score=1–0
+|goals1=[[Tony Ineson|Ineson]]
+|goals2=
+|team2={{flagIOC|AUS|1976 Summer}}
+}}
+
+[[Neil McLeod (field hockey)|Neil McLeod]] and [[Les Wilson (field hockey)|Les Wilson]] were not awarded gold medals as they did not take the field during the tournament.<ref>{{cite web |url=https://olympic.org.nz/athletes/les-wilson |title=Les Wilson |year=2018 |publisher=New Zealand Olympic Committee |access-date=10 November 2018}}</ref> The gold medal won by the New Zealand men's team in 1976 remains the only Olympic field hockey medal won by a New Zealand team.<ref>{{cite news|last1=Swannell|first1=Rikki|title=New Zealand's Greatest Olympians – Number 14: The 1976 men's hockey team |url=http://www.nzherald.co.nz/nzs-greatest-olympians/news/article.cfm?c_id=1504104&objectid=11679402 |access-date=21 September 2016|work=[[The New Zealand Herald]]|date=23 July 2016}}</ref>
+
+==Rowing==
+{{main|Rowing at the 1976 Summer Olympics}}
+{{See also|List of New Zealand rowers at the Summer Olympics}}
+
+===Men===
+{{New Zealand 1976 Summer Olympics rowing results}}
+
+==Sailing==
+{{main|Sailing at the 1976 Summer Olympics}}
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2 | Athlete
+!rowspan=2 | Event
+!colspan=7 | Race
+!rowspan=2 | Net points
+!rowspan=2 | Final rank
+|-style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+|-align=center
+|align=left| [[Brett Bennett]]<br>[[Mark Paterson (sailor)|Mark Paterson]] (helm)
+|align=left| [[Sailing at the 1976 Summer Olympics – 470|470]]
+|5.7 || <s>37.0<br>{{abbr|PMS|Premature start}}</s> || 16.0 || 3.0|| 10.0 || 3.0 || 22.0 || 59.7 || 5
+|-align=center
+|align=left| [[Jock Bilger]] (helm)<br>[[Murray Ross (sailor)|Murray Ross]]
+|align=left| [[Sailing at the 1976 Summer Olympics – Flying Dutchman|Flying Dutchman]]
+|13.0 || 14.0 || 0.0 || 21.0 || 18.0 || 19.0 || <s>23.0</s> || 85.0 || 12
+|-align=center
+|align=left| [[Gavin Bornholdt]]<br>[[Hugh Poole]] (helm)<br>[[Chris Urry]]
+|align=left| [[Sailing at the 1976 Summer Olympics – Soling|Soling]]
+|<s>26.0</s>  || 21.0 || 23.0 || 21.0 || 25.0 || 21.0 || 24.0 || 135.0 || 19
+|-align=center
+|align=left| [[Jonty Farmer]]
+|align=left| [[Sailing at the 1976 Summer Olympics – Finn|Finn]]
+|<s>25.0</s> || 10.0 || 21.0 || 19.0 || 21.0 || 17.0 || 21.0 || 109.0 || 15
+|}
+
+==Shooting==
+{{main|Shooting at the 1976 Summer Olympics}}
+
+;Mixed 50 m rifle, prone
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!Round 5
+!Round 6
+!Total
+!Rank
+|- align=center
+|align=left|[[Ian Ballinger]]
+| 100 || 98|| 100 || 94|| 98 || 100 || 590 || =20
+|}
+
+;Mixed 50 m running target
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Slow run
+!Fast run
+!Total
+!Rank
+|- align=center
+|align=left|[[Graeme McIntyre]]
+| 279 || 268 || 547 || 19
+|- align=center
+|align=left|[[Grant Taylor (sport shooter)|Grant Taylor]]
+| 257 || 279 || 536 || 24
+|}
+
+;Mixed skeet
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!Round 5
+!Round 6
+!Round 7
+!Round 8
+!Total
+!Rank
+|- align=center
+|align=left|[[John Woolley (sport shooter)|John Woolley]]
+|  || || || || || || || || 190 || =26
+|}
+
+==Swimming==
+{{main|Swimming at the 1976 Summer Olympics}}
+
+{|class="wikitable" style="font-size:90%;text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+| align=left rowspan=2| [[Allison Calder]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 400 metre freestyle|Women's 400 m freestyle]]
+| 4:23.64 || 15
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 800 metre freestyle|Women's 800 m freestyle]]
+| 8:57.24 || 11
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=2| [[John Coutts (swimmer)|John Coutts]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 100 metre butterfly|Men's 100 m butterfly]]
+| 57.29 || 18
+| colspan=4 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 200 metre butterfly|Men's 200 m butterfly]]
+| 2:05.05 || 16
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=2| [[Susan Hunter]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 200 metre backstroke|Women's 200 m backstroke]]
+| 2:26.21 || 23
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 400 metre individual medley|Women's 400 m individual medley]]
+| 5:03.82 || 10
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=2| [[John McConnochie]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 200 metre freestyle|Men's 200 m freestyle]]
+| 1:57.77 || 33
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 400 metre individual medley|Men's 400 m individual medley]]
+| 4:40.84 || 17
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=2| [[Brett Naylor]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 400 metre freestyle|Men's 400 m freestyle]]
+| 4:00.38 || 10
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 1500 metre freestyle|Men's 1500 m freestyle]]
+| 15:52.68 || 16
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=3| [[Rebecca Perrott]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 100 metre freestyle|Women's 100 m freestyle]]
+| 57.66 || 8 '''Q'''
+| 58.13 || 13
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 200 metre freestyle|Women's 200 m freestyle]]
+| 2:03.94 || =9
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 400 metre freestyle|Women's 400 m freestyle]]
+| 4:15.71 '''OR''' || 1 '''Q'''
+| colspan=2 {{n/a}}
+| 4:14.76 || 4
+|-align=center
+| align=left rowspan=3| [[Monique Rodahl]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 100 metre backstroke|Women's 100 m backstroke]]
+| 1:06.73 || 22
+| colspan=4 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 200 metre backstroke|Women's 200 m backstroke]]
+| 2:19.22 || 11
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 400 metre individual medley|Women's 400 m individual medley]]
+| 4:58.47 || 7 '''Q'''
+| colspan=2 {{n/a}}
+| 5:00.21 || 8
+|-align=center
+| align=left rowspan=3| [[Lynne Rowe]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 100 metre butterfly|Women's 100 m butterfly]]
+| 1:04.23 || 16 '''Q'''
+| 1:04.06 || =14
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 200 metre butterfly|Women's 200 m butterfly]]
+| 2:17.89 || 13
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Women's 400 metre individual medley|Women's 400 m individual medley]]
+| 5:09.21 || 13
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left rowspan=2| [[Mark Treffers]]
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 400 metre individual medley|Men's 400 m individual medley]]
+| 4:40.92 || 18
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|-align=center
+| align=left | [[Swimming at the 1976 Summer Olympics – Men's 1500 metre freestyle|Men's 1500 m freestyle]]
+| 15:56.11 || 17
+| colspan=2 {{n/a}}
+| colspan=2 | did not advance
+|}
+
+==Weightlifting==
+{{main|Weightlifting at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Snatch
+!colspan="2"|Clean & jerk
+!rowspan="2"|Total
+!rowspan="2"|Rank
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+|- align=center
+|align=left|[[Rory Barrett]]
+|align=left|[[Weightlifting at the 1976 Summer Olympics|Men's heavyweight]]
+| 150 || =15
+| 192.5 || 13
+| 342.5 || 15
+|- align=center
+|align=left|[[Brian Marsden (weightlifter)|Brian Marsden]]
+|align=left|[[Weightlifting at the 1976 Summer Olympics|Men's middle heavyweight]]
+| 137.5 || =16
+| 185.0 || 8
+| 322.5 || 11
+|- align=center
+|align=left|[[Phillip Sue]]
+|align=left|[[Weightlifting at the 1976 Summer Olympics|Men's lightweight]]
+| colspan=2 | {{abbr|NVL|No valid lift}}
+| colspan=3 {{n/a}}
+| {{abbr|DNF|Did not finish}}
+|}
+
+==Wrestling==
+{{main|Wrestling at the 1976 Summer Olympics}}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!Round 5
+!Round 6
+!Final
+!rowspan=2 |Rank
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+|- 
+|align=left|[[David Aspin]]
+|align=left|[[Wrestling at the 1976 Summer Olympics – Men's freestyle 82 kg|Men's freestyle middleweight]]
+|{{flagIOCathlete|[[Chimidiin Gochoosüren|Chimidiin]]|MGL|1976 Summer}}<br>'''L''' Fall
+|{{flagIOCathlete|[[Masaru Motegi|Motegi]]|JPN|1976 Summer}}<br>'''L''' Fall
+|colspan=6 |Eliminated
+|- 
+|align=left|[[Barry Oldridge]]
+|align=left|[[Wrestling at the 1976 Summer Olympics – Men's freestyle 57 kg|Men's freestyle bantamweight]]
+|{{flagIOCathlete|[[Risto Darlev|Darlev]]|YUG|1976 Summer}}<br>'''L''' 0 – 24
+|{{flagIOCathlete|[[Georgios Hatziioannidis|Hatziioannidis]]|GRE|1976 Summer}}<br>'''L''' Fall
+|colspan=6 |Eliminated
+|}
+
+==Officials==
+* Team manager – [[Bill Holley]]<!-- Q113481462 --><ref>{{cite news |url=https://paperspast.natlib.govt.nz/newspapers/CHP19760702.2.9 |title=Boycott would be "tragedy" |date=2 July 1976 |work=[[The Press]] |page=1 |access-date=9 August 2022}}</ref>
+* Assistant team manager – D. M. Taylor<ref name="Press 13 Apr 1976"/>
+* Chaperone – [[Valerie Young]]<ref name="Press 13 Apr 1976"/>
+* Team doctor – Graeme Campbell<ref>{{cite news |url=https://paperspast.natlib.govt.nz/newspapers/CHP19760726.2.82.1 |title=Bad day for N.Z. stars but better to come |date=26 July 1976 |work=[[The Press]] |page=12 |access-date=9 August 2022}}</ref>
+* Physiotherapist – Peter Stokes<ref name="Press 13 Apr 1976"/>
+* Attache – C. J. Adair<ref name="Press 13 Apr 1976"/>
+* Athletics
+** Section manager – [[Dave Leech]]<ref name="Press 13 Apr 1976">{{cite news |url=https://paperspast.natlib.govt.nz/newspapers/CHP19760413.2.242 |title=42 will have costs met |date=13 April 1976 |work=[[The Press]] |volume=116 |issue=34127 |page=38 |access-date=13 August 2022}}</ref>
+** Coach – [[Arch Jelley]]<ref name="Press 13 Apr 1976"/>
+* Boxing section manager – [[Alan Scaife]]<ref name="Press 13 Apr 1976"/>
+* Canoeing section manager – Sandy Pigott<ref name="Press 13 Apr 1976"/>
+* Cycling
+** Section manager – [[Neil Lyster]]<ref name="Press 13 Apr 1976"/>
+** Coach / mechanic – [[Wayne Thorpe]]<ref name="Press 13 Apr 1976"/>
+* Equestrian
+** Section manager – Ian Nimon<ref name="Press 13 Apr 1976"/>
+** Trainer – Lockie Richards<ref name="Press 13 Apr 1976"/>
+** Groom – Karen Yorke<ref>{{cite news |url=https://paperspast.natlib.govt.nz/newspapers/CHP19760526.2.205 |title=Two riders not going to Olympics |date=26 May 1976 |work=[[The Press]] |page=46 |access-date=13 January 2023}}</ref>
+* Hockey
+** Section manager – Tony Palmer<ref name="Press 13 Apr 1976"/>
+** Coach – [[Ross Gillespie]]<ref name="Press 13 Apr 1976"/>
+* Rowing
+** Section manager – [[Kerry Ashby]]<ref name="Press 13 Apr 1976"/>
+** Coach (eight) – [[Rusty Robertson]]<ref name="Press 13 Apr 1976"/>
+** Coach / boatman – J. T. Reid<ref name="Press 13 Apr 1976"/>
+** Transport manager – Brian Heyward<ref name="Press 13 Apr 1976"/>
+* Sailing
+** Section manager – [[Don St Clair Brown]]<ref name="Press 13 Apr 1976"/>
+** Meteorologist / boatman – Harry Kingham<ref name="Press 13 Apr 1976"/>
+* Shooting section manager – Ian Wright<ref name="Press 13 Apr 1976"/>
+* Swimming
+** Section manager – Noel Smith<ref name="Press 13 Apr 1976"/>
+** Chief coach – [[Bert Cotterill]]<ref name="Press 13 Apr 1976"/>
+** Assistant coach – [[Duncan Laing]]<ref name="Press 13 Apr 1976"/>
+* Weightlifting section manager – [[Bruce Cameron (weightlifter)|Bruce Cameron]]<ref name="Press 13 Apr 1976"/>
+* Wrestling section manager – Keith Breeze<ref name="Press 13 Apr 1976"/>
+
+==References==
+{{reflist}}
+
+{{Nations at the 1976 Summer Olympics}}
+{{Country at games navbox|New Zealand|Olympics}}
+{{1976 New Zealand Olympic team}}
+
+[[Category:Nations at the 1976 Summer Olympics]]
+[[Category:New Zealand at the Summer Olympics by year|1976 Summer Olympics]]
+[[Category:Race relations in New Zealand]]
+[[Category:1976 in New Zealand sport|Summer Olympics]]

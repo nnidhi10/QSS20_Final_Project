@@ -1,0 +1,1246 @@
+{{Short description|None}}
+This article lists all '''ties for medals at the [[Olympics]]'''. A tie occurs when two or more individual or teams achieve identical results in the [[Olympics]]. In these cases, there are multiple winners awarded the same medal.
+
+==Ties for medals at the Olympics==
+Ties occasionally occur during the games, and since medals are complicated to produce, the Olympic organising committee makes advance arrangements for extra medals to be produced in the event of a tie.<ref>{{cite web|last1=Germano|first1=Sara|title=When Two People Win Gold, Where Do They Get the Extra Medal?|url=https://www.wsj.com/articles/SB10001424052702304434104579378733694348114|website=Wall Street Journal|access-date=28 August 2016|date=12 February 2014}}</ref><ref>{{cite web|last1=Eveleth|first1=Rose|author-link=Rose Eveleth|title=What Happens When There's a Tie at the Olympics?|url=http://www.smithsonianmag.com/smart-news/what-happens-when-theres-tie-olympics-180949754|website=Smithsonian.com|access-date=2016-11-15|archive-date=2016-11-15|archive-url=https://web.archive.org/web/20161115193330/http://www.smithsonianmag.com/smart-news/what-happens-when-theres-tie-olympics-180949754/|url-status=live}}</ref>
+
+=== Number of ties for medals in Olympics history ===
+'Total' shows the number of ties for medals in Olympics history, while 'Events' shows the number of events with at least one medal tie. There can be more than one tie for medals for one event as there can be ties for gold, silver, and bronze.
+
+{| class="wikitable"
+|-
+! style="width: 200px;"|Games
+! style="background-color:gold; width: 50px;" class="unsortable"|Gold
+! style="background-color:silver; width: 50px;" class="unsortable"|Silver
+! style="background-color:#cc9966; width: 50px;" class="unsortable"|Bronze
+! style="width: 50px;"|Events
+! style="width: 50px;"|Total
+|-
+| [[Summer Olympic Games]]
+| 31
+| 37
+| 58
+| 122
+| 126
+|-
+| [[Winter Olympic Games]]
+| 9
+| 15
+| 9
+| 29
+| 33
+|}
+
+== List of ties at the Summer Olympics ==
+
+{{TOC top|title=|primary=false}}
+* [[#Summer 1896|1896]]
+* [[#Summer 1900|1900]]
+* [[#Summer 1904|1904]]
+* [[#Summer 1908|1908]]
+* [[#Summer 1912|1912]]
+* [[#Summer 1920|1920]]
+* [[#Summer 1924|1924]]
+* [[#Summer 1928|1928]]
+* [[#Summer 1936|1936]]
+* [[#Summer 1948|1948]]
+* [[#Summer 1952|1952]]
+* [[#Summer 1956|1956]]
+* [[#Summer 1960|1960]]
+* [[#Summer 1964|1964]]
+* [[#Summer 1968|1968]]
+* [[#Summer 1972|1972]]
+* [[#Summer 1976|1976]]
+* [[#Summer 1980|1980]]
+* [[#Summer 1984|1984]]
+* [[#Summer 1988|1988]]
+* [[#Summer 1992|1992]]
+* [[#Summer 1996|1996]]
+* [[#Summer 2000|2000]]
+* [[#Summer 2004|2004]]
+* [[#Summer 2008|2008]]
+* [[#Summer 2012|2012]]
+* [[#Summer 2016|2016]]
+* [[#Summer 2020|2020]]
+* [[#Summer 2024|2024]]
+{{TOC bottom}}
+
+{| class="wikitable sortable"
+|-
+! Games
+! Sport
+! Event
+! style="background-color:gold; width: 200px;" class="unsortable"|Gold
+! style="background-color:silver; width: 200px;" class="unsortable"|Silver
+! style="background-color:#cc9966; width: 200px;" class="unsortable"|Bronze
+! class="unsortable"|{{Tooltip|Ref.|References}}
+|- id="Summer 1896"
+|rowspan=4| {{GamesName|SOG|1896}}
+|rowspan=3| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]]
+| [[Athletics at the 1896 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Ellery Clark]]|USA|1896 Summer}}
+| {{flagIOCmedalist|[[James Brendan Connolly|James Connolly]]|USA|1896 Summer}}<hr>{{flagIOCmedalist|[[Robert Garrett]]|USA|1896 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Athens 1896 Athletics - Results & Videos|url=https://www.olympic.org/athens-1896/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 April 2019|archive-url=https://web.archive.org/web/20190419161112/https://www.olympic.org/athens-1896/athletics|url-status=live}}</ref>
+|-
+| [[Athletics at the 1896 Summer Olympics – Men's pole vault|Men's pole vault]]
+| {{flagIOCmedalist|[[William Hoyt (athlete)|William Hoyt]]|USA|1896 Summer}}
+| {{flagIOCmedalist|[[Albert Tyler (athlete)|Albert Tyler]]|USA|1896 Summer}}
+| {{flagIOCmedalist|[[Evangelos Damaskos]]|GRE|1896 Summer}}<hr>{{flagIOCmedalist|[[Ioannis Theodoropoulos]]|GRE|1896 Summer}}
+| <ref>{{cite web|title=Athens 1896 Athletics - Results & Videos|url=https://www.olympic.org/athens-1896/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 April 2019|archive-url=https://web.archive.org/web/20190419161112/https://www.olympic.org/athens-1896/athletics|url-status=live}}</ref>
+|-
+| [[Athletics at the 1896 Summer Olympics – Men's 100 metres|Men's 100 metres]]
+| {{flagIOCmedalist|[[Thomas Burke (athlete)|Thomas Burke]]|USA|1896 Summer}}
+| {{flagIOCmedalist|[[Fritz Hofmann (athlete)|Fritz Hofmann]]|GER|1896 Summer}}
+| {{flagIOCmedalist|[[Francis Lane]]|USA|1896 Summer}}<hr>{{flagIOCmedalist|[[Alajos Szokolyi]]|HUN|1896 Summer}}
+| <ref>{{cite web|title=Athens 1896 Athletics - Results & Videos|url=https://www.olympic.org/athens-1896/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 April 2019|archive-url=https://web.archive.org/web/20190419161112/https://www.olympic.org/athens-1896/athletics|url-status=live}}</ref>
+|-
+|[[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]]
+| [[Fencing at the 1896 Summer Olympics – Men's foil|Men's foil]]
+| {{flagIOCmedalist|[[Eugène-Henri Gravelotte]]|FRA|1896 Summer}}
+| {{flagIOCmedalist|[[Henri Callot]]|FRA|1896 Summer}}
+| {{flagIOCmedalist|[[Periklis Pierrakos-Mavromichalis]]|GRE|1896 Summer}}<hr>{{flagIOCmedalist|[[Athanasios Vouros]]|GRE|1896 Summer}}
+| <ref>{{Cite web|title=Athens 1896 Fencing – Men's foil|url=https://olympics.com/en/olympic-games/athens-1896/results/fencing|website=International Olympic Committee|access-date=3 September 2021|language=en|archive-date=12 May 2021|archive-url=https://web.archive.org/web/20210512190402/https://olympics.com/en/olympic-games/athens-1896/results/fencing|url-status=live}}</ref>
+|- id="Summer 1900"
+|rowspan=5| {{GamesName|SOG|1900}}
+| [[Image:Archery pictogram.svg|25px]] [[Archery at the 1900 Summer Olympics|Archery]]
+| [[Archery at the 1900 Summer Olympics – Sur la Perche à la Herse|Sur la Perche à la Herse]]
+| {{flagIOCmedalist|[[Emmanuel Foulon]]|BEL|1900 Summer}}
+| {{flagIOCmedalist|[[Auguste Serrurier]]|FRA|1900 Summer}}<hr>{{flagIOCmedalist|[[Emile Druart]]|BEL|1900 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Paris 1900 Archery - Results & Videos|url=https://www.olympic.org/paris-1900/archery|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Equestrian pictogram.svg|25px]] [[Equestrian at the 1900 Summer Olympics|Equestrian]]
+| [[Equestrian at the 1900 Summer Olympics – High jump|High jump]]
+| {{flagIOCmedalist|[[Dominique Gardères]]|FRA|1900 Summer}}<hr>{{flagIOCmedalist|[[Gian Giorgio Trissino (equestrian)|Gian Giorgio Trissino]]|ITA|1900 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Georges Van Der Poele]]|BEL|1900 Summer}}
+| <ref>{{cite web|title=Paris 1900 Equestrian Jumping - Results & Videos|url=https://www.olympic.org/paris-1900/equestrian-jumping|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Rugby pictogram.svg|25px]] [[Rugby at the 1900 Summer Olympics|Rugby]]
+| [[Rugby at the 1900 Summer Olympics|Men's tournament]]
+| {{flagIOCmedalist|[[France national rugby union team]]|ZZX|1900 Summer}}
+| {{flagIOCmedalist|[[Germany national rugby union team]]|GER|1900 Summer}}<hr>{{flagIOCmedalist|[[Great Britain]]|GBR|1900 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Paris 1900 Rugby - Results & Videos|url=https://www.olympic.org/paris-1900/rugby|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325012918/https://www.olympic.org/paris-1900/rugby|url-status=live}}</ref>
+|-
+|rowspan=2| [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1900 Summer Olympics|Shooting]]
+| [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, three positions|Men's 300 metre free rifle, three positions]]
+| {{flagIOCmedalist|[[Emil Kellenberger]]|SUI|1900 Summer}}
+| {{flagIOCmedalist|[[Anders Peter Nielsen]]|DEN|1900 Summer}}
+| {{flagIOCmedalist|[[Paul van Asbroeck]]|BEL|1900 Summer}}<hr>{{flagIOCmedalist|[[Ole Østmo]]|NOR|1900 Summer}}
+| <ref>{{cite web|title=Paris 1900 Shooting - Results & Videos|url=https://www.olympic.org/paris-1900/shooting|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 September 2016|archive-url=https://web.archive.org/web/20160919123149/https://www.olympic.org/paris-1900/shooting|url-status=live}}</ref>
+|-
+| [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, kneeling|Men's 300 metre free rifle, kneeling]]
+| {{flagIOCmedalist|[[Konrad Stäheli]]|SUI|1900 Summer}}
+| {{flagIOCmedalist|[[Emil Kellenberger]]|SUI|1900 Summer}}<hr>{{flagIOCmedalist|[[Anders Peter Nielsen]]|DEN|1900 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Paris 1900 Shooting - Results & Videos|url=https://www.olympic.org/paris-1900/shooting|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 September 2016|archive-url=https://web.archive.org/web/20160919123149/https://www.olympic.org/paris-1900/shooting|url-status=live}}</ref>
+|- id="Summer 1904"
+|rowspan=5| {{GamesName|SOG|1904}}
+| [[Image:Boxing pictogram.svg|25px]] [[Boxing at the 1904 Summer Olympics|Boxing]]
+| [[Boxing at the 1904 Summer Olympics – Welterweight|Welterweight]]
+| {{flagIOCmedalist|[[Albert Young (American boxer)|Albert Young]]|USA|1904 Summer}}
+| {{flagIOCmedalist|[[Harry Spanjer]]|USA|1904 Summer}}
+| {{flagIOCmedalist|[[Jack Egan (boxer)|Jack Egan]]|USA|1904 Summer}}<hr>{{flagIOCmedalist|[[Joe Lydon (boxer)|Joseph Lydon]]|USA|1904 Summer}}
+| <ref>{{cite web|title=St Louis 1904 Boxing - Results & Videos|url=https://www.olympic.org/st-louis-1904/boxing|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201035209/https://www.olympic.org/st-louis-1904/boxing|url-status=live}}</ref><ref group=note>[[Jack Egan (boxer)|Jack Egan]] originally won the silver medal in the lightweight competition and the bronze medal in the welterweight competition. Later, it was discovered that Egan's real name was Frank Joseph Floyd. AAU rules made it illegal to fight under an assumed name, and in November 1905, the AAU disqualified Egan from all AAU competitions and he had to return all of his prizes. In the lightweight competition [[Russell van Horn]] moved up to silver. However, according to the IOC's medal database for the 1904 Olympics, Egan has the silver medal in Boxing lightweight and the bronze medal in Boxing welterweight, van Horn has bronze in the lightweight competition and [[Joe Lydon (boxer)|Joseph Lydon]] keeps his bronze in the welterweight competition.</ref>
+|-
+| [[Image:Diving pictogram.svg|25px]] [[Diving at the 1904 Summer Olympics|Diving]]
+| [[Diving at the 1904 Summer Olympics – Platform|Platform]]
+| {{flagIOCmedalist|[[George Sheldon (diver)|George Sheldon]]|USA|1904 Summer}}
+| {{flagIOCmedalist|[[Georg Hoffmann]]|GER|1904 Summer|}}
+| {{flagIOCmedalist|[[Alfred Braunschweiger]]|GER|1904 Summer}}<hr>{{flagIOCmedalist|[[Frank Kehoe]]|USA|1904 Summer}}
+| <ref>{{cite web|title=St Louis 1904 Diving - Results & Videos|url=https://www.olympic.org/st-louis-1904/diving|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131150/https://olympics.com/en/olympic-games/st-louis-1904/results/diving|url-status=live}}</ref>
+|-
+| [[Image:Golf pictogram.svg|25px]] [[Golf at the 1904 Summer Olympics|Golf]]
+| [[Golf at the 1904 Summer Olympics – Men's individual|Men's individual]]
+| {{flagIOCmedalist|[[George Lyon (golfer)|George Lyon]]|CAN|1904 Summer}}
+| {{flagIOCmedalist|[[Chandler Egan]]|USA|1904 Summer}}
+| {{flagIOCmedalist|[[Burt McKinnie]]|USA|1904 Summer}}<hr>{{flagIOCmedalist|[[Francis Newton (golfer)|Francis Newton]]|USA|1904 Summer}}
+| <ref>{{cite web|title=St Louis 1904 Golf - Results & Videos|url=https://www.olympic.org/st-louis-1904/golf|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201055343/https://www.olympic.org/st-louis-1904/golf|url-status=live}}</ref>
+|-
+|rowspan=2| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1904 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1904 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[George Eyser]]|USA|1904 Summer}}<hr>{{flagIOCmedalist|[[Anton Heida]]|USA|1904 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[William Merz]]|USA|1904 Summer}}
+| <ref>{{cite web|title=St Louis 1904 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/st-louis-1904/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325012810/https://www.olympic.org/st-louis-1904/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1904 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Anton Heida]]|USA|1904 Summer}}<hr>{{flagIOCmedalist|[[Edward Hennig]]|USA|1904 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[George Eyser]]|USA|1904 Summer}}
+| <ref>{{cite web|title=St Louis 1904 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/st-louis-1904/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325012810/https://www.olympic.org/st-louis-1904/gymnastics-artistic|url-status=live}}</ref>
+|- id="Summer 1908"
+|rowspan=8| {{GamesName|SOG|1908}}
+|rowspan=3| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1908 Summer Olympics|Athletics]]
+| [[Athletics at the 1908 Summer Olympics – Men's standing high jump|Men's standing high jump]]
+| {{flagIOCmedalist|[[Ray Ewry]]|USA|1908 Summer}}
+| {{flagIOCmedalist|[[John Biller]]|USA|1908 Summer}}<hr>{{flagIOCmedalist|[[Konstantinos Tsiklitiras]]|GRE|1908 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=London 1908 Athletics - Results & Videos|url=https://www.olympic.org/london-1908/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=12 October 2020|archive-url=https://web.archive.org/web/20201012211219/https://www.olympic.org/london-1908/athletics|url-status=live}}</ref>
+|-
+| [[Athletics at the 1908 Summer Olympics – Men's pole vault|Men's pole vault]]
+| {{flagIOCmedalist|[[Edward Cook (athlete)|Edward Cook]]|USA|1908 Summer}}<hr>{{flagIOCmedalist|[[Alfred Carlton Gilbert|Alfred Gilbert]]|USA|1908 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Edward Archibald (athlete)|Edward Archibald]]|CAN|1908 Summer}}<hr>{{flagIOCmedalist|[[Clare Jacobs]]|USA|1908 Summer}}<hr>{{flagIOCmedalist|[[Bruno Söderström]]|SWE|1908 Summer}}
+| <ref>{{cite web|title=London 1908 Athletics - Results & Videos|url=https://www.olympic.org/london-1908/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=12 October 2020|archive-url=https://web.archive.org/web/20201012211219/https://www.olympic.org/london-1908/athletics|url-status=live}}</ref>
+|-
+| [[Athletics at the 1908 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Harry Porter]]|USA|1908 Summer}}
+| {{flagIOCmedalist|[[Géo André]]|FRA|1908 Summer}}<hr>{{flagIOCmedalist|[[Con Leahy]]|GBR|1908 Summer}}<hr>{{flagIOCmedalist|[[István Somodi]]|HUN|1908 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=London 1908 Athletics - Results & Videos|url=https://www.olympic.org/london-1908/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=12 October 2020|archive-url=https://web.archive.org/web/20201012211219/https://www.olympic.org/london-1908/athletics|url-status=live}}</ref>
+|-
+| [[Image:Diving pictogram.svg|25px]] [[Diving at the 1908 Summer Olympics|Diving]]
+| [[Diving at the 1908 Summer Olympics – Men's 3 metre springboard|Men's 3 metre springboard]]
+| {{flagIOCmedalist|[[Albert Zürner]]|GER|1908 Summer}}
+| {{flagIOCmedalist|[[Kurt Behrens]]|GER|1908 Summer}}
+| {{flagIOCmedalist|[[George Gaidzik]]|USA|1908 Summer}}<hr>{{flagIOCmedalist|[[Gottlob Walz]]|GER|1908 Summer}}
+| <ref>{{cite web|title=London 1908 Diving - Results & Videos|url=https://www.olympic.org/london-1908/diving|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Hockey pictogram.svg|25px]] [[Hockey at the 1908 Summer Olympics|Hockey]]
+| [[Field hockey at the 1908 Summer Olympics|Men's tournament]]
+| {{flagIOCmedalist|[[England men's national field hockey team|England]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Ireland men's national field hockey team|Ireland]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Scotland men's national field hockey team|Scotland]]|GBR|1908 Summer}}<hr>{{flagIOCmedalist|[[England men's national field hockey team|Wales]]|GBR|1908 Summer}}
+| <ref>{{cite web|title=London 1908 Hockey - Results & Videos|url=https://www.olympic.org/london-1908/hockey|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Polo pictogram.svg|25px]] [[Polo at the 1908 Summer Olympics|Polo]]
+| [[Polo at the 1908 Summer Olympics|Men's tournament]]
+| {{flagIOCmedalist|[[Roehampton]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Hurlingham Club]]|GBR|1908 Summer}}<hr>{{flagIOCmedalist|[[Ireland]]|GBR|1908 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=London 1908 Polo - Results & Videos|url=https://www.olympic.org/london-1908/polo|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201032213/https://www.olympic.org/london-1908/polo|url-status=live}}</ref>
+|-
+| [[Image:Rackets pictogram.svg|25px]] [[Rackets at the 1908 Summer Olympics|Rackets]]
+| [[Rackets at the 1908 Summer Olympics – Men's singles|Men's singles]]
+| {{flagIOCmedalist|[[Evan Noel]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[Henry Leaf]]|GBR|1908 Summer}}
+| {{flagIOCmedalist|[[John Jacob Astor (rackets player)|John Jacob Astor]]|GBR|1908 Summer}}<hr>{{flagIOCmedalist|[[Henry Brougham (rackets player)|Henry Brougham]]|GBR|1908 Summer}}
+| <ref>{{cite web|title=London 1908 Rackets - Results & Videos|url=https://www.olympic.org/london-1908/rackets|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201042938/https://www.olympic.org/london-1908/rackets|url-status=live}}</ref>
+|-
+| [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1908 Summer Olympics|Shooting]]
+| [[Shooting at the 1908 Summer Olympics – Men's trap|Men's trap]]
+| {{flagIOCmedalist|[[Walter Ewing]]|CAN|1908 Summer}}
+| {{flagIOCmedalist|[[George Beattie (shooter)|George Beattie]]|CAN|1908 Summer}}
+| {{flagIOCmedalist|[[Alexander Maunder]]|GBR|1908 Summer}}<hr>{{flagIOCmedalist|[[Anastasios Metaxas]]|GRE|1908 Summer}}
+| <ref>{{cite web|title=Shooting at the 1908 London Summer Games: Men's Trap|url=https://www.sports-reference.com/olympics/summer/1908/SHO/mens-trap.html|archive-url=https://web.archive.org/web/20200417205735/https://www.sports-reference.com/olympics/summer/1908/SHO/mens-trap.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref><ref group=note>[[Anastasios Metaxas]] is generally credited with a bronze medal; no tie-breaker was held. The 1908 official report lists Metaxas as having tied with [[Alexander Maunder]] and assigns bronze medals to each. However, Metaxas does not appear in the IOC medal database, which lists only Maunder as sole bronze medalist. Some sources follow the IOC's database.</ref>
+|- id="Summer 1912"
+|rowspan=6| {{GamesName|SOG|1912}}
+|rowspan=3| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1912 Summer Olympics|Athletics]]
+| [[Athletics at the 1912 Summer Olympics – Men's pole vault|Men's pole vault]]
+| {{flagIOCmedalist|[[Harry Babcock (pole vaulter)|Harry Babcock]]|USA|1912 Summer}}
+| {{flagIOCmedalist|[[Frank Nelson (athlete)|Frank Nelson]]|USA|1912 Summer}}<hr>{{flagIOCmedalist|[[Marc Wright]]|USA|1912 Summer}}
+| {{flagIOCmedalist|[[William Halpenny]]|CAN|1912 Summer}}<hr>{{flagIOCmedalist|[[Frank Murphy (pole vaulter)|Frank Murphy]]|USA|1912 Summer}}<hr>{{flagIOCmedalist|[[Bertil Uggla]]|SWE|1912 Summer}}
+| <ref>{{cite web|title=Athletics at the 1912 Stockholm Summer Games: Men's Pole Vault|url=https://www.sports-reference.com/olympics/summer/1912/ATH/mens-pole-vault.html|archive-url=https://web.archive.org/web/20200417173914/https://www.sports-reference.com/olympics/summer/1912/ATH/mens-pole-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Athletics at the 1912 Summer Olympics – Men's pentathlon|Men's pentathlon]]
+| {{flagIOCmedalist|[[Ferdinand Bie]]|NOR|1912 Summer}}<hr>{{flagIOCmedalist|[[Jim Thorpe]]|USA|1912 Summer}}
+| {{flagIOCmedalist|[[James Donahue (athlete)|James Donahue]]|USA|1912 Summer}}
+| {{flagIOCmedalist|[[Frank Lukeman]]|CAN|1912 Summer}}
+| <ref>{{cite web|title=Stockholm 1912 Athletics - Results & Videos|url=https://www.olympic.org/stockholm-1912/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=16 September 2020|archive-url=https://web.archive.org/web/20200916130424/https://www.olympic.org/stockholm-1912/athletics|url-status=live}}</ref><ref group=note name="JimThorpe">[[Jim Thorpe]]'s gold medals were stripped by the International Olympic Committee in 1913, after the IOC learned that Thorpe had played semi-pro baseball prior to the 1912 games, violating Olympic amateurism rules. This moved everyone else up in the rankings. In 1982, the IOC was convinced that the disqualification had been improper, as no protest against Thorpe's eligibility had been brought within the required 30 days and reinstated Thorpe's medals. The three medalists promoted were not retroactively demoted, leaving co-champions in these events.</ref>
+|-
+| [[Athletics at the 1912 Summer Olympics – Men's decathlon|Men's decathlon]]
+| {{flagIOCmedalist|[[Hugo Wieslander]]|SWE|1912 Summer}}<hr>{{flagIOCmedalist|[[Jim Thorpe]]|USA|1912 Summer}}
+| {{flagIOCmedalist|[[Charles Lomberg]]|SWE|1912 Summer}}
+| {{flagIOCmedalist|[[Gösta Holmér]]|SWE|1912 Summer}}
+| <ref>{{cite web|title=Stockholm 1912 Athletics - Results & Videos|url=https://www.olympic.org/stockholm-1912/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=16 September 2020|archive-url=https://web.archive.org/web/20200916130424/https://www.olympic.org/stockholm-1912/athletics|url-status=live}}</ref><ref group=note name="JimThorpe"></ref>
+|-
+|rowspan=2| [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 1912 Summer Olympics|Rowing]]
+| [[Rowing at the 1912 Summer Olympics – Men's coxed four|Men's coxed four]]
+| {{flagIOC|GER|1912 Summer}}
+| {{flagIOC|GBR|1912 Summer}}
+| {{flagIOC|DEN|1912 Summer}}<hr>{{flagIOC|NOR|1912 Summer}}
+| <ref>{{cite web |title=Stockholm 1912 four-oared shell with coxswain men Results – Olympic rowing |url=https://www.olympics.com/en/olympic-games/stockholm-1912/results/rowing/four-oared-shell-with-coxswain-men |website=[[International Olympic Committee]] |access-date=24 February 2025}}</ref>
+|-
+| [[Rowing at the 1912 Summer Olympics – Men's single sculls|Men's single sculls]]
+| {{flagIOCmedalist|[[Wally Kinnear]]|GBR|1912 Summer}}
+| {{flagIOCmedalist|[[Polydore Veirman]]|BEL|1912 Summer}}
+| {{flagIOCmedalist|[[Everard Butler]]|CAN|1912 Summer}}<hr>{{flagIOCmedalist|[[Mart Kuusik]]|RU1|1912 Summer}}
+| <ref>{{cite web|title=Stockholm 1912 Rowing - Results & Videos|url=https://www.olympic.org/stockholm-1912/rowing|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325012136/https://www.olympic.org/stockholm-1912/rowing|url-status=live}}</ref>
+|-
+| [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1912 Summer Olympics|Wrestling]]
+| [[Wrestling at the 1912 Summer Olympics – Men's Greco-Roman light heavyweight|Men's Greco-Roman light heavyweight]]
+| ''Not awarded''<br><span style="font-size:85%">as the event was a draw.</span>
+| {{flagIOCmedalist|[[Anders Ahlgren]]|SWE|1912 Summer}}<hr>{{flagIOCmedalist|[[Ivar Böhling]]|FIN|1912 Summer}}
+| {{flagIOCmedalist|[[Béla Varga (wrestler)|Béla Varga]]|HUN|1912 Summer}}
+| <ref>{{cite web|title=Stockholm 1912 Wrestling Greco-Roman - Results & Videos|url=https://www.olympic.org/stockholm-1912/wrestling-greco-roman|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325012143/https://www.olympic.org/stockholm-1912/wrestling-greco-roman|url-status=live}}</ref>
+|- id="Summer 1920"
+| {{GamesName|SOG|1920}}
+| [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1920 Summer Olympics|Wrestling]]
+| [[Wrestling at the 1920 Summer Olympics – Men's freestyle heavyweight|Men's freestyle heavyweight]]
+| {{flagIOCmedalist|[[Robert Roth (sport wrestler)|Robert Roth]]|SUI|1920 Summer}}
+| {{flagIOCmedalist|[[Nat Pendleton]]|USA|1920 Summer}}
+| {{flagIOCmedalist|[[Fred Meyer (sport wrestler)|Fred Meyer]]|USA|1920 Summer}}<hr>{{flagIOCmedalist|[[Ernst Nilsson]]|SWE|1920 Summer}}
+| <ref>{{cite web|title=Antwerp 1920 Wrestling Freestyle - Results & Videos|url=https://www.olympic.org/antwerp-1920/wrestling-freestyle|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325011657/https://www.olympic.org/antwerp-1920/wrestling-freestyle|url-status=live}}</ref>
+|- id="Summer 1924"
+|rowspan=2| {{GamesName|SOG|1924}}
+|rowspan=2| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1924 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1924 Summer Olympics – Men's rope climbing|Men's rope climbing]]
+| {{flagIOCmedalist|[[Bedřich Šupčík]]|TCH|1924 Summer}}
+| {{flagIOCmedalist|[[Albert Séguin]]|FRA|1924 Summer}}
+| {{flagIOCmedalist|[[Ladislav Vácha]]|TCH|1924 Summer}}<hr>{{flagIOCmedalist|[[August Güttinger]]|SUI|1924 Summer}}
+| <ref>{{cite web|title=Paris 1924 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/paris-1924/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=8 August 2017|archive-url=https://web.archive.org/web/20170808114812/https://www.olympic.org/paris-1924/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1924 Summer Olympics – Men's sidehorse vault|Men's sidehorse vault]]
+| {{flagIOCmedalist|[[Albert Séguin]]|FRA|1924 Summer}}
+| {{flagIOCmedalist|[[Jean Gounot]]|FRA|1924 Summer}}<hr>{{flagIOCmedalist|[[François Gangloff]]|FRA|1924 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Paris 1924 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/paris-1924/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=8 August 2017|archive-url=https://web.archive.org/web/20170808114812/https://www.olympic.org/paris-1924/gymnastics-artistic|url-status=live}}</ref>
+|- id="Summer 1928"
+| {{GamesName|SOG|1928}}
+| [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1928 Summer Olympics|Weightlifting]]
+| [[Weightlifting at the 1928 Summer Olympics – Men's 67.5 kg|Men's 67.5 kg]]
+| {{flagIOCmedalist|[[Hans Haas]]|AUT|1928 Summer}}<hr>{{flagIOCmedalist|[[Kurt Helbig]]|GER|1928 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Fernand Arnout]]|FRA|1928 Summer}}
+| <ref>{{cite web|title=Amsterdam 1928 Weightlifting - Results & Videos|url=https://www.olympic.org/amsterdam-1928/weightlifting|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325010754/https://www.olympic.org/amsterdam-1928/weightlifting|url-status=live}}</ref>
+|- id="Summer 1936"
+|rowspan=2| {{GamesName|SOG|1936}}
+| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1936 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1936 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[Georges Miez]]|SUI|1936 Summer}}
+| {{flagIOCmedalist|[[Josef Walter]]|SUI|1936 Summer}}
+| {{flagIOCmedalist|[[Konrad Frey]]|GER|1936 Summer}}<hr>{{flagIOCmedalist|[[Eugen Mack]]|SUI|1936 Summer}}
+| <ref>{{cite web|title=Berlin 1936 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/berlin-1936/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131240/https://olympics.com/en/olympic-games/berlin-1936/results/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1936 Summer Olympics|Weightlifting]]
+| [[Weightlifting at the 1936 Summer Olympics – Men's 67.5 kg|Men's 67.5 kg]]
+| {{flagIOCmedalist|[[Robert Fein]]|AUT|1936 Summer}}<hr>{{flagIOCmedalist|[[Anwar Mesbah]]|EGY|1936 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Karl Jansen]]|GER|1936 Summer}}
+| <ref>{{cite web|title=Berlin 1936 Weightlifting - Results & Videos|url=https://www.olympic.org/berlin-1936/weightlifting|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073641/https://www.olympic.org/berlin-1936/weightlifting|url-status=live}}</ref>
+|- id="Summer 1948"
+|rowspan=3| {{GamesName|SOG|1948}}
+|rowspan=3| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1948 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1948 Summer Olympics – Men's parallel bars|Men's parallel bars]]
+| {{flagIOCmedalist|[[Michael Reusch]]|SUI|1948 Summer}}
+| {{flagIOCmedalist|[[Veikko Huhtanen]]|FIN|1948 Summer}}
+| {{flagIOCmedalist|[[Josef Stalder]]|SUI|1948 Summer}}<hr>{{flagIOCmedalist|[[Christian Kipfer]]|SUI|1948 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1948 London Summer Games: Men's parallel Bars|url=https://www.sports-reference.com/olympics/summer/1948/GYM/mens-parallel-bars.html|archive-url=https://web.archive.org/web/20200417175940/https://www.sports-reference.com/olympics/summer/1948/GYM/mens-parallel-bars.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1948 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Paavo Aaltonen]]|FIN|1948 Summer}}<hr>{{flagIOCmedalist|[[Veikko Huhtanen]]|FIN|1948 Summer}}<hr>{{flagIOCmedalist|[[Heikki Savolainen (athlete)|Heikki Savolainen]]|FIN|1948 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| <ref>{{cite web|title=Gymnastics at the 1948 London Summer Games: Men's Pommelled Horse|url=https://www.sports-reference.com/olympics/summer/1948/GYM/mens-pommelled-horse.html|archive-url=https://web.archive.org/web/20200417175946/https://www.sports-reference.com/olympics/summer/1948/GYM/mens-pommelled-horse.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1948 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[Paavo Aaltonen]]|FIN|1948 Summer}}
+| {{flagIOCmedalist|[[Olavi Rove]]|FIN|1948 Summer}}
+| {{flagIOCmedalist|[[János Mogyorósi-Klencs]]|HUN|1948 Summer}}<hr>{{flagIOCmedalist|[[Ferenc Pataki]]|HUN|1948 Summer}}<hr>{{flagIOCmedalist|[[Leo Sotornik]]|TCH|1948 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1948 London Summer Games: Men's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1948/GYM/mens-horse-vault.html|archive-url=https://web.archive.org/web/20200417175942/https://www.sports-reference.com/olympics/summer/1948/GYM/mens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1952"
+|rowspan=5| {{GamesName|SOG|1952}}
+|rowspan=5| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1952 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1952 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[William Thoresson]]|SWE|1952 Summer}}
+| {{flagIOCmedalist|[[Jerzy Jokiel]]|POL|1952 Summer}}<hr>{{flagIOCmedalist|[[Tadao Uesako]]|JPN|1952 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1952 Helsinki Summer Games: Men's Floor Exercise|url=https://www.sports-reference.com/olympics/summer/1952/GYM/mens-floor-exercise.html|archive-url=https://web.archive.org/web/20200417100943/https://www.sports-reference.com/olympics/summer/1952/GYM/mens-floor-exercise.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1952 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Jack Günthard]]|SUI|1952 Summer}}
+| {{flagIOCmedalist|[[Josef Stalder]]|SUI|1952 Summer}}<hr>{{flagIOCmedalist|[[Alfred Schwarzmann]]|GER|1952 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1952 Helsinki Summer Games: Men's Horizontal Bar|url=https://www.sports-reference.com/olympics/summer/1952/GYM/mens-horizontal-bar.html|archive-url=https://web.archive.org/web/20200417100946/https://www.sports-reference.com/olympics/summer/1952/GYM/mens-horizontal-bar.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1952 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Viktor Chukarin]]|URS|1952 Summer}}
+| {{flagIOCmedalist|[[Hrant Shahinyan]]|URS|1952 Summer}}<hr>{{flagIOCmedalist|[[Yevgeny Korolkov]]|URS|1952 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1952 Helsinki Summer Games: Men's Pommelled Horse|url=https://www.sports-reference.com/olympics/summer/1952/GYM/mens-pommelled-horse.html|archive-url=https://web.archive.org/web/20200417100753/https://www.sports-reference.com/olympics/summer/1952/GYM/mens-pommelled-horse.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1952 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Hrant Shahinyan]]|URS|1952 Summer}}
+| {{flagIOCmedalist|[[Viktor Chukarin]]|URS|1952 Summer}}
+| {{flagIOCmedalist|[[Dmytro Leonkin]]|URS|1952 Summer}}<hr>{{flagIOCmedalist|[[Hans Eugster]]|SUI|1952 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1952 Helsinki Summer Games: Men's Rings|url=https://www.sports-reference.com/olympics/summer/1952/GYM/mens-rings.html|archive-url=https://web.archive.org/web/20200417100945/https://www.sports-reference.com/olympics/summer/1952/GYM/mens-rings.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1952 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[Viktor Chukarin]]|URS|1952 Summer}}
+| {{flagIOCmedalist|[[Masao Takemoto]]|JPN|1952 Summer}}
+| {{flagIOCmedalist|[[Takashi Ono (gymnast)|Takashi Ono]]|JPN|1952 Summer}}<hr>{{flagIOCmedalist|[[Tadao Uesako]]|JPN|1952 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1952 Helsinki Summer Games: Men's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1952/GYM/mens-horse-vault.html|archive-url=https://web.archive.org/web/20200417100945/https://www.sports-reference.com/olympics/summer/1952/GYM/mens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1956"
+|rowspan=10| {{GamesName|SOG|1956}}
+|rowspan=2| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1956 Summer Olympics|Athletics]]
+| [[Athletics at the 1956 Summer Olympics – Women's high jump|Women's high jump]]
+| {{flagIOCmedalist|[[Mildred McDaniel]]|USA|1956 Summer}}
+| {{flagIOCmedalist|[[Thelma Hopkins (athlete)|Thelma Hopkins]]|GBR|1956 Summer}}<hr>{{flagIOCmedalist|[[Mariya Pisareva]]|URS|1956 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Melbourne / Stockholm 1956 Athletics - Results & Videos|url=https://www.olympic.org/melbourne-/-stockholm-1956/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Athletics at the 1956 Summer Olympics – Men's 400 metres|Men's 400 metres]]
+| {{flagIOCmedalist|[[Charles Jenkins Sr.|Charles Jenkins]]|USA|1956 Summer}}
+| {{flagIOCmedalist|[[Karl-Friedrich Haas]]|EUA|1956 Summer}}
+| {{flagIOCmedalist|[[Voitto Hellstén]]|FIN|1956 Summer}}<hr>{{flagIOCmedalist|[[Ardalion Ignatyev]]|URS|1956 Summer}}
+| <ref>{{cite web|title=Melbourne / Stockholm 1956 Athletics - Results & Videos|url=https://www.olympic.org/melbourne-/-stockholm-1956/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 March 2017|archive-url=https://web.archive.org/web/20170325001529/https://www.olympic.org/melbourne-/-stockholm-1956/athletics|url-status=live}}</ref>
+|-
+|rowspan=8| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1956 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1956 Summer Olympics – Women's floor|Women's floor]]
+| {{flagIOCmedalist|[[Ágnes Keleti]]|HUN|1956 Summer}}<hr>{{flagIOCmedalist|[[Larisa Latynina]]|URS|1956 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Elena Leuşteanu]]|ROU|1956 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Women's Floor Exercise|url=https://www.sports-reference.com/olympics/summer/1956/GYM/womens-floor-exercise.html|archive-url=https://web.archive.org/web/20200417115123/https://www.sports-reference.com/olympics/summer/1956/GYM/womens-floor-exercise.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Albert Azaryan]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Valentin Muratov]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Masao Takemoto]]|JPN|1956 Summer}}<hr>{{flagIOCmedalist|[[Masumi Kubota]]|JPN|1956 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Men's Rings|url=https://www.sports-reference.com/olympics/summer/1956/GYM/mens-rings.html|archive-url=https://web.archive.org/web/20200417100714/https://www.sports-reference.com/olympics/summer/1956/GYM/mens-rings.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Women's balance beam|Women's balance beam]]
+| {{flagIOCmedalist|[[Ágnes Keleti]]|HUN|1956 Summer}}
+| {{flagIOCmedalist|[[Eva Bosáková]]|TCH|1956 Summer}}<hr>{{flagIOCmedalist|[[Tamara Manina]]|URS|1956 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Women's Balance Beam|url=https://www.sports-reference.com/olympics/summer/1956/GYM/womens-balance-beam.html|archive-url=https://web.archive.org/web/20200417115212/https://www.sports-reference.com/olympics/summer/1956/GYM/womens-balance-beam.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Women's vault|Women's vault]]
+| {{flagIOCmedalist|[[Larisa Latynina]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Tamara Manina]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Olga Lemhényi-Tass]]|HUN|1956 Summer}}<hr>{{flagIOCmedalist|[[Ann-Sofi Pettersson]]|SWE|1956 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Women's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1956/GYM/womens-horse-vault.html|archive-url=https://web.archive.org/web/20200417115204/https://www.sports-reference.com/olympics/summer/1956/GYM/womens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[Valentin Muratov]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Nobuyuki Aihara]]|JPN|1956 Summer}}<hr>{{flagIOCmedalist|[[William Thoresson]]|SWE|1956 Summer}}<hr>{{flagIOCmedalist|[[Viktor Chukarin]]|URS|1956 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Men's Floor Exercise|url=https://www.sports-reference.com/olympics/summer/1956/GYM/mens-floor-exercise.html|archive-url=https://web.archive.org/web/20200417100937/https://www.sports-reference.com/olympics/summer/1956/GYM/mens-floor-exercise.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[Helmut Bantz]]|EUA|1956 Summer}}<hr>{{flagIOCmedalist|[[Valentin Muratov]]|URS|1956 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Yuri Titov]]|URS|1956 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Men's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1956/GYM/mens-horse-vault.html|archive-url=https://web.archive.org/web/20200417100937/https://www.sports-reference.com/olympics/summer/1956/GYM/mens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Men's parallel bars|Men's parallel bars]]
+| {{flagIOCmedalist|[[Viktor Chukarin]]|URS|1956 Summer}}
+| {{flagIOCmedalist|[[Masumi Kubota]]|JPN|1956 Summer}}
+| {{flagIOCmedalist|[[Takashi Ono (gymnast)|Takashi Ono]]|JPN|1956 Summer}}<hr>{{flagIOCmedalist|[[Masao Takemoto]]|JPN|1956 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1956 Melbourne Summer Games: Men's parallel Bars|url=https://www.sports-reference.com/olympics/summer/1956/GYM/mens-parallel-bars.html|archive-url=https://web.archive.org/web/20200417100744/https://www.sports-reference.com/olympics/summer/1956/GYM/mens-parallel-bars.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1956 Summer Olympics – Women's team portable apparatus|Women's team portable apparatus]]
+| {{flagIOC|HUN|1956 Summer}}
+| {{flagIOC|SWE|1956 Summer}}
+| {{flagIOC|URS|1956 Summer}}<hr>{{FlagIOC|POL|1956 Summer}}
+| <ref>{{cite web|title=Melbourne / Stockholm 1956 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/melbourne-/-stockholm-1956/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1960"
+|rowspan=4| {{GamesName|SOG|1960}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1960 Summer Olympics|Athletics]]
+| [[Athletics at the 1960 Summer Olympics – Women's high jump|Women's high jump]]
+| {{flagIOCmedalist|[[Iolanda Balaş]]|ROU|1960 Summer}}
+| {{flagIOCmedalist|[[Jarosława Jóźwiakowska]]|POL|1960 Summer}}<hr>{{flagIOCmedalist|[[Dorothy Shirley]]|GBR|1960 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Athletics at the 1960 Roma Summer Games: Women's High Jump|url=https://www.sports-reference.com/olympics/summer/1960/ATH/womens-high-jump.html|archive-url=https://web.archive.org/web/20200417174312/https://www.sports-reference.com/olympics/summer/1960/ATH/womens-high-jump.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=3| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1960 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1960 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Eugen Ekman]]|FIN|1960 Summer}}<hr>{{flagIOCmedalist|[[Boris Shakhlin]]|URS|1960 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Shuji Tsurumi]]|JPN|1960 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1960 Roma Summer Games: Men's Pommelled Horse|url=https://www.sports-reference.com/olympics/summer/1960/GYM/mens-pommelled-horse.html|archive-url=https://web.archive.org/web/20200417100940/https://www.sports-reference.com/olympics/summer/1960/GYM/mens-pommelled-horse.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1960 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Albert Asaryan]]|URS|1960 Summer}}
+| {{flagIOCmedalist|[[Boris Shakhlin]]|URS|1960 Summer}}
+| {{flagIOCmedalist|[[Takashi Ono (gymnast)|Takashi Ono]]|JPN|1960 Summer}}<hr>{{flagIOCmedalist|[[Velik Kapsazov]]|BUL|1960 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1960 Roma Summer Games: Men's Rings|url=https://www.sports-reference.com/olympics/summer/1960/GYM/mens-rings.html|archive-url=https://web.archive.org/web/20200417100948/https://www.sports-reference.com/olympics/summer/1960/GYM/mens-rings.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1960 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[Boris Shakhlin]]|URS|1960 Summer}}<hr>{{flagIOCmedalist|[[Takashi Ono (gymnast)|Takashi Ono]]|JPN|1960 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Vladimir Portnoi]]|URS|1960 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1960 Roma Summer Games: Men's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1960/GYM/mens-horse-vault.html|archive-url=https://web.archive.org/web/20200417100828/https://www.sports-reference.com/olympics/summer/1960/GYM/mens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1964"
+|rowspan=3| {{GamesName|SOG|1964}}
+|rowspan=3| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1964 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1964 Summer Olympics – Men's individual all-around|Men's individual all-around]]
+| {{flagIOCmedalist|[[Yukio Endo]]|JPN|1964 Summer}}
+| {{flagIOCmedalist|[[Viktor Lisitsky]]|URS|1964 Summer}}<hr>{{flagIOCmedalist|[[Boris Shakhlin]]|URS|1964 Summer}}<hr>{{flagIOCmedalist|[[Shuji Tsurumi]]|JPN|1964 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Tokyo 1964 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/tokyo-1964/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1964 Summer Olympics – Men's floor exercise|Men's floor exercise]]
+| {{flagIOCmedalist|[[Franco Menichelli]]|ITA|1964 Summer}}
+| {{flagIOCmedalist|[[Yukio Endo]]|JPN|1964 Summer}}<hr>{{flagIOCmedalist|[[Viktor Lisitsky]]|URS|1964 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Tokyo 1964 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/tokyo-1964/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201055301/https://www.olympic.org/tokyo-1964/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1964 Summer Olympics – Women's vault|Women's vault]]
+| {{flagIOCmedalist|[[Věra Čáslavská]]|TCH|1964 Summer}}
+| {{flagIOCmedalist|[[Larisa Latynina]]|URS|1964 Summer}}<hr>{{flagIOCmedalist|[[Birgit Radochla]]|EUA|1964 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Tokyo 1964 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/tokyo-1964/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1968"
+|rowspan=2| {{GamesName|SOG|1968}}
+|rowspan=2| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1968 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1968 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Mikhail Voronin]]|URS|1968 Summer}}<hr>{{flagIOCmedalist|[[Akinori Nakayama]]|JPN|1968 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Eizo Kenmotsu]]|JPN|1968 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1968 Ciudad de MÃ©xico Summer Games: Men's Horizontal Bar|url=https://www.sports-reference.com/olympics/summer/1968/GYM/mens-horizontal-bar.html|archive-url=https://web.archive.org/web/20200417062319/https://www.sports-reference.com/olympics/summer/1968/GYM/mens-horizontal-bar.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1968 Summer Olympics – Women's floor|Women's floor]]
+| {{flagIOCmedalist|[[Larisa Petrik]]|URS|1968 Summer}}<hr>{{flagIOCmedalist|[[Věra Čáslavská]]|TCH|1968 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Natalia Kuchinskaya]]|URS|1968 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1968 Ciudad de MÃ©xico Summer Games: Women's Floor Exercise|url=https://www.sports-reference.com/olympics/summer/1968/GYM/womens-floor-exercise.html|archive-url=https://web.archive.org/web/20200417193056/https://www.sports-reference.com/olympics/summer/1968/GYM/womens-floor-exercise.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1972"
+|rowspan=2| {{GamesName|SOG|1972}}
+| [[Image:Football pictogram.svg|25px]] [[Football at the 1972 Summer Olympics|Football]]
+| [[Football at the 1972 Summer Olympics|Men's team]]
+| {{flagIOC|POL|1972 Summer}}
+| {{flagIOC|HUN|1972 Summer}}
+| {{flagIOC|URS|1972 Summer}}<hr>{{flagIOC|GDR|1972 Summer}}
+| <ref>{{cite web|title=Football at the 1972 MÃ¼nchen Summer Games: Men's Football|url=https://www.sports-reference.com/olympics/summer/1972/FTB/mens-football.html|archive-url=https://web.archive.org/web/20200418130644/https://www.sports-reference.com/olympics/summer/1972/FTB/mens-football.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1972 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1972 Summer Olympics – Women's uneven bars|Women's uneven bars]]
+| {{flagIOCmedalist|[[Karin Janz]]|GDR|1972 Summer}}
+| {{flagIOCmedalist|[[Olga Korbut]]|URS|1972 Summer}}<hr>{{flagIOCmedalist|[[Erika Zuchold]]|GDR|1972 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1972 MÃ¼nchen Summer Games: Women's Uneven Bars|url=https://www.sports-reference.com/olympics/summer/1972/GYM/womens-uneven-bars.html|archive-url=https://web.archive.org/web/20200417192727/https://www.sports-reference.com/olympics/summer/1972/GYM/womens-uneven-bars.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1976"
+|rowspan=3| {{GamesName|SOG|1976}}
+|rowspan=3| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1976 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1976 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Mitsuo Tsukahara]]|JPN|1976 Summer}}
+| {{flagIOCmedalist|[[Eizo Kenmotsu]]|JPN|1976 Summer}}
+| {{flagIOCmedalist|[[Eberhard Gienger]]|FRG|1976 Summer}}<hr>{{flagIOCmedalist|[[Henri Boerio]]|FRA|1976 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1976 MontrÃ©al Summer Games: Men's Horizontal Bar|url=https://www.sports-reference.com/olympics/summer/1976/GYM/mens-horizontal-bar.html|archive-url=https://web.archive.org/web/20200417062529/https://www.sports-reference.com/olympics/summer/1976/GYM/mens-horizontal-bar.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1976 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Zoltán Magyar]]|HUN|1976 Summer}}
+| {{flagIOCmedalist|[[Eizo Kenmotsu]]|JPN|1976 Summer}}
+| {{flagIOCmedalist|[[Nikolai Andrianov]]|URS|1976 Summer}}<hr>{{flagIOCmedalist|[[Michael Nikolay]]|GDR|1976 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1976 MontrÃ©al Summer Games: Men's Pommelled Horse|url=https://www.sports-reference.com/olympics/summer/1976/GYM/mens-pommelled-horse.html|archive-url=https://web.archive.org/web/20200417062343/https://www.sports-reference.com/olympics/summer/1976/GYM/mens-pommelled-horse.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1976 Summer Olympics – Women's vault|Women's vault]]
+| {{flagIOCmedalist|[[Nellie Kim]]|URS|1976 Summer}}
+| {{flagIOCmedalist|[[Ludmila Tourischeva]]|URS|1976 Summer}}<hr>{{flagIOCmedalist|[[Carola Dombeck]]|GDR|1976 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1976 MontrÃ©al Summer Games: Women's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1976/GYM/womens-horse-vault.html|archive-url=https://web.archive.org/web/20200417101028/https://www.sports-reference.com/olympics/summer/1976/GYM/womens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1980"
+|rowspan=4| {{GamesName|SOG|1980}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1980 Summer Olympics|Athletics]]
+| [[Athletics at the 1980 Summer Olympics – Men's pole vault|Men's pole vault]]
+| {{flagIOCmedalist|[[Władysław Kozakiewicz]]|POL|1980 Summer}}
+| {{flagIOCmedalist|[[Konstantin Volkov (athlete)|Konstantin Volkov]]|URS|1980 Summer}}<hr>{{flagIOCmedalist|[[Tadeusz Ślusarski]]|POL|1980 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Athletics at the 1980 Moskva Summer Games: Men's Pole Vault|url=https://www.sports-reference.com/olympics/summer/1980/ATH/mens-pole-vault.html|archive-url=https://web.archive.org/web/20200417173846/https://www.sports-reference.com/olympics/summer/1980/ATH/mens-pole-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=3| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1980 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1980 Summer Olympics – Women's artistic individual all-around|Women's artistic individual all-around]]
+| {{FlagIOCmedalist|[[Elena Davydova]]|URS|1980 Summer}}
+| {{FlagIOCmedalist|[[Maxi Gnauck]]|GDR|1980 Summer}}<hr>{{FlagIOCmedalist|[[Nadia Comăneci]]|ROU|1980 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Moscow 1980 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/moscow-1980/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=24 March 2017|archive-url=https://web.archive.org/web/20170324231919/https://www.olympic.org/moscow-1980/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1980 Summer Olympics – Women's floor|Women's floor]]
+| {{flagIOCmedalist|[[Nellie Kim]]|URS|1988 Summer}}<hr>{{FlagIOCmedalist|[[Nadia Comăneci]]|ROU|1980 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Natalia Shaposhnikova]]|URS|1980 Summer}}<hr>{{flagIOCmedalist|[[Maxi Gnauck]]|GDR|1980 Summer}}
+| <ref>{{cite web|title=Moscow 1980 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/moscow-1980/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=24 March 2017|archive-url=https://web.archive.org/web/20170324231919/https://www.olympic.org/moscow-1980/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1980 Summer Olympics – Women's uneven bars|Women's uneven bars]]
+| {{flagIOCmedalist|[[Maxi Gnauck]]|GDR|1980 Summer}}
+| {{flagIOCmedalist|[[Emilia Eberle]]|ROU|1980 Summer}}
+| {{flagIOCmedalist|[[Steffi Kräker]]|GDR|1980 Summer}}<hr>{{flagIOCmedalist|[[Melita Ruhn]]|ROU|1980 Summer}}<hr>{{flagIOCmedalist|[[Maria Filatova]]|URS|1980 Summer}}
+| <ref>{{cite web|title=Moscow 1980 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/moscow-1980/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=24 March 2017|archive-url=https://web.archive.org/web/20170324231919/https://www.olympic.org/moscow-1980/gymnastics-artistic|url-status=live}}</ref>
+|- id="Summer 1984"
+|rowspan=9| {{GamesName|SOG|1984}}
+|rowspan=2| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1984 Summer Olympics|Athletics]]
+| [[Athletics at the 1984 Summer Olympics – Men's pole vault|Men's pole vault]]
+| {{flagIOCmedalist|[[Pierre Quinon]]|FRA|1984 Summer}}
+| {{flagIOCmedalist|[[Mike Tully]]|USA|1984 Summer}}
+| {{flagIOCmedalist|[[Earl Bell (athlete)|Earl Bell]]|USA|1984 Summer}}<hr>{{flagIOCmedalist|[[Thierry Vigneron]]|FRA|1984 Summer}}
+| <ref>{{cite web|title=Athletics at the 1984 Los Angeles Summer Games: Men's Pole Vault|url=https://www.sports-reference.com/olympics/summer/1984/ATH/mens-pole-vault.html|archive-url=https://web.archive.org/web/20200417173928/https://www.sports-reference.com/olympics/summer/1984/ATH/mens-pole-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Athletics at the 1984 Summer Olympics – Women's 100 metres hurdles|Women's 100 metres hurdles]]
+| {{flagIOCmedalist|[[Benita Fitzgerald-Brown|Benita Fitzgerald]]|USA|1984 Summer}}
+| {{flagIOCmedalist|[[Shirley Strong]]|GBR|1984 Summer}}
+| {{flagIOCmedalist|[[Michèle Chardonnet]]|FRA|1984 Summer}}<hr>{{flagIOCmedalist|[[Kim Turner (athlete)|Kim Turner]]|USA|1984 Summer}}
+| <ref>{{cite web|title=Athletics at the 1984 Los Angeles Summer Games: Women's 100 metres Hurdles|url=https://www.sports-reference.com/olympics/summer/1984/ATH/womens-100-metres-hurdles.html|archive-url=https://web.archive.org/web/20200417173121/https://www.sports-reference.com/olympics/summer/1984/ATH/womens-100-metres-hurdles.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=6| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1984 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1984 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[Li Ning]]|CHN|1984 Summer}}
+| {{flagIOCmedalist|[[Lou Yun]]|CHN|1984 Summer}}
+| {{flagIOCmedalist|[[Koji Sotomura]]|JPN|1984 Summer}}<hr>{{flagIOCmedalist|[[Philippe Vatuone]]|FRA|1984 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Men's Floor Exercise|url=https://www.sports-reference.com/olympics/summer/1984/GYM/mens-floor-exercise.html|archive-url=https://web.archive.org/web/20200417183753/https://www.sports-reference.com/olympics/summer/1984/GYM/mens-floor-exercise.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1984 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Li Ning]]|CHN|1984 Summer}}<hr>{{flagIOCmedalist|[[Peter Vidmar]]|USA|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Timothy Daggett]]|USA|1984 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Men's Pommelled Horse|url=https://www.sports-reference.com/olympics/summer/1984/GYM/mens-pommelled-horse.html|archive-url=https://web.archive.org/web/20200417183806/https://www.sports-reference.com/olympics/summer/1984/GYM/mens-pommelled-horse.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1984 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Koji Gushiken]]|JPN|1984 Summer}}<hr>{{flagIOCmedalist|[[Li Ning]]|CHN|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Mitchell Gaylord]]|USA|1984 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Men's Rings|url=https://www.sports-reference.com/olympics/summer/1984/GYM/mens-rings.html|archive-url=https://web.archive.org/web/20200417183605/https://www.sports-reference.com/olympics/summer/1984/GYM/mens-rings.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1984 Summer Olympics – Men's vault|Men's vault]]
+| {{flagIOCmedalist|[[Lou Yun]]|CHN|1984 Summer}}
+| {{flagIOCmedalist|[[Mitchell Gaylord]]|USA|1984 Summer}}<hr>{{flagIOCmedalist|[[Koji Gushiken]]|JPN|1984 Summer}}<hr>{{flagIOCmedalist|[[Shinji Morisue]]|JPN|1984 Summer}}<hr>{{flagIOCmedalist|[[Li Ning]]|CHN|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Men's Horse Vault|url=https://www.sports-reference.com/olympics/summer/1984/GYM/mens-horse-vault.html|archive-url=https://web.archive.org/web/20200417183739/https://www.sports-reference.com/olympics/summer/1984/GYM/mens-horse-vault.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1984 Summer Olympics – Women's balance beam|Women's balance beam]]
+| {{flagIOCmedalist|[[Simona Păucă]]|ROU|1984 Summer}}<hr>{{flagIOCmedalist|[[Ecaterina Szabo]]|ROU|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Kathy Johnson]]|USA|1984 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Women's Balance Beam|url=https://www.sports-reference.com/olympics/summer/1984/GYM/womens-balance-beam.html|archive-url=https://web.archive.org/web/20200418001904/https://www.sports-reference.com/olympics/summer/1984/GYM/womens-balance-beam.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1984 Summer Olympics – Women's uneven bars|Women's uneven bars]]
+| {{flagIOCmedalist|[[Ma Yanhong]]|CHN|1984 Summer}}<hr>{{flagIOCmedalist|[[Julianne McNamara]]|USA|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Mary Lou Retton]]|USA|1984 Summer}}
+| <ref>{{cite web|title=Gymnastics at the 1984 Los Angeles Summer Games: Women's Uneven Bars|url=https://www.sports-reference.com/olympics/summer/1984/GYM/womens-uneven-bars.html|archive-url=https://web.archive.org/web/20200418001904/https://www.sports-reference.com/olympics/summer/1984/GYM/womens-uneven-bars.html|url-status=dead|archive-date=18 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1984 Summer Olympics|Swimming]]
+| [[Swimming at the 1984 Summer Olympics – Women's 100 metre freestyle|Women's 100 metre freestyle]]
+| {{flagIOCmedalist|[[Carrie Steinseifer]]|USA|1984 Summer}}<hr>{{flagIOCmedalist|[[Nancy Hogshead]]|USA|1984 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Annemarie Verstappen]]|NED|1984 Summer}}
+| <ref>{{cite web|title=Los Angeles 1984 Swimming - Results & Videos|url=https://www.olympic.org/los-angeles-1984/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201042843/https://www.olympic.org/los-angeles-1984/swimming|url-status=live}}</ref>
+|- id="Summer 1988"
+|rowspan=7| {{GamesName|SOG|1988}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1988 Summer Olympics|Athletics]]
+| [[Athletics at the 1988 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Hennadiy Avdyeyenko]]|URS|1988 Summer}}
+| {{flagIOCmedalist|[[Hollis Conway]]|USA|1988 Summer}}
+| {{flagIOCmedalist|[[Rudolf Povarnitsyn]]|URS|1988 Summer}}<hr>{{flagIOCmedalist|[[Patrik Sjöberg]]|SWE|1988 Summer}}
+| <ref>{{cite web|title=Athletics at the 1988 Seoul Summer Games: Men's High Jump|url=https://www.sports-reference.com/olympics/summer/1988/ATH/mens-high-jump.html|archive-url=https://web.archive.org/web/20200417172811/https://www.sports-reference.com/olympics/summer/1988/ATH/mens-high-jump.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=5| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1988 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1988 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[Sergei Kharkov]]|URS|1988 Summer}}
+| {{flagIOCmedalist|[[Vladimir Artemov]]|URS|1988 Summer}}
+| {{flagIOCmedalist|[[Lou Yun]]|CHN|1988 Summer}}<hr>{{flagIOCmedalist|[[Yukio Iketani]]|JPN|1988 Summer}}
+| <ref>{{cite web|title=Seoul 1988 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/seoul-1988/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050713/https://www.olympic.org/seoul-1988/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1988 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Vladimir Artemov]]|URS|1988 Summer}}<hr>{{flagIOCmedalist|[[Valeri Liukin]]|URS|1988 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Holger Behrendt]]|GDR|1988 Summer}}<hr>{{flagIOCmedalist|[[Marius Gherman]]|ROU|1988 Summer}}
+| <ref>{{cite web|title=Seoul 1988 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/seoul-1988/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050713/https://www.olympic.org/seoul-1988/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1988 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Lyubomir Gueraskov]]|BUL|1988 Summer}}<hr>{{flagIOCmedalist|[[Zsolt Borkai]]|HUN|1988 Summer}}<hr>{{flagIOCmedalist|[[Dmitri Bilozertchev]]|URS|1988 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| <ref>{{cite web|title=Seoul 1988 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/seoul-1988/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131159/https://olympics.com/en/olympic-games/seoul-1988/results/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1988 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Holger Behrendt]]|GDR|1988 Summer}}<hr>{{flagIOCmedalist|[[Dimitri Bilozertchev]]|URS|1988 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Sven Tippelt]]|GDR|1988 Summer}}
+| <ref>{{cite web|title=Seoul 1988 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/seoul-1988/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050713/https://www.olympic.org/seoul-1988/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1988 Summer Olympics – Women's balance beam|Women's balance beam]]
+| {{flagIOCmedalist|[[Daniela Silivaş]]|ROU|1988 Summer}}
+| {{flagIOCmedalist|[[Elena Shushunova]]|URS|1988 Summer}}
+| {{flagIOCmedalist|[[Gabriela Potorac]]|ROU|1988 Summer}}<hr>{{flagIOCmedalist|[[Phoebe Mills]]|USA|1988 Summer}}
+| <ref>{{cite web|title=Seoul 1988 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/seoul-1988/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050713/https://www.olympic.org/seoul-1988/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1988 Summer Olympics|Swimming]]
+| [[Swimming at the 1988 Summer Olympics – Women's 50 metre freestyle|Women's 50 metre freestyle]]
+| {{flagIOCmedalist|[[Kristin Otto]]|GDR|1988 Summer}}
+| {{flagIOCmedalist|[[Yang Wenyi]]|CHN|1988 Summer}}
+| {{flagIOCmedalist|[[Jill Sterkel]]|USA|1988 Summer}}<hr>{{flagIOCmedalist|[[Katrin Meissner]]|GDR|1988 Summer}}
+| <ref>{{cite web|title=Seoul 1988 Swimming - Results & Videos|url=https://www.olympic.org/seoul-1988/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131327/https://olympics.com/en/olympic-games/seoul-1988/results/swimming|url-status=live}}</ref>
+|- id="Summer 1992"
+|rowspan=10| {{GamesName|SOG|1992}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1992 Summer Olympics|Athletics]]
+| [[Athletics at the 1992 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Javier Sotomayor]]|CUB|1992 Summer}}
+| {{flagIOCmedalist|[[Patrik Sjöberg]]|SWE|1992 Summer}}
+| {{flagIOCmedalist|[[Hollis Conway]]|USA|1992 Summer}}<hr>{{flagIOCmedalist|[[Tim Forsyth]]|AUS|1992 Summer}}<hr>{{flagIOCmedalist|[[Artur Partyka]]|POL|1992 Summer}}
+| <ref>{{cite web|title=Athletics at the 1992 Barcelona Summer Games: Men's High Jump|url=https://www.sports-reference.com/olympics/summer/1992/ATH/mens-high-jump.html|archive-url=https://web.archive.org/web/20200417172728/https://www.sports-reference.com/olympics/summer/1992/ATH/mens-high-jump.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=8| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1992 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1992 Summer Olympics – Men's floor|Men's floor]]
+| {{flagIOCmedalist|[[Li Xiaoshuang]]|CHN|1992 Summer}}
+| {{flagIOCmedalist|[[Yukio Iketani]]|JPN|1992 Summer}}<hr>{{flagIOCmedalist|[[Grigory Misutin]]|EUN|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Trent Dimas]]|USA|1992 Summer}}
+| {{flagIOCmedalist|[[Grigory Misutin]]|EUN|1992 Summer}}<hr>{{flagIOCmedalist|[[Andreas Wecker]]|GER|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Men's parallel bars|Men's parallel bars]]
+| {{flagIOCmedalist|[[Vitaly Scherbo]]|EUN|1992 Summer}}
+| {{flagIOCmedalist|[[Li Jing (gymnast)|Li Jing]]|CHN|1992 Summer}}
+| {{flagIOCmedalist|[[Igor Korobchinski]]|EUN|1992 Summer}}<hr>{{flagIOCmedalist|[[Guo Linyao]]|CHN|1992 Summer}}<hr>{{flagIOCmedalist|[[Masayuki Matsunaga]]|JPN|1992 Summer}}
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Men's pommel horse|Men's pommel horse]]
+| {{flagIOCmedalist|[[Vitaly Scherbo]]|EUN|1992 Summer}}<hr>{{flagIOCmedalist|[[Pae Gil-Su]]|PRK|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Andreas Wecker]]|GER|1992 Summer}}
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Vitaly Scherbo]]|EUN|1992 Summer}}
+| {{flagIOCmedalist|[[Li Jing (gymnast)|Li Jing]]|CHN|1992 Summer}}
+| {{flagIOCmedalist|[[Andreas Wecker]]|GER|1992 Summer}}<hr>{{flagIOCmedalist|[[Li Xiaoshuang]]|CHN|1992 Summer}}
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131249/https://olympics.com/en/olympic-games/barcelona-1992/results/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Women's vault|Women's vault]]
+| {{flagIOCmedalist|[[Lavinia Miloşovici]]|ROM|1992 Summer}}<hr>{{flagIOCmedalist|[[Henrietta Ónodi]]|HUN|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Tatiana Lysenko]]|EUN|1992 Summer}}
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Women's balance beam|Women's balance beam]]
+| {{flagIOCmedalist|[[Tatiana Lysenko]]|EUN|1992 Summer}}
+| {{flagIOCmedalist|[[Lu Li]]|CHN|1992 Summer}}<hr>{{flagIOCmedalist|[[Shannon Miller]]|USA|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Gymnastics at the 1992 Summer Olympics – Women's floor|Women's floor]]
+| {{flagIOCmedalist|[[Lavinia Miloşovici]]|ROM|1992 Summer}}
+| {{flagIOCmedalist|[[Henrietta Ónodi]]|HUN|1992 Summer}}
+| {{flagIOCmedalist|[[Cristina Bontaş]]|ROM|1992 Summer}}<hr>{{flagIOCmedalist|[[Shannon Miller]]|USA|1992 Summer}}<hr>{{flagIOCmedalist|[[Tatiana Gutsu]]|EUN|1992 Summer}}
+| <ref>{{cite web|title=Barcelona 1992 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/barcelona-1992/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323220520/https://www.olympic.org/barcelona-1992/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Image:Synchronized swimming pictogram.svg|25px]] [[Synchronized swimming at the 1992 Summer Olympics|Synchronized swimming]]
+| [[Synchronized swimming at the 1992 Summer Olympics – Women's solo|Women's solo]]
+| {{flagIOCmedalist|[[Kristen Babb-Sprague]]|USA|1992 Summer}}<hr>{{flagIOCmedalist|[[Sylvie Fréchette]]|CAN|1992 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Fumiko Okuno]]|JPN|1992 Summer}}
+| <ref>{{cite web|title=Synchronized Swimming at the 1992 Barcelona Summer Games: Women's Solo|url=https://www.sports-reference.com/olympics/summer/1992/SYN/womens-solo.html|archive-url=https://web.archive.org/web/20200417212930/https://www.sports-reference.com/olympics/summer/1992/SYN/womens-solo.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Summer 1996"
+|rowspan=4| {{GamesName|SOG|1996}}
+|rowspan=4| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1996 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 1996 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Andreas Wecker]]|GER|1996 Summer}}
+| {{flagIOCmedalist|[[Krasimir Dounev]]|BUL|1996 Summer}}
+| {{flagIOCmedalist|[[Fan Bin]]|CHN|1996 Summer}}<hr>{{flagIOCmedalist|[[Alexei Nemov]]|RUS|1996 Summer}}<hr>{{flagIOCmedalist|[[Vitaly Scherbo]]|BLR|1996 Summer}}
+| <ref>{{cite web|title=Atlanta 1996 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/atlanta-1996/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323215400/https://www.olympic.org/atlanta-1996/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1996 Summer Olympics – Men's rings|Men's rings]]
+| {{flagIOCmedalist|[[Yuri Chechi]]|ITA|1996 Summer}}
+| {{flagIOCmedalist|[[Szilveszter Csollány]]|HUN|1996 Summer}}<hr>{{flagIOCmedalist|[[Dan Burincă]]|ROU|1996 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Atlanta 1996 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/atlanta-1996/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323215400/https://www.olympic.org/atlanta-1996/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1996 Summer Olympics – Women's artistic individual all-around|Women's artistic individual all-around]]
+| {{flagIOCmedalist|[[Lilia Podkopayeva]]|UKR|1996 Summer}}
+| {{flagIOCmedalist|[[Gina Gogean]]|ROU|1996 Summer}}
+| {{flagIOCmedalist|[[Simona Amânar]]|ROU|1996 Summer}}<hr>{{flagIOCmedalist|[[Lavinia Miloşovici]]|ROU|1996 Summer}}
+| <ref>{{cite web|title=Atlanta 1996 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/atlanta-1996/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323215400/https://www.olympic.org/atlanta-1996/gymnastics-artistic|url-status=live}}</ref>
+|-
+| [[Gymnastics at the 1996 Summer Olympics – Women's uneven bars|Women's uneven bars]]
+| {{flagIOCmedalist|[[Svetlana Khorkina]]|RUS|1996 Summer}}
+| {{flagIOCmedalist|[[Bi Wenjing]]|CHN|1996 Summer}}<hr>{{flagIOCmedalist|[[Amy Chow]]|USA|1996 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Atlanta 1996 Gymnastics Artistic - Results & Videos|url=https://www.olympic.org/atlanta-1996/gymnastics-artistic|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323215400/https://www.olympic.org/atlanta-1996/gymnastics-artistic|url-status=live}}</ref>
+|- id="Summer 2000"
+|rowspan=4| {{GamesName|SOG|2000}}
+|rowspan=2| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Women's 100 metres|Women's 100 metres]]
+| ''Not awarded''<br><span style="font-size:85%">due to medal re-awarding.</span>
+| {{flagIOCmedalist|[[Ekaterini Thanou]]|GRE|2000 Summer}}<hr>{{flagIOCmedalist|[[Tayna Lawrence]]|JAM|2000 Summer}}
+| {{flagIOCmedalist|[[Merlene Ottey]]|JAM|2000 Summer}}
+| <ref>{{cite web|title=Athletics at the 2000 Sydney Summer Games: Women's 100 metres|url=https://www.sports-reference.com/olympics/summer/2000/ATH/womens-100-metres.html|archive-url=https://web.archive.org/web/20200417173401/https://www.sports-reference.com/olympics/summer/2000/ATH/womens-100-metres.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref><ref group=note>[[Marion Jones]] of the United States admitted to having taken performance enhancing drugs prior to the 2000 Summer Olympics and was stripped of her gold medal in 2007. The IOC did not initially decide to regrade the results, as silver medalist [[Ekaterini Thanou]] had herself been subsequently involved in a doping scandal in the run-up to the 2004 Summer Olympics. After two years of deliberation, in late 2009, the IOC decided to upgrade [[Tayna Lawrence]] and [[Merlene Ottey]] to silver and bronze respectively, and leave Thanou as a silver medallist, with the gold medal withheld.</ref>
+|-
+| [[Athletics at the 2000 Summer Olympics – Women's high jump|Women's high jump]]
+| {{flagIOCmedalist|[[Yelena Yelesina]]|RUS|2000 Summer}}
+| {{flagIOCmedalist|[[Hestrie Cloete]]|RSA|2000 Summer}}
+| {{flagIOCmedalist|[[Kajsa Bergqvist]]|SWE|2000 Summer}}<hr>{{flagIOCmedalist|[[Oana Pantelimon]]|ROU|2000 Summer}}
+| <ref>{{cite web|title=Athletics at the 2000 Sydney Summer Games: Women's High Jump|url=https://www.sports-reference.com/olympics/summer/2000/ATH/womens-high-jump.html|archive-url=https://web.archive.org/web/20200417174250/https://www.sports-reference.com/olympics/summer/2000/ATH/womens-high-jump.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|rowspan=2| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 50 metre freestyle|Men's 50 metre freestyle]]
+| {{flagIOCmedalist|[[Anthony Ervin]]|USA|2000 Summer}}<hr>{{flagIOCmedalist|[[Gary Hall, Jr.]]|USA|2000 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Pieter van den Hoogenband]]|NED|2000 Summer}}
+| <ref>{{cite web|title=Sydney 2000 Swimming - Results & Videos|url=https://www.olympic.org/sydney-2000/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323214457/https://www.olympic.org/sydney-2000/swimming|url-status=live}}</ref>
+|-
+| [[Swimming at the 2000 Summer Olympics – Women's 100 metre freestyle|Women's 100 metre freestyle]]
+| {{flagIOCmedalist|[[Inge de Bruijn]]|NED|2000 Summer}}
+| {{flagIOCmedalist|[[Therese Alshammar]]|SWE|2000 Summer}}
+| {{flagIOCmedalist|[[Dara Torres]]|USA|2000 Summer}}<hr>{{flagIOCmedalist|[[Jenny Thompson]]|USA|2000 Summer}}
+| <ref>{{cite web|title=Sydney 2000 Swimming - Results & Videos|url=https://www.olympic.org/sydney-2000/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2018|archive-url=https://web.archive.org/web/20180323214457/https://www.olympic.org/sydney-2000/swimming|url-status=live}}</ref>
+|- id="Summer 2004"
+| {{GamesName|SOG|2004}}
+| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2004 Summer Olympics|Swimming]]
+| [[Swimming at the 2004 Summer Olympics – Women's 200 metre backstroke|Women's 200 metre backstroke]]
+| {{flagIOCmedalist|[[Kirsty Coventry]]|ZIM|2004 Summer}}
+| {{flagIOCmedalist|[[Stanislava Komarova]]|RUS|2004 Summer}}
+| {{flagIOCmedalist|[[Antje Buschschulte]]|GER|2004 Summer}}<hr>{{flagIOCmedalist|[[Reiko Nakamura]]|JPN|2004 Summer}}
+| <ref>{{cite web|title=Athens 2004 Swimming - Results & Videos|url=https://www.olympic.org/athens-2004/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=10 August 2020|archive-url=https://web.archive.org/web/20200810063740/https://www.olympic.org/athens-2004/swimming|url-status=live}}</ref>
+|- id="Summer 2008"
+|rowspan=3| {{GamesName|SOG|2008}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2008 Summer Olympics|Athletics]]
+| [[Athletics at the 2008 Summer Olympics – Women's 100 metres|Women's 100 metres]]
+| {{flagIOCmedalist|[[Shelly-Ann Fraser]]|JAM|2008 Summer}}
+| {{flagIOCmedalist|[[Sherone Simpson]]|JAM|2008 Summer}}<hr>{{flagIOCmedalist|[[Kerron Stewart]]|JAM|2008 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Beijing 2008 Athletics - Results & Videos|url=https://www.olympic.org/beijing-2008/athletics|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=23 March 2019|archive-url=https://web.archive.org/web/20190323032956/https://www.olympic.org/beijing-2008/athletics|url-status=live}}</ref>
+|-
+|rowspan=2| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2008 Summer Olympics|Swimming]]
+| [[Swimming at the 2008 Summer Olympics – Men's 100 metre freestyle|Men's 100 metre freestyle]]
+| {{flagIOCmedalist|[[Alain Bernard]]|FRA|2008 Summer}}
+| {{flagIOCmedalist|[[Eamon Sullivan]]|AUS|2008 Summer}}
+| {{flagIOCmedalist|[[Jason Lezak]]|USA|2008 Summer}}<hr>{{flagIOCmedalist|[[César Cielo]]|BRA|2008 Summer}}
+| <ref>{{cite web|title=Beijing 2008 Swimming - Results & Videos|url=https://www.olympic.org/beijing-2008/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201044910/https://www.olympic.org/beijing-2008/swimming|url-status=live}}</ref>
+|-
+| [[Swimming at the 2008 Summer Olympics – Men's 100 metre backstroke|Men's 100 metre backstroke]]
+| {{flagIOCmedalist|[[Aaron Peirsol]]|USA|2008 Summer}}
+| {{flagIOCmedalist|[[Matt Grevers]]|USA|2008 Summer}}
+| {{flagIOCmedalist|[[Arkady Vyatchanin]]|RUS|2008 Summer}}<hr>{{flagIOCmedalist|[[Hayden Stoeckel]]|AUS|2008 Summer}}
+| <ref>{{cite web|title=Beijing 2008 Swimming - Results & Videos|url=https://www.olympic.org/beijing-2008/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131715/https://olympics.com/en/olympic-games/beijing-2008/results/swimming|url-status=live}}</ref>
+|- id="Summer 2012"
+|rowspan=5| {{GamesName|SOG|2012}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2012 Summer Olympics|Athletics]]
+| [[Athletics at the 2012 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Erik Kynard]]|USA|2012 Summer}}
+| {{flagIOCmedalist|[[Mutaz Essa Barshim]]|QAT|2012 Summer}}<hr>{{flagIOCmedalist|[[Derek Drouin]]|CAN|2012 Summer}}<hr>{{flagIOCmedalist|[[Robert Grabarz]]|GBR|2012 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver and medal re-awarding.</span>
+| <ref>{{cite web|title=London 2012 Athletics - Results & Videos|url=https://www.olympic.org/london-2012/athletics|website=International Olympic Committee|access-date=17 January 2023|language=en|archive-date=9 January 2020|archive-url=https://web.archive.org/web/20200109021919/https://www.olympic.org/london-2012/athletics|url-status=live}}</ref><ref group=note>[[Ivan Ukhov]] of Russia was stripped of his gold medal for doping offences in 2019.</ref>
+|-
+| [[Image:Cycling pictogram.svg|25px]] [[Cycling at the 2012 Summer Olympics|Cycling]]
+| [[Cycling at the 2012 Summer Olympics – Men's keirin|Men's keirin]]
+| {{flagIOCmedalist|[[Chris Hoy]]|GBR|2012 Summer}}
+| {{flagIOCmedalist|[[Maximilian Levy]]|GER|2012 Summer}}
+| {{flagIOCmedalist|[[Simon van Velthooven]]|NZL|2012 Summer}}<hr>{{flagIOCmedalist|[[Teun Mulder]]|NED|2012 Summer}}
+| <ref>{{cite web|title=London 2012 Cycling Track - Results & Videos|url=https://www.olympic.org/london-2012/cycling-track|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073403/https://www.olympic.org/london-2012/cycling-track|url-status=live}}</ref>
+|-
+|rowspan=2| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2012 Summer Olympics|Swimming]]
+| [[Swimming at the 2012 Summer Olympics – Men's 200 metre freestyle|Men's 200 metre freestyle]]
+| {{flagIOCmedalist|[[Yannick Agnel]]|FRA|2012 Summer}}
+| {{flagIOCmedalist|[[Sun Yang]]|CHN|2012 Summer}}<hr>{{flagIOCmedalist|[[Park Tae-Hwan]]|KOR|2012 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Swimming at the 2012 London Summer Games: Men's 200 metres Freestyle|url=https://www.sports-reference.com/olympics/summer/2012/SWI/mens-200-metres-freestyle.html|archive-url=https://web.archive.org/web/20200417082308/https://www.sports-reference.com/olympics/summer/2012/SWI/mens-200-metres-freestyle.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Swimming at the 2012 Summer Olympics – Men's 100 metre butterfly|Men's 100 metre butterfly]]
+| {{flagIOCmedalist|[[Michael Phelps]]|USA|2012 Summer}}
+| {{flagIOCmedalist|[[Chad le Clos]]|RSA|2012 Summer}}<hr>{{flagIOCmedalist|[[Yevgeny Korotyshkin]]|RUS|2012 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Swimming at the 2012 London Summer Games: Men's 100 metres Butterfly|url=https://www.sports-reference.com/olympics/summer/2012/SWI/mens-100-metres-butterfly.html|archive-url=https://web.archive.org/web/20200417121951/https://www.sports-reference.com/olympics/summer/2012/SWI/mens-100-metres-butterfly.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+|[[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2012 Summer Olympics|Wrestling]]
+| [[Wrestling at the 2012 Summer Olympics – Men's freestyle 120 kg|Men's freestyle 120 kg]]
+|{{flagIOCmedalist|[[Komeil Ghasemi]]|IRI|2012 Summer}}<hr>{{flagIOCmedalist|[[Bilyal Makhov]]|RUS|2012 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+|{{flagIOCmedalist|[[Tervel Dlagnev]]|USA|2012 Summer}}<hr>{{flagIOCmedalist|[[Daulet Shabanbay]]|KAZ|2012 Summer}}<br><span style="font-size:85%">(awarded due to [[repechage]])</span>
+|<ref>{{cite web|title=London 2012Wrestling Freestyle 120kg men Results|url=https://olympics.com/en/olympic-games/london-2012/results/wrestling/freestyle-120kg-men|website=International Olympic Committee|access-date=17 January 2023|language=en|archive-date=15 July 2020|archive-url=https://web.archive.org/web/20200715080539/https://www.olympic.org/london-2012/wrestling/freestyle-120kg-men|url-status=live}}</ref>
+|- id="Summer 2016"
+|rowspan=4| {{GamesName|SOG|2016}}
+| [[Image:Canoeing pictogram.svg|25px]] [[Canoeing at the 2016 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2016 Summer Olympics – Men's K-1 200 metres|Men's K-1 200 metres]]
+| {{flagIOCmedalist|[[Liam Heath]]|GBR|2016 Summer}}
+| {{flagIOCmedalist|[[Maxime Beaumont]]|FRA|2016 Summer}}
+| {{flagIOCmedalist|[[Saúl Craviotto]]|ESP|2016 Summer}}<hr>{{flagIOCmedalist|[[Ronald Rauhe]]|GER|2016 Summer}}
+| <ref>{{cite web|title=Rio 2016 Canoe Sprint - Results & Videos|url=https://www.olympic.org/rio-2016/canoe-sprint|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=24 January 2021|archive-url=https://web.archive.org/web/20210124170646/https://www.olympic.org/rio-2016/canoe-sprint|url-status=live}}</ref>
+|-
+|rowspan=3| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2016 Summer Olympics|Swimming]]
+| [[Swimming at the 2016 Summer Olympics – Men's 100 metre butterfly|Men's 100 metre butterfly]]
+| {{flagIOCmedalist|[[Joseph Schooling]]|SIN|2016 Summer}}
+| {{flagIOCmedalist|[[Michael Phelps]]|USA|2016 Summer}}<hr>{{flagIOCmedalist|[[Chad le Clos]]|RSA|2016 Summer}}<hr>{{flagIOCmedalist|[[László Cseh]]|HUN|2016 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Rio 2016 Swimming - Results & Videos|url=https://www.olympic.org/rio-2016/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=20 September 2019|archive-url=https://web.archive.org/web/20190920150317/https://www.olympic.org/rio-2016/swimming|url-status=live}}</ref>
+|-
+| [[Swimming at the 2016 Summer Olympics – Women's 100 metre freestyle|Women's 100 metre freestyle]]
+| {{flagIOCmedalist|[[Simone Manuel]]|USA|2016 Summer}}<hr>{{flagIOCmedalist|[[Penny Oleksiak]]|CAN|2016 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Sarah Sjöström]]|SWE|2016 Summer}}
+| <ref>{{cite web|title=Rio 2016 Swimming - Results & Videos|url=https://www.olympic.org/rio-2016/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=20 September 2019|archive-url=https://web.archive.org/web/20190920150317/https://www.olympic.org/rio-2016/swimming|url-status=live}}</ref>
+|-
+| [[Swimming at the 2016 Summer Olympics – Women's 100 metre backstroke|Women's 100 metre backstroke]]
+| {{flagIOCmedalist|[[Katinka Hosszú]]|HUN|2016 Summer}}
+| {{flagIOCmedalist|[[Kathleen Baker]]|USA|2016 Summer}}
+| {{flagIOCmedalist|[[Kylie Masse]]|CAN|2016 Summer}}<hr>{{flagIOCmedalist|[[Fu Yuanhui]]|CHN|2016 Summer}}
+| <ref>{{cite web|title=Rio 2016 Swimming - Results & Videos|url=https://www.olympic.org/rio-2016/swimming|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=20 September 2019|archive-url=https://web.archive.org/web/20190920150317/https://www.olympic.org/rio-2016/swimming|url-status=live}}</ref>
+|- id="Summer 2020"
+|rowspan=2| {{GamesName|SOG|2020}}
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2020 Summer Olympics|Athletics]]
+| [[Athletics at the 2020 Summer Olympics – Men's high jump|Men's high jump]]
+| {{flagIOCmedalist|[[Gianmarco Tamberi]]|ITA|2020 Summer}}<hr>{{flagIOCmedalist|[[Mutaz Essa Barshim]]|QAT|2020 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Maksim Nedasekau]]|BLR|2020 Summer}}
+| <ref>{{cite web |title=Athletics - Final Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-high-jump-fnl-000100-.htm |website=Tokyo 2020 |publisher=International Olympic Committee (IOC) |access-date=August 2, 2021 |language=en-us |archive-date=July 22, 2021 |archive-url=https://web.archive.org/web/20210722145337/https://olympics.com/tokyo-2020/olympic-games/en/results/athletics/result-men-s-high-jump-fnl-000100-.htm |url-status=dead }}</ref>
+|-
+| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2020 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 2020 Summer Olympics – Women's floor|Women's floor]]
+| {{flagIOCmedalist|[[Jade Carey]]|USA|2020 Summer}}
+| {{flagIOCmedalist|[[Vanessa Ferrari]]|ITA|2020 Summer}}
+| {{flagIOCmedalist|[[Mai Murakami]]|JPN|2020 Summer}}<hr>{{flagIOCmedalist|[[Angelina Melnikova]]|RUS|2020 Summer}}
+| <ref>{{cite web |title=Artistic Gymnastic - Final Results |url=https://olympics.com/tokyo-2020/olympic-games/en/results/artistic-gymnastics/results-women-s-floor-exercise-fnl-000001-.htm |website=Tokyo 2020 |publisher=International Olympic Committee (IOC) |access-date=August 2, 2021 |language=en-us |archive-date=August 2, 2021 |archive-url=https://web.archive.org/web/20210802082137/https://olympics.com/tokyo-2020/olympic-games/en/results/artistic-gymnastics/results-women-s-floor-exercise-fnl-000001-.htm |url-status=dead }}</ref>
+|- id="Summer 2024"
+|rowspan=4| {{GamesName|SOG|2024}}
+| [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2024 Summer Olympics|Swimming]]
+| [[Swimming at the 2024 Summer Olympics – Men's 100 metre breaststroke|Men's 100 metre breaststroke]]
+| {{flagIOCmedalist|[[Nicolò Martinenghi]]|ITA|2024 Summer}}
+| {{flagIOCmedalist|[[Adam Peaty]]|GBR|2024 Summer}}<hr>{{flagIOCmedalist|[[Nic Fink]]|USA|2024 Summer}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web |title=Men's 100m Breaststroke Final - Swimming |url=https://olympics.com/en/paris-2024/results/swimming/men-s-100m-breaststroke/fnl-000100-- |website=International Olympic Committee |access-date=August 5, 2024 |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728231152/https://olympics.com/en/paris-2024/results/swimming/men-s-100m-breaststroke/fnl-000100-- |url-status=live }}</ref>
+|-
+| [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2024 Summer Olympics|Athletics]]
+| [[Athletics at the 2024 Summer Olympics – Women's high jump|Women's high jump]]
+| {{flagIOCmedalist|[[Yaroslava Mahuchikh]]|UKR|2024 Summer}}
+| {{flagIOCmedalist|[[Nicola Olyslagers]]|AUS|2024 Summer}}
+| {{flagIOCmedalist|[[Iryna Herashchenko (athlete)|Iryna Herashchenko]]|UKR|2024 Summer}}<hr>{{flagIOCmedalist|[[Eleanor Patterson]]|AUS|2024 Summer}}
+| <ref>{{cite web |title=Women's High Jump Final - Athletics |url=https://olympics.com/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100-- |website=International Olympic Committee |access-date=August 5, 2024 |archive-date=August 5, 2024 |archive-url=https://web.archive.org/web/20240805001547/https://olympics.com/en/paris-2024/results/athletics/women-s-high-jump/fnl-000100-- |url-status=live }}</ref>
+|-
+| [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2024 Summer Olympics|Gymnastics]]
+| [[Gymnastics at the 2024 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+| {{flagIOCmedalist|[[Shinnosuke Oka]]|JPN|2024 Summer}}
+| {{flagIOCmedalist|[[Ángel Barajas]]|COL|2024 Summer}}
+| {{flagIOCmedalist|[[Zhang Boheng]]|CHN|2024 Summer}}<hr>{{flagIOCmedalist|[[Tang Chia-hung]]|TPE|2024 Summer}}
+| <ref>{{cite web |title=Men's Horizontal Bar Final - Artistic Gymnastics |url=https://olympics.com/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001-- |website=International Olympic Committee |access-date=August 5, 2024 |archive-date=July 29, 2024 |archive-url=https://web.archive.org/web/20240729094528/https://olympics.com/en/paris-2024/results/artistic-gymnastics/men-s-horizontal-bar/fnl-000001-- |url-status=live }}</ref>
+|-
+| [[Image:Canoeing pictogram.svg|25px]] [[Canoeing at the 2024 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2024 Summer Olympics – Women's K-2 500 metres|Women's K-2 500 metres]]
+| {{flagIOC|NZL|2024 Summer}}<br>[[Lisa Carrington]]<br/>[[Alicia Hoskin]]
+| {{flagIOC|HUN|2024 Summer}}<br>[[Tamara Csipes]]<br/>[[Alida Dóra Gazsó]]
+| {{flagIOC|GER|2024 Summer}}<br>[[Paulina Paszek]]<br/>[[Jule Hake]]<hr>{{flagIOC|HUN|2024 Summer}}<br>[[Noémi Pupp]]<br/>[[Sára Fojt]]
+| <ref>{{cite web |title=Women's Kayak Double 500m Finals - Canoe Sprint |url=https://olympics.com/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl--------- |website=International Olympic Committee |access-date=August 11, 2024 |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814000818/https://olympics.com/en/paris-2024/results/canoe-sprint/women-s-kayak-double-500m/fnl--------- |url-status=live }}</ref>
+|}
+
+== List of ties at the Winter Olympics ==
+
+{{TOC top|title=|primary=false}}
+* [[#Winter 1924|1924]]
+* [[#Winter 1928|1928]]
+* [[#Winter 1948|1948]]
+* [[#Winter 1952|1952]]
+* [[#Winter 1956|1956]]
+* [[#Winter 1960|1960]]
+* [[#Winter 1964|1964]]
+* [[#Winter 1968|1968]]
+* [[#Winter 1972|1972]]
+* [[#Winter 1980|1980]]
+* [[#Winter 1992|1992]]
+* [[#Winter 1998|1998]]
+* [[#Winter 2002|2002]]
+* [[#Winter 2010|2010]]
+* [[#Winter 2014|2014]]
+* [[#Winter 2018|2018]]
+{{TOC bottom}}
+
+{| class="wikitable sortable"
+|-
+! Games
+! Sport
+! Event
+!style="background-color:gold; width: 200px;" class="unsortable"|Gold
+!style="background-color:silver; width: 200px;" class="unsortable"|Silver
+!style="background-color:#cc9966; width: 200px;" class="unsortable"|Bronze
+! class="unsortable"|{{Tooltip|Ref.|References}}
+|- id="Winter 1924"
+| {{GamesName|WOG|1924}}
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1924 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1924 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Charles Jewtraw]]|USA|1924 Winter}}
+| {{flagIOCmedalist|[[Oskar Olsen]]|NOR|1924 Winter}}
+| {{flagIOCmedalist|[[Roald Larsen]]|NOR|1924 Winter}}<hr>{{flagIOCmedalist|[[Clas Thunberg]]|FIN|1924 Winter}}
+| <ref>{{cite web|title=Chamonix 1924 500m men - Olympic Speed skating|url=https://www.olympic.org/chamonix-1924/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=25 December 2018|archive-url=https://web.archive.org/web/20181225173159/https://www.olympic.org/chamonix-1924/speed-skating/500m-men%20|url-status=live}}</ref>
+|- id="Winter 1928"
+| {{GamesName|WOG|1928}}
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1924 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1928 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Bernt Evensen]]|NOR|1928 Winter}}<hr>{{flagIOCmedalist|[[Clas Thunberg]]|FIN|1928 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[John Farrell (speed skating)|John Farrell]]|USA|1928 Winter}}<hr>{{flagIOCmedalist|[[Jaakko Friman]]|FIN|1928 Winter}}<hr>{{flagIOCmedalist|[[Roald Larsen]]|NOR|1928 Winter}}
+| <ref>{{cite web|title=St. Moritz 1928 500m men - Olympic Speed skating|url=https://www.olympic.org/st-moritz-1928/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201044519/https://www.olympic.org/st-moritz-1928/speed-skating/500m-men|url-status=live}}</ref>
+|- id="Winter 1948"
+|rowspan=2| {{GamesName|WOG|1948}}
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 1948 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 1948 Winter Olympics – Men's downhill|Men's downhill]]
+| {{flagIOCmedalist|[[Henri Oreiller]]|FRA|1948 Winter}}
+| {{flagIOCmedalist|[[Franz Gabl]]|AUT|1948 Winter}}
+| {{flagIOCmedalist|[[Rolf Olinger]]|SUI|1948 Winter}}<hr>{{flagIOCmedalist|[[Karl Molitor]]|SUI|1948 Winter}}
+| <ref>{{cite web|title=St. Moritz 1948 downhill men - Olympic Alpine Skiing|url=https://www.olympic.org/st-moritz-1948/alpine-skiing/downhill-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=26 March 2017|archive-url=https://web.archive.org/web/20170326203009/https://www.olympic.org/st-moritz-1948/alpine-skiing/downhill-men|url-status=live}}</ref>
+|-
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1948 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1948 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Finn Helgesen]]|NOR|1948 Winter}}
+| {{flagIOCmedalist|[[Ken Bartholomew]]|USA|1948 Winter}}<hr>{{flagIOCmedalist|[[Thomas Byberg]]|NOR|1948 Winter}}<hr>{{flagIOCmedalist|[[Robert Fitzgerald (speed skater)|Robert Fitzgerald]]|USA|1948 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=St. Moritz 1948 500m men - Olympic Speed skating|url=https://www.olympic.org/st-moritz-1948/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201053132/https://www.olympic.org/st-moritz-1948/speed-skating/500m-men|url-status=live}}</ref>
+|- id="Winter 1952"
+| {{GamesName|WOG|1952}}
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1952 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1952 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Ken Henry (speed skater)|Ken Henry]]|USA|1952 Winter}}
+| {{flagIOCmedalist|[[Don McDermott]]|USA|1952 Winter}}
+| {{flagIOCmedalist|[[Gordon Audley]]|CAN|1952 Winter}}<hr>{{flagIOCmedalist|[[Arne Johansen]]|NOR|1952 Winter}}
+| <ref>{{cite web|title=Oslo 1952 500m men - Olympic Speed skating|url=https://www.olympic.org/oslo-1952/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=26 March 2017|archive-url=https://web.archive.org/web/20170326200019/https://www.olympic.org/oslo-1952/speed-skating/500m-men|url-status=live}}</ref>
+|- id="Winter 1956"
+| {{GamesName|WOG|1956}}
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1956 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1956 Winter Olympics – Men's 1500 metres|Men's 1500 metres]]
+| {{flagIOCmedalist|[[Yevgeny Grishin (speed skater)|Yevgeny Grishin]]|URS|1956 Winter}}<hr>{{flagIOCmedalist|[[Yuri Mikhaylov]]|URS|1956 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Toivo Salonen]]|FIN|1956 Winter}}
+| <ref>{{cite web|title=Cortina d'Ampezzo 1956 1500m men - Olympic Speed skating|url=https://www.olympic.org/cortina-d-ampezzo-1956/speed-skating/1500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050623/https://www.olympic.org/cortina-d-ampezzo-1956/speed-skating/1500m-men|url-status=live}}</ref>
+|- id="Winter 1960"
+| {{GamesName|WOG|1960}}
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1960 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1960 Winter Olympics – Men's 1500 metres|Men's 1500 metres]]
+| {{flagIOCmedalist|[[Roald Aas]]|NOR|1960 Winter}}<hr>{{flagIOCmedalist|[[Yevgeny Grishin (speed skater)|Yevgeny Grishin]]|URS|1960 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Boris Stenin]]|URS|1960 Winter}}
+| <ref>{{cite web|title=Squaw Valley 1960 1500m men - Olympic Speed skating|url=https://www.olympic.org/squaw-valley-1960/speed-skating/1500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073435/https://www.olympic.org/squaw-valley-1960/speed-skating/1500m-men|url-status=live}}</ref>
+|- id="Winter 1964"
+|rowspan=4| {{GamesName|WOG|1964}}
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 1964 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 1964 Winter Olympics – Women's giant slalom|Women's giant slalom]]
+| {{flagIOCmedalist|[[Marielle Goitschel]]|FRA|1964 Winter}}
+| {{flagIOCmedalist|[[Christine Goitschel]]|FRA|1964 Winter}}<hr>{{flagIOCmedalist|[[Jean Saubert]]|USA|1964 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Innsbruck 1964 giant slalom women - Olympic Alpine Skiing|url=https://www.olympic.org/innsbruck-1964/alpine-skiing/giant-slalom-women|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201034937/https://www.olympic.org/innsbruck-1964/alpine-skiing/giant-slalom-women|url-status=live}}</ref>
+|-
+| [[Image:Figure skating pictogram.svg|25px]] [[Figure skating at the 1964 Winter Olympics|Figure skating]]
+| [[Figure skating at the 1964 Winter Olympics#Pairs|Pairs]]
+| {{flagIOC|URS|1964 Winter}}<br>[[Ludmila Belousova]]<br>[[Oleg Protopopov]]
+| {{flagIOC|EUA|1964 Winter}}<br>[[Marika Kilius]]<br>[[Hans-Jürgen Bäumler]]<hr>{{flagIOC|CAN|1964 Winter}}<br>[[Debbi Wilkes]]<br>[[Guy Revell]]
+| {{flagIOC|USA|1964 Winter}}<br>[[Vivian Joseph]]<br>[[Ronald Joseph (figure skater)|Ronald Joseph]] 
+| <ref>{{cite web|title=Innsbruck 1964 Pairs mixed - Olympic Figure skating|url=https://www.olympic.org/innsbruck-1964/figure-skating/pairs-mixed|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131743/https://olympics.com/ioc|url-status=live}}</ref><ref group=note>In 1966, [[Marika Kilius]] and [[Hans-Jürgen Bäumler]]'s results were invalidated after it was discovered that they had signed professional contracts before the Olympics. At the time, only amateurs were allowed to compete in the Olympic Games. The silver medals were transferred to [[Debbi Wilkes]] and [[Guy Revell]] and the bronze medals to [[Vivian Joseph]] and [[Ronald Joseph (figure skater)|Ronald Joseph]]. Kilius and Bäumler were re-awarded the silvers in 1987, after appealing that other pairs had signed similar contracts but had not been exposed and disqualified. The placements of Wilkes/Revell and Joseph/Joseph remained unclear for many years. In December 2013, the IOC clarified that Wilkes/Revell had not been stripped of their silver after the Germans regained their medals. In November 2014, the IOC stated that both Kilius/Bäumler and Wilkes/Revell are the silver medalists and Joseph/Joseph are the bronze medalists.</ref>
+|-
+|rowspan=2| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1964 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1964 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Terry McDermott (speed skater)|Terry McDermott]]|USA|1964 Winter}}
+| {{flagIOCmedalist|[[Alv Gjestvang]]|NOR|1964 Winter}}<hr>{{flagIOCmedalist|[[Yevgeny Grishin (speed skater)|Yevgeny Grishin]]|URS|1964 Winter}}<hr>{{flagIOCmedalist|[[Vladimir Orlov (speed skater)|Vladimir Orlov]]|URS|1964 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Innsbruck 1964 500m men - Olympic Speed skating|url=https://www.olympic.org/innsbruck-1964/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073313/https://www.olympic.org/innsbruck-1964/speed-skating/500m-men|url-status=live}}</ref>
+|-
+| [[Speed skating at the 1964 Winter Olympics – Women's 3000 metres|Women's 3000 metres]]
+| {{flagIOCmedalist|[[Lidiya Skoblikova]]|URS|1964 Winter}}
+| {{flagIOCmedalist|[[Han Pil-Hwa]]|PRK|1964 Winter}}<hr>{{flagIOCmedalist|[[Valentina Stenina]]|URS|1964 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Innsbruck 1964 3000m women - Olympic Speed skating|url=https://www.olympic.org/innsbruck-1964/speed-skating/3000m-women|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201044431/https://www.olympic.org/innsbruck-1964/speed-skating/3000m-women|url-status=live}}</ref>
+|- id="Winter 1968"
+|rowspan=3| {{GamesName|WOG|1968}}
+|rowspan=3| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1968 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1968 Winter Olympics – Women's 500 metres|Women's 500 metres]]
+| {{flagIOCmedalist|[[Lyudmila Titova]]|URS|1968 Winter}}
+| {{flagIOCmedalist|[[Jenny Fish]]|USA|1968 Winter}}<hr>{{flagIOCmedalist|[[Dianne Holum]]|USA|1968 Winter}}<hr>{{flagIOCmedalist|[[Mary Meyers]]|USA|1968 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Grenoble 1968 Olympic Games|url=https://www.olympic.org/grenoble-1968/speed-skating/500m-women|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073412/https://www.olympic.org/grenoble-1968/speed-skating/500m-women|url-status=live}}</ref>
+|-
+| [[Speed skating at the 1968 Winter Olympics – Men's 1500 metres|Men's 1500 metres]]
+| {{flagIOCmedalist|[[Kees Verkerk]]|NED|1968 Winter}}
+| {{flagIOCmedalist|[[Ivar Eriksen]]|NOR|1968 Winter}}<hr>{{flagIOCmedalist|[[Ard Schenk]]|NED|1968 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Grenoble 1968 Olympic Games|url=https://www.olympic.org/grenoble-1968/speed-skating/1500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201073326/https://www.olympic.org/grenoble-1968/speed-skating/1500m-men|url-status=live}}</ref>
+|-
+| [[Speed skating at the 1968 Winter Olympics – Men's 500 metres|Men's 500 metres]]
+| {{flagIOCmedalist|[[Erhard Keller]]|FRG|1968 Winter}}
+| {{flagIOCmedalist|[[Terry McDermott (speed skater)|Terry McDermott]]|USA|1968 Winter}}<hr>{{flagIOCmedalist|[[Magne Thomassen]]|NOR|1968 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Grenoble 1968 Olympic Games|url=https://www.olympic.org/grenoble-1968/speed-skating/500m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131726/https://olympics.com/en/olympic-games/grenoble-1968/results/speed-skating/500m-men|url-status=live}}</ref>
+|- id="Winter 1972"
+| {{GamesName|WOG|1972}}
+| [[Image:Luge pictogram.svg|25px]] [[Luge at the 1972 Winter Olympics|Luge]]
+| [[Luge at the 1972 Winter Olympics – Doubles|Doubles]]
+| {{flagIOC|GDR|1972 Winter}}<br>[[Horst Hörnlein]]<br>[[Reinhard Bredow]]<hr>{{flagIOC|ITA|1972 Winter}}<br>[[Paul Hildgartner]]<br>[[Walter Plaikner]]
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOC|GDR|1972 Winter}}<br>[[Klaus-Michael Bonsack]]<br>[[Wolfram Fiedler]]
+| <ref>{{cite web|title=Sapporo 1972 Doubles mixed - Olympic Luge|url=https://www.olympic.org/sapporo-1972/luge/doubles-mixed|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201035722/https://www.olympic.org/sapporo-1972/luge/doubles-mixed|url-status=live}}</ref>
+|- id="Winter 1980"
+|rowspan=2| {{GamesName|WOG|1980}}
+| [[Image:Ski jumping pictogram.svg|25px]] [[Ski jumping at the 1980 Winter Olympics|Ski jumping]]
+| [[Ski jumping at the 1980 Winter Olympics – Normal hill individual|Normal hill individual]]
+| {{flagIOCmedalist|[[Toni Innauer]]|AUT|1980 Winter}}
+| {{flagIOCmedalist|[[Hirokazu Yagi]]|JPN|1980 Winter}}<hr>{{flagIOCmedalist|[[Manfred Deckert]]|GDR|1980 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Ski Jumping at the 1980 Lake Placid Winter Games: Men's Normal Hill, Individual|url=https://www.sports-reference.com/olympics/winter/1980/SKJ/mens-normal-hill-individual.html|archive-url=https://web.archive.org/web/20200417213722/https://www.sports-reference.com/olympics/winter/1980/SKJ/mens-normal-hill-individual.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 1980 Winter Olympics|Speed skating]]
+| [[Speed skating at the 1980 Winter Olympics – Men's 1000 metres|Men's 1000 metres]]
+| {{flagIOCmedalist|[[Eric Heiden]]|USA|1980 Winter}}
+| {{flagIOCmedalist|[[Gaétan Boucher]]|CAN|1980 Winter}}
+| {{flagIOCmedalist|[[Vladimir Lobanov]]|URS|1980 Winter}}<hr>{{flagIOCmedalist|[[Frode Rønning]]|NOR|1980 Winter}}
+| <ref>{{cite web|title=Lake Placid 1980 1000m men - Olympic Speed skating|url=https://www.olympic.org/lake-placid-1980/speed-skating/1000m-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131732/https://olympics.com/ioc|url-status=live}}</ref>
+|- id="Winter 1992"
+| {{GamesName|WOG|1992}}
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 1992 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 1992 Winter Olympics – Women's giant slalom|Women's giant slalom]]
+| {{flagIOCmedalist|[[Pernilla Wiberg]]|SWE|1992 Winter}}
+| {{flagIOCmedalist|[[Anita Wachter]]|AUT|1992 Winter}}<hr>{{flagIOCmedalist|[[Diann Roffe]]|USA|1992 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Albertville 1992 giant slalom women - Olympic Alpine Skiing|url=https://www.olympic.org/albertville-1992/alpine-skiing/giant-slalom-women|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=26 March 2017|archive-url=https://web.archive.org/web/20170326131614/https://www.olympic.org/albertville-1992/alpine-skiing/giant-slalom-women|url-status=live}}</ref>
+|- id="Winter 1998"
+|rowspan=3| {{GamesName|WOG|1998}}
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 1998 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 1998 Winter Olympics – Men's super-G|Men's super-G]]
+| {{flagIOCmedalist|[[Hermann Maier]]|AUT|1998 Winter}}
+| {{flagIOCmedalist|[[Didier Cuche]]|SUI|1998 Winter}}<hr>{{flagIOCmedalist|[[Hans Knauss]]|AUT|1998 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Nagano 1998 super-G men - Olympic Alpine Skiing|url=https://www.olympic.org/nagano-1998/alpine-skiing/super-g-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=6 February 2018|archive-url=https://web.archive.org/web/20180206010039/https://www.olympic.org/nagano-1998/alpine-skiing/super-g-men|url-status=live}}</ref>
+|-
+|rowspan=2| [[Image:Bobsleigh pictogram.svg|25px]] [[Bobsleigh at the 1998 Winter Olympics|Bobsleigh]]
+| [[Bobsleigh at the 1998 Winter Olympics – Two-man|Two-man]]
+| {{flagIOC|ITA|1998 Winter|ITA-1}}<br>[[Günther Huber]]<br>[[Antonio Tartaglia]]<hr>{{flagIOC|CAN|1998 Winter|CAN-1}}<br>[[Pierre Lueders]]<br>[[Dave MacEachern]]
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOC|GER|1998 Winter|GER-1}}<br>[[Christoph Langen]]<br>[[Markus Zimmermann]]
+| <ref>{{cite web|title=Nagano 1998 two-man men - Olympic Bobsleigh|url=https://www.olympic.org/nagano-1998/bobsleigh/two-man-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201033834/https://www.olympic.org/nagano-1998/bobsleigh/two-man-men|url-status=live}}</ref>
+|-
+| [[Bobsleigh at the 1998 Winter Olympics – Four-man|Four-man]]
+| {{flagIOC|GER|1998 Winter|GER-2}}<br>[[Christoph Langen]]<br>[[Markus Zimmermann]]<br>[[Marco Jakobs]]<br>[[Olaf Hampel]]
+| {{flagIOC|SUI|1998 Winter|SUI-1}}<br>[[Marcel Rohner (bobsleigh)|Marcel Rohner]]<br>[[Markus Nüssli]]<br>[[Markus Wasser]]<br>[[Beat Seitz]]
+| {{flagIOC|GBR|1998 Winter}}<br>[[Sean Olsson]]<br>[[Dean Ward (bobsleigh)|Dean Ward]]<br>[[Courtney Rumbolt]]<br>[[Paul Attwood]]<hr>{{flagIOC|FRA|1998 Winter}}<br>[[Bruno Mingeon]]<br>[[Emmanuel Hostache]]<br>[[Éric Le Chanony]]<br>[[Max Robert]]
+| <ref>{{cite web|title=Nagano 1998 four-man men - Olympic Bobsleigh|url=https://www.olympic.org/nagano-1998/bobsleigh/four-man-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201035157/https://www.olympic.org/nagano-1998/bobsleigh/four-man-men|url-status=live}}</ref>
+|- id="Winter 2002"
+|rowspan=2| {{GamesName|WOG|2002}}
+| [[Image:Cross country skiing pictogram.svg|25px]] [[Cross-country skiing at the 2002 Winter Olympics|Cross-country skiing]]
+| [[Cross-country skiing at the 2002 Winter Olympics – Men's 2 x 10 kilometre pursuit|Men's 2 x 10 kilometre pursuit]]
+| {{flagIOCmedalist|[[Frode Estil]]|NOR|2002 Winter}}<hr>{{flagIOCmedalist|[[Thomas Alsgaard]]|NOR|2002 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Per Elofsson]]|SWE|2002 Winter}}
+| <ref>{{cite web|title=Cross Country Skiing at the 2002 Salt Lake City Winter Games: Men's 10/10 kilometres Pursuit|url=https://www.sports-reference.com/olympics/winter/2002/CCS/mens-10-10-kilometres-pursuit.html|archive-url=https://web.archive.org/web/20200417191129/https://www.sports-reference.com/olympics/winter/2002/CCS/mens-10-10-kilometres-pursuit.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|-
+| [[Image:Figure skating pictogram.svg|25px]] [[Figure skating at the 2002 Winter Olympics|Figure skating]]
+| [[Figure skating at the 2002 Winter Olympics#Pairs|Pairs]]
+| {{flagIOC|RUS|2002 Winter}}<br>[[Elena Berezhnaya]]<br>[[Anton Sikharulidze]]<hr>{{flagIOC|CAN|2002 Winter}}<br>[[Jamie Salé]]<br>[[David Pelletier]]
+| ''Not awarded''<br><span style="font-size:85%">due to medal re-awarding.</span>
+| {{flagIOC|CHN|2002 Winter}}<br>[[Shen Xue]]<br>[[Zhao Hongbo]] 
+| <ref>{{cite web|title=Salt Lake City 2002 Pairs mixed - Olympic Figure skating|url=https://www.olympic.org/salt-lake-city-2002/figure-skating/pairs-mixed|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201050636/https://www.olympic.org/salt-lake-city-2002/figure-skating/pairs-mixed|url-status=live}}</ref><ref group=note>The Russian pair of [[Yelena Berezhnaya]] and [[Anton Sikharulidze]] competed against the Canadian pair of [[Jamie Salé]] and [[David Pelletier]] for the gold medal. The Canadians appeared to have skated well enough to win, yet the Russians were awarded the gold. The judging broke along Cold War lines with judges from former Communist countries favouring the Russian pair and judges from Western nations voting for the Canadians. The only exception was the French judge, [[Marie-Reine Le Gougne]], who awarded the gold to the Russians. An investigation revealed that Le Gougne had been pressured to give the gold to the Russian pair regardless of how they skated; in return the Russian judge would look favourably on the French entrants in the ice dancing competition. The IOC decided to award both pairs the gold medal in a second medal ceremony held later in the Games.</ref>
+|- id="Winter 2010"
+| {{GamesName|WOG|2010}}
+| [[Image:Biathlon pictogram.svg|25px]] [[Biathlon at the 2010 Winter Olympics|Biathlon]]
+| [[Biathlon at the 2010 Winter Olympics – Men's individual|Men's individual]]
+| {{flagIOCmedalist|[[Emil Hegle Svendsen]]|NOR|2010 Winter}}
+| {{flagIOCmedalist|[[Ole Einar Bjørndalen]]|NOR|2010 Winter}}<hr>{{flagIOCmedalist|[[Sergei Novikov (biathlete)|Sergey Novikov]]|BLR|2010 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Biathlon at the 2010 Vancouver Winter Games: Men's 20 kilometres|url=https://www.sports-reference.com/olympics/winter/2010/BIA/mens-20-kilometres.html|archive-url=https://web.archive.org/web/20200417061722/https://www.sports-reference.com/olympics/winter/2010/BIA/mens-20-kilometres.html|url-status=dead|archive-date=17 April 2020|website=Olympics at Sports-Reference.com|access-date=24 November 2017|language=en}}</ref>
+|- id="Winter 2014"
+|rowspan=2| {{GamesName|WOG|2014}}
+|rowspan=2| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 2014 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 2014 Winter Olympics – Men's super-G|Men's super-G]]
+| {{flagIOCmedalist|[[Kjetil Jansrud]]|NOR|2014 Winter}}
+| {{flagIOCmedalist|[[Andrew Weibrecht]]|USA|2014 Winter}}
+| {{flagIOCmedalist|[[Jan Hudec]]|CAN|2014 Winter}}<hr>{{flagIOCmedalist|[[Bode Miller]]|USA|2014 Winter}}
+| <ref>{{cite web|title=Sochi 2014 super-G men - Olympic Alpine Skiing|url=https://www.olympic.org/sochi-2014/alpine-skiing/super-g-men|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=7 March 2021|archive-url=https://web.archive.org/web/20210307164802/https://www.olympic.org/sochi-2014/alpine-skiing/super-g-men|url-status=live}}</ref>
+|-
+| [[Alpine skiing at the 2014 Winter Olympics – Women's downhill|Women's downhill]]
+| {{flagIOCmedalist|[[Tina Maze]]|SLO|2014 Winter}}<hr>{{flagIOCmedalist|[[Dominique Gisin]]|SUI|2014 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+| {{flagIOCmedalist|[[Lara Gut]]|SUI|2014 Winter}}
+| <ref>{{cite web|title=Sochi 2014 downhill women - Olympic Alpine Skiing|url=https://www.olympic.org/sochi-2014/alpine-skiing/downhill-women|website=International Olympic Committee|access-date=24 November 2017|language=en|archive-date=26 March 2017|archive-url=https://web.archive.org/web/20170326045901/https://www.olympic.org/sochi-2014/alpine-skiing/downhill-women|url-status=live}}</ref>
+|- id="Winter 2018"
+| rowspan=3| {{GamesName|WOG|2018}}
+| [[Image:Cross country skiing pictogram.svg|25px]] [[Cross-country skiing at the 2018 Winter Olympics|Cross-country skiing]]
+| [[Cross-country skiing at the 2018 Winter Olympics – Women's 10 kilometre freestyle|Women's 10 kilometre freestyle]]
+| {{flagIOCmedalist|[[Ragnhild Haga]]|NOR|2018 Winter}}
+| {{flagIOCmedalist|[[Charlotte Kalla]]|SWE|2018 Winter}}
+| {{flagIOCmedalist|[[Marit Bjørgen]]|NOR|2018 Winter}}<hr>{{flagIOCmedalist|[[Krista Pärmäkoski]]|FIN|2018 Winter}}
+| <ref>{{cite web|title=Cross-Country Skiing {{!}} Results Ladies' 10km Free|url=https://www.pyeongchang2018.com/en/game-time/results/OWG2018/en/cross-country-skiing/results-ladies-10km-free-fnl-000100-.htm|website=Pyeongchang 2018 Olympic Winter Games|access-date=15 February 2018|language=en|archive-url=https://web.archive.org/web/20180215204106/https://www.pyeongchang2018.com/en/game-time/results/OWG2018/en/cross-country-skiing/results-ladies-10km-free-fnl-000100-.htm|archive-date=15 February 2018|url-status=dead}}</ref>
+|-
+|rowspan=2| [[Image:Bobsleigh pictogram.svg|25px]] [[Bobsleigh at the 2018 Winter Olympics|Bobsleigh]]
+|[[Bobsleigh at the 2018 Winter Olympics – Two-man|Two-man]]
+|{{flagIOC|GER|2018 Winter}}<br>[[Francesco Friedrich]]<br>[[Thorsten Margis]]<hr>{{flagIOC|CAN|2018 Winter}}<br>[[Justin Kripps]]<br>[[Alexander Kopacz]]
+|''Not awarded''<br><span style="font-size:85%">as there was a tie for gold.</span>
+|{{flagIOC|LAT|2018 Winter}}<br>[[Oskars Melbārdis]]<br>[[Jānis Strenga]]
+|<ref>{{Cite web|url=https://www.olympic.org/pyeongchang-2018/results/resOWG2018/pdf/OWG2018/BOB/OWG2018_BOB_C92B_BOBMTEAM2-------------------------.pdf|title=PyeongChang 2018 Offial Results 2-Man Bobsled - 2018|date=19 February 2018|website=olympic.org|access-date=19 February 2018|archive-url=https://web.archive.org/web/20180220033513/https://www.olympic.org/pyeongchang-2018/results/resOWG2018/pdf/OWG2018/BOB/OWG2018_BOB_C92B_BOBMTEAM2-------------------------.pdf|archive-date=20 February 2018|url-status=dead}}</ref>
+|-
+|[[Bobsleigh at the 2018 Winter Olympics – Four-man|Four-man]]
+|{{flagIOC|GER|2018 Winter}}<br>[[Francesco Friedrich]]<br>[[Candy Bauer]]<br>[[Martin Grothkopp]]<br>[[Thorsten Margis]]
+|{{flagIOC|GER|2018 Winter}}<br>[[Nico Walther]]<br>[[Kevin Kuske]]<br>[[Alexander Rödiger]]<br>[[Eric Franke]]<hr>{{flagIOC|KOR|2018 Winter}}<br>[[Won Yun-jong]]<br>[[Jun Jung-lin]]<br>[[Seo Young-woo]]<br>[[Kim Dong-hyun (bobsledder)|Kim Dong-hyun]]
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+|<ref>{{Cite web|url=https://www.olympic.org/pyeongchang-2018/results/resOWG2018/pdf/OWG2018/BOB/OWG2018_BOB_C92B_BOBOTEAM4-------------------------.pdf|title=PyeongChang 2018 Offial Results 4-Man Bobsled - 2018|date=25 February 2018|website=olympic.org|access-date=25 February 2018|archive-date=19 August 2024|archive-url=https://web.archive.org/web/20240819131734/https://www.olympic.org/pyeongchang-2018/results/resOWG2018/pdf/OWG2018/BOB/OWG2018_BOB_C92B_BOBOTEAM4-------------------------.pdf|url-status=live}}</ref>
+|- id="Winter 2022"
+| {{GamesName|WOG|2022}}
+| [[Image:Freestyle skiing pictogram.svg|25px]] [[Freestyle skiing at the 2022 Winter Olympics|Freestyle skiing]]
+| [[Freestyle skiing at the 2022 Winter Olympics – Women's ski cross|Women's ski cross]]
+| {{flagIOCmedalist|[[Sandra Näslund]]|SWE|2022 Winter}}
+| {{flagIOCmedalist|[[Marielle Thompson]]|CAN|2022 Winter}}
+| {{flagIOCmedalist|[[Daniela Maier]]|GER|2022 Winter}}<hr>{{flagIOCmedalist|[[Fanny Smith]]|SUI|2022 Winter}}
+| <ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=FS&raceid=14286|title=Olympic Winter Games Beijing Women's Ski Cross Official Results|publisher=[[International Ski Federation]] (FIS)|date=26 February 2022|access-date=26 February 2022}}</ref><ref group=note>The tie for the bronze medal was not due to identical results, but a Court of Arbitration of Sport decision on 13 December 2022 in regards to an interference call in the final.</ref>
+|- id="Winter 2026"
+| rowspan=3| {{GamesName|WOG|2026}}
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 2026 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 2026 Winter Olympics – Men's team combined|Men's team combined]]
+| {{flagIOC|SUI|2026 Winter}}<br>[[Franjo von Allmen]]<br>[[Tanguy Nef]]
+| {{flagIOC|AUT|2026 Winter}}<br>[[Vincent Kriechmayr]]<br>[[Manuel Feller]]<hr>{{flagIOC|SUI|2026 Winter}}<br>[[Marco Odermatt]]<br>[[Loïc Meillard]]
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Medallists – Men's Team Combined – Alpine Skiing|url=https://wmr-static-assets.scd.dgplatform.net/wmr/static/_PDF/OWG2026/ALP/2026-02-09/ALPMTC----------------------------__C92B_1.0.pdf|date=9 February 2026|access-date=9 February 2026}}</ref>
+|-
+| [[Image:Ski jumping pictogram.svg|25px]] [[Ski jumping at the 2026 Winter Olympics|Ski jumping]]
+| [[Ski jumping at the 2026 Winter Olympics – Men's normal hill individual|Men's normal hill individual]]
+| {{flagIOCmedalist|[[Philipp Raimund]]|GER|2026 Winter}}
+| {{flagIOCmedalist|[[Kacper Tomasiak]]|POL|2026 Winter}}
+| {{flagIOCmedalist|[[Ren Nikaidō]]|JPN|2026 Winter}}<hr>{{flagIOCmedalist|[[Gregor Deschwanden]]|SUI|2026 Winter}}
+| <ref>{{cite web|title=Results – Men's Normal Hill Individual – Ski Jumping|url=https://wmr-static-assets.scd.dgplatform.net/wmr/static/_PDF/OWG2026/SJP/2026-02-09/SJPMNH----------------FNL-0002SJ--__C73C3_1.0.pdf|date=9 February 2026|access-date=9 February 2026}}</ref>
+|-
+| [[Image:Alpine skiing pictogram.svg|25px]] [[Alpine skiing at the 2026 Winter Olympics|Alpine skiing]]
+| [[Alpine skiing at the 2026 Winter Olympics – Women's giant slalom|Women's giant slalom]]
+| {{flagIOCmedalist|[[Federica Brignone]]|ITA|2026 Winter}}
+| {{flagIOCmedalist|[[Sara Hector]]|SWE|2026 Winter}}<hr>{{flagIOCmedalist|[[Thea Louise Stjernesund]]|NOR|2026 Winter}}
+| ''Not awarded''<br><span style="font-size:85%">as there was a tie for silver.</span>
+| <ref>{{cite web|title=Results – Women's Giant Slalom – Alpine Skiing|url=https://wmr-static-assets.scd.dgplatform.net/wmr/static/_PDF/OWG2026/ALP/2026-02-15/ALPWGS----------------------------__C73C_1.0.pdf|date=15 February 2026|access-date=15 February 2026}}</ref>
+|}
+
+== Ties not included in this list ==
+
+This list does not include events where two bronze medals are awarded due to [[repechage]] or the non-existence of a [[Third place playoff|bronze-medal playoff]] as they are awarded due to the rules of the sports, thus not considered as ties. All events that are not listed, namely those below, awarded two bronze medals.
+
+{| class="wikitable"
+|-
+! style="width: 200px;" class="unsortable"|Sport
+! style="width: 200px;" class="unsortable"|Years
+! style="width: 200px;" class="unsortable"|Reason
+|-
+| [[Image:Water polo pictogram.svg|25px]] [[Water polo at the Olympics|Water polo]] || 1900 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Polo pictogram.svg|25px]] [[Polo at the Olympics|Polo]] || 1900 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Rowing pictogram.svg|25px]] [[Rowing at the Olympics|Rowing]] || 1908 || Bronze awarded in both semi-finals to second-place finishers
+|-
+| [[Image:Tennis pictogram.svg|25px]] [[Tennis at the Olympics|Tennis]] || 1896–1904, 1988–1992 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Badminton pictogram.svg|25px]] [[Badminton at the Olympics|Badminton]] || 1992 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Table tennis pictogram.svg|25px]] [[Table tennis at the Olympics|Table tennis]] || 1992 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Boxing pictogram.svg|25px]] [[Boxing at the Olympics|Boxing]] || 1952–''present'' || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Karate pictogram.svg|25px]] [[Karate at the Olympics|Karate]] || 2020 || No [[Third place playoff|bronze medal playoff]]
+|-
+| [[Image:Judo pictogram.svg|25px]] [[Judo at the Olympics|Judo]] || 1964, 1972–''present'' || [[Repechage]]
+|-
+| [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the Olympics|Taekwondo]] || 2008–''present''|| [[Repechage]]
+|-
+| [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the Olympics|Wrestling]] || 2008 –''present''|| [[Repechage]]
+|}
+
+In addition, two finals were held for one [[Rowing at the 1900 Summer Olympics|rowing]] event at the 1900 Olympics, [[Rowing at the 1900 Summer Olympics – Men's coxed four|men's coxed four]]. This was due to a controversy about which boats should advance to the final; thus two separate finals were held, awarding two sets of medals for the same event, both which are considered Olympic championships by the [[International Olympic Committee]].
+
+Similarly, two finals were held for some [[Sailing at the 1900 Summer Olympics|sailing]] events at the 1900 Olympics, namely [[Sailing at the 1900 Summer Olympics&nbsp;– 0 to .5 ton|0 to .5 ton]], [[Sailing at the 1900 Summer Olympics&nbsp;– .5 to 1 ton|.5 to 1 ton]], [[Sailing at the 1900 Summer Olympics&nbsp;– 1 to 2 ton|1 to 2 ton]], [[Sailing at the 1900 Summer Olympics&nbsp;– 2 to 3 ton|2 to 3 ton]] and [[Sailing at the 1900 Summer Olympics&nbsp;– 3 to 10 ton|3 to 10 ton]].<ref group=note>In this event, however, only the second race winners are listed in the IOC's database.</ref>
+
+== See also ==
+* [[All-time Olympic Games medal table]]
+
+==Notes==
+{{reflist|group=note|30em}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+'''Sources'''
+* [http://www.olympic.org/olympic-results International Olympic Committee medal database]
+* [http://olympstats.com/2014/02/12/ties-for-medals-at-the-winter-olympics/ Ties for Medals at the Winter Olympics] at OlympStats.com
+* [http://olympstats.com/2016/08/13/3-way-medal-ties/ 3-Way Medal Ties] at OlympStats.com
+* [https://web.archive.org/web/20200422210537/https://www.sports-reference.com/olympics/ Olympics Statistics and History] at Sports-Reference.com
+
+{{Olympic Games medal table}}
+{{Olympic Games medal winners}}
+{{Olympic Games}}
+{{Olympics statistics}}
+{{Portal bar|Olympics}}
+
+[[Category:Olympic Games medal tables]]
+[[Category:Lists of Olympic medalists]]

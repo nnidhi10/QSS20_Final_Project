@@ -1,0 +1,222 @@
+{{Short description|Olympic qualification event}}
+{{Use dmy dates|date=April 2023}}
+{{for|a list of all World championships contested in the sport of sailing|World championships in sailing}}
+{{Infobox recurring sailing competition
+| title           = ISAF Sailing World Championships
+| current_season  = 
+| current_season2 = <!-- do not wikilink -->
+| last_season     = 2014 ISAF Sailing World Championships
+| upcoming_season = 2018 ISAF Sailing World Championships
+| logo            = ISAF Worlds Logo 195.jpg
+| image_upright   = 1.07
+| caption         = 
+| sport           = Sailing
+| classes         = [[470 (dinghy)|470]], [[49er (dinghy)|49er]], [[49er FX]], [[Finn (dinghy)|Finn]], [[Laser (dinghy)|Laser]], [[Laser Radial]], [[Nacra 17]], [[RS:X]]
+| founded         = 
+| fame            = <!--what the league is famous for...the "claim to fame"...avoid use if possible-->
+| motto           = 
+| first           = {{start date|2003}}
+| levels          = 
+| country         = [[World]]wide
+| venue           = 
+| champion        = 
+| most_champs     = 
+| qualification   = 
+| website         = {{url|https://www.sailing.org/|Sailing.org}}
+| TV              = 
+| sponsor         = 
+| related_comps   = 
+| footnotes       =
+}}
+The '''Sailing World Championships''' (formerly '''ISAF Sailing World Championships''') are World championships in sailing for the 10 events contested at the [[Sailing at the Summer Olympics|Summer Olympics]], organized by [[World Sailing]] (formerly ISAF) and held every four years since 2003. In contrast to other years, when each class organise their [[World championships in sailing|World championship]] under supervision of World Sailing, they are the combined World championships for all the disciplines of the next Summer Olympics and serves as the major qualification event for it.
+
+==History==
+In 1998, the ISAF World Sailing Championships were held in Dubai. 
+The [[2003 ISAF Sailing World Championships|ISAF Sailing World Championships]] was held in [[Cádiz]] in 2003, followed by [[Cascais]] in 2007 and [[Perth]] in 2011.<ref name="sailing.org">{{cite web|url=http://www.sailing.org/events/isafworlds/background.php|title=Background|website=sailing.org}}</ref>
+
+In 2014, [[Santander, Spain|Santander]] hosted the [[2014 ISAF Sailing World Championships|4th ISAF Sailing World Championships]] attracting more than 1,100 competitors, which distributed half of [[Sailing at the 2016 Summer Olympics – Qualification|qualifications]] for the [[Sailing at the 2016 Summer Olympics|2016 Summer Olympics sailing event]].<ref name="sailing.org"/>
+
+The 2018 edition, in [[Aarhus]], Denmark, saw the introduction of [[Formula Kite]] classes.<ref>{{cite web | url=https://www.sailing.org/2018/08/05/day-4-morning-report-aarhus-sailing-world-championships-2018/ | work=World Sailing | title=Day #4 Morning Report - Aarhus Sailing World Championships 2018 }}</ref> The 2023 event, orginially scheduled for 2002, took place in [[The Hague]], the Netherlands.<ref>{{cite web | url=https://www.sail-world.com/news/232005/The-Hague-to-become-sailing-capital-in-2023 | title=The Hague to become sailing capital in 2023 }}</ref> The 2023 edition saw the introduction of para classes.<ref>{{cite web | url=https://www.sail-world.com/news/265633/Allianz-Sailing-Worlds-hailed-as-inspirational | title=2023 Allianz Sailing World Championships in the Hague hailed as inspirational and historic }}</ref>
+
+For the edition before the [[2028 Summer Olympics]], [[World Sailing]] decided to split the event into one championship for one-person events and one for two-person events, with the 2026 event awarded to [[Valencia]], Spain, and the 2027 event awarded to [[Gdynia]], Poland.<ref>{{cite web | url=https://www.sailing.org/2024/06/06/world-sailing-announces-hosts-of-the-new-format-2026-2027-world-sailing-championships/ | work=World Sailing | title=World Sailing announces hosts of the new-format 2026-2027 World Sailing Championships }}</ref>
+
+==Editions==
+{{location map+ |World |float=right |width=600 |caption=Host cities of the Sailing World Championships |places=
+{{location map~ |World |lat=36.533333 |long= -6.283333 |mark=Green pog.svg}}
+{{location map~ |World |lat=38.683333|long= -9.416667 |mark=Green pog.svg}}
+{{location map~ |World |lat=-31.952222|long= 115.858889 |label='''''[[2011 ISAF Sailing World Championships|2011]]'''''|position=right}}
+{{location map~ |World |lat=43.462778|long= -3.805 |mark=Green pog.svg}}
+{{location map~ |World |lat=56.1572|long= 10.2107 |mark=Green pog.svg}}
+{{location map~ |World |lat=52.083333|long= 4.316667 |mark=Green pog.svg}}
+{{location map~ |World |lat=-3.7267535069550304|long= -38.47170589314278|label='''''[[2027 Sailing World Championships|2027]]'''''|position=right}}
+{{location map~ |World |lat=54.51767344684653|long=18.550110561733007|label='''''[[2027 Sailing World Championships|2027]]'''''|position=right}}
+
+}}
+{| class="wikitable"
+|-
+! Year !! City !! Country !! Dates !! Events !! Athletes !! Nations !! Notes
+|-
+| [[2003 ISAF Sailing World Championships|2003]] || [[Cádiz]] || {{ESP}} || align=center| 11–24 September || align=center| 11 || align=center| 1,450 || align=center| 71 ||<ref>{{cite web|url=http://www.sailing.org/31843.php|title=ISAF Sailing World Championships 2003|website=sailing.org}}</ref>
+|-
+| [[2007 ISAF Sailing World Championships|2007]] || [[Cascais]] || {{POR}} || align=center| 28 June – 13 July || align=center| 11 || align=center| 1,350 || align=center| 76 ||<ref>{{cite web|url=http://www.sailing.org/2007-ISAF-Worlds.php|title=ISAF Sailing World Championships 2007|website=sailing.org}}</ref>
+|-
+| [[2011 ISAF Sailing World Championships|2011]] || [[Perth, Western Australia|Perth]] || {{AUS}} || align=center| 3–18 December || align=center| 10 || align=center| 789 || align=center| 76 ||<ref>{{cite web|url=http://www.sailing.org/isaf-worlds-2011.php|title=Perth 2011 ISAF Sailing World Championships|website=sailing.org}}</ref>
+|-
+| [[2014 ISAF Sailing World Championships|2014]] || [[Santander, Spain|Santander]] || {{ESP}} || align=center| 8–21 September || align=center| 10 || align=center| 1,250 || align=center| 83 ||<ref>{{cite web|url=http://www.sailing.org/2014-ISAF-Worlds.php|title=2014 ISAF Sailing World Championships|website=sailing.org}}</ref>
+|-
+| [[2018 Sailing World Championships|2018]] || [[Aarhus]] || {{DEN}} || align=center| 30 July – 12 August || align=center| 12 || align=center| 1,500 || align=center| 100 ||<ref>{{cite web|url=http://www.sailing.org/2018-world-championships.php|title=Hempel Sailing World Championships Aarhus 2018|website=sailing.org}}</ref>
+|-
+| [[2023 Sailing World Championships|2023]] || [[The Hague]] || {{NED}} || align=center| 10–20 August || align="center" | 14 || align=center| 1,100 || align=center|  80||<ref>{{cite web|url=https://thehague2023.sailing.org/2023/08/21/2023-allianz-sailing-world-championships-in-the-hague-hailed-as-inspirational-and-historic/|title=2023 Allianz Sailing World Championships in The Hague hailed as "inspirational and historic"|website=sailing.org}}</ref>
+|-
+|[[2027 Sailing World Championships|2027]]
+|[[Fortaleza]]
+[[Gdynia]]
+|{{BRA}}
+{{POL}}
+| align="center" |22-30 January
+TBA
+| align="center" |
+| align="center" |
+| align="center" |
+|<ref>{{Cite web |title=World Sailing - Fortaleza selected to host 2027 World Sailing Championships one-person events |url=https://www.sailing.org/2025/03/27/fortaleza-selected-to-host-2027-world-sailing-championships-one-person-events/ |access-date=2025-07-17 |website=World Sailing |language=en}}</ref>
+|}
+{{Location map+|Europe|places={{location map~ |Europe |lat=36.533333 |long= -6.283333|label='''''[[2003 ISAF Sailing World Championships|2003]]'''''|mark=Green pog.svg}}
+{{location map~ |Europe |lat=38.683333|long= -9.416667|label='''''[[2007 ISAF Sailing World Championships|2007]]'''''|mark=Green pog.svg}}
+{{location map~ |Europe |lat= 43.462778|long= -3.805|label='''''[[2014 ISAF Sailing World Championships|2014]]'''''|mark=Green pog.svg}}
+{{location map~ |Europe |lat= 56.1572|long= 10.2107 |label='''''[[2018 Sailing World Championships|2018]]'''''|mark=Green pog.svg}}
+{{location map~ |Europe |lat= 52.083333|long= 4.316667|label='''''[[2023 Sailing World Championships|2023]]'''''|mark=Green pog.svg}}{{location map~ |Europe |lat=54.51767344684653|long=18.550110561733007 |label='''''[[2027 Sailing World Championships|2027]]'''''|mark=Green pog.svg}}|width=550|caption=European hosts of the Sailing World Championships}}
+
+== Equipment ==
+{| class=wikitable style="font-size:85%; text-align:center"
+|-
+! Event || Class || Gender || colspan=50| Year 
+|-
+!colspan=3| || 03 || 07 || 11 || 14 || 18 || 23
+|-
+|rowspan=6| One-person dinghies || [[Europe (dinghy)|Europe]] || W || ● ||  ||  ||  || || 
+|-
+|rowspan=2| [[Finn (dinghy)|Finn]] || M || ● ||  || ● || ● || ● || 
+|-
+| O ||  || ● ||  ||  ||   ||
+|-
+|rowspan=2| [[Laser (dinghy)|Laser]] || M ||  || ● || ● || ● || ● || ● 
+|-
+| O || ● ||  ||  ||  ||   ||
+|-
+| [[Laser Radial]] || W ||  || ● || ● || ● || ● || ●
+|-
+|rowspan=6| Two-person dinghies ||rowspan=3| [[470 (dinghy)|470]] || M || ● || ● || ● || ● || ● || 
+|-
+| W || ● || ● || ● || ● || ● || 
+|-
+| Mx ||  ||  ||  ||  ||  || ●
+|-
+|rowspan=2| [[49er (dinghy)|49er]] || M ||  ||  || ● || ● || ● || ●
+|-
+| O || ● || ● ||  ||  ||   ||
+|-
+| [[49er FX]] || W ||  ||  ||  || ● || ● || ●
+|-
+|rowspan=2| Keelboats || [[Star (keelboat)|Star]] || M || ● || ● || ● ||  || || 
+|-
+| [[Yngling (keelboat)|Yngling]] || W || ● || ● ||  ||  ||  || 
+|-
+|rowspan=2| Multihulls || [[Nacra 17]] || Mx ||  ||  ||  || ● || ● || ●
+|-
+| [[Tornado (sailboat)|Tornado]] || O || ● || ● ||  ||  || || 
+|-
+|rowspan=8| Boards ||rowspan=2| [[Formula Kite]] || M ||  ||  ||  || || Demo || ●
+|-
+| W ||  ||  ||  ||  || Demo || ●
+|-
+|rowspan=2| [[Mistral One Design|Mistral]] || M || ● ||  ||  ||  ||  || 
+|-
+| W || ● ||  ||  ||  ||  ||
+|-
+|rowspan=2| [[RS:X]] || M ||  || ● || ● || ● || ● || 
+|-
+| W ||  || ● || ● || ● || ● || 
+|-
+|rowspan=2| [[iQFoil]] || M ||  ||  ||  ||  ||  || ● 
+|-
+| W || ||  ||  ||  ||  || ● 
+|-
+|rowspan=1| Match racing ||rowspan=1| [[Elliott 6m]] || W ||  ||  || ● ||  || 
+|-
+|rowspan=4| Disabled || Norlin Mk3 || O ||  ||  ||  ||  || || ● 
+|-
+|rowspan=2| Hansa 303 || M ||  ||  ||  ||  ||  || ● 
+|-
+| W || ||  ||  ||  ||  || ● 
+|-
+| RS Connect || O ||  ||  ||  ||  || || ● 
+
+|-
+!colspan=3| Total || 11 || 11 || 10 || 10 || 12 || 10
+|}
+Legend:<small> '''M''' – Men; '''W''' – Women; '''Mx''' – Mixed; '''O''' – Open;</small>
+
+==All-time medal table==
+:''As of 19th May 2024''
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_NED = 10 | silver_NED = 7 | bronze_NED = 2
+ | gold_AUS = 8 | silver_AUS = 4 | bronze_AUS = 7
+ | gold_GBR = 6 | silver_GBR = 8 | bronze_GBR = 14
+ | gold_FRA = 8 | silver_FRA = 5 | bronze_FRA = 7
+ | gold_BRA = 4 | silver_BRA = 1 | bronze_BRA = 0
+ | gold_ESP = 3 | silver_ESP = 4 | bronze_ESP = 4
+ | gold_USA = 4 | silver_USA = 1 | bronze_USA = 3
+ | gold_POL = 3 | silver_POL = 5 | bronze_POL = 0
+ | gold_ISR = 3 | silver_ISR = 1 | bronze_ISR = 4
+ | gold_ITA = 3 | silver_ITA = 1 | bronze_ITA = 3
+ | gold_NZL = 1 | silver_NZL = 5 | bronze_NZL = 3
+ | gold_BEL = 1 | silver_BEL = 2 | bronze_BEL = 1
+ | gold_CRO = 1 | silver_CRO = 2 | bronze_CRO = 1
+ | gold_AUT = 1 | silver_AUT = 2 | bronze_AUT = 0
+ | gold_GRE = 1 | silver_GRE = 1 | bronze_GRE = 1
+ | gold_JPN = 2 | silver_JPN = 2 | bronze_JPN = 1
+ | gold_NOR = 1 | silver_NOR = 1 | bronze_NOR = 0
+ | gold_BLR = 1 | silver_BLR = 0 | bronze_BLR = 0
+ | gold_CYP = 1 | silver_CYP = 0 | bronze_CYP = 0
+ | gold_HUN = 2 | silver_HUN = 0 | bronze_HUN = 0
+ | gold_POR = 1 | silver_POR = 1 | bronze_POR = 1
+ | gold_SWE = 1 | silver_SWE = 3 | bronze_SWE = 1
+ | gold_DEN = 0 | silver_DEN = 2 | bronze_DEN = 4
+ | gold_GER = 1 | silver_GER = 3 | bronze_GER = 3
+ | gold_FIN = 0 | silver_FIN = 2 | bronze_FIN = 0
+ | gold_ARG = 0 | silver_ARG = 1 | bronze_ARG = 2
+ | gold_RUS = 0 | silver_RUS = 1 | bronze_RUS = 1
+ | gold_CHN = 0 | silver_CHN = 0 | bronze_CHN = 1
+ | gold_EST = 0 | silver_EST = 0 | bronze_EST = 1
+ | gold_SLO = 0 | silver_SLO = 1 | bronze_SLO = 1
+ | gold_UKR = 0 | silver_UKR = 0 | bronze_UKR = 1
+ | gold_SGP = 1 | silver_SGP = 0 | bronze_SGP = 0
+ | gold_SUI = 0 | silver_SUI = 2 | bronze_SUI = 0
+ | gold_CAN = 0 | silver_CAN = 0 | bronze_CAN = 1
+}}
+
+==See also==
+*[[Olympic sailing classes]]
+*[[Sailing at the Summer Olympics]]
+*[[World championships in sailing]]
+*[[Windsurfing World Championships]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.the-sports.org/sailing-s20-c0-b0-g85.html Sailing competitions]
+
+{{Sailing worlds}}
+{{International Sailing Federation Events}}
+{{International sailing}}
+{{Main world championships}}
+
+[[Category:Sailing World Championships| ]]
+[[Category:World Sailing]]
+[[Category:World championships in sailing]]

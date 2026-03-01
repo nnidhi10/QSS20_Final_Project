@@ -1,0 +1,187 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Men's slopestyle
+|games = 2018 Winter
+|image = Snowboarding pictogram.svg
+|image_size = 200px
+|venue = [[Bogwang Phoenix Park]]
+|date = 10 February (qualification)<br />11 February (final)
+|competitors = 37
+|nations = 16
+|gold = [[Redmond Gerard]]
+|goldNOC = USA
+|silver = [[Maxence Parrot]]
+|silverNOC = CAN
+|bronze = [[Mark McMorris]]
+|bronzeNOC = CAN
+|win_value = 87.16
+|win_label = Winning points
+|prev= [[Snowboarding at the 2014 Winter Olympics – Men's slopestyle|2014]]
+|next= [[Snowboarding at the 2022 Winter Olympics – Men's slopestyle|2022]]
+}}
+{{Snowboarding at the 2018 Winter Olympics}}
+The '''men's [[slopestyle#Snow sports|slopestyle]]''' competition of the [[2018 Winter Olympics]] was held on 10 and 11 February 2018 at the [[Bogwang Phoenix Park]] in [[Pyeongchang]], [[South Korea]].<ref>{{Cite web |url=https://www.pyeongchang2018.com/en/schedule |title=Schedule |access-date=2018-01-05 |archive-date=2017-11-05 |archive-url=https://web.archive.org/web/20171105010048/https://www.pyeongchang2018.com/en/schedule |url-status=dead }}</ref><ref>[http://data.fis-ski.com/pdf/2018/SB/7071/2018SB7071SLF.pdf Start list]</ref>
+
+==Summary==
+Due to a broken shoulder caused by a crash in training, [[Niek van der Velden]] was not able to compete.<ref>{{cite web |url=https://nos.nl/pyeongchang2018/artikel/2216241-valse-start-nederland-snowboarder-van-der-velden-haakt-af.html |title=Valse start Nederland: snowboarder Van der Velden haakt af |publisher=[[Nederlandse Omroep Stichting]] (NOS) |accessdate=10 February 2018 |archive-date=13 June 2018 |archive-url=https://web.archive.org/web/20180613085815/https://nos.nl/pyeongchang2018/artikel/2216241-valse-start-nederland-snowboarder-van-der-velden-haakt-af.html |url-status=dead }}</ref><ref>{{cite web |url=https://www.nu.nl/olympische-winterspelen-pyeongchang-2018/5127017/einde-spelen-snowboarder-van-velden-breuk-val.html |title=Einde Spelen voor snowboarder Van der Velden door breuk na val |date=10 February 2018 |publisher=[[NU.nl]] |accessdate=10 February 2018}}</ref> Then Norwegian snowboarder [[Mons Røisland]], who was considered a possible medal contender, broke a chest bone and tore ligaments in a crash during practice prior to the finals, which made him unable to compete.<ref>{{cite web |url=https://www.instagram.com/p/BfC3k9Yj4VQ/  |archive-url=https://ghostarchive.org/iarchive/s/instagram/BfC3k9Yj4VQ |archive-date=2021-12-24 |url-access=registration|title=Mons Røisland Instagram |publisher=Mons Røisland |accessdate=12 February 2018}}{{cbignore}}</ref>
+
+Eleven months after the Canadian [[Mark McMorris]] ended up in a coma, he won the Olympic bronze medal.<ref>{{Cite web|url=https://www.nu.nl/olympische-winterspelen-pyeongchang-2018/5128292/mcmorris-vindt-medaille-elf-maanden-coma-erg-bijzonder.html?redirect=1|title = McMorris noemt medaille elf maanden na coma erg bijzonder|date = 11 February 2018}}</ref>
+
+In the victory ceremony, the medals were presented by [[Pierre-Olivier Beckers-Vieujant]], member of the [[International Olympic Committee]] accompanied by Dexter Paine, [[International Ski Federation|FIS]] vice president.
+
+==Schedule==
+<small>All times are ([[Korea Standard Time|UTC+9]]).</small>
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+|10 February || '''10:00'''  || '''Qualification'''
+|-
+|11 February|| '''10:00'''  || '''Final'''
+|}
+
+==Qualification==
+{{main|Snowboarding at the 2018 Winter Olympics – Qualification}}
+The top 40 athletes in the Olympic quota allocation list qualified (for both big air and slopestyle, the rankings were combined). This meant only a maximum of 40 could qualify across both events. A maximum of four athletes per [[National Olympic Committee]] (NOC) was allowed. All athletes qualifying must also have placed in the top 30 of a FIS World Cup event or the [[FIS Freestyle Ski and Snowboarding World Championships 2017]] during the qualification period (July 1, 2016 to January 21, 2018) and also have a minimum of 50 FIS points to compete. If the host country, [[South Korea at the 2018 Winter Olympics|South Korea]], did not qualify, their chosen athlete would displace the last qualified athlete, granted all qualification criterion was met.<ref>{{cite web|url=https://data.fis-ski.com/media/olympic-games/2018/english-qs/owg-pyeongchang-2018-qualification-system-snowboard.pdf|title=Qualification Systems for XXII Olympic Winter Games, PyeongChang 2018 Snowboarding|date=9 September 2016|publisher=[[International Ski Federation]] (FIS)|accessdate=21 January 2018}}</ref>
+
+==Results==
+===Key===
+: '''Q''' — Qualified for the Final
+: '''DNS''' — Did Not Start
+
+====Heat 1====
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !!  Order !!  Name !!  Country !!  Run 1 !! Run 2 !! Best !!  Notes
+|- bgcolor=#ccffcc
+| 1 || 5 || align=left| [[Marcus Kleveland]] ||align=left| {{flagIOC|NOR|2018 Winter}} || '''83.71''' || 32.30 || '''83.71''' || '''Q'''
+|- bgcolor=#ccffcc
+| 2 || 6 || align=left| [[Carlos Garcia Knight]] ||align=left| {{flagIOC|NZL|2018 Winter}} || '''80.10''' || 40.20 || '''80.10''' || '''Q'''
+|- bgcolor=#ccffcc
+| 3 || 4 || align=left| [[Sebastien Toutant]] ||align=left| {{flagIOC|CAN|2018 Winter}} || '''78.01''' || 45.06 || '''78.01''' || '''Q'''
+|- bgcolor=#ccffcc
+| 4 || 7 || align=left| [[Mons Røisland]] ||align=left| {{flagIOC|NOR|2018 Winter}} || '''76.50''' || 43.68 || '''76.50''' || '''Q'''
+|- bgcolor=#ccffcc
+| 5 || 2 || align=left| [[Torgeir Bergrem]] ||align=left| {{flagIOC|NOR|2018 Winter}} || 45.80 || '''75.45''' || '''75.45''' || '''Q'''
+|- bgcolor=#ccffcc
+| 6 || 17 || align=left| [[Niklas Mattsson]] ||align=left| {{flagIOC|SWE|2018 Winter}} || 50.81 || '''73.53''' || '''73.53''' || '''Q'''
+|-
+| 7 || 11 || align=left| [[Roope Tonteri]] ||align=left| {{flagIOC|FIN|2018 Winter}} || '''72.60''' || 38.08 || '''72.60''' ||
+|-
+| 8 || 8 || align=left| [[Jamie Nicholls (snowboarder)|Jamie Nicholls]] ||align=left| {{flagIOC|GBR|2018 Winter}} || '''71.56''' || 36.90 || '''71.56''' ||
+|-
+| 9 || 1 || align=left| [[Chris Corning]] ||align=left| {{flagIOC|USA|2018 Winter}} || '''70.85''' || 69.86 || '''70.85''' ||
+|-
+| 10 || 13 || align=left| [[Peetu Piiroinen]] ||align=left| {{flagIOC|FIN|2018 Winter}} || '''69.26''' || 43.43 || '''69.26''' ||
+|-
+| 11 || 19 || align=left| [[Vlad Khadarin]] ||align=left| {{flagIOC|OAR|2018 Winter}} || 23.05 || '''64.16''' || '''64.16''' ||
+|-
+| 12 || 3 || align=left| [[Sebbe De Buck]] ||align=left| {{flagIOC|BEL|2018 Winter}} || '''59.40''' || 29.58 || '''59.40''' ||
+|-
+| 13 || 15 || align=left| [[Rene Rinnekangas]] ||align=left| {{flagIOC|FIN|2018 Winter}} || 24.86 || '''37.91''' || '''37.91''' ||
+|-
+| 14 || 16 || align=left| [[Michael Schärer]] ||align=left| {{flagIOC|SUI|2018 Winter}} || '''37.61''' || 27.01 || '''37.61''' ||
+|-
+| 15 || 18 || align=left| [[Kalle Järvilehto]] ||align=left| {{flagIOC|FIN|2018 Winter}} || 15.56 || '''31.10''' || '''31.10''' ||
+|-
+| 16 || 14 || align=left| [[Moritz Thönen]] ||align=left| {{flagIOC|SUI|2018 Winter}} || 19.53 || '''23.55''' || '''23.55''' ||
+|-
+| 17 || 9 || align=left| [[Ryan Stassel]] ||align=left| {{flagIOC|USA|2018 Winter}} || '''23.50''' || 22.63 || '''23.50''' ||
+|-
+| {{hs|18}} || 10 || align=left| [[Lee Min-sik]] ||align=left| {{flagIOC|KOR|2018 Winter}} ||colspan=4 rowspan=2| {{sort|0|DNS}}
+|-
+| {{hs|18}} || 12 || align=left| [[Niek van der Velden]] ||align=left| {{flagIOC|NED|2018 Winter}}
+|}
+
+====Heat 2====
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !!  Order !!  Name !!  Country !!  Run 1 !! Run 2 !! Best !!  Notes
+|- bgcolor=#ccffcc
+| 1 || 8 || align=left| [[Maxence Parrot]] ||align=left| {{flagIOC|CAN|2018 Winter}} || 83.45 || '''87.36''' || '''87.36''' || '''Q'''
+|- bgcolor=#ccffcc
+| 2 || 3 || align=left| [[Mark McMorris]] ||align=left| {{flagIOC|CAN|2018 Winter}} || 83.70 || '''86.83''' || '''86.83''' || '''Q'''
+|- bgcolor=#ccffcc
+| 3 || 5 || align=left| [[Redmond Gerard]] ||align=left| {{flagIOC|USA|2018 Winter}} || '''82.55''' || 57.11 || '''82.55''' || '''Q'''
+|- bgcolor=#ccffcc
+| 4 || 2 || align=left| [[Ståle Sandbech]] ||align=left| {{flagIOC|NOR|2018 Winter}} || 74.11 || '''82.13''' || '''82.13''' || '''Q'''
+|- bgcolor=#ccffcc
+| 5 || 1 || align=left| [[Tyler Nicholson]] ||align=left| {{flagIOC|CAN|2018 Winter}} || 17.41 || '''79.21''' || '''79.21''' || '''Q'''
+|- bgcolor=#ccffcc
+| 6 || 4 || align=left| [[Seppe Smits]] ||align=left| {{flagIOC|BEL|2018 Winter}} || '''78.36''' || 41.48 || '''78.36''' || '''Q'''
+|-
+| 7 || 17 || align=left| [[Clemens Millauer]] ||align=left| {{flagIOC|AUT|2018 Winter}} || 75.65 || '''77.45''' || '''77.45''' ||
+|-
+| 8 || 14 || align=left| [[Yuri Okubo]] ||align=left| {{flagIOC|JPN|2018 Winter}} || 24.45 || '''75.05''' || '''75.05''' ||
+|-
+| 9 || 12 || align=left| [[Jonas Bösiger]] ||align=left| {{flagIOC|SUI|2018 Winter}} || 18.68 || '''58.26''' || '''58.26''' ||
+|-
+| 10 || 11 || align=left| [[Billy Morgan (snowboarder)|Billy Morgan]] ||align=left| {{flagIOC|GBR|2018 Winter}} || '''56.40''' || 37.55 || '''56.40''' ||
+|-
+| 11 || 6 || align=left| [[Kyle Mack]] ||align=left| {{flagIOC|USA|2018 Winter}} || 45.26 || '''53.55''' || '''53.55''' ||
+|-
+| 12 || 9 || align=left| [[Matias Schmitt]] ||align=left| {{flagIOC|ARG|2018 Winter}} || '''50.86''' || 20.68 || '''50.86''' ||
+|-
+| 13 || 15 || align=left| [[Måns Hedberg]] ||align=left| {{flagIOC|SWE|2018 Winter}} || '''46.25''' || DNS || '''46.25''' ||
+|-
+| 14 || 7 || align=left| [[Hiroaki Kunitake]] ||align=left| {{flagIOC|JPN|2018 Winter}} || 39.45 || '''43.16''' || '''43.16''' ||
+|-
+| 15 || 18 || align=left| [[Petr Horák]] ||align=left| {{flagIOC|CZE|2018 Winter}} || '''41.93''' || 39.05 || '''41.93''' ||
+|-
+| 16 || 16 || align=left| [[Nicolas Huber]] ||align=left| {{flagIOC|SUI|2018 Winter}} || 34.25 || '''36.90''' || '''36.90''' ||
+|-
+| 17 || 13 || align=left| [[Stef Vandeweyer]] ||align=left| {{flagIOC|BEL|2018 Winter}} || '''33.75''' || 21.16 || '''33.75''' ||
+|-
+| 18 || 10 || align=left| [[Rowan Coultas]] ||align=left| {{flagIOC|GBR|2018 Winter}} || 23.20 || '''23.58''' || '''23.58''' ||
+|}
+
+===Final===
+The final was started at 11:04.<ref>[http://medias1.fis-ski.com/pdf/2018/SB/7071/2018SB7071RLF.pdf Final results]</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !!  Order !!  Name !!  Country !!  Run 1 !! Run 2 !! Run 3 !! Best !!  Notes
+|-
+| {{gold1}} || 8 || align=left| [[Redmond Gerard]] ||align=left| {{flagIOC|USA|2018 Winter}} ||43.33||46.40|| '''87.16''' || '''87.16''' ||
+|-
+| {{silver2}} || 12 || align=left| [[Maxence Parrot]] ||align=left| {{flagIOC|CAN|2018 Winter}} ||45.13|| 49.48
+||'''86.00'''||'''86.00'''||
+|-
+| {{bronze3}} || 10 || align=left| [[Mark McMorris]] ||align=left| {{flagIOC|CAN|2018 Winter}} ||75.30||'''85.20'''
+||60.68||'''85.20'''||
+|-
+| {{sort|04|4}} || 6 || align=left| [[Ståle Sandbech]] ||align=left| {{flagIOC|NOR|2018 Winter}} ||44.81||'''81.01'''|| 38.13 || '''81.01''' ||
+|-
+| {{sort|05|5}} || 9 || align=left| [[Carlos Garcia Knight]] ||align=left| {{flagIOC|NZL|2018 Winter}} ||'''78.60'''
+| 52.98
+||24.35||'''78.60'''||
+|-
+| {{sort|06|6}} || 11 || align=left| [[Marcus Kleveland]] ||align=left| {{flagIOC|NOR|2018 Winter}} ||'''77.76'''|| 43.71
+||37.18||'''77.76'''||
+|-
+| {{sort|07|7}} || 4 || align=left| [[Tyler Nicholson]] ||align=left| {{flagIOC|CAN|2018 Winter}} ||36.18|| '''76.41'''
+|| 76.15 || '''76.41''' || 
+|-
+| {{sort|08|8}} || 3 || align=left| [[Torgeir Bergrem]] ||align=left| {{flagIOC|NOR|2018 Winter}} ||58.80|| '''75.80'''
+|| 60.03 || '''75.80''' || 
+|-
+| {{sort|09|9}} || 1 || align=left| [[Niklas Mattsson]] ||align=left| {{flagIOC|SWE|2018 Winter}} ||38.43|| '''74.71'''
+|| 42.48 || '''74.71''' ||
+|-
+| 10 || 2 || align=left| [[Seppe Smits]] ||align=left| {{flagIOC|BEL|2018 Winter}} ||31.11|| '''69.03'''
+|| 66.18 || '''69.03''' ||
+|-
+| 11 || 7 || align=left| [[Sebastien Toutant]] ||align=left| {{flagIOC|CAN|2018 Winter}} || 33.66
+|57.23|| '''61.08''' ||'''61.08'''||
+|-
+| 12 || 5 || align=left| [[Mons Røisland]] ||align=left| {{flagIOC|NOR|2018 Winter}} || colspan=5 |DNS
+|}
+
+==References==
+{{reflist}}
+
+{{Footer Olympic Champions in Snowboarding Men}}
+
+{{DEFAULTSORT:Snowboarding at the 2018 Winter Olympics - Men's slopestyle}}
+[[Category:Men's snowboarding at the 2018 Winter Olympics]]

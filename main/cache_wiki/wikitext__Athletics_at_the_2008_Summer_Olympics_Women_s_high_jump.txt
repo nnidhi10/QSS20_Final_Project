@@ -1,0 +1,205 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Women's high jump
+|games = 2008 Summer 
+|image =
+|caption =
+|venue = [[Beijing National Stadium]]
+|dates = 21 August 2008 (qualification)<br/>23 August 2008 (final)
+|competitors = 31
+|nations     = 24
+|gold = [[Tia Hellebaut]]
+|goldNOC = BEL
+|silver = [[Blanka Vlašić]]
+|silverNOC = CRO
+|bronze = [[Chaunté Lowe|Chaunté Howard]]<ref name="ioc-sanctions-2016">[https://www.olympic.org/news/ioc-sanctions-anna-chicherova-for-failing-anti-doping-test-at-beijing-2008 Chicherova was officially stripped of her 2008 bronze medal on 6 October 2016, by the IOC following a positive test for Turinobol.]</ref><ref>{{cite news |url= https://www.nytimes.com/2016/11/21/sports/olympics/olympics-doping-medals-stripped.html |title= Olympics History Rewritten: New Doping Tests Topple the Podium |first= Rebecca R. |last= Ruiz |newspaper= New York Times |date= November 21, 2016 |access-date= July 7, 2017}}</ref>
+|bronzeNOC = USA
+| win_label = Winning height
+| win_value = 2.05
+|prev = [[Athletics at the 2004 Summer Olympics – Women's high jump|2004]]
+|next = [[Athletics at the 2012 Summer Olympics – Women's high jump|2012]]
+}}
+{{AthleticsAt2008SummerOlympics}}
+The '''women's [[high jump]]''' at the [[2008 Olympic Games]] took place on 21–23 August at the [[Beijing Olympic Stadium]].<ref>{{cite web|url=http://www.iaaf.org/OLY08/results/eventCode=3659/bydiscipline/index.html |title=Olympic Athletics Competition Schedule |access-date=2008-08-04 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080913131714/http://www.iaaf.org/OLY08/results/eventCode%3D3659/bydiscipline/index.html |archive-date=13 September 2008 |url-status=dead }}</ref>
+
+==Summary==
+The qualifying standards were 1.95 m (A standard) and 1.91 m (B standard).<ref>{{cite web|url=http://www.iaaf.org/OLY08/standards/index.html |title=Entry Standards - The XXIX Olympic Games - Beijing, China - 8/24 August 2008 |access-date=2008-08-04|publisher=[[IAAF]]| archive-url= https://web.archive.org/web/20080913131730/http://www.iaaf.org/OLY08/standards/index.html| archive-date= 13 September 2008 | url-status= live}}</ref>
+
+The field was narrowed to four athletes by 2.01m.  [[Blanka Vlašić]] was in the driver's seat, with a perfect round.  Vlašić remained in gold medal position by continuing her perfect round to 2.03m.  [[Anna Chicherova]] moved into silver position with a first attempt clearance as well.  [[Tia Hellebaut]] took two attempts to get over the height and was in bronze position.  [[Yelena Slesarenko]] couldn't get over the height and finished in fourth.  After Vlašić missed for the first time in the competition Hellebaut's fortunes reversed with a first attempt clearance of {{T&Fcalc|2.05}}, leapfrogging her into the lead.   Vlašić cleared on her second attempt, while Chicherova ended her competition with three straight misses.  The bar was moved up to an Olympic record 2.07m, just 2cm below the world record.  Neither competitor could get over 2.07m.
+
+Eight years after the competition, samples taken after the event were retested. Chicherova tested positive for [[dehydrochlormethyltestosterone]] (turinabol).  The fourth- and fifth-place finishers, [[Yelena Slesarenko]] and [[Vita Palamar]] also tested positive in the 2016 re-tests.  All three were disqualified from the Olympics, and their results were struck from the record.<ref name="17Nov2016"/> Medals of other athletes have been reallocated by IAAF.<ref>[https://www.iaaf.org/results/olympic-games/2008/the-xxix-olympic-games-3659/women/high-jump/final/series IAAF.org. The XXIX Olympic Games. High Jump women.]</ref>
+
+==Records==
+Prior to this competition, the existing world record, Olympic record, and world leading jump were as follows:
+
+{{World Olympic Record World Leading
+| world_athlete   = {{flagathlete|[[Stefka Kostadinova]]|BUL|1971}}
+| world_mark      = 2.09  	  	
+| world_place     = [[Rome]], [[Italy]]
+| world_date      = 30 August 1987
+| olympic_athlete = {{flagIOCathlete|[[Yelena Slesarenko]]|RUS|2004 Summer}}
+| olympic_mark    = 2.06  	 	 	 
+| olympic_place   = [[Athens]], [[Greece]]
+| olympic_date    = 28 August 2004
+| lead_athlete = {{flagathlete|[[Blanka Vlašić]]|CRO}} (2)
+| lead_mark = 2.06
+| lead_place = [[Istanbul]], Turkey<br>[[Madrid]], Spain
+| lead_date = 22 June 2008<br>5 July 2008
+}}
+
+No new world or Olympic records were set for this event.
+
+==Results==
+
+===Qualifying round===
+Qualification criteria: 1.96 (Q) or at least 12 best performers (q) advance to the final.
+
+{| class="wikitable sortable" style="text-align: center"
+! Rank !! Group !! Name !! Nationality !!1.80 !!1.85!!	1.89 !!1.93!! Result !! Notes
+|- bgcolor=ccffcc
+| 1 || B || align="left" | [[Marina Aitova]] || align="left" | {{flagIOC|KAZ|2008 Summer}} || o || o || o || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 1 || B || align="left" | [[Ruth Beitia]] || align="left" | {{flagIOC|ESP|2008 Summer}} || o || o || o || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 1 || A || align="left" | [[Tia Hellebaut]] || align="left" | {{flagIOC|BEL|2008 Summer}} || - || o || o || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 1 || B || align="left" | [[Vita Styopina]] || align="left" | {{flagIOC|UKR|2008 Summer}} || o || o || o || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 5 || B || align="left" | [[Antonietta Di Martino]] || align="left" | {{flagIOC|ITA|2008 Summer}}|| xo || o || o || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 5 || A || align="left" | [[Ariane Friedrich]] || align="left" | {{flagIOC|GER|2008 Summer}} || - || o || xo || '''o''' ||'''1.93'''||q
+|- bgcolor=ccffcc
+| 7 || B || align="left" | [[Iva Straková]] || align="left" | {{flagIOC|CZE|2008 Summer}} || o || o || xxo || '''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 8 || B || align="left" | [[Chaunté Lowe|Chaunté Howard]] || align="left" | {{flagIOC|USA|2008 Summer}} || o || o || o || x'''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 8 || A || align="left" | [[Svetlana Shkolina]] || align="left" | {{flagIOC|RUS|2008 Summer}} || o || o || o || x'''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 8 || B || align="left" | [[Blanka Vlašić]] || align="left" | {{flagIOC|CRO|2008 Summer}} || o || o || o || x'''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 11 || B || align="left" | [[Emma Green (athlete)|Emma Green]] || align="left" | {{flagIOC|SWE|2008 Summer}} || o || o || o || xx'''o'''||'''1.93'''||q
+|- bgcolor=ccffcc
+| 12 || A || align="left" | [[Romana Dubnová]] || align="left" | {{flagIOC|CZE|2008 Summer}} || o || xo || o || xx'''o'''||'''1.93'''||q
+|-
+| 13 || A || align="left" | [[Doreen Amata]] || align="left" | {{flagIOC|NGR|2008 Summer}} || o || o || '''o''' || xxx||'''1.89'''||
+|-
+| 13 || B || align="left" | [[Melanie Skotnik]] || align="left" | {{flagIOC|FRA|2008 Summer}} || o || o || '''o''' || xxx||'''1.89'''||
+|-
+| 15 || A || align="left" | [[Svetlana Radzivil]] || align="left" | {{flagIOC|UZB|2008 Summer}} || o || xo || '''o''' || xxx||'''1.89'''||
+|-
+| 16 || A || align="left" | [[Amy Acuff]] || align="left" | {{flagIOC|USA|2008 Summer}} || o || o || x'''o''' || xxx||'''1.89'''||
+|-
+| 16 || B || align="left" | [[Nicole Forrester]] || align="left" | {{flagIOC|CAN|2008 Summer}}|| o || o || x'''o''' || xxx||'''1.89'''||
+|-
+| 18 || B || align="left" | [[Anna Iljustsenko]] || align="left" | {{flagIOC|EST|2008 Summer}} || o || xxo || x'''o''' || xxx||'''1.89'''||
+|-
+| 19 || A || align="left" | [[Xingjuan Zheng]] || align="left" | {{flagIOC|CHN|2008 Summer}} || xo || o || xx'''o''' || xxx||'''1.89'''||
+|-
+| 20 || A || align="left" | [[Karina Vnukova]] || align="left" | {{flagIOC|LTU|2008 Summer}} || o || '''o''' || xxx ||  ||'''1.85'''||
+|-
+| 21 || A || align="left" | [[Sharon Day-Monroe|Sharon Day]] || align="left" | {{flagIOC|USA|2008 Summer}} || xo || '''o''' || xxx ||  ||'''1.85'''||
+|-
+| 22 || A || align="left" | [[Antonia Stergiou]] || align="left" | {{flagIOC|GRE|2008 Summer}}|| xo || '''o''' || xxx ||  ||'''1.85'''||
+|-
+| 23 || B || align="left" | [[Nadiya Dusanova]] || align="left" | {{flagIOC|UZB|2008 Summer}} || xxo || '''o''' || xxx ||  ||'''1.85'''||
+|-
+| 24 || B || align="left" | [[Levern Spencer]] || align="left" | {{flagIOC|LCA|2008 Summer}} || - || x'''o''' || xxx ||  ||'''1.85'''||
+|-
+| 25 || A || align="left" | [[Yekaterina Yevseyeva]] || align="left" | {{flagIOC|KAZ|2008 Summer}} || o || xx'''o''' || xxx ||  ||'''1.85'''||
+|-
+| 26 || A || align="left" | [[Noeng-Ruthai Chaipech]] || align="left" | {{flagIOC|THA|2008 Summer}} || '''o''' || xxx || || || '''1.80''' ||
+|-
+| 26 || A || align="left" | [[Inna Gliznuta]] || align="left" | {{flagIOC|MDA|2008 Summer}}|| '''o''' || xxx || || || '''1.80''' ||
+|-
+| {{Sort|99|}} || B || align="left" | [[Tatiana Efimenko]] || align="left" | {{flagIOC|KGZ|2008 Summer}} || xxx ||  || || || '''{{Sort|0.00|NM}}''' ||
+|-
+| {{Sort|99|}} || B || align="left" | [[Romary Rifka]] || align="left" | {{flagIOC|MEX|2008 Summer}} || xxx ||  || || || '''{{Sort|0.00|NM}}''' ||
+|-bgcolor=pink
+| '''DQ''' (8th) || A || align="left" | [[Vita Palamar]] || align="left"| {{flagIOC|UKR|2008 Summer}} || - || o || o || xo || <s>'''1.93''' </s>|| q
+|-bgcolor=pink
+| '''DQ''' (12th) || A || align="left"| [[Anna Chicherova]] || align="left" | {{flagIOC|RUS|2008 Summer}} ||  o || o  || xo || xo || <s>'''1.93'''</s>|| q
+|-bgcolor=pink
+| '''DQ''' (14th) || B || align="left"| [[Yelena Slesarenko]] || align="left"| {{flagIOC|RUS|2008 Summer}} || o || o || xo || xxo || <s>'''1.93''' </s>|| q
+|}
+<small>NM - No Mark</small>
+
+===Final===
+{| class="wikitable sortable" border="1" style="text-align:center"
+|-
+! Rank
+! Name !! Nationality
+! 1.85!!1.89!!1.93!!1.96!!1.99!!2.01!!2.03!!2.05!!2.07!!Height!!Notes
+|-
+| {{Gold1}} 
+| align="left"| [[Tia Hellebaut]] ||align="left"| {{flagIOC|BEL|2008 Summer}}
+| o||o||o||o||xo||xo||xo||'''o'''||x--||'''2.05'''|| NR 
+|-
+| {{Silver2}} 
+| align="left"| [[Blanka Vlašić]] ||align="left"| {{flagIOC|CRO|2008 Summer}}
+| o||o||o	||o||o||o||o||x'''o'''||xxx||'''2.05'''|| 
+|- 
+| {{Bronze3}}
+| align="left"| [[Chaunté Lowe|Chaunté Howard]] ||align="left"| {{flagIOC|USA|2008 Summer}}
+| o||o||xo||xo||xx'''o'''||xxx|| colspan="3"| || '''1.99''' || SB	
+|-
+| 4
+| align="left"| [[Ariane Friedrich]] ||align="left"| {{flagIOC|GER|2008 Summer}}
+| o||-||o||'''o'''||xxx|| colspan="4"| || '''1.96''' || 
+|-
+| 4
+| align="left"| [[Ruth Beitia]] ||align="left"| {{flagIOC|ESP|2008 Summer}}
+| o||o||o||'''o'''||xxx|| colspan="4"| || '''1.96''' || 
+|-
+| 6
+| align="left"| [[Emma Green (athlete)|Emma Green]] ||align="left"| {{flagIOC|SWE|2008 Summer}}
+| o||o||o||xx'''o'''||xxx|| colspan="4"| || '''1.96''' || SB
+|-
+| 7
+| align="left"| [[Marina Aitova]] ||align="left"| {{flagIOC|KAZ|2008 Summer}}
+| o||o||'''o'''||xxx|| colspan="5"| || '''1.93''' || 
+|-
+| 7
+| align="left"| [[Antonietta Di Martino]] ||align="left"| {{flagIOC|ITA|2008 Summer}}
+| o||o||'''o'''||xxx|| colspan="5"| || '''1.93''' || 
+|-
+| 9
+| align="left"| [[Iva Straková]] ||align="left"| {{flagIOC|CZE|2008 Summer}}
+| o||o||xx'''o'''||xxx|| colspan="5"|	 || '''1.93''' || 
+|-
+| 9
+| align="left"| [[Vita Styopina]] ||align="left"| {{flagIOC|UKR|2008 Summer}}
+| o||o||xx'''o'''||xxx|| colspan="5"| || '''1.93''' || 
+|-
+| 11
+| align="left"| [[Svetlana Shkolina]] ||align="left"| {{flagIOC|RUS|2008 Summer}}
+| o||xo||xx'''o'''||xxx|| colspan="5"| || '''1.93''' || 
+|-
+| 12
+| align="left"| [[Romana Dubnová]] ||align="left"| {{flagIOC|CZE|2008 Summer}}
+| o||x'''o'''||x-|| colspan="6"| || '''1.89''' || 
+|- bgcolor=pink
+|'''DQ''' (3rd)<ref name="ioc-sanctions-2016" />
+| align="left"| [[Anna Chicherova]] ||align="left"| {{flagIOC|RUS|2008 Summer}}
+| o||o||o||xo||xxo||o||'''o'''||xxx|| || <s>'''2.03'''</s>||
+|-bgcolor=pink
+|'''DQ''' (4th)<ref name="17Nov2016">{{cite web|title=IOC sanctions 16 athletes for failing anti-doping test at Beijing 2008 |url=https://www.olympic.org/news/ioc-sanctions-16-athletes-for-failing-anti-doping-tests-at-beijing-2008|publisher=[[IOC]]|access-date=17 November 2016}}</ref>
+| align="left"| [[Yelena Slesarenko]] ||align="left"| {{flagIOC|RUS|2008 Summer}}
+| o||o||xo||xo||xo||x'''o'''||xxx|| colspan="2"| ||<s>'''2.01'''</s>||
+|-bgcolor=pink
+|'''DQ''' (5th)<ref name="17Nov2016"/>
+| align="left"| [[Vita Palamar]] ||align="left"| {{flagIOC|UKR|2008 Summer}}
+| o||o||o||xo||x'''o'''||xx-||x|| colspan="2"| ||<s>'''1.99'''</s>|| 
+|}
+<small>NR = National Record / PB = Personal Best / SB = Season Best</small>
+
+==References==
+{{reflist}}
+<br />
+{{OlympicsHighJump}}
+{{Footer Olympic Champions High Jump Women}}
+
+{{DEFAULTSORT:Athletics at the 2008 Summer Olympics - Women's high jump}}
+[[Category:Athletics at the 2008 Summer Olympics]]
+[[Category:High jump at the Olympics]]
+[[Category:2008 in women's sport of athletics]]
+[[Category:Women's events at the 2008 Summer Olympics]]

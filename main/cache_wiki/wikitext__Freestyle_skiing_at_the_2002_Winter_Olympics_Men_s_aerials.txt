@@ -1,0 +1,124 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox Olympic event
+|event = Men's aerials
+|games = 2002 Winter
+|image = Olympic rings without rims.svg
+|image_size = 150px
+|venue = [[Park City, Utah|Park City]]
+|dates = 16 February (qualification)<br>19 February (final)
+|competitors = 25
+|nations = 11
+|gold = [[Aleš Valenta]]
+|goldNOC = CZE
+|silver = [[Joe Pack]]
+|silverNOC = USA
+|bronze = [[Alexei Grishin]]
+|bronzeNOC = BLR
+|win_label = Winning score
+|win_value = 257.02
+|prev=[[Freestyle skiing at the 1998 Winter Olympics – Men's aerials|1998]]
+|next=[[Freestyle skiing at the 2006 Winter Olympics – Men's aerials|2006]]
+}}
+{{Freestyle skiing at the 2002 Winter Olympics}}
+The '''Men's Aerials''' event in '''[[freestyle skiing]]''' at the '''[[2002 Winter Olympics]]''' in [[Salt Lake City]], [[United States]] took place on 16 and 19 February at [[Park City, Utah|Park City]].<ref>{{cite web|url=https://www.olympedia.org/results/1849 |title=Freestyle Skiing at the 2002 Winter Olympics: Aerials, Men |work=Olympedia |accessdate=9 July 2020}}</ref>
+
+==Results==
+===Qualification===
+The qualification was held on 16 February at 13:30.<ref>[http://medias4.fis-ski.com/pdf/2002/FS/8156/8156QRL.pdf Qualification results]</ref> The top 12 advanced to the final.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !!Name !!Country!!Jump 1!!Jump 2!!Total!!Notes
+|-bgcolor="#ccffcc"
+| 1 ||align=left| [[Alexei Grishin]] ||align=left| {{flagIOC|BLR|2002 Winter}} || 130.38||121.38||251.76||'''Q'''
+|-bgcolor="#ccffcc"
+| 2 ||align=left| [[Eric Bergoust]] ||align=left| {{flagIOC|USA|2002 Winter}} || 127.71||116.59||244.30||'''Q'''
+|-bgcolor="#ccffcc"
+| 3 ||align=left| [[Joe Pack]] ||align=left| {{flagIOC|USA|2002 Winter}} ||124.82||118.44||243.28||'''Q'''
+|-bgcolor="#ccffcc"
+| 4 ||align=left| [[Steve Omischl]] ||align=left| {{flagIOC|CAN|2002 Winter}} ||115.92||126.38||242.30||'''Q'''
+|-bgcolor="#ccffcc"
+| 5 ||align=left|  [[Dmitry Rak]] ||align=left| {{flagIOC|BLR|2002 Winter}} ||115.83||125.04||240.87||'''Q'''
+|-bgcolor="#ccffcc"
+| 6 ||align=left|  [[Andy Capicik]] ||align=left| {{flagIOC|CAN|2002 Winter}} ||118.65||121.04||239.69||'''Q'''
+|-bgcolor="#ccffcc"
+| 7 ||align=left|  [[Jeret Peterson]] ||align=left| {{flagIOC|USA|2002 Winter}} ||119.91||117.48||237.39||'''Q'''
+|-bgcolor="#ccffcc"
+| 8 ||align=left|  [[Aleš Valenta]] ||align=left| {{flagIOC|CZE|2002 Winter}} ||119.48||115.03||234.51||'''Q'''
+|-bgcolor="#ccffcc"
+| 9 ||align=left| [[Jeff Bean]] ||align=left| {{flagIOC|CAN|2002 Winter}} ||122.82||107.46||230.28||'''Q'''
+|-bgcolor="#ccffcc"
+| 10 ||align=left| [[Brian Currutt]] ||align=left| {{flagIOC|USA|2002 Winter}} ||104.08||121.93||226.01||'''Q'''
+|-bgcolor="#ccffcc"
+| 11 ||align=left|  [[Stanislav Kravchuk]] ||align=left| {{flagIOC|UKR|2002 Winter}} ||111.02||114.66||225.68||'''Q'''
+|-bgcolor="#ccffcc"
+| 12 ||align=left| [[Dmitri Dashinski]] ||align=left| {{flagIOC|BLR|2002 Winter}} ||98.56||121.38||219.94||'''Q'''
+|-
+| 13 ||align=left| [[Christian Kaufmann (skier)|Christian Kaufmann]] ||align=left| {{flagIOC|SUI|2002 Winter}} ||111.78||103.12||214.90||
+|-
+| 14 ||align=left| [[Vladimir Lebedev (skier)|Vladimir Lebedev]] ||align=left| {{flagIOC|RUS|2002 Winter}} ||101.46||112.38||213.84||
+|-
+| 15 ||align=left| [[Dmitry Arkhipov (skier)|Dmitry Arkhipov]] ||align=left| {{flagIOC|RUS|2002 Winter}} ||91.89||120.81||212.70||
+|-
+| 16 ||align=left|[[Nicolas Fontaine (skier)|Nicolas Fontaine]] ||align=left| {{flagIOC|CAN|2002 Winter}} ||89.89||122.59||212.48||
+|-
+| 17 ||align=left|[[Miha Gale]] ||align=left| {{flagIOC|SLO|2002 Winter}} ||96.81||96.39||193.20||
+|-
+| 18 ||align=left|[[Qiu Sen]] ||align=left| {{flagIOC|CHN|2002 Winter}} ||93.75||93.67||187.42||
+|-
+| 19 ||align=left|[[Ou Xiaotao]] ||align=left| {{flagIOC|CHN|2002 Winter}} ||88.55||86.46||175.01||
+|-
+| 20 ||align=left|[[Taku Nakanishi]]||align=left| {{flagIOC|JPN|2002 Winter}} ||79.89||83.00||162.89||
+|-
+| 21 ||align=left|[[Martin Walti]]||align=left| {{flagIOC|SUI|2002 Winter}} ||81.59||78.97||160.56||
+|-
+| 22 ||align=left|[[Enver Ablaev]]||align=left| {{flagIOC|UKR|2002 Winter}} ||102.87||53.97||156.84||
+|-
+| 23 ||align=left|[[Aleksandr Mikhaylov (skier)|Alexander Mikhailov]]||align=left| {{flagIOC|RUS|2002 Winter}} ||70.98||75.65||146.63||
+|-
+| 24 ||align=left|[[Han Xiaopeng]]||align=left| {{flagIOC|CHN|2002 Winter}} ||73.71||71.20||144.91||
+|-
+| 25 ||align=left|[[Clyde Getty]]||align=left| {{flagIOC|ARG|2002 Winter}} ||60.32||56.70||117.02||
+|}
+
+===Final===
+The final was held on 19 February at 12:00.<ref>[http://medias1.fis-ski.com/pdf/2002/FS/8156/8156FRL.pdf Final results]</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! Rank !!  Athlete !! Jump 1 !! Jump 2 !! Total
+|-
+|[[Image:Gold medal icon.svg]] ||align="left"| {{flagIOCathlete|[[Aleš Valenta]]|CZE|2002 Winter}}  || 127.04 || 129.98 || 257.02
+|-
+|[[Image:Silver medal icon.svg]] ||align="left"| {{flagIOCathlete|[[Joe Pack]]|USA|2002 Winter}}  || 129.49 || 122.15 || 251.64
+|-
+|[[Image:Bronze medal icon.svg]] ||align="left"| {{flagIOCathlete|[[Alexei Grishin]]|BLR|2002 Winter}}  || 129.71 || 121.48 || 251.19
+|-
+| 4 ||align="left"| {{flagIOCathlete|[[Jeff Bean]]|CAN|2002 Winter}}  || 128.60 || 122.37 || 250.97
+|-
+| 5 ||align="left"| {{flagIOCathlete|[[Stanislav Kravchuk]]|UKR|2002 Winter}}  || 125.49 || 120.81 || 246.30
+|-
+| 6 ||align="left"| {{flagIOCathlete|[[Brian Currutt]]|USA|2002 Winter}} || 123.93 || 121.26 || 245.19
+|-
+| 7 ||align="left"| {{flagIOCathlete|[[Dmitri Dashinski]]|BLR|2002 Winter}}  || 127.04 || 117.25 || 244.29
+|-
+| 8 ||align="left"| {{flagIOCathlete|[[Andy Capicik]]|CAN|2002 Winter}}  || 117.18 || 126.60 || 243.78
+|-
+| 9 ||align="left"| {{flagIOCathlete|[[Jeret Peterson]]|USA|2002 Winter}}  || 112.56 || 125.49 || 238.05
+|-
+| 10 ||align="left"| {{flagIOCathlete|[[Dmitri Rak]]|BLR|2002 Winter}}  || 98.41 || 127.93 || 226.34
+|-
+| 11 ||align="left"| {{flagIOCathlete|[[Steve Omischl]]|CAN|2002 Winter}}  || 100.34 || 121.70 || 222.04
+|-
+| 12 ||align="left"| {{flagIOCathlete|[[Eric Bergoust]]|USA|2002 Winter}}  || 130.38 || 88.11 || 218.49
+|}
+
+==References==
+{{reflist}}
+
+{{Footer Olympic Champions In Freestyle Skiing Men}}
+
+{{DEFAULTSORT:Freestyle Skiing At The 2002 Winter Olympics - Men's Moguls}}
+[[Category:Men's freestyle skiing at the 2002 Winter Olympics]]
+[[Category:Men's events at the 2002 Winter Olympics]]

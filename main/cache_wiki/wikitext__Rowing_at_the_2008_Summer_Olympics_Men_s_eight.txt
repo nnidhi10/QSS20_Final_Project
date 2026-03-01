@@ -1,0 +1,234 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox Olympic event
+|event = Men's eight
+|games = 2008 Summer
+|image = 2008. Stamp of Belarus 17-2008-08-11-m.jpg
+|caption = Belarus stamp commemorating rowing at the 2008 Olympics
+|venue = [[Shunyi Olympic Rowing-Canoeing Park]]
+|dates = August 11, 2008 Heats <br>August 12, 2008 Repechage<br>August 16, 2008 Final B<br>August 17, 2008 Final A
+|competitors = 75
+|nations = 8
+|win_value = 5:23.89
+|gold = {{flagIOC|CAN|2008 Summer}}<br/>{{hlist|[[Kevin Light]]|[[Ben Rutledge]]|[[Andrew Byrnes]]|[[Jake Wetzel]]|[[Malcolm Howard (rower)|Malcolm Howard]]|[[Dominic Seiterle]]|[[Adam Kreek]]|[[Kyle Hamilton (rower)|Kyle Hamilton]]|[[Brian Price (rowing)|Brian Price]]}}
+|silver = {{flagIOC|GBR|2008 Summer}}<br/>{{hlist|[[Alex Partridge]]|[[Tom Stallard]]|[[Tom Lucy]]|[[Richard Egington]]|[[Josh West (rower)|Josh West]]|[[Alastair Heathcote]]|[[Matt Langridge]]|[[Colin Smith (British rower)|Colin Smith]]|[[Acer Nethercott]]}}
+|bronze = {{flagIOC|USA|2008 Summer}}<br/>{{hlist|[[Beau Hoopman]]|[[Matt Schnobrich]]|[[Micah Boyd]]|[[Wyatt Allen]]|[[Dan Walsh (rower)|Dan Walsh]]|[[Steven Coppola]]|[[Josh Inman]]|[[Brian Volpenhein]]|[[Marcus McElhenney]]}}
+|prev = [[Rowing at the 2004 Summer Olympics – Men's eight|2004]]
+|next = [[Rowing at the 2012 Summer Olympics – Men's eight|2012]]
+}}
+{{Rowing at the 2008 Summer Olympics}}
+
+The men's [[eight (rowing)|eight]] (M8+) competition at the [[2008 Summer Olympics]] in [[Beijing]] was held from August 11 to August 17 at the [[Shunyi Olympic Rowing-Canoeing Park]]. Seven of nine national teams returned from the [[Rowing at the 2004 Summer Olympics – Men's eight|men's eight competition at the 2004 Summer Olympics]] to compete again, joined by [[China|the host nation]].<ref name="SR">{{cite web|url=https://www.sports-reference.com/olympics/summer/2008/ROW/mens-coxed-eights.html |archive-url=https://web.archive.org/web/20200418125003/https://www.sports-reference.com/olympics/summer/2008/ROW/mens-coxed-eights.html |url-status=dead |archive-date=18 April 2020 |title=Rowing at the 2008 Beijing Summer Games: Men's Coxed Eights |work=Sports Reference |access-date=28 September 2018}}</ref> A total of 75 competitors took part, with three substitutions made during the competition. The event was won by Canada, the nation's first victory in the men's eight since 1992 and third overall (tying Great Britain for second-most, behind the United States' 12). The British team took silver, with the Americans finishing with the bronze medal.
+{{TOC limit|3}}
+==Background==
+
+This was the 25th appearance of the event. Rowing had been on the programme in 1896 but was cancelled due to bad weather. The men's eight has been held every time that rowing has been contested, beginning in 1900.<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/261034 |title=Eight, Men |work=Olympedia |access-date=9 June 2021}}</ref>
+
+The field was competitive. The top two teams were both from North America: the United States was the reigning Olympic champion, the 2005 World Champion, and the 2007 Pan American champion; Canada was the reigning (2007) World Champion. Germany was also strong, winning the 2006 World Championship and being the runner-up in 2007.<ref name=Olympedia/>
+
+For the second consecutive Games, no nations made their debut in the event. The United States made its 22nd appearance, most among nations to that point.
+
+==Qualification==
+{{main|Rowing at the 2008 Summer Olympics – Qualification}}
+
+Nations had been limited to one boat each since 1920. The 8 qualifiers were:
+
+* 7 boats from the 2007 World Championships
+* 1 boat from the Final Qualification Regatta
+
+==Competition format==
+
+The [[2008 Summer Olympics]] [[Rowing (sport)#Terminology and event nomenclature|M8+]] [[Rowing at the Summer Olympics|rowing competition]] consisted of eight teams, split into two four-team heats.  Each team fielded a boat crewed by eight rowers and a [[coxswain]]. Each rower used a single oar, with four oars on each side of the boat. The winner of each heat qualified for the "Final A" (or medal final). The remaining six teams competed in the [[repechage]] round, with the top four from that round qualifying for the "Final A" round. The last two teams in the repechage competed in the "Final B".
+
+The final ranking for [[rowing at the 2008 Summer Olympics]] was based on the order of finish in the two finals. The top three of the "Final A" teams earned Olympic medals for placing first, second, and third, while the remaining "Final A" teams placed fourth through sixth, according to their "Final A" finish. The "Final B" competition determined who places seventh and eight in the event's final ranking.
+
+==Schedule==
+
+<small>All times are [[China Standard Time]] ([[UTC+8]])</small>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Monday, August 11, 2008 || '''15:10''' || '''Semifinals'''
+|-
+| Tuesday, August 12, 2008 || '''17:10''' || '''Repechage'''
+|-
+| Saturday, August 16, 2008 || '''15:20''' || '''Final B'''
+|- style=background:lemonchiffon
+| Sunday, August 17, 2008 || '''17:30''' || '''Final A'''
+|}
+
+==Results==
+
+===Semifinals===
+
+====Semifinal 1====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Rowers || Coxswain || Nation || Time || Notes
+|- bgcolor=bbf3bb
+|1
+| {{hlist|[[Kevin Light]]|[[Ben Rutledge]]|[[Andrew Byrnes]]|[[Jake Wetzel]]|[[Malcolm Howard (rower)|Malcolm Howard]]|[[Dominic Seiterle]]|[[Adam Kreek]]|[[Kyle Hamilton (rower)|Kyle Hamilton]]}} ||align=left| [[Brian Price (rowing)|Brian Price]]
+|align=left| {{flagIOC|CAN|2008 Summer}}
+|5:27.69 
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf9ff
+|2
+| {{hlist|[[Sebastian Kosiorek]]|[[Michał Stawowski]]|[[Patryk Brzeziński]]|[[Sławomir Kruszkowski]]|[[Rafał Hejmej]]|[[Marcin Brzeziński]]|[[Wojciech Gutorski]]|[[Mikołaj Burda]]}} ||align=left| [[Daniel Trojanowski]]
+|align=left| {{flagIOC|POL|2008 Summer}}
+|5:34.95
+| {{abbr|R|Repechage}}
+|- bgcolor=bbf9ff
+|3
+| {{hlist|[[Olivier Siegelaar]]|[[Rogier Blink]]|[[Meindert Klem]]|[[Jozef Klaassen]]|[[David Kuiper]]|[[Mitchel Steenman]]|[[Olaf van Andel]]|[[Diederik Simon]]}} ||align=left| [[Peter Wiersum]]
+|align=left| {{flagIOC|NED|2008 Summer}}
+|5:40.43
+| {{abbr|R|Repechage}}
+|- bgcolor=bbf9ff
+|4
+| {{hlist|[[David Dennis (rower)|David Dennis]]|[[Samuel Loch]]|[[James Chapman (rower)|James Chapman]]|[[Tom Laurich]]|[[Jeremy Stevenson (rower)|Jeremy Stevenson]]|[[James Tomkins (rower)|James Tomkins]]|[[Sam Conrad]]|[[Stephen Stewart (rower)|Stephen Stewart]]}} ||align=left| [[Marty Rabjohns]]
+|align=left| {{flagIOC|AUS|2008 Summer}}
+|6:55.59 
+| {{abbr|R|Repechage}}
+|}
+
+====Semifinal 2====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Rowers || Coxswain || Nation || Time || Notes
+|- bgcolor=bbf3bb
+|1
+| {{hlist|[[Alex Partridge]]|[[Tom Stallard]]|[[Tom Lucy]]|[[Richard Egington]]|[[Josh West (rower)|Josh West]]|[[Alastair Heathcote]]|[[Matt Langridge]]|[[Colin Smith (British rower)|Colin Smith]]}} ||align=left| [[Acer Nethercott]]
+|align=left| {{flagIOC|GBR|2008 Summer}}
+|5:25.89 
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf9ff
+|2
+| {{hlist|[[Beau Hoopman]]|[[Matt Schnobrich]]|[[Micah Boyd]]|[[Wyatt Allen]]|[[Dan Walsh (rower)|Dan Walsh]]|[[Steven Coppola]]|[[Josh Inman]]|[[Bryan Volpenhein]]}} ||align=left| [[Marcus McElhenney]]
+|align=left| {{flagIOC|USA|2008 Summer}}
+|5:29.60 
+| {{abbr|R|Repechage}}
+|- bgcolor=bbf9ff
+|3
+| {{hlist|[[Qu Xiaoming]]|[[Wang Jingfeng]]|[[Liu Zhen (rower)|Liu Zhen]]|[[He Yi (rower)|He Yi]]|[[Zhang Shunyin]]|[[Zhou Yinan]]|[[Zhang Yongqiang]]|[[Wang Xiangdang]]}} ||align=left| [[Zhang Dechang]]
+|align=left| {{flagIOC|CHN|2008 Summer}}
+|5:35.09 
+| {{abbr|R|Repechage}}
+|- bgcolor=bbf9ff
+|4
+|| {{hlist|[[Florian Eichner]]|[[Sebastian Schmidt (sculler)|Sebastian Schmidt]]|[[Matthias Flach (rower)|Matthias Flach]]|[[Philipp Naruhn]]|[[Jochen Urban]]|[[Florian Mennigen]]|[[Kristof Wilke]]|[[Andreas Penkner]]}} ||align=left| [[Peter Thiede]]
+|align=left| {{flagIOC|GER|2008 Summer}}
+|5:37.56
+| {{abbr|R|Repechage}}
+|}
+
+===Repechage===
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Rowers || Coxswain || Nation || Time || Notes
+|- bgcolor=bbf3bb
+|1
+| {{hlist|[[Beau Hoopman]]|[[Matt Schnobrich]]|[[Micah Boyd]]|[[Wyatt Allen]]|[[Dan Walsh (rower)|Dan Walsh]]|[[Steven Coppola]]|[[Josh Inman]]|[[Bryan Volpenhein]]}} ||align=left| [[Marcus McElhenney]]
+|align=left| {{flagIOC|USA|2008 Summer}}
+|5:38.95
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf3bb
+|2
+| {{hlist|[[Reinder Lubbers]]|[[Rogier Blink]]|[[Meindert Klem]]|[[Jozef Klaassen]]|[[David Kuiper]]|[[Mitchel Steenman]]|[[Olaf van Andel]]|[[Diederik Simon]]}} ||align=left| [[Peter Wiersum]]
+|align=left| {{flagIOC|NED|2008 Summer}}
+|5:40.31
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf3bb
+|3
+| {{hlist|[[David Dennis (rower)|David Dennis]]|[[Samuel Loch]]|[[James Chapman (rower)|James Chapman]]|[[Tom Laurich]]|[[Jeremy Stevenson (rower)|Jeremy Stevenson]]|[[James Tomkins (rower)|James Tomkins]]|[[Sam Conrad]]|[[Stephen Stewart (rower)|Stephen Stewart]]}} ||align=left| [[Marty Rabjohns]]
+|align=left| {{flagIOC|AUS|2008 Summer}}
+|5:42.62
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf3bb
+|4
+| {{hlist|[[Sebastian Kosiorek]]|[[Michał Stawowski]]|[[Patryk Brzeziński]]|[[Sławomir Kruszkowski]]|[[Rafał Hejmej]]|[[Marcin Brzeziński]]|[[Wojciech Gutorski]]|[[Mikołaj Burda]]}} ||align=left| [[Daniel Trojanowski]]
+|align=left| {{flagIOC|POL|2008 Summer}}
+|5:42.92
+| {{abbr|QA|Qualified for Final A}}
+|- bgcolor=bbf9ff
+|5
+| {{hlist|[[Qu Xiaoming]]|[[Wang Jingfeng]]|[[Liu Zhen (rower)|Liu Zhen]]|[[He Yi (rower)|He Yi]]|[[Zheng Chuanqi]]|[[Zhou Yinan]]|[[Zhang Yongqiang]]|[[Wang Xiangdang]]}} ||align=left| [[Zhang Dechang]]
+|align=left| {{flagIOC|CHN|2008 Summer}}
+|5:42.97
+| {{abbr|QB|Qualified for Final B}}
+|- bgcolor=bbf9ff
+|6
+| {{hlist|[[Florian Eichner]]|[[Sebastian Schmidt (sculler)|Sebastian Schmidt]]|[[Matthias Flach (rower)|Matthias Flach]]|[[Philipp Naruhn]]|[[Jochen Urban]]|[[Florian Mennigen]]|[[Kristof Wilke]]|[[Andreas Penkner]]}} ||align=left| [[Peter Thiede]]
+|align=left| {{flagIOC|GER|2008 Summer}}
+|5:47.05
+| {{abbr|QB|Qualified for Final B}}
+|}
+
+===Finals===
+
+====Final B====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Rowers || Coxswain || Nation || Time
+|-
+| 7
+| {{hlist|[[Qu Xiaoming]]|[[Wang Jingfeng]]|[[Liu Zhen (rower)|Liu Zhen]]|[[He Yi (rower)|He Yi]]|[[Zheng Chuanqi]]|[[Zhou Yinan]]|[[Zhang Yongqiang]]|[[Wang Xiangdang]]}} ||align=left| [[Zhang Dechang]]
+|align=left| {{flagIOC|CHN|2008 Summer}}
+|5:34.59
+|-
+| 8
+| {{hlist|[[Florian Eichner]]|[[Sebastian Schmidt (rower)|Sebastian Schmidt]]|[[Matthias Flach (rower)|Matthias Flach]]|[[Philipp Naruhn]]|[[Jochen Urban]]|[[Florian Mennigen]]|[[Kristof Wilke]]|[[Andreas Penkner]]}} ||align=left| [[Peter Thiede]]
+|align=left| {{flagIOC|GER|2008 Summer}}
+|5:36.89
+|}
+
+====Final A====
+
+The winners of the heats, [[Canada at the 2008 Summer Olympics|Canada]] and [[Great Britain at the 2008 Summer Olympics|Great Britain]], took the gold and silver medals; the winner of the [[repechage]], [[United States at the 2008 Summer Olympics|United States]], took the bronze.
+
+Canada's Olympic M8+ rowing championship followed their [[2007 World Rowing Championships|2007 World M8+ Rowing Championship]], making the Canadian crew the first world champion in 35 years to follow up with Olympic gold.<ref>[http://www.iht.com/articles/ap/2008/08/17/sports/AS-OLY-ROW-Mens-Eight.php Canada wins men's 8 rowing], an August 17, 2008 [[Associated Press]] article via the ''[[International Herald Tribune]]''</ref> Canada finished in 5:23.89, about four seconds off the [[Rowing world records#Men|world record time of 5:19.85]] set by the U.S. team during the [[Rowing at the 2004 Summer Olympics – Men's eight#Heat 2 (August 15)|second heat of the Men's eight at the 2004 Summer Olympics in Athens]].<ref>[http://results.beijing2008.cn/WRM/ENG/INF/RO/C73/ROM083101.shtml Results Men's Eight Final A] from the official website of the Beijing 2008 Olympic Games</ref>"
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Rowers || Coxswain || Nation || Time
+|-
+| {{gold1}}
+| {{hlist|[[Kevin Light]]|[[Ben Rutledge]]|[[Andrew Byrnes]]|[[Jake Wetzel]]|[[Malcolm Howard (rower)|Malcolm Howard]]|[[Dominic Seiterle]]|[[Adam Kreek]]|[[Kyle Hamilton (rower)|Kyle Hamilton]]}} ||align=left| [[Brian Price (rowing)|Brian Price]]
+|align=left| {{flagIOC|CAN|2008 Summer}}
+|5:23.89 
+|-
+| {{silver2}}
+| {{hlist|[[Alex Partridge]]|[[Tom Stallard]]|[[Tom Lucy]]|[[Richard Egington]]|[[Josh West (rower)|Josh West]]|[[Alastair Heathcote]]|[[Matt Langridge]]|[[Colin Smith (British rower)|Colin Smith]]}} ||align=left| [[Acer Nethercott]]
+|align=left| {{flagIOC|GBR|2008 Summer}}
+|5:25.11
+|-
+| {{bronze3}}
+| {{hlist|[[Beau Hoopman]]|[[Matt Schnobrich]]|[[Micah Boyd]]|[[Wyatt Allen]]|[[Dan Walsh (rower)|Dan Walsh]]|[[Steven Coppola]]|[[Josh Inman]]|[[Bryan Volpenhein]]}} ||align=left| [[Marcus McElhenney]]
+|align=left| {{flagIOC|USA|2008 Summer}}
+|5:25.34
+|-
+| 4
+| {{hlist|[[Olivier Siegelaar]]|[[Rogier Blink]]|[[Meindert Klem]]|[[Jozef Klaassen]]|[[David Kuiper]]|[[Mitchel Steenman]]|[[Olaf van Andel]]|[[Diederik Simon]]}} ||align=left| [[Peter Wiersum]]
+|align=left| {{flagIOC|NED|2008 Summer}}
+|5:29.26
+|-
+| 5
+| {{hlist|[[Sebastian Kosiorek]]|[[Michał Stawowski]]|[[Patryk Brzeziński]]|[[Sławomir Kruszkowski]]|[[Rafał Hejmej]]|[[Marcin Brzeziński]]|[[Wojciech Gutorski]]|[[Mikołaj Burda]]}} ||align=left| [[Daniel Trojanowski]]
+|align=left| {{flagIOC|POL|2008 Summer}}
+|5:31.42
+|-
+| 6
+| {{hlist|[[David Dennis (rower)|David Dennis]]|[[Samuel Loch]]|[[James Chapman (rower)|James Chapman]]|[[Tom Laurich]]|[[Jeremy Stevenson (rower)|Jeremy Stevenson]]|[[James Tomkins (rower)|James Tomkins]]|[[Sam Conrad]]|[[Stephen Stewart (rower)|Stephen Stewart]]}} ||align=left| [[Marty Rabjohns]]
+|align=left| {{flagIOC|AUS|2008 Summer}}
+|5:35.10
+|}
+
+==References==
+{{Reflist}}
+
+{{Olympic champions – Men's eight}}
+
+{{DEFAULTSORT:Rowing At The 2008 Summer Olympics - Men's Eight}}
+[[Category:Rowing at the 2008 Summer Olympics]]
+[[Category:Men's events at the 2008 Summer Olympics]]

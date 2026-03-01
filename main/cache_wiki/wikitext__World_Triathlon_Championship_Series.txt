@@ -1,0 +1,943 @@
+{{short description|World championship series in the sport of triathlon}}
+{{Infobox sports league
+| title           = World Triathlon Championship Series
+| current_season  = <!-- do not wikilink -->
+| current_season2 = <!-- do not wikilink -->
+| last_season     = <!-- do not wikilink -->
+| upcoming_season = <!-- do not wikilink; replace with current_season at the start of the new season -->
+| logo            = World Triathlon Championship Series logo.svg
+| pixels          = 300px
+| caption         = 
+| formerly        = 
+| sport           = [[Triathlon]] <!-- or | game = --><!-- does not need to be wikilinked. This parameter is also 
+used to help automatically switch the "current_season" image to be more specific
+to replace the generic current event image (see below). Currently supports:
+American football, athletics, Australian rules football, baseball, basketball, boxing, cricket, cue sports, curling, cycling, golf, gymnastics, hockey, lacrosse,
+motorsports, netball, Olympics, poker, pro wrestling, rugby, soccer, softball,
+speed skating, squash, swimming, table tennis, tennis, volleyball.-->
+| founded         = 
+| folded          = 
+| replaced        = 
+| owner           = 
+| ceo             = <!-- chief executive officer -->
+| coo             = <!-- chief operating officer -->
+| director        = 
+| president       = 
+| commissioner    = 
+| fame            = <!--what the league is famous for...the "claim to fame"...avoid use if possible-->
+| motto           = 
+| inaugural       = [[2009 ITU World Championship Series|2009]]
+| teams           = 
+| singles         = 
+| country         = <!-- or | countries = -->
+| venue           = 
+| confed          = <!-- or | continent = or | continents = -->
+| champion        = {{flagathlete|[[Matthew Hauser]]|AUS}}<br />{{flagathlete|[[Lisa Tertsch]]|GER}}
+| champ_season    = 
+| most_champs     = {{nowrap|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}} (5)}}
+| classification  = 
+| qualification   = 
+| tv              = 
+| sponsor         = 
+| investor        = 
+| related_comps   = 
+| founder         = 
+| levels          = 
+| promotion       = 
+| relegation      = 
+| domestic_cup    = 
+| website         = [https://wtcs.triathlon.org/ wtcs.triathlon.org]
+| footnotes       = 
+| current         = [[2025 World Triathlon Championship Series]]
+}}
+
+The '''World Triathlon Championship Series''' is an annual series of [[triathlon]] events organised by [[World Triathlon]]. The series is used to crown an annual world champion since 2008.  Previously, the ITU (the former name of World Triathlon) world champion between 1989 and 2008 had been decided in a single annual championship race.
+
+The Championship Series consists of multiple rounds of competitions culminating in a Grand Final race. Athletes compete head-to-head for points in these races that will determine the overall World Triathlon champion. The elite championship races are held, with one exception, over one of two distances, the standard or 'Olympic' distance (1.5 km swim, 40 km bike, 10 km run) which lasts between 1.5 and two hours, and the sprint distance, which is half of the standard distance and lasts around one hour (750 m swim, 20 km bike, 5 km run). 
+
+Since 2018 a mixed relay series has been run in tandem, where national teams compete in mixed team relays for prize money and Olympic qualifying points.<ref name=":0">{{Cite web|url=https://media.triathlon.org/uploads/2018-WTS-Media-Guide.pdf|title=2018-WTS-Media-Guide|date=23 August 2018|archive-url=https://web.archive.org/web/20180311022841/https://media.triathlon.org/uploads/2018-WTS-Media-Guide.pdf|archive-date=11 March 2018|url-status=live}}</ref> From these races, one is denominated as the [[World Triathlon Mixed Relay Championships]]. Relays typically consist of four 'super-sprint' legs.
+
+Since 2021 the leg holding the Mixed Relay Championships has also included the reinstated [[World Triathlon Sprint Distance Championships|World Triathlon Sprint Championships]] under the combined branding of '''World Triathlon Sprint & Relay Championships'''. The stand-alone Sprint championship had previously been discontinued in 2011. Races in the sprint world championships are held over ''Super-sprint'' distances (300 m swim, 5 km bike, 2.5 km run) using a multi-race eliminator format which is unique to that event.
+
+The final leg of the overall series is designated and marketed as the Grand Final, and has a greater points allocation, which must be included in the athletes final score ranking for the season along with a fixed number of best other results. In addition, the week of the Grand Final event sees other stand alone World Championship events held, including an elite under-23 event, single-race elite para-triathlon championship events, and a series of non-elite age-grade championships, similar to [[UCI Gran Fondo World Championships|Gran Fondo World Championships]] in road cycling and [[World Athletics Road Running Championships]].
+
+==History==
+
+With the establishment of the International Triathlon Union (ITU, now World Triathlon) in 1989 it was quickly established that the governing body should host a yearly world championship to establish the men's and women's world champion. With the creation and hosting of the first '''ITU Triathlon World Championship''' in 1989 the ITU had established itself and the sports premier event but the sport overall lacked cohesion with races of varying lengths and prize pools, which increased the difficulty for triathletes to train and plan for seasons ahead. So in 1991 the ITU created the '''ITU Triathlon World Cup''' a year long series of races all hosted by the ITU with regular distances  and prize money. With a world championship and a regular season established the ITU's  attention moved onto other issues including earning the sport a place at the Olympics.
+
+Then in 2008 the day after the [[Triathlon at the 2008 Summer Olympics|2008 men's Olympic triathlon race]] the ITU announced starting next year it would be replacing the single race world championship with a six-race World Championship points super series culminating in a Grand Final, it was to be called the World Championship Series (WCS).<ref>{{Cite web|url=https://www.triathlon.org/news/article/itu_world_championship_series|title=ITU World Championship Series|last=Union|first=International Triathlon|date=2008-10-17|website=Triathlon.org|language=en|access-date=2019-01-29}}</ref> The ITU believed it would help grow the sport and increase the reach to the level of major sports whilst gaining a bigger TV audience.<ref>{{Cite web|url=https://www.slowtwitch.com/News/ITU_replaces_one-day_Elite_World_Championship_with_new_six-race_Super_Series__520.html/http://www.slowtwitch.com/News/ITU_replaces_one-day_Elite_World_Championship_with_new_six-race_Super_Series__520.html|title=ITU replaces one-day Elite World Championship with new six-race 'Super Series'|last=Slowtwitch.com|website=Slowtwitch.com|language=en|access-date=2019-01-29}}</ref> Most athletes and professional coaches were happy at the announcement believing it would help the sport become more popular and increase professionalism and pay for the top level athletes. However, there were major monetary concerns one week after the announcement as the ITUs main sponsor [[BG Group|BG]] had pulled out of its nine-year sponsorship deal after only two years.<ref>{{Cite web|url=http://www.insidethegames.biz/articles/5672/bg-drop-triathlon-sponsorship|title=BG drop triathlon sponsorship|date=26 August 2009|website=www.insidethegames.biz|access-date=2019-01-29}}</ref><ref>{{Cite web|url=https://www.triathlon.org/news/article/the_bg_legacy|title=The BG Legacy|last=Union|first=International Triathlon|date=2008-12-20|website=Triathlon.org|access-date=2019-01-29}}</ref>
+
+By its start in 2009 the series had gained a title sponsor in Dextro Energy<ref>{{Cite web|url=http://www.sportspromedia.com/news/dextro_energy_sign_up_with_triathlon|title=Dextro Energy sign up with triathlon - SportsPro Media|website=www.sportspromedia.com|date=10 February 2009 |access-date=2019-01-29}}</ref><ref>{{Cite web|url=http://www.dextro-energy.com/brand-history|title=Brand history|website=Dextro Energy|language=en|access-date=2019-01-29}}</ref><ref>{{Cite web|url=https://www.sportindustry.biz/news/dextro-sponsor-new-triathlon-series|title=Dextro to sponsor new triathlon series|date=2014-09-18|website=www.sportindustry.biz|language=en|access-date=2019-01-29}}</ref> in a $2 million deal allowing for each World Championship event to feature a $150,000 prize purse and for the Grand final to have  $250,000, this also meant that $700,000 was available at the end of the series. This influx of cash meant that athletes would be to earn almost triple what they had previously helping to draw more into the sport. In 2011 the [[ITU Sprint Distance Triathlon World Championships|sprint distance world championship]] was incorporated into the series giving the same points and prize money as any other event, from this point on sprint distance events would make up a part of the series.<ref>{{Cite news|url=https://www.triathlete.com/2011/04/news/sprint-and-team-championships-added-to-the-2011-dextro-energy-triathlon-itu-world-championship-series_27331|title=Sprint And Team Championships Added To The 2011 Dextro Energy Triathlon ITU World Championship Series {{!}} Triathlete|date=2011-04-27|work=Triathlete|access-date=2018-08-23|language=en-US}}</ref> In 2012 Dextro Energy ended their title sponsorship in tandem with the series rebranding itself as the World Triathlon Series.<ref name="2013Guide">{{cite web|url=http://c1303192.r92.cf0.rackcdn.com/2013-WTS-SERIES-GUIDE.pdf|title=2013 Series Guide|publisher=International Triathlon Union|access-date=17 September 2013|archive-url=https://web.archive.org/web/20131007164611/http://c1303192.r92.cf0.rackcdn.com/2013-WTS-SERIES-GUIDE.pdf|archive-date=7 October 2013|url-status=dead}}</ref> Then in 2013 the prize pool saw an increase to $2.25 million certifying the world triathlon series as the  richest series in triathlon.<ref name="2013Guide" /> In 2018 with the growing popularity of the [[World Triathlon Mixed Relay Championships]] and the disciplines' addition to the Olympic program <ref>{{Cite news|url=https://www.bbc.co.uk/sport/olympics/40226990|title=Tokyo 2020: Mixed-gender events added to Olympic Games|date=2017-06-09|work=BBC Sport|access-date=2018-08-23|language=en-GB}}</ref> it was decided that at three of the events on the 2018 calendar a mixed relay event would be held alongside the men's and women's competition; these three events would grant points towards Olympic qualification and constitute the new mixed relay series.<ref name=":0" />
+
+Only two triathletes succeeded in winning World Championships under both formats, [[Francisco Javier Gómez Noya|Javier Gomez]] of Spain, and [[Helen Jenkins]] (née Tucker) of Great Britain and Wales. In 2020, in response to multiple race cancellations as a result of [[COVID-19 pandemic|COVID-19]] the Championship was once more decided on the basis of a single Championship race, won by [[Vincent Luis]] of France and [[Georgia Taylor-Brown]] of Great Britain and England. As Luis had already won a world title in 2019 under the now established season-long format, he in effect became only the third triathlete to win World Championships in both the single race and season-long formats.{{citation needed|date=August 2022}}
+
+During the 2023 events, at least 57 participants fell ill after swimming off [[Roker|Roker Beach]] in [[Sunderland]]. An [[Environment Agency]] sample taken three days before the event indicated 3,900 ''[[E. coli]]'' colonies per 100ml, over 39 times higher than readings taken the previous month, but the results were not published until after the competition. [[Northumbrian Water]] reported that no discharges that would have affected water quality off Roker Beach were recorded since October 2021.<ref>{{cite news |last1=Ungoed-Thomas |first1=Jon |last2=Jenz |first2=Maximillian |title=Fifty-seven swimmers fall sick and get diarrhoea at world triathlon championship in Sunderland |url=https://www.theguardian.com/environment/2023/aug/05/investigation-after-57-world-triathlon-championship-swimmers-fall-sick-and-get-diarrhoea-in-sunderland-race |access-date=26 August 2023 |date=5 Aug 2023}}</ref>
+
+==Disciplines==
+Currently there are three different distance disciplines:
+*Standard- A 1500m swim followed by a 40&nbsp;km cycle followed by a 10&nbsp;km run.
+*Sprint- A 750m swim followed by a 20&nbsp;km cycle followed by a 5&nbsp;km run.
+*Mixed Team Relay- A 4 x (300m swim followed by a 7.5&nbsp;km cycle followed by a 1.5&nbsp;km run) where each athlete completes the swim bike run before tagging the next athlete,  with the order of the athletes always being female, male, female, male.
+
+In all instances the swim will be a mass start in [[Open water swimming|open-water]] and the cycling will be  [[Drafting (aerodynamics)|draft]]-legal. There is an allowed leniency of 10% on each segment of courses route for the standard and sprint distances, with more discretion being allowed for the mixed relay. The standard distance was also known as the Olympic distance as it was the only distance competed for in the Olympics, however the World Triathlon has tried to enforce the use of the name standard distance saving the name Olympic on for official Olympic events.{{citation needed|date=September 2021}}
+
+==Champions==
+
+===Men's championship===
+
+{| {{MedalistTable|type=Year|columns=1|labelwidth=60}}
+|-
+|align="center"|[[2009 ITU World Championship Series|2009]]
+|{{flagathlete|[[Alistair Brownlee]]|GBR}}
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|{{flagathlete|[[Maik Petzold]]|GER}}
+|-
+|align="center"|[[2010 ITU World Championship Series|2010]]
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}} ''(2 †)''
+|{{flagathlete|[[Steffen Justus]]|GER}}
+|{{flagathlete|[[Brad Kahlefeldt]]|AUS}}
+|-
+|align="center"|[[2011 ITU World Championship Series|2011]]
+|{{flagathlete|[[Alistair Brownlee]]|GBR}} ''(2)''
+|{{flagathlete|[[Jonathan Brownlee]]|GBR}}
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|-
+|align="center"|[[2012 ITU World Triathlon Series|2012]]
+|{{flagathlete|[[Jonathan Brownlee]]|GBR}}
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|{{flagathlete|[[Dmitry Polyanskiy]]|RUS}}
+|-
+|align="center"|[[2013 ITU World Triathlon Series|2013]]
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}} ''(3)''
+|{{flagathlete|[[Jonathan Brownlee]]|GBR}}
+|{{flagathlete|[[Mario Mola]]|ESP}}
+|-
+|align="center"|[[2014 ITU World Triathlon Series|2014]]
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}} ''(4)''
+|{{flagathlete|[[Mario Mola]]|ESP}}
+|{{flagathlete|[[Jonathan Brownlee]]|GBR}}
+|-
+|align="center"|[[2015 ITU World Triathlon Series|2015]]
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}} ''(5)''
+|{{flagathlete|[[Mario Mola]]|ESP}}
+|{{flagathlete|[[Vincent Luis]]|FRA}}
+|-
+|align="center"|[[2016 ITU World Triathlon Series|2016]]
+|{{flagathlete|[[Mario Mola]]|ESP}}
+|{{flagathlete|[[Jonathan Brownlee]]|GBR}}
+|{{flagathlete|[[Fernando Alarza]]|ESP}}
+|-
+|align="center"|[[2017 ITU World Triathlon Series|2017]]
+|{{flagathlete|[[Mario Mola]]|ESP}} ''(2)''
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|{{flagathlete|[[Kristian Blummenfelt]]|NOR}}
+|-
+|align="center"|[[2018 ITU World Triathlon Series|2018]]
+|{{flagathlete|[[Mario Mola]]|ESP}} ''(3)''
+|{{flagathlete|[[Vincent Luis]]|FRA}}
+|{{flagathlete|[[Jacob Birtwhistle]]|AUS}}
+|-
+|align="center"|[[2019 ITU World Triathlon Series|2019]]
+|{{flagathlete|[[Vincent Luis]]|FRA}}
+|{{flagathlete|[[Mario Mola]]|ESP}}
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|-
+|align="center"|[[2020 ITU World Triathlon Series|2020]]<sup>‡</sup>
+|{{flagathlete|[[Vincent Luis]]|FRA}} ''(2)''
+|{{flagathlete|[[Vasco Vilaça]]|POR}}
+|{{flagathlete|[[Léo Bergère]]|FRA}}
+|-
+|align="center"|[[2021 World Triathlon Championship Series|2021]]
+|{{flagathlete|[[Kristian Blummenfelt]]|NOR}}
+|{{flagathlete|[[Marten Van Riel]]|BEL}}
+|{{flagathlete|[[Alex Yee]]|GBR}}
+|-
+|align="center"|[[2022 World Triathlon Championship Series|2022]]
+|{{flagathlete|[[Léo Bergère]]|FRA}}
+|{{flagathlete|[[Alex Yee]]|GBR}}
+|{{flagathlete|[[Hayden Wilde]]|NZL}}
+|-
+|align="center"|[[2023 World Triathlon Championship Series|2023]]
+|{{flagathlete|[[Dorian Coninx]]|FRA}}
+|{{flagathlete|[[Hayden Wilde]]|NZL}}
+|{{flagathlete|[[Léo Bergère]]|FRA}}
+|-
+|align="center"|[[2024 World Triathlon Championship Series|2024]]
+|{{flagathlete|[[Alex Yee]]|GBR}}
+|{{flagathlete|[[Léo Bergère]]|FRA}}
+|{{flagathlete|[[Hayden Wilde]]|NZL}}
+|-
+|align="center"|[[2025 World Triathlon Championship Series|2025]]
+|{{flagathlete|[[Matthew Hauser]]|AUS}}
+|{{flagathlete|[[Miguel Hidalgo (triathlete)|Miguel Hidalgo]]|BRA}}
+|{{flagathlete|[[Vasco Vilaça]]|POR}}
+|}
+<ref name=":1">{{Cite web|url=https://www.triathlon.org/rankings/archive|title=ITU Rankings Archive|last=Union|first=International Triathlon|website=Triathlon.org|language=en|access-date=2019-01-29}}</ref>{{†}} The athlete won his first title as World Champion under the old [[ITU Triathlon World Championship|world championship]] system.
+
+{{‡}} The championship was restricted to a single race event due to COVID 19.
+
+===Women's championship===
+{| {{MedalistTable|type=Year|columns=1|labelwidth=100}}
+|-
+|align="center"|[[2009 ITU World Championship Series|2009]]
+|{{flagathlete|[[Emma Moffatt]]|AUS}}
+|{{flagathlete|[[Lisa Nordén]]|SWE}}
+|{{flagathlete|[[Andrea Hewitt]]|NZL}}
+|-
+|align="center"|[[2010 ITU World Championship Series|2010]]
+|{{flagathlete|[[Emma Moffatt]]|AUS}} ''(2)''
+|{{flagathlete|[[Nicola Spirig]]|SUI}}
+|{{flagathlete|[[Lisa Nordén]]|SWE}}
+|-
+|align="center"|[[2011 ITU World Championship Series|2011]]
+|{{flagathlete|[[Helen Jenkins]]|GBR}} ''(2 †)'' <!--Helen Jenkins born Tucker-->
+|{{flagathlete|[[Andrea Hewitt]]|NZL}}
+|{{flagathlete|[[Sarah Groff]]|USA}}
+|-
+|align="center"|[[2012 ITU World Triathlon Series|2012]]
+|{{flagathlete|[[Lisa Nordén]]|SWE}}
+|{{flagathlete|[[Anne Haug]]|GER}}
+|{{flagathlete|[[Andrea Hewitt]]|NZL}}
+|-
+|align="center"|[[2013 ITU World Triathlon Series|2013]]
+|{{flagathlete|[[Non Stanford]]|GBR}}
+|{{flagathlete|[[Jodie Stimpson]]|GBR}}
+|{{flagathlete|[[Anne Haug]]|GER}}
+|-
+|align="center"|[[2014 ITU World Triathlon Series|2014]]
+|{{flagathlete|[[Gwen Jorgensen]]|USA}}
+|{{flagathlete|[[Sarah Groff]]|USA}}
+|{{flagathlete|[[Andrea Hewitt]]|NZL}}
+|-
+|align="center"|[[2015 ITU World Triathlon Series|2015]]
+|{{flagathlete|[[Gwen Jorgensen]]|USA}} ''(2)''
+|{{flagathlete|[[Andrea Hewitt]]|NZL}}
+|{{flagathlete|[[Sarah True]]|USA}}
+|-
+|align="center"|[[2016 ITU World Triathlon Series|2016]]
+|{{flagathlete|[[Flora Duffy]]|BER}} 
+|{{flagathlete|[[Gwen Jorgensen]]|USA}}
+|{{flagathlete|[[Ai Ueda]]|JPN}}
+|-
+|align="center"|[[2017 ITU World Triathlon Series|2017]]
+|{{flagathlete|[[Flora Duffy]]|BER}} ''(2)''
+|{{flagathlete|[[Ashleigh Gentle]]|AUS}}
+|{{flagathlete|[[Katie Zaferes]]|USA}}
+|-
+|align="center"|[[2018 ITU World Triathlon Series|2018]]
+|{{flagathlete|[[Vicky Holland]]|GBR}}
+|{{flagathlete|[[Katie Zaferes]]|USA}}
+|{{nowrap|{{flagathlete|[[Georgia Taylor-Brown]]|GBR}}}}
+|-
+|align="center"|[[2019 ITU World Triathlon Series|2019]]
+|{{flagathlete|[[Katie Zaferes]]|USA}}
+|{{flagathlete|[[Jessica Learmonth]]|GBR}}
+|{{nowrap|{{flagathlete|[[Georgia Taylor-Brown]]|GBR}}}}
+|-
+|align="center"|[[2020 ITU World Triathlon Series|2020]]<sup>‡</sup>
+|{{nowrap|{{flagathlete|[[Georgia Taylor-Brown]]|GBR}}}}
+|{{flagathlete|[[Flora Duffy]]|BER}}
+|{{flagathlete|[[Laura Lindemann]]|GER}}
+|-
+|align="center"|[[2021 World Triathlon Championship Series|2021]]
+|{{flagathlete|[[Flora Duffy]]|BER}} ''(3)''
+|{{flagathlete|[[Taylor Knibb]]|USA}}
+|{{flagathlete|[[Taylor Spivey]]|USA}}
+|-
+|align="center"|[[2022 World Triathlon Championship Series|2022]]
+|{{flagathlete|[[Flora Duffy]]|BER}} ''(4)''
+|{{nowrap|{{flagathlete|[[Georgia Taylor-Brown]]|GBR}}}}
+|{{flagathlete|[[Taylor Knibb]]|USA}}
+|-
+|align="center"|[[2023 World Triathlon Championship Series|2023]]
+|{{flagathlete|[[Beth Potter]]|GBR}} 
+|{{nowrap|{{flagathlete|[[Cassandre Beaugrand]]|FRA}}}}
+|{{flagathlete|[[Emma Lombardi]]|FRA}}
+|-
+|align="center"|[[2024 World Triathlon Championship Series|2024]]
+|{{nowrap|{{flagathlete|[[Cassandre Beaugrand]]|FRA}}}}
+|{{flagathlete|[[Beth Potter]]|GBR}}
+|{{flagathlete|[[Emma Lombardi]]|FRA}}
+|-
+|align="center"|[[2025 World Triathlon Championship Series|2025]]
+|{{flagathlete|[[Lisa Tertsch]]|GER}}
+|{{flagathlete|[[Léonie Périault]]|FRA}}
+|{{flagathlete|[[Beth Potter]]|GBR}}
+|}
+<ref name=":1" />{{†}} The athlete won the title of World Champion under the old world championship system.
+
+{{‡}} The championship was restricted to a single race event due to COVID 19.
+
+===Medals classification===
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           = 
+ | gold_GER = 1 | silver_GER = 2 | bronze_GER = 3
+ | gold_RUS = 0 | silver_RUS = 0 | bronze_RUS = 1
+ | gold_NOR = 1 | silver_NOR = 0 | bronze_NOR = 1
+ | gold_JPN = 0 | silver_JPN = 0 | bronze_JPN = 1
+ | gold_SUI = 0 | silver_SUI = 1 | bronze_SUI = 0
+ | gold_NZL = 0 | silver_NZL = 3 | bronze_NZL = 5
+ | gold_FRA = 5 | silver_FRA = 4 | bronze_FRA = 5
+ | gold_SWE = 1 | silver_SWE = 1 | bronze_SWE = 1
+ | gold_BER = 4 | silver_BER = 1 | bronze_BER = 0
+ | gold_AUS = 3 | silver_AUS = 1 | bronze_AUS = 2
+ | gold_USA = 3 | silver_USA = 4 | bronze_USA = 5
+ | gold_GBR = 9 | silver_GBR = 8 | bronze_GBR = 5
+ | gold_ESP = 7 | silver_ESP = 6 | bronze_ESP = 4
+ | gold_POR = 0 | silver_POR = 1 | bronze_POR = 1
+ | gold_BEL = 0 | silver_BEL = 1 | bronze_BEL = 0
+ | silver_BRA = 1
+}}
+
+==Hosts==
+
+;World Triathlon Series locations
+
+The World Triathlon Series has visited 27 cities in 19 countries since its founding in 2009.
+{| class="wikitable sortable" style="text-align:center; font-size:95%" 
+|-
+! rowspan="2" |Country
+! rowspan="2" |City
+! colspan="20" |Year
+|-
+![[2009 ITU World Championship Series|2009]]!![[2010 ITU World Championship Series|2010]]!![[2011 ITU World Championship Series|2011]]!![[2012 ITU World Triathlon Series|2012]]!![[2013 ITU World Triathlon Series|2013]]!![[2014 ITU World Triathlon Series|2014]]!![[2015 ITU World Triathlon Series|2015]]!![[2016 ITU World Triathlon Series|2016]]!![[2017 ITU World Triathlon Series|2017]]!! colspan="2" |[[2018 ITU World Triathlon Series|2018]]!! colspan="2" |[[2019 ITU World Triathlon Series|2019]]!! colspan="2" |[[2020 ITU World Triathlon Series|2020]]!! colspan="2" |[[2021 World Triathlon Championship Series|2021]]!! colspan="2" |[[2022 World Triathlon Championship Series|2022]]!! colspan="2" |[[2023 World Triathlon Championship Series|2023]]
+|-
+| rowspan="2" align="left" |{{flagcountry|AUS}}
+| align="left" |[[Gold Coast, Queensland|Gold Coast]]||'''GF'''||  ||  ||  ||  ||  ||•||•||•|| colspan="2"|'''GF'''|| colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Sydney]]||  ||•||•||•||  ||  ||  ||  ||  || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|AUT}}
+| align="left" |[[Kitzbühel]]||•||•||•||•||•||  ||  ||  ||  || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|BER}}
+| align="left" |[[Bermuda]]||  ||  ||  ||  ||  ||  ||  ||  ||  || colspan="2" |•|| colspan="2"|• || colspan="2"| || colspan="2"|•|| colspan="2"|•||
+|-
+| rowspan="2" align="left" |{{flagcountry|CAN}}
+| align="left" |[[Edmonton]]||  ||  ||  ||  ||  ||'''GF'''||•||•||•||•||'''MR'''||•||'''MR'''|| colspan="2" | || colspan="2"|GF|| colspan="2"| ||
+|-
+| align="left" |[[Montreal]]||  ||  ||  ||  ||  ||  ||  ||  ||•|| colspan="2" |•|| colspan="2"|•|| colspan="2"| || colspan="2"|•|| colspan="2"|•||•
+|-
+| align="left" |{{flagcountry|CHN}}
+| align="left" |[[Beijing]]||  ||  ||'''GF'''||  ||  ||  ||  ||  ||  || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|GER}}
+| align="left" |[[Hamburg]]||•||•||•||•||•||•||•||•||•||•||'''MR'''||•||'''MR'''|| colspan="2"|• || colspan="2"|•|| colspan="2"|•||•
+|-
+| rowspan="4" align="left" |{{flagcountry|GBR}}
+| align="left" |[[Leeds]]||  ||  ||  ||  ||  ||  ||  ||•||•|| colspan="2" |•|| colspan="2" |•|| colspan="2"| || colspan="2"|•|| colspan="2"|•||
+|-
+| align="left" |[[London]]||•||•||•||  ||'''GF'''||•||•||  ||  || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+|align="left" |[[Nottingham]] || || || || || || || || || || colspan="2" |'''MR''' || colspan="2"|'''MR''' || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Sunderland]]||  ||  ||  ||  ||  ||  ||  || || || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||•
+|-
+| align="left" |{{flagcountry|HUN}}
+| align="left" |[[Budapest]]||  ||'''GF'''||  ||  ||  ||  ||  ||  ||  || colspan="2"| || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|ITA}}
+| align="left" |[[Cagliari]]||  || ||  ||  ||  ||  ||  ||  ||  || colspan="2"| || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"|•||•
+|-
+| rowspan="2"align="left" |{{flagcountry|JPN}}
+|align="left" |[[Tokyo]] || || || || || || || || || || colspan="2" | || colspan="2" |'''MR'''|| colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Yokohama]]||•||  ||•||•||•||•||•||•||•|| colspan="2" |•|| colspan="2" |•|| colspan="2"| || colspan="2"|•|| colspan="2"|•||•
+|-
+| align="left" |{{flagcountry|MEX}}
+| align="left" |[[Cozumel]]||  ||  ||  ||  ||  ||  ||  ||'''GF'''||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|NED}}
+| align="left" |[[Rotterdam]]||  ||  ||  ||  ||  ||  ||  ||  ||'''GF'''|| colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|NZL}}
+| align="left" |[[Auckland]]||  ||  ||  ||'''GF'''||•||•||•||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|RSA}}
+| align="left" |[[Cape Town]]||  ||  ||  ||  ||  ||•||•||•||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| rowspan="2" align="left" |{{flagcountry|KOR}}
+| align="left" |[[Seoul]]||  ||•||  ||  ||  ||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Tongyeong]]||•||  ||  ||  ||  ||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| rowspan="2" align="left" |{{flagcountry|ESP}}
+| align="left" |[[Madrid]]||•||•||•||•||•||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Pontevedra]]|| || || || || ||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||'''GF''' 
+|-
+| align="left" |{{flagcountry|SWE}}
+| align="left" |[[Stockholm]]||  ||  ||  ||•||•||•||•||•||•|| colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|SUI}}
+| align="left" |[[Lausanne]]||  ||  ||•||  ||  ||  ||  ||  ||  || colspan="2" | || colspan="2" |'''GF''' || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |{{flagcountry|UAE}}
+| align="left" |[[Abu Dhabi]]||  ||  ||  ||  ||  ||  ||•||•||•|| colspan="2"|•||•||'''MR'''|| colspan="2"| || colspan="2"|•|| colspan="2"|GF||•
+|-
+| rowspan="3" align="left" |{{flagcountry|USA}}
+| align="left" |[[Chicago]]||  ||  ||  ||  ||  ||•||'''GF'''||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[San Diego]]||  ||  ||  ||•||•||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|-
+| align="left" |[[Washington, D.C.]]||•||  ||  ||  ||  ||  ||  ||  ||  || colspan="2" | || colspan="2" | || colspan="2"| || colspan="2"| || colspan="2"| ||
+|}
+Where  '''GF''' = Grand Final,  '''MR''' = Mixed Relay event
+
+;World Triathlon Championship Finals locations
+
+The final race of each season is known as the championship finals and has extra points, prize money and prestige associated with it, when a city bids to host the championship finals it also bids to host many World Triathlon events such as amateur '''Age-group world championships''' and the '''Paratriathlon world championship'''.
+{| class="wikitable"
+|-
+!Year
+!Date
+!Location
+|-
+|[[2009 ITU World Championship Series|2009]]
+|9&ndash;13 September
+|[[Gold Coast, Queensland|Gold Coast]], Australia
+|-
+|[[2010 ITU World Championship Series|2010]]
+|8&ndash;12 September
+|[[Budapest]], Hungary
+|-
+|[[2011 ITU World Championship Series|2011]]
+|10&ndash;11 September
+|[[Beijing]], China
+|-
+|[[2012 ITU World Triathlon Series|2012]]
+|20&ndash;21 October
+|[[Auckland]], New Zealand
+|-
+|[[2013 ITU World Triathlon Series|2013]]
+|14&ndash;15 September
+|[[London]], Great Britain
+|-
+|[[2014 ITU World Triathlon Series|2014]]
+|1 September
+|[[Edmonton]], Canada
+|-
+|[[2015 ITU World Triathlon Series|2015]]
+|17 September
+|[[Chicago]], United States
+|-
+|[[2016 ITU World Triathlon Series|2016]]
+|11-18 September
+|[[Cozumel]], Mexico
+|-
+|[[2017 ITU World Triathlon Series|2017]]
+|14-17 September
+|[[Rotterdam]], Netherlands<ref name="triathlon16-17">{{cite web|url=http://www.triathlon.org/news/article/2016_2017_wts_grand_final_hosts_revealed|title=2016 & 2017 WTS Grand Final hosts revealed|date=15 December 2014 |publisher=World Triathlon}}</ref>
+|-
+|[[2018 ITU World Triathlon Series|2018]]
+|12–16 September
+|[[Gold Coast, Queensland|Gold Coast]], Australia
+|-
+|[[2019 ITU World Triathlon Series|2019]]
+|August 30–1 September
+|[[Lausanne]], Switzerland
+|-
+|[[2020 ITU World Triathlon Series|2020]]
+|Cancelled<sup>*</sup>
+|Edmonton, Canada
+|-
+|[[2021 World Triathlon Championship Series|2021]]
+|20-22 August
+|Edmonton, Canada
+|-
+|[[2022 World Triathlon Championship Series|2022]]
+|22-26 November
+|[[Abu Dhabi|Abu Dhabi, UAE]]
+|-
+|[[2023 World Triathlon Championship Series|2023]]
+|23-24 September
+|[[Pontevedra]], Spain
+|-
+|[[2024 World Triathlon Championship Series|2024]]
+|17-20 October
+|[[Torremolinos]], Spain
+|-
+|[[2025 World Triathlon Championship Series|2025]]
+|15-19 October
+|[[Wollongong]], Australia
+|-
+|[[2026 World Triathlon Championship Series|2026]]
+|23-27 September
+|[[Pontevedra]], Spain
+|-
+|[[2027 World Triathlon Championship Series|2027]]
+|September 2027
+|[[Hamburg]], Germany
+|-
+|[[2028 World Triathlon Championship Series|2028]]
+|November 2028
+|[[Tauranga]], New Zealand
+|}
+<sup>*</sup><small>2020 Series was cancelled due to [[COVID-19 pandemic]]. Champion was determined during a single sprint race event in Hamburg, Germany.</small>
+
+==ITU Triathlon World Championship==
+{{Infobox sports league
+| title           = ITU Triathlon World Championship
+| current_season  = <!-- do not wikilink -->
+| current_season2 = <!-- do not wikilink -->
+| last_season     = <!-- do not wikilink -->
+| upcoming_season = <!-- do not wikilink; replace with current_season at the start of the new season -->
+| logo            = 
+| logo_size       = <!-- use a format of ##px, such as 120px -->
+| caption         = 
+| formerly        = 
+| sport           = <!-- or | game = --><!-- does not need to be wikilinked. This parameter is also 
+used to help automatically switch the "current_season" image to be more specific
+to replace the generic current event image (see below). Currently supports:
+American football, athletics, Australian rules football, baseball, basketball, boxing, cricket, cue sports, curling, cycling, golf, gymnastics, hockey, lacrosse,
+motorsports, netball, Olympics, poker, pro wrestling, rugby, soccer, softball,
+speed skating, squash, swimming, table tennis, tennis, volleyball.-->
+| founded         = 1989
+| folded          = 2008
+| replaced        = ITU World Triathlon Series
+| owner           = 
+| ceo             = <!-- chief executive officer -->
+| coo             = <!-- chief operating officer -->
+| director        = 
+| president       = 
+| commissioner    = 
+| fame            = <!--what the league is famous for...the "claim to fame"...avoid use if possible-->
+| motto           = 
+| inaugural       = 
+| teams           = 
+| singles         = 
+| country         = <!-- or | countries = -->
+| venue           = 
+| confed          = <!-- or | continent = or | continents = -->
+| champion        = 
+| champ_season    = 
+| most_champs     = 
+| classification  = 
+| qualification   = 
+| tv              = 
+| sponsor         = 
+| investor        = 
+| related_comps   = 
+| founder         = 
+| levels          = 
+| promotion       = 
+| relegation      = 
+| domestic_cup    = 
+| website         = 
+| footnotes       = 
+| current         = <!-- wikilink to current season article to put icon and link at the bottom of the infobox -->
+}}
+
+The world champion was formerly crowned in the ITU Triathlon World Championship, a single championship race that was held annually from 1989, the same year as the formation of the International Triathlon Union (ITU), to 2008.
+
+===Results===
+====Men's championship====
+
+{| {{MedalistTable|type=Year|columns=1|labelwidth=60}}
+|-
+|align="center"|1989
+|{{flagathlete|[[Mark Allen (triathlete)|Mark Allen]]|USA}}
+|{{flagathlete|[[Glenn Cook]]|GBR}}
+|{{flagathlete|[[Rick Wells]]|NZL}}
+|-
+|align="center"|[[1990 ITU Triathlon World Championships|1990]]
+|{{flagathlete|[[Greg Welch]]|AUS}}
+|{{flagathlete|[[Brad Beven]]|AUS}}
+|{{flagathlete|[[Stephen Foster (triathlete)|Stephen Foster]]|AUS}}
+|-
+|align="center"|[[1991 ITU Triathlon World Championships|1991]]
+|{{flagathlete|[[Miles Stewart]]|AUS}}
+|{{flagathlete|[[Rick Wells]]|NZL}}
+|{{flagathlete|[[Mike Pigg]]|USA}}
+|-
+|align="center"|[[1992 ITU Triathlon World Championships|1992]]
+|{{flagathlete|[[Simon Lessing]]|GBR}}
+|{{flagathlete|[[Rainer Müller-Hörner]]|GER}}
+|{{flagathlete|[[Rob Barel]]|NED}}
+|-
+|align="center"|[[1993 ITU Triathlon World Championships|1993]]
+|{{flagathlete|[[Spencer Smith (triathlete)|Spencer Smith]]|GBR}}
+|{{flagathlete|[[Simon Lessing]]|GBR}}
+|{{flagathlete|[[Hamish Carter]]|NZL}}
+|-
+|align="center"|[[1994 ITU Triathlon World Championships|1994]]
+|{{flagathlete|[[Spencer Smith (triathlete)|Spencer Smith]]|GBR}} ''(2)''
+|{{flagathlete|[[Brad Beven]]|AUS}}
+|{{flagathlete|[[Ralf Eggert]]|GER}}
+|-
+|align="center"|[[1995 ITU Triathlon World Championships|1995]]
+|{{flagathlete|[[Simon Lessing]]|GBR}} ''(2)''
+|{{flagathlete|[[Brad Beven]]|AUS}}
+|{{flagathlete|[[Ralf Eggert]]|GER}}
+|-
+|align="center"|[[1996 ITU Triathlon World Championships|1996]]
+|{{flagathlete|[[Simon Lessing]]|GBR}} ''(3)''
+|{{flagathlete|[[Luc Van Lierde]]|BEL}}
+|{{flagathlete|[[Leandro Macedo]]|BRA}}
+|-
+|align="center"|[[1997 ITU Triathlon World Championships|1997]]
+|{{flagathlete|[[Chris McCormack (triathlete)|Chris McCormack]]|AUS}}
+|{{flagathlete|[[Hamish Carter]]|NZL}}
+|{{flagathlete|[[Simon Lessing]]|GBR}}
+|-
+|align="center"|[[1998 ITU Triathlon World Championships|1998]]
+|{{flagathlete|[[Simon Lessing]]|GBR}} ''(4)''
+|{{flagathlete|[[Paul Amey]]|NZL}}
+|{{flagathlete|[[Miles Stewart]]|AUS}}
+|-
+|align="center"|1999 
+|{{flagathlete|[[Dmitriy Gaag]]|KAZ}}
+|{{flagathlete|[[Simon Lessing]]|GBR}}
+|{{flagathlete|[[Miles Stewart]]|AUS}}
+|-
+|align="center"|2000
+|{{flagathlete|[[Olivier Marceau]]|FRA}}
+|{{flagathlete|[[Peter Robertson (triathlete)|Peter Robertson]]|AUS}}
+|{{flagathlete|[[Craig Walton]]|AUS}}
+|-
+|align="center"|2001
+|{{flagathlete|[[Peter Robertson (triathlete)|Peter Robertson]]|AUS}}
+|{{flagathlete|[[Chris Hill (triathlete)|Chris Hill]]|AUS}}
+|{{flagathlete|[[Craig Watson (triathlete)|Craig Watson]]|NZL}}
+|-
+|align="center"|2002
+|{{flagathlete|[[Iván Raña]]|ESP}}
+|{{flagathlete|[[Peter Robertson (triathlete)|Peter Robertson]]|AUS}}
+|{{flagathlete|[[Andrew Johns (triathlete)|Andrew Johns]]|GBR}}
+|-
+|align="center"|[[2003 ITU Triathlon World Championships|2003]]
+|{{flagathlete|[[Peter Robertson (triathlete)|Peter Robertson]]|AUS}} ''(2)''
+|{{flagathlete|[[Iván Raña]]|ESP}}
+|{{flagathlete|[[Olivier Marceau]]|SUI}}
+|-
+|align="center"|[[2004 ITU Triathlon World Championships|2004]]
+|{{flagathlete|[[Bevan Docherty]]|NZL}}
+|{{flagathlete|[[Iván Raña]]|ESP}}
+|{{flagathlete|[[Dmitriy Gaag]]|KAZ}}
+|-
+|align="center"|[[2005 ITU Triathlon World Championships|2005]]
+|{{flagathlete|[[Peter Robertson (triathlete)|Peter Robertson]]|AUS}} ''(3)''
+|{{flagathlete|[[Reto Hug]]|SUI}}
+|{{flagathlete|[[Brad Kahlefeldt]]|AUS}}
+|-
+|align="center"|[[2006 ITU Triathlon World Championships|2006]]
+|{{flagathlete|[[Tim Don]]|GBR}}
+|{{flagathlete|[[Hamish Carter]]|NZL}}
+|{{flagathlete|[[Frédéric Belaubre]]|FRA}}
+|-
+|align="center"|[[2007 ITU Triathlon World Championships|2007]]
+|{{flagathlete|[[Daniel Unger]]|GER}}
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|{{flagathlete|[[Brad Kahlefeldt]]|AUS}}
+|-
+|align="center"|[[2008 ITU Triathlon World Championships|2008]]
+|{{flagathlete|[[Francisco Javier Gómez Noya|Javier Gómez]]|ESP}}
+|{{flagathlete|[[Bevan Docherty]]|NZL}}
+|{{flagathlete|[[Reto Hug]]|SUI}}
+|}
+
+====Women's championship====
+[[File:Emma Snowsill 1.JPG|thumb|right|200px|Australian [[Emma Snowsill]] captured the title on 3 different occasions.]]
+{| {{MedalistTable|type=Year|columns=1|labelwidth=60}}
+|-
+|align="center"|1989
+|{{flagathlete|[[Erin Baker]]|NZL}}
+|{{flagathlete|[[Jan Ripple]]|USA}}
+|{{flagathlete|[[Laurie Samuelson]]|USA}}
+|-
+|align="center"|[[1990 ITU Triathlon World Championships|1990]]
+|{{flagathlete|[[Karen Smyers]]|USA}}
+|{{flagathlete|[[Carol Montgomery]]|CAN}}
+|{{flagathlete|[[Joy Hansen]]|USA}}
+|-
+|align="center"|[[1991 ITU Triathlon World Championships|1991]]
+|{{flagathlete|[[Joanne Ritchie]]|CAN}}
+|{{flagathlete|[[Terri Smith (triathlete)|Terri Smith]]|CAN}}
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|-
+|align="center"|[[1992 ITU Triathlon World Championships|1992]]
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|{{flagathlete|[[Joanne Ritchie]]|CAN}}
+|{{flagathlete|[[Melissa Mantak]]|USA}}
+|-
+|align="center"|[[1993 ITU Triathlon World Championships|1993]]
+|{{flagathlete|[[Michellie Jones]]|AUS}} ''(2)''
+|{{flagathlete|[[Karen Smyers]]|USA}}
+|{{flagathlete|[[Joanne Ritchie]]|CAN}}
+|-
+|align="center"|[[1994 ITU Triathlon World Championships|1994]]
+|{{flagathlete|[[Emma Carney]]|AUS}}
+|{{flagathlete|[[Anette Pedersen]]|DEN}}
+|{{flagathlete|[[Sarah Harrow]]|NZL}}
+|-
+|align="center"|[[1995 ITU Triathlon World Championships|1995]]
+|{{flagathlete|[[Karen Smyers]]|USA}} ''(2)''
+|{{flagathlete|[[Jackie Fairweather|Jackie Gallagher]]|AUS}}
+|{{flagathlete|[[Joy Leutner]]|USA}}
+|-
+|align="center"|[[1996 ITU Triathlon World Championships|1996]]
+|{{flagathlete|[[Jackie Fairweather|Jackie Gallagher]]|AUS}}
+|{{flagathlete|[[Emma Carney]]|AUS}}
+|{{flagathlete|[[Carol Montgomery]]|CAN}}
+|-
+|align="center"|[[1997 ITU Triathlon World Championships|1997]]
+|{{flagathlete|[[Emma Carney]]|AUS}} ''(2)''
+|{{flagathlete|[[Jackie Fairweather|Jackie Gallagher]]|AUS}} 
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|-
+|align="center"|[[1998 ITU Triathlon World Championships|1998]]
+|{{flagathlete|[[Joanne King (triathlete)|Joanne King]]|AUS}}
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|{{flagathlete|[[Evelyn Williamson]]|NZL}}
+|-
+|align="center"|1999
+|{{flagathlete|[[Loretta Harrop]]|AUS}}
+|{{flagathlete|[[Jackie Fairweather|Jackie Gallagher]]|AUS}}
+|{{flagathlete|[[Emma Carney]]|AUS}}
+|-
+|align="center"|2000
+|{{flagathlete|[[Nicole Hackett]]|AUS}}
+|{{flagathlete|[[Carol Montgomery]]|CAN}}
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|-
+|align="center"|2001
+|{{flagathlete|[[Siri Lindley]]|USA}}
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|{{flagathlete|[[Joanna Zeiger]]|USA}}
+|-
+|align="center"|2002
+|{{flagathlete|[[Leanda Cave]]|GBR}}
+|{{flagathlete|[[Barbara Lindquist]]|USA}}
+|{{flagathlete|[[Michelle Dillon]]|GBR}}
+|-
+|align="center"|[[2003 ITU Triathlon World Championships|2003]]
+|{{flagathlete|[[Emma Snowsill]]|AUS}}
+|{{flagathlete|[[Laura Bennett (triathlete)|Laura Bennett]]|USA}}
+|{{flagathlete|[[Michellie Jones]]|AUS}}
+|-
+|align="center"|[[2004 ITU Triathlon World Championships|2004]]
+|{{flagathlete|[[Sheila Taormina]]|USA}}
+|{{flagathlete|[[Loretta Harrop]]|AUS}}
+|{{flagathlete|[[Laura Bennett (triathlete)|Laura Bennett]]|USA}}
+|-
+|align="center"|[[2005 ITU Triathlon World Championships|2005]]
+|{{flagathlete|[[Emma Snowsill]]|AUS}} ''(2)''
+|{{flagathlete|Annabel Luxford|AUS}}
+|{{flagathlete|[[Laura Bennett (triathlete)|Laura Bennett]]|USA}}
+|-
+|align="center"|[[2006 ITU Triathlon World Championships|2006]]
+|{{flagathlete|[[Emma Snowsill]]|AUS}} ''(3)''
+|{{flagathlete|[[Vanessa Fernandes]]|POR}}
+|{{flagathlete|[[Felicity Abram]]|AUS}}
+|-
+|align="center"|[[2007 ITU Triathlon World Championships|2007]]
+|{{flagathlete|[[Vanessa Fernandes]]|POR}}
+|{{flagathlete|[[Emma Snowsill]]|AUS}}
+|{{flagathlete|[[Laura Bennett (triathlete)|Laura Bennett]]|USA}}
+|-
+|align="center"|[[2008 ITU Triathlon World Championships|2008]]
+|{{flagathlete|[[Helen Jenkins|Helen Tucker]]|GBR}}
+|{{flagathlete|[[Sarah Haskins (triathlete)|Sarah Haskins]]|USA}}
+|{{flagathlete|[[Samantha Warriner]]|NZL}}
+|}
+
+====Medal table====
+{| class="wikitable" style="font-size: 95%"
+|- {{Speedway color|4}}
+!width=30px|Pos ||width=130px|National Team  ||width=30px {{Speedway color|P1}}|[[Image:Gold medal icon.svg|Gold]] ||width=30px {{Speedway color|P2}}|[[Image:Silver medal icon.svg|Silver]] ||width=30px {{Speedway color|P3}}|[[Image:Bronze medal icon.svg|Bronze]]
+|- align=center
+|1 ||align=left| {{AUS}} 
+|{{Speedway color|p1}}| 17
+|{{Speedway color|p2}}| 15
+|{{Speedway color|p3}}| 13
+|- align=center
+|2 ||align=left| {{GBR2}} 
+|{{Speedway color|p1}}| 9
+|{{Speedway color|p2}}| 3
+|{{Speedway color|p3}}| 3
+|- align="center"
+|3 || align="left" | {{USA}}
+| {{Speedway color|p1}} | 5
+| {{Speedway color|p2}} | 5
+| {{Speedway color|p3}} | 9
+|- align="center"
+|4 || align="left" | {{NZL}}
+| {{Speedway color|p1}} | 2
+| {{Speedway color|p2}} | 5
+| {{Speedway color|p3}} | 5
+|- align="center"
+|5 || align="left" | {{ESP}}
+| {{Speedway color|p1}} | 2
+| {{Speedway color|p2}} | 3
+| {{Speedway color|p3}} | 
+|- align="center"
+|6 || align="left" |{{CAN}}
+| {{Speedway color|p1}} | 1
+| {{Speedway color|p2}} | 4
+| {{Speedway color|p3}} | 
+|- align="center"
+|7 || align="left" | {{GER}}
+| {{Speedway color|p1}} | 1
+| {{Speedway color|p2}} | 1
+| {{Speedway color|p3}} | 2
+|- align="center"
+|8 || align="left" | {{POR}}
+| {{Speedway color|p1}} | 1
+| {{Speedway color|p2}} | 1
+| {{Speedway color|p3}} | 
+|- align="center"
+| rowspan="2" |9 || align="left" | {{FRA}}
+| {{Speedway color|p1}} | 1
+| {{Speedway color|p2}} | 
+| {{Speedway color|p3}} | 1
+|- align="center"
+| align="left" |{{KAZ}}
+| {{Speedway color|p1}} | 1
+| {{Speedway color|p2}} | 
+| {{Speedway color|p3}} | 1
+|- align="center"
+|11 || align="left" | {{SUI}}
+| {{Speedway color|p1}} | 
+| {{Speedway color|p2}} | 1
+| {{Speedway color|p3}} | 2
+|- align="center"
+| rowspan="2" |12|| align="left" | {{BEL}}
+| {{Speedway color|p1}} | 
+| {{Speedway color|p2}} | 1
+| {{Speedway color|p3}} |
+|- align=center
+|align=left| {{DEN}}
+|{{Speedway color|p1}}| 
+|{{Speedway color|p2}}| 1
+|{{Speedway color|p3}}|
+|- align=center
+| rowspan="2" |14|| align="left" |{{BRA}}
+|{{Speedway color|p1}}| 
+|{{Speedway color|p2}}| 
+|{{Speedway color|p3}}|  1
+|- align=center
+|align=left| {{NED}}
+|{{Speedway color|p1}}| 
+|{{Speedway color|p2}}| 
+|{{Speedway color|p3}}|  1
+|}
+
+===Host city=== 
+{| class="wikitable"
+|-
+!Year
+!Date
+!Location
+|-
+|[[1989 ITU Triathlon World Championships|1989]]
+|6 August
+|[[Avignon]], France
+|-
+|[[1990 ITU Triathlon World Championships|1990]]
+|15 September
+|[[Orlando, Florida|Orlando]], United States
+|-
+|[[1991 ITU Triathlon World Championships|1991]]
+|13 October
+|[[Queensland]], Australia
+|-
+|[[1992 ITU Triathlon World Championships|1992]]
+|12 September
+|[[District Municipality of Muskoka|Muskoka]], Canada
+|-
+|[[1993 ITU Triathlon World Championships|1993]]
+|22 August
+|[[Manchester]], United Kingdom
+|-
+|[[1994 ITU Triathlon World Championships|1994]]
+|27 November
+|[[Wellington]], New Zealand
+|-
+|[[1995 ITU Triathlon World Championships|1995]]
+|12 November
+|[[Cancún]], Mexico
+|-
+|[[1996 ITU Triathlon World Championships|1996]]
+|24 August
+|[[Cleveland]], United States
+|-
+|[[1997 ITU Triathlon World Championships|1997]]
+|16 November
+|[[Perth]], Australia
+|-
+|[[1998 ITU Triathlon World Championships|1998]]
+|30 August
+|[[Lausanne]], Switzerland
+|-
+|[[1999 ITU Triathlon World Championships|1999]]
+|12 September
+|[[Montreal]], Canada
+|-
+|[[2000 ITU Triathlon World Championships|2000]]
+|30 April
+|[[Perth]], Australia
+|-
+|[[2001 ITU Triathlon World Championships|2001]]
+|22 July
+|[[Edmonton]], Canada
+|-
+|[[2002 ITU Triathlon World Championships|2002]]
+|9&ndash;10 November
+|[[Cancún]], Mexico
+|-
+|[[2003 ITU Triathlon World Championships|2003]]
+|6&ndash;7 December
+|[[Queenstown, New Zealand|Queenstown]], New Zealand
+|-
+|[[2004 ITU Triathlon World Championships|2004]]
+|9 May
+|[[Madeira]], [[Portugal]]
+|-
+|[[2005 ITU Triathlon World Championships|2005]]
+|10&ndash;11 September
+|[[Gamagōri, Aichi|Gamagōri]], Japan
+|-
+|[[2006 ITU Triathlon World Championships|2006]]
+|2&ndash;3 September
+|[[Lausanne]], Switzerland
+|-
+|[[2007 ITU Triathlon World Championships|2007]]
+|30 August&ndash;2 September
+|[[Hamburg]], Germany
+|-
+|[[2008 ITU Triathlon World Championships|2008]]
+|5&ndash;8 June
+|[[Vancouver]], Canada
+|-
+|}
+
+==See also==
+{{Commons category|ITU Triathlon World Championships}}
+
+* [[World Triathlon Aquathlon Championships]]
+* [[World Triathlon Cup]]
+* [[World Triathlon Duathlon Championships]]
+* [[World Triathlon Long Distance Championships]]
+* [[World Triathlon Mixed Relay Championships]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web |url=https://www.triathlon.org/media/stats-index.php |title=ITU Statistics & History |access-date=2008-11-05 |publisher=[[World Triathlon]] }}
+*{{cite web |url=https://www.triathlon.org/results#q=&hPP=15&idx=events_reverse_sort&p=0&dFR%5Bevent_categories.cat_name%5D%5B0%5D=World%20Championships&dFR%5Bspecification.cat_name%5D%5B0%5D=Standard&dFR%5Bsport.cat_name%5D%5B0%5D=Triathlon&dFR%5Byear%5D%5B0%5D=2008&dFR%5Byear%5D%5B1%5D=2007&dFR%5Byear%5D%5B10%5D=1999&dFR%5Byear%5D%5B11%5D=1997&dFR%5Byear%5D%5B12%5D=1996&dFR%5Byear%5D%5B13%5D=1994&dFR%5Byear%5D%5B14%5D=1995&dFR%5Byear%5D%5B15%5D=1989&dFR%5Byear%5D%5B16%5D=1990&dFR%5Byear%5D%5B17%5D=1991&dFR%5Byear%5D%5B18%5D=1992&dFR%5Byear%5D%5B19%5D=1993&dFR%5Byear%5D%5B2%5D=2006&dFR%5Byear%5D%5B3%5D=2005&dFR%5Byear%5D%5B4%5D=2004&dFR%5Byear%5D%5B5%5D=2003&dFR%5Byear%5D%5B6%5D=2002&dFR%5Byear%5D%5B7%5D=2001&dFR%5Byear%5D%5B8%5D=2000&dFR%5Byear%5D%5B9%5D=1998&fR%5Bfederation_event%5D%5B0%5D=false&is_v=1
+ |title=ITU Triathlon World Championship Results |access-date=2018-08-15 |publisher=[[World Triathlon]] }}
+
+{{ITU World Championships}}
+{{International sports tours}}
+{{Main world championships}}
+
+[[Category:World Triathlon Series| ]]
+[[Category:Recurring sporting events established in 1989]]
+[[Category:Sports competition series]]
+[[Category:Recurring sporting events established in 2009]]
+[[Category:World championships of World Triathlon]]

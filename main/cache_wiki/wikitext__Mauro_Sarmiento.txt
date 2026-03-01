@@ -1,0 +1,51 @@
+{{short description|Italian taekwondo practitioner}}
+{{infobox sportsperson
+| name = Mauro Sarmiento
+| birth_date = {{birth date and age|1983|8|10}}
+| birth_place = [[Casoria|Casoria, Italy]]
+| medaltemplates = 
+{{MedalCountry |  {{ITA}} }}
+{{MedalSport | Men's [[taekwondo]]}}
+{{MedalCompetition | [[Olympic Games]]}}
+{{MedalSilver| [[2008 Summer Olympics|2008 Beijing]] | [[Taekwondo at the 2008 Summer Olympics – Men's 80 kg|80 kg]]}} 
+{{MedalBronze| [[2012 Summer Olympics|2012 London]] | [[Taekwondo at the 2012 Summer Olympics - Men's 80 kg|80 kg]]}} 
+{{MedalCompetition| [[European Taekwondo Championships|European Championships]]}}
+{{MedalBronze| [[2008 European Taekwondo Championships|2008 Rome]] |Middleweight}}
+{{MedalCompetition|[[Universiade]]}}
+{{MedalSilver | [[2005 Summer Universiade|2005 Izmir]] | [[Taekwondo at the 2005 Summer Universiade|Middleweight]]}}
+{{MedalBronze | [[2007 Summer Universiade|2007 Bangkok]] | [[Taekwondo at the 2007 Summer Universiade|Middleweight]]}}
+}}
+
+'''Mauro Sarmiento''' (born August 10, 1983) is an Italian martial artist. He was born in [[Casoria|Casoria, Italy]], and represented Italy in [[Taekwondo at the 2008 Summer Olympics – Men's 80 kg]], and won the silver medal, upsetting two-time Olympic champion [[Steven López]] of the [[United States]] in the quarterfinals.<ref>{{Cite web |url=http://www.chron.com/disp/story.mpl/sports/5959155.html |title=Houston Chronicle |access-date=2010-01-31 |archive-date=2011-06-04 |archive-url=https://web.archive.org/web/20110604032854/http://www.chron.com/disp/story.mpl/sports/5959155.html |url-status=live }}</ref> In the gold medal round he lost to [[Hadi Saei]].<ref>{{Cite web |url=https://www.espn.com/espn/wire?section=oly&id=3548242 |title=ESPN |access-date=2024-07-23 |archive-date=2020-07-20 |archive-url=https://web.archive.org/web/20200720145904/https://www.espn.com/espn/wire?section=oly&id=3548242 |url-status=live }}</ref>
+
+At the [[2012 Summer Olympics]], he won the bronze medal in the [[Taekwondo at the 2012 Summer Olympics – Men's 80 kg|men's -80 kg taekwondo]] event, losing to [[Nicolás García (taekwondo)|Nicolas Garcia]] in the semi-finals, and then beating [[Nesar Ahmad Bahave|Nesar Ahmad Bahawi]] in his bronze medal match.<ref>{{Cite web|title = 68 - 80 kg men results - Taekwondo - London 2012 Olympics|url = http://www.olympic.org/olympic-results/london-2012/taekwondo/68-80-kg-m|website = www.olympic.org|accessdate = 2015-06-03|archive-date = 2014-12-13|archive-url = https://web.archive.org/web/20141213232907/http://www.olympic.org/olympic-results/london-2012/taekwondo/68-80-kg-m|url-status = live}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Sarmiento, Mauro}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Italian male taekwondo practitioners]]
+[[Category:Olympic taekwondo practitioners for Italy]]
+[[Category:Taekwondo practitioners at the 2008 Summer Olympics]]
+[[Category:Taekwondo practitioners at the 2012 Summer Olympics]]
+[[Category:Olympic bronze medalists for Italy]]
+[[Category:Olympic silver medalists for Italy]]
+[[Category:Sportspeople from the Metropolitan City of Naples]]
+[[Category:Olympic medalists in taekwondo]]
+[[Category:Medalists at the 2012 Summer Olympics]]
+[[Category:Medalists at the 2008 Summer Olympics]]
+[[Category:Summer World University Games medalists in taekwondo]]
+[[Category:FISU World University Games silver medalists for Italy]]
+[[Category:FISU World University Games bronze medalists for Italy]]
+[[Category:Taekwondo practitioners of Gruppo Sportivo Esercito]]
+[[Category:European Taekwondo Championships medalists]]
+[[Category:Medalists at the 2005 Summer Universiade]]
+[[Category:Medalists at the 2007 Summer Universiade]]
+[[Category:20th-century Italian sportsmen]]
+[[Category:21st-century Italian sportsmen]]
+
+
+{{Italy-taekwondo-bio-stub}}
+{{Italy-Olympic-medalist-stub}}

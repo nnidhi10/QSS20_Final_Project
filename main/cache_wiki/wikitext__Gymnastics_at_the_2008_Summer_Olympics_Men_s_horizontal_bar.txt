@@ -1,0 +1,146 @@
+{{short description|Olympic gymnastics event}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox Olympic event
+|event = Men's horizontal bar
+|games = 2008 Summer
+|image = File:Zou Kai.JPG
+|caption = Zou Kai
+|venue = [[Beijing National Indoor Stadium]]
+|dates = 9 August (qualifying)<br>19 August (final)
+|competitors = 76
+|nations = 27
+|win_value = 16.200
+|win_label = Winning score
+|longnames = yes
+|gold = [[Zou Kai]]
+|goldNOC = CHN
+|silver = [[Jonathan Horton]]
+|silverNOC = USA
+|bronze = [[Fabian Hambüchen]]
+|bronzeNOC = GER
+|prev = [[Gymnastics at the 2004 Summer Olympics – Men's horizontal bar|2004]]
+|next = [[Gymnastics at the 2012 Summer Olympics – Men's horizontal bar|2012]]}}
+{{GymnasticsAt2008SummerOlympics}}
+
+The men's [[horizontal bar]] competition at the [[2008 Summer Olympics]] was held on 9 and 19 August at the [[Beijing National Indoor Stadium]]. The eight competitors (with a maximum of two per nation) with the highest scores in [[Gymnastics at the 2008 Summer Olympics – Men's artistic qualification|qualifying]] proceeded to the men's horizontal bar finals. There, each gymnast performed again; the scores from the final round (ignoring qualification) determined final ranking. There were 76 competitors from 27 nations that competed on the horizontal bar, with nations in the team event entering up to 5 gymnasts while other nations could enter up to 2.<ref name=Olympedia/> The event was won by [[Zou Kai]] of China, the nation's first victory in the horizontal bar. [[Jonathan Horton]] won silver, the United States' second consecutive Games with a silver medalist in the horizontal bar. Germany's [[Fabian Hambüchen]] won the first of his three medals in the event with bronze.
+
+==Background==
+
+This was the 22nd appearance of the event, which is one of the five apparatus events held every time there were apparatus events at the Summer Olympics (no apparatus events were held in 1900, 1908, 1912, or 1920). Five of the 10 finalists from 2004 returned: gold medalist [[Igor Cassina]] of Italy, sixth-place finisher [[Xiao Qin]] of China, seventh-place finisher [[Fabian Hambüchen]] of Germany, eighth-place finisher [[Valeriy Honcharov]] of Ukraine, and tenth-place finisher [[Yang Tae-Young]] of South Korea. Hambüchen was the reigning (2007) world champion. A significant absence was [[Aljaž Pegan]] of Slovenia, the 2005 world champion and runner-up in both 2006 and 2007. He had not qualified, as Slovenia did not earn any places from team competition, Pegan was a specialist who did not earn a spot through the all-around, and the apparatus qualifiers went only to 2007 world champions (in 2012, the qualifying rules would change to include all 2011 world champion medalists).<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/259973 |work=Olympedia |title=Horizontal Bar, Men |access-date=10 December 2020}}</ref>
+
+Uzbekistan and Venezuela each made their debut in the men's horizontal bar. The United States made its 20th appearance, most of any nation; the Americans had missed only the inaugural 1896 event and the boycotted 1980 Games.
+
+==Qualification==
+{{main|Gymnastics at the 2008 Summer Olympics – Qualification}}
+
+Qualification for the men's artistic gymnastics in 2008 was based entirely on the [[2007 World Artistic Gymnastics Championships]]. The top 12 teams at the world championships could send a full team of 6 gymnasts to the Olympics. The next 3 teams (#13 through #15) could send 2 gymnasts. The 3 teams after that (#16 through #18) could send 1 gymnast. The next 7 individual gymnasts (only from nations without any qualified gymnasts yet) and apparatus gold medal winners also qualified. The FIG Executive Board made invitational selections to ensure host country and continental representation and the Tripartite Commission made an invitation. The quota of 98 gymnasts was then filled through additional individual gymnasts.
+
+==Competition format==
+
+The 1996 gymnastics competition had introduced the "7–6–5" format, in which each team had 7 members, designated 6 for each apparatus, and had 5 count for team scores. In 2000, this was reduced across the board to a "6–5–4" format; the 2008 competition kept this format. Further, while in 1996 all 7 team members could compete on each apparatus for individual purposes, since 2000 only the 5 designated for that apparatus competed. The 2000 competition had also eliminated the compulsory exercises; only voluntary exercises were done on each apparatus. The qualifying round scores were used for qualification for the team all-around, individual all-around, and apparatus finals.
+
+The top eight gymnasts, with a limit of two per nation, advanced to the final. Non-finalists were ranked 9th through 75th based on preliminary score. The preliminary score had no effect on the final; once the eight finalists were selected, their ranking depended only on the final exercise.<ref name=Olympedia/><ref name=ResultsBook>Official Report, Results Book for Artistic Gymnastics.</ref>
+
+Scoring in artistic gymnastics under the [[Code of Points (artistic gymnastics)|Code of Points]] is based on two separate scores that are then combined in order to come to the final score. The D score measures the difficulty of each element (and combinations of elements) within the routine, while the E score evaluates the performance, ie, the "execution, composition and artistry" of the routine.
+
+==Schedule==
+
+<small>All times are [[Time in China|China Standard Time]] ([[UTC+8]])</small>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Saturday, 9 August 2008 || '''12:00''' || '''Qualifying'''
+|- style=background:lemonchiffon
+| Monday, 19 August 2008 || '''19:33''' || '''Final'''
+|}
+
+==Results==
+
+===Qualifying===
+{{Main|Gymnastics at the 2008 Summer Olympics – Men's artistic qualification}}
+
+The top 8 gymnasts, with a limit of 2 per nation, qualified for the final.
+
+===Final===
+
+{| class="wikitable sortable" style="text-align:center;"
+! Rank
+! Gymnast
+! Nation
+! {{abbr|D Score|Difficulty}}
+! {{abbr|E Score|Execution}}
+! {{abbr|Pen.|Penalty}}
+! Total
+|-
+| {{gold01}}
+|align=left| [[Zou Kai]] ||align=left| {{flagIOC|CHN|2008 Summer}}
+| 7.200
+| 9.000
+|
+| '''16.200'''
+|-
+| {{silver02}}
+|align=left| [[Jonathan Horton]] ||align=left| {{flagIOC|USA|2008 Summer}}
+| 6.900
+| 9.275
+|
+| '''16.175'''
+|-
+| {{bronze03}}
+|align=left| [[Fabian Hambüchen]] ||align=left| {{flagIOC|GER|2008 Summer}}
+| 6.800
+| 9.075
+|
+| '''15.875'''
+|-
+| 4
+|align=left| [[Igor Cassina]] ||align=left| {{flagIOC|ITA|2008 Summer}}
+| 6.600
+| 9.075
+|
+| '''15.675'''
+|-
+| 5
+|align=left| [[Takuya Nakase]] ||align=left| {{flagIOC|JPN|2008 Summer}}
+| 6.600
+| 8.850
+|
+| '''15.450'''
+|-
+| 6
+|align=left| [[Hiroyuki Tomita]] ||align=left| {{flagIOC|JPN|2008 Summer}}
+| 6.600
+| 8.625
+|
+| '''15.225'''
+|-
+| 7
+|align=left| [[Epke Zonderland]] ||align=left| {{flagIOC|NED|2008 Summer}}
+| 6.500
+| 8.500
+|
+| '''15.000'''
+|-
+| 8
+|align=left| [[Yann Cucherat]] ||align=left| {{flagIOC|FRA|2008 Summer}}
+| 6.500
+| 8.325
+|
+| '''14.825'''
+|}
+
+==References==
+{{reflist}}
+* [https://web.archive.org/web/20080813170409/http://results.beijing2008.cn/WRM/ENG/INF/GA/C73I/GAM004901.shtml#GAM499C01 Qualification results]
+* [https://web.archive.org/web/20080822132410/http://results.beijing2008.cn/WRM/ENG/INF/GA/C73I/GAM004101.shtml#GAM004101 Final results]
+
+{{Footer Olympic Champions Horizontal Bar Men}}
+
+{{DEFAULTSORT:Gymnastics at the 2008 Summer Olympics - Men's horizontal bar}}
+[[Category:Gymnastics at the 2008 Summer Olympics]]
+[[Category:Artistic gymnastics at the Summer Olympics|2008]]
+[[Category:Horizontal bar at the Olympics|Men's 2008]]
+[[Category:Men's events at the 2008 Summer Olympics]]

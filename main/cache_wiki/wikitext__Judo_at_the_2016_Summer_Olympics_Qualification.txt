@@ -1,0 +1,3441 @@
+{{short description|none}}
+{{Infobox Olympic event
+| event       = Qualification for judo
+| games       = 2016 Summer
+| dates       = 
+| prev        = [[Judo at the 2012 Summer Olympics – Qualification|2012]]
+| next        = [[Judo at the 2020 Summer Olympics – Qualification|2020]]
+}}
+
+{{Judo at the 2016 Summer Olympics}}
+
+This article details the qualifying phase for '''[[judo at the 2016 Summer Olympics]]'''.  The competition at these Games will comprise a total of 386 athletes coming from their respective NOCs; each has been allowed to enter a maximum of 14 (seven each for both men and women per division).<ref name="judo qual"/> Host nation [[Brazil at the 2016 Summer Olympics|Brazil]] has reserved a spot in each of all 14 events, while twenty are made available to NOCs through a Tripartite Commission Invitation.
+
+The remaining judoka must undergo a qualifying process to earn a spot for the Games through the world ranking list prepared by [[International Judo Federation]] that begins on May 30, 2014, and then concludes two years later on the same date.<ref name="judo qual"/>
+
+The top 22 men and top 14 women from the world rankings in each division must directly qualify, ensuring that the NOC is subjected to a limit of 1 judoka per division.<ref>{{cite news|title=Judokas get a taste of Rio as start of qualification for 2016 Games nears |url=http://www.rio2016.com/en/news/news/judokas-get-a-taste-of-rio-as-start-of-qualification-for-2016-games-nears |publisher=[[Rio 2016]] |date=20 March 2014 |access-date=28 March 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150924092243/http://www.rio2016.com/en/news/news/judokas-get-a-taste-of-rio-as-start-of-qualification-for-2016-games-nears |archive-date=24 September 2015 }}</ref> If an NOC contains more than a single male athlete ranked in the top 22 and a single female in the top 14 of the world ranking list, the NOC can decide which of their athletes obtain the quota places. Further continental quotas (Europe 25, Africa 24, Pan America 21, Asia 20 and Oceania 10 across both sexes and all divisions) are also subjected to an overall limit to one judoka per NOC and two judoka per division from each continent.<ref name="judo qual"/><ref>{{cite news|first=Paul|last=Osbourne|title=International Judo Federation reveals Rio 2016 qualification process|url=http://www.insidethegames.biz/sports/summer/judo/1018472-international-judo-federation-reveals-rio-2016-qualification-process|publisher=Inside the Games|date=18 February 2014|access-date=28 March 2015}}</ref>
+
+==Summary==
+{| class="wikitable" width=900 style="text-align:center; font-size:90%"
+! rowspan="2" style="text-align:center;"| NOC
+! colspan="7"| Men
+! colspan="7" | Women
+! rowspan="2"|Total
+|-style="font-size:95%"
+! [[#Extra-lightweight (60 kg)|60 kg]] || [[#Half-lightweight (66 kg)|66 kg]] || [[#Lightweight (73 kg)|73 kg]] || [[#Half-middleweight (81 kg)|81 kg]] || [[#Middleweight (90 kg)|90 kg]] || [[#Half-heavyweight (100 kg)|100 kg]] || [[#Heavyweight (+100 kg)|+100 kg]] || [[#Extra-lightweight (48 kg)|48 kg]] || [[#Half-lightweight (52 kg)|52 kg]] || [[#Lightweight (57 kg)|57 kg]] || [[#Half-middleweight (63 kg)|63 kg]] || [[#Middleweight (70 kg)|70 kg]] || [[#Half-heavyweight (78 kg)|78 kg]] || [[#Heavyweight (+78 kg)|+78 kg]]
+|-
+|style="text-align:left;"|{{FlagIOC|AFG|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|AND|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ALG|2016 Summer}}
+|
+|X
+|
+|
+|X
+|X
+|X
+|
+|
+|
+|
+|
+|
+|X
+|'''5'''
+|-
+|style="text-align:left;"|{{FlagIOC|ASA|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|ANG|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ARG|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|ARM|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ARU|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|AUS|2016 Summer}}
+|X
+|X
+|X
+|X
+|
+|
+|
+|X
+|
+|
+|X
+|
+|X
+|
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|AUT|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|X
+|
+|
+|X
+|X
+|X
+|
+|
+|'''5'''
+|-
+|style="text-align:left;"|{{FlagIOC|AZE|2016 Summer}}
+|X
+|X
+|X
+|
+|X
+|X
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''6'''
+|-
+|style="text-align:left;"|{{FlagIOC|BLR|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|BEL|2016 Summer}}
+|
+|X
+|X
+|X
+|
+|X
+|
+|X
+|
+|
+|
+|
+|
+|
+|'''5'''
+|-
+|style="text-align:left;"|{{FlagIOC|BIZ|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|BEN|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|BOL|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{nowrap|style="text-align:left;"|{{flagIOC|BIH|2016 Summer}}}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|BOT|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|BRA|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|'''14'''
+|-
+|style="text-align:left;"|{{FlagIOC|BUL|2016 Summer}}
+|X
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|BUR|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|BDI|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|CMR|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|CAN|2016 Summer}}
+|X
+|X
+|
+|X
+|
+|X
+|
+|
+|X
+|X
+|
+|X
+|
+|
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|CHI|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|CHN|2016 Summer}}
+|
+|X
+|X
+|
+|X
+|
+|
+|
+|X
+|
+|X
+|X
+|X
+|X
+|'''8'''
+|-
+|style="text-align:left;"|{{flagIOC|COL|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|X
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|CGO|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|CRC|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|CRO|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|CUB|2016 Summer}}
+|
+|
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|
+|X
+|
+|X
+|X
+|'''9'''
+|-
+|style="text-align:left;"|{{FlagIOC|CZE|2016 Summer}}
+|X
+|
+|X
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|DOM|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|COD|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|DJI|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ECU|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|X
+|
+|
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|EGY|2016 Summer}}
+|X
+|
+|X
+|X
+|
+|X
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''5'''
+|-
+|style="text-align:left;"|{{FlagIOC|ESA|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|EST|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|FIJ|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|FIN|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|FRA|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|'''14'''
+|-
+|style="text-align:left;"|{{FlagIOC|GAB|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|GAM|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|GEO|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|
+|
+|
+|X
+|
+|
+|'''8'''
+|-
+|style="text-align:left;"|{{FlagIOC|GER|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|X
+|X
+|X
+|X
+|X
+|X
+|'''13'''
+|-
+|style="text-align:left;"|{{FlagIOC|GHA|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|GBR|2016 Summer}}
+|X
+|X
+|
+|
+|
+|X
+|
+|
+|
+|X
+|X
+|X
+|X
+|
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|GRE|2016 Summer}}
+|
+|
+|
+|X
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|GUA|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|GUI|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|GBS|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|HAI|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|HON|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|HUN|2016 Summer}}
+|
+|
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|X
+|
+|
+|X
+|
+|'''8'''
+|-
+|style="text-align:left;"|{{FlagIOC|ISL|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|IND|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|IRN|2016 Summer}}
+|
+|<s>X</s>
+|
+|X
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|IRQ|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ISR|2016 Summer}}
+|
+|X
+|X
+|
+|
+|
+|X
+|X
+|X
+|
+|X
+|X
+|
+|
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|ITA|2016 Summer}}
+|X
+|X
+|
+|X
+|
+|
+|
+|X
+|X
+|
+|X
+|
+|
+|
+|'''6'''
+|-
+|style="text-align:left;"|{{flagIOC|CIV|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|JPN|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|'''14'''
+|-
+|style="text-align:left;"|{{FlagIOC|JOR|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|KAZ|2016 Summer}}
+|X
+|X
+|X
+|
+|
+|X
+|
+|X
+|
+|
+|X
+|
+|
+|
+|'''6'''
+|-
+|style="text-align:left;"|{{FlagIOC|KEN|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|KOS|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|X
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|KGZ|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|LAO|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|LAT|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|LIB|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|LBA|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|LTU|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MKD|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|MAD|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MLI|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|MRI|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|MEX|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|X
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|MDA|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MON|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MGL|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|'''13'''
+|-
+|style="text-align:left;"|{{FlagIOC|MNE|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MAR|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|X
+|
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|MOZ|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|MYA|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|NRU|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|NEP|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|NED|2016 Summer}}
+|X
+|
+|X
+|X
+|X
+|X
+|X
+|
+|
+|X
+|X
+|X
+|X
+|X
+|'''11'''
+|-
+|style="text-align:left;"|{{flagIOC|NZL|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|NIG|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|PRK|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|X
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|PAK|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|PLE|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|PNG|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|PER|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|PHI|2016 Summer}}
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|POL|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|X
+|
+|X
+|X
+|
+|'''4'''
+|-
+|style="text-align:left;"|{{FlagIOC|POR|2016 Summer}}
+|
+|X
+|X
+|
+|X
+|X
+|
+|
+|X
+|X
+|
+|
+|
+|
+|'''6'''
+|-
+|style="text-align:left;"|{{flagIOC|PUR|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|X
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|QAT|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ROT|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|ROU|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|X
+|X
+|X
+|
+|
+|
+|
+|'''4'''
+|-
+|style="text-align:left;"|{{FlagIOC|RUS|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|X
+|
+|
+|X
+|'''11'''
+|-
+|style="text-align:left;"|{{FlagIOC|SAM|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SMR|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|KSA|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|SEN|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SRB|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SEY|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SLO|2016 Summer}}
+|
+|X
+|X
+|
+|X
+|
+|
+|
+|
+|
+|X
+|
+|X
+|
+|'''5'''
+|-
+|style="text-align:left;"|{{FlagIOC|RSA|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|KOR|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|X
+|
+|X
+|X
+|X
+|
+|X
+|'''12'''
+|-
+|style="text-align:left;"|{{FlagIOC|ESP|2016 Summer}}
+|X
+|X
+|
+|
+|
+|
+|
+|X
+|X
+|
+|
+|X
+|
+|
+|'''5'''
+|-
+|style="text-align:left;"|{{flagIOC|SRI|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SUD|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SUR|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|SWE|2016 Summer}}
+|
+|
+|
+|X
+|X
+|X
+|
+|
+|
+|
+|X
+|
+|
+|
+|'''4'''
+|-
+|style="text-align:left;"|{{FlagIOC|SUI|2016 Summer}}
+|X
+|
+|
+|
+|X
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|SYR|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|TPE|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|TJK|2016 Summer}}
+|
+|
+|
+|
+|X
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|TAN|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|THA|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|TTO|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|TUN|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|X
+|
+|X
+|
+|
+|X
+|
+|X
+|'''4'''
+|-
+|style="text-align:left;"|{{FlagIOC|TUR|2016 Summer}}
+|X
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|X
+|
+|
+|X
+|'''4'''
+|-
+|style="text-align:left;"|{{flagIOC|TKM|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|X
+|
+|
+|
+|
+|'''2'''
+|-
+|style="text-align:left;"|{{FlagIOC|UKR|2016 Summer}}
+|
+|X
+|
+|
+|X
+|X
+|X
+|X
+|
+|
+|
+|
+|X
+|X
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|UAE|2016 Summer}}
+|
+|
+|X
+|X
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''3'''
+|-
+|style="text-align:left;"|{{FlagIOC|USA|2016 Summer}}
+|
+|
+|X
+|X
+|X
+|
+|
+|
+|X
+|X
+|
+|
+|X
+|
+|'''6'''
+|-
+|style="text-align:left;"|{{FlagIOC|URU|2016 Summer}}
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|UZB|2016 Summer}}
+|X
+|X
+|X
+|X
+|X
+|
+|X
+|
+|
+|
+|
+|X
+|
+|
+|'''7'''
+|-
+|style="text-align:left;"|{{FlagIOC|VAN|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|VEN|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{flagIOC|VIE|2016 Summer}}
+|
+|
+|
+|
+|
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|YEM|2016 Summer}}
+|
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+|style="text-align:left;"|{{FlagIOC|ZAM|2016 Summer}}
+|
+|X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|'''1'''
+|-
+!Total: 137 NOCs
+!35
+!35
+!35
+!32
+!35
+!35
+!31
+!23
+!21
+!22
+!26
+!24
+!18
+!17
+!389
+|}
+
+==Men's events==
+<ref>{{Cite web|url=http://www.judobase.org/#/wrl/m/ogq/0|title=Men qualified for Rio 2016|website=www.judobase.org|access-date=28 May 2016}}</ref>
+<!-- THE RANKINGS IN THIS TABLE ARE AS OF MAY 30, 2016, WHICH WAS THE CUTOFF FOR QUALIFICATION - PLEASE DO NOT CHANGE THEM TO THE CURRENT RANKINGS. STILL EDITING. -->
+
+=== Extra-lightweight (60 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/1|title=IJF World Rankings 30 May 2016 (Extra-lightweight 60kg)|website=Judobase.org|publisher=[[International Judo Federation]]|access-date=30 May 2016|archive-url=https://web.archive.org/web/20160406213505/http://data.judobase.org/pdf/wrl/1|archive-date=6 April 2016|url-status=dead}}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Felipe Kitadai]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22 
+|{{FlagIOC|KOR|2016 Summer}} || [[Kim Won-jin (judoka)|Kim Won-jin]]
+|-
+|{{FlagIOC|AZE|2016 Summer}} || [[Orkhan Safarov]]
+|-
+|{{FlagIOC|KAZ|2016 Summer}} || [[Yeldos Smetov]]
+|-
+|{{FlagIOC|JPN|2016 Summer}} || [[Naohisa Takato]]
+|-
+|{{FlagIOC|GEO|2016 Summer}} || [[Amiran Papinashvili]]
+|-
+|{{FlagIOC|UZB|2016 Summer}} || [[Diyorbek Urozboev]]
+|-
+|{{FlagIOC|RUS|2016 Summer}} || [[Beslan Mudranov]]
+|-
+|{{FlagIOC|ARM|2016 Summer}} || [[Hovhannes Davtyan (judoka)|Hovhannes Davtyan]]
+|-
+|{{FlagIOC|FRA|2016 Summer}} || [[Walide Khyar]]
+|-
+|{{FlagIOC|GBR|2016 Summer}} || [[Ashley McKenzie]]
+|-
+|{{FlagIOC|TUR|2016 Summer}} || [[Bekir Özlü]]
+|-
+|{{FlagIOC|NED|2016 Summer}} || [[Jeroen Mooren]]
+|- 
+|{{FlagIOC|MGL|2016 Summer}} || [[Tsogtbaataryn Tsend-Ochir]]
+|-
+|{{FlagIOC|AUS|2016 Summer}} || [[Josh Katz (judoka)|Joshua Katz]]
+|-
+|{{FlagIOC|ECU|2016 Summer}} || [[Lenin Preciado]]
+|-
+|{{FlagIOC|CZE|2016 Summer}} || [[Pavel Petříkov]]
+|-
+|{{FlagIOC|SUI|2016 Summer}} || [[Ludovic Chammartin]]
+|-
+|{{FlagIOC|AUT|2016 Summer}} || [[Ludwig Paischer]]
+|-
+|{{FlagIOC|ESP|2016 Summer}} || [[Francisco Garrigós]]
+|-
+|{{FlagIOC|GER|2016 Summer}} || [[Tobias Englmaier]]
+|-
+|{{FlagIOC|ITA|2016 Summer}} || [[Elios Manzi]]
+|-
+|{{FlagIOC|CAN|2016 Summer}} || [[Sérgio Pessoa]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|BUL|2016 Summer}}|| [[Yanislav Gerchev]]
+|-
+|{{FlagIOC|FIN|2016 Summer}}|| [[Juho Reinvall]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|EGY|2016 Summer}}|| [[Ahmed Abelrahman]]
+|-
+|{{FlagIOC|LBA|2016 Summer}}|| [[Mohamed El-Kawisah]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{FlagIOC|GUA|2016 Summer}}|| [[José Ramos (judoka)|José Ramos]]
+|-
+|{{FlagIOC|PER|2016 Summer}}|| [[Juan Postigos]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{FlagIOC|KGZ|2016 Summer}}|| [[Otar Bestaev]]
+|-
+|{{FlagIOC|TPE|2016 Summer}}|| [[Tsai Ming-yen (judoka)|Tsai Ming-yen]]
+|-
+| Additional places (Oceania) || align=center | 0
+| — || —
+|-
+| rowspan=4| Invitational || rowspan=4 align=center | 4 
+|{{FlagIOC|BOT|2016 Summer}}  || [[Gavin Mogopa]]
+|-
+|{{FlagIOC|LAO|2016 Summer}}  || [[Soukphaxay Sithisane]]
+|-
+|{{FlagIOC|MON|2016 Summer}}  || [[Yann Siccardi]]
+|-
+|{{FlagIOC|PLE|2016 Summer}}  || [[Simon Yacoub]]
+|-
+! Total !! 35 !! colspan=2|
+|}
+
+=== Half-lightweight (66 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/2|title=IJF World Rankings 30 May 2016 (Half-lightweight 66kg)|website=Judobase.org|publisher=[[International Judo Federation]]|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702055229/http://data.judobase.org/pdf/wrl/2|archive-date=2 July 2017|url-status=dead}}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Charles Chibana]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22 
+|{{FlagIOC|KOR|2016 Summer}} || [[An Ba-ul]]
+|-
+|{{FlagIOC|MGL|2016 Summer}} || [[Davaadorjiin Tömörkhüleg]]
+|-
+|{{FlagIOC|RUS|2016 Summer}} || [[Mikhail Pulyaev]]
+|-
+|{{FlagIOC|UKR|2016 Summer}} || [[Georgii Zantaraia]]
+|-
+|{{FlagIOC|JPN|2016 Summer}} || [[Masashi Ebinuma]]
+|-
+|{{FlagIOC|ISR|2016 Summer}} || [[Golan Pollack]]
+|-
+|{{FlagIOC|AZE|2016 Summer}} || [[Nijat Shikhalizade]]
+|-
+|{{FlagIOC|GEO|2016 Summer}} || [[Vazha Margvelashvili]]
+|-
+|{{FlagIOC|UZB|2016 Summer}} || [[Rishod Sobirov]]
+|-
+|{{FlagIOC|BLR|2016 Summer}} || [[Dzmitry Shershan]]
+|-
+|{{FlagIOC|GER|2016 Summer}} || [[Sebastian Seidl]]
+|-
+|{{FlagIOC|GBR|2016 Summer}} || [[Colin Oates]]
+|-
+|{{FlagIOC|ESP|2016 Summer}} || [[Sugoi Uriarte]]
+|-
+|{{FlagIOC|KAZ|2016 Summer}} || [[Zhansay Smagulov]]
+|-
+|{{FlagIOC|CAN|2016 Summer}} || [[Antoine Bouchard (judoka)|Antoine Bouchard]]
+|-
+|{{FlagIOC|POR|2016 Summer}} || [[Sergiu Oleinic]] 
+|-
+|{{FlagIOC|AUS|2016 Summer}} || [[Nathan Katz (judoka)|Nathan Katz]]
+|-
+|{{FlagIOC|FRA|2016 Summer}} || [[Kilian Le Blouch]]
+|-
+|{{FlagIOC|CHN|2016 Summer}} || [[Ma Duanbin]]
+|-
+|{{FlagIOC|ALG|2016 Summer}} || [[Houd Zourdani]]
+|-
+|{{FlagIOC|ITA|2016 Summer}} || [[Fabio Basile]]
+|-
+|{{FlagIOC|MAR|2016 Summer}} || [[Imad Bassou]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|SLO|2016 Summer}} || [[Adrian Gomboc]]
+|-
+|{{FlagIOC|BEL|2016 Summer}} || [[Jasper Lefevere]]
+|-
+| rowspan=3| Additional places (Africa) || rowspan=3 align=center | 2 
+|<s>{{FlagIOC|RSA|2016 Summer}}</s> || <s>[[Siyabulela Mabulu]]</s>
+|-
+|{{FlagIOC|ZAM|2016 Summer}} || [[Mathews Punza]]
+|-
+|{{FlagIOC|COD|2016 Summer}}|| [[Rodrick Kuku]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{FlagIOC|DOM|2016 Summer}} || [[Wander Mateo]]
+|-
+|{{FlagIOC|ARU|2016 Summer}}|| [[Jayme Mata]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | <s>2</s><br>1
+|<s>{{FlagIOC|IRN|2016 Summer}}</s> || <s>[[Alireza Khojasteh]]</s>{{refn|Alireza Khojasteh withdrew from the Olympics.<ref>{{cite news|title=رقابتهای جودو فردا قرعه کشی می شود/ نام خجسته از لیست خارج شد|trans-title=Judo competition draw to be held tomorrow, Khojasteh to be delisted|url=https://www.mehrnews.com/news/3730544/رقابتهای|access-date=4 August 2016|agency=Mehr News Agency|language=fa}}</ref> With the withdrawal of an Iranian judoka, the [[International Judo Federation]] invited Kodo Nakano of the Philippines to participate at the 81 kg event.<ref>{{cite news|last1=Melendres|first1=Teddyvic|title=Fil-Japanese judoka charmed No. 13 in Rio team|url=http://sports.inquirer.net/218123/fil-japanese-charmed-no-13-in-rio-team|access-date=4 August 2016|newspaper=Philippine Daily Inquirer|date=4 August 2016}}</ref>|group="note"|name="iranwithdraws"}}
+|-
+|{{FlagIOC|KSA|2016 Summer}} || [[Sulaiman Hamad]]
+|-
+| rowspan=2| Additional places (Oceania) || rowspan=2 align=center | 2 
+|{{FlagIOC|PNG|2016 Summer}} || [[Raymond Ovinou]] 
+|-
+|{{FlagIOC|VAN|2016 Summer}} || [[Joe Mahit]]
+|-
+| rowspan=2| Invitational || rowspan=2 align=center | 2 
+|{{FlagIOC|DJI|2016 Summer}}  || [[Anass Houssein]]
+|-
+|{{FlagIOC|SUR|2016 Summer}}  || [[Yigal Kopinsky]]
+|-
+! Total !! 34 !! colspan=2|
+|}
+
+=== Lightweight (73 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/3 |title=IJF World Rankings 30 May 2016 (Lightweight 73kg) |website=Judobase.org |publisher=[[International Judo Federation]] |access-date=30 May 2016 |url-status=dead |archive-url=https://web.archive.org/web/20150822173643/http://data.judobase.org/pdf/wrl/3 |archive-date=22 August 2015 }}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Alex Pombo]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22 
+|{{FlagIOC|KOR|2016 Summer}} || [[An Chang-rim]]
+|-
+|{{FlagIOC|AZE|2016 Summer}} || [[Rustam Orujov]]
+|-
+|{{FlagIOC|ISR|2016 Summer}} || [[Sagi Muki]]
+|-
+|{{FlagIOC|GEO|2016 Summer}} || [[Lasha Shavdatuashvili]]
+|-
+|{{FlagIOC|JPN|2016 Summer}} || [[Shohei Ono]]
+|-
+|{{FlagIOC|RUS|2016 Summer}} || [[Denis Iartcev]]
+|-
+|{{FlagIOC|MGL|2016 Summer}} || [[Ganbaataryn Odbayar]]
+|-
+|{{FlagIOC|UZB|2016 Summer}} || [[Mirali Sharipov]]
+|-
+|{{FlagIOC|HUN|2016 Summer}} || [[Miklós Ungvári]]
+|-
+|{{FlagIOC|CAN|2016 Summer}} || [[Arthur Margelidon]]
+|-
+|{{FlagIOC|GER|2016 Summer}} || [[Igor Wandtke]]
+|-
+|{{FlagIOC|BEL|2016 Summer}} || [[Dirk van Tichelt]]
+|-
+|{{FlagIOC|SLO|2016 Summer}} || [[Rok Drakšič]]
+|-
+|{{FlagIOC|PRK|2016 Summer}} || [[Hong Kuk-hyon]]
+|-
+|{{FlagIOC|NED|2016 Summer}} || [[Dex Elmont]]
+|-
+|{{FlagIOC|FRA|2016 Summer}} || [[Pierre Duprat]]
+|-
+|{{FlagIOC|UAE|2016 Summer}} || [[Victor Scvortov]]
+|-
+|{{FlagIOC|EGY|2016 Summer}} || [[Mohamed Mohy Eldin]]
+|-
+|{{FlagIOC|CHN|2016 Summer}} || [[Sai Yinjirigala]]
+|-
+|{{FlagIOC|AUS|2016 Summer}} || [[Jake Bensted]]
+|-
+|{{FlagIOC|CUB|2016 Summer}} || [[Magdiel Estrada]]
+|-
+|{{FlagIOC|USA|2016 Summer}} || [[Nicholas Delpopolo]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|CZE|2016 Summer}} || [[Jaromír Ježek]]
+|-
+|{{FlagIOC|POR|2016 Summer}} || [[Nuno Saraiva]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|GAM|2016 Summer}} || [[Faye Njie]]
+|-
+|{{FlagIOC|NIG|2016 Summer}} || [[Ahmed Goumar]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{FlagIOC|CRC|2016 Summer}} || [[Miguel Murillo (judoka)|Miguel Murillo]]
+|-
+|{{FlagIOC|HAI|2016 Summer}} || [[Josue Deprez]]
+|-
+| Additional places (Asia) || align=center | 1  
+|{{FlagIOC|QAT|2016 Summer}} || [[Morad Zemouri]]
+|-
+| Additional places (Oceania) || align=center | 1 
+|{{FlagIOC|ASA|2016 Summer}} || [[Benjamin Waterhouse (judoka)|Benjamin Waterhouse]]
+|-
+| rowspan=4| Invitational || rowspan=4 align=center | 4
+|{{flagIOC|SRI|2016 Summer}}  || [[Chamara Repiyallage]]
+|-
+|{{flagIOC|SYR|2016 Summer}}  || [[Mohamad Kasem]]
+|-
+|{{flagIOC|TAN|2016 Summer}}  || [[Andrew Thomas Mlugu]]
+|-
+|{{flagIOC|YEM|2016 Summer}}  || [[Zeyad Mater]]
+|-
+! Total !! 35 !! colspan=2|
+|}
+
+=== Half-middleweight (81 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/4|title=IJF World Rankings (Half-middleweight 81kg)|website=Judobase.org|publisher=[[International Judo Federation]]|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072710/http://data.judobase.org/pdf/wrl/4|archive-date=2 July 2017|url-status=dead}}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Victor Penalber]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22
+|{{FlagIOC|GEO|2016 Summer}} || [[Avtandili Tchrikishvili]]
+|-
+|{{FlagIOC|JPN|2016 Summer}} || [[Takanori Nagase]]
+|-
+|{{FlagIOC|CAN|2016 Summer}} || [[Antoine Valois-Fortier]]
+|-
+|{{FlagIOC|BUL|2016 Summer}} || [[Ivaylo Ivanov (judoka)|Ivaylo Ivanov]]
+|-
+|{{FlagIOC|USA|2016 Summer}} || [[Travis Stevens]]
+|-
+|{{FlagIOC|RUS|2016 Summer}} || [[Khasan Khalmurzaev]]
+|-
+|{{FlagIOC|BEL|2016 Summer}} || [[Joachim Bottieau]]
+|-
+|{{FlagIOC|GRE|2016 Summer}} || [[Roman Moustopoulos]]
+|-
+|{{FlagIOC|UAE|2016 Summer}} || [[Sergiu Toma]]
+|-
+|{{FlagIOC|EGY|2016 Summer}} || [[Mohamed Abdelaal]]
+|-
+|{{FlagIOC|KOR|2016 Summer}} || [[Lee Seung-soo]]
+|-
+|{{FlagIOC|MGL|2016 Summer}} || [[Uuganbaataryn Otgonbaatar]]
+|-
+|{{FlagIOC|CUB|2016 Summer}} || [[Iván Felipe Silva]]
+|-
+|{{FlagIOC|FRA|2016 Summer}} || [[Loïc Pietri]]
+|-
+|{{FlagIOC|HUN|2016 Summer}} || [[László Csoknyai]] 
+|-
+|{{FlagIOC|UZB|2016 Summer}} || [[Shakhzodbek Sabirov]]
+|-
+|{{FlagIOC|GER|2016 Summer}} || [[Sven Maresch]]
+|-
+|{{FlagIOC|AUS|2016 Summer}} || [[Eoin Coughlan]]
+|-
+|{{FlagIOC|LIB|2016 Summer}} || [[Nacif Elias]]
+|-
+|{{FlagIOC|SWE|2016 Summer}} || [[Robin Pacek]]
+|-
+|{{FlagIOC|NED|2016 Summer}} || [[Frank de Wit]]
+|-
+|{{FlagIOC|IRN|2016 Summer}} || [[Saeid Mollaei]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|ITA|2016 Summer}} || [[Matteo Marconcini]]
+|-
+|{{FlagIOC|MDA|2016 Summer}} || [[Valeriu Duminică]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|MOZ|2016 Summer}} || [[Marlon Acácio]]
+|-
+|{{FlagIOC|GAB|2016 Summer}} || [[Paul Kibikai]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{FlagIOC|ARG|2016 Summer}} || [[Emmanuel Lucenti]]
+|-
+|{{FlagIOC|ESA|2016 Summer}} || [[Juan Diego Turcios]]
+|-
+| Additional places (Asia) || align=center | 1 
+|{{FlagIOC|IRQ|2016 Summer}} || [[Hussein Al-Aameri]]
+|-
+| Additional places (Oceania) || align=center | 1 
+|{{FlagIOC|FIJ|2016 Summer}} || [[Josateki Naulu]]
+|-
+|rowspan=2| Invitational || align=center rowspan=2| 2
+|{{flagIOC|MNE|2016 Summer}} || [[Srđan Mrvaljević]]
+|-
+|{{flagIOC|PHI|2016 Summer}} || [[Kodo Nakano]]<ref group="note" name="iranwithdraws"/>
+|-
+! Total !! 33 !! colspan=2|
+|}
+
+=== Middleweight (90 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/5|title=IJF World Rankings 30 May 2016 (Middleweight 90kg)|website=Judobase.org|publisher=[[International Judo Federation]]|access-date=30 May 2016|archive-url=https://web.archive.org/web/20160605183329/http://data.judobase.org/pdf/wrl/5|archive-date=5 June 2016|url-status=dead}}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Tiago Camilo]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22
+|{{FlagIOC|JPN|2016 Summer}}|| [[Mashu Baker]]
+|-
+|{{FlagIOC|KOR|2016 Summer}}|| [[Gwak Dong-han]]
+|-
+|{{FlagIOC|GEO|2016 Summer}}|| [[Varlam Liparteliani]]
+|-
+|{{FlagIOC|HUN|2016 Summer}}|| [[Krisztián Tóth]]
+|-
+|{{FlagIOC|SWE|2016 Summer}}|| [[Marcus Nyman]]
+|-
+|{{FlagIOC|NED|2016 Summer}}|| [[Noël van 't End]]
+|-
+|{{FlagIOC|RUS|2016 Summer}}|| [[Kirill Denisov]] 
+|-
+|{{FlagIOC|FRA|2016 Summer}}|| [[Alexandre Iddir]]
+|-
+|{{FlagIOC|MGL|2016 Summer}}|| [[Lkhagvasürengiin Otgonbaatar]]
+|-
+|{{FlagIOC|TJK|2016 Summer}}|| [[Komronshokh Ustopiriyon]]
+|-
+|{{FlagIOC|CUB|2016 Summer}}|| [[Asley González]]
+|-
+|{{FlagIOC|SRB|2016 Summer}}|| [[Aleksandar Kukolj]]
+|-
+|{{FlagIOC|GRE|2016 Summer}}|| [[Ilias Iliadis (judoka)|Ilias Iliadis]]
+|-
+|{{FlagIOC|ALG|2016 Summer}}|| [[Abderahmane Benamadi]]
+|-
+|{{FlagIOC|SLO|2016 Summer}}|| [[Mihael Žgank]]
+|-
+|{{FlagIOC|POR|2016 Summer}}|| [[Célio Dias]]
+|-
+|{{FlagIOC|SUI|2016 Summer}}|| [[Ciril Grossklaus]]
+|-
+|{{FlagIOC|RSA|2016 Summer}}|| [[Zack Piontek]]
+|-
+|{{FlagIOC|CHN|2016 Summer}}|| [[Cheng Xunzhao]]
+|-
+|{{FlagIOC|AZE|2016 Summer}}|| [[Mammadali Mehdiyev]]
+|-
+|{{FlagIOC|USA|2016 Summer}}|| [[Colton Brown]]
+|-
+|{{FlagIOC|UZB|2016 Summer}}|| [[Sherali Juraev]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2  
+|{{FlagIOC|GER|2016 Summer}}|| [[Marc Odenthal]] 
+|-
+|{{FlagIOC|UKR|2016 Summer}}|| [[Quedjau Nhabali]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|KEN|2016 Summer}}|| [[Kiplangat Sang]]
+|-
+|{{FlagIOC|BEN|2016 Summer}}|| [[Celtus Dossou Yovo]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2
+|{{FlagIOC|CHI|2016 Summer}}|| [[Thomas Briceño]]
+|-
+|{{FlagIOC|BOL|2016 Summer}}|| [[Martín Michel (judoka)|Martín Michel]] 
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{FlagIOC|JOR|2016 Summer}}|| [[Ibrahim Khalaf]]
+|-
+|{{FlagIOC|IND|2016 Summer}}|| [[Avtar Singh (judoka)|Avtar Singh]] 
+|-
+| Additional places (Oceania) || align=center | 1 
+|{{FlagIOC|NRU|2016 Summer}}|| [[Ovini Uera]]
+|-
+| rowspan=3| Invitational || rowspan=3 align=center | 3  
+|{{FlagIOC|ROT|2016 Summer}}|| [[Popole Misenga]]
+|-
+|{{FlagIOC|BIZ|2016 Summer}}|| [[Renick James]]
+|-
+|{{FlagIOC|SUD|2016 Summer}}|| [[Iszlam Monier Suliman]]
+|-
+! Total !! 35 !! colspan=2|
+|}
+
+=== Half-heavyweight (100 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/6|title=IJF World Rankings 30 May 2016 (Half-heavyweight 100kg)|website=Judobase.org|publisher=[[International Judo Federation]]|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170203062340/http://data.judobase.org/pdf/wrl/6|archive-date=3 February 2017|url-status=dead}}</ref>
+
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} ||[[Rafael Buzacarini]]
+|-
+| rowspan=23| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=23 align=center | 22
+|-
+|{{FlagIOC|AZE|2016 Summer}}|| [[Elmar Gasimov]]
+|-
+|{{FlagIOC|FRA|2016 Summer}}|| [[Cyrille Maret]]
+|-
+|{{FlagIOC|CZE|2016 Summer}}|| [[Lukáš Krpálek]]
+|-
+|{{FlagIOC|SWE|2016 Summer}}|| [[Martin Pacek]]
+|-
+|{{FlagIOC|GER|2016 Summer}}|| [[Karl-Richard Frey]]
+|-
+|{{FlagIOC|JPN|2016 Summer}}|| [[Ryunosuke Haga]]
+|-
+|{{FlagIOC|BEL|2016 Summer}}|| [[Toma Nikiforov]]
+|-
+|{{FlagIOC|EGY|2016 Summer}}|| [[Ramadan Darwish]]
+|-
+|{{FlagIOC|CUB|2016 Summer}}|| [[José Armenteros]]
+|-
+|{{FlagIOC|KOR|2016 Summer}}|| [[Cho Gu-ham]]
+|-
+|{{FlagIOC|NED|2016 Summer}}|| [[Henk Grol]]
+|-
+|{{FlagIOC|GEO|2016 Summer}}|| [[Beka Gviniashvili]]
+|-
+|{{FlagIOC|MGL|2016 Summer}}|| [[Naidangiin Tüvshinbayar]]
+|-
+|{{FlagIOC|ALG|2016 Summer}}|| [[Lyès Bouyacoub]]
+|-
+|{{FlagIOC|CAN|2016 Summer}}|| [[Kyle Reyes]]
+|-
+|{{FlagIOC|RUS|2016 Summer}}|| [[Tagir Khaibulaev]]
+|-
+|{{FlagIOC|KAZ|2016 Summer}}|| [[Maxim Rakov]]
+|-
+|{{FlagIOC|UKR|2016 Summer}}|| [[Artem Bloshenko]]
+|-
+|{{FlagIOC|HUN|2016 Summer}}|| [[Miklós Cirjenics]]
+|-
+|{{FlagIOC|POR|2016 Summer}}|| [[Jorge Fonseca]]
+|-
+|{{FlagIOC|IRI|2016 Summer}}|| [[Javad Mahjoub]]
+|-
+|{{FlagIOC|LAT|2016 Summer}}|| [[Jevgeņijs Borodavko]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|GBR|2016 Summer}}|| [[Benjamin Fletcher (judoka)|Benjamin Fletcher]]
+|-
+|{{FlagIOC|EST|2016 Summer}}|| [[Grigori Minaskin]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2
+|{{FlagIOC|SEY|2016 Summer}}|| [[Dominic Dugasse]]
+|-
+|{{FlagIOC|MLI|2016 Summer}}|| [[Ayouba Traoré]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{FlagIOC|TTO|2016 Summer}}|| [[Christopher George (judoka)|Christopher George]]
+|-
+|{{FlagIOC|URU|2016 Summer}}|| [[Pablo Aprahamian]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{FlagIOC|UAE|2016 Summer}}|| [[Ivan Remarenco]]
+|-
+|{{FlagIOC|PAK|2016 Summer}}|| [[Shah Hussain Shah]]
+|-
+| rowspan=3| Invitational || rowspan=3 align=center | 3  
+| {{FlagIOC|AFG|2016 Summer}}|| [[Mohammad Tawfiq Bakhshi]]
+|-
+| {{FlagIOC|MYA|2016 Summer}}|| [[Yan Naing Soe]]
+|-
+| <s>{{FlagIOC|SMR|2016 Summer}}</s>|| <s>[[Karim Gharbi]]</s>
+|-
+| Re-allocation of unused quota || align=center |1  || {{FlagIOC|UZB|2016 Summer}}|| [[Soyib Kurbonov]] 
+|-
+! Total !! 35 !! colspan=2|
+|}
+
+=== Heavyweight (+100 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/7|title=IJF World Rankings 30 May 2016|last=Heavyweights +100kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072716/http://data.judobase.org/pdf/wrl/7|archive-date=2 July 2017|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Rafael Silva (judoka)|Rafael Silva]]
+|-
+| rowspan=22| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=22 align=center | 22 
+|{{FlagIOC|FRA|2016 Summer}} || [[Teddy Riner]]
+|-
+|{{FlagIOC|JPN|2016 Summer}} || [[Hisayoshi Harasawa]]
+|-
+|{{FlagIOC|UKR|2016 Summer}} || [[Yakiv Khammo]]
+|-
+|{{FlagIOC|NED|2016 Summer}} || [[Roy Meyer]]
+|-
+|{{FlagIOC|ISR|2016 Summer}} || [[Or Sasson]]
+|-
+|{{FlagIOC|ROU|2016 Summer}} || [[Daniel Natea]]
+|-
+|{{FlagIOC|HUN|2016 Summer}} || [[Barna Bor]]
+|-
+|{{FlagIOC|TUN|2016 Summer}} || [[Faicel Jaballah]]
+|-
+|{{FlagIOC|GEO|2016 Summer}} || [[Adam Okruashvili]]
+|-
+|{{FlagIOC|RUS|2016 Summer}} || [[Renat Saidov]]
+|-
+|{{FlagIOC|KOR|2016 Summer}} || [[Kim Sung-min (judoka)|Kim Sung-min]]
+|-
+|{{FlagIOC|GER|2016 Summer}} || [[André Breitbarth]]
+|-
+|{{FlagIOC|POL|2016 Summer}} || [[Maciej Sarnacki]]
+|-
+|{{FlagIOC|ALG|2016 Summer}} || [[Mohamed-Amine Tayeb]]
+|-
+|{{FlagIOC|UZB|2016 Summer}} || [[Abdullo Tangriev]]
+|-
+|{{FlagIOC|MGL|2016 Summer}} || [[Temuulen Battulga]]
+|-
+|{{FlagIOC|KGZ|2016 Summer}} || [[Iurii Krakovetskii]]
+|-
+|{{FlagIOC|AZE|2016 Summer}} || [[Ushangi Kokauri]]
+|-
+|{{FlagIOC|EGY|2016 Summer}} || [[Islam El Shehaby]]
+|-
+|{{FlagIOC|AUT|2016 Summer}} || [[Daniel Allerstorfer]]
+|-
+|{{FlagIOC|CUB|2016 Summer}} || [[Alex García Mendoza]]
+|-
+|{{FlagIOC|ECU|2016 Summer}} || [[Freddy Figueroa]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{FlagIOC|ISL|2016 Summer}} || [[Thormodur Jonsson]]
+|-
+|{{FlagIOC|LAT|2016 Summer}} || [[Artūrs Ņikiforenko]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|BUR|2016 Summer}} || [[Rachid Sidibe]]
+|-
+|{{FlagIOC|CGO|2016 Summer}} || [[Deo Gracia Ngokaba]]
+|-
+| Additional places (America) || align=center | 1  
+|{{FlagIOC|HON|2016 Summer}} || [[Ramón Pileta]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{FlagIOC|TJK|2016 Summer}} || [[Mukhamadmurod Abdurakhmonov]]
+|-
+|{{FlagIOC|THA|2016 Summer}} || [[Kunathip Yea-on]]
+|-
+| Additional places (Oceania) || align=center | 1  
+|{{FlagIOC|SAM|2016 Summer}} || [[Derek Sua]]
+|-
+| Invitational || align=center | 0 || — || —
+|-
+! Total !! 31 !! colspan=2|
+|}
+
+==Women's events==
+<ref>{{Cite web|url=http://www.judobase.org/#/wrl/f/ogq/0|title=Women qualified for Rio 2016|website=www.judobase.org|access-date=28 May 2016}}</ref>
+<!-- THE RANKINGS IN THIS TABLE ARE AS OF MAY 30, 2016, WHICH WAS THE CUTOFF FOR QUALIFICATION - PLEASE DO NOT CHANGE THEM TO THE CURRENT RANKINGS. STILL EDITING -->
+
+=== Extra-lightweight (48 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/8|title=IJF World Rankings 30 May 2016|last=Extra-lightweight 48kg|website=Judobase.org|publisher=International Judo Federations (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20160707111316/http://data.judobase.org/pdf/wrl/8|archive-date=7 July 2016|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Sarah Menezes]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14 
+|{{flagIOC|MGL|2016 Summer}}|| [[Mönkhbatyn Urantsetseg]]
+|-
+|{{flagIOC|ARG|2016 Summer}}|| [[Paula Pareto]]
+|-
+|{{flagIOC|JPN|2016 Summer}}|| [[Ami Kondo]]
+|-
+|{{FlagIOC|ESP|2016 Summer}}|| [[Julia Figueroa]]
+|-
+|{{flagIOC|KAZ|2016 Summer}}|| [[Galbadrakhyn Otgontsetseg]]
+|-
+|{{flagIOC|HUN|2016 Summer}}|| [[Éva Csernoviczki]]
+|-
+|{{flagIOC|KOR|2016 Summer}}|| [[Jeong Bo-kyeong]]
+|-
+|{{flagIOC|BEL|2016 Summer}}|| [[Charline van Snick]]
+|-
+|{{flagIOC|GBS|2016 Summer}}|| [[Taciana Lima]]
+|-
+|{{flagIOC|ROU|2016 Summer}}|| [[Monica Ungureanu]]
+|-
+|{{flagIOC|RUS|2016 Summer}}|| [[Irina Dolgova]]
+|-
+|{{flagIOC|TUR|2016 Summer}}|| [[Dilara Lokmanhekim]]
+|-
+|{{flagIOC|UKR|2016 Summer}}|| [[Maryna Cherniak]]
+|-
+|{{flagIOC|CUB|2016 Summer}}|| [[Dayaris Mestre]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{flagIOC|FRA|2016 Summer}}|| [[Laëtitia Payet]]
+|-
+|{{flagIOC|ISR|2016 Summer}}|| [[Shira Rishony]]
+|-
+| Additional places (Africa) || align=center | 1 
+|{{flagIOC|MAD|2016 Summer}}|| [[Asaramanitra Ratiarison]]
+|-
+| Additional places (America) || align=center | 1 
+|{{flagIOC|MEX|2016 Summer}}|| [[Edna Carrillo]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{flagIOC|PRK|2016 Summer}}|| [[Kim Sol-mi]]
+|-
+|{{flagIOC|VIE|2016 Summer}}|| [[Văn Ngọc Tú]]
+|-
+| Additional places (Oceania) || align=center | 1 
+|{{flagIOC|AUS|2016 Summer}}|| [[Chloe Rayner]]
+|-
+| Invitational || align=center | 0 || — || —
+|-
+|Re-allocation of unused quota || align=center | 1 
+|{{flagIOC|ITA|2016 Summer}} || [[Valentina Moscatt]]
+|-
+! Total !! 23  !! colspan=2|
+|}
+
+=== Half-lightweight (52 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/9|title=IJF World Rankings 30 May 2016|last=Half-lightweight 52kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072901/http://data.judobase.org/pdf/wrl/9|archive-date=2 July 2017|url-status=dead}}</ref> <!-- The list was last updated in 2017 the Games -->
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 || {{flagIOC|BRA|2016 Summer}} || [[Érika Miranda]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14 
+|{{flagIOC|ROU|2016 Summer}}|| [[Andreea Chițu]]
+|-
+|{{flagIOC|KOS|2016 Summer}}|| [[Majlinda Kelmendi]]
+|-
+|{{flagIOC|JPN|2016 Summer}}|| [[Misato Nakamura]]
+|-
+|{{flagIOC|CHN|2016 Summer}}|| [[Ma Yingnan]]
+|-
+|{{flagIOC|RUS|2016 Summer}}|| [[Natalia Kuziutina]]
+|-
+|{{flagIOC|ITA|2016 Summer}}|| [[Odette Giuffrida]]
+|-
+|{{flagIOC|ISR|2016 Summer}}|| [[Gili Cohen]]
+|-
+|{{flagIOC|FRA|2016 Summer}}|| [[Priscilla Gneto]]
+|-
+|{{flagIOC|GER|2016 Summer}}|| [[Mareen Kräh]]
+|-
+|{{flagIOC|TKM|2016 Summer}}|| [[Gulbadam Babamuratova]]
+|-
+|{{flagIOC|POR|2016 Summer}}|| [[Joana Ramos]]
+|-
+|{{flagIOC|MGL|2016 Summer}}|| [[Adiyaasambuugiin Tsolmon]]
+|-
+|{{flagIOC|TUN|2016 Summer}}|| [[Hela Ayari]]
+|-
+|{{flagIOC|SUI|2016 Summer}}|| [[Evelyne Tschopp]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+|{{flagIOC|BLR|2016 Summer}}|| [[Darya Skrypnik]]
+|-
+|{{flagIOC|ESP|2016 Summer}}|| [[Laura Gómez (judoka)|Laura Gómez]]
+|-
+| Additional places (Africa) || align=center | 1 
+|{{flagIOC|MRI|2016 Summer}}|| [[Christianne Legentil]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+|{{flagIOC|CAN|2016 Summer}}|| [[Ecaterina Guica]]
+|-
+|{{flagIOC|USA|2016 Summer}}|| [[Angelica Delgado]]
+|-
+| Additional places (Asia) || align=center | 0 
+| — || —
+|-
+| Additional places (Oceania) || align=center | 0 
+| — || —
+|-
+| Invitational || align=center | 1 
+|{{flagIOC|BDI|2016 Summer}}  || [[Antoinette Gasongo]]
+|-
+! Total !! 21 !! colspan=2|
+|}
+
+=== Lightweight (57 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/10|title=IJF World Rankings 30 May 2016|last=Lightweight 57kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072652/http://data.judobase.org/pdf/wrl/10|archive-date=2 July 2017|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 || {{flagIOC|BRA|2016 Summer}} || [[Rafaela Silva]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14 
+| {{flagIOC|MGL|2016 Summer}} || [[Dorjsürengiin Sumiyaa]]
+|-
+| {{flagIOC|KOR|2016 Summer}}  || [[Kim Jan-di (judoka)|Kim Jan-di]]
+|-
+| {{flagIOC|USA|2016 Summer}}  || [[Marti Malloy]]
+|-
+| {{flagIOC|JPN|2016 Summer}}  || [[Kaori Matsumoto]]
+|-
+| {{flagIOC|FRA|2016 Summer}}  || [[Automne Pavia]]
+|-
+| {{flagIOC|ROU|2016 Summer}}  || [[Corina Căprioriu]]
+|-
+| {{flagIOC|CAN|2016 Summer}}  || [[Catherine Beauchemin-Pinard]]
+|-
+| {{flagIOC|POR|2016 Summer}}  || [[Telma Monteiro]]
+|-
+| {{flagIOC|GBR|2016 Summer}}  || [[Nekoda Smythe-Davis]]
+|-
+| {{flagIOC|TPE|2016 Summer}}  || [[Lien Chen-ling]]
+|-
+| {{flagIOC|HUN|2016 Summer}}  || [[Hedvig Karakas]]
+|-
+| {{flagIOC|AUT|2016 Summer}}  || [[Sabrina Filzmoser]]
+|-
+| {{flagIOC|GER|2016 Summer}}  || [[Miryam Roper]]
+|-
+| {{flagIOC|KOS|2016 Summer}}  || [[Nora Gjakova]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+| {{flagIOC|NED|2016 Summer}} || [[Sanne Verhagen]]
+|-
+| {{flagIOC|POL|2016 Summer}}  || [[Arleta Podolak]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+| {{flagIOC|SEN|2016 Summer}} || [[Hortense Diédhiou]]
+|-
+| {{flagIOC|CIV|2016 Summer}}  || [[Zouleiha Abzetta Dabonne]]
+|-
+| Additional places (America) || align=center | 1 
+| {{flagIOC|COL|2016 Summer}} || [[Yadinis Amaris]]
+|-
+| Additional places (Asia) || align=center | 1 
+| {{flagIOC|TKM|2016 Summer}} || [[Rushana Nurjavova]]
+|-
+| Additional places (Oceania) || align=center | 1 
+| {{flagIOC|NZL|2016 Summer}} || [[Darcina Manuel]]
+|-
+| Invitational || align=center | 0 || — || —
+|-
+! Total !! 22 !! colspan=2|
+|}
+
+=== Half-middleweight (63 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/11|title=IJF World Rankings 30 May 2016|last=Half-middleweight 63kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072657/http://data.judobase.org/pdf/wrl/11|archive-date=2 July 2017|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Mariana Silva]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14 
+|{{flagIOC|SLO|2016 Summer}}|| [[Tina Trstenjak]]
+|-
+|{{flagIOC|FRA|2016 Summer}}|| [[Clarisse Agbegnenou]]
+|-
+|{{flagIOC|ISR|2016 Summer}}|| [[Yarden Gerbi]]
+|-
+|{{flagIOC|GER|2016 Summer}}|| [[Martyna Trajdos]]
+|-
+|{{flagIOC|AUT|2016 Summer}}|| [[Kathrin Unterwurzacher]]
+|-
+|{{flagIOC|MGL|2016 Summer}}|| [[Tsedevsürengiin Mönkhzayaa]]
+|-
+|{{flagIOC|JPN|2016 Summer}}|| [[Miku Tashiro]]
+|-
+|{{flagIOC|GBR|2016 Summer}}|| [[Alice Schlesinger]]
+|-
+|{{flagIOC|NED|2016 Summer}}|| [[Anicka van Emden]]
+|-
+|{{flagIOC|ITA|2016 Summer}}|| [[Edwige Gwend]]
+|-
+|{{flagIOC|CHN|2016 Summer}}|| [[Yang Junxia]]
+|-
+|{{flagIOC|RUS|2016 Summer}}|| [[Ekaterina Valkova]]
+|-
+|{{flagIOC|CUB|2016 Summer}}|| [[Maricet Espinosa]]
+|-
+|{{flagIOC|AUS|2016 Summer}}  || [[Katharina Haecker (judoka)|Katharina Haecker]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2
+|{{flagIOC|SWE|2016 Summer}}|| [[Mia Hermansson]]
+|-
+|{{flagIOC|TUR|2016 Summer}}|| [[Büşra Katipoğlu]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+|{{FlagIOC|GHA|2016 Summer}}|| [[Szandra Szögedi]]
+|-
+|{{flagIOC|MAR|2016 Summer}}|| [[Rizlen Zouak]]
+|-
+| Additional places (America) || align=center | 1 
+|{{flagIOC|ECU|2016 Summer}}|| [[Estefania García]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+|{{flagIOC|KOR|2016 Summer}}|| [[Bak Ji-yun]]
+|-
+|{{flagIOC|KAZ|2016 Summer}}|| [[Marian Urdabayeva]]
+|-
+| Additional places (Oceania) || align=center | 0 
+| — || —
+|-
+| rowspan=4| Invitational || rowspan=4 align=center | 4
+|{{flagIOC|AND|2016 Summer}}|| [[Laura Sallés]]
+|-
+|{{flagIOC|GUI|2016 Summer}}|| [[Mamadama Bangoura]]
+|-
+|{{flagIOC|MKD|2016 Summer}}|| [[Katerina Nikoloska]]
+|-
+|{{flagIOC|NEP|2016 Summer}}|| [[Phupu Lhamu Khatri]]
+|-
+! Total !! 26 !! colspan=2|
+|}
+
+=== Middleweight (70 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/12|title=IJF World Rankings 30 May 2016|last=Middleweight 70kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20150915062430/http://data.judobase.org/pdf/wrl/12|archive-date=15 September 2015|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 || {{flagIOC|BRA|2016 Summer}} || [[Maria Portela]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14
+|{{flagIOC|NED|2016 Summer}}  || [[Kim Polling]]
+|-
+| {{flagIOC|FRA|2016 Summer}}  || [[Gévrise Émane]]
+|-
+| {{flagIOC|GER|2016 Summer}}  || [[Laura Vargas Koch]]
+|-
+| {{flagIOC|COL|2016 Summer}}  || [[Yuri Alvear]]
+|-
+| {{flagIOC|ESP|2016 Summer}}  || [[María Bernabéu]]
+|-
+| {{flagIOC|AUT|2016 Summer}}  || [[Bernadette Graf]]
+|-
+|  {{flagIOC|KOR|2016 Summer}} || [[Kim Seong-yeon]]
+|-
+| {{flagIOC|CAN|2016 Summer}}  || [[Kelita Zupancic]]
+|-
+| {{flagIOC|ISR|2016 Summer}}  || [[Linda Bolder]]
+|-
+| {{flagIOC|JPN|2016 Summer}}  || [[Haruka Tachimoto]]
+|-
+| {{flagIOC|GBR|2016 Summer}}  || [[Sally Conway]]
+|-
+| {{flagIOC|MAR|2016 Summer}}  || [[Assmaa Niang]]
+|-
+| {{flagIOC|POL|2016 Summer}}  || [[Katarzyna Kłys]]
+|-
+| {{flagIOC|MGL|2016 Summer}}  || [[Tsend-Ayuushiin Naranjargal]]
+|-
+| rowspan=2| Additional places (Europe) || rowspan=2 align=center | 2 
+| {{flagIOC|CRO|2016 Summer}}  || [[Barbara Matić]]
+|-
+| {{flagIOC|GEO|2016 Summer}}  || [[Esther Stam]]
+|-
+| rowspan=2| Additional places (Africa) || rowspan=2 align=center | 2 
+| {{flagIOC|ANG|2016 Summer}}  || [[Antonia Moreira]]
+|-
+| {{flagIOC|TUN|2016 Summer}}  || [[Houda Miled]]
+|-
+| rowspan=2| Additional places (America) || rowspan=2 align=center | 2 
+| {{flagIOC|PUR|2016 Summer}}  || [[María Pérez (judoka)|María Pérez]]
+|-
+| {{flagIOC|VEN|2016 Summer}}  || [[Elvismar Rodríguez]]
+|-
+| rowspan=2| Additional places (Asia) || rowspan=2 align=center | 2 
+| {{flagIOC|CHN|2016 Summer}}  || [[Zhou Chao]]
+|-
+| {{flagIOC|UZB|2016 Summer}}  || [[Gulnoza Matniyazova]]
+|-
+| Additional places (Oceania) || align=center | 0 || — || —
+|-
+| Invitational || align=center |1  || {{FlagIOC|ROA|2016 Summer}}|| [[Yolande Mabika]]
+|-
+! Total !! 24 !! colspan=2|
+|}
+
+=== Half-heavyweight (78 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/13|title=IJF World Rankings 30 May 2016|last=Half-heavyweight 78kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072751/http://data.judobase.org/pdf/wrl/13|archive-date=2 July 2017|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Mayra Aguiar]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14
+|{{flagIOC|USA|2016 Summer}}|| [[Kayla Harrison]]
+|-
+|{{flagIOC|FRA|2016 Summer}}|| [[Audrey Tcheumeo]]
+|-
+|{{flagIOC|NED|2016 Summer}}|| [[Marhinde Verkerk]]
+|-
+|{{flagIOC|GER|2016 Summer}}|| [[Luise Malzahn]]
+|-
+|{{flagIOC|SLO|2016 Summer}}|| [[Anamari Velenšek]]
+|-
+|{{flagIOC|GBR|2016 Summer}}|| [[Natalie Powell]]
+|-
+|{{flagIOC|JPN|2016 Summer}}|| [[Mami Umeki]]
+|-
+|{{flagIOC|HUN|2016 Summer}}|| [[Abigél Joó]]
+|-
+|{{flagIOC|PRK|2016 Summer}}|| [[Sol Kyong]]
+|-
+|{{flagIOC|UKR|2016 Summer}}|| [[Viktoriya Turks]]
+|-
+|{{flagIOC|CHN|2016 Summer}}|| [[Zhang Zhehui]]
+|-
+|{{flagIOC|POL|2016 Summer}}|| [[Daria Pogorzelec]]
+|-
+|{{flagIOC|AUS|2016 Summer}}|| [[Miranda Giambelli]]
+|-
+|{{flagIOC|GAB|2016 Summer}}|| [[Sarah Myriam Mazouz]]
+|-
+| Additional places (Europe) || align=center |  0
+| — || —
+|-
+| Additional places (Africa) || align=center | 1 
+|{{flagIOC|CMR|2016 Summer}}|| [[Hortence Atangana]] 
+|-
+| Additional places (America) || align=center | 1 
+|{{flagIOC|CUB|2016 Summer}}|| [[Yalennis Castillo]]
+|-
+| Additional places (Asia) || align=center | 1 
+|{{flagIOC|MGL|2016 Summer}}|| [[Pürevjargalyn Lkhamdegd]]
+|-
+| Additional places (Oceania) || align=center | 0
+| — || —
+|-
+| Invitational || align=center | 0 || — || —
+|-
+! Total !! 18 !! colspan=2|
+|}
+
+=== Heavyweight (+78 kg) ===
+<ref>{{Cite web|url=https://data.judobase.org/pdf/wrl/14|title=IJF World Rankings 30 May 2016|last=Heavyweight +78kg|website=Judobase.org|publisher=International Judo Federation (IJF)|access-date=30 May 2016|archive-url=https://web.archive.org/web/20170702072756/http://data.judobase.org/pdf/wrl/14|archive-date=2 July 2017|url-status=dead}}</ref>
+{| class="wikitable"  width=750
+|-
+! Section !! Places !! NOC !! Qualified judoka
+|-
+| Host nation || align=center | 1 
+| {{flagIOC|BRA|2016 Summer}} || [[Maria Suelen Altheman|Maria Suellen Altheman]]
+|-
+| rowspan=14| IJF World Ranking List<br>(as of May 30, 2016) || rowspan=14 align=center | 14 
+|{{flagIOC|CHN|2016 Summer}}|| [[Yu Song (judoka)|Yu Song]]
+|-
+|{{flagIOC|CUB|2016 Summer}}|| [[Idalys Ortíz]]
+|-
+|{{flagIOC|FRA|2016 Summer}}|| [[Émilie Andéol]]
+|-
+|{{flagIOC|JPN|2016 Summer}}|| [[Kanae Yamabe]]
+|-
+|{{flagIOC|TUN|2016 Summer}}|| [[Nihal Chikhrouhou]]
+|-
+|{{flagIOC|UKR|2016 Summer}}|| [[Svitlana Iaromka]]
+|-
+|{{flagIOC|GER|2016 Summer}}|| [[Jasmin Külbs]]
+|-
+|{{flagIOC|KOR|2016 Summer}}|| [[Kim Min-jung (judoka)|Kim Min-jung]]
+|-
+|{{flagIOC|TUR|2016 Summer}}|| [[Kayra Sayit]]
+|-
+|{{flagIOC|NED|2016 Summer}}|| [[Tessie Savelkouls]]
+|-
+|{{flagIOC|MEX|2016 Summer}}|| [[Vanessa Zambotti]]
+|-
+|{{flagIOC|RUS|2016 Summer}}|| [[Ksenia Chibisova]]
+|-
+|{{flagIOC|PUR|2016 Summer}}|| [[Melissa Mojica]]
+|-
+|{{nowrap|{{flagIOC|BIH|2016 Summer}}}}|| [[Larisa Cerić]]
+|-
+| Additional places (Europe) || align=center | 1
+|{{flagIOC|LTU|2016 Summer}}|| [[Santa Pakenytė]]
+|-
+| Additional places (Africa) || align=center | 1
+|{{flagIOC|ALG|2016 Summer}}|| [[Sonia Asselah]]
+|-
+| Additional places (America) || align=center | 0 
+| — || —
+|-
+| Additional places (Asia) || align=center | 0 
+| — || —
+|-
+| Additional places (Oceania) || align=center | 0 
+| — || —
+|-
+| Invitational || align=center |  ||  || 
+|-
+! Total !! 17 !! colspan=2|
+|}
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist}}
+
+{{Qualification for the 2016 Summer Olympics}}
+
+{{DEFAULTSORT:Judo at the 2016 Summer Olympics - Qualification}}
+[[Category:Qualification for the 2016 Summer Olympics]]
+[[Category:Judo qualification for the Summer Olympics|2016]]
+[[Category:2016 in judo|Olympics, Qualification]]
+[[Category:Judo at the 2016 Summer Olympics|Qualification]]

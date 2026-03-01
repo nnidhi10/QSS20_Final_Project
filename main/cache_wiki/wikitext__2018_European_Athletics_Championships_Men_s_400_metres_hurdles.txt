@@ -1,0 +1,232 @@
+{{short description|None}}
+{{Infobox sports competition event
+| event         = Men's 400 metres hurdles
+| competition   = [[2018 European Athletics Championships]]
+| venue         = [[Olympiastadion (Berlin)|Olympic Stadium]]
+| location      = [[Berlin]]
+| dates         = {{Ubl|August 6 (round 1)| August 7 (semifinals)|August 9 (final)}}
+| competitors   = 36 
+| nations       = 23
+| win_value     =  47.64 
+| gold          = [[Karsten Warholm]]
+| silver        = [[Yasmani Copello]]
+| bronze        = [[Thomas Barr (athlete)|Thomas Barr]]
+| gold_nation   = NOR
+| silver_nation = TUR
+| bronze_nation = IRL
+| previous      = [[2016 European Athletics Championships – Men's 400 metres hurdles|2016]]
+| next          = [[2022 European Athletics Championships – Men's 400 metres hurdles|2022]]
+}}
+
+{{2018 European Athletics Championships}}
+The '''men's [[400 metres hurdles]]''' at the [[2018 European Athletics Championships]] took place at the [[Olympic Stadium (Berlin)|Olympic Stadium]] on 6, 7 and 9 August.<ref name="eaa">{{cite web|url=http://www.european-athletics.org/competitions/european-athletics-championships/2018/athletics/event/mens-400m-hurdles/|title=400m Hurdles Men|website=[[European Athletic Association]]|archive-url=https://web.archive.org/web/20180810054245/http://www.european-athletics.org/competitions/european-athletics-championships/2018/athletics/event/mens-400m-hurdles/|archive-date=2018-08-10|url-status=dead}}</ref>
+
+==Records==
+{| class="wikitable"
+|-
+!colspan="5"|Standing records prior to the 2018 European Athletics Championships<ref name="eaa" />
+|-
+|'''[[List of world records in athletics|World record]]'''
+|{{flagathlete|[[Kevin Young (hurdler)|Kevin Young]]|USA}}
+|'''46.78'''
+|[[Barcelona]], [[Spain]]
+|6 August 1992
+|-
+|'''[[List of European records in athletics|European record]]'''
+|{{flagathlete|[[Stéphane Diagana]]|FRA}}
+|'''47.37'''
+|[[Lausanne]], [[Switzerland]]
+|5 July 1995
+|-
+|'''[[List of European Athletics Championships records|Championship record]]'''
+|{{flagathlete|[[Harald Schmid]]|FRG}}
+|'''47.48'''
+|[[Athens]], [[Greece]]
+|8 September 1982
+|-
+|'''World Leading'''
+|{{flagathlete|[[Abderrahman Samba]]|QAT}}
+|'''46.98'''
+|[[Paris]], [[France]]
+|30 June 2018
+|-
+|'''European Leading'''
+|{{flagathlete|[[Karsten Warholm]]|NOR}}
+|'''47.65'''
+|[[London]], [[Great Britain]]
+|21 July 2018
+|-
+!colspan="5"|Broken records during the 2018 European Athletics Championships
+|-
+|'''European Leading'''
+|{{flagathlete|[[Karsten Warholm]]|NOR}}
+|'''47.64'''
+|[[Berlin]], [[Germany]]
+|9 August 2018
+|}
+
+==Schedule==
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+|6 August 2016 || '''17:05'''  || '''[[#Round 1|Round 1]]'''
+|-
+|7 August 2016 || '''19:45'''  || '''[[#Semifinals|Semifinals]]'''
+|-style=background:lemonchiffon
+|9 August 2016 || '''20:15'''  || '''[[#Final|Final]]'''
+|}
+{{small|All times are local times (UTC+2)}}
+
+==Results==
+===Round 1===
+First 2 in each heat (Q) and the next fastest 5 (q) advance to the Semifinals.<ref>{{cite web|url=http://www.european-athletics.org/externalmodules/AT/pdf/ATM044900_C74A.pdf|title=Round 1 results|website=[[European Athletic Association]]|archive-url=https://web.archive.org/web/20161120135721/http://www.european-athletics.org/externalmodules/AT/pdf/ATM044900_C74A.pdf|archive-date=2016-11-20|url-status=dead}}</ref> 11 fastest entrants awarded bye to Semifinals.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !! Heat !! Lane !!  Name !! Nationality !! Time !! Note
+|-bgcolor=ccffcc
+| 1 || 3 || 6 || align=left|[[Victor Coroller]] || align=left|{{FRA}} || 50.10 || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 2 || 4 || 8 || align=left|[[Denys Nechyporenko]] || align=left|{{UKR}} || 50.26  || {{athAbbr|Q}}, {{athAbbr|SB}}
+|-bgcolor=ccffcc
+| 3 || 4 || 7 || align=left|[[Tibor Koroknai]] || align=left|{{HUN}} || 50.34  || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 4 || 3 || 4 || align=left|[[Alain-Hervé Mfomkpa]] || align=left|{{SUI}} || 50.34 || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 5 || 1 || 8 || align=left|[[Maksims Sinčukovs]] || align=left|{{LAT}} || 50.39 || {{athAbbr|Q}}, {{athAbbr|SB}}
+|-bgcolor=ddffdd
+| 6 || 3 || 5 || align=left|[[Emir Bekrić]] || align=left|{{SRB}} || 50.46  || {{athAbbr|q}}, {{athAbbr|SB}}
+|-bgcolor=ccffcc
+| 7 || 1 || 5 || align=left|[[Jaak-Heinrich Jagor]] || align=left|{{EST}} || 50.47  || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 8 || 2 || 7 || align=left|[[Muhammad Abdallah Kounta]] || align=left|{{FRA}} || 50.60  || {{athAbbr|Q}}
+|-bgcolor=ddffdd
+| 9 || 3 || 7 || align=left|[[Máté Koroknai]] || align=left|{{HUN}} || 50.70   || {{athAbbr|q}}
+|-bgcolor=ddffdd
+| 10 || 1 || 6 || align=left|[[Aleksandr Skorobogatko (athlete)|Aleksandr Skorobogatko]] || align=left|{{ANA}} || 50.74  || {{athAbbr|q}}
+|-bgcolor=ddffdd
+| 11 || 3 || 3 || align=left|[[Michal Brož]] || align=left|{{CZE}} || 50.74  || {{athAbbr|q}}
+|-bgcolor=ccffcc
+| 12 || 2 || 4 || align=left|[[Martin Kučera]] || align=left|{{SVK}} || 50.75   || {{athAbbr|Q}}
+|-bgcolor=ddffdd
+| 13 || 4 || 4 || align=left|[[José Reynaldo Bencosme de Leon]] || align=left|{{ITA}} || 50.80  || {{athAbbr|q}}
+|-
+| 14 || 1 || 3 || align=left|[[Dany Brand]] || align=left|{{SUI}} || 50.82 ||{{athAbbr|SB}}
+|-
+| 15 || 1 || 7 || align=left|[[Nick Smidt]] || align=left|{{NED}} || 50.96 || 
+|-
+| 16 || 4 || 6 || align=left|[[Vít Müller]] || align=left|{{CZE}} || 51.00 || 
+|-
+| 17 || 2 || 8 || align=left|[[Danylo Danylenko]] || align=left|{{UKR}} || 51.02 ||
+|-
+| 18 || 2 || 5 || align=left|[[Jakub Mordyl]] || align=left|{{POL}} || 51.15 || 
+|-
+| 19 || 4 || 5 || align=left|[[Isak Andersson]] || align=left|{{SWE}} || 51.18 ||
+|-
+| 20 || 2 || 3 || align=left|[[Sebastian Rodger]] || align=left|{{GBR2}} || 51.30 || 
+|-
+| 21 || 1 || 4 || align=left|[[Martin Tuček]] || align=left|{{CZE}} || 51.63 || 
+|-
+| 22 || 2 || 6 || align=left|[[Aleix Porras]] || align=left|{{ESP}} || 51.69 ||
+|-
+| 23 || 3 || 2 || align=left|[[Diogo Mestre]] || align=left|{{POR}} || 52.65 || 
+|-
+| 24 || 4 || 3 || align=left|[[Hrvoje Čukman]] || align=left|{{CRO}} || 52.93 ||
+|-
+| 25 || 3 || 8 || align=left|[[Andrea Ercolani Volta]] || align=left|{{SMR}} || 53.86 || 
+|-
+| {{hs|26}} || 1 || 2 || align=left|[[Dai Greene]] || align=left|{{GBR2}} || {{sort|99.99|DNS}} ||
+|}
+
+===Semifinals===
+First 2 (Q) and next 2 fastest (q) qualify for the final.<ref>{{cite web|url=http://www.european-athletics.org/externalmodules/AT/pdf/ATM044200_C74A.pdf|title=Semifinals results|website=[[European Athletic Association]]|archive-url=https://web.archive.org/web/20181006110147/http://www.european-athletics.org/externalmodules/AT/pdf/ATM044200_C74A.pdf|archive-date=2018-10-06|url-status=dead}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !! Heat !! Lane !!  Name !! Nationality !! Time !! Note
+|-bgcolor=ccffcc
+| 1 || 1 || 6 || align=left|[[Karsten Warholm]]* || align=left|{{NOR}} || 48.67 || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 2 || 1 || 4 || align=left|[[Patryk Dobek]]* || align=left|{{POL}} || 48.75 || {{athAbbr|Q}}, {{athAbbr|SB}}
+|-bgcolor=ccffcc
+| 3 || 2 || 6 || align=left|[[Rasmus Mägi]]* || align=left|{{EST}} || 48.80 || {{athAbbr|Q}}, {{athAbbr|SB}}
+|-bgcolor=ccffcc
+| 4 || 3 || 6 || align=left|[[Yasmani Copello]]* || align=left|{{TUR}} || 48.88 || {{athAbbr|Q}}
+|-bgcolor=ccffcc
+| 5 || 2 || 4 || align=left|[[Ludvy Vaillant]]* || align=left|{{FRA}} || 48.88 || {{athAbbr|Q}}
+|-bgcolor=ddffdd
+| 6 || 2 || 3 || align=left|[[Timofey Chalyy]]* || align=left|{{ANA}} || 48.89 || {{athAbbr|q}}, {{athAbbr|SB}}
+|-bgcolor=ccffcc
+| 7 || 3 || 5 || align=left|[[Thomas Barr (athlete)|Thomas Barr]]* || align=left|{{IRL}} || 49.10 || {{athAbbr|Q}}
+|-bgcolor=ddffdd
+| 8 || 2 || 5 || align=left|[[Sergio Fernández (athlete)|Sergio Fernández]]* || align=left|{{ESP}} || 49.19 || {{athAbbr|q}}, {{athAbbr|SB}}
+|-
+| 9 || 1 || 3 || align=left|[[Luke Campbell (hurdler)|Luke Campbell]]* || align=left|{{GER}} || 49.20 || 
+|-
+|10 || 2 || 7 || align=left|[[Tibor Koroknai]] || align=left|{{HUN}} || 49.24  || {{athAbbr|PB}}
+|-
+|11 || 1 || 5 || align=left|[[Victor Coroller]] || align=left|{{FRA}} || 49.34 || {{athAbbr|SB}}
+|-
+|12 || 3 || 3 || align=left|[[Lorenzo Vergani]]* || align=left|{{ITA}} || 49.41 || 
+|-
+|13 || 3 || 8 || align=left|[[Muhammad Abdallah Kounta]] || align=left|{{FRA}} || 49.58 ||
+|-
+|14 || 3 || 2 || align=left|[[Máté Koroknai]] || align=left|{{HUN}} || 49.77 || {{athAbbr|PB}}
+|-
+|15 || 3 || 4 || align=left|[[Jack Green (athlete)|Jack Green]]* || align=left|{{GBR2}} || 49.84 || 
+|-
+|16 || 1 || 7 || align=left|[[José Reynaldo Bencosme de Leon]] || align=left|{{ITA}} || 49.86 ||
+|-
+|17 || 3 || 1 || align=left|[[Denys Nechyporenko]] || align=left|{{UKR}} || 50.27 ||
+|-
+|18 || 2 || 1 || align=left|[[Martin Kučera]] || align=left|{{SVK}} || 50.30 || {{athAbbr|SB}}
+|-
+|19 || 1 || 2 || align=left|[[Michal Brož]] || align=left|{{CZE}} || 50.31 || 
+|-
+|20 || 2 || 2 || align=left|[[Maksims Sinčukovs]] || align=left|{{LAT}} || 50.33 || {{athAbbr|NU23R}}
+|-
+|21 || 1 || 8 || align=left|[[Jaak-Heinrich Jagor]] || align=left|{{EST}} || 50.41 ||
+|-
+|22 || 2 || 8 || align=left|[[Alain-Hervé Mfomkpa]] || align=left|{{SUI}} || 50.71 || 
+|-
+|23 || 1 || 1 || align=left|[[Emir Bekrić]] || align=left|{{SRB}} || 50.96  ||
+|-
+|{{hs|24}} || 3 || 7 || align=left|[[Aleksandr Skorobogatko (athlete)|Aleksandr Skorobogatko]] || align=left|{{ANA}} || {{sort|99.99|DNF}}  || 
+|}
+
+===Final===
+<ref>{{Cite web |url=http://www.european-athletics.org/externalmodules/AT/pdf/ATM044101_C73A.pdf |title=Final results |access-date=2018-09-07 |archive-url=https://web.archive.org/web/20161126171220/http://www.european-athletics.org/externalmodules/AT/pdf/ATM044101_C73A.pdf |archive-date=2016-11-26 |url-status=dead }}</ref>
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Rank !!Lane !!  Name !! Nationality !! Time !! Note
+|- 
+| {{gold01}} || 6 || align=left|[[Karsten Warholm]] || align=left|{{NOR}} || 47.64 || '''{{athAbbr|EU23R}}, {{athAbbr|EL}}, {{athAbbr|NR|Norwegian}}'''
+|- 
+| {{silver02}} || 4 || align=left|[[Yasmani Copello]] || align=left|{{TUR}} || 47.81 || '''{{athAbbr|NR|Turkish}}'''
+|- 
+| {{bronze03}} || 8 || align=left|[[Thomas Barr (athlete)|Thomas Barr]]  || align=left|{{IRL}} || 48.31 || {{athAbbr|SB}}
+|- 
+| 4 || 7 || align=left|[[Ludvy Vaillant]] || align=left|{{FRA}} || 48.42 || {{athAbbr|PB}}
+|-
+| 5 || 3 || align=left|[[Patryk Dobek]] || align=left|{{POL}} || 48.59 ||{{athAbbr|SB}}
+|-
+| 6 || 5 || align=left|[[Rasmus Mägi]] || align=left|{{EST}}|| 48.75 ||{{athAbbr|SB}}
+|- 
+| 7 || 2 || align=left|[[Sergio Fernández (athlete)|Sergio Fernández]] || align=left|{{ESP}} || 48.98 ||{{athAbbr|SB}}
+|- 
+| 8 || 1 || align=left|[[Timofey Chalyy]]  || align=left|{{ANA}} || 49.41 ||
+|}
+
+==References==
+{{Reflist}}
+
+{{EC400metreshurdles}}
+{{Footer European Champions 400 m hurdles Men}}
+
+{{DEFAULTSORT:2018 European Athletics Championships, Men's 400 Metres Hurdles}}
+[[Category:Events at the 2018 European Athletics Championships|Hurdles 400 M]]
+[[Category:2018 in men's sport of athletics|Hurdles 400 M]]
+[[Category:400 metres hurdles at the European Athletics Championships]]
+[[Category:Men's events at the European Athletics Championships]]

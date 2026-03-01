@@ -1,0 +1,422 @@
+{{Use dmy dates|date=July 2020}}
+{{infobox country at games
+| NOC = BIH
+| NOCname = [[Olympic Committee of Bosnia and Herzegovina]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.okbih.ba }}&nbsp;{{in lang|bs|sr|hr}}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Bosnia and Herzegovina|competition=Summer Olympics|begin_year=1992|end_year= }}
+| winterappearances = {{Team appearances list|team=Bosnia and Herzegovina|competition=Winter Olympics|begin_year=1994|end_year= }}
+| seealso = {{flagIOC|YUG}} (1920–1992 W)
+}}
+[[Bosnia and Herzegovina]] sent athletes to the [[Summer Olympic Games]] under its own flag for the first time in [[1992 Summer Olympics|1992]]. Bosnian athletes competed under the Yugoslav flag (see [[Yugoslavia at the Olympics]]) until the [[Breakup of Yugoslavia|breakup of that country]]. Along with [[Andorra at the Olympics|Andorra]], [[Malta at the Olympics|Malta]], and [[Monaco at the Olympics|Monaco]], Bosnia and Herzegovina is one of four current European participants that have never won an Olympic medal.
+
+The [[Olympic Committee of Bosnia and Herzegovina]] was formed in 1992 and recognized in 1993.
+
+== Medal tables ==
+{{See also|All-time Olympic Games medal table}}
+{{col-begin}}
+{{col-2}}
+=== Medals by Summer Games ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+!Games
+!Athletes
+|style="background:gold; width:3.7em; font-weight:bold;"|Gold
+|style="background:silver; width:3.7em; font-weight:bold;"|Silver
+|style="background:#cc9966; width:3.7em; font-weight:bold;"|Bronze
+!style="width:4em; font-weight:bold;"|Total
+!style="width:4em; font-weight:bold;"|[[Olympic medal table|Rank]]
+|-
+|align=left| 1920–1988 || colspan=6| ''as part of {{FlagIOC|YUG}}''
+|-
+|align=left| {{GamesName|SOG|1992}} || [[Bosnia and Herzegovina at the 1992 Summer Olympics|10]] || 0 || 0 || 0 || 0 || [[1992 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|1996}} || [[Bosnia and Herzegovina at the 1996 Summer Olympics|9]] ||  0 || 0 || 0 || 0 || [[1996 Summer Olympics medal table|–]]
+|- 
+|align=left| {{GamesName|SOG|2000}} || [[Bosnia and Herzegovina at the 2000 Summer Olympics|9]] ||  0 || 0 || 0 || 0 || [[2000 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2004}} || [[Bosnia and Herzegovina at the 2004 Summer Olympics|9]] ||  0 || 0 || 0 || 0 || [[2004 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2008}} || [[Bosnia and Herzegovina at the 2008 Summer Olympics|5]] ||  0 || 0 || 0 || 0 || [[2008 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2012}} || [[Bosnia and Herzegovina at the 2012 Summer Olympics|6]] || 0 || 0 || 0 || 0 || [[2012 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2016}} || [[Bosnia and Herzegovina at the 2016 Summer Olympics|11]] || 0 || 0 || 0 || 0 || [[2016 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2020}} || [[Bosnia and Herzegovina at the 2020 Summer Olympics|7]] || 0 || 0 || 0 || 0 || [[2020 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2024}} || [[Bosnia and Herzegovina at the 2024 Summer Olympics|5]] || 0 || 0 || 0 || 0 || [[2024 Summer Olympics medal table|–]]
+|-
+|align=left| {{GamesName|SOG|2028}} || colspan=6; rowspan=2| ''future event''
+|-
+|align=left| {{GamesName|SOG|2032}} 
+|-
+!colspan=2| Total !! 0 !! 0 !! 0 !! 0 !! [[All-time Olympic Games medal table|–]]
+|}
+{{col-2}}
+
+=== Medals by Winter Games ===
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+!Games
+!Athletes
+|style="background:gold; width:3.7em; font-weight:bold;"|Gold
+|style="background:silver; width:3.7em; font-weight:bold;"|Silver
+|style="background:#cc9966; width:3.7em; font-weight:bold;"|Bronze
+!style="width:4em; font-weight:bold;"|Total
+!style="width:4em; font-weight:bold;"|[[Olympic medal table|Rank]]
+|-
+|align=left| 1924–1992 || colspan=6| ''as part of {{FlagIOC|YUG}}''
+|-
+|align=left| {{GamesName|WOG|1994}} || [[Bosnia and Herzegovina at the 1994 Winter Olympics|10]] || 0 || 0 || 0 || 0 || [[1994 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|1998}} || [[Bosnia and Herzegovina at the 1998 Winter Olympics|8]] || 0 || 0 || 0 || 0 || [[1998 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2002}} || [[Bosnia and Herzegovina at the 2002 Winter Olympics|2]] || 0 || 0 || 0 || 0 || [[2002 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2006}} || [[Bosnia and Herzegovina at the 2006 Winter Olympics|6]] || 0 || 0 || 0 || 0 || [[2006 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2010}} || [[Bosnia and Herzegovina at the 2010 Winter Olympics|5]] || 0 || 0 || 0 || 0 || [[2010 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2014}} || [[Bosnia and Herzegovina at the 2014 Winter Olympics|5]] || 0 || 0 || 0 || 0 || [[2014 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2018}} || [[Bosnia and Herzegovina at the 2018 Winter Olympics|4]] || 0 || 0 || 0 || 0 || [[2018 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2022}} || [[Bosnia and Herzegovina at the 2022 Winter Olympics|6]] || 0 || 0 || 0 || 0 || [[2022 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2026}} || [[Bosnia and Herzegovina at the 2026 Winter Olympics|5]] || 0 || 0 || 0 || 0 || [[2026 Winter Olympics medal table|–]]
+|-
+|align=left| {{GamesName|WOG|2030}} || colspan=6; rowspan=2| ''future event''
+|-
+|align=left| {{GamesName|WOG|2034}}
+|-
+!colspan=2| Total !! 0 !! 0 !! 0 !! 0 !! [[All-time Olympic Games medal table|–]]
+|}
+{{col-end}}
+{{col-begin}}
+{{col-2}}
+
+=== Best Placement by summer sport===
+Bosnia and Herzegovina has yet to win its first medal at Summer Games. Below are the top three placements so far.
+{| class="wikitable" style="font-size:90%"
+! align=center | Athlete
+! align=center | Year
+! align=center | Sport
+! align=center | Event
+! align=center | Rank
+|-
+| align=center | [[Nedžad Husić]]
+| align=center | [[2020 Summer Olympics|2020]]
+| align=center | [[Taekwondo at the 2020 Summer Olympics|Taekwondo]]
+| align=center | [[Taekwondo at the 2020 Summer Olympics – Men's 68 kg|Men's −68 kg]]
+| align=center | 5
+|-
+| align=center | [[Nedžad Fazlija]]
+| align=center | [[2000 Summer Olympics|2000]]
+| align=center | [[Shooting at the 2000 Summer Olympics|Shooting]]
+| align=center | [[Shooting at the 2000 Summer Olympics – Men's 10 metre air rifle|Men's 10 m air rifle]]
+| align=center | 6
+|-
+| align=center | [[Amel Tuka]]
+| align=center | [[2020 Summer Olympics|2020]]
+| align=center | [[Athletics at the 2020 Summer Olympics|Athletics]]
+| align=center | [[Athletics at the 2020 Summer Olympics – Men's 800 metres|Men's 800 m]]
+| align=center | 6
+|}
+{{col-2}}
+=== Best Placement by winter sport===
+Bosnia and Herzegovina has yet to win its first medal at Winter Games. Below are the top three placements so far.
+{| class="wikitable" style="font-size:90%"
+! align=center | Athlete
+! align=center | Year
+! align=center | Sport
+! align=center | Event
+! align=center | Rank
+|-
+| align=center | [[Enis Bećirbegović]]
+| align=center | [[1998 Winter Olympics|1998]]
+| align=center | [[Alpine skiing at the 1998 Winter Olympics|Alpine skiing]]
+| align=center | [[Alpine skiing at the 1998 Winter Olympics – Men's downhill|Men's downhill]]
+| align=center | 21
+|-
+| align=center | [[Enis Bećirbegović]]
+| align=center | [[1998 Winter Olympics|1998]]
+| align=center | [[Alpine skiing at the 1998 Winter Olympics|Alpine skiing]]
+| align=center | [[Alpine skiing at the 1998 Winter Olympics – Men's super-G|Men's super-G]]
+| align=center | 22
+|-
+| align=center | [[Verona Marjanović]]
+| align=center | [[1994 Winter Olympics|1994]]
+| align=center | [[Luge at the 1994 Winter Olympics|Luge]]
+| align=center | [[Luge at the 1994 Winter Olympics – Women's singles|Women’s singles]]
+| align=center | 23
+|-
+| align=center | [[Ismar Biogradlić]]
+| align=center | [[1998 Winter Olympics|1998]]
+| align=center | [[Luge at the 1998 Winter Olympics|Luge]]
+| align=center | [[Luge at the 1998 Winter Olympics – Men's singles|Men’s singles]]
+| align=center | 23
+|}
+{{col-end}}
+
+==Competitors by sport==
+The following is a list of the total number of competitors by sport in the Games.
+===Summer===
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the Summer Olympics|Athletics]]
+| 16 || 8 || 24
+|-
+| align=left|[[Canoeing at the Summer Olympics|Canoeing]]
+| 3 || 0 || 3
+|-
+| align=left|[[Judo at the Summer Olympics|Judo]]
+| 5 || 5 || 10
+|-
+| align=left|[[Shooting at the Summer Olympics|Shooting]]
+| 6 || 3 || 9
+|-
+| align=left|[[Swimming at the Summer Olympics|Swimming]]
+| 10 || 6 || 16
+|-
+| align=left|[[Table Tennis at the Summer Olympics|Table Tennis]]
+| 2 || 0 || 2
+|-
+| align=left|[[Taekwondo at the Summer Olympics|Taekwondo]]
+| 2 || 0 || 2
+|-
+| align=left|[[Tennis at the Summer Olympics|Tennis]]
+| 2 || 1 || 3
+|-
+| align=left|[[Weightlifting at the Summer Olympics|Weightlifting]]
+| 1 || 0 || 1
+|-
+| align=left|[[Wrestling at the Summer Olympics|Wrestling]]
+| 1 || 0 || 1
+|-
+! Total || 48 || 23 || 71
+|}
+
+===Winter===
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Alpine skiing at the Winter Olympics|Alpine skiing]]
+| 10 || 9 || 19
+|-
+| align=left|[[Biathlon at the Winter Olympics|Biathlon]]
+| 1 || 3 || 4
+|-
+| align=left|[[Bobsleigh at the Winter Olympics|Bobsleigh]]
+| 10 || 0 || 10
+|-
+| align=left|[[Cross-country skiing at the Winter Olympics|Cross-country skiing]]
+| 6 || 5 || 11
+|-
+| align=left|[[Luge at the Winter Olympics|Luge]]
+| 3 || 1 || 4
+|-
+! Total || 30 || 18 || 48
+|}
+
+== Flagbearers ==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align:center"
+|+ Summer Olympics
+|-
+!style="background-color:lightblue"| Games
+!style="background-color:lightblue"| Athlete
+!style="background-color:lightblue"| Sport
+|-
+| {{GamesName|SOG|1992}}
+| [[Zlatan Saračević]]
+| [[Track and field|Athletics]]
+|-
+| {{GamesName|SOG|1996}}
+| [[Islam Đugum]]
+| [[Track and field|Athletics]]
+|-
+| {{GamesName|SOG|2000}}
+| [[Elvir Krehmić]]
+| [[Track and field|Athletics]]
+|-
+| {{GamesName|SOG|2004}}
+| [[Nedžad Fazlija]]
+| [[Shooting sport|Sports shooting]]
+|-
+| {{GamesName|SOG|2008}}
+| [[Amel Mekić]]
+| [[Judo]]
+|-
+| {{GamesName|SOG|2012}}
+| [[Amel Mekić]]
+| [[Judo]]
+|-
+| {{GamesName|SOG|2016}}
+| [[Amel Tuka]]
+| [[Track and field|Athletics]]
+|-
+| rowspan="2" | {{GamesName|SOG|2020}}
+| [[Amel Tuka]]
+| [[Track and field|Athletics]]
+|-
+| [[Larisa Cerić]]
+| [[Judo]]
+|-
+| rowspan="2" | {{GamesName|SOG|2024}}
+| [[Mesud Pezer]]
+| [[Track and field|Athletics]]
+|-
+| [[Larisa Cerić]]
+| [[Judo]]
+|}
+{{col-2}}
+{| class="wikitable" style="text-align:center"
+|+ Winter Olympics
+|-
+!style="background-color:lightblue"| Games
+!style="background-color:lightblue"| Athlete
+!style="background-color:lightblue"| Sport
+|-
+| {{GamesName|WOG|1994}}
+| [[Bekim Babić]]
+| [[Cross-country skiing (sport)|Cross-country skiing]]
+|-
+| {{GamesName|WOG|1998}}
+| [[Mario Franjić]]
+| [[Bobsleigh]]
+|-
+| {{GamesName|WOG|2002}}
+| [[Enis Bećirbegović]]
+| [[Alpine skiing]]
+|-
+| {{GamesName|WOG|2006}}
+| [[Aleksandra Vasiljević]]
+| [[Biathlon]]
+|-
+| {{GamesName|WOG|2010}}
+| [[Žana Novaković]]
+| [[Alpine skiing]]
+|-
+| {{GamesName|WOG|2014}}
+| [[Žana Novaković]]
+| [[Alpine skiing]]
+|-
+| {{GamesName|WOG|2018}}
+| [[Elvedina Muzaferija]]
+| [[Alpine skiing]]
+|-
+| rowspan="2" |
+{{GamesName|WOG|2022}}
+| [[Elvedina Muzaferija]]
+| [[Alpine skiing]]
+|-
+| [[Mirza Nikolajev]]
+| [[Luge]]
+|}
+{{col-end}}
+
+== Pre-1992 Yugoslavian medalists from Bosnia-Herzegovina ==
+Bosnian-Herzegovinian athletes have won medals on many occasions in different sports as part of teams and one as individual competitors (boxing) representing [[Yugoslavia at the Olympics|Yugoslavia]].<ref name=OKBiH>{{cite web |publisher=Olympic Committee of Bosnia and Herzegovina |title=PARTICIPATION OF THE BH. ATHLETES IN ASSERTION OF THE OLYMPIC MOVEMENT |url=http://www.okbih.ba/index.php?option=com_content&view=article&id=152&Itemid=12&lang=en |author=Besalet Kazazovic |language=en, bs |access-date=12 November 2013 |archive-date=1 February 2015 |archive-url=https://web.archive.org/web/20150201191436/http://www.okbih.ba/index.php?option=com_content&view=article&id=152&Itemid=12&lang=en |url-status=dead }}</ref><ref name=Varaja>{{cite web|last=Sports-Reference.com|title=Žarko Varajić Biography and Olympic Results {{!}} Olympics at Sports-Reference.com|url=https://www.sports-reference.com/olympics/athletes/va/zarko-varajic-1.html|publisher=Sports-Reference.com|access-date=7 August 2012|url-status=dead|archive-url=https://web.archive.org/web/20121102235704/http://www.sports-reference.com/olympics/athletes/va/zarko-varajic-1.html|archive-date=2 November 2012|df=dmy-all}}</ref>
+
+===Association Football===
+{| class="wikitable"
+!style="width:6em"| Medal
+!style="width:10em"| Games 
+! Team
+! Names
+|-
+| {{silver medal}} ||{{flagicon|UK}} [[Football at the 1948 Summer Olympics|1948 London]] || Men || [[Miroslav Brozović]]
+|-
+| {{silver medal}} ||{{flagicon|AUS}} [[Association football at the 1956 Summer Olympics|1956 Melbourne]] || Men || [[Ibrahim Biogradlić]] and [[Muhamed Mujić]]
+|-
+| {{gold medal}} ||{{flagicon|ITA}} [[Football at the 1960 Summer Olympics|1960 Rome]] || Men || [[Tomislav Knez]] and [[Velimir Sombolac]]
+|-
+| {{bronze medal}} ||{{flagicon|USA}} [[Football at the 1984 Summer Olympics|1984 Los Angeles]]|| Men || [[Mehmed Baždarević]], [[Mirsad Baljić]], [[Vlado Čapljić]], [[Admir Smajić]] 
+|}
+
+===Basketball===
+{| class="wikitable"
+!style="width:6em"| Medal
+!style="width:10em"| Games
+! Team
+! Names
+|-
+| {{gold medal}} ||{{flagicon|USSR}} [[Basketball at the 1980 Summer Olympics|1980 Moscow]] || Men || [[Mirza Delibašić]], [[Dražen Dalipagić]], [[Ratko Radovanović]]
+|-
+| {{bronze medal}} ||{{flagicon|USSR}} [[Basketball at the 1980 Summer Olympics|1980 Moscow]] || Women || [[Mersada Bećirspahić]], [[Vera Đurašković]] 
+|-
+| {{bronze medal}} ||{{flagicon|USA}} [[Basketball at the 1984 Summer Olympics|1984 Los Angeles]] || Men || [[Dražen Dalipagić]], [[Emir Mutapčić]], [[Ratko Radovanović]], [[Sabit Hadžić]] 
+|-
+| {{silver medal}} ||{{flagicon|KOR}} [[Basketball at the 1988 Summer Olympics|1988 Seoul]] || Women || [[Razija Mujanović]], [[Mara Lakić]], [[Slađana Golić]], [[Vesna Bajkuša]]
+|}
+
+===Boxing===
+{| class="wikitable"
+!style="width:6em"| Medal
+!style="width:10em"| Games
+! Team
+! Names
+|-
+| {{gold medal}} ||{{flagicon|USA}} [[Boxing at the 1984 Summer Olympics|1984 Los Angeles]] || Men || [[Anton Josipović]]
+|}
+
+===Handball===
+{| class="wikitable"
+!style="width:6em"| Medal
+!style="width:10em"| Games 
+! Team
+! Names
+|-
+| {{gold medal}} ||{{flagicon|West Germany}} [[Handball at the 1972 Summer Olympics|1972 Munich]] || Men || [[Abaz Arslanagić]], [[Milorad Karalić]], [[Đorđe Lavrnić]], [[Dobrivoj Selec]]
+|-
+| {{gold medal}} ||{{flagicon|USA}} [[Handball at the 1984 Summer Olympics|1984 Los Angeles]] || Women || [[Svetlana Kitić]], [[Jasna Kolar-Merdan]]
+|-
+| {{gold medal}} ||{{flagicon|USA}} [[Handball at the 1984 Summer Olympics|1984 Los Angeles]] || Men || [[Zlatan Arnautović]], [[Jovica Elezović]], [[Zdravko Rađenović]], [[Branko Štrbac]], [[Zdravko Zovko]]
+|-
+| {{bronze medal}} ||{{flagicon|KOR}} [[Handball at the 1988 Summer Olympics|1988 Seoul]] || Men || [[Iztok Puc]], [[Zlatko Saračević]], [[Irfan Smajlagić]], [[Ermin Velić]], [[Muhamed Memić]]
+|}
+
+==See also==
+* [[List of flag bearers for Bosnia and Herzegovina at the Olympics]]
+* [[Bosnia and Herzegovina at the Paralympics]]
+* [[Bosnia and Herzegovina at the World Athletics Championships]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |title=Bosnia and Herzegovina |date=27 July 2021 |publisher=International Olympic Committee |url=https://www.olympic.org/bosnia-and-herzegovina }}
+* {{cite web |title=Bosnia and Herzegovina |publisher=Olympedia.com |url=http://www.olympedia.org/countries/BIH }}
+* {{cite web |title=Olympic Analytics/BIH |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=BIH }}
+
+{{country at games navbox|Bosnia and Herzegovina|Olympics}}
+{{Nations at the Olympics}}
+{{National sports teams of Bosnia and Herzegovina}}
+
+[[Category:Bosnia and Herzegovina at the Olympics| ]]

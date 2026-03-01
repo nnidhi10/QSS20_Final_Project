@@ -1,0 +1,402 @@
+{{short description|None}}
+
+{{Use dmy dates|date=January 2020}}
+{{Football at the 2008 Summer Olympics}}
+The [[Football at the 2008 Summer Olympics – Women's tournament|women's football tournament]] at the [[2008 Summer Olympics]] in [[Beijing]] was held from 6 to 21 August 2008. The women's tournament was a full international tournament with no restrictions on age. The twelve national teams involved in the tournament were required to register a squad of 18 players, including two goalkeepers. Additionally, teams could name a maximum of four alternate players, numbered from 19 to 22. The alternate list could contain at most three outfielders, as at least one slot was reserved for a goalkeeper. In the event of serious injury during the tournament, an injured player could be replaced by one of the players in the alternate list. Only players in these squads were eligible to take part in the tournament.
+
+The age listed for each player is on 6 August 2008, the first day of the tournament. The numbers of caps and goals listed for each player do not include any matches played after the start of the tournament. The club listed is the club for which the player last played a competitive match prior to the tournament. A flag is included for coaches who are of a different nationality than their own national team.
+
+==Group E==
+
+===Argentina===
+<section begin=ARG />Head coach: [[Carlos Borrello]]
+
+[[Argentina women's national football team|Argentina]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1884881/squadlist.html |archive-url=https://web.archive.org/web/20160305093918/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1884881/squadlist.html |url-status=dead |archive-date=5 March 2016 |title=Argentina – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990397.shtml |title=Team profile – Football Women: Argentina |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081008160832/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990397.shtml |archive-date=8 October 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Guadalupe Calello]]|sortname=Calello, Guadalupe|age={{birth date and age2|df=y|2008|8|6|1990|4|13}}|caps=|goals=|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=2|pos=DF|name=[[Eva González (Argentine footballer)|Eva González]]|sortname=Gonzalez, Eva|age={{birth date and age2|df=y|2008|8|6|1987|9|2}}|caps=|goals=|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=3|pos=DF|name=[[Yesica Arrien]]|sortname=Arrien, Yesica|age={{birth date and age2|df=y|2008|8|6|1980|7|1}}|caps=|goals=|club=[[Estudiantes de La Plata]]|clubnat=ARG}}
+{{nat fs g player|no=4|pos=MF|name=[[Florencia Mandrile]]|sortname=Mandrile, Florencia|age={{birth date and age2|df=y|2008|8|6|1988|2|10}}|caps=|goals=|club=[[San Lorenzo de Almagro]]|clubnat=ARG}}
+{{nat fs g player|no=5|pos=DF|name=[[Marisa Gerez]]|sortname=Gerez, Marisa|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1976|11|3}}|caps=|goals=|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=DF|name=[[Gabriela Chávez (footballer)|Gabriela Chávez]]|sortname=Chavez, Gabriela|age={{birth date and age2|df=y|2008|8|6|1989|4|9}}|caps=|goals=|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=7|pos=FW|name=[[Ludmila Manicler]]|sortname=Manicler, Ludmila|age={{birth date and age2|df=y|2008|8|6|1987|7|6}}|caps=|goals=|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=8|pos=FW|name=[[Emilia Mendieta]]|sortname=Mendieta, Emilia|age={{birth date and age2|df=y|2008|8|6|1988|2|4}}|caps=|goals=|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=9|pos=FW|name=[[Belén Potassa]]|sortname=Potassa, Belen|age={{birth date and age2|df=y|2008|8|6|1988|12|12}}|caps=|goals=|club=[[San Lorenzo de Almagro]]|clubnat=ARG}}
+{{nat fs g player|no=10|pos=MF|name=[[Mariela Coronel]]|sortname=Coronel, Mariela|age={{birth date and age2|df=y|2008|8|6|1981|6|20}}|caps=|goals=|club=[[CD Transportes Alcaine|Prainsa Zaragoza]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Fabiana Vallejos]]|sortname=Vallejos, Fabiana|age={{birth date and age2|df=y|2008|8|6|1985|7|30}}|caps=|goals=|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=12|pos=DF|name=[[Daiana Cardone]]|sortname=Cardone, Daiana|age={{birth date and age2|df=y|2008|8|6|1989|1|1}}|caps=|goals=|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=13|pos=MF|name=[[Florencia Quiñones]]|sortname=Quinones, Florencia|age={{birth date and age2|df=y|2008|8|6|1986|8|26}}|caps=|goals=|club=[[San Lorenzo de Almagro]]|clubnat=ARG}}
+{{nat fs g player|no=14|pos=FW|name=[[Andrea Ojeda]]|sortname=Ojeda, Andrea|age={{birth date and age2|df=y|2008|8|6|1985|1|17}}|caps=|goals=|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=15|pos=FW|name=[[Mercedes Pereyra]]|sortname=Pereyra, Mercedes|age={{birth date and age2|df=y|2008|8|6|1987|5|7}}|caps=|goals=|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=16|pos=MF|name=[[Gimena Blanco]]|sortname=Blanco, Gimena|age={{birth date and age2|df=y|2008|8|6|1987|12|5}}|caps=|goals=|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=17|pos=FW|name=[[Analía Almeida]]|sortname=Almeida, Analia|age={{birth date and age2|df=y|2008|8|6|1985|8|19}}|caps=|goals=|club=[[San Lorenzo de Almagro]]|clubnat=ARG}}
+{{nat fs g player|no=18|pos=GK|name=[[Vanina Correa]]|sortname=Correa, Vanina|age={{birth date and age2|df=y|2008|8|6|1983|8|14}}|caps=|goals=|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs end}}<section end=ARG />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=DF|name=[[Valeria Cotelo]]|sortname=Cotelo, Valeria|age={{birth date and age2|df=y|2008|8|6|1984|3|26}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=DF|name=[[Ruth Leiva]]|sortname=Leiva, Ruth|age={{birth date and age2|df=y|2008|8|6|1988|6|28}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Natalia Gatti]]|sortname=Gatti, Natalia|age={{birth date and age2|df=y|2008|8|6|1982|10|20}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Elisabeth Minning]]|sortname=Minning, Elisabeth|age={{birth date and age2|df=y|2008|8|6|1987|1|6}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===Canada===
+<section begin=CAN />Head coach: {{flagicon|NOR}} [[Even Pellerud]]
+
+[[Canada women's national soccer team|Canada]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883718/squadlist.html |archive-url=https://web.archive.org/web/20151010123423/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883718/squadlist.html |url-status=dead |archive-date=10 October 2015 |title=Canada – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite news |url=https://canadasoccer.com/coach-pellerud-nominates-roster-for-olympic-football-tournament-p146640 |title=Coach Pellerud nominates roster for Olympic Football Tournament |website=CanadaSoccer.com |publisher=[[Canadian Soccer Association]] |date=15 July 2008 |access-date=29 January 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129223048/https://canadasoccer.com/coach-pellerud-nominates-roster-for-olympic-football-tournament-p146640 |url-status=dead }}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990770.shtml |title=Team profile – Football Women: Canada |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081013035500/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990770.shtml |archive-date=13 October 2008}}</ref> Prior to the tournament, [[Amber Allen]] withdrew injured and was replaced on 3 August 2008 by [[Jodi-Ann Robinson]], who was initially selected as an alternate player. [[Chelsea Stewart]] subsequently filled the vacant alternate spot.<ref>{{cite news |url=https://canadasoccer.com/robinson-joins-canada-for-the-olympics-p144771 |title=Robinson joins Canada for the Olympics |website=CanadaSoccer.com |publisher=[[Canadian Soccer Association]] |date=3 August 2008 |access-date=29 January 2020 |archive-date=29 January 2020 |archive-url=https://web.archive.org/web/20200129223109/https://canadasoccer.com/robinson-joins-canada-for-the-olympics-p144771 |url-status=dead }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Karina LeBlanc]]|sortname=Leblanc, Karina|age={{birth date and age2|df=y|2008|8|6|1980|3|30}}|caps=62|goals=0|club=[[New Jersey Wildcats]]|clubnat=USA}}
+{{nat fs g player|no=2|pos=FW|name=[[Jodi-Ann Robinson]]|sortname=Robinson, Jodi-Ann|age={{birth date and age2|df=y|2008|8|6|1989|4|17}}|caps=27|goals=4|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=3|pos=DF|name=[[Emily Zurrer]]|sortname=Zurrer, Emily|age={{birth date and age2|df=y|2008|8|6|1987|7|12}}|caps=8|goals=0|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=4|pos=MF|name=[[Clare Rustad]]|sortname=Rustad, Clare|age={{birth date and age2|df=y|2008|8|6|1983|4|27}}|caps=39|goals=1|club=[[Washington Huskies|University of Washington]]|clubnat=USA}}
+{{nat fs g player|no=5|pos=DF|name=[[Robyn Gayle]]|sortname=Gayle, Robyn|age={{birth date and age2|df=y|2008|8|6|1985|10|31}}|caps=23|goals=0|club=[[Ottawa Fury Women|Ottawa Fury]]|clubnat=CAN}}
+{{nat fs g player|no=6|pos=MF|name=[[Sophie Schmidt]]|sortname=Schmidt, Sophie|age={{birth date and age2|df=y|2008|8|6|1988|6|28}}|caps=38|goals=3|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=7|pos=MF|name=[[Rhian Wilkinson]]|sortname=Wilkinson, Rhian|age={{birth date and age2|df=y|2008|8|6|1982|5|12}}|caps=62|goals=7|club=[[Ottawa Fury Women|Ottawa Fury]]|clubnat=CAN}}
+{{nat fs g player|no=8|pos=MF|name=[[Diana Matheson]]|sortname=Matheson, Diana|age={{birth date and age2|df=y|2008|8|6|1984|4|6}}|caps=81|goals=4|club=[[Ottawa Fury Women|Ottawa Fury]]|clubnat=CAN}}
+{{nat fs g player|no=9|pos=DF|name=[[Candace Chapman]]|sortname=Chapman, Candace|age={{birth date and age2|df=y|2008|8|6|1983|4|2}}|caps=57|goals=4|club=[[Vancouver Whitecaps Women|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=10|pos=DF|name=[[Martina Franko]]|sortname=Franko, Martina|age={{birth date and age2|df=y|2008|8|6|1976|1|13}}|caps=46|goals=5|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=11|pos=DF|name=[[Randee Hermus]]|sortname=Hermus, Randee|age={{birth date and age2|df=y|2008|8|6|1979|11|14}}|caps=110|goals=11|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=12|pos=FW|name=[[Christine Sinclair]]|sortname=Sinclair, Christine|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1983|6|12}}|caps=120|goals=92|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=13|pos=MF|name=[[Amy Walsh (soccer)|Amy Walsh]]|sortname=Walsh, Amy|age={{birth date and age2|df=y|2008|8|6|1977|9|13}}|caps=94|goals=5|club=[[Laval Comets]]|clubnat=CAN}}
+{{nat fs g player|no=14|pos=FW|name=[[Melissa Tancredi]]|sortname=Tancredi, Melissa|age={{birth date and age2|df=y|2008|8|6|1981|12|27}}|caps=33|goals=6|club=[[Atlanta Silverbacks Women|Atlanta Silverbacks]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=FW|name=[[Kara Lang]]|sortname=Lang, Kara|age={{birth date and age2|df=y|2008|8|6|1986|10|22}}|caps=80|goals=31|club=[[UCLA Bruins|UCLA]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=FW|name=[[Jonelle Filigno]]|sortname=Filigno, Jonelle|age={{birth date and age2|df=y|2008|8|6|1990|9|24}}|caps=15|goals=1|club=[[Rutgers Scarlet Knights|Rutgers University]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name=[[Brittany Baxter|Brittany Timko]]|sortname=Timko, Brittany|age={{birth date and age2|df=y|2008|8|6|1985|9|5}}|caps=86|goals=2|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs g player|no=18|pos=GK|name=[[Erin McLeod]]|sortname=Mcleod, Erin|age={{birth date and age2|df=y|2008|8|6|1983|2|26}}|caps=35|goals=0|club=[[Vancouver Whitecaps FC (women)|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs end}}<section end=CAN />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19–21|pos=MF|name=[[Kristina Kiss]]|sortname=Kiss, Kristina|age={{birth date and age2|df=y|2008|8|6|1981|2|13}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=19–21|pos=DF|name=[[Chelsea Stewart]]|sortname=Stewart, Chelsea|age={{birth date and age2|df=y|2008|8|6|1990|4|28}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=19–21|pos=FW|name=[[Amy Vermeulen]]|sortname=Vermeulen, Amy|age={{birth date and age2|df=y|2008|8|6|1983|11|23}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Stephanie Labbé]]|sortname=Labbe, Stephanie|age={{birth date and age2|df=y|2008|8|6|1986|10|10}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===China PR===
+<section begin=CHN />Head coach: [[Shang Ruihua]]
+
+[[China women's national football team|China PR]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882892/squadlist.html |archive-url=https://web.archive.org/web/20160305093311/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882892/squadlist.html |url-status=dead |archive-date=5 March 2016 |title=China PR – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990941.shtml |title=Team profile – Football Women: China |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20080910220656/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990941.shtml |archive-date=10 September 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Zhang Yanru]]|sortname=Zhang, Yanru|age={{birth date and age2|df=y|2008|8|6|1987|1|10}}|caps=35|goals=0|club=[[Jiangsu Huatai]]|clubnat=CHN}}
+{{nat fs g player|no=2|pos=DF|name=[[Yuan Fan]]|sortname=Yuan, Fan|age={{birth date and age2|df=y|2008|8|6|1986|11|6}}|caps=31|goals=0|club=[[Shanghai Shenhua]]|clubnat=CHN}}
+{{nat fs g player|no=3|pos=DF|name=[[Li Jie (footballer)|Li Jie]]|sortname=Li, Jie|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1979|7|8}}|caps=196|goals=12|club=[[Beijing Zhaotai]]|clubnat=CHN}}
+{{nat fs g player|no=4|pos=DF|name=[[Zhang Ying (footballer)|Zhang Ying]]|sortname=Zhang, Ying|age={{birth date and age2|df=y|2008|8|6|1985|6|27}}|caps=85|goals=4|club=[[Shanghai Shenhua]]|clubnat=CHN}}
+{{nat fs g player|no=5|pos=DF|name=[[Weng Xinzhi]]|sortname=Weng, Xinzhi|age={{birth date and age2|df=y|2008|8|6|1988|6|15}}|caps=30|goals=0|club=[[Jiangsu Huatai]]|clubnat=CHN}}
+{{nat fs g player|no=6|pos=MF|name=[[Zhang Na (footballer)|Zhang Na]]|sortname=Zhang, Na|age={{birth date and age2|df=y|2008|8|6|1984|3|10}}|caps=30|goals=1|club=[[Hebei Huabei]]|clubnat=CHN}}
+{{nat fs g player|no=7|pos=MF|name=[[Bi Yan]]|sortname=Bi, Yan|age={{birth date and age2|df=y|2008|8|6|1984|2|17}}|caps=140|goals=12|club=[[Dalian Haichang]]|clubnat=CHN}}
+{{nat fs g player|no=8|pos=FW|name=[[Xu Yuan (footballer)|Xu Yuan]]|sortname=Xu, Yuan|age={{birth date and age2|df=y|2008|8|6|1985|11|17}}|caps=25|goals=6|club=[[Gansu Tianma]]|clubnat=CHN}}
+{{nat fs g player|no=9|pos=FW|name=[[Han Duan]]|sortname=Han, Duan|age={{birth date and age2|df=y|2008|8|6|1983|6|15}}|caps=160|goals=100|club=[[Dalian Haichang]]|clubnat=CHN}}
+{{nat fs g player|no=10|pos=FW|name=[[Liu Sa]]|sortname=Liu, Sa|age={{birth date and age2|df=y|2008|8|6|1987|7|11}}|caps=25|goals=4|club=[[Beijing Zhaotai]]|clubnat=CHN}}
+{{nat fs g player|no=11|pos=DF|name=[[Pu Wei]]|sortname=Pu, Wei|age={{birth date and age2|df=y|2008|8|6|1980|8|20}}|caps=200|goals=35|club=[[Shanghai Shenhua]]|clubnat=CHN}}
+{{nat fs g player|no=12|pos=MF|name=[[Lou Jiahui]]|sortname=Lou, Jiahui|age={{birth date and age2|df=y|2008|8|6|1991|5|26}}|caps=0|goals=0|club=[[Henan Jianye]]|clubnat=CHN}}
+{{nat fs g player|no=13|pos=DF|name=[[Jiang Shuai]]|sortname=Jiang, Shuai|age={{birth date and age2|df=y|2008|8|6|1982|6|7}}|caps=15|goals=1|club=[[Tianjin Huisen]]|clubnat=CHN}}
+{{nat fs g player|no=14|pos=DF|name=[[Liu Huana]]|sortname=Liu, Huana|age={{birth date and age2|df=y|2008|8|6|1981|5|17}}|caps=50|goals=2|club=[[Shaanxi Guoli]]|clubnat=CHN}}
+{{nat fs g player|no=15|pos=DF|name=[[Zhou Gaoping]]|sortname=Zhou, Gaoping|age={{birth date and age2|df=y|2008|8|6|1986|10|20}}|caps=28|goals=0|club=[[Jiangsu Huatai]]|clubnat=CHN}}
+{{nat fs g player|no=16|pos=MF|name=[[Wang Dandan]]|sortname=Wang, Dandan|age={{birth date and age2|df=y|2008|8|6|1985|5|1}}|caps=25|goals=4|club=[[Beijing Chengjiang]]|clubnat=CHN}}
+{{nat fs g player|no=17|pos=MF|name=[[Gu Yasha]]|sortname=Gu, Yasha|age={{birth date and age2|df=y|2008|8|6|1990|11|28}}|caps=0|goals=0|club=[[Beijing Chengjiang]]|clubnat=CHN}}
+{{nat fs g player|no=18|pos=GK|name=[[Han Wenxia]]|sortname=Han, Wenxia|age={{birth date and age2|df=y|2008|8|6|1976|8|23}}|caps=93|goals=0|club=[[Dalian Haichang]]|clubnat=CHN}}
+{{nat fs end}}<section end=CHN />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=MF|name=[[Lou Xiaoxu]]|sortname=Lou, Xiaoxu|age={{birth date and age2|df=y|2008|8|6|1986|5|30}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=DF|name=[[Wang Kun (footballer)|Wang Kun]]|sortname=Wang, Kun|age={{birth date and age2|df=y|2008|8|6|1985|10|20}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=MF|name=[[Xie Caixia]]|sortname=Xie, Caixia|age={{birth date and age2|df=y|2008|8|6|1976|2|17}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Weng Xiaojie]]|sortname=Weng, Xiaojie|age={{birth date and age2|df=y|2008|8|6|1987|7|27}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===Sweden===
+<section begin=SWE />Head coach: [[Thomas Dennerby]]
+
+[[Sweden women's national football team|Sweden]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882883/squadlist.html |archive-url=https://web.archive.org/web/20150911015247/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882883/squadlist.html |url-status=dead |archive-date=11 September 2015 |title=Sweden – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite news |url=https://www2.svenskfotboll.se/arkiv/tidigare/2008/08/dam-smartsam-forlust-mot-kina-i-oppningsmatchen/ |title=Dam: Smärtsam förlust mot Kina i öppningsmatchen |trans-title=Women: Painful loss to China in the opening match |website=SvenskFotboll.se |publisher=[[Swedish Football Association]] |date=6 August 2008 |access-date=31 January 2020 |language=sv}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990837.shtml |title=Team profile – Football Women: Sweden |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081013035510/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990837.shtml |archive-date=13 October 2008}}</ref><ref>{{cite web |url=https://www.svenskfotboll.se/landslag/dam/landskamper-1973-2000/ |title=A-landskamper 1973–2000 |trans-title=A-internationals 1973–2000 |website=SvenskFotboll.se |publisher=[[Swedish Football Association]] |access-date=26 January 2020 |language=sv}}</ref> During the tournament, [[Maria Aronsson]] replaced [[Josefine Öqvist]] on 12 August 2008 due to injury.<ref>{{cite news |url=https://www.bt.se/sport/slut-i-fortid-for-josefine-oqvist/ |title=Slut i förtid för Josefine Öqvist |trans-title=Premature end for Josefine Öqvist |website=BT.se |publisher=[[Borås Tidning]] |date=12 August 2008 |access-date=26 January 2020 |language=sv |url-status=live |archive-url=https://archive.today/20200126194403/https://www.bt.se/sport/slut-i-fortid-for-josefine-oqvist/ |archive-date=26 January 2020}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hedvig Lindahl]]|sortname=Lindahl, Hedvig|age={{birth date and age2|df=y|2008|8|6|1983|4|29}}|caps=34|goals=0|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=2|pos=DF|name=[[Karolina Westberg]]|sortname=Westberg, Karolina|age={{birth date and age2|df=y|2008|8|6|1978|5|16}}|caps=126|goals=2|club=[[Umeå IK|Umeå]]|clubnat=SWE}}
+{{nat fs g player|no=3|pos=DF|name=[[Stina Segerström]]|sortname=Segerstrom, Stina|age={{birth date and age2|df=y|2008|8|6|1983|6|17}}|caps=27|goals=2|club=[[KIF Örebro DFF|Örebro]]|clubnat=SWE}}
+{{nat fs g player|no=4|pos=DF|name=[[Anna Paulson (footballer)|Anna Paulson]]|sortname=Paulson, Anna|age={{birth date and age2|df=y|2008|8|6|1984|2|29}}|caps=23|goals=0|club=[[Umeå IK|Umeå]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=MF|name=[[Caroline Seger]]|sortname=Seger, Caroline|age={{birth date and age2|df=y|2008|8|6|1985|3|19}}|caps=43|goals=4|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=6|pos=DF|name=[[Sara Thunebro]]|sortname=Thunebro, Sara|age={{birth date and age2|df=y|2008|8|6|1979|4|26}}|caps=32|goals=2|club=[[Djurgårdens IF Dam|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=7|pos=DF|name=[[Sara Larsson]]|sortname=Larsson, Sara|age={{birth date and age2|df=y|2008|8|6|1987|2|6}}|caps=77|goals=7|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=8|pos=FW|name=[[Lotta Schelin]]|sortname=Schelin, Lotta|age={{birth date and age2|df=y|2008|8|6|1984|2|27}}|caps=52|goals=19|club=[[Kopparbergs/Göteborg FC|Göteborg]]|clubnat=SWE}}
+{{nat fs g player|no=9|pos=FW|name=[[Jessica Landström]]|sortname=Landstrom, Jessica|age={{birth date and age2|df=y|2008|8|6|1984|12|12}}|caps=13|goals=4|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=10|pos=FW|name=[[Johanna Almgren]]|sortname=Almgren, Johanna|age={{birth date and age2|df=y|2008|8|6|1984|3|22}}|caps=15|goals=0|club=[[Kopparbergs/Göteborg FC|Göteborg]]|clubnat=SWE}}
+{{nat fs g player|no=11|pos=FW|name=[[Victoria Sandell Svensson]]|sortname=Sandell Svensson, Victoria|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1977|5|18}}|caps=149|goals=64|club=[[Djurgårdens IF Dam|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=12|pos=GK|name=[[Caroline Jönsson]]|sortname=Jonsson, Caroline|age={{birth date and age2|df=y|2008|8|6|1977|11|22}}|caps=79|goals=0|club=[[FC Rosengård|Malmö]]|clubnat=SWE}}
+{{nat fs g player|no=13|pos=DF|name=[[Frida Östberg]]|sortname=Ostberg, Frida|age={{birth date and age2|df=y|2008|8|6|1977|12|10}}|caps=73|goals=2|club=[[Umeå IK|Umeå]]|clubnat=SWE}}
+{{nat fs g player|no=14|pos=MF|name=[[Josefine Öqvist]]|sortname=Oqvist, Josefine|age={{birth date and age2|df=y|2008|8|6|1983|7|23}}|caps=48|goals=10|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=15|pos=MF|name=[[Therese Sjögran]]|sortname=Sjogran, Therese|age={{birth date and age2|df=y|2008|8|6|1977|4|8}}|caps=127|goals=11|club=[[FC Rosengård|Malmö]]|clubnat=SWE}}
+{{nat fs g player|no=16|pos=MF|name=[[Linda Forsberg]]|sortname=Forsberg, Linda|age={{birth date and age2|df=y|2008|8|6|1985|6|19}}|caps=5|goals=0|club=[[Djurgårdens IF Dam|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=17|pos=DF|name=[[Charlotte Rohlin]]|sortname=Rohlin, Charlotte|age={{birth date and age2|df=y|2008|8|6|1980|12|2}}|caps=11|goals=1|club=[[Linköpings FC|Linköping]]|clubnat=SWE}}
+{{nat fs g player|no=18|pos=MF|name=[[Nilla Fischer]]|sortname=Fischer, Nilla|age={{birth date and age2|df=y|2008|8|6|1984|8|2}}|caps=35|goals=4|club=[[FC Rosengård|Malmö]]|clubnat=SWE}}
+{{nat fs g player|no=19|pos=FW|name=[[Maria Aronsson]]|sortname=Aronsson, Maria|age={{birth date and age2|df=y|2008|8|6|1983|12|23}}|caps=15|goals=1|club=[[FC Rosengård|Malmö]]|clubnat=SWE}}
+{{nat fs end}}<section end=SWE />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=20|pos=MF|name=[[Lisa Dahlkvist]]|sortname=Dahlkvist, Lisa|age={{birth date and age2|df=y|2008|8|6|1987|2|6}}|caps=5|goals=0|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Madelaine Edlund]]|sortname=Edlund, Madelaine|age={{birth date and age2|df=y|2008|8|6|1985|9|15}}|caps=5|goals=1|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Kristin Hammarström]]|sortname=Hammarstrom, Kristin|age={{birth date and age2|df=y|2008|8|6|1982|3|29}}|caps=3|goals=0|club=|clubnat=}}
+{{nat fs end}}
+==Group F==
+
+===Brazil===
+<section begin=BRA />Head coach: [[Jorge Barcellos]]
+
+[[Brazil women's national football team|Brazil]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882881/squadlist.html |archive-url=https://web.archive.org/web/20120818002603/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882881/squadlist.html |url-status=dead |archive-date=18 August 2012 |title=Brazil – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9991044.shtml |title=Team profile – Football Women: Brazil |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20080929115401/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9991044.shtml |archive-date=29 September 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Andréia Suntaque|Andréia]]|sortname=Andreia|age={{birth date and age2|df=y|2008|8|6|1977|9|14}}|caps=|goals=0|club=[[CD Transportes Alcaine|Prainsa Zaragoza]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Simone Jatobá|Simone]]|sortname=Simone|age={{birth date and age2|df=y|2008|8|6|1981|2|10}}|caps=|goals=1|club=[[Olympique Lyonnais (ladies)|Olympique Lyonnais]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Andréia Rosa de Andrade|Andréia Rosa]]|sortname=Andreia Rosa|age={{birth date and age2|df=y|2008|8|6|1984|7|8}}|caps=|goals=0|club=[[Associação Ferroviária de Esportes (women)|Ferroviária Araraquara]]|clubnat=BRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Tânia Maria Pereira Ribeiro|Tânia]]|sortname=Tania|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1974|3|10}}|caps=|goals=1|club=[[Saad Esporte Clube|Saad]]|clubnat=BRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Renata Costa]]|sortname=Renata Costa|age={{birth date and age2|df=y|2008|8|6|1986|7|8}}|caps=|goals=1|club=[[Odense]]|clubnat=DEN}}
+{{nat fs g player|no=6|pos=MF|name=[[Maycon (footballer, born 1977)|Maycon]]|sortname=Maycon|age={{birth date and age2|df=y|2008|8|6|1977|4|3}}|caps=|goals=2|club=[[Saad Esporte Clube|Saad]]|clubnat=BRA}}
+{{nat fs g player|no=7|pos=MF|name=[[Daniela Alves Lima|Daniela]]|sortname=Daniela|age={{birth date and age2|df=y|2008|8|6|1984|1|12}}|caps=|goals=4|club=[[Linköpings FC]]|clubnat=SWE}}
+{{nat fs g player|no=8|pos=MF|name=[[Formiga (footballer, born 1978)|Formiga]]|sortname=Formiga|age={{birth date and age2|df=y|2008|8|6|1978|3|3}}|caps=|goals=4|club=[[Saad Esporte Clube|Saad]]|clubnat=BRA}}
+{{nat fs g player|no=9|pos=MF|name=[[Ester Aparecida dos Santos|Ester]]|sortname=Ester|age={{birth date and age2|df=y|2008|8|6|1982|2|9}}|caps=|goals=1|club=[[Santos Futebol Clube|Santos F.C.]]|clubnat=BRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Marta (footballer)|Marta]]|sortname=Marta|age={{birth date and age2|df=y|2008|8|6|1986|2|19}}|caps=|goals=24|club=[[Umeå IK]]|clubnat=SWE}}
+{{nat fs g player|no=11|pos=FW|name=[[Cristiane Rozeira|Cristiane]]|sortname=Cristiane|age={{birth date and age2|df=y|2008|8|6|1985|5|15}}|caps=|goals=10|club=[[Linköpings FC]]|clubnat=SWE}}
+{{nat fs g player|no=12|pos=GK|name=[[Bárbara (footballer)|Bárbara]]|sortname=Barbara|age={{birth date and age2|df=y|2008|8|6|1988|7|4}}|caps=|goals=0|club=[[Sport Recife]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=MF|name=[[Francielle]]|sortname=Francielle|age={{birth date and age2|df=y|2008|8|6|1989|10|18}}|caps=|goals=1|club=[[Santos Futebol Clube|Santos F.C.]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=FW|name=[[Pretinha]]|sortname=Pretinha|age={{birth date and age2|df=y|2008|8|6|1975|5|19}}|caps=|goals=14|club=[[INAC Leonissa]]|clubnat=JPN}}
+{{nat fs g player|no=15|pos=FW|name=[[Fabiana da Silva Simões|Fabiana]]|sortname=Fabiana|age={{birth date and age2|df=y|2008|8|6|1989|8|4}}|caps=|goals=1|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=DF|name=[[Érika (Brazilian footballer)|Érika]]|sortname=Erika|age={{birth date and age2|df=y|2008|8|6|1988|2|4}}|caps=|goals=9|club=[[Santos Futebol Clube|Santos F.C.]]|clubnat=BRA}}
+{{nat fs g player|no=17|pos=FW|name=[[Maurine Dorneles Gonçalves|Maurine]]|sortname=Maurine|age={{birth date and age2|df=y|2008|8|6|1986|1|14}}|caps=|goals=2|club=[[Santos Futebol Clube|Santos F.C.]]|clubnat=BRA}}
+{{nat fs g player|no=18|pos=DF|name=[[Rosana dos Santos Augusto|Rosana]]|sortname=Rosana|age={{birth date and age2|df=y|2008|8|6|1982|7|7}}|caps=|goals=3|club=[[SV Neulengbach]]|clubnat=AUT}}
+{{nat fs end}}<section end=BRA />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=DF|name=[[Daiane Rodrigues (footballer, born 1986)|Daiane Rodrigues]]|sortname=Daiane Rodrigues|age={{birth date and age2|df=y|2008|8|6|1986|7|22}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=DF|name=[[Juliana Cabral|Juliana]]|sortname=Juliana|age={{birth date and age2|df=y|2008|8|6|1981|10|3}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Raquel Lopes de Farias|Raquel]]|sortname=Raquel|age={{birth date and age2|df=y|2008|8|6|1985|7|9}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Thaís Helena da Silva|Thaís]]|sortname=Thais|age={{birth date and age2|df=y|2008|8|6|1987|6|19}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===Germany===
+<section begin=GER />Head coach: [[Silvia Neid]]
+
+[[Germany women's national football team|Germany]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882879/squadlist.html |archive-url=https://web.archive.org/web/20120817060109/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882879/squadlist.html |url-status=dead |archive-date=17 August 2012 |title=Germany – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990497.shtml |title=Team profile – Football Women: Germany |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081013035419/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990497.shtml |archive-date=13 October 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Nadine Angerer]]|sortname=Angerer, Nadine|age={{birth date and age2|df=y|2008|8|6|1978|11|10}}|caps=62|goals=0|club=[[Djurgårdens IF Dam|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=2|pos=DF|name=[[Kerstin Stegemann]]|sortname=Stegemann, Kerstin|age={{birth date and age2|df=y|2008|8|6|1977|9|29}}|caps=178|goals=7|club=[[Wattenscheid 09]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Saskia Bartusiak]]|sortname=Bartusiak, Saskia|age={{birth date and age2|df=y|2008|8|6|1982|9|9}}|caps=13|goals=0|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Babett Peter]]|sortname=Peter, Babett|age={{birth date and age2|df=y|2008|8|6|1988|5|12}}|caps=17|goals=0|club=[[FFC Turbine Potsdam]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Annike Krahn]]|sortname=Krahn, Annike|age={{birth date and age2|df=y|2008|8|6|1985|7|1}}|caps=38|goals=3|club=[[FCR 2001 Duisburg]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[Linda Bresonik]]|sortname=Bresonik, Linda|age={{birth date and age2|df=y|2008|8|6|1983|12|7}}|caps=39|goals=3|club=[[SG Essen-Schönebeck]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=MF|name=[[Melanie Behringer]]|sortname=Behringer, Melanie|age={{birth date and age2|df=y|2008|8|6|1979|11|18}}|caps=32|goals=9|club=[[SC Freiburg (women)|SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=FW|name=[[Sandra Smisek]]|sortname=Smisek, Sandra|age={{birth date and age2|df=y|2008|8|6|1977|7|3}}|caps=126|goals=32|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Birgit Prinz]]|sortname=Prinz, Birgit|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1977|10|25}}|caps=180|goals=120|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Renate Lingor]]|sortname=Lingor, Renate|age={{birth date and age2|df=y|2008|8|6|1975|10|11}}|caps=141|goals=35|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Anja Mittag]]|sortname=Mittag, Anja|age={{birth date and age2|df=y|2008|8|6|1985|5|16}}|caps=44|goals=5|club=[[FFC Turbine Potsdam]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Ursula Holl]]|sortname=Holl, Ursula|age={{birth date and age2|df=y|2008|8|6|1982|6|26}}|caps=2|goals=0|club=[[SC 07 Bad Neuenahr]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=MF|name=[[Célia Šašić|Célia Okoyino da Mbabi]]|sortname=Okoyino Da Mbabi, Celia|age={{birth date and age2|df=y|2008|8|6|1988|5|29}}|caps=27|goals=3|club=[[SC 07 Bad Neuenahr]]|clubnat=GER}}
+{{nat fs g player|no=14|pos=MF|name=[[Simone Laudehr]]|sortname=Laudehr, Simone|age={{birth date and age2|df=y|2008|8|6|1986|7|12}}|caps=13|goals=2|club=[[FCR 2001 Duisburg]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=MF|name=[[Fatmire Alushi|Fatmire Bajramaj]]|sortname=Bajramaj, Fatmire|age={{birth date and age2|df=y|2008|8|6|1988|4|1}}|caps=15|goals=1|club=[[FCR 2001 Duisburg]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=FW|name=[[Conny Pohlers]]|sortname=Pohlers, Conny|age={{birth date and age2|df=y|2008|8|6|1978|11|16}}|caps=64|goals=28|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=DF|name=[[Ariane Hingst]]|sortname=Hingst, Ariane|age={{birth date and age2|df=y|2008|8|6|1979|7|25}}|caps=149|goals=10|club=[[Djurgårdens IF Dam|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=18|pos=MF|name=[[Kerstin Garefrekes]]|sortname=Garefrekes, Kerstin|age={{birth date and age2|df=y|2008|8|6|1979|9|4}}|caps=89|goals=31|club=[[1. FFC Frankfurt|FFC Frankfurt]]|clubnat=GER}}
+{{nat fs end}}<section end=GER />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=MF|name=[[Isabell Bachor]]|sortname=Bachor, Isabell|age={{birth date and age2|df=y|2008|8|6|1983|7|10}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=DF|name=[[Bianca Rech]]|sortname=Rech, Bianca|age={{birth date and age2|df=y|2008|8|6|1981|1|25}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Martina Müller (footballer)|Martina Müller]]|sortname=Muller, Martina|age={{birth date and age2|df=y|2008|8|6|1980|4|18}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Ulrike Schmetz]]|sortname=Schmetz, Ulrike|age={{birth date and age2|df=y|2008|8|6|1979|10|30}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===Nigeria===
+<section begin=NGR />Head coach: [[Joseph Ladipo]]
+
+[[Nigeria women's national football team|Nigeria]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882893/squadlist.html |archive-url=https://web.archive.org/web/20160305104816/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882893/squadlist.html |url-status=dead |archive-date=5 March 2016 |title=Nigeria – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990466.shtml |title=Team profile – Football Women: Nigeria |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081010153330/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990466.shtml |archive-date=10 October 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Precious Dede]]|sortname=Dede, Precious|age={{birth date and age2|df=y|2008|8|6|1980|1|18}}|caps=|goals=|club=[[Delta Queens]]|clubnat=NGA}}
+{{nat fs g player|no=2|pos=DF|name=[[Efioanwan Ekpo]]|sortname=Ekpo, Efioanwan|age={{birth date and age2|df=y|2008|8|6|1984|1|25}}|caps=|goals=|club=[[Pelican Stars]]|clubnat=NGA}}
+{{nat fs g player|no=3|pos=DF|name=[[Ayisat Yusuf]]|sortname=Yusuf, Ayisat|age={{birth date and age2|df=y|2008|8|6|1985|3|6}}|caps=|goals=|club=[[KMF Kuopio]]|clubnat=FIN}}
+{{nat fs g player|no=4|pos=MF|name=[[Perpetua Nkwocha]]|sortname=Nkwocha, Perpetua|age={{birth date and age2|df=y|2008|8|6|1976|1|3}}|caps=|goals=|club=[[Sunnanå SK]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=FW|name=[[Onome Ebi]]|sortname=Ebi, Onome|age={{birth date and age2|df=y|2008|8|6|1983|5|8}}|caps=|goals=|club=[[Bayelsa Queens]]|clubnat=NGA}}
+{{nat fs g player|no=6|pos=MF|name=[[Florence Ajayi]]|sortname=Ajayi, Florence|age={{birth date and age2|df=y|2008|8|6|1977|4|28}}|caps=|goals=|club=[[Tianjin TEDA F.C.|Tianjin TEDA]]|clubnat=CHN}}
+{{nat fs g player|no=7|pos=MF|name=[[Stella Mbachu]]|sortname=Mbachu, Stella|age={{birth date and age2|df=y|2008|8|6|1978|4|16}}|caps=|goals=|club=[[Tianjin TEDA F.C.|Tianjin TEDA]]|clubnat=CHN}}
+{{nat fs g player|no=8|pos=FW|name=[[Ifeanyi Chiejine]]|sortname=Chiejine, Ifeanyi|age={{birth date and age2|df=y|2008|8|6|1983|5|17}}|caps=|goals=|club=[[Bayelsa Queens]]|clubnat=NGA}}
+{{nat fs g player|no=9|pos=MF|name=[[Sarah Michael]]|sortname=Michael, Sarah|age={{birth date and age2|df=y|2008|8|6|1990|7|22}}|caps=|goals=|club=[[Delta Queens]]|clubnat=NGA}}
+{{nat fs g player|no=10|pos=DF|name=[[Rita Chikwelu]]|sortname=Chikwelu, Rita|age={{birth date and age2|df=y|2008|8|6|1988|3|6}}|caps=|goals=|club=[[United Pietarsaari]]|clubnat=FIN}}
+{{nat fs g player|no=11|pos=DF|name=[[Lilian Cole]]|sortname=Cole, Lilian|age={{birth date and age2|df=y|2008|8|6|1985|8|1}}|caps=|goals=|club=[[Delta Queens]]|clubnat=NGA}}
+{{nat fs g player|no=12|pos=FW|name=[[Cynthia Uwak]]|sortname=Uwak, Cynthia|age={{birth date and age2|df=y|2008|8|6|1986|7|15}}|caps=|goals=|club=[[Falköpings KIK]]|clubnat=SWE}}
+{{nat fs g player|no=13|pos=FW|name=[[Christie George]]|sortname=George, Christie|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1984|5|10}}|caps=|goals=|club=[[Pelican Stars]]|clubnat=NGA}}
+{{nat fs g player|no=14|pos=MF|name=[[Faith Michael|Faith Ikidi]]|sortname=Ikidi, Faith|age={{birth date and age2|df=y|2008|8|6|1987|2|28}}|caps=|goals=|club=[[Linköpings FC]]|clubnat=SWE}}
+{{nat fs g player|no=15|pos=MF|name=[[Tawa Ishola]]|sortname=Ishola, Tawa|age={{birth date and age2|df=y|2008|8|6|1988|12|23}}|caps=|goals=|club=[[Bayelsa Queens]]|clubnat=NGA}}
+{{nat fs g player|no=16|pos=DF|name=[[Ulunma Jerome]]|sortname=Jerome, Ulunma|age={{birth date and age2|df=y|2008|8|6|1988|4|11}}|caps=|goals=|club=[[Rivers Angels]]|clubnat=NGA}}
+{{nat fs g player|no=17|pos=MF|name=[[Edith Eduviere]]|sortname=Eduviere, Edith|age={{birth date and age2|df=y|2008|8|6|1986|6|18}}|caps=|goals=|club=[[FCT Queens]]|clubnat=NGA}}
+{{nat fs g player|no=18|pos=GK|name=[[Tochukwu Oluehi]]|sortname=Oluehi, Tochukwu|age={{birth date and age2|df=y|2008|8|6|1987|5|2}}|caps=|goals=|club=[[Bayelsa Queens]]|clubnat=NGA}}
+{{nat fs end}}<section end=NGR />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=MF|name=[[Gift Otuwe]]|sortname=Otuwe, Gift|age={{birth date and age2|df=y|2008|8|6|1984|7|15}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=MF|name=[[Maureen Eke]]|sortname=Eke, Maureen|age={{birth date and age2|df=y|2008|8|6|1986|12|19}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=DF|name=[[Tosin Otubajo]]|sortname=Otubajo, Tosin|age={{birth date and age2|df=y|2008|8|6|1984|7|16}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Aladi Ayegba]]|sortname=Ayegba, Aladi|age={{birth date and age2|df=y|2008|8|6|1986|6|25}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===North Korea===
+<section begin=PRK />Head coach: [[Kim Kwang-min (footballer, born 1962)|Kim Kwang-min]]
+
+[[North Korea women's national football team|North Korea]] named a squad of 18 players and no alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883726/squadlist.html |archive-url=https://web.archive.org/web/20150924013843/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883726/squadlist.html |url-status=dead |archive-date=24 September 2015 |title=Korea DPR – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990411.shtml |title=Team profile – Football Women: DPR Korea |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20080809094339/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990411.shtml |archive-date=9 August 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jon Myong-hui]]|sortname=Jon, Myong-hui|age={{birth date and age2|df=y|2008|8|6|1986|8|7}}|caps=|goals=|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs g player|no=2|pos=MF|name=[[Kim Kyong-hwa]]|sortname=Kim, Kyong-hwa|age={{birth date and age2|df=y|2008|8|6|1986|3|28}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=3|pos=DF|name=[[Om Jong-ran]]|sortname=Om, Jong-ran|age={{birth date and age2|df=y|2008|8|6|1985|10|10}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=4|pos=DF|name=[[Jang Yong-ok]]|sortname=Jang, Yong-ok|age={{birth date and age2|df=y|2008|8|6|1982|9|17}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=5|pos=DF|name=[[Song Jong-sun]]|sortname=Song, Jong-sun|age={{birth date and age2|df=y|2008|8|6|1981|3|11}}|caps=|goals=|club=[[Amrokkang Sports Club|Amrokkang]]|clubnat=PRK}}
+{{nat fs g player|no=6|pos=FW|name=[[Kim Ok-sim]]|sortname=Kim, Ok-sim|age={{birth date and age2|df=y|2008|8|6|1987|7|2}}|caps=|goals=|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs g player|no=7|pos=MF|name=[[Ho Sun-hui]]|sortname=Ho, Sun-hui|age={{birth date and age2|df=y|2008|8|6|1980|3|5}}|caps=|goals=|club=[[Amrokkang Sports Club|Amrokkang]]|clubnat=PRK}}
+{{nat fs g player|no=8|pos=FW|name=[[Kil Son-hui]]|sortname=Kil, Son-hui|age={{birth date and age2|df=y|2008|8|6|1986|3|7}}|caps=|goals=|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs g player|no=9|pos=MF|name=[[Ri Un-suk]]|sortname=Ri, Un-suk|age={{birth date and age2|df=y|2008|8|6|1986|1|1}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=10|pos=FW|name=[[Ri Kum-suk]]|sortname=Ri, Kum-suk|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1978|8|16}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=11|pos=MF|name=[[Ri Un-gyong]]|sortname=Ri, Un-gyong|age={{birth date and age2|df=y|2008|8|6|1980|11|19}}|caps=|goals=|club=[[Wolmido Sports Club|Wolmido]]|clubnat=PRK}}
+{{nat fs g player|no=12|pos=DF|name=Ri Un-hyang|sortname=Ri, Un-hyang|age={{birth date and age2|df=y|2008|8|6|1988|5|15}}|caps=|goals=|club=[[Amrokkang Sports Club|Amrokkang]]|clubnat=PRK}}
+{{nat fs g player|no=13|pos=DF|name=[[Yu Jong-hui]]|sortname=Yu, Jong-hui|age={{birth date and age2|df=y|2008|8|6|1986|3|21}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=14|pos=DF|name=[[Jang Il-ok]]|sortname=Jang, Il-ok|age={{birth date and age2|df=y|2008|8|6|1986|10|10}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=15|pos=DF|name=[[Sonu Kyong-sun]]|sortname=Sonu, Kyong-sun|age={{birth date and age2|df=y|2008|8|6|1983|9|28}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=16|pos=DF|name=Kong Hye-ok|sortname=Kong, Hye-ok|age={{birth date and age2|df=y|2008|8|6|1983|7|19}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=17|pos=FW|name=[[Kim Yong-ae]]|sortname=Kim, Yong-ae|age={{birth date and age2|df=y|2008|8|6|1983|3|7}}|caps=|goals=|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs g player|no=18|pos=GK|name=[[Han Hye-yong]]|sortname=Han, Hye-yong|age={{birth date and age2|df=y|2008|8|6|1985|3|4}}|caps=|goals=|club=[[Pyongyang City Sports Club|Pyongyang City]]|clubnat=PRK}}
+{{nat fs end}}<section end=PRK />
+==Group G==
+
+===Japan===
+<section begin=JPN />Head coach: [[Norio Sasaki]]
+
+[[Japan women's national football team|Japan]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883723/squadlist.html |archive-url=https://web.archive.org/web/20120817014529/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883723/squadlist.html |url-status=dead |archive-date=17 August 2012 |title=Japan – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990426.shtml |title=Team profile – Football Women: Japan |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081013035409/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990426.shtml |archive-date=13 October 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Miho Fukumoto]]|sortname=Fukumoto, Miho|age={{birth date and age2|df=y|2008|8|6|1983|10|2}}|caps=39|goals=0|club=[[Okayama Yunogo Belle]]|clubnat=JPN}}
+{{nat fs g player|no=2|pos=DF|name=[[Yukari Kinga]]|sortname=Kinga, Yukari|age={{birth date and age2|df=y|2008|8|6|1984|5|2}}|caps=29|goals=0|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=3|pos=DF|name=[[Hiromi Ikeda]]|sortname=Ikeda, Hiromi|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1975|12|22}}|caps=112|goals=4|club=[[Tasaki Perule F.C.|Tasaki Perule]]|clubnat=JPN}}
+{{nat fs g player|no=4|pos=DF|name=[[Azusa Iwashimizu]]|sortname=Iwashimizu, Azusa|age={{birth date and age2|df=y|2008|8|6|1986|10|14}}|caps=33|goals=5|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=5|pos=MF|name=[[Miyuki Yanagita]]|sortname=Yanagita, Miyuki|age={{birth date and age2|df=y|2008|8|6|1981|4|11}}|caps=86|goals=11|club=[[Urawa Red Diamonds Ladies|Urawa Reds Ladies]]|clubnat=JPN}}
+{{nat fs g player|no=6|pos=MF|name=[[Tomoe Kato]]|sortname=Kato, Tomoe|age={{birth date and age2|df=y|2008|8|6|1978|5|27}}|caps=112|goals=8|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=7|pos=DF|name=[[Kozue Ando]]|sortname=Ando, Kozue|age={{birth date and age2|df=y|2008|8|6|1982|7|9}}|caps=61|goals=10|club=[[Urawa Red Diamonds Ladies|Urawa Reds Ladies]]|clubnat=JPN}}
+{{nat fs g player|no=8|pos=MF|name=[[Aya Miyama]]|sortname=Miyama, Aya|age={{birth date and age2|df=y|2008|8|6|1985|1|28}}|caps=60|goals=18|club=[[Okayama Yunogo Belle]]|clubnat=JPN}}
+{{nat fs g player|no=9|pos=FW|name=[[Eriko Arakawa]]|sortname=Arakawa, Eriko|age={{birth date and age2|df=y|2008|8|6|1979|10|30}}|caps=62|goals=19|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=10|pos=MF|name=[[Homare Sawa]]|sortname=Sawa, Homare|age={{birth date and age2|df=y|2008|8|6|1978|9|6}}|caps=136|goals=68|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=11|pos=FW|name=[[Shinobu Ohno]]|sortname=Ohno, Shinobu|age={{birth date and age2|df=y|2008|8|6|1984|1|23}}|caps=57|goals=22|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=12|pos=FW|name=[[Karina Maruyama]]|sortname=Maruyama, Karina|age={{birth date and age2|df=y|2008|8|6|1983|3|26}}|caps=50|goals=12|club=[[TEPCO Mareeze]]|clubnat=JPN}}
+{{nat fs g player|no=13|pos=MF|name=[[Ayumi Hara]]|sortname=Hara, Ayumi|age={{birth date and age2|df=y|2008|8|6|1979|2|21}}|caps=36|goals=1|club=[[INAC Leonessa]]|clubnat=JPN}}
+{{nat fs g player|no=14|pos=DF|name=[[Kyoko Yano]]|sortname=Yano, Kyoko|age={{birth date and age2|df=y|2008|8|6|1984|6|3}}|caps=44|goals=1|club=[[Urawa Red Diamonds Ladies|Urawa Reds Ladies]]|clubnat=JPN}}
+{{nat fs g player|no=15|pos=MF|name=[[Mizuho Sakaguchi]]|sortname=Sakaguchi, Mizuho|age={{birth date and age2|df=y|2008|8|6|1987|10|15}}|caps=21|goals=14|club=[[Tasaki Perule F.C.|Tasaki Perule]]|clubnat=JPN}}
+{{nat fs g player|no=16|pos=MF|name=[[Rumi Utsugi]]|sortname=Utsugi, Rumi|age={{birth date and age2|df=y|2008|8|6|1988|12|5}}|caps=23|goals=4|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=17|pos=FW|name=[[Yūki Nagasato]]|sortname=Nagasato, Yuki|age={{birth date and age2|df=y|2008|8|6|1987|7|15}}|caps=44|goals=25|club=[[NTV Beleza]]|clubnat=JPN}}
+{{nat fs g player|no=18|pos=GK|name=[[Ayumi Kaihori]]|sortname=Kaihori, Ayumi|age={{birth date and age2|df=y|2008|8|6|1986|9|4}}|caps=2|goals=0|club=[[INAC Leonessa]]|clubnat=JPN}}
+{{nat fs end}}<section end=JPN />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=DF|name=[[Saki Kumagai]]|sortname=Kumagai, Saki|age={{birth date and age2|df=y|2008|8|6|1990|10|17}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=MF|name=[[Aya Sameshima]]|sortname=Sameshima, Aya|age={{birth date and age2|df=y|2008|8|6|1987|6|16}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Michi Goto]]|sortname=Goto, Michi|age={{birth date and age2|df=y|2008|8|6|1990|7|27}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Nozomi Yamago]]|sortname=Yamago, Nozomi|age={{birth date and age2|df=y|2008|8|6|1975|1|16}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===New Zealand===
+<section begin=NZL />Head coach: {{flagicon|GBR}} [[John Herdman]]
+
+[[New Zealand women's national football team|New Zealand]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883725/squadlist.html |archive-url=https://web.archive.org/web/20150610222510/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1883725/squadlist.html |url-status=dead |archive-date=10 June 2015 |title=New Zealand – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990089.shtml |title=Team profile – Football Women: New Zealand |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081012061826/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990089.shtml |archive-date=12 October 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jenny Bindon]]|sortname=Bindon, Jenny|age={{birth date and age2|df=y|2008|8|6|1973|2|25}}|caps=23|goals=0|club=[[Waitakere City F.C.|Waitakere City]]|clubnat=NZL}}
+{{nat fs g player|no=2|pos=DF|name=[[Ria Percival]]|sortname=Percival, Ria|age={{birth date and age2|df=y|2008|8|6|1989|12|7}}|caps=24|goals=2|club=[[F.C. Indiana (W-League)|FC Indiana]]|clubnat=USA}}
+{{nat fs g player|no=3|pos=DF|name=[[Anna Green (footballer)|Anna Green]]|sortname=Green, Anna|age={{birth date and age2|df=y|2008|8|6|1990|8|20}}|caps=8|goals=1|club=[[Three Kings United]]|clubnat=NZL}}
+{{nat fs g player|no=4|pos=MF|name=[[Katie Duncan|Katie Hoyle]]|sortname=Hoyle, Katie|age={{birth date and age2|df=y|2008|8|6|1988|2|1}}|caps=12|goals=0|club=[[Lynn-Avon United]]|clubnat=NZL}}
+{{nat fs g player|no=5|pos=DF|name=[[Abby Erceg]]|sortname=Erceg, Abby|age={{birth date and age2|df=y|2008|8|6|1989|11|20}}|caps=24|goals=2|club=[[Western Springs (soccer)|Western Springs]]|clubnat=NZL}}
+{{nat fs g player|no=6|pos=DF|name=[[Rebecca Smith (footballer)|Rebecca Smith]]|sortname=Smith, Rebecca|age={{birth date and age2|df=y|2008|8|6|1981|6|17}}|caps=17|goals=2|club=[[Sunnanå SK]]|clubnat=SWE}}
+{{nat fs g player|no=7|pos=FW|name=[[Ali Riley]]|sortname=Riley, Ali|age={{birth date and age2|df=y|2008|8|6|1987|10|30}}|caps=19|goals=0|club=[[Stanford Cardinal]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=MF|name=[[Hayley Bowden|Hayley Moorwood]]|sortname=Moorwood, Hayley|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1984|2|13}}|caps=32|goals=3|club=[[Lynn-Avon United]]|clubnat=NZL}}
+{{nat fs g player|no=9|pos=FW|name=[[Amber Hearn]]|sortname=Hearn, Amber|age={{birth date and age2|df=y|2008|8|6|1984|11|28}}|caps=9|goals=1|club=[[Lynn-Avon United]]|clubnat=NZL}}
+{{nat fs g player|no=10|pos=MF|name=[[Emily McColl]]|sortname=Mccoll, Emily|age={{birth date and age2|df=y|2008|8|6|1985|11|1}}|caps=17|goals=0|club=[[Coastal Carolina University]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=MF|name=[[Kirsty Yallop]]|sortname=Yallop, Kirsty|age={{birth date and age2|df=y|2008|8|6|1986|11|4}}|caps=16|goals=5|club=[[Lynn-Avon United]]|clubnat=NZL}}
+{{nat fs g player|no=12|pos=FW|name=[[Merissa Smith]]|sortname=Smith, Merissa|age={{birth date and age2|df=y|2008|8|6|1990|11|11}}|caps=15|goals=1|club=[[Three Kings United]]|clubnat=NZL}}
+{{nat fs g player|no=13|pos=FW|name=[[Rebecca Tegg]]|sortname=Tegg, Rebecca|age={{birth date and age2|df=y|2008|8|6|1985|12|18}}|caps=5|goals=0|club=[[Eastern Suburbs AFC|Eastern Suburbs]]|clubnat=NZL}}
+{{nat fs g player|no=14|pos=DF|name=[[Kristy Hill]]|sortname=Hill, Kristy|age={{birth date and age2|df=y|2008|8|6|1979|7|1}}|caps=2|goals=0|club=[[Three Kings United]]|clubnat=NZL}}
+{{nat fs g player|no=15|pos=FW|name=[[Emma Kete]]|sortname=Kete, Emma|age={{birth date and age2|df=y|2008|8|6|1987|9|1}}|caps=11|goals=2|club=[[Lynn-Avon United]]|clubnat=NZL}}
+{{nat fs g player|no=16|pos=FW|name=[[Renee Leota]]|sortname=Leota, Renee|age={{birth date and age2|df=y|2008|8|6|1990|5|16}}|caps=10|goals=1|club=[[Miramar Rangers]]|clubnat=NZL}}
+{{nat fs g player|no=17|pos=DF|name=[[Marlies Oostdam]]|sortname=Oostdam, Marlies|age={{birth date and age2|df=y|2008|8|6|1977|7|29}}|caps=24|goals=0|club=[[Eastern Suburbs AFC|Eastern Suburbs]]|clubnat=NZL}}
+{{nat fs g player|no=18|pos=GK|name=[[Rachel Howard (footballer)|Rachel Howard]]|sortname=Howard, Rachel|age={{birth date and age2|df=y|2008|8|6|1977|11|30}}|caps=14|goals=0|club=[[TSV Crailsheim]]|clubnat=GER}}
+{{nat fs end}}<section end=NZL />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=MF|name=[[Betsy Hassett]]|sortname=Hassett, Betsy|age={{birth date and age2|df=y|2008|8|6|1990|8|4}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=MF|name=[[Annalie Longo]]|sortname=Longo, Annalie|age={{birth date and age2|df=y|2008|8|6|1991|7|1}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=DF|name=[[Maia Jackman]]|sortname=Jackman, Maia|age={{birth date and age2|df=y|2008|8|6|1975|5|25}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Stephanie Puckrin]]|sortname=Puckrin, Stephanie|age={{birth date and age2|df=y|2008|8|6|1979|8|22}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===Norway===
+<section begin=NOR />Head coach: [[Bjarne Berntsen]]
+
+[[Norway women's national football team|Norway]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882882/squadlist.html |archive-url=https://web.archive.org/web/20160305030342/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882882/squadlist.html |url-status=dead |archive-date=5 March 2016 |title=Norway – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite news |title=Drømmen gikk i oppfyllelse|trans-title=The dream came true |language=no |url=http://www.fotball.no/t2.aspx?p=53172&cat=51835&x=1&a=228434 |work=Norges Fotballforbund |access-date=18 June 2008}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9991084.shtml |title=Team profile – Football Women: Norway |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20080912005214/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9991084.shtml |archive-date=12 September 2008}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Erika Skarbø]]|sortname=Skarbo, Erika|age={{birth date and age2|df=y|2008|8|6|1987|6|12}}|caps=7|goals=0|club=[[Arna-Bjørnar Fotball]]|clubnat=NOR}}
+{{nat fs g player|no=2|pos=DF|name=[[Ane Stangeland Horpestad]]|sortname=Stangeland Horpestad, Ane|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1980|6|2}}|caps=100|goals=5|club=[[Klepp IL]]|clubnat=NOR}}
+{{nat fs g player|no=3|pos=DF|name=[[Gunhild Følstad]]|sortname=Folstad, Gunhild|age={{birth date and age2|df=y|2008|8|6|1981|11|3}}|caps=69|goals=1|club=[[Trondheims-Ørn SK]]|clubnat=NOR}}
+{{nat fs g player|no=4|pos=MF|name=[[Ingvild Stensland]]|sortname=Stensland, Ingvild|age={{birth date and age2|df=y|2008|8|6|1981|8|3}}|caps=68|goals=2|club=[[Kopparbergs/Göteborg FC]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=DF|name=[[Siri Nordby]]|sortname=Nordby, Siri|age={{birth date and age2|df=y|2008|8|6|1978|8|4}}|caps=38|goals=1|club=[[Røa IL]]|clubnat=NOR}}
+{{nat fs g player|no=6|pos=MF|name=[[Marie Knutsen]]|sortname=Knutsen, Marie|age={{birth date and age2|df=y|2008|8|6|1982|8|31}}|caps=48|goals=5|club=[[Røa IL]]|clubnat=NOR}}
+{{nat fs g player|no=7|pos=DF|name=[[Trine Rønning]]|sortname=Ronning, Trine|age={{birth date and age2|df=y|2008|8|6|1982|6|14}}|caps=83|goals=15|club=[[Kolbotn Fotball]]|clubnat=NOR}}
+{{nat fs g player|no=8|pos=FW|name=[[Solveig Gulbrandsen]]|sortname=Gulbrandsen, Solveig|age={{birth date and age2|df=y|2008|8|6|1981|1|12}}|caps=121|goals=39|club=[[Kolbotn Fotball]]|clubnat=NOR}}
+{{nat fs g player|no=9|pos=FW|name=[[Isabell Herlovsen]]|sortname=Herlovsen, Isabell|age={{birth date and age2|df=y|2008|8|6|1988|6|23}}|caps=35|goals=5|club=[[Kolbotn Fotball]]|clubnat=NOR}}
+{{nat fs g player|no=10|pos=FW|name=[[Melissa Wiik]]|sortname=Wiik, Melissa|age={{birth date and age2|df=y|2008|8|6|1985|2|7}}|caps=30|goals=12|club=[[Asker SK]]|clubnat=NOR}}
+{{nat fs g player|no=11|pos=FW|name=[[Leni Larsen Kaurin]]|sortname=Larsen Kaurin, Leni|age={{birth date and age2|df=y|2008|8|6|1981|3|21}}|caps=44|goals=3|club=[[1. FFC Turbine Potsdam]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=DF|name=[[Marit Fiane Grødum|Marit Fiane Christensen]]|sortname=Christensen, Marit Fiane|age={{birth date and age2|df=y|2008|8|6|1980|12|11}}|caps=58|goals=7|club=[[Røa IL]]|clubnat=NOR}}
+{{nat fs g player|no=13|pos=MF|name=[[Lene Storløkken]]|sortname=Storlokken, Lene|age={{birth date and age2|df=y|2008|8|6|1981|6|20}}|caps=34|goals=5|club=[[Team Strømmen FK]]|clubnat=NOR}}
+{{nat fs g player|no=14|pos=FW|name=[[Guro Knutsen Mienna|Guro Knutsen]]|sortname=Knutsen, Guro|age={{birth date and age2|df=y|2008|8|6|1985|1|10}}|caps=8|goals=1|club=[[Røa IL]]|clubnat=NOR}}
+{{nat fs g player|no=15|pos=DF|name=[[Marita Skammelsrud Lund]]|sortname=Lund, Marita Skammelsrud|age={{birth date and age2|df=y|2008|8|6|1989|1|29}}|caps=7|goals=0|club=[[Team Strømmen FK]]|clubnat=NOR}}
+{{nat fs g player|no=16|pos=FW|name=[[Elise Thorsnes]]|sortname=Thorsnes, Elise|age={{birth date and age2|df=y|2008|8|6|1988|8|14}}|caps=16|goals=1|club=[[Arna-Bjørnar Fotball]]|clubnat=NOR}}
+{{nat fs g player|no=17|pos=FW|name=[[Lene Mykjåland]]|sortname=Mykjaland, Lene|age={{birth date and age2|df=y|2008|8|6|1987|2|20}}|caps=18|goals=5|club=[[Røa IL]]|clubnat=NOR}}
+{{nat fs g player|no=18|pos=GK|name=[[Christine Colombo Nilsen]]|sortname=Nilsen, Christine Colombo|age={{birth date and age2|df=y|2008|8|6|1982|4|30}}|caps=5|goals=0|club=[[Kolbotn Fotball]]|clubnat=NOR}}
+{{nat fs end}}<section end=NOR />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19|pos=DF|name=[[Runa Vikestad]]|sortname=Vikestad, Runa|age={{birth date and age2|df=y|2008|8|6|1984|8|13}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=20|pos=MF|name=[[Anneli Giske]]|sortname=Giske, Anneli|age={{birth date and age2|df=y|2008|8|6|1985|7|25}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=21|pos=FW|name=[[Kristin Lie]]|sortname=Lie, Kristin|age={{birth date and age2|df=y|2008|8|6|1978|12|13}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Ingrid Hjelmseth]]|sortname=Hjelmseth, Ingrid|age={{birth date and age2|df=y|2008|8|6|1980|4|10}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+===United States===
+<section begin=USA />Head coach: {{flagicon|SWE}} [[Pia Sundhage]]
+
+The [[United States women's national soccer team|United States]] named a squad of 18 players and 4 alternates for the tournament.<ref>{{cite web |url=https://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882884/squadlist.html |archive-url=https://web.archive.org/web/20120817061714/http://www.fifa.com/tournaments/archive/womensolympic/beijing2008/teams/team=1882884/squadlist.html |url-status=dead |archive-date=17 August 2012 |title=USA – Squad List |website=FIFA.com |publisher=Fédération Internationale de Football Association |access-date=26 January 2020}}</ref><ref>{{cite web |url=http://www.2008.nbcolympics.com/teamusa/meettheteam/newsid=118409.html |title=Team USA Olympic Roster – Women's Soccer |access-date=7 October 2012 |publisher=NBC Olympics |archive-date=3 January 2014 |archive-url=https://web.archive.org/web/20140103203935/http://www.2008.nbcolympics.com/teamusa/meettheteam/newsid=118409.html |url-status=dead }}</ref><ref>{{cite news |url=http://www.ussoccer.com/News/Womens-National-Team/2008/06/Pia-Sundhage-Names-2008-U-S-Olympic-Womens-Soccer-Team.aspx |title=Pia Sundhage Names 2008 U.S. Olympic Women's Soccer Team |website=USSoccer.com |publisher=[[United States Soccer Federation]] |date=23 June 2008 |access-date=29 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20120425075714/http://www.ussoccer.com/News/Womens-National-Team/2008/06/Pia-Sundhage-Names-2008-U-S-Olympic-Womens-Soccer-Team.aspx |archive-date=25 April 2012}}</ref><ref>{{cite web |url=http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990090.shtml |title=Team profile – Football Women: United States |work=[[Beijing Organizing Committee for the Olympic Games|BOCOG]] |year=2008 |access-date=31 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20081026031620/http://results.beijing2008.cn/WRM/ENG/BIO/Team/9990090.shtml |archive-date=26 October 2008}}</ref> Prior to the tournament, [[Abby Wambach]] withdrew injured and was replaced on 17 July 2008 by [[Lauren Holiday|Lauren Cheney]], who was initially selected as an alternate player. [[India Trotter]] subsequently filled the vacant alternate spot.<ref>{{cite news |url=http://www.ussoccer.com/News/Womens-National-Team/2008/07/Lauren-Cheney-Replaces-Abby-Wambach-On-U-S-Womens-Olympic-Soccer-Roster.aspx |title=Lauren Cheney Replaces Abby Wambach on U.S. Women's Olympic Soccer Roster |website=USSoccer.com |publisher=[[United States Soccer Federation]] |date=17 July 2008 |access-date=29 January 2020 |url-status=dead |archive-url=https://web.archive.org/web/20120309101227/http://www.ussoccer.com/News/Womens-National-Team/2008/07/Lauren-Cheney-Replaces-Abby-Wambach-On-U-S-Womens-Olympic-Soccer-Roster.aspx |archive-date=9 March 2012}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hope Solo]]|sortname=Solo, Hope|age={{birth date and age2|df=y|2008|8|6|1981|7|30}}|caps=64|goals=0|club=[[University of Washington]]|clubnat=USA}}
+{{nat fs g player|no=2|pos=DF|name=[[Heather Mitts]]|sortname=Mitts, Heather|age={{birth date and age2|df=y|2008|8|6|1978|6|9}}|caps=78|goals=2|club=[[University of Florida]]|clubnat=USA}}
+{{nat fs g player|no=3|pos=DF|name=[[Christie Pearce|Christie Rampone]]|sortname=Rampone, Christie|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2008|8|6|1975|6|24}}|caps=193|goals=4|club=[[Monmouth University]]|clubnat=USA}}
+{{nat fs g player|no=4|pos=DF|name=[[Rachel Van Hollebeke|Rachel Buehler]]|sortname=Buehler, Rachel|age={{birth date and age2|df=y|2008|8|6|1985|8|26}}|caps=11|goals=0|club=[[Stanford University]]|clubnat=USA}}
+{{nat fs g player|no=5|pos=MF|name=[[Lindsay Tarpley]]|sortname=Tarpley, Lindsay|age={{birth date and age2|df=y|2008|8|6|1983|9|22}}|caps=96|goals=26|club=[[University of North Carolina at Chapel Hill|University of North Carolina]]|clubnat=USA}}
+{{nat fs g player|no=6|pos=FW|name=[[Natasha Kai]]|sortname=Kai, Natasha|age={{birth date and age2|df=y|2008|8|6|1983|5|22}}|caps=48|goals=19|club=[[University of Hawaiʻi at Mānoa|University of Hawaiʻi]]|clubnat=USA}}
+{{nat fs g player|no=7|pos=MF|name=[[Shannon Boxx]]|sortname=Boxx, Shannon|age={{birth date and age2|df=y|2008|8|6|1977|6|29}}|caps=92|goals=18|club=[[University of Notre Dame]]|clubnat=USA}}
+{{nat fs g player|no=8|pos=FW|name=[[Amy Rodriguez]]|sortname=Rodriguez, Amy|age={{birth date and age2|df=y|2008|8|6|1987|2|17}}|caps=19|goals=4|club=[[University of Southern California]]|clubnat=USA}}
+{{nat fs g player|no=9|pos=MF|name=[[Heather O'Reilly]]|sortname=Oreilly, Heather|age={{birth date and age2|df=y|2008|8|6|1985|1|2}}|caps=90|goals=19|club=[[University of North Carolina at Chapel Hill|University of North Carolina]]|clubnat=USA}}
+{{nat fs g player|no=10|pos=MF|name=[[Aly Wagner]]|sortname=Wagner, Aly|age={{birth date and age2|df=y|2008|8|6|1980|8|10}}|caps=121|goals=21|club=[[Santa Clara University]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=MF|name=[[Carli Lloyd]]|sortname=Lloyd, Carli|age={{birth date and age2|df=y|2008|8|6|1982|7|16}}|caps=62|goals=15|club=[[Rutgers University]]|clubnat=USA}}
+{{nat fs g player|no=12|pos=FW|name=[[Lauren Holiday|Lauren Cheney]]|sortname=Cheney, Lauren|age={{birth date and age2|df=y|2008|8|6|1987|9|30}}|caps=12|goals=0|club=[[University of California, Los Angeles|University of California]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=MF|name=[[Tobin Heath]]|sortname=Heath, Tobin|age={{birth date and age2|df=y|2008|8|6|1988|5|29}}|caps=12|goals=2|club=[[University of North Carolina at Chapel Hill|University of North Carolina]]|clubnat=USA}}
+{{nat fs g player|no=14|pos=DF|name=[[Stephanie Cox]]|sortname=Cox, Stephanie|age={{birth date and age2|df=y|2008|8|6|1986|4|3}}|caps=42|goals=0|club=[[University of Portland]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=DF|name=[[Kate Markgraf]]|sortname=Markgraf, Kate|age={{birth date and age2|df=y|2008|8|6|1976|8|23}}|caps=181|goals=0|club=[[University of Notre Dame]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=MF|name=[[Angela Hucles]]|sortname=Hucles, Angela|age={{birth date and age2|df=y|2008|8|6|1978|7|5}}|caps=84|goals=7|club=[[University of Virginia]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=DF|name=[[Lori Chalupny]]|sortname=Chalupny, Lori|age={{birth date and age2|df=y|2008|8|6|1984|1|29}}|caps=70|goals=6|club=[[University of North Carolina at Chapel Hill|University of North Carolina]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=GK|name=[[Nicole Barnhart]]|sortname=Barnhart, Nicole|age={{birth date and age2|df=y|2008|8|6|1981|10|10}}|caps=9|goals=0|club=[[Stanford University]]|clubnat=USA}}
+{{nat fs end}}<section end=USA />
+
+{{nat fs g start|caption=Unenrolled alternate players}}
+{{nat fs g player|no=19–21|pos=DF|name=[[Ali Krieger]]|sortname=Krieger, Ali|age={{birth date and age2|df=y|2008|8|6|1984|7|28}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=19–21|pos=DF|name=[[India Trotter]]|sortname=Trotter, India|age={{birth date and age2|df=y|2008|8|6|1985|3|10}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=19–21|pos=MF|name=[[Kacey White]]|sortname=White, Kacey|age={{birth date and age2|df=y|2008|8|6|1984|4|27}}|caps=|goals=|club=|clubnat=}}
+{{nat fs g player|no=22|pos=GK|name=[[Briana Scurry]]|sortname=Scurry, Briana|age={{birth date and age2|df=y|2008|8|6|1971|9|7}}|caps=|goals=|club=|clubnat=}}
+{{nat fs end}}
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.fifa.com/tournaments/womens/womensolympic/beijing2008/match-center Olympic Football Tournaments Beijing 2008 – Women], FIFA.com
+
+{{Football at the Summer Olympics}}
+
+[[Category:Women's football at the 2008 Summer Olympics|Squads]]
+[[Category:Olympic Games women's football squads|2008]]
+{{DEFAULTSORT:Football at the 2008 Summer Olympics - Women's team squads}}

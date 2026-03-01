@@ -1,0 +1,691 @@
+{{Use Australian English|date=February 2026}}
+{{Use dmy dates|date=February 2026}}
+{{infobox country at games
+| NOC = AUS
+| NOCname = [[Australian Olympic Committee]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.olympics.com.au }}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 14
+| gold = 191
+| silver = 201
+| bronze = 233
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Australia|competition=Summer Olympics|begin_year=|end_year= }}
+| winterappearances = {{Team appearances list|team=Australia|competition=Winter Olympics|begin_year=|end_year= }}
+| seealso = [[Australia at the 1906 Intercalated Games|1906]] Intercalated Games<br>{{flagIOC|ANZ}} (1908–1912)
+}}[[Australia]] has sent athletes to every [[Summer Olympic Games]], as well as every [[Winter Olympic Games|Winter Olympics]] except [[1924 Winter Olympics|1924]]–[[1932 Winter Olympics|32]] and [[1948 Winter Olympics|1948]]. In 1908 and 1912, Australia competed with [[New Zealand at the Olympics|New Zealand]] under the name [[Australasia at the Olympics|Australasia]].
+
+==History==
+
+=== Beginnings (1894–1904) ===
+Australia's inclusion in the Olympic Games began when New Zealander [[Leonard Cuff]], an athletics administrator, organised with both [[Baron Pierre de Coubertin]] and head of the English Amateur Athletics Federation [[Charles Herbert]], for [[Australasia]] to be represented at the first [[International Olympic Committee]] meetings in 1894.<ref name="100 years of the AOC" /> While it was initially thought that no Australian (or New Zealand) athlete would be able to compete at the [[1896 Summer Olympics]], [[Edwin Flack]], an Australian accountant and amateur athlete working in London, was able to obtain leave from work and travelled to [[Athens]], where he won gold in the [[Athletics at the 1896 Summer Olympics – Men's 800 metres|800]] and [[Athletics at the 1896 Summer Olympics – Men's 1500 metres|1500 metres]], as well as a bronze in the men's doubles tennis, while also participated in the marathon and led the race until withdrawing due to exhaustion.<ref>{{Cite web |last= |first= |title=Australia's first Olympian |url=https://www.nma.gov.au/defining-moments/resources/edwin-flack-first-olympian |access-date=9 August 2024 |website=National Museum of Australia |language=en}}</ref><ref name=":4" /> With the [[Australian Olympic Committee]] not yet founded, Flack was registered to compete by the London Athletic Club, however competed in his local Melbourne running club uniform.<ref>{{Cite web |last=Gordon |first=Harry |title=Edwin Flack |url=https://www.olympics.com.au/olympians/edwin-flack/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref><ref name=":23">{{Cite web |last=Staff |first=A. G. |date=2024-04-16 |title=Defining Moments in Australian History: Australia’s first Olympian |url=https://www.australiangeographic.com.au/history-culture/2024/04/australias-first-olympian/ |access-date=2026-02-28 |website=Australian Geographic |language=en-US}}</ref> Flack would go onto become a member of the Australian Olympic Committee.<ref name=":23" /> 
+
+The next Olympic Games in [[1900 Summer Olympics|1900]], would have three athletes represent Australia in Paris, with two of these athletes winning medals. [[Frederick Lane]] would win Australia's first medals in swimming—gold in the 200m freestyle, and bronze in the 200m obstacle race.<ref name="100 years of the AOC" /> While [[Stan Rowley]] won three bronze medals in the athletics, additionally helping the British team win gold in the 5000m team race.<ref name="100 years of the AOC" /> This would be the final Olympics that Australia would compete under the British flag, with the country's foundation occurring six months after the Olympics.
+
+=== The Australasian team (1908–1912) ===
+{{See also|Australasia at the Olympics}}
+
+Australia and New Zealand were represented by Australasia, at the [[1908 Summer Olympics|1908]] and [[1912 Summer Olympics|1912]] games due to the two countries sharing an Olympic committee.<ref name="100 years of the AOC">{{cite web|url=https://www.olympics.com.au/100-years-of-the-aoc/|title=100 years of the AOC |access-date=4 August 2024 }}</ref> The [[1908 Summer Olympics]] would see the debut of future-chairman of the Melbourne Olympic Games Organising Committee [[Frank Beaurepaire]], who won a silver and a bronze in swimming.<ref name="100 years of the AOC" /><ref name=":24">{{Cite web |title=London 1908 |url=https://www.olympics.com.au/games/london-1908/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> The only gold medal won by the Australasian team at these Olympics was by the [[Australia national rugby union team|Australian national rugby union team]], who were the only other team to compete against the British, winning 32-3.<ref name=":24" /> The next Summer Olympics in [[1912 Summer Olympics|1912]], saw 22 athletes compete for the team with all their medals won in the swimming.<ref name=":25">{{Cite web |title=Stockholm 1912 |url=https://www.olympics.com.au/games/stockholm-1912/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> The only two female athletes sent to compete were [[Fanny Durack]] and [[Mina Wylie]] in the swimming, who became the first females to win medals in swimming at an Olympic Games, achieving gold and silver respectively in the 100m freestyle.<ref name=":25" /> While the other gold medal won by the Australasian team was the men's 4x200m freestyle relay, featuring New Zealander [[Malcolm Champion]] alongside Australian's [[Leslie Boardman]], [[Harold Hardwick]] and [[Cecil Healy]].<ref name=":25" /> Both Australia and New Zealand were due to compete as Australasia again in [[1916 Summer Olympics|1916]], only for those Olympics to be cancelled due to [[World War I]].<ref name="100 years of the AOC" />
+
+Despite the successes the joint team had, both countries had multiple disagreements throughout its tenure competing as one, with New Zealand taking steps to separate from the Australasian team in 1911.<ref name="100 years of the AOC" /> Both countries would be forced to form a joint Olympic committee in 1914 under an IOC rule to standardise athlete selection for all competing nations, only for New Zealand representatives to leave the meeting before a vote for the presidency was made.<ref name="100 years of the AOC" /> When World War I broke out, these discussions for a split were put on hold until it's conclusion in 1918, with Australian representative [[Richard Coombes]] meeting the IOC in November that year to allow both nations to compete separately, which was granted by the IOC.<ref name="100 years of the AOC" /> 
+
+=== Split from New Zealand and founding the Australian Olympic Council (1920–1936) ===
+The Australian Olympic Council was officially established on April 29th, 1920, after the IOC ruling allowing two separate teams for Australia and New Zealand, thus meaning that the Summer Olympics to be held in [[Antwerp]] that [[1920 Summer Olympics|same year]] would be Australia's first Olympic competition as their own country.<ref name="100 years of the AOC" /> The independent Australian team would win two silvers and one bronze; including it's first medal in the race walking, a silver won by [[George Parker (race walker)|George Parker]].<ref name=":29">{{Cite web |title=Antwerp 1920 |url=https://www.olympics.com.au/games/antwerp-1920/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> Thirteen athletes would be sent by the newly installed council, with only one female athlete in the team.<ref name=":29" />
+In 1923, the Australian Olympic Council changed its name to the Australian Olympic Federation—known as the AOF—as it prepared to send a new team to the next Olympics held in Paris.<ref name="100 years of the AOC" /> Only sending athletes to compete in swimming, diving and athletics, these Summer Olympics saw three gold medals won, including swimmer [[Boy Charlton]] in the men's 1500m, diver [[Dick Eve]], and [[Nick Winter]] in the men's triple jump.<ref name=":26">{{Cite web |title=Paris 1924 |url=https://www.olympics.com.au/games/paris-1924/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> [[Frank Beaurepaire]] would become the first Australian to medal in three different Olympic Games, with his bronze medal in the 1500m freestyle.<ref name=":26" />[[File:The Australian Olympic Team at the Olympic Stadium, Los Angeles, 1932 - photographer unknown.jpg|thumb|right|300px|Australian Olympic athletes in [[1932 Summer Olympics|1932]] wearing the traditional uniform of a dark green blazer trimmed with yellow, still in use at the [[2012 London Olympics|London 2012]] opening ceremony.<ref>{{Cite web |url=http://corporate.olympics.com.au/news/athletes-thrilled-with-opening-ceremony-uniform |title=2012 Australian uniform |access-date=2016-08-27 |archive-date=2017-07-29 |archive-url=https://web.archive.org/web/20170729095014/http://corporate.olympics.com.au/news/athletes-thrilled-with-opening-ceremony-uniform |url-status=live }}</ref>]]
+
+Nineteen athletes were sent by the AOF to [[Amsterdam]] in [[1928 Summer Olympics|1928]], winning four medals total, including a gold medal by rower [[Bobby Pearce (rower)|Bobby Pearce]], two silver medals won by [[Boy Charlton|Charlton]] in the swimming event, and cyclist [[Dunc Gray]] achieving bronze.<ref>{{Cite web |title=Amsterdam 1928 |url=https://www.olympics.com.au/games/amsterdam-1928/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> Four years later, a team of twelve athletes were sent to [[Los Angeles]] for the [[1932 Summer Olympics]], with the Australian team achieving three gold medals, all in different sports–Gray in cycling, Pearce in rowing and [[Clare Dennis]] in swimming.<ref name=":27">{{Cite web |title=Los Angeles 1932 |url=https://www.olympics.com.au/games/los-angeles-1932/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> The majority of the team sent were swimmers, with representatives also participating in athletics and wrestling.<ref name=":27" /> 
+
+While Australia has focused largely on the Summer Olympics, Australia sent its first representative to the Winter Olympics in [[1936 Winter Olympics|1936]], with [[Kenneth Kennedy (speed skater)|Ken Kennedy]] named the first Australian Winter Olympian.<ref name=":28">{{Cite web |title=Garmisch 1936 |url=https://www.olympics.com.au/games/garmisch-1936/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> Kennedy competed in the [[Speed skating at the 1936 Winter Olympics|Speed skating]] in all four events, with a best finish of 29th in the [[Speed skating at the 1936 Winter Olympics – Men's 500 metres|500 metres]].<ref name=":28" /> In the final Olympics before the outbreak of [[World War II]], Australia had its worst Summer Olympic performance in history in [[1936 Summer Olympics|1936]], winning only one bronze medal, [[Jack Metcalfe]] in the men's triple jump.<ref name="100 years of the AOC" /><ref>{{Cite web |title=Berlin 1936 |url=https://www.olympics.com.au/games/berlin-1936/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> 
+
+=== Winning the bid and hosting the Olympics (1946–1956) ===
+When World War II came to an end in 1946, the Victorian Olympic Council began discussions of bidding to host the [[1956 Summer Olympics]] in [[Melbourne]]; with the AOF supporting the bid and notified the IOC of its interest in July the same year.<ref name="100 years of the AOC" /> The AOF would travel to [[London]] for the [[1948 Summer Olympics]] to observe how the Olympics were run, as well as meet with members of the IOC to sway their minds to vote for Melbourne when the ballot commenced.<ref name="100 years of the AOC" />
+
+April 29th, 1949, the ballot for the 1956 Summer Olympics commenced, with Melbourne and [[Buenos Aires]] named the final two bids in contention, with Melbourne victorious by one vote, making it the first Olympic Games in history to be held in a Southern Hemisphere country.<ref name="100 years of the AOC" />
+
+=== Continued success post-Melbourne Olympics (1960–1972) ===
+After the Australian team's success at a home Olympics, they continued to maintain the momentum of success into the next decade. The first Summer Olympics after Melbourne were held in [[1960 Summer Olympics|Rome]], with three members of the Australian swimming team defending their gold medals in 1960.<ref name="100 years of the AOC" /> 
+
+In a meeting after the Olympics in Rome, the AOF approved allowing coaches and doctors to be part of the staff for the [[1964 Summer Olympics]] in Tokyo.<ref name="100 years of the AOC" /> 
+
+Controversy over the size of the Australian team being 'too large,' led to the AOF shrinking the size of the team to 135 competitive athletes for the [[1968 Summer Olympics]], with the IOC supporting the AOF in the decision after a complaint from the Australian Swimming Union for not allowing their men's water polo team to enter.<ref name="100 years of the AOC" /><ref name=":15" /> The team would win five gold, seven silver and five bronze medals; with swimmer [[Michael Wenden]] winning two gold, one silver and one bronze; with other medals won in swimming, as well as equestrian, hockey, rowing and athletics.<ref name=":15" /> The most famous of these medals being [[Peter Norman]]'s silver in the [[Athletics at the 1968 Summer Olympics – Men's 200 metres|men's 200m]], standing on the podium alongside [[Tommie Smith]] and [[John Carlos]] when they performed the  [[1968 Olympics Black Power salute|Black Power salute]], with Norman wearing a human-rights badge in solidarity.<ref name=":30" /> The treatment of Norman in the aftermath of the Black Power salute was later criticised, which included rumours of him being excluded of the 1972 Summer Olympic athletic team despite achieving the qualifying time and was given what was described as an "unofficial sanction" conducted the AOF.<ref name=":32" /> The existence of a sanction was denied by the AOF at the time, as well as the Australian Olympic Committee as recently as 2012.<ref name=":30" /><ref name=":32">{{Cite web |last=Montague |first=James |date=2012-04-24 |title=The third man: The forgotten Black Power hero |url=https://www.cnn.com/2012/04/24/sport/olympics-norman-black-power |access-date=2026-02-28 |website=CNN |language=en}}</ref> An apology would be made to Norman in Australian parliament in 2012 for the conduct of Australian Olympic officials after the event and the Australian Olympic Committee would later grant Norman the Order of Merit posthumously in 2018.<ref>{{Cite web |last=Webster |first=Andrew |date=2018-10-20 |title=Finally, the real story about Peter Norman and the black power salute |url=https://www.smh.com.au/sport/finally-the-real-story-about-peter-norman-and-the-black-power-salute-20181018-p50abm.html |access-date=2026-02-28 |website=The Sydney Morning Herald |language=en}}</ref>
+
+The Australian team's performance at the [[1972 Summer Olympics]] was bolstered by the performance of swimmer [[Shane Gould]], who had won five of the seventeen medals won, achieving three gold, one silver and one bronze.<ref name="100 years of the AOC" /><ref name=":31">{{Cite web |title=Munich 1972 |url=https://www.olympics.com.au/games/munich-1972/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> Australia's other five gold medals in Munich also came from the swimming squad—who won three more gold—and the sailing team.<ref name="100 years of the AOC" /><ref name=":31" /> These Olympics would also witness the most successful Olympics for sprinter [[Raelene Boyle]] would win two silver medals in the women's 100m and 200m, these medals being the only medals won by Australia in the athletics event.<ref name=":31" /> 
+
+=== A halt in success and the founding the Australian Institute of Sport (1973–1988) ===
+While Australia had frequently overachieved at the Summer Olympic Games, this came to an end at the [[1976 Olympic Games]]. After winning at least five gold medals and seventeen total medals at every Olympics since 1956, Australia won zero gold medals and only five medals in total. This was the first time Australia had not won gold since the [[1936 Summer Olympics]]. It caused an uproar in Australia, and the government-funded [[Australian Institute of Sport]] was subsequently founded in 1981. Since the formation of the AIS, Australia has finished with fewer than 20 medals only once, in [[1988 Summer Olympics|1988]], and has won at least three gold medals at every Summer Olympics since, holding an average of 11 gold medals per Games.<ref>{{cite web|url=https://www.topendsports.com/world/countries/australia/events/olympics/medals.htm|title=Australia's Olympic Medal Tally - Summer Games |access-date=4 August 2024 }}</ref><ref>{{cite web|url=https://www.abc.net.au/news/2021-01-25/ais-40-anniversary-sparks-fears-glory-days-of-institute-in-past/13082604|title=Sporting greats share fears for Australia's Olympic standing as Australian Institute of Sport marks 40 years |access-date=4 August 2024 }}</ref>
+
+=== Successfully bidding for the Sydney Olympics and the developing of the Winter team (1989–present) ===
+[[File:Australian Olympic Team Uniforms for Rio 2016.JPG|thumb|300px|Australian Olympic Team Uniforms unveiled for Rio 2016]]It would take until [[1952 Winter Olympics|1952]] for the next representatives, starting an unbroken attendance streak. Despite this long history, it took until the [[1994 Winter Olympics]] to win its first medal: Bronze in the [[Short-track speed skating at the 1994 Winter Olympics – Men's 5000 metre relay|Men's 5000 metre relay]]. After [[Zali Steggall]] won Australia's first individual medal in the [[Alpine skiing at the 1998 Winter Olympics – Women's slalom|Women's Slalom]] at the [[1998 Winter Olympics]], the Olympic Winter Institute of Australia was founded, leading to Australia's first Winter Olympic gold medals at the [[2002 Winter Olympics]] with [[Steve Bradbury]] winning the [[Short track speed skating at the 2002 Winter Olympics – Men's 1000 metres|Men's 1000 metres]] and [[Alisa Camplin]] winning the [[Freestyle skiing at the 2002 Winter Olympics – Women's aerials|Women's aerials]].<ref name="100 years of the AOC" /> This investment in winter sports was expanded past 2002, with a strong [[Mogul skiing|Moguls]] and Aerials program growing post the [[2006 Winter Olympics]] where [[Dale Begg-Smith]] won gold in the [[Freestyle skiing at the 2006 Winter Olympics – Men's moguls|Moguls]]. Leading to a dedicated freestyle skiing facility being built and the majority of Australia's medals coming in the two disciplines.<ref>{{cite news |last1=Smale |first1=Simon |title=Australia leads the world in moguls skiing. This is why |url=https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256 |access-date=17 Feb 2026 |work=[[Australian Broadcasting Corporation]] |date=17 Feb 2026}}</ref>
+
+== Olympic bids and hosted Games ==
+=== Hosted Games ===
+Australia has hosted the Olympic Games twice and will host again in 2032:
+{| class="wikitable"
+! Games !! Host city !! Dates !! Nations !! Participants !! Events 
+|-
+| [[1956 Summer Olympics]] || [[Melbourne]], [[Victoria (Australia)|Victoria]] || 22 November–8 December ||align=center| 72 ||align=center| 3,314 ||align=center| 151
+|-
+| [[2000 Summer Olympics]] || [[Sydney]], [[New South Wales]] || 15 September–1 October ||align=center| 199 ||align=center| 10,651 ||align=center| 300
+|-
+| [[2032 Summer Olympics]] || |[[Brisbane]], [[Queensland]] || |23 July–8 August ||align=center| TBD ||align=center| TBD ||align=center| TBD
+|}
+
+=== Unsuccessful bids ===
+Australia has unsuccessfully bid for the Games on three other occasions:<ref name="100 years of the AOC"/> 
+{| class="wikitable"
+! Games !! Proposed host city !! Awarded to 
+|-
+| [[1988 Summer Olympics]] || [[Melbourne]], [[Victoria (state)|Victoria]] || [[Seoul]], [[South Korea]] 
+|-
+| [[1992 Summer Olympics]] || [[Brisbane]], [[Queensland]] || [[Barcelona]], [[Spain]] 
+|-
+| [[1996 Summer Olympics]] || [[Melbourne]], [[Victoria (Australia)|Victoria]] || [[Atlanta]], United States 
+|}
+
+== Overview of Olympic participation ==
+{{See also|All-time Olympic Games medal table}}
+
+=== Timeline of participation ===
+
+{| class="wikitable" style="text-align:center; font-size:90%;"
+|-
+! Date !! colspan=2| Team
+|-
+| 1896-1900 || style= "background:moccasin"| {{FlagIOC|AUS|1896 Summer}} || style="background:darkgray"|
+|-
+| 1904 || style= “background:moccasin” | {{FlagIOC|AUS}} || style="background:darkgray"|
+|-
+| 1908–1912 || colspan=2| {{FlagIOC|ANZ}}
+|-
+| 1920– ||  style= "background:moccasin"| {{FlagIOC|AUS}} || {{FlagIOC|NZL}} 
+|}
+
+{{col-flex}}
+
+=== Australia at the Summer Olympics ===
+{{legend2||Host country|border= 3px solid purple}}
+{{Medals table country
+| country = Australia
+| season = summer
+| show_games_flag = yes
+| total_col_bold = yes
+| total_athletes = yes
+
+| row1_games = {{GamesName|SOG|1896}} | row1_athletes = 1 | row1_gold = 2 | row1_silver = 0 | row1_bronze = 0 | row1_rank = 8
+| row2_games = {{GamesName|SOG|1900}} | row2_athletes = 3 | row2_gold = 2 | row2_silver = 0 | row2_bronze = 3 | row2_rank = 9
+| row3_games = {{GamesName|SOG|1904}} | row3_athletes = 3 | row3_gold = 0 | row3_silver = 3 | row3_bronze = 1 | row3_rank = 11
+| row4_games = {{GamesName|SOG|1908}} | row4_participation = ''as part of {{FlagIOC|ANZ}}''
+| row5_games = {{GamesName|SOG|1912}} | row5_participation = ''as part of {{FlagIOC|ANZ}}''
+| row6_games = {{GamesName|SOG|1920}} | row6_athletes = 13 | row6_gold = 0 | row6_silver = 2 | row6_bronze = 1 | row6_rank = 16
+| row7_games = {{GamesName|SOG|1924}} | row7_athletes = 37 | row7_gold = 3 | row7_silver = 1 | row7_bronze = 2 | row7_rank = 11
+| row8_games = {{GamesName|SOG|1928}} | row8_athletes = 18 | row8_gold = 1 | row8_silver = 2 | row8_bronze = 1 | row8_rank = 19
+| row9_games = {{GamesName|SOG|1932}} | row9_athletes = 12 | row9_gold = 3 | row9_silver = 1 | row9_bronze = 1 | row9_rank = 11
+| row10_games = {{GamesName|SOG|1936}} | row10_athletes = 33 | row10_gold = 0 | row10_silver = 0 | row10_bronze = 1 | row10_rank = 30
+| row11_games = {{GamesName|SOG|1948}} | row11_athletes = 77 | row11_gold = 2 | row11_silver = 6 | row11_bronze = 5 | row11_rank = 14
+| row12_games = {{GamesName|SOG|1952}} | row12_athletes = 81 | row12_gold = 6 | row12_silver = 2 | row12_bronze = 3 | row12_rank = 9
+| row13_games = {{GamesName|SOG|1956}} | row13_athletes = 314 | row13_gold = 13 | row13_silver = 8 | row13_bronze = 14 | row13_rank = 3 | row13_host = yes
+| row14_games = {{GamesName|SOG|1960}} | row14_athletes = 188 | row14_gold = 8 | row14_silver = 8 | row14_bronze = 6 | row14_rank = 5
+| row15_games = {{GamesName|SOG|1964}} | row15_athletes = 234 | row15_gold = 6 | row15_silver = 2 | row15_bronze = 10 | row15_rank = 8
+| row16_games = {{GamesName|SOG|1968}} | row16_athletes = 175 | row16_gold = 5 | row16_silver = 7 | row16_bronze = 5 | row16_rank = 9
+| row17_games = {{GamesName|SOG|1972}} | row17_athletes = 173 | row17_gold = 8 | row17_silver = 7 | row17_bronze = 2 | row17_rank = 6
+| row18_games = {{GamesName|SOG|1976}} | row18_athletes = 184 | row18_gold = 0 | row18_silver = 1 | row18_bronze = 4 | row18_rank = 32
+| row19_games = {{GamesName|SOG|1980}} | row19_athletes = 123 | row19_gold = 2 | row19_silver = 2 | row19_bronze = 5 | row19_rank = 15
+| row20_games = {{GamesName|SOG|1984}} | row20_athletes = 240 | row20_gold = 4 | row20_silver = 8 | row20_bronze = 12 | row20_rank = 14
+| row21_games = {{GamesName|SOG|1988}} | row21_athletes = 270 | row21_gold = 3 | row21_silver = 6 | row21_bronze = 5 | row21_rank = 15
+| row22_games = {{GamesName|SOG|1992}} | row22_athletes = 290 | row22_gold = 7 | row22_silver = 9 | row22_bronze = 11 | row22_rank = 10
+| row23_games = {{GamesName|SOG|1996}} | row23_athletes = 424 | row23_gold = 9 | row23_silver = 9 | row23_bronze = 23 | row23_rank = 7
+| row24_games = {{GamesName|SOG|2000}} | row24_athletes = 630 | row24_gold = 16 | row24_silver = 25 | row24_bronze = 17 | row24_rank = 4 | row24_host = yes
+| row25_games = {{GamesName|SOG|2004}} | row25_athletes = 482 | row25_gold = 17 | row25_silver = 16 | row25_bronze = 17 | row25_rank = 4
+| row26_games = {{GamesName|SOG|2008}} | row26_athletes = 433 | row26_gold = 14 | row26_silver = 15 | row26_bronze = 17 | row26_rank = 6
+| row27_games = {{GamesName|SOG|2012}} | row27_athletes = 410 | row27_gold = 8 | row27_silver = 15 | row27_bronze = 12 | row27_rank = 8
+| row28_games = {{GamesName|SOG|2016}} | row28_athletes = 422 | row28_gold = 8 | row28_silver = 11 | row28_bronze = 10 | row28_rank = 10
+| row29_games = {{GamesName|SOG|2020}} | row29_athletes = 470 | row29_gold = 17 | row29_silver = 7 | row29_bronze = 22 | row29_rank = 6
+| row30_games = {{GamesName|SOG|2024}} | row30_athletes = 461 | row30_gold = 18 | row30_silver = 19 | row30_bronze = 16 | row30_rank = 4
+| row31_games = {{GamesName|SOG|2028}} | row31_participation = ''future event''
+| row32_games = {{GamesName|SOG|2032}} | row32_participation = ''future event'' | row32_host = yes
+}}
+{{col-flex-break}}
+
+=== Australia at the Winter Olympics ===
+<div>&nbsp;</div>
+{{Medals table country
+| country = Australia
+| season = winter
+| show_games_flag = yes
+| total_col_bold = yes
+| total_athletes = yes
+
+| row1_games = {{GamesName|WOG|1924}} | row1_participation = ''did not participate''
+| row2_games = {{GamesName|WOG|1928}} | row2_participation = ''did not participate''
+| row3_games = {{GamesName|WOG|1932}} | row3_participation = ''did not participate''
+| row4_games = {{GamesName|WOG|1936}} | row4_athletes = 1 | row4_gold = 0 | row4_silver = 0 | row4_bronze = 0
+| row5_games = {{GamesName|WOG|1948}} | row5_participation = ''did not participate''
+| row6_games = {{GamesName|WOG|1952}} | row6_athletes = 9 | row6_gold = 0 | row6_silver = 0 | row6_bronze = 0
+| row7_games = {{GamesName|WOG|1956}} | row7_athletes = 8 | row7_gold = 0 | row7_silver = 0 | row7_bronze = 0
+| row8_games = {{GamesName|WOG|1960}} | row8_athletes = 31 | row8_gold = 0 | row8_silver = 0 | row8_bronze = 0
+| row9_games = {{GamesName|WOG|1964}} | row9_athletes = 6 | row9_gold = 0 | row9_silver = 0 | row9_bronze = 0
+| row10_games = {{GamesName|WOG|1968}} | row10_athletes = 3 | row10_gold = 0 | row10_silver = 0 | row10_bronze = 0
+| row11_games = {{GamesName|WOG|1972}} | row11_athletes = 4 | row11_gold = 0 | row11_silver = 0 | row11_bronze = 0
+| row12_games = {{GamesName|WOG|1976}} | row12_athletes = 8 | row12_gold = 0 | row12_silver = 0 | row12_bronze = 0
+| row13_games = {{GamesName|WOG|1980}} | row13_athletes = 10 | row13_gold = 0 | row13_silver = 0 | row13_bronze = 0
+| row14_games = {{GamesName|WOG|1984}} | row14_athletes = 10 | row14_gold = 0 | row14_silver = 0 | row14_bronze = 0
+| row15_games = {{GamesName|WOG|1988}} | row15_athletes = 19 | row15_gold = 0 | row15_silver = 0 | row15_bronze = 0
+| row16_games = {{GamesName|WOG|1992}} | row16_athletes = 23 | row16_gold = 0 | row16_silver = 0 | row16_bronze = 0
+| row17_games = {{GamesName|WOG|1994}} | row17_athletes = 25 | row17_gold = 0 | row17_silver = 0 | row17_bronze = 1 | row17_rank = 22
+| row18_games = {{GamesName|WOG|1998}} | row18_athletes = 23 | row18_gold = 0 | row18_silver = 0 | row18_bronze = 1 | row18_rank = 22
+| row19_games = {{GamesName|WOG|2002}} | row19_athletes = 27 | row19_gold = 2 | row19_silver = 0 | row19_bronze = 0 | row19_rank = 15
+| row20_games = {{GamesName|WOG|2006}} | row20_athletes = 40 | row20_gold = 1 | row20_silver = 0 | row20_bronze = 1 | row20_rank = 17
+| row21_games = {{GamesName|WOG|2010}} | row21_athletes = 40 | row21_gold = 2 | row21_silver = 1 | row21_bronze = 0 | row21_rank = 13
+| row22_games = {{GamesName|WOG|2014}} | row22_athletes = 60 | row22_gold = 0 | row22_silver = 2 | row22_bronze = 1 | row22_rank = 24
+| row23_games = {{GamesName|WOG|2018}} | row23_athletes = 50 | row23_gold = 0 | row23_silver = 2 | row23_bronze = 1 | row23_rank = 23
+| row24_games = {{GamesName|WOG|2022}} | row24_athletes = 43 | row24_gold = 1 | row24_silver = 2 | row24_bronze = 1 | row24_rank = 18
+| row25_games = {{GamesName|WOG|2026}} | row25_athletes = 51 | row25_gold = 3 | row25_silver = 2 | row25_bronze = 1 | row25_rank = 14
+| row26_games = {{GamesName|WOG|2030}} | row26_participation = ''future event''
+| row27_games = {{GamesName|WOG|2034}} | row27_participation = ''future event''
+}}
+{{col-flex-end}}
+
+{{col-flex}}
+
+=== Medals by summer sport ===
+{{Medals table
+ | caption    = 
+ | team       = Sport
+ | hide_rank  = yes
+ | leading    = 
+ | gold_1  = 76 | silver_1  = 78 | bronze_1  = 76 | name_1  = {{GamesSport|Swimming|Format=d}} 
+ | gold_2  = 22 | silver_2  = 29 | bronze_2  = 32 | name_2  = {{GamesSport|Athletics|Format=d}} 
+ | gold_3  = 18 | silver_3  = 21 | bronze_3  = 23 | name_3  = {{GamesSport|Cycling|Format=d}} 
+ | gold_4  = 13 | silver_4  = 15 | bronze_4  = 17 | name_4  = {{GamesSport|Rowing|Format=d}} 
+ | gold_5  = 14 | silver_5  = 9 | bronze_5  = 8  | name_5  = {{GamesSport|Sailing|Format=d}} 
+ | gold_6  = 6  | silver_6  = 5  | bronze_6  = 4  | name_6  = {{GamesSport|Equestrian|Format=d}} 
+ | gold_7  = 5  | silver_7  = 1  | bronze_7  = 6  | name_7  = {{GamesSport|Shooting|Format=d}} 
+ | gold_8  = 4  | silver_8  = 4  | bronze_8  = 5  | name_8  = {{GamesSport|Field hockey|Format=d}} 
+ | gold_9  = 8  | silver_9  = 9  | bronze_9  = 15 | name_9  = {{GamesSport|Canoeing|Format=d}} 
+ | gold_10 = 3  | silver_10 = 4  | bronze_10 = 8  | name_10 = {{GamesSport|Diving|Format=d}} 
+ | gold_11 = 1  | silver_11 = 2  | bronze_11 = 2  | name_11 = {{GamesSport|Triathlon|Format=d}} 
+ | gold_12 = 2  | silver_12 = 1  | bronze_12 = 4  | name_12 = {{GamesSport|Tennis|Format=d}} 
+ | gold_13 = 1  | silver_13 = 1  | bronze_13 = 2  | name_13 = {{GamesSport|Weightlifting|Format=d}} 
+ | gold_14 = 1  | silver_14 = 1  | bronze_14 = 0  | name_14 = {{GamesSport|Taekwondo|Format=d}} 
+ | gold_15 = 1  | silver_15 = 1  | bronze_15 = 2  | name_15 = {{GamesSport|Water polo|Format=d}} 
+ | gold_16 = 1  | silver_16 = 0  | bronze_16 = 2  | name_16 = {{GamesSport|Archery|Format=d}} 
+ | gold_17 = 1  | silver_17 = 1  | bronze_17 = 1  | name_17 = {{GamesSport|Beach volleyball|Format=d}} 
+ | gold_18 = 1  | silver_18 = 0  | bronze_18 = 0  | name_18 = {{GamesSport|Modern pentathlon|Format=d}} 
+ | gold_19 = 1  | silver_19 = 0  | bronze_19 = 0  | name_19 = {{GamesSport|Rugby sevens|Format=d}}
+ | gold_20 = 0  | silver_20 = 3  | bronze_20 = 4  | name_20 = {{GamesSport|Basketball|Format=d}} 
+ | gold_21 = 0  | silver_21 = 1  | bronze_21 = 6  | name_21 = {{GamesSport|Boxing|Format=d}} 
+ | gold_22 = 0  | silver_22 = 1  | bronze_22 = 3  | name_22 = {{GamesSport|Softball|Format=d}} 
+ | gold_23 = 0  | silver_23 = 1  | bronze_23 = 2  | name_23 = {{GamesSport|Wrestling|Format=d}} 
+ | gold_24 = 0  | silver_24 = 1  | bronze_24 = 0  | name_24 = {{GamesSport|Gymnastics|Format=d}} 
+ | gold_25 = 0  | silver_25 = 1  | bronze_25 = 0  | name_25 = {{GamesSport|Baseball|Format=d}} 
+ | gold_26 = 0  | silver_26 = 0  | bronze_26 = 2  | name_26 = {{GamesSport|Judo|Format=d}} 
+ | gold_27 = 3  | silver_27 = 0  | bronze_27 = 0  | name_27 = {{GamesSport|Skateboarding|Format=d}} 
+ | gold_28 = 0  | silver_28 = 1  | bronze_28 = 1  | name_28 = {{GamesSport|Surfing|Format=d}} 
+ | gold_29 = 0  | silver_29 = 1  | bronze_29 = 1  | name_29 = {{GamesSport|Marathon swimming|Format=d}} 
+}}
+{{col-flex-break}}
+
+=== Medals by winter sport ===
+{{Medals table
+ | caption    = 
+ | team       = Sport
+ | hide_rank  = yes
+ | gold_1 = 6 | silver_1 = 4 | bronze_1 = 3 | name_1 = {{GamesSport|Freestyle skiing|Format=d}} 
+ | gold_2 = 2 | silver_2 = 4 | bronze_2 = 2 | name_2 = {{GamesSport|Snowboarding|Format=d}} 
+ | gold_3 = 1 | silver_3 = 0 | bronze_3 = 1 | name_3 = {{GamesSport|Short track speed skating|Format=d}} 
+ | gold_4 = 0 | silver_4 = 1 | bronze_4 = 0 | name_4 = {{GamesSport|Skeleton|Format=d}} 
+ | gold_5 = 0 | silver_5 = 0 | bronze_5 = 1 | name_5 = {{GamesSport|Alpine skiing|Format=d}} 
+}}
+{{col-flex-end}}
+
+These totals do not include 11 medals recognised by the Australian Olympic Committee: 10 medals (3 gold, 4 silver and 3 bronze) won by Australians competing for the combined [[Australasia at the Olympics|Australasia]] team in 1908 and 1912 (8 by individuals, 1 by an exclusively Australian team and 1 by a combined team) and 1 bronze medal won in tennis by [[Edwin Flack]] in 1896. The AOC therefore recognises Australia as having won 611 medals at the Summer Olympics (185 gold, 196 silver and 230 bronze).<ref>{{Cite web|url=https://www.olympics.com.au/games/st-louis-1904|title=St Louis 1904|access-date=2019-08-19|archive-date=2019-08-19|archive-url=https://web.archive.org/web/20190819061300/https://www.olympics.com.au/games/st-louis-1904|url-status=live}}</ref>
+
+== Medals by individual ==
+
+This is a list of people who have won at least three Olympic gold medals for Australia, based upon data from the [[International Olympic Committee]]. Medals won in the [[1906 Intercalated Games]] are not included. It includes top-three placings in 1896 and 1900, before medals were awarded for top-three placings.
+
+=== Summer Olympics ===
+{| class="sortable wikitable"
+!Athlete
+!Sport
+!Years
+!Gender
+! style="background-color:gold; width:1.0em; font-weight:bold;" | {{gold01}}
+! style="background-color:silver; width:1.0em; font-weight:bold;" |{{silver02}}
+! style="background-color:#cc9966; width:1.0em; font-weight:bold;" |{{bronze03}}
+!Total
+|-
+| [[Emma McKeon]]|| {{GamesSport|Swimming|Format=d}}|| 2016–2024 || align="center" |F || align="center" |6 || align="center" |3
+|5
+|14
+|-
+| [[Ian Thorpe]]|| {{GamesSport|Swimming|Format=d}}||  2000–2004  || align="center" |M || align="center" |5 || align="center" |3
+|1
+|9
+
+|-
+| '''[[Kaylee McKeown]]'''|| {{GamesSport|Swimming|Format=d}}|| 2020–2024 || align="center" |F || align="center" |5 || align="center" |1
+|3
+|9
+|-
+| '''[[Mollie O'Callaghan]]'''|| {{GamesSport|Swimming|Format=d}}|| 2020–2024 || align="center" |F || align="center" |5 || align="center" |1
+|2
+|8
+|-
+| [[Dawn Fraser]]|| {{GamesSport|Swimming|Format=d}}|| 1956–1964 || align="center" |F || align="center" |4 || align="center" |4
+|0
+|8
+|-
+| [[Ariarne Titmus]]|| {{GamesSport|Swimming|Format=d}}|| 2020–2024 || align="center" |F || align="center" |4 || align="center" |3
+|1
+|8
+|-
+| [[Cate Campbell]]|| {{GamesSport|Swimming|Format=d}}|| 2008–2020 || align="center" |F || align="center" |4 || align="center" |1
+|3
+|8
+|-
+| [[Libby Trickett]]|| {{GamesSport|Swimming|Format=d}}|| 2004–2012 || align="center" |F || align="center" |4 || align="center" |1
+|2
+|7
+|-
+| [[Murray Rose]]|| {{GamesSport|Swimming|Format=d}}|| 1956–1960 || align="center" |M || align="center" |4 || align="center" |1
+|1
+|6
+|-
+| [[Betty Cuthbert]]|| {{GamesSport|Athletics|Format=d}}|| 1956–1964 || align="center" |F || align="center" |4 || align="center" |0
+|0
+|4
+|-
+| [[Leisel Jones]]|| {{GamesSport|Swimming|Format=d}}|| 2000–2012 || align="center" |F || align="center" |3 || align="center" |5
+|1
+|9
+|-
+| [[Petria Thomas]]|| {{GamesSport|Swimming|Format=d}}|| 1996–2004 || align="center" |F || align="center" |3 || align="center" |4
+|1
+|8
+|-
+| [[Grant Hackett]]|| {{GamesSport|Swimming|Format=d}}|| 2000–2008 || align="center" |M || align="center" |3 || align="center" |3
+|1
+|7
+|-
+| [[Emily Seebohm]]|| {{GamesSport|Swimming|Format=d}}|| 2008–2020 || align="center" |F || align="center" |3 || align="center" |3
+|1
+|7
+|-
+| '''[[Andrew Hoy]]'''|| {{GamesSport|Equestrian|Format=d}}|| 1984–2020 || align="center" |M || align="center" |3 || align="center" |2
+|1
+|6
+|-
+| [[Shirley Strickland]]|| {{GamesSport|Athletics|Format=d}}|| 1948–1956 || align="center" |F || align="center" |3 || align="center" |1
+|3
+|7
+|-
+| '''[[Jessica Fox (canoeist)|Jessica Fox]]'''|| {{GamesSport|Canoeing|Format=d}}|| 2012–2024 || align="center" |F || align="center" |3 || align="center" |1
+|2
+|6
+|-
+| [[Shane Gould]]|| {{GamesSport|Swimming|Format=d}}|| 1972 || align="center" |F || align="center" |3 || align="center" |1
+|1
+|5
+|-
+| [[Drew Ginn]]|| {{GamesSport|Rowing|Format=d}}|| 1996–2012 || align="center" |M || align="center" |3 || align="center" |1
+|0
+|4
+|-
+| [[James Tomkins (rower)|James Tomkins]]|| {{GamesSport|Rowing|Format=d}}|| 1992–2004 || align="center" |M || align="center" |3 || align="center" |0
+|1
+|4
+|-
+| '''[[Bronte Campbell]]'''|| {{GamesSport|Swimming|Format=d}}|| 2012–2024 || align="center" |F || align="center" |3 || align="center" |0
+|1
+|4
+|-
+| [[Matthew Ryan (equestrian)|Matthew Ryan]]|| {{GamesSport|Equestrian|Format=d}}|| 1992–2000 || align="center" |M || align="center" |3 || align="center" |0
+|0
+|3
+|-
+| [[Rechelle Hawkes]]|| {{GamesSport|Field Hockey|Format=d}}|| 1988–2000 || align="center" |F || align="center" |3 || align="center" |0
+|0
+|3
+|-
+| [[Jodie Henry]]|| {{GamesSport|Swimming|Format=d}}|| 2004 || align="center" |F || align="center" |3 || align="center" |0
+|0
+|3
+|-
+| [[Stephanie Rice]]|| {{GamesSport|Swimming|Format=d}}|| 2008–2012 || align="center" |F || align="center" |3 || align="center" |0
+|0
+|3
+|}
+
+* '''People in bold''' are still active competitors
+
+=== Winter Olympics ===
+{| class="wikitable sortable"
+|+
+!Athlete
+!Sport
+!Years
+!Gender
+!{{gold01}}
+!{{silver02}}
+!{{bronze03}}
+!Total
+|-
+|'''[[Jakara Anthony]]'''
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2018–2026
+|F
+|2
+|0
+|0
+|2
+|-
+|[[Dale Begg-Smith]]
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2006–2014
+|M
+|1
+|1
+|0
+|2
+|-
+|[[Torah Bright]]
+|{{GamesSport|Snowboarding|Format=d}}
+|2006–2014
+|F
+|1
+|1
+|0
+|2
+|-
+|[[Steven Bradbury]]
+|{{GamesSport|Short track speed skating|Format=d}}
+|1994–2002
+|M
+|1
+|0
+|1
+|2
+|-
+|[[Alisa Camplin]]
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2002–2006
+|F
+|1
+|0
+|1
+|2
+|-
+|[[Lydia Lassila]]
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2002–2018
+|F
+|1
+|0
+|1
+|2
+|-
+|'''[[Josie Baff]]'''
+|{{GamesSport|Snowboarding|Format=d}}
+|2022–2026
+|F
+|1
+|0
+|0
+|1
+|-
+|'''[[Cooper Woods]]'''
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2022–2026
+|M
+|1
+|0
+|0
+|1
+|-
+|'''[[Scotty James]]'''
+|{{GamesSport|Snowboarding|Format=d}}
+|2010–2026
+|M
+|0
+|2
+|1
+|3
+|-
+|[[Matt Graham (skier)|'''Matt Graham''']]
+|{{GamesSport|Freestyle skiing|Format=d}}
+|2014–2026
+|M
+|0
+|1
+|1
+|2
+|}
+
+* '''People in bold''' are still active competitors
+
+While [[Lauren Jackson]] never won a gold medal, she is the only Australian to win medals in five different Olympics.
+
+==Summary by sport==
+
+[[File:Emma McKeon - 2021 World Cup - 01.jpg|thumb|[[Emma McKeon]] is Australia's most decorated Olympian, with 14 medals across three Olympics.<ref>{{Cite web |date=2024-11-25 |title=14-time Olympic medalist Emma McKeon retires from swimming |url=https://apnews.com/article/mckeon-olympics-australia-swimming-bf159f77c9a4e6c7d5ebaaa3ebaf97de |access-date=2026-01-21 |website=AP News |language=en}}</ref> Her record of four golds and three bronze in [[2020 Summer Olympics|2020]] is the most medals won by an Australian athlete at a sole Olympic Games.]]
+
+=== Swimming ===
+
+Swimming is historically Australia's most successful sport of all the Olympic events.<ref name=":0">{{Cite web |title=Swimming Australia - Olympic history |url=https://www.swimming.org.au/performance/dolphins/history/olympic-history |access-date=2026-01-21 |website=Swimming Australia}}</ref> Australia first competed in swimming at the 1900 Games, with [[Frederick Lane]] competing in two events and winning gold medals in both.<ref name=":0" /> The first women to compete for Australia in swimming were [[Fanny Durack]] and [[Mina Wylie]], who won gold and silver respectively in the women's 100m freestyle at the [[1912 Summer Olympics]]; which was also the first women's swimming event held at an Olympic Games.<ref name=":0" /> The sport would become a strength of the nation, which (as of the [[2024 Summer Olympics]]) has the [[Swimming at the Summer Olympics|second-most gold and second-most total medals]] behind the United States.<ref name=":1">{{Cite web |last=Nag |first=Utathya |date=2024-08-12 |title=Australia's Olympic swimmers' legacy - full list of medal winners |url=https://www.olympics.com/en/news/australia-swimmers-olympics-medal-winners-list |access-date=2026-01-21 |website=Olympics}}</ref> The only Olympics in which Australia finished without a medal in swimming would be [[1896 Summer Olympics|1896]] (due to no swimmers being sent by the Olympic committee) and [[1936 Summer Olympics|1936]].<ref name=":1" />
+
+At the [[1956 Summer Olympics]] held in [[Melbourne]], Australia finished first on the medal tally for the only time in Olympic history, winning eight of the thirteen events held. These games included a podium sweep in both the men's and women's 100m freestyle, with [[Jon Henricks]] and [[Dawn Fraser]] winning gold respectively.<ref name=":0" /><ref name=":1" /> [[Murray Rose]] would become Australia's most decorated swimmer during these Olympics, winning three gold medals, in the men's 400m freestyle, the men's 1500m freestyle and the men's {{nowrap|4 × 200 m}} freestyle relay.<ref name=":1" /> Other gold medals were won by [[Lorraine Crapp]] in the women's 400m freestyle, [[David Theile]] in the men's 100m backstroke and the women's {{nowrap|4 × 100 m}} freestyle relay.<ref name=":1" />
+
+[[Michael Wenden]] was Australia's most decorated swimmer in [[Swimming at the 1968 Summer Olympics|1968]], with his gold medals in both the 100m and 200m freestyle, he became the first Australian to win both freestyle events, while also achieving a silver in the men's {{nowrap|4 × 200 m}} freestyle relay and a bronze in the men's {{nowrap|4 × 100 m}} freestyle relay.<ref name=":15" /> In the [[1972 Summer Olympics]], [[Shane Gould]] would become Australia's youngest Olympic champion in a swimming individual event, while also going on to win three gold, one silver and one bronze during the games.<ref name=":1" />
+
+After 1972, Australia's sporting dominance began to fade; including in the swimming events. Australia only won one medal in [[Swimming at the 1976 Summer Olympics|1976]], a bronze by [[Stephen Holland (swimmer)|Stephen Holland]] in the men's 1500m freestyle, which became Australian team's worst performance in the swimming events since the country first began participating.<ref name=":1" /> In [[1980 Summer Olympics|1980]], Australia won two gold medals in the entire Olympics, courtesy of [[Michelle Ford]] in the women's 800m freestyle and the [[Quietly Confident Quartet]] in the men's {{nowrap|4 × 100 m}} medley relay.<ref name=":0" /> [[Jon Sieben]]’s victory in the men’s 200m butterfly would be the only gold medal won by an individual Australian athlete at the [[1984 Summer Olympics]].<ref name=":0" /> Afterwards, [[1988 Summer Olympics|1988]] saw Australia take home the least amount of medals in swimming since 1976, [[Duncan Armstrong]] win a gold and a silver in the men’s 200m and 400m freestyle respectively, with Australia’s only other swimming medal being [[Julie McDonald (swimmer, born 1970)|Julie McDonald]]’s bronze in the women’s 800m freestyle.<ref name=":0" />
+
+The 90s saw Australia's reemergence as a swimming powerhouse, although it came slowly and steadily. With an increase in funding throughout the 1980s to combat the disappointing performances of the swimming team, the team were not achieving the high standards set by the Australian government for [[1992 Summer Olympics]], with the Australian government threatening to cut funding for sport if their standards were not met.<ref name=":16">{{Cite web |last=Ray |first=Mark |last2=Attwood |first2=Alan |date=2022-07-31 |title=From the Archives, 1992: Golden days are here again for our Olympians |url=https://www.smh.com.au/sport/from-the-archives-1992-golden-days-are-here-again-for-our-olympians-20220728-p5b5ev.html |access-date=2026-01-28 |website=The Sydney Morning Herald |language=en}}</ref> The notable turning point was a then 18-year-old, [[Kieren Perkins]], winning gold in the men's 1500m freestyle, with [[Glen Housman]] winning silver in the same event; with Perkins setting the world record in the process and his performance at the time being considered "the greatest swim by an Australian."<ref name=":16" /> Perkins would win the only gold medal for the swimming team in [[Swimming at the 1992 Summer Olympics|1992]], while also winning silver in the men's 400m freestyle.<ref name=":17">{{Cite web |title=Barcelona 1992 |url=https://www.olympics.com.au/games/barcelona-1992/ |access-date=2026-01-28 |website=Australian Olympic Committee |language=en-AU}}</ref> The only other Australian swimmer to win multiple medals in Barcelona was [[Hayley Lewis]], who won silver in the women's 800m freestyle and bronze in the women's 400m freestyle.<ref name=":17" /><ref name=":1" /> Australia's swimming team continued to push forward its momentum into [[Swimming at the 1996 Summer Olympics|1996]], winning two gold medals, four silver and six bronze.<ref name=":1" /> [[Susie O'Neill]] would become the first female swimmer since 1980 to win gold, doing so in the women's 200m butterfly, which in addition had fellow Australian [[Petria Thomas]] win the silver medal.<ref>{{Cite news |date=2023-02-24 |title=From the worst food at an athletes' village to winning gold, Susie O'Neill shares her Olympic memories |url=https://www.abc.net.au/news/2023-02-25/susie-oneill-shares-her-olympic-memories-ahead-of-brisbane-2032/102008584 |access-date=2026-01-28 |work=ABC News |language=en-AU}}</ref> The swimming team's most memorable gold medal was Perkins, defending his men's 1500m freestyle gold medal from Barcelona after suffering from a bout of anxiety and as well as a panic attack before the final, becoming the slowest qualifier in the final thus starting in lane eight, finishing six seconds ahead of fellow Australian and silver medallist [[Daniel Kowalski]].<ref>{{Cite web |date=2024-06-14 |title=Perkins beat crippling anxiety to win from lane eight |url=https://www.nine.com.au/sport/olympics/atlanta-1996-games-swimming-kieren-perkins-gold-medal-video-20240613-p5jlrs.html |access-date=2026-01-28 |website=Nine |language=en}}</ref><ref>{{Cite news |date=2014-05-18 |title=Perkins reveals panic attack before historic Olympic win |url=https://www.abc.net.au/news/2014-05-19/kieren-perkins-reveals-panic-attack-before-1996-olympic-win/5458902 |access-date=2026-01-28 |work=ABC News |language=en-AU}}</ref> Although he would not win gold, Kowalski would become the first swimmer in Olympic history to medal in the 200m, 400m and 1500m freestyle events in a single Olympics.<ref>{{Cite web |date=2021-03-30 |title='Absolutely petrified': Aussie great reveals hidden darkness in iconic Games moment |url=https://www.foxsports.com.au/olympics/tokyo-olympics-2021-australian-swim-great-daniel-kowalski-opens-up-on-1996-atlanta-games-heartbreak-ian-thorpe/news-story/3874247aaf4c9e724c15c55e25ec7c8b |access-date=2026-01-28 |website=Fox Sports |language=en}}</ref>
+
+The [[2000 Summer Olympics]] in [[Sydney]] saw Australia achieve their most medals won at the swimming event in a single games, including five gold medals, a haul that would be beaten in Beijing and Tokyo.<ref name=":0" /> Three of these gold were courtesy of [[Ian Thorpe]], who won in the 400m freestyle event and contributed to both the men's {{nowrap|4 × 100 m}} and {{nowrap|4 × 200 m}} freestyle relays. Notably, Australia's gold medal in the men's {{nowrap|4 × 100 m}} freestyle relay was the first time in Olympic history that the United States had been beaten in the event. The other two golds were won by [[Grant Hackett]] in the men's 1500m freestyle and [[Susie O'Neill|Susie O’Neill]] in the women's 200m freestyle.<ref name=":1" /> The country's successful performance from a home Olympics continued into 2004, winning seven golds, which included Thorpe and Hackett defending their Olympic titles from four years earlier, while also sharing the podium in a gold-silver finish in the men's 400m freestyle.<ref name=":1" /> The Australian women's relay teams won two of the three gold medals on offer at the games in the {{nowrap|4 × 100 m}} freestyle and medley relays.<ref name=":1" /> While [[Jodie Henry]] won the women's 100m freestyle and [[Petria Thomas]] won her first individual gold medal in the women's 100m butterfly after finishing with silver and bronze medals in her individual events in her previous two Olympics.<ref name=":1" />
+
+After Beijing, Australia's success in swimming would stall during the next two Olympics.<ref name=":2">{{Cite news |last=Healy |first=Jon |date=2016-08-14 |title=Success or failure? Australia's up-and-down swimming tilt in Rio |url=https://www.abc.net.au/news/2016-08-14/rio-2016-australian-swimmers-who-shone-and-who-flopped/7733370 |access-date=2026-01-21 |work=ABC News |language=en-AU}}</ref> Only the women's {{nowrap|4 × 100 m}} freestyle relay team would win gold in [[2012 Summer Olympics|2012]] and [[2016 Summer Olympics|2016]], with Australia's only other gold medals in this period coming from [[Mack Horton]] in the men's 400m freestyle and [[Kyle Chalmers]] in the men's 100m freestyle, both in 2016.<ref name=":2" />
+
+The postponed [[2020 Summer Olympics]] in Tokyo saw [[Emma McKeon]] have the best Olympic Games medal haul in Australian sporting history, winning four gold and three bronze medals.<ref name=":0" /> Two of her golds coming in her individual events the 50m and 100m freestyle, while the other two were part of the 4x100 freestyle and medley relay teams.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+!Ranking
+|-
+! Total || 76 || 78 || 76 || 230
+!2
+|}
+
+===Athletics===
+[[File:Betty Cuthbert, c. 1950s, by Ted Hood.jpg|thumb|[[Betty Cuthbert]] is Australia's most decorated track and field Olympic athlete, winning four golds overall. Three of these would be during the [[1956 Summer Olympics]] in [[Melbourne]].]]
+Australia first competed in athletics at the inaugural [[1896 Summer Olympics]], with its sole athlete, [[Edwin Flack]], competing in 3 events and winning two of them, the 800m and 1500m.<ref name=":4">{{Cite web |last=Asgar Nalwala |first=Ali |date=2024-05-30 |title=Australia's Olympic debut: Athens 1896 sets up a lasting legacy |url=https://www.olympics.com/en/news/australia-first-compete-olympics-debut |access-date=2026-01-21 |website=Olympics}}</ref> He also competed in the marathon, but withdrew due to exhaustion despite leading with six kilometres left in the race.<ref name=":4" />
+
+In the [[1956 Summer Olympics]] held in [[Melbourne]], the Australian women's team won gold in all four track events that took place during the event, with [[Betty Cuthbert]] winning both the 100m and 200m, [[Shirley Strickland]] victorious again in the 80m hurdles and the {{nowrap|4 × 100 m}} relay team, which included both Cuthbert and Strickland, winning in a world record time.<ref name=":5">{{Cite web |date=2010 |title=1956 women's Olympic relay team, including Betty Cuthbert |url=https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/society-and-culture/sport-and-recreation/1956-womens-olympic-relay-team-including-betty-cuthbert |access-date=2026-01-21 |website=National Archive of Australia}}</ref> Cuthbert in the process became the first Australian to win three gold medals in a single Olympics.<ref name=":5" /> These Olympics would become the most successful in Australian athletics history.<ref name=":3" />
+
+Australia would continue to achieve podium places and the occasional gold medal throughout the 1960s. [[Herb Elliott]] would win gold in the men's 1500m in a world record time in 1960.<ref>{{Cite web |title=Rome 1960 |url=https://www.olympics.com.au/games/rome-1960/ |access-date=2026-01-25 |website=Australian Olympic Committee |language=en-AU}}</ref> [[Betty Cuthbert]] won her fourth gold medal in her career, this time in the women's 400m in 1964, which made her the most decorated track and field athlete in Australian Olympic history.<ref>{{Cite web |title=Tokyo 1964 |url=https://www.olympics.com.au/games/tokyo-1964/ |access-date=2026-01-25 |website=Australian Olympic Committee |language=en-AU}}</ref> While 1968 saw [[Ralph Doubell]] emerge as gold medallist in the men's 800m, [[Maureen Caird]] winning gold in the women's 80m hurdles, while [[Peter Norman]] won silver in the men's 200m, with Norman famously standing on the podium alongside [[Tommie Smith]] and [[John Carlos]] when they performed the [[1968 Olympics Black Power salute|black power salute]].<ref name=":15">{{Cite web |title=Mexico City 1968 |url=https://www.olympics.com.au/games/mexico-city-1968/ |access-date=2026-01-25 |website=Australian Olympic Committee |language=en-AU}}</ref><ref name=":30">{{Cite web |date=2026-01-25 |title=Mexico 1968: Peter Norman – Athletics and Black Power Salute |url=https://www.nfsa.gov.au/collection/curated/asset/95238-mexico-1968-peter-norman-athletics-and-black-power-salute |access-date=2026-01-25 |website=National Film and Sound Archive of Australia}}</ref>
+
+[[Sydney]] would host the [[2000 Summer Olympics]], with Australia's sole gold medal being [[Cathy Freeman]]’s women's 400m, with the only other medals won being silver medals for [[Jai Taurima]] in the men's long jump and [[Tatiana Grigorieva]] in the first ever women's pole vault competition.<ref name=":10">{{Cite web |date=2024-08-12 |title=Australia Olympic medal winners - full list |url=https://www.olympics.com/en/news/australia-olympic-medal-winners |access-date=2026-01-22 |website=Olympics}}</ref>
+
+Between [[2004 Summer Olympics|2004]] and [[2016 Summer Olympics|2016]], winning medals were also sparse, with only three gold medals won by Australian athletes. [[Steve Hooker]] won the men's pole vault in [[2008 Summer Olympics|2008]] and became the first Australian man to win an athletics gold medal since 1968.<ref>{{Cite web |date=2014-04-12 |title=Australian pole vaulter Hooker retires |url=https://www.sbs.com.au/news/article/australian-pole-vaulter-hooker-retires/0x4jrmr5g |access-date=2026-01-21 |website=SBS News |language=en}}</ref> While the [[2012 Summer Olympics]] saw two gold medals for [[Jared Tallent]] in the men's 50&nbsp;km race walk, and [[Sally Pearson]] in the women's 100m hurdles.<ref>{{Cite web |last=Reid |first=Andrew |date=2016-06-17 |title=Golden smile as Tallent finally receives Olympic gold |url=https://www.olympics.com.au/news/golden-smile-as-tallent-finally-receives-olympic-gold/ |access-date=2026-01-21 |website=Australian Olympic Committee |language=en-AU}}</ref><ref name=":6">{{Cite news |date=2012-07-19 |title=Olympics athletics: Sally Pearson takes 100m hurdles gold |url=https://www.bbc.com/sport/olympics/18903599 |access-date=2026-01-21 |work=BBC Sport |language=en-GB}}</ref> Pearson also won a silver in the same event in 2008.<ref name=":6" /> Most of Australia's medals in athletics during this period came from race walking; with the exception of Hooker and Pearson's medals, along with the men's {{nowrap|4 × 400 m}} relay silver medal in 2004, and [[Mitchell Watt]]’s silver in the men’s long jump in 2012.<ref name=":10" /> The postponed [[2020 Summer Olympics|Tokyo Olympics]] saw three medals awarded; [[Nicola Olyslagers]] (competing under her maiden name McDermott) achieving silver in the women’s high jump, as well as bronze medals for [[Kelsey-Lee Barber]] in the women’s javelin and [[Ashley Moloney]] in the men’s decathlon.<ref>{{Cite web |date=2021-08-08 |title=Australia's Tokyo 2020 Olympics medal winners - the final list |url=https://www.olympics.com/en/news/australia-s-tokyo-2020-olympics-medal-winners |access-date=2026-01-21 |website=Olympics}}</ref>
+
+[[2024 Summer Olympics|2024]] became Australia’s most successful Olympic athletics campaign since 1956, with one gold, two silver and four bronze.<ref name=":3">{{Cite web |date=2024-08-11 |title=Athletics: Best result since Melbourne 1956 |url=https://www.olympics.com.au/news/athletics-best-result-since-melbourne-1956/ |access-date=2026-01-21 |website=Australian Olympic Committee |language=en-AU}}</ref> The sole gold medal was won by [[Nina Kennedy]] in the women’s pole vault, which was the first gold medal to be won by a female field athlete.<ref name=":3" /> [[Jessica Hull]] finished with the silver medal in the women’s 1500m, the first by an Australian in any distance running event since 1968.<ref name=":3" /><ref>{{Cite news |last=Jeffery |first=Nicole |date=2024-08-10 |title=Jessica Hull claims Olympic 1500m silver behind untouchable Faith Kipyegon |url=https://www.theguardian.com/sport/article/2024/aug/11/paris-olympics-athletics-1500m-jessica-hull-silver-medal-australia-faith-kipyegon-gold |access-date=2026-01-21 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> In addition for the first time since 1968, two Australian athletes shared the podium in the same event with [[Nicola Olyslagers]] and [[Eleanor Patterson]] winning silver and bronze in the women’s high jump.<ref>{{Cite news |date=2024-08-04 |title='The perfect podium': Olyslagers and Patterson pay tribute to Ukrainian rivals in magical night for Aussie high jumpers |url=https://www.abc.net.au/news/2024-08-05/paris-olympic-games-olyslagers-patterson-silver-bronze-high-jump/104172980 |access-date=2026-01-21 |work=ABC News |language=en-AU}}</ref> Bronze medals were also won by [[Matthew Denny]] in the men’s discus, [[Jemima Montag]] in the women’s 20km race walk, as well as Montag and [[Rhydian Cowley]] in the mixed-relay walk.<ref name=":3" />
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+!Ranking
+|-
+! Total || 22 || 29 || 32 || 83{{Efn|Does not include a gold medal for the 5000 metres team race, in which an Australian runner competed with runners from Great Britain.}}
+!11
+|}
+
+===Canoeing===
+[[File:Jessica Fox (AUS) 2022.jpg|thumb|[[Jessica Fox (canoeist)|Jessica Fox]] is Australia's most successful Olympian in canoeing, achieving three gold, one silver and two bronze medals throughout her career in the slalom discipline.]]
+Australia's first participation in canoeing events would occur in 1956, with a bronze medal won by [[Dennis Green (canoeist)|Dennis Green]] and Wally Brown in the men's K-2 10,000m event.<ref name=":8">{{Cite web |date=2024-04-17 |title=Canoe Slalom / Canoe Sprint Olympics |url=https://www.olympics.com.au/sports/canoe-kayak/ |access-date=2026-01-22 |website=Australian Olympic Committee |language=en-AU}}</ref> The next medal in the sport would not occur until 1980, as [[John Sumegi]] finished with silver in the K-1 1000m sprint.<ref name=":8" /> After a close call in 1988, which saw [[Grant Davies]] originally awarded gold, only to be given silver after the finish was reinspected by officials; Australia's first Olympic gold in canoeing would occur in [[Canoeing at the 1992 Summer Olympics|1992]] with [[Clint Robinson (canoeist)|Clint Robinson]] winning the men's K-1000 sprint.<ref name=":8" /><ref name=":17" /> Robinson would go onto win a K-1 1000m bronze medal in 1996 and a K-2 500m silver in 2004, the latter partnering with [[Nathan Baggaley]].<ref name=":8" /> Australia's next two gold medals in the sport would be won by [[Ken Wallace (canoeist)|Ken Wallace]] in 2008 for the men's K-1 500m, and the men's K-4 1000m sprint team in 2012.<ref name=":8" />
+
+The canoe slalom events would debut in 1992, with [[Danielle Woodward]] winning silver in the women's K-1.<ref name=":9">{{Cite web |date=2019-11-09 |title=Get to know Canoe Slalom |url=https://www.olympics.com.au/news/get-to-know-canoe-slalom/ |access-date=2026-01-22 |website=Australian Olympic Committee |language=en-AU}}</ref> Australia would win two medals in 2008, with [[Jacqueline Lawrence (canoeist)|Jacqueline Lawrence]] and [[Robin Bell]] achieving silver and bronze respectively.<ref name=":8" /><ref name=":9" /> 2012 would see the Olympic debut of [[Jessica Fox (canoeist)|Jessica Fox]], who would emerge as the silver medallist in the women's K-1, later adding a bronze to her collection in 2016 in the same event.<ref name=":9" />
+
+The beginning of the 2020s would see Australia have two record-breaking hauls of medals in back-to-back games for the country. Two gold medals were won by Australia during the postponed 2020 Olympics, with Jessica Fox winning in the first-ever women's C-1 slalom, and [[Thomas Green (canoeist)|Thomas Green]] and [[Jean van der Westhuyzen]] in the K-2 1000m sprint.<ref>{{Cite news |title=Canoe sprint-Australia win men's kayak double 1000m gold |url=https://www.reuters.com/lifestyle/sports/canoe-sprint-australia-win-mens-kayak-double-1000m-gold-2021-08-05/ |archive-url=http://web.archive.org/web/20221206101214/https://www.reuters.com/lifestyle/sports/canoe-sprint-australia-win-mens-kayak-double-1000m-gold-2021-08-05/ |archive-date=2022-12-06 |access-date=2026-01-21 |work=Reuters |language=en-US}}</ref><ref name=":7">{{Cite news |date=2021-07-29 |title='The hardest thing I've ever done': Jess Fox wins gold in C1 canoe slalom |url=https://www.abc.net.au/news/2021-07-29/jess-fox-wins-gold-canoe-slalom-c1/100335120 |access-date=2026-01-21 |work=ABC News |language=en-AU}}</ref> Fox would also win bronze in the women's K-1 slalom.<ref name=":7" /> In [[Canoeing at the 2024 Summer Olympics|2024]], Australia would have its most successful Olympics in canoeing, due to the success of Jessica Fox and her sister [[Noemie Fox|Noemie]] in the slalom events. Jessica would win double gold in the K-1 and would repeat as gold medallist in the C-1 event, while Noemie emerged as the sports first gold medallist in the women's kayak cross event, which included eliminating her sister along the way.<ref>{{Cite web |last=Poole |first=Harry |date=2024-07-31 |title=Jessica Fox: Australian wins second Olympic canoeing gold to make history in Paris |url=https://www.bbc.com/sport/olympics/articles/cd1e8dz96geo |access-date=2026-01-21 |website=BBC Sport |language=en-GB}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+! Total || 8 || 9 || 15 || 32
+!9
+|}
+
+=== Cycling ===
+Australia's cycling success began in 1928 with [[Dunc Gray]] winning bronze in the men's time trial, with Gray also going on to win Australia's first gold in the sport four years later.<ref name=":11">{{Cite web |date=2025-04-03 |title=Cycling Olympics |url=https://www.olympics.com.au/sports/cycling/ |access-date=2026-01-22 |website=Australian Olympic Committee |language=en-AU}}</ref> The next gold medals won by Australian athletes would come in 1952, with [[Russell Mockridge]] winning both the men's time trial, as well as partnering with [[Lionel Cox (cyclist)|Lionel Cox]] to win the tandem event.<ref name=":11" /> The only cycling gold medal won during the 1956 Olympics in Melbourne was by [[Ian Browne (cyclist)|Ian Browne]] and [[Tony Marchant (cyclist)|Tony Marchant]] in the men's tandem.<ref name=":11" /> Australia would have to wait 28 years for another gold medal in cycling, with the men's team pursuit winning in [[Cycling at the 1984 Summer Olympics|Los Angeles]] in an upset victory over the American team.<ref name=":11" />
+
+[[Kathy Watt]] would win both Australia's first gold medal in a road cycling event and first gold for an Australian female cyclist in 1992 with her victory in the women's road race, while going onto win silver in the 3000m individual pursuit on the track.<ref name=":11" /><ref>{{Cite web |title=Kathy Watt OAM {{!}} AusCycling |url=https://auscycling.org.au/people/kathy-watt-oam |access-date=2026-01-22 |website=auscycling.org.au |language=en}}</ref><ref>{{Cite web |title=Kathryn Watt |url=https://www.olympics.com.au/olympians/kathryn-watt/ |access-date=2026-01-22 |website=Australian Olympic Committee |language=en-AU}}</ref> While Australia's sole gold medal in [[Cycling at the 2000 Summer Olympics|Sydney]] came from [[Brett Aitken]] and [[Scott McGrory]] in the men's madison.<ref name=":11" />
+
+The best Olympic Games for the cycling team would emerge in [[Cycling at the 2004 Summer Olympics|2004]], with the team winning six gold, the most won by Australian cyclists in a single Olympics.<ref name=":11" /> [[Ryan Bayley]] became the first Australian cyclist to win gold medals in two individual events—men's sprint and keirin.<ref name=":11" /> [[Anna Meares]] would win her first Olympic gold medal in her career in the women's 500m time trial.<ref name=":11" /> While, [[Stuart O'Grady]] and [[Graeme Brown]] defended Australia's gold medal in the men's madison; with Brown also contributing to Australia's victory in the men's team pursuit.<ref name=":11" /> [[Bradley McGee|Brad McGee]], who was part of the men's pursuit team, won his first gold medal after winning one silver and three bronze medals previously, which made him Australia's most decorated Olympic cyclist, taking his total medal count to eight.<ref name=":11" /> Additionally, [[Sara Carrigan]] would win the women's road race, Australia's first win on the road since Watts 12 years earlier.<ref name=":11" />
+
+From 2008 to 2021, Australia's success in cycling was rare, with the only two gold medals won during this period being [[Anna Meares]] in the women's sprint in London, and [[Logan Martin (BMX rider)|Logan Martin]] in the first men's BMX freestyle event in Tokyo.<ref name=":11" /> Other medals won during this period included [[Sam Willoughby]] winning Australia's first medal in the BMX discipline, a silver in the race event in 2012; Meares and [[Kaarle McCulloch]]’s bronze in the women’s team sprint in London; and the men’s pursuit team finishing on the podium in 2012, 2016 and 2020.<ref name=":11" />
+
+[[Cycling at the 2024 Summer Olympics|2024]] would see three gold medal droughts end for the Australian cycling team in Paris. The first of which was [[Grace Brown (cyclist)|Grace Brown]] in the women’s time trial, with it being Australia’s first gold in any sport during the games and Australia’s first cycling gold medal on a road-based event in 20 years.<ref>{{Cite news |date=2024-07-27 |title=Grace Brown executes race plan 'to perfection' to snap 20-year drought with cycling gold |url=https://www.abc.net.au/news/2024-07-28/paris-olympics-grace-brown-cycling-gold-medal-australia/104151466 |access-date=2026-01-22 |work=ABC News |language=en-AU}}</ref> After a silver in 2012 and 2016, and a bronze in 2020, the men’s pursuit team won Australia’s first gold medal in the velodrome since Meares 12 years earlier, along with a world record time in the qualification round, courtesy of the quartet of [[Sam Welsford]], [[Conor Leahy]], [[Kelland O'Brien|Kelland O’Brien]] and [[Oliver Bleddyn]].<ref name=":12">{{Cite news |last=Pender |first=Kieran |date=2024-08-08 |title=Olympic gold finally puts Australia's track cycling program back on top of the world |url=https://www.theguardian.com/sport/article/2024/aug/08/paris-olympics-2024-track-cycling-australia-gold-medal-mens-team-pursuit |access-date=2026-01-22 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref name=":13">{{Cite web |title=Australia wins gold in men's team pursuit to cap perfect run at Paris Olympics {{!}} NBC Olympics |url=https://www.nbcolympics.com/news/australia-wins-gold-mens-team-pursuit-after-perfect-olympics |access-date=2026-01-22 |website=www.nbcolympics.com |language=en}}</ref> The victory in the pursuit ironically came 20 years after Australia’s last victory in the event and 40 years since its first ever win in the event.<ref name=":12" /><ref name=":13" /> Finally, [[Saya Sakakibara]] won Australia’s first gold medal for a female athlete in the BMX discipline, winning the women’s race.<ref>{{Cite news |date=2024-08-02 |title=Sakakibara fights back tears as she pays tribute to her family and reveals she had COVID before historic BMX gold |url=https://www.abc.net.au/news/2024-08-03/paris-olympics-saya-sakakibara-bmx-gold-covid/104179260 |access-date=2026-01-22 |work=ABC News |language=en-AU}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+! Total || 18 || 21 || 23|| 62
+!6
+|}
+
+=== Field hockey ===
+[[File:2012 Olympic field hockey team Australia.JPG|thumb|The [[Australia men's national field hockey team|Australian men's national field hockey team]], known as the Kookaburras, during the [[2012 Summer Olympics]]. They would subsequently win bronze at the [[Field hockey at the 2012 Summer Olympics – Men's tournament|tournament]].]]
+Australia's most successful team sport in the Olympic Games, both the women's and men's hockey teams have witnessed success as Olympic champions and medallists.<ref name=":20">{{Cite web |date=2024-07-13 |title=Hockey Olympics |url=https://www.olympics.com.au/sports/hockey/ |access-date=2026-02-24 |website=Australian Olympic Committee |language=en-AU}}</ref> 
+
+The [[Australia women's national field hockey team|women's team]], known as the Hockeyroos, has seen much success throughout their Olympic history.<ref name=":20" /> Australia would first enter a women's field hockey team in [[Field hockey at the 1984 Summer Olympics – Women's tournament|1984]], winning their [[Field hockey at the 1988 Summer Olympics – Women's tournament|first gold medal]] four years later in [[1988 Summer Olympics|Seoul]].<ref name=":20" /> After finishing without a medal in Barcelona, the Hockeyroos would win gold in [[Field hockey at the 1996 Summer Olympics – Women's tournament|1996]] and at their home Olympics in [[2000 Summer Olympics|Sydney]] in [[Field hockey at the 2000 Summer Olympics – Women's tournament|2000]].<ref name=":20" /> [[Rechelle Hawkes]] was the only player to be involved in all three gold-medal-winning teams.<ref name=":20" /> The women's team have not achieved a medal since Sydney, finishing fifth in the next three Olympics afterwards, and sixth in 2020 and 2024.<ref name=":20" />
+
+Entering the sport during a home Olympics in Melbourne in 1956, the [[Australia men's national field hockey team|men's team]], known as the Kookaburras, would win their first medal, a bronze in Tokyo [[Field hockey at the 1964 Summer Olympics|eight years later]].<ref name=":20" /> In [[Field hockey at the 1968 Summer Olympics|1968]], the Kookaburras would upgrade to a silver medal for the first time, with their next medal being a silver again in [[Field hockey at the 1976 Summer Olympics|1976]].<ref name=":20" /> The men would not achieve a medal throughout the 1980s, eventually winning another silver in 1992, followed by two bronzes in [[Field hockey at the 1996 Summer Olympics – Men's tournament|1996]] and [[Field hockey at the 2000 Summer Olympics – Men's tournament|2000]].<ref name=":20" /> They finally achieved a gold medal in [[Field hockey at the 2004 Summer Olympics – Men's tournament|2004]], bringing a 52 year wait to an end.<ref name=":20" /> They would achieve bronze medals in [[Field hockey at the 2008 Summer Olympics – Men's tournament|2008]] and [[Field hockey at the 2012 Summer Olympics – Men's tournament|2012]], would win silver in [[Field hockey at the 2020 Summer Olympics – Men's tournament|2021]] at the delayed [[2020 Summer Olympics|Tokyo Olympics]], which was decided in a penalty shootout against eventual Olympic champions, Belgium.<ref name=":20" />
+{| class="wikitable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+! Total || 4 || 4 || 5|| 13
+!3
+|}
+
+=== Freestyle skiing ===
+[[File:Lydia Lassila (cropped).jpg|thumb|[[Lydia Lassila]] (''pictured in 2010''), is a five-time Olympian and two-time Olympic medallist in the women's aerials. She won gold in [[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|2010]], and bronze in [[Freestyle skiing at the 2014 Winter Olympics – Women's aerials|2014]].]]
+Australia's most successful sport in the Winter Olympics, the Australian team began consistently medalling at the Olympics from the beginning of the 2000s, with [[Alisa Camplin]] winning Australia's first medal—a gold—in the women's aerials in 2002.<ref name=":22">{{Cite web |date=2025-02-05 |title=Freestyle Skiing Olympics |url=https://www.olympics.com.au/sports/freestyle-skiing/ |access-date=2026-02-27 |website=Australian Olympic Committee |language=en-AU}}</ref> All of its medal success has consistently come from the moguls and aerials disciplines.<ref name=":22" />
+
+Aerials would be added to the Olympics in 1994, with Australia sending world champion [[Kirstie Marshall]], who would finish sixth in the event after qualifying first in the opening round.<ref>{{Cite web |date=2026-01-25 |title=Golden History of Aerials |url=https://www.olympics.com.au/news/golden-history-of-aerials/ |access-date=2026-02-28 |website=Australian Olympic Committee |language=en-AU}}</ref> [[Alisa Camplin]] would become Australia's first female Winter Olympic gold medallist in [[Freestyle skiing at the 2002 Winter Olympics – Women's aerials|2002]] and would later add a bronze medal in [[Freestyle skiing at the 2006 Winter Olympics – Women's aerials|2006]], all in the women's aerials event.<ref name=":22" /> Australia's success in the women's aerials would continue in [[Freestyle skiing at the 2010 Winter Olympics – Women's aerials|2010]], [[Lydia Lassila]] winning gold, four years after an injury during the qualification rounds in Turin that ruled her out of the Olympics.<ref name=":22" /> 2014 would see the Australian team win two medals at the same Olympics for the first time, with [[David Morris (skier)|David Morris]] winning Australia's first medal, a silver, in the [[Freestyle skiing at the 2014 Winter Olympics – Men's aerials|men's event]]; while Lassila would win bronze in the [[Freestyle skiing at the 2014 Winter Olympics – Women's aerials|women's]].<ref name=":22" /> After not medalling in 2018 and 2022, [[Danielle Scott (freestyle skier)|Danielle Scott]] at her fourth Olympics would break the medal drought in [[2026 Winter Olympics|2026]], winning silver in the [[Freestyle skiing at the 2026 Winter Olympics – Women's aerials|women's event]].<ref name=":22" /><ref>{{Cite web |date=2026-02-19 |title='Means everything': Australian Danielle Scott claims aerial skiing silver at the Olympics |url=https://www.sbs.com.au/news/article/australian-danielle-scott-claims-aerial-skiing-silver-at-the-olympics/gmb3ohoav |access-date=2026-02-27 |website=SBS News |language=en}}</ref> 2026 would also see Australia qualify for the [[Freestyle skiing at the 2026 Winter Olympics – Mixed team aerials|mixed team aerials event]] for the first time, with Scott, [[Abbey Willcox]] and Reilly Flanagan unexpectedly finishing fourth.<ref>{{Cite news |last=Smale |first=Simon |date=2026-02-21 |title=Australian underdogs edged out of aerials team medals |url=https://www.abc.net.au/news/2026-02-22/mixed-aerials-team-near-miss-2026-winter-olympic-games/106373012 |access-date=2026-02-27 |work=ABC News |language=en-AU}}</ref><ref>{{Cite web |date=2026-02-21 |title=Aussies fall just short of seventh medal in team aerials stunner |url=https://www.nine.com.au/sport/olympics/milano-cortina-2026-mixed-team-aerials-results-medals-video-australia-fourth-place-20260221-p5o4c0.html |access-date=2026-02-27 |website=Nine |language=en}}</ref> 
+
+Australia's success in the moguls began in the 2000s, with [[Dale Begg-Smith]] winning gold in [[Freestyle skiing at the 2006 Winter Olympics – Men's moguls|2006]], and silver in [[Freestyle skiing at the 2010 Winter Olympics – Men's moguls|2010]].<ref name=":22" /> With the exception of 2014, Australia has won a medal in the moguls in every Olympics since.<ref name=":22" /> The first of these being a silver medal from [[Matt Graham (skier)|Matt Graham]] in the [[Freestyle skiing at the 2018 Winter Olympics – Men's moguls|men's moguls]] in 2018, while Australia's first medal in the women's event would occur in 2022, courtesy of [[Jakara Anthony]] winning gold in the [[Freestyle skiing at the 2022 Winter Olympics – Women's moguls|women's moguls]].<ref>{{Cite web |last=Bagshaw |first=Eryk |date=2022-02-06 |title=Jakara Anthony triumphs with freestyle moguls gold medal |url=https://www.smh.com.au/sport/jakara-anthony-triumphs-with-freestyle-moguls-gold-medal-in-beijing-20220207-p59u8j.html |access-date=2026-02-27 |website=The Sydney Morning Herald |language=en}}</ref> 2026 would witness Australia becoming the best performing country competing in the moguls events at an Olympics for the first time, with two gold medals achieved by [[Cooper Woods]] in the [[Freestyle skiing at the 2026 Winter Olympics – Men's moguls|men's moguls]], and Anthony in the [[Freestyle skiing at the 2026 Winter Olympics – Women's dual moguls|women's dual moguls]], and a bronze, won by Graham in the [[Freestyle skiing at the 2026 Winter Olympics – Men's dual moguls|men's dual moguls]].<ref>{{Cite news |date=2026-02-12 |title=Cooper Woods claims Australia’s first gold with superb win in moguls |url=https://www.theguardian.com/sport/2026/feb/12/cooper-woods-claims-australias-first-gold-with-superb-win-in-moguls |access-date=2026-02-27 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{Cite news |last=Smale |first=Simon |date=2026-02-16 |title='How the hell' does Australia dominate moguls? The answer is no secret |url=https://www.abc.net.au/news/2026-02-17/australia-winter-olympics-moguls-dominance/106346256 |access-date=2026-02-27 |work=ABC News |language=en-AU}}</ref><ref>{{Cite news |date=2026-02-15 |title=Aussie Matt Graham claims bronze in men's dual moguls |url=https://www.abc.net.au/news/2026-02-15/dual-moguls-2026-winter-olympic-games/106346230 |access-date=2026-02-27 |work=ABC News |language=en-AU}}</ref> Anthony, with her win in the women's dual moguls subsequently became the first Australian in history to win two gold medals at the Winter Olympics.<ref>{{Cite news |last=Smale |first=Simon |date=2026-02-14 |title=Anthony creates Aussie Winter Olympic history with epic dual moguls win |url=https://www.abc.net.au/news/2026-02-14/winter-olympics-2026-milano-cortina-jakara-anthony-gold/106345576 |access-date=2026-02-27 |work=ABC News |language=en-AU}}</ref>
+{| class="wikitable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+! Total || 6 || 4 || 3|| 13
+!5
+|}
+
+=== Rowing ===
+Australia's first participation in rowing was during the 1912 Summer Olympics, with its first gold medal won in 1928 by [[Bobby Pearce (rower)|Bobby Pearce]] in the men's single sculls.<ref name=":14">{{Cite web |date=2024-08-02 |title=Rowing Olympics |url=https://www.olympics.com.au/sports/rowing/ |access-date=2026-01-22 |website=Australian Olympic Committee |language=en-AU}}</ref> Pearce would repeat as Olympic champion in 1932, with [[Mervyn Wood]] winning the same event in 1948.<ref name=":14" />
+
+Australia's most famous rowing team, the [[Oarsome Foursome]] made their debut in [[Rowing at the 1992 Summer Olympics|1992]], winning gold in the men's coxless four.<ref name=":14" /> The original team that won gold in Barcelona consisted of [[Andrew Cooper (rower)|Andrew Cooper]], [[Nick Green (rower)|Nick Green]], [[Mike McKay (rower)|Mike McKay]] and [[James Tomkins (rower)|James Tomkins]].<ref name=":10" /> They would defend their gold medal in Atlanta four years later with [[Drew Ginn]] replacing Cooper.<ref name=":14" /><ref name=":10" /> Members of the group would go onto win medals in other events in the sport through to 2012.<ref name=":14" /> Tomkins and Ginn would win gold in the men's coxless pair in [[Rowing at the 2004 Summer Olympics|2004]].<ref name=":14" /> Tomkins would also win a bronze medal in the men's coxless pairs in 2000, while McKay would switch to the eight's event, winning silver in 2000 and bronze in 2004.<ref name=":14" /> The last of the Oarsome Foursome to win an Olympic medal was Ginn, medalling in 2012 as part of the silver medal-winning men's coxless four.<ref name=":14" />
+
+Australia would unexpectedly win both the men's and women's coxless four events in [[Rowing at the 2020 Summer Olympics|Tokyo]], with the men's team notably breaking a 20-year winning streak for the British men's team, earning them their first win in the event since the Oarsome Foursome era.<ref>{{Cite web |date=2021-07-28 |title=Australia produces new 'Oarsome Foursome,' times two |url=https://apnews.com/article/2020-tokyo-olympics-sports-australia-olympic-team-netherlands-olympic-team-poland-olympic-team-6ab7b05bc782e29946e6c50f15ae6a9b |access-date=2026-01-22 |website=AP News |language=en}}</ref>
+{| class="wikitable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+!Total
+!13
+!15
+!17
+!45
+!7
+|}
+
+=== Sailing ===
+The first Australian sailing team to appear in an Olympic Games would occur in 1948, with [[Jock Sturrock]], [[Len Fenton]] and [[Robert French (sailor)|Robert French]] as the chosen sailors.<ref name=":21">{{Cite web |date=2024-04-17 |title=Sailing Olympics |url=https://www.olympics.com.au/sports/sailing/ |access-date=2026-02-25 |website=Australian Olympic Committee |language=en-AU}}</ref> Australia's first medals in the sport—a silver and a bronze—occurring eight years after their debut during a home Olympics in Melbourne, a silver courtesy of [[Rolly Tasker]] and John Scott in the Sharpies class, and a bronze medal from Sturrock, Dev Mytton and Doug Buxton in the 5.5 metre class.<ref name=":21" /> 1964 would see Australia win it's first gold medal, coming in the 5.5 metre class, with skipper [[Bill Northam]] at the age of 60 becoming the oldest Australian Olympic gold medallist, winning alongside [[Peter O'Donnell (sailor)|Peter O’Donnell]] and [[James Sargeant]].<ref name=":21" /> The next gold medals would both arrive in 1972, which included; John Cuneo, Tom Anderson and John Shaw winning the Dragon class, and David Forbes and John Anderson in the Star class.<ref name=":21" /> 1976 would see two bronze medals awarded to Australia, one of these bronze medals won by [[John Bertrand (sailor, born 1946)|John Bertrand]] in the Finn class, who would go onto become the skipper on the victorious [[Australia II|Australia II,]] in the [[1983 America's Cup]].<ref name=":21" />
+
+From 1976 until 1996, Australia would win one silver and four bronze medals, three of these medals occurring in the Tornado class, including a silver medal won by [[Mitch Booth]] and [[Andrew Landenberger]] in 1996.<ref name=":21" /> The Sydney Olympics in 2000 would see Australia break their gold medal drought on home soil, sweeping the men's and women's 470 events, courtesy of [[Tom King (sailor)|Tom King]] and [[Mark Turnbull]] in the men's, and [[Jenny Armstrong]] and [[Belinda Stowell]] in the women's.<ref name=":21" /> Although this success was short lived, with Australia finishing with no medals in 2004, the first time no Australian sailors had not achieved a top three placing since 1988.<ref name=":21" />
+
+2008 would see Australia repeat their success from 2000, with [[Malcolm Page (sailor)|Malcolm Page]] and [[Nathan Wilmot]], and [[Tessa Parkinson]] and [[Elise Rechichi]] sweeping the men's and women's 470 classes for the second time in Australian Olympic history.<ref name=":21" /> They would also win a silver medal with Darren Bundock and Glenn Ashby in the men's Tornado.<ref name=":21" /> The Australian sailing team would continue their success in 2012, becoming the most successful sailing nation competing in London, with three gold medals and one silver. The only returning gold medallist, Page, returned to successfully defend his 470 class title, this time alongside [[Mathew Belcher]].<ref name=":21" /> [[Tom Slingsby]] would win gold in the laser, while [[Nathan Outteridge]] and [[Iain Jensen]] emerged victorious in the 49er.<ref name=":21" /> Success would continue to follow in 2016, with one gold medal—[[Tom Burton (sailor)|Tom Burton]] in the men's laser—and four silver medals.<ref name=":21" />
+
+After victories by Slingsby and Burton in the previous two Olympics, Australia won their third consecutive gold medal in the men's laser in Tokyo, this time with [[Matthew Wearn]], while Belcher would win his second gold medal in the 470, this time alongside [[Will Ryan (sailor)|Will Ryan]].<ref name=":21" /> Wearn would also win gold in the laser event in 2024, becoming the first sailor to win back-to-back Olympic titles in the event.<ref>{{Cite news |date=2024-08-07 |title=Aussie super sailor Matt Wearn becomes first back-to-back Olympic champion in men's dinghy |url=https://www.abc.net.au/news/2024-08-08/paris-olympics-australian-sailor-matt-wearn-wins-gold/104198064 |access-date=2026-02-25 |work=ABC News |language=en-AU}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+! Ranking
+|- 
+! [[Sailing at the Summer Olympics|Total]] || 14 || 9 || 8 || 31 || 5
+|}
+
+=== Skateboarding ===
+[[File:25th Laureus World Sports Awards - Red Carpet - Arisa Trew - 240422 173140.jpg|thumb|[[Arisa Trew]] is the first Australian female Olympic champion in skateboarding, winning the [[Skateboarding at the 2024 Summer Olympics – Women's park|women's park]] in [[2024 Summer Olympics|2024]]. She is also Australia's youngest-ever Olympic gold medallist.]]
+Skateboarding made it's first appearance at the postponed [[Skateboarding at the 2020 Summer Olympics|2020 Olympics]], with Australia receiving five quota spots, two in the men's park, and one each in the women's park and both street events.<ref>{{Cite web |date=2021-07-01 |title=Skaters Ready to Shred at Olympic Debut |url=https://www.olympics.com.au/news/skaters-ready-to-shred-at-olympic-debut/ |access-date=2026-02-22 |website=Australian Olympic Committee |language=en-AU}}</ref> It would also see the first Australian crowned Olympic champion in skateboarding, with [[Keegan Palmer]] winning the [[Skateboarding at the 2020 Summer Olympics – Men's park|men's park]].<ref name=":18">{{Cite news |last=Snape |first=Jack |date=2024-08-07 |title=Keegan Palmer doubles up for Australia with Olympic skateboard gold at Paris Games |url=https://www.theguardian.com/sport/article/2024/aug/08/paris-olympics-skateboard-park-keegan-palmer-gold-medal-australia |access-date=2026-02-22 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> In [[Skateboarding at the 2024 Summer Olympics|2024]], Australia was given nine quota spots, five in the park and four in the street events.<ref name=":19">{{Cite web |date=2024-07-02 |title=Nine skaters selected for Australian Olympic Team |url=https://www.olympics.com.au/news/nine-skaters-selected-for-australian-olympic-team/ |access-date=2026-02-22 |website=Australian Olympic Committee |language=en-AU}}</ref> Australia swept the gold medal in both [[Skateboarding at the 2024 Summer Olympics – Men's park|men's]] and [[Skateboarding at the 2024 Summer Olympics – Women's park|women's park]] events, with Palmer winning back-to-back gold in the men's event and [[Arisa Trew]] in the women's, who subsequently became Australia's youngest-ever Olympic gold medallist.<ref name=":18" /><ref>{{Cite news |date=2024-08-06 |title='You've just got to go all out': How an Aussie teenager wrote herself into the Olympic record books |url=https://www.abc.net.au/news/2024-08-07/paris-olympics-arisa-trew-gold-medal-skateboarding-australia/104192674 |access-date=2026-02-22 |work=ABC News |language=en-AU}}</ref> Trew also became the youngest Australian athlete to be selected for an Olympics since 1984.<ref name=":19" />
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+!Ranking
+|-
+! Total || 3 || 0 || 0 || 3
+!2
+|}
+
+===Tennis===
+
+Australia first competed in tennis at the inaugural 1896 Games, with one player competing in men's singles and, as part of a mixed team, in men's doubles. [[Edwin Flack]] lost in the first round of the singles, but paired with [[George S. Robertson]] to earn bronze in the doubles. The mixed team medal is not credited to Australia. The first tennis gold medal won by Australia was by [[the Woodies]] in men's doubles in 1996; the pair also won Australia's only silver medal in the sport four years later. In 2024, [[Matthew Ebden]] and [[John Peers]] won the men's doubles, providing Australia with its second gold medal in tennis.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+!Ranking
+|-
+! Total || 2 || 1 || 4 || 7{{Efn|Does not include a bronze medal won in 1896 by a mixed team with an Australian player.}}
+!10
+|}
+
+==See also==
+{{portal|Olympics}}
+* [[List of flag bearers for Australia at the Olympics]]
+* [[Australia at the Winter Olympics]]
+* [[Australia at the Commonwealth Games]]
+* [[Australia at the Universiade]]
+* [[Australia at the World Championships in Athletics]]
+* [[:Category:Olympic competitors for Australia]]
+
+==Notes==
+{{Notelist|liststyle=lower-alpha}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{cite web |title=Australia |date=27 July 2021 |publisher=International Olympic Committee |url=https://www.olympic.org/australia }}
+* {{cite web |title=Australia |publisher=Olympedia.com |url=http://www.olympedia.org/countries/AUS }}
+* {{cite web |title=Olympic Analytics/AUS |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=AUS }}
+* [http://www.olympics.com.au/ Australia NOC]
+
+{{country at games navbox|Australia|Olympics}}
+{{Nations at the Olympics}}
+{{National sports teams of Australia}}
+{{Sport in Australia}}
+
+[[Category:Australia at the Olympics| ]]

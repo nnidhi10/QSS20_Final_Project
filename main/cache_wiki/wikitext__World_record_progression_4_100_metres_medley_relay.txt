@@ -1,0 +1,4205 @@
+{{Short description|none}}
+{{main|List of world records in swimming}}
+This article includes the '''world record progression for the 4×100 metres medley relay''', and it shows the chronological history of world record times in that competitive [[swimming (sport)|swimming]] event. The 4×100 metres medley relay is a [[medley swimming|medley]] race in which each of four swimmers on a team swims a 100-metre leg of the relay, each swimming a different [[List of swimming styles|stroke]], in the following sequence:
+# [[Backstroke]] (this can only be the first stroke, due to the necessity of starting this leg in the pool rather than by diving in)
+# [[Breaststroke]]
+# [[Butterfly stroke|Butterfly]]
+# [[Freestyle swimming|Freestyle]] ("freestyle" means anything swum on the front – most swimmers use the [[front crawl]]).
+
+Swimming world records are recognized by and maintained by [[FINA]] ("Fédération Internationale de Natation"), the international competitive swimming and aquatics federation that oversees the sport in international competition.  World records in the medley relay event were first recognized by FINA in 1953.  The long course (50-metre pool) world records are historically older than the short-course (25-metre pool) records.  FINA amended its regulations governing the recognition of world records in 1956; specifically, FINA mandated that only record times that were contested in 50-metre (or 55-yard) pools were eligible for recognition after that time.<ref>Craig Lord, "[http://www.swimvortex.com/a-time-of-change-for-world-records/  A Time of Change for World Records] {{Webarchive|url=https://web.archive.org/web/20170608130928/http://www.swimvortex.com/a-time-of-change-for-world-records/ |date=2017-06-08 }}," SwimVortex.com (28 May 2013).  Retrieved 20 March 2015.</ref>  The short-course world records have been separately recognized since 1991. On July 25, 2013 FINA Technical Swimming Congress voted to allow world records in the long course mixed 400 free relay and mixed 400 medley relay, as well as in six events in short course meters: the mixed 200 medley and 200 free relays, as well as the men's and women's 200 free relays and the men's and women's 200 medley relays.<ref>{{cite web|title=FINA Swimming Rules 2013 - 2017 incl. World Record Application Form|url=http://www.fina.org/H2O/docs/rules/sw_rules_20132017_inclwrform.pdf|publisher=[[FINA]]|date=16 August 2013|access-date=5 December 2015|archive-date=24 August 2015|archive-url=https://web.archive.org/web/20150824112202/http://www.fina.org/H2O/docs/rules/sw_rules_20132017_inclwrform.pdf|url-status=dead}}</ref> In October 2013 FINA decided to establish "standards" before something can be recognized as the first world record in these events.<ref>{{cite news|title=FINA To Set World Best Standards For Mixed Relays|url=http://www.swimvortex.com/fina-to-set-world-best-standards-for-mixed-relays/|publisher=swimvortex.com|author=Craig Lord|date=3 October 2013|access-date=5 December 2015|archive-date=8 December 2015|archive-url=https://web.archive.org/web/20151208091537/http://www.swimvortex.com/fina-to-set-world-best-standards-for-mixed-relays/|url-status=dead}}</ref> But later on March 13, 2014 FINA has officially ratified the eight world records set by Indiana University swimmers at the IU Relay Rally held on September 26, 2013 in Bloomington.<ref name="Swimming World Magazine">{{cite magazine|title=FINA Goes Back in Time to Ratify Indiana Hoosier Swims as World Records|url=http://www.swimmingworldmagazine.com/lane9/news/World/38199.asp?q=FINA-Goes-Back-in-Time-to-Ratify-Indiana-Hoosier-Swims-as-World-Records|magazine=[[Swimming World Magazine]]|date=13 March 2014|access-date=5 December 2015}}</ref>
+
+It is possible to set an individual world record in the [[World record progression 100 metres backstroke|100 metres backstroke]] by swimming the backstroke first leg of the 4×100-metre medley relay, except in the mixed relay.<ref>{{cite magazine |url=http://www.swimmingworldmagazine.com/news/ryan-murphys-blistering-backstroke-leads-usa-to-mixed-400-medley-relay-world-record-at-2015-fina-world-championships/ |title=Ryan Murphy's Blistering Backstroke Leads USA to Mixed 400 Medley Relay World Record at 2015 FINA World Championships |magazine=[[Swimming World Magazine]] |access-date=December 5, 2015 }}</ref>  Swimming the other three legs of the medley relay cannot qualify as world records as FINA criteria require a "static start" for world record recognition – swimming relay exchanges are characterized as "dynamic".
+
+The first Olympics at which the 4×100&nbsp;metres medley relay event was contested was the [[Swimming at the 1960 Summer Olympics|1960 Summer Olympics]] in Rome.
+
+==Men==
+
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecordrelay
+|number = 1
+|time = 4:39.2
+|1lastname = Hellsing
+|1name = [[Gustaf Hellsing]]
+|1split = 
+|2name = [[Lennart Brock]]
+|2split = 
+|3name = [[Roy Dahl]]
+|3split = 
+|4name = [[Hakan Westesson]]
+|4split = 
+|nation = SWE
+|date = {{Dts|format=dmy|1953|Feb|22}}
+|meet = -
+|country = SWE
+|city = Helsingborg
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 2
+|time = 4:32.2
+|1lastname = Bozon
+|1name = [[Gilbert Bozon]]
+|1split = 
+|2name = [[Pierre Dumesnil]]
+|2split = 
+|3name = [[Maurice Lusien]]
+|3split = 
+|4name = [[Alex Jany]]
+|4split = 
+|nation = FRA
+|date = {{Dts|format=dmy|1953|Mar|22}}
+|meet = -
+|country = BEL
+|city = Charleroi
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 3
+|time = 4:31.5
+|1lastname = Violas
+|1name = [[A. Violas]]
+|1split = 
+|2name = [[Pierre Dumesnil]]
+|2split = 
+|3name = [[Julian Arene]]
+|3split = 
+|4name = [[Aldo Eminente]]
+|4split = 
+|nation = FRA
+|date = {{Dts|format=dmy|1953|Apr|1}}
+|meet = -
+|country = FRA
+|city = Troyes
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 4
+|time = 4:30.8
+|1lastname = Hellsing
+|1name = [[Gustaf Hellsing]]
+|1split = 
+|2name = [[Lennart Brock]]
+|2split = 
+|3name = [[Göran Larsson (swimmer)|Göran Larsson]]
+|3split = 
+|4name = [[Per-Olof Östrand]]
+|4split = 
+|nation = SWE
+|date = {{Dts|format=dmy|1953|Apr|17}}
+|meet = -
+|country = SWE
+|city = Lund
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 5
+|time = 4:27.8
+|1lastname = Hellsing
+|1name = [[Gustaf Hellsing]]
+|1split = 
+|2name = [[Lennart Brock]]
+|2split = 
+|3name = [[Göran Larsson (swimmer)|Göran Larsson]]
+|3split = 
+|4name = [[Per-Olof Östrand]]
+|4split = 
+|nation = SWE
+|date = {{Dts|format=dmy|1953|Apr|24}}
+|meet = -
+|country = SWE
+|city = Borås
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 6
+|time = 4:24.8
+|1lastname = Lopatin
+|1name = [[Viktor Lopatin]]
+|1split = 
+|2name = [[Vladimir Minashkin]]
+|2split = 
+|3name = [[Pyotr Skripchenkov]]
+|3split = 
+|4name = [[Lev Balandin]]
+|4split = 
+|nation = URS
+|date = {{Dts|format=dmy|1953|May|13}}
+|meet = -
+|country = URS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 7
+|time = 4:21.3
+|1lastname = Solovyov
+|1name = [[Viktor Solovyov (swimmer)|Viktor Solovyov]]
+|1split = 
+|2name = [[Vladimir Minashkin]]
+|2split = 
+|3name = [[Pyotr Skripchenkov]]
+|3split = 
+|4name = [[Lev Balandin]]
+|4split = 
+|nation = URS
+|date = {{Dts|format=dmy|1954|Jan|26}}
+|meet = -
+|country = URS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 8
+|time = 4:19.0
+|1lastname = Solovyov
+|1name = [[Viktor Solovyov (swimmer)|Viktor Solovyov]]
+|1split = 
+|2name = [[Vladimir Minashkin]]
+|2split = 
+|3name = [[Pyotr Skripchenkov]]
+|3split = 
+|4name = [[Lev Balandin]]
+|4split = 
+|nation = URS
+|date = {{Dts|format=dmy|1954|Feb|24}}
+|meet = -
+|country = SWE
+|city = Stockholm
+|ref = <ref>{{cite news |title=Sports in Brief: Russian Swimming Records |newspaper=[[The Times]] |date=1954-02-25 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 9
+|time = 4:14.8
+|1lastname = Kuvaldin
+|1name = [[G. Kuvaldin]]
+|1split = 
+|2name = [[Vladimir Minashkin]]
+|2split = 
+|3name = [[Vladimir Strushanov]]
+|3split = 
+|4name = [[Lev Balandin]]
+|4split = 
+|nation = URS
+|date = {{Dts|format=dmy|1956|Aug|14}}
+|meet = Olympic Trials
+|country = URS
+|city = Moscow
+|ref = <ref>{{cite news |title=Sports in Brief |date=1954-08-15 |newspaper=[[The Times]] |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 10
+|time = 4:17.8
+|1lastname = Tomita
+|1name = [[Kazuo Tomita]]
+|1split = 1:01.2
+|2name = [[Masaru Furukawa]]
+|2split = -
+|3name = [[Takashi Ishimoto]]
+|3split = -
+|4name = [[Katsuki Ishihara]]
+|4split = -
+|nation = JPN
+|date = {{Dts|format=dmy|1957|Sep|7}}
+|meet = All-Japan Student Championships
+|country = JPN
+|city = Tokyo
+|ref = <ref>{{cite news |title=Sports in Brief |date=1957-09-09 |newspaper=[[The Times]] |page=13 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 11
+|time = 4:17.2
+|1lastname = Hase
+|1name = [[Keiji Hase]]
+|1split = 1:05.5
+|2name = [[Masaru Furukawa]]
+|2split = 1:13.4
+|3name = [[Takashi Ishimoto]]
+|3split = 1:00.4
+|4name = [[Manabu Koga]]
+|4split = 57.9
+|nation = JPN
+|date = {{Dts|format=dmy|1958|May|28}}
+|meet = [[1958 Asian Games|Asian Games]]
+|country = JPN
+|city = Tokyo
+|ref = <ref>{{cite web |url=http://www.swim.or.jp/magazine/download/120.pdf |script-title=ja:第3回アジア大会総合成績 |access-date=13 February 2021 |date=15 December 1958 |language=ja |page=19 |publisher=[[Japan Swimming Federation]] |archive-date=5 August 2016 |archive-url=https://web.archive.org/web/20160805181144/http://www.swim.or.jp/magazine/download/120.pdf |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 12
+|time = 4:16.7
+|1lastname = Hase
+|1name = [[Keiji Hase]]
+|1split = 1:05.4
+|2name = [[Masaru Furukawa]]
+|2split = 1:13.4
+|3name = [[Takashi Ishimoto]]
+|3split = 59.6
+|4name = [[Manabu Koga]]
+|4split = 58.3
+|nation = JPN
+|date = {{Dts|format=dmy|1958|Jun|29}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|ref = <ref>{{cite web |url=http://www.swim.or.jp/magazine/download/123124.pdf |script-title=ja:国際招待大会 |access-date=13 February 2021 |date=30 January 1959 |language=ja |page=106 |publisher=[[Japan Swimming Federation]] |archive-date=5 August 2016 |archive-url=https://web.archive.org/web/20160805181220/http://www.swim.or.jp/magazine/download/123124.pdf |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 13
+|time = 4:14.2
+|recordinfo = yd
+|1lastname = Monckton
+|1name = [[John Monckton (swimmer)|John Monckton]]
+|1split =  
+|2name = [[Terry Gathercole]]
+|2split = 
+|3name = [[Brian Wilkinson]]
+|3split = 
+|4name = [[John Devitt]]
+|4split = 
+|nation = AUS
+|date = {{Dts|format=dmy|1958|Jul|25}}
+|meet = [[1958 British Empire and Commonwealth Games|British Empire and Commonwealth Games]]
+|country = UK
+|city = Cardiff
+|ref = <ref>{{cite news |title=Empire Games Results: Swimming |date=1958-07-26 |newspaper=[[The Times]] |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 14
+|time = 4:10.4
+|1lastname = Monckton
+|1name = [[John Monckton (swimmer)|John Monckton]]
+|1split = 
+|2name = [[Terry Gathercole]]
+|2split = 
+|3name = [[Brian Wilkinson]]
+|3split = 
+|4name = [[John Devitt]]
+|4split = 
+|nation = AUS
+|date = {{Dts|format=dmy|1958|Aug|22}}
+|meet = -
+|country = JPN
+|city = Osaka
+|ref = <ref>{{cite news |title=Swimming record for Australians |date=1958-08-23 |newspaper=[[The Times]] |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 15
+|time = 4:09.2
+|1lastname = McKinney
+|1name = [[Frank McKinney]]
+|1split = 
+|2name = [[Chet Jastremski]]
+|2split = 
+|3name = [[Mike Troy]]
+|3split = 
+|4name = [[Peter Sintz]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1960|Jul|24}}
+|meet = -
+|country = USA
+|city = Toledo, Ohio
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 16
+|time = 4:08.2
+|recordinfo = h
+|1lastname = Bennett
+|1name = [[Bob Bennett (swimmer)|Bob Bennett]]
+|1split = 
+|2name = [[Paul Hait]]
+|2split = 
+|3name = [[Dave Gillanders]]
+|3split = 
+|4name = [[Steve Clark (swimmer)|Steve Clark]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1960|Aug|27}}
+|meet = [[Swimming at the 1960 Summer Olympics|Olympic Games]]
+|country = ITA
+|city = Rome
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 17
+|time = 4:05.4
+|1lastname = McKinney
+|1name = [[Frank McKinney]]
+|1split = 1:02.0
+|2name = [[Paul Hait]]
+|2split = 1:10.5
+|3name = [[Lance Larson]]
+|3split = 58.0
+|4name = [[Jeff Farrell]]
+|4split = 54.9
+|nation = USA
+|date = {{Dts|format=dmy|1960|Sep|1}}
+|meet = [[Swimming at the 1960 Summer Olympics|Olympic Games]]
+|country = ITA
+|city = Rome
+|ref = <ref>{{cite news |title=Swimming night of triumph for U.S.: Two world marks and three gold medals |date=1960-09-02 |newspaper=[[The Times]] |page=4 }}</ref><ref>{{cite web|url=https://swim.or.jp/assets/files/pdf/pages/magazine/135136.pdf |script-title=ja:競泳競技 |access-date=11 December 2021 |date=15 December 1960 |language=ja |page= 8 |publisher= [[Japan Swimming Federation]]}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 18
+|time = 4:03.0
+|1lastname = Stock
+|1name = [[Tom Stock (swimmer)|Tom Stock]]
+|1split = 
+|2name = [[Chet Jastremski]]
+|2split = 
+|3name = [[Lary Schulhof]]
+|3split = 
+|4name = [[Peter Sintz]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1961|Aug|20}}
+|meet = -
+|country = USA
+|city = Los Angeles
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 19
+|time = 4:01.6
+|1lastname = Stock
+|1name = [[Tom Stock (swimmer)|Tom Stock]]
+|1split = 
+|2name = [[Chet Jastremski]]
+|2split = 
+|3name = [[Fred Schmidt]]
+|3split = 
+|4name = [[Peter Sintz]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1962|Aug|12}}
+|meet = -
+|country = USA
+|city = Cuyahoga Falls
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 20
+|time = 4:00.1
+|1lastname = McGeagh
+|1name = [[Richard McGeagh]]
+|1split = 
+|2name = [[Bill Craig (swimmer)|Bill Craig]]
+|2split = 
+|3name = [[Walter Richardson (swimmer)|Walter Richardson]]
+|3split = 
+|4name = [[Steve Clark (swimmer)|Steve Clark]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1963|Aug|24}}
+|meet = -
+|country = JPN
+|city = Osaka
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 21
+|time = 3:58.4
+|1lastname = Mann
+|1name = [[Thompson Mann]]
+|1split = 59.6 WR
+|2name = [[Bill Craig (swimmer)|Bill Craig]]
+|2split = 1:09.6
+|3name = [[Fred Schmidt]]
+|3split = 56.8
+|4name = [[Steve Clark (swimmer)|Steve Clark]]
+|4split = 52.4
+|nation = USA
+|date = {{Dts|format=dmy|1964|Oct|16}}
+|meet = [[Swimming at the 1964 Summer Olympics|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite news |title=Miss Stouder untroubled by Dutch enthusiasm |date=1964-10-17 |newspaper=[[The Times]] |page=4 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 22
+|time = 3:57.2
+|1lastname = Hickcox
+|1name = [[Charlie Hickcox]]
+|1split = 59.1 WR
+|2name = [[Ken Merten]]
+|2split = 
+|3name = [[Doug Russell (swimmer)|Doug Russell]]
+|3split = 
+|4name = [[Ken Walsh]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|Aug|31}}
+|meet = [[1967 Summer Universiade|Universiade]]
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 23
+|time = 3:56.5
+|1lastname = Matthes
+|1name = [[Roland Matthes]]
+|1split = 
+|2name = [[Egon Henninger]]
+|2split = 
+|3name = [[Horst-Gunther Gregor]]
+|3split = 
+|4name = [[Frank Wiegand]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1967|Nov|7}}
+|meet = -
+|city = Leipzig
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 24
+|time = 3:54.9
+|1lastname = Hickcox
+|1name = [[Charlie Hickcox]]
+|1split = 
+|2name = [[Don McKenzie (swimmer)|Don McKenzie]]
+|2split = 
+|3name = [[Doug Russell (swimmer)|Doug Russell]]
+|3split = 
+|4name = [[Ken Walsh]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1968|Oct|26}}
+|meet = [[Swimming at the 1968 Summer Olympics|Olympic Games]]
+|city = Mexico City
+|country = MEX
+|ref = <ref>{{cite news |title=Great feat by America |date=1968-10-28 |newspaper=[[The Times]] |page=11 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 25
+|time = 3:54.4
+|1lastname = Matthes
+|1name = [[Roland Matthes]]
+|1split = 
+|2name = [[Klaus Katzur]]
+|2split = 
+|3name = [[Udo Poser]]
+|3split = 
+|4name = [[Lutz Unger]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1970|Sep|8}}
+|meet = [[1970 European Aquatics Championships|European Championships]]
+|city = Barcelona
+|country = ESP
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 26
+|time = 3:50.4
+|1lastname = Campbell
+|1name = [[Charles Campbell (swimmer)|Charles Campbell]]
+|1split = 
+|2name = [[Peter Dahlberg]]
+|2split = 
+|3name = [[Mark Spitz]]
+|3split = 
+|4name = [[Jerry Heidenreich]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1971|Sep|3}}
+|meet = GDRvUSA Duel
+|city = Leipzig
+|country = GDR
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 27
+|time = 3:48.16
+|1lastname = Stamm
+|1name = [[Mike Stamm]]
+|1split = 57.97
+|2name = [[Tom Bruce (swimmer)|Tom Bruce]]
+|2split = 1:04.22
+|3name = [[Mark Spitz]]
+|3split = 54.28
+|4name = [[Jerry Heidenreich]]
+|4split = 51.69
+|nation = USA
+|date = {{Dts|format=dmy|1972|Sep|4}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 28
+|time = 3:47.28
+|1lastname = Rocca
+|1name = [[Peter Rocca]]
+|1split = 57.94
+|2name = [[Chris Woo]]
+|2split = 1:04.46
+|3name = [[Joe Bottom]]
+|3split = 54.30
+|4name = [[Jack Babashoff]]
+|4split = 50.58
+|nation = USA
+|date = {{Dts|format=dmy|1976|Jul|22}}
+|meet = [[Swimming at the 1976 Summer Olympics|Olympic Games]]
+|city = Montreal
+|country = CAN
+|ref = <ref name="auto7">{{Cite web|url=https://www.worldaquatics.com/competitions/1097/olympic-games-montreal-1976/results|title=Competition Results &#124; World Aquatics Official|website=World Aquatics}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 29
+|time = 3:42.22
+|1lastname = Naber
+|1name = [[John Naber]]
+|1split = 55.89
+|2name = [[John Hencken]]
+|2split = 1:02.50
+|3name = [[Matt Vogel (swimmer)|Matt Vogel]]
+|3split = 54.26
+|4name = [[Jim Montgomery (swimmer)|Jim Montgomery]]
+|4split = 49.57
+|nation = USA
+|date = {{Dts|format=dmy|1976|Jul|22}}
+|meet = [[Swimming at the 1976 Summer Olympics|Olympic Games]]
+|city = Montreal
+|country = CAN
+|ref = <ref name="auto7"/>
+}}
+{{Swimmingrecordrelay
+|number = 30
+|time = 3:40.84
+|1lastname = Carey
+|1name = [[Rick Carey]]
+|1split = 
+|2name = [[Steve Lundquist]]
+|2split = 
+|3name = [[Matt Gribble]]
+|3split = 
+|4name = [[Rowdy Gaines]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1982|Aug|7}}
+|meet = [[1982 World Aquatics Championships|World Championships]]
+|city = Guayaquil
+|country = ECU
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 31
+|time = 3:40.42
+|1lastname = Carey
+|1name = [[Rick Carey]]
+|1split = 
+|2name = [[Steve Lundquist]]
+|2split = 
+|3name = [[Matt Gribble]]
+|3split = 
+|4name = [[Rowdy Gaines]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1983|Aug|22}}
+|meet = [[Swimming at the 1983 Pan American Games|Pan American Games]]
+|city = Caracas
+|country = VEN
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 32
+|time = 3:39.30
+|1lastname = Carey
+|1name = [[Rick Carey]]
+|1split = 55.41
+|2name = [[Steve Lundquist]]
+|2split = 1:01.86
+|3name = [[Pablo Morales]]
+|3split = 52.87
+|4name = [[Rowdy Gaines]]
+|4split = 49.16
+|nation = USA
+|date = {{Dts|format=dmy|1984|Aug|4}}
+|meet = [[Swimming at the 1984 Summer Olympics|Olympic Games]]
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 33
+|time = 3:38.28
+|1lastname = Carey
+|1name = [[Rick Carey]]
+|1split = 56.32
+|2name = [[John Moffet (swimmer)|John Moffet]]
+|2split = 1:01.37
+|3name = [[Pablo Morales]]
+|3split = 52.75
+|4name = [[Matt Biondi]]
+|4split = 47.84
+|nation = USA
+|date = {{Dts|format=dmy|1985|Aug|18}}
+|meet = [[1985 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite news |title=Sport in Brief |newspaper=[[The Times]] |date=1985-08-19 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = {{sort|34.1|34}}
+|time = 3:36.93
+|1lastname = Berkoff
+|1name = [[David Berkoff]]
+|1split = 54.56
+|2name = [[Rick Schroeder (swimmer)|Rick Schroeder]]
+|2split = 1:01.64
+|3name = [[Matt Biondi]]
+|3split = 52.38
+|4name = [[Chris Jacobs (swimmer)|Chris Jacobs]]
+|4split = 48.35
+|nation = USA
+|date = {{Dts|format=dmy|1988|Sep|25}}
+|meet = [[Swimming at the 1988 Summer Olympics|Olympic Games]]
+|city = Seoul
+|country = KOR
+|ref = <ref>{{cite news |title=Otto Takes 6th Gold; One More For Biondi |newspaper=[[The New York Times]] |author=Frank Litsky |date=1988-09-26 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = {{sort|34.2|34<nowiki>=</nowiki>}}
+|time = 3:36.93
+|1lastname = Rouse
+|1name = [[Jeff Rouse (swimmer)|Jeff Rouse]]
+|1split = 53.86 WR
+|2name = [[Nelson Diebel]]
+|2split = 1:01.45
+|3name = [[Pablo Morales]]
+|3split = 52.83
+|4name = [[Jon Olsen]]
+|4split = 48.79
+|nation = USA
+|date = {{Dts|format=dmy|1992|Jul|31}}
+|meet = [[Swimming at the 1992 Summer Olympics|Olympic Games]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite news |title=Two world records steal spotlight from Hungarians |newspaper=[[The Times]] |date=1992-08-01 |author=Craig Lord |page=27 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 35
+|time = 3:34.84
+|1lastname = Rouse
+|1name = [[Jeff Rouse (swimmer)|Jeff Rouse]]
+|1split = 53.95
+|2name = [[Jeremy Linn]]
+|2split = 1:00.32
+|3name = [[Mark Henderson (swimmer)|Mark Henderson]]
+|3split = 52.39
+|4name = [[Gary Hall, Jr.]]
+|4split = 48.18
+|nation = USA
+|date = {{Dts|format=dmy|1996|Jul|26}}
+|meet = [[Swimming at the 1996 Summer Olympics|Olympic Games]]
+|city = Atlanta
+|country = USA
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 36
+|time = 3:33.73
+|1lastname = Krayzelburg
+|1name = [[Lenny Krayzelburg]]
+|1split = 53.87
+|2name = [[Ed Moses (swimmer)|Ed Moses]]
+|2split = 59.84
+|3name = [[Ian Crocker]]
+|3split = 52.10
+|4name = [[Gary Hall, Jr.]]
+|4split = 47.92
+|nation = USA
+|date = {{Dts|format=dmy|2000|Sep|23}}
+|meet = [[Swimming at the 2000 Summer Olympics|Olympic Games]]
+|city = Sydney
+|country = AUS
+|ref = <ref>{{cite news |title=U.S. makes biggest, and the final, waves; the Americans finish with a medley-relay sweep; again |newspaper=[[The New York Times]] |author=Christopher Clarey |date=2000-09-24 |page=SP11 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 37
+|time = 3:33.48
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 54.17
+|2name = [[Brendan Hansen]]
+|2split = 1:00.14
+|3name = [[Michael Phelps]]
+|3split = 51.13
+|4name = [[Jason Lezak]]
+|4split = 48.04
+|nation = USA
+|date = {{Dts|format=dmy|2002|Aug|29}}
+|meet = [[2002 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Yokohama
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 38
+|time = 3:31.54
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 53.71
+|2name = [[Brendan Hansen]]
+|2split = 59.61
+|3name = [[Ian Crocker]]
+|3split = 50.39
+|4name = [[Jason Lezak]]
+|4split = 47.83
+|nation = USA
+|date = {{Dts|format=dmy|2003|Jul|27}}
+|meet = [[2003 World Aquatics Championships|World Championships]]
+|city = Barcelona
+|country = ESP
+|ref = <ref>{{cite news |title=Phelps is drenched in gold |date=2003-08-28 |author=Christopher Clarey |newspaper=International Herald Tribune |page=14 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 39
+|time = 3:30.68
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 53.45 WR
+|2name = [[Brendan Hansen]]
+|2split = 59.37
+|3name = [[Ian Crocker]]
+|3split = 50.28
+|4name = [[Jason Lezak]]
+|4split = 47.58
+|nation = USA
+|date = {{Dts|format=dmy|2004|Aug|21}}
+|meet = [[Swimming at the 2004 Summer Olympics|Olympic Games]]
+|city = Athens
+|country = GRE
+|ref = <ref>{{cite news |title=U.S. Men Smash Record To Take the Final Gold |newspaper=[[The New York Times]] |page=SP8 |author=Lynn Zinser |date=2004-08-22 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 40
+|time = 3:29.34
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 53.16
+|2name = [[Brendan Hansen]]
+|2split = 59.27
+|3name = [[Michael Phelps]]
+|3split = 50.15
+|4name = [[Jason Lezak]]
+|4split = 46.76
+|nation = USA
+|date = {{Dts|format=dmy|2008|Aug|17}}
+|meet = [[Swimming at the 2008 Summer Olympics|Olympic Games]]
+|city = Beijing
+|country = CHN
+|ref = <ref>{{cite news |first=Karen |last=Crouse |title=Phelps's epic journey ends in perfection |url=https://www.nytimes.com/2008/08/17/sports/olympics/17swim.html |newspaper=[[The New York Times]] |date=2004-08-16 |access-date=2008-08-18 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 41
+|time = 3:27.28
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 52.19
+|2name = [[Eric Shanteau]]
+|2split = 58.57
+|3name = [[Michael Phelps]]
+|3split = 49.72
+|4name = [[David Walters (swimmer)|David Walters]]
+|4split = 46.80
+|nation = USA
+|date = {{Dts|format=dmy|2009|Aug|2}}
+|meet = [[Swimming at the 2009 World Aquatics Championships|World Championships]]
+|city = Rome
+|country = Italy
+|ref=
+}}
+{{Swimmingrecordrelay
+|number = 42
+|time = 3:26.78
+|1lastname = Peirsol
+|1name = [[Ryan Murphy (swimmer)|Ryan Murphy]]
+|1split = 52.31
+|2name = [[Michael Andrew (swimmer)|Michael Andrew]]
+|2split = 58.49
+|3name = [[Caeleb Dressel]]
+|3split = 49.03
+|4name = [[Zach Apple]]
+|4split = 46.95
+|nation = USA
+|date = {{Dts|format=dmy|2021|Aug|1}}
+|meet = [[Swimming at the 2020 Summer Olympics|Olympic Games]]
+|city = Tokyo
+|country = Japan
+|ref = <ref>{{cite news |title=Men's 4 x 100m Medley Relay Final |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf |date=2021-08-01 |access-date=2021-08-01 |archive-date=2021-08-01 |archive-url=https://web.archive.org/web/20210801042748/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf |url-status=dead }}</ref>
+}}
+{{End}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecordrelay
+|number = 1
+|time = 3:34.86
+|recordinfo = 
+|1lastname = Tewksbury
+|1name = [[Mark Tewksbury]]
+|1split = 52.50 WBT
+|2name = [[John Cleveland (swimmer)|John Cleveland]]
+|2split = -
+|3name = [[Tom Ponting]]
+|3split = -
+|4name = [[Stephen Vandermeulen]]
+|4split = -
+|nation = CAN
+|date = {{Dts|format=dmy|1992|Feb|22}}
+|meet = CAN SC Nationals
+|country = CAN
+|city = Winnipeg
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 2
+|time = 3:32.57
+|recordinfo = 
+|1lastname = Schwenk
+|1name = [[Tripp Schwenk]]
+|1split = 53.24
+|2name = [[Seth Van Neerden]]
+|2split = 59.43
+|3name = [[Mark Henderson (swimmer)|Mark Henderson]]
+|3split = 52.20
+|4name = [[Jon Olsen]]
+|4split = 47.70
+|nation = USA
+|date = {{Dts|format=dmy|1993|Dec|2}}
+|meet = [[1993 FINA Short Course World Championships|World SC Championships]]
+|country = ESP
+|city = Palma de Mallorca
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 3
+|time = 3:30.91
+|recordinfo = 
+|1lastname = Radley
+|1name = [[Adrian Radley]]
+|1split = 52.28
+|2name = [[Ryan Mitchell (swimmer)|Ryan Mitchell]]
+|2split = 59.68
+|3name = [[Geoff Huegill]]
+|3split = 51.10
+|4name = [[Michael Klim]]
+|4split = 47.85
+|nation = AUS
+|date = {{Dts|format=dmy|1996|Dec|23}}
+|meet = AUS SC Nationals
+|country = AUS
+|city = Melbourne
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 4
+|time = 3:30.66
+|recordinfo = 
+|1lastname = Radley
+|1name = [[Adrian Radley]]
+|1split = 52.72
+|2name = [[Phil Rogers]]
+|2split = 59.39
+|3name = [[Geoff Huegill]]
+|3split = 51.35
+|4name = [[Michael Klim]]
+|4split = 47.20
+|nation = AUS
+|date = {{Dts|format=dmy|1997|Apr|17}}
+|meet = [[1997 FINA Short Course World Championships|World SC Championships]]
+|country = SWE
+|city = Gothenburg
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 5
+|time = 3:29.88
+|recordinfo = 
+|1lastname = Welsh
+|1name = [[Matt Welsh]]
+|1split = 53.34
+|2name = [[Phil Rogers]]
+|2split = 59.47
+|3name = [[Michael Klim]]
+|3split = 50.69
+|4name = [[Chris Fydler]]
+|4split = 46.38
+|nation = AUS
+|date = {{Dts|format=dmy|1999|Apr|4}}
+|meet = [[1999 FINA Short Course World Championships|World SC Championships]]
+|country = HKG
+|city = Hong Kong
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 6
+|time = 3:29.00
+|recordinfo = 
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 52.17
+|2name = [[David Denniston]]
+|2split = 58.56
+|3name = [[Peter Marshall (swimmer)|Peter Marshall]]
+|3split = 51.93
+|4name = [[Jason Lezak]]
+|4split = 46.34
+|nation = USA
+|date = {{Dts|format=dmy|2002|Apr|7}}
+|meet = [[2002 FINA Short Course World Championships|World SC Championships]]
+|country = RUS
+|city = Moscow
+|ref = <ref>{{cite news |url=http://www.swimnews.com/News/view/1612 |title=Americans End Championships With Three World Records |author=Nick Thierry |publisher=SwimNews.com |date=2002-04-07 |access-date=2009-02-24 |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519035926/http://www.swimnews.com/News/view/1612 |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 7
+|time = 3:28.12
+|recordinfo = tt
+|1lastname = Welsh
+|1name = [[Matt Welsh]]
+|1split = 50.95
+|2name = [[Jim Piper]]
+|2split = 59.44
+|3name = [[Geoff Huegill]]
+|3split = 50.61
+|4name = [[Ashley Callus]]
+|4split = 47.12
+|nation = AUS
+|date = {{Dts|format=dmy|2002|Sep|4}}
+|meet = AUS SC Nationals
+|country = AUS
+|city = Melbourne
+|ref = <ref>{{cite news |title=Aussies Deadly in World Record Medley |url=http://www.swimnews.com/News/view/1735 |author=Maggie Ellis |publisher=SwimNews.com |date=2002-09-04 |access-date=2009-02-24 |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519035926/http://www.swimnews.com/News/view/1735 |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 8
+|time = 3:25.38
+|recordinfo = 
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 51.28
+|2name = [[Brendan Hansen]]
+|2split = 57.82
+|3name = [[Ian Crocker]]
+|3split = 48.62
+|4name = [[Garrett Weber-Gale]]
+|4split = 47.66
+|nation = USA
+|date = {{Dts|format=dmy|2004|Mar|25}}
+|meet = [[2004 NCAA Division I Men's Swimming and Diving Championships|NCAA Championships]]
+|country = USA
+|city = East Meadow
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 9
+|time = 3:25.09
+|recordinfo = 
+|1lastname = Peirsol
+|1name = [[Aaron Peirsol]]
+|1split = 51.35
+|2name = [[Brendan Hansen]]
+|2split = 57.42
+|3name = [[Ian Crocker]]
+|3split = 49.76
+|4name = [[Jason Lezak]]
+|4split = 46.56
+|nation = USA
+|date = {{Dts|format=dmy|2004|Oct|11}}
+|meet = [[2004 FINA Short Course World Championships|World SC Championships]]
+|country = USA
+|city = Indianapolis
+|ref = <ref>{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2004/indianapolis2004/F73_ResByHeat_139_Finals_Men_4x100_Medley.pdf |title=7th FINA World Championships 25m, Indianapolis 2004, USA - Men's 4 x 100m Medley Relay Final Results |date=2004-10-11 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 10
+|time = 3:24.29
+|recordinfo = 
+|1lastname = Donets
+|1name = [[Stanislav Donets]]
+|1split = 50.57
+|2name = [[Sergey Geybel]]
+|2split = 57.93
+|3name = [[Yevgeny Korotyshkin]]
+|3split = 49.39
+|4name = [[Alexander Sukhorukov]]
+|4split = 46.40
+|nation = RUS
+|date = {{Dts|format=dmy|2008|Apr|13}}
+|meet = [[2008 FINA Short Course World Championships|World SC Championships]]
+|country = UK
+|city = Manchester
+|ref = <ref>{{cite news|title=Russia sets 400 IM relay world record at short-course swim worlds|url=https://www.espn.com/espn/wire?section=oly&id=3344981|publisher=[[ESPN.com]]|date=2008-04-13|access-date=2008-04-20}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 11
+|time = 3:23.33
+|recordinfo = 
+|1lastname = Tapp
+|1name = [[Jake Tapp]]
+|1split = 50.60
+|2name = [[Paul Kornfeld (swimmer)|Paul Kornfeld]]
+|2split = 57.18
+|3name = [[Joe Bartoch]]
+|3split = 50.18
+|4name = [[Brent Hayden]]
+|4split = 45.37
+|nation = CAN
+|date = {{Dts|format=dmy|2009|Aug|9}}
+|meet = British Gas SC Grand Prix
+|country = UK
+|city = Leeds
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 12
+|time = 3:20.71
+|recordinfo = 
+|1lastname = Thoman
+|1name = [[Nick Thoman]]
+|1split = 48.94 WR
+|2name = [[Mark Gangloff]]
+|2split = 57.03
+|3name = [[Michael Phelps]]
+|3split = 49.93
+|4name = [[Nathan Adrian]]
+|4split = 44.81
+|nation = USA
+|date = {{Dts|format=dmy|2009|Dec|18}}
+|meet = Duel in the Pool
+|country = UK
+|city = Manchester
+|ref = <ref name=M2009Duel>{{cite web|title=2009 Duel in the Pool - Men's 4×100 m Medley Relay Results|url=https://www.omegatiming.com/File/000109000001000000FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=18 December 2009|access-date=7 May 2025}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 13
+|time = 3:19.16 
+|recordinfo = 
+|1lastname = Donets
+|1name = [[Stanislav Donets]]
+|1split = 49.63
+|2name = [[Sergey Geybel]]
+|2split = 56.43
+|3name = [[Yevgeny Korotyshkin]]
+|3split = 48.35
+|4name = [[Danila Izotov]]
+|4split = 44.75
+|nation = RUS
+|date = {{Dts|format=dmy|2009|Dec|20}}
+|meet = Vladimir Salnikov Swimming Cup
+|country = RUS
+|city = Saint Petersburg
+|ref = <ref>{{cite magazine |title=Salnikov Cup: Flash! Russian Foursome Breaks World Record|url=http://www.swimmingworldmagazine.com/lane9/news/23014.asp?q=Salnikov%20Cup:%20Flash!%20Russian%20Foursome%20Breaks%20World%20Record|magazine=Swimming World Magazine|date=2009-12-20|access-date=2010-10-26 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 14
+|time = 3:18.98
+|recordinfo = =
+|1name = [[Isaac Cooper]]
+|1split = 49.46
+|2name = [[Joshua Yong]]
+|2split = 56.55
+|3name = [[Matthew Temple (swimmer)|Matthew Temple]]
+|3split = 48.34
+|4name = [[Kyle Chalmers]]
+|4split = 44.63
+|nation = AUS
+|date = {{Dts|format=dmy|2022|Dec|18}}
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre medley relay|World Championships]]
+|country = AUS
+|city = Melbourne
+|ref = <ref name="auto6">{{cite web|title=Men's 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700030105F70104FFFFFFFFFF01.pdf|date=18 December 2022|access-date=18 December 2022}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 14
+|time = 3:18.98
+|recordinfo = =
+|1name = [[Ryan Murphy (swimmer)|Ryan Murphy]]
+|1split = 48.96
+|2name = [[Nic Fink]]
+|2split = 54.88
+|3name = [[Trenton Julian]]
+|3split = 49.19
+|4name = [[Kieran Smith]]
+|4split = 45.95
+|nation = USA
+|date = {{Dts|format=dmy|2022|Dec|18}}
+|meet = [[2022 FINA World Swimming Championships (25 m) – Men's 4 × 100 metre medley relay|World Championships]]
+|country = AUS
+|city = Melbourne
+|ref = <ref name="auto6"/>
+}}
+{{Swimmingrecordrelay
+|number = 15
+|time = 3:18.68
+|recordinfo = 
+|1name = [[Miron Lifintsev]]
+|1split = 49.31
+|2name = [[Kirill Prigoda]]
+|2split = 55.15
+|3name = [[Andrei Minakov]]
+|3split = 48.80
+|4name = [[Egor Kornev]]
+|4split = 45.42
+|club = {{flagu|Russia}}
+|date = 15 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Men's 4 × 100 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|accessdate=15 December 2024}}</ref><ref>{{cite web|title=Video - Men's 4x100m Medley Relay Final Results|url=https://vk.com/artemzagrebelny?z=video142497057_456239344%2F8f5d17d54d3cf9e655|publisher=Omega Timing|date=15 December 2024|accessdate=29 December 2024}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==Women==
+
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecordrelay
+|number = 1
+|time = 5:10.8
+|1lastname = Hunyadfi
+|1name = [[Magda Hunyadfi]]
+|1split = 
+|2name = [[Klara Killermann]]
+|2split = 
+|3name = [[Éva Székely]]
+|3split = 
+|4name = [[Valéria Gyenge]]
+|4split = 
+|nation = HUN
+|date = {{Dts|format=dmy|1953|Jul|24}}
+|meet = -
+|country = HUN
+|city = Budapest
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 2
+|time = 5:09.2
+|1lastname = Hunyadfi
+|1name = [[Magda Hunyadfi]]
+|1split = 
+|2name = [[Klara Killermann]]
+|2split = 
+|3name = [[Éva Székely]]
+|3split = 
+|4name = [[Valéria Gyenge]]
+|4split = 
+|nation = HUN
+|date = {{Dts|format=dmy|1953|Aug|10}}
+|meet = -
+|country = ROM
+|city = Bucharest
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 3
+|time = 5:07.8
+|1lastname = Temes
+|1name = [[Judit Temes]]
+|1split = 
+|2name = [[Klara Killermann]]
+|2split = 
+|3name = [[Mária Littomericzky]]
+|3split = 
+|4name = [[Katalin Szőke]]
+|4split = 
+|nation = HUN
+|date = {{Dts|format=dmy|1954|Aug|3}}
+|meet = -
+|country = HUN
+|city = Budapest
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 4
+|time = 5:06.2
+|1lastname = Andre
+|1name = [[Marie-Helene Andre]]
+|1split = 
+|2name = [[Francoise Derommeleere]]
+|2split = 
+|3name = [[Odette Lusien]]
+|3split = 
+|4name = [[Josette Arene]]
+|4split = 
+|nation = FRA
+|date = {{Dts|format=dmy|1954|Aug|16}}
+|meet = -
+|country = FRA
+|city = Marseille
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 5
+|time = 5:02.1
+|1lastname = de Korte
+|1name = [[Joke de Korte]]
+|1split = 1:13.0
+|2name = [[Rika Bruins]]
+|2split = 1:23.4
+|3name = [[Mary Kok]]
+|3split = 1:20.3
+|4name = [[Geertje Wielema]]
+|4split = 1:05.4
+|nation = NED
+|date = {{Dts|format=dmy|1954|Nov|27}}
+|meet = -
+|country = NED
+|city = Rotterdam
+|ref = <ref>{{cite news |title=World swimming relay record |date=1954-11-29 |page=2 |newspaper=[[The Times]] }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 6
+|time = 5:00.1
+|1lastname = van Alphen
+|1name = [[Jopie van Alphen]]
+|1split = 
+|2name = [[Rika Bruins]]
+|2split = 
+|3name = [[Atie Voorbij]]
+|3split = 
+|4name = [[Hetty Balkenende]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1955|Jul|17}}
+|meet = -
+|country = FRA
+|city = Paris
+|ref = <ref name="Times1956-11-21">{{cite news |title=Swimming record broken |date=1956-11-21 |newspaper=[[The Times]] |page=14 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 7
+|time = 4:57.8
+|1lastname = Pajor
+|1name = [[Eva Pajor]]
+|1split = 
+|2name = [[Éva Székely]]
+|2split = 
+|3name = [[Rypsyma Székely]]
+|3split = 
+|4name = [[Katalin Szőke]]
+|4split = 
+|nation = HUN
+|date = {{Dts|format=dmy|1955|Sep|3}}
+|meet = -
+|country = HUN
+|city = Budapest
+|ref = <ref name="Times1956-11-21" />
+}}
+{{Swimmingrecordrelay
+|number = 8
+|time = 4:54.3
+|1lastname = de Nijs
+|1name = [[Lenie de Nijs]]
+|1split = 
+|2name = [[Rita Kroon]]
+|2split = 
+|3name = [[Atie Voorbij]]
+|3split = 
+|4name = [[Greetje Kraan]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1956|Nov|19}}
+|meet = -
+|country = NED
+|city = Hilversum
+|ref = <ref name="Times1956-11-21" />
+}}
+{{Swimmingrecordrelay
+|number = 9
+|time = 4:53.1
+|1lastname = de Korte
+|1name = [[Joke de Korte]]
+|1split = 
+|2name = [[Ada den Haan]]
+|2split = 
+|3name = [[Tineke Lagerberg]]
+|3split = 
+|4name = [[Cocky Gastelaars]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1956|Dec|8}}
+|meet = -
+|country = NED
+|city = Zwolle
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 10
+|time = 4:57.0
+|recordinfo = yd
+|1lastname = Kraan
+|1name = [[Greetje Kraan]]
+|1split = 
+|2name = [[Ada den Haan]]
+|2split = 
+|3name = [[Atie Voorbij]]
+|3split = 
+|4name = [[Cocky Gastelaars]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1957|5|18}}
+|meet = GBRvNED International
+|country = UK
+|city = Blackpool
+|ref = <ref>{{cite news |title=British Swimmers Tie With Holland: Several World Records |newspaper=[[The Times]] |date=1957-05-20 |page=15 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 11
+|time = 4:54.0
+|recordinfo = yd
+|1lastname = Grinham
+|1name = [[Judy Grinham]]
+|1split = 1:10.9
+|2name = [[Anita Lonsbrough]]
+|2split = 1:23.3
+|3name = [[Christine Gosden]]
+|3split = 1:14.2
+|4name = [[Diana Wilkinson]]
+|4split = 1:04.6
+|nation = GBR
+|date = {{Dts|format=dmy|1958|7|25}}
+|meet = [[1958 British Empire and Commonwealth Games|British Empire and Commonwealth Games]]
+|country = UK
+|city = Cardiff
+|ref = <ref>{{cite news |title=World record by English women swimmers: Miss Wilkinson defies Miss Fraser in thrilling finish |date=1958-07-26 |newspaper=[[The Times]] |issue=54213 |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 12
+|time = 4:52.9
+|1lastname = de Nijs
+|1name = [[Lenie de Nijs]]
+|1split = 
+|2name = [[Ada den Haan]]
+|2split = 
+|3name = [[Atie Voorbij]]
+|3split = 
+|4name = [[Cocky Gastelaars]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1958|Sep|5}}
+|meet = [[1958 European Aquatics Championships|European Championships]]
+|country = HUN
+|city = Budapest
+|ref = <ref>{{cite news |title=World swimming record: British team third to Holland |date=1958-09-06 |page=3 |newspaper=[[The Times]] }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 13
+|time = 4:51.5
+|1lastname = van Velsen
+|1name = [[Ria van Velsen]]
+|1split = 1:11.7
+|2name = [[Ada den Haan]]
+|2split = 
+|3name = [[Tineke Lagerberg]]
+|3split = 
+|4name = [[Cocky Gastelaars]]
+|4split = 
+|nation = NED
+|date = {{Dts|format=dmy|1959|Jul|26}}
+|meet = NEDvGBR International Meet
+|country = NED
+|city = Waalwijk
+|ref = <ref>{{cite news |title=World Swimming Records: Dutch Turn Tables |newspaper=[[The Times]] |date=1959-07-27 |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 14
+|time = 4:44.6
+|1lastname = Cone
+|1name = [[Carin Cone]]
+|1split = 
+|2name = [[Ann Bancroft (swimmer)|Ann Bancroft]]
+|2split = 
+|3name = [[Becky Collins]]
+|3split = 
+|4name = [[Chris von Saltza]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1959|Sep|6}}
+|meet = [[1959 Pan American Games]]
+|country = USA
+|city = Chicago
+|ref = <ref>{{cite news |title=U.S. Women Break Swimming Record: Dutch Time Eclipsed |date=1959-09-08 |newspaper=[[The Times]] |page=16 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 15
+|time = 4:41.1
+|1lastname = Burke
+|1name = [[Lynn Burke]]
+|1split = 
+|2name = [[Patty Kempner]]
+|2split = 
+|3name = [[Carolyn Schuler]]
+|3split = 
+|4name = [[Chris von Saltza]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1960|Sep|2}}
+|meet = [[Swimming at the 1960 Summer Olympics|Olympic Games]]
+|country = ITA
+|city = Rome
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 16
+|time = 4:40.1
+|1lastname = Schmidt
+|1name = [[Ingrid Schmidt]]
+|1split = 
+|2name = [[Heidi Pechstein]]
+|2split = 
+|3name = [[Ute Noack (swimmer)|Ute Noack]]
+|3split = 
+|4name = [[Barbara Gobel]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1962|Aug|23}}
+|meet = [[1962 European Aquatics Championships|European Championships]]
+|country = GDR
+|city = Leipzig
+|ref = <ref>{{cite news |title=German Swimmers' World Record In Relay |newspaper=[[The Times]] |date=1962-08-24 |page=3 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 17
+|time = 4:39.1
+|1lastname = van Velsen
+|1name = [[Maria van Velsen]]
+|1split = 1:12.2
+|2name = [[Klenie Bimolt]]
+|2split = 1:18.0
+|3name = [[Ada Kok]]
+|3split = 1:05.4
+|4name = [[Erica Terpstra]]
+|4split = 1:03.5
+|nation = NED
+|date = {{Dts|format=dmy|1964|Jun|28}}
+|meet = NEDvGBR International Meet
+|country = NED
+|city = Groningen (city)
+|ref = <ref>{{cite news |title=British Swimmers Beaten: Dutch Women Set Relay Record |newspaper=[[The Times]] |date=1964-06-29 |page=5 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 18
+|time = 4:38.1
+|1lastname = Haroun
+|1name = [[Donna de Varona]]
+|1split = 
+|2name = [[Claudia Kolb]]
+|2split = 
+|3name = [[Judy Haroun]]
+|3split = 
+|4name = [[Lillian Watson]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1964|Jul|4}}
+|meet = -
+|country = USA
+|city = Los Altos, California
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 19
+|time = 4:34.6
+|1lastname = Ferguson
+|1name = [[Cathy Ferguson]]
+|1split = 
+|2name = [[Cynthia Goyette]]
+|2split = 
+|3name = [[Martha Randall]]
+|3split = 
+|4name = [[Kathy Ellis]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1964|Sep|28}}
+|meet = Pre Olympic
+|country = USA
+|city = Los Angeles
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 20
+|time = 4:33.9
+|1lastname = Ferguson
+|1name = [[Cathy Ferguson]]
+|1split = 
+|2name = [[Cynthia Goyette]]
+|2split = 
+|3name = [[Sharon Stouder]]
+|3split = 
+|4name = [[Kathy Ellis]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1964|Oct|18}}
+|meet = [[Swimming at the 1964 Summer Olympics|Olympic Games]]
+|country = JPN
+|city = Tokyo
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 21
+|time = 4:30.0
+|1lastname = Moore
+|1name = [[Kendis Moore]]
+|1split = 
+|2name = [[Catie Ball]]
+|2split = 
+|3name = [[Ellie Daniel]]
+|3split = 
+|4name = [[Wendy Fordyce]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|Jul|30}}
+|meet = [[1967 Pan American Games|Pan American Games]]
+|country = CAN
+|city = Winnipeg
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 22
+|time = 4:28.1
+|1lastname = Hall
+|1name = [[Kaye Hall]]
+|1split = 
+|2name = [[Catie Ball]]
+|2split = 
+|3name = [[Ellie Daniel]]
+|3split = 
+|4name = [[Susan Pedersen (swimmer)|Susan Pedersen]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1968|Sep|14}}
+|meet = Pre Olympic
+|country = USA
+|city = Colorado Springs
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 23
+|time = 4:27.4
+|1lastname = Atwood
+|1name = [[Susie Atwood]]
+|1split = 
+|2name = [[Kim Brecht]]
+|2split = 
+|3name = [[Alice Jones (swimmer)|Alice Jones]]
+|3split = 
+|4name = [[Cindy Schilling]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1970|Sep|1}}
+|meet = -
+|country = JPN
+|city = Tokyo
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 24
+|time = 4:27.3
+|1lastname = Atwood
+|1name = [[Susie Atwood]]
+|1split = 
+|2name = [[Claudia Clevenger]]
+|2split = 
+|3name = [[Ellie Daniel]]
+|3split = 
+|4name = [[Linda Johnson (swimmer)|Linda Johnson]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1971|Sep|11}}
+|meet = URSvUSAvGBR meet
+|country = URS
+|city = Minsk
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 25
+|time = 4:25.34
+|1lastname = Atwood
+|1name = [[Susie Atwood]]
+|1split = 
+|2name = [[Lynn Vidali]]
+|2split = 
+|3name = [[Ellie Daniel]]
+|3split = 
+|4name = [[Jane Barkman]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|Aug|18}}
+|meet = Pre Olympic
+|country = USA
+|city = Knoxville
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 26
+|time = 4:20.75
+|1lastname = Belote
+|1name = [[Melissa Belote]]
+|1split = 
+|2name = [[Cathy Carr (swimmer)|Cathy Carr]]
+|2split = 
+|3name = [[Deena Deardurff]]
+|3split = 
+|4name = [[Sandy Neilson]]
+|4split = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|Sep|3}}
+|meet = [[Swimming at the 1972 Summer Olympics|Olympic Games]]
+|country = FRG
+|city = Munich
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 27
+|time = 4:16.84
+|1lastname = Kother
+|1name = [[Ulrike Richter]]
+|1split = 
+|2name = [[Renate Vogel]]
+|2split = 
+|3name = [[Rosemarie Kother]]
+|3split = 
+|4name = [[Kornelia Ender]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1973|Sep|4}}
+|meet = [[1973 World Aquatics Championships|World Championships]]
+|country = YUG
+|city = Belgrade
+|ref = <ref>{{cite news |title=Swimming |author=Norman Fox |newspaper=[[The Times]] |date=1973-09-05 |page=9 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 28
+|time = 4:13.78
+|1lastname = Richter
+|1name = [[Ulrike Richter]]
+|1split = 
+|2name = [[Renate Vogel]]
+|2split = 
+|3name = [[Rosemarie Kother]]
+|3split = 
+|4name = [[Kornelia Ender]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1974|Aug|24}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|country = AUT
+|city = Vienna
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 29
+|time = 4:13.41
+|1lastname = Seltmann
+|1name = [[Monika Seltmann]]
+|1split = 
+|2name = [[Carola Nitschke]]
+|2split = 
+|3name = [[Andrea Pollack]]
+|3split = 
+|4name = [[Barbara Krause]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|Jun|5}}
+|meet = East German National Championships
+|country = GDR
+|city = Berlin
+|ref = <ref>{{cite news |title=East Germans set 17 world records in five days |newspaper=[[The Times]] |date=1976-06-07 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 30
+|time = 4:07.95
+|1lastname = Richter
+|1name = [[Ulrike Richter]]
+|1split = 1:02.23
+|2name = [[Hannelore Anke]]
+|2split = 1:10.15
+|3name = [[Andrea Pollack]]
+|3split = 59.53
+|4name = [[Kornelia Ender]]
+|4split = 56.04
+|nation = GDR
+|date = {{Dts|format=dmy|1976|Jul|18}}
+|meet = [[Swimming at the 1976 Summer Olympics|Olympic Games]]
+|country = CAN
+|city = Montreal
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 31
+|time = 4:06.67
+|1lastname = Reinisch
+|1name = [[Rica Reinisch]]
+|1split = 1:01.51 =WR
+|2name = [[Ute Geweniger]]
+|2split = 1:09.46
+|3name = [[Andrea Pollack]]
+|3split = 1:00.14
+|4name = [[Caren Metschuck]]
+|4split = 55.56
+|nation = GDR
+|date = {{Dts|format=dmy|1980|Jul|20}}
+|meet = [[Swimming at the 1980 Summer Olympics|Olympic Games]]
+|country = URS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 32
+|time = 4:05.88
+|1lastname = Otto
+|1name = [[Kristin Otto]]
+|1split = 
+|2name = [[Ute Geweniger]]
+|2split = 
+|3name = [[Ines Geißler]]
+|3split = 
+|4name = [[Birgit Meineke]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1982|Aug|6}}
+|meet = [[1982 World Aquatics Championships|World Championships]]
+|country = ECU
+|city = Guayaquil
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 33
+|time = 4:05.79
+|1lastname = Kleber
+|1name = [[Ina Kleber]]
+|1split = 
+|2name = [[Ute Geweniger]]
+|2split = 
+|3name = [[Ines Geißler]]
+|3split = 
+|4name = [[Birgit Meineke]]
+|4split = 
+|nation = GDR
+|date = {{Dts|format=dmy|1983|Aug|26}}
+|meet = [[1983 European Aquatics Championships|European Championships]]
+|country = ITA
+|city = Rome
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 34
+|time = 4:03.69
+|1lastname = Kleber
+|1name = [[Ina Kleber]]
+|1split = 1:00.59 WR
+|2name = [[Sylvia Gerasch]]
+|2split = 1:08.69
+|3name = [[Ines Geißler]]
+|3split = 59.52
+|4name = [[Birgit Meineke]]
+|4split = 54.89
+|nation = GDR
+|date = {{Dts|format=dmy|1984|Aug|24}}
+|meet = Friendship Games
+|country = URS
+|city = Moscow
+|ref = <ref>{{cite news |title=Friendship Games: Two records set in medley relay |newspaper=[[The Times]] |date=1984-08-25 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 35
+|time = 4:02.54
+|1lastname = Loveless
+|1name = [[Lea Maurer|Lea Loveless]]
+|1split = 1:00.82
+|2name = [[Anita Nall]]
+|2split = 1:08.67
+|3name = [[Crissy Ahmann-Leighton]]
+|3split = 58.58
+|4name = [[Jenny Thompson]]
+|4split = 54.47
+|nation = USA
+|date = {{Dts|format=dmy|1992|Jul|30}}
+|meet = [[Swimming at the 1992 Summer Olympics|Olympic Games]]
+|country = ESP
+|city = Barcelona
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 36
+|time = 4:01.67
+|1lastname = He
+|1name = [[He Cihong]]
+|1split = 1:00.16 WR
+|2name = [[Dai Guohong]]
+|2split = 1:09.04
+|3name = [[Liu Limin]]
+|3split = 58.66
+|4name = [[Le Jingyi]]
+|4split = 53.81
+|nation = CHN
+|date = {{Dts|format=dmy|1994|Sep|10}}
+|meet = [[1994 World Aquatics Championships|World Championships]]
+|country = ITA
+|city = Rome
+|ref = <ref>{{cite news |author=Craig Lord |title=Coach remains so inscrutable |newspaper=[[The Sunday Times]] |date=1994-10-11 |page=10 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 37
+|time = 3:58.30
+|1lastname = Bedford
+|1name = [[Barbara Bedford (swimmer)|Barbara Bedford]]
+|1split = 1:01.39
+|2name = [[Megan Jendrick|Megan Quann]]
+|2split = 1:06.29
+|3name = [[Jenny Thompson]]
+|3split = 57.25
+|4name = [[Dara Torres]]
+|4split = 53.37
+|nation = USA
+|date = {{Dts|format=dmy|2000|Sep|23}}
+|meet = [[Swimming at the 2000 Summer Olympics|Olympic Games]]
+|country = AUS
+|city = Sydney
+|ref = <ref>{{cite news |title=U.S. makes biggest, and the final, waves; the Americans finish with a medley-relay sweep; again |author=Christopher Clarey |date=2000-09-24 |newspaper=[[The New York Times]] |page=45 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 38
+|time = 3:57.32
+|1lastname = Rooney
+|1name = [[Giaan Rooney]]
+|1split = 1:01.18
+|2name = [[Leisel Jones]]
+|2split = 1:06.50
+|3name = [[Petria Thomas]]
+|3split = 56.67
+|4name = [[Jodie Henry]]
+|4split = 52.97
+|nation = AUS
+|date = {{Dts|format=dmy|2004|Aug|21}}
+|meet = [[Swimming at the 2004 Summer Olympics|Olympic Games]]
+|country = GRE
+|city = Athens
+|ref = <ref>{{cite news |title=2004 Olympic Games - Finals Day 8 Aug 21 |url=http://www.swimnews.com/News/view/3109 |publisher=SwimNews.com |author=Nikki Dryden |date=2004-08-21 |access-date=2009-02-24 |archive-date=2009-07-27 |archive-url=https://web.archive.org/web/20090727123649/http://www.swimnews.com/News/view/3109 |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 39
+|time = 3:56.30
+|1lastname = Edington
+|1name = [[Sophie Edington]]
+|1split = 1:01.06
+|2name = [[Leisel Jones]]
+|2split = 1:05.51
+|3name = [[Jessicah Schipper]]
+|3split = 56.86
+|4name = [[Libby Lenton]]
+|4split = 52.87
+|nation = AUS
+|date = {{Dts|format=dmy|2006|Mar|21}}
+|meet = [[Swimming at the 2006 Commonwealth Games|Commonwealth Games]]
+|country = AUS
+|city = Melbourne
+|ref = <ref>{{cite news |title=Commonwealth Games: Day 6 Finals |url=http://www.swimnews.com/News/view/4406 |author=Nikki Dryden |publisher=SwimNews.com |date=2006-03-21 |access-date=2009-02-24 |archive-date=2009-07-27 |archive-url=https://web.archive.org/web/20090727131127/http://www.swimnews.com/News/view/4406 |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 40
+|time = 3:55.74
+|1lastname = Seebohm
+|1name = [[Emily Seebohm]]
+|1split = 1:00.79
+|2name = [[Leisel Jones]]
+|2split = 1:04.94
+|3name = [[Jessicah Schipper]]
+|3split = 57.18
+|4name = [[Libby Lenton]]
+|4split = 52.83
+|nation = AUS
+|date = {{Dts|format=dmy|2007|Mar|31}}
+|meet = [[2007 World Aquatics Championships|World Championships]]
+|country = AUS
+|city = Melbourne
+|ref = <ref>{{cite news |title=Phelps Wins Number 6, Aussie Women Break World Record |author=Nikki Dryden |url=http://www.swimnews.com/News/view/5224 |publisher=SwimNews.com |date=2007-03-31 |access-date=2009-02-24 |archive-date=2009-07-27 |archive-url=https://web.archive.org/web/20090727123630/http://www.swimnews.com/News/view/5224 |url-status=dead }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 41
+|time = 3:52.69
+|1lastname = Seebohm
+|1name = [[Emily Seebohm]]
+|1split = 59.33
+|2name = [[Leisel Jones]]
+|2split = 1:04.58
+|3name = [[Jessicah Schipper]]
+|3split = 56.25
+|4name = [[Libby Trickett]]
+|4split = 52.53
+|nation = AUS
+|date = {{Dts|format=dmy|2008|Aug|17}}
+|meet = [[Swimming at the 2008 Summer Olympics|Olympic Games]]
+|country = CHN
+|city = Beijing
+|ref = <ref>{{cite news |first=Michael |last=Cowley |title=Australia's medley girls win gold |url=http://www.smh.com.au/news/swimming/golden-girls-triumph/2008/08/16/1218911430910.html |newspaper=[[The Sydney Morning Herald]] |date=2008-08-17 |access-date=2008-08-18 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 42
+|time = 3:52.19
+|1name = [[Zhao Jing (swimmer)|Zhao Jing]]
+|1split = 58.98
+|2name = [[Chen Huijia]]
+|2split = 1:04.12
+|3name = [[Jiao Liuyang]]
+|3split = 56.28
+|4name = [[Li Zhesi]]
+|4split = 52.81
+|nation = CHN
+|date = {{Dts|format=dmy|2009|Aug|1}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 4 × 100 metre medley relay|World Championships]]
+|country = ITA
+|city = Rome
+|ref = <ref>{{cite web | url = http://sports.sina.com.cn/o/2009-08-02/01484512749.shtml | title = 女子4X100米混合泳接力 中国队破世界纪录摘金 | language = zh | publisher = 新浪体育 | date = 2009-08-01 | access-date = 2009-08-02}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 43
+|time = 3:52.05
+|1name = [[Missy Franklin]]
+|1split = 58.50
+|2name = [[Rebecca Soni]]
+|2split = 1:04.82
+|3name = [[Dana Vollmer]]
+|3split = 55.48
+|4name = [[Allison Schmitt]]
+|4split = 53.25
+|nation = USA
+|date = {{Dts|format=dmy|2012|Aug|4}}
+|meet = [[Swimming at the 2012 Summer Olympics – Women's 4 × 100 metre medley relay|Olympic Games]]
+|country = UK
+|city = London
+|ref = <ref>{{cite web | url = http://onlineathens.com/breaking-news/2012-08-04/ugas-schmitt-wins-gold-anchor-400-medley-relay | archive-url = https://archive.today/20130131014834/http://onlineathens.com/breaking-news/2012-08-04/ugas-schmitt-wins-gold-anchor-400-medley-relay | url-status = dead | archive-date = January 31, 2013 | title = UGA's Schmitt wins gold as anchor in 400 medley relay | publisher = Athens-Banner Herald | date = 2012-08-04 | access-date = 2012-08-04 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 44
+|time = 3:51.55
+|1name = [[Kathleen Baker]]
+|1split = 58.54
+|2name = [[Lilly King]]
+|2split = 1:04.48
+|3name = [[Kelsi Worrell]]
+|3split = 56.30
+|4name = [[Simone Manuel]]
+|4split = 52.23
+|nation = USA
+|date = {{Dts|format=dmy|2017|Jul|30}}
+|meet = [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre medley relay|World Championships]]
+|country = HUN
+|city = Budapest
+|ref = <ref>{{cite web|title=Women's 4 × 100m Medley Relay Results|url=http://www.omegatiming.com/File/Download?id=000111010A0205F704FFFFFFFFFFFF01|publisher=Omega Timing|access-date=18 August 2017|date=30 July 2017}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 44
+|time = 3:50.40
+|1name = [[Regan Smith (swimmer)|Regan Smith]]
+|1split = 57.57 WR
+|2name = [[Lilly King]]
+|2split = 1:04.81
+|3name = [[Kelsi Dahlia]]
+|3split = 56.16
+|4name = [[Simone Manuel]]
+|4split = 51.86
+|nation = USA
+|date = {{Dts|format=dmy|2019|Jul|28}}
+|meet = [[Swimming at the 2019 World Aquatics Championships – Women's 4 × 100 metre medley relay|World Championships]]
+|country = KOR
+|city = Gwangju
+|ref = <ref>{{cite web|title=Women's 4 × 100m Medley Relay Results|url=http://www.omegatiming.com/File/Download?id=00011301070205F704FFFFFFFFFFFF01|publisher=Omega Timing|access-date=28 July 2019|date=28 July 2018}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 45
+|time = 3:49.63
+|1name = [[Regan Smith (swimmer)|Regan Smith]]
+|1split = 57.28
+|2name = [[Lilly King]]
+|2split = 1:04.90
+|3name = [[Gretchen Walsh]]
+|3split = 55.03
+|4name = [[Torri Huske]]
+|4split = 52.42
+|nation = USA
+|date = {{Dts|format=dmy|2024|Aug|4}}
+|meet = [[Swimming at the 2024 Summer Olympics – Women's 4 × 100 metre medley relay|Olympic Games]]
+|city = Paris
+|country = FRA
+|ref = <ref>{{cite web|title=Women's 4 × 100m Medley Relay Results|url=https://olympics.com/en/paris-2024/results/swimming/women-s-4-x-100m-medley-relay/fnl-000100--|publisher=Olympics|access-date=4 August 2024|date=4 August 2024}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 46
+|time = 3:49.34
+|1name = [[Regan Smith (swimmer)|Regan Smith]]
+|1split = 57.57
+|2name = [[Kate Douglass]]
+|2split = 1:04.27
+|3name = [[Gretchen Walsh]]
+|3split = 54.98
+|4name = [[Torri Huske]]
+|4split = 52.52
+|nation = USA
+|date = {{Dts|format=dmy|2025|Aug|3}}
+|meet = [[Swimming at the 2025 World Aquatics Championships – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Singapore
+|country = SIN
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecordrelay
+|number = 1
+|time = 3:57.73
+|recordinfo = 
+|1lastname = He
+|1name = [[He Cihong]]
+|1split = 1:00.31
+|2name = [[Dai Guohong]]
+|2split = 1:06.17
+|3name = [[Liu Limin]]
+|3split = 59.06
+|4name = [[Le Jingyi]]
+|4split = 52.19
+|nation = CHN
+|date = {{Dts|format=dmy|1993|Dec|5}}
+|meet = [[1993 FINA Short Course World Championships|World SC Championships]]
+|country = ESP
+|city = Palma de Mallorca
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 2
+|time = 3:57.62
+|recordinfo = 
+|1lastname = Nakamura
+|1name = [[Mai Nakamura (backstroke swimmer)|Mai Nakamura]]
+|1split = 59.27
+|2name = [[Masami Tanaka]]
+|2split = -
+|3name = [[Ayari Aoyama]]
+|3split = -
+|4name = [[Sumika Minamoto]]
+|4split = -
+|nation = JPN
+|date = {{Dts|format=dmy|1999|Apr|4}}
+|meet = [[1999 FINA Short Course World Championships|World SC Championships]]
+|country = HKG
+|city = Hong Kong
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 3
+|time = 3:57.46
+|recordinfo = 
+|1lastname = Shealy
+|1name = [[Courtney Shealy]]
+|1split = 58.75
+|2name = [[Kristy Kowal]]
+|2split = 1:06.09
+|3name = [[Keegan Walkley]]
+|3split = 59.28
+|4name = [[Maritza Correia]]
+|4split = 53.34
+|nation = USA
+|date = {{Dts|format=dmy|2000|Mar|17}}
+|meet = Women's NCAA Championships
+|country = USA
+|city = Indianapolis
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 4
+|time = 3:55.78
+|recordinfo = 
+|1lastname = Alshammar
+|1name = [[Therese Alshammar]]
+|1split = 1:00.74
+|2name = [[Emma Igelström]]
+|2split = 1:04.90
+|3name = [[Anna-Karin Kammerling]]
+|3split = 57.12
+|4name = [[Johanna Sjöberg]]
+|4split = 53.02
+|nation = SWE
+|date = {{Dts|format=dmy|2002|Apr|5}}
+|meet = [[2002 FINA Short Course World Championships|World SC Championships]]
+|country = RUS
+|city = Moscow
+|ref = <ref>{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2002/moscow2002/4X100-MEDL-W-CLAS-FINAL-SER.pdf |title=6th FINA World Swimming Championships (25m), Moscow, Russia - 4x100m Women's Medley Relay Final Result |date=2002-04-05 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 5
+|time = 3:54.95
+|recordinfo = 
+|1lastname = Edington
+|1name = [[Sophie Edington]]
+|1split = 59.37
+|2name = [[Brooke Hanson]]
+|2split = 1:05.25
+|3name = [[Jessicah Schipper]]
+|3split = 58.28
+|4name = [[Lisbeth Lenton]]
+|4split = 52.05
+|nation = AUS
+|date = {{Dts|format=dmy|2004|Oct|9}}
+|meet = [[2004 FINA Short Course World Championships|World SC Championships]]
+|country = USA
+|city = Indianapolis
+|ref = <ref>{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2004/indianapolis2004/F73_ResByHeat_126_Finals_Women_4x100_Medley.pdf |title=7th FINA World Championships 25m, Indianapolis 2004, USA - Women's 4 x 100m Medley Relay Final Result |date=2004-10-09 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 6
+|time = 3:51.84
+|recordinfo = 
+|1lastname = Zimmer
+|1name = [[Tayliah Zimmer]]
+|1split = 58.54
+|2name = [[Jade Edmistone]]
+|2split = 1:04.95
+|3name = [[Jessicah Schipper]]
+|3split = 56.36
+|4name = [[Lisbeth Lenton]]
+|4split = 51.99
+|nation = AUS
+|date = {{Dts|format=dmy|2006|Apr|7}}
+|meet = [[2006 FINA Short Course World Championships|World SC Championships]]
+|country = CHN
+|city = Shanghai
+|ref = <ref>{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2006/shanghai2006/F73_ResByHeat_126_Finals_Women_4x100_Medley.pdf |title=8th FINA World Swimming Championships, Shanghai 2006, China - Women's 4 x 100m Medley Relay Final Result |date=2006-04-07 }}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 7
+|time = 3:51.36
+|recordinfo = 
+|1lastname = Hoelzer
+|1name = [[Margaret Hoelzer]]
+|1split = 58.79
+|2name = [[Jessica Hardy]]
+|2split = 1:03.98
+|3name = [[Rachel Komisarz]]
+|3split = 55.93
+|4name = [[Kara Denby]]
+|4split = 52.66
+|nation = USA
+|date = {{Dts|format=dmy|2008|Apr|11}}
+|meet = [[2008 FINA Short Course World Championships|World SC Championships]]
+|country = UK
+|city = Manchester
+|ref = <ref>{{cite news|title=America sets world record in 400-meter medley relay at short-course swim worlds|url=http://www.iht.com/articles/ap/2008/04/11/sports/EU-SPT-SWM-World-Record-400-Medley-Relay.php|newspaper=[[The International Herald Tribune]]|date=2008-04-11|access-date=2008-04-20}}</ref>
+}}
+{{Swimmingrecordrelay
+|number = 8
+|time = 3:49.45
+|recordinfo = 
+|1lastname = Murdoch
+|1name = [[Katy Murdoch]]
+|1split = 56.88
+|2name = [[Annamay Pierse]]
+|2split = 1:03.39
+|3name = [[Audrey Lacroix]]
+|3split = 57.29
+|4name = [[Victoria Poon]]
+|4split = 51.89
+|nation = CAN
+|date = {{Dts|format=dmy|2009|Aug|9}}
+|meet = British Gas swimming Grand Prix
+|country = UK
+|city = Leeds
+|ref = 
+}}
+{{Swimmingrecordrelay
+|number = 9
+|time = 3:47.97
+|recordinfo = 
+|1lastname = Hoelzer
+|1name = [[Margaret Hoelzer]]
+|1split = 57.47
+|2name = [[Jessica Hardy]]
+|2split = 1:03.58
+|3name = [[Dana Vollmer]]
+|3split = 54.37
+|4name = [[Amanda Weir]]
+|4split = 52.55
+|nation = USA
+|date = {{Dts|format=dmy|2009|Dec|18}}
+|meet = [[2009 Duel in the Pool|Duel in the Pool]]
+|country = UK
+|city = Manchester
+|ref = 
+}}
+{{swimmingrecordrelay
+|number = 10
+|time = 3:45.56
+|recordinfo = 
+|1lastnamne = Coughlin
+|1name = [[Natalie Coughlin]]
+|1split = 55.97
+|2name = [[Rebecca Soni]]
+|2split = 1:02.91
+|3name = [[Dana Vollmer]]
+|3split = 55.36
+|4name = [[Missy Franklin]]
+|4split = 51.32
+|nation = USA
+|date = {{Dts|format=dmy|2011|Dec|16}}
+|country = USA
+|city = Atlanta
+|meet = [[2011 Duel in the Pool|Duel in the Pool]]
+|ref =<ref>{{cite magazine|title=Duel in the Pool: World Record Opens Night One|url=http://www.swimmingworldmagazine.com/lane9/news/World/29070.asp?q=-Duel-in-the-Pool:-World-Record-Opens-Night-One|magazine=[[Swimming World Magazine]]|date=16 December 2011|access-date=16 December 2011}}</ref> 
+}}
+{{swimmingrecordrelay
+|number = 11
+|time = 3:45.20
+|recordinfo = 
+|1name = [[Courtney Bartholomew]]
+|1split = 56.08
+|2name = [[Katie Meili]]
+|2split = 1:02.88
+|3name = [[Kelsi Worrell]]
+|3split = 55.01
+|4name = [[Simone Manuel]]
+|4split = 51.23
+|club = {{flagu|United States}}
+|date = 11 December 2015
+|meet = [[Duel in the Pool]]
+|city = Indianapolis
+|country = USA
+|ref =<ref>{{cite news|title=Duel in the Pool: Team USA goes on record assault to secure 74-48 advantage|url=http://www.swimvortex.com/duel-in-the-pool-team-usa-puts-goes-on-record-assault-to-secure-74-48-advantage/|publisher=Swimvortex|first=John|last=Lohn|date=12 December 2015|access-date=12 December 2015|archive-date=22 December 2015|archive-url=https://web.archive.org/web/20151222100049/http://www.swimvortex.com/duel-in-the-pool-team-usa-puts-goes-on-record-assault-to-secure-74-48-advantage/|url-status=dead}}</ref> 
+}}
+{{swimmingrecordrelay
+|number = 12
+|time = 3:44.52
+|recordinfo =
+|1name = [[Olivia Smoliga]]
+|1split = 55.60
+|2name = [[Lilly King]]
+|2split = 1:02.40
+|3name = [[Kelsi Dahlia]]
+|3split = 54.79
+|4name = [[Erika Brown (swimmer)|Erika Brown]]
+|4split = 51.73
+|club = {{flagu|United States}}<br />(Cali Condors)
+|date = 21 November 2020
+|meet = [[2020 International Swimming League|International Swimming League]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Results|url=https://www.omegatiming.com/File/000114020F0205F704FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=21 November 2020|access-date=21 November 2020}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 13
+|time = 3:44.35
+|recordinfo =
+|1name = [[Claire Curzan]]
+|1split = 56.47
+|2name = [[Lilly King]]
+|2split = 1:02.88
+|3name = [[Torri Huske]]
+|3split = 54.53
+|4name = [[Kate Douglass]]
+|4split = 50.47
+|club = {{flagu|United States}}
+|date = 18 December 2022
+|meet = [[2022 FINA World Swimming Championships (25 m) – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Melbourne
+|country = AUS
+|ref = <ref>{{cite web|title=Women's 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700030205F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 December 2022|accessdate=18 December 2022}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 14
+|time = 3:40.41
+|recordinfo = 
+|1name = [[Regan Smith (swimmer)|Regan Smith]]
+|1split = 54.02
+|2name = [[Lilly King]]
+|2split = 1:03.02
+|3name = [[Gretchen Walsh]]
+|3split = 52.84
+|4name = [[Kate Douglass]]
+|4split = 50.53
+|club = {{flagu|United States}}
+|date = 15 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Women's 4 × 100 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080205F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|accessdate=15 December 2024}}</ref><ref>{{cite web|title=Video - Women's 4x100m Medley Relay Final Results|url=https://vkvideo.ru/video-228643357_456239040|publisher=Omega Timing|date=15 December 2024|accessdate=4 January  2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+== Mixed ==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{swimmingrecordrelay
+|number = 1
+|time = 4:13.47
+|recordinfo = 
+|1name = [[Allie Day]]
+|1split = 1:06.61
+|2name = [[Mike Hurley (swimmer)|Mike Hurley]]
+|2split = 1:09.81
+|3name = [[Tanner Kurz]]
+|3split = 58.63
+|4name = [[Haley Lips]]
+|4split = 58.42
+|club = {{flagicon|USA}} Indiana University Hoosiers
+|date = 26 September 2013
+|meet = [[Indiana University|IU]] Fall Frenzy
+|city = Bloomington
+|cityarticle = Bloomington, Indiana
+|country = USA
+|ref = <ref>{{cite magazine|title=Indiana Posts Eight New Relay World Records at Fall Frenzy|url=http://www.swimmingworldmagazine.com/lane9/news/World/36006.asp?q=Indiana-Posts-Eight-New-Relay-World-Records-at-Fall-Frenzy|magazine=[[Swimming World Magazine]]|date=11 August 2013|access-date=5 December 2015}}</ref><ref name="Swimming World Magazine"/>
+}}
+{{swimmingrecordrelay
+|number = 2
+|time = 3:48.74
+|recordinfo = 
+|1name = [[Andrei Shabasov]]
+|1split = 
+|2name = [[Veronika Popova]]
+|2split = 
+|3name = [[Andrei Nikolaev (swimmer, born 1992)|Andrei Nikolayev]]
+|3split = 
+|4name = [[Daria Ustinova]]
+|4split = 
+|club = {{flagicon|RUS}} St. Petersburg
+|date = 16 May 2014
+|meet = Russian Championships
+|city = Moscow
+|country = RUS
+|ref = <ref>{{cite magazine|title=Sizzling Siberian Vlad Morozov Slashes Russian Standard in 50 Back, Popova, Nasretdinova Post Russian Marks of Their Own|url=http://www.swimmingworldmagazine.com/lane9/news/World/39125.asp?q=Sizzling-Siberian-Vlad-Morozov-Slashes-Russian-Standard-in-50-Back,-Popova,-Nasretdinova-Post-Russian-Marks-of-Their-Own|magazine=[[Swimming World Magazine]]|date=16 May 2014|access-date=5 December 2015}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 3
+|time = 3:44.02
+|recordinfo = 
+|1name = [[Christopher Walker-Hebborn]]
+|1split = 53.68
+|2name = [[Adam Peaty]]
+|2split = 59.30
+|3name = [[Jemma Lowe]]
+|3split = 57.51
+|4name = [[Francesca Halsall]]
+|4split = 53.53
+|club = {{flagu|Great Britain}}
+|date = 19 August 2014
+|meet = [[Swimming at the 2014 European Aquatics Championships – Mixed 4 x 100 metre medley relay|European Championships]]
+|city = Berlin
+|country = GER
+|ref = <ref>{{cite web|title=Mixed 4x100m Medley Results|url=http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASX-4X100IM-FIN-ALL.pdf?x=19:28:06|publisher=Microplus Informatica|date=19 August 2014|access-date=5 December 2015|archive-date=17 December 2014|archive-url=https://web.archive.org/web/20141217202625/http://84.33.37.145/berlin2014/export/Berlin2014/NU/pdf/CLS-ASX-4X100IM-FIN-ALL.pdf?x=19:28:06|url-status=dead}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 4
+|time = 3:41.71
+|recordinfo = 
+|1name = [[Christopher Walker-Hebborn]]
+|1split = 52.94
+|2name = [[Adam Peaty]]
+|2split = 57.98
+|3name = [[Siobhan-Marie O'Connor]]
+|3split = 57.02
+|4name = [[Francesca Halsall]]
+|4split = 53.77
+|club = {{flagu|Great Britain}}
+|date = 5 August 2015
+|meet = [[Swimming at the 2015 World Aquatics Championships – 4 × 100 metre mixed medley relay|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref>{{cite web|title=Mixed 4×100m Medley Relay Results|url=http://omegatiming.com/File/Download?id=00010F020002043E02FFFFFFFFFFFF02|publisher=Omega Timing|date=5 August 2015|access-date=5 December 2015|archive-date=23 January 2016|archive-url=https://web.archive.org/web/20160123180704/http://omegatiming.com/File/Download?id=00010F020002043E02FFFFFFFFFFFF02|url-status=dead}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 5
+|time = 3:40.28
+|recordinfo = 
+|1name = [[Ryan Murphy (swimmer)|Ryan Murphy]]
+|1split = 52.34
+|2name = [[Kevin Cordes]]
+|2split = 58.95
+|3name = [[Kelsi Worrell]]
+|3split = 56.17
+|4name = [[Mallory Comerford]]
+|4split = 52.82
+|club = {{flagu|United States}}
+|date = 26 July 2017
+|meet = [[Swimming at the 2017 World Aquatics Championships – 4 × 100 metre mixed medley relay|World Championships]]
+|city = Budapest
+|country = Hungary
+|ref =<ref>{{cite web|title=Mixed 4×100m Medley Relay Results|url=http://omegatiming.com/File/Download?id=000111010A0305F701FFFFFFFFFFFF01|publisher=Omega Timing|date=26 July 2017|access-date=26 July 2017|archive-date=1 September 2017|archive-url=https://web.archive.org/web/20170901165830/http://omegatiming.com/File/Download?id=000111010A0305F701FFFFFFFFFFFF01|url-status=dead}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 6
+|time = 3:38.56
+|recordinfo = 
+|1name = [[Matt Grevers]]
+|1split = 52.32
+|2name = [[Lilly King]]
+|2split = 1:04.15
+|3name = [[Caeleb Dressel]]
+|3split = 49.92
+|4name = [[Simone Manuel]]
+|4split = 52.17
+|club = {{flagu|United States}}
+|date = 26 July 2017
+|meet = [[Swimming at the 2017 World Aquatics Championships – 4 × 100 metre mixed medley relay|World Championships]]
+|city = Budapest
+|country = Hungary
+|ref =<ref>{{cite web|title=Mixed 4×100m Medley Relay Results|url=http://omegatiming.com/File/Download?id=000111010A0305F704FFFFFFFFFFFF01|publisher=Omega Timing|date=26 July 2017|access-date=26 July 2017|archive-date=28 July 2017|archive-url=https://web.archive.org/web/20170728053923/http://www.omegatiming.com/file/download/?id=000111010A0305F704FFFFFFFFFFFF01|url-status=dead}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 7
+|time = 3:38.41
+|recordinfo = 
+|1name = [[Xu Jiayu]]
+|1split = 52.45
+|2name = [[Yan Zibei]]
+|2split = 57.96
+|3name = [[Zhang Yufei (swimmer)|Zhang Yufei]]
+|3split = 55.32
+|4name = [[Yang Junxuan]]
+|4split = 52.68
+|club = {{flagu|China}}
+|date = 1 October 2020
+|meet = Chinese Championships
+|city = Qingdao
+|country = CHN
+|ref = <ref>{{cite news|title=China Takes Down Mixed Medley World Record (Updated With Video)|url=https://swimswam.com/china-takes-down-mixed-medley-world-record-updated-with-video/|website=swimswam.com|author=Retta Race|date=1 October 2020|access-date=7 October 2020}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 8
+|time = 3:37.58
+|recordinfo = 
+|1name = [[Kathleen Dawson]]
+|1split = 58.80
+|2name = [[Adam Peaty]]
+|2split = 56.78
+|3name = [[James Guy (swimmer)|James Guy]]
+|3split = 50.00
+|4name = [[Anna Hopkin]]
+|4split = 52.00
+|club = {{flagu|Great Britain}}
+|date = 31 July 2021
+|meet = [[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Olympic Games]]
+|city = Tokyo
+|country = JPN
+|ref = <ref>{{cite web|title=Swimming – Mixed 4×100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|website=Olympics.com|date=31 July 2021|access-date=31 July 2021|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824100429/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+}}
+{{swimmingrecordrelay
+|number = 9
+|time = 3:37.43
+|recordinfo = 
+|1name = [[Ryan Murphy (swimmer)|Ryan Murphy]]
+|1split = 52.08
+|2name = [[Nic Fink]]
+|2split = 58.29
+|3name = [[Gretchen Walsh]]
+|3split = 55.18
+|4name = [[Torri Huske]]
+|4split = 51.88
+|club = {{flagu|United States}}
+|date = 3 August 2024
+|meet = [[Swimming at the 2024 Summer Olympics – Mixed 4 × 100 metre medley relay|Olympic Games]]
+|city = Paris
+|country = FRA
+|ref = <ref name="auto">{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|website=olympics.com|date=3 August 2024|access-date=7 August 2024}}</ref>
+}}
+{{end}}
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{swimmingrecordrelay
+|eventsort = 03
+|number = 1
+|time = 3:30.47
+|recordinfo =
+|1name = [[Miron Lifintsev]]
+|1split = 48.90
+|2name = [[Kirill Prigoda]]
+|2split = 54.86
+|3name = [[Arina Surkova]]
+|3split = 55.63
+|4name = [[Daria Klepikova]]
+|4split = 51.08
+|club = {{flagu|Russia}}
+|date = 14 December 2024
+|meet = [[2024 World Aquatics Swimming Championships (25 m) – Mixed 4 × 100 metre medley relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref><ref>{{cite web|title=Video - Mixed 4 × 100 m Medley Relay Final Results|url=https://vkvideo.ru/video-228643357_456239036 |date=14 December 2024|accessdate=28 December 2024}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=World Aquatics|r=no|b=no|sf=no|tt=no|†=no}}
+
+==All-time top 10 by country==
+
+===Men long course===
+*Correct as of August 2025<ref name="FINA">{{cite web|title=Men's 4×100m Medley Relay Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=MEDLEY_RELAY&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=4 August 2025}}</ref>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:26.78
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.31)<br />[[Michael Andrew (swimmer)|Michael Andrew]] (58.49)<br />[[Caeleb Dressel]] (49.03)<br />[[Zach Apple]] (46.95)
+|{{flagu|United States}}
+|1 August 2021
+|[[Tokyo]]
+|<ref name="Unnamed-20230325183825">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|website=olympics.com|date=1 August 2021|accessdate=2 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801042748/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!2
+|3:26.93
+|[[Miron Lifintsev]] (52.44)<br>[[Kirill Prigoda]] (57.92)<br>[[Andrey Minakov]] (50.17)<br>[[Egor Kornev]] (46.40)
+|{{flagu|Russia}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!3
+|3:27.01
+|[[Xu Jiayu]] (52.05)<br />[[Qin Haiyang]] (57.63)<br />[[Wang Changhao]] (50.68)<br />[[Pan Zhanle]] (46.65)
+|{{flagu|China}}
+|26 September 2023
+|[[Hangzhou]]
+|<ref name="auto5">{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|publisher=hangzhou2022.cn|date=26 September 2023|access-date=28 September 2023|archive-date=28 September 2023|archive-url=https://web.archive.org/web/20230928144644/https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!rowspan=2|4
+|rowspan=2|3:27.51
+|[[Luke Greenbank]] (53.63)<br />[[Adam Peaty]] (56.53)<br />[[James Guy (swimmer)|James Guy]] (50.27)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (47.08)
+|{{flagu|Great Britain}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed-20230325183825"/>
+|-
+|[[Thomas Ceccon]] (51.93)<br />[[Nicolò Martinenghi]] (57.47)<br />[[Federico Burdisso]] (50.63)<br />[[Alessandro Miressi]] (47.48)
+|{{flagu|Italy}}
+|25 June 2022
+|[[Budapest]]
+|<ref name="Unnamed_2-20230325183825">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700000105F70104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=25 June 2022|access-date=13 July 2022}}</ref>
+|-
+!6
+|3:27.96
+|[[Yohann Ndoye-Brouard]] (52.26)<br>[[Léon Marchand]] (58.44)<br>[[Maxime Grousset]] (49.27)<br>[[Yann Le Goff]] (47.99)
+|{{flagu|France}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!7
+|3:28.58
+|[[Helge Meeuw]] (52.27)<br />[[Hendrik Feldwehr]] (58.51)<br />[[Benjamin Starke]] (50.91)<br />[[Paul Biedermann]] (46.89)
+|{{flagu|Germany}}
+|2 August 2009
+|[[Rome]]
+|<ref name="M2009WC">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=http://www.omegatiming.com/swimming/racearchives/2009/Roma2009/C73B1_Res1HeatRelay_140_Finals_1_Men_4x100_Medley.pdf|archive-url=https://web.archive.org/web/20090806181811/http://www.omegatiming.com/swimming/racearchives/2009/Roma2009/C73B1_Res1HeatRelay_140_Finals_1_Men_4x100_Medley.pdf|work=Omega Timing|date=2 August 2009|archive-date=6 August 2009|accessdate=18 July 2025}}</ref>
+|-
+!8
+|3:28.64
+|[[Ashley Delaney]] (53.10)<br />[[Brenton Rickard]] (57.80)<br />[[Andrew Lauterstein]] (50.58)<br />[[Matt Targett (swimmer)|Matt Targett]] (47.16)
+|{{flagu|Australia}}
+|2 August 2009
+|Rome
+|<ref name="M2009WC" />
+|-
+!9
+|3:29.16
+|[[Guilherme Guido]] (53.78)<br />[[Henrique Barbosa]] (58.68)<br />[[Gabriel Mangabeira]] (50.48)<br />[[César Cielo]] (46.22)
+|{{flagu|Brazil}}
+|2 August 2009
+|Rome
+|<ref name="M2009WC" />
+|-
+!10
+|3:29.91
+|[[Ryosuke Irie]] (53.05)<br />[[Ryuya Mura]] (58.94)<br />[[Naoki Mizunuma]] (50.88)<br />[[Katsumi Nakamura]] (47.04)
+|{{flagu|Japan}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed-20230325183825"/>
+|}
+
+===Men short course===
+*Correct as of September 2025<ref name="api.fina.org">{{cite web|title=Men's 4×100m Medley Relay Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=MEDLEY_RELAY&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Athletics|access-date=28 September 2025}}</ref>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:18.68
+|[[Miron Lifintsev]] (49.31)<br>[[Kirill Prigoda]] (55.15)<br>[[Andrey Minakov]] (48.80)<br>[[Egor Kornev]] (45.42)
+|{{flagu|Russia}}
+|15 December 2024
+|Budapest
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|access-date=13 January 2025}}</ref>
+|-
+!rowspan=2|2
+|rowspan=2|3:18.98
+|[[Isaac Cooper]] (49.46)<br />[[Joshua Yong]] (56.55)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (48.34)<br />[[Kyle Chalmers]] (44.63)
+|{{flagu|Australia}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825">{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700030105F70104FFFFFFFFFF01.pdf|date=18 December 2022|access-date=18 December 2022}}</ref>
+|-
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (48.96)<br />[[Nic Fink]] (54.88)<br />[[Trenton Julian]] (49.19)<br />[[Kieran Smith]] (45.95)
+|{{flagu|United States}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825"/>
+|-
+!4
+|3:19.06
+|[[Lorenzo Mora]] (49.48)<br />[[Nicolò Martinenghi]] (55.52)<br />[[Matteo Rivolta]] (48.50)<br />[[Alessandro Miressi]] (45.56)
+|{{flagu|Italy}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825"/>
+|-
+!5
+|3:21.07
+|[[Ryosuke Irie]] (49.95)<br />[[Yasuhiro Koseki]] (55.91)<br />[[Takeshi Kawamoto]] (49.58)<br />[[Katsumi Nakamura]] (45.63)
+|{{flagu|Japan}}
+|16 December 2018
+|Hangzhou
+|<ref name="Omega Timing">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=http://www.omegatiming.com/File/Download?id=000112010C0105F704FFFFFFFFFFFF01|publisher=Omega Timing|date=16 December 2018|access-date=26 November 2021}}</ref>
+|-
+!6
+|3:21.14
+|[[Guilherme Guido]] (50.11)<br />[[Felipe Franca Silva]] (56.73)<br />[[Marcos Macedo]] (49.63)<br />[[César Cielo]] (44.67)
+|{{flagu|Brazil}}
+|7 December 2014
+|Doha
+|<ref name="Men's 4×100m Medley Relay Results">{{cite web|title=Men's 4×100m Medley Relay Results|url=http://www.omegatiming.com/File/Download?id=00010E010D00042F02FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=2 December 2021}}</ref>
+|-
+!7
+|3:22.17
+|[[Christian Diener]] (50.01)<br />[[Marco Koch]] (56.68)<br />[[Marius Kusch]] (48.91)<br />[[Damian Wierling]] (46.57)
+|{{flagu|Germany}}
+|16 December 2018
+|Hangzhou
+|<ref name="Omega Timing"/>
+|-
+!8
+|3:22.26
+|[[Florent Manaudou]] (50.35)<br />[[Giacomo Perez-Dortona]] (57.00)<br />[[Mehdy Metella]] (49.07)<br />[[Clement Mignon]] (45.84)
+|{{flagu|France}}
+|7 December 2014
+|Doha
+|<ref name="omegatiming.com">{{cite web|title=Men's 4×100m Medley Relay Results|url=http://www.omegatiming.com/File/Download?id=00010E010D00042F02FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=4 December 2021}}</ref>
+|-
+!9
+|3:22.78
+|[[Chris Walker-Hebborn]] (50.54)<br />[[Adam Peaty]] (56.23)<br />[[Adam Barrett (swimmer)|Adam Barrett]] (49.01)<br />[[Benjamin Proud]] (46.97)
+|{{flagu|Great Britain}}
+|7 December 2014
+|Doha
+|<ref name="omegatiming.com"/>
+|-
+!10
+|3:23.33
+|[[Jake Tapp]] (50.60)<br />[[Paul Kornfeld (swimmer)|Paul Kornfeld]] (57.18)<br />[[Joe Bartoch]] (50.18)<br />[[Brent Hayden]] (45.37)
+|{{flagu|Canada}}
+|9 August 2009
+|Leeds
+|
+|}
+
+===Women long course===
+*Correct as of August 2025<ref name="Women's 4×100m Medley Relay Long Co">{{cite web|title=Women's 4×100m Medley Relay Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=MEDLEY_RELAY&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|date=3 August 2025|access-date=4 August 2025}}</ref>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:49.34
+|[[Regan Smith (swimmer)|Regan Smith]] (57.57)<br />[[Kate Douglass]] (1:04.27)<br />[[Gretchen Walsh]] (54.98)<br />[[Torri Huske]] (52.52)
+|{{flagu|United States}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!2
+|3:51.60
+|[[Kaylee McKeown]] (58.01)<br />[[Chelsea Hodges]] (1:05.57)<br />[[Emma McKeon]] (55.91)<br />[[Cate Campbell]] (52.11)
+|{{flagu|Australia}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed_4-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C95_SWM-------------------------------.pdf|publisher=olympics.com|date=1 August 2021|accessdate=12 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801024038/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C95_SWM-------------------------------.pdf|url-status=dead}}</ref>
+|-
+!3
+|3:52.19
+|[[Zhao Jing (swimmer)|Zhao Jing]] (58.98)<br />[[Chen Huijia]] (1:04.12)<br />[[Jiao Liuyang]] (56.24)<br />[[Li Zhesi]] (52.81)
+|{{flagu|China}}
+|1 August 2009
+|[[Rome]]
+|-
+!4
+|3:52.60
+|[[Kylie Masse]] (57.90)<br />[[Sydney Pickrem]] (1:07.17)<br />[[Maggie Mac Neil]] (55.27)<br />[[Penny Oleksiak]] (52.26)
+|{{flagu|Canada}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed_4-20230325183825"/>
+|-
+!5
+|3:53.38
+|[[Anastasia Fesikova]] (58.96)<br />[[Yuliya Yefimova]] (1:04.03)<br />[[Svetlana Chimrova]] (56.99)<br />[[Veronika Popova]] (53.40)
+|{{flagu|Russia}}
+|30 July 2017
+|[[Budapest]]
+|-
+!6
+|3:54.01
+|[[Kathleen Dawson]] (58.08)<br />[[Molly Renshaw]] (1:05.72)<br />[[Laura Stephens]] (57.55)<br />[[Anna Hopkin]] (52.66)
+|{{flagu|Great Britain}}
+|23 May 2021
+|Budapest
+|<ref name="microplustiming.com">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMW4X100MMD----------FNL-000100--_73B1%201.0.pdf?x=01:33:58|publisher=microplustiming.com|date=23 May 2021|accessdate=13 June 2021}}</ref>
+|-
+!7
+|3:54.27
+|[[Michelle Coleman]] (59.75)<br />[[Sophie Hansson]] (1:05.67)<br />[[Louise Hansson]] (56.12)<br />[[Sarah Sjöström]] (52.73)
+|{{flagu|Sweden}}
+|1 August 2021
+|Tokyo
+|<ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C95_SWM-------------------------------.pdf|publisher=olympics.com|date=1 August 2021|accessdate=12 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801024038/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C95_SWM-------------------------------.pdf|url-status=dead}}</ref>
+|-
+!8
+|3:54.73
+|[[Natsumi Sakai (swimmer)|Natsumi Sakai]] (59.42)<br />[[Satomi Suzuki]] (1:05.43)<br />[[Rikako Ikee]] (55.80)<br />[[Tomomi Aoki]] (54.08)
+|{{flagu|Japan}}
+|23 August 2018
+|[[Jakarta]]
+|-
+!9
+|3:55.01
+|[[Mie Nielsen]] (58.75)<br />[[Rikke Møller Pedersen]] (1:06.62)<br />[[Jeanette Ottesen]] (56.43)<br />[[Pernille Blume]] (53.21)
+|{{flagu|Denmark}}
+|13 August 2016
+|[[Rio de Janeiro]]
+|-
+!rowspan=2|10
+|rowspan=2|3:55.79
+|[[Daniela Samulski]] (59.85)<br />[[Sarah Poewe]] (1:06.81)<br />[[Annika Mehlhorn]] (57.14)<br />[[Britta Steffen]] (51.99)
+|{{flagu|Germany}}
+|1 August 2009
+|Rome
+|-
+|[[Margherita Panziera]] (1:00.55)<br />[[Arianna Castiglioni]] (1:05.26)<br />[[Elena Di Liddo]] (56.74)<br />[[Federica Pellegrini]] (53.24)
+|{{flagu|Italy}}
+|30 July 2021
+|Tokyo
+|}
+
+===Women short course===
+*Correct as of December 2022
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:44.35
+|[[Claire Curzan]] (56.47)<br />[[Lilly King]] (1:02.88)<br />[[Torri Huske]] (54.53)<br />[[Kate Douglass]] (50.47)
+|{{flagu|United States}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_5-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700030205F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=7 January 2023}}</ref>
+|-
+!2
+|3:44.92
+||[[Kaylee McKeown]] (55.74)<br />[[Jenna Strauch]] (1:04.49)<br />[[Emma McKeon]] (53.93)<br />[[Meg Harris]] (50.76)
+|{{flagu|Australia}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700030205F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=8 January 2023}}</ref>
+|-
+!3
+|3:46.20
+|[[Louise Hansson]] (56.25)<br />[[Sophie Hansson]] (1:03.70)<br />[[Sarah Sjöström]] (54.65)<br />[[Michelle Coleman]] (51.60)
+|{{flagu|Sweden}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011500190205F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=21 December 2021|access-date=21 December 2021}}</ref>
+|-
+!4
+|3:46.22
+|[[Ingrid Wilm]] (55.36)<br />[[Sydney Pickrem]] (1:04.42)<br />[[Maggie Mac Neil]] (54.59)<br />[[Taylor Ruck]] (51.85)
+|{{flagu|Canada}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!5
+|3:47.41
+|[[Peng Xuwei]] (57.12)<br />[[Tang Qianting]] (1:03.25)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (54.93)<br />[[Cheng Yujie]] (52.11)
+|{{flagu|China}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!6
+|3:47.70
+|[[Kira Toussaint]] (56.53)<br />[[Tes Schouten]] (1:05.28)<br />[[Maaike de Waard]] (55.42)<br />[[Marrit Steenbergen]] (50.47)
+|{{flagu|Netherlands}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!7
+|3:48.86
+|[[Mie Nielsen]] (56.86)<br />[[Rikke Møller-Pedersen]] (1:04.62)<br />[[Jeanette Ottesen]] (54.99)<br />[[Pernille Blume]] (52.39)
+|{{flagu|Denmark}}
+|7 December 2014
+|Doha
+|<ref name="Women's 4×100m Medley Relay Final R">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=http://www.omegatiming.com/File/Download?id=00010E010D01043902FFFFFFFFFFFF02|publisher=Omega Timing|date=7 December 2014|access-date=26 November 2021}}</ref>
+|-
+!8
+|3:49.94
+|[[Maria Kameneva]] (56.59)<br />[[Nika Godun]] (1:04.53)<br />[[Svetlana Chimrova]] (56.18)<br />[[Ekaterina Nikonova]] (52.64)
+|{{flagu|Russia}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!rowspan=2|9
+|rowspan=2|3:50.28
+|[[Emi Moronuki]] (58.25)<br />[[Miho Teramura]] (1:03.56)<br />[[Rikako Ikee]] (55.43)<br />[[Tomomi Aoki]] (53.04)
+|{{flagu|Japan}}
+|11 December 2016
+|Windsor
+|<ref name="ReferenceA">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=http://www.omegatiming.com/File/Download?id=000110000D01043902FFFFFFFFFFFF02|publisher=Omega Timing|date=11 December 2016|access-date=26 November 2018}}</ref>
+|-
+|[[Pauline Mahieu]] (57.22)<br />[[Charlotte Bonnet]] (1:04.12)<br />[[Béryl Gastaldello]] (56.20)<br />[[Mary-Ambre Moluh]] (52.74)
+|{{flagu|France}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|}
+
+===Mixed long course===
+*Correct as of July 2025
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:37.43
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.08)<br />[[Nic Fink]] (58.29)<br />[[Gretchen Walsh]] (55.18)<br />[[Torri Huske]] (51.88)
+|{{flagu|United States}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!2
+|3:37.55
+|[[Xu Jiayu]] (52.13)<br />[[Qin Haiyang]] (57.82)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.64)<br />[[Yang Junxuan]] (51.96)
+|{{flagu|China}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!3
+|3:37.58
+|[[Kathleen Dawson]] (58.80)<br />[[Adam Peaty]] (56.78)<br />[[James Guy (swimmer)|James Guy]] (50.00)<br />[[Anna Hopkin]] (52.00)
+|{{flagu|Great Britain}}
+|31 July 2021
+|Tokyo
+|<ref name="Unnamed_8-20230325183825">{{cite web|title=Mixed 4×100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|publisher=olympics.com|date=31 July 2021|accessdate=11 August 2021|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824100429/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!4
+|3:37.97
+|[[Miron Lifintsev]] (51.78)<br/>[[Kirill Prigoda]] (57.56)<br/>[[Daria Klepikova]] (55.97)<br/>[[Daria Trofimova]] (52.66)
+|{{flagu|Russia}}
+|30 July 2025
+|Singapore
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010305F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+!5
+|3:38.76
+|[[Kaylee McKeown]] (57.90)<br />[[Joshua Yong]] (58.43)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (50.42)<br />[[Mollie O'Callaghan]] (52.01)
+|{{flagu|Australia}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!6
+|3:39.28
+|[[Thomas Ceccon]] (52.23)<br />[[Nicolò Martinenghi]] (57.73)<br />[[Elena Di Liddo]] (56.62)<br />[[Federica Pellegrini]] (52.70)
+|{{flagu|Italy}}
+|31 July 2021
+|Tokyo
+|<ref name="Unnamed_9-20230325183825">{{cite web|title=Mixed 4×100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|publisher=olympics.com|date=31 July 2021|accessdate=17 August 2021|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824100429/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!7
+|3:40.90
+|[[Kylie Masse]] (58.69)<br/>[[Oliver Dawson (swimmer)|Oliver Dawson]] (59.63)<br/>[[Joshua Liendo]] (49.64)<br/>[[Taylor Ruck]] (52.94)
+|{{flagu|Canada}}
+|30 July 2025
+|Singapore
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010305F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+!8
+|3:40.96
+|[[Yohann Ndoye-Brouard]] (52.80)<br />[[Léon Marchand|Leon Marchand]] (58.66)<br />[[Marie Wattel]] (56.44)<br />[[Béryl Gastaldello|Beryl Gastaldello]] (53.06)
+|{{flagu|France}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!9
+|3:40.97
+|[[Kai van Westering]] (54.03)<br/>[[Caspar Corbeau]] (58.74)<br/>[[Tessa Giele]] (56.29)<br/>[[Marrit Steenbergen]] (51.91)
+|{{flagu|Netherlands}}
+|30 July 2025
+|Singapore
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010305F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+!10
+|3:40.98
+|[[Ryosuke Irie]] (52.83)<br />[[Yasuhiro Koseki]] (58.57)<br />[[Rikako Ikee]] (55.53)<br />[[Tomomi Aoki]] (54.05)
+|{{flagu|Japan}}
+|9 August 2018
+|Tokyo
+|
+|}
+
+===Mixed short course===
+*Correct as of December 2024
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality or Club
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:30.47
+|[[Miron Lifintsev]]<br>[[Kirill Prigoda]]<br>[[Arina Surkova]]<br>[[Daria Klepikova]]
+|{{flagu|Russia}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!2
+|3:30.55
+|
+|{{flagu|United States}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!3
+|3:31.97
+|
+|{{flagu|Canada}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!4
+|3:32.83
+|
+|{{flagu|Australia}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!5
+|3:35.46
+|
+|{{flagu|Great Britain}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!6
+|3:35.52
+|
+|{{flagu|Spain}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!7
+|3:35.54
+|
+|{{flagu|Italy}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!8
+|3:36.04
+|
+|{{flagu|Netherlands}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+|}
+
+==All-time top 25==
+
+===Men long course===
+*Correct as of August 2025<ref name="FINA"/>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:26.78
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.31)<br />[[Michael Andrew (swimmer)|Michael Andrew]] (58.49)<br />[[Caeleb Dressel]] (49.03)<br />[[Zach Apple]] (46.95)
+|{{flagu|United States}}
+|1 August 2021
+|[[Tokyo]]
+|<ref>{{cite web|title=Men's 4 x 100m Medley Relay Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|website=olympics.com|date=1 August 2021|accessdate=2 August 2021|archive-date=1 August 2021|archive-url=https://web.archive.org/web/20210801042748/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+!2
+|3:26.93
+|[[Miron Lifintsev]] (52.44)<br>[[Kirill Prigoda]] (57.92)<br>[[Andrey Minakov]] (50.17)<br>[[Egor Kornev]] (46.40)
+|{{flagu|Russia}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!3
+|3:27.01
+|[[Xu Jiayu]] (52.05)<br />[[Qin Haiyang]] (57.63)<br />[[Wang Changhao]] (50.68)<br />[[Pan Zhanle]] (46.65)
+|{{flagu|China}}
+|26 September 2023
+|[[Hangzhou]]
+|<ref name="auto5"/>
+|-
+!4
+|3:27.20
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.04)<br />[[Nic Fink]] (58.03)<br />[[Dare Rose]] (50.13)<br />[[Jack Alexy]] (47.00)
+|{{flagu|United States}}
+|30 July 2023
+|Fukuoka
+|<ref name="auto2">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011600010105F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2023|access-date=30 July 2023}}</ref>
+|-
+!5
+|3:27.28
+|[[Aaron Peirsol]] (52.19)<br />[[Eric Shanteau]] (58.57)<br />[[Michael Phelps]] (49.72)<br />[[David Walters (swimmer)|David Walters]] (46.80)
+|{{flagu|United States}}
+|2 August 2009
+|[[Rome]]
+|
+|-
+!6
+|3:27.46
+|[[Xu Jiayu]] (52.37)<br />[[Qin Haiyang]] (57.98)<br />[[Wang Changhao|Sun Jiajun]] (51.19)<br />[[Pan Zhanle]] (45.92)
+|{{flagu|China}}
+|4 August 2024
+|[[Paris]]
+|<ref name=":0" />
+|-
+! rowspan="2" |7
+| rowspan="2" |3:27.51
+|[[Luke Greenbank]] (53.63)<br />[[Adam Peaty]] (56.53)<br />[[James Guy (swimmer)|James Guy]] (50.27)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (47.08)
+|{{flagu|Great Britain}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed-20230325183825" />
+|-
+|[[Thomas Ceccon]] (51.93)<br />[[Nicolò Martinenghi]] (57.47)<br />[[Federico Burdisso]] (50.63)<br />[[Alessandro Miressi]] (47.48)
+|{{flagu|Italy}}
+|25 June 2022
+|[[Budapest]]
+|<ref name="Unnamed_2-20230325183825"/>
+|-
+!9
+|3:27.79
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.51)<br />[[Nic Fink]] (57.86)<br />[[Michael Andrew (swimmer)|Michael Andrew]] (50.06)<br />[[Ryan Held]] (47.36)
+|{{flagu|United States}}
+|25 June 2022
+|Budapest
+|<ref name="Unnamed_2-20230325183825"/>
+|-
+!10
+|3:27.91
+|[[Matt Grevers]] (52.26)<br />[[Kevin Cordes]] (58.89)<br />[[Caeleb Dressel]] (49.76)<br />[[Nathan Adrian]] (47.00)
+|{{flagu|United States}}
+|30 July 2017
+|Budapest
+|-
+!11
+|3:27.95
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (51.85)<br />[[Cody Miller]] (59.03)<br />[[Michael Phelps]] (50.33)<br />[[Nathan Adrian]] (46.74)
+|{{flagu|United States}}
+|13 August 2016
+|[[Rio de Janeiro]]
+|
+|-
+!12
+|3:27.96
+|[[Yohann Ndoye-Brouard]] (52.26)<br>[[Léon Marchand]] (58.44)<br>[[Maxime Grousset]] (49.27)<br>[[Yann Le Goff]] (47.99)
+|{{flagu|France}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!13
+|3:28.10
+|[[Luke Greenbank]] (53.95)<br />[[Adam Peaty]] (57.20)<br />[[James Guy (swimmer)|James Guy]] (50.81)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (46.14)
+|{{flagu|Great Britain}}
+|28 July 2019
+|[[Gwangju]]
+|-
+!14
+|3:28.38
+|[[Yohann Ndoye-Brouard]] (52.60)<br />[[Léon Marchand]] (58.62)<br />[[Maxime Grousset]] (49.57)<br />[[Florent Manaudou]] (47.59)
+|{{flagu|France}}
+|4 August 2024
+|[[Paris]]
+|<ref name=":0">{{Cite web |title=Men's 4×100m Medley Relay Final Results|url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923041031/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMM4X100MMD----------FNL-000100--.pdf |archive-date=23 September 2024 |access-date=18 July 2025 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+!15
+|3:28.45
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.92)<br />[[Andrew Wilson (swimmer)|Andrew Wilson]] (58.65)<br />[[Caeleb Dressel]] (49.28)<br />[[Nathan Adrian]] (47.60)
+|{{flagu|United States}}
+|28 July 2019
+|Gwangju
+|
+|-
+!16
+|3:28.46
+|[[Thomas Ceccon]] (52.82)<br />[[Nicolò Martinenghi]] (57.72)<br />[[Matteo Rivolta]] (50.75)<br />[[Alessandro Miressi]] (47.17)
+|{{flagu|Italy}}
+|17 August 2022
+|Rome
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM4X100MMD----------FNL---------_73B2%201.0.pdf|work=Microplus Informatica|date=17 August 2022|accessdate=28 October 2022}}</ref>
+|-
+!17
+|3:28.49
+|[[Miron Lifintsev]] (52.23)<br />[[Kirill Prigoda]] (57.89)<br />[[Roman Shevliakov]] (50.98)<br />[[Egor Kornev]] (47.39)
+|{{flagicon|Russia}} Saint-Petersburg
+|18 April 2025
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://russwimming.ru/upload/live/4R_LC_2025/ResultList_140F.pdf|publisher=russwimming.ru|date=18 April 2025|accessdate=18 April 2025}}</ref>
+|-
+!18
+|3:28.58
+|[[Helge Meeuw]] (52.27)<br />[[Hendrik Feldwehr]] (58.51)<br />[[Benjamin Starke]] (50.91)<br />[[Paul Biedermann]] (46.89)
+|{{flagu|Germany}}
+|2 August 2009
+|Rome
+|-
+!19
+|3:28.59
+|[[Luke Greenbank]] (53.64)<br />[[Adam Peaty]] (57.38)<br />[[James Guy (swimmer)|James Guy]] (50.65)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (46.92)
+|{{flagu|Great Britain}}
+|23 May 2021
+|Budapest
+|<ref name="budapest2020.microplustiming.com">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM4X100MMD----------FNL-000100--_73B1%201.0.pdf?x=01:23:20|publisher=microplustiming.com|date=23 May 2021|accessdate=23 May 2021}}</ref>
+|-
+!20
+|3:28.62
+|[[Tommy Janton]] (53.37)<br>[[Josh Matheny]] (59.00)<br>[[Dare Rose]] (50.30)<br>[[Jack Alexy]] (45.95)
+|{{flagu|United States}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!21
+|3:28.64
+|[[Ashley Delaney]] (53.10) <br />[[Brenton Rickard]] (57.80) <br />[[Andrew Lauterstein]] (50.58) <br />[[Matt Targett (swimmer)|Matt Targett]] (47.16)
+|{{flagu|Australia}}
+|2 August 2009
+|Rome
+|-
+!22
+|3:28.72
+|[[Thomas Ceccon]] (51.80)<br>[[Nicolò Martinenghi]] (58.42)<br>[[Federico Burdisso]] (51.17)<br>[[Carlos D'Ambrosio]] (47.33)
+|{{flagu|Italy}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!23
+|3:28.81
+|[[Evgeny Rylov]] (52.57)<br />[[Kirill Prigoda]] (58.68)<br />[[Andrey Minakov]] (50.54)<br />[[Vladimir Morozov (swimmer)|Vladimir Morozov]] (47.02)
+|{{flagu|Russia}}
+|28 July 2019
+|Gwangju
+|-
+!24
+|3:28.95
+|[[Chris Walker-Hebborn]] (54.02) <br />[[Adam Peaty]] (56.91) <br />[[James Guy (swimmer)|James Guy]] (50.87) <br />[[Duncan Scott (swimmer)|Duncan Scott]] (47.02)
+|{{flagu|Great Britain}}
+|30 July 2017
+|Budapest
+|-
+!25
+|3:29.00
+|[[Xu Jiayu]] (53.39)<br />[[Qin Haiyang]] (57.43)<br />[[Wang Changhao]] (51.56)<br />[[Pan Zhanle]] (46.62)
+|{{flagu|China}}
+|30 July 2023
+|Fukuoka
+|<ref name="auto2"/>
+|}
+
+===Men short course===
+*Correct as of December 2024<ref name="api.fina.org"/>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality or Club
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:18.28
+|[[Kliment Kolesnikov]] (48.58)<br />[[Ilya Shymanovich]] (55.38)<br />[[Chad Le Clos]] (48.53)<br />[[Florent Manaudou]] (45.79)
+|[[Energy Standard]]<br />{{flagu|Russia}}<br />{{flagu|Belarus}}<br />{{flagu|South Africa}}<br />{{flagu|France}}
+|21 November 2020
+|Budapest
+|<ref name="ReferenceB">{{Cite web | url=https://www.omegatiming.com/File/000114020F0105F704FFFFFFFFFFFF01.pdf | title=2020 ISL Final - Budapest (HUN) - Men's 4x100m Medley Relay| website=www.omegatiming.com}}</ref>
+|-
+!2
+|3:18.68
+|[[Miron Lifintsev]] (49.31)<br>[[Kirill Prigoda]] (55.15)<br>[[Andrey Minakov]] (48.80)<br>[[Egor Kornev]] (45.42)
+|{{flagu|Russia}}
+|15 December 2024
+|Budapest
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|access-date=13 January 2025}}</ref>
+|-
+!rowspan=2|3
+|rowspan=2|3:18.98
+|[[Isaac Cooper]] (49.46)<br />[[Joshua Yong]] (56.55)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (48.34)<br />[[Kyle Chalmers]] (44.63)
+|{{flagu|Australia}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825"/>
+|-
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (48.96)<br />[[Nic Fink]] (54.88)<br />[[Trenton Julian]] (49.19)<br />[[Kieran Smith]] (45.95)
+|{{flagu|United States}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825"/>
+|-
+!5
+|3:19.03
+|[[Shaine Casas]] (48.92)<br>[[Michael Andrew (swimmer)|Michael Andrew]] (57.03)<br>[[Dare Rose]] (48.55)<br>[[Jack Alexy]] (44.53)
+|{{flagu|United States}}
+|15 December 2024
+|Budapest
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|access-date=13 January 2025}}</ref>
+|-
+!6
+|3:19.06
+|[[Lorenzo Mora]] (49.48)<br />[[Nicolò Martinenghi]] (55.52)<br />[[Matteo Rivolta]] (48.50)<br />[[Alessandro Miressi]] (45.56)
+|{{flagu|Italy}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_3-20230325183825"/>
+|-
+!7
+|3:19.16
+|[[Stanislav Donets]] (49.63)<br />[[Sergey Geybel]] (56.43)<br />[[Yevgeny Korotyshkin]] (48.35)<br />[[Danila Izotov]] (44.75)
+|{{flagu|Russia}}
+|20 December 2009
+|Saint Petersburg
+|-
+!8
+|3:19.50
+|[[Guilherme Guido]] (49.40)<br />[[Adam Peaty]] (54.84)<br />[[Marius Kusch]] (49.30)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (45.96)
+|[[London Roar]]<br />{{flagu|Brazil}}<br />{{flagu|Great Britain}}<br />{{flagu|Germany}}<br />{{flagu|Great Britain}}
+|14 November 2020
+|Budapest
+|<ref name="ReferenceC">{{Cite web | url=https://www.omegatiming.com/File/000114020D0105F704FFFFFFFFFFFF01.pdf | title=2020 ISL Semi-finals - Budapest (HUN) - Men's 4x100m Medley Relay | date=2020-11-14 | website=www.omegatiming.com}}</ref>
+|-
+!9
+|3:19.55
+|[[Kliment Kolesnikov]] (49.63)<br />[[Ilya Shymanovich]] (55.17)<br />[[Chad Le Clos]] (48.98)<br />[[Florent Manaudou]] (45.77)
+|[[Energy Standard]]<br />{{flagu|Russia}}<br />{{flagu|Belarus}}<br />{{flagu|South Africa}}<br />{{flagu|France}}
+|14 November 2020
+|Budapest
+|<ref name="ReferenceC"/>
+|-
+!10
+|3:19.64
+|[[Coleman Stewart]] (49.62)<br />[[Nic Fink]] (55.21)<br />[[Caeleb Dressel]] (49.21)<br />[[Justin Ress]] (45.80)
+|[[Cali Condors]]<br />{{flagu|United States}}
+|3 December 2021
+|Eindhoven
+|<ref name="Unnamed_11-20230325183825">{{cite web|title=Men's 4x100m Medley Relay Results|url=https://www.omegatiming.com/File/000115001B0105F704FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 December 2021|access-date=4 December 2021}}</ref>
+|-
+!11
+|3:19.65
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (49.36)<br />[[Felipe Franca Silva]] (56.18)<br />[[Tom Shields]] (48.04)<br />[[Maxime Rooney]] (46.07)
+|[[LA Current]]<br />{{flagu|USA}}<br />{{flagu|Brazil}}<br />{{flagu|USA}}<br />{{flagu|USA}}
+|21 November 2020
+|Budapest
+|<ref name="ReferenceB"/>
+|-
+!12
+|3:19.76
+|[[Lorenzo Mora]] (50.34)<br />[[Nicolò Martinenghi]] (55.94)<br />[[Matteo Rivolta]] (48.43)<br />[[Alessandro Miressi]] (45.05)
+|{{flagu|Italy}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_12-20230325183825">{{cite web|title=Men's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011500190105F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=21 December 2021|access-date=21 December 2021}}</ref>
+|-
+!13
+|3:19.91
+|[[Lorenzo Mora]] (49.53)<br>[[Ludovico Viberti]] (56.15)<br>[[Michele Busa]] (48.81)<br>[[Alessandro Miressi]] (45.42)
+|{{flagu|United States}}
+|15 December 2024
+|Budapest
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|access-date=13 January 2025}}</ref>
+|-
+!14
+|3:19.98
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (49.63)<br />[[Andrew Wilson (swimmer)|Andrew Wilson]] (56.84)<br />[[Caeleb Dressel]] (48.28)<br />[[Ryan Held]] (45.23)
+|{{flagu|United States}}
+|16 December 2018
+|Hangzhou
+|-
+!15
+|3:20.01
+|[[Coleman Stewart]] (49.83)<br />[[Nic Fink]] (56.30)<br />[[Caeleb Dressel]] (48.18)<br />[[Justin Ress]] (45.70)
+|[[Cali Condors]]<br />{{flagu|United States}}
+|21 November 2020
+|Budapest
+|<ref name="ReferenceB"/>
+|-
+!16
+|3:20.50
+|[[Shaine Casas]] (50.44)<br />[[Nic Fink]] (55.27)<br />[[Trenton Julian]] (49.36)<br />[[Ryan Held]] (45.43)
+|{{flagu|United States}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_12-20230325183825"/>
+|-
+!rowspan=2|17
+|rowspan=2|3:20.61
+|[[Kliment Kolesnikov]] (49.62)<br />[[Kirill Prigoda]] (55.98)<br />[[Mikhail Vekovishchev]] (50.00)<br />[[Vladimir Morozov (swimmer)|Vladimir Morozov]] (45.01)
+|{{flagu|Russia}}
+|16 December 2018
+|Hangzhou
+|<ref name="Omega Timing"/>
+|-
+|[[Kliment Kolesnikov]] (49.90)<br />[[Ilya Shymanovich]] (55.38)<br />[[Chad le Clos]] (48.92)<br />[[Adam Barrett (swimmer)|Adam Barrett]] (46.41)
+|[[Energy Standard]]<br />{{flagu|Russia}}<br />{{flagu|Belarus}}<br />{{flagu|South Africa}}<br />{{flagu|Great Britain}}
+|3 December 2021
+|Eindhoven
+|<ref name="Unnamed_11-20230325183825"/>
+|-
+!19
+|3:20.65
+|[[Kliment Kolesnikov]] (49.47)<br />[[Danil Semianinov]] (57.06)<br />[[Andrey Minakov]] (48.81)<br />[[Aleksandr Shchegolev]] (45.31)
+|{{flagu|Russia}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_12-20230325183825"/>
+|-
+!20
+|3:20.67
+|[[Guilherme Guido]] (49.59)<br />[[Adam Peaty]] (55.36)<br />[[Marius Kusch]] (49.69)<br />[[Duncan Scott (swimmer)|Duncan Scott]] (46.03)
+|[[London Roar]]<br />{{flagu|Brazil}}<br />{{flagu|Great Britain}}<br />{{flagu|Germany}}<br />{{flagu|Great Britain}}
+|21 November 2020
+|Budapest
+|<ref name="ReferenceB"/>
+|-
+!rowspan=2|21
+|rowspan=2|3:20.68
+|[[Evgeny Rylov]] (50.14)<br />[[Ilya Shymanovich]] (55.59)<br />[[Chad Le Clos]] (49.18)<br />[[Florent Manaudou]] (45.77)
+|[[Energy Standard]]<br />{{flagu|Russia}}<br />{{flagu|Belarus}}<br />{{flagu|South Africa}}<br />{{flagu|France}}
+|1 November 2020
+|Budapest
+|
+|-
+|[[Coleman Stewart]] (49.82)<br />[[Nic Fink]] (55.98)<br />[[Caeleb Dressel]] (48.81)<br />[[Justin Ress]] (46.07)
+|[[Cali Condors]]<br />{{flagu|United States}}
+|4 September 2021
+|Naples
+|<ref>{{Cite web | url=https://www.omegatiming.com/File/00011500070105F704FFFFFFFFFFFF01.pdf | title=ISL Match 4 - Napoli (ITA) - Men's 4x100m Medley Relay | date=2021-09-04 | website=www.omegatiming.com}}</ref>
+|-
+!23
+|3:20.71
+|[[Nick Thoman]] (48.94)<br />[[Mark Gangloff]] (57.03)<br />[[Michael Phelps]] (49.93)<br />[[Nathan Adrian]] (44.81)
+|{{flagu|United States}}
+|18 December 2009
+|Manchester
+|<ref>{{Cite web | url=https://www.omegatiming.com/File/000109000001000000FFFFFFFFFFFF01.pdf | title=British Gas DUEL IN THE POOL - United States Team vs European Select Team - Manchester (GBR) - Men's 4x100m Medley Relay | website=www.omegatiming.com | date=2009-12-18}}</ref>
+|-
+!24
+|3:20.99
+|[[Nick Thoman]] (49.88)<br />[[Mihail Alexandrov]] (56.52)<br />[[Ryan Lochte]] (49.17)<br />[[Garrett Weber-Gale]] (45.42)
+|{{flagu|United States}}
+|19 December 2010
+|Dubai
+|
+|-
+!25
+|3:21.02
+|[[Kacper Stokowski]] (49.10)<br>[[Jan Kałusowski]] (56.91)<br>[[Jakub Majerski]] (49.16)<br>[[Ksawery Masiuk]] (45.85)
+|{{flagu|Poland}}
+|15 December 2024
+|Budapest
+|<ref>{{cite web|title=Men's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 December 2024|access-date=13 January 2025}}</ref>
+|}
+
+===Women long course===
+*Correct as of August 2025<ref name="Women's 4×100m Medley Relay Long Co"/>
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:49.34
+|[[Regan Smith (swimmer)|Regan Smith]] (57.57)<br />[[Kate Douglass]] (1:04.27)<br />[[Gretchen Walsh]] (54.98)<br />[[Torri Huske]] (52.52)
+|{{flagu|United States}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!2
+|3:50.40
+|[[Regan Smith (swimmer)|Regan Smith]] (57.57)<br />[[Lilly King]] (1:04.84)<br />[[Kelsi Dahlia]] (56.14)<br />[[Simone Manuel]] (51.86)
+|{{flagu|United States}}
+|28 July 2019
+|[[Gwangju]]
+|-
+!3
+|3:51.55
+|[[Kathleen Baker]] (58.54)<br />[[Lilly King]] (1:04.48)<br />[[Kelsi Dahlia]] (56.30)<br />[[Simone Manuel]] (52.23)
+|{{flagu|United States}}
+|30 July 2017
+|[[Budapest]]
+|-
+!4
+|3:51.60
+|[[Kaylee McKeown]] (58.01)<br />[[Chelsea Hodges]] (1:05.57)<br />[[Emma McKeon]] (55.91)<br />[[Cate Campbell]] (52.11)
+|{{flagu|Australia}}
+|1 August 2021
+|[[Tokyo]]
+|<ref name="Unnamed_4-20230325183825"/>
+|-
+!5
+|3:51.73
+|[[Regan Smith (swimmer)|Regan Smith]] (58.05)<br />[[Lydia Jacoby]] (1:05.03)<br />[[Torri Huske]] (56.16)<br />[[Abbey Weitzeil]] (52.49)
+|{{flagu|United States}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed_4-20230325183825"/>
+|-
+!6
+|3:52.05
+|[[Missy Franklin]] (58.50)<br />[[Rebecca Soni]] (1:04.82)<br />[[Dana Vollmer]] (55.48)<br />[[Allison Schmitt]] (53.25)
+|{{flagu|United States}}
+|4 August 2012
+|[[London]]
+|-
+!7
+|3:52.08
+|[[Regan Smith (swimmer)|Regan Smith]] (57.68)<br />[[Lilly King]] (1:04.93)<br />[[Gretchen Walsh]] (57.06)<br />[[Kate Douglass]] (52.41)
+|{{flagu|United States}}
+|30 July 2023
+|Fukuoka
+|<ref name="auto3">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011600010205F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2023|access-date=30 July 2023}}</ref>
+|-
+!8
+|3:52.19
+|[[Zhao Jing (swimmer)|Zhao Jing]] (58.98)<br />[[Chen Huijia]] (1:04.12)<br />[[Jiao Liuyang]] (56.24)<br />[[Li Zhesi]] (52.81)
+|{{flagu|China}}
+|1 August 2009
+|[[Rome]]
+|-
+!9
+|3:52.36
+|[[Natalie Coughlin]] (59.12)<br />[[Rebecca Soni]] (1:04.71)<br />[[Dana Vollmer]] (55.74)<br />[[Missy Franklin]] (52.79)
+|{{flagu|United States}}
+|30 July 2011
+|[[Shanghai]]
+|-
+!10
+|3:52.58
+|[[Emily Seebohm]] (59.40)<br />[[Sarah Katsoulis]] (1:04.65)<br />[[Jessicah Schipper]] (56.19)<br />[[Lisbeth Trickett]] (52.34)
+|{{flagu|Australia}}
+|1 August 2009
+|Rome
+|-
+!11
+|3:52.60
+|[[Kylie Masse]] (57.90)<br />[[Sydney Pickrem]] (1:07.17)<br />[[Maggie Mac Neil]] (55.27)<br />[[Penny Oleksiak]] (52.26)
+|{{flagu|Canada}}
+|1 August 2021
+|Tokyo
+|<ref name="Unnamed_4-20230325183825"/>
+|-
+!12
+|3:52.67
+|[[Kaylee McKeown]] (57.69)<br>[[Ella Ramsay]] (1:06.49)<br>[[Alexandria Perkins]] (56.26)<br>[[Mollie O'Callaghan]] (52.23)
+|{{flagu|Australia}}
+|3 August 2025
+|[[Singapore]]
+|<ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010105F70104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+!13
+|3:52.69
+|[[Emily Seebohm]] (59.33)<br />[[Leisel Jones]] (1:04.58)<br />[[Jessicah Schipper]] (56.25)<br />[[Lisbeth Trickett]] (52.53)
+|{{flagu|Australia}}
+|17 August 2008
+|[[Beijing]]
+|-
+!14
+|3:52.74
+|[[Emily Seebohm]] (59.28)<br />[[Jessica Hansen]] (1:05.82)<br />[[Emma McKeon]] (56.45)<br />[[Cate Campbell]] (51.19)
+|{{flagu|Australia}}
+|12 August 2018
+|Tokyo
+|-
+!15
+|3:53.13
+|[[Kathleen Baker]] (59.00)<br />[[Lilly King]] (1:05.70)<br />[[Dana Vollmer]] (56.00)<br />[[Simone Manuel]] (52.43)
+|{{flagu|United States}}
+|13 August 2016
+|[[Rio de Janeiro]]
+|-
+!16
+|3:53.21
+|[[Kathleen Baker]] (59.41)<br />[[Lilly King]] (1:04.86)<br />[[Kelsi Dahlia]] (56.72)<br />[[Simone Manuel]] (52.22)
+|{{flagu|United States}}
+|12 August 2018
+|Tokyo
+|-
+!17
+|3:53.23
+|[[Missy Franklin]] (58.39)<br />[[Jessica Hardy]] (1:05.10)<br />[[Dana Vollmer]] (56.31)<br />[[Megan Romano]] (53.43)
+|{{flagu|United States}}
+|4 August 2013
+|[[Barcelona]]
+|
+|-
+!18
+|3:53.30
+|[[Natalie Coughlin]] (58.94)<br />[[Rebecca Soni]] (1:05.95)<br />[[Christine Magnuson]] (56.14)<br />[[Dara Torres]] (52.27)
+|{{flagu|United States}}
+|17 August 2008
+|Beijing
+|-
+!19
+|3:53.37
+|[[Kaylee McKeown]] (57.91)<br />[[Abbey Harkin]] (1:07.07)<br />[[Emma McKeon]] (56.44)<br />[[Mollie O'Callaghan]] (51.95)
+|{{flagu|Australia}}
+|30 July 2023
+|Fukuoka
+|<ref name="auto3"/>
+|-
+!20
+|3:53.38
+|[[Anastasia Fesikova]] (58.96)<br />[[Yuliya Yefimova]] (1:04.03)<br />[[Svetlana Chimrova]] (56.99)<br />[[Veronika Popova]] (53.40)
+|{{flagu|Russia}}
+|30 July 2017
+|Budapest
+|-
+!21
+|3:53.42
+|[[Minna Atherton]] (59.06)<br />[[Jessica Hansen]] (1:06.08)<br />[[Emma McKeon]] (56.32)<br />[[Cate Campbell]] (51.96)
+|{{flagu|Australia}}
+|28 July 2019
+|Gwangju
+|-
+!22
+|3:53.58
+|[[Kylie Masse]] (59.12)<br />[[Sydney Pickrem]] (1:06.42)<br />[[Maggie Mac Neil]] (55.56)<br />[[Penny Oleksiak]] (52.48)
+|{{flagu|Canada}}
+|28 July 2019
+|Gwangju
+|-
+!23
+|3:53.78
+|[[Regan Smith (swimmer)|Regan Smith]] (58.40)<br />[[Lilly King]] (1:05.89)<br />[[Torri Huske]] (56.67)<br />[[Claire Curzan]] (52.82)
+|{{flagu|United States}}
+|25 June 2022
+|Budapest
+|<ref name="Unnamed_13-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011700000205F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 June 2022|access-date=28 October 2022}}</ref>
+|-
+!24
+|3:54.01
+|[[Kathleen Dawson]] (58.08)<br />[[Molly Renshaw]] (1:05.72)<br />[[Laura Stephens]] (57.55)<br />[[Anna Hopkin]] (52.66)
+|{{flagu|Great Britain}}
+|23 May 2021
+|Budapest
+|<ref name="microplustiming.com"/>
+|-
+!25
+|3:54.02
+|[[Emily Seebohm]] (59.01)<br />[[Leisel Jones]] (1:06.06)<br />[[Alicia Coutts]] (56.41)<br />[[Melanie Schlanger]] (52.54)
+|{{flagu|Australia}}
+|4 August 2012
+|London
+|}
+
+===Women short course===
+*Correct as of December 2022.
+
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:44.35
+|[[Claire Curzan]] (56.47)<br />[[Lilly King]] (1:02.88)<br />[[Torri Huske]] (54.53)<br />[[Kate Douglass]] (50.47)
+|{{flagu|United States}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_5-20230325183825"/>
+|-
+!2
+|3:44.52
+|[[Olivia Smoliga]], [[Lilly King]], [[Kelsi Dahlia]], [[Erika Brown (swimmer)|Erika Brown]]
+|{{flagu|United States}}
+|21 November 2020
+|Budapest
+|-
+!3
+|3:44.92
+||[[Kaylee McKeown]] (55.74)<br />[[Jenna Strauch]] (1:04.49)<br />[[Emma McKeon]] (53.93)<br />[[Meg Harris]] (50.76)
+|{{flagu|Australia}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!4
+|3:45.14
+|[[London Roar]]<br />[[Kira Toussaint]]<br />[[Alia Atkinson]]<br />[[Marie Wattel]]<br />[[Freya Anderson]]
+|{{flagu|Netherlands}}<br />{{flagu|Jamaica}}<br />{{flagu|France}}<br />{{flagu|Great Britain}}
+|21 November 2020
+|Budapest
+|-
+!5
+|3:46.20
+|[[Louise Hansson]] (56.25), [[Sophie Hansson]] (1:03.70), [[Sarah Sjöström]] (54.65), [[Michelle Coleman]] (51.60)
+|{{flagu|Sweden}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!6
+|3:46.22
+|[[Ingrid Wilm]] (55.36)<br />[[Sydney Pickrem]] (1:04.42)<br />[[Maggie Mac Neil]] (54.59)<br />[[Taylor Ruck]] (51.85)
+|{{flagu|Canada}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!7
+|3:47.36
+|[[Kylie Masse]] (55.76), [[Sydney Pickrem]] (1:04.97), [[Maggie Mac Neil]] (55.30), [[Kayla Sanchez]] (51.33)
+|{{flagu|Canada}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!8
+|3:47.41
+|[[Peng Xuwei]] (57.12), [[Tang Qianting]] (1:03.25), [[Zhang Yufei (swimmer)|Zhang Yufei]] (54.93), [[Cheng Yujie]] (52.11)
+|{{flagu|China}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!9
+|3:47.67
+|[[Alexandra Walsh|Alex Walsh]] (56.60)<br />[[Lilly King]] (1:04.03)<br />[[Kate Douglass]] (54.46)<br />[[Erika Brown (swimmer)|Erika Brown]] (52.58)
+|{{flagu|United States}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_14-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Heats Results|url=https://www.omegatiming.com/File/00011700030205F70101FFFFFFFFFF01.pdf|work=Omega Timing|date=18 December 2022|access-date=7 January 2023}}</ref>
+|-
+!10
+|3:47.68
+|[[Katharine Berkoff]] (56.02), [[Emily Escobedo]] (1:04.99), [[Claire Curzan]] (55.61), [[Abbey Weitzeil]] (51.06)
+|{{flagu|United States}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!11
+|3:47.70
+|[[Kira Toussaint]] (56.53)<br />[[Tes Schouten]] (1:05.28)<br />[[Maaike de Waard]] (55.42)<br />[[Marrit Steenbergen]] (50.47)
+|{{flagu|Netherlands}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!12
+|3:47.84
+|[[Hanna Rosvall]] (56.37)<br />[[Sophie Hansson]] (1:04.96)<br />[[Louise Hansson]] (54.57)<br />[[Michelle Coleman]] (51.94)
+|{{flagu|Sweden}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|-
+!13
+|3:47.89
+|
+|{{flagu|United States}}
+|11 December 2016
+|Windsor
+|<ref name="ReferenceA"/>
+|-
+!14
+|3:47.91
+|[[Minna Atherton]] (55.45), [[Jessica Hansen]] (1:04.73), [[Emma McKeon]] (55.67), [[Cate Campbell]] (52.06)
+|{{flagu|Australia}}
+|20 October 2019
+|Lewisville
+|<ref>{{cite web|title=ISL Lewisville medley relay|url=https://swimswam.com/london-roar-relay-breaks-australian-record-at-isl-lewisville-meet/|publisher=[[SwimSwam]]|date=20 October 2019|accessdate=14 February 2022}}</ref>
+|-
+!15
+|3:48.29
+|
+|{{flagu|China}}
+|17 December 2010
+|Dubai
+|
+|-
+!16
+|3:48.86
+|[[Mie Nielsen]] (56.86)<br />[[Rikke Møller-Pedersen]] (1:04.62)<br />[[Jeanette Ottesen]] (54.99)<br />[[Pernille Blume]] (52.39)
+|{{flagu|Denmark}}
+|7 December 2014
+|Doha
+|<ref name="Women's 4×100m Medley Relay Final R"/>
+|-
+!17
+|3:48.87
+|
+|{{flagu|Canada}}
+|11 December 2016
+|Windsor
+|<ref name="ReferenceA"/>
+|-
+!18
+|3:48.90
+|[[Mollie O'Callaghan]] (55.81)<br />[[Chelsea Hodges]] (1:05.24)<br />[[Alexandria Perkins]] (56.27)<br />[[Meg Harris]] (51.58)
+|{{flagu|Australia}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_14-20230325183825"/>
+|-
+!19
+|3:49.11
+|[[Aqua Centurions]]<br />[[Mariia Kameneva]]<br />[[Arianna Castiglioni]]<br />[[Elena di Liddo]]<br />[[Federica Pellegrini]]
+|{{flagu|Russia}}<br />{{flagu|Italy}}<br />{{flagu|Italy}}<br />{{flagu|Italy}}
+|25 September 2021
+|Naples
+|<ref name="Unnamed_15-20230325183825">{{cite web|title=Women's 4×100m Medley Relay Results|url=https://www.omegatiming.com/File/000115000D0205F704FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=25 September 2021|accessdate=6 October 2021}}</ref>
+|-
+!20
+|3:49.66
+|
+|{{flagu|Australia}}
+|11 December 2016
+|Windsor
+|<ref name="ReferenceA"/>
+|-
+!21
+|3:49.87
+|
+|{{flagu|Denmark}}
+|14 December 2012
+|Istanbul
+|
+|-
+!22
+|3:49.94
+|[[Maria Kameneva]] (56.59), [[Nika Godun]] (1:04.53), [[Svetlana Chimrova]] (56.18), [[Ekaterina Nikonova]] (52.64)
+|{{flagu|Russia}}
+|21 December 2021
+|Abu Dhabi
+|<ref name="Unnamed_7-20230325183825"/>
+|-
+!23
+|3:50.15
+|Iron<br />[[Ingeborg Løyning]]<br />[[Ida Hulkko]]<br />[[Emilie Beckmann]]<br />[[Ranomi Kromowidjojo]]
+|{{flagu|Norway}}<br />{{flagu|Finland}}<br />{{flagu|Denmark}}<br />{{flagu|Netherlands}}
+|25 September 2021
+|Naples
+|<ref name="Unnamed_15-20230325183825"/>
+|-
+!rowspan=2|24
+|rowspan=2|3:50.28
+|
+|{{flagu|Japan}}
+|11 December 2016
+|Windsor
+|<ref name="ReferenceA"/>
+|-
+|[[Pauline Mahieu]] (57.22)<br />[[Charlotte Bonnet]] (1:04.12)<br />[[Béryl Gastaldello]] (56.20)<br />[[Mary-Ambre Moluh]] (52.74)
+|{{flagu|France}}
+|18 December 2022
+|Melbourne
+|<ref name="Unnamed_6-20230325183825"/>
+|}
+
+===Mixed long course===
+*Correct as of July 2025.
+
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:37.43
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.08)<br />[[Nic Fink]] (58.29)<br />[[Gretchen Walsh]] (55.18)<br />[[Torri Huske]] (51.88)
+|{{flagu|United States}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!2
+|3:37.55
+|[[Xu Jiayu]] (52.13)<br />[[Qin Haiyang]] (57.82)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.64)<br />[[Yang Junxuan]] (51.96)
+|{{flagu|China}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!3
+|3:37.58
+|[[Kathleen Dawson]] (58.80)<br />[[Adam Peaty]] (56.78)<br />[[James Guy (swimmer)|James Guy]] (50.00)<br />[[Anna Hopkin]] (52.00)
+|{{flagu|Great Britain}}
+|31 July 2021
+|[[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Tokyo]]
+|<ref name="Unnamed_8-20230325183825"/>
+|-
+!4
+|3:37.73
+|[[Xu Jiayu]] (51.91)<br />[[Qin Haiyang]] (57.25)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (56.05)<br />[[Yang Junxuan]] (52.52)
+|{{flagu|China}}
+|27 September 2023
+|[[Swimming at the 2022 Asian Games|Hangzhou]]
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73B1_SWMX4X100MMD----------FNL-000100--.pdf|publisher=hangzhou2022.cn|date=27 September 2023|access-date=28 September 2023}}</ref>
+|-
+!5
+|3:37.97
+|[[Miron Lifintsev]] (51.78)<br/>[[Kirill Prigoda]] (57.56)<br/>[[Daria Klepikova]] (55.97)<br/>[[Daria Trofimova]] (52.66)
+|{{flagu|Russia}}
+|30 July 2025
+|Singapore
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010305F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+!6
+|3:38.41
+|[[Xu Jiayu]] (52.45)<br />[[Yan Zibei]] (57.96)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.32)<br />[[Yang Junxuan]] (52.68)
+|{{flagu|China}}
+|1 October 2020
+|[[China]]
+|<ref>Race, Retta (October 1, 2020). [https://swimswam.com/china-takes-down-mixed-medley-world-record-updated-with-video/ "China Takes Down Mixed Medley World Record (Updated With Video)"]. ''[[SwimSwam]]''. Retrieved September 27, 2023.</ref>
+|-
+!7
+|3:38.56
+|[[Matt Grevers]] (52.32)<br />[[Lilly King]] (1:04.15)<br />[[Caeleb Dressel]] (49.92)<br />[[Simone Manuel]] (52.17)
+|{{flagu|United States}}
+|26 July 2017
+|[[Swimming at the 2017 World Aquatics Championships – 4 × 100 metre mixed medley relay|Hungary]]
+|-
+!8
+|3:38.57
+|[[Xu Jiayu]] (52.42)<br />[[Qin Haiyang]] (57.31)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.69)<br />[[Cheng Yujie]] (53.15)
+|{{flagu|China}}
+|26 July 2023
+|[[Swimming at the 2023 World Aquatics Championships – Mixed 4 × 100 metre medley relay|Fukuoka]]
+|<ref name="auto1">{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011600010305F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2023|access-date=26 July 2023}}</ref>
+|-
+!9
+|3:38.76
+|[[Kaylee McKeown]] (57.90)<br />[[Joshua Yong]] (58.43)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (50.42)<br />[[Mollie O'Callaghan]] (52.01)
+|{{flagu|Australia}}
+|3 August 2024
+|Paris
+|<ref name="auto"/>
+|-
+!10
+|3:38.79
+|[[Hunter Armstrong]] (52.14)<br />[[Nic Fink]] (57.86)<br />[[Torri Huske]] (56.17)<br />[[Claire Curzan]] (52.62)
+|{{flagu|United States}}
+|21 June 2022
+|[[Swimming at the 2022 World Aquatics Championships – 4 × 100 metre mixed medley relay|Budapest]]
+|<ref name="Unnamed_16-20230325183825">{{cite web|title=Mixed 4×100m Medley Relay Final results|url=https://www.omegatiming.com/File/00011700000305F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=21 June 2022|access-date=16 August 2022}}</ref>
+|-
+!11
+|3:38.86
+|[[Xu Jiayu]] (52.56)<br />[[Yan Zibei]] (58.11)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.48)<br />[[Yang Junxuan]] (52.71)
+|{{flagu|China}}
+|31 July 2021
+|[[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Tokyo]]
+|<ref name="Unnamed_9-20230325183825"/>
+|-
+!12
+|3:38.91
+|[[Mitch Larkin]] (53.08)<br />[[Jake Packard]] (58.68)<br />[[Emma McKeon]] (56.22)<br />[[Cate Campbell]] (50.93)
+|{{flagu|Australia}}
+|9 August 2018
+|[[2018 Pan Pacific Swimming Championships – Mixed 4 × 100 metre medley relay|Japan]]
+|-
+!13
+|3:38.95
+|[[Kaylee McKeown]] (58.14)<br />[[Zac Stubblety-Cook]] (58.82)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (50.26)<br />[[Emma McKeon]] (51.73)
+|{{flagu|Australia}}
+|31 July 2021
+|[[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Tokyo]]
+|<ref name="Unnamed_9-20230325183825"/>
+|-
+!14
+|3:39.03
+|[[Kaylee McKeown]] (58.03)<br />[[Zac Stubblety-Cook]] (58.84)<br />[[Matthew Temple (swimmer)|Matthew Temple]] (50.63)<br />[[Shayna Jack]] (51.53)
+|{{flagu|Australia}}
+|26 July 2023
+|[[Swimming at the 2023 World Aquatics Championships – Mixed 4 × 100 metre medley relay|Fukuoka]]
+|<ref name="auto1"/>
+|-
+!15
+|3:39.08
+|[[Mitch Larkin]] (53.47)<br />[[Matthew Wilson (swimmer)|Matthew Wilson]] (58.37)<br />[[Emma McKeon]] (56.14)<br />[[Cate Campbell]] (51.10)
+|{{flagu|Australia}}
+|24 July 2019
+|[[Swimming at the 2019 World Aquatics Championships – 4 × 100 metre mixed medley relay|Gwangju]]
+|-
+!16
+|3:39.10
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.46)<br />[[Lilly King]] (1:04.94)<br />[[Caeleb Dressel]] (49.33)<br />[[Simone Manuel]] (52.37)
+|{{flagu|United States}}
+|24 July 2019
+|[[Swimming at the 2019 World Aquatics Championships – 4 × 100 metre mixed medley relay|Gwangju]]
+|-
+!17
+|3:39.28
+|[[Thomas Ceccon]] (52.23)<br />[[Nicolò Martinenghi]] (57.73)<br />[[Elena Di Liddo]] (56.62)<br />[[Federica Pellegrini]] (52.20)
+|{{flagu|Italy}}
+|31 July 2021
+|[[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Tokyo]]
+|<ref name="Unnamed_9-20230325183825"/>
+|-
+!18
+|3:39.99
+|[[Xu Jiayu]] (53.23)<br/>[[Qin Haiyang]] (58.14)<br/>[[Zhang Yufei (swimmer)|Zhang Yufei]] (55.96)<br/>[[Wu Qingfeng (swimmer)|Wu Qingfeng]] (52.66)
+|{{flagu|China}}
+|30 July 2025
+|Singapore
+|<ref>{{cite web|title=Mixed 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011900010305F70101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+!19
+|3:40.19
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.02)<br />[[Nic Fink]] (58.19)<br />[[Torri Huske]] (58.19)<br />[[Kate Douglass]] (51.79)
+|{{flagu|United States}}
+|26 July 2023
+|[[Swimming at the 2023 World Aquatics Championships – Mixed 4 × 100 metre medley relay|Fukuoka]]
+|<ref name="auto1"/>
+|-
+!20
+|3:40.22
+|[[Hunter Armstrong]] (53.07)<br />[[Nic Fink]] (58.27)<br />[[Claire Curzan]] (56.54)<br />[[Kate Douglass]] (52.34)
+|{{flagu|United States}}
+|14 February 2024
+|[[Swimming at the 2024 World Aquatics Championships – Mixed 4 × 100 metre medley relay|Doha]]
+|<ref>{{cite web|title=Women's 4x100m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800000305F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=14 February 2024|access-date=15 February 2024}}</ref>
+|-
+!21
+|3:40.28
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.34)<br />[[Kevin Cordes]] (58.95)<br />[[Kelsi Worrelll]] (56.17)<br />[[Mallory Comerford]] (52.82)
+|{{flagu|United States}}
+|26 July 2017
+|[[Swimming at the 2017 World Aquatics Championships – 4 × 100 metre mixed medley relay|Budapest]]
+|-
+!22
+|3:40.45
+|[[Xu Jiayu]] (52.30)<br />[[Yan Zibei]] (58.45)<br />[[Zhang Yufei (swimmer)|Zhang Yufei]] (56.61)<br />[[Zhu Menghui]] (53.09)
+|{{flagu|China}}
+|22 August 2018
+|[[Swimming at the 2018 Asian Games – Mixed 4 × 100 metre medley relay|Jakarta]]
+|
+|-
+!23
+|3:40.47
+|[[Katharine Berkoff]] (59.12)<br />[[Josh Matheny]] (58.45)<br />[[Dare Rose]] (50.50)<br />[[Abbey Weitzeil]] (52.40)
+|{{flagu|United States}}
+|26 July 2023
+|[[Swimming at the 2023 World Aquatics Championships – Mixed 4 × 100 metre medley relay|Fukuoka]]
+|<ref name="auto4">{{cite web|title=Women's 4x100m Medley Relay Heats Results Summary|url=https://www.omegatiming.com/File/00011600010305F70101FFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2023|access-date=26 July 2023}}</ref>
+|-
+!24
+|3:40.58
+|[[Ryan Murphy (swimmer)|Ryan Murphy]] (52.23)<br />[[Lydia Jacoby]] (1:05.59)<br />[[Torri Huske]] (56.27)<br />[[Caeleb Dressel]] (46.99)
+|{{flagu|United States}}
+|31 July 2021
+|[[Swimming at the 2020 Summer Olympics – Mixed 4 × 100 metre medley relay|Tokyo]]
+|<ref name="Unnamed_9-20230325183825"/>
+|-
+!25
+|3:40.68
+|[[Georgia Davies (swimmer)|Georgia Davies]] (59.25)<br />[[Adam Peaty]] (57.73)<br />[[James Guy (swimmer)|James Guy]] (50.72)<br />[[Freya Anderson]] (52.98)
+|{{flagu|Great Britain}}
+|24 July 2019
+|[[Swimming at the 2019 World Aquatics Championships – 4 × 100 metre mixed medley relay|Gwangju]]
+|}
+
+===Mixed short course===
+*Correct as of December 2024
+{| class="wikitable"
+|-
+!Pos
+!Time
+!Swimmer
+!Nationality or Club
+!Date
+!Venue
+!Ref
+|-
+!1
+|3:30.47
+|[[Miron Lifintsev]]<br>[[Kirill Prigoda]]<br>[[Arina Surkova]]<br>[[Daria Klepikova]]
+|{{flagu|Russia}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!2
+|3:30.55
+|
+|{{flagu|United States}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!3
+|3:31.97
+|
+|{{flagu|Canada}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!4
+|3:32.83
+|
+|{{flagu|Australia}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!5
+|3:33.31
+|[[Ingrid Wilm]]<br />[[Christopher Rothbauer]]<br />[[Tom Shields]]<br />[[Abbey Weitzeil]]
+|[[LA Current]]<br />{{flagu|Canada}}<br />{{flagu|Austria}}<br />{{flagu|United States}}<br />{{flagu|United States}}
+|5 September 2021
+|Naples
+|
+|-
+!6
+|3:35.46
+|
+|{{flagu|Great Britain}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!7
+|3:35.52
+|
+|{{flagu|Spain}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!8
+|3:35.54
+|
+|{{flagu|Italy}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+!9
+|3:36.04
+|
+|{{flagu|Netherlands}}
+|14 December 2024
+|Budapest
+|<ref>{{cite web|title=Mixed 4 × 100 m Medley Relay Final Results|url=https://www.omegatiming.com/File/00011800080305F70104FFFFFFFFFF01.pdf|date=14 December 2024|accessdate=15 December 2024}}</ref>
+|-
+|}
+
+==References==
+{{reflist}}
+*{{cite web |url=http://www.olympic.org/uk/sports/records/results_uk.asp |title=Official website of the Olympic Movement: Olympic and World Records: Swimming |publisher=[[International Olympic Committee|IOC]] }}
+*{{cite web |url=http://www.sportsrecords.co.uk/swimming/swimming54x.htm |title=SportsRecords.co.uk: Swimming: Women's World Record Progression (Long Course) |access-date=2009-02-21 |archive-date=2012-02-14 |archive-url=https://web.archive.org/web/20120214165349/http://www.sportsrecords.co.uk/swimming/swimming54x.htm |url-status=dead }}
+*{{cite web |url=http://www.zwemkroniek.com/recordhistorie.php?record=wrh50&afstand=4x100wisselestland |language=nl |title=Recordhistorie Wereldrecords heren (50m): 4x100 meter wisselslag estafette }}
+*{{cite web |url=http://www.zwemkroniek.com/recordhistorie.php?record=wrd50&afstand=4x100wisselestland |language=nl |title=Recordhistorie Wereldrecords dames (50m): 4x100 meter wisselslag estafette }}
+*{{cite web |url=http://www.agendadiana.com/cerca_record.php?id_record=1 |archive-url=https://web.archive.org/web/20020826021604/http://www.agendadiana.com/cerca_record.php?id_record=1 |url-status=usurped |archive-date=August 26, 2002 |language=it |title=AgendaDiana.com: World Records }}
+
+{{World records in swimming}}
+
+{{DEFAULTSORT:World record progression 4 x 100 metres medley relay}}
+[[Category:World record progressions in swimming|Medley relay 4x100 metres]]
+[[Category:Medley swimming]]

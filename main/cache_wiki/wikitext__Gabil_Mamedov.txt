@@ -1,0 +1,78 @@
+{{Short description|Russian boxer (born 1994)}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox sportsperson
+| name = Gabil Mamedov
+| full_name = 
+| image = 
+| caption = 
+| nationality = 
+| national_team = Russia
+| sport = [[Boxing]]
+| birth_date = {{birth date and age|1994|4|19|df=yes}}
+| birth_place = [[Orenburg]], Russia<ref>{{cite web|url=https://olympics.com/tokyo-2020/olympic-games/en/results/boxing/athlete-profile-n1425893-mamedov-gabil.htm|archive-url=https://web.archive.org/web/20210728045525/https://olympics.com/tokyo-2020/olympic-games/en/results/boxing/athlete-profile-n1425893-mamedov-gabil.htm|url-status=dead|archive-date=28 July 2021|title=Gabil Mamedov|publisher=Tokyo 2020|access-date=28 July 2021}}</ref>
+| death_date = 
+| death_place = 
+| medaltemplates = 
+{{MedalSport|Men's [[amateur boxing]]}}
+{{MedalCountry|{{RUS}}}}
+{{MedalComp|[[European Games]]}}
+{{MedalSilver|[[2019 European Games|2019 Minsk]]|[[Boxing at the 2019 European Games – Men's 60 kg|Lightweight]]}}
+{{MedalComp|[[European Amateur Boxing Championships|European Championships]]}}
+{{Medal|Gold|[[2024 European Amateur Boxing Championships|2024 Belgrade]]|Light welterweight}}
+{{MedalSilver|[[2017 European Amateur Boxing Championships|2017 Kharkiv]]|Lightweight}}
+{{MedalSilver|2019 Minsk|Lightweight}}
+}}
+
+'''Gabil Abil ogly Mamedov''' ({{langx|ru|Габил Абил оглы Мамедов}}; born 19 April 1994) is a Russian [[boxing|boxer]]<ref>{{cite web|url=https://www.olympedia.org/athletes/146224 |title=Gabil Mamedov |work=Olympedia |access-date=28 July 2021}}</ref> of [[Azerbaijanis|Azerbaijani]] origin.<ref>{{Cite web|title=Габил Мамедов|url=https://24smi.org/celebrity/169053-gabil-mamedov.html|access-date=2021-08-01|website=24SMI|language=ru}}</ref><ref>{{Cite web|date=2019-04-15|title=Как встречали азербайджанца-чемпиона в России – ВИДЕО|url=https://ru.axar.az/news/sport/365923.html|access-date=2021-08-01|website=Axar.Az|language=ru}}</ref> He competed in the [[Boxing at the 2020 Summer Olympics – Men's lightweight|men's lightweight event]] at the [[2020 Summer Olympics]].<ref>{{cite web |url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/BOX/OG2020-_BOX_C75_BOXM63KG--------------------------.pdf |title=Boxing: Men's Light (57-63kg) |work=Tokyo 2020 |access-date=28 July 2021 |archive-date=8 August 2021 |archive-url=https://web.archive.org/web/20210808065450/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/BOX/OG2020-_BOX_C75_BOXM63KG--------------------------.pdf |url-status=dead }}</ref>
+
+== Sports results ==
+
+=== Amateur career ===
+Gabil Mamedov has repeatedly won medals at various Russian national and international tournaments:
+
+* '''2011''' — Russian Junior Championships (17–18 years), Orenburg — 1st place
+* '''2011''' — European Junior Championships, Dublin, Ireland — 2nd place
+* '''2012''' — Russian Junior Championships (17–18 years), Kemerovo — 2nd place
+* '''2013''' — Russian Youth Championships (19–22 years), Orenburg — 2nd place
+* '''2014''' — Russian Youth Championships (19–22 years), Elista — 2nd place
+* '''2014''' — Russian Championships, Rostov-on-Don — 3rd place
+* '''2014''' — Russian Ministry of Internal Affairs Championships, Perm — 1st place
+* '''2015''' — Russian Youth Championships (19–22 years), Kemerovo — 3rd place
+* '''2015''' — Russian Championships, Samara — 3rd place
+* '''2016''' — Volga Federal District Championships — 1st place
+* '''2016''' — Russian Championships, Orenburg — 1st place
+* '''2017''' — International Tournament “Strandja Cup”, Sofia, Bulgaria — 2nd place
+* '''2017''' — European Championships, Kharkiv, Ukraine — 2nd place
+* '''2018''' — Russian Boxing Championships — 2nd place
+* '''2019''' — Russian Boxing Championships — 1st place
+* '''2020''' — Russian Boxing Championships — 1st place
+* '''2022''' — Russian Boxing Championships — 1st place
+* '''2024''' — Russian Boxing Cup — 1st place
+
+==References==
+{{reflist}}
+
+==External links==
+* {{sports links}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mamedov, Gabil}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Russian male boxers]]
+[[Category:Lightweight boxers]]
+[[Category:Light-welterweight boxers]]
+[[Category:Russian people of Azerbaijani descent]]
+[[Category:Sportspeople of Azerbaijani descent]]
+[[Category:Olympic boxers for Russia]]
+[[Category:Boxers at the 2020 Summer Olympics]]
+[[Category:Sportspeople from Orenburg]]
+[[Category:Boxers at the 2019 European Games]]
+[[Category:Medalists at the 2019 European Games]]
+[[Category:European Games medalists in boxing]]
+[[Category:European Games silver medalists for Russia]]
+[[Category:21st-century Russian sportsmen]]
+
+
+{{Russia-boxing-bio-stub}}

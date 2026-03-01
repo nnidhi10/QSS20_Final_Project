@@ -1,0 +1,1541 @@
+{{Short description|none}}
+{{main|Shooting at the 2012 Summer Olympics}}
+
+Shooting was one of the sport contested in competitions at the [[2012 Summer Olympics]] in London. There were a variety of categories for both men and women using a number of firearms. Those who qualified at various competitions went on to compete for medals at the games themselves.
+
+__TOC__
+<!--header and explanation needed for this table-->
+{| class="wikitable" width=900 style="text-align:center; font-size:90%"
+! rowspan="2" style="text-align:center;"| Nation !! colspan="9" | Men !! colspan="6" | Women !! colspan="2"|Total
+|-style="font-size:95%"
+! width=30|[[#50 m rifle 3 positions men|FR 3x40]] || width=30|[[#50 m rifle prone men|FR 60PR]] ||width=30|[[#10 m Air Rifle men|AR 60]] || width=30|[[#50 m Pistol men|FP]] || width=30|[[#25 m Rapid Fire Pistol men|RFP]] || width=30|[[#10 m Air Pistol men|AP 60]] || width=30|[[#Trap men|TR 125]] || width=30|[[#Double Trap men|DT 150]] || width=30|[[#Skeet men|SK 125]] || width=30|[[#50 m Rifle 3 Positions women|STR 3x20]] || width=30|[[#10 m Air Rifle women|AR 40]] || width=30|[[#25 m Pistol women|SP]] || width=30|[[#10 m Air Pistol women|AP 40]] || width=30|[[#Trap Women|TR 75]] || width=30|[[#Skeet Women|SK 75]] || width=50| Quotas || width=50| Athletes
+|-
+| style="text-align:left;" |{{flagIOC|ALB|2012 Summer}} || || || ||1|| ||1|| || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ALG|2012 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|AND|2012 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ARM|2012 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ARG|2012 Summer}} || ||2|| || || || || || || || || || || || || ||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|AUS|2012 Summer}} ||1||2||1||1||1||1||2||1||2||2||2||2||2||1||1||'''22'''||'''17'''
+|-
+| style="text-align:left;" |{{flagIOC|AUT|2012 Summer}} ||1||2||1|| || || ||1|| || ||1||1|| || || || ||'''7'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|AZE|2012 Summer}} || || || || || || || || || || || ||1||1|| || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BRN|2012 Summer}} || || || || || || || || || ||1|| || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BAN|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BLR|2012 Summer}} ||2||2||2||2|| ||2||1|| || || || ||1||1|| || ||'''13'''||'''9'''
+|-
+| style="text-align:left;" |{{flagIOC|BEL|2012 Summer}} || ||1|| || || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BHU|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BOL|2012 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BIH|2012 Summer}} ||1||1||1|| || || || || || || || || || || || ||'''3'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|BRA|2012 Summer}} || || || || || || || ||1|| || ||1||1|| || || ||'''3'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|BUL|2012 Summer}} ||1||1||1|| || || || || || ||1||1||2||2|| || ||'''9'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|CAN|2012 Summer}} || ||1||1|| || || || || || || || || ||1|| || ||'''3'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|CHI|2012 Summer}} || || || || || || || || || || || || || || ||1||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|CHN|2012 Summer}} ||2||2||2||2||2||2||1||2|| ||2||2||2||2||1||1||'''25'''||'''23'''
+|-
+| style="text-align:left;" |{{flagIOC|COL|2012 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|CRO|2012 Summer}} ||1||1||2|| || || ||2||1|| ||1||1|| || || || ||'''9'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|CUB|2012 Summer}} || || || || ||1|| || || ||1||2||2|| || || || ||'''6'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|CYP|2012 Summer}} || || || || || || || || ||2|| || || || || ||1 ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|CZE|2012 Summer}} ||1||1||1|| ||2|| ||2|| ||2||2||2||1||1|| || ||'''15'''||'''10'''
+|-
+| style="text-align:left;" |{{flagIOC|DEN|2012 Summer}} || ||1|| || || || || || ||2||1||2|| || || || ||'''6'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|DOM|2012 Summer}} || || || || || || ||1||1|| || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ECU|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|EGY|2012 Summer}} || || ||1|| || ||1||1|| ||2|| ||1|| || || ||1||'''7'''||'''7'''
+|-
+| style="text-align:left;" |{{flagIOC|ESA|2012 Summer}} || || || || || || || || || ||1||1|| || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|EST|2012 Summer}} || || || || || || || || || ||1||1|| || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|FIJ|2012 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|FIN|2012 Summer}} || || || ||1|| ||1|| || || ||1||1|| ||1||1|| ||'''6'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|FRA|2012 Summer}} ||2||2||2||2|| ||2||1|| ||1||2||2||2||2||1||1 ||'''22'''||'''14'''
+|-
+| style="text-align:left;" |{{flagIOC|GEO|2012 Summer}} || || || || || || || || || || || ||1||1|| || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|GER|2012 Summer}} ||2||2||2||2||2||1||1|| ||1||2||2||2||2||1||1||'''23'''||'''17'''
+|-
+| style="text-align:left;" |{{flagIOC|GBR|2012 Summer}} ||2||2||1|| || || ||1||2||2||1||1||1||1||1||1||'''16'''||'''11'''
+|-
+| style="text-align:left;" |{{flagIOC|GRE|2012 Summer}} || || || || || || || || ||2|| || || ||1|| || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|GUA|2012 Summer}} || || || ||1|| ||1||1|| || || || || || || || ||'''3'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|HON|2012 Summer}} || || || || || || || || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|HKG|2012 Summer}} || || || || || || || || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|HUN|2012 Summer}} ||1||1||1|| || || || ||1 || || || ||1||1|| || ||'''6'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|ISL|2012 Summer}} || || || ||1|| ||1|| || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|IND|2012 Summer}} ||2||2||2|| ||1||1||1||1|| || || ||2||2||1|| ||'''15'''||'''11'''
+|-
+| style="text-align:left;" |{{flagIOC|INA|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|IRI|2012 Summer}} || || || ||1|| ||1|| || || || ||2||2|| || || ||'''6'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|IRQ|2012 Summer}} || || || || || || || || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|IRL|2012 Summer}} || || || || || || ||1|| || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ISR|2012 Summer}} || ||1||1|| || || || || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|ITA|2012 Summer}} ||2||2||2||2|| ||2||2||2||2||2||2|| || ||1||1||'''22'''||'''15'''
+|-
+| style="text-align:left;" |{{flagIOC|JPN|2012 Summer}} ||1||1||1||1|| ||1|| || || || || ||1||1||1|| ||'''8'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|KAZ|2012 Summer}} || || || ||1|| ||1|| || ||1||1|| || || || ||1||'''5'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|KGZ|2012 Summer}} ||1|| ||1|| || || || || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|KUW|2012 Summer}} || || || || || || ||2||1||1||1||1|| || || || ||'''6'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|LAT|2012 Summer}} || || || || ||1|| || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|LIB|2012 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|LTU|2012 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|LUX|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MAS|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MLT|2012 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MEX|2012 Summer}} || || || || || || || || ||1||1||1|| ||1|| || ||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|MDA|2012 Summer}} || || || || || || || || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MGL|2012 Summer}} ||1||1||1|| || || || || || || || ||1||1|| || ||'''5'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|MNE|2012 Summer}} || || || ||1|| ||1|| || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MAR|2012 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|MYA|2012 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NAM|2012 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NEP|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NED|2012 Summer}} ||1||1||1|| || || || || || || || || || || || ||'''3'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NZL|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PRK|2012 Summer}} || || || || || || || || || || || ||1||1|| || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|NOR|2012 Summer}} ||2||2||2|| || || || || ||1||1||1|| || || || ||'''9'''||'''6'''
+|-
+| style="text-align:left;" |{{flagIOC|OMA|2012 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PAK|2012 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PER|2012 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|PHI|2012 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|POL|2012 Summer}} || || || || || || || || || ||2||2||1||1|| || ||'''6'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|POR|2012 Summer}} || || || ||1|| ||1|| || || || || ||1||1|| || ||'''4'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|PUR|2012 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|QAT|2012 Summer}} || || || || || || ||1|| ||1||1|| || || || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|ROU|2012 Summer}} || || ||1|| || || || || || || || || || || ||1||'''2'''||'''2'''
+|-
+| style="text-align:left;" |{{flagIOC|RUS|2012 Summer}} ||2||2||2||2||2||2||2||2||1||2||2||2||2||1||1||'''27'''||'''22'''
+|-
+| style="text-align:left;" |{{flagIOC|SMR|2012 Summer}} || || || || || || || || || || || || || ||1|| ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|KSA|2012 Summer}} || || || || || || || || ||1|| || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|SRB|2012 Summer}} ||1||1||1||2|| ||2|| || || ||2||2||2||2|| || ||'''15'''||'''8'''
+|-
+| style="text-align:left;" |{{flagIOC|SIN|2012 Summer}} || || || || || || || || || ||1||1|| || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|SVK|2012 Summer}} ||1||1||1||2|| ||2||1|| || ||1||1|| || ||1||1||'''12'''||'''7'''
+|-
+| style="text-align:left;" |{{flagIOC|SLO|2012 Summer}} ||1||1|| || || || ||1|| || ||1||1|| || || || ||'''5'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|RSA|2012 Summer}} || || || || || || || ||1|| || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|KOR|2012 Summer}} ||2||2||2||2||1||2|| || ||1||2||2||2||2||1|| ||'''21'''||'''13'''
+|-
+| style="text-align:left;" |{{flagIOC|ESP|2012 Summer}} ||1||1||1||1||1||1||2|| ||1|| || ||1||1||1|| ||'''12'''||'''8'''
+|-
+| style="text-align:left;" |{{flagIOC|SRI|2012 Summer}} || ||1||1|| || || || || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|SWE|2012 Summer}} || || || || || || || ||1||2|| || || || || ||1||'''4'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|SUI|2012 Summer}} ||2||2||2|| || ||1|| || ||1||1||1||1||1|| || ||'''12'''||'''7'''
+|-
+| style="text-align:left;" |{{flagIOC|SYR|2012 Summer}} || || || || || || || || || || ||1|| || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|TPE|2012 Summer}} || || || || || || || || || || || ||1||2||1|| ||'''4'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|TJK|2012 Summer}} || || || || || ||1|| || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|THA|2012 Summer}} || || || ||1||1||1|| || || || || ||2||2|| ||1||'''8'''||'''4'''
+|-
+| style="text-align:left;" |{{flagIOC|TRI|2012 Summer}} || || || ||1|| ||1|| || || || || || || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|TUN|2012 Summer}} || || || || || || || || || || || || ||1|| || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|TUR|2012 Summer}} || || || ||2|| ||2||1|| || || || || || ||1||1||'''7'''||'''5'''
+|-
+| style="text-align:left;" |{{flagIOC|UKR|2012 Summer}} ||2||2||2||1||1||2|| || || ||2||2||1||1|| || ||'''16'''||'''9'''
+|-
+| style="text-align:left;" |{{flagIOC|UAE|2012 Summer}} || || || || || || ||1||1||1|| || || || || || ||'''3'''||'''3'''
+|-
+| style="text-align:left;" |{{flagIOC|USA|2012 Summer}} ||2||2||2||2||2||2|| ||2||2||2||2||1||1||2||1||'''25'''||'''20'''
+|-
+| style="text-align:left;" |{{flagIOC|URU|2012 Summer}} || || ||1|| || || || || || || || || || || || ||'''1'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|UZB|2012 Summer}} || || || || || || || || || ||1||1|| || || || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|VEN|2012 Summer}} || || || || || || || || || || || ||1||1|| || ||'''2'''||'''1'''
+|-
+| style="text-align:left;" |{{flagIOC|VIE|2012 Summer}} || || || ||1|| ||1|| || || || || ||1||1|| || ||'''4'''||'''2'''
+|-
+! Total: 108 [[National Olympic Committee|NOC]]s !! 41 !! 50 !! 47 !! 38 !! 18 !! 44 !! 34 !! 24 !! 36 !! 47 !! 56 !! 39 !! 49 !! 22 !! 17 !! 523 !! 390
+|}
+
+==Qualification timeline==
+
+{|class="wikitable" width=700
+! Event !! Date !! Venue
+|-
+| [[2010 ISSF World Shooting Championships]] || July 29 – August 11, 2010 || {{flagicon|GER}} [[Munich]]
+|-
+| 2010 American Continental Championships || November 18–28, 2010 || {{flagicon|BRA}} [[Rio de Janeiro]]
+|-
+| 2011 ISSF World Cup # 1 || March 1–10, 2011 || {{flagicon|CHI}} [[Concepción, Chile|Concepción]]
+|-
+| 2011 ISSF World Cup # 2 || March 21–30, 2011 || {{flagicon|AUS}} [[Sydney]]
+|-
+| 2011 ISSF World Cup # 3 || April 11–19, 2011 || {{flagicon|KOR}} [[Changwon]]
+|-
+| 2011 ISSF World Cup # 4 || April 19–28, 2011 || {{flagicon|CHN}} [[Beijing]]
+|-
+| 2011 ISSF World Cup # 5 || May 14–22, 2011 || {{flagicon|USA}} [[Fort Benning]]
+|-
+| 2011 African Continental Championships (shotgun) || May 25 – June 3, 2011 || {{flagicon|MAR}} [[Rabat]]
+|-
+| 2011 ISSF World Cup # 6 || June 16–23, 2011 || {{flagicon|GER}} [[Munich]]
+|-
+| 2011 ISSF World Cup # 7 || July 7–17, 2011 || {{flagicon|SLO}} [[Maribor]]
+|-
+| [[2011 European Shooting Championships]] || July 31 – August 14, 2011 || {{flagicon|SER}} [[Belgrade]]
+|-
+| 2011 ISSF World Shotgun Championships || September 3–14, 2011 || {{flagicon|SER}} [[Belgrade]]
+|-
+| [[Shooting at the 2011 Pan American Games|2011 Pan American Games]] || October 15–23, 2011 || {{flagicon|MEX}} [[Guadalajara]]
+|-
+| 2011 African Continental Championships (rifle & pistol) || October 15–25, 2011 || {{flagicon|EGY}} [[Cairo]]*
+|-
+| 2011 Oceania Continental Championships || November 27 – December 4, 2011 || {{flagicon|AUS}} [[Sydney]]
+|-
+| 2012 Asian Continental Championships || January 11–22, 2012 || {{flagicon|QAT}} [[Doha]]
+|-
+| 2012 European Championships 10m events || February 14–20, 2012 || {{flagicon|FIN}} [[Vierumäki]]
+|}
+
+<nowiki>*</nowiki> This event was scheduled for February, but was postponed due to the [[2011 Egyptian protests]].
+
+== 50&nbsp;m rifle 3 positions men ==
+<ref name="Quotaplaces">[http://www.issf-sports.org/results/og_qualification/quota_places/quota_places_by_nation_and_name.ashx Quota places by nation and name]</ref>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[James Huckle]]
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|FRA|2012 Summer}} || [[Cyril Graff]] || [[Cyril Graff]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Konstantin Prikhodtchenko]] || [[Denis Sokolov (sport shooter)|Denis Sokolov]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Han Jin-seop]] || [[Han Jin-seop]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Kim Jong-hyun (sport shooter)|Kim Jong-Hyun]] || [[Kim Jong-hyun (sport shooter)|Kim Jong-hyun]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || [[Nemanja Mirosavljev]] || [[Nemanja Mirosavljev]]
+|-
+| rowspan="1"| 2010 American Continental Championships|| {{flagIOC|USA|2012 Summer}} || [[Joseph Hein]] || [[Matthew Emmons]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 2 || {{flagIOC|SVK|2012 Summer}} || [[Jozef Gönci]] || [[Jozef Gönci]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || [[Thomas Farnik]] || [[Thomas Farnik]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 3 || {{flagIOC|IND|2012 Summer}} || [[Sanjeev Rajput]] ||  [[Sanjeev Rajput]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || [[Ole-Kristian Bryhn]] || [[Ole-Kristian Bryhn]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 5|| {{flagIOC|SUI|2012 Summer}} || [[Simon Beyeler]] || [[Simon Beyeler]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Alexei Kamenski]] || [[Artem Khadjibekov]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 6|| {{flagIOC|CHN|2012 Summer}} || [[Lan Xing]] || [[Lan Xing]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || [[Ole Magnus Bakken]] || [[Are Hansen]]
+|-
+| rowspan="4"| [[2011 European Shooting Championships|2011 European Championships]] || {{flagIOC|BLR|2012 Summer}} || [[Yury Shcherbatsevich]] || [[Yury Shcherbatsevich]]
+|-
+|{{flagIOC|CRO|2012 Summer}} || [[Bojan Đurković]] || [[Bojan Đurković]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Vitali Bubnovich]] || [[Vitali Bubnovich]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Daniel Brodmeier]] || [[Daniel Brodmeier]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|USA|2012 Summer}} || [[Jason Parker (sport shooter)|Jason Parker]] || [[Jason Parker (sport shooter)|Jason Parker]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Christopher Gulvin]] || [[Dane Sampson]]
+|-
+| rowspan="1"|  2012 Asian Championships || {{flagIOC|IND|2012 Summer}} || [[Imran Hasan Khan]] || [[Gagan Narang]]
+|-
+| rowspan="1"|   Exchange of quota places|| {{flagIOC|UKR|2012 Summer}} || || [[Artur Ayvazyan]]
+|-
+| rowspan="1"|   Re-allocation of unused quota|| {{flagIOC|BIH|2012 Summer}} || || [[Nedžad Fazlija]]
+|-
+| rowspan="17"|   Athletes qualified in other events|| {{flagIOC|NED|2012 Summer}} || || [[Peter Hellenbrand]]
+|-
+|{{flagIOC|MGL|2012 Summer}} || || [[Nyantain Bayaraa]]
+|-
+|{{flagIOC|GER|2012 Summer}} || || [[Maik Eckhardt]]
+|-
+|{{flagIOC|KGZ|2012 Summer}} || || [[Ruslan Ismailov (sport shooter)|Ruslan Ismailov]]
+|-
+|{{flagIOC|JPN|2012 Summer}} || || [[Midori Yajima]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Serhiy Kulish]]
+|-
+|{{flagIOC|BUL|2012 Summer}} || || [[Anton Rizov]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || || [[Zhu Qinan]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || || [[Václav Haman]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || || [[Javier López (sport shooter)|Javier López]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Valérian Sauveplane]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || || [[Jonathan Hammond (sport shooter)|Jonathan Hammond]]
+|-
+|{{flagIOC|HUN|2012 Summer}} || || [[Péter Sidi]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Niccolò Campriani]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Marco de Nicolo]]
+|-
+|{{flagIOC|SLO|2012 Summer}} || || [[Rajmond Debevec]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Marcel Bürge]]
+|-
+! Total !!  !!  !! 41
+|}
+
+== 50&nbsp;m rifle prone men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Jonathan Hammond (sport shooter)|Jonathan Hammond]]
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|BLR|2012 Summer}} || [[Sergei Martynov (sport shooter)|Sergei Martynov]] || [[Sergei Martynov (sport shooter)|Sergei Martynov]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || [[Valérian Sauveplane]] || [[Valérian Sauveplane]]
+|-
+|{{flagIOC|IND|2012 Summer}} || [[Hariom Singh]] ||  [[Joydeep Karmakar]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || [[Vebjørn Berg]] || [[Odd Arne Brekne]]
+|-
+|{{flagIOC|USA|2012 Summer}} || [[Matthew Emmons]] || [[Michael McPhail]]
+|-
+| rowspan="1"| 2010 American Continental Championships || {{flagIOC|ARG|2012 Summer}} || [[Juan Diego Angeloni]] || [[Juan Diego Angeloni]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 2 || {{flagIOC|CHN|2012 Summer}} || [[Wang Weiyi (sport shooter)|Wang Weiyi]] || [[Wang Weiyi (sport shooter)|Wang Weiyi]]
+|-
+|{{flagIOC|USA|2012 Summer}} || [[Eric Uptagrafft]] || [[Eric Uptagrafft]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 3 || {{flagIOC|KOR|2012 Summer}} || [[Choi Young-jeon]] || [[Kim Hak-man]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Maik Eckhardt]] || [[Maik Eckhardt]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 5 || {{flagIOC|GER|2012 Summer}} || [[Henri Junghänel]] || [[Daniel Brodmeier]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || [[Christian Planer]] || [[Christian Planer]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 6<ref>{{cite news| url=http://www.issf-shooting.org/news.ashx?newsid=1514| title=World's best 50 m rifle prone shooter is Belarus' Martynov| work=[[International Shooting Sport Federation|ISSF]]| date=21 June 2011| accessdate=22 June 2011| url-status=dead| archiveurl=https://archive.today/20110926233912/http://www.issf-shooting.org/news.ashx?newsid=1514| archivedate=26 September 2011}}</ref> || {{flagIOC|DEN|2012 Summer}} || [[Kenneth Nielsen]] || [[Torben Grimmel]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || [[Marcel Bürge]] || [[Marcel Bürge]]
+|-
+| rowspan="3"| European Continental Championships || {{flagIOC|SLO|2012 Summer}} || [[Rajmond Debevec]] || [[Rajmond Debevec]]
+|-
+| {{flagIOC|RUS|2012 Summer}} || [[Artem Khadjibekov]] || [[Artem Khadjibekov]]
+|-
+| {{flagIOC|ESP|2012 Summer}} || [[Javier López (sport shooter)|Javier López]] || [[Javier López (sport shooter)|Javier López]]
+|-
+| rowspan="1"| 2011 Pan American Games || {{flagIOC|ARG|2012 Summer}} || [[Alex Suligoy]] || [[Alex Suligoy]]
+|-
+| rowspan="2"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Dane Sampson]] || [[Dane Sampson]]
+|-
+| {{flagIOC|AUS|2012 Summer}} || [[Warren Potent]] || [[Warren Potent]]
+|-
+| rowspan="2"|  2012 Asian Championships || {{flagIOC|JPN|2012 Summer}} || [[Midori Yajima]] || [[Midori Yajima]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Lee Hyun-tae]] || [[Han Jin-seop]]
+|-
+| rowspan="1"|  Exchange of quota places ||{{flagIOC|NZL|2012 Summer}} || || [[Ryan Taylor (sport shooter)|Ryan Taylor]]
+|-
+| rowspan="2"|  Re-allocation of unused quota || {{flagIOC|BEL|2012 Summer}} ||  || [[Lionel Cox (sport shooter)|Lionel Cox]]
+|-
+||{{flagIOC|SRI|2012 Summer}} || || [[Mangala Samarakoon]]
+|-
+| rowspan="24"|   Athletes qualified in other events|| {{flagIOC|RUS|2012 Summer}} || || [[Sergei Kovalenko (sport shooter)|Sergei Kovalenko]]
+|-
+|{{flagIOC|ISR|2012 Summer}} || || [[Sergey Richter]]
+|-
+|{{flagIOC|CRO|2012 Summer}} || || [[Bojan Đurković]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Nemanja Mirosavljev]]
+|-
+|{{flagIOC|BIH|2012 Summer}} || || [[Nedžad Fazlija]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || || [[Yury Shcherbatsevich]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || || [[Thomas Farnik]]
+|-
+|{{flagIOC|BUL|2012 Summer}} || || [[Anton Rizov]]
+|-
+|{{flagIOC|CAN|2012 Summer}} || || [[Cory Niefer]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || || [[Zhu Qinan]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || || [[Václav Haman]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Cyril Graff]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || || [[James Huckle]]
+|-
+|{{flagIOC|HUN|2012 Summer}} || || [[Péter Sidi]]
+|-
+|{{flagIOC|IND|2012 Summer}} || || [[Gagan Narang]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Niccolò Campriani]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Marco de Nicolo]]
+|-
+|{{flagIOC|MGL|2012 Summer}} || || [[Nyantain Bayaraa]]
+|-
+|{{flagIOC|NED|2012 Summer}} || || [[Peter Hellenbrand]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || || [[Ole Magnus Bakken]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Pascal Loretan]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || || [[Jozef Gönci]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Artur Ayvazyan]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Serhiy Kulish]]
+|-
+! Total !! !! !! 50
+|}
+
+== 10&nbsp;m air rifle men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="6"| 2010 World Championships || {{flagIOC|CHN|2012 Summer}} || [[Zhu Qinan]] || [[Zhu Qinan]]
+|-
+|{{flagIOC|HUN|2012 Summer}} || [[Péter Sidi]] || [[Péter Sidi]]
+|-
+|{{flagIOC|IND|2012 Summer}} || [[Gagan Narang]] ||  [[Gagan Narang]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Niccolò Campriani]] || [[Niccolò Campriani]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Marco de Nicolo]] || [[Marco de Nicolo]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Denis Sokolov (sport shooter)|Denis Sokolov]] || [[Alexandre Sokolov]]
+|-
+| rowspan="2"| 2010 American Continental Championships|| {{flagIOC|USA|2012 Summer}} || [[Matthew Rawlings]] || [[Matthew Emmons]]
+|-
+| {{flagIOC|CAN|2012 Summer}} || [[Cory Niefer]] || [[Cory Niefer]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 2 || {{flagIOC|FRA|2012 Summer}} || [[Pierre Edmond Piasecki]] || [[Pierre Edmond Piasecki]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || [[Are Hansen]] || [[Are Hansen]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Wang Tao (sport shooter)|Wang Tao]] || [[Wang Tao (sport shooter)|Wang Tao]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 3 || {{flagIOC|ISR|2012 Summer}} || [[Sergey Richter]] || [[Sergey Richter]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || [[Artur Ayvazyan]] || [[Artur Ayvazyan]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || [[Jérémy Monnier]] || [[Jérémy Monnier]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 5 || {{flagIOC|NED|2012 Summer}} || [[Peter Hellenbrand]] || [[Peter Hellenbrand]]
+|-
+|{{flagIOC|ROU|2012 Summer}} || [[Alin George Moldoveanu]] || [[Alin George Moldoveanu]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Sergey Kamenskiy]] || [[Alexei Kamenski]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 6<ref>{{cite news|url=http://www.issf-shooting.org/news.ashx?newsid=1510|title=10 m air rifle men: Olympic champs Zhu (CHN) and Bindra (IND) in the spotlights|work=[[International Shooting Sport Federation|ISSF]]|date=18 June 2011|accessdate=18 June 2011|url-status=dead|archiveurl=https://web.archive.org/web/20110926233820/http://www.issf-shooting.org/news.ashx?newsid=1510|archivedate=26 September 2011}}</ref> || {{flagIOC|BUL|2012 Summer}} || [[Anton Rizov]] || [[Anton Rizov]]
+|-
+|{{flagIOC|IND|2012 Summer}} || [[Abhinav Bindra]] ||  [[Abhinav Bindra]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Tino Mohaupt]] || [[Tino Mohaupt]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|USA|2012 Summer}} || [[Jonathan Hall (sport shooter)|Jonathan Hall]] || [[Jonathan Hall (sport shooter)|Jonathan Hall]]
+|-
+| rowspan="1"|  2011 African Championships || {{flagIOC|EGY|2012 Summer}} || [[Mohamed Abdellah]] || [[Amgad Hosen]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[William Godward]] || [[William Godward]]
+|-
+| rowspan="2"|  2012 Asian Championships<ref>{{cite news |url=http://results.sius.com/ShootEvent.aspx?Championship=12thAsianChampionship20120111DohaQAT&ShootEvent=AR60M| title=10m Air Rifle Men| work=[[International Shooting Sport Federation|ISSF]]| date=18 January 2012 | accessdate=18 January 2012}}</ref>|| {{flagIOC|KGZ|2012 Summer}} || [[Ruslan Ismailov (sport shooter)|Ruslan Ismailov]] || [[Ruslan Ismailov (sport shooter)|Ruslan Ismailov]]
+|-
+|{{flagIOC|MGL|2012 Summer}} || [[Nyantain Bayaraa]] || [[Nyantain Bayaraa]]
+|-
+| rowspan="4"| 2012 European Championships 10m events || {{flagIOC|CRO|2012 Summer}} || [[Petar Gorša]] || [[Petar Gorša]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Illia Charheika]] || [[Illia Charheika]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || [[Pascal Loretan]] || [[Pascal Loretan]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || [[Ondřej Rozsypal]] || [[Václav Haman]]
+|-
+| rowspan="1"|  Exchange of quota places || {{flagIOC|GER|2012 Summer}} || || [[Julian Justus]]
+|-
+| rowspan="1"|  Re-allocation of unused quota || {{flagIOC|URU|2012 Summer}} ||  ||[[Rudi Lausarot]]
+|-
+| rowspan="16"|   Athletes qualified in other events|| {{flagIOC|KOR|2012 Summer}} || || [[Kim Jong-hyun (sport shooter)|Kim Jong-hyun]]
+|-
+|{{flagIOC|AUS|2012 Summer}} || || [[Dane Sampson]]
+|-
+|{{flagIOC|CRO|2012 Summer}} || || [[Bojan Đurković]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || || [[Han Jin-seop]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Nemanja Mirosavljev]]
+|-
+|{{flagIOC|BIH|2012 Summer}} || || [[Nedžad Fazlija]]
+|-
+|{{flagIOC|JPN|2012 Summer}} || || [[Midori Yajima]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || || [[Vitali Bubnovich]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || || [[Thomas Farnik]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || || [[Javier López (sport shooter)|Javier López]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || || [[James Huckle]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || || [[Ole Magnus Bakken]]
+|-
+|{{flagIOC|SRI|2012 Summer}} || || [[Mangala Samarakoon]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Simon Beyeler]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || || [[Jozef Gönci]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Serhiy Kulish]]
+|-
+! Total !! !! !! 47
+|}
+
+== 50&nbsp;m pistol men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="4"| 2010 World Championships || {{flagIOC|JPN|2012 Summer}} || [[Tomoyuki Matsuda]] || [[Tomoyuki Matsuda]]
+|-
+|{{flagIOC|KAZ|2012 Summer}} || [[Vyacheslav Podlensnyy]] || [[Vyacheslav Podlensnyy]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Lee Dae-myung]] || [[Jin Jong-oh]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || [[Andrija Zlatić]] || [[Andrija Zlatić]]
+|-
+| rowspan="1"| 2010 American Continental Championships || {{flagIOC|USA|2012 Summer}} || [[Jason Turner (sport shooter)|Jason Turner]] || [[Nick Mowrer]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 2 || {{flagIOC|ITA|2012 Summer}} || [[Francesco Bruno (sport shooter)|Francesco Bruno]] || [[Francesco Bruno (sport shooter)|Francesco Bruno]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Pang Wei]] || [[Wang Zhiwei (sport shooter)|Wang Zhiwei]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 3 || {{flagIOC|RUS|2012 Summer}} || [[Leonid Ekimov]] || [[Leonid Ekimov]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Kim Yeong-koo]] || [[Choi Young-rae]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 5 || {{flagIOC|CHN|2012 Summer}} || [[Wu Xiao]] || [[Zhang Tian]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || [[Pavol Kopp]] || [[Pavol Kopp]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 6 || {{flagIOC|ITA|2012 Summer}} || [[Giuseppe Giordano]] || [[Giuseppe Giordano]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Andrei Kazak]] || [[Andrei Kazak]]
+|-
+| rowspan="2"| European Continental Championships || {{flagIOC|RUS|2012 Summer}} || [[Vladimir Isakov (sport shooter)|Vladimir Isakov]] || [[Vladimir Isakov (sport shooter)|Vladimir Isakov]]
+|-
+| {{flagIOC|FRA|2012 Summer}} || [[Franck Dumoulin]] || [[Franck Dumoulin]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|GUA|2012 Summer}} || [[Sergio Sánchez (sport shooter)|Sergio Sánchez]] || [[Sergio Sánchez (sport shooter)|Sergio Sánchez]]
+|-
+| rowspan="1"| 2012 Asian Championships || {{flagIOC|THA|2012 Summer}} || [[Jakkrit Panichpatikum]] || [[Jakkrit Panichpatikum]]
+|-
+| rowspan="1"|  Tripartite Commission Invitation || {{flagIOC|MNE|2012 Summer}} ||  || [[Nikola Šaranović (sport shooter)|Nikola Šaranović]]
+|-
+| rowspan="2"|  Re-allocation of unused quota || {{flagIOC|TRI|2012 Summer}} ||  || [[Roger Daniel]]
+|-
+| {{flagIOC|ISL|2012 Summer}} || ||[[Asgeir Sigurgeirsson]]
+|-
+| rowspan="18"|   Athletes qualified in other events||{{flagIOC|SRB|2012 Summer}} || || [[Damir Mikec]]
+|-
+|{{flagIOC|AUS|2012 Summer}} || || [[Daniel Repacholi]]
+|-
+|{{flagIOC|GER|2012 Summer}} || || [[Florian Schmidt]]
+|-
+|{{flagIOC|IRI|2012 Summer}} || || [[Ebrahim Barkhordari]]
+|-
+|{{flagIOC|POR|2012 Summer}} || || [[João Costa (sport shooter)|João Costa]]
+|-
+|{{flagIOC|ALB|2012 Summer}} || || [[Arben Kucana]]
+|-
+|{{flagIOC|VIE|2012 Summer}} || || [[Hoàng Xuân Vinh]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || || [[Kanstantsin Lukashyk]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Oleh Omelchuk]]
+|-
+|{{flagIOC|ARM|2012 Summer}} || || [[Norayr Bakhtamyan]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || || [[Pablo Carrera]]
+|-
+|{{flagIOC|FIN|2012 Summer}} || || [[Kai Jahnsson]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Walter Lapeyre]]
+|-
+|{{flagIOC|GER|2012 Summer}} || || [[Christian Reitz]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || || [[Juraj Tužinský]]
+|-
+|{{flagIOC|TUR|2012 Summer}} || || [[Yusuf Dikeç]]
+|-
+|{{flagIOC|TUR|2012 Summer}} || || [[İsmail Keleş]]
+|-
+|{{flagIOC|USA|2012 Summer}} || || [[Daryl Szarenski]]
+|-
+! Total !!  !!  !! 38
+|}
+
+== 25&nbsp;m rapid fire pistol men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="2"| 2010 World Championships || {{flagIOC|RUS|2012 Summer}} || [[Alexei Klimov]] || [[Alexei Klimov]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Zhang Jian (sport shooter)|Zhang Jian]] || [[Zhang Jian (sport shooter)|Zhang Jian]]
+|-
+| rowspan="1"|  American Continental Championships || {{flagIOC|CUB|2012 Summer}} || [[Leuris Pupo]] || [[Leuris Pupo]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 2  || {{flagIOC|CZE|2012 Summer}} || [[Martin Podhráský]] || [[Martin Podhráský]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Viatcheslav Kalioujnyi]] || [[Leonid Ekimov]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 3  || {{flagIOC|USA|2012 Summer}} || [[Keith Sanderson (sport shooter)|Keith Sanderson]] || [[Keith Sanderson (sport shooter)|Keith Sanderson]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || [[Jorge Llames]] || [[Jorge Llames]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 5 || {{flagIOC|GER|2012 Summer}} || [[Christian Reitz]] || [[Christian Reitz]]
+|-
+|{{flagIOC|IND|2012 Summer}} || [[Vijay Kumar (sport shooter)|Vijay Kumar]] ||  [[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|-
+| rowspan="2"| 2011 ISSF World Cup # 6 || {{flagIOC|GER|2012 Summer}} || [[Ralf Schumann]] || [[Ralf Schumann]]
+|-
+|{{flagIOC|USA|2012 Summer}} || [[Emil Milev]] || [[Emil Milev]]
+|-
+| rowspan="2"| 2011 European Championship || {{flagIOC|UKR|2012 Summer}} || [[Roman Bondaruk]] || [[Roman Bondaruk]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || [[Martin Strnad]] || [[Martin Strnad]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Bruce Quick]] || [[David Chapman (sport shooter)|David Chapman]]
+|-
+| rowspan="2"| 2012 Asian Championships || {{flagIOC|CHN|2012 Summer}} || [[Li Yuehong]] || [[Ding Feng (sport shooter)|Ding Feng]]
+|-
+| {{flagIOC|KOR|2012 Summer}} || [[Jang Dang-kyu]] || [[Kim Dae-yoong]]
+|-
+| rowspan="1"|  Re-allocation of unused quota || {{flagIOC|LAT|2012 Summer}} ||  || [[Afanasijs Kuzmins]]
+|-
+| rowspan="1"|   Athletes qualified in other events||{{flagIOC|THA|2012 Summer}} || || [[Jakkrit Panichpatikum]]
+|-
+! Total !! !! !! 18
+|}
+
+== 10&nbsp;m air pistol men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|KOR|2012 Summer}} || [[Jin Jong-oh]] || [[Jin Jong-oh]]
+|-
+|{{flagIOC|POR|2012 Summer}} || [[João Costa (sport shooter)|João Costa]] || [[João Costa (sport shooter)|João Costa]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Sergey Chervyakovskiy]] || [[Leonid Ekimov]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || [[Damir Mikec]] || [[Damir Mikec]]
+|-
+|{{flagIOC|TUR|2012 Summer}} || [[Yusuf Dikeç]] || [[Yusuf Dikeç]]
+|-
+| rowspan="1"|  American Continental Championships || {{flagIOC|USA|2012 Summer}} || [[Brian Beaman]] || [[Jason Turner (sport shooter)|Jason Turner]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 2  || {{flagIOC|UKR|2012 Summer}} || [[Oleh Omelchuk]] || [[Oleh Omelchuk]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Zhang Tian]] || [[Pang Wei]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || [[Juraj Tužinský]] || [[Juraj Tužinský]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 3  || {{flagIOC|FRA|2012 Summer}} || [[Walter Lapeyre]] || [[Walter Lapeyre]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || [[Dimitrije Grgić]] || [[Andrija Zlatić]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Kanstantsin Lukashyk]] || [[Kanstantsin Lukashyk]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 5  || {{flagIOC|FIN|2012 Summer}} || [[Kai Jahnsson]] || [[Kai Jahnsson]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Florian Schmidt]] || [[Florian Schmidt]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || [[Pablo Carrera]] || [[Pablo Carrera]]
+|-
+| rowspan="3"| 2011 ISSF World Cup # 6  || {{flagIOC|RUS|2012 Summer}} || [[Denis Kulakov (shooting)|Denis Kulakov]] || [[Denis Kulakov (shooting)|Denis Kulakov]]
+|-
+|{{flagIOC|ARM|2012 Summer}} || [[Norayr Bakhtamyan]] || [[Norayr Bakhtamyan]]
+|-
+|{{flagIOC|IRI|2012 Summer}} || [[Ebrahim Barkhordari]] || [[Ebrahim Barkhordari]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|USA|2012 Summer}} || [[Daryl Szarenski]] || [[Daryl Szarenski]]
+|-
+| rowspan="1"|  2011 African Championship || {{flagIOC|EGY|2012 Summer}} || [[Karim Wagih]] || [[Karim Wagih]]
+|-
+| rowspan="1"|  2011 Oceania Continental Championships || {{flagIOC|AUS|2012 Summer}} || [[Daniel Repacholi]] || [[Daniel Repacholi]]
+|-
+| rowspan="2"|  2012 Asian Championships || {{flagIOC|CHN|2012 Summer}} || [[Wang Zhiwei (sport shooter)|Wang Zhiwei]] || [[Tan Zongliang]]
+|-
+|{{flagIOC|VIE|2012 Summer}} || [[Hoàng Xuân Vinh]] || [[Hoàng Xuân Vinh]]
+|-
+| rowspan="4"|  2012 European Championships 10m events || {{flagIOC|BLR|2012 Summer}} || [[Vladislav Kocarenko]] || [[Yury Dauhapolau]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Luca Tesconi]] || [[Luca Tesconi]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || [[Patrick Scheuber]] || [[Patrick Scheuber]]
+|-
+|{{flagIOC|TUR|2012 Summer}} || [[İsmail Keleş]] || [[İsmail Keleş]]
+|-
+| rowspan="1"|  Exchange of quota places || {{flagIOC|UKR|2012 Summer}} ||  || [[Denys Kushnirov]]
+|-
+| rowspan="1"|  Tripartite Commission Invitation || {{flagIOC|MYA|2012 Summer}} ||  ||[[Maung Kyu]]
+|-
+| rowspan="3"|  Re-allocation of unused quota || {{flagIOC|ALB|2012 Summer}} ||  || [[Arben Kucana]]
+|-
+|{{flagIOC|ALG|2012 Summer}} ||  || [[Fateh Ziadi]]
+|-
+|{{flagIOC|TJK|2012 Summer}} ||  || [[Sergey Babikov]]
+|-
+| rowspan="12"|  Athletes qualified in other events||{{flagIOC|KOR|2012 Summer}} || || [[Choi Young-rae]]
+|-
+|{{flagIOC|GUA|2012 Summer}} || || [[Sergio Sánchez (sport shooter)|Sergio Sánchez]]
+|-
+|{{flagIOC|ISL|2012 Summer}} || || [[Asgeir Sigurgeirsson]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Franck Dumoulin]]
+|-
+|{{flagIOC|IND|2012 Summer}} || || [[Vijay Kumar (sport shooter)|Vijay Kumar]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Francesco Bruno (sport shooter)|Francesco Bruno]]
+|-
+|{{flagIOC|JPN|2012 Summer}} || || [[Tomoyuki Matsuda]]
+|-
+|{{flagIOC|KAZ|2012 Summer}} || || [[Vyacheslav Podlesnyy]]
+|-
+|{{flagIOC|MNE|2012 Summer}} || || [[Nikola Šaranović (sport shooter)|Nikola Šaranović]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || || [[Pavol Kopp]]
+|-
+|{{flagIOC|THA|2012 Summer}} || || [[Jakkrit Panichpatikum]]
+|-
+|{{flagIOC|TRI|2012 Summer}} || || [[Roger Daniel]]
+|-
+! Total !!  !! !! 44
+|}
+
+== Trap men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Edward Ling]]
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|CHN|2012 Summer}} || [[Li Yajun (sports shooter)|Li Yajun]] || [[Du Yu (sport shooter)|Du Yu]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || [[Jiří Lipták]] || [[Jiří Lipták]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Giovanni Pellielo]] || [[Giovanni Pellielo]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Alexey Alipov]] || [[Alexey Alipov]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || [[Alberto Fernández (sport shooter)|Alberto Fernández]] || [[Alberto Fernández (sport shooter)|Alberto Fernández]]
+|-
+| rowspan="2"|  2010 American Continental Championships || {{flagIOC|DOM|2012 Summer}} || [[Sergio Piñero]] || [[Sergio Piñero]]
+|-
+|{{flagIOC|GUA|2012 Summer}} || [[Jean Pierre Brol]] || [[Jean Pierre Brol]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 1|| {{flagIOC|TUR|2012 Summer}} || [[Oğuzhan Tüzün]] || [[Oğuzhan Tüzün]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Pavel Gurkin]] || [[Maxim Kosarev]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 2|| {{flagIOC|ITA|2012 Summer}} || [[Rodolfo Viganò]] || [[Massimo Fabbrizi]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Stefan Rüttgeroth]] || [[Karsten Bindrich]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 4 || {{flagIOC|CRO|2012 Summer}} || [[Giovanni Cernogoraz]] || [[Giovanni Cernogoraz]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || [[Jiří Gach]] || [[David Kostelecký]]
+|-
+| rowspan="1"|  2010 African Championships || {{flagIOC|EGY|2012 Summer}} || [[Ahmed Zaher]] || [[Ahmed Zaher]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 7 || {{flagIOC|ESP|2012 Summer}} || [[Jesús Serrano (sport shooter)|Jesús Serrano]] || [[Jesús Serrano (sport shooter)|Jesús Serrano]]
+|-
+|{{flagIOC|AUS|2012 Summer}} || [[Michael Diamond (sport shooter)|Michael Diamond]] || [[Michael Diamond (sport shooter)|Michael Diamond]]
+|-
+| rowspan="5"|  2011 European Championships || {{flagIOC|SVK|2012 Summer}} || [[Erik Varga]] || [[Erik Varga]]
+|-
+|{{flagIOC|SLO|2012 Summer}} || [[Boštjan Maček]] || [[Boštjan Maček]]
+|-
+|{{flagIOC|CRO|2012 Summer}} || [[Anton Glasnović]] || [[Anton Glasnović]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || [[Andreas Scherhaufer]] || [[Andreas Scherhaufer]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Andrei Kavalenka]] || [[Andrei Kavalenka]]
+|-
+| rowspan="1"|  2011 World Shotgun Championships || {{flagIOC|FRA|2012 Summer}} || [[Stéphane Clamens]] || [[Stéphane Clamens]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|COL|2012 Summer}} || [[Danilo Caro]] || [[Danilo Caro]]
+|-
+| rowspan="2"|  2011 Oceania Championships || {{flagIOC|FIJ|2012 Summer}} || [[Glenn Kable]] || [[Glenn Kable]]
+|-
+| {{flagIOC|AUS|2012 Summer}} || [[Matthew Stokes (sport shooter)|Matthew Stokes]] || [[Adam Vella (sport shooter)|Adam Vella]]
+|-
+| rowspan="4"| 2012 Asian Championships || {{flagIOC|IND|2012 Summer}} || [[Manavjit Singh Sandhu]] ||  [[Manavjit Singh Sandhu]]
+|-
+| {{flagIOC|KUW|2012 Summer}} || [[Talal Al-Rashidi]] || [[Talal Al-Rashidi]]
+|-
+| {{flagIOC|QAT|2012 Summer}} || [[Rashid Hamad Al-Athba]] || [[Rashid Hamad Al-Athba]]
+|-
+| {{flagIOC|UAE|2012 Summer}} || [[Dhaher Al-Aryani]] || [[Dhaher Al-Aryani]]
+|-
+| rowspan="1"|  Tripartite Commission Invitation || {{flagIOC|AND|2012 Summer}} || || [[Joan Tomas Roca]]
+|-
+| rowspan="2"|  Re-allocation of unused quota || {{flagIOC|BOL|2012 Summer}} || || [[Juan Carlos Pérez (sport shooter)|Juan Carlos Pérez]]
+|-
+| {{flagIOC|IRL|2012 Summer}} ||  || [[Derek Burnett]]
+|-
+| rowspan="1"| Athletes qualified in other events || {{flagIOC|KUW|2012 Summer}} || || [[Fehaid Al-Deehani]]
+|-
+! Total !!  !! !! 34
+|}
+
+== Double trap men ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="3"| 2010 World Championships || {{flagIOC|CHN|2012 Summer}} || [[Hu Binyuan]] || [[Hu Binyuan]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Vasily Mosin]] || [[Vasily Mosin]]
+|-
+|{{flagIOC|USA|2012 Summer}} || [[Joshua Richmond]] || [[Joshua Richmond]]
+|-
+| rowspan="1"|  2010 American Continental Championships || {{flagIOC|BRA|2012 Summer}} || [[Filipe Fuzaro]] || [[Filipe Fuzaro]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 1|| {{flagIOC|RUS|2012 Summer}} || [[Vitaly Fokeev]] || [[Vitaly Fokeev]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || [[Peter Wilson (sport shooter)|Peter Wilson]] || [[Peter Wilson (sport shooter)|Peter Wilson]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 2|| {{flagIOC|GBR|2012 Summer}} || [[Richard Faulds]] || [[Richard Faulds]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Francesco d'Aniello]] || [[Francesco d'Aniello]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 4|| {{flagIOC|MLT|2012 Summer}} || [[William Chetcuti]] || [[William Chetcuti]]
+|-
+|{{flagIOC|IND|2012 Summer}} || [[Ronjan Sodhi]] ||  [[Ronjan Sodhi]]
+|-
+| rowspan="1"|  2010 African Championships || {{flagIOC|RSA|2012 Summer}} || [[Alistair Davis (sport shooter)|Alistair Davis]] || [[Alistair Davis (sport shooter)|Alistair Davis]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 7|| {{flagIOC|HUN|2012 Summer}} || [[Richárd Bognár]] || [[Richárd Bognár]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Daniele di Spigno]] || [[Daniele di Spigno]]
+|-
+| rowspan="1"|  2011 European Championships || {{flagIOC|SWE|2012 Summer}} || [[Håkan Dahlby]] || [[Håkan Dahlby]]
+|-
+| rowspan="1"|  2011 World Shotgun Championships || {{flagIOC|CHN|2012 Summer}} || [[Li Jun (sport shooter)|Li Jun]] || [[Li Jun (sport shooter)|Li Jun]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Russel Mark]] || [[Russel Mark]]
+|-
+| rowspan="2"|  2012 Asian Championships|| {{flagIOC|UAE|2012 Summer}} || [[Juma Al-Maktoum]] || [[Juma Al-Maktoum]]
+|-
+|{{flagIOC|KUW|2012 Summer}} || [[Fehaid Al-Deehani]] || [[Fehaid Al-Deehani]]
+|-
+| rowspan="1"|  Exchange of quota places || {{flagIOC|USA|2012 Summer}} || || [[Walton Eller]]
+|-
+| rowspan="1"|  Tripartite Commission Invitation || {{flagIOC|OMA|2012 Summer}} || || [[Ahmed Al-Hatmi]]
+|-
+| rowspan="1"|  Re-allocation of unused quota || {{flagIOC|PUR|2012 Summer}} || || [[José Torres Laboy]]
+|-
+| rowspan="3"|   Athletes qualified in other events||{{flagIOC|CRO|2012 Summer}} || || [[Anton Glasnović]]
+|-
+|{{flagIOC|DOM|2012 Summer}} || || [[Sergio Piñero]]
+|-
+|{{flagIOC|QAT|2012 Summer}} || || [[Rashid Hamad Al-Athba]]
+|-
+! Total !!  !! !! 24
+|}
+
+==Skeet men==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Rory Warlow]]
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|CYP|2012 Summer}} || [[Georgios Achilleos]] || [[Georgios Achilleos]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Valeriy Shomin]] || [[Valeriy Shomin]]
+|-
+||{{flagIOC|ITA|2012 Summer}} || [[Ennio Falco]] || [[Ennio Falco]]
+|-
+|| {{flagIOC|CYP|2012 Summer}} || [[Antonakis Andreou]] || [[Antonakis Andreou]]
+|-
+|| {{flagIOC|USA|2012 Summer}} || [[Vincent Hancock]] || [[Vincent Hancock]]
+|-
+| rowspan="2"|  2010 American Continental Championships || {{flagIOC|USA|2012 Summer}} || [[Frank Thompson (sport shooter)|Frank Thompson]] || [[Frank Thompson (sport shooter)|Frank Thompson]]
+|-
+|| {{flagIOC|MEX|2012 Summer}} || [[Javier Rodríguez (sport shooter)|Javier Rodríguez]] || [[Javier Rodríguez (sport shooter)|Javier Rodríguez]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 1|| {{flagIOC|CZE|2012 Summer}} || [[Jan Sychra]] || [[Jan Sychra]]
+|-
+|| {{flagIOC|NOR|2012 Summer}} || [[Tore Brovold]] || [[Tore Brovold]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 2|| {{flagIOC|ITA|2012 Summer}} || [[Luigi Lodde]] || [[Luigi Lodde]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || [[Richard Brickell]] || [[Richard Brickell]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 4|| {{flagIOC|GRE|2012 Summer}} || [[Nikolas Mavrommatis]] || [[Nikolas Mavrommatis]]
+|-
+|{{flagIOC|DEN|2012 Summer}} || [[Jesper Hansen (sport shooter)|Jesper Hansen]] || [[Jesper Hansen (sport shooter)|Jesper Hansen]]
+|-
+| rowspan="1"|  2010 African Championships || {{flagIOC|EGY|2012 Summer}} || [[Azmy Mehelba]] || [[Azmy Mehelba]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 7|| {{flagIOC|DEN|2012 Summer}} || [[Anders Golding]] || [[Anders Golding]]
+|-
+|{{flagIOC|GRE|2012 Summer}} || [[Efthimios Mitas]] || [[Efthimios Mitas]]
+|-
+| rowspan="5"| 2011 European Championships || {{flagIOC|FRA|2012 Summer}} || [[Éric Delaunay]] || [[Anthony Terras]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Tino Wenzel]] || [[Ralf Buchheim]]
+|-
+||{{flagIOC|CZE|2012 Summer}} || [[Jakub Tomeček]] || [[Jakub Tomeček]]
+|-
+|| {{flagIOC|SWE|2012 Summer}} || [[Marcus Svensson]] || [[Marcus Svensson]]
+|-
+|| {{flagIOC|SWE|2012 Summer}} || [[Stefan Nilsson (sport shooter)|Stefan Nilsson]] || [[Stefan Nilsson (sport shooter)|Stefan Nilsson]]
+|-
+| rowspan="1"|  2011 World Shotgun Championships || {{flagIOC|ESP|2012 Summer}} || [[Juan José Aramburu]] || [[Juan José Aramburu]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|CUB|2012 Summer}} || [[Guillermo Alfredo Torres|Guillermo Torres]] || [[Guillermo Alfredo Torres|Guillermo Torres]]
+|-
+| rowspan="2"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Paul Adams (sport shooter)|Paul Adams]] || [[Keith Ferguson (sport shooter)|Keith Ferguson]]
+|-
+|{{flagIOC|AUS|2012 Summer}} || [[Clive Barton]] || [[Clive Barton]]
+|-
+| rowspan="4"|  2012 Asian Championships|| {{flagIOC|UAE|2012 Summer}} || [[Saeed Almaktoum]] || [[Saeed Almaktoum]]
+|-
+|{{flagIOC|KUW|2012 Summer}} || [[Abdullah Al-Rashidi]] || [[Abdullah Al-Rashidi]]
+|-
+|{{flagIOC|QAT|2012 Summer}} || [[Nasser Al-Attiyah]] || [[Nasser Al-Attiyah]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || [[Kwang Soo-cho]] || [[Cho Yong-seong]]
+|-
+| rowspan="2"|  Exchange of quota places || {{flagIOC|EGY|2012 Summer}} || || [[Mostafa Hamdy]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Fabio Ramella]]
+|-
+| rowspan="4"|  Re-allocation of unused quota || {{flagIOC|KSA|2012 Summer}} || || [[Majed Al-Tamimi]]
+|-
+|{{flagIOC|PAK|2012 Summer}} || || [[Khurrum Inam]]
+|-
+|{{flagIOC|PER|2012 Summer}} || || [[Nicolás Pacheco]]
+|-
+|{{flagIOC|PHI|2012 Summer}} || || [[Brian Rosario]]
+|-
+! Total !!  !! !! 36
+|}
+
+==50&nbsp;m rifle 3 positions women==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|UKR|2012 Summer}} || [[Natallia Kalnysh]] || [[Dariya Sharipova]]
+|-
+|{{flagIOC|USA|2012 Summer}} || [[Jamie Lynn Gray]] || [[Jamie Lynn Gray]]
+|-
+||{{flagIOC|SUI|2012 Summer}} || [[Annik Marguet]] || [[Annik Marguet]]
+|-
+|| {{flagIOC|GER|2012 Summer}} || [[Barbara Engleder]] || [[Barbara Engleder]]
+|-
+|| {{flagIOC|GER|2012 Summer}} || [[Sonja Pfeilschifter]] || [[Sonja Pfeilschifter]]
+|-
+| rowspan="2"|  2010 American Continental Championships || {{flagIOC|USA|2012 Summer}} || [[Sandra Fong]] || [[Amanda Furrer]]
+|-
+|| {{flagIOC|MEX|2012 Summer}} || [[Alexis Martínez (sport shooter)|Alexis Gabriela Martínez]] || [[Alexis Martínez (sport shooter)|Alexis Gabriela Martínez]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 2 || {{flagIOC|POL|2012 Summer}} || [[Sylwia Bogacka]] || [[Sylwia Bogacka]]
+|-
+|| {{flagIOC|FRA|2012 Summer}} || [[Laurence Brize]] || [[Laurence Brize]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 3 || {{flagIOC|CHN|2012 Summer}} || [[Li Peijing]] || [[Li Peijing]]
+|-
+|| {{flagIOC|FRA|2012 Summer}} || [[Émilie Évesque]] || [[Émilie Évesque]]
+|-
+| rowspan="1"|  2011 ISSF World Cup # 5 || {{flagIOC|SRB|2012 Summer}} || [[Andrea Arsović]] || [[Andrea Arsović]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 6 || {{flagIOC|CHN|2012 Summer}} || [[Wan Xiangyan]] || [[Du Li]]
+|-
+|| {{flagIOC|SVK|2012 Summer}} || [[Daniela Pešková]] || [[Daniela Pešková]]
+|-
+| rowspan="4"|  2011 European Championships || {{flagIOC|RUS|2012 Summer}} || [[Liubov Galkina]] || [[Liubov Galkina]]
+|-
+| {{flagIOC|EST|2012 Summer}} || [[Anžela Voronova]] || [[Anžela Voronova]]
+|-
+| {{flagIOC|RUS|2012 Summer}} || [[Tatyana Yushkova]] || [[Daria Vdovina]]
+|-
+| {{flagIOC|FIN|2012 Summer}} || [[Marjo Yli-Kiikka]] || [[Marjo Yli-Kiikka]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|CUB|2012 Summer}} || [[Dianelys Pérez]] || [[Dianelys Pérez]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Robyn van Nus]] || [[Robyn van Nus]]
+|-
+| rowspan="3"|  2012 Asian Championships || {{flagIOC|KAZ|2012 Summer}} || [[Olga Dovgun]] || [[Olga Dovgun]]
+|-
+| {{flagIOC|KOR|2012 Summer}} || [[Jeong Gyung-suk]] || [[Na Yoon-kyung]]
+|-
+| {{flagIOC|KOR|2012 Summer}} || [[Jeong Mi-ra]] || [[Jeong Mi-ra]]
+|-
+| rowspan="2"|  Exchange of quota places || {{flagIOC|QAT|2012 Summer}} || || [[Bahya Mansour Al-Hamad]]
+|-
+| {{flagIOC|POL|2012 Summer}} || || [[Agnieszka Nagay]]
+|-
+| rowspan="1"|  Re-allocation of unused quota || {{flagIOC|BRN|2012 Summer}} || || [[Azza Al-Qasmi]]
+|-
+| rowspan="21"|   Athletes qualified in other events||{{flagIOC|AUS|2012 Summer}} || || [[Alethea Sedgman]]
+|-
+|{{flagIOC|CRO|2012 Summer}} || || [[Snježana Pejčić]]
+|-
+|{{flagIOC|IRI|2012 Summer}} || || [[Elaheh Ahmadi]]
+|-
+|{{flagIOC|IRI|2012 Summer}} || || [[Mahlagha Jambozorg]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Ivana Maksimović]]
+|-
+|{{flagIOC|AUT|2012 Summer}} || || [[Stephanie Obermoser]]
+|-
+|{{flagIOC|BUL|2012 Summer}} || || [[Petya Lukanova]]
+|-
+|{{flagIOC|CUB|2012 Summer}} || || [[Eglis Yaima Cruz]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || || [[Kateřina Emmons]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || || [[Adéla Sýkorová]]
+|-
+|{{flagIOC|DEN|2012 Summer}} || || [[Stine Nielsen]]
+|-
+|{{flagIOC|ESA|2012 Summer}} || || [[Melissa Mikec]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || || [[Jennifer McIntosh]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Elania Nardelli]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || || [[Petra Zublasing]]
+|-
+|{{flagIOC|KUW|2012 Summer}} || || [[Maryam Arzouqi]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || || [[Malin Westerheim]]
+|-
+|{{flagIOC|SIN|2012 Summer}} || || [[Jasmine Ser Xiang Wei]]
+|-
+|{{flagIOC|SLO|2012 Summer}} || || [[Živa Dvoršak]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Daria Tykhova]]
+|-
+|{{flagIOC|UZB|2012 Summer}} || || [[Sakina Mamedova]]
+|-
+! Total !!  !! !! 47
+|}
+
+==10&nbsp;m air rifle women==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Jennifer McIntosh]]
+|-
+| rowspan="6"| 2010 World Championships || {{flagIOC|CHN|2012 Summer}} || [[Yi Siling]] || [[Yi Siling]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Wu Liuxi]] || [[Yu Dan (sport shooter)|Yu Dan]]
+|-
+||{{flagIOC|ITA|2012 Summer}} || [[Elania Nardelli]] || [[Elania Nardelli]]
+|-
+||{{flagIOC|IRI|2012 Summer}} || [[Mahlagha Jambozorg]] || [[Mahlagha Jambozorg]]
+|-
+|| {{flagIOC|GER|2012 Summer}} || [[Beate Gauss]] || [[Beate Gauss]]
+|-
+|| {{flagIOC|GER|2012 Summer}} || [[Jessica Mager]] || [[Jessica Mager]]
+|-
+| rowspan="2"|  2010 American Continental Championships || {{flagIOC|CUB|2012 Summer}} || [[Eglis Yaima Cruz]] || [[Eglis Yaima Cruz]]
+|-
+|| {{flagIOC|MEX|2012 Summer}} || [[Rosa Peña Rocamontes]] || [[Rosa Peña Rocamontes]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 2|| {{flagIOC|CRO|2012 Summer}} || [[Snjezana Pejcic]] || [[Snjezana Pejcic]]
+|-
+|| {{flagIOC|IRI|2012 Summer}} || [[Elaheh Ahmadi]] || [[Elaheh Ahmadi]]
+|-
+|| {{flagIOC|UKR|2012 Summer}} || [[Daria Tykhova]] || [[Daria Tykhova]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 3|| {{flagIOC|USA|2012 Summer}} || [[Sarah Scherer]] || [[Sarah Scherer]]
+|-
+|| {{flagIOC|POL|2012 Summer}} || [[Agnieszka Nagay]] || [[Sylwia Bogacka]]
+|-
+|| {{flagIOC|SRB|2012 Summer}} || [[Ivana Maksimović]] || [[Ivana Maksimović]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 5|| {{flagIOC|ITA|2012 Summer}} || [[Petra Zublasing]] || [[Petra Zublasing]]
+|-
+|| {{flagIOC|DEN|2012 Summer}} || [[Stine Nielsen]] || [[Stine Nielsen]]
+|-
+|| {{flagIOC|AUT|2012 Summer}} || [[Stephanie Obermoser]] || [[Stephanie Obermoser]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 6<ref>{{cite news|title=10m air rifle women: Gold to China, silver and bronze to Czech Republic|work=[[International Shooting Sport Federation|ISSF]]|date=7 September 2015}}</ref> || {{flagIOC|CZE|2012 Summer}} || [[Kateřina Emmons]] || [[Kateřina Emmons]]
+|-
+|| {{flagIOC|CZE|2012 Summer}} || [[Adéla Sýkorová]] || [[Adéla Sýkorová]]
+|-
+|| {{flagIOC|DEN|2012 Summer}} || [[Anette Jensen]] || [[Stine Andersen (sport shooter)|Stine Anderson]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|USA|2012 Summer}} || [[Emily Caruso]] || [[Jamie Lynn Gray]]
+|-
+| rowspan="1"|  2011 African Championships || {{flagIOC|EGY|2012 Summer}} || [[Nourhan Amer]] || [[Nourhan Amer]]
+|-
+| rowspan="2"|  2012 Asian Championships || {{flagIOC|KUW|2012 Summer}} || [[Maryam Arzouqi]] || [[Maryam Arzouqi]]
+|-
+|| {{flagIOC|MAS|2012 Summer}} || [[Nur Suryani Mohd Taibi]] || [[Nur Suryani Mohd Taibi]]
+|-
+| rowspan="4"| 2012 European Championships 10m events || {{flagIOC|SLO|2012 Summer}} || [[Živa Dvoršak]] || [[Živa Dvoršak]]
+|-
+|{{flagIOC|NOR|2012 Summer}} || [[Marte Torvik]] || [[Malin Westerheim]]
+|-
+||{{flagIOC|POL|2012 Summer}} || [[Paula Wrońska]] ||[[Paula Wrońska]]
+|-
+||{{flagIOC|BUL|2012 Summer}} || [[Petya Lukanova]] || [[Petya Lukanova]]
+|-
+| rowspan="2"|  Exchange of quota places || {{flagIOC|AUS|2012 Summer}} || || [[Alethea Sedgman]]
+|-
+| {{flagIOC|RUS|2012 Summer}} || || [[Daria Vdovina]]
+|-
+| rowspan="2"|  Tripartite Commission Invitation || {{flagIOC|BAN|2012 Summer}} || || [[Sharmin Ratna]]
+|-
+| {{flagIOC|BHU|2012 Summer}} || || [[Kunzang Choden (shooter)|Kunzang Choden]]
+|-
+| rowspan="8"|  Re-allocation of unused quota || {{flagIOC|ECU|2012 Summer}} || || [[Sofia Padilla]]
+|-
+| {{flagIOC|ESA|2012 Summer}} || || [[Melissa Mikec]]
+|-
+| {{flagIOC|INA|2012 Summer}} || || [[Diaz Kusumawardani]]
+|-
+| {{flagIOC|LUX|2012 Summer}} || || [[Carole Calmes]]
+|-
+| {{flagIOC|NEP|2012 Summer}} || || [[Sneh Rana (sport shooter)|Sneh Rana]]
+|-
+| {{flagIOC|SIN|2012 Summer}} || || [[Jasmine Ser Xiang Wei]]
+|-
+| {{flagIOC|SYR|2012 Summer}} || || [[Raya Zin Aldden]]
+|-
+| {{flagIOC|UZB|2012 Summer}} || || [[Sakina Mamedova]]
+|-
+| rowspan="15"|  Athletes qualified in other events ||{{flagIOC|AUS|2012 Summer}} || || [[Robyn van Nus]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || || [[Jeong Mi-ra]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || || [[Na Yoon-kyung]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || || [[Lioubov Galkina]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Andrea Arsović]]
+|-
+|{{flagIOC|CUB|2012 Summer}} || || [[Dianelys Pérez]]
+|-
+|{{flagIOC|EST|2012 Summer}} || || [[Anžela Voronova]]
+|-
+|{{flagIOC|FIN|2012 Summer}} || || [[Marjo Yli-Kiikka]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Laurence Brize]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Émilie Évesque]]
+|-
+|{{flagIOC|KAZ|2012 Summer}} || || [[Olga Dovgun]]
+|-
+|{{flagIOC|QAT|2012 Summer}} || || [[Bahya Mansour Al-Hamad]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Annik Marguet]]
+|-
+|{{flagIOC|SVK|2012 Summer}} || || [[Daniela Pešková]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Dariya Sharipova]]
+|-
+! Total !!  !! !! 56
+|}
+
+==25&nbsp;m pistol women==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="5"| 2010 World Championships || {{flagIOC|RUS|2012 Summer}} || [[Yuliya Alipava]] || [[Anna Mastyanina]]
+|-
+|{{flagIOC|RUS|2012 Summer}} || [[Kira Mozgalova]] || [[Kira Mozgalova]]
+|-
+||{{flagIOC|ESP|2012 Summer}} || [[Sonia Franquet]] || [[Sonia Franquet]]
+|-
+|| {{flagIOC|JPN|2012 Summer}} || [[Yukari Konishi]] || [[Yukari Konishi]]
+|-
+|| {{flagIOC|PRK|2012 Summer}} || [[Jo Yong-suk]] || [[Jo Yong-suk]]
+|-
+| rowspan="1"|  2010 American Continental Championships || {{flagIOC|BRA|2012 Summer}} || [[Ana Luiza Mello]] || [[Ana Luiza Mello]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 2|| {{flagIOC|CHN|2012 Summer}} || [[Yuan Jing (sport shooter)|Yuan Jing]] || [[Yuan Jing (sport shooter)|Yuan Jing]]
+|-
+|| {{flagIOC|BUL|2012 Summer}} || [[Antoaneta Boneva]] || [[Antoaneta Boneva]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 3|| {{flagIOC|CHN|2012 Summer}} || [[Chen Ying (sport shooter)|Chen Ying]] || [[Chen Ying (sport shooter)|Chen Ying]]
+|-
+|| {{flagIOC|GER|2012 Summer}} || [[Munkhbayar Dorjsuren]] || [[Munkhbayar Dorjsuren]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 5|| {{flagIOC|MGL|2012 Summer}} || [[Otryadyn Gündegmaa]] || [[Otryadyn Gündegmaa]]
+|-
+|| {{flagIOC|IND|2012 Summer}} || [[Rahi Sarnobat]] || [[Rahi Sarnobat]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 6|| {{flagIOC|BUL|2012 Summer}} || [[Mariya Grozdeva]] || [[Mariya Grozdeva]]
+|-
+|| {{flagIOC|HUN|2012 Summer}} || [[Zsófia Csonka]] || [[Zsófia Csonka]]
+|-
+| rowspan="3"| 2011 European Championships || {{flagIOC|SUI|2012 Summer}} || [[Heidi Diethelm]] || [[Heidi Diethelm]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || [[Georgina Geikie]] || [[Georgina Geikie]]
+|-
+|{{flagIOC|AZE|2012 Summer}} || [[Irada Ashumova]] || [[Irada Ashumova]]
+|-
+| rowspan="1"| 2011 Pan American Games || {{flagIOC|USA|2012 Summer}} || [[Sandra Uptagrafft]] || [[Sandra Uptagrafft]]
+|-
+| rowspan="1"|  2011 Oceania Continental Championship || {{flagIOC|AUS|2012 Summer}} || [[Chloe Esposito]] || [[Hayley Chapman]]
+|-
+| rowspan="3"| 2012 Asian Championships || {{flagIOC|THA|2012 Summer}} || [[Naphaswan Yangpaiboon]] || [[Naphaswan Yangpaiboon]]
+|-
+|{{flagIOC|VIE|2012 Summer}} || [[Lê Thị Hoàng Ngọc]] || [[Lê Thị Hoàng Ngọc]]
+|-
+|{{flagIOC|THA|2012 Summer}} || [[Tanyaporn Prucksakorn]] || [[Tanyaporn Prucksakorn]]
+|-
+| rowspan="3"|  Exchange of quota places|| {{flagIOC|IND|2012 Summer}} || || [[Heena Sidhu]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || || [[Kim Kyeong-ae (sport shooter)|Kim Kyeong-ae]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Zorana Arunović]]
+|-
+| rowspan="14"|  Athletes qualified in other events|| |{{flagIOC|GER|2012 Summer}} || || [[Claudia Verdicchio-Krause]]
+|-
+|{{flagIOC|AUS|2012 Summer}} || || [[Lalita Yauhleuskaya]]
+|-
+|{{flagIOC|KOR|2012 Summer}} || || [[Kim Jang-mi]]
+|-
+|{{flagIOC|POL|2012 Summer}} || || [[Beata Bartków-Kwiatkowska]]
+|-
+|{{flagIOC|POR|2012 Summer}} || || [[Joana Castelão]]
+|-
+|{{flagIOC|SRB|2012 Summer}} || || [[Jasna Šekarić]]
+|-
+|{{flagIOC|TPE|2012 Summer}} || || [[Tien Chia-chen]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || || [[Viktoria Chaika]]
+|-
+|{{flagIOC|CZE|2012 Summer}} || || [[Lenka Marušková]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Céline Goberville]]
+|-
+|{{flagIOC|FRA|2012 Summer}} || || [[Stéphanie Tirode]]
+|-
+|{{flagIOC|GEO|2012 Summer}} || || [[Nino Salukvadze]]
+|-
+|{{flagIOC|UKR|2012 Summer}} || || [[Olena Kostevych]]
+|-
+|{{flagIOC|VEN|2012 Summer}} || || [[Maribel Pineda]]
+|-
+! Total !!  !! !! 39
+|}
+
+==10&nbsp;m air pistol women==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| rowspan="6"| 2010 World Championships || {{flagIOC|AUS|2012 Summer}} || [[Lalita Yauhleuskaya]] || [[Lalita Yauhleuskaya]]
+|-
+|{{flagIOC|BLR|2012 Summer}} || [[Viktoria Chaika]] || [[Viktoria Chaika]]
+|-
+||{{flagIOC|CHN|2012 Summer}} || [[Su Yuling]] || [[Su Yuling]]
+|-
+|| {{flagIOC|CZE|2012 Summer}} || [[Lenka Marušková]] || [[Lenka Marušková]]
+|-
+|| {{flagIOC|FIN|2012 Summer}} || [[Mira Suhonen]] || [[Mira Suhonen]]
+|-
+| {{flagIOC|SRB|2012 Summer}} || [[Zorana Arunović]] || [[Zorana Arunović]]
+|-
+| rowspan="1"|  2010 American Continental Championships || {{flagIOC|MEX|2012 Summer}} || [[Alejandra Zavala]] || [[Alejandra Zavala]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 2|| {{flagIOC|GEO|2012 Summer}} || [[Nino Salukvadze]] || [[Nino Salukvadze]]
+|-
+|| {{flagIOC|UKR|2012 Summer}} || [[Olena Kostevych]] || [[Olena Kostevych]]
+|-
+|| {{flagIOC|TPE|2012 Summer}} || [[Tien Chia-chen]] || [[Tien Chia-chen]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 3|| {{flagIOC|CHN|2012 Summer}} || [[Sun Qi]] || [[Guo Wenjun]]
+|-
+|| {{flagIOC|KOR|2012 Summer}} || [[Park Min-jin]] || [[Kim Byung-hee]]
+|-
+|| {{flagIOC|AUS|2012 Summer}} || [[Dina Aspandiyarova]] || [[Dina Aspandiyarova]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 5|| {{flagIOC|IND|2012 Summer}} || [[Annu Raj Singh]] || [[Annu Raj Singh]]
+|-
+|| {{flagIOC|FRA|2012 Summer}} || [[Céline Goberville]] || [[Céline Goberville]]
+|-
+|| {{flagIOC|GRE|2012 Summer}} || [[Athina Douka]] || [[Athina Douka]]
+|-
+| rowspan="3"|  2011 ISSF World Cup # 6|| {{flagIOC|FRA|2012 Summer}} || [[Stéphanie Tirode]] || [[Stéphanie Tirode]]
+|-
+|| {{flagIOC|RUS|2012 Summer}} || [[Liubov Yaskevich]] || [[Liubov Yaskevich]]
+|-
+|| {{flagIOC|POL|2012 Summer}} || [[Beata Bartków-Kwiatkowska]] || [[Beata Bartków-Kwiatkowska]]
+|-
+| rowspan="1"|  2011 Pan American Games || {{flagIOC|CAN|2012 Summer}} || [[Dorothy Ludwig]] || [[Dorothy Ludwig]]
+|-
+| rowspan="1"|  2011 African Championship || {{flagIOC|TUN|2012 Summer}} || [[Olfa Charni]] || [[Noura Nasri]]
+|-
+| rowspan="1"|  2012 Asian Shooting Championships|| {{flagIOC|KOR|2012 Summer}} || [[Kim Jang-mi]] || [[Kim Jang-mi]]
+|-
+| rowspan="4"| 2012 European Championships 10m events || {{flagIOC|SRB|2012 Summer}} || [[Bobana Veličković]] || [[Bobana Veličković]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Claudia Verdicchio-Krause]] || [[Claudia Verdicchio-Krause]]
+|-
+||{{flagIOC|RUS|2012 Summer}} || [[Galina Orlovskaya]] || [[Natalia Paderina]]
+|-
+||{{flagIOC|POR|2012 Summer}} || [[Joana Castelão]] || [[Joana Castelão]]
+|-
+| Exchange of quota places || {{flagIOC|TPE|2012 Summer}} || || [[Yu Ai-wen]]
+|-
+| rowspan="2"| Tripartite Commission Invitation || {{flagIOC|HON|2012 Summer}} ||  || [[Claudia Carolina Fajardo Rodriguez]]
+|-
+|| {{flagIOC|IRQ|2012 Summer}} ||  || [[Noor Amer]]
+|-
+| rowspan="3"| Re-allocation of unused quota || {{flagIOC|HKG|2012 Summer}} ||  || [[Ip Pui Yi]]
+|-
+|| {{flagIOC|MDA|2012 Summer}} ||  || [[Marina Zgurscaia]]
+|-
+|| {{flagIOC|VEN|2012 Summer}} ||  || [[Maribel Pineda]]
+|-
+| rowspan="17"| Athletes qualified in other events ||{{flagIOC|GER|2012 Summer}} || || [[Munkhbayar Dorjsuren]]
+|-
+|{{flagIOC|VIE|2012 Summer}} || || [[Lê Thị Hoàng Ngọc]]
+|-
+|{{flagIOC|PRK|2012 Summer}} || || [[Jo Yong-suk]]
+|-
+|{{flagIOC|JPN|2012 Summer}} || || [[Yukari Konishi]]
+|-
+|{{flagIOC|AZE|2012 Summer}} || || [[Irada Ashumova]]
+|-
+|{{flagIOC|BRA|2012 Summer}} || || [[Ana Luiza Mello]]
+|-
+|{{flagIOC|BUL|2012 Summer}} || || [[Antoaneta Boneva]]
+|-
+|{{flagIOC|BUL|2012 Summer}} || || [[Maria Grozdeva]]
+|-
+|{{flagIOC|ESP|2012 Summer}} || || [[Sonia Franquet]]
+|-
+|{{flagIOC|GBR|2012 Summer}} || || [[Georgina Geikie]]
+|-
+|{{flagIOC|HUN|2012 Summer}} || || [[Zsófia Csonka]]
+|-
+|{{flagIOC|IND|2012 Summer}} || || [[Heena Sidhu]]
+|-
+|{{flagIOC|MGL|2012 Summer}} || || [[Otryadyn Gündegmaa]]
+|-
+|{{flagIOC|SUI|2012 Summer}} || || [[Heidi Diethelm]]
+|-
+|{{flagIOC|THA|2012 Summer}} || || [[Tanyaporn Prucksakorn]]
+|-
+|{{flagIOC|THA|2012 Summer}} || || [[Naphaswan Yangpaiboon]]
+|-
+|{{flagIOC|USA|2012 Summer}} || || [[Sandra Uptagrafft]]
+|-
+! Total !!  !! !! 49
+|}
+
+==Trap women==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Charlotte Kerwood]]
+|-
+| rowspan="3"| 2010 World Championships || {{flagIOC|SVK|2012 Summer}} || [[Zuzana Štefečeková]] || [[Zuzana Štefečeková]]
+|-
+|{{flagIOC|ITA|2012 Summer}} || [[Jessica Rossi]] || [[Jessica Rossi]]
+|-
+||{{flagIOC|CHN|2012 Summer}} || [[Liu Yingzi]] || [[Liu Yingzi]]
+|-
+| rowspan="1"|  2010 American Continental Championships || {{flagIOC|USA|2012 Summer}} || [[Corey Cogdell]] || [[Corey Cogdell]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 1 || {{flagIOC|SMR|2012 Summer}} || [[Alessandra Perilli]] || [[Alessandra Perilli]]
+|-
+||{{flagIOC|ESP|2012 Summer}} || [[Fátima Gálvez]] || [[Fátima Gálvez]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 2 || {{flagIOC|KOR|2012 Summer}} || [[Eom So-yeon]] || [[Kang Gee-eun]]
+|-
+||{{flagIOC|TUR|2012 Summer}} || [[Nihan Kantarcı]] || [[Nihan Kantarcı]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 4 || {{flagIOC|TPE|2012 Summer}} || [[Lin Yi-chun (sport shooter)|Lin Yi-chun]] || [[Lin Yi-chun (sport shooter)|Lin Yi-chun]]
+|-
+||{{flagIOC|FIN|2012 Summer}} || [[Satu Mäkelä-Nummela]]|| [[Satu Mäkelä-Nummela]]
+|-
+|rowspan="1"|  2011 African Championships || {{flagIOC|NAM|2012 Summer}} || [[Gaby Ahrens]] || [[Gaby Ahrens]]
+|-
+| rowspan="2"|  2011 ISSF World Cup # 7 || {{flagIOC|FRA|2012 Summer}} || [[Delphine Racinet]] || [[Delphine Racinet]]
+|-
+|{{flagIOC|GER|2012 Summer}} || [[Katrin Quooß]] || [[Sonja Scheibl]]
+|-
+| 2011 European Championships || {{flagIOC|RUS|2012 Summer}} || [[Elena Tkach]] || [[Elena Tkach]]
+|-
+| 2011 World Shotgun Championships || {{flagIOC|IND|2012 Summer}} || [[Shagun Chowdhary]] || [[Shagun Chowdhary]]
+|-
+| rowspan="1"|  2011 Oceania Championships || {{flagIOC|AUS|2012 Summer}} || [[Laetisha Scanlan]] || [[Suzanne Balogh]]
+|-
+| rowspan="1"|  2012 Asian Championships || {{flagIOC|JPN|2012 Summer}} || [[Yukie Nakayama]] || [[Yukie Nakayama]]
+|-
+| rowspan="1"|  Tripartite Commission Invitation || {{flagIOC|LIB|2012 Summer}} ||  || [[Ray Bassil]]
+|-
+| rowspan="2"|  Re-allocation of unused quota || {{flagIOC|LTU|2012 Summer}} ||  || [[Daina Gudzinevičiūtė]]
+|-
+|{{flagIOC|MAR|2012 Summer}} ||  || [[Yasmina Mesfioui]]
+|-
+| rowspan="1"| Athletes qualified in other events || {{flagIOC|USA|2012 Summer}} || || [[Kimberly Rhode]]
+|-
+! Total !!  !! !! 22
+|-
+|}
+
+== Skeet women ==
+<ref name="Quotaplaces"/>
+
+{|class=wikitable style="text-align:left" width=800
+! Event !! Quota places !! Qualified athlete !! Announced competitor
+|-
+| Host nation || {{flagIOC|GBR|2012 Summer}} || || [[Elena Allen]]
+|-
+| rowspan="3"| 2010 World Championships || {{flagIOC|SVK|2012 Summer}} || [[Danka Barteková]] || [[Danka Barteková]]
+|-
+|{{flagIOC|CHN|2012 Summer}} || [[Wei Ning]] || [[Wei Ning]]
+|-
+||{{flagIOC|USA|2012 Summer}} || [[Kimberly Rhode]] || [[Kimberly Rhode]]
+|-
+| rowspan="1"|  2010 American Continental Championships || {{flagIOC|CHI|2012 Summer}} || [[Francisca Crovetto Chadid]] || [[Francisca Crovetto Chadid]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 1 || {{flagIOC|ITA|2012 Summer}} || [[Chiara Cainero]] || [[Chiara Cainero]]
+|-
+||{{flagIOC|RUS|2012 Summer}} || [[Marina Ezhova]] || [[Marina Belikova]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 2 || {{flagIOC|SWE|2012 Summer}} || [[Therese Lundqvist]] || [[Therese Lundqvist]]
+|-
+||{{flagIOC|AUS|2012 Summer}} || [[Lauryn Mark]] || [[Lauryn Mark]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 4 || {{flagIOC|GER|2012 Summer}} || [[Christina Wenzel]] || [[Christina Wenzel]]
+|-
+||{{flagIOC|THA|2012 Summer}} || [[Sutiya Jiewchaloemmit]] || [[Sutiya Jiewchaloemmit]]
+|-
+|rowspan="1"|  2011 African Championship || {{flagIOC|EGY|2012 Summer}} || [[Mona El-Hawary]] || [[Mona El-Hawary]]
+|-
+|rowspan="2"|  2011 ISSF World Cup # 7 || {{flagIOC|CYP|2012 Summer}} || [[Panayiota Andreou]] || [[Panayiota Andreou]]
+|-
+||{{flagIOC|FRA|2012 Summer}} || [[Véronique Girardet]] || [[Véronique Girardet]]
+|-
+|rowspan="1"|  2011 European Championship || {{flagIOC|TUR|2012 Summer}} || [[Çiğdem Özyaman]] || [[Çiğdem Özyaman]]
+|-
+|rowspan="1"|  2011 World Shotgun Championship || {{flagIOC|ROU|2012 Summer}} || [[Lucia Mihalache]] || [[Lucia Mihalache]]
+|-
+| rowspan="1"|  2012 Asian Championships || {{flagIOC|KAZ|2012 Summer}} || [[Angelina Michshuk]] || [[Angelina Michshuk]]
+|-
+! Total !!  !! !! 17
+|}
+
+== References ==
+{{reflist}}
+
+{{Qualifying standards in shooting}}
+{{Qualification for the 2012 Summer Olympics}}
+
+{{DEFAULTSORT:Shooting at the 2012 Summer Olympics - Qualification}}
+[[Category:Qualification for the 2012 Summer Olympics]]

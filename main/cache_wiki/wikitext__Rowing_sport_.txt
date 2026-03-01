@@ -1,0 +1,396 @@
+{{Short description|Sport where individuals or teams row boats by oar}}
+{{About|the sport|oar powered propulsion in general|Rowing}}
+{{Redirect|Rower}}
+{{AI-generated|date=December 2025}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox sport
+| name = Rowing 
+| image = {{Photo montage|photo1a=Harvard Rowing Crew at Henley 2004 -2.JPG |photo2a=Aviron_2015_-_World_Championships_-_11.JPG}}
+| imagesize = 
+| caption = An [[eight (rowing)|eight]] (top) and [[single sculls]] (bottom)
+| union = [[World Rowing Federation]]
+| nickname = 
+| first = 1715{{Efn|[[Doggett's Coat and Badge]] was first contested in 1715, rowing as a sport has recorded references back to Ancient Egyptian times.}}
+| firstlabel = First modern-day competition
+| country/region = 
+| registered = 
+| clubs = 
+| contact = No
+| team = 1, 2, 3, 4, 5 or 9 (depending on boat class and whether there is a [[Coxswain (rowing)|coxswain]])
+| mgender = Separate competitions
+| category = [[List of water sports|Water sport]], outdoor
+| equipment = [[Racing shell]], [[oar]]s
+| venue = River, [[artificial lake]], canal, ocean
+| glossary   = [[Glossary of rowing terms]]
+| obsolete =
+| olympic = since [[1900 Summer Olympics|1900]] (men only); since [[1976 Summer Olympics|1976]] (both men and women)
+| paralympic = since [[2008 Summer Paralympics|2008]]
+| IWGA       = Indoor: [[2017 World Games|2017]]
+}}
+[[File:Rowing pictogram.svg|right|200px|thumb|Pictogram for [[Rowing at the Summer Olympics]]]]
+
+'''Rowing''', often called '''crew''' [[American English|in the United States]], is the [[sport]] of [[racing]] boats using [[Oar (sport rowing)|oars]]. It differs from [[paddling]] sports in that rowing oars (called blades in the United Kingdom) are attached to the boat using [[rowlock]]s, while [[Paddle|paddles]] are not connected to the boat. Rowing is divided into two disciplines: [[sculling]] and [[sweep rowing|sweeping]]. In sculling, each rower (or oarsman) holds two oars, one in each hand, while in sweeping each rower holds one oar with both hands. There are several boat classes in which athletes may compete, ranging from [[single scull]]s, occupied by one person, to shells with eight rowers and a [[coxswain (rowing)|coxswain]], called [[eight (rowing)|eight]]s. There are a wide variety of course types and formats of racing, but most elite and championship level racing is conducted on calm water courses {{convert|2|km}} long with several lanes marked using buoys.
+
+Modern rowing as a competitive sport can be traced to the early 17th century when professional [[watermen]] held races ([[regatta]]s) on the [[River Thames]] in [[London]], England. Often prizes were offered by the London Guilds and [[Livery Companies]]. [[Amateurism in sport|Amateur]] competition began towards the end of the 18th century with the arrival of "boat clubs" at British [[Public school (United Kingdom)|public schools]]. Similarly, clubs were formed at colleges within [[Colleges of the University of Oxford|Oxford]] and [[Colleges of the University of Cambridge|Cambridge]] on the programme for the 1896 games, but racing did not take place due to bad weather.<ref>{{Cite web |title=History of rowing at the Olympic Games |url=http://www.olympic.org/Assets/OSC%20Section/pdf/QR_sports_summer/Sports_olympiques_aviron%20_eng.pdf |archive-url=https://web.archive.org/web/20150908122504/http://www.olympic.org/Assets/OSC%20Section/pdf/QR_sports_summer/Sports_olympiques_aviron%20_eng.pdf |archive-date=September 8, 2015 |url-status=dead |publisher=International Olympic Committee |access-date=June 6, 2017}}</ref> Male rowers have competed since the [[1900 Summer Olympics]]. Women's rowing was added to the Olympic programme in [[1976 Summer Olympics|1976]]. Today, there are fourteen boat classes which race at the Olympics.<ref name="Tokyo 2020" /> In addition, the sport's governing body, the [[World Rowing Federation]], holds the annual [[World Rowing Championships]] with twenty-two boat classes.
+
+Across six continents, 150 countries now have rowing federations that participate in the sport.<ref>{{cite web |url=http://www.worldrowing.com/fisa/ |title=FISA - worldrowing.com |website=www.worldrowing.com |access-date=June 6, 2017 |archive-url=https://web.archive.org/web/20170623010548/http://www.worldrowing.com/fisa/ |archive-date=June 23, 2017 |url-status=live}}</ref>  Major domestic competitions take place in dominant rowing nations and include [[The Boat Race]] and [[Henley Royal Regatta]] in the United Kingdom, the [[Australian Rowing Championships]] in Australia, the [[Harvard–Yale Regatta]] and [[Head of the Charles Regatta]] in the United States, and the [[Royal Canadian Henley Regatta]] in Canada. Many other competitions often exist for racing between clubs, schools, and universities in each nation.
+
+==History==
+{{main|History of rowing}}
+[[File:Plaque with Naval Games in Honor of Anchises LACMA 51.13.2.jpg|thumb|A rowing competition is recounted in the [[Aeneid]], illustrated in this sixteenth-century plaque]]
+[[File:Doggett Coat Badge - Thomas Rowlands.jpg|thumb|The finish of the [[Doggett's Coat and Badge]]. Painting by [[Thomas Rowlandson]].]]
+
+An Egyptian funerary inscription of 1430 BC records that the warrior [[Amenhotep II|Amenhotep]] (Amenophis) II was also renowned for his feats of oarsmanship, though there is some disagreement among scholars over whether there were rowing contests in ancient Egypt.<ref>{{cite web |date=2018-03-02 |df=mdy-all |title=The Ancient Egyptian Rowing Stroke: Propelling the Boats of Gods and Men |url=https://heartheboatsing.com/2018/03/02/the-ancient-egyptian-rowing-stroke-propelling-the-boats-of-gods-and-men/ |access-date=2021-04-08 |website=Hear The Boat Sing |language=en-GB}}</ref> In the [[Aeneid]], [[Virgil]] mentions rowing forming part of the funeral games arranged by [[Aeneas]] in honour of his father.<ref name="Burnell, Richard 1997">{{cite book |author=Burnell, Richard |author2=Page, Geoffrey  |title=The Brilliants: A History of the Leander Club |publisher=Leander Club |year=1997 |isbn=978-0-9500061-1-6}}</ref> In the 13th century, [[Venice|Venetian]] festivals called ''regata'' included boat races among others.<ref>{{cite web |url=http://www.etymonline.com/index.php?search=regatta&searchmode=none |title=Online Etymology Dictionary |access-date=2006-12-23 |archive-url=https://web.archive.org/web/20071015214835/http://etymonline.com/index.php?search=regatta&searchmode=none |archive-date=2007-10-15 |url-status=live |df=mdy-all}}</ref>
+
+The first known "modern" rowing races began from competition among the professional [[watermen]] in the [[United Kingdom]] that provided ferry and taxi service on the [[River Thames]] in [[London]]. Prizes for wager races were often offered by the London [[Guilds]] and [[Livery Companies]] or wealthy owners of riverside houses.<ref name="Burnell, Richard 1997"/>
+The oldest surviving such race, [[Doggett's Coat and Badge]] was first contested in 1715 and is still held annually from [[London Bridge]] to [[Chelsea, London|Chelsea]].<ref>{{cite web |url=http://www.history.ac.uk/gh/doggett.htm |title=Doggett's Coat & Badge Race |access-date=2006-12-23 |work=Guildhall Library Manuscripts Section |archive-url=https://web.archive.org/web/20060928180204/http://www.history.ac.uk/gh/doggett.htm |archive-date=2006-09-28 |url-status=live |df=mdy-all}}</ref> During the 19th century these races were to become numerous and popular, attracting large crowds. Prize matches amongst professionals similarly became popular on other rivers throughout Great Britain in the 19th century, notably on the [[River Tyne|Tyne]]. In America, the earliest known race dates back to 1756 in New York, when a [[Periauger|pettiauger]] defeated a Cape Cod whaleboat in a race.<ref>{{cite web |url=http://www.archives.upenn.edu/histy/features/sports/crew/1800s/histy_early.html |title=Historical context of the beginnings of rowing at Penn |access-date=2007-01-25 |archive-url=https://web.archive.org/web/20080808134443/http://www.archives.upenn.edu/histy/features/sports/crew/1800s/histy_early.html |archive-date=2008-08-08 |url-status=dead |df=mdy-all}}</ref>
+
+Amateur competition in England began towards the end of the 18th century the age before technology. Documentary evidence from this period is sparse, but it is known that the Monarch Boat Club of [[Eton College]] and the Isis Club of [[Westminster School]] were both in existence in the 1790s. The Star Club and Arrow Club in London for gentlemen amateurs were also in existence before 1800. At the [[University of Oxford]] bumping races were first organised in 1815 when [[Brasenose College Boat Club|Brasenose College]] and [[Jesus College Boat Club (Oxford)|Jesus College]] boat clubs had the first annual race<ref name="Oxford rowing history">{{cite web |url=http://www.atm.ox.ac.uk/rowing/history.html |title=A History of Oxford College Rowing |access-date=2007-01-17 |archive-url=https://web.archive.org/web/20070410061129/http://www.atm.ox.ac.uk/rowing/history.html |archive-date=2007-04-10 |url-status=live |df=mdy-all}}</ref> while at [[University of Cambridge|Cambridge]] the first recorded races were in 1827.<ref name="Penn Rowing History">{{cite web |url=http://www.boathouserow.org/pac/pachist2.html |title=The History of the Penn Athletic Club Rowing Association |access-date=2007-01-17 |url-status=dead |archive-url=https://web.archive.org/web/20100620205959/http://boathouserow.org/pac/pachist2.html |archive-date=2010-06-20 |df=mdy-all}}</ref> Brasenose beat Jesus to win Oxford University's first Head of the River; the two clubs claim to be the oldest established boat clubs in the world. [[The Boat Race]] between Oxford University and Cambridge University first took place in 1829, and was the second intercollegiate sporting event (following the first Varsity Cricket Match by 2 years). The interest in the first Boat Race and subsequent matches led the town of [[Henley-on-Thames]] to begin hosting an [[Henley Royal Regatta|annual regatta]] in 1839.<ref>{{cite book |author=Burnell, Richard |title=Henley Royal Regatta: A celebration of 150 years |publisher=William Heinemann |year=1989 |isbn=978-0-434-98134-2}}</ref>
+
+Founded in 1818, [[Leander Club]] is the world's oldest public rowing club.<ref>{{cite web |url=http://www.leander.co.uk/about-leander-club/history/ |title=History - Leander Club |publisher=Leander Club |access-date=2013-03-20 |archive-url=https://web.archive.org/web/20130323235242/http://www.leander.co.uk/about-leander-club/history/ |archive-date=2013-03-23 |url-status=live |df=mdy-all}}</ref> The second oldest club which still exists is the [[Der Hamburger und Germania Ruder Club]] which was founded 1836 and marked the beginning of rowing as an organized sport in Germany.<ref>{{cite web |url=http://www.der-club.de/ |language=de |title=Der Hamburger und Germania Ruder Club |publisher=Der Hamburger und Germania Ruder Club |access-date=2013-03-20 |archive-url=https://web.archive.org/web/20130512002650/http://www.der-club.de/ |archive-date=2013-05-12 |url-status=live |df=mdy-all}}</ref> During the 19th century, as in England, wager matches in North America between professionals became very popular attracting vast crowds. Narragansett Boat Club was founded in 1838 exclusively for rowing. During an 1837 parade in Providence, R.I, a group of boatmen were pulling a longboat on wheels, which carried the oldest living survivor of the 1772 [[Gaspee affair|Gaspee Raid]]. They boasted to the crowd that they were the fastest rowing crew on the Bay. A group of Providence locals took issue with this and challenged them to race, which the Providence group summarily won. The six-man core of that group went on in 1838 to found the Narragansett Boat Club.<ref>Narragansett Boat Club: http://www.rownbc.org/?id=club-info/index {{Webarchive|url=https://web.archive.org/web/20180916082420/http://www.rownbc.org/?id=club-info%2Findex |date=2018-09-16 |df=mdy-all}}</ref> Detroit Boat Club was founded in 1839 and is the second oldest continuously operated rowing club in the U.S. In 1843, the first American college rowing club was formed at [[Yale University]].<ref>{{cite web |url=http://rowinghistory.net/Time%20Line/TL%20-1849images.htm |title=Begin-1849images |access-date=2013-06-12 |archive-url=https://web.archive.org/web/20130320061158/http://www.rowinghistory.net/Time%20Line/TL%20-1849images.htm |archive-date=2013-03-20 |url-status=live |df=mdy-all}}</ref> The [[Harvard–Yale Regatta]] is the oldest intercollegiate sporting event in the United States,<ref>{{cite web |url=http://rowinghistory.net/Time%20Line/TL%20-1849images.htm |title=Begin-1849images |access-date=2013-06-12 |archive-date=2013-03-20 |df=mdy-all |archive-url=https://web.archive.org/web/20130320061158/http://www.rowinghistory.net/Time%20Line/TL%20-1849images.htm |url-status=dead}}</ref><ref name="Harvard-yale reggata">{{cite web |url=http://www.hcs.harvard.edu/~harvcrew/Website/History/HY/ |title=America's Oldest Intercollegiate Athletic Event |access-date=2007-01-17 |df=mdy-all |archive-url=https://web.archive.org/web/20110719210557/http://www.hcs.harvard.edu/~harvcrew/Website/History/HY/ |archive-date=July 19, 2011 |last=Veneziano |first=John |publisher=Harvard University Boat Club}}</ref> having been contested every year since 1852 (excepting interruptions for wars and the [[COVID-19 pandemic]]).
+
+[[File:Boathouse_Row-wide.JPG|thumb|Philadelphia's iconic [[Boathouse Row]], Home of the Schuylkill Navy]]
+The [[Schuylkill Navy]] is an association of amateur rowing clubs of [[Philadelphia]]. Founded in 1858, it is the oldest amateur athletic governing body in the [[United States]].<ref name="Boathouse Row">{{cite web |title=Boathouse Row |publisher=Living Places |url=http://www.livingplaces.com/PA/Philadelphia_County/Philadelphia_City/Boathouse_Row.html |access-date=April 30, 2010 |archive-url=https://web.archive.org/web/20110717112330/http://www.livingplaces.com/PA/Philadelphia_County/Philadelphia_City/Boathouse_Row.html |archive-date=July 17, 2011 |url-status=live}}</ref> The member clubs are all on the [[Schuylkill River]] where it flows through [[Fairmount Park]] in Philadelphia, mostly on the historic [[Boathouse Row]]. The success of the Schuylkill Navy and similar organizations contributed heavily to the extinction of professional rowing and the sport's current status as an amateur sport.<ref name="Jefferson 1983">{{cite web |last=Moak |first=Jefferson |title=National Register of Historic Places Inventory—Nomination Form |publisher=NPS Focus, National Register of Historic Places, National Park Service, US Department of the Interior |page=669 |date=November 27, 1983 |url=http://image1.nps.gov:9001/StyleServer/calcrgn?cat=NHLS&item=Text/87000821.djvu&style=nps/FOCUS-DJview.xsl&wid=640&hei=480&oif=jpeg&props=item(SUMMARY,COPYRIGHT),cat(Name)&page=18 |access-date=May 7, 2010 |archive-url=https://web.archive.org/web/20140227233931/http://image1.nps.gov:9001/StyleServer/calcrgn?cat=NHLS&item=Text%2F87000821.djvu&style=nps%2FFOCUS-DJview.xsl&wid=640&hei=480&oif=jpeg&props=item%28SUMMARY%2CCOPYRIGHT%29%2Ccat%28Name%29&page=18 |archive-date=February 27, 2014 |url-status=dead}}</ref> At its founding, it had nine clubs; today, there are 12. At least 23 other clubs have belonged to the Navy at various times.<ref name="Schuylkill Navy Records">{{cite web |last=Good |first=Megan |title=Schuylkill Navy Records, 1859–2009 |url=http://www.phillyseaport.org/images/schuylkill%20navy%20records.pdf |publisher=Independence Seaport Museum, J. Welles Henderson Archives and Library |access-date=October 7, 2013 |archive-url=https://web.archive.org/web/20150610224600/http://www.phillyseaport.org/images/schuylkill%20navy%20records.pdf |archive-date=June 10, 2015 |url-status=live}}</ref> Many of the clubs have a rich history, and have produced a large number of Olympians and world-class competitors.<ref>{{cite web |title=Boathouse Row Clubs |publisher=Schuylkill Navy & Boathouse Row |url=http://www.boathouserow.org/index.php/clubs/boathouse-row-clubs |access-date=June 26, 2015 |archive-url=https://web.archive.org/web/20150626152303/http://www.boathouserow.org/index.php/clubs/boathouse-row-clubs |archive-date=June 26, 2015 |url-status=live}}</ref>
+
+The sport's governing body, [[Fédération Internationale des Sociétés d'Aviron]], was founded in 1892,<ref name="Virtual Library Rowing">{{cite web |url=http://www.sportsvl.com/water/rowinghome.htm |title=Virtual Library of Sports: Rowing |access-date=2007-01-17 |archive-url=https://web.archive.org/web/20070223233437/http://sportsvl.com/water/rowinghome.htm |archive-date=2007-02-23 |url-status=live |df=mdy-all}}</ref> and is the oldest international sports federation in the Olympic movement.<ref>{{cite web |url=http://www.worldrowing.com/index.php?pageid=12 |title=World Rowing |access-date=2006-12-31 |url-status=dead |archive-url=https://web.archive.org/web/20070102225407/http://www.worldrowing.com/index.php?pageid=12 |archive-date=2007-01-02 |df=mdy-all}}</ref>
+
+FISA first organized a [[European Rowing Championships]] in 1893.<ref name="Virtual Library Rowing" /> An annual [[World Rowing Championships]] was introduced in 1962.<ref name="Harvard-yale reggata"/><ref name="AUS Rowing History">{{cite web |url=http://www.rowinghistory-aus.info/world-championships/ |title=Australian Rowing at the World Senior Championships |access-date=2007-01-17 |archive-url=https://web.archive.org/web/20130614154407/http://www.rowinghistory-aus.info/world-championships/ |archive-date=2013-06-14 |url-status=dead |df=mdy-all}}</ref> Rowing has also been conducted at the [[Olympic Games]] since [[1900 Summer Olympics|1900]] (cancelled at the first modern Games in [[1896 Summer Olympics|1896]] due to bad weather).<ref name="Olympic.org">{{cite web |url=http://www.olympic.org/rowing-equipment-and-history?tab=1 |title=Rowing Equipment and History |access-date=2011-07-10 |archive-url=https://web.archive.org/web/20111102162939/http://www.olympic.org/rowing-equipment-and-history?tab=1 |archive-date=2011-11-02 |df=mdy-all |url-status=live}}</ref>
+
+===History of women's rowing===
+{{main|Women's rowing}}
+
+Women row in all boat classes, from single scull to coxed eights, across the same age ranges and standards as men, from junior amateur through university-level to elite athlete.<ref>{{cite web |title=Rowing |url=http://www.worldrowing.com/rowing |publisher=World Rowing |access-date=April 19, 2015 |archive-url=https://web.archive.org/web/20150410094659/http://www.worldrowing.com/rowing/ |archive-date=April 10, 2015 |url-status=live}}</ref><ref>{{cite web |title=2015 World Rowing Championships|url=http://www.worldrowing.com/events/2015-world-rowing-championships/event-information |publisher=World Rowing |access-date=April 19, 2015|archive-url=https://web.archive.org/web/20150430063223/http://www.worldrowing.com/events/2015-world-rowing-championships/event-information |archive-date=April 30, 2015 |url-status=live}}{{cite web |title=2014 World Rowing Championships |url=http://www.worldrowing.com/events/2014-world-rowing-championships/ |publisher=World Rowing |access-date=April 19, 2015 |archive-url=https://web.archive.org/web/20150413115628/http://www.worldrowing.com/events/2014-world-rowing-championships/ |archive-date=April 13, 2015 |url-status=live}}</ref> Typically men and women compete in separate crews although mixed crews and mixed team events also take place.<ref>See for example, [[International Rowing Federation]] sections on World Rowing Masters Regatta and World Rowing Sprints</ref> Coaching for women is similar to that for men.<ref>{{cite web |title=What makes a successful women's coach? |url=http://www.worldrowing.com/news/what-makes-successful-women-coach |publisher=World Rowing |access-date=April 19, 2015 |date=December 8, 2014 |archive-url=https://web.archive.org/web/20150423023328/http://www.worldrowing.com/news/what-makes-successful-women-coach |archive-date=April 23, 2015 |url-status=live}}</ref> The world's first women's rowing team was formed in 1896 at the [[Furnivall Sculling Club]] in London.<ref name=":0">{{cite book |url=https://books.google.com/books?id=FgIgAwAAQBAJ |title=Words of the World: A Global History of the Oxford English Dictionary |last=Ogilvie |first=Sarah |date=2012-11-01 |publisher=Cambridge University Press |isbn=9781139789530 |language=en |df=mdy-all}}</ref> The club, with signature colors a very distinct myrtle and gold, began as a women's club, but eventually allowed the admittance of men in 1901.<ref name=":0" />
+
+The first international women's races were the 1954 [[European Rowing Championships]].<ref name=WR2>{{cite web |title=Women in rowing |url=http://www.worldrowing.com/news/click-women-rowing-photo-contest |publisher=World Rowing |access-date=April 19, 2015 |date=February 23, 2015 |archive-url=https://web.archive.org/web/20150427111328/http://www.worldrowing.com/news/click-women-rowing-photo-contest |archive-date=April 27, 2015 |url-status=live}}</ref> The introduction of women's [[rowing at the 1976 Summer Olympics]] in Montreal increased the growth of women's rowing because it created the incentive for national rowing federations to support women's events. [[Rowing at the 2012 Summer Olympics]] in London included six events for women compared with eight for men.<ref name=WRfeature1>{{cite web|title=Feature: the impact of Olympic inclusion on women's rowing|url=https://worldrowing.com/news/feature-the-impact-of-olympic-inclusion-on-womens-rowing-|publisher=World Rowing|access-date=April 19, 2015|date=June 12, 2013|archive-date=July 18, 2013|archive-url=https://web.archive.org/web/20130718195438/https://worldrowing.com/news/feature-the-impact-of-olympic-inclusion-on-womens-rowing-|url-status=live}}</ref> In the US, rowing is an [[National Collegiate Athletic Association|NCAA]] sport for women but not for men;<ref>{{cite web |url=https://www.ncaa.com/sports/rowing |title=College DI Rowing - Home - NCAA.com |website=NCAA.com |access-date=June 6, 2017 |archive-url=https://web.archive.org/web/20160514062834/http://www.ncaa.com/sports/rowing |archive-date=May 14, 2016 |url-status=live}}</ref> though it is one of the country's oldest collegiate sports, the difference is in large part due to the requirements of [[Title IX]].
+
+At the international level, women's rowing traditionally has been dominated by Eastern European countries, such as Romania, Russia, and Bulgaria, although other countries such as Germany, Canada, the Netherlands, Great Britain and New Zealand often field competitive teams.<ref name=WRfeature1 /> The United States also has had very competitive crews, and in recent years these crews have become even more competitive given the surge in women's [[College rowing (United States)|collegiate rowing]].<ref>{{cite news |title=For US women's eight, golden road begins in college |url=https://www.bostonglobe.com/sports/2012/10/20/for-olympic-women-rowing-eight-golden-road-begins-college/RpV8vwxFSZ34lv5Yed4m2H/story.html |access-date=April 19, 2015 |newspaper=The Boston Globe |date=October 21, 2012 |archive-url=https://web.archive.org/web/20150427143244/http://www.bostonglobe.com/sports/2012/10/20/for-olympic-women-rowing-eight-golden-road-begins-college/RpV8vwxFSZ34lv5Yed4m2H/story.html |archive-date=April 27, 2015 |url-status=live}}</ref>
+Now there is usually the same number of girls and boys in a group.
+
+==Technique==
+{{main|Rowing stroke}}
+
+While rowing, the athlete sits in the boat facing toward the [[stern]] and uses the [[oars]] (also interchangeably referred to as "blades"), which are held in place by [[oarlock]]s (also referred to as "gates"), to propel the boat forward (towards the [[Bow (ship)|bow]]). Rowing is distinguished from [[paddling]] in that the oar is attached to the boat using an [[oarlock]] or a rowing gate, where in paddling there is no oarlock or attachment of the paddle to the boat.
+
+[[File:ROWING Women's Single Sculls Final - 28th Summer Universiade 2015 Gwangju.webm|thumb|right|upright=1.15|Women's single sculls final at the 28th Summer Universiade 2015]]
+The rowing stroke may be characterized by two fundamental reference points: the ''catch'', which is placement of the oar spoon in the water, and the ''extraction'', also known as the ''finish'' or ''release'', when the rower removes the oar spoon from the water.
+
+After the oar is placed in the water at the catch, the rower applies pressure to the oar levering the boat forward which is called the ''drive'' phase of the stroke. Once the rower extracts the oar from the water, the ''recovery'' phase begins, setting up the rower's body for the next stroke.
+
+At the catch, the rower places the oar in the water and applies pressure to the oar by pushing the seat toward the bow of the boat by extending the legs, thus pushing the boat through the water. The point of placement of the spoon in the water is a relatively fixed point about which the oar serves as a lever to propel the boat. As the rower's legs approach full extension, the rower pivots the torso toward the bow of the boat and then finally pulls the arms towards his or her chest. The hands meet the chest right above the diaphragm.
+
+At the end of the stroke, with the oar spoon still in the water, the hands drop slightly to unload the oar so that spring energy stored in the bend of the oar gets transferred to the boat which eases removing the oar from the water and minimizes energy wasted on lifting water above the surface (splashing).
+
+The recovery phase follows the drive. The recovery starts with the extraction and involves coordinating the body movements with the goal to move the oar back to the catch position. In extraction, the rower pushes down on the oar handle to quickly lift the spoon out of the water and rapidly rotates the oar so that the spoon is parallel to the water. This process is sometimes referred to as ''feathering the blade''. Simultaneously, the rower pushes the oar handle away from the chest. The spoon should emerge from the water perpendicular or ''square'' and be feathered immediately once clear of the water. After feathering and extending the arms, the rower pivots the body forward. Once the hands are past the knees, the rower compresses the legs which moves the seat towards the stern of the boat. The leg compression occurs relatively slowly compared to the rest of the stroke, which affords the rower a moment to recover, and allows the boat to glide through the water. The gliding of the boat through the water during recovery is often called ''run''.
+
+A controlled slide is necessary to maintain momentum and achieve optimal boat run. However, various teaching methods disagree about the optimal relation in timing between drive and recovery. Near the end of the recovery, the rower squares the oar spoon into perpendicular orientation with respect to the water and begins another stroke.<ref name="Speed Rower, Competitive Rowing">{{cite web|url=http://www.speedrower.com/index.htm |title=Speed Rower, Competitive Rowing |access-date=2009-02-05 |df=mdy-all |url-status=dead |archive-url=https://web.archive.org/web/20090609130144/http://www.speedrower.com/index.htm |archive-date=June 9, 2009}}</ref><ref>{{cite web |url=http://www.ara-rowing.org/render.aspx?siteID=1&navIDs=1,42,64 |title=British Rowing Technique |access-date=2006-12-23 |df=mdy-all |work=The Amateur Rowing Association |url-status=usurped |archive-url=https://web.archive.org/web/20070219134446/http://www.ara-rowing.org/render.aspx?siteID=1&navIDs=1,42,64 |archive-date=February 19, 2007}}</ref>
+
+=== Technique exercises ===
+Rowing technique drills are essential components of a rower's training routine, focusing on specific aspects of the rowing stroke to refine skills and enhance overall performance. These structured exercises, whether performed individually (on the [[Indoor rower|erg]]), in groups, or whole boat provide a targeted approach to improving coordination, body positioning, and teamwork.<ref>{{cite web |url=https://www.britishrowing.org/knowledge/rower-development/british-rowing-technique/rowing-exercises/ |title=British Rowing - Rowing Exercises |access-date=February 21, 2024 |archive-date=February 21, 2024 |archive-url=https://web.archive.org/web/20240221175635/https://www.britishrowing.org/knowledge/rower-development/british-rowing-technique/rowing-exercises/ |url-status=live }}</ref><ref>{{cite web |url=https://www.concept2.com/indoor-rowers/training/technique-videos/rowing-drills |title=Concept2 - Rowing Drills |date=December 16, 2020 |access-date=February 21, 2024 |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728075808/https://www.concept2.com/training/rowing-drills |url-status=live }}</ref><ref name="row2k.com">{{cite web |url=https://www.row2k.com/features/2861/erg-drills--feet-out-rowing/ |title=row2k - Erg Drills - Feet-out Rowing |access-date=February 21, 2024 |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728075809/https://www.row2k.com/features/2861/erg-drills--feet-out-rowing/ |url-status=live }}</ref>
+
+==== Forward pick ====
+The forward pick drill, often used as a standard warm-up for rowing crews in groups of 4 or 6, focuses on isolating different components of the recovery and drive sequence. Starting with arms-only strokes and gradually incorporating the back, ½ slide, and full slide, rowers gain a nuanced understanding of the interplay between these elements. The drill aims to enhance body preparation, providing rowers with a tactile sense of how each phase should seamlessly flow into the next.<ref name="MITRowing">{{cite web |url=http://web.mit.edu/rowingclub/www/rowDrills.html |title=MIT Rowing Club - Rowing Drills |access-date=February 21, 2024 |archive-date=February 21, 2024 |archive-url=https://web.archive.org/web/20240221175635/http://web.mit.edu/rowingclub/www/rowDrills.html |url-status=live }}</ref>
+
+==== Reverse pick (Korzeniowski drill) ====
+The reverse pick drill, executed in groups of 4 or 6, isolates different aspects of the drive sequence. With the boat ‘’checked-down’’ (the boat has no speed), rowers initiate the drill with leg-only strokes, gradually adding the back and arms. The emphasis is on maintaining proper body position and sitting tall throughout the exercise. This drill aids in isolating and understanding the distinct elements of the drive sequence and their interconnectedness.<ref name="MITRowing"/>
+
+==== Cut-the-cake ====
+The cut-the-cake drill typically involves the entire boat. Rowers execute the drill collectively, starting with a normal stroke and transitioning into the subsequent recovery. During this process, the entire crew pivots forward with their bodies, swings back to the finish (without letting the oars drop in the water), then swings forward again to reach the catch position. The swinging motion, referred to as "cutting the cake," involves coordinated movements by all rowers, creating a unified and synchronized exercise aimed at improving boat balance, swing, and recovery timing.<ref>{{cite web |url=https://readyallrow.org/top-20-terms-coxswains-should-know-cut-the-cake/ |title=Top 20 Terms Coxswains Should Know: Cut the Cake |website=ReadyAllRow |publisher=Unknown |access-date=2024-02-21 |archive-date=February 21, 2024 |archive-url=https://web.archive.org/web/20240221180843/https://readyallrow.org/top-20-terms-coxswains-should-know-cut-the-cake/ |url-status=live }}</ref>
+
+==== Quarter or half slide rowing ====
+Designed for the entire crew or smaller groups, this drill involves rowing using only a quarter or half of the slide at a high rating with a full press. It sharpens quick catches and emphasizes coordination during the recovery phase.<ref name="MITRowing"/>
+
+==== Square-Wide-6 ====
+The Square-Wide-6 drill, conducted in groups of 6 or 4, requires rowers to take a wide grip on the [[Oar (sport rowing)|oar]] handle, emphasizing a specific body position during the recovery. This encourages proper body positioning and enhances body flexibility<ref>{{cite web |url=https://static1.squarespace.com/static/53cc791ae4b0847eddfba0e2/t/5483c400e4b0195c0da1121b/1417921536876/Water+Drills.pdf |title=Water Drills PDF |website=Squarespace |publisher=Unknown |access-date=2024-02-21 |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728075810/https://static1.squarespace.com/static/53cc791ae4b0847eddfba0e2/t/5483c400e4b0195c0da1121b/1417921536876/Water+Drills.pdf |url-status=live }}</ref><ref name="MITRowing"/>
+
+==== Feet-out rowing ====
+Feet-out rowing, performed either collectively by all rowers or in smaller groups, involves the removal of feet from the shoes and placement of feet on top of the shoes. This drill helps rowers maintain continuous pressure on the footboard, especially during oar release. Despite challenges like early leg finishing or excessive layback, feet-out rowing reinforces improved leg connection and more reasonable layback, translating on-the-water skills to the erg for a more efficient rowing experience.<ref name="row2k.com"/>
+
+==== Eyes-closed rowing ====
+In the eyes-closed rowing drill, performed by the whole boat, rowers execute the rowing motion with closed eyes and heightened auditory awareness. Rowers row with eyes closed, relying solely on their sense of touch and careful listening to the boat motion and the [[#Coxswain|coxswain]]. This drill is designed to enhance rowers' ability to feel the subtle movements of the boat and synchronize seamlessly with their teammates. By eliminating the visual element, rowers focus on developing a heightened sense of touch and teamwork, fostering a deeper understanding of the rowing experience. This drill enhances the overall coordination and sensitivity to the dynamics of the boat, contributing to improved synchronization and a more nuanced rowing performance.<ref>{{cite web |url=https://static1.squarespace.com/static/53cc791ae4b0847eddfba0e2/t/5483c400e4b0195c0da1121b/1417921536876/Water+Drills.pdf |title=Water Drills PDF |website=Squarespace |publisher=Unknown |access-date=2024-02-21 |archive-date=July 8, 2024 |archive-url=https://web.archive.org/web/20240708002200/https://static1.squarespace.com/static/53cc791ae4b0847eddfba0e2/t/5483c400e4b0195c0da1121b/1417921536876/Water+Drills.pdf |url-status=live }}</ref>
+
+==Boat classes==
+
+{{multiple image
+ | direction = vertical
+ | image1 = Luynenburg en Stokvis (1968).jpg
+ | alt1 = Two rowers with one oar each
+ | caption1 = A [[sweep (rowing)|sweep]] boat ([[coxless pair]])
+ | image2 = Bundesarchiv Bild 183-1982-0824-028, Joachim Dreifke, Klaus Kröppelien.jpg
+ | alt2 = Two rowers with two oars each
+ | caption2 = A [[sculling]] boat ([[double sculls]])
+}}
+Broadly, there are two ways to row, sometimes called disciplines:<ref>{{cite book|author=British Rowing|title=2021 Rules of Racing|year=2021|page=10|url=https://www.britishrowing.org/wp-content/uploads/2021/03/2021-RoR-210310.pdf|archive-url=https://web.archive.org/web/20210410060305/https://www.britishrowing.org/wp-content/uploads/2021/03/2021-RoR-210310.pdf|archive-date=April 10, 2021|url-status=live}}</ref>
+* In '''''[[sweep rowing]]''''', each rower has one oar, held with both hands.<ref>{{cite book |last1=Garrett |first1=William E. |url=https://books.google.com/books?id=Cx22TcXodrwC&q=types+of+rowing+competition&pg=PA844 |title=Exercise and Sport Science |last2=Kirkendall |first2=Donald T. |date=2000 |publisher=Lippincott Williams & Wilkins |isbn=978-0-683-03421-9 |language=en |access-date=November 20, 2020 |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728075813/https://books.google.com/books?id=Cx22TcXodrwC&q=types+of+rowing+competition&pg=PA844 |url-status=live }}</ref> There are an even number of rowers – two, four or eight. Each rower's oar will extend to their ''[[port (nautical)|port]]'' or ''[[starboard]]''. In the United Kingdom, the port side is referred to as [[stroke (rowing)|stroke side]] and the starboard side as [[bow (rowing)|bow side]]; this applies even if the stroke oarsman is rowing on the bow side and/or the bow oarsman on the stroke side.
+* In '''''[[sculling]]''''' each rower has two oars (or ''sculls''), one in each hand. Sculling is usually done without a [[coxswain (rowing)|coxswain]] in [[quad scull|quad]]s, [[double scull|double]]s or [[single scull|singles]], though coxed quads and [[octuple scull|octs]] are competed at junior levels. The oar in the sculler's right hand extends to port and the oar in the left hand extends to starboard.
+
+Within each discipline, there are several boat classes. A single regatta (series of races) will often feature races for many boat classes. They are classified using:
+
+* Number of rowers: in all forms of modern competition the number is 1, 2, 4, or 8.
+* Whether there is a [[coxswain (rowing)|coxswain]] (also referred to as cox). Coxless sweep boats are sometimes called "straight", while sculling boats are assumed to be coxless unless stated otherwise.
+
+Although sweep and sculling boats are generally identical to each other (except having different [[outrigger|riggers]]), they are referred to using different names:
+
+'''Sweep boat classes:'''
+{| class="wikitable"
+!Boat abbreviation
+!Boat class
+|-
+|2-
+|[[Coxless pair]] (or "straight pair" or "pair")
+|-
+|2+
+|[[Coxed pair]]
+|-
+|4-
+|[[Coxless four]] (or "straight four")
+|-
+|4+
+|[[Coxed four]]
+|-
+|8+
+|[[Eight (rowing)|Eight]] (always coxed)
+|}
+
+'''Sculling boat classes:'''
+{| class="wikitable"
+!Boat abbreviation
+!Boat class
+|-
+|1x
+|[[Single sculls]] (or "single" or "scull")
+|-
+|2x
+|[[Double sculls]] (or "double")
+|-
+|4x
+|Coxless [[quadruple sculls]] (or "quad")
+|-
+|4x+
+|Coxed quadruple sculls ("coxed quad", usually for juniors)
+|-
+|8x+
+|[[Octuple sculls]] (always coxed, usually for juniors and exhibition) 
+|}
+
+==Equipment==
+===Racing shell===
+[[File:Israeli boathouse.jpg|thumb|Racing shells stored in a [[boathouse]].]]
+[[File:DSCN1750-harald-without-nose.jpg|thumb|A damaged 8+, showing cross section near the bows and the skin construction.]]
+{{main|Racing shell}}
+
+[[Racing shell|Racing boat]]s (often called ''shells'') are long, narrow, and broadly semi-circular in cross-section in order to reduce drag in the water. There is some trade off between boat speed and stability in choice of hull shape. They usually have a fin towards the rear, to help prevent roll and yaw and to increase the effectiveness of the rudder.
+
+Originally made from [[wood]], shells are now almost always made from a [[composite material]] (usually a double skin of [[carbon-fiber reinforced plastic]] with a sandwich of honeycomb material) for strength and weight advantages. World Rowing rules specify minimum weights for each class of boat so that no individual team will gain a great advantage from the use of expensive materials or technology.
+
+Smaller sculling boats are usually steered by the scullers pulling harder on one side or the other while larger boats often have a [[rudder]], controlled by the coxswain, if present, or by one of the crew using a cable attached to one of the shoes.
+
+With the smaller boats, specialist versions of the shells for sculling can be made lighter. The riggers in sculling apply the forces symmetrically to each side of the boat, whereas in sweep oared racing these forces are staggered alternately along the boat. The sweep oared boat has to be stiffer to handle these unmatched forces, so consequently requires more bracing and is usually heavier – a pair (2-) is usually a more robust boat than a double scull (2x) for example, and being heavier is also slower when used as a double scull. In theory, this could also apply to the 4x and 8x, but most rowing clubs cannot afford to have a dedicated large hull which might be rarely used and instead generally opt for versatility in their fleet by using stronger shells which can be rigged for either sweep rowing or sculling. The symmetrical forces also make sculling more efficient than sweep rowing: the double scull is faster than the coxless pair, and the quadruple scull is faster than the coxless four.
+
+Many adjustments can be made to the equipment to accommodate the physiques of the crew. Collectively these adjustments are known as the boat's [[Boat rigging (sport rowing)|rigging]].
+
+===Oar===
+{{main|Oar (sport rowing)}}
+
+Oars, sometimes referred to as blades, are used to propel the boat. They are long (sculling: 250–300&nbsp;cm; sweep oar: 340–360&nbsp;cm) poles with one flat end about 50&nbsp;cm long and 25&nbsp;cm wide, called the spoon. Classic blades were made out of [[wood]], but modern blades are made from more expensive and durable [[Synthetic fiber|synthetic]] material, the most common being [[carbon fiber]].
+
+An 'oar' is often referred to as a ''blade'' in the case of sweep oar rowing and as a ''scull'' in the case of sculling. A sculling oar is shorter and has a smaller spoon area than the equivalent sweep oar. The combined spoon area of a pair of sculls is however greater than that of a single sweep oar, so the oarsman when sculling is working against more water than when rowing sweep-oared. They are able to do this because the body action in sculling is more anatomically efficient (due to the symmetry).
+
+The ''spoon'' of oars is normally painted with the colours of the club to which they belong. This greatly simplifies identification of boats at a distance. As many sports teams have logos printed on their jerseys, rowing clubs have specifically painted blades that each team is associated with.
+
+===Training equipment===
+{{see also|Rowing tank|Indoor rower}}
+Indoor rowing (on [[indoor rower]], or [[rowing tank]]) is a way to train technique and strength by going through the same motions as rowing, with resistance(usually a large tank of water). Indoor rowing is helpful when there are no rowable bodies of water near by, or weather conditions don't permit rowing. [[Indoor rower|Indoor rowing]] has also become a staple in many home and commercial gyms, thanks to its accessibility and efficiency as a cardio and strength workout.<ref>{{cite web | url=https://www.self.com/story/benefits-of-rowing | title=10 Reasons to Add Rowing to Your Next Workout | date=January 3, 2025 }}</ref>
+
+A rowing tank is an indoor facility which attempts to mimic the conditions rowers face on open water. Rowing tanks are used primarily for off-season rowing, muscle-specific conditioning and technique training, or simply when bad weather prevents open-water training.
+
+[[File:Concept2 Indoor Rowers.JPG|thumb|A row of [[Concept2]] "Model C" ergometers]]
+[[Indoor rower|Ergometer]] rowing machines (colloquially ''ergs'' or ''ergo'') simulate the rowing action and provide a means of training on land when waterborne training is restricted, and of measuring rowing fitness. Ergometers do not simulate the lateral balance challenges, the exact resistance of water, or the exact motions of true rowing including the sweep of the oar handles. For that reason ergometer scores are generally not used as the sole selection criterion for crews (colloquially ''"ergs don't float"''), and technique training is limited to the basic body position and movements. However, this action can still allow a workout comparable to those experienced on the water. Indoor rowing has become popular as a sport in its own right with numerous indoor competitions (and the annual World Championship [[CRASH-B Sprints]] in Boston) during the winter off-season.<ref>{{cite web |url=http://www.concept2.co.uk/racing/ |title=Racing |access-date=2007-01-02 |df=mdy-all |work=Concept2.co.uk |archive-url=https://web.archive.org/web/20061230150753/http://www.concept2.co.uk/racing/ |archive-date=2006-12-30 |url-status=live}}</ref>
+
+==Race formats==
+{{see also|Regatta#Rowing regattas}}
+
+There are several formats for rowing races, often called "[[regattas]]". The two most common are side by side and [[head race]]s.
+
+{{anchor|Side by side}}<!--A large number of pages link to this section using no dashes, even though "side-by-side" is correct-->
+
+===Side by side===
+
+Most races that are held in the spring and summer feature side-by-side,{{efn|"Side-by-side" is the term used in the [[British Rowing]] Rules of Racing.<ref>{{Cite book|author=British Rowing|title=2021 Rules of Racing|year=2021|url=https://www.britishrowing.org/wp-content/uploads/2021/03/2021-RoR-210310.pdf|archive-url=https://web.archive.org/web/20210410060305/https://www.britishrowing.org/wp-content/uploads/2021/03/2021-RoR-210310.pdf|archive-date=April 10, 2021|url-status=live}}</ref>}} or sprint{{efn|"Sprint race" is the term used in the [[USRowing]] Rules of Rowing.<ref>{{Cite web|author=United States Rowing Association|title=The Rules of Rowing - 2020 Edition|url=https://s3.amazonaws.com/sidearm.sites/usarowing.sidearmsports.com/documents/2020/2/20/Rules_Of_Rowing_2020.pdf|archive-url=https://web.archive.org/web/20210417031015/https://s3.amazonaws.com/sidearm.sites/usarowing.sidearmsports.com/documents/2020/2/20/Rules_Of_Rowing_2020.pdf|archive-date=April 17, 2021|url-status=live}}</ref>}} racing; all the boats start at the same time from a stationary position, and the winner is the boat that crosses the finish line first. The number of boats in a race typically varies between two (which is sometimes referred to as a ''dual race'') to eight, but any number of boats can start together if the course is wide enough.
+
+[[File:Rowing at the 2012 Summer Olympics 9240 Mens lightweight coxless four - Heat 2 - GBR CZE.jpg|thumb|A side by side race at the 2012 Olympic Games – [[Rowing at the 2012 Summer Olympics – Men's lightweight coxless four|Men's lightweight coxless four]]]]
+The standard length races for the Olympics and the [[World Rowing Championships]] is {{convert|2|km|mi|2}} long. In the United States, some scholastic (high school) races are {{convert|1.5|km|mi|2}}, while many youth races are the standard 2 kilometres. ''Masters'' rowers (rowers older than 27) often race 1,000m. However the race distance can and does vary from ''dashes'' or sprints, which may be {{convert|500|m|ft|0}} long, to longer dual races like the {{convert|6.8|km|mi}} [[The Boat Race|Boat Race]].
+
+Two traditional non-standard distance shell races are the annual [[Boat Race]] between [[Oxford]] and [[Cambridge]] and the [[Harvard-Yale Boat Race]] which cover courses of approximately {{convert|4|mi|km|2}}. The [[Henley Royal Regatta]] is also raced upon a non-standard distance at 2,112&nbsp;meters (1&nbsp;mile, 550&nbsp;yards).
+
+In general, multi-boat competitions are organized in a series of rounds, with the fastest boats in each heat qualifying for the next round. The losing boats from each heat may be given a second chance to qualify through a [[repechage]]. The World Rowing Championships offers multi-lane racing in heats, finals and repechages. At Henley Royal Regatta two crews compete side by side in each round, in a straightforward [[Single-elimination tournament|knock-out format]], with no repechages.
+
+[[File:Laganhead.jpg|thumb|Two crews racing in the annual [[River Lagan|Lagan]] Head of the River, Belfast. The closer boat is being overtaken by the boat on the far side.]]
+
+===Head races===
+{{main|Head race}}
+
+[[Head race]]s are [[time trial]] / processional races that take place from autumn (fall) to early spring (depending on local conditions). Boats begin with a rolling start at [[interval (time)|interval]]s of 10 – 20&nbsp;seconds, and are timed over a set distance. Head courses usually vary in length from {{convert|2000|m|mi|2}} to {{convert|12000|m|mi|2}}, though there are longer races such as the [[Boston Rowing Marathon]] and shorter such as [[Pairs Head]].
+
+The oldest, and arguably most famous, head race is the [[Head of the River Race]], founded by [[Steve Fairbairn]] in 1926 which takes place each March on the river [[Thames]] in [[London]], United Kingdom. Head racing was exported to the United States in the 1950s, and the [[Head of the Charles|Head of the Charles Regatta]] held each October on the [[Charles River]] in [[Boston]], [[Massachusetts]], United States is now the largest rowing event in the world.
+
+These processional races are known as ''Head Races'', because, as with bumps racing, the fastest crew is awarded the title ''Head of the River'' (as in "head of the class"). It was not deemed feasible to run bumps racing on the Tideway, so a timed format was adopted and soon caught on.
+
+Time trials are sometimes used to determine who competes in an event where there is a limited number of entries, for example, the qualifying races for Henley Royal Regatta, and ''rowing on'' and ''getting on'' for the Oxford and Cambridge [[Bumps race]]s respectively.
+
+===Other race  formats===
+{{see also|Bumps race}}
+[[File:Bumps race Oxford 1999.ogv|thumb|alt=A rowing race|A "bump" during [[Torpids]] at the University of Oxford, 1999: [[Jesus College Boat Club (Oxford)|Jesus College Men's 1st VIII]] catch [[Hertford College, Oxford|Hertford College]].]]
+A [[bumps race]] is a multi-day race beginning with crews lined up along the river at set intervals. They start simultaneously and all pursue the boat ahead while avoiding being bumped by a boat from behind. If a crew overtakes or makes physical contact with the crew ahead, a ''bump'' is awarded. As a result, damage to boats and equipment is common during bumps racing. To avoid damage the cox of the crew being bumped may concede the bump before contact is actually made. The next day, the bumping crew will start ahead of any crews that have been bumped. The positions at the end of the last race are used to set the positions on the first day of the races the next year. Oxford and Cambridge Universities hold bumps races for their respective colleges twice a year, and there are also ''Town Bumps'' races in both cities, open to non-university crews. Oxford's races are organised by City of Oxford Rowing Club<ref>{{cite web |url=http://www.oxfordrowingclub.org.uk/bumps.html |title=Bumps |access-date=2011-01-20 |publisher=City of Oxford Rowing Club |url-status=usurped |archive-url=https://web.archive.org/web/20101024002849/http://www.oxfordrowingclub.org.uk/bumps.html |archive-date=2010-10-24 |df=mdy-all}}</ref> and Cambridge's are organised by the [[Cambridgeshire Rowing Association]].
+
+The stake format was often used in early American races. Competitors line up at the start, race to a stake, moored boat, or buoy some distance away, and return. The 180° turn requires mastery of steering. These races are popular with spectators because one may watch both the start and finish. Usually only two boats would race at once to avoid collision. The Green Mountain Head Regatta continues to use the stake format, but it is run as a head race with an interval start.<ref>{{cite web |url=http://trust.dosolutions.com/gmh/ |title=Green Mountain Head Regatta |access-date=2007-01-27 |url-status=dead |archive-url=https://web.archive.org/web/20050313084407/http://trust.dosolutions.com/gmh/ |archive-date=2005-03-13 |df=mdy-all}}</ref> A similar type of racing is found in UK and Irish [[Coastal and offshore rowing|coastal rowing]], where a number of boats race out to a given point from the coast and then return fighting rough water all the way. In Irish coastal rowing the boats are in individual lanes with the races consisting of up to 3 turns to make the race distance 2.3&nbsp;km.
+
+==Boat positions==
+{{main|Boat positions}}
+[[File:BoatPositions.png|thumb|upright=1.75|The boat positions within an 8+ rowing shell]]
+Rowers in multi-rower boats are numbered sequentially from the bow aft. The number-one rower is called the [[bow (position)|bowman]], or just 'bow', whilst the rower closest to the stern is called the '[[strokeman]]' or just 'stroke'. There are some exceptions to this – some UK coastal rowers, and in France, Spain, and Italy rowers number from stern to bow.
+
+In addition to this, certain crew members have other titles and roles. In an 8+ the stern pair are responsible for setting the stroke rate and rhythm for the rest of the boat to follow. The middle four (sometimes called the "engine room" or "power house") are usually the less technical, but more powerful rowers in the crew, whilst the bow pair are the more technical and generally regarded as the pair to set up the balance of the boat. They also have most influence on the line the boat steers.
+
+===Coxswain===
+{{main|Coxswain (rowing)}}
+[[File:Coxswain HOC 1.jpg|thumb|A coxswain (far right) sitting in the [[stern]] of the boat, facing the rowers, at the [[Head of the Charles Regatta]].]]
+The [[Coxswain (rowing)|coxswain]] (or simply the cox) is the member who steers the boat using rudder strings, and coordinates the power and rhythm of the rowers, by communicating to the crew, often through a device called a [[cox box]] and speakers. The cox usually sits in the stern of the boat facing the rowers, but in [[bowloader]]s, usually seen in the [[coxed four]] and [[coxed pair]] types of boat, the coxswain lies in the bow. The cox is usually the smallest and lightest out of all the crew.
+
+It is an advantage for the coxswain to be light as this requires less effort for the crew to propel the boat. In many competitive events there is a minimum weight, {{convert|55|kg}} under World Rowing rules, set for the coxswain to prevent unfair advantage. If a coxswain is under the minimum weight allowance (underweight), they may have to carry weights in the boat such as sandbags.<ref>{{cite web |title=World Rowing - 2021 World Rowing Rule Book |url=https://worldrowing.com/technical/rules/2021-rule-book/ |access-date=2021-04-19 |df=mdy-all |website=World Rowing |language=en |page=103 |archive-date=April 18, 2021 |archive-url=https://web.archive.org/web/20210418122528/https://worldrowing.com/technical/rules/2021-rule-book/ |url-status=live }}</ref>
+
+==Athlete categories==
+
+=== Age ===
+At the elite level, the World Rowing Federation recognizes an under 19 category for athletes who are age 18 or less by the end of the calendar year for a given event. The [[World Rowing Junior Championships]] is the [[world championship]] event for this category. Athletes under 23 years of age by the end of the calendar year may compete in the under 23 category, and the [[World Rowing U23 Championships]] is held for these athletes. World Rowing uses the term "Senior" for events open to any age.<ref name=":1">{{cite web |title=World Rowing - 2021 World Rowing Rule Book |url=https://worldrowing.com/technical/rules/2021-rule-book/ |access-date=2021-04-19 |df=mdy-all |website=World Rowing |page=102 |language=en |archive-date=July 28, 2024 |archive-url=https://web.archive.org/web/20240728075819/https://worldrowing.com/technical/rules/2021-rule-book/ |url-status=live }}</ref>
+
+Under World Rowing rules, athletes may compete in "[[Senior sport|Masters]]" categories when they reach age 27. World Rowing holds the [[World Rowing Masters Regatta]] for these athletes, at which there are several age subcategories.<ref name=":1" />
+
+=== Weight ===
+[[Lightweight rowing|Lightweight boat classes]] are restricted by the rowers' weight. According to the World Rowing Federation, this weight category was introduced "to encourage more universality in the sport especially among nations with less statuesque people". The first lightweight events were held at the World Championships in [[1974 World Rowing Championships|1974]] for men and [[1985 World Rowing Championships|1985]] for women. Lightweight rowing was added to the Olympics in [[1996 Summer Olympics|1996]]. As of 2021, the only Olympic lightweight boat classes are the men's and women's double sculls. Starting with the 2028 Olympic games, lightweight rowing will no longer have any events in the Olympics.<ref>{{cite web |title=Rowing makes Olympic history with the inclusion of beach sprints at the Los Angeles 2028 Olympic games |url=https://worldrowing.com/2023/10/13/rowing-makes-olympic-history-with-the-inclusion-of-beach-sprints-at-the-los-angeles-2028-olympic-games/ |website=World Rowing |access-date=15 October 2023 |archive-date=October 14, 2023 |archive-url=https://web.archive.org/web/20231014070627/https://worldrowing.com/2023/10/13/rowing-makes-olympic-history-with-the-inclusion-of-beach-sprints-at-the-los-angeles-2028-olympic-games/ |url-status=live }}</ref>
+
+The World Rowing Federation lightweight standards are:
+
+* Men: Crew average {{convert|70|kg}} – no rower over {{convert|72.5|kg}}
+* Women: Crew average {{convert|57|kg}} – no rower over {{convert|59|kg}}
+
+
+Different governing bodies may offer different weight requirements depending on the level or competitive season. For example,
+at the [[College rowing in the United States|collegiate level in the United States]], the lightweight cuttoff in the fall season is 165&nbsp;lb for men and 135&nbsp;lb for women.<ref>{{cite web |date=2008-04-18 |title=Women's Rowing 101 – PatriotLeague.org – Patriot League Official Athletic Site|url=http://www.patriotleague.org/sports/w-rowing/spec-rel/041808aad.html |url-status=dead |archive-url=https://web.archive.org/web/20130116165338/http://www.patriotleague.org/sports/w-rowing/spec-rel/041808aad.html |archive-date=2013-01-16 |access-date=2013-03-20 |df=mdy-all |publisher=PatriotLeague.org}}</ref> For juniors in the United States, the lightweight cutoff is 150&nbsp;lb for men and 130&nbsp;lb for women.<ref>{{cite web|title=USRowing Rule Changes 2025|url=https://usrowing-craft-storage-production.nyc3.digitaloceanspaces.com/staging/2025ROR-web.pdf}}</ref>
+
+Similarly, in the UK there is no crew average for the winter season, and the cuttoffs for individual rowers are 75kg for men and 61.5kg for women.<ref>{{cite web|title= British Rowing 2025 Rules of Racing|url=https://www.britishrowing.org/wp-content/uploads/2025/03/2025-British-Rowing-Rules-of-Racing.pdf}}</ref>
+
+=== Pararowing ===
+{{main|Pararowing}}
+[[File:Oksana Masters Rob Jones mixed sculls final 2012.jpg|thumb|[[Oksana Masters]] & [[Rob Jones (rower)|Rob Jones]] of the US in the mixed sculls (TA 2x) final at the Paralympics, London 2012. The rowers are fixed to the seat.]]
+
+Adaptive rowing is a special category of races for those with physical disabilities. Under World Rowing rules there are 5 boat classes for adaptive rowers; mixed (2 men and 2 women plus cox) PR3 (previously LTA – Legs, Trunk, Arms), mixed intellectual disability (2 men and 2 women plus cox) PR2 (previously TA – Trunk and Arms), mixed (1 man and 1 woman) TA (Trunk and Arms), and men's and women's PR1 (previously AS – Arms and Shoulders). Events are held at the World Rowing Championships and were also held at the [[2008 Summer Paralympics]].<ref>{{cite web |url=http://www.worldrowing.com/index.php?pageid=17 |title=Paralympic/Adaptive |access-date=2006-12-23 |work=WorldRowing.com |archive-url=https://web.archive.org/web/20060714120104/http://www.worldrowing.com/index.php?pageid=17 |archive-date=2006-07-14 |df=mdy-all |url-status=live}}</ref>
+
+==Governing bodies==
+{{see also|World Rowing Federation}}
+{{category see also|National members of World Rowing}}
+
+The [[World Rowing Federation]], known as FISA until recently, is the sport's international governing body. World Rowing runs the [[World Rowing Championships]], as well as several other international elite competitions including the [[World Rowing Cup]] and [[World Rowing Junior Championships]]. World Rowing also sponsors [[rowing at the Summer Olympics|rowing at the Olympics]].
+
+World Rowing has over 155 [[:Category:National members of World Rowing|national member federations]] who govern the sport in their respective nations.<ref>{{cite web |title=World Rowing - Member Federations |url=https://worldrowing.com/about/organisation/member-federations/ |access-date=2021-04-08 |df=mdy-all |website=World Rowing |language=en |archive-date=May 16, 2021 |archive-url=https://web.archive.org/web/20210516215329/https://www.worldrowing.com/about/organisation/member-federations/ |url-status=live }}</ref>
+
+== International competitions ==
+
+{{main|World Rowing Championships|Rowing at the Summer Olympics}}
+
+The [[Olympic Games]] are held every four years, where only select boat classes are raced (14 in total):
+
+* Men: [[quad scull]], [[double scull]], [[single scull]], [[Eight (rowing)|eight]], [[coxless four]], and [[coxless pair]]
+* Lightweight Men: [[double scull]] (discontinued after 2024 games)
+* Women: [[quad scull]], [[double scull]], [[single scull]], [[Eight (rowing)|eight]], [[coxless four]], and [[coxless pair]]
+* Lightweight Women: [[double scull]]  (discontinued after 2024 games)
+* [[Coastal and offshore rowing|Coastal rowing]] (from 2028)
+At the end of each year, the [[World Rowing Federation]] holds the World Rowing Championships with events in 22 different boat classes. Athletes generally consider the Olympic classes to be premier events.<ref>{{cite web |title=World Rowing - Rowing and Para Rowing |url=https://worldrowing.com/events/rowing-and-para-rowing/ |access-date=2021-10-22 |df=mdy-all |website=World Rowing |language=en |archive-date=October 22, 2021 |archive-url=https://web.archive.org/web/20211022000449/https://worldrowing.com/events/rowing-and-para-rowing/ |url-status=live }}</ref> In 2017 FISA (now the World Rowing Federation) voted to adopt a new Olympic programme for 2020, whereby the lightweight men's coxless four event was replaced by the women's heavyweight coxless four. This was done to ensure that rowing had a gender equal Olympic programme.<ref name="Tokyo 2020">{{cite web |title=The Tokyo 2020 Olympic Games rowing programme announced |url=https://worldrowing.com/news/the-tokyo-2020-olympic-games-rowing-programme-announced |website=worldrowing.com |date=June 12, 2017 |access-date=September 11, 2019 |archive-url=https://web.archive.org/web/20190911225819/http://www.worldrowing.com/news/the-tokyo-2020-olympic-games-rowing-programme-announced |archive-date=September 11, 2019 |url-status=live}}</ref> During Olympic years only non-Olympic boats compete at the World Championships.
+
+==Fitness and health==
+{{original research section|date=March 2018}}
+Rowing is one of the few bearing sports that [[exercise]]s all the major muscle groups, including [[Quadriceps femoris muscle|quads]], [[biceps]], [[triceps]], [[Latissimus dorsi muscle|lats]], [[Gluteal muscles|glutes]] and [[human abdomen|abdominal]] muscles.<ref>{{cite web |title=Muscles Used |url=https://www.concept2.com/indoor-rowers/training/muscles-used |website=Concept2 |date=May 9, 2012 |access-date=July 24, 2020 |archive-url=https://web.archive.org/web/20200521185655/https://www.concept2.com/indoor-rowers/training/muscles-used |archive-date=May 21, 2020 |url-status=live}}</ref> The sport also improves [[cardiovascular]] endurance and [[muscular strength]]. High-performance rowers tend to be tall and muscular:<ref>{{cite web |title=The Physical Characteristics of an Elite Rower |url=https://www.setantacollege.com/physical-characteristics-rower-blog/ |website=Setanta College |date=September 21, 2018 |access-date=July 24, 2020 |archive-date=July 24, 2020 |archive-url=https://web.archive.org/web/20200724152156/https://www.setantacollege.com/physical-characteristics-rower-blog/ |url-status=live }}</ref> although extra weight does increase the drag on the boat, the larger athletes' increased power tends to compensate. The increased power is achieved through the increased leverage on the oar provided by the longer limbs of the athlete. In multi-person boats (2,4, or 8), the lightest person typically rows in the bow seat at the front of the boat.
+Rowing is a low-impact sport with movement only in defined ranges, so that twist and sprain injuries are rare. However, the repetitive rowing action can put strain on [[knee joint]]s, the [[human vertebral column|spine]] and the tendons of the forearm, and [[inflammation]] of these are the most common rowing injuries.<ref>{{cite journal |last1=Hosea |first1=Timothy M. |last2=Hannafin |first2=Jo A. |title=Rowing Injuries |journal=Sports Health: A Multidisciplinary Approach |date=April 26, 2012 |volume=4 |issue=3 |pages=236–245 |doi=10.1177/1941738112442484|pmid=23016093 |pmc=3435926}}</ref> If one rows with poor technique, especially rowing with a curved rather than straight back, other injuries may surface, including back pains and wrist injuries. Blisters occur for almost all rowers, especially in the beginning of one's rowing career, as every stroke puts pressure on the hands, though rowing frequently tends to harden hands and generate protective calluses. Holding the oars too tightly or making adjustments to technique may cause recurring or new blisters, as it is common to feather the blade. Another common injury is getting "track bites", thin cuts on the back of one's calf or thigh caused by contact with the seat tracks at either end of the stroke.<ref>{{Cite book |last=Inc |first=The Independent Rowing News |url=https://books.google.com/books?id=A0cEAAAAMBAJ&dq=track+bites+rowing&pg=PT20 |title=Rowing News |date=1997-06-08 |publisher=The Independent Rowing News Inc. |language=en |access-date=May 9, 2022 |archive-date=May 9, 2022 |archive-url=https://web.archive.org/web/20220509020435/https://books.google.com/books?id=A0cEAAAAMBAJ&dq=track%20bites%20rowing&pg=PT20 |url-status=live }}</ref>
+
+== Psychological effects ==
+Recent academic research highlights [[Rowing stroke|rowing's]] many psychological benefits. These mental effects enhance athletic performance but also the well-being and [[social connection]] of people. Rowing has been linked to enhanced [[pain tolerance]] due to the synchronized, rhythmic nature of [[crew]] movements-A phenomenon called a "[[Neurobiological effects of physical exercise|rower's high]]". Research by Bahna and Lang found that [[Behavioural synchrony|synchrony]] in physical activity raises pain tolerance and boosts [[Cooperativeness|cooperative behavior]], suggesting that synchrony enhances social cohesion and physiological resilience.<ref>Lang M, Bahna V, Shaver JH, Reddish P, Xygalatas D. Sync to link: Endorphin-mediated synchrony effects on cooperation. Biol Psychol. 2017 Jul;127:191-197. doi: 10.1016/j.biopsycho.2017.06.001. Epub 2017 Jun 6. PMID 28596129.</ref> The synchronization gives a sense of trust and cohesion, reinforcing the idea that rowing is not just about physical strength, but [[social]] and [[psychological resilience]]. Daniel James Brown writes in ''The Boys in the Boat,'' "Rowing then becomes a kind of perfect language. Poetry, that’s what a good swing feels like."<ref>{{Cite book |last=James |first=Daniel |url=https://www.penguinrandomhouse.com/books/310727/the-boys-in-the-boat-by-daniel-james-brown/ |title=the Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics. |publisher=Penguin Books |year=2013 |isbn=9780143125471 |pages=161}}</ref> During these moments the boat glides effortlessly, and pain becomes less because of shared exultation, creating a rare blend of physical mastery and emotional harmony.
+
+Similarly, David Halberstam's ''The Amateurs'' explores how rowers experience these peak moments as internal victories, saying "Every race was as much a race against yourself as it was against opponents. Crew was always imperfect; no matter how good your crew, you were bound to lose, if not a race, then the ephemeral feeling of swing, when a boat was moving perfectly."<ref>{{Cite book |last=Halberstam |first=David |title=The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal |publisher=Open Road Media |year=2012 |isbn= |pages=95}}</ref> Illustrating how rowing draws athletes into a special psychological state, balancing ambition with vulnerability, in the pursuit of a [[Meditation|meditative]] synchrony.
+
+Beyond the moments of swing, rowing also creates significant psychological resilience. Studies published in ''[[Frontiers in Sports and Active Living]]'' showed that the sport's intense exertion builds [[mental toughness]], [[Focus (optics)|focus]], and perseverance.<ref>Frontiers in Sports and Active Living. "Psychological Resilience and Mental Toughness in Endurance Sports." ''Frontiers in Sports and Active Living'', 2021, https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1003053/full</ref>  Together, these findings suggest that rowing contributes to [[mental health]] by promoting psychological strength, social cohesion, and positive emotional states.
+
+The [[discipline]] required creates a strong sense of [[Identity (social science)|identity]] and [[Self-regulation theory|self regulation]] among athletes. Rowers often report that the sport teaches patience, delayed gratification, and the ability to deal with setbacks. Psychological research on endurance sports has shown that the repetitive nature of the sport, pared with the precision, creates the idea of "[[Flexibility (personality)|psychological flexibility]]"
+
+==See also==
+{{col-begin}}
+{{col-break}}
+
+* [[Glossary of rowing terms]]
+* [[Rowing at the Summer Olympics]]
+* [[The Championship Course]]
+* [[World Sculling Championship (Professional)]]
+
+;International Rowing Federation events
+* [[Rowing World Cup]]
+* [[World Rowing Championships]]
+* [[World Rowing Junior Championships]]
+
+{{col-break}}
+;College/university rowing
+* [[College rowing (United States)]]
+* [[Harvard–Yale Regatta]]
+* [[The Boat Race]]
+* [[The Great Race (rowing)]] (New Zealand)
+* [[University rowing (UK)]]
+* [[Intercollegiate sports team champions#Rowing|U.S. intercollegiate rowing champions]]
+* [[Varsity (rowing regatta)]] (Netherlands)
+* [[George Watson's College Rowing Club]] (UK)
+
+{{col-end}}
+
+==References==
+
+===Notes===
+{{notelist}}
+
+===Footnotes===
+{{Reflist}}
+
+==Further reading==
+*{{cite book
+ | year = 2000
+ | title = The Red Rose Crew: A True Story of Women, Winning, and the Water
+ | publisher = [[Ballantine Books]]
+ | author = Boyne, Daniel J.
+ | isbn = 978-1592287581
+}}
+* [[Daniel James Brown|Brown, Daniel James]] (2013). ''[[The Boys in the Boat|The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics]]''. [[Penguin Books]]. {{ISBN|978-1-101-62274-2}}.
+* [[Thomas Eakins#Career|Paintings of Thomas Eakins, a group of rowing scenes, first and most famous]] is ''[[Max Schmitt in a Single Scull]]'' (1871)
+*{{cite book
+ | year = 1985
+ | title = The Amateurs: The Story of Four Young Men and Their Quest for an Olympic Gold Medal
+ | publisher = [[Ballantine Books]]
+ | author = Halberstam, David
+ | isbn = 978-0-449-91003-0
+ | author-link = David Halberstam
+}}
+
+==External links==
+{{commons category|Rowing}}
+* [https://worldrowing.com/ World Rowing] – website of the [[World Rowing Federation]]
+* [http://www.rrm.co.uk/ River & Rowing Museum] – Rowing Museum in Henley on Thames
+* [http://www.atkinsopht.com/row/rowrpage.htm How Rowing Really Works]
+* [http://www.atm.ox.ac.uk/rowing/physics/index.html The Physics of Rowing]
+* [http://www.sciencebits.com/rowers The maximum speed of rowing boats]
+
+{{Rowing (sport)}}
+{{Rowing Competitions}}
+{{Fineboats}}
+{{Summer Olympic sports}}
+{{Water sports}}
+{{authority control}}
+
+{{DEFAULTSORT:Rowing (Sport)}}
+[[Category:Rowing|+]]
+[[Category:Boating]]
+[[Category:Summer Olympic sports]]
+[[Category:Articles containing video clips]]

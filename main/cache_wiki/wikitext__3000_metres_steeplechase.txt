@@ -1,0 +1,1712 @@
+{{Short description|Most common distance for the steeplechase in track and field}}
+{{Infobox athletics event
+|event= 3000 Metres Steeplechase
+|image= Sgt. Hillary Bor runs 3,000-meter steeplechase at Rio Olympic Games photos by Tim Hipps, U.S. Army IMCOM Public Affairs (28945469872).jpg
+|image_upright= 1.15
+|caption= 3000 m steeplechase at [[Rio 2016]]
+|WRmen= {{nowrap|{{flagicon|ETH}} [[Lamecha Girma]] 7:52.11 (2023)}}
+|ORmen= {{flagicon|KEN}} [[Conseslus Kipruto]] 8:03.28 (2016)
+|CRmen= {{flagicon|KEN}} [[Ezekiel Kemboi]] 8:00.43 (2009)
+|WRwomen= {{flagicon|KEN}} [[Beatrice Chepkoech]] 8:44.32 (2018)
+|ORwomen= {{flagicon|BHR}} [[Winfred Yavi]] 8:52.76 (2024)
+|CRwomen= {{flagicon|KEN}} [[Faith Cherotich]] 8:51.59 (2025)
+}}
+The '''3000 metres steeplechase''' or '''3000-meter steeplechase''' (usually [[Abbreviation|abbreviated]] as {{Abbr|3000mSC|3000 metres steeplechase}}) is the most common distance for the [[steeplechase (athletics)|steeplechase]] in [[track and field]]. It is an [[obstacle race]] over the distance of the [[3000 metres]], which derives its name from the [[horse racing steeplechase]].
+
+== Rules ==
+It is one of the track events in the [[Summer Olympics|Olympic Games]] and the [[World Athletics Championships]], and it is also an event recognized by [[World Athletics]].<ref name="IAAF">{{cite web |title=3000 metres steeplechase |url=http://www.iaaf.org/disciplines/middlelong/3000-metres-steeplechase |access-date=5 January 2015 |publisher=International Association of Athletics Federations}}</ref> The obstacles for men are {{convert|91.4|cm|in|0}} high, and for women, they are {{convert|76.2|cm|in|0}} high.
+
+The water jump consists of a barrier followed by a pit of water with a landing area defined as follows: The pit is 3.66&nbsp;m (12&nbsp;feet) square. The pit's forward-direction measurement starts from the approach edge of the barrier and ends at the point where the water jump slope reaches the flat surface of the steeple pathway. The rulebook simply but clearly states, "The water jump, including the hurdle, shall be 3.66&nbsp;m in length." Pits have an upward slope; the water is deeper near the barrier and is within 2&nbsp;cm of ground level at the departure end. That slope begins approximately {{cvt|30|cm}} forward of the barrier, at which point the water is {{cvt|70|cm}} deep.
+
+The length of the race is usually {{convert|3000|m|mi|2|abbr=off}}; junior and some [[Masters athletics|masters]] events are {{convert|2000|m|mi|2|abbr=off}}, as women's events used to be. The circuit has four ordinary barriers and one water jump. During the race, each runner must clear a total of 28 ordinary barriers and seven water jumps. This entails seven complete laps after starting with a fraction of a lap run without barriers. The water jump is located on the back turn, either inside the inner lane or outside the outer lane. If it is on the outside, then each of the seven laps is longer than the standard 400&nbsp;m, and the starting point is on the home straight. If the water jump is on the inside, each lap is shorter than 400&nbsp;m, and the starting point is on the back straight, so the water jump and barrier in the home straight are bypassed in the first half lap at the start.
+
+[[File:Prekazka.svg|thumb|right|400px|The dimension of an obstacle]]
+
+Unlike those used in [[hurdling]], steeplechase barriers do not fall over if hit, and the rules allow an athlete to negotiate the barrier by any means, so many runners step on top of them. Four barriers are spaced around the track on level ground, and a fifth barrier at the top of the second turn (fourth barrier in a complete lap from the finish line) is the water jump. The slope of the water jump rewards runners with more jumping ability, because a longer jump results in a shallower landing in the water.
+
+==All-time top 25==
+{{see also|3000 metres steeplechase world record progression}}
+{| style="wikitable"
+|Tables show data for two definitions of "Top 25" - the top 25 '''3000m steeplechase times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''3000m steeplechase times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''3000m steeplechase times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 3000m steeplechase times''
+|}
+
+===Men===
+*Correct as of July 2025.<ref name=AlltimeM>{{cite web|title=All-time men's best 3000m steeplechase|url=https://www.iaaf.org/records/toplists/middlelong/3000-metres-steeplechase/outdoor/men/senior|publisher=IAAF|date=5 May 2017|access-date=5 May 2017}}</ref>
+{| class="wikitable sortable"
+
+! {{abbr|Ath.#|Athlete rank}}  !! {{abbr|Perf.#|Performance rank}} !! Time !! Athlete !! Nation !! Date !! Place !! class="unsortable" | {{refh}}
+|-bgcolor="#f6F5CE"
+|align="center" |1
+|align="center" |1
+|7:52.11
+|[[Lamecha Girma]]
+|{{ETH}}
+|9 June 2023
+|[[Paris]]
+|<ref>{{Cite web |title=Kipyegon, Girma and Ingebrigtsen make history in Paris {{!}} REPORTS {{!}} World Athletics |url=https://worldathletics.org/competitions/diamond-league/news/paris-kipyegon-girma-ingebrigtsen-5000m-steeplechase-two-miles-world-record-best |access-date=2023-06-09 |website=worldathletics.org}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |2
+| align="center" |2
+| 7:53.63 || [[Saif Saaeed Shaheen]]<sup>1</sup>|| {{QAT}}
+|3 September 2004
+|[[Brussels]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |3
+| align="center" |3
+| 7:53.64 || [[Brimin Kipruto]]|| {{KEN}}
+|22 July 2011
+|[[Monaco]]
+| <ref>{{cite news|title=With near World record run, Kipruto steals the show in Monaco - Samsung Diamond League|url=http://www.iaaf.org/competitions/dlm/news/newsid=60943.html|publisher=[[IAAF]]|author=David Martin|date=22 July 2011|access-date=23 July 2011}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |4
+| align="center" |4
+| 7:54.31 || [[Paul Kipsiele Koech]]|| {{KEN}}
+|31 May 2012
+|[[Rome]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |5
+| align="center" |5
+| 7:55.28 || [[Brahim Boulami]]|| {{MAR}}
+|24 August 2001
+|[[Brussels]]
+|
+|- 
+|
+| align="center" |6
+| 7:55.51 || ''Shaheen #2''||
+|26 August 2005 
+|[[Brussels]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |6
+| align="center" |7
+| 7:55.72 || [[Bernard Barmasai]]|| {{KEN}}
+|24 August 1997
+|[[Cologne]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |7
+| align="center" |8
+| 7:55.76 || [[Ezekiel Kemboi]]|| {{KEN}}
+|22 July 2011
+|[[Monaco]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |8
+| align="center" |9
+| 7:56.16 || [[Moses Kiptanui]]|| {{KEN}}
+|24 August 1997
+|[[Cologne]]
+|
+|- 
+| rowspan="5" |
+| align="center" |10
+| 7:56.32 || ''Shaheen #3'' || rowspan="5" |
+|3 July 2006 
+|[[Athens]]
+|
+|- 
+| align="center" |11
+| 7:56.34 || ''Shaheen #4''
+|8 July 2005 
+|[[Rome]]
+|
+|- 
+| align="center" |12
+| 7:56.37 || ''Koech #2''
+|8 July 2005 
+|[[Rome]]
+|
+|- 
+| align="center" |13
+| 7:56.54 || ''Shaheen #5''
+|18 August 2006 
+|[[Zürich]]
+|
+|- 
+| align="center" |14
+| 7:56.58 || ''Koech #3'' 
+|11 May 2012  
+|[[Doha]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |9
+| align="center" |15
+|7:56.68
+|[[Soufiane El Bakkali]]
+|{{MAR}}
+|28 May 2023
+|[[Rabat]]
+|<ref>{{Cite web |title=El Bakkali, Tsegay and Mahuchikh impress in Rabat {{!}} REPORT {{!}} World Athletics |url=https://worldathletics.org/news/report/rabat-el-bakkali-tsegay-mahuchikh |access-date=2023-05-29 |website=worldathletics.org}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |10
+| align="center" |16
+| 7:56.81 || [[Richard Mateelong]]|| {{KEN}}
+|11 May 2012
+|[[Doha]]
+|
+|- 
+| rowspan="2" |
+| align="center" |17
+| 7:56.94 || ''Shaheen #6'' || rowspan="2" |
+|19 September 2004
+|[[Monaco]]
+|
+|- 
+| align="center" |18
+| 7:57.28 || ''Shaheen #7''
+|14 June 2005  
+|[[Athens]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |11
+| align="center" |19
+| 7:57.29 || [[Reuben Kosgei]]|| {{KEN}}
+|24 August 2001
+|[[Brussels]]
+|
+|- 
+| rowspan="6" |
+| align="center" |20
+| 7:57.32 || ''Koech #4'' || rowspan="6" |
+|22 July 2011
+|[[Monaco]]
+|
+|- 
+| align="center" |21
+| 7:57.38 || ''Shaheen #8''
+|14 September 2003  
+|[[Monaco]]
+|
+|- 
+| align="center" |22
+| 7:57.42 || ''Koech #5''
+|14 September 2003   
+|[[Monaco]]
+|
+|- 
+| align="center" |23
+| 7:58.09 || ''Boulami #2''
+|19 July 2002 
+|[[Monaco]]
+|
+|- 
+| align="center" |24
+| 7:58.10 || ''Shaheen #9''
+|19 July 2002  
+|[[Monaco]]
+|
+|- 
+| align="center" |25
+|7:58.15 || ''El Bakkali #2''
+|20 July 2018
+|[[Monaco]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=https://static.sportresult.com/sports/at/data/2018/monaco/re0290040.pdf|work=sportresult.com|date=20 July 2018|access-date=1 August 2018|archive-date=1 August 2018|archive-url=https://web.archive.org/web/20180801190348/https://static.sportresult.com/sports/at/data/2018/monaco/re0290040.pdf|url-status=dead}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |12
+| rowspan="15" align="center" |
+|7:58.41 || [[Jairus Birech]]|| {{KEN}}
+|5 September 2014
+|[[Brussels]]
+|<ref name="vd14">{{Cite web|url=https://www.worldathletics.org/results/diamond-league-meetings/2014/memorial-van-damme-7065902/men/3000-metres-steeplechase/final/result|title=3000 Metres Steeplechase Result &#124; Memorial Van Damme|website=www.worldathletics.org}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|13
+|7:59.08 || [[Wilson Boit Kipketer]] || {{KEN}}
+|13 August 1997
+|[[Zürich]]
+|
+|- bgcolor=#CCFFCC
+|align=center|14
+|8:00.09 || [[Mahiedine Mekhissi-Benabbad]] || {{FRA}}
+|6 July 2013
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name="3000 Metres Steeplechase Results">{{cite web|title=3000 Metres Steeplechase Results |url=http://diamondleague.com/Results/Paris/re0290040.pdf |work=[[Diamond League]] |publisher=[[Omega SA|Omega Timing]] |date=6 July 2013 |access-date=7 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131005030437/http://diamondleague.com/Results/Paris/re0290040.pdf |archive-date=5 October 2013 }}</ref>
+|- bgcolor=#CCFFCC
+|align=center|15
+|8:00.12 || [[Conseslus Kipruto]] || {{KEN}}
+|5 June 2016
+|[[Birmingham]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=http://livecache.sportresult.com/node/binaryData/AT_PROD/BIRMINGHAM2016/PDF_RE0290040.PDF?h=Z4DIOhAcnOez48Jj+pAy4lF6PD0=|publisher=sportresult.com|date=5 June 2016|access-date=5 June 2016|archive-url=https://web.archive.org/web/20161221014454/http://livecache.sportresult.com/node/binaryData/AT_PROD/BIRMINGHAM2016/PDF_RE0290040.PDF?h=Z4DIOhAcnOez48Jj+pAy4lF6PD0=|archive-date=2016-12-21|url-status=dead}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|16
+|8:00.45 || [[Evan Jager]] || {{USA}}
+|4 July 2015
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=http://static.sportresult.com/sports/at/data/2015/paris/re0290040.pdf|publisher=static.sportresult.com|date=4 July 2015|access-date=5 July 2015|archive-date=16 September 2018|archive-url=https://web.archive.org/web/20180916120515/http://static.sportresult.com/sports/at/data/2015/paris/re0290040.pdf|url-status=dead}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|17
+|8:01.18 || [[Bouabdellah Tahri]] || {{FRA}}
+|18 August 2009
+|[[Berlin]]
+|<ref>{{cite web|title=3000 Metres Steeplechase Results|url=http://berlin.iaaf.org/documents/pdf/3658/AT-3KSC-M-f--1--.RS1.pdf|publisher=[[IAAF]]|date=18 August 2009|access-date=18 August 2009|archive-url=https://web.archive.org/web/20090824034013/http://berlin.iaaf.org/documents/pdf/3658/AT-3KSC-M-f--1--.RS1.pdf|archive-date=2009-08-24|url-status=dead}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|18
+|8:01.49 || [[Frederik Ruppert]] || {{GER}}
+|25 May 2025
+|[[Rabat]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=https://ath-wdl-archive.azureedge.net/2025/rabat/ATHM3000MST-DIAMOND---FNL-000100--_C73C1_1.0.PDF|website=azureedge.net|date=25 May 2025|access-date=31 May 2025}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|19
+|8:01.67 || [[Abel Mutai]] || {{KEN}}
+|31 May 2012
+|[[Rome]]
+|
+|- bgcolor=#CCFFCC
+|align=center|20
+|8:01.69 || [[Kipkirui Misoi]] || {{KEN}}
+|24 August 2001
+|[[Brussels]]
+|
+|- bgcolor=#CCFFCC
+|rowspan=2 align=center|21
+|rowspan=2|8:02.36
+|[[Abrham Sime]] || {{ETH}}
+|7 July 2024
+|[[Paris]]
+|<ref>{{cite web|title=3000m Steeplechase Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2024/PDF_ATHM3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=FRgr8Ha3AhOoRsm0BEuEl9DcKu8=|website=swisstiming.com|date=7 July 2024|access-date=8 July 2024}}</ref>
+|- bgcolor=#CCFFCC
+|[[Amos Serem]] || {{KEN}}
+|7 July 2024
+|[[Paris]]
+|<ref>{{cite web|title=3000m Steeplechase Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/PARIS_2024/PDF_ATHM3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=FRgr8Ha3AhOoRsm0BEuEl9DcKu8=|website=swisstiming.com|date=7 July 2024|access-date=8 July 2024}}</ref>
+|- bgcolor=#CCFFCC
+|align=center|23
+|8:03.41 || [[Patrick Sang]] || {{KEN}}
+|24 August 1997
+|[[Cologne]]
+|
+|-bgcolor="#CCFFCC"
+| align="center" |24
+| align="center" |8:03.43
+|[[Ryuji Miura]] 
+|{{JPN}}
+|11 July 2025
+|[[Monaco]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=https://ath-wdl-archive.azureedge.net/2025/monaco/ATHM3000MST-DIAMOND---FNL-000100--_C73C1_1.0.PDF|website=azureedge.net|date=11 July 2025|access-date=17 July 2025}}</ref>
+|- bgcolor="#CCFFCC"
+| rowspan="2" align="center" |25
+| rowspan="2" |8:03.57
+|[[Ali Ezzine]] || {{MAR}}
+|23 June 2000
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|
+|- bgcolor=#CCFFCC
+|[[Hillary Yego]] || {{KEN}}
+|18 May 2013
+|[[Shanghai]]
+|
+|}
+
+====Notes====
+<sup>1</sup> Until 2002 he was known as Stephen Cherono, and represented Kenya.
+
+====Annulled marks====
+The following athletes had their performance (inside 7:55.00) annulled due to doping offences:
+*[[Brahim Boulami]] 7:53.17 (Zürich 2002)
+
+===Women===
+*Correct as of September 2025.<ref name=AlltimeW>{{cite web|title=All-time women's best 3000m steeplechase|url=https://www.iaaf.org/records/toplists/middlelong/3000-metres-steeplechase/outdoor/women/senior|publisher=IAAF|date=5 May 2017|access-date=5 May 2017}}</ref>
+{| class="wikitable sortable"
+
+! {{abbr|Ath.#|Athlete rank}}  !! {{abbr|Perf.#|Performance rank}} !! Time !! Athlete !! Nation !! Date !! Place !! class="unsortable" | {{refh}}
+
+|- bgcolor="#f6F5CE"
+|align=center|1
+|align=center|1
+|8:44.32
+|[[Beatrice Chepkoech]] || {{KEN}}
+|20 July 2018
+|[[Monaco]]
+|<ref name="auto1">{{cite web|title=3000m Steeplechase Results|url=https://static.sportresult.com/sports/at/data/2018/monaco/re1290040.pdf|work=sportresult.com|date=20 July 2018|access-date=1 August 2018|archive-date=1 August 2018|archive-url=https://web.archive.org/web/20180801221012/https://static.sportresult.com/sports/at/data/2018/monaco/re1290040.pdf|url-status=dead}}</ref>
+|- bgcolor="#f6F5CE"
+|align=center|2
+|align=center|2
+|8:44.39
+|[[Winfred Yavi]]
+|{{BHR}}
+|30 August 2024
+|[[Rome]]
+|<ref name=":3">{{cite web|title=3000m Steeplechase Results|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/ROME_2024/PDF_ATHW3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=II1NEp9JJ72v7ep7pPKfkjnyky4=|website=swisstiming.com|date=30 August 2024|access-date=21 September 2024}}</ref>
+|-
+| align="center" |
+| align="center" |3
+|8:45.25
+|''Yavi #2''
+|
+|5 July 2025
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":4">{{Cite web |date=5 July 2025 |title=Results 3000m Women's Steeplechase |url=https://ath-wdl-archive.azureedge.net/2025/eugene/ATHW3000MST-DIAMOND---FNL-000100--_C73C1_1.0.PDF |archive-url=https://web.archive.org/web/20250706132506/https://ath-wdl-archive.azureedge.net/2025/eugene/ATHW3000MST-DIAMOND---FNL-000100--_C73C1_1.0.PDF |archive-date=6 July 2025 |access-date=6 July 2025 |website=eugene.diamondleague.com}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |3
+| align="center" |4
+|8:48.03
+|[[Peruth Chemutai]]
+|{{UGA}}
+|30 August 2024
+|[[Rome]]
+|<ref name=":3" />
+|- bgcolor="#f6F5CE"
+| align="center" |4
+| align="center" |5
+|8:48.71
+|[[Faith Cherotich]]
+|{{KEN}}
+|5 July 2025
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":4" />
+|-
+| rowspan="6" align="center" |
+| align="center" |6
+|8:49.59
+|''Yavi #3''
+| rowspan="6" |
+|19 July 2025
+|[[Heusden-Zolder]]
+|<ref>{{Cite web |date=21 July 2025 |title=Night of Athletics - Women's 3000 metres steeplechase results |url=https://worldathletics.org/competition/calendar-results/results/7218252?eventId=10229524&gender=W |access-date=21 July 2025 |website=[[World Athletics]]}}</ref>
+|-
+| align="center" |7
+|8:50.66
+|''Yavi #4''
+|16 September 2023
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":0">{{Cite web |title=Ingebrigtsen and Yavi shine as records fall on day one of Diamond League Final {{!}} REPORT {{!}} World Athletics |url=https://worldathletics.org/news/report/diamond-league-final-eugene-2023-day-one-ingebrigtsen-yavi-kipyegon-benjamin-rojas |access-date=2023-09-16 |website=worldathletics.org}}</ref>
+|-
+| align="center" |8
+|8:51.59
+|''Cherotich #2''
+|17 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-3KSC-W-f----.RS6.pdf|website=World Athletics|date=17 September 2025|access-date=17 September 2025}}</ref>
+|-
+| align="center" |9
+|8:51.67
+|''B. Chepkoech #2''
+|16 September 2023
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":0" />
+|-
+| align="center" |10
+| align="center" |8:51.77
+|''Chemutai #2''
+|5 July 2025
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":4" />
+|-
+| align="center" |11
+|8:52.76
+|''Yavi #5''
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2">{{Cite web |title=Yavi breaks Olympic record to win 3000m steeplechase in Paris {{!}} News {{!}} Paris 24 {{!}} Olympic Games |url=https://worldathletics.org/competitions/olympic-games/paris24/news/article/paris-2024-olympics-report-women-steeplechase |access-date=2024-08-06 |website=worldathletics.org}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |5
+| align="center" |12
+|8:52.78
+|[[Ruth Jebet]]|| {{BHR}}
+|27 August 2016
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name="livecache.sportresult.com">{{cite web |title=3000m Steeplechase Results |url=http://livecache.sportresult.com/node/binaryData/AT_PROD/PARIS2016/PDF_RE1290040.PDF?h=U4gP5NXGThJExOcO3UCDSX0OnMM= |work=sportresult.com |date=27 August 2016 |access-date=27 August 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161017171439/http://livecache.sportresult.com/node/binaryData/AT_PROD/PARIS2016/PDF_RE1290040.PDF?h=U4gP5NXGThJExOcO3UCDSX0OnMM%3D |archive-date=17 October 2016}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |6
+| align="center" |13
+|8:53.02
+|[[Norah Jeruto]]|| {{KAZ}}
+|20 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-3KSC-W-f----.RS6.pdf|work=World Athletics|date=20 July 2022|access-date=22 July 2022}}</ref>
+|-
+| rowspan="3" align="center" |
+| align="center" |14
+|8:53.34
+|''Chemutai #2''
+| rowspan="3" |
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2" />
+|-
+| align="center" |15
+|8:53.65
+|''Jeruto #2''
+|21 August 2021
+|[[Eugene, Oregon|Eugene]]
+|
+|-
+| align="center" |16
+|8:54.29
+|''Yavi #6''
+|27 August 2023
+|[[Budapest]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7138987/AT-3KSC-W-f----.RS6.pdf|work=World Athletics|date=27 August 2023|access-date=28 August 2023}}</ref>
+|- bgcolor="#f6F5CE"
+| align="center" |7
+| align="center" |17
+|8:54.61
+|[[Werkuha Getachew]]
+|{{ETH}}
+|20 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web |title=Women's 3000m Steeplechase Final Results |url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-3KSC-W-f----.RS6.pdf |work=World Athletics |date=20 July 2022 |access-date=22 July 2022}}</ref>
+|- 
+| rowspan="6" align="center" |
+| align="center" |18
+|8:55.09
+|''Chemutai #3''
+| rowspan="6" |
+|25 May 2024
+|[[Hayward Field|Eugene]]
+|<ref name="Pre2024">{{cite web|title=3000m Steeplechase Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/EUGENE_2024/PDF_ATHW3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=Hjlljf,Xb8jOMI7p03GZQuJ7D64k=|website=swisstiming.com|date=25 May 2024|access-date=28 May 2024}}</ref>
+|-
+| align="center" |19
+|8:55.10
+|''B. Chepkoech #3''
+|31 August 2018 
+|[[Brussels]]
+|
+|-
+| align="center" |20
+|8:55.15
+|''Cherotich #3''
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2" />
+|-
+| align="center" |21
+|8:55.29
+|''Jebet #2''
+|24 August 2017 
+|[[Zürich]]
+|
+|-
+| align="center" |22
+|8:55.40
+|''B. Chepkoech #4''
+|20 April 2024
+|[[Xiamen]]
+|<ref>{{cite web|title=3000m Steeplechase Result|url=https://ps-cache.web.swisstiming.com/node/binaryData/ATH_PROD/XIAMEN_2024/PDF_ATHW3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=CW6b/180PRnVrWkjnlMQUcbRSxA=|website=swisstiming.com|date=20 April 2024|access-date=21 September 2024}}</ref>
+|-
+| align="center" |23
+|8:55.58
+|''B. Chepkoech #5''
+|30 June 2019  
+|[[Stanford, California|Stanford]]
+|
+|- bgcolor="#f6F5CE"
+| align="center" |8
+| align="center" |24
+|8:56.08
+|[[Mekides Abebe]]
+|{{ETH}}
+|20 July 2022
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{cite web |title=Women's 3000m Steeplechase Final Results |url=https://media.aws.iaaf.org/competitiondocuments/pdf/7137279/AT-3KSC-W-f----.RS6.pdf |work=World Athletics |date=20 July 2022 |access-date=22 July 2022}}</ref>
+|-
+|
+| align="center" |25
+|8:56.46
+|''Yavi #7''
+|
+|17 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-3KSC-W-f----.RS6.pdf|website=World Athletics|date=17 September 2025|access-date=17 September 2025}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |9
+| rowspan="17" align="center" |
+|8:57.35
+|[[Jackline Chepkoech]]
+|{{KEN}}
+|23 July 2023
+|[[London]]
+|<ref>{{Cite web |title=Bol blazes to 51.45 Diamond League record in London {{!}} REPORT {{!}} World Athletics |url=https://worldathletics.org/news/report/london-2023-bol-lyles-ta-lou-tsegay |access-date=2023-07-23 |website=worldathletics.org}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |10
+|8:57.77
+|[[Courtney Frerichs]]|| {{USA}}
+|21 August 2021
+|[[Eugene, Oregon|Eugene]]
+|<ref name="auto">{{cite web |date=21 August 2021 |title=Prefontaine Classic 2021 Complete Results |url=http://static.sportresult.com/sports/at/data/2021/eugene/Results.pdf |access-date=27 August 2021 |work=sportresult.com |archive-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823063154/http://static.sportresult.com/sports/at/data/2021/eugene/Results.pdf |url-status=dead }}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |11
+|8:58.15
+|[[Doris Lemngole]]
+|{{KEN}}
+|14 June 2025
+|[[Eugene, Oregon|Eugene]]
+|<ref>{{Cite web |date=15 June 2025 |title=Sutherland and Lemngole impress as records fall at NCAA Championships |url=https://worldathletics.org/news/report/sutherland-lemngole-ncaa-championships-2025 |access-date=15 Jun 2025 |website=[[World Athletics]]}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |12
+|8:58.67
+|[[Alice Finot]]
+|{{FRA}}
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2" />
+|- bgcolor="#CCFFCC"
+| align="center" |13
+|8:58.78
+|[[Celliphine Chespol]]|| {{KEN}}
+|26 May 2017
+|[[Eugene, Oregon|Eugene]]
+|<ref name="Eugene2017w">{{cite news |title=Chespol stuns with world U20 record in Eugene – IAAF Diamond League |url=https://www.iaaf.org/news/report/eugene-diamond-league |publisher=IAAF |author=Cathal Dennehy |date=27 May 2017 |access-date=27 May 2017}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |14
+|8:58.81
+|[[Gulnara Samitova-Galkina|Gulnara Galkina]]|| {{RUS}}
+|17 August 2008
+|[[Beijing]]
+|<ref name="g.galkina">{{Cite web |url=https://www.worldathletics.org/news/news/world-record-obliterates-memories-of-osaka-fo |title=World record obliterates memories of Osaka for Galkina-Samitova &#124; NEWS &#124; World Athletics |website=www.worldathletics.org}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |15
+|8:58.86
+|[[Sembo Almayew]]
+|{{ETH}}
+|17 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-3KSC-W-f----.RS6.pdf|website=World Athletics|date=17 September 2025|access-date=17 September 2025}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |16
+|9:00.01
+|[[Hyvin Jepkemoi|Hyvin Kiyeng]]|| {{KEN}}
+|28 May 2016
+|[[Eugene, Oregon|Eugene]]
+|<ref name="Eugene2016w">{{cite web|title=Prefontaine Classic 2016 Results|url=http://www.tilastopaja.org/jukka/db/results2.php?CID=12873937&Season=2016|publisher=tilastopaja.org|date=28 May 2016|access-date=28 May 2016}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |17
+|9:01.46
+|[[Marwa Bouzayani]]
+|{{TUN}}
+|17 September 2025
+|[[Japan National Stadium|Tokyo]]
+|<ref>{{cite web|title=Women's 3000m Steeplechase Final Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/7190593/AT-3KSC-W-f----.RS6.pdf|website=World Athletics|date=17 September 2025|access-date=17 September 2025}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |18
+|9:02.35
+|[[Emma Coburn]]|| {{USA}}
+|30 September 2019
+|[[Doha]]
+|<ref name="3000m Steeplechase Results">{{cite web|title=3000m Steeplechase Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/6033/AT-3KSC-W-f----.RS6.pdf?v=1965896153|publisher=IAAF|date=30 September 2019|access-date=3 October 2019}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |19
+|9:03.22
+|[[Valerie Constien]]
+|{{USA}}
+|27 June 2024
+|[[Eugene, Oregon|Eugene]]
+|<ref name=":1">{{Cite web |title=Results |url=https://results.usatf.org/ |access-date=2024-06-28 |website=results.usatf.org}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |20
+|9:03.30
+|[[Gesa-Felicitas Krause]]|| {{GER}}
+|30 September 2019
+|[[Doha]]
+|<ref name="3000m Steeplechase Results" />
+|- bgcolor="#CCFFCC"
+| align="center" |21
+|9:04.35
+|[[Elizabeth Bird]]|| {{GBR}}
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2" />
+|- bgcolor="#CCFFCC"
+| align="center" |22
+|9:04.61
+|[[Zerfe Wondemagegn]]
+|{{ETH}}
+|2 June 2023
+|[[Florence]]
+|<ref name="3000m Steeplechase Result">{{cite web |date=2 June 2023 |title=3000m Steeplechase Result |url=https://livecache.sportresult.com/node/binaryData/ATH_PROD/ROME2023/PDF_ATHW3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=8a+RWjK/nbDFaNKGcFVy3tfoKlA=/ |url-status=dead |archive-url=https://web.archive.org/web/20230602190435/https://livecache.sportresult.com/node/binaryData/ATH_PROD/ROME2023/PDF_ATHW3000MST-DIAMOND---FNL-000100--_C73C1.PDF?h=8a+RWjK/nbDFaNKGcFVy3tfoKlA=/ |archive-date=2 June 2023 |access-date=2 June 2023 |work=sportresult.com}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |23
+|9:04.93
+|[[Marwa Bouzayani]]
+|{{TUN}}
+|30 August 2024
+|[[Rome]]
+|<ref name=":3" />
+|- bgcolor="#CCFFCC"
+| align="center" |24
+|9:05.36
+|[[Habiba Ghribi]]|| {{TUN}}
+|11 September 2015
+|[[Brussels]]
+|<ref>{{cite web|title=3000m Steeplechase Results|url=http://static.sportresult.com/sports/at/data/2015/brussels/re1290040.pdf|publisher=sportresult.com|date=11 September 2015|access-date=12 September 2015|archive-date=21 April 2016|archive-url=https://web.archive.org/web/20160421183609/http://static.sportresult.com/sports/at/data/2015/brussels/re1290040.pdf|url-status=dead}}</ref>
+|- bgcolor="#CCFFCC"
+| align="center" |25
+|9:06.07
+|[[Lomi Muleta]]|| {{ETH}}
+|6 August 2024
+|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|<ref name=":2" />
+|}
+
+====Annulled marks====
+The following athletes had their performances (inside 9:06.50) annulled due to doping offences:
+*[[Yuliya Zaripova]] 9:05.02 (Stockholm 2012)<ref name="Bob Ramsak">{{cite news|title=Zaripova world lead the best of new Olympic champions in Stockholm - REPORT - Samsung Diamond League|url=http://www.iaaf.org/competitions/dlm/newsid=67590.html|publisher=[[IAAF]]|author=Bob Ramsak|date=17 August 2012|access-date=17 August 2012}}</ref>
+
+==Olympic medalists==
+
+===Men===
+[[File:London 1908 Steeplechase.jpg|thumb|right|The water jump in the men's steeplechase at the [[1908 Summer Olympics]]]]
+{{Olympic medalists in men's 3000 metres steeplechase}}
+
+===Women===
+{{Olympic medalists in women's 3000 metres steeplechase}}
+
+==World Championships medalists==
+===Men===
+{{World Championships in Athletics medalists in men's 3000 metres steeplechase}}
+
+===Women===
+[[File:Osaka07 D1M W3000M Steeplechase Heat.jpg|right|thumb|Women's race at the 2007 World Championships]]
+{{World Championships in Athletics medalists in women's 3000 metres steeplechase}}
+
+==Season's bests==
+{{col-begin}}
+{{col-2}}
+
+===Men===
+{| class="wikitable sortable" style="text-align:center"
+!Year
+!Time
+!Athlete
+!Place
+|-
+|1968
+|8:24.2
+|align=left|{{flagathlete|[[Jouko Kuha]]|FIN}}
+|align=left|[[Stockholm]]
+|- 
+|1969
+|8:22.2
+|align=left|{{flagathlete|[[Vladimiras Dudinas]]|URS}}
+|align=left|[[Kyiv]]
+|-
+|1970
+|8:21.98
+|align=left|{{flagathlete|[[Kerry O'Brien (athlete)|Kerry O'Brien]]|AUS}}
+|align=left|[[Berlin]]
+|- 
+|1971
+|8:24.0
+|align=left|{{flagathlete|[[Kerry O'Brien (athlete)|Kerry O'Brien]]|AUS}}
+|align=left|[[Adelaide]]
+|-
+|1972
+|8:20.8
+|align=left|{{flagathlete|[[Anders Gärderud]]|SWE}}
+|align=left|[[Helsinki]]
+|- 
+|1973
+|8:13.91
+|align=left|{{flagathlete|[[Ben Jipcho]]|KEN}}
+|align=left|[[Helsinki]]
+|-
+|1974
+|8:14.2
+|align=left|{{flagathlete|[[Anders Gärderud]]|SWE}}
+|align=left|[[Helsinki]]
+|- 
+|1975
+|8:09.70
+|align=left|{{flagathlete|[[Anders Gärderud]]|SWE}}
+|align=left|[[Stockholm]]
+|-
+|1976
+|8:08.02
+|align=left|{{flagathlete|[[Anders Gärderud]]|SWE}}
+|align=left|[[Montréal]]
+|- 
+|1977
+|8:14.05
+|align=left|{{flagathlete|[[Michael Karst]]|FRG}}
+|align=left|[[Stockholm]]
+|-
+|1978
+|8:05.4
+|align=left|{{flagathlete|[[Henry Rono]]|KEN}}
+|align=left|[[Seattle]]
+|- 
+|1979
+|8:17.92
+|align=left|{{flagathlete|[[Henry Rono]]|KEN}}
+|align=left|[[Champaign, Illinois|Champaign]]
+|-
+|1980
+|8:09.70
+|align=left|{{flagathlete|[[Bronisław Malinowski (athlete)|Bronisław Malinowski]]|POL}}
+|align=left|[[Moscow]]
+|- 
+|1981
+|8:12.32
+|align=left|{{flagathlete|[[Mariano Scartezzini]]|ITA}}
+|align=left|[[Zagreb]]
+|-
+|1982
+|8:16.17
+|align=left|{{flagathlete|[[Henry Marsh (athlete)|Henry Marsh]]|USA}}
+|align=left|[[Koblenz]]
+|- 
+|1983
+|8:12.37
+|align=left|{{flagathlete|[[Henry Marsh (athlete)|Henry Marsh]]|USA}}
+|align=left|[[Berlin]]
+|-
+|1984
+|8:07.62
+|align=left|{{flagathlete|[[Joseph Mahmoud]]|FRA}}
+|align=left|[[Brussels]]
+|- 
+|1985
+|8:09.17
+|align=left|{{flagathlete|[[Henry Marsh (athlete)|Henry Marsh]]|USA}}
+|align=left|[[Koblenz]]
+|-
+|1986
+|8:10.01
+|align=left|{{flagathlete|[[William Van Dijck]]|BEL}}
+|align=left|[[Brussels]]
+|- 
+|1987
+|8:08.57
+|align=left|{{flagathlete|[[Francesco Panetta]]|ITA}}
+|align=left|[[Rome]]
+|-
+|1988
+|8:05.51
+|align=left|{{flagathlete|[[Julius Kariuki]]|KEN}}
+|align=left|[[Seoul]]
+|- 
+|1989
+|8:05.35
+|align=left|{{flagathlete|[[Peter Koech]]|KEN}}
+|align=left|[[Stockholm]]
+|-
+|1990
+|8:10.95
+|align=left|{{flagathlete|[[Peter Koech]]|KEN}}
+|align=left|[[Hengelo]]
+|- 
+|1991
+|8:06.46
+|align=left|{{flagathlete|[[Moses Kiptanui]]|KEN}}
+|align=left|[[Brussels]]
+|-
+|1992
+|8:02.08
+|align=left|{{flagathlete|[[Moses Kiptanui]]|KEN}}
+|align=left|[[Zürich]]
+|- 
+|1993
+|8:06.36
+|align=left|{{flagathlete|[[Moses Kiptanui]]|KEN}}
+|align=left|[[Stuttgart]]
+|-
+|1994
+|8:08.80
+|align=left|{{flagathlete|[[Moses Kiptanui]]|KEN}}
+|align=left|[[Zürich]]
+|- 
+|1995
+|7:59.18
+|align=left|{{flagathlete|[[Moses Kiptanui]]|KEN}}
+|align=left|[[Zürich]]
+|-
+|1996
+|8:05.68
+|align=left|{{flagathlete|[[John Kosgei]]|KEN}}
+|align=left|[[Milan]]
+|- 
+|1997
+|7:55.72
+|align=left|{{flagathlete|[[Bernard Barmasai]]|KEN}}
+|align=left|[[Cologne]]
+|-
+|1998
+|8:00.67
+|align=left|{{flagathlete|[[Bernard Barmasai]]|KEN}}
+|align=left|[[Monaco]]
+|- 
+|1999
+|7:58.98
+|align=left|{{flagathlete|[[Bernard Barmasai]]|KEN}}
+|align=left|[[Monaco]]
+|-
+|2000
+|8:02.76
+|align=left|{{flagathlete|[[Bernard Barmasai]]|KEN}}
+|align=left|[[Monaco]]
+|- 
+|2001
+|7:55.28
+|align=left|{{flagathlete|[[Brahim Boulami]]|MAR}}
+|align=left|[[Brussels]]
+|-
+|2002
+|7:58.09
+|align=left|{{flagathlete|[[Brahim Boulami]]|MAR}}
+|align=left|[[Monaco]]
+|- 
+|2003
+|7:57.38
+|align=left|{{flagathlete|[[Saif Saeed Shaheen]]|QAT}}
+|align=left|[[Monaco]]
+|-
+|2004
+|7:53.63
+|align=left|{{flagathlete|[[Saif Saeed Shaheen]]|QAT}}
+|align=left|[[Brussels]]
+|- 
+|2005
+|7:55.51
+|align=left|{{flagathlete|[[Saif Saeed Shaheen]]|QAT}}
+|align=left|[[Brussels]]
+|-
+|2006
+|7:56.32
+|align=left|{{flagathlete|[[Saif Saeed Shaheen]]|QAT}}
+|align=left|[[Athens]]
+|- 
+|2007
+|7:58.80
+|align=left|{{flagathlete|[[Paul Kipsiele Koech]]|KEN}}
+|align=left|[[Brussels]]
+|-
+|2008
+|8:00.57
+|align=left|{{flagathlete|[[Paul Kipsiele Koech]]|KEN}}
+|align=left|[[Heusden-Zolder]]
+|- 
+|2009
+|7:58.85
+|align=left|{{flagathlete|[[Ezekiel Kemboi]]|KEN}}
+|align=left|[[Doha]]
+|-
+|2010
+|8:00.90
+|align=left|{{flagathlete|[[Brimin Kipruto]]|KEN}}
+|align=left|[[Brussels]]
+|- 
+|2011
+|7:53.64
+|align=left|{{flagathlete|[[Brimin Kipruto]]|KEN}}
+|align=left|[[Monaco]]
+|-
+|2012
+|7:54.31
+|align=left|{{flagathlete|[[Paul Kipsiele Koech]]|KEN}}
+|align=left|[[Rome]]
+|-
+|2013
+|7:59.03
+|align=left|{{flagathlete|[[Ezekiel Kemboi]]|KEN}}
+|align=left|[[Stade de France|Saint-Denis]]
+|-
+|2014
+|7:58.41
+|align=left|{{flagathlete|[[Jairus Birech]]|KEN}}
+|align=left|[[Brussels]]
+|-
+|2015
+|7:58.83
+|align=left|{{flagathlete|[[Jairus Birech]]|KEN}}
+|align=left|[[Stade de France|Saint-Denis]]
+|-
+|2016
+|8:00.12
+|align=left|{{flagathlete|[[Conseslus Kipruto]]|KEN}}
+|align=left|[[Birmingham]]
+|-
+|2017
+|8:01.29
+|align=left|{{flagathlete|[[Evan Jager]]|USA}}
+|align=left|[[Monaco]]
+|-
+|2018
+|7:58.15
+|align=left|{{flagathlete|[[Soufiane El Bakkali]]|MAR}}
+|align=left|[[Monaco]]
+|-
+|2019
+|8:01.35
+|align=left|{{flagathlete|[[Conseslus Kipruto]]|KEN}}
+|align=left|[[Doha]]
+|-
+|2020
+|8:08.04
+|align=left|{{flagathlete|[[Soufiane El Bakkali]]|MAR}}
+|align=left|[[Monaco]]
+|-
+|2021
+|8:07.12
+|align=left|{{flagathlete|[[Benjamin Kigen]]|KEN}}
+|align=left|[[Paris]]
+|-
+|2022
+|7:58.28
+|align=left|{{flagathlete|[[Soufiane El Bakkali]]|MAR}}
+|align=left|[[Rabat]]
+|-
+|2023
+|7:52.11
+|align=left|{{flagathlete|[[Lamecha Girma]]|ETH}}
+|align=left|[[Paris]]
+|-
+|2024
+|8:01.63
+|align=left|{{flagathlete|[[Lamecha Girma]]|ETH}}
+|align=left|[[Stockholm]]
+|-
+|2025
+|8:00.70
+|align=left|{{flagathlete|[[Soufiane El Bakkali]]|MAR}}
+|align=left|[[Rabat]]
+|}
+{{col-2}}
+
+===Women===
+{| class="wikitable sortable" style="text-align:center"
+|-
+!Year
+!Time
+!Athlete
+!Place
+|-
+|1996
+|10:23.47
+|align=left|{{flagathlete|[[Courtney Meldrum]]|USA}}
+|align=left|[[Atlanta, Georgia|Atlanta]]
+|- 
+|1997
+|10:30.90
+|align=left|{{flagathlete|[[Melissa Teemant]]|USA}}
+|align=left|[[Indianapolis]]
+|-
+|1998
+|9:55.28
+|align=left|{{flagathlete|[[Daniela Petrescu]]|ROU}}
+|align=left|[[Bucharest]]
+|- 
+|1999
+|9:48.88
+|align=left|{{flagathlete|[[Yelena Motalova]]|RUS}}
+|align=left|[[Tula, Russia|Tula]]
+|-
+|2000
+|9:48.88
+|align=left|{{flagathlete|[[Cristina Casandra]]|ROU}}
+|align=left|[[Reims]]
+|- 
+|2001
+|9:44.36
+|align=left|{{flagathlete|[[Justyna Bak]]|POL}}
+|align=left|[[Poznań]]
+|-
+|2002
+|9:16.51
+|align=left|{{flagathlete|[[Alesya Turova]]|BLR}}
+|align=left|[[Gdańsk]]
+|- 
+|2003
+|9:08.33
+|align=left|{{flagathlete|[[Gulnara Samitova]]|RUS}}
+|align=left|[[Tula, Russia|Tula]]
+|-
+|2004
+|9:01.59
+|align=left|{{flagathlete|[[Gulnara Samitova]]|RUS}}
+|align=left|[[Iraklio]]
+|- 
+|2005
+|9:15.04
+|align=left|{{flagathlete|[[Dorcus Inzikuru]]|UGA}}
+|align=left|[[Athens]]
+|-
+|2006
+|9:17.15
+|align=left|{{flagathlete|[[Wioletta Janowska]]|POL}}
+|align=left|[[Athens]]
+|- 
+|2007
+|9:06.57
+|align=left|{{flagathlete|[[Yekaterina Volkova (athlete)|Yekaterina Volkova]]|RUS}}
+|align=left|[[Osaka]]
+|-
+|2008
+|8:58.81
+|align=left|{{flagathlete|[[Gulnara Samitova-Galkina]]|RUS}}
+|align=left|[[Beijing]]
+|- 
+|2009
+|9:12.50
+|align=left|{{flagathlete|[[Jennifer Simpson]]|USA}}
+|align=left|[[Berlin]]
+|-
+|2010
+|9:11.71
+|align=left|{{flagathlete|[[Milcah Chemos]]|KEN}}
+|align=left|[[Rome]]
+|-
+|2011
+|9:07.03
+|align=left|{{flagathlete|[[Yuliya Zaripova]]|RUS}}
+|align=left|[[Daegu]]
+|-
+|2012
+|9:05.02
+|align=left|{{flagathlete|[[Yuliya Zaripova]]|RUS}}
+|align=left|[[Stockholm]]
+|-
+|2013
+|9:11.65
+|align=left|{{flagathlete|[[Milcah Chemos Cheywa]]|KEN}}
+|align=left|[[Moscow]]
+|-
+|2014
+|9:10.64
+|align=left|{{flagathlete|[[Hiwot Ayalew]]|ETH}}
+|align=left|[[Glasgow]]
+|-
+|2015
+|9:05.36
+|align=left|{{flagathlete|[[Habiba Ghribi]]|TUN}}
+|align=left|[[King Baudouin Stadium|Brussels]]
+|-
+|2016
+|8:52.78
+|align=left|{{flagathlete|[[Ruth Jebet]]|BHR}}
+|align=left|[[Saint-Denis, Seine-Saint-Denis|Saint-Denis]]
+|-
+|2017
+|8:55.29
+|align=left|{{flagathlete|[[Ruth Jebet]]|BHR}}
+|align=left|[[Zürich]]
+|-
+|2018
+|8:44.32
+|align=left|{{flagathlete|[[Beatrice Chepkoech]]|KEN}}
+|align=left|[[Monaco]]
+|-
+|2019
+|8:55.58
+|align=left|{{flagathlete|[[Beatrice Chepkoech]]|KEN}}
+|align=left|[[Palo Alto]]
+|-
+|2020
+|9:06.14
+|align=left|{{flagathlete|[[Hyvin Kiyeng]]|KEN}}
+|align=left|[[Berlin]]
+|-
+|2021
+|9:00.67
+|align=left|{{flagathlete|[[Norah Jeruto]]|KEN}}
+|align=left|[[Doha]]
+|-
+|2022
+|8:53.02
+|align=left|{{flagathlete|[[Norah Jeruto]]|KAZ}}
+|align=left|[[Eugene, Oregon|Eugene]]
+|-
+|2023
+|8:50.66
+|align=left|{{flagathlete|[[Winfred Yavi]]|BHR}}
+|align=left|[[Eugene, Oregon|Eugene]]
+|-
+|2024
+|8:44.39
+|align=left|{{flagathlete|[[Winfred Yavi]]|BHR}}
+|align=left|[[Rome]]
+|-
+|2025
+|8:45.25
+|align=left|{{flagathlete|[[Winfred Yavi]]|BHR}}
+|align=left|[[Eugene, Oregon|Eugene]]
+|}
+{{col-end}}
+
+==National records==
+*Updated October 2025.<ref name=AlltimeM /><ref name=AlltimeW />
+
+===Men===
+<small>Equal or superior to 8:30.00 min:</small>
+{{Table alignment}}{{static row numbers}}{{Sticky header}}
+{| class="wikitable sortable defaultleft col4right static-row-numbers sticky-header" style="font-size:95%;"
+!Nation
+!Time
+!Athlete
+!Date
+!Place
+|-
+|{{ETH}}
+|7:52.11
+|[[Lamecha Girma]]
+|9 June 2023
+|[[Paris]]
+|-
+|{{QAT}}
+|7:53.63
+|[[Saif Saaeed Shaheen]]
+|3 September 2004
+|[[Brussels]]
+|-
+|{{KEN}}
+|7:53.64
+|[[Brimin Kipruto]]
+|22 July 2011
+|[[Monaco]]
+|-
+|{{MAR}}
+|7:55.28
+|[[Brahim Boulami]]
+|24 August 2001
+|[[Brussels]]
+|-
+|{{FRA}}
+|8:00.09
+|[[Mahiedine Mekhissi-Benabbad]]
+|6 July 2013
+|[[Stade de France|Saint-Denis]]
+|-
+|{{USA}}
+|8:00.45
+|[[Evan Jager]]
+|4 July 2015
+|[[Stade de France|Saint-Denis]]
+|-
+|{{GER}} || 8:01.49 || [[Frederik Ruppert]] || 25 May 2025 || [[Rabat]] 
+|-
+|{{JPN}}
+|8:03.43
+|[[Ryuji Miura]]
+|11 July 2025
+|[[Stade Louis II|Fontvieille]]
+|-
+|{{UGA}} || 8:03.81 || [[Benjamin Kiplagat]] || 8 July 2010 || [[Lausanne]] 
+|-
+|{{NED}} || 8:04.95 || [[Simon Vroemen]] || 26 August 2005 || [[Brussels]] 
+|-
+|{{ESP}}
+|8:05.69
+|[[Fernando Carro (athlete)|Fernando Carro]]
+|12 July 2019
+|[[Monaco]]
+|-
+|{{SWE}} || 8:05.75 || [[Mustafa Mohamed]] || 28 July 2007 || [[Heusden]] 
+|-
+|{{BHR}} || 8:06.13 || [[Tareq Mubarak Taher]] || 13 July 2009 || [[Athens]] 
+|-
+|{{TUN}} || 8:07.73 || [[Mohamed Amin Jhinaoui]] || 7 August 2024 || [[Stade de France|Saint-Denis]]
+|-
+|{{GBR2}} || 8:07.96 || [[Mark Rowland]] || 30 September 1988 ||[[Seoul]] 
+|-
+|{{KSA}} || 8:08.14 || [[Saad Shaddad Al-Asmari]] || 16 July 2002 || [[Stockholm]] 
+|-
+|{{ITA}} || 8:08.57 || [[Francesco Panetta]] || 5 September 1989 || [[Rome]] 
+|-
+|{{POL}} || 8:09.11 || [[Bronisław Malinowski (athlete)|Bronisław Malinowski]] || 28 July 1976 || [[Montreal]] 
+|-
+|{{LUX}} || 8:09.47 || [[Ruben Querinjean]] || 22 August 2025 || [[King Baudouin Stadium|Brussels]]
+|-
+|{{BEL}} || 8:09.47 || [[Ruben Querinjean]]{{efn|ratified as Belgian record, even though he started for Luxembourg}} || 22 August 2025 || [[King Baudouin Stadium|Brussels]]
+|-
+|{{NZL}} || 8:09.64 || [[Geordie Beamish]] || 7 July 2024 || [[Stade Sébastien Charléty|Paris]]
+|-
+|{{IND}} || 8:09.91 || [[Avinash Sable]] || 7 July 2024 || [[Stade Sébastien Charléty|Paris]]
+|-
+|{{ALG}} || 8:10.23 || [[Laid Bessou]] || 18 August 2000 || [[Monaco]] 
+|-
+|{{CHN}} || 8:10.46 || [[Sun Ripeng]] || 19 October 1997 || [[Shanghai]] 
+|-
+|{{FIN}} || 8:10.67 || [[Jukka Keskisalo]] || 28 August 2009 || [[Zürich]] 
+|-
+|{{AUT}} || 8:10.83 || [[Günther Weidlinger]] || 21 August 1999 || [[Seville]] 
+|-
+|{{ERI}}
+|8:11.22
+|[[Yemane Haileselassie]]
+|8 June 2017
+|[[Rome]]
+|-
+|{{RSA}}
+|8:11.50
+|[[Ruben Ramolefi]]
+|29 August 2011
+|[[Deagu]]
+|-
+|{{CAN}}
+|8:11.64
+|[[Matthew Hughes (athlete)|Matthew Hughes]]
+|15 August 2013
+|[[Luzhniki Stadium|Moscow]]
+|-
+|{{NOR}} || 8:12.05 || [[Jim Svenøy]] || 22 August 1997 || [[Brussels]] 
+|-
+|{{TAN}} || 8:12.48 || [[Filbert Bayi]] || 31 July 1980 || [[Moscow]] 
+|-
+|{{ROU}} || 8:13.26 || [[Florin Ionescu]] || 21 August 1999 || [[Seville]] 
+|-
+|{{BRA}} || 8:14.41 || [[Wander Moura]] || 22 March 1995 || [[Mar del Plata]] 
+|-
+|{{RUS}} || 8:15.54 || [[Pavel Potapovich]] || 4 July 2003 || [[Stade de France|Saint-Denis]] 
+|-
+|{{AUS}} || 8:16.22 || [[Shaun Creighton]] || 2 July 1993 || [[Villeneuve d'Ascq]] 
+|-
+|{{SLO}} || 8:16.96 || [[Boštjan Buč]] || 12 June 2003 || [[Ostrava]] 
+|-
+|{{TUR}} || 8:17.85 || [[Tarık Langat Akdağ]] || 3 August 2012 || [[Olympic Stadium (London)|London]]
+|-
+|{{HUN}} || 8:17.97 || [[Gábor Markó]] || 21 July 1984 || [[Potsdam]]
+|-
+|{{MDA}} || 8:18.97 || [[Ion Luchianov]] || 16 August 2008 || [[Beijing]] 
+|-
+|{{POR}}
+|8:19.82
+|[[Manuel Silva (athlete)|Manuel Silva]]
+|27 July 2004
+|[[Stockholm]]
+|-
+|{{DEN}}
+|8:20.42
+|[[Ole Hesselbjerg]]
+|8 June 2021
+|[[Paavo Nurmi Stadium|Turku]]
+|-
+|{{VEN}}
+|8:20.87
+|[[José Peña (steeplechaser)|José Peña]]
+|1 September 2013
+|[[Olympic Stadium (Berlin)|Berlin]]
+|-
+|{{BUL}}
+|8:20.87
+|[[Mitko Tsenov]]
+|12 June 2014
+|[[Huelva]]
+|-
+|{{EGY}} || 8:21.55 || [[Salem Mohamed Attiaallah]] || 28 June 2024 || [[Stade de Luxembourg|Luxembourg]]
+|-
+|{{UKR}}
+|8:21.75
+|{{ill|Andriy Popelyayev|ru|Попеляев, Андрей Владимирович}}
+|19 July 1984
+|[[Moscow]]
+|-
+|{{AND}}
+|8:21.76
+|[[Nahuel Carabaña]]
+|10 September 2023
+|[[Zagreb]]
+|-
+|{{CZE}} || 8:21.83 || {{ill|Tomáš Habarta|de}} || 10 June 2024 || [[Stadio Olimpico|Rome]]
+|-
+|{{DJI}}
+|8:22.17
+|[[Mohamed Ismail Ibrahim]]
+|12 June 2021
+|[[Nice]]
+|-
+|{{LTU}}
+|8:22.2{{AthAbbr|h}}
+|{{ill|Vladimiras Dudinas|de||fr}}
+|19 August 1969
+|[[Kyiv]]
+|-
+|{{SUI}}
+|8:22.24
+|[[Christian Belz]]
+|4 June 2001
+|[[Hengelo]]
+|-
+|{{IRI}}
+|8:22.79
+|[[Hosein Keyhani]]
+|27 August 2018
+|[[Jakarta]]
+|-
+|{{URU}}
+|8:23.02
+|[[Ricardo Vera]]
+|28 June 1992
+|[[Hengelo]]
+|-
+|{{CYP}} || rowspan=2|8:24.01 || rowspan=2|[[Filippos Filippou (runner)|Filippos Filippou]] || rowspan=2|15 September 1983 || rowspan=2|[[Casablanca]] 
+|-
+|{{GRE}}
+|-
+|{{IRL}} || 8:24.09 || [[Brendan Quinn]] || 30 August 1985 || [[Brussels]] 
+|-
+|{{KAZ}}
+|8:24.13
+|[[Artyom Kosinov]]
+|11 June 2012
+|[[Moscow]]
+|-
+|{{ISR}}
+|8:24.14
+|[[Itai Maggidi]]
+|4 July 2008
+|[[Longeville-lès-Metz]]
+|-
+|{{BLR}}
+|8:25.2{{AthAbbr|h}}
+|[[Aleksandr Vorobey]]
+|6 July 1980
+|[[Moscow]]
+|-
+|{{ZAM}}
+|8:25.49
+|[[Godfrey Siamusiye]]
+|16 July 1995
+|[[Birmingham]]
+|-
+|{{ARG}}
+|8:25.63
+|[[Marcelo Cascabelo]]
+|4 June 1989
+|[[Belgrade]]
+|-
+|{{COL}}
+|8:25.66
+|[[Carlos San Martín]]
+|29 June 2021
+|[[Castellón de la Plana|Castellón]]
+|-
+|{{MEX}}
+|8:25.69
+|[[Salvador Miranda (runner)|Salvador Miranda]]
+|8 July 2000
+|[[Barakaldo]]
+|-
+|{{CUB}}
+|8:26.16
+|[[José Sanchez (athlete)|José Sanchez]]
+|19 June 2009
+|[[Havana]]
+|-
+|{{UZB}} || {{sort|8:27.51|8:27.51 <br> 8:19.75{{Efn|Not accepted as a national record by the Uzbekistani athletic federation.}} }} || [[Anatoliy Dimov]] || data-sort-value="19 June 1983"|19 June 1983 <br> 31 July 1980 || [[Moscow]] <br> Moscow
+|-
+|{{ARM}} || 8:27.88 || [[Artashes Mikoyan]] || 29 May 1976 || [[Munich]]
+|-
+|{{PUR}}
+|8:27.91
+|[[Alexander Greaux]]
+|10 July 2004
+|[[Barakaldo]]
+|-
+|{{GEO}}
+|8:28.0{{AthAbbr|h}}
+|[[Sergey Skripka]]
+|11 June 1977
+|[[Moscow]]
+|-
+|{{EST}}
+|8:28.55
+|[[Kaur Kivistik]]
+|3 September 2019
+|[[Zagreb]]
+|-
+|{{PER}}
+|8:28.67
+|[[Mario Bazán]]
+|16 August 2009
+|[[Berlin]]
+|-
+|{{SRB}}
+|8:28.80
+|[[Vule Maksimović]]
+|4 September 1989
+|[[Budapest]]
+|-
+|{{CHI}}
+|8:28.99
+|[[Emilio Ulloa]]
+|8 August 1984
+|[[Los Angeles]]
+|}
+
+===Women===
+<small>Equal or superior to 9:30.00 min:</small>
+{{Table alignment}}{{static row numbers}}{{Sticky header}}
+{| class="wikitable sortable defaultleft col4right static-row-numbers sticky-header" style="font-size:95%;"
+|-
+!Nation
+!Time
+!Athlete
+!Date
+!Place
+|-
+|{{KEN}}
+|8:44.32
+|[[Beatrice Chepkoech]]
+|20 July 2018
+|[[Stade Louis II|Monaco]]
+|-
+|{{BHR}}
+|8:44.39
+|[[Winfred Yavi]]
+|30 August 2024
+|[[Stadio Olimpico|Rome]]
+|-
+|{{KAZ}}
+|8:53.02
+|[[Norah Jeruto]]
+|20 July 2022
+|[[Hayward Field|Eugene]]
+|-
+|{{ETH}}
+|8:54.61
+|[[Werkwuha Getachew]]
+|20 July 2022
+|[[Hayward Field|Eugene]]
+|-
+|{{UGA}}
+|8:55.09
+|[[Peruth Chemutai]]
+|25 May 2024
+|[[Hayward Field|Eugene]]
+|-
+|{{USA}}
+|8:57.77
+|[[Courtney Frerichs]]
+|21 August 2021
+|[[Hayward Field|Eugene]]
+|-
+|{{FRA}}
+|8:58.67
+|[[Alice Finot]]
+|6 August 2024
+|[[Stade de France|Saint-Denis]]
+|-
+|{{RUS}}
+|8:58.81
+|[[Gulnara Samitova|Gulnara Galkina]]
+|17 August 2008
+|[[Beijing National Stadium|Beijing]]
+|-
+|{{GER}}
+|9:03.30
+|[[Gesa-Felicitas Krause]]
+|28 September 2019
+|[[Doha]]
+|-
+|{{TUN}}
+|9:05.36
+|[[Habiba Ghribi]]
+|11 September 2015
+|[[King Baudouin Stadium|Brussels]]
+|-
+|{{SLO}}
+|9:06.37
+|[[Maruša Mišmaš-Zrimsek]]
+|27 August 2023
+|[[National Athletics Centre (Budapest)|Budapest]]
+|-
+|{{GBR2}}
+|9:07.87
+|[[Elizabeth Bird]]
+|10 August 2022
+|[[Stade Louis II|Monaco]]
+|-
+|{{ESP}}
+|9:09.39
+|[[Marta Domínguez]]
+|25 July 2009
+|[[Barcelona]]
+|-
+|{{ALB}}
+|9:09.64
+|[[Luiza Gega]]
+|31 August 2023
+|[[Letzigrund|Zürich]]
+|-
+|{{IND}}
+|9:12.46
+|[[Parul Chaudhary]]
+|30 May 2025
+|[[Gumi, North Gyeongsang|Gumi]]
+|-
+|{{NOR}}
+|9:13.35
+|[[Karoline Bjerkeli Grøvdal]]
+|26 August 2017
+|[[Sandnes]]
+|-
+|{{DEN}}
+|9:13.46
+|[[Anna Emilie Møller]]
+|30 September 2019
+|[[Khalifa International Stadium|Doha]]
+|-
+|{{TUR}}
+|9:13.53
+|[[Gülcan Mıngır]]
+|9 June 2012
+|[[Vasil Levski National Stadium|Sofia]]
+|-
+|{{JAM}}
+|9:14.09
+|[[Aisha Praught-Leer]]
+|31 August 2018
+|[[King Baudouin Stadium|Brussels]]
+|-
+|{{AUS}}
+|9:14.28
+|[[Genevieve Gregson|Genevieve LaCaze]]
+|27 August 2016
+|[[Stade de France|Saint-Denis]]
+|-
+|{{BLR}}
+|9:16.51
+|[[Alesya Turova]]
+|27 July 2002
+|[[Gdańsk]]
+|-
+|{{POL}} || 9:16.51 || [[Alicja Konieczek]] || 4 August 2024 || [[Stade de France|Saint-Denis]] 
+|-
+|{{ROU}} || 9:16.85 || [[Cristina Casandra]] || 17 August 2008 || [[Beijing National Stadium|Beijing]] 
+|-
+|{{POR}}
+|9:18.54
+|[[Jessica Augusto]]
+|9 June 2010
+|[[Huelva]]
+|-
+|{{ISR}}
+|9:19.90
+|[[Adva Cohen]]
+|15 September 2025
+|[[Tokyo]]
+|-
+|{{SUI}}
+|9:20.28
+|[[Chiara Scherrer]]
+|18 June 2022
+|[[Stade Sébastien Charléty|Paris]]
+|-
+|{{CHN}}
+|9:20.32
+|[[Zhang Xinyan]]
+|8 April 2021
+|[[Shaoxing]]
+|-
+|{{CAN}}
+|9:20.58
+|[[Ceili McCabe]]
+|17 May 2024
+|[[Drake Stadium (UCLA)|Los Angeles]]
+|-
+|{{MAR}}
+|9:20.64
+|[[Salima El Ouali Alami]]
+|17 July 2015
+|[[Stade Louis II|Monaco]]
+|-
+|{{FIN}}
+|9:21.02
+|[[Ilona Mononen]]
+|15 September 2025
+|[[Japan National Stadium|Tokyo]]
+|-
+|{{SWE}}
+|9:23.96
+|[[Charlotta Fougberg]]
+|12 July 2014
+|[[Hampden Park|Glasgow]]
+|-
+|{{BRA}}
+|9:24.38
+|[[Tatiane Raquel da Silva]]
+|11 June 2022
+|[[Woodside Stadium|Watford]]
+|-
+|{{UKR}}
+|9:24.54
+|[[Nataliya Strebkova]]
+|30 June 2022
+|[[Stockholm Olympic Stadium|Stockholm]]
+|-
+|{{JPN}}
+|9:24.72
+|[[Miu Saito]]
+|15 September 2025
+|[[Japan National Stadium|Tokyo]]
+|-
+|{{NED}}
+|9:25.53
+|[[Veerle Bakker]]
+|9 August 2025
+|[[Oordegem]]
+|-
+|{{ALG}}
+|9:25.90
+|[[Amina Betiche]]
+|17 May 2017
+|[[Baku]]
+|-
+|{{ARG}}
+|9:25.99
+|[[Belén Casetta]]
+|11 August 2017
+|[[London Stadium|London]]
+|-
+|{{HUN}}
+|9:26.59
+|[[Zita Kácser]]
+|31 August 2019
+|[[Budapest]]
+|-
+|{{LTU}}
+|9:26.88
+|[[Greta Karinauskaitė]]
+|27 May 2023
+|[[Sacramento]]
+|-
+|{{LAT}}
+|9:27.21
+|[[Poļina Jeļizarova]]
+|4 August 2012
+|[[Olympic Stadium (London)|London]]
+|-
+|{{ITA}}
+|9:27.48
+|[[Elena Romagnolo]]
+|15 August 2008
+|[[Beijing National Stadium|Beijing]]
+|-
+|{{IRL}}
+|9:28.29
+|[[Roisin McGettigan]]
+|28 July 2007
+|[[Heusden-Zolder]]
+|-
+|{{BEL}}
+|9:28.47
+|[[Veerle Dejaeghere]]
+|2 June 2007
+|[[Neerpelt]]
+|}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* [https://iaaf.gekko.de/?a=middle-long&d=3000-metres-steeplechase IAAF list of 3000-metres steeplechase records in XML] {{Webarchive|url=https://web.archive.org/web/20211020154709/https://iaaf.gekko.de/?a=middle-long&d=3000-metres-steeplechase |date=2021-10-20 }}
+* [https://web.archive.org/web/20200417040731/https://www.sports-reference.com/olympics/sports/ATH/mens-3000-metres-steeplechase.html Steeplechase at the Olympic Games] at [[Sports Reference]]
+
+{{Athletics events}}
+{{National records in athletics}}
+
+[[Category:Events in track and field]]
+[[Category:Steeplechase (athletics)]]
+[[Category:Summer Olympic disciplines in athletics]]
+[[Category:Middle-distance running disciplines]]
+[[Category:3000 metres steeplechase| ]]

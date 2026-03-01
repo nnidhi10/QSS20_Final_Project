@@ -1,0 +1,2882 @@
+{{Short description|none}}
+{{main|List of world records in swimming}}
+The first '''world record in the men's 1500 metres [[freestyle swimming|freestyle]]''' in a [[long course]] (50 metres) [[swimming pool]] was recognised by the [[International Swimming Federation]] (FINA) in [[1908 in sports|1908]].<ref>{{cite web|title=Swimming World Record progression - Men 1500 m freestyle|url=http://multimedia.olympic.org/pdf/en_report_213.pdf|date=12 July 2002|publisher=[[International Olympic Committee]]|format=pdf|archive-url=https://web.archive.org/web/20030418030353/http://multimedia.olympic.org/pdf/en_report_213.pdf|archive-date=18 April 2003}}</ref> In [[Short course (swimming)|short course]] (25 metres) pools, the world's governing body recognizes world records since March 3, 1991.
+
+==Men==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 22:48.4
+|firstname = Henry
+|lastname = Taylor
+|namearticle = Henry Taylor (swimmer)
+|nation = GBR
+|date = 25 July 1908
+|meet = [[Swimming at the 1908 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = London
+|country = UK
+|ref = <ref>{{cite report |first=Theodore |last=Cook |title= The fourth Olympiad London 1908 Official Report|url=http://library.la84.org/6oic/OfficialReports/1908/1908.pdf |publisher=[[British Olympic Association]] |year=1908 |page=296 |access-date=1 June 2015 }}</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 22:00.0
+|firstname = George
+|lastname = Hodgson
+|namearticle = George Hodgson
+|nation = CAN
+|nationvariant = 1868
+|date = 10 July 1912
+|meet = [[Swimming at the 1912 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Stockholm
+|country = SWE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 21:35.3
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = 8 July 1923
+|meet = -
+|city = Gothenburg
+|country = SWE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 21:15.0
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = 30 January 1924
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 21:11.4
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = 13 July 1924
+|meet = -
+|city = Paris
+|country = FRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 20:06.6
+|firstname = Boy
+|lastname = Charlton
+|namearticle = Boy Charlton
+|nation = AUS
+|date = 15 July 1924
+|meet = [[Swimming at the 1924 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Paris
+|country = FRA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 20:04.4
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = 18 August 1926
+|meet = -
+|city = Budapest
+|country = HUN
+|countryvariant = 
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 19:07.2
+|firstname = Arne
+|lastname = Borg
+|namearticle = Arne Borg
+|nation = SWE
+|date = 2 September 1927
+|meet = [[1927 European Aquatics Championships|European Championships]]
+|city = Bologna
+|country = ITA
+|countryvariant = 1861
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 18:58.8
+|firstname = Tomikatsu
+|lastname = Amano
+|namearticle = Tomikatsu Amano
+|nation = JPN
+|date = 10 August 1938
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 18:35.7
+|firstname = Shiro
+|lastname = Hashizume
+|namearticle = Shiro Hashizume
+|nation = JPN
+|date = 16 August 1949
+|meet = -
+|city = Los Angeles
+|country = USA
+|countryvariant = 1912
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 18:19.0
+|firstname = Hironoshin
+|lastname = Furuhashi
+|namearticle = Hironoshin Furuhashi
+|nation = JPN
+|date = 16 August 1949
+|meet = -
+|city = Los Angeles
+|country = USA
+|countryvariant = 1912
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 18:05.9
+|firstname = George
+|lastname = Breen
+|namearticle = George Breen
+|nation = USA
+|nationvariant = 1912
+|date = 3 May 1956
+|meet = -
+|city = New Haven
+|country = USA
+|countryvariant = 1912
+|ref = 
+}}
+{{Swimmingrecord
+|number = 13
+|time = 17:59.5
+|firstname = Murray
+|lastname = Rose
+|namearticle = Murray Rose
+|nation = AUS
+|date = 30 October 1956
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 14
+|time = 17:52.9
+|firstname = George
+|lastname = Breen
+|namearticle = George Breen
+|nation = USA
+|date = 5 December 1956
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 17:28.7
+|firstname = John
+|lastname = Konrads
+|namearticle = John Konrads
+|nation = AUS
+|date = 22 February 1958
+|meet = -
+|city = Melbourne
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 16
+|time = 17:11.0
+|firstname = John
+|lastname = Konrads
+|namearticle = John Konrads
+|nation = AUS
+|date = 27 February 1960
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 17
+|time = 17:05.5
+|firstname = Roy
+|lastname = Saari
+|namearticle = Roy Saari
+|nation = USA
+|date = 17 August 1963
+|meet = -
+|city = Tokyo
+|country = JPN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 18
+|time = 17:01.8
+|firstname = Murray
+|lastname = Rose
+|namearticle = Murray Rose
+|nation = AUS
+|date = 2 August 1964
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 19
+|time = 16:58.7
+|firstname = Roy
+|lastname = Saari
+|namearticle = Roy Saari
+|nation = USA
+|date = 2 September 1964
+|meet = -
+|city = New York City
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 20
+|time = 16:58.6
+|firstname = Stephen
+|lastname = Krause
+|namearticle = Stephen Krause
+|nation = USA
+|date = 15 August 1965
+|meet = -
+|city = Maumee
+|cityarticle = Maumee, Ohio
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 21
+|time = 16:41.6
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = 21 August 1966
+|meet = -
+|city = Lincoln
+|cityarticle = Lincoln, Nebraska
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 22
+|time = 16:34.1
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = 13 August 1967
+|meet = US National Championships
+|city = Oak Park
+|cityarticle = Oak Park, Illinois
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 23
+|time = 16:28.1
+|firstname = Guillermo
+|lastname = Echevarria
+|namearticle = Guillermo Echevarria
+|nation = MEX
+|date = 7 July 1968
+|meet = Santa Clara Invitational
+|city = Santa Clara
+|cityarticle = Santa Clara, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 24
+|time = 16:08.6
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = 3 September 1968
+|meet = US Olympic Trials
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 25
+|time = 16:04.5
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = 17 August 1969
+|meet = US National Championships
+|city = Louisville
+|cityarticle = Louisville, Kentucky
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 26
+|time = 15:57.10
+|firstname = John
+|lastname = Kinsella
+|namearticle = John Kinsella (swimmer)
+|nation = USA
+|date = 23 August 1970
+|meet = US National Championships
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 27
+|time = 15:52.91
+|firstname = Rick
+|lastname = DeMont
+|namearticle = Rick DeMont
+|nation = USA
+|date = 6 August 1972
+|meet = US Olympic Trials
+|city = Chicago
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 28
+|time = 15:52.58
+|firstname = Mike
+|lastname = Burton
+|namearticle = Mike Burton (swimmer)
+|nation = USA
+|date = 4 September 1972
+|meet = [[Swimming at the 1972 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Munich
+|country = FRG
+|ref = 
+}}
+{{Swimmingrecord
+|number = 29
+|time = 15:37.80
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = 5 August 1973
+|meet = Pre World Championship meet
+|city = Brisbane
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 30
+|time = 15:31.85
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = 8 September 1973
+|meet = [[1973 World Aquatics Championships|World Championships]]
+|city = Belgrade
+|country = YUG
+|ref = 
+}}
+{{Swimmingrecord
+|number = 31
+|time = 15:31.75
+|firstname = Tim
+|lastname = Shaw
+|namearticle = Tim Shaw (swimmer)
+|nation = USA
+|date = 25 August 1974
+|meet = US National Championships
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 32
+|time = 15:27.79
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = 25 January 1975
+|meet = New Zealand Games
+|city = Christchurch
+|country = NZL
+|ref = 
+}}
+{{Swimmingrecord
+|number = 33
+|time = 15:20.91
+|firstname = Tim
+|lastname = Shaw
+|namearticle = Tim Shaw (swimmer)
+|nation = USA
+|date = 21 June 1975
+|meet = US World Championship Trials
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 34
+|time = 15:10.89
+|firstname = Stephen
+|lastname = Holland
+|namearticle = Stephen Holland (swimmer)
+|nation = AUS
+|date = 27 February 1976
+|meet = Australian Championships
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 35
+|time = 15:06.66
+|firstname = Brian
+|lastname = Goodell
+|namearticle = Brian Goodell
+|nation = USA
+|date = 21 June 1976
+|meet = US Olympic Trials
+|city = Long Beach
+|cityarticle = Long Beach, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 36
+|time = 15:02.40
+|firstname = Brian
+|lastname = Goodell
+|namearticle = Brian Goodell
+|nation = USA
+|date = 20 July 1976
+|meet = [[Swimming at the 1976 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Montreal
+|country = CAN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 37
+|time = 14:58.27
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|nationvariant = 1955
+|date = 22 July 1980
+|meet = [[Swimming at the 1980 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Moscow
+|country = URS
+|countryvariant = 1955
+|ref = 
+}}
+{{Swimmingrecord
+|number = 38
+|time = 14:56.35
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = 13 March 1982
+|meet = Soviet Union vs East Germany Dual Meet
+|city = Moscow
+|country = URS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 39
+|time = 14:54.76
+|firstname = Vladimir
+|lastname = Salnikov
+|namearticle = Vladimir Salnikov
+|nation = URS
+|date = 22 February 1983
+|meet = Soviet Union Winter Championships
+|city = Moscow
+|country = URS
+|ref = 
+}}
+{{Swimmingrecord
+|number = -
+|time = 14:53.59
+|recordinfo = {{ref label|Housman|A}}
+|firstname = Glen
+|lastname = Housman
+|namearticle = Glen Housman
+|nation = AUS
+|date = 13 December 1989
+|meet = Australian Trials
+|city = Adelaide
+|country = AUS
+|ref = <ref>{{cite report |first= Oliver |last= Poirier-Leroy  |title= The Name that Distance Swimming Forgot Report|url=https://www.yourswimlog.com/glen-housman-name-distance-swimming-forgot/ |publisher=[[Your Swim Log]] |year= 2012 |access-date= 16 August 2020 }}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 14:50.36
+|firstname = Jörg
+|lastname = Hoffmann
+|namearticle = Jörg Hoffmann (swimmer)
+|nation = GER
+|date = 13 January 1991
+|meet = [[1991 World Aquatics Championships|World Championships]]
+|city = Perth
+|cityarticle = Perth, Western Australia
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 41
+|time = 14:48.40
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = 5 April 1992
+|meet = Australian Championships
+|city = Canberra
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 42
+|time = 14:43.48
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = 31 July 1992
+|meet = [[Swimming at the 1992 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Barcelona
+|country = ESP
+|ref = 
+}}
+{{Swimmingrecord
+|number = 43
+|time = 14:41.66
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = Kieren Perkins
+|nation = AUS
+|date = 24 August 1994
+|meet = [[Swimming at the 1994 Commonwealth Games|Commonwealth Games]]
+|city = Victoria
+|cityarticle = Victoria, British Columbia
+|country = CAN
+|ref = <ref name="BBC Hackett shatters">{{cite news |title=Hackett shatters world record |url=https://news.bbc.co.uk/sport2/hi/in_depth/2001/world_swimming_championships/1462973.stm |publisher=[[BBC Sport]] |date=2001-07-29 |access-date=2008-04-11 }}</ref>
+}}
+{{Swimmingrecord
+|number = 44
+|time = 14:34.56
+|firstname = Grant
+|lastname = Hackett
+|namearticle = Grant Hackett
+|nation = AUS
+|date = 29 July 2001
+|meet = [[Swimming at the 2001 World Aquatics Championships – Men's 1500 metre freestyle|World Championships]]
+|city = Fukuoka
+|country = JPN
+|ref = <ref name="BBC Hackett shatters"/>
+}}
+{{Swimmingrecord
+|number = 45
+|time = 14:34.14
+|firstname = Sun
+|lastname = Yang
+|namearticle = Sun Yang (swimmer)
+|nation = CHN
+|date = 31 July 2011
+|meet = [[Swimming at the 2011 World Aquatics Championships – Men's 1500 metre freestyle|World Championships]]
+|city = Shanghai
+|country = CHN
+|ref = <ref name=M2011WC>{{cite web|title=Mens 1500m Freestyle Results|url=http://www.omegatiming.com/swimming/racearchives/2011/shanghai2011/C73A1_Results%20(One%20Heat%20-%20Individual)_137_Heat1_Men_1500_Free.pdf|publisher=[[Omega SA|Omega Timing]]|date=31 July 2011|access-date=31 July 2011}}</ref>
+}}
+
+{{Swimmingrecord
+|number = 46
+|time = 14:31.02
+|recordinfo = 
+|firstname = Sun
+|lastname = Yang
+|namearticle = Sun Yang (swimmer)
+|nation = CHN
+|date = 4 August 2012
+|meet = [[Swimming at the 2012 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = London
+|country = UK
+|ref = <ref name=M2012OG>{{cite magazine|title=2012 London Olympics: Sun Yang Averts Potential False Start Disaster for Relentless World Record in 1500 Free; Ryan Cochrane Second, Ous Mellouli Third; USA’s Connor Jaeger Takes Sixth|url=https://www.swimmingworldmagazine.com/news/2012-london-olympics-sun-yang-averts-potential-false-start-disaster-for-relentless-world-record-in-1500-free-ryan-cochrane-second-ous-mellouli-third-usas-connor-jaeger-takes-sixth/|magazine=[[Swimming World]]|date=4 August 2012|access-date=13 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 47
+|time = 14:30.67
+|recordinfo = 
+|firstname = Bobby
+|lastname = Finke
+|namearticle = 
+|nation = USA
+|date = 4 August 2024
+|meet = [[Swimming at the 2024 Summer Olympics – Men's 1500 metre freestyle|Olympic Games]]
+|city = Paris
+|country = FRA
+|ref = <ref name=M2024OG>{{Cite web|title=2024 Olympic Games - Men's 1500m Freestyle Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM1500MFR-----------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923032541/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM1500MFR-----------FNL-000100--.pdf |archive-date=2024-09-23 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 14:32.40
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = 
+|nation = AUS
+|date = 2 February 1992
+|meet = Swimming Australia Grand Prix
+|city = Canberra
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 2
+|time = 14:26.52
+|firstname = Kieren
+|lastname = Perkins
+|namearticle = 
+|nation = AUS
+|date = 14 July 1993
+|meet = -
+|city = Auckland
+|country = NZL
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 14:19.55
+|firstname = Grant
+|lastname = Hackett
+|namearticle = 
+|nation = AUS
+|date = 27 September 1998
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Perth
+|cityarticle = Perth, Western Australia
+|country = AUS
+|ref = <ref name=Hackett>{{cite news |title=Australian Swimmer Hackett Breaks 1500 Meters Short-Course World Record |url=http://english.people.com.cn/english/200108/08/eng20010808_76797.html |newspaper=[[People's Daily]] |date=2001-08-08 |access-date=2008-04-11 }}</ref>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 14:10.10
+|firstname = Grant
+|lastname = Hackett
+|namearticle = 
+|nation = AUS
+|date = 7 August 2001
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Perth
+|cityarticle = Perth, Western Australia
+|country = AUS
+|ref = <ref name=Hackett/>
+}}
+{{Swimmingrecord
+|number = 5
+|time = 14:08.06
+|firstname = Gregorio
+|lastname = Paltrinieri
+|namearticle = 
+|nation = ITA
+|date = 4 December 2015
+|meet = [[2015 European Short Course Swimming Championships|European Championships]]
+|city = Netanya
+|cityarticle = 
+|country = ISR
+|ref = <ref name=M2015EC>{{cite web|title=2015 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://netanya2015.microplustiming.com/export/NU_Netanya/NU/pdf/CLS-ASM-1500FR-FINALE-ALL.pdf?x=20:47:30|work=microplustiming.com|date=4 December 2015|accessdate=7 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 6
+|time = 14:06.88
+|recordinfo = 
+|firstname = Florian
+|lastname = Wellbrock
+|namearticle = 
+|club = {{flagu|Germany}}
+|date = 21 December 2021
+|meet = [[2021 FINA World Swimming Championships (25 m) – Men's 1500 metre freestyle|World Championships]]
+|city = Abu Dhabi
+|country = UAE
+|ref = <ref name=M2021WC>{{cite web|title=2021 FINA World Championships (25 m) - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500190101F30104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 December 2021|accessdate=21 December 2021}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==Women==
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 25:06.6
+|firstname = Helen
+|lastname = Wainwright
+|namearticle = Helen Wainwright
+|nation = USA
+|date = {{Dts|format=dmy|1922|8|19}}
+|meet = -
+|city = New York City
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 2
+|time = 24:07.6
+|firstname = Ethel
+|lastname = McGary
+|namearticle = Ethel McGary
+|nation = USA
+|date = {{Dts|format=dmy|1925|12|31}}
+|meet = -
+|city = Coral Gables
+|cityarticle = Coral Gables, Florida
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 24:00.2
+|firstname = Edith
+|lastname = Mayne
+|namearticle = Edith Mayne
+|nation = GBR
+|date = {{Dts|format=dmy|1926|9|15}}
+|meet = -
+|city = Exmouth
+|country = UK
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 23:44.6
+|firstname = Martha
+|lastname = Norelius
+|namearticle = Martha Norelius
+|nation = USA
+|date = {{Dts|format=dmy|1927|7|28}}
+|meet = -
+|city = Massapequa
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 23:17.2
+|firstname = Helene
+|lastname = Madison
+|namearticle = Helene Madison
+|nation = USA
+|date = {{Dts|format=dmy|1931|7|15}}
+|meet = -
+|city = New York City
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 22:36.7
+|firstname = Grete
+|lastname = Frederiksen
+|namearticle = Grete Frederiksen
+|nation = DEN
+|date = {{Dts|format=dmy|1936|6|26}}
+|meet = -
+|city = Copenhagen
+|country = DEN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 21:45.7
+|firstname = Ragnhild
+|lastname = Hveger
+|namearticle = Ragnhild Hveger
+|nation = DEN
+|date = {{Dts|format=dmy|1938|7|3}}
+|meet = -
+|city = Helsinki
+|country = FIN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 21:10.1
+|firstname = Ragnhild
+|lastname = Hveger
+|namearticle = Ragnhild Hveger
+|nation = DEN
+|date =  {{Dts|format=dmy|1940|8|11}}
+|meet = -
+|city = Helsinki
+|country = FIN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 20:57.0
+|firstname = Ragnhild
+|lastname = Hveger
+|namearticle = Ragnhild Hveger
+|nation = DEN
+|date = {{Dts|format=dmy|1941|8|20}}
+|meet = -
+|city = Copenhagen
+|country = DEN
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 20:46.5
+|firstname = Lenie
+|lastname = de Nijs
+|namearticle = Lenie de Nijs
+|nation = NED
+|date =  {{Dts|format=dmy|1955|7|23}}
+|meet = -
+|city = Utrecht
+|cityarticle = Utrecht (city)
+|country = NED
+|ref = 
+}}
+{{Swimmingrecord
+|number = 11
+|time = 20:22.8
+|firstname = Jans
+|lastname = Koster
+|namearticle = Jans Koster
+|nation = NED
+|date = {{Dts|format=dmy|1956|8|21}}
+|meet = -
+|city = Utrecht
+|cityarticle = Utrecht (city)
+|country = NED
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 20:03.1
+|firstname = Jans
+|lastname = Koster
+|namearticle = Jans Koster
+|nation = NED
+|date = {{Dts|format=dmy|1957|7|27}}
+|meet = -
+|city = Hilversum
+|country = NED
+|ref = 
+}}
+{{Swimmingrecord
+|number = 13
+|time = 19:25.7
+|firstname = Ilsa
+|lastname = Konrads
+|namearticle = Ilsa Konrads
+|nation = AUS
+|date = {{Dts|format=dmy|1960|1|13}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 14
+|time = 19:23.6
+|firstname = Jane
+|lastname = Cederqvist
+|namearticle = Jane Cederqvist
+|nation = SWE
+|date = {{Dts|format=dmy|1960|9|8}}
+|meet = -
+|city = Uppsala
+|country = SWE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 19:02.8
+|firstname = Margareta
+|lastname = Rylander
+|namearticle = Margareta Rylander
+|nation = SWE
+|date = {{Dts|format=dmy|1961|6|27}}
+|meet = -
+|city = Uppsala
+|country = SWE
+|ref = 
+}}
+{{Swimmingrecord
+|number = 16
+|time = 18:44.0
+|firstname = Carolyn
+|lastname = House
+|namearticle = Carolyn House
+|nation = USA
+|date = {{Dts|format=dmy|1962|8|16}}
+|meet = -
+|city = Chicago
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 17
+|time = 18:30.5
+|firstname = Patty
+|lastname = Caretto
+|namearticle = Patty Caretto
+|nation = USA
+|date = {{Dts|format=dmy|1964|7|30}}
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 18
+|time = 18:23.7
+|firstname = Patty
+|lastname = Caretto
+|namearticle = Patty Caretto
+|nation = USA
+|date = {{Dts|format=dmy|1965|8|12}}
+|meet = -
+|city = Los Altos
+|cityarticle = Los Altos, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 19
+|time = 18:12.9
+|firstname = Patty
+|lastname = Caretto
+|namearticle = Patty Caretto
+|nation = USA
+|date = {{Dts|format=dmy|1966|8|21}}
+|meet = -
+|city = Lincoln
+|cityarticle = Lincoln, Nebraska
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 20
+|time = 18:11.1
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1967|7|9}}
+|meet = Santa Clara Invitational
+|city = Santa Clara
+|cityarticle = Santa Clara, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 21
+|time = 17:50.2
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1967|8|20}}
+|meet = AAU Nationals
+|city = Philadelphia
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 22
+|time = 17:31.2
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1968|8|21}}
+|meet = -
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 23
+|time = 17:19.9
+|firstname = Debbie
+|lastname = Meyer
+|namearticle = Debbie Meyer
+|nation = USA
+|date = {{Dts|format=dmy|1969|8|17}}
+|meet = AAU Nationals
+|city = Louisville
+|cityarticle = Louisville, Kentucky
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 24
+|time = 17:19.20
+|firstname = Cathy
+|lastname = Calhoun
+|namearticle = Cathy Calhoun
+|nation = USA
+|date = {{Dts|format=dmy|1971|8|28}}
+|meet = AAU Nationals
+|city = Houston
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 25
+|time = 17:00.6
+|firstname = Shane
+|lastname = Gould
+|namearticle = Shane Gould
+|nation = AUS
+|date = {{Dts|format=dmy|1971|12|12}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 26
+|time = 16:56.9
+|firstname = Shane
+|lastname = Gould
+|namearticle = Shane Gould
+|nation = AUS
+|date = {{Dts|format=dmy|1973|2|11}}
+|meet = Australian Championships
+|city = Adelaide
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 27
+|time = 16:54.14
+|firstname = Jo
+|lastname = Harshbarger
+|namearticle = Jo Harshbarger
+|nation = USA
+|date = {{Dts|format=dmy|1973|8|25}}
+|meet = USA World Championship Trials
+|city = Louisville
+|cityarticle = Louisville, Kentucky
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 28
+|time = 16:49.9
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1973|12|9}}
+|meet = Top-level meet
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 29
+|time = 16:48.2
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1974|1|9}}
+|meet = NSW State Championships
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 30
+|time = 16:43.4
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1974|7|13}}
+|meet = -
+|city = Sydney
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 31
+|time = 16:39.28
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1974|8|3}}
+|meet = Los Angeles Invitational
+|city = Los Angeles
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 32
+|time = 16:33.94
+|firstname = Jennifer
+|lastname = Turrall
+|namearticle = Jennifer Turrall
+|nation = AUS
+|date = {{Dts|format=dmy|1974|8|25}}
+|meet = AAU Nationals
+|city = Concord
+|cityarticle = Concord, California
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 33
+|time = 16:24.60
+|firstname = Alice
+|lastname = Browne
+|namearticle = Alice Browne
+|nation = USA
+|date = {{Dts|format=dmy|1977|8|21}}
+|meet = AAU Nationals
+|city = Mission Viejo
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 34
+|time = 16:14.93
+|firstname = Tracey
+|lastname = Wickham
+|namearticle = Tracey Wickham
+|nation = AUS
+|date = {{Dts|format=dmy|1978|2|8}}
+|meet = Invitational
+|city = Brisbane
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 35
+|time = 16:06.63
+|firstname = Tracey
+|lastname = Wickham
+|namearticle = Tracey Wickham
+|nation = AUS
+|date = {{Dts|format=dmy|1979|2|25}}
+|meet = Australian Championships
+|city = Perth
+|country = AUS
+|ref = 
+}}
+{{Swimmingrecord
+|number = 36
+|time = 16:04.49
+|firstname = Kim
+|lastname = Linehan
+|namearticle = Kim Linehan
+|nation = USA
+|date = {{Dts|format=dmy|1979|8|19}}
+|meet = AAU Nationals
+|city = Fort Lauderdale
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 37
+|time = 16:00.73
+|firstname = Janet
+|lastname = Evans
+|namearticle = Janet Evans
+|nation = USA
+|date = {{Dts|format=dmy|1987|7|31}}
+|meet = USA Nationals & Pan Pacific Trials
+|city = Orlando
+|cityarticle = Orlando, Florida
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 38
+|time = 15:52.10
+|firstname = Janet
+|lastname = Evans
+|namearticle = Janet Evans
+|nation = USA
+|date = {{Dts|format=dmy|1988|3|26}}
+|meet = USA Spring Nationals
+|city = Orlando
+|cityarticle = Orlando, Florida
+|country = USA
+|ref = 
+}}
+{{Swimmingrecord
+|number = 39
+|time = 15:42.54
+|firstname = Kate
+|lastname = Ziegler
+|namearticle = Kate Ziegler
+|nation = USA
+|date = {{Dts|format=dmy|2007|6|17}}
+|meet = TYR Meet of Champions
+|city = Mission Viejo
+|country = USA
+|ref = <ref name=2007WR>{{cite news |first=Steve |last=Yanda |title=Ziegler Was on the Mark Before Meet |url=https://www.washingtonpost.com/wp-dyn/content/article/2007/06/18/AR2007061801792.html |newspaper=[[The Washington Post]] |date=2007-06-19 |access-date=2008-04-16 }}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 15:36.53
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|nation = USA
+|date = {{Dts|format=dmy|2013|7|30}}
+|meet = [[Swimming at the 2013 World Aquatics Championships – Women's 1500 metre freestyle|World Championships]]
+|city = Barcelona
+|country = Spain
+|ref = <ref name=W2013WC>{{cite web|title=16th FINA World Championships - Women's 1500m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010D020101001902FFFFFFFFFFFF02|publisher=Omega Timing|date=30 July 2013|access-date=30 July 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 41
+|time = 15:34.23
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2014|6|19}}
+|meet = Woodlands Senior Invitational Meet
+|city = Shenandoah
+|cityarticle = Shenandoah, Texas
+|country = USA
+|ref = <ref name=W2014US>{{cite magazine|title=Katie Ledecky Smashes World Record During First Night of The Woodlands Senior Invite|url=https://www.swimmingworldmagazine.com/news/katie-ledecky-smashes-world-record-during-first-night-of-the-woodlands-senior-invite/|magazine=[[Swimming World Magazine]]|date=19 June 2014|access-date=20 June 2014}}</ref>
+}}
+{{Swimmingrecord
+|number = 42
+|time = 15:28.36
+|recordinfo = 
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2014|8|24}}
+|meet = [[2014 Pan Pacific Swimming Championships|Pan Pacific Championships]]
+|city = Gold Coast
+|cityarticle = Gold Coast, Queensland
+|country = AUS
+|ref = <ref name=W2014PP>{{cite magazine|title=Pan Pacific Championships: Day Four Finals Live Recap; Huge World Record for Katie Ledecky|url=http://www.swimmingworldmagazine.com/news/pan-pacific-championships-day-four-finals-live-recap/|magazine=[[Swimming World Magazine]]|date=24 August 2014|access-date=24 August 2014}}</ref>
+}}
+{{Swimmingrecord
+|number = 43
+|time = 15:27.71
+|recordinfo = h
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2015|8|3}}
+|meet = [[Swimming at the 2015 World Aquatics Championships – Women's 1500 metre freestyle|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref name=W2015WCh>{{cite web|title=16th FINA World Championships - Women's 1500m Freestyle Heats Results|url=http://omegatiming.com/File/Download?id=00010F020001001900FFFFFFFFFFFF02|publisher=Omega Timing|date=3 August 2015|access-date=3 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|number = 44
+|time = 15:25.48
+|recordinfo = 
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2015|8|4}}
+|meet = [[Swimming at the 2015 World Aquatics Championships – Women's 1500 metre freestyle|World Championships]]
+|city = Kazan
+|country = RUS
+|ref = <ref name=W2015WC>{{cite web|title=16th FINA World Championships - Women's 1500m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=00010F020001001902FFFFFFFFFFFF02|publisher=Omega Timing|date=4 August 2015|access-date=4 August 2015}}</ref>
+}}
+{{Swimmingrecord
+|number = 45
+|time = 15:20.48
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = Katie Ledecky
+|club = {{flagu|United States}}
+|date = {{Dts|format=dmy|2018|5|16}}
+|meet = TYR Pro Swim Series
+|city = Indianapolis
+|cityarticle = Indianapolis, Indiana
+|country = USA
+|ref = <ref name=2018PSS>{{cite magazine|title=Katie Ledecky's World Record Kick Starts TYR Pro Swim Series at Indianapolis|url=https://www.swimmingworldmagazine.com/news/katie-ledecky-back-to-old-ways-breaks-1500-world-record-in-season-at-1520-48/|magazine=[[Swimming World Magazine]]|date=16 May 2018|access-date=16 May 2018}}
+</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 15:43.31
+|firstname = Petra
+|lastname = Schneider
+|namearticle = Petra Schneider
+|nation = GDR
+|date = {{dts|1982|Jan|10}}
+|meet = -
+|city = Gainesville
+|cityarticle = Gainesville, Florida
+|country = USA
+|ref = <ref name=W2004French>{{cite magazine|title=France’s Laure Manaudou Breaks Last Remaining East German World Record|url=https://www.swimmingworldmagazine.com/news/frances-laure-manaudou-breaks-last-remaining-east-german-world-record/|magazine=[[Swimming World]]|author=Fred Vergnoux|date=21 November 2004|access-date=9 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 15:42.39
+|firstname = Laure
+|lastname = Manaudou
+|namearticle = Laure Manaudou
+|nation = FRA
+|date = {{dts|2004|Nov|20}}
+|meet = Regional meet
+|city = La Roche-sur-Yon
+|country = FRA
+|ref = <ref name=W2004French/>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 15:32.90
+|firstname = Kate
+|lastname = Ziegler
+|namearticle = Kate Ziegler
+|nation = USA
+|date = {{dts|2007|Oct|12}}
+|meet = Alex Athletics Jubiläums Challenge
+|city = Essen
+|country = GER
+|ref = <ref name=W2007Essen>{{cite magazine |title=Kate Ziegler breaks 800, 1500 free short course meter world records in German swim meet |url=http://www.swimmingworldmagazine.com/lane9/news/15744.asp |magazine=[[Swimming World Magazine]] |date=2007-10-12 |access-date=2008-04-19 }}</ref>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 15:28.65
+|firstname = Lotte
+|lastname = Friis
+|namearticle = Lotte Friis
+|nation = DEN
+|date = {{dts|2009|Nov|29}}
+|meet = Local Club Meet
+|city = Copenhagen
+|country = DEN
+|ref = <ref name=W2009Danish>{{cite magazine |title=Lotte Friis 1500 free short course meter world records in Danish swim meet |url=http://www.swimmingworldmagazine.com/lane9/news/22834.asp?q=%3Cfont%20color=red%3EFlash!%3C/font%3E%20Lotte%20Friis%20Breaks%20World%20Record%20in%201500%20Free |magazine=[[Swimming World Magazine]] |date=2009-11-29 |access-date=2009-11-30 }}</ref>
+}}
+{{swimmingrecord
+|number = 5
+|time = 15:26.95
+|firstname = Mireia
+|lastname = Belmonte
+|namearticle = Mireia Belmonte
+|nation = ESP
+|date = {{dts|2013|Nov|29}}
+|country = ESP
+|city = Castelló de la Plana
+|meet = Spanish Championships
+|ref = <ref name=W2013Spanish>{{cite news |title=Mireia Belmonte bate el récord mundial de 1.500 metros libre |url=http://masdeporte.as.com/masdeporte/2013/11/29/portada/1385723993_571110.html |newspaper=[[Diario AS]]|date=29 November 2013 |access-date=29 November 2013}}</ref>
+}}
+{{swimmingrecord
+|number = 6
+|time = 15:22.68
+|recordinfo = 
+|firstname = Lauren
+|lastname = Boyle
+|namearticle = Lauren Boyle 
+|club = {{flagu|New Zealand}}
+|date = {{dts|2014|Aug|9}}
+|meet = Wellington Winter Championships
+|city = Wellington
+|country = NZL
+|ref = <ref name=W2014NZ>{{cite news|title=Swimmer Lauren Boyle sets new world record|url=http://www.stuff.co.nz/sport/other-sports/10367780/Swimmer-Lauren-Boyle-sets-new-world-record|publisher=www.stuff.co.nz|date=9 August 2014|access-date=9 August 2014}}</ref>
+}}
+{{swimmingrecord
+|number = 7
+|time = 15:19.71
+|recordinfo = 
+|firstname = Mireia
+|lastname = Belmonte
+|namearticle = Mireia Belmonte 
+|club = {{flagu|Spain}}
+|date = {{dts|2014|Dec|12}}
+|meet = Spanish Championships
+|city = Sabadell
+|country = ESP
+|ref = <ref name=W2014Spanish>{{cite news|title=Swimmer Mireia Belmonte sets new world record|url=http://as.com/diarioas/2014/12/12/english/1418389765_066285.html|publisher=www.as.com|date=12 December 2014|access-date=12 December 2014|archive-date=13 December 2014|archive-url=https://web.archive.org/web/20141213084204/http://as.com/diarioas/2014/12/12/english/1418389765_066285.html|url-status=dead}}</ref>
+}}
+{{swimmingrecord
+|number = 8
+|time = 15:18.01
+|recordinfo = 
+|firstname = Sarah
+|lastname = Köhler
+|namearticle = 
+|club = {{flagu|Germany}}
+|date = {{dts|2019|Nov|16}}
+|meet = German Championships
+|city = Berlin
+|country = GER
+|ref = <ref name=W2019German>{{cite web|title=2019 German Championships - Women's 1500m Freestyle Results|url=https://www.titanium-sportservice.de/data/competition/2019-11-14_286/protocol/pk_wk131_0.pdf|work=titanium-sportservice.de|date=16 November 2019|access-date=17 November 2019}}</ref>
+}}
+{{swimmingrecord
+|number = 9
+|time = 15:08.24
+|recordinfo = 
+|firstname = Katie
+|lastname = Ledecky
+|namearticle = 
+|club = {{flagu|United States}}
+|date = {{dts|2022|Oct|29}}
+|meet = FINA World Cup
+|city = Toronto
+|country = CAN
+|ref = <ref name=W2022Toronto>{{cite web|title=2022 FINA World Cup (Toronto) - Women's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011700080201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 October 2022|access-date=30 October 2022}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''1500 m freestyle times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''1500 m freestyle times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''1500 m freestyle times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 1500 m freestyle times''
+|}
+
+===Men long course===
+*Correct as of August 2025<ref>{{cite web|title=Men's 1500m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=1500&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=11 July 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 14:30.67
+| [[Bobby Finke]]
+| {{USA}}
+| 4 August 2024
+| [[Paris]]
+| <ref name=M2024OG/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 14:31.02
+| [[Sun Yang]]
+| {{CHN}}
+| 4 August 2012
+| [[London]]
+| <ref name=M2012OG/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 14:31.54
+| [[Ahmed Hafnaoui]]
+| {{TUN}}
+| 30 July 2023
+| [[Fukuoka]]
+| <ref name=M2023WC>{{cite web|title=2023 World Aquatics Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010101F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2023|access-date=30 July 2023}}</ref>
+|-
+| align=center |
+| align=center | 4
+| 14:31.59
+|''Finke #2''
+| 
+| 30 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 5
+| 14:32.80
+| [[Gregorio Paltrinieri]]
+| {{ITA}}
+| 25 June 2022
+| [[Budapest]]
+| <ref name=M2022WC>{{cite web|url=https://www.omegatiming.com/File/00011700000101F30104FFFFFFFFFF01.pdf|title=19th FINA World Championships - Men's 1500m Freestyle Final Results|publisher=omegatiming.com|date=25 June 2022}}</ref>
+|-
+| rowspan="2" |
+| align=center | 6
+| 14:33.10
+|''Paltrinieri #2''
+| rowspan="2" |
+| 13 August 2020
+| [[Rome]]
+| <ref>{{cite web|title=2020 Sette Colli Trophy - Men's 1500m Freestyle Results|url=http://fin2020.microplustiming.com/export/NU_2020_08_11-13_Roma/NU/pdf/CLS-ASM-1500SL-TIM-ALL.pdf|publisher=microplustiming.com|date=13 August 2020|access-date=13 August 2020}}</ref>
+|-
+| align=center | 7
+| 14:34.04
+|''Paltrinieri #3''
+| 18 May 2016
+|  London
+| <ref>{{cite web|title=2016 European Championships - Men's 1500m Freestyle Results|url=http://london2016.microplustiming.com/Elite/export/Elite_NU_London2016/NU/pdf/CLS-ASM-1500SL-FIN-ALL.pdf|publisher=MicroPlus Timing|date=18 May 2016|access-date=19 May 2016|archive-url=https://web.archive.org/web/20160602233755/http://london2016.microplustiming.com/Elite/export/Elite_NU_London2016/NU/pdf/CLS-ASM-1500SL-FIN-ALL.pdf|archive-date=2 June 2016|url-status=dead}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 8
+| 14:34.07
+| [[Daniel Wiffen]]
+| {{IRL}}
+| 18 February 2024
+| [[Doha]]
+| <ref>{{cite web|title=2024 World Aquatics Championships - Men's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011800000101F30104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 February 2024|access-date=18 February 2024}}</ref>
+|-
+|
+| align=center | 9
+| 14:34.14
+|''Sun #2''
+|
+| 31 July 2011
+| [[Shanghai]]
+| <ref name=M2011WC/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 10
+| 14:34.41
+| [[Ahmed Jaouadi]]
+| {{TUN}}
+| 3 August 2025
+| [[Singapore]]
+| <ref name=M2025WC>{{cite web|title=2025 World Aquatics Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010101F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=3 August 2025|access-date=3 August 2025}}</ref>
+|-
+|
+| align=center | 11
+| 14:34.55
+|''Paltrinieri #4''
+|
+| 4 August 2024
+| Paris
+| <ref name=M2024OG/>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 12
+| 14:34.56
+| [[Grant Hackett]]
+| {{AUS}}
+| 29 July 2001
+| Fukuoka
+| <ref name="BBC Hackett shatters"/>
+|-
+| align=center |
+| align=center | 13
+| 14:34.57
+|''Paltrinieri #5''
+| 
+| 13 August 2016
+| [[Rio de Janeiro]]
+| <ref name=M2016OG>{{cite web|url=https://www.rio2016.com/en/swimming-standings-sw-mens-1500m-freestyle |title=2016 Olympic Games - Men's 1500m Freestyle |publisher=[[Rio 2016]] |accessdate=5 August 2016 |url-status=dead |archiveurl=https://web.archive.org/web/20160806085854/https://www.rio2016.com/en/swimming-standings-sw-mens-1500m-freestyle |archivedate= 6 August 2016 }}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 14
+| 14:34.89
+| [[Florian Wellbrock]]
+| {{GER}}
+| 21 April 2023
+| [[Berlin]]
+| <ref>{{cite web|title=2023 Berlin Open - Men's 1500m Freestyle Results|url=https://berlinswimopen.de/event/proto_wk112.pdf|publisher=berlinswimopen.de|date=21 April 2023|access-date=21 April 2023}}</ref>
+|-
+| rowspan="2" |
+| align=center | 15
+| 14:34.91
+|''Wiffen #2''
+| rowspan="2" |
+| 14 April 2023
+| [[Stockholm]]
+| <ref>{{cite web|title=2023 Stockholm Open - Men's 1500m Freestyle Results|url=https://livetiming.dk/results.php?cid=7162&session=6&round=1&event=17&wg=2|publisher=livetiming.dk|date=14 April 2023|accessdate=14 April 2023}}</ref>
+|-
+| align=center | 16
+| 14:35.43
+|''Sun #3''
+| 18 November 2010
+| [[Guangzhou]]
+| <ref>{{cite magazine|title=Asian Games: Sun Yang Rattles Grant Hackett’s World Record, Ye Shiwen Shines|url=https://www.swimmingworldmagazine.com/news/asian-games-sun-yang-rattles-grant-hacketts-world-record-ye-shiwen-shines/|access-date=19 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 17
+| 14:35.69
+| [[Sven Schwarz (swimmer)|Sven Schwarz]]
+| {{GER}}
+| 3 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|-
+| rowspan="2" |
+| align=center | 18
+| 14:35.79
+|''Wiffen #3''
+| rowspan="2" |
+| 11 August 2023
+| [[Dublin]]
+| <ref name=2023U23>{{cite magazine|title=2023 LEN U23 Championships: Day 1 Finals Live Recap|url=https://swimswam.com/2023-len-u23-championships-day-1-finals-live-recap/|magazine=[[SwimSwam]]|author=James Sutherland|date=11 August 2023|access-date=13 August 2023}}</ref>
+|-
+| align=center | 19
+| 14:35.85
+|''Paltrinieri #6''
+| 30 July 2017
+| Budapest
+| <ref>{{cite web|url=https://www.omegatiming.com/File/000111010A0101F304FFFFFFFFFFFF01.pdf|title=17th FINA World Championships - Men's 1500m Freestyle Final Results|publisher=omegatiming.com|date=30 July 2017|access-date=19 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 20
+| 14:36.10
+| [[Mykhailo Romanchuk]]
+| {{UKR}}
+| 16 August 2022
+| Rome
+| <ref>{{cite web|title=2022 European Championships - Men's 1500m Freestyle Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM1500MFR-----------FNL---------_73A2%201.0.pdf?x=01:14:48|work=Microplus Informatica|date=16 August 2022|access-date=28 August 2022}}</ref>
+|-
+| rowspan="5" |
+| align=center | 21
+| 14:36.15
+|''Wellbrock #2''
+| rowspan="5" |
+| 5 August 2018
+| [[Glasgow]]
+| <ref name=M2018EC>{{cite web|title=2018 European Championships - Men's 1500m Freestyle Final Results|url=http://glasgow2018.microplustiming.com/export/NU_GLASGOW2018/NU/pdf/SWMM1500MFR-----------FNL-000100--_73A1%201.0.pdf|work=Microplus Informatica|date=5 August 2018|access-date=9 May 2025}}</ref>
+|-
+| align=center | 22
+| 14:36.25
+|''Wellbrock #3''
+| 4 May 2025
+| Berlin
+| <ref name=M2025Berlin>{{cite magazine|title=Wellbrock, Schwarz & Klemet All Swim 14:3x to Close German Championships|url=https://swimswam.com/wellbrock-schwarz-klemet-swim-lights-out-1500free-to-close-german-championships/|magazine=[[SwimSwam]]|author=Retta Race|date=4 May 2025|access-date=5 May 2025}}</ref>
+|-
+| align=center | 23
+| 14:36.45
+|''Wellbrock #4''
+| 18 April 2021
+| Berlin
+| <ref>{{cite magazine|title=Florian Wellbrock Flirts With German Record in 1500 Freestyle; Looks Strong For Tokyo|url=https://www.swimmingworldmagazine.com/news/florian-wellbrock-flirts-with-german-record-in-1500-freestyle-looks-strong-for-tokyo/|magazine=[[Swimming World]]|author=John Lohn|date=18 April 2021|access-date=19 April 2025}}</ref>
+|-
+| align=center | 24
+| 14:36.56
+|''Wellbrock #5''
+| 28 July 2019
+| [[Gwangju]]
+| <ref>{{cite web|title=18th FINA World Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011301070101F304FFFFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2019|access-date=28 July 2019}}</ref>
+|-
+| align=center | 25
+| 14:36.60
+|''Finke #3''
+| 3 August 2025
+| Singapore
+| <ref name=M2025WC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 11
+| rowspan="17" |
+| rowspan="2" | 14:37.28
+| [[Oussama Mellouli]]
+| {{TUN}}
+| 2 August 2009
+| Rome
+| <ref>{{cite web|title=13th FINA World Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B006A000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=2 August 2009|access-date=28 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Samuel Short]]
+| {{AUS}}
+| 30 July 2023
+| Fukuoka
+| <ref name=M2023WC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 14:39.03
+| [[Oliver Klemet]]
+| {{GER}}
+| 4 May 2025
+| Berlin
+| <ref name=M2025Berlin/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 14:39.48
+| [[Connor Jaeger]]
+| {{USA}}
+| 13 August 2016
+| Rio de Janeiro
+| <ref name=M2016OG/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 14:39.54
+| [[Mack Horton]]
+| {{AUS}}
+| 13 April 2016
+| [[Adelaide]]
+| <ref>{{cite web|title=2016 Australian Championships - Men's 1500m Freestyle Final|url=http://liveresults.swimming.org.au/SAL/2016OPEN/160407F058.htm|publisher=[[Swimming Australia]]|date=14 April 2016|access-date=14 April 2016|archive-url=https://web.archive.org/web/20160417145214/http://liveresults.swimming.org.au/SAL/2016OPEN/160407F058.htm|archive-date=17 April 2016|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 14:39.63
+| [[Ryan Cochrane (swimmer)|Ryan Cochrane]]
+| {{CAN}}
+| 4 August 2012
+| London
+| <ref name=M2012OG/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 14:40.28
+| [[Lukas Märtens]]
+| {{GER}}
+| 25 March 2022
+| [[Magdeburg]]
+| <ref>{{cite news|title=14:40! Weltklasse-Zeit von Lukas Märtens – Auch Isabel Gose knackt WM-Norm|url=https://swimsportnews.de/11917-14-40-weltklasse-zeit-von-lukas-maertens-auch-isabel-gose-knackt-wm-norm|website=swimsportnews.de|language=German|date=25 March 2022|access-date=27 March 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 14:40.86
+| [[Gabriele Detti]]
+| {{ITA}}
+| 13 August 2016
+| Rio de Janeiro
+| <ref name=M2016OG/>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 14:40.91
+| [[Dávid Betlehem]]
+| {{HUN}}
+| 4 August 2024
+| Paris
+| <ref name=M2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 14:41.13
+| [[Yuriy Prilukov]]
+| {{RUS}}
+| 15 August 2008
+| [[Beijing]]
+| <ref>{{cite magazine|title=Olympics, Swimming: Grant Hackett Leads 1500 Free Qualifying With Olympic Standard|url=https://www.swimmingworldmagazine.com/news/olympics-swimming-grant-hackett-leads-1500-free-qualifying-with-olympic-standard/|magazine=[[Swimming World]]|author=John Lohn|date=15 August 2008|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 14:41.22
+| [[Kuzey Tunçelli]]
+| {{TUR}}
+| 4 August 2024
+| Paris
+| <ref name=M2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 14:41.66
+| [[Kieren Perkins]]
+| {{AUS}}
+| 24 August 1994
+| [[Victoria, British Columbia|Victoria]]
+| <ref name="BBC Hackett shatters"/>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 14:44.66
+| [[David Aubry]]
+| {{FRA}}
+| 4 August 2024
+| Paris
+| <ref name=M2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 14:45.03
+| [[Jordan Wilimovsky]]
+| {{USA}}
+| 13 August 2016
+| Rio de Janeiro
+| <ref name=M2016OG/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 14:45.29
+| [[Larsen Jensen]]
+| {{USA}}
+| 13 August 2004
+| [[Athens]]
+| <ref>{{cite magazine|title=Hackett Sets Olympic Record in 1500, Just Nips Jensen, Davies|url=https://www.swimmingworldmagazine.com/news/hackett-sets-olympic-record-in-1500-just-nips-jensen-davies|magazine=[[Swimming World]]|author=Phillip Whitten|date=13 August 2004|access-date=19 April 2025}}</ref>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 1500m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=1500&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=8 December 2023}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 14:06.88
+| [[Florian Wellbrock]]
+| {{GER}}
+| 21 December 2021
+| [[Abu Dhabi]]
+| <ref name=M2021WC/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 14:08.06
+| [[Gregorio Paltrinieri]]
+| {{ITA}}
+| 4 December 2015
+| [[Netanya]]
+| <ref name=M2015EC/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 14:09.11
+| [[Daniel Wiffen]]
+| {{IRL}}
+| 7 December 2023
+| [[Otopeni]]
+| <ref name=M2023EC>{{cite web|title=2023 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600090101F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=7 December 2023|access-date=8 December 2023}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 14:09.14
+| [[Mykhailo Romanchuk]]
+| {{UKR}}
+| 16 December 2018
+| [[Hangzhou]]
+| <ref name=M2018WC>{{cite web|title=14th FINA World Championships (25 m) - Men's 1500m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000112010C0101F304FFFFFFFFFFFF01|publisher=Omega Timing|date=16 December 2018|access-date=16 December 2018}}</ref>
+|-
+| rowspan="2" |
+| align=center | 5
+| 14:09.87
+|''Paltrinieri #2''
+| rowspan="2" |
+| 16 December 2018
+| Hangzhou
+| <ref name=M2018WC/>
+|-
+| align=center | 6
+| 14:09.88
+|''Wellbrock #2''
+| 4 November 2021
+| [[Kazan]]
+| <ref name=M2021EC>{{cite web|title=2021 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM1500MFR-----------FNL-000100--_73A1%201.0.pdf?x=14:14:32|publisher=microplustiming.com|date=4 November 2021|access-date=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 7
+| 14:10.10
+| [[Grant Hackett]]
+| {{AUS}}
+| 7 August 2001
+| [[Perth]]
+| <ref name=Hackett/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 8
+| 14:10.94
+| [[Ahmed Hafnaoui]]
+| {{TUN}}
+| 21 December 2021
+| Abu Dhabi
+| <ref name=M2021WC/>
+|-
+| rowspan="6" |
+| align=center | 9
+| 14:11.47
+|''Romanchuk #2''
+| rowspan="6" |
+| 21 December 2021
+| Abu Dhabi
+| <ref name=M2021WC/>
+|-
+| align=center | 10
+| 14:13.07
+|''Paltrinieri #3''
+| 4 November 2021
+| Kazan
+| <ref name=M2021EC/>
+|-
+| align=center | 11
+| 14:13.96
+|''Wiffen #2''
+| 4 December 2025
+| [[Lublin]]
+| <ref name=M2025EC>{{cite web|title=2025 European Championships (25m) - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0101F30104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 December 2025|accessdate=4 December 2025}}</ref>
+|-
+| align=center | 12
+| 14:14.45
+|''Wiffen #3''
+| 10 December 2022
+| [[Glasgow]]
+| <ref>{{cite magazine|title=Daniel Wiffen Rocks 14:14.45 SCM 1500 Freestyle As 6th Fastest Man Ever|url=https://swimswam.com/daniel-wiffen-rocks-14-14-45-scm-1500-freestyle-as-6th-fastset-man-ever/|magazine=[[SwimSwam]]|author=Retta Race|date=10 December 2022|access-date=13 December 2022}}</ref>
+|-
+| align=center | 13
+| 14:14.59
+|''Romanchuk #3''
+| 15 December 2017
+| [[Copenhagen]]
+| <ref name=M2017EC>{{cite web|title=2017 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASM-1500FR-FIN-ALL.pdf|publisher=microplustiming.com|date=4 November 2021|access-date=23 April 2025}}</ref>
+|-
+| align=center | 14
+| 14:15.49
+|''Romanchuk #4''
+| 22 October 2016
+| [[Singapore]]
+| <ref>{{cite web|title=2016 FINA World Cup (Singapore) - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/000110000A00000502FFFFFFFFFFFF02.pdf|work=Omega Timing|date=22 October 2016|access-date=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 7
+| rowspan="2" align=center | 15
+| rowspan="2" | 14:15.51
+| [[Park Tae-hwan]]
+| {{KOR}}
+| 11 December 2016
+| [[Windsor, Ontario|Windsor]]
+| <ref>{{cite web|title=13th FINA World Championships (25 m) - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/000110000D00000502FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=11 December 2016|access-date=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| [[Zalán Sárkány]]
+| {{HUN}}
+| 4 December 2025
+| Lublin
+| <ref name=M2025EC/>
+|-
+| 
+| align=center | 17
+| 14:16.10
+|''Paltrinieri #4''
+| 
+| 7 December 2014
+| [[Doha]]
+| <ref name=M2014WC>{{cite web|title=12th FINA World Championships (25 m) - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00010E010D00000502FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=7 December 2014|access-date=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 18
+| 14:16.13
+| [[Yuriy Prilukov]]
+| {{RUS}}
+| 9 December 2006
+| [[Helsinki]]
+| <ref>{{cite web|title=2006 European Short Course Championships - Men's 1500m Freestyle Results|url=http://www.omegatiming.com/File/Download?id=00010600003A000000FFFFFFFFFFFF01|publisher=Omega Timing|date=9 December 2006|access-date=3 August 2017}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 19
+| 14:16.40
+| [[Ahmed Jaouadi]]
+| {{TUN}}
+| 10 December 2024
+| [[Budapest]]
+| <ref name=M2024WC>{{cite web|title=2024 World Aquatics Championships (25m) - Men's 1500 Freestyle Final Results|url=https://www.omegatiming.com/File/00011800080101F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2024|access-date=11 December 2024}}</ref>
+|-
+| rowspan="3" |
+| align=center | 20
+| 14:16.88
+|''Paltrinieri #5''
+| rowspan="3" |
+| 13 December 2022
+| [[Melbourne]]
+| <ref name=M2022WC(25)>{{cite web|title=2022 FINA World Championships (25m) - Men's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011700030101F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=13 December 2022|access-date=19 December 2022}}</ref>
+|-
+| align=center | 21
+| 14:17.14
+|''Paltrinieri #6''
+| 6 December 2019
+| Glasgow
+| <ref name=M2019EC>{{cite web|title=2019 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM1500MFR-----------FNL-000100--_73A1%201.0.pdf?x=14:32:45|publisher=microplustiming.com|date=6 December 2019|access-date=23 April 2025}}</ref>
+|-
+| align=center | 22
+| 14:17.27
+|''Wellbrock #3''
+| 10 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 23
+| 14:18.00
+| [[Gabriele Detti]]
+| {{ITA}}
+| 4 December 2015
+| Netanya
+| <ref name=M2015EC/>
+|-
+|
+| align=center | 24
+| 14:18.10
+|''Paltrinieri #7''
+|
+| 5 December 2019
+| Glasgow
+| <ref>{{cite web|title=2019 European Short Course Championships - Men's 1500m Freestyle Heats Results|url=https://glasgow2019.microplustiming.com/export/NU_GLASGOW2019/NU/pdf/SWMM1500MFR-----------HEAT--------_73A2%201.0.pdf?x=14:34:55|publisher=microplustiming.com|date=5 December 2019|access-date=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 12
+| align=center | 25
+| 14:18.15
+| [[Henrik Christiansen (swimmer)|Henrik Christiansen]]
+| {{NOR}}
+| 6 December 2019
+| Glasgow
+| <ref name=M2019EC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| rowspan="14" |
+| 14:18.79
+| [[Oussama Mellouli]]
+| {{TUN}}
+| 7 December 2014
+| Doha
+| <ref name=M2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 14:19.29
+| [[Connor Jaeger]]
+| {{USA}}
+| 12 December 2015
+| [[Indianapolis]]
+| <ref>{{cite web|title=2015 Duel in the Pool - Men's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00010F020D00000502FFFFFFFFFFFF02.pdf|work=Omega Timing|date=12 December 2015|access-date=23 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 14:19.62
+| [[Damien Joly]]
+| {{FRA}}
+| 13 December 2022
+| Melbourne
+| <ref name=M2022WC(25)/>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 14:19.65
+| [[Dávid Betlehem]]
+| {{HUN}}
+| 4 December 2025
+| Lublin
+| <ref name=M2025EC/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 14:20.44
+| [[Jan Wolfgarten]]
+| {{GER}}
+| 12 December 2009
+| [[Istanbul]]
+| <ref>{{cite web|title=2009 European Short Course Championships - Men's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00010901003C000000FFFFFFFFFFFF01.pdf|work=Omega Timing|date=12 December 2009|access-date=23 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 14:20.64
+| [[Kuzey Tunçelli]]
+| {{TUR}}
+| 10 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 14:21.78
+| [[David Aubry]]
+| {{FRA}}
+| 7 December 2023
+| Otopeni
+| <ref name=M2023EC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 14:22.29
+| [[Sven Schwarz (swimmer)|Sven Schwarz]]
+| {{GER}}
+| 10 December 2024
+| Budapest
+| <ref name=M2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 14:22.47
+| [[Zhang Lin (swimmer)|Zhang Lin]]
+| {{CHN}}
+| 21 February 2009
+| [[Tokyo]]
+| <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=http://swim.seiko.co.jp/2008/S70702/ranking/21R020.pdf|publisher=swim.seiko.co.jp|date=21 February 2009|access-date=27 December 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 14:22.77
+| [[David Johnston (swimmer)|David Johnston]]
+| {{USA}}
+| 27 August 2022
+| [[Sydney]]
+| <ref>{{cite web|title=2022 Australian Championships (25m) - Men's 1500m Freestyle Results|url=https://liveresults.swimming.org.au/sal/2022SC/220824F066.htm|work=swimming.org.au|date=27 August 2022|accessdate=9 September 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 14:23.26
+| [[Kazushi Imafuku]]
+| {{JPN}}
+| 29 March 2025
+| Tokyo
+| <ref>{{cite web|title=Men's 1500m Freestyle Final Results|url=https://swim.seiko.co.jp/2024/S70612/ranking/03R179.pdf|publisher=seiko.co.jp|date=29 March 2025|accessdate=29 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 14:23.35
+| [[Ryan Cochrane (swimmer)|Ryan Cochrane]]
+| {{CAN}}
+| 7 December 2014
+| Doha
+| <ref name=M2014WC/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 14:23.98
+| [[Victor Johansson]]
+| {{SWE}}
+| 3 December 2025
+| Lublin
+| <ref>{{cite web|title=2025 European Championships (25m) - Men's 1500m Freestyle Heats Results|url=https://www.omegatiming.com/File/000119000A0101F30101FFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 December 2025|accessdate=4 December 2025}}</ref>
+|}
+
+===Women long course===
+*Correct as of July 2025<ref>{{cite web|title=Women's 1500m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=1500&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=15 September 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 15:20.48
+| [[Katie Ledecky]]
+| {{USA}}
+| 16 May 2018
+| [[Indianapolis]]
+| <ref name= 2018PSS/>
+|-
+| rowspan="11" | 
+| align=center | 2
+| 15:23.21
+|''Ledecky #2''
+| rowspan="11" | 
+| 14 January 2026
+| [[Austin, Texas|Austin]]
+| <ref>{{cite web|title=2026 Pro Swim Series (Austin) - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011A00000201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=14 January 2026|access-date=14 January 2026}}</ref>
+|-
+| align=center | 3
+| 15:24.51
+|''Ledecky #3''
+| 30 April 2025
+| [[Fort Lauderdale, Florida|Fort Lauderdale]]
+| <ref>{{cite web|title=2025 TYR Pro Swim Series (Fort Lauderdale) - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900030201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 April 2025|access-date=30 April 2025}}</ref>
+|-
+| align=center | 4
+| 15:25.48
+|''Ledecky #4''
+| 4 August 2015
+| [[Kazan]]
+| <ref name=W2015WC/>
+|-
+| align=center | 5
+| 15:26.27
+|''Ledecky #5''
+| 25 July 2023
+| [[Fukuoka]]
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 July 2023|access-date=25 July 2023}}</ref>
+|-
+| align=center | 6
+| 15:26.44
+|''Ledecky #6''
+| 29 July 2025
+| [[Singapore]]
+| <ref name=W2025WC>{{cite web|title=2025 World Aquatics Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=29 July 2025|access-date=29 July 2025}}</ref>
+|-
+| align=center | 7
+| 15:27.71
+|''Ledecky #7'' 
+| 3 August 2015
+| Kazan
+| <ref name=W2015WCh/>
+|-
+| align=center | 8
+| 15:28.36
+|''Ledecky #8''
+| 24 August 2014
+| [[Gold Coast, Queensland|Gold Coast]]
+| <ref name=W2014PP/>
+|-
+| align=center | 9
+| 15:29.51
+|''Ledecky #9''
+| 4 March 2020
+| [[Des Moines]]
+| <ref>{{cite magazine|title=Ledecky Hits Fifth-best 1500 Time Ever to Kick Off Pro Swim Series – Des Moines|url=https://swimswam.com/ledecky-hits-fifth-best-1500-time-ever-to-kick-off-pro-swim-series-des-moines/|magazine=[[SwimSwam]]|author=Karl Ortegon|date=4 March 2020|access-date=7 May 2025}}</ref>
+|-
+| align=center | 10
+| 15:29.64
+|''Ledecky #10''
+| 1 July 2023
+| Indianapolis
+| <ref>{{cite web|title=2023 US National Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600030201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=1 July 2023|access-date=23 April 2025}}</ref>
+|-
+| align=center | 11
+| 15:30.02
+|''Ledecky #11''
+| 31 July 2024
+| [[Paris]]
+| <ref name=W2024OG>{{Cite web |title=2024 Olympic Games - Women's 1500m Freestyle Final Results|url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW1500MFR-----------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815171100/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW1500MFR-----------FNL-000100--.pdf |archive-date=2024-08-15 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+| align=center | 12
+| 15:30.15
+|''Ledecky #12''
+| 20 June 2022
+| [[Budapest]]
+| <ref name=W2022WC>{{cite web|title=19th FINA World Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700000201F30104FFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=20 June 2022|access-date=20 September 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 13
+| 15:31.79
+| [[Simona Quadarella]]
+| {{ITA}}
+| 29 July 2025
+| Singapore
+| <ref name=W2025WC/>
+|-
+| rowspan="12" | 
+| align=center | 14
+| 15:31.82
+|''Ledecky #13''
+| rowspan="12" | 
+| 25 July 2017
+| Budapest
+| <ref name=W2017WC>{{cite web|title=17th FINA World Championships - Women's 1500m Freestyle Final Results|url=http://omegatiming.com/File/Download?id=000111010A0201F304FFFFFFFFFFFF01|publisher=Omega Timing|date=25 July 2017|access-date=26 July 2017|archive-url=https://web.archive.org/web/20170727181123/http://omegatiming.com/file/download/?id=000111010A0201F304FFFFFFFFFFFF01|archive-date=27 July 2017|url-status=dead}}</ref>
+|-
+| align=center | 15
+| 15:34.23
+|''Ledecky #14''
+| 19 June 2014
+| [[Shenandoah, Texas|Shenandoah]]
+| <ref name=W2014US/>
+|-
+| align=center | 16
+| 15:35.35
+|''Ledecky #15''
+| 26 July 2021
+| [[Tokyo]]
+| <ref name=W2020OGh>{{cite web|title=2020 Olympic Games - Women's 1500m Freestyle Heats Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW1500MFR-----------HEAT--------.pdf|publisher=olympics.com|date=28 July 2021|accessdate=5 August 2021|archive-date=26 July 2021|archive-url=https://web.archive.org/web/20210726144343/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW1500MFR-----------HEAT--------.pdf|url-status=dead}}</ref>
+|-
+| align=center | 17
+| 15:35.65
+|''Ledecky #16''
+| 1 June 2017
+| [[Santa Clara, California|Santa Clara]]
+| <ref>{{cite magazine|title=Ledecky Now Owns 6 Fastest 1500s in History After 15:35 in Santa Clara|url=https://swimswam.com/ledecky-now-owns-6-fastest-1500s-history-1535-santa-clara/|magazine=[[SwimSwam]]|author=James Sutherland|date=1 June 2017|access-date=7 May 2025}}</ref>
+|-
+| align=center | 18
+| 15:35.98
+|''Ledecky #17''
+| 7 December 2019
+| [[Greensboro, North Carolina|Greensboro]]
+| <ref>{{cite web|title=2019 US Open - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/000113010D0201F304FFFFFFFFFFFF01.pdf|work=Omega Timing|date=7 December 2019|access-date=23 April 2025}}</ref>
+|-
+| align=center | 19
+| 15:36.53
+|''Ledecky #18''
+| 30 July 2013
+| [[Barcelona]]
+| <ref name=W2013WC/>
+|-
+| align=center | 20
+| 15:36.68
+|''Ledecky #19''
+| 28 July 2025
+| Singapore
+| <ref>{{cite web|title=2025 World Aquatics Championships - Women's 1500m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011900010201F30101FFFFFFFFFF01.pdf|work=Omega Timing|date=28 July 2025|access-date=28 July 2025}}</ref>
+|-
+| align=center | 21
+| 15:36.76
+|''Ledecky #20''
+| 7 June 2025
+| Indianapolis
+| <ref>{{cite web|date=7 June 2025|title=2025 US National Championships - Women's 1500m Freestyle Results |url=https://www.omegatiming.com/File/00011900040201F30104FFFFFFFFFF01.pdf|access-date=7 June 2025|work=Omega Timing}}</ref>
+|-
+| align=center | 22
+| 15:36.87
+|''Ledecky #21''
+| 16 February 2025
+| [[Plantation, Florida|Plantation]]
+| <ref>{{cite magazine|title=Katie Ledecky Logs 15:36.87 1500 Free to Close Southern Zone South Sectionals|url=https://swimswam.com/katie-ledecky-logs-1536-87-1500-free-to-close-southern-zone-south-sectionals/|magazine=[[SwimSwam]]|author=James Sutherland|date=17 February 2025|access-date=29 April 2025}}</ref>
+|-
+| align=center | 23
+| 15:37.34
+|''Ledecky #22''
+| 28 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|-
+| align=center | 24
+| 15:37.35
+|''Ledecky #23''
+| 19 June 2024
+| Indianapolis
+| <ref>{{cite web|title=2024 US Olympic Trials - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800030201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 June 2024|access-date=23 April 2025}}</ref>
+|-
+| align=center | 25
+| 15:37.99
+|''Ledecky #24''
+| 14 January 2023
+| [[Knoxville, Tennessee|Knoxville]]
+| <ref>{{cite magazine|title=TYR Pro Series – Day Four Women’s Finals: Katie Ledecky Storms to 14th-Fastest Time in 1500 Freestyle History; Only She’s Been Faster|url=https://www.swimmingworldmagazine.com/news/tyr-pro-series-day-four-womens-finals-katie-ledecky-storms-to-14th-fastest-time-in-1500-freestyle-history-only-shes-been-faster/|author=John Lohn|date=14 January 2023|access-date=7 May 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 3
+| rowspan="23" |
+| 15:38.88
+| [[Lotte Friis]]
+| {{DEN}}
+| 30 July 2013
+| Barcelona
+| <ref name=W2013WC/>
+|- bgcolor=CCFFCC
+| align=center | 4
+| 15:39.14
+| [[Lani Pallister]]
+| {{AUS}}
+| 14 June 2025
+| [[Adelaide]]
+| <ref>{{cite web|title=2025 Australian Trials - Women's 1500m Freestyle Results|url=https://liveresults.swimming.org.au/sal/2025Trials/250609F058.htm|publisher=[[Swimming Australia]]|date=14 June 2025|access-date=6 July 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 5
+| 15:40.14
+| [[Lauren Boyle]]
+| {{NZL}}
+| 4 August 2015
+| Kazan
+| <ref name=W2015WC/>
+|- bgcolor=CCFFCC
+| align=center | 6
+| 15:40.35
+| [[Anastasiia Kirpichnikova]]
+| {{FRA}}{{ref label|AK|B}}
+| 31 July 2024
+| Paris
+| <ref name=W2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 7
+| 15:41.16
+| [[Isabel Gose]]
+| {{GER}}
+| 31 July 2024
+| Paris
+| <ref name=W2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 8
+| 15:41.41
+| [[Erica Sullivan (swimmer)|Erica Sullivan]]
+| {{USA}}
+| 28 July 2021
+| Tokyo
+| <ref name=W2020OG>{{cite web|title=2020 Olympic Games - Women's 1500m Freestyle Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW1500MFR-----------FNL-000100--.pdf|publisher=olympics.com|date=28 July 2021|accessdate=5 August 2021|archive-date=21 August 2021|archive-url=https://web.archive.org/web/20210821105541/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW1500MFR-----------FNL-000100--.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 9
+| 15:41.49
+| [[Wang Jianjiahe]]
+| {{CHN}}
+| 26 July 2021
+| Tokyo
+| <ref name=W2020OGh/>
+|- bgcolor=CCFFCC
+| align=center | 10
+| 15:42.54
+| [[Kate Ziegler]]
+| {{USA}}
+| 17 June 2007
+| [[Mission Viejo, California|Mission Viejo]]
+| <ref name= 2007WR/>
+|- bgcolor=CCFFCC
+| align=center | 11
+| 15:42.91
+| [[Sarah Köhler]]
+| {{GER}}
+| 28 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 15:43.94
+| [[Li Bingjie]]
+| {{CHN}}
+| 19 May 2025
+| [[Shenzhen]]
+| <ref>{{cite magazine|title=Pan Zhanle, Li Bingjie Show Freestyle Prowess on Day Three of Chinese Nationals|url=https://swimswam.com/pan-zhanle-li-bingjie-show-freestyle-prowess-on-day-three-of-chinese-nationals/|magazine=[[SwimSwam]]|author=Retta Race|date=19 May 2025|access-date=19 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 15:44.89
+| [[Katie Grimes]]
+| {{USA}}
+| 20 June 2022
+| Budapest
+| <ref name=W2022WC/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 15:44.93
+| [[Alessia Filippi]]
+| {{ITA}}
+| 28 July 2009
+| [[Rome]]
+| <ref>{{cite web|title=13th FINA World Championships - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B0025000000FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=28 July 2009|access-date=13 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 15:46.13
+| [[Maddy Gough]]
+| {{AUS}}
+| 15 June 2021
+| Adelaide
+| <ref>{{cite web|title=2021 Australian Trials - Women's 1500m Freestyle Results|url=http://liveresults.swimming.org.au/SAL/2021TRIALS/210612F037.htm|publisher=swimming.org.au|date=15 June 2021|accessdate=1 July 2021|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616043259/http://liveresults.swimming.org.au/SAL/2021TRIALS/210612F037.htm|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 15:47.09
+| [[Boglárka Kapás]]
+| {{HUN}}
+| 4 August 2015
+| Kazan
+| <ref name=W2015WC/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 15:47.26
+| [[Jazmin Carlin]]
+| {{GBR2}}
+| 26 June 2013
+| [[Sheffield]]
+| <ref>{{cite magazine|title=Jazmin Carlin Makes Run at 1500 Free World, Euro Record|url=https://www.swimmingworldmagazine.com/news/jazmin-carlin-makes-run-at-1500-free-world-euro-record/|date=26 June 2013|access-date=30 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 15:50.89
+| [[Mireia Belmonte]]
+| {{ESP}}
+| 25 July 2017
+| Budapest
+| <ref name=W2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 15:51.68
+| [[Delfina Pignatiello]]
+| {{ARG}}
+| 15 June 2019
+| Barcelona
+| <ref>{{cite magazine|title=Delfina Pignatiello Blasts South American Record in 1500 For Third Fastest Time in World of 2019|url=https://www.swimmingworldmagazine.com/news/delfina-pignatiello-blasts-south-american-record-in-1500-for-third-fastest-time-in-world-of-2019/|magazine=[[Swimming World]]|author=Andy Ross|date=15 June 2019|access-date=23 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 15:52.10
+| [[Janet Evans]]
+| {{USA}}
+| 26 March 1988
+| [[Orlando, Florida|Orlando]]
+| 
+|- bgcolor=CCFFCC
+| align=center | 21
+| 15:52.17
+| [[Jessica Ashwood]]
+| {{AUS}}
+| 4 August 2015
+| Kazan
+| <ref name=W2015WC/>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 15:52.37
+| [[Camelia Potec]]
+| {{ROU}}
+| 26 April 2009
+| [[Montpellier]]
+| 
+|- bgcolor=CCFFCC
+| align=center | 23
+| 15:54.19
+| [[Ashley Twichell]]
+| {{USA}}
+| 23 July 2019
+| [[Gwangju]]
+| <ref name=W2019WC>{{cite web|title=18th FINA World Championships - Women's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011301070201F304FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=23 July 2019|access-date=13 March 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 15:54.30
+| [[Kristel Kobrich]]
+| {{CHI}}
+| 29 July 2013
+| Barcelona
+| <ref>{{cite web|title=15th FINA World Championships - Women's 1500m Freestyle Heats Results|url=https://www.omegatiming.com/File/00010D020101001900FFFFFFFFFFFF02.pdf|work=[[Omega SA|Omega Timing]]|date=29 July 2013|access-date=30 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 15:54.48
+| [[Ajna Késely]]
+| {{HUN}}
+| 22 July 2019
+| Gwangju
+| <ref>{{cite web|title=18th FINA World Championships - Women's 1500m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011301070201F301FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=22 July 2019|access-date=30 April 2025}}</ref>
+|}
+
+===Women short course===
+*Correct as of November 2025<ref>{{cite web|title=Women's 1500m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=1500&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=12 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 15:08.24
+| [[Katie Ledecky]]
+| {{USA}}
+| 29 October 2022
+| [[Toronto]]
+| <ref name=W2022Toronto/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 15:13.83
+| [[Lani Pallister]]
+| {{AUS}}
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref name=W2025Westmont>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011900070201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 October 2025|access-date=19 October 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 15:18.01
+| [[Sarah Köhler]]
+| {{GER}}
+| 16 November 2019
+| [[Berlin]]
+| <ref name=W2019German/>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 15:18.30
+| [[Anastasiia Kirpichnikova]]
+| {{RUS}}{{ref label|AK|B}}
+| 5 November 2021
+| [[Kazan]]
+| <ref name=W2021EC>{{cite web|title=2021 European Short Course Championships - Women's 1500m Freestyle Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW1500MFR-----------FNL-000100--_73A1%201.0.pdf|website=microplustiming.com|date=5 November 2021|accessdate=28 March 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 5
+| 15:19.71
+| [[Mireia Belmonte]]
+| {{ESP}}
+| 12 December 2014
+| [[Sabadell]]
+| <ref name=W2014Spanish/>
+|-
+| rowspan="2" |
+| align=center | 6
+| 15:20.12
+|''Kirpichnikova #2''
+| rowspan="2" |
+| 8 December 2023
+| [[Otopeni]]
+| <ref>{{cite web|title=2023 European Short Course Championships - Women's 1500m Freestyle Final Results|url=https://esch23.microplustimingservices.com/assets/pdf/RESULTS_BOOK.pdf#page=138|website=microplustiming.com|date=8 December 2023|accessdate=9 May 2025}}</ref>
+|-
+| align=center | 7
+| 15:21.43
+|''Pallister #2'' 
+| 16 December 2022
+| [[Melbourne]]
+| <ref>{{cite web|title=16th FINA World Championships (25m) - Women's 1500m Freestyle Results|url=https://www.omegatiming.com/File/00011700030201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=16 December 2022|access-date=19 December 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 8
+| 15:22.68
+| [[Lauren Boyle]]
+| {{NZL}}
+| 9 August 2014
+| [[Wellington]]
+| <ref name=W2014NZ/>
+|-
+| 
+| align=center | 9
+| 15:24.63
+|''Pallister #3''
+| 
+| 24 August 2022
+| [[Sydney]]
+| <ref>{{cite magazine|title=Pallister Logs Aussie National Record in SCM 1500 Freestyle|url=https://swimswam.com/pallister-logs-aussie-national-record-in-scm-1500freestyle/|magazine=[[SwimSwam]]|author=Retta Race|date=24 August 2022|access-date=9 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 10
+| 15:24.69
+| [[Isabel Marie Gose|Isabel Gose]]
+| {{GER}}
+| 15 December 2024
+| [[Budapest]]
+| <ref name=W2024WC>{{cite web|title=Women's 1500m Freestyle Results Summary|url=https://www.omegatiming.com/File/00011800080201F30104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2024|access-date=30 December 2024}}</ref>
+|-
+| rowspan="4" |
+| align=center | 11
+| 15:25.50
+|''Gose #2''
+| rowspan="4" |
+| 19 November 2023
+| [[Wuppertal]]
+| <ref>{{cite magazine|title=Schwarz Tops Wellbrock While Gose Turns Heads in 1500 Free at German SC Championships|url=https://swimswam.com/schwarz-tops-wellbrock-while-gose-turns-heads-in-1500-free-at-german-sc-championships/|magazine=[[SwimSwam]]|author=Retta Race|date=19 November 2023|access-date=9 May 2025}}</ref>
+|-
+| align=center | 12
+| 15:26.08
+|''Kirpichnikova #3''
+| 4 November 2021
+| Kazan
+| <ref>{{cite web|title=2021 European Short Course Championships - Women's 1500m Freestyle Heats Results|url=https://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMW1500MFR-----------HEAT--------_73A2%201.0.pdf?x=20:55:51#page=2|website=microplustiming.com|date=5 November 2021|accessdate=9 May 2025}}</ref>
+|-
+| align=center | 13
+| 15:26.95
+|''Belmonte #2''
+| 29 November 2013
+| [[Castellón de la Plana]]
+| <ref name=W2013Spanish/>
+|-
+| align=center | 14
+| 15:28.33
+|''Pallister #4''
+| 29 November 2020
+| [[Brisbane]]
+| <ref name=W2020Aus>{{cite magazine|title=Mom-trained Pallister Hits SCM 1500 Free Aussie Record|url=https://swimswam.com/mom-trained-pallister-hits-scm-1500free-aussie-record/|magazine=[[SwimSwam]]|author=Retta Race|date=29 November 2020|access-date=9 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 15
+| 15:28.65
+| [[Lotte Friis]]
+| {{DEN}}
+| 28 November 2009
+| [[Birkerød]]
+| <ref name=W2009Danish/>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 9
+| rowspan="2" align=center | 16
+| rowspan="2" | 15:29.74
+| rowspan="2" | [[Simona Quadarella]]
+| rowspan="2" | {{ITA}}
+| 5 March 2021
+| [[Rome]]
+| <ref name=W2021Italian>{{cite magazine|title=Simona Quadarella Takes 6 Seconds Off Italian Record in 1500 Free|url=https://swimswam.com/simona-quadarella-takes-6-seconds-off-italian-record-in-1500-free/#:~:text=Simona%20Quadarella%2C%20the%20defending%20World,Quadarella%20swam%20a%2015%3A29.74.|magazine=[[SwimSwam]]|author=Braden Keith|date=5 March 2021|access-date=28 October 2021}}</ref>
+|- bgcolor=f6F5CE
+| 24 April 2021
+| [[Pietralata (Rome)|Pietralata]]
+| <ref>{{cite web|title=Women's 1500m Freestyle Results|page=13|url=https://aquatime.it/risultatipdf.php?GaraT=37228|work=aquatime.it|date=24 April 2021|accessdate=28 October 2021}}</ref>
+|-
+| rowspan="2" |
+| align=center | 18
+| 15:29.93
+|''Quadarella #3''
+| rowspan="2" |
+| 7 December 2025
+| [[Lublin]]
+| <ref>{{cite web|title=2025 European Championships (25m) - Women's 1500m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0201F30104FFFFFFFFFF01.pdf|work=Omega Timing|date=7 December 2025|access-date=8 December 2025}}</ref>
+|-
+| align=center | 19
+| 15:30.14
+|''Quadarella #4''
+| 13 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 20
+| 15:30.22
+| [[Erika Fairweather]]
+| {{NZL}}
+| 19 October 2025
+| Westmont
+| <ref name=W2025Westmont/>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 21
+| 15:31.19
+| [[Maddy Gough]]
+| {{AUS}}
+| 26 September 2020
+| Brisbane
+| <ref>{{cite magazine|title=Maddy Gough Becomes 5th Fastest 1500 Freestyler All-time|url=https://swimswam.com/maddy-gough-becomes-5th-fastest-1500-freestyler-all-time/|magazine=[[SwimSwam]]|author=Retta Race|date=26 September 2020|access-date=9 May 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 12
+| align=center | 22
+| 15:32.90
+| [[Kate Ziegler]]
+| {{USA}}
+| 12 October 2007
+| [[Essen]]
+| <ref name=W2007Essen/>
+|-
+| rowspan="3" |
+| align=center | 23
+| 15:33.40
+|''Quadarella #5''
+| rowspan="3" | 
+| 14 November 2024
+| [[Riccione]]
+| <ref>{{cite web|title=2024 Italian Short Course Championships - Women's 1500m Freestyle Results|url=https://fin2024.microplustiming.com/export/NU_2024_11_14-16_Riccione/NU/pdf/CLS-ASF-1500SL-TIM-ALL.pdf?x=11:48:19|work=Microplus Informatica|date=14 November 2024|access-date=9 May 2025}}</ref>
+|-
+| align=center | 24
+| 15:33.42
+|''Kirpichnikova #4''
+| 26 October 2023
+| [[Angers]]
+| <ref>{{cite magazine|title=Anastasia Kirpichnikova Slashes Nine Seconds Off 19-year-old French SCM Record in 1500 Free|url=https://swimswam.com/anastasia-kirpichnikova-slashes-nine-seconds-off-19-year-old-french-scm-record-in-1500-free/|magazine=[[SwimSwam]]|author=James Sutherland|date=26 October 2023|access-date=9 May 2025}}</ref>
+|-
+| align=center | 25
+| 15:34.16
+|''Quadarella #6''
+| 5 November 2021
+| Kazan
+| <ref name=W2021EC/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| rowspan="13" align=center |
+| 15:34.31
+| [[Kareena Lee]]
+| {{AUS}}
+| 29 November 2020
+| Brisbane
+| <ref name=W2020Aus/>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 15:36.43
+| [[Martina Caramignoli]]
+| {{ITA}}
+| 5 March 2021
+| Rome
+| <ref name=W2021Italian/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 15:37.78
+| [[Erika Villaecija]]
+| {{ESP}}
+| 26 November 2009
+| Castellón de la Plana
+| <ref>{{cite magazine|title=Spanish Short Course Championships: Erika Villaecija Garcia Downs European Record|url=https://www.swimmingworldmagazine.com/news/spanish-short-course-championships-erika-villaecija-garcia-downs-european-record/|magazine=[[Swimming World]]|date=26 November 2009|access-date=9 May 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 15:38.64
+| [[Phoebe Hines]]
+| {{AUS}}
+| 29 November 2020
+| Brisbane
+| 
+|- bgcolor=CCFFCC
+| align=center | 17
+| 15:40.05
+| [[Leonie Beck]]
+| {{GER}}
+| 25 October 2019
+| Wuppertal
+| <ref>{{cite web|title=Women' 1500m Freestyle Results|url=https://www.swimrankings.net/index.php?page=meetDetail&meetId=618174&gender=2&styleId=8|work=swimrankings.net|date=25 October 2019|accessdate=19 October 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 15:40.52
+| [[Moesha Johnson]]
+| {{AUS}}
+| 29 November 2020
+| Brisbane
+| 
+|- bgcolor=CCFFCC
+| align=center | 19
+| 15:41.29
+| [[Jillian Cox]]
+| {{USA}}
+| 13 December 2024
+| Budapest
+| <ref name=W2024WC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 15:41.80
+| [[Li Bingjie]]
+| {{CHN}}
+| 28 October 2022
+| [[Beijing]]
+| <ref>{{cite magazine|title=Li Bingjie Posts 1:51.25 200 Free CHN Record, 15:41.80 1500 Asian Record|url=https://swimswam.com/li-bingjie-posts-151-25-200-free-chn-record-1541-80-1500-asian-record/|magazine=[[SwimSwam]]|author=Retta Race|date=28 October 2022|access-date=30 October 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 15:42.05
+| [[Katie Grimes]]
+| {{USA}}
+| 4 November 2022
+| [[Indianapolis]]
+| <ref>{{cite magazine|title=Women's 1500m Freestyle Results|url=https://swimswam.com/wp-content/uploads/2022/11/C74A_Results-Summary_35_Heats_Womens-1500m-Freestyle.pdf|magazine=[[SwimSwam]]|date=4 November 2022|access-date=5 November 2022}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 15:42.14
+| [[Kseniya Misharina]]
+| {{RUS}}
+| 10 November 2025
+| Kazan
+| <ref>{{cite web|title=2025 Russian Championships - Women's 1500m Freestyle Results|url=https://russwimming.ru/upload/live/4R_SC_2025/ResultList_131.pdf|publisher=Russian Swimming Federation|date=10 November 2025|accessdate=11 November 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 23
+| 15:42.18
+| [[Caitlin Deans]]
+| {{NZL}}
+| 19 October 2025
+| Westmont
+| <ref name=W2025Westmont/>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 15:42.39
+| [[Laure Manaudou]]
+| {{FRA}}
+| 20 November 2004
+| [[La Roche-sur-Yon]]
+| <ref name=W2004French/>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 15:43.31
+| [[Petra Schneider]]
+| {{GDR}}
+| 10 January 1982
+| [[Gainesville, Florida|Gainesville]]
+| <ref name=W2004French/>
+|}
+
+==Notes==
+{{refbegin}}
+{{Ordered list|list-style-type=upper-alpha
+|{{note|Housman}} [[Glen Housman]]'s time of 14:53.59 was not ratified as a world record due to an electronic timing error.
+|{{note|AK}} [[Anastasiia Kirpichnikova]] initially represented [[Russia]], before switching her sporting citizenship to [[France]] in April 2023. The attributed nation indicates which team she was representing at the time.
+}}
+{{refend}}
+
+==References==
+{{reflist|2}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Freestyle 1500 metres]]
+[[Category:Freestyle swimming|World record progression 1500 metres freestyle]]

@@ -1,0 +1,563 @@
+{{short description|None}}
+
+{{Olympic water polo records and statistics sidebar|expanded=all}}
+This is a list of top goalscorers in the women's Olympic [[water polo]] [[Water polo at the Summer Olympics|tournament]] since the inaugural official edition in [[Water polo at the 2000 Summer Olympics – Women's tournament|2000]].
+
+==Abbreviations==
+{| class="wikitable" style="text-align: left; font-size: 90%; margin-left: 1em;"
+|-
+! Rk
+| Rank
+! Ref
+| Reference
+!
+| 
+! ISHOF
+| [[International Swimming Hall of Fame]]
+|-
+! L/R
+| [[Handedness]]
+! L
+| Left-handed
+! R
+| Right-handed
+!
+| 
+|-
+! (C)
+| [[Captain (sports)|Captain]]
+! p.
+| page
+! pp.
+| pages
+!
+| 
+|}
+
+==Overall top goalscorers==
+As of 2016, eighteen female players have scored 20 or more goals at the Summer Olympics.
+
+===By confederation===
+Last updated: 1 April 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|-
+! rowspan="2" | Confederation !! colspan="4" | Number of top goalscorers
+|-
+! style="width: 9em;" | Total goals: 40+ !! style="width: 9em;" | Total goals: 30–39 !! style="width: 9em;" | Total goals: 20–29 !! style="width: 6em;" | Total
+|-
+| style="text-align: left;" | [[Africa]] – [[African Swimming Confederation|CANA]] || 0 || 0 || 0 || '''0'''
+|-
+| style="text-align: left;" | [[Americas]] – [[Swimming Union of the Americas|UANA]] || 0 || 2 || 0 || '''2'''
+|-
+| style="text-align: left;" | [[Asia]] – [[Asia Swimming Federation|AASF]] || 0 || 1 || 0 || '''1'''
+|-
+| style="text-align: left;" | [[Europe]] – [[LEN]] || 1 || 1 || 8 || '''10'''
+|-
+| style="text-align: left;" | [[Oceania]] – [[Oceania Swimming Association|OSA]] || 0 || 1 || 4 || '''5'''
+|-
+! Total !! 1 !! 5 !! 12 !! 18
+|}
+
+===By team===
+Last updated: 1 April 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|-
+! rowspan="2" | Women's team !! colspan="4" | Number of top goalscorers !! rowspan="2" | Confederation
+|-
+! style="width: 9em;" | Total goals: 40+ !! style="width: 9em;" | Total goals: 30–39 !! style="width: 9em;" | Total goals: 20–29 !! style="width: 6em;" | Total
+|-
+| style="text-align: left;" | {{wpw|Australia}} || 0 || 1 || 4 || '''5''' || Oceania – OSA
+|-
+| style="text-align: left;" | {{wpw|China}} || 0 || 1 || 0 || '''1''' || Asia – AASF
+|-
+| style="text-align: left;" | {{wpw|Hungary}} || 0 || 0 || 3 || '''3''' || Europe – LEN
+|-
+| style="text-align: left;" | {{wpw|Italy}} || 1 || 0 || 0 || '''1''' || Europe – LEN
+|-
+| style="text-align: left;" | {{wpw|Netherlands}} || 0 || 0 || 1 || '''1''' || Europe – LEN
+|-
+| style="text-align: left;" | {{wpw|Russia}} || 0 || 1 || 2 || '''3''' || Europe – LEN
+|-
+| style="text-align: left;" | {{wpw|Spain}} || 0 || 0 || 2 || '''2''' || Europe – LEN
+|-
+| style="text-align: left;" | {{wpw|United States}} || 0 || 2 || 0 || '''2''' || Americas – UANA
+|-
+! Total !! 1 !! 5 !! 12 !! 18 !!
+|}
+
+==Most goals scored==
+===One match===<!-- This section is linked from [[Water polo at the Summer Olympics]] -->
+{{#section:List of women's Olympic water polo tournament records and statistics|Top goalscorers (one match)}}
+===One tournament===<!-- This section is linked from [[Water polo at the Summer Olympics]] -->
+{{#section:List of women's Olympic water polo tournament records and statistics|Top goalscorers (one tournament by goals)}}
+The following table is pre-sorted by edition of the Olympics (in ascending order), name of the team (in ascending order), number of goals (in descending order), name of the player (in ascending order), respectively. Last updated: 12 August 2021.
+
+;Legend
+* '''Team'''<sup>*</sup> – Host team
+
+{| class="wikitable" style="text-align: center; font-size: 85%; margin-left: 1em;"
+|+ '''Female players with 15 or more goals in an Olympic tournament''' (ordered chronologically)
+|-
+! Year !! Total !! colspan="2" | 21+ goals !! colspan="2" | 18–20 goals !! colspan="2" | 15–17 goals
+|-
+| [[Water polo at the 2000 Summer Olympics – Women's tournament|2000]] || '''0''' || — || style="width: 1.5em;" | 0 || — || style="width: 1.5em;" | 0 || — || style="width: 1.5em;" | 0
+|-
+| [[Water polo at the 2004 Summer Olympics – Women's tournament|2004]] || '''0''' || — || 0 || — || 0 || — || 0
+|-
+| [[Water polo at the 2008 Summer Olympics – Women's tournament|2008]] || '''1''' || — || 0 || — || 0 || style="text-align: left;" | {{wpw|Netherlands}}: [[Daniëlle de Bruijn]] (17) || 1
+|-
+| [[Water polo at the 2012 Summer Olympics – Women's tournament|2012]] || '''4''' || style="text-align: left;" | {{wpw|United States}}: [[Maggie Steffens]] (21) || 1 || style="text-align: left;" | {{wpw|China}}: [[Ma Huanhuan]] (19)<br />{{wpw|Italy}}: [[Tania Di Mario]] (18) || 2 || style="text-align: left;" | {{wpw|Spain}}: [[Anni Espar]] (15) || 1
+|-
+| [[Water polo at the 2016 Summer Olympics – Women's tournament|2016]] || '''3''' || — || 0 || — || 0 || style="text-align: left;" | {{wpw|Hungary}}: [[Barbara Bujka]] (15)<br />{{wpw|Spain}}: [[Roser Tarragó]] (15)<br />{{wpw|United States}}: [[Maggie Steffens]] (17) || 3
+|-
+| [[Water polo at the 2020 Summer Olympics – Women's tournament|2020]] || '''9''' || style="text-align: left;" | {{wpw|Netherlands}}: [[Simone van de Kraats]] (28) || 1 || style="text-align: left;" | {{wpw|Spain}}: [[Beatriz Ortiz]] (18)<br />{{wpw|United States}}: [[Maddie Musselman]] (18), [[Maggie Steffens]] (18) || 3 || style="text-align: left;" | {{wpw|Canada}}: [[Kyra Christmas]] (15)<br />{{wpw|China}}: [[Zhang Jing (water polo)|Zhang Jing]] (16)<br />{{wpw|Netherlands}}: [[Maud Megens]] (17)<br />{{wpw|Russia|roc-olympics|name=ROC}}: [[Ekaterina Prokofyeva]] (15)<br />{{wpw|Spain}}: [[Anni Espar]] (15) || 5
+|-
+! Year !! Total !! colspan="2" | 21+ goals !! colspan="2" | 18–20 goals !! colspan="2" | 15–17 goals
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (pp.&nbsp;96–101), 2004 (p.&nbsp;53), 2008 (p.&nbsp;54), 2012 (p.&nbsp;345), 2016 (p.&nbsp;193), 2020 (p.&nbsp;234).
+
+====Top goalscorers in each tournament====
+{{#section:List of women's Olympic water polo tournament records and statistics|Top goalscorers (one tournament by matches)}}
+{{#section:List of women's Olympic water polo tournament records and statistics|Historical top goalscorers (one tournament)}}
+===All-time===<!-- This section is linked from [[Water polo at the Summer Olympics]] -->
+{{#section:List of women's Olympic water polo tournament records and statistics|Top goalscorers (all-time)}}
+The following table is pre-sorted by edition of the Olympics (in ascending order), name of the team (in ascending order), number of total goals (in descending order), name of the player (in ascending order), respectively. Last updated: 1 April 2021.
+
+;Legend
+* '''Team'''<sup>*</sup> – Host team
+
+{| class="wikitable" style="text-align: center; font-size: 85%; margin-left: 1em;"
+|+ '''All-time female players with 20 or more goals at the Olympics''' (ordered chronologically)
+|-
+! Year !! Total !! colspan="2" | Total goals: 40+ !! colspan="2" | Total goals: 30–39 !! colspan="2" | Total goals: 20–29
+|-
+| [[Water polo at the 2000 Summer Olympics – Women's tournament|2000]] || '''0''' || — || style="width: 1.5em;" | 0 || — || style="width: 1.5em;" | 0 || — || style="width: 1.5em;" | 0
+|-
+| [[Water polo at the 2004 Summer Olympics – Women's tournament|2004]] || '''1''' || — || 0 || — || 0 || style="text-align: left;" | {{wpw|Russia}}: [[Sofia Konukh]] (20) || 1
+|-
+| [[Water polo at the 2008 Summer Olympics – Women's tournament|2008]] || '''5''' || — || 0 || — || 0 || style="text-align: left;" | {{wpw|Australia}}: [[Kate Gynther]] (20)<br />{{wpw|Italy}}: [[Tania Di Mario]] (24)<br />{{wpw|Netherlands}}: [[Daniëlle de Bruijn]] (28)<br />{{wpw|Russia}}: [[Sofia Konukh]] (27)<br />{{wpw|United States}}: [[Brenda Villa]] (25) || 5
+|-
+| [[Water polo at the 2012 Summer Olympics – Women's tournament|2012]] || '''7''' || style="text-align: left;" | {{wpw|Italy}}: [[Tania Di Mario]] (42) || 1 || style="text-align: left;" | {{wpw|Australia}}: [[Kate Gynther]] (30)<br />{{wpw|Russia}}: [[Sofia Konukh]] (31)<br />{{wpw|United States}}: [[Brenda Villa]] (31) || 3 || style="text-align: left;" | {{wpw|China}}: [[Ma Huanhuan]] (26)<br />{{wpw|Hungary}}: [[Rita Drávucz]] (23)<br />{{wpw|United States}}: [[Maggie Steffens]] (21) || 3
+|-
+| [[Water polo at the 2016 Summer Olympics – Women's tournament|2016]] || '''13''' || style="text-align: left;" | {{wpw|Italy}}: [[Tania Di Mario]] (47) || 1 || style="text-align: left;" | {{wpw|China}}: [[Ma Huanhuan]] (37)<br />{{wpw|United States}}: [[Maggie Steffens]] (38) || 2 || style="text-align: left;" | {{wpw|Australia}}: [[Ashleigh Southern]] (26), [[Rowena Webster]] (23), [[Gemma Beadsworth]] (20), [[Bronwen Knox]] (20)<br />{{wpw|Hungary}}: [[Barbara Bujka]] (27), [[Rita Keszthelyi]] (24)<br />{{wpw|Russia}}: [[Ekaterina Prokofyeva]] (22), [[Nadezhda Glyzina]] (21)<br />{{wpw|Spain}}: [[Anni Espar]] (22), [[Roser Tarragó]] (20) || 10
+|-
+| [[Water polo at the 2020 Summer Olympics – Women's tournament|2020]] ||  ||  ||  ||  ||  ||  || 
+|-
+! Year !! Total !! colspan="2" | Total goals: 40+ !! colspan="2" | Total goals: 30–39 !! colspan="2" | Total goals: 20–29
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (pp.&nbsp;96–101), 2004 (p.&nbsp;53), 2008 (p.&nbsp;54), 2012 (p.&nbsp;345), 2016 (p.&nbsp;193).
+{{#section:List of women's Olympic water polo tournament records and statistics|Historical top goalscorers (all-time)}}
+==Top goalscorers by team==
+The following tables are pre-sorted by number of total goals (in descending order), year of the last Olympic appearance (in ascending order), year of the first Olympic appearance (in ascending order), name of the player (in ascending order), respectively.
+
+;Legend
+* '''Year'''<sup>*</sup> – As host team
+
+===Australia===<!-- This section is transcluded into [[Australia women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Australia}}
+* Team appearances: 6 ('''2000'''<sup>*</sup>–2020)
+* As host team: '''2000'''<sup>*</sup>
+<section begin=Australia />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 1
+* Number of goalscorers (20–29 goals): 4
+* Last updated: 1 April 2021.
+
+;Legend
+* {{border|width=2px|color=blue|&nbsp;&nbsp;&nbsp;}} – Hosts
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Gynther, Kate" | [[Kate Gynther]] || {{Date table sorting|format=y|5 July 1982}} || Right || '''30''' || 2004<br />(7) || style="background-color: #cc9966;" | 2008<br />(13) || style="background-color: #cc9966;" | 2012<br />(10) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 22/30 || || style="text-align: left;" | || <ref name="Kate Gynther SR"/>
+|-
+| '''2''' || style="text-align: left;" data-sort-value="Southern, Ashleigh" | [[Ashleigh Southern]] || {{Date table sorting|format=y|2 October 1992}} || Right || '''26''' || style="background-color: #cc9966;" | 2012<br />(12) || 2016<br />(14) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 19/23 || || style="text-align: left;" | || <ref name="Ashleigh Southern SR"/>
+|-
+| '''3''' || style="text-align: left;" data-sort-value="Webster, Rowena" | [[Rowena Webster]] || {{Date table sorting|format=y|27 December 1987}} || Right || '''23''' || style="background-color: #cc9966;" | 2012<br />(12) || 2016<br />(11) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 24/28 || || style="text-align: left;" | || <ref name="Rowena Webster SR"/>
+|-
+| rowspan="2" | '''4''' || style="text-align: left;" data-sort-value="Beadsworth, Gemma" | [[Gemma Beadsworth]] || {{Date table sorting|format=y|17 July 1987}} || Right || '''20''' || style="background-color: #cc9966;" | 2008<br />(9) || style="background-color: #cc9966;" | 2012<br />(10) || 2016<br />(1) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 21/29 || || style="text-align: left;" | || <ref name="Gemma Beadsworth SR"/>
+|-
+| style="text-align: left;" data-sort-value="Knox, Bronwen" | [[Bronwen Knox]] || {{Date table sorting|format=y|16 April 1986}} || Right || '''20''' || style="background-color: #cc9966;" | 2008<br />(12) || style="background-color: #cc9966;" | 2012<br />(4) || 2016<br />(4) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 22/30 || || style="text-align: left;" | || <ref name="Bronwen Knox SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (p.&nbsp;96), 2004 (pp.&nbsp;56–57), 2008 (pp.&nbsp;56–57), 2012 (pp.&nbsp;347–348), 2016 (pp.&nbsp;197–198).<section end=Australia />
+
+===Brazil===
+* Women's national team: {{wpw|Brazil}}
+* Team appearances: 1 ('''2016'''<sup>*</sup>)
+* As host team: '''2016'''<sup>*</sup>
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.
+
+===Canada===<!-- This section is transcluded into [[Canada women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Canada}}
+* Team appearances: 3 (2000–2004, 2020)
+* As host team: —
+<section begin=Canada />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.<section end=Canada />
+
+===China===<!-- This section is transcluded into [[China women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|China}}
+* Team appearances: 4 ('''2008'''<sup>*</sup>–2020)
+* As host team: '''2008'''<sup>*</sup>
+<section begin=China />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 1
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.
+
+;Legend
+* {{border|width=2px|color=blue|&nbsp;&nbsp;&nbsp;}} – Hosts
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Ma, Huanhuan" | [[Ma Huanhuan]] || {{Date table sorting|format=y|13 January 1990}} || Right || '''37''' || style="border: 2px solid blue;" | 2008<br />(7) || 2012<br />(19) || 2016<br />(11) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 18/26 || || style="text-align: left;" | || <ref name="Ma Huanhuan SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2008 (pp.&nbsp;59–60), 2012 (pp.&nbsp;350–351), 2016 (pp.&nbsp;203–204).<section end=China />
+
+===Great Britain===
+* Women's national team: {{wpw|Great Britain}}
+* Team appearances: 1 ('''2012'''<sup>*</sup>)
+* As host team: '''2012'''<sup>*</sup>
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.
+
+===Greece===<!-- This section is transcluded into [[Greece women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Greece}}
+* Team appearances: 2 ('''2004'''<sup>*</sup>–2008)
+* As host team: '''2004'''<sup>*</sup>
+<section begin=Greece />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.<section end=Greece />
+
+===Hungary===<!-- This section is transcluded into [[Hungary women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Hungary}}
+* Team appearances: 5 (2004–2020)
+* As host team: —
+<section begin=Hungary />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 3
+* Last updated: 1 April 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Bujka, Barbara" | [[Barbara Bujka]] || {{Date table sorting|format=y|5 September 1986}} || Left || '''27''' || 2012<br />(12) || 2016<br />(15) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 25/29 || || style="text-align: left;" | || <ref name="Barbara Bujka SR"/>
+|-
+| '''2''' || style="text-align: left;" data-sort-value="Keszthelyi, Rita" | [[Rita Keszthelyi]] || {{Date table sorting|format=y|10 December 1991}} || Right || '''24''' || 2012<br />(10) || 2016<br />(14) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 20/24 || || style="text-align: left;" | || <ref name="Rita Keszthelyi SR"/>
+|-
+| '''3''' || style="text-align: left;" data-sort-value="Drávucz, Rita" | [[Rita Drávucz]] || {{Date table sorting|format=y|14 April 1980}} || Right || '''23''' || 2004<br />(7) || 2008<br />(10) || 2012<br />(6) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 24/32 || || style="text-align: left;" | || <ref name="Rita Drávucz SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2004 (pp.&nbsp;68–69), 2008 (pp.&nbsp;65–66), 2012 (pp.&nbsp;359–360), 2016 (pp.&nbsp;209–210).<section end=Hungary />
+
+===Italy===<!-- This section is transcluded into [[Italy women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Italy}}
+* Team appearances: 4 (2004–2016)
+* As host team: —
+<section begin=Italy />* Number of goalscorers (40+ goals): 1
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Di Mario, Tania" | [[Tania Di Mario]] || {{Date table sorting|format=y|4 May 1979}} || Right || '''47''' || style="background-color: gold;" | 2004<br />(14) || 2008<br />(10) || 2012<br />(18) || style="background-color: silver;" | 2016<br />(5) || style="background-color: #ececec;" | || 25/37 || || style="text-align: left;" | || <ref name="Tania Di Mario SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2004 (pp.&nbsp;72–73), 2008 (pp.&nbsp;68–69), 2012 (pp.&nbsp;362–363), 2016 (pp.&nbsp;212–213).<section end=Italy />
+
+===Japan===
+* Women's national team: {{wpw|Japan}}
+* Team appearances: 1 ('''2020'''<sup>*</sup>)
+* As host team: '''2020'''<sup>*</sup>
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 26 July 2021.
+
+===Kazakhstan===
+* Women's national team: {{wpw|Kazakhstan}}
+* Team appearances: 2 (2000–2004)
+* As host team: —
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 1 April 2021.
+
+===Netherlands===<!-- This section is transcluded into the [[Netherlands women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Netherlands}}
+* Team appearances: 3 (2000, 2008, 2020)
+* As host team: —
+<section begin=Netherlands />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 1
+* Last updated: 1 April 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Bruijn, Daniëlle De" | [[Daniëlle de Bruijn]] || {{Date table sorting|format=y|13 February 1978}} || Left || '''28''' || 2000<br />(11) || style="background-color: #ececec;" | || style="background-color: gold;" | 2008<br />(17) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 22/30 || || style="text-align: left;" | || <ref name="Daniëlle de Bruijn SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (p.&nbsp;99), 2008 (pp.&nbsp;71–72).<section end=Netherlands />
+
+===ROC===
+* Women's national team: {{wpw|Russia|roc-olympics|name=ROC}}
+* Team appearances: 1 (2020)
+* As host team: —
+* Related team: [[#Russia|Russia]]
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 1
+* Number of goalscorers (20–29 goals): 2
+* Last updated: 12 August 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Prokofyeva, Ekaterina" | [[Ekaterina Prokofyeva]] || {{Date table sorting|format=y|13 March 1991}} || Right || '''37''' || 2008<br />(4) || 2012<br />(9) || style="background-color: #cc9966;" | 2016<br />(9) || 2020<br />(15) || style="background-color: #ececec;" | || 17/30 || || style="text-align: left;" | || <ref name="Ekaterina Prokofyeva OP"/>
+|-
+| '''2''' || style="text-align: left;" data-sort-value="Glyzina, Nadezhda" | [[Nadezhda Glyzina]] || {{Date table sorting|format=y|20 May 1988}} || Right || '''28''' || 2008<br />(1) || 2012<br />(7) || style="background-color: #cc9966;" | 2016<br />(13) || 2020<br />(7) || style="background-color: #ececec;" | || 20/33 || || style="text-align: left;" | || <ref name="Nadezhda Glyzina OP"/>
+|-
+| '''3''' || style="text-align: left;" data-sort-value="Ivanova, Evgeniya" | [[Evgeniya Ivanova (Russian water polo)|Evgeniya Ivanova]] || {{Date table sorting|format=y|26 July 1987}} || Right || '''26''' || 2012<br />(9) || style="background-color: #cc9966;" | 2016<br />(7) || 2020<br />(10) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 25/34 || || style="text-align: left;" | || <ref name="Evgeniya Ivanova OP"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2008 (pp.&nbsp;74–75), 2012 (pp.&nbsp;365–366), 2016 (pp.&nbsp;215–216), 2020 (pp.&nbsp;266–267).
+
+===Russia===
+* Women's national team: {{wpw|Russia}}
+* Team appearances: 5 (2000–2016)
+* As host team: —
+* Related team: [[#ROC|ROC]]
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 1
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 12 August 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Konukh, Sofia" | [[Sofia Konukh]] || {{Date table sorting|format=y|9 March 1980}} || Right || '''31''' || style="background-color: #cc9966;" | 2000<br />(11) || 2004<br />(9) || 2008<br />(7) || 2012<br />(4) || style="background-color: #ececec;" | || 20/32 || || style="text-align: left;" | || <ref name="Sofia Konukh SR"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (p.&nbsp;100), 2004 (pp.&nbsp;80–81), 2008 (pp.&nbsp;74–75), 2012 (pp.&nbsp;365–366), 2016 (pp.&nbsp;215–216).
+Notes:
+* [[Nadezhda Glyzina]] is listed in section [[#ROC|ROC]].
+* [[Evgeniya Ivanova (Russian water polo)|Evgeniya Ivanova]] is listed in section [[#ROC|ROC]].
+* [[Ekaterina Prokofyeva]] is listed in section [[#ROC|ROC]].
+
+===South Africa===
+* Women's national team: {{wpw|South Africa}}
+* Team appearances: 1 (2020)
+* As host team: —
+* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 0
+* Number of goalscorers (20–29 goals): 0
+* Last updated: 12 August 2021.
+
+===Spain===<!-- This section is transcluded into [[Spain women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|Spain}}
+* Team appearances: 3 (2012–2020)
+* As host team: —
+<section begin=Spain />* Number of goalscorers (40+ goals): 0
+* Number of goalscorers (30–39 goals): 1
+* Number of goalscorers (20–29 goals): 4
+* Last updated: 12 August 2021.
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Espar, Anni" | [[Anni Espar]] || {{Date table sorting|format=y|8 January 1993}} || Right || '''37''' || style="background-color: silver;" | 2012<br />(15) || 2016<br />(7) || style="background-color: silver;" | 2020<br />(15) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 19/28 || || style="text-align: left;" | || <ref name="Anni Espar OP"/>
+|-
+| '''2''' || style="text-align: left;" data-sort-value="Tarragó, Roser" | [[Roser Tarragó]] || {{Date table sorting|format=y|25 March 1993}} || Right || '''29''' || style="background-color: silver;" | 2012<br />(5) || 2016<br />(15) || style="background-color: silver;" | 2020<br />(9) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 19/28 || || style="text-align: left;" | || <ref name="Roser Tarragó OP"/>
+|-
+| '''3''' || style="text-align: left;" data-sort-value="García, Maica" | [[Maica García Godoy|Maica García]] || {{Date table sorting|format=y|17 October 1990}} || Right || '''27''' || style="background-color: silver;" | 2012<br />(7) || 2016<br />(11) || style="background-color: silver;" | 2020<br />(9) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 21/30 || || style="text-align: left;" | || <ref name="Maica García OP"/>
+|-
+| '''4''' || style="text-align: left;" data-sort-value="Ortiz, Beatriz" | [[Beatriz Ortiz]] || {{Date table sorting|format=y|21 June 1995}} || Right || '''23''' || 2016<br />(5) || style="background-color: silver;" | 2020<br />(18) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 21/26 || || style="text-align: left;" | || <ref name="Beatriz Ortiz OP"/>
+|-
+| '''5''' || style="text-align: left;" data-sort-value="Forca, Judith" | [[Judith Forca]] || {{Date table sorting|format=y|7 June 1996}} || Left || '''21''' || 2016<br />(7) || style="background-color: silver;" | 2020<br />(14) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 20/25 || || style="text-align: left;" | || <ref name="Judith Forca OP"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2012 (pp.&nbsp;353–354), 2016 (pp.&nbsp;206–207), 2020 (pp.&nbsp;251–252).<section end=Spain />
+
+===United States===<!-- This section is transcluded into the [[United States women's Olympic water polo team records and statistics]] -->
+* Women's national team: {{wpw|United States}}
+* Team appearances: 6 (2000–2020)
+* As host team: —
+<section begin=UnitedStates />* Number of goalscorers (40+ goals): 1
+* Number of goalscorers (30–39 goals): 2
+* Number of goalscorers (20–29 goals): 1
+* Last updated: 12 August 2021.
+
+;Legend
+* {{border|width=2px|color=blue|&nbsp;&nbsp;&nbsp;}} – Hosts
+
+{| class="wikitable sortable" style="text-align: center; font-size: 90%; margin-left: 1em;"
+|+ '''Female players with 20 or more goals at the Olympics'''
+|-
+! rowspan="2" | Rk !! rowspan="2" | Player !! rowspan="2" | Birth !! rowspan="2" | L/R !! rowspan="2" | Total<br />goals !! colspan="5" | Water polo tournaments<br />(goals) !! rowspan="2" | Age of<br />first/last !! rowspan="2" | ISHOF<br />member !! rowspan="2" | Note !! rowspan="2" class="unsortable" | Ref
+|-
+! 1 !! style="width: 2em;" class="unsortable" | 2 !! style="width: 2em;" class="unsortable" | 3 !! style="width: 2em;" class="unsortable" | 4 !! style="width: 2em;" class="unsortable" | 5
+|-
+| '''1''' || style="text-align: left;" data-sort-value="Steffens, Maggie" | [[Maggie Steffens]] || {{Date table sorting|format=y|4 June 1993}} || Right || '''56''' || style="background-color: gold;" | 2012<br />(21) || style="background-color: gold;" | 2016<br />(17) || style="background-color: gold;" | 2020<br />(18) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 19/28 || || style="text-align: left;" | || <ref name="Maggie Steffens OP"/>
+|-
+| '''2''' || style="text-align: left;" data-sort-value="Villa, Brenda" | [[Brenda Villa]] || {{Date table sorting|format=y|18 April 1980}} || Right || '''31''' || style="background-color: silver;" | 2000<br />(9) || style="background-color: #cc9966;" | 2004<br />(7) || style="background-color: silver;" | 2008<br />(9) || style="background-color: gold;" | 2012<br />(6) || style="background-color: #ececec;" | || 20/32 || 2018 || style="text-align: left;" | || <ref name="Brenda Villa SR"/>
+|-
+| '''3''' || style="text-align: left;" data-sort-value="Musselman, Maddie" | [[Maddie Musselman]] || {{Date table sorting|format=y|16 June 1998}} || Right || '''30''' || style="background-color: gold;" | 2016<br />(12) || style="background-color: gold;" | 2020<br />(18) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 18/23 || || style="text-align: left;" | || <ref name="Maddie Musselman OP"/>
+|-
+| '''4''' || style="text-align: left;" data-sort-value="Fischer, Makenzie" | [[Makenzie Fischer]] || {{Date table sorting|format=y|29 March 1997}} || Right || '''21''' || style="background-color: gold;" | 2016<br />(7) || style="background-color: gold;" | 2020<br />(14) || style="background-color: #ececec;" | || style="background-color: #ececec;" | || style="background-color: #ececec;" | || 19/24 || || style="text-align: left;" | || <ref name="Makenzie Fischer OP"/>
+|}
+Source:
+* [[#Official Results Books (IOC)|Official Results Books]] (PDF): 2000 (p.&nbsp;101), 2004 (pp.&nbsp;84–85), 2008 (pp.&nbsp;77–78), 2012 (pp.&nbsp;368–369), 2016 (pp.&nbsp;218–219), 2020 (pp.&nbsp;273–274).<section end=UnitedStates />
+
+==See also==
+* [[Water polo at the Summer Olympics]]
+{{div col}}
+* [[Lists of Olympic water polo records and statistics]]
+** [[List of men's Olympic water polo tournament records and statistics]]
+** [[List of women's Olympic water polo tournament records and statistics]]
+** [[List of Olympic champions in men's water polo]]
+** [[List of Olympic champions in women's water polo]]
+** [[National team appearances in the men's Olympic water polo tournament]]
+** [[National team appearances in the women's Olympic water polo tournament]]
+** [[List of players who have appeared in multiple men's Olympic water polo tournaments]]
+** [[List of players who have appeared in multiple women's Olympic water polo tournaments]]
+** [[List of Olympic medalists in water polo (men)]]
+** [[List of Olympic medalists in water polo (women)]]
+** [[List of men's Olympic water polo tournament top goalscorers]]
+** [[List of men's Olympic water polo tournament goalkeepers]]
+** [[List of women's Olympic water polo tournament goalkeepers]]
+** [[List of Olympic venues in water polo]]
+{{div col end}}
+
+==References==
+{{Reflist|refs=
+
+<!--Matches-->
+
+<ref name="2004 Women GRE vs ITA OP">{{cite web|title=Water Polo, Women – Final Round, Match 1/2 |url=https://www.olympedia.org/results/39021 |website=[[Olympedia]] |publisher=Olympedia |access-date=1 April 2021 }}</ref>
+
+<ref name="2008 Women AUS vs CHN OP">{{cite web|title=Water Polo, Women – Quarter-Finals, Match #1 |url=https://www.olympedia.org/results/262980 |website=[[Olympedia]] |publisher=Olympedia |access-date=1 April 2021 }}</ref>
+
+<ref name="2008 Women NED vs USA OP">{{cite web|title=Water Polo, Women – Final Round, Match 1/2 |url=https://www.olympedia.org/results/262972 |website=[[Olympedia]] |publisher=Olympedia |access-date=1 April 2021 }}</ref>
+
+<ref name="2012 Women HUN vs USA OP">{{cite web|title=Water Polo, Women – Group A, Match #2 |url=https://www.olympedia.org/results/330073 |website=[[Olympedia]] |publisher=Olympedia |access-date=1 April 2021 }}</ref>
+
+<ref name="2016 Women AUS vs ESP OP">{{cite web|title=Water Polo, Women – Final Round, Match 5/6 |url=https://www.olympedia.org/results/396355 |website=[[Olympedia]] |publisher=Olympedia |access-date=1 April 2021 }}</ref>
+
+<!--Players-->
+
+<ref name="Gemma Beadsworth SR">{{cite web|title=Gemma Beadsworth |url=https://www.sports-reference.com/olympics/athletes/be/gemma-beadsworth-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417085032/https://www.sports-reference.com/olympics/athletes/be/gemma-beadsworth-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Daniëlle de Bruijn SR">{{cite web|title=Daniëlle de Bruijn |url=https://www.sports-reference.com/olympics/athletes/de/danielle-de-bruijn-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417103836/https://www.sports-reference.com/olympics/athletes/de/danielle-de-bruijn-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Barbara Bujka SR">{{cite web|title=Barbara Bujka |url=https://www.sports-reference.com/olympics/athletes/bu/barbara-bujka-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417134457/https://www.sports-reference.com/olympics/athletes/bu/barbara-bujka-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Tania Di Mario SR">{{cite web|title=Tania Di Mario |url=https://www.sports-reference.com/olympics/athletes/di/tania-di-mario-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417085032/https://www.sports-reference.com/olympics/athletes/di/tania-di-mario-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Rita Drávucz SR">{{cite web|title=Rita Drávucz |url=https://www.sports-reference.com/olympics/athletes/dr/rita-dravucz-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417151450/https://www.sports-reference.com/olympics/athletes/dr/rita-dravucz-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Anni Espar OP">{{cite web|title=Anni Espar |url=https://www.olympedia.org/athletes/124841 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Makenzie Fischer OP">{{cite web|title=Makenzie Fischer |url=https://www.olympedia.org/athletes/132187 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Judith Forca OP">{{cite web|title=Judith Forca |url=https://www.olympedia.org/athletes/130011 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Maica García OP">{{cite web|title=Maica García |url=https://www.olympedia.org/athletes/124843 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Nadezhda Glyzina OP">{{cite web|title=Nadezhda Glyzina |url=https://www.olympedia.org/athletes/114133 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Bridgette Gusterson SR">{{cite web|title=Bridgette Gusterson |url=https://www.sports-reference.com/olympics/athletes/gu/bridgette-gusterson-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417104840/https://www.sports-reference.com/olympics/athletes/gu/bridgette-gusterson-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Kate Gynther SR">{{cite web|title=Kate Gynther |url=https://www.sports-reference.com/olympics/athletes/gy/kate-gynther-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417085029/https://www.sports-reference.com/olympics/athletes/gy/kate-gynther-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Evgeniya Ivanova OP">{{cite web|title=Evgeniya Ivanova |url=https://www.olympedia.org/athletes/120420 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Rita Keszthelyi SR">{{cite web|title=Rita Keszthelyi |url=https://www.sports-reference.com/olympics/athletes/ke/rita-keszthelyi-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417135312/https://www.sports-reference.com/olympics/athletes/ke/rita-keszthelyi-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Bronwen Knox SR">{{cite web|title=Bronwen Knox |url=https://www.sports-reference.com/olympics/athletes/kn/bronwen-knox-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417042246/https://www.sports-reference.com/olympics/athletes/kn/bronwen-knox-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Sofia Konukh SR">{{cite web|title=Sofia Konukh |url=https://www.sports-reference.com/olympics/athletes/ko/sofiya-konukh-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417074112/https://www.sports-reference.com/olympics/athletes/ko/sofiya-konukh-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Simone van de Kraats OP">{{cite web|title=Simone van de Kraats |url=https://www.olympedia.org/athletes/145532 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Ma Huanhuan SR">{{cite web|title=Ma Huanhuan |url=https://www.sports-reference.com/olympics/athletes/ma/ma-huanhuan-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417145343/https://www.sports-reference.com/olympics/athletes/ma/ma-huanhuan-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Maddie Musselman OP">{{cite web|title=Maddie Musselman |url=https://www.olympedia.org/athletes/132186 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Beatriz Ortiz OP">{{cite web|title=Beatriz Ortiz |url=https://www.olympedia.org/athletes/130009 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Ekaterina Prokofyeva OP">{{cite web|title=Ekaterina Prokofyeva |url=https://www.olympedia.org/athletes/114127 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Ashleigh Southern SR">{{cite web|title=Ashleigh Southern |url=https://www.sports-reference.com/olympics/athletes/so/ash-southern-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417150822/https://www.sports-reference.com/olympics/athletes/so/ash-southern-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Maggie Steffens OP">{{cite web|title=Maggie Steffens |url=https://www.olympedia.org/athletes/126741 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Maggie Steffens SR">{{cite web|title=Maggie Steffens |url=https://www.sports-reference.com/olympics/athletes/st/maggie-steffens-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417085031/https://www.sports-reference.com/olympics/athletes/st/maggie-steffens-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Roser Tarragó OP">{{cite web|title=Roser Tarragó |url=https://www.olympedia.org/athletes/124853 |website=[[Olympedia]] |publisher=Olympedia |access-date=12 August 2021 }}</ref>
+
+<ref name="Brenda Villa SR">{{cite web|title=Brenda Villa |url=https://www.sports-reference.com/olympics/athletes/vi/brenda-villa-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417085028/https://www.sports-reference.com/olympics/athletes/vi/brenda-villa-1.html |archive-date=17 April 2020 }}</ref>
+
+<ref name="Rowena Webster SR">{{cite web|title=Rowena Webster |url=https://www.sports-reference.com/olympics/athletes/we/rowie-webster-1.html |website=sports-reference.com |publisher=Sports Reference |access-date=1 May 2020 |url-status=dead |archive-url=https://web.archive.org/web/20200417115158/https://www.sports-reference.com/olympics/athletes/we/rowie-webster-1.html |archive-date=17 April 2020 }}</ref>
+
+}}
+
+==Sources==
+{{#section:List of women's Olympic water polo tournament records and statistics|Sources}}
+
+===ISHOF===
+{{Water polo statistics – sources (ISHOF)}}
+
+==External links==
+* [https://www.olympic.org/water-polo Olympic water polo – Official website]
+
+{{Water polo at the Summer Olympics}}
+{{Water polo records and statistics}}
+
+[[Category:Olympic water polo records and statistics|Top goalscorers, Women]]
+[[Category:Lists of Olympic sportswomen]]

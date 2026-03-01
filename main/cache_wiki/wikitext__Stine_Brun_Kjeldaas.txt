@@ -1,0 +1,43 @@
+{{short description|Norwegian snowboarder}}
+{{MedalTableTop | medals =
+{{MedalSport | Women's [[snowboarding]] }}
+{{MedalCountry | {{NOR}} }}
+{{MedalCompetition | [[Snowboarding at the Winter Olympics|Olympic Games]] }}
+{{MedalSilver | [[1998 Winter Olympics|1998 Nagano]] | [[Snowboarding at the 1998 Winter Olympics|Halfpipe]] }}
+}}
+
+'''Stine Brun Kjeldaas''' (born 23 April 1975) is a Norwegian professional [[snowboard]]er.  She is from [[Kongsberg]], Norway.
+
+==Snowboarding career==
+She won a silver medal in the [[half-pipe]] at the [[1998 Winter Olympic Games|1998 Winter Olympics]] in [[Nagano (city)|Nagano]],<ref>{{Cite web |title=Washington Post: The 1998 Winter Games in Nagano |url=https://www.washingtonpost.com/wp-srv/sports/longterm/olympics1998/recap/day6.htm |access-date=2024-04-22 |website=www.washingtonpost.com}}</ref> Japan, and also participated in the [[2002 Winter Olympic Games|2002 Winter Olympics]] in [[Salt Lake City]], United States.<ref>{{Cite web |title=Salt Lake City 2002Snowboard Half-pipe women Results |url=https://olympics.com/en/olympic-games/salt-lake-city-2002/results/snowboard/half-pipe-women |access-date=2024-04-22 |website=Olympics.com}}</ref>
+
+==Commentating career==
+She joined the [[BBC Sport|BBC]] commentary team for the [[2010 Winter Olympics]].<ref>{{Cite news |last=Pearson |first=Harry |date=2010-02-19 |title=OK, let's have another BBC recap on Ms Balding's Winter Olympics |url=https://www.theguardian.com/sport/blog/2010/feb/19/winter-olympics-bbc-coverage |access-date=2024-04-22 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+== Personal life ==
+Stine Brun Kjeldaas was married to Dutch snowboarder [[Cheryl Maas]].<ref>{{cite web |url=http://www.nusport.nl/sotsji-2014/3540432/atleten-bezorgd-antihomowet.html |title=Atleten bezorgd om antihomowet |last1=Joldersma |first1=Anne |last2=van Lakerveld |first2=Erik |date=1 August 2013 |website=NUsport |language=dutch |accessdate=14 October 2013}}</ref> They have two daughters called Lara and Mila.<ref>{{cite web |url=http://www.celtek.com/cheryl-maas-interview/ |title=Cheryl Maas Interview &#124; CELTEK &#124; BLOG |access-date=2015-02-10 |url-status=dead |archive-url=https://web.archive.org/web/20150210143827/http://www.celtek.com/cheryl-maas-interview/ |archive-date=2015-02-10 }}</ref><ref>{{cite web |url=http://www.sochi2014.com/en/athlete-cheryl-maas |title=Cheryl Maas profile |website=Sochi 2014 |accessdate=7 February 2014 |archive-date=6 August 2014 |archive-url=https://web.archive.org/web/20140806075625/http://www.sochi2014.com/en/athlete-cheryl-maas |url-status=dead }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{FIS snowboarder|30841}}
+
+{{DEFAULTSORT:Kjeldaas, Stine Brun}}
+[[Category:Norwegian female snowboarders]]
+[[Category:Olympic snowboarders for Norway]]
+[[Category:Snowboarders at the 1998 Winter Olympics]]
+[[Category:Snowboarders at the 2002 Winter Olympics]]
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Olympic medalists in snowboarding]]
+[[Category:Medalists at the 1998 Winter Olympics]]
+[[Category:LGBTQ snowboarders]]
+[[Category:Kongsberg IF]]
+[[Category:Olympic silver medalists for Norway]]
+[[Category:Sportspeople from Kongsberg]]
+[[Category:21st-century Norwegian sportswomen]]
+[[Category:Norwegian lesbian sportswomen]]
+
+{{Norway-snowboarding-bio-stub}}
+{{Norway-Winter-Olympic-medalist-stub}}

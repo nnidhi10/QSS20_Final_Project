@@ -1,0 +1,1325 @@
+{{Short description|None}}
+{{main|Snowboarding at the Winter Olympics}}
+[[File:Shaun White.jpg|thumb|300px|alt=Man with curly brown hair that reaches his shoulders|American [[Shaun White]] took the gold medal in the halfpipe contest at the [[2006 Winter Olympics|2006]], [[2010 Winter Olympics|2010]], and [[2018 Winter Olympics]].]]
+
+[[Snowboarding]] is an [[Olympic sports|Olympic sport]] that has been contested at the [[Winter Olympic Games]] since the [[1998 Winter Olympics]] in [[Nagano, Nagano|Nagano]], [[Japan]].<ref>{{cite web |url=http://www.olympic.org/uk/sports/programme/disciplines_uk.asp?DiscCode=SB |title=Snowboarding |publisher=International Olympic Committee |access-date=2009-06-21 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304230121/http://www.olympic.org/uk/sports/programme/disciplines_uk.asp?DiscCode=SB |url-status=live }}</ref> Snowboarding was one of five new sports or disciplines added to the Winter Olympic programme between 1990 and 2002, and was the only one not to have been a previous medal or demonstration event.<ref name=SBHist /> In 1998, four events, two for men and two for women, were held in two specialities: the giant slalom, a downhill event similar to [[giant slalom skiing]]; and the [[half-pipe]], in which competitors perform tricks while going from one side of a semi-circular ditch to the other.<ref name=SBHist>{{Cite web |title=Snowboarding History |url=http://www.fieldday.com/cbc/olympics/sports/snowboarding/history/index.html |publisher=[[Canadian Broadcasting Corporation|CBC Sports]] |access-date=21 June 2009|url-status=dead |archive-url=https://web.archive.org/web/20110711001209/http://www.fieldday.com/cbc/olympics/sports/snowboarding/history/index.html |archive-date=2011-07-11 }}</ref> [[Canada at the 1998 Winter Olympics|Canadian]] [[Ross Rebagliati]] won the men's giant slalom and became the first athlete to win a gold medal in snowboarding.<ref>{{Cite web |url=https://www.nytimes.com/1998/02/09/sports/xviii-winter-games-snowboarding-young-hip-sport-zigzags-into-olympic-mainstream.html |title=Young, Hip Sport Zigzags Into the Olympic Mainstream |author=Berkow, Ira |date=1998-02-09 |access-date=2009-06-21 |work=[[The New York Times]] |archive-date=2017-09-18 |archive-url=https://web.archive.org/web/20170918202736/http://www.nytimes.com/1998/02/09/sports/xviii-winter-games-snowboarding-young-hip-sport-zigzags-into-olympic-mainstream.html |url-status=live }}</ref> Rebagliati was briefly stripped of his medal by the [[International Olympic Committee]] (IOC) after testing positive for [[marijuana]]. However, the IOC's decision was reverted following an appeal from the Canadian Olympic Association.<ref>{{cite web|last=Gross |first=George |author-link=George Gross (journalist) |title= Kevin Munson : 1998 – Nagano, Japan |work=[[Sun Media Corporation]] |publisher=[[Canadian Online Explorer]] |date=2006-02-21 |url=http://slam.canoe.ca/Slam/Olympics/2006Turin/MomentsOfGlory/2006/02/14/pf-1442844.html |access-date=2009-06-21 |archive-url=https://archive.today/20120716141020/http://slam.canoe.ca/Slam/Olympics/2006Turin/MomentsOfGlory/2006/02/14/pf-1442844.html |archive-date=2012-07-16 |url-status=usurped }}</ref> For the [[2002 Winter Olympics]], the giant slalom was dropped in favour of the parallel giant slalom, an event that involves head-to-head racing.<ref>{{Cite web |title=Salt Lake City 2002: The 19th Olympic Winter Games; Snowboarding |url=https://www.nytimes.com/2002/02/05/sports/salt-lake-city-2002-the-19th-olympic-winter-games-snowboarding.html |work=The New York Times |access-date=2009-06-21 |last=Wong |first=Edward |date=2002-02-05 |archive-date=2017-09-19 |archive-url=https://web.archive.org/web/20170919005956/http://www.nytimes.com/2002/02/05/sports/salt-lake-city-2002-the-19th-olympic-winter-games-snowboarding.html |url-status=live }}</ref> In [[2006 Winter Olympics|2006]], a third event, the snowboard cross, was held for the first time. In this event, competitors race against each other down a course with jumps, beams and other obstacles.<ref>{{Cite web |url=https://news.bbc.co.uk/sport2/hi/other_sports/winter_sports/4723018.stm |publisher=[[BBC Sport]] |access-date=2009-06-21 |author=Thompson, Anna |date=2006-02-17 |title=Snowboard cross 'here to stay' |archive-date=2017-09-18 |archive-url=https://web.archive.org/web/20170918160829/http://news.bbc.co.uk/sport2/hi/other_sports/winter_sports/4723018.stm |url-status=live }}</ref>
+
+New Zealander [[Zoi Sadowski-Synnott]] is the most decorated snowboarder in Olympic history with 5 Olympic medals, followed by Austrian [[Benjamin Karl]] who has 4 Olympic medals. Ten athletes have won three medals: Americans [[Shaun White]], [[Jamie Anderson (snowboarder)|Jamie Anderson]], [[Lindsey Jacobellis]] and [[Kelly Clark]], as well as Canadians [[Max Parrot]] and [[Mark McMorris]], Japanese [[Ayumu Hirano]], Slovenian [[Žan Košir]], Russian [[Vic Wild]] and Korean-American [[Chloe Kim]].  
+
+__NOTOC__
+{| class="toc"
+! colspan="2" | Table of contents
+|-
+| style="padding-left:1em;" | '''[[#Men|Men]]'''
+| style="padding-left:1em; padding-right:1em;" |
+[[#Big air|Big air]] •
+[[#Halfpipe|Halfpipe]] •
+[[#Parallel giant slalom|Parallel giant slalom]] •
+[[#Snowboard cross|Snowboard cross]] •
+[[#Slopestyle|Slopestyle]]
+|-
+| style="padding-left:1em;" | '''[[#Women|Women]]'''
+| style="padding-left:1em; padding-right:1em;" |
+[[#WBig air|Big air]] •
+[[#WHalfpipe|Halfpipe]] •
+[[#WParallel giant slalom|Parallel giant slalom]] •
+[[#WSnowboard cross|Snowboard cross]] •
+[[#WSlopestyle|Slopestyle]]
+|-
+| style="padding-left:1em;" | '''[[#Mixed|Mixed]]'''
+| style="padding-left:1em; padding-right:1em;" |
+[[#Snowboard cross team|Snowboard cross team]]
+|-
+| style="padding-left:1em;" | '''Discontinued'''
+| style="padding-left:1em; padding-right:1em;" |
+Giant slalom ([[#Giant slalom|men]] • [[#WGiant slalom|women]])
+Parallel slalom ([[#Parallel slalom|men]] • [[#WParallel slalom|women]])
+|-
+| style="padding-left:1em;" | '''[[#Statistics|Statistics]]'''
+| style="padding-left:1em; padding-right:1em;" |
+[[#Athlete medal leaders|Athlete medal leaders]] •
+[[#Medals per year|Medals per year]] •
+[[#Medal sweep events|Medal sweep events]]
+|-
+| colspan="2" style="text-align:center" | 
+'''[[#See also|See also]]'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+'''[[#References|References]]'''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+'''[[#External links|External links]]'''
+|}
+
+== Men ==
+===Big air===
+{{multiple image
+ | width = 180
+ | image1 = 苏翊鸣 Su Yiming.jpg
+ | alt1 = Su Yiming
+ | image2 = Ayumu Hirano.jpg
+ | alt2 = Ayumu Hirano
+ | footer = [[Su Yiming]] of [[China at the 2022 Winter Olympics|China]] & [[Ayumu Hirano]] of [[Japan at the 2022 Winter Olympics|Japan]] are the only Asian gold medalists in Olympic snowboarding events.
+}}
+
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+|[[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br>{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Men's big air}}
+|{{flagIOCmedalist|[[Sébastien Toutant]]|CAN|2018 Winter}} 
+|{{flagIOCmedalist|[[Kyle Mack]]|USA|2018 Winter}}
+|{{flagIOCmedalist|[[Billy Morgan (snowboarder)|Billy Morgan]]|GBR|2018 Winter}}
+|-
+| [[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br>{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Men's big air}}
+| {{flagIOCmedalist|[[Su Yiming]]|CHN|2022 Winter}}
+| {{flagIOCmedalist|[[Mons Røisland]]|NOR|2022 Winter}}
+| {{flagIOCmedalist|[[Max Parrot]]|CAN|2022 Winter}}
+|-
+| [[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br>{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Men's big air}}
+| {{flagIOCmedalist|[[Kira Kimura]]|JPN|2026 Winter}}
+| {{flagIOCmedalist|[[Ryoma Kimata]]|JPN|2026 Winter}}
+| {{flagIOCmedalist|[[Su Yiming]]|CHN|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''
+| style="text-align: left;" |{{flagIOC|JPN}}
+|1
+|1
+|0
+|2
+|-
+| rowspan="2" |'''2'''|| style="text-align:left" |{{flagIOC|CAN}}||1||0||1||2
+|-
+| style="text-align:left" |{{flagIOC|CHN}}||1||0||1||2
+|-
+| rowspan="2" |'''4'''|| style="text-align:left" |{{flagIOC|NOR}}||0||1||0||1
+|-
+|style="text-align:left"|{{flagIOC|USA}}||0||1||0||1
+|-
+|'''6'''|| style="text-align:left" |{{flagIOC|GBR}}||0||0||1||1
+|-
+|'''Total'''||'''6 nations'''||'''3'''||'''3'''||'''3'''||'''9'''
+|}
+
+=== Halfpipe ===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 1998 Winter Olympics|1998 Nagano]]<br />{{DetailsLink|Snowboarding at the 1998 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Gian Simmen]]|SUI|1998 Winter}}
+| {{flagIOCmedalist|[[Daniel Franck]]|NOR|1998 Winter}}
+| {{flagIOCmedalist|[[Ross Powers]]|USA|1998 Winter}}
+|-
+| [[Snowboarding at the 2002 Winter Olympics|2002 Salt Lake City]]<br />{{DetailsLink|Snowboarding at the 2002 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Ross Powers]]|USA|2002 Winter}}
+| {{flagIOCmedalist|[[Danny Kass]]|USA|2002 Winter}}
+| {{flagIOCmedalist|[[Jarret Thomas]]|USA|2002 Winter}}
+|-
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Shaun White]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Danny Kass]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Markku Koski]]|FIN|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Shaun White]]|USA|2010 Winter}}
+| {{flagIOCmedalist|[[Peetu Piiroinen]]|FIN|2010 Winter}}
+| {{flagIOCmedalist|[[Scott Lago]]|USA|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Iouri Podladtchikov]]|SUI|2014 Winter}}
+| {{flagIOCmedalist|[[Ayumu Hirano]]|JPN|2014 Winter}}
+| {{flagIOCmedalist|[[Taku Hiraoka]]|JPN|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Shaun White]]|USA|2018 Winter}}
+| {{flagIOCmedalist|[[Ayumu Hirano]]|JPN|2018 Winter}}
+| {{flagIOCmedalist|[[Scotty James]]|AUS|2018 Winter}}
+|-
+| [[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Ayumu Hirano]]|JPN|2022 Winter}}
+| {{flagIOCmedalist|[[Scotty James]]|AUS|2022 Winter}}
+| {{flagIOCmedalist|[[Jan Scherrer]]|SUI|2022 Winter}}
+|-
+| [[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Men's halfpipe}}
+| {{flagIOCmedalist|[[Yuto Totsuka]]|JPN|2026 Winter}}
+| {{flagIOCmedalist|[[Scotty James]]|AUS|2026 Winter}}
+| {{flagIOCmedalist|[[Ryusei Yamada]]|JPN|2026 Winter}}
+|-
+|}
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|USA}}||4||2||3||9
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|JPN}}||2||2||2||6
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|SUI}}||2||0||1||3
+|-
+|'''4'''||style="text-align:left"|{{flagIOC|AUS}}||0||2||1||3
+|-
+|'''5'''||style="text-align:left"|{{flagIOC|FIN}}||0||1||1||2
+|-
+|'''6'''||style="text-align:left"|{{flagIOC|NOR}}||0||1||0||1
+|-
+|'''Total'''||'''6 nations'''||'''8'''||'''8'''||'''8'''||'''24'''
+|}
+
+=== <span id="Giant slalom">Giant slalom (discontinued)</span> === 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 1998 Winter Olympics|1998 Nagano]]<br />{{DetailsLink|Snowboarding at the 1998 Winter Olympics – Men's giant slalom}}
+| {{flagIOCmedalist|[[Ross Rebagliati]]|CAN|1998 Winter}}
+| {{flagIOCmedalist|[[Thomas Prugger]]|ITA|1998 Winter}}
+| {{flagIOCmedalist|[[Ueli Kestenholz]]|SUI|1998 Winter}}
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|CAN}}||1||0||0||1
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|ITA}}||0||1||0||1
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|SUI}}||0||0||1||1
+|-
+|'''Total'''||'''3 nations'''||'''1'''||'''1'''||'''1'''||'''3'''
+|}
+
+===Parallel giant slalom===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2002 Winter Olympics|2002 Salt Lake City]]<br />{{DetailsLink|Snowboarding at the 2002 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Philipp Schoch]]|SUI|2002 Winter}}
+| {{flagIOCmedalist|[[Richard Richardsson (snowboarder)|Richard Richardsson]]|SWE|2002 Winter}} 
+| {{flagIOCmedalist|[[Chris Klug]]|USA|2002 Winter}}
+|-
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Philipp Schoch]]|SUI|2006 Winter}}
+| {{flagIOCmedalist|[[Simon Schoch]]|SUI|2006 Winter}}
+| {{flagIOCmedalist|[[Siegfried Grabner]]|AUT|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Jasey-Jay Anderson]]|CAN|2010 Winter}}
+| {{flagIOCmedalist|[[Benjamin Karl]]|AUT|2010 Winter}}
+| {{flagIOCmedalist|[[Mathieu Bozzetto]]|FRA|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Vic Wild]]|RUS|2014 Winter}}
+| {{flagIOCmedalist|[[Nevin Galmarini]]|SUI|2014 Winter}}
+| {{flagIOCmedalist|[[Žan Košir]]|SLO|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Nevin Galmarini]]|SUI|2018 Winter}}
+| {{flagIOCmedalist|[[Lee Sang-ho (snowboarder)|Lee Sang-ho]]|KOR|2018 Winter}}
+| {{flagIOCmedalist|[[Žan Košir]]|SLO|2018 Winter}}
+|-
+| [[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Benjamin Karl]]|AUT|2022 Winter}}
+| {{flagIOCmedalist|[[Tim Mastnak]]|SLO|2022 Winter}}
+| {{flagIOCmedalist|[[Vic Wild]]|ROC|2022 Winter}}
+|-
+| [[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Men's parallel giant slalom}}
+| {{flagIOCmedalist|[[Benjamin Karl]]|AUT|2026 Winter}}
+| {{flagIOCmedalist|[[Kim Sang-kyum]]|KOR|2026 Winter}}
+| {{flagIOCmedalist|[[Tervel Zamfirov]]|BUL|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|SUI}}||3||2||0||5
+|-
+|'''2'''|| style="text-align:left" |{{flagIOC|AUT}}||2||1||1||4
+|-
+| rowspan="2" |'''3'''|| style="text-align:left" |{{flagIOC|CAN}}||1||0||0||1
+|-
+| style="text-align:left" |{{flagIOC|RUS}}||1||0||0||1
+|-
+|'''5'''|| style="text-align:left" |{{flagIOC|KOR}}||0||2||0||2
+|-
+|'''6'''|| style="text-align:left" |{{flagIOC|SLO}}||0||1||2||3
+|-
+|'''7'''
+| style="text-align:left" |{{flagIOC|SWE}}||0||1||0||1
+|-
+| rowspan="4" |'''8'''
+| style="text-align: left;" |{{flagIOC|BUL}}
+|0
+|0
+|1
+|1
+|-
+| style="text-align:left" |{{flagIOC|FRA}}||0||0||1||1
+|-
+| style="text-align:left"|{{flagIOC|ROC|2022 Winter}}||0||0||1||1
+|-
+| style="text-align:left" |{{flagIOC|USA}}||0||0||1||1
+|-
+|'''Total'''||'''11 nations'''||'''7'''||'''7'''||'''7'''||'''21'''
+|}
+
+===<span id="Parallel slalom">Parallel slalom (discontinued)</span>=== 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|+
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Men's parallel slalom}}
+| {{flagIOCmedalist|[[Vic Wild]]|RUS|2014 Winter}}
+| {{flagIOCmedalist|[[Žan Košir]]|SLO|2014 Winter}}
+| {{flagIOCmedalist|[[Benjamin Karl]]|AUT|2014 Winter}}
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|RUS}}||1||0||0||1
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|SLO}}||0||1||0||1
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|AUT}}||0||0||1||1
+|-
+|'''Total'''||'''3 nations'''||'''1'''||'''1'''||'''1'''||'''3'''
+|}
+
+===Snowboard cross===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Seth Wescott]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Radoslav Židek]]|SVK|2006 Winter}}
+| {{flagIOCmedalist|[[Paul-Henri de Le Rue]]|FRA|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Seth Wescott]]|USA|2010 Winter}}
+| {{flagIOCmedalist|[[Mike Robertson (snowboarder)|Mike Robertson]]|CAN|2010 Winter}}
+| {{flagIOCmedalist|[[Tony Ramoin]]|FRA|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Pierre Vaultier]]|FRA|2014 Winter}}
+| {{flagIOCmedalist|[[Nikolay Olyunin]]|RUS|2014 Winter}}
+| {{flagIOCmedalist|[[Alex Deibold]]|USA|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Pierre Vaultier]]|FRA|2018 Winter}}
+| {{flagIOCmedalist|[[Jarryd Hughes]]|AUS|2018 Winter}}
+| {{flagIOCmedalist|[[Regino Hernández]]|ESP|2018 Winter}}
+|-
+| [[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Alessandro Hämmerle]]|AUT|2022 Winter}}
+| {{flagIOCmedalist|[[Éliot Grondin]]|CAN|2022 Winter}}
+| {{flagIOCmedalist|[[Omar Visintin]]|ITA|2022 Winter}}
+|-
+| [[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Men's snowboard cross}}
+| {{flagIOCmedalist|[[Alessandro Hämmerle]]|AUT|2026 Winter}}
+| {{flagIOCmedalist|[[Éliot Grondin]]|CAN|2026 Winter}}
+| {{flagIOCmedalist|[[Jakob Dusek]]|AUT|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|FRA}}||2||0||2||4
+|-
+|rowspan="2" |'''2'''||style="text-align:left"|{{flagIOC|USA}}||2||0||1||3
+|-
+|style="text-align:left"|{{flagIOC|AUT}}||2||0||1||3
+|-
+|'''4'''||style="text-align:left" |{{flagIOC|CAN}}||0||3||0||3
+|-
+| rowspan="3" |'''5'''||style="text-align:left"|{{flagIOC|AUS}}||0||1||0||1
+|-
+| style="text-align:left" |{{flagIOC|RUS}}||0||1||0||1
+|-
+| style="text-align:left" |{{flagIOC|SVK}}||0||1||0||1
+|-
+|rowspan="2" |'''8'''||style="text-align:left"|{{flagIOC|ESP}}||0||0||1||1
+|-
+|style="text-align:left"|{{flagIOC|ITA}}||0||0||1||1
+|-
+|'''Total'''||'''9 nations'''||'''6'''||'''6'''||'''6'''||'''18'''
+|}
+
+===Slopestyle===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Men's slopestyle}}
+| {{flagIOCmedalist|[[Sage Kotsenburg]]|USA|2014 Winter}}
+| {{flagIOCmedalist|[[Ståle Sandbech]]|NOR|2014 Winter}}
+| {{flagIOCmedalist|[[Mark McMorris]]|CAN|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Men's slopestyle}}
+| {{flagIOCmedalist|[[Red Gerard]] |USA|2018 Winter}}
+| {{flagIOCmedalist|[[Max Parrot]] |CAN|2018 Winter}}
+| {{flagIOCmedalist|[[Mark McMorris]]|CAN|2018 Winter}}
+|-
+| [[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Men's slopestyle}}
+| {{flagIOCmedalist|[[Max Parrot]] |CAN|2022 Winter}}
+| {{flagIOCmedalist|[[Su Yiming]] |CHN|2022 Winter}}
+| {{flagIOCmedalist|[[Mark McMorris]]|CAN|2022 Winter}}
+|-
+| [[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Men's slopestyle}}
+| {{flagIOCmedalist|[[Su Yiming]]|CHN|2026 Winter}}
+| {{flagIOCmedalist|[[Taiga Hasegawa]]|JPN|2026 Winter}}
+| {{flagIOCmedalist|[[Jake Canter]]|USA|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Green 
+
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|USA}}||2||0||1||3
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|CAN}}||1||1||3||5
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|CHN}}||1||1||0||2
+
+|-
+| rowspan="2" |'''4'''
+|style="text-align:left" | {{flagIOC|JPN}}||0||1||0||1
+|-
+| style="text-align:left" |{{flagIOC|NOR}}||0||1||0||1
+|-
+|'''Total'''||'''5 nations'''||'''4'''||'''4'''||'''4'''||'''12'''
+|}
+
+== Women ==
+<!-- Deleted image removed: [[File:Hannah Teter crop.jpg|thumb|alt=|[[Hannah Teter]] won the women's half-pipe event in Turin.]] -->
+
+===<span id="WBig air">Big air</span>===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br>{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Women's big air}}
+|{{flagIOCmedalist|[[Anna Gasser]] |AUT|2018 Winter}} 
+|{{flagIOCmedalist|[[Jamie Anderson (snowboarder)|Jamie Anderson]] |USA|2018 Winter}} 
+|{{flagIOCmedalist|[[Zoi Sadowski-Synnott]] |NZL|2018 Winter}} 
+|-
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br>{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Women's big air}}
+|{{flagIOCmedalist|[[Anna Gasser]] |AUT|2022 Winter}} 
+|{{flagIOCmedalist|[[Zoi Sadowski-Synnott]] |NZL|2022 Winter}} 
+|{{flagIOCmedalist|[[Kokomo Murase]] |JPN|2022 Winter}} 
+|-
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br>{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Women's big air}}
+|{{flagIOCmedalist|[[Kokomo Murase]] |JPN|2026 Winter}} 
+|{{flagIOCmedalist|[[Zoi Sadowski-Synnott]] |NZL|2026 Winter}} 
+|{{flagIOCmedalist|[[Yu Seung-eun]] |KOR|2026 Winter}} 
+|-
+|}
+
+{| class="wikitable" style="text-align:center"
+|-
+| colspan="6" style="background:#BCD4E6" | '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width="75px" class="hintergrundfarbe5" | Rank
+! width="175px" class="hintergrundfarbe6" | Nation
+! style="background:    gold; width:35px " | Gold
+! style="background:  silver; width:35px " | Silver
+! style="background: #CC9966; width:35px " | Bronze
+! width="35px" |Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|AUT}}||2||0||0||2
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|JPN}}||1||0||1||2
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|NZL}}||0||2||1||3
+|-
+|'''4'''||style="text-align:left"|{{flagIOC|USA}}||0||1||0||1
+|-
+|'''5'''||style="text-align:left"|{{flagIOC|KOR}}||0||0||1||1
+|-
+|'''Total'''||'''4 nations'''||'''3'''||'''3'''||'''3'''||'''9'''
+|}
+
+===<span id="WHalfpipe">Halfpipe</span>===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 1998 Winter Olympics|1998 Nagano]]<br />{{DetailsLink|Snowboarding at the 1998 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Nicola Thost]]|GER|1998 Winter}}
+| {{flagIOCmedalist|[[Stine Brun Kjeldaas]]|NOR|1998 Winter}}
+| {{flagIOCmedalist|[[Shannon Dunn-Downing|Shannon Dunn]]|USA|1998 Winter}}
+|-
+| [[Snowboarding at the 2002 Winter Olympics|2002 Salt Lake City]]<br />{{DetailsLink|Snowboarding at the 2002 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Kelly Clark]]|USA|2002 Winter}}
+| {{flagIOCmedalist|[[Doriane Vidal]]|FRA|2002 Winter}}
+| {{flagIOCmedalist|[[Fabienne Reuteler]]|SUI|2002 Winter}}
+|-
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Hannah Teter]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Gretchen Bleiler]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Kjersti Buaas]]|NOR|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Torah Bright]]|AUS|2010 Winter}}
+| {{flagIOCmedalist|[[Hannah Teter]]|USA|2010 Winter}}
+| {{flagIOCmedalist|[[Kelly Clark]]|USA|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Kaitlyn Farrington]]|USA|2014 Winter}}
+| {{flagIOCmedalist|[[Torah Bright]]|AUS|2014 Winter}}
+| {{flagIOCmedalist|[[Kelly Clark]]|USA|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Chloe Kim]]|USA|2018 Winter}}
+| {{flagIOCmedalist|[[Liu Jiayu]]|CHN|2018 Winter}}
+| {{flagIOCmedalist|[[Arielle Gold]]|USA|2018 Winter}}
+|-
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Chloe Kim]]|USA|2022 Winter}}
+| {{flagIOCmedalist|[[Queralt Castellet]]|ESP|2022 Winter}}
+| {{flagIOCmedalist|[[Sena Tomita]]|JPN|2022 Winter}}
+|-
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Women's halfpipe}}
+| {{flagIOCmedalist|[[Gaon Choi]]|KOR|2026 Winter}}
+| {{flagIOCmedalist|[[Chloe Kim]]|USA|2026 Winter}}
+| {{flagIOCmedalist|[[Mitsuki Ono]]|JPN|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|USA}}||6||2||4||12
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|AUS}}||1||1||0||2
+|-
+| rowspan="2" |'''3'''||style="text-align:left"|{{flagIOC|GER}}||1||0||0||1
+|-
+| style="text-align:left" |{{flagIOC|KOR}}||1||0||0||1
+|-
+|'''5'''||style="text-align:left"|{{flagIOC|NOR}}||0||1||1||2
+|-
+| rowspan="3" |'''6'''|| style="text-align:left" |{{flagIOC|FRA}}||0||1||0||1
+|-
+| style="text-align:left" |{{flagIOC|ESP}}||0||1||0||1
+|-
+| style="text-align:left"|{{flagIOC|CHN}}||0||1||0||1
+|-
+|'''9'''|| style="text-align:left" |{{flagIOC|JPN}}||0||0||2||2
+|-
+|'''10'''||style="text-align:left"|{{flagIOC|SUI}}||0||0||1||1
+|-
+|'''Total'''||'''10 nations'''||'''8'''||'''8'''||'''8'''||'''24'''
+|}
+
+=== <span id="WGiant slalom">Giant slalom (discontinued)</span> ===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-
+| [[Snowboarding at the 1998 Winter Olympics|1998 Nagano]]<br />{{DetailsLink|Snowboarding at the 1998 Winter Olympics – Women's giant slalom}}
+| {{flagIOCmedalist|[[Karine Ruby]]|FRA|1998 Winter}}
+| {{flagIOCmedalist|[[Heidi Renoth|Heidi Maria Renoth]]|GER|1998 Winter}}
+| {{flagIOCmedalist|[[Brigitte Köck]]|AUT|1998 Winter}}
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|FRA}}||1||0||0||1
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|GER}}||0||1||0||1
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|AUT}}||0||0||1||1
+|-
+|'''Total'''||'''3 nations'''||'''1'''||'''1'''||'''1'''||'''3'''
+|}
+
+=== <span id="WParallel giant slalom">Parallel giant slalom</span> === 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2002 Winter Olympics|2002 Salt Lake City]]<br />{{DetailsLink|Snowboarding at the 2002 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Isabelle Blanc]]|FRA|2002 Winter}}
+| {{flagIOCmedalist|[[Karine Ruby]]|FRA|2002 Winter}}
+| {{flagIOCmedalist|[[Lidia Trettel]]|ITA|2002 Winter}}
+|-
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Daniela Meuli]]|SUI|2006 Winter}}
+| {{flagIOCmedalist|[[Amelie Kober]]|GER|2006 Winter}}
+| {{flagIOCmedalist|[[Rosey Fletcher]]|USA|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Nicolien Sauerbreij]]|NED|2010 Winter}}
+| {{flagIOCmedalist|[[Yekaterina Ilyukhina]]|RUS|2010 Winter}}
+| {{flagIOCmedalist|[[Marion Kreiner]]|AUT|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Patrizia Kummer]]|SUI|2014 Winter}}
+| {{flagIOCmedalist|[[Tomoka Takeuchi]]|JPN|2014 Winter}}
+| {{flagIOCmedalist|[[Alena Zavarzina]]|RUS|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Ester Ledecká]]|CZE|2018 Winter}}
+| {{flagIOCmedalist|[[Selina Jörg]]|GER|2018 Winter}}
+| {{flagIOCmedalist|[[Ramona Theresia Hofmeister]]|GER|2018 Winter}}
+|-
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Ester Ledecká]]|CZE | 2022 Winter}}
+| {{flagIOCmedalist|[[Daniela Ulbing]]|AUT|2022 Winter}}
+| {{flagIOCmedalist|[[Glorija Kotnik]]|SLO|2022 Winter}}
+|-
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Women's parallel giant slalom}}
+| {{flagIOCmedalist|[[Zuzana Maděrová]]|CZE|2026 Winter}}
+| {{flagIOCmedalist|[[Sabine Payer]]|AUT|2026 Winter}}
+| {{flagIOCmedalist|[[Lucia Dalmasso]]|ITA|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|CZE}}||3||0||0||3
+|-
+|'''2'''
+| style="text-align:left" |{{flagIOC|SUI}}||2||0||0||2
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|FRA}}||1||1||0||2
+|-
+|'''4'''|| style="text-align:left" |{{flagIOC|NED}}||1||0||0||1
+|-
+| rowspan="2" |'''5'''|| style="text-align:left" |{{flagIOC|AUT}}||0||2||1||3
+|-
+| style="text-align:left" |{{flagIOC|GER}}||0||2||1||3
+|-
+|'''7'''
+| style="text-align:left" |{{flagIOC|RUS}}||0||1||1||2
+|-
+|'''8'''|| style="text-align:left" |{{flagIOC|JPN}}||0||1||0||1
+|-
+|'''9'''||style="text-align:left" |{{flagIOC|ITA}}||0||0||2||2
+|-
+| rowspan="2" |'''10'''
+| style="text-align:left" |{{flagIOC|SLO}}||0||0||1||1
+|-
+| style="text-align:left" |{{flagIOC|USA}}||0||0||1||1
+|-
+|'''Total'''||'''11 nations'''||'''7'''||'''7'''||'''7'''||'''21'''
+|}
+
+=== <span id="WParallel slalom">Parallel slalom (discontinued)</span> === 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Women's parallel slalom}}
+| {{flagIOCmedalist|[[Julia Dujmovits]]|AUT|2014 Winter}}
+| {{flagIOCmedalist|[[Anke Karstens]]|GER|2014 Winter}}
+| {{flagIOCmedalist|[[Amelie Kober]]|GER|2014 Winter}}
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|AUT}}||1||0||0||1
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|GER}}||0||1||1||2
+|-
+|'''Total'''||'''2 nations'''||'''1'''||'''1'''||'''1'''||'''3'''
+|}
+
+=== <span id="WSnowboard cross">Snowboard cross</span> === 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2006 Winter Olympics|2006 Turin]]<br />{{DetailsLink|Snowboarding at the 2006 Winter Olympics – Women's snowboard cross}}
+| {{flagIOCmedalist|[[Tanja Frieden]]|SUI|2006 Winter}}
+| {{flagIOCmedalist|[[Lindsey Jacobellis]]|USA|2006 Winter}}
+| {{flagIOCmedalist|[[Dominique Maltais]]|CAN|2006 Winter}}
+|-
+| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]]<br />{{DetailsLink|Snowboarding at the 2010 Winter Olympics – Women's snowboard cross}}
+| {{flagIOCmedalist|[[Maëlle Ricker]]|CAN|2010 Winter}}
+| {{flagIOCmedalist|[[Déborah Anthonioz]]|FRA|2010 Winter}}
+| {{flagIOCmedalist|[[Olivia Nobs]]|SUI|2010 Winter}}
+|-
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Women's snowboard cross}}
+| {{flagIOCmedalist|[[Eva Samková]]|CZE|2014 Winter}}
+| {{flagIOCmedalist|[[Dominique Maltais]]|CAN|2014 Winter}}
+| {{flagIOCmedalist|[[Chloé Trespeuch]]|FRA|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Women's snowboard cross}}
+| {{flagIOCmedalist|[[Michela Moioli]]|ITA|2018 Winter}}
+| {{flagIOCmedalist|[[Julia Pereira de Sousa Mabileau]]|FRA|2018 Winter}}
+| {{flagIOCmedalist|[[Eva Samková]]|CZE|2018 Winter}}
+|-
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Women's snowboard cross}}
+|{{flagIOCmedalist|[[Lindsey Jacobellis]]|USA|2022 Winter}}
+|{{flagIOCmedalist|[[Chloé Trespeuch]]|FRA|2022 Winter}}
+|{{flagIOCmedalist|[[Meryeta O'Dine]]|CAN|2022 Winter}}
+|-
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Women's snowboard cross}}
+|{{flagIOCmedalist|[[Josie Baff]]|AUS|2026 Winter}}
+|{{flagIOCmedalist|[[Eva Adamczyková]]|CZE|2026 Winter}}
+|{{flagIOCmedalist|[[Michela Moioli]]|ITA|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|CAN}}||1||1||2||4
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|CZE}}||1||1||1||2
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|USA}}||1||1||0||2
+|-
+| rowspan="2" |'''4'''||style="text-align:left"|{{flagIOC|SUI}}||1||0||1||2
+|-
+| style="text-align:left" |{{flagIOC|ITA}}||1||0||1||2
+|-
+|'''5'''||style="text-align:left"|{{flagIOC|AUS}}||1||0||0||1
+|-
+|'''6'''||style="text-align:left"|{{flagIOC|FRA}}||0||3||1||4
+|-
+|'''Total'''||'''6 nations'''||'''6'''||'''6'''||'''6'''||'''18'''
+|}
+
+=== <span id="WSlopestyle">Slopestyle</span> === 
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+| [[Snowboarding at the 2014 Winter Olympics|2014 Sochi]]<br />{{DetailsLink|Snowboarding at the 2014 Winter Olympics – Women's slopestyle}}
+| {{flagIOCmedalist|[[Jamie Anderson (snowboarder)|Jamie Anderson]]|USA|2014 Winter}}
+| {{flagIOCmedalist|[[Enni Rukajärvi]]|FIN|2014 Winter}}
+| {{flagIOCmedalist|[[Jenny Jones (snowboarder)|Jenny Jones]]|GBR|2014 Winter}}
+|-
+| [[Snowboarding at the 2018 Winter Olympics|2018 Pyeongchang]]<br />{{DetailsLink|Snowboarding at the 2018 Winter Olympics – Women's slopestyle}}
+|{{flagIOCmedalist|[[Jamie Anderson (snowboarder)|Jamie Anderson]]|USA|2018 Winter}}
+|{{flagIOCmedalist|[[Laurie Blouin]]|CAN|2018 Winter}}
+|{{flagIOCmedalist|[[Enni Rukajärvi]]|FIN|2018 Winter}}
+|-
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Women's slopestyle}}
+|{{flagIOCmedalist|[[Zoi Sadowski-Synnott]]|NZL|2022 Winter}}
+|{{flagIOCmedalist|[[Julia Marino (snowboarder)| Julia Marino]]|USA|2022 Winter}}
+|{{flagIOCmedalist|[[Tess Coady]]|AUS|2022 Winter}}
+|-
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Women's slopestyle}}
+|{{flagIOCmedalist|[[Mari Fukada]]|JPN|2026 Winter}}
+|{{flagIOCmedalist|[[Zoi Sadowski-Synnott]]|NZL|2026 Winter}}
+|{{flagIOCmedalist|[[Kokomo Murase]]|JPN|2026 Winter}}
+|-
+|}
+
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=150px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+|'''1'''||style="text-align:left"|{{flagIOC|USA}}||2||1||0||3
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|NZL}}||1||1||0||2
+|-
+|'''3'''||style="text-align:left"|{{flagIOC|JPN}}||1||0||1||2
+|-
+|'''4'''||style="text-align:left"|{{flagIOC|FIN}}||0||1||1||2
+|-
+|'''5'''||style="text-align:left"|{{flagIOC|CAN}}||0||1||0||1
+|-
+| rowspan="2" |'''6'''||style="text-align:left"|{{flagIOC|AUS}}||0||0||1||1
+|-
+| style="text-align:left" |{{flagIOC|GBR}}||0||0||1||1
+|-
+|'''Total'''||'''7 nations'''||'''4'''||'''4'''||'''4'''||'''12'''
+|}
+
+== Mixed ==
+=== Snowboard cross team ===
+{| {{MedalistTable|type=Games| width=225|labelwidth=200}}
+|-style="vertical-align:top"
+|[[Snowboarding at the 2022 Winter Olympics|2022 Beijing]] <br />{{DetailsLink|Snowboarding at the 2022 Winter Olympics – Mixed team snowboard cross}}
+|{{flagIOC|USA}}<br>[[Nick Baumgartner]]<br>[[Lindsey Jacobellis]]
+|{{flagIOC|ITA}}<br>[[Omar Visintin]]<br>[[Michela Moioli]]
+|{{flagIOC|CAN}}<br>[[Éliot Grondin]]<br>[[Meryeta O'Dine]]
+|-style="vertical-align:top"
+|[[Snowboarding at the 2026 Winter Olympics|2026 Milano Cortina]] <br />{{DetailsLink|Snowboarding at the 2026 Winter Olympics – Mixed team snowboard cross}}
+|{{flagIOC|GBR|2026 Winter}}<br>[[Huw Nightingale]]<br>[[Charlotte Bankes]]
+|{{flagIOC|ITA|2026 Winter}}<br>[[Lorenzo Sommariva]]<br>[[Michela Moioli]]
+|{{flagIOC|FRA|2026 Winter}}<br>[[Loan Bozzolo]]<br>[[Léa Casta]]
+|-
+|}
+{| class=wikitable style=text-align:center
+|-
+| colspan=6 style="background:#BCD4E6"| '''Medals'''
+|-
+|- style="background-color:#EDEDED;"
+! width=75px class="hintergrundfarbe5" | Rank
+! width=175px class="hintergrundfarbe6" | Nation
+! width=35px style="background:gold"| Gold
+! width=35px style="background:silver" | Silver
+! width=35px style="background:#CC9966" | Bronze
+! width=35px | Total
+|-
+| rowspan="2" |'''1'''||style="text-align:left"|{{flagIOC|GBR}}||1||0||0||1
+|-
+|style="text-align:left"|{{flagIOC|USA}}||1||0||0||1
+|-
+|'''2'''||style="text-align:left"|{{flagIOC|ITA}}||0||2||0||2
+|-
+| rowspan="2" |'''3'''||style="text-align:left"|{{flagIOC|CAN}}||0||0||1||1
+|-
+| style="text-align:left" |{{flagIOC|FRA}}||0||0||1||1
+|-
+|'''Total'''||'''5 nations'''||'''2'''||'''2'''||'''2'''||'''6'''
+|}
+
+==Statistics==
+[[File:Ross Rebagliati.jpg|thumb|alt=Man with short, wind-swept, dirty-blonde hair speaking into two microphones|[[Ross Rebagliati]] of [[Canada at the 1998 Winter Olympics|Canada]] won the first giant slalom event in 1998.]]
+
+===Athlete medal leaders===
+{{sticky-header}}
+{| class="wikitable sortable sticky-header" style="text-align:center"
+|-
+! width=110px | Athlete
+! width=130px | Nation
+! width=130px | Events
+! width=70px | Olympics
+! width=35px style="background-color: gold" | '''Gold'''
+! width=35px style="background-color: silver" | '''Silver'''
+! width=35px style="background-color: #cc9966" | '''Bronze'''
+! width=35px | Total
+|-
+| style="text-align:left" | {{sortname|Shaun|White}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Men's halfpipe
+| 2006–2018
+| 3
+| 0
+| 0
+| 3
+|-
+| style="text-align:left" | {{sortname|Benjamin|Karl}}
+| style="text-align:left" | {{flagIOC|AUT}}
+| style="text-align:left" | Men's parallel slalom<br>Men's parallel giant slalom
+| 2010–2026
+| 2
+| 1
+| 1
+| 4
+|-
+| style="text-align:left" | {{sortname|Su|Yiming}}
+| style="text-align:left" | {{flagIOC|CHN}}
+| style="text-align:left" | Men's big air<br>Men's slopestyle
+| 2022–2026
+| 2
+| 1
+| 1
+| 4
+|-
+| style="text-align:left" | {{sortname|Jamie|Anderson|Jamie Anderson (snowboarder)}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Women's slopestyle<br>Women's big air
+| 2014–2018
+| 2
+| 1
+| 0
+| 3
+|-
+| style="text-align:left" | {{sortname|Lindsey|Jacobellis}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Women's snowboard cross<br>Mixed team snowboard cross
+| 2006–2022
+| 2
+| 1
+| 0
+| 3
+|-
+| style="text-align:left" | {{sortname|Chloe|Kim}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Women's halfpipe
+| 2018–2026
+| 2
+| 1
+| 0
+| 3
+|-
+| style="text-align:left" | {{sortname|Vic|Wild}}
+| style="text-align:left" | {{flagIOC|RUS}} /<br> {{flagIOC|ROC|2022 Winter}}
+| style="text-align:left" | Men's parallel slalom<br>Men's parallel giant slalom
+| 2014–2022
+| 2
+| 0
+| 1
+| 3
+|-
+| style="text-align:left" | {{sortname|Ayumu|Hirano}}
+| style="text-align:left" | {{flagIOC|JPN}}
+| style="text-align:left" | Men's halfpipe
+| 2014–2022
+| 1
+| 2
+| 0
+| 3
+|-
+| style="text-align:left" | {{sortname|Eva|Adamczyková}}
+| style="text-align:left" | {{flagIOC|CZE}}
+| style="text-align:left" | Women's snowboard cross
+| 2014–2026
+| 1
+| 1
+| 1
+| 3
+|-
+| style="text-align: left;" |[[Michela Moioli]]
+| style="text-align: left;" |{{flagIOC|ITA}}
+| style="text-align: left;" |Women's snowboard cross<br>Mixed team snowboard cross
+|2018-2026
+|1
+|1
+|1
+|3
+|-
+| style="text-align:left" | {{sortname|Max|Parrot}}
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="text-align:left" | Men's slopestyle<br>Men's big air
+| 2018–2022
+| 1
+| 1
+| 1
+| 3
+|-
+| style="text-align:left" | {{sortname|Zoi|Sadowski-Synnott}}
+| style="text-align:left" | {{flagIOC|NZL}}
+| style="text-align:left" | Women's slopestyle<br>Women's big air
+| 2018–2022
+| 1
+| 1
+| 1
+| 3
+|-
+| style="text-align:left" | {{sortname|Kelly|Clark}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Women's halfpipe
+| 2002–2018
+| 1
+| 0
+| 2
+| 3
+|-
+| style="text-align:left" | {{sortname|Éliot|Grondin}}
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="text-align:left" | Men's snowboard cross<br>Mixed team snowboard cross
+| 2022-2026
+| 0
+| 2
+| 1
+| 3
+|-
+| style="text-align:left" | {{sortname|Žan|Košir}}
+| style="text-align:left" | {{flagIOC|SLO}}
+| style="text-align:left" | Men's parallel slalom<br>Men's parallel giant slalom
+| 2010–2018
+| 0
+| 1
+| 2
+| 3
+|-
+| style="text-align:left" | {{sortname|Mark|McMorris}}
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="text-align:left" | Men's slopestyle
+| 2014–2026
+| 0
+| 0
+| 3
+| 3
+|-
+| style="text-align:left" | {{sortname|Ester|Ledecká}}
+| style="text-align:left" | {{flagIOC|CZE}}
+| style="text-align:left" | Women's parallel giant slalom
+| 2018–2022
+| 2
+| 0
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Philipp|Schoch}}
+| style="text-align:left" | {{flagIOC|SUI}}
+| style="text-align:left" | Men's parallel giant slalom
+| 2002–2006
+| 2
+| 0
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Seth|Wescott}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Men's snowboard cross
+| 2006–2010
+| 2
+| 0
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Pierre|Vaultier}}
+| style="text-align:left" | {{flagIOC|FRA}}
+| style="text-align:left" | Men's snowboard cross
+| 2014–2018
+| 2
+| 0
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Karine|Ruby}}
+| style="text-align:left" | {{flagIOC|FRA}}
+| style="text-align:left" | Women's giant slalom<br>Women's parallel giant slalom
+| 1998–2002
+| 1
+| 1
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Hannah|Teter}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Women's halfpipe
+| 2006–2014
+| 1
+| 1
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Torah|Bright}}
+| style="text-align:left" | {{flagIOC|AUS}}
+| style="text-align:left" | Women's halfpipe
+| 2010–2014
+| 1
+| 1
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Nevin|Galmarini}}
+| style="text-align:left" | {{flagIOC|SUI}}
+| style="text-align:left" | Men's parallel giant slalom
+| 2010–2018
+| 1
+| 1
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Ross|Powers}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Men's halfpipe
+| 1998–2002
+| 1
+| 0
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Danny|Kass}}
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:left" | Men's halfpipe
+| 2002–2006
+| 0
+| 2
+| 0
+| 2
+|-
+| style="text-align:left" | {{sortname|Scotty|James}}
+| style="text-align:left" | {{flagIOC|AUS}}
+| style="text-align:left" | Men's halfpipe
+| 2018–2022
+| 0
+| 1
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Amelie|Kober}}
+| style="text-align:left" | {{flagIOC|GER}}
+| style="text-align:left" | Women's parallel slalom<br>Women's parallel giant slalom
+| 2006–2014
+| 0
+| 1
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Dominique|Maltais}}
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="text-align:left" | Women's snowboard cross
+| 2006–2014
+| 0
+| 1
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Enni|Rukajärvi}}
+| style="text-align:left" | {{flagIOC|FIN}}
+| style="text-align:left" | Women's slopestyle
+| 2014–2018
+| 0
+| 1
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Omar|Visintin}}
+| style="text-align:left" | {{flagIOC|ITA}}
+| style="text-align:left" | Men's snowboard cross<br>Mixed team snowboard cross
+| 2014–2022
+| 0
+| 1
+| 1
+| 2
+|-
+| style="text-align:left" | {{sortname|Meryeta|O'Dine}}
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="text-align:left" | Women's snowboard cross<br>Mixed team snowboard cross
+| 2022
+| 0
+| 0
+| 2
+| 2
+|}
+
+===Medals per year===
+;Key
+{| style="font-size:90%"
+| style="border:1px solid #aaa; background-color:#ddd; width:1.5em; text-align:center;" | ×
+| style="padding-right:1em;" | NOC did not exist
+| style="border:1px solid #aaa; width:1.5em; text-align:center;" |#
+| style="padding-right:1em;" | Number of medals won by the NOC
+| style="border:1px solid #aaa; width:1.5em; text-align:center;" |–
+| style="padding-right:1em;" | NOC did not win any medals
+|}
+* Numbers in '''bold''' indicate most medals won at those Olympic Games.
+{| class="wikitable sortable sticky-header" style="text-align:center"
+! Nation
+! <span style="color:#A0A0A0;">24–94</span>
+! [[Snowboarding at the 1998 Winter Olympics|98]]
+! [[Snowboarding at the 2002 Winter Olympics|02]]
+! [[Snowboarding at the 2006 Winter Olympics|06]]
+! [[Snowboarding at the 2010 Winter Olympics|10]]
+! [[Snowboarding at the 2014 Winter Olympics|14]]
+! [[Snowboarding at the 2018 Winter Olympics|18]]
+! [[Snowboarding at the 2022 Winter Olympics|22]]
+! Total
+|-
+| style="text-align:left" | {{flagIOC|AUS}}
+| style="background:#ddd" | &nbsp; || – || – || – || 1 || 1 || 2 || 2 || 6
+|-
+| style="text-align:left" | {{flagIOC|AUT}}
+| style="background:#ddd" | &nbsp; || 1 || – || 1 || 2 || 2 || 1 || 4 || 11
+|-
+| style="text-align:left" | {{flagIOC|CAN}}
+| style="background:#ddd" | &nbsp; || 1 || – || 1 || 3 || 2 || 4 || '''6''' || 17
+|-
+| style="text-align:left" | {{flagIOC|CHN}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || – || 1 || 2 || 3
+|-
+| style="text-align:left" | {{flagIOC|CZE}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || 1 || 2 || 1 || 4
+|-
+| style="text-align:left" | {{flagIOC|FIN}}
+| style="background:#ddd" | &nbsp; || – || – || 1 || 1 || 1 || 1 || – || 4
+|-
+| style="text-align:left" | {{flagIOC|FRA}}
+| style="background:#ddd" | &nbsp; || 1 || 3 || 1 || 3 || 2 || 2 || 1 || 13
+|-
+| style="text-align:left" | {{flagIOC|GER}}
+| style="background:#ddd" | &nbsp; || '''2''' || – || 1 || – || 2 || 2 || – || 7
+|-
+| style="text-align:left" | {{flagIOC|GBR}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || 1 || 1 || – || 2
+|-
+| style="text-align:left" | {{flagIOC|ITA}}
+| style="background:#ddd" | &nbsp; || 1 || 1 || – || – || – || 1 || 2 || 5
+|-
+| style="text-align:left" | {{flagIOC|JPN}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || 3 || 1 || 3 || 7
+|-
+| style="text-align:left" | {{flagIOC|NED}}
+| style="background:#ddd" | &nbsp; || – || – || – || 1 || – || – || – || 1
+|-
+| style="text-align:left" | {{flagIOC|NZL}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || – || 1 || 2 || 3
+|-
+| style="text-align:left" | {{flagIOC|NOR}}
+| style="background:#ddd" | &nbsp; || '''2''' || – || 1 || – || 1 || – || 1 || 5
+|-
+| style="text-align:left" | {{flagIOC|RUS}}
+| style="background:#ddd" | &nbsp; || – || – || – || 1 || 4 || style="background:#ddd"|× || style="background:#ddd"|× || 5
+|-
+| style="text-align:left" | {{flagIOC|ROC|2022 Winter}}
+| style="background:#ddd" | &nbsp; || style="background:#ddd"|× || style="background:#ddd"|× || style="background:#ddd"|× || style="background:#ddd"|× || style="background:#ddd"|× || style="background:#ddd"|× || 1 || 1
+|-
+| style="text-align:left" | {{flagIOC|SVK}}
+| style="background:#ddd" | &nbsp; || – || – || 1 || – || – || – || – || 1
+|-
+| style="text-align:left" | {{flagIOC|SLO}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || 2 || 1 || 2 || 5
+|-
+| style="text-align:left" | {{flagIOC|KOR}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || – || 1 || – || 1
+|-
+| style="text-align:left" | {{flagIOC|ESP}}
+| style="background:#ddd" | &nbsp; || – || – || – || – || – || 1 || 1 || 2
+|-
+| style="text-align:left" | {{flagIOC|SWE}}
+| style="background:#ddd" | &nbsp; || – || 1 || – || – || – || – || – || 1
+|-
+| style="text-align:left" | {{flagIOC|SUI}}
+| style="background:#ddd" | &nbsp; || '''2''' || 2 || 4 || 1 || 3 || 1 || 1 || 14
+|-
+| style="text-align:left" | {{flagIOC|USA}}
+| style="background:#ddd" | &nbsp; || '''2''' || '''5''' || '''7''' || '''5''' || '''5''' || '''7''' || 4 || 35
+|- class="sortbottom"
+! '''Total'''
+! <span style="color:#A0A0A0;">24–94</span>
+! 12
+! 12
+! 18
+! 18
+! 30
+! 30
+! 33
+! 153
+|}
+
+===Medal sweep events===
+These are [[podium sweep]] events in which athletes from one NOC won all three medals.
+
+{| class="wikitable sortable"
+|- style="text-align:center"
+! '''Games'''
+! Event
+| '''NOC'''
+! style="background:gold;" | '''Gold'''
+! style="background:silver;" | '''Silver'''
+! style="background:#c96;" | '''Bronze'''
+|-
+| [[2002 Winter Olympics|2002 Salt Lake City]]
+| [[Snowboarding at the 2002 Winter Olympics – Men's halfpipe|Men's halfpipe]]
+| style="text-align:left" | {{flagIOC|USA}}
+| style="text-align:center" | [[Ross Powers]]
+| style="text-align:center" | [[Danny Kass]]
+| style="text-align:center" | [[Jarret Thomas]]
+|}
+
+== See also ==
+* [[FIS Snowboard World Championships]]
+* [[X Games]]
+
+== References ==
+;General
+* {{Cite web |url=http://www.fis-ski.com/uk/majorevents/fisatowg/medalwinnersowg.html |title=Olympic medals |publisher=[[International Ski Federation]] |access-date=2009-06-21 |url-status=dead |archive-url=https://archive.today/20121209102958/http://www.fis-ski.com/uk/majorevents/fisatowg/medalwinnersowg.html |archive-date=2012-12-09 }}**
+* {{Cite web |url=http://www.olympic.org/uk/athletes/results/search_r_uk.asp |publisher=[[International Olympic Committee]] |title=Results database |access-date=2009-06-21 |archive-date=2008-05-09 |archive-url=https://web.archive.org/web/20080509055329/http://www.olympic.org/uk/athletes/results/search_r_uk.asp |url-status=live }}
+
+; Specific
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20200417041544/https://www.sports-reference.com/olympics/sports/SNB/ Snowboarding – Olympics] at Sports-reference.com
+* [https://web.archive.org/web/20090501145239/http://www.la84foundation.org/5va/review_frmst.htm Olympic Review and Revue Olympique]. LA84 Foundation
+
+{{Snowboarding at the Winter Olympics}}
+{{Olympic medalists}}
+{{Footer Olympic Champions in Snowboarding Men}}
+{{Footer Olympic Champions in Snowboarding Women}}
+{{Footer Olympic Champions in Mixed team snowboard cross}}
+{{featured list}}
+
+[[Category:Lists of Winter Olympic medalists by sport|Snowboarding]]
+[[Category:Snowboarding at the Winter Olympics|medalists]]
+[[Category:Olympic medalists in snowboarding| ]]

@@ -1,0 +1,128 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox Olympic event
+|event = Men's horizontal bar
+|games = 2004 Summer
+|image = File:Igor Cassina.jpg
+|caption = Igor Cassina (2008)
+|venue = [[Olympic Indoor Hall]]
+|dates = 14 August 2004 (qualifying)<br>23 August 2004 (final)
+|competitors = 79
+|nations = 29
+|win_value = 9.812
+|win_label = Winning score
+|longnames = yes
+|gold = [[Igor Cassina]]
+|goldNOC = ITA
+|silver = [[Paul Hamm]]
+|silverNOC = USA
+|bronze = [[Isao Yoneda]]
+|bronzeNOC = JPN
+|prev = [[Gymnastics at the 2000 Summer Olympics – Men's horizontal bar|2000]]
+|next = [[Gymnastics at the 2008 Summer Olympics – Men's horizontal bar|2008]]}}
+{{GymnasticsAt2004SummerOlympics}}
+
+The men's [[horizontal bar]] competition was one of eight events for male competitors of the [[artistic gymnastics]] discipline contested in the [[gymnastics at the 2004 Summer Olympics]] in [[Athens]]. The qualification and final rounds took place on August 14 and August 23 at the [[Olympic Indoor Hall]]. There were 79 competitors from 29 nations, with nations competing in the team event having up to 5 gymnasts and other nations having up to 2 gymnasts.<ref name=Olympedia/> The event was won by [[Igor Cassina]] of Italy, the nation's first victory in the horizontal bar and first medal of any color in the event since 1928. [[Paul Hamm]] took silver, the United States' first horizontal bar medal since 1992. Bronze went to [[Isao Yoneda]] of Japan, the once-dominant nation's first medal in the event since 1984 (the last of Japan's six gold medals in an eight-Games stretch). 
+
+==Background==
+
+This was the 21st appearance of the event, which is one of the five apparatus events held every time there were apparatus events at the Summer Olympics (no apparatus events were held in 1900, 1908, 1912, or 1920). Three of the eight finalists from 2000 returned: gold medalist [[Alexei Nemov]] of Russia, fourth-place finisher [[Alexei Bondarenko]] of Russia, and sixth-place finisher [[Ilia Giorgadze]] of Georgia; eighth-place finisher [[Naoya Tsukahara]] competed in other apparatus events in Athens but not the horizontal bar. The reigning (2003) world champion was [[Takehiro Kashima]] of Japan, with [[Igor Cassina]] of Italy the runner-up and Nemov third. The other two world championships since the 2000 Games, in 2001 and 2002, had been won by [[Vlasios Maras]] of Greece.<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/70872 |work=Olympedia |title=Horizontal Bar, Men |access-date=9 December 2020}}</ref>
+
+Colombia, Malaysia, and Tunisia each made their debut in the men's horizontal bar. The United States made its 19th appearance, most of any nation; the Americans had missed only the inaugural 1896 event and the boycotted 1980 Games.
+
+==Competition format==
+
+The 1996 gymnastics competition had introduced the "7–6–5" format, in which each team had 7 members, designated 6 for each apparatus, and had 5 count for team scores. In 2000, this was reduced across the board to a "6–5–4" format; the 2004 competition kept this format. Further, while in 1996 all 7 team members could compete on each apparatus for individual purposes, in 2000 and 2004 only the 5 designated for that apparatus competed. The 2000 competition had also eliminated the compulsory exercises; only voluntary exercises were done on each apparatus. The qualifying round scores were used for qualification for the team all-around, individual all-around, and apparatus finals.
+
+The top eight gymnasts, with a limit of two per nation, advanced to the final. Non-finalists were ranked 9th through 79th based on preliminary score. The preliminary score had no effect on the final; once the eight finalists were selected, their ranking depended only on the final exercise.<ref name=Olympedia/><ref name=ResultsBook>Official Report, Results Book for Artistic Gymnastics.</ref>
+
+==Schedule==
+
+<small>All times are Greece Standard Time ([[UTC+2]])</small>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Saturday, 14 August 2004 || || '''Qualifying'''
+|- style=background:lemonchiffon
+| Sunday, 23 August 2004 || || '''Final'''
+|}
+
+==Results==
+
+===Qualification===
+{{Main|Gymnastics at the 2004 Summer Olympics – Men's artistic qualification}}
+
+Seventy-nine gymnasts competed in the horizontal bar event in the artistic gymnastics qualification round on August 14. The eight highest scoring gymnasts, limited to two per nation, advanced to the final on August 23. Because of a seven-way tie for sixth place that was not broken by any of the tie-breakers, a total of 10 gymnasts ended up advancing. Japan had four gymnasts in the top 12 (including the seven-way tie), so the two-per-nation rule excluded [[Takehiro Kashima]] and [[Hisashi Mizutori]].
+
+===Final===
+
+After performing a routine with six release skills in the high bar event final (including four in a row – three variations of [[Alexander Vasilyevich Tkachyov|Tkatchev]] releases and a [[Gienger]]), taking a big step on landing which was a two tenths deduction, the judges posted a score of 9.725, placing Nemov in third position with several athletes still to compete. The crowd became unruly on seeing the results and interrupted the competition for almost fifteen minutes. Influenced by the crowd's fierce reaction, the judges reevaluated the routine and increased Nemov's score to 9.762, but this did not improve his placement and he finished without a medal.<ref name=Olympedia/>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank
+! Gymnast || Nation
+! Start<br/>Value
+! {{flagIOC|FRA|2004 Summer}}
+! {{flagIOC|MAS|2004 Summer}}
+! {{flagIOC|ROU|2004 Summer}}
+! {{flagIOC|ISL|2004 Summer}}
+! {{flagIOC|CAN|2004 Summer}}
+! {{flagIOC|CUB|2004 Summer}}
+! Penalty
+! Total
+|-
+| {{gold01}}
+|align=left| [[Igor Cassina]] ||align=left| {{flagIOC|ITA|2004 Summer}}
+|10.00|| <s>9.85</s> || <s>9.80</s> ||9.80 ||9.85||9.80 ||9.80 ||—||9.812
+|-
+| {{silver02}}
+|align=left| [[Paul Hamm]] ||align=left| {{flagIOC|USA|2004 Summer}}
+|10.00|| <s>9.85</s> || <s>9.70</s> ||9.85||9.85||9.70 ||9.85||—||9.812
+|-
+| {{bronze03}}
+|align=left| [[Isao Yoneda]] ||align=left| {{flagIOC|JPN|2004 Summer}}
+|10.00|| <s>9.75</s> || <s>9.85</s> ||9.80||9.80||9.80||9.75||—||9.787
+|-
+| 4
+|align=left| [[Morgan Hamm]] ||align=left| {{flagIOC|USA|2004 Summer}}
+|10.00|| <s>9.80</s> ||9.80|| <s>9.75</s> ||9.75||9.80||9.80||—||9.783
+|-
+| 5
+|align=left| [[Alexei Nemov]] ||align=left| {{flagIOC|RUS|2004 Summer}}
+|10.00|| <s>9.80</s> ||9.75||9.75||9.80||9.75|| <s>9.70</s> ||—||9.762
+|-
+| 6
+|align=left| [[Xiao Qin]] ||align=left| {{flagIOC|CHN|2004 Summer}}
+|10.00||9.70|| <s>9.75</s> || <s>9.65</s> ||9.75||9.75||9.75||—||9.737
+|-
+| 7
+|align=left| [[Fabian Hambuechen]] ||align=left| {{flagIOC|GER|2004 Summer}}
+|10.00||9.70|| <s>9.75</s> ||9.70|| <s>9.65</s> ||9.70||9.70||—||9.700
+|-
+| 8
+|align=left| [[Valeri Goncharov]] ||align=left| {{flagIOC|UKR|2004 Summer}}
+|9.60||8.85|| <s>8.90</s> ||8.90||8.90||8.90|| <s>8.80</s> ||—||8.887
+|-
+| 9
+|align=left| [[Daisuke Nakano]] ||align=left| {{flagIOC|JPN|2004 Summer}}
+|9.80||8.70|| <s>9.00</s> ||8.70|| <s>8.60</s> ||8.80||8.80||—||8.750
+|-
+| 10
+|align=left| [[Yang Tae-Young]] ||align=left| {{flagIOC|KOR|2004 Summer}}
+|9.80||8.60|| <s>8.90</s> ||8.60||8.70|| <s>8.50</s> ||8.80||—||8.675
+|}
+
+==References==
+{{reflist}}
+*[http://www.gymnasticsresults.com/2004/o2004m.html Gymnastics Results.com]
+
+{{Footer Olympic Champions Horizontal Bar Men}}
+
+{{DEFAULTSORT:Gymnastics at the 2004 Summer Olympics - Men's horizontal bar}}
+[[Category:Gymnastics at the 2004 Summer Olympics|Men's horizontal bar]]
+[[Category:Artistic gymnastics at the Summer Olympics|2004]]
+[[Category:Horizontal bar at the Olympics|Men's 2004]]
+[[Category:Men's events at the 2004 Summer Olympics]]

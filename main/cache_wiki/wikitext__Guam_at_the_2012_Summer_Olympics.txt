@@ -1,0 +1,257 @@
+{{Good article}}
+{{infobox country at games
+| NOC = GUM
+| NOCname = [[Guam National Olympic Committee]]
+| games = Summer Olympics
+| year = 2012
+| flagcaption = 
+| oldcode = 
+| website = {{url|www.oceaniasport.com/guam/ }}
+| location = [[London]]
+| competitors = 8
+| sports = 5
+| flagbearer = [[Maria Dunn (wrestler)|Maria Dunn]] (opening)<br /> [[Ricardo Blas Jr.]] (closing)
+| rank = 
+| gold = 0
+| silver = 0
+| bronze = 0
+| officials = 
+| appearances = auto
+| app_begin_year = 1988
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = 
+}}
+
+The [[United States]]' [[Territories of the United States|unincorporated territory]] of [[Guam]] competed at the [[2012 Summer Olympics]] in [[London]], held from July 27 to August 12, 2012. This was the territory's seventh consecutive appearance at the Olympics.
+
+Guam National Olympic Committee sent 8 athletes to the Games, five men and three women, to compete in five sports. Half of them were Olympians who had competed in Beijing, including judoka [[Ricardo Blas Jr.]] and wrestler [[Maria Dunn (wrestler)|Maria Dunn]], the latter who was honored as the territorial flag bearer at the [[Olympic Games ceremony#Parade of Nations|Parade of Nations]] at the Opening Ceremonies of the London [[2012 Summer Olympics]]. Olympian Mountain biker [[Derek Mandell]] competed after his 12-year absence. Swimmers [[Pilar Shimizu]] and [[Benjamin Schulte]], have the distinction of being the youngest Olympians of the team, at age 16. Guam has yet to win an Olympic medal.
+
+==Background==
+The National Olympic Committee for Guam was officially recognized on November 25, 1987, after a six year campaign. Guam's inaugural appearance was at the [[1988 Winter Olympics]], their inaugural Summer Olympics immediately followed in the next Games. They sent their largest delegation to the 1992 Summer Olympics, with 22 athletes.<ref name=pdn>{{cite web|url=http://www.guampdn.com/story/sports/2016/07/09/guams-history-olympics/86791100/|title=Guam's history at the Olympics|last1=Sablan|first1=Jerick|publisher=Pacific Daily News|access-date=January 20, 2018|date=July 9, 2016}}</ref> Guam has yet to win an Olympic medal.<ref>{{cite web|url=https://www.sports-reference.com/olympics/countries/GUM/|archive-url=https://web.archive.org/web/20200417093311/https://www.sports-reference.com/olympics/countries/GUM/|url-status=dead|archive-date=April 17, 2020|title=Guam at the Olympics|publisher=Sports Reference|access-date=June 24, 2018}}</ref>
+
+==Athletics==
+{{main|Athletics at the 2012 Summer Olympics}}
+[[Derek Mandell]] was given a universality placement to this Games and the 2008 Summer Olympics.<ref name=pdn1>{{cite web|url=https://www.newspapers.com/clip/18221036/pacific_daily_news/|title=Final Guam Olympians Announced|newspaper=Pacific Daily News|date=June 23, 2012|page=A28|via=[[Newspapers.com]]|last1=Tomas|first1=Jojo Santo}}</ref> Earlier in 2012, Mandell quit his job so he could train full-time in Australia. He trained under [[Mark Ladbrook]], an Australian former national champion.<ref>{{cite news|url=https://www.newspapers.com/clip/19904040/pacific_daily_news/|title=Mandell Remains Focused|newspaper=Pacific Daily News|date=August 2, 2012|last1=Tomas|first1=Jojo Santo|page=A48|via=Newspapers.com}} {{free access}}</ref> Mandell competed in the [[Athletics at the 2012 Summer Olympics – Men's 800 metres|800 metres]]. He started the race well, finishing the first lap in 54 seconds, although he was well behind the pack. Halfway through the second lap, he was on pace to beat his personal record of 1:56.10, but his last 200 meters were slow. He finished with a time of 1:58.94, behind the winner's time in his heat of 1:45.90.<ref>{{cite news|url=https://www.newspapers.com/clip/19930756/pacific_daily_news/|title=Mandell fades down stretch|newspaper=Pacific Daily News|date=August 7, 2012|page=A31|last1=Tomas|first1=Jojo Santo|via=Newspapers.com}} {{free access}}</ref>
+
+[[Amy Atkinson]] was given the other universality allotment, competing in the [[Athletics at the 2012 Summer Olympics – Women's 800 metres|800 metres]].<ref name=pdn1 /> There were five competitors in Atkinson's heat. She kept near the lead pack, and moved into second place after the first lap. She fell behind and into last place, where she finished the race. Atkinson broke a Guamanian national record which stood for over 22 years, with a time of 2:18.53 in the 800 meter. Although she was last in her heat, she was excited about setting the national record.<ref>{{cite web|url=https://www.newspapers.com/clip/18220982/pacific_daily_news/|title=Atkinson delivers record performance|date=August 9, 2012|newspaper=Pacific Daily News|page=A40|last1=Ige|first1=Ron|via=Newspapers.com}} {{free access}}</ref>
+
+{{smalldiv|1=<nowiki/>
+'''Key'''
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round
+}}
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat 
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Derek Mandell]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Men's 800 metres|800 m]]
+|1:58.94
+|7
+|colspan=4|did not advance
+|}
+
+'''Women'''
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat 
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Amy Atkinson]]
+|align=left|[[Athletics at the 2012 Summer Olympics – Women's 800 metres|800 m]]
+|2:18.53 '''[[Guamanian records in athletics|NR]]'''<ref name=pdn />
+|5
+|colspan=4|did not advance
+|}
+
+==Cycling==
+{{main|Cycling at the 2012 Summer Olympics}}
+[[File:MTB cycling 2012 Olympics M cross-country GUM Derek Horton.jpg|thumb|250px|[[Derek Horton (cyclist)|Derek Horton]] in men's cross country race]]
+Olympian [[Derek Horton (cyclist)|Derek Horton]] qualified for these games because of his performance at the Oceania Mountain Bike Championships.<ref name=pdn1 /> The 2000 Summer Olympics was his inaugural competition in the men's cross country bike.<ref name=pdn2 /> Horton was 39 years old at the time of competition.<ref>{{cite news|url=https://www.newspapers.com/clip/19927511/pacific_daily_news/|title=Family Commitment was Key|newspaper=Pacific Daily News|last1=Tomas|first1=Jojo Santo|date=July 29, 2012|page=A30|via=Newspapers.com}} {{free access}}</ref>
+
+Horton used a Canondale Flash 29er Carbon bicycle for the event. At the start of the race, riders were released in waves of eight, according to their world ranking. Horton, ranked 424 in the world, was in the sixth wave. Horton described the course as "crazy" and "intimidating".<ref>{{cite news|url=https://www.newspapers.com/clip/19928409/pacific_daily_news/|title=Horton Wraps up Guam's Efforts|newspaper=Pacific Daily News|date=August 13, 2012|page=A32|via=Newspapers.com|last1=Tomas|first1=Jojo Santo}} {{free access}}</ref> Horton was eliminated after completing two of the six laps. He fell too far behind the leader, and was eliminated per the event rules.<ref name=pdn2 />
+
+;Mountain biking
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Derek Horton (cyclist)|Derek Horton]]
+|align=left|[[Cycling at the 2012 Summer Olympics – Men's cross-country|Men's cross-country]]
+|{{abbr|LAP|Lapped}} (1 lap)
+|42
+|}
+
+==Judo==
+{{main|Judo at the 2012 Summer Olympics}}
+Ricardo Blas Jr. was the inaugural Guamanian to qualify for the 2012 Summer Olympics.<ref name="Guam Olympic Team Taking Shape">{{cite news|url=https://www.newspapers.com/clip/19371547/pacific_daily_news/|title=Guam Olympic Team Taking Shape|newspaper=Pacific Daily News|date=June 1, 2012|page=A48|via=Newspapers.com}} {{free access}}</ref><ref name="Judo Qualification">{{cite web|url=http://www.intjudo.eu/upload/2012_05/09/133654270342666461/ijf_qualification_list_olympic_games_2012___by_category.pdf |title=Judo Qualification |date=9 May 2012 |publisher=[[International Judo Federation|IJF]] |access-date=9 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20130619190543/http://www.intjudo.eu/upload/2012_05/09/133654270342666461/ijf_qualification_list_olympic_games_2012___by_category.pdf |archive-date=19 June 2013 }}</ref> Blas—nicknamed 'the little mountain from Guam'—competed in the +100&nbsp;kg category, weighing in at {{convert|481|lb|kg}}.<ref name=pdn2 />
+
+Blas defeated [[Facinet Keita]] from Guinea. He won by ippon after sweeping Keita's leg. Blas was the first Guamanian athlete in any sport to advance to the second round of competition through a victory. In the Round of 16, Blas lost to [[Óscar Brayson]] of Cuba.<ref name=pdn2 />
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Ricardo Blas Jr.]]
+|align=left|[[Judo at the 2012 Summer Olympics – Men's +100 kg|Men's +100 kg]]
+|{{flagIOCathlete|[[Facinet Keita|Keita]]|GUI|2012 Summer}}<br/>'''W''' 0101–0002
+|{{flagIOCathlete|[[Óscar Brayson|Brayson]]|CUB|2012 Summer}}<br/>'''L''' 0001–0100
+|colspan=5|did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2012 Summer Olympics}}
+[[Benjamin Schulte]] competed in a qualifying event in 2011, but failed to qualify. He learned a month prior to the Olympics a New Zealand swimmer declined a spot reserved for Oceania, and was able to use that to qualify. He was the youngest Guamanian athlete for the 2012 Olympics. He trained by swimming {{convert|9|km|mi|spell=in}}, ten times per week, going to the gym, and attending yoga classes. He finished last in the [[Swimming at the 2012 Summer Olympics – Men's marathon 10 kilometre|10 km race]], with a time of 2:03:35, 14 minutes behind the winner. Due to his determination to finish the race, he  was nominated for the Swimming Man of the Year award.<ref name=pdn /><ref name=cg>{{cite web|url=https://www.chicagotribune.com/2012/08/10/teenager-puts-tiny-guam-on-swimming-map/|title=Teenager puts tiny Guam on swimming map|last1=Liden|first1=Julian|publisher=Chicago Tribune|date=August 10, 2012|access-date=March 5, 2018}}</ref>
+
+[[Christopher Duenas]] qualified for the Games with a universality placement.<ref name=pdn1 /> Duenas swam the [[Swimming at the 2012 Summer Olympics – Men's 100 metre freestyle|100 meter freestyle]] and finished the race with a time of 53.37. After the race, Duenas said he was "disappointed", and that he thinks with additional training in Guam he can get his time back in the 51s. Duenas went from being ranked top three in the world for his age group to a poor showing at the Games. He planned to continue training for the Olympics to compete in Rio in 2016.<ref>{{cite news|url=https://www.newspapers.com/clip/19941189/pacific_daily_news/|title=Duenas remains motivated|last1=Tomas|first1=Jojo Santo|newspaper=Pacific Daily News|date=August 1, 2012|page=A36|via=Newspapers.com}} {{free access}}</ref>
+
+[[Pilar Shimizu]] qualified for the Games with a universality placement and competed in the [[Swimming at the 2012 Summer Olympics – Women's 100 metre breaststroke|100 meter breaststroke]].<ref name=pdn1 /> She entered the Games with the goal of replacing her own Guamanian national record.<ref>{{cite web|url=http://www.guampdn.com/story/sports/2016/08/07/shimizu-hopes-break-personal-best-record/88343630/|title=Shimizu hopes to break personal best, record|last1=Sablan|first1=Jerick|date=August 7, 2016|publisher=Pacific Daily News|access-date=February 26, 2018}}</ref> Shimizu finished the race with a time of 1:15.76, finishing 42nd overall and not advancing to the next round.<ref name=shioly>{{cite web|url=https://www.olympic.org/rio-2016/swimming/100m-breaststroke-women|title=100m Breaststroke Women|publisher=Olympic|access-date=February 19, 2018|url-status=live|archive-url=https://web.archive.org/web/20180220153421/https://www.olympic.org/rio-2016/swimming/100m-breaststroke-women|archive-date=February 20, 2018|df=mdy-all}}</ref> She did not set the national record, but she did set a new personal best for the year.<ref name=pdn2>{{cite news|url=https://www.newspapers.com/clip/19903647/pacific_daily_news/|title=Olympics Topped All Else|date=January 1, 2013|publisher=Pacific Daily News|page=A36|last1=Tomas|first1=Jojo Santo|via=Newspapers.com}} {{free access}}</ref>
+
+'''Men'''
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Christopher Duenas]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|53.37
+|44
+|colspan=4|did not advance
+|-align=center
+|align=left|[[Benjamin Schulte]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Men's marathon 10 kilometre|10 km open water]]
+|colspan=4 {{n/a}}
+|2:03:35.1
+|25
+|}
+
+'''Women'''
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left|[[Pilar Shimizu]]
+|align=left|[[Swimming at the 2012 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:15.76
+|42
+|colspan=4|did not advance
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2012 Summer Olympics}}
+[[Maria Dunn (wrestler)|Maria Dunn]] required a tripartite invitation to qualify for the Olympics. If the qualification were the same as the 2008 Olympics, Dunn would have qualified after she won the 2012 Oceanic Championships. Since the rules changed, she did not automatically qualify.<ref name="Guam Olympic Team Taking Shape"/> Dunn trained in England, in the city of [[Wigan]], with coach [[Roy Wood (coach)|Roy Wood]].<ref>{{cite web|url=https://www.bbc.co.uk/news/uk-england-manchester-15641955|title=London 2012: Olympic wrestler trains in Wigan|publisher=BBC|date=November 8, 2011|access-date=March 11, 2018}}</ref>
+
+Dunn was the flagbearer for the Opening Ceremonies.<ref>{{cite web|url=https://www.newspapers.com/clip/18220881/pacific_daily_news/|title=London Welcomes World|date=July 29, 2012|newspaper=Pacific Daily News|page=A32|via=Newspapers.com}} {{free access}}</ref> She drew [[Lubov Volosova]] in her first match and lost to Volosova by pin. Dunn believed only one of her shoulders was down, and the official called the pin because it was near the end of the period.<ref>{{cite web|url=https://www.newspapers.com/clip/18220921/pacific_daily_news/|title=Russian pins Dunn early in match|date=August 9, 2012|publisher=Pacific Daily News|last1=Tomas|first1=Jojo Santo}}</ref> She hoped that Volosova would make it to the final match because that would advance Dunn into the loser's bracket. Volosova failed to do so, which eliminated Dunn from contention.<ref name=pdn2 />
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* {{abbr|VT|Victory by Fall}} - [[Pin (amateur wrestling)|Victory by Fall]].
+* {{abbr|PP|Decision by Points - the loser with technical points}} - Decision by Points - the loser with technical points.
+* {{abbr|PO|Decision by Points - the loser without technical points}} - Decision by Points - the loser without technical points.
+}}
+
+''';Women's freestyle'''
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Qualification
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Maria Dunn (wrestler)|Maria Dunn]]
+|align=left|[[Wrestling at the 2012 Summer Olympics – Women's freestyle 63 kg|−63 kg]]
+|{{flagIOCathlete|[[Lubov Volosova|Volosova]]|RUS|2012 Summer}}<br/>'''L''' 0–5 <sup>{{abbr|VT|Victory by Fall}}</sup>
+|colspan=6|did not advance
+|18
+|}
+
+==References==
+{{Reflist}}
+
+{{Nations at the 2012 Summer Olympics}}
+{{Country at games navbox|Guam|Olympics}}
+
+[[Category:Nations at the 2012 Summer Olympics]]
+[[Category:Guam at the Summer Olympics by year|2012]]
+[[Category:2012 in Guamanian sports]]
+[[Category:United Kingdom–United States sports relations|2012]]

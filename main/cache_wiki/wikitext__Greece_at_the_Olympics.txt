@@ -1,0 +1,1414 @@
+{{infobox country at games
+| NOC = GRE
+| NOCname = [[Hellenic Olympic Committee]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.hoc.gr }}&nbsp;{{in lang|el|en}}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 37
+| gold = 36
+| silver = 46
+| bronze = 47
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Greece|competition=Summer Olympics|begin_year=|end_year= }}
+| winterappearances = {{Team appearances list|team=Greece|competition=Winter Olympics|begin_year=1936|end_year= }}
+| seealso = [[Greece at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+[[Greece]] has competed at every [[Summer Olympic Games]], one of five countries to have done so, and most of the [[Winter Olympic Games]]. 
+Greece has hosted the modern [[Olympic Games]] twice, both in [[Athens]] for the Summer Olympic Games, in [[1896 Summer Olympics|1896]] and [[2004 Summer Olympics|2004]].
+
+In recognition as the birthplace of the [[Ancient Olympic Games]], Greece always enters the stadium first to lead the Parade of Nations at the opening ceremony, with the notable exception of 2004 when Greece entered last as the host nation.{{Efn|In the 2004 Summer Olympics opening ceremony, the Greek flag-bearer entered first, honoring the traditional role of Greece in the Parade of Nations, while the whole Greek delegation entered last as the host nation.<ref>{{cite web|url=https://www.yahoo.com/lifestyle/heres-why-greece-always-goes-175213141.html|title=Here's Why Greece Always Goes First in the Olympic Parade of Nations|archive-url=https://web.archive.org/web/20210723235439/https://www.yahoo.com/lifestyle/heres-why-greece-always-goes-175213141.html|archive-date=23 July 2021|url-status=dead}}</ref>}} Before each Games, the [[Olympic Flame]] is lit in [[Olympia, Greece|Olympia]], the site of the Ancient Olympic Games, in a ceremony that reflects [[Ancient Greece|ancient Greek]] rituals and initiates the Olympic torch relay. The [[flag of Greece]] is always hoisted in the closing ceremony, along with the flags of the current and the next host country.
+ 
+[[Greeks|Greek]] athletes have won a total of 129 medals in 15 different sports and the country currently ranks 36th in the [[All-time Olympic Games medal table|all-time Summer Olympics medal count]]. [[Athletics at the Summer Olympics|Athletics]] and [[Weightlifting at the Summer Olympics|weightlifting]] have been the top medal-producing sports for the nation and in the latter Greece is placed among the top 10 countries overall. [[Gymnastics at the Summer Olympics|Gymnastics]], [[Shooting at the Summer Olympics|shooting]] and [[Wrestling at the Summer Olympics|wrestling]] are the other sports that have produced ten or more medals for Greece. In the inaugural 1896 Olympics, Greece finished second in the gold medals count, but won the most medals in total, in their best Olympic performance. Greece finished third in the [[1906 Intercalated Games]] with 8 gold, 14 silver and 13 bronze medals (35 in total), which were considered Olympic Games at the time but are not officially recognized by the [[International Olympic Committee|IOC]] today.
+
+Greece has not won any medals at the [[Winter Olympic Games|Winter Olympics]].
+
+== Hosted Games ==
+Greece has hosted the [[Summer Olympic Games]] on two occasions, the inaugural modern Olympics in 1896 and again in 2004. Both were held in [[Athens]], which along with [[Los Angeles]] and [[Tokyo]] are the cities that have hosted the Olympic Games twice, with [[London]] and [[Paris]] being the only two cities to have hosted them three times.
+
+{| class="wikitable" style="text-align:center;"
+! Games !! Host city !! Dates !! Nations !! Participants !! Events 
+|-
+|[[1896 Summer Olympics]] || [[Athens]] || 6 – 15 April || 14 || 241 || 43
+|-
+|[[2004 Summer Olympics]] || [[Athens]] || 13 – 29 August|| 201 || 10,625 || 301
+|}
+Athens also hosted the [[1906 Intercalated Games]], which at the time were considered to be [[Olympic Games]] by the [[International Olympic Committee]].<ref>{{cite web |last=Lennartz |first=Karl |year=2001 |title=The 2nd International Olympic Games in Athens in 1906 |url=http://library.la84.org/SportsLibrary/JOH/JOHv10n1/JOHv10n1i.pdf |url-status=dead |archive-url=https://web.archive.org/web/20180923114728/http://library.la84.org/SportsLibrary/JOH/JOHv10n1/JOHv10n1i.pdf |archive-date=23 September 2018 |access-date=27 March 2015 |work=Journal of Olympic History |publisher=[[International Society of Olympic Historians]] |volume=10}}</ref>
+
+== Medal tables ==
+{{See also|All-time Olympic Games medal table}}
+{{col-flex}}
+=== Medals by Summer Games ===
+{{legend2||Host country|border= 3px solid purple}}
+{{Medals table country
+| country = Greece
+| season = summer
+| show_games_flag = yes
+| total_col_bold = yes
+| total_athletes = yes
+| row1_games = {{GamesName|SOG|1896}} | row1_athletes = 212 | row1_gold = 10 | row1_silver = 18 | row1_bronze = 19 | row1_rank = 2 | row1_host = yes
+| row2_games = {{GamesName|SOG|1900}} | row2_athletes = 3 | row2_gold = 0 | row2_silver = 0 | row2_bronze = 0 
+| row3_games = {{GamesName|SOG|1904}} | row3_athletes = 14 | row3_gold = 1 | row3_silver = 0 | row3_bronze = 1 | row3_rank = 8
+| row4_games = {{GamesName|SOG|1908}} | row4_athletes = 20 | row4_gold = 0 | row4_silver = 3 | row4_bronze = 1 | row4_rank = 15
+| row5_games = {{GamesName|SOG|1912}} | row5_athletes = 22 | row5_gold = 1 | row5_silver = 0 | row5_bronze = 1 | row5_rank = 15
+| row6_games = {{GamesName|SOG|1920}} | row6_athletes = 57 | row6_gold = 0 | row6_silver = 1 | row6_bronze = 0 | row6_rank = 19
+| row7_games = {{GamesName|SOG|1924}} | row7_athletes = 39 | row7_gold = 0{{efn|One gold medal of Greece listed in the IOC website for the 1924 Paris summer Olympics is not about a sport but for an artistic competition (sculpture) won by [[Konstantinos Dimitriadis]].<ref>{{Cite web|title=Konstantinos "Kostas" Dimitriadis|url=https://olympics.com/en/athletes/konstantinos-kostas-dimitriadis|access-date=2021-08-10|website=Olympics.com}}</ref>}} | row7_silver = 0 | row7_bronze = 0
+| row8_games = {{GamesName|SOG|1928}} | row8_athletes = 23 | row8_gold = 0 | row8_silver = 0 | row8_bronze = 0
+| row9_games = {{GamesName|SOG|1932}} | row9_athletes = 10 | row9_gold = 0 | row9_silver = 0 | row9_bronze = 0
+| row10_games = {{GamesName|SOG|1936}} | row10_athletes = 41 | row10_gold = 0 | row10_silver = 0 | row10_bronze = 0
+| row11_games = {{GamesName|SOG|1948}} | row11_athletes = 61 | row11_gold = 0 | row11_silver = 0 | row11_bronze = 0
+| row12_games = {{GamesName|SOG|1952}} | row12_athletes = 48 | row12_gold = 0 | row12_silver = 0 | row12_bronze = 0
+| row13_games = {{GamesName|SOG|1956}} | row13_athletes = 13 | row13_gold = 0 | row13_silver = 0 | row13_bronze = 1 | row13_rank = 35
+| row14_games = {{GamesName|SOG|1960}} | row14_athletes = 48 | row14_gold = 1 | row14_silver = 0 | row14_bronze = 0 | row14_rank = 21
+| row15_games = {{GamesName|SOG|1964}} | row15_athletes = 18 | row15_gold = 0 | row15_silver = 0 | row15_bronze = 0
+| row16_games = {{GamesName|SOG|1968}} | row16_athletes = 44 | row16_gold = 0 | row16_silver = 0 | row16_bronze = 1 | row16_rank = 42
+| row17_games = {{GamesName|SOG|1972}} | row17_athletes = 60 | row17_gold = 0 | row17_silver = 2 | row17_bronze = 0 | row17_rank = 29
+| row18_games = {{GamesName|SOG|1976}} | row18_athletes = 41 | row18_gold = 0 | row18_silver = 0 | row18_bronze = 0
+| row19_games = {{GamesName|SOG|1980}} | row19_athletes = 43 | row19_gold = 1 | row19_silver = 0 | row19_bronze = 2 | row19_rank = 22
+| row20_games = {{GamesName|SOG|1984}} | row20_athletes = 62 | row20_gold = 0 | row20_silver = 1 | row20_bronze = 1 | row20_rank = 30
+| row21_games = {{GamesName|SOG|1988}} | row21_athletes = 56 | row21_gold = 0 | row21_silver = 0 | row21_bronze = 1 | row21_rank = 46
+| row22_games = {{GamesName|SOG|1992}} | row22_athletes = 70 | row22_gold = 2 | row22_silver = 0 | row22_bronze = 0 | row22_rank = 26
+| row23_games = {{GamesName|SOG|1996}} | row23_athletes = 121 | row23_gold = 4 | row23_silver = 4 | row23_bronze = 0 | row23_rank = 16
+| row24_games = {{GamesName|SOG|2000}} | row24_athletes = 140 | row24_gold = 4 | row24_silver = 6 | row24_bronze = 3 | row24_rank = 17
+| row25_games = {{GamesName|SOG|2004}} | row25_athletes = 426 | row25_gold = 6 | row25_silver = 6 | row25_bronze = 4 | row25_rank = 15 | row25_host = yes
+| row26_games = {{GamesName|SOG|2008}} | row26_athletes = 156 | row26_gold = 0 | row26_silver = 2 | row26_bronze = 1 | row26_rank = 60
+| row27_games = {{GamesName|SOG|2012}} | row27_athletes = 103 | row27_gold = 0 | row27_silver = 0 | row27_bronze = 2 | row27_rank = 77
+| row28_games = {{GamesName|SOG|2016}} | row28_athletes = 95 | row28_gold = 3 | row28_silver = 1 | row28_bronze = 2 | row28_rank = 25
+| row29_games = {{GamesName|SOG|2020}} | row29_athletes = 83 | row29_gold = 2 | row29_silver = 1 | row29_bronze = 1 | row29_rank = 36
+| row30_games = {{GamesName|SOG|2024}} | row30_athletes = 100 | row30_gold = 1 | row30_silver = 1 | row30_bronze = 6 | row30_rank = 51
+| row31_games = {{GamesName|SOG|2028}} | row31_participation = ''future event''
+| row32_games = {{GamesName|SOG|2032}} | row32_participation = ''future event''
+}}
+<small>Source:</small><ref name="olympanalyt_gre">{{cite web | url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=GRE | title=Olympic Analytics – Greece (GRE) | website=olympanalyt.com| publisher=Olympic Analytics | date=2024 |access-date=2025-07-25}}</ref><ref name="olympics_gre">{{cite web | url=https://www.olympics.com/en/paris-2024/profile/greece | title=Greece - NOC Profile | website=olympics.com| publisher=[[International Olympic Committee]] (IOC) | date=2024 |access-date=2024-10-06 |archive-url=https://web.archive.org/web/20241006043409/https://www.olympics.com/en/paris-2024/profile/greece |archive-date=6 October 2024 |url-status=dead}}</ref><ref name="olympedia_gre">{{cite web | url=https://www.olympedia.org/countries/GRE | title=Olympedia – Greece (GRE) |website=[[Olympedia]]| publisher=Olympedia | date=2023 |access-date=2025-07-25}}</ref>
+{{col-flex-break}}
+
+=== Medals by Winter Games ===
+<div>&nbsp;</div>
+{{Medals table country
+| country = Greece
+| season = winter
+| show_games_flag = yes
+| total_col_bold = yes
+| total_athletes = yes
+| row1_games = {{GamesName|WOG|1936}} | row1_athletes = 1 | row1_gold = 0 | row1_silver = 0 | row1_bronze = 0
+| row2_games = {{GamesName|WOG|1948}} | row2_athletes = 1 | row2_gold = 0 | row2_silver = 0 | row2_bronze = 0
+| row3_games = {{GamesName|WOG|1952}} | row3_athletes = 3 | row3_gold = 0 | row3_silver = 0 | row3_bronze = 0
+| row4_games = {{GamesName|WOG|1956}} | row4_athletes = 3 | row4_gold = 0 | row4_silver = 0 | row4_bronze = 0
+| row5_games = {{GamesName|WOG|1960}} | row5_participation = ''did not participate''
+| row6_games = {{GamesName|WOG|1964}} | row6_athletes = 3 | row6_gold = 0 | row6_silver = 0 | row6_bronze = 0
+| row7_games = {{GamesName|WOG|1968}} | row7_athletes = 3 | row7_gold = 0 | row7_silver = 0 | row7_bronze = 0
+| row8_games = {{GamesName|WOG|1972}} | row8_athletes = 3 | row8_gold = 0 | row8_silver = 0 | row8_bronze = 0
+| row9_games = {{GamesName|WOG|1976}} | row9_athletes = 4 | row9_gold = 0 | row9_silver = 0 | row9_bronze = 0
+| row10_games = {{GamesName|WOG|1980}} | row10_athletes = 3 | row10_gold = 0 | row10_silver = 0 | row10_bronze = 0
+| row11_games = {{GamesName|WOG|1984}} | row11_athletes = 6 | row11_gold = 0 | row11_silver = 0 | row11_bronze = 0
+| row12_games = {{GamesName|WOG|1988}} | row12_athletes = 6 | row12_gold = 0 | row12_silver = 0 | row12_bronze = 0
+| row13_games = {{GamesName|WOG|1992}} | row13_athletes = 8 | row13_gold = 0 | row13_silver = 0 | row13_bronze = 0
+| row14_games = {{GamesName|WOG|1994}} | row14_athletes = 9 | row14_gold = 0 | row14_silver = 0 | row14_bronze = 0
+| row15_games = {{GamesName|WOG|1998}} | row15_athletes = 13 | row15_gold = 0 | row15_silver = 0 | row15_bronze = 0
+| row16_games = {{GamesName|WOG|2002}} | row16_athletes = 10 | row16_gold = 0 | row16_silver = 0 | row16_bronze = 0
+| row17_games = {{GamesName|WOG|2006}} | row17_athletes = 5 | row17_gold = 0 | row17_silver = 0 | row17_bronze = 0
+| row18_games = {{GamesName|WOG|2010}} | row18_athletes = 7 | row18_gold = 0 | row18_silver = 0 | row18_bronze = 0
+| row19_games = {{GamesName|WOG|2014}} | row19_athletes = 7 | row19_gold = 0 | row19_silver = 0 | row19_bronze = 0
+| row20_games = {{GamesName|WOG|2018}} | row20_athletes = 4 | row20_gold = 0 | row20_silver = 0 | row20_bronze = 0
+| row21_games = {{GamesName|WOG|2022}} | row21_athletes = 5 | row21_gold = 0 | row21_silver = 0 | row21_bronze = 0
+| row22_games = {{GamesName|WOG|2026}} | row22_participation = ''future event''
+| row23_games = {{GamesName|WOG|2030}} | row23_participation = ''future event''
+| row24_games = {{GamesName|WOG|2034}} | row24_participation = ''future event''
+}}
+<small>Source:</small><ref name="olympanalyt_gre" /><ref name="olympedia_gre" />
+{{col-flex-end}}
+
+=== Medals by summer sport ===
+{{Medals table
+ | caption    = 
+ | team       = Sport
+ | hide_rank  = yes
+ | leading    = 
+ | gold_1  = 9  | silver_1  = 12 | bronze_1  = 11 | name_1  = {{GamesSport|Athletics|Format=d}} 
+ | gold_2  = 6  | silver_2  = 5  | bronze_2  = 4 | name_2  = {{GamesSport|Weightlifting|Format=d}} 
+ | gold_3  = 5  | silver_3  = 3  | bronze_3  = 5  | name_3  = {{GamesSport|Gymnastics|Format=d}} 
+ | gold_4  = 4  | silver_4  = 4  | bronze_4  = 5  | name_4  = {{GamesSport|Shooting|Format=d}} 
+ | gold_5  = 3  | silver_5  = 2  | bronze_5  = 3  | name_5  = {{GamesSport|Sailing|Format=d}} 
+ | gold_6  = 2  | silver_6  = 1  | bronze_6  = 2  | name_6  = {{GamesSport|Fencing|Format=d}} 
+ | gold_7  = 1  | silver_7  = 5  | bronze_7  = 2  | name_7  = {{GamesSport|Swimming|Format=d}} 
+ | gold_8  = 1  | silver_8  = 3  | bronze_8  = 8  | name_8  = {{GamesSport|Wrestling|Format=d}} 
+ | gold_9  = 1  | silver_9  = 3  | bronze_9  = 0  | name_9  = {{GamesSport|Cycling|Format=d}} 
+ | gold_10 = 1  | silver_10 = 3  | bronze_10 = 0  | name_10 = {{GamesSport|Taekwondo|Format=d}} 
+ | gold_11 = 1  | silver_11 = 1  | bronze_11 = 4  | name_11 = {{GamesSport|Rowing|Format=d}} 
+ | gold_12 = 1  | silver_12 = 0  | bronze_12 = 2  | name_12 = {{GamesSport|Judo|Format=d}} 
+ | gold_13 = 1  | silver_13 = 0  | bronze_13 = 0  | name_13 = {{GamesSport|Diving|Format=d}} 
+ | gold_14 = 0  | silver_14 = 2  | bronze_14 = 1  | name_14 = {{GamesSport|Tennis|Format=d}} 
+ | gold_15 = 0  | silver_15 = 2  | bronze_15 = 0  | name_15 = {{GamesSport|Water polo|Format=d}} 
+}}
+<small>Source:</small><ref name="olympanalyt_gre" /><ref name="olympics_gre" /><ref name="olympedia_gre" />
+
+==Medal tables by athlete==
+
+===List of medalists===
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+!
+!style="width:6em"| Medal
+!style="width:18em"| Name(s) 
+!style="width:12em"| Games
+! Sport
+! Event
+|-
+|1
+| {{Gold medal}} || [[Spyridon Louis]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's marathon|Men's marathon]]
+|-
+|2
+| {{Gold medal}} || [[Aristidis Konstantinidis]] || {{GamesName|SOG|1896}} || [[Image:Cycling pictogram.svg|25px]] [[Cycling at the 1896 Summer Olympics|Cycling]] || [[Cycling at the 1896 Summer Olympics – Men's individual road race|Men's road race]]
+|-
+|3
+| {{Gold medal}} || [[Leonidas Pyrgos]] || {{GamesName|SOG|1896}} || [[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]] || [[Fencing at the 1896 Summer Olympics – Men's masters foil|Men's masters foil]]
+|-
+|4
+| {{Gold medal}} || [[Ioannis Georgiadis]] || {{GamesName|SOG|1896}} || [[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]] || [[Fencing at the 1896 Summer Olympics – Men's sabre|Men's sabre]]
+|-
+|5
+| {{Gold medal}} || [[Ioannis Mitropoulos]] || {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's rings|Men's rings]]
+|-
+|6
+| {{Gold medal}} || [[Nikolaos Andriakopoulos]] || {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]][[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's rope climbing|Men's rope climbing]]
+|-
+|7
+| {{Gold medal}} || [[Pantelis Karasevdas]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 200 metre military rifle|Men's 200 m military rifle]]
+|-
+|8
+| {{Gold medal}} || [[Georgios Orphanidis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 300 metre free rifle|Men's 300 m free rifle, three positions]]
+|-
+|9
+| {{Gold medal}} || [[Ioannis Frangoudis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 25 metre rapid fire pistol|Men's 25 m rapid fire pistol]]
+|-
+|10
+| {{Gold medal}} || [[Ioannis Malokinis]] || {{GamesName|SOG|1896}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]] || [[Swimming at the 1896 Summer Olympics – Men's sailors 100 metre freestyle|Men's sailors 100 m freestyle]]
+|-
+|11
+| {{Silver medal}} || [[Charilaos Vasilakos]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's marathon|Men's marathon]]
+|-
+|12
+| {{Silver medal}} || [[Miltiadis Gouskos]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's shot put|Men's shot put]]
+|-
+|13
+| {{Silver medal}} || [[Panagiotis Paraskevopoulos]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's discus throw|Men's discus throw]]
+|-
+|14
+|{{Silver medal}}
+|[[Stamatios Nikolopoulos]]
+|{{GamesName|SOG|1896}} 
+|[[Image:Cycling pictogram.svg|25px]] [[Cycling at the 1896 Summer Olympics|Cycling]]
+| [[Cycling at the 1896 Summer Olympics – Men's sprint|Men's sprint]]
+|-
+|15
+|{{Silver medal}}
+|[[Stamatios Nikolopoulos]]
+|{{GamesName|SOG|1896}}
+|[[Image:Cycling pictogram.svg|25px]] [[Cycling at the 1896 Summer Olympics|Cycling]]
+|[[Cycling at the 1896 Summer Olympics – Men's track time trial|Men's time trial]]
+|-
+|16
+| {{Silver medal}} || [[Georgios Koletis]] || {{GamesName|SOG|1896}} || [[Image:Cycling pictogram.svg|25px]] [[Cycling at the 1896 Summer Olympics|Cycling]] || [[Cycling at the 1896 Summer Olympics – Men's 100 kilometres|Men's 100 km]]
+|-
+|17
+| {{Silver medal}} || [[Tilemachos Karakalos]] || {{GamesName|SOG|1896}} || [[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]] || [[Fencing at the 1896 Summer Olympics – Men's sabre|Men's sabre]]
+|-
+|18
+| {{Silver medal}} || [[Thomas Xenakis]] || {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's rope climbing|Men's rope climbing]]
+|-
+|19
+| {{silver medal}} || 
+{{Collapsible list 
+|title=[[Panellinios G.S.]]
+|<hr>[[Spyridon Athanasopoulos]]<br>[[Nikolaos Andriakopoulos]]<br>[[Petros Persakis]]<br>[[Thomas Xenakis]]<br>''29 others, names unknown'' }} 
+|| {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's team parallel bars|Men's team parallel bars]]
+|-
+|20
+| {{silver medal}} || [[Panagiotis Pavlidis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 200 metre military rifle|Men's 200 m military rifle]]
+|-
+|21
+| {{silver medal}} || [[Ioannis Frangoudis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 300 metre free rifle|Men's 300 m free rifle, three positions]]
+|-
+|22
+| {{silver medal}} || [[Georgios Orphanidis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 25 metre rapid fire pistol|Men's 25 m rapid fire pistol]]
+|-
+|23
+| {{silver medal}} || [[Antonios Pepanos]] || {{GamesName|SOG|1896}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]] || [[Swimming at the 1896 Summer Olympics – Men's 500 metre freestyle|Men's 500 m freestyle]]
+|-
+|24
+| {{silver medal}} || [[Ioannis Andreou]] || {{GamesName|SOG|1896}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]] || [[Swimming at the 1896 Summer Olympics – Men's 1200 metre freestyle|Men's 1200 m freestyle]]
+|-
+|25
+| {{silver medal}} || [[Spyridon Chazapis]] || {{GamesName|SOG|1896}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]] || [[Swimming at the 1896 Summer Olympics – Men's sailors 100 metre freestyle|Men's sailors 100 m freestyle]]
+|-
+|26
+| {{silver medal}} ||[[Dimitrios Kasdaglis]]
+| {{GamesName|SOG|1896}} || [[Image:Tennis pictogram.svg|25px]] [[Tennis at the 1896 Summer Olympics|Tennis]] || [[Tennis at the 1896 Summer Olympics – Men's singles|Men's singles]]
+|-
+|27
+|{{silver medal}}
+|[[Dimitrios Kasdaglis]] - [[Demetrios Petrokokkinos]]<ref name=":0">{{Cite web|last=IOC|title=Athens 1896 doubles men Results - Olympic tennis|url=https://olympics.com/en/olympic-games/athens-1896/results/tennis/doubles-men|access-date=2021-08-08|website=Olympics.com|language=en}}</ref>
+|{{GamesName|SOG|1896}}
+|[[Image:Tennis pictogram.svg|25px]] [[Tennis at the 1896 Summer Olympics|Tennis]]
+|[[Tennis at the 1896 Summer Olympics – Men's doubles|Men's doubles]]
+|-
+|28
+| {{silver medal}} || [[Georgios Tsitas]] || {{GamesName|SOG|1896}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1896 Summer Olympics|Wrestling]] || [[Wrestling at the 1896 Summer Olympics – Men's Greco-Roman|Men's Greco-Roman]]
+|-
+|29
+| {{bronze medal}} || [[Dimitrios Golemis]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's 800 metres|Men's 800 m]]
+|-
+|30
+| {{bronze medal}} || [[Evangelos Damaskos]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's pole vault|Men's pole vault]]
+|-
+|31
+| {{bronze medal}} || [[Ioannis Theodoropoulos]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's pole vault|Men's pole vault]]
+|-
+|32
+| {{bronze medal}} || [[Ioannis Persakis]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's triple jump|Men's triple jump]]
+|-
+|33
+| {{bronze medal}} || [[Georgios Papasideris]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's shot put|Men's shot put]]
+|-
+|34
+| {{bronze medal}} || [[Sotirios Versis]] || {{GamesName|SOG|1896}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1896 Summer Olympics|Athletics]] || [[Athletics at the 1896 Summer Olympics – Men's discus throw|Men's discus throw]]
+|-
+|35
+| {{bronze medal}} || [[Periklis Pierrakos-Mavromichalis]] || {{GamesName|SOG|1896}} || [[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]] || [[Fencing at the 1896 Summer Olympics – Men's foil|Men's foil]]
+|-
+|36
+|{{bronze medal}}
+|[[Athanasios Vouros]]<ref name=":1">{{Cite web|last=IOC|title=Athens 1896 foil individual men Results - Olympic fencing|url=https://olympics.com/en/olympic-games/athens-1896/results/fencing/foil-individual-men|access-date=2021-08-08|website=Olympics.com|language=en}}</ref>
+|{{GamesName|SOG|1896}}
+|[[Image:Fencing pictogram.svg|25px]] [[Fencing at the 1896 Summer Olympics|Fencing]]
+|[[Fencing at the 1896 Summer Olympics – Men's foil|Men's foil]]
+|-
+|37
+| {{bronze medal}} || [[Petros Persakis]] || {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's rings|Men's rings]]
+|-
+|38
+| {{bronze medal}} || 
+{{Collapsible list 
+|title=[[Ethnikos G.S. Athens]]
+|<hr>[[Ioannis Chrysafis]]<br>[[Ioannis Mitropoulos]]<br>[[Dimitrios Loundras]]<br>[[Filippos Karvelas]]<br>''15 others, names unknown'' }} 
+|| {{GamesName|SOG|1896}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1896 Summer Olympics – Men's team parallel bars|Men's team parallel bars]]
+|-
+|39
+| {{bronze medal}} || [[Nikolaos Trikoupis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 200 metre military rifle|Men's 200 m military rifle]]
+|-
+|40
+| {{bronze medal}} || [[Nikolaos Morakis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 25 metre military pistol|Men's 25 m military pistol]]
+|-
+|41
+| {{bronze medal}} || [[Ioannis Frangoudis]] || {{GamesName|SOG|1896}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 30 metre pistol|Men's 30 m free pistol]]
+|-
+|42
+|{{bronze medal}}
+|[[Efstathios Chorafas]]
+|{{GamesName|SOG|1896}}
+|[[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]]
+| [[Swimming at the 1896 Summer Olympics – Men's 500 metre freestyle|Men's 500 m freestyle]]
+|-
+|43
+| {{bronze medal}} || [[Dimitrios Drivas]] || {{GamesName|SOG|1896}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]] || [[Swimming at the 1896 Summer Olympics – Men's sailors 100 metre freestyle|Men's sailors 100 m freestyle]]
+|-
+|44
+| {{bronze medal}} || [[Konstantinos Paspatis]] || {{GamesName|SOG|1896}} || [[Image:Tennis pictogram.svg|25px]] [[Tennis at the 1896 Summer Olympics|Tennis]] || [[Tennis at the 1896 Summer Olympics – Men's singles|Men's singles]]
+|-
+|45
+| {{bronze medal}} || [[Alexandros Nikolopoulos (weightlifter)|Alexandros Nikolopoulos]] || {{GamesName|SOG|1896}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1896 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1896 Summer Olympics – Men's one hand lift|Men's one hand lift]]
+|-
+|46
+| {{bronze medal}} || [[Sotirios Versis]] || {{GamesName|SOG|1896}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1896 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1896 Summer Olympics – Men's two hand lift|Men's two hand lift]]
+|-
+|47
+| {{bronze medal}} || [[Stephanos Christopoulos]] || {{GamesName|SOG|1896}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1896 Summer Olympics|Wrestling]] || [[Wrestling at the 1896 Summer Olympics – Men's Greco-Roman|Men's Greco-Roman]]
+|-
+|48
+| {{gold medal}} || [[Periklis Kakousis]] || {{GamesName|SOG|1904}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1904 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1904 Summer Olympics – Men's two hand lift|Men's two hand lift]]
+|-
+|49
+| {{bronze medal}} || [[Nikolaos Georgantas]] || {{GamesName|SOG|1904}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1904 Summer Olympics|Athletics]] || [[Athletics at the 1904 Summer Olympics – Men's discus throw|Men's discus throw]]
+|-
+|50
+|{{silver medal}}
+|[[Konstantinos Tsiklitiras]]
+|{{GamesName|SOG|1908}} 
+|[[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1908 Summer Olympics|Athletics]]
+| [[Athletics at the 1908 Summer Olympics – Men's standing high jump|Men's standing high jump]]
+|-
+|51
+|{{silver medal}}
+|[[Konstantinos Tsiklitiras]]
+|{{GamesName|SOG|1908}}
+|[[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1908 Summer Olympics|Athletics]]
+|[[Athletics at the 1908 Summer Olympics – Men's standing long jump|Men's standing long jump]]
+|-
+|52
+| {{silver medal}} || [[Michalis Dorizas]] || {{GamesName|SOG|1908}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1908 Summer Olympics|Athletics]] || [[Athletics at the 1908 Summer Olympics – Men's freestyle javelin throw|Men's freestyle javelin]]
+|-
+|53
+| {{bronze medal}} || [[Anastasios Metaxas]] || {{GamesName|SOG|1908}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1908 Summer Olympics|Shooting]] || [[Shooting at the 1908 Summer Olympics – Men's trap|Men's individual trap shooting]]
+|-
+|54
+| {{gold medal}} || [[Konstantinos Tsiklitiras]] || {{GamesName|SOG|1912}} || [[Image:Athletics pictogram.svg|25px]][[Athletics at the 1912 Summer Olympics|Athletics]] || [[Athletics at the 1912 Summer Olympics – Men's standing long jump|Men's standing long jump]]
+|-
+|55
+| {{bronze medal}} || [[Konstantinos Tsiklitiras]] || {{GamesName|SOG|1912}} || [[Image:Athletics pictogram.svg|25px]][[Athletics at the 1912 Summer Olympics|Athletics]] || [[Athletics at the 1912 Summer Olympics – Men's standing high jump|Men's standing high jump]]
+|-
+|56
+| {{silver medal}} || [[Georgios Moraitinis]]<br>[[Iason Sappas]]<br>[[Alexandros Theofilakis]]<br>[[Ioannis Theofilakis]]<br>[[Alexandros Vrasivanopoulos]]  || {{GamesName|SOG|1920}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 1920 Summer Olympics|Shooting]] || [[Shooting at the 1920 Summer Olympics – Men's 30 metre team rapid fire pistol|Men's 30 m team military pistol]]
+|-
+|57
+| {{bronze medal}} || [[Georgios Roubanis]] || {{GamesName|SOG|1956}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1956 Summer Olympics|Athletics]] || [[Athletics at the 1956 Summer Olympics – Men's pole vault|Men's pole vault]]
+|-
+|58
+| {{gold medal}} || [[Constantine II of Greece|Crown Prince Constantine]]<br>[[Odysseus Eskitzoglou]]<br>[[Georgios Zaimis]] || {{GamesName|SOG|1960}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 1960 Summer Olympics|Sailing]] || [[Sailing at the 1960 Summer Olympics – Dragon|Dragon]]
+|-
+|59
+| {{bronze medal}} || [[Petros Galaktopoulos]] || {{GamesName|SOG|1968}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1968 Summer Olympics|Wrestling]] || [[Wrestling at the 1968 Summer Olympics – Men's Greco-Roman 70 kg|Men's Greco-Roman 70 kg]]
+|-
+|60
+| {{silver medal}} || [[Ilias Hatzipavlis]] || {{GamesName|SOG|1972}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 1972 Summer Olympics|Sailing]] || [[Sailing at the 1972 Summer Olympics – Finn|Finn]]
+|-
+|61
+| {{silver medal}} || [[Petros Galaktopoulos]] || {{GamesName|SOG|1972}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1972 Summer Olympics|Wrestling]] || [[Wrestling at the 1972 Summer Olympics – Men's Greco-Roman 74 kg|Men's Greco-Roman 74 kg]]
+|-
+|62
+| {{gold medal}} || [[Stelios Mygiakis]] || {{GamesName|SOG|1980}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1980 Summer Olympics|Wrestling]] || [[Wrestling at the 1980 Summer Olympics – Men's Greco-Roman 62 kg|Men's Greco-Roman 62 kg]]
+|-
+|63
+| {{bronze medal}} || [[Georgios Hatziioannidis]] || {{GamesName|SOG|1980}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1980 Summer Olympics|Wrestling]] || [[Wrestling at the 1980 Summer Olympics – Men's freestyle 62 kg|Men's freestyle 62 kg]]
+|-
+|64
+| {{bronze medal}} || [[Aristidis Rapanakis]]<br>[[Anastasios Gavrilis]]<br>[[Anastasios Bountouris]] || {{GamesName|SOG|1980}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 1980 Summer Olympics|Sailing]] || [[Sailing at the 1980 Summer Olympics – Soling|Soling]]
+|-
+|65
+| {{silver medal}} || [[Dimitrios Thanopoulos]] || {{GamesName|SOG|1984}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1984 Summer Olympics|Wrestling]] || [[Wrestling at the 1984 Summer Olympics – Men's Greco-Roman 82 kg|Men's Greco-Roman 82 kg]]
+|-
+|66
+| {{bronze medal}} || [[Charalambos Cholidis]] || {{GamesName|SOG|1984}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1984 Summer Olympics|Wrestling]] || [[Wrestling at the 1984 Summer Olympics – Men's Greco-Roman 57 kg|Men's Greco-Roman 57 kg]]
+|-
+|67
+| {{bronze medal}} || [[Charalambos Cholidis]] || {{GamesName|SOG|1988}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 1988 Summer Olympics|Wrestling]] || [[Wrestling at the 1988 Summer Olympics – Men's Greco-Roman 57 kg|Men's Greco-Roman 57 kg]]
+|-
+|68
+| {{gold medal}} || [[Voula Patoulidou]] || {{GamesName|SOG|1992}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1992 Summer Olympics|Athletics]] || [[Athletics at the 1992 Summer Olympics – Women's 100 metres hurdles|Women's 100 metres hurdles]]
+|-
+|69
+| {{gold medal}} || [[Pyrros Dimas]] || {{GamesName|SOG|1992}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1992 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1992 Summer Olympics – Men's 82.5 kg|Men's 82.5 kg]]
+|-
+|70
+| {{gold medal}} || [[Ioannis Melissanidis]] || {{GamesName|SOG|1996}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1996 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1996 Summer Olympics – Men's floor|Men's floor]]
+|-
+|71
+| {{gold medal}} || [[Nikolaos Kaklamanakis]] || {{GamesName|SOG|1996}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 1996 Summer Olympics|Sailing]] || [[Sailing at the 1996 Summer Olympics – Men's Mistral One Design|Men's Mistral One Design]]
+|-
+|72
+| {{gold medal}} || [[Pyrros Dimas]] || {{GamesName|SOG|1996}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1996 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1996 Summer Olympics – Men's 83 kg|Men's 83 kg]]
+|-
+|73
+| {{gold medal}} || [[Kakhi Kakhiashvili]] || {{GamesName|SOG|1996}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1996 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1996 Summer Olympics – Men's 99 kg|Men's 99 kg]]
+|-
+|74
+| {{silver medal}} || [[Niki Bakoyianni]] || {{GamesName|SOG|1996}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 1996 Summer Olympics|Athletics]] || [[Athletics at the 1996 Summer Olympics – Women's high jump|Women's high jump]]
+|-
+|75
+| {{silver medal}} || [[Leonidas Sabanis]] || {{GamesName|SOG|1996}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1996 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1996 Summer Olympics – Men's 59 kg|Men's 59 kg]]
+|-
+|76
+| {{silver medal}} || [[Valerios Leonidis]] || {{GamesName|SOG|1996}} || [[Image:Weightlifting pictogram.svg|25px]][[Weightlifting at the 1996 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1996 Summer Olympics – Men's 64 kg|Men's 64 kg]]
+|-
+|77
+| {{silver medal}} || [[Leonidas Kokas]] || {{GamesName|SOG|1996}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 1996 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1996 Summer Olympics – Men's 91 kg|Men's 91 kg]]
+|-
+|78
+| {{gold medal}} || [[Konstantinos Kenteris]] || {{GamesName|SOG|2000}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2000 Summer Olympics|Athletics]] || [[Athletics at the 2000 Summer Olympics – Men's 200 metres|Men's 200 metres]]
+|-
+|79
+| {{gold medal}} || [[Michalis Mouroutsos]] || {{GamesName|SOG|2000}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2000 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2000 Summer Olympics – Men's 58 kg|Men's 58 kg]]
+|-
+|80
+| {{gold medal}} || [[Pyrros Dimas]] || {{GamesName|SOG|2000}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 2000 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2000 Summer Olympics – Men's 85 kg|Men's 85 kg]]
+|-
+|81
+| {{gold medal}} || [[Kakhi Kakhiashvili]] || {{GamesName|SOG|2000}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 2000 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2000 Summer Olympics – Men's 94 kg|Men's 94 kg]]
+|-
+|82
+| {{silver medal}} || [[Ekaterini Thanou]] || {{GamesName|SOG|2000}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2000 Summer Olympics|Athletics]] || [[Athletics at the 2000 Summer Olympics – Women's 100 metres|Women's 100 metres]]
+|-
+|83
+| {{silver medal}} || [[Anastasia Kelesidou]] || {{GamesName|SOG|2000}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2000 Summer Olympics|Athletics]] || [[Athletics at the 2000 Summer Olympics – Women's discus throw|Women's discus throw]]
+|-
+|84
+| {{silver medal}} || [[Mirela Maniani]] || {{GamesName|SOG|2000}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2000 Summer Olympics|Athletics]] || [[Athletics at the 2000 Summer Olympics – Women's javelin throw|Women's javelin throw]]
+|-
+|85
+| {{silver medal}} || [[Dimosthenis Tampakos]] || {{GamesName|SOG|2000}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2000 Summer Olympics|Gymnastics]] || [[Gymnastics at the 2000 Summer Olympics – Men's rings|Men's rings]]
+|-
+|86
+| {{silver medal}} || [[Leonidas Sabanis]] || {{GamesName|SOG|2000}} || [[Image:Weightlifting pictogram.svg|25px]][[Weightlifting at the 2000 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2000 Summer Olympics – Men's 62 kg|Men's 62 kg]]
+|-
+|87
+| {{silver medal}} || [[Viktor Mitrou]] || {{GamesName|SOG|2000}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 2000 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2000 Summer Olympics – Men's 77 kg|Men's 77 kg]]
+|-
+|88
+| {{bronze medal}} || [[Ioanna Chatziioannou]] || {{GamesName|SOG|2000}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 2000 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2000 Summer Olympics – Women's 63 kg|Women's 63 kg]]
+|-
+|89
+| {{bronze medal}}  || [[Amiran Kardanov]] || {{GamesName|SOG|2000}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2000 Summer Olympics|Wrestling]] || [[Wrestling at the 2000 Summer Olympics – Men's freestyle 54 kg|Men's freestyle 54 kg]]
+|-
+|90
+| {{bronze medal}} || [[Eirini Aindili]]<br>[[Evangelia Christodoulou]]<br>[[Maria Georgatou]]<br>[[Zacharoula Karyami]]<br>[[Charikleia Pantazi]]<br>[[Anna Pollatou]] || {{GamesName|SOG|2000}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2000 Summer Olympics|Gymnastics]] || [[Gymnastics at the 2000 Summer Olympics – Women's rhythmic group all-around|Women's rhythmic group all-around]]
+|-
+|91
+| {{gold medal}} || [[Thomas Bimis]]<br>[[Nikolaos Siranidis]] || {{GamesName|SOG|2004}} || [[Image:Diving pictogram.svg|25px]] [[Diving at the 2004 Summer Olympics|Diving]] || [[Diving at the 2004 Summer Olympics – Men's synchronized 3 metre springboard|Men's 3 m synchronized springboard]]
+|-
+|92
+| {{gold medal}} || [[Ilias Iliadis (judoka)|Ilias Iliadis]] || {{GamesName|SOG|2004}} || [[Image:Judo pictogram.svg|25px]] [[Judo at the 2004 Summer Olympics|Judo]] || [[Judo at the 2004 Summer Olympics – Men's 81 kg|Men's -81 kg]]
+|-
+|93
+| {{gold medal}} || [[Sofia Bekatorou]]<br>[[Emilia Tsoulfa]] || {{GamesName|SOG|2004}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 2004 Summer Olympics|Sailing]] || [[Sailing at the 2004 Summer Olympics – Women's 470|Women's 470]]
+|-
+|94
+| {{gold medal}} || [[Dimosthenis Tampakos]] || {{GamesName|SOG|2004}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2004 Summer Olympics|Gymnastics]] || [[Gymnastics at the 2004 Summer Olympics – Men's rings|Men's rings]]
+|-
+|95
+| {{gold medal}} || [[Athanasia Tsoumeleka]] || {{GamesName|SOG|2004}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Women's 20 kilometres walk|Women's 20 km walk]]
+|-
+|96
+| {{gold medal}} || [[Fani Chalkia]] || {{GamesName|SOG|2004}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Women's 400 metres hurdles|Women's 400 m hurdles]]
+|-
+|97
+| {{silver medal}} || [[Anastasia Kelesidou]] || {{GamesName|SOG|2004}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Women's discus throw|Women's discus throw]]
+|-
+|98
+| {{silver medal}} || {{sortname|Nikolaos|Kaklamanakis}} || {{GamesName|SOG|2004}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 2004 Summer Olympics|Sailing]] || [[Sailing at the 2004 Summer Olympics – Men's Mistral One Design|Men's mistral]]
+|-
+|99
+| {{silver medal}} || {{sortname|Hrysopiyi|Devetzi}} || {{GamesName|SOG|2004}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Women's triple jump|Women's triple jump]]
+|-
+|100
+| {{silver medal}} || 
+{{Collapsible list 
+|title=[[Greece women's national water polo team|Women's water polo team]]
+|<hr>[[Dimitra Asilian]]<br>[[Georgia Ellinaki]]<br>[[Eftychia Karagianni]]<br>[[Angeliki Karapataki]]<br>[[Stavroula Kozompoli]]<br>[[Georgia Lara]]<br>[[Kyriaki Liosi]]<br>[[Antiopi Melidoni]]<br>[[Antonia Moraiti]]<br>[[Evangelia Moraitidou]]<br>[[Anthoula Mylonaki]]<br>[[Aikaterini Oikonomopoulou]]<br>[[Antigoni Roumpesi]] }} 
+|| {{GamesName|SOG|2004}} || [[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2004 Summer Olympics|Water polo]] || [[Water polo at the 2004 Summer Olympics – Women's tournament|Women's tournament]]
+|-
+|101
+| {{silver medal}} || [[Elisavet Mystakidou]] || {{GamesName|SOG|2004}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2004 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2004 Summer Olympics – Women's 67 kg|Women's -67 kg]]
+|-
+|102
+| {{silver medal}} || [[Alexandros Nikolaidis]] || {{GamesName|SOG|2004}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2004 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2004 Summer Olympics – Men's +80 kg|Men's +80 kg]]
+|-
+|103
+| {{bronze medal}} || [[Pyrros Dimas]] || {{GamesName|SOG|2004}} || [[Image:Weightlifting pictogram.svg|25px]] [[Weightlifting at the 2004 Summer Olympics|Weightlifting]] || [[Weightlifting at the 2004 Summer Olympics – Men's 85 kg|Men's -85 kg]]
+|-
+|104
+| {{bronze medal}} || [[Vasileios Polymeros]]<br>[[Nikolaos Skiathitis]] || {{GamesName|SOG|2004}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2004 Summer Olympics|Rowing]] || [[Rowing at the 2004 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]]
+|-
+|105
+| {{bronze medal}} || [[Artiom Kiouregkian]] || {{GamesName|SOG|2004}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2004 Summer Olympics|Wrestling]] || [[Wrestling at the 2004 Summer Olympics – Men's Greco-Roman 55 kg|Men's Greco-Roman -55 kg]]
+|-
+|106
+| {{bronze medal}} || [[Mirela Maniani]] || {{GamesName|SOG|2004}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Women's javelin throw|Women's javelin throw]]
+|-
+|107
+| {{silver medal}} || [[Dimitrios Mouyios]]<br>[[Vasileios Polymeros]] || {{GamesName|SOG|2008}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2008 Summer Olympics|Rowing]] || [[Rowing at the 2008 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]]
+|-
+|108
+| {{silver medal}} || [[Alexandros Nikolaidis]] || {{GamesName|SOG|2008}} || [[Image:Taekwondo pictogram.svg|25px]] [[Taekwondo at the 2008 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2008 Summer Olympics – Men's +80 kg|Men's +80 kg]]
+|-
+|109
+| {{Bronze medal}} || [[Sofia Bekatorou]]<br>[[Virginia Kravarioti]]<br>[[Sofia Papadopoulou]] || {{GamesName|SOG|2008}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 2008 Summer Olympics|Sailing]] || [[Sailing at the 2008 Summer Olympics – Yngling|Women's yngling class]]
+|-
+|110
+| {{bronze medal}} || [[Ilias Iliadis (judoka)|Ilias Iliadis]] || {{GamesName|SOG|2012}} || [[Image:Judo pictogram.svg|25px]] [[Judo at the 2012 Summer Olympics|Judo]] || [[Judo at the 2012 Summer Olympics – Men's 90 kg|Men's 90 kg]]
+|-
+|111
+| {{bronze medal}} || [[Christina Giazitzidou]]<br>[[Alexandra Tsiavou]] || {{GamesName|SOG|2012}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2012 Summer Olympics|Rowing]] || [[Rowing at the 2012 Summer Olympics – Women's lightweight double sculls|Women's lightweight double sculls]]
+|-
+|112
+| {{gold medal}} || [[Anna Korakaki]] || {{GamesName|SOG|2016}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2016 Summer Olympics|Shooting]]|| [[Shooting at the 2016 Summer Olympics – Women's 25 metre pistol|Women's 25 m pistol]]
+|-
+|113
+| {{gold medal}} || [[Eleftherios Petrounias]] || {{GamesName|SOG|2016}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2016 Summer Olympics|Gymnastics]]|| [[Gymnastics at the 2016 Summer Olympics – Men's rings|Men's rings]]
+|-
+|114
+| {{gold medal}} || [[Katerina Stefanidi]] || {{GamesName|SOG|2016}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2016 Summer Olympics|Athletics]]|| [[Athletics at the 2016 Summer Olympics – Women's pole vault|Women's pole vault]]
+|-
+|115
+| {{silver medal}} || [[Spyridon Gianniotis]]|| {{GamesName|SOG|2016}} || [[Image:Swimming pictogram.svg|25px]] [[Swimming at the 2016 Summer Olympics|Swimming]]|| [[Swimming at the 2016 Summer Olympics – Men's marathon 10 kilometre|Men's 10 km open water]]
+|-
+|116
+| {{bronze medal}} || [[Anna Korakaki]] || {{GamesName|SOG|2016}} || [[Image:Shooting pictogram.svg|25px]] [[Shooting at the 2016 Summer Olympics|Shooting]]|| [[Shooting at the 2016 Summer Olympics – Women's 10 metre air pistol|Women's 10 m air pistol]]
+|-
+|117
+| {{bronze medal}} || [[Pavlos Kagialis]]<br>[[Panagiotis Mantis]] || {{GamesName|SOG|2016}} || [[Image:Sailing pictogram.svg|25px]] [[Sailing at the 2016 Summer Olympics|Sailing]] || [[Sailing at the 2016 Summer Olympics – Men's 470|Men's 470]]
+|-
+|118
+| {{gold medal}} || [[Stefanos Ntouskos]] || {{GamesName|SOG|2020}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2020 Summer Olympics|Rowing]]|| [[Rowing at the 2020 Summer Olympics – Men's single sculls|Men's single sculls]]
+|-
+|119
+| {{gold medal}} || [[Miltiadis Tentoglou]] || {{GamesName|SOG|2020}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2020 Summer Olympics|Athletics]]|| [[Athletics at the 2020 Summer Olympics – Men's long jump|Men's long jump]]
+|-
+|120
+|{{silver medal}}
+|{{Collapsible list 
+|title=[[Greece men's national water polo team|Men's water polo team]]
+
+|<hr>[[Emmanouil Zerdevas]]<br>[[Konstantinos Genidounias]]<br>[[Dimitrios Skoumpakis]]<br>[[Marios Kapotsis]]<br>[[Ioannis Fountoulis]]<br>[[Alexandros Papanastasiou]]<br>[[Georgios Dervisis]]<br>[[Stylianos Argyropoulos]]<br>[[Konstantinos Mourikis]]<br>[[Christodoulos Kolomvos]]<br>[[Konstantinos Gkiouvetsis]]<br>[[Angelos Vlachopoulos]]<br>[[Konstantinos Galanidis]] }}
+
+|{{GamesName|SOG|2020}}
+|[[Image:Water polo pictogram.svg|25px]] [[Water polo at the 2020 Summer Olympics|Water polo]]
+|[[Water polo at the 2020 Summer Olympics – Men's tournament|Men's tournament]]
+|-
+|121
+| {{bronze medal}} || [[Eleftherios Petrounias]] || {{GamesName|SOG|2020}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2020 Summer Olympics|Gymnastics]]|| [[Gymnastics at the 2020 Summer Olympics – Men's rings|Men's rings]]
+|-
+|122
+| {{gold medal}} || [[Miltiadis Tentoglou]]|| {{GamesName|SOG|2024}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2024 Summer Olympics|Athletics]]|| [[Athletics at the 2024 Summer Olympics – Men's long jump|Men's long jump]]
+|-
+|123
+| {{silver medal}} || [[Apostolos Christou]]|| {{GamesName|SOG|2024}} || [[Image:Swimming pictogram.svg|25px]][[Swimming at the 2024 Summer Olympics|Swimming]]|| [[Swimming at the 2024 Summer Olympics – Men's 200 metre backstroke|Men's 200 m backstroke]]
+|-
+|124
+| {{bronze medal}} || [[Theodoros Tselidis]]|| {{GamesName|SOG|2024}} || [[Image:Judo pictogram.svg|25px]] [[Judo at the 2024 Summer Olympics|Judo]]|| [[Judo at the 2024 Summer Olympics – Men's 90 kg|Men's –90 kg]] 
+|-
+|125
+| {{bronze medal}} || [[Antonios Papakonstantinou]]<br /> [[Petros Gkaidatzis]]||{{GamesName|SOG|2024}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2024 Summer Olympics|Rowing]]|| [[Rowing at the 2024 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]] 
+|-
+|126
+| {{bronze medal}} || [[Zoi Fitsiou]]<br /> [[Dimitra Kontou|Milena Kontou]]||{{GamesName|SOG|2024}} || [[Image:Rowing pictogram.svg|25px]] [[Rowing at the 2024 Summer Olympics|Rowing]]|| [[Rowing at the 2024 Summer Olympics – Women's lightweight double sculls|Women's lightweight double sculls]]
+|-
+|127
+| {{bronze medal}} || [[Eleftherios Petrounias]]||{{GamesName|SOG|2024}} || [[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 2024 Summer Olympics|Gymnastics]]|| [[Gymnastics at the 2024 Summer Olympics – Men's rings|Men's rings]]
+|-
+|128
+| {{bronze medal}} || [[Emmanouil Karalis]]||{{GamesName|SOG|2024}} || [[Image:Athletics pictogram.svg|25px]] [[Athletics at the 2024 Summer Olympics|Athletics]]|| [[Athletics at the 2024 Summer Olympics – Men's pole vault|Men's pole vault]]
+|-
+|129
+| {{bronze medal}} || [[Dauren Kurugliev]]||{{GamesName|SOG|2024}} || [[Image:Wrestling pictogram.svg|25px]] [[Wrestling at the 2024 Summer Olympics|Wrestling]]|| [[Wrestling at the 2024 Summer Olympics – Men's freestyle 86 kg|Men's freestyle –86 kg]]
+|}
+===Athletes with most medals===
+{{see also|List of multiple Olympic medalists}}
+The table below lists the athletes that have won more than one [[Olympic medal]] while competing for Greece. It does not include medals won for other nations and [[Mixed teams at the Olympics|mixed teams]]. The athletes are shown in order by the number of total medals won; in case of the same number of total medals they are sorted by gold, silver and then bronze medals.
+
+[[File:Piros dimas dion.JPG|right|200px|thumb|[[Pyrros Dimas]] is the top Greek Olympic medalist having won three gold and one bronze medal in weightlifting.]]
+[[File:1912 Konstantinos Tsiklitiras2 cropped.JPG|right|200px|thumb|[[Konstantinos Tsiklitiras]] has won four Olympic medals in athletics and ties Pyrros Dimas for the Greek athlete with the most Olympic medals won in total.]]
+[[File:R2R Wiki photo.jpg|right|200px|thumb|[[Sofia Bekatorou]], with a gold (2004) and a bronze medal (2008) in sailing.]]
+[[File:Voula Patoulidou.JPG|right|200px|thumb|[[Voula Patoulidou]] was the first Greek female athlete to win a gold Olympic medal in 1992.]]
+
+{| class="wikitable" width=68% style="font-size:90%; text-align:center;"
+! width=150 | Athlete
+! width=150 | Sport
+! width=100 | Games
+! [[File:Gold medal olympic.svg|20px]]
+! [[File:Silver medal olympic.svg|20px]]
+! [[File:Bronze medal olympic.svg|20px]]
+! width=50 | Total
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Pyrros Dimas]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1992 Summer Olympics|1992]]–[[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 3
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Konstantinos Tsiklitiras]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 1908 Summer Olympics|1908]]–[[Greece at the 1912 Summer Olympics|1912]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 1
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ioannis Frangoudis]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Eleftherios Petrounias]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 2016 Summer Olympics|2016]]–[[Greece at the 2020 Summer Olympics|2020]]-[[Greece at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 2
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Kakhi Kakhiashvili]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Miltiadis Tentoglou]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2020 Summer Olympics|2020]]–[[Greece at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Nikolaos Andriakopoulos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Georgios Orphanidis]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Nikolaos Kaklamanakis]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| [[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Dimosthenis Tampakos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ioannis Mitropoulos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Sofia Bekatorou]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2008 Summer Olympics|2008]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ilias Iliadis (judoka)|Ilias Iliadis]]
+|align=left| {{GamesSport|Judo|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2012 Summer Olympics|2012]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anna Korakaki]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 2016 Summer Olympics|2016]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Dimitrios Kasdaglis]]
+|align=left| {{GamesSport|Tennis|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Stamatios Nikolopoulos]]
+|align=left| {{GamesSport|Cycling|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Thomas Xenakis]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Italy at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Leonidas Sabanis]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anastasia Kelesidou]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Alexandros Nikolaidis]]
+|align=left| {{GamesSport|Taekwondo|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2008 Summer Olympics|2008]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Petros Persakis]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Petros Galaktopoulos]]
+|align=left| {{GamesSport|Wrestling|Format=d}}
+| [[Greece at the 1968 Summer Olympics|1968]]–[[Greece at the 1972 Summer Olympics|1972]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Mirela Maniani]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Vasileios Polymeros]]
+|align=left| {{GamesSport|Rowing|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2008 Summer Olympics|2008]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Sotirios Versis]]
+|align=left| {{GamesSport|Athletics|Format=d}} {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 2
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Charalambos Cholidis]]
+|align=left| {{GamesSport|Wrestling|Format=d}}
+| [[Greece at the 1984 Summer Olympics|1984]]–[[Greece at the 1988 Summer Olympics|1988]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 2
+|  '''2'''
+|}
+
+===Top medalists===
+The tables below list the top Olympic medalists for Greece, sorted by gold, silver and then bronze medals.
+
+;Men
+{| class="wikitable" width=68% style="font-size:90%; text-align:center;"
+! width=150 | Athlete
+! width=150 | Sport
+! width=100 | Games
+! [[File:Gold medal olympic.svg|20px]]
+! [[File:Silver medal olympic.svg|20px]]
+! [[File:Bronze medal olympic.svg|20px]]
+! width=50 | Total
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Pyrros Dimas]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1992 Summer Olympics|1992]]–[[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 3
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Kakhi Kakhiashvili|Akakios Kakiasvilis]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}
+| [[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Miltiadis Tentoglou]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2020 Summer Olympics|2020]]–[[Greece at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Konstantinos Tsiklitiras]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 1908 Summer Olympics|1908]]–[[Greece at the 1912 Summer Olympics|1912]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 1
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ioannis Frangoudis]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Nikolaos Andriakopoulos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Italy at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Georgios Orphanidis]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Nikolaos Kaklamanakis]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| [[Greece at the 1996 Summer Olympics|1996]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Dimosthenis Tampakos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Eleftherios Petrounias]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Greece at the 2016 Summer Olympics|2016]]–[[Greece at the 2020 Summer Olympics|2020]]-[[Greece at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 2
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ioannis Mitropoulos]]
+|align=left| {{GamesSport|Gymnastics|Format=d}}
+| [[Italy at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ilias Iliadis (judoka)|Ilias Iliadis]]
+|align=left| {{GamesSport|Judo|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2012 Summer Olympics|2012]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|}
+
+;Women
+{| class="wikitable" width=68% style="font-size:90%; text-align:center;"
+! width=150 | Athlete
+! width=150 | Sport
+! width=115 | Games
+! [[File:Gold medal olympic.svg|20px]]
+! [[File:Silver medal olympic.svg|20px]]
+! [[File:Bronze medal olympic.svg|20px]]
+! width=50 | Total
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Sofia Bekatorou]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]–[[Greece at the 2008 Summer Olympics|2008]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anna Korakaki]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| [[Greece at the 2016 Summer Olympics|2016]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Voula Patoulidou]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 1992 Summer Olympics|1992]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''1'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Fani Chalkia]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''1'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Emilia Tsoulfa]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''1'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Athanasia Tsoumeleka]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''1'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ekaterini Stefanidi]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2016 Summer Olympics|2016]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''1'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anastasia Kelesidou]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Mirela Maniani]]
+|align=left| {{GamesSport|Athletics|Format=d}}
+| [[Greece at the 2000 Summer Olympics|2000]]–[[Greece at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 0
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''2'''
+|}
+
+=== Additional disputed medals of 1896 ===
+There is confusion about certain results and medals in the first [[1896 Summer Olympics|Summer Olympics of 1896]]. The [[Hellenic Olympic Committee]], claiming different sources, cites in its website some different results for certain events and some additional medals for Greece, which are contradictory to those appearing in the [[IOC]] website. They are cited here separately and are not included in any of the other tables.
+{| class="wikitable sortable"
+|+Table of additional medals and medalists recognised by the HOC
+!Athlete
+!Sport
+!Event
+!Medal according to HOC
+!Position according to IOC
+!Medalist according to IOC
+|-
+|[[Efstathios Chorafas]]<ref name=":2">{{Cite web|title=Χωραφάς Στάθης|url=https://hoc.gr/el/node/912|access-date=2021-08-10|website=hoc.gr|publisher=Hellenic Olympic Committee|language=el|archive-date=2021-08-04|archive-url=https://web.archive.org/web/20210804232907/https://hoc.gr/el/node/912|url-status=dead}}</ref><ref>{{Cite web|title=Official Report 1896 page 1|url=https://digital.la84.org/digital/collection/p17103coll8/id/6403/rec/2|access-date=2021-08-10|website=digital.la84.org|page=216 of the document, 96 of the second part|language=en}}</ref><ref>Newspaper Akropolis, 31 March 1896, p. 2. Accessible at Helleniic Parliament's [https://srv-web1.parliament.gr/display_doc.asp?item=41060&seg=22668 digital library], p. 2 of the microfilm.</ref><ref>Newspaper Epitheorisis, 4 April 1896, p. 2. Accessible at the Hellenic Parliament's [https://srv-web1.parliament.gr/display_doc.asp?item=33591&seg=873 digital library], p. 172 of the microfilm. Chorafas is cited among the runners up in swimming, although by mistake as of the event of 1200 m., with Andreou cited as runner up in 100 m., while obviously it is vice versa.</ref>
+|[[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]]
+|[[Swimming at the 1896 Summer Olympics – Men's 100 metre freestyle|Men's 100 metre freestyle]]
+|Silver
+|Unknown (3 to 6)<ref>{{Cite web|last=IOC|title=Athens 1896 100m freestyle men Results - Olympic swimming|url=https://olympics.com/en/olympic-games/athens-1896/results/swimming/100m-freestyle-men|access-date=2021-08-10|website=Olympics.com|language=en}}</ref> 
+|[[Otto Herschmann]]
+|-
+|[[Konstantinos Akratopoulos]]<ref>{{Cite web|title=Ακρατόπουλος Κώστας|url=https://hoc.gr/el/node/925|access-date=2021-08-10|website=hoc.gr|publisher=Hellenic Olympic Committee|language=el|archive-date=2021-08-04|archive-url=https://web.archive.org/web/20210804225000/https://hoc.gr/el/node/925|url-status=dead}}</ref> - [[Aristidis Akratopoulos]]<ref>{{Cite web|title=Ακρατόπουλος Αριστείδης|url=https://hoc.gr/el/node/923|access-date=2021-08-10|website=hoc.gr|publisher=Hellenic Olympic Committee|language=el|archive-date=2021-08-04|archive-url=https://web.archive.org/web/20210804224023/https://hoc.gr/el/node/923|url-status=dead}}</ref>
+|[[Image:Tennis pictogram.svg|25px]] [[Tennis at the 1896 Summer Olympics|Tennis]]
+|[[Tennis at the 1896 Summer Olympics – Men's doubles|Men's doubles]]
+|Bronze
+|4<ref>{{Cite web|last=IOC|title=Athens 1896 doubles men Results - Olympic tennis|url=https://olympics.com/en/olympic-games/athens-1896/results/tennis/doubles-men|access-date=2021-08-10|website=Olympics.com|language=en}}</ref> 
+|[[Edwin Flack]] - [[George Stuart Robertson]]
+|-
+|[[Aristovoulos Petmezas]]<ref>{{Cite web|title=Πετμεζάς Αριστόβουλος|url=https://hoc.gr/el/node/990|access-date=2021-08-10|website=hoc.gr|publisher=Hellenic Olympic Committee|language=el|archive-date=2021-08-04|archive-url=https://web.archive.org/web/20210804221249/https://hoc.gr/el/node/990|url-status=dead}}</ref> 
+|[[Image:Gymnastics pictogram.svg|25px]] [[Gymnastics at the 1896 Summer Olympics|Gymnastics]]
+|[[Gymnastics at the 1896 Summer Olympics – Men's horizontal bar|Men's horizontal bar]]
+|Bronze
+|Did not participate<ref>{{Cite web|last=IOC|title=Athens 1896 horizontal bar men Results - Olympic gymnastics-artistic|url=https://olympics.com/en/olympic-games/athens-1896/results/gymnastics-artistic/horizontal-bar-men|access-date=2021-08-10|website=Olympics.com|language=en}}</ref> 
+|None
+|-
+|[[Efstathios Chorafas]]<ref name=":2" /> 
+|[[Image:Swimming pictogram.svg|25px]] [[Swimming at the 1896 Summer Olympics|Swimming]]
+|[[Swimming at the 1896 Summer Olympics – Men's 1200 metre freestyle|Men's 1200 m freestyle]]
+|Bronze
+|Unknown (3 to 5)<ref>{{Cite web|last=IOC|title=Athens 1896 1200m freestyle men Results - Olympic swimming|url=https://olympics.com/en/olympic-games/athens-1896/results/swimming/1200m-freestyle-men|access-date=2021-08-10|website=Olympics.com|language=en}}</ref> 
+|None
+|-
+|[[Georgios Paraskevopoulos]]<ref>{{Cite web|title=Παρασκευόπουλος Γιώργος|url=https://hoc.gr/el/node/1042|access-date=2021-08-10|website=hoc.gr|publisher=Hellenic Olympic Committee|language=el|archive-date=2021-08-05|archive-url=https://web.archive.org/web/20210805000503/https://hoc.gr/el/node/1042|url-status=dead}}</ref><ref>Newspaper Epitheorisis, 3 April 1896, p. 2. Accessible at the Hellenic Parliament's [https://srv-web1.parliament.gr/display_doc.asp?item=33591&seg=873 digital library], p. 170 of the microfilm.</ref>
+|[[Image:Cycling pictogram.svg|25px]] [[Cycling at the 1896 Summer Olympics|Cycling]]
+|[[Cycling at the 1896 Summer Olympics – Men's 12 hour race|12 hour race]]
+|Bronze
+|Did not finish<ref>{{Cite web|last=IOC|title=Athens 1896 12-hour race men Results - Olympic cycling-track|url=https://olympics.com/en/olympic-games/athens-1896/results/cycling-track/12-hour-race-men|access-date=2021-08-10|website=Olympics.com|language=en}}</ref>
+|None
+|}
+
+==Summary by sport==
+
+===Aquatics===
+
+====Swimming====
+
+Greece first competed in swimming at the inaugural 1896 Games, sweeping the top three spots in one event open only to Greek sailors and winning two silver and one bronze medal in international events. Greek swimmers have won only two silver medals since then at the 2016 and 2024 Games.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[Athens 1896]]|| 1 || 3 || 2 || 6
+|-
+|[[Rio 2016]]|| 0 || 1 || 0 || 1
+|-
+|[[2024 Summer Olympics|Paris 2024]]
+|0
+|1
+|0
+|1
+|-
+! Total || 1 || 5 || 2 || 8
+|}
+
+==== Diving ====
+Greece won a gold medal in Diving at the 2004 Games.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 1 || 0 || 0 || 1
+|-
+! Total || 1 || 0 || 0 || 1
+|}
+
+==== Water Polo ====
+Greece has won silver medals at the 2004 Games (women's) and 2020 Games (men's).
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 0 || 1 || 0 || 1
+|-
+|[[2020 Summer Olympics|Tokyo 2020]]|| 0 || 1 || 0 || 1
+|-
+! Total || 0 || 2 || 0 || 2
+|}
+
+===Athletics===
+Greece first competed in athletics at the first Games in 1896, winning the [[Athletics at the 1896 Summer Olympics – Men's marathon|men's marathon]]. Since then, Greece have won numerous medals in athletics especially from the 1992 Games through to the 2020 Games, in what is Greece's most successful sport at the Olympic Games.
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[Athens 1896]]|| 1 || 3 || 6 || 10
+|-
+|[[St. Louis 1904]]|| 0 || 0 || 1 || 1
+|-
+|[[London 1908]]|| 0 || 3 || 0 || 3
+|-
+|[[Stockholm 1912]]|| 1 || 0 || 1 || 2
+|-
+|[[Melbourne 1956]]|| 0 || 0 || 1 || 1
+|-
+|[[1992 Summer Olympics|Barcelona 1992]]|| 1 || 0 || 0 || 1
+|-
+|[[1996 Summer Olympics|Atlanta 1996]]|| 0 || 1 || 0 || 1
+|-
+|[[2000 Summer Olympics|Sydney 2000]]|| 1 || 3 || 0 || 4
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 2 || 2 || 1 || 5
+|-
+|[[Rio 2016]]|| 1 || 0 || 0 || 1
+|-
+|[[2020 Summer Olympics|Tokyo 2020]]|| 1 || 0 || 0 || 1
+|-
+|[[2024 Summer Olympics|Paris 2024]]
+|1
+|0
+|1
+|2
+|-
+! Total || 9 || 12 || 11 || 32
+|}
+
+===Cycling===
+
+Greece competed in all six of the cycling events at the first Games in 1896, winning one event and taking three second-place finishes. As of 2020, those were still the only cycling medals earned by Greek competitors.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[Athens 1896]]|| 1 || 3 || 0 || 4
+|-
+! Total || 1 || 3 || 0 || 4
+|}
+
+===Fencing===
+
+Greece competed in all three fencing events at the inaugural 1896 Games, winning two (the men's master's foil and the men's sabre) and adding a second-place finish in the men's sabre and third-place in the men's foil. However another bronze medal is considered nowadays in the same event.<ref name=":1" /> Those remain the only fencing medals Greece has won to date (through the 2020 Olympics).
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[Athens 1896]]|| 2 || 1 || 2 || 5
+|-
+! Total || 2 || 1 || 2 || 5
+|}
+
+===Gymnastics===
+
+Greece sent 52 gymnasts to the first Games in 1896 (when team events featured very large teams), winning six medals including two of each color. Since then, Greece have won many medals in Gymnastics from the 1996 Games through to the 2020 Games.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[Athens 1896]] || 2 || 2 || 2 || 6
+|-
+|[[1996 Summer Olympics|Atlanta 1996]]|| 1 ||0 || 0 || 1
+|-
+|[[2000 Summer Olympics|Sydney 2000]]|| 0 || 1 || 1 || 2
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 1 || 0 || 0 || 1
+|-
+|[[Rio 2016]]   || 1 || 0 || 0 || 1
+|-
+|[[2020 Summer Olympics|Tokyo 2020]] || 0 || 0 || 1 || 1
+|-
+|[[2024 Summer Olympics|Paris 2024]]
+|0
+|0
+|1
+|1
+|-
+! Total     || 5 || 3 || 5 || 13
+|}
+
+===Judo===
+
+Greece first competed in judo at the 2004 Games and has won three medals since.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 1 || 0 || 0 || 1
+|-
+|[[London 2012]]|| 0 || 0 || 1 || 1
+|-
+|[[2024 Summer Olympics|Paris 2024]]
+|0
+|0
+|1
+|1
+|-
+! Total || 1 || 0 || 2 || 3
+|}
+
+=== Rowing ===
+Greece first won a rowing medal at the 2004 Games and has won more medals since then.
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+| [[2004 Summer Olympics|Athens 2004]] || 0 || 0 || 1 || 1
+|-
+| [[Beijing 2008]] || 0 || 1 || 0 || 1
+|-
+| [[London 2012]] || 0 || 0 || 1 || 1
+|-
+| [[2020 Summer Olympics|Tokyo 2020]] || 1 || 0 || 0 || 1
+|-
+| [[2024 Summer Olympics|Paris 2024]] || 0 || 0 || 2 || 2
+|-
+! Total || 1 || 1 || 4 || 6
+|}
+
+=== Sailing ===
+Greece first competed in the sailing events in 1948 and won its first medal at the 1960 Games and has won numerous medals since then.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+| [[Sailing at the 1960 Summer Olympics|1960 Rome]]|| 1 || 0 || 0 || 1 
+|-
+| [[Sailing at the 1972 Summer Olympics|1972 Munich]]|| 0 || 1 || 0 || 1 
+|-
+| [[Sailing at the 1980 Summer Olympics|1980 Moscow]]|| 0 || 0 || 1 || 1 
+|-
+| [[Sailing at the 1996 Summer Olympics|1996 Atlanta]]|| 1 || 0 || 0 || 1 
+|-
+| [[Sailing at the 2004 Summer Olympics|2004 Athens]]|| 1 || 1 || 0 || 2 
+|-
+| [[Sailing at the 2008 Summer Olympics|2008 Beijing]]|| 0 || 0 || 1 || 1 
+|-
+| [[Sailing at the 2016 Summer Olympics|2016 Rio]]|| 0 || 0 || 1 || 1 
+|-
+! [[Sailing at the Summer Olympics|Total]] || 3 || 2 || 3 || 8 
+|}
+
+=== Shooting ===
+
+Greece competed in all five shooting events at the inaugural 1896 Games, winning three and medaling in the other two (earning a total of 9 medals) and has won shooting medals again from the 2016 Games onwards.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[Athens 1896]]|| 3 || 3 || 3 || 9
+|-
+|[[London 1908]]|| 0 || 0 || 1 || 1
+|-
+|[[Antwerp 1920]]|| 0 || 1 || 0 || 1
+|-
+|[[Rio 2016]]|| 1 || 0 || 1 || 2
+|-
+! Total || 4 || 4 || 5 || 13
+|}
+
+===Tae Kwon Do===
+
+Greece first competed in tae kwon do at the 2000 Games and had a notable success during the 2000s decade, winning medals in 3 consecutive Olympic Games.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[2000 Summer Olympics|Sydney 2000]]|| 1 || 0 || 0 || 1
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 0 || 2 || 0 || 2
+|-
+|[[Beijing 2008]]|| 0 || 1 || 0 || 1
+|-
+! Total || 1 || 3 || 0 || 4
+|}
+
+===Tennis===
+
+Greece first competed in tennis at the inaugural 1896 Games, with seven players competing in men's singles and doubles. Greek players won the silver and bronze medals in the singles; a pair of Greek players combined to win the silver in the doubles, nowadays considered a Greek team and therefore a Greek medal.<ref name=":0" /> The 1896 medals remain (through the 2020 Games) the only tennis medals won by Greek players.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[Athens 1896]]|| 0 || 2 || 1 || 3
+|-
+! Total || 0 || 2 || 1 || 3
+|}
+
+===Weightlifting===
+
+Greece first competed in weightlifting at the inaugural 1896 Games, with three lifters competing. Greek lifters won the bronze medals in both events. Since then, Greek lifters won numerous medals from the 1992 Games through to the 2004 Games, including from Greece's top Olympic medalist [[Pyrros Dimas]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold || style="background-color:silver;" | Silver || style="background-color:#c96;" | Bronze
+! Total
+|-
+|[[Athens 1896]]|| 0 || 0 || 2 || 2
+|-
+|[[St. Louis 1904]]|| 1 || 0 || 0 || 1
+|-
+|[[1992 Summer Olympics|Barcelona 1992]]|| 1 || 0 || 0 || 1
+|-
+|[[1996 Summer Olympics|Atlanta 1996]]|| 2 || 3 || 0 || 5
+|-
+|[[2000 Summer Olympics|Sydney 2000]]|| 2 || 2 || 1 || 5
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 0 || 0 || 1 || 1
+|-
+! Total || 6 || 5 || 4 || 15
+|}
+
+===Wrestling===
+
+Greece first competed in wrestling at the inaugural 1896 Games, with two wrestlers competing in the open weight class event and taking the silver and bronze medals. Since then, Greek wrestlers have won medals from the 1968 Games onwards.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games|| style="background-color:gold;" | Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+|-
+|[[Athens 1896]]|| 0 || 1 || 1 || 2
+|-
+|[[Mexico 1968]]|| 0 || 0 || 1 || 1
+|-
+|[[Munich 1972]]|| 0 || 1 || 0 || 1
+|-
+|[[Moscow 1980]]|| 1 || 0 || 1 || 2
+|-
+|[[Los Angeles 1984]]|| 0 || 1 || 1 || 2
+|-
+|[[1988 Summer Olympics|Seoul 1988]]|| 0 || 0 || 1 || 1
+|-
+|[[2000 Summer Olympics|Sydney 2000]]|| 0 || 0 || 1 || 1
+|-
+|[[2004 Summer Olympics|Athens 2004]]|| 0 || 0 || 1 || 1
+|-
+|[[2024 Summer Olympics|Paris 2024]]
+|0
+|0
+|1
+|1
+|-
+! Total || 1 || 3 || 8 || 12
+|}
+
+==Hosted Olympic logos and mottos==
+
+===1896 Summer Olympics===
+
+In 1896 the first modern Olympic Games were hosted in [[Athens]], the capital of [[Greece]]. The Games were a revival  of the ancient Games held every four years in [[Olympia, Greece|Olympia]], in which participants from all [[List of ancient Greek cities|Greek city-states]] were taking part, during antiquity.
+
+By tradition, Greece is since then the first country to enter the stadium, during opening ceremonies.
+
+===2004 Summer Olympics===
+
+The [[2004 Summer Olympics]] were hosted predominately in [[Athens]], with a few events in other Greek cities including [[Thessaloniki]], [[Patras]], [[Volos]] and [[Heraklion]].
+
+The Games' motto was ''Welcome Home'' (Καλώς ήρθατε σπίτι). The 2004 logo consisted of an olive tree branch (κότινος), with the colors of the modern Greek flag. The olive tree was a symbol of the city of Athens, while "[[kotinos]]" represented the Olympic spirit, as it was the only reward that the athletes were receiving in Olympia, during the ancient Games. The logo was revealed in 1999.
+
+==See also==
+* [[List of flag bearers for Greece at the Olympics]]
+* [[:Category:Olympic competitors for Greece]]
+* [[Greece at the Paralympics]]
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite web |title=Greece |date=28 September 2021 |publisher=International Olympic Committee |url=https://www.olympic.org/greece }}
+* {{cite web |title=Greece |publisher=Olympedia.com |url=http://www.olympedia.org/countries/GRE }}
+* {{cite web |title=Olympic Analytics/GRE |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=GRE }}
+
+{{Country at games navbox|Greece|Olympics}}
+{{Nations at the Olympics}}
+{{National sports teams of Greece}}
+
+{{DEFAULTSORT:Greece At The Olympics}}
+[[Category:Greece at the Olympics| ]]

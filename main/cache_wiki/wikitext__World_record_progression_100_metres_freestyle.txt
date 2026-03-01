@@ -1,0 +1,3495 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{Use dmy dates|date=October 2015}}
+{{main|List of world records in swimming}}
+
+[[File:Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m.png|thumb|Graphic data for World Record Progression in Men and Women Swimming 50m-100m-200m Long and Short Course Butterfly-Backstroke-Breaststroke-Freestyle]]
+
+The first '''world record in the [[100 metres freestyle]]''' in [[long course]] (50&nbsp;metres) swimming was recognised by the [[International Swimming Federation]] (FINA) in 1905.<ref>{{cite web|title=Swimming World Record progression – Men 100 m freestyle|url=http://multimedia.olympic.org/pdf/en_report_212.pdf|date=8 July 2004|publisher=[[International Olympic Committee]]|archive-url=https://web.archive.org/web/20070926232546/http://multimedia.olympic.org/pdf/en_report_212.pdf|archive-date=26 September 2007}}</ref> In the [[Short course (swimming)|short course]] (25&nbsp;metres) swimming events,  the world's governing body recognizes world records since 3 March 1991.
+
+Times have consistently dropped over the years due to better training techniques, new developments in the sport and swimwear changes (e.g. [[goggles]] were not widely used until the 1970s, providing for considerable expansion of practice/training time).
+
+In the first four Olympics, competitions were not held in pools, but rather in open water (1896 – The Mediterranean Sea, 1900 – The [[Seine River]], 1904 – an artificial lake, 1906 – The Mediterranean Sea). The [[1904 Olympics]] freestyle race was the only one ever measured at 100&nbsp;yards, instead of the usual 100&nbsp;metres. A 100-metre pool was built for the [[1908 Olympics]] and sat in the centre of the main stadium's track and field oval. The [[1912 Olympics]], held in the Stockholm harbour, marked the beginning of electronic timing.
+
+Male swimmers wore full body suits up until the 1940s, which caused more drag in the water than their modern swim-wear counterparts. Also, over the years, pool designs have lessened the drag. Some design considerations allow for the reduction of swimming [[Drag (physics)|resistance]] making the pool faster. Namely, proper pool depth, elimination of currents, increased lane width, energy absorbing racing lane lines and gutters, and the use of other innovative hydraulic, acoustic and illumination designs.
+
+In 2008, leading up to the Olympics, Speedo introduced a 50% [[Polyurethane]] suit dubbed [[LZR Racer|LZR]].  Pure polyurethane suits from Arena ([[X-Glide]]), Adidas (Hydrofoil) and Italian suit manufacturer, Jaked were thought to be largely responsible for the multiple World Records in 2009 including at the [[2009 World Aquatics Championships]] (dubbed the "Plastic Games").  FINA announced a ban on non-textile suits that took effect in January 2010.<ref>{{cite news|title=Hi-tech suits banned from January|url=http://news.bbc.co.uk/sport2/hi/other_sports/swimming/8161867.stm|newspaper=BBC News|date=2009-07-31 <!-- 16:27:41 GMT -->|archive-url=https://web.archive.org/web/20120714234913/http://news.bbc.co.uk/sport2/hi/other_sports/swimming/8161867.stm|archive-date=14 July 2012|access-date=1 July 2012|url-status=bot: unknown}}</ref>
+
+The [[1924 Summer Olympics]] were the first to use the standard 50&nbsp;metre pool with marked lanes. In the freestyle, swimmers originally dived from the pool walls, but diving blocks were eventually incorporated at the [[1936 Summer Olympics]]. The [[tumble turn]] ("flip-turn") was developed by the 1950s.
+
+==Men==
+
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 1:05.8
+|recordinfo = 
+|firstname = Zoltán
+|lastname = Halmay
+|namearticle = 
+|nation = HUN
+|nationvariant = 1867
+|date = {{Dts|format=dmy|1905|12|3}}
+|meet = –
+|country = AUT
+|city = Vienna
+|ref = <ref>{{Cite web|url=https://swimswam.com/100-meter-freestyle-nathan-adrian-against-spitz-weissmuller-and-other-historic-greats/|title=100-Meter Freestyle: Nathan Adrian against Spitz, Weissmuller, and Other Historic Greats – Video|date=6 June 2013|website=SwimSwam}}</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 1:05.6
+|recordinfo = 
+|firstname = Charles
+|lastname = Daniels
+|namearticle = Charles Daniels (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1908|7|20}}
+|meet = [[Swimming at the 1908 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = UK
+|city = London
+|ref = <ref>{{cite news|title=The Olympic Games – The 100 metres race|newspaper=[[The Times]]|publisher=[[Alfred Harmsworth, 1st Viscount Northcliffe|Alfred Harmsworth]]|location=London|page=13|date=21 July 1908}}</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:02.8
+|recordinfo = tt
+|firstname = Charles
+|lastname = Daniels
+|namearticle = Charles Daniels (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1910|4|15}}
+|meet = Special record attempt by the New York AC
+|country = USA
+|city = New York City
+|ref = <ref>{{cite news|title=Three swimming records|url=https://timesmachine.nytimes.com/timesmachine/1910/04/16/101315600.pdf|newspaper=[[The New York Times]]|page=13|date=16 April 1910|access-date=11 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:02.4
+|recordinfo = 
+|firstname = Kurt
+|lastname = Bretting
+|namearticle = 
+|nation = German Empire
+|nationvariant = 
+|date = {{Dts|format=dmy|1912|4|6}}
+|meet = –
+|country = BEL
+|city = Brussels
+|ref = <ref>{{cite news|title=The 100 metres record|url=http://nla.gov.au/nla.news-article15340899/1290476?zoomLevel=3|newspaper=[[The Sydney Morning Herald]]|page=9|date=24 July 1912|access-date=11 May 2013}}{{Dead link|date=February 2026 |bot=InternetArchiveBot }}</ref>
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:01.6
+|recordinfo = 
+|firstname = Duke
+|lastname = Kahanamoku
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1912|7|20}}
+|meet = German Championships
+|country = GER
+|countryvariant = 
+|city = Hamburg
+|ref = 
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:01.4
+|recordinfo = 
+|firstname = Duke
+|lastname = Kahanamoku
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1918|8|9}}
+|meet = International exhibition 
+|country = USA
+|city = New York City
+|ref = <ref>{{cite news|title=Hawaiian swims close to record|work=The New York Times|page=8|date=10 August 1918}}</ref>
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:00.4
+|recordinfo = 
+|firstname = Duke
+|lastname = Kahanamoku
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1920|8|24}}
+|meet = [[Swimming at the 1920 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = BEL
+|city = Antwerp
+|ref = 
+}}
+{{Swimmingrecord
+|number = 8
+|time = 58.6
+|recordinfo = 
+|firstname = Johnny
+|lastname = Weissmuller
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1922|7|9}}
+|meet = –
+|country = USA
+|city = Alameda
+|cityarticle = Alameda, California
+|ref = 
+}}
+{{Swimmingrecord
+|number = 9
+|time = 57.4
+|recordinfo = 
+|firstname = Johnny
+|lastname = Weissmuller
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1924|2|17}}
+|meet = –
+|country = USA
+|city = Miami
+|ref = 
+}}
+{{Swimmingrecord
+|number = 10
+|time = 56.8
+|recordinfo = 
+|firstname = Peter
+|lastname = Fick
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1934|3|2}}
+|meet = Yale University Swimming Carnival
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|title=Fick, New York Athletic Club ace, clips swim mark|work=The New York Times|page=16|date=3 March 1934}}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 56.6
+|recordinfo = tt
+|firstname = Peter
+|lastname = Fick
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1935|3|5}}
+|meet = Yale University Swimming Carnival
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|title=18-man Yale swimming team sets record in one-mile relay at New Haven carnival|work=The New York Times|page=26|date=6 March 1935}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 56.4
+|recordinfo = 
+|firstname = Peter
+|lastname = Fick
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1936|2|11}}
+|meet = Yale Benefit Event for the US Olympic team
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|title=Fick breaks record in Yale swim meet|work=The New York Times|page=28|date=12 February 1936}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 55.9
+|recordinfo = tt
+|firstname = Alan
+|lastname = Ford
+|namearticle = Alan Ford (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1944|4|13}}
+|meet = Special record attempt
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|title=Ford clips swim record|agency=Associated Press|work=The New York Times|page=23|date=14 April 1944}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 55.8
+|recordinfo = 
+|firstname = Alex
+|lastname = Jany
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|1947|9|15}}
+|meet = –
+|country = FRA
+|city = Menton
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 55.4
+|recordinfo = tt
+|firstname = Alan
+|lastname = Ford
+|namearticle = Alan Ford (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1948|6|29}}
+|meet = New Haven Swim Club team time trial
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|title=Ford clips record for 100 free-style|agency=Associated Press|work=The New York Times|page=35|date=30 June 1948}}</ref>
+}}
+{{Swimmingrecord
+|number = 16
+|time = 54.8
+|recordinfo = tt
+|firstname = Dick
+|lastname = Cleveland
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1954|4|1}}
+|meet = AAU Championships
+|country = USA
+|city = New Haven
+|ref = <ref>{{cite news|first=Lincoln A|last=Werden|title=Cleveland and Oyakawa set world swim marks at New Haven|work=The New York Times|page=33|date=2 April 1954}}</ref><ref>{{cite news|first=Phillip|last=Whitten|title=Hall of Famer Dick Cleveland Dies|publisher=Swimming World Magazine|date=31 July 2002}}</ref>
+}}
+{{Swimmingrecord
+|number = 17
+|time = 55.4
+|recordinfo = 
+|firstname = Jon
+|lastname = Henricks
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|11|30}}
+|meet = [[Swimming at the 1956 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Devitt fails by touch in 100m duel with Henricks|work=[[The Sydney Morning Herald]]|page=15|date=1 December 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 18
+|time = 55.2
+|recordinfo = 
+|firstname = John
+|lastname = Devitt
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1957|1|19}}
+|meet = New South Wales State Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Devitt's new sprint time surpasses Henricks|publisher=[[The Sun-Herald]]|page=31|date=20 January 1957}}</ref>
+}}
+{{Swimmingrecord
+|number = 19
+|time = 54.6
+|recordinfo = 
+|firstname = John
+|lastname = Devitt
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1957|1|28}}
+|meet = Queensland State Championships
+|country = AUS
+|city = Brisbane
+|ref =<ref>{{cite news|title=John Devitt shatters three world swim records|publisher=[[The Courier-Mail]]|page=9|date=29 January 1957}}</ref>
+}}
+{{Swimmingrecord
+|number = 20
+|time = 54.4
+|recordinfo = 
+|firstname = Steve
+|lastname = Clark
+|namearticle = Steve Clark (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1961|8|18}}
+|meet = Men's NAAA Championships
+|country = USA
+|city = Los Angeles
+|ref =<ref>{{cite news|title=Clark, Stickles set world marks|agency=Associated Press|work=The New York Times|page=14|date=19 August 1961}}</ref>
+}}
+{{Swimmingrecord
+|number = 21
+|time = 53.6
+|recordinfo = tt
+|firstname = Manuel dos
+|lastname = Santos
+|namearticle = Manuel dos Santos (swimmer)
+|nation = BRA
+|date = {{Dts|format=dmy|1961|9|20}}
+|meet = Special record attempt by the CR Guanabara
+|country = BRA
+|city = Rio de Janeiro
+|ref = 
+}}
+{{Swimmingrecord
+|number = 22
+|time = 52.9
+|recordinfo = 
+|firstname = Alain
+|lastname = Gottvallès
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|1964|9|13}}
+|meet = –
+|country = HUN
+|countryvariant = 1957
+|city = Budapest
+|ref = 
+}}
+{{Swimmingrecord
+|number = 22
+|time = 52.9
+|recordinfo = =, r
+|firstname = Steve
+|lastname = Clark
+|namearticle = Steve Clark (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1964|10|14}}
+|meet = [[Swimming at the 1964 Summer Olympics – Men's 4 × 100 metre freestyle relay|Olympic Games]]
+|country = JPN
+|city = Tokyo
+|ref =<ref>{{cite news|title=The Complete Book of the Olympics|publisher=[[Aurum Press Limited]]|first=David|last=Wallechinsky|page=642|year=1996}}</ref>
+}}
+{{Swimmingrecord
+|number = 24
+|time = 52.6
+|recordinfo = r
+|firstname = Ken
+|lastname = Walsh
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1967|7|27}}
+|meet = [[Swimming at the 1967 Pan American Games – Men's 4 × 100 metre freestyle relay|Pan American Games]]
+|country = CAN
+|city = Winnipeg
+|ref =<ref>{{cite news|title=Miss Meyer and Walsh break world swim records at Winnipeg|work=[[The New York Times]]|agency=Associated Press|page=23|date=28 July 1967}}</ref>
+}}
+{{Swimmingrecord
+|number = 24
+|time = 52.6
+|recordinfo = = 
+|firstname = Zac
+|lastname = Zorn
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1968|9|2}}
+|meet = US Olympic Trials (elec. 52.58)
+|country = USA
+|city = Los Angeles
+|ref =<ref>{{cite news|title=The Complete Book of the Olympics|publisher=[[Aurum Press Limited]]|first=David|last=Wallechinsky|pages=615–616|year=1996}}</ref>
+}}
+{{Swimmingrecord
+|number = 26
+|time = 52.2
+|recordinfo = 
+|firstname = Michael
+|lastname = Wenden
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1968|10|19}}
+|meet = [[Swimming at the 1968 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = MEX
+|city = Mexico City
+|ref =<ref>{{cite news|first=Jim|last=Webster|title=Wenden slashes world record|work=[[The Sydney Morning Herald]]|page=1|date=28 October 1968}}</ref>
+}}
+{{Swimmingrecord
+|number = 27
+|time = 51.94
+|recordinfo = h
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1970|8|23}}
+|meet = AAU Championships
+|country = USA
+|city = Los Angeles
+|ref =<ref>{{cite news|first=Frank|last=Litsky|title=Hall, Spitz and Kinsella break world marks as A. A. U. Title swimming ends|work=The New York Times|page=46|date=24 August 1970}}</ref>
+}}
+{{Swimmingrecord
+|number = 28
+|time = 51.47
+|recordinfo = h
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|8|5}}
+|meet = USA Olympic Trials
+|country = USA
+|city = Chicago
+|ref =<ref>{{cite news|title=Spitz wins his fourth event in U. S. Olympic Swim Trails|work=The New York Times|page=1|date=6 August 1972}}</ref>
+}}
+{{Swimmingrecord
+|number = 29
+|time = 51.22
+|recordinfo = 
+|firstname = Mark
+|lastname = Spitz
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1972|9|3}}
+|meet = [[Swimming at the 1972 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = FRG
+|city = Munich
+|ref =<ref>{{cite news|first=Neil|last=Amdur|title=Spitz captures record 6th gold medal|work=The New York Times|pages=1 & 9|date=4 September 1972}}</ref>
+}}
+{{Swimmingrecord
+|number = 30
+|time = 51.12
+|recordinfo = h
+|firstname = Jim
+|lastname = Montgomery
+|namearticle = Jim Montgomery (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1975|6|21}}
+|meet = AAU World Championship Trials
+|country = USA
+|city = Long Beach
+|cityarticle = Long Beach, California
+|ref =<ref>{{cite news|title=Shaw shatters record for 1,500-meter swim|agency=Associated Press|work=[[The New York Times]]|page=6 of sports|date=22 June 1975}}</ref>
+}}
+{{Swimmingrecord
+|number = 31
+|time = 51.11
+|recordinfo = 
+|firstname = Andy
+|lastname = Coan
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1975|8|3}}
+|meet = An Amateur Athletic Union Region Four meet
+|country = USA
+|city = Fort Lauderdale
+|ref =<ref>{{cite news|title=Coan betters world swim mark|agency=Associated Press|work=[[The New York Times]]|page=18|date=5 August 1975}}</ref>
+}}
+{{Swimmingrecord
+|number = 32
+|time = 50.59
+|recordinfo = sf
+|firstname = Jim
+|lastname = Montgomery
+|namearticle = Jim Montgomery (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1975|8|23}}
+|meet = AAU Championships
+|country = USA
+|city = Kansas City
+|cityarticle = Kansas City, Missouri
+|ref =<ref>{{cite news|title=2 world swim marks broken|agency=Associated Press|work=[[The New York Times]]|page=9 of sports|date=24 August 1975}}</ref>
+}}
+{{Swimmingrecord
+|number = 33
+|time = 50.39
+|recordinfo = sf
+|firstname = Jim
+|lastname = Montgomery
+|namearticle = Jim Montgomery (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1976|7|24}}
+|meet = [[Swimming at the 1976 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = CAN
+|city = Montreal
+|ref =<ref>{{cite news|title=Naber collects 4th swim gold medals|agency=Associated Press|work=[[The New York Times]]|pages=1 and 6 of sports|date=25 July 1976}}</ref>
+}}
+{{Swimmingrecord
+|number = 34
+|time = 49.99
+|recordinfo = 
+|firstname = Jim
+|lastname = Montgomery
+|namearticle = Jim Montgomery (swimmer)
+|nation = USA
+|date = {{Dts|format=dmy|1976|7|25}}
+|meet = [[Swimming at the 1976 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = CAN
+|city = Montreal
+|ref =<ref>{{cite news|first=Neil|last=Amdur|title=Top feats by Montgomery, Strachan|work=The New York Times|pages=15–16|date=26 July 1976}}</ref>
+}}
+{{Swimmingrecord
+|number = 35
+|time = 49.44
+|recordinfo = 
+|firstname = Jonty
+|lastname = Skinner
+|namearticle = 
+|nation = RSA
+|nationvariant = 1928
+|date = {{Dts|format=dmy|1976|8|14}}
+|meet = AAU Championships
+|country = USA
+|city = Philadelphia
+|ref =<ref>{{cite news|first=Neil|last=Amdur|title=Skinner swims to mark|agency=[[United Press International|UPI]]|work=[[The New York Times]]|page=5 of sports|date=15 August 1976}}</ref>
+}}
+{{Swimmingrecord
+|number = 36
+|time = 49.36
+|recordinfo = tt
+|firstname = Rowdy
+|lastname = Gaines
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1981|4|3}}
+|meet = Longhorn Invitational
+|country = USA
+|city = Austin
+|cityarticle = Austin, Texas
+|ref = 
+}}
+{{Swimmingrecord
+|number = 37
+|time = 49.24
+|recordinfo = h
+|firstname = Matt
+|lastname = Biondi
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1985|8|6}}
+|meet = USA Summer Nationals
+|country = USA
+|city = Mission Viejo
+|ref =<ref>{{cite news|title=Freestyle Mark Set|url=https://query.nytimes.com/gst/fullpage.html?res=9A04E7DB1138F934A3575BC0A963948260|work=The New York Times|date=7 August 1985|access-date=2007-03-31}}</ref>
+}}
+{{Swimmingrecord
+|number = 38
+|time = 48.95
+|recordinfo = 
+|firstname = Matt
+|lastname = Biondi
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1985|8|6}}
+|meet = USA Summer Nationals
+|country = USA
+|city = Mission Viejo
+|ref =<ref>{{cite news|title=Another Mark for Biondi|url=https://query.nytimes.com/gst/fullpage.html?res=9A00E3D91138F93BA3575BC0A963948260|work=The New York Times|date=8 August 1985|access-date=2007-03-31}}</ref>
+}}
+{{Swimmingrecord
+|number = 39
+|time = 48.74
+|recordinfo = 
+|firstname = Matt
+|lastname = Biondi
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1986|6|24}}
+|meet = US World Championships Trials
+|country = USA
+|city = Orlando
+|cityarticle = Orlando, Florida
+|ref =<ref>{{cite news|title=Best of Biondi|work=The Times|page=48|date=26 June 1986}}</ref>
+}}
+{{Swimmingrecord
+|number = 40
+|time = 48.42
+|recordinfo = 
+|firstname = Matt
+|lastname = Biondi
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1988|8|10}}
+|meet = USA Olympic Trials
+|country = USA
+|city = Austin
+|cityarticle = Austin, Texas
+|ref = 
+}}
+{{Swimmingrecord
+|number = 41
+|time = 48.21
+|recordinfo = 
+|firstname = Alexander
+|lastname = Popov
+|namearticle = Alexander Popov (swimmer)
+|nation = RUS
+|date = {{Dts|format=dmy|1994|6|18}}
+|meet = Mare Nostrum
+|country = MON
+|city = Monte-Carlo
+|ref = 
+}}
+{{Swimmingrecord
+|number = 42
+|time = 48.18
+|recordinfo = r
+|firstname = Michael
+|lastname = Klim
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2000|9|16}}
+|meet = [[Swimming at the 2000 Summer Olympics – Men's 4 × 100 metre freestyle relay|Olympic Games]]
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=John|last=Lingard|author2=Eakins, Bevan |title=We smashed you like guitars!|publisher=[[The Sun-Herald]]|pages=8–9|date=17 September 2000}}</ref>
+}}
+{{Swimmingrecord
+|number = 43
+|time = 47.84
+|recordinfo = sf
+|firstname = Pieter van den
+|lastname = Hoogenband
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|9|19}}
+|meet = [[Swimming at the 2000 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Michael|last=Cowley|title=Hoogie says he's hungry for seconds|work=[[The Sydney Morning Herald]]|page=6 of Olympics|date=20 September 2000}}</ref>
+}}
+{{Swimmingrecord
+|number = 44
+|time = 47.60
+|recordinfo = sf
+|firstname = Alain
+|lastname = Bernard
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|3|21}}
+|meet = [[2008 European Aquatics Championships|European Championships]]
+|country = NED
+|city = Eindhoven
+|ref =<ref>{{cite news |title= Bernard sets world 100m freestyle record|url=http://edition.cnn.com/2008/SPORT/03/21/swim.bernard/ |publisher=CNN |date=21 March 2008 |access-date=2008-03-21}}</ref>
+}}
+{{Swimmingrecord
+|number = 45
+|time = 47.50
+|recordinfo = 
+|firstname = Alain
+|lastname = Bernard
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|3|22}}
+|meet = [[2008 European Aquatics Championships|European Championships]]
+|country = NED
+|city = Eindhoven
+|ref =<ref>{{cite web |url=http://www.omegatiming.com/swimming/racearchives/2008/eindhoven2008/C73A1_Res1Heat_122_Finals_1_Men_100_Free.pdf|work=LC EC 2008 |title=Official results list}}</ref>
+}}
+{{Swimmingrecord
+|number = 46
+|time = 47.24
+|recordinfo = r
+|firstname = Eamon
+|lastname = Sullivan
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|8|11}}
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 4 × 100 metre freestyle relay|Olympic Games]]
+|country = CHN
+|city = Beijing
+|ref = <ref name=2008OGr>{{cite web|url=http://results.beijing2008.cn/WRM/ENG/INF/SW/C73B1/SWM411101.shtml#SWM411101|title=Beijing olympics website|access-date=13 August 2008|archive-date=14 August 2008|archive-url=https://web.archive.org/web/20080814052344/http://results.beijing2008.cn/WRM/ENG/INF/SW/C73B1/SWM411101.shtml#SWM411101|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 47
+|time = 47.20
+|recordinfo = sf
+|firstname = Alain
+|lastname = Bernard
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|8|13}}
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = CHN
+|city = Beijing
+|ref =<ref>{{cite web |url=http://www.peoplestar.co.uk/index.html?sports=10 |title=Bernard of France wins Olympic 100 free |publisher=peoplestar.co.uk |date=13 August 2008}}</ref>
+}}
+{{Swimmingrecord
+|number = 48
+|time = 47.05
+|recordinfo = sf
+|firstname = Eamon
+|lastname = Sullivan
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|8|13}}
+|meet = [[Swimming at the 2008 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|country = CHN
+|city = Beijing
+|ref = <ref name=2008OGsf>{{cite news|first=Simon|last=Johanson|title=Sullivan smashes world record - again|url=http://www.smh.com.au/news/swimming/sullivan-snatches-back-record-in-minutes/2008/08/13/1218306948185.html|newspaper=[[The Sydney Morning Herald]]|publisher=[[Fairfax Media]]|date=13 August 2008|accessdate=13 August 2008}}</ref>
+}}
+{{Swimmingrecord
+|number = -
+|time = 46.94
+|recordinfo = sf, ''*'' 
+|firstname = Alain
+|lastname = Bernard
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2009|4|23}}
+|meet = French Championships
+|country = FRA
+|city = Montpellier
+|ref =<ref name=2009French>{{cite news|title=French Long Course Championships: Flash Alain Bernard Breaks 47-Second Barrier, Sets World Record in 100 Free|url=https://www.swimmingworldmagazine.com/news/french-long-course-championships-flash-alain-bernard-breaks-47-second-barrier-sets-world-record-in-100-free/|date=23 April 2009|access-date=20 April 2025|website=Swimming World}}</ref>
+}}
+{{Swimmingrecord
+|number = 49
+|time = 46.91
+|recordinfo = 
+|firstname = César
+|lastname = Cielo
+|namearticle = 
+|nation = BRA
+|date = {{Dts|format=dmy|2009|7|30}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Men's 100 metre freestyle|World Championships]]
+|country = ITA
+|city = Rome
+|ref = <ref name=M2009WC>{{cite web|title= 13th FINA World Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B003E000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 July 2009|accessdate=12 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 50
+|time = 46.86
+|recordinfo = 
+|firstname = David
+|lastname = Popovici
+|namearticle =
+|nation = ROU
+|date = {{Dts|format=dmy|2022|8|13}}
+|meet = [[Swimming at the 2022 European Aquatics Championships – Men's 100 metre freestyle|European Championships]]
+|city = Rome
+|country = ITA
+|ref = <ref name=2022EC>{{cite web|title=2022 European Championships - Men's 100m Freestyle Final Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM100MFR------------FNL---------_73A2%201.0.pdf?x=00:30:37|publisher=microplustiming.com|date=13 August 2022|accessdate=13 August 2022}}</ref>
+}}
+{{Swimmingrecord
+|number = 51
+|time = 46.80
+|recordinfo = r
+|firstname = Pan
+|lastname = Zhanle
+|namearticle =
+|nation = CHN
+|date = {{Dts|format=dmy|2024|2|11}}
+|meet = [[Swimming at the 2024 World Aquatics Championships – Men's 4 × 100 metre freestyle relay|World Championships]]
+|city = Doha
+|country = QAT
+|ref = <ref name=M2024WCr>{{cite web|title=2024 World Aquatics Championships - Men's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011800000101F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=11 February 2024|access-date=11 February 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 52
+|time = 46.40
+|recordinfo = 
+|firstname = Pan
+|lastname = Zhanle
+|namearticle =
+|nation = CHN
+|date = {{Dts|format=dmy|2024|7|31}}
+|meet = [[Swimming at the 2024 Summer Olympics – Men's 100 metre freestyle|Olympic Games]]
+|city = Paris
+|country = FRA
+|ref = <ref name=M2024OG>{{Cite web|title=2024 Olympic Games - Men's 100m Freestyle Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240923035142/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf |archive-date=2024-09-23 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+}}
+{{end}}
+{{asterisk}} Swim was never ratified by FINA as a world record since Bernard wore an unapproved swimsuit.<ref name="disqualify">{{Cite web |date=June 22, 2009 |title=Alain Bernard stripped of 100m freestyle world record because of swimsuit |url=https://www.telegraph.co.uk/sport/olympics/swimming/5604748/Alain-Bernard-stripped-of-100m-freestyle-world-record-because-of-swimsuit.html |archive-date=February 16, 2024 |archive-url=https://web.archive.org/web/20240216213500/https://www.telegraph.co.uk/sport/olympics/swimming/5604748/Alain-Bernard-stripped-of-100m-freestyle-world-record-because-of-swimsuit.html|access-date=February 16, 2024 |publisher=cbsnews.com}}</ref>
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|-
+|number = WB
+|time = 48.20
+|recordinfo = 
+|firstname = Michael
+|lastname = Gross
+|namearticle = Michael Gross (swimmer)
+|nation = FRG
+|date = {{Dts|format=dmy|1988|Feb|11}}
+|meet = ?
+|country = GER
+|city = Offenbach ||cityarticle = Offenbach am Main
+|ref =<ref>(scm-m) {{in lang|fr}} [http://archives.lesoir.be/la-belgique-s-est-classee-7e-du-championnat-d-europe-de_t-19930705-Z06Z04.html Sport Notes] published by ''Le Soir'' (Belgium) on 1993-07-05; retrieved from archive on 2012-03-24.</ref> <br><ref>(scm-m) [http://www.gustavoborges.com.br/imprensa/clipping/borges-on-top/ Borges on top], The World of Swimming, 1993-06-08; retrieved 2012-03-24. Note: This story makes reference to Gross's 48.20 being "the time standard set by [[FINA]] in March 1991." (This may be an indication of when FINA started tracking/maintain SCM World records.)</ref>
+}}
+{{Swimmingrecord
+|-
+|number = 1
+|time = 47.94
+|recordinfo = 
+|firstname = Gustavo
+|lastname = Borges
+|namearticle = 
+|nation = BRA
+|date = {{Dts|format=dmy|1993|Jul|2}}
+|meet = Brazil Nationals
+|country = BRA
+|city = Santos, São Paulo
+|ref =<ref>(scm-m) ''[http://elpais.com/diario/1993/07/04/deportes/741736811_850215.html 47.94 segundos en los 100 metros libres]'' (trans: ''47.94 in the 100m free''), published by the French Press Agency on 1993-07-04; retrieved from the website of El País <http://elpais.com> on 2012-03-24. Note: This source mentions that Borges's 47.94 bettered a time of 48.20 swum by [[Michael Gross (swimmer)|Michael Gross]].</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 47.83
+|recordinfo = 
+|firstname = Alexander
+|lastname = Popov
+|namearticle = Alexander Popov (swimmer)
+|nation = RUS
+|date = {{Dts|format=dmy|1994|Jan|1}}
+|meet =   [[FINA Swimming World Cup|World Cup]]
+|country = HKG
+|countryvariant = colonial
+|city = Hong Kong
+|ref = <ref>{{Cite web|url=https://swiminfo.net/en/meet/view?id=540|title=1994 World Cup; Hong Kong, China|website=swiminfo.net}}</ref><ref name="19 Марта">{{Cite web|url=https://teamrussia.pro/news/chempion-dnya/rekord-aleksandra-popova-v-plavanii-krolem/|title=Рекорд Александра Попова в плавании кролем}}</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 47.82
+|recordinfo = 
+|firstname = Alexander
+|lastname = Popov
+|namearticle = Alexander Popov (swimmer)
+|nation = RUS
+|date = {{Dts|format=dmy|1994|Jan|5}}
+|meet =  [[FINA Swimming World Cup|World Cup]]
+|country = CHN
+|city = Beijing
+|ref = <ref>{{Cite web|url=https://swiminfo.net/en/meet/view?id=541|title=1994 World Cup; Beijing, China|website=swiminfo.net}}</ref><ref name="19 Марта"/>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 47.12
+|recordinfo = 
+|firstname = Alexander
+|lastname = Popov
+|namearticle = Alexander Popov (swimmer)
+|nation = RUS
+|date = {{Dts|format=dmy|1994|Mar|12}}
+|meet =   [[FINA Swimming World Cup|World Cup]]
+|country = ITA
+|city = Desenzano del Garda
+|ref = <ref>{{Cite web|url=https://swiminfo.net/ru/meet/view?id=542|title=1994 Кубок Мира; Дезенцано-дель-Гарда, Италия|website=swiminfo.net}}</ref><ref name="19 Марта"/>
+}}
+{{Swimmingrecord
+|number = 5
+|time = 46.74
+|recordinfo = 
+|firstname = Alexander
+|lastname = Popov
+|namearticle = Alexander Popov (swimmer)
+|nation = RUS
+|date = {{Dts|format=dmy|1994|Mar|19}}
+|meet =   [[FINA Swimming World Cup|World Cup]]
+|country = GER
+|city = Gelsenkirchen
+|ref = <ref name="19 Марта"/>
+}}
+{{Swimmingrecord
+|number = {{sort|6.1|6}}
+|time = 46.25
+|recordinfo = 
+|firstname = Ian
+|lastname = Crocker
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2004|Mar|27}}
+|meet = [[2004 NCAA Division I Men's Swimming and Diving Championships|NCAA Men's Division 1 Championships]]
+|country = USA
+|city = East Meadow
+|ref =<ref>{{cite news|first=William|last=Wilkerson|title=Men's swim team gets third at NCAAs|url=http://media.www.dailytexanonline.com/media/storage/paper410/news/2004/03/29/Sports/Mens-Swim.Team.Gets.Third.At.Ncaas-643900.shtml|work=[[The Daily Texan]]|date=29 March 2004|access-date=2007-04-05|archive-date=28 September 2007|archive-url=https://web.archive.org/web/20070928003632/http://media.www.dailytexanonline.com/media/storage/paper410/news/2004/03/29/Sports/Mens-Swim.Team.Gets.Third.At.Ncaas-643900.shtml|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 6
+|time = 46.25
+|recordinfo = =
+|firstname = Roland
+|lastname = Schoeman
+|namearticle = 
+|nation = RSA
+|date = {{Dts|format=dmy|2005|Jan|22}}
+|meet =   [[FINA Swimming World Cup|World Cup]]
+|country = GER
+|city = Berlin
+|ref =<ref>{{cite web |url=http://www.southafrica.info/what_happening/sports/wcny-rykroland.htm |title=Neethling smashes world record |date=15 February 2005 |access-date=4 April 2007 |archive-date=10 March 2007 |archive-url=https://web.archive.org/web/20070310051640/http://www.southafrica.info/what_happening/sports/wcny-rykroland.htm |url-status=dead }}</ref>
+}}
+{{Swimmingrecord
+|number = 8
+|time = 45.83
+|recordinfo = 
+|firstname = Stefan
+|lastname = Nystrand
+|namearticle = 
+|nation = SWE
+|date = {{Dts|format=dmy|2007|Nov|17}}
+|meet =   [[FINA Swimming World Cup|World Cup]]
+|country = GER
+|city = Berlin
+|ref =<ref>{{cite news|title=Pereira sets 200m medley record; Nystrand sets 50 freestyle mark|url=https://www.espn.com/olympics/swimming/news/story?id=3117450|publisher=[[ESPN]]|date=18 November 2007|access-date=2008-04-16}}</ref>
+}}
+{{Swimmingrecord
+|number = 9
+|time = 45.69
+|recordinfo = 
+|firstname = Alain
+|lastname = Bernard
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|December|7}}
+|meet = French Championships
+|country = FRA
+|city = Angers
+|ref = <ref name=M2008French>{{cite news|title=French Short Course Nationals: Flash Alain Bernard Smashes 100 Free Short Course World Record Video Included – Updated|url=https://www.swimmingworldmagazine.com/news/french-short-course-nationals-flash-alain-bernard-smashes-100-free-short-course-world-record-video-included-updated/|date=9 December 2008|access-date=23 April 2025|website=Swimming World}}</ref>
+}}
+{{Swimmingrecord
+|number = 10
+|time = 45.12
+|recordinfo = sf
+|firstname = Amaury
+|lastname = Leveaux
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|Dec|12}}
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|country = CRO
+|city = Rijeka
+|ref =<ref name=M2008ECsf>{{cite web|title=2008 European Short Course Championships - Men's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00010800002B000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2008|accessdate=23 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 44.94
+|recordinfo = 
+|firstname = Amaury
+|lastname = Leveaux
+|namearticle = 
+|nation = FRA
+|date = {{Dts|format=dmy|2008|Dec|13}}
+|meet = [[2008 European Short Course Swimming Championships|European Championships]]
+|country = CRO
+|city = Rijeka
+|ref = <ref name=M2008EC>{{cite web|title=2008 European Short Course Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500120101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=13 December 2008|accessdate=23 April 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 44.84
+|recordinfo = 
+|firstname = Kyle
+|lastname = Chalmers
+|namearticle = 
+|nation = AUS
+|date = 29 October 2021
+|meet = [[2021 FINA Swimming World Cup|World Cup]]
+|city = Kazan
+|country = RUS
+|ref = <ref name=M2021Kazan>{{cite web|title=2021 FINA World Cup (Kazan) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500120101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=29 October 2021|accessdate=29 October 2021}}</ref>
+}}
+{{end}}
+
+==Women==
+
+===Long course===
+{{swimmingrecordlisttop|number=yes|nationality=yes|meet=yes}}
+{{Swimmingrecord
+|number = 1
+|time = 1:35.0
+|recordinfo = 
+|firstname = Martha
+|lastname = Gerstung
+|namearticle = 
+|nation = GER
+|nationvariant = empire
+|date = {{Dts|format=dmy|1908|10|18}}
+|meet = –
+|country = GER
+|countryvariant = empire
+|city = Magdeburg
+|ref = 
+}}
+{{Swimmingrecord
+|number = 2
+|time = 1:26.6
+|recordinfo = 
+|firstname = Claire
+|lastname = Guttenstein
+|namearticle = 
+|nation = BEL
+|date = {{Dts|format=dmy|1910|10|2}}
+|meet = –
+|country = BEL
+|city = Schaerbeek
+|ref = 
+}}
+{{Swimmingrecord
+|number = 3
+|time = 1:24.6
+|recordinfo = 
+|firstname = Daisy
+|lastname = Curwen
+|namearticle = 
+|nation = GBR
+|date = {{Dts|format=dmy|1911|9|29}}
+|meet = –
+|country = UK
+|city = Liverpool
+|ref = 
+}}
+{{Swimmingrecord
+|number = 4
+|time = 1:20.6
+|recordinfo = 
+|firstname = Daisy
+|lastname = Curwen
+|namearticle = 
+|nation = GBR
+|date = {{Dts|format=dmy|1912|6|10}}
+|meet = –
+|country = UK
+|city = Birkenhead
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 1:19.8
+|recordinfo = 
+|firstname = Fanny
+|lastname = Durack
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1912|7|9}}
+|meet = [[Swimming at the 1912 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = SWE
+|city = Stockholm
+|ref =<ref>{{cite news|title=Swimming Champion|url=http://nla.gov.au/nla.news-article15332718|newspaper=[[The Sydney Morning Herald]]|page=12|date=11 July 1912}}</ref>
+}}
+{{Swimmingrecord
+|number = 6
+|time = 1:18.8
+|recordinfo = 
+|firstname = Fanny
+|lastname = Durack
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1912|7|21}}
+|meet = German Championships
+|country = GER
+|countryvariant = empire
+|city = Hamburg
+|ref = 
+}}
+{{Swimmingrecord
+|number = 7
+|time = 1:16.2
+|recordinfo = 
+|firstname = Fanny
+|lastname = Durack
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1915|2|6}}
+|meet = NSW Ladies' Amateur Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|title=Ladies' Amateur Championships – Miss Durack establishes new record|url=http://nla.gov.au/nla.news-article15549811|newspaper=[[The Sydney Morning Herald]]|page=13|date=8 February 1915|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 8
+|time = 1:14.4
+|recordinfo = sf
+|firstname = Ethelda
+|lastname = Bleibtrey
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1920|8|23}}
+|meet = [[Swimming at the 1920 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = BEL
+|city = Antwerp
+|ref =<ref>{{cite news|first=P. J.|last=Philip|title=U.S. Athletes win world's title in Games at Antwerp|url=https://timesmachine.nytimes.com/timesmachine/1920/08/24/96895698.pdf|newspaper=[[The New York Times]]|date=24 August 1920|page=17|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 9
+|time = 1:13.6
+|recordinfo = 
+|firstname = Ethelda
+|lastname = Bleibtrey
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1920|8|25}}
+|meet = [[Swimming at the 1920 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = BEL
+|city = Antwerp
+|ref =<ref>{{cite news|title=U.S. mermaids are Olympic winners|url=https://timesmachine.nytimes.com/timesmachine/1920/08/26/96897111.pdf|newspaper=[[The New York Times]]|date=26 August 1920|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 10
+|time = 1:12.8
+|recordinfo = 
+|firstname = Gertrude
+|lastname = Ederle
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1923|6|30}}
+|meet = –
+|country = USA
+|city = Newark
+|cityarticle = Newark, New Jersey
+|ref =<ref>{{cite news|title=Miss Ederle stars in swim carnival|url=https://www.nytimes.com/1923/07/01/archives/miss-ederle-stars-in-swim-carnival-equals-worlds-mark-of-112-45-in.html|newspaper=[[The New York Times]]|date=1 July 1923|access-date=10 May 2013}} {{subscription required}}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 1:12.2
+|recordinfo = h
+|firstname = Mariechen
+|lastname = Wehselau
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1924|7|19}}
+|meet = [[Swimming at the 1924 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = FRA
+|city = Paris
+|ref = 
+}}
+{{Swimmingrecord
+|number = 12
+|time = 1:10.0
+|recordinfo = 
+|firstname = Ethel
+|lastname = Lackie
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1926|1|28}}
+|meet = –
+|country = USA
+|city = Toledo
+|cityarticle = Toledo, Ohio
+|ref =<ref>{{cite news|title=Swimmers shatter 3 world's records|url=https://www.nytimes.com/1926/01/29/archives/swimmers-shatter-3-worlds-records-weissmuller-borg-and-ethel-lackie.html|newspaper=[[The New York Times]]|agency=[[Associated Press|AP]]|date=14 March 1930|page=22 of sports|access-date=10 May 2013}} {{subscription required}}</ref>
+}}
+{{Swimmingrecord
+|number = 13
+|time = 1:09.8
+|recordinfo = 
+|firstname = Eleanor
+|lastname = Garatti
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1929|8|7}}
+|meet = US National Women's Championships
+|country = Hawaii
+|city = Honolulu
+|ref =<ref>{{cite news|title=Miss Garatti keeps title, sets record|url=https://www.nytimes.com/1929/08/09/archives/miss-garatti-keeps-title-sets-record-retains-national-aau-100meter.html|newspaper=[[The New York Times]]|date=9 August 1929|access-date=10 May 2013}} {{subscription required}}</ref>
+}}
+{{Swimmingrecord
+|number = 14
+|time = 1:09.4
+|recordinfo = 
+|firstname = Albina
+|lastname = Osipowich
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1929|8|25}}
+|meet = –
+|country = USA
+|city = San Francisco
+|ref = 
+}}
+{{Swimmingrecord
+|number = 15
+|time = 1:08.0
+|recordinfo = 
+|firstname = Helene
+|lastname = Madison
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1930|3|14}}
+|meet = US National Championships
+|country = USA
+|nationvariant = 1912
+|city = Miami Beach
+|ref =<ref>{{cite news|title=World's Record Set by Miss Holm in National Title Swim|url=https://www.nytimes.com/1930/03/14/archives/worlds-record-set-by-miss-holm-in-national-title-swim-miss-madison.html|newspaper=[[The New York Times]]|date=14 March 1930|page=22 of sports|access-date=10 May 2013}} {{subscription required}}</ref>
+}}
+{{Swimmingrecord
+|number = 16
+|time = 1:06.6
+|recordinfo = 
+|firstname = Helene
+|lastname = Madison
+|namearticle = 
+|nation = USA
+|nationvariant = 1912
+|date = {{Dts|format=dmy|1931|4|20}}
+|meet = –
+|country = USA
+|countryvariant = 1912
+|city = Boston
+|ref = 
+}}
+{{Swimmingrecord
+|number = 17
+|time = 1:06.0
+|recordinfo = 
+|firstname = Willy den
+|lastname = Ouden
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1933|7|9}}
+|meet = –
+|country = BEL
+|city = Antwerp
+|ref = 
+}}
+{{Swimmingrecord
+|number = 18
+|time = 1:05.4
+|recordinfo = 
+|firstname = Willy den
+|lastname = Ouden
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1934|2|24}}
+|meet = –
+|country = NED
+|city = Amsterdam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 19
+|time = 1:04.8
+|recordinfo = 
+|firstname = Willy den
+|lastname = Ouden
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1934|4|15}}
+|meet = –
+|country = NED
+|city = Rotterdam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 20
+|time = 1:04.6
+|recordinfo = 
+|firstname = Willy den
+|lastname = Ouden
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1936|2|27}}
+|meet = –
+|country = NED
+|city = Amsterdam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 21
+|time = 1:04.5
+|recordinfo = 
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|2|21}}
+|meet = Australian Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|title=Dawn Fraser sets world record for 100m|newspaper=[[The Sydney Morning Herald]]|page=11|date=22 February 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 22
+|time = 1:04.2
+|recordinfo = 
+|firstname = Cocky
+|lastname = Gastelaars
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1956|3|3}}
+|meet = –
+|country = NED
+|city = Amsterdam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 23
+|time = 1:04.0
+|recordinfo = 
+|firstname = Cocky
+|lastname = Gastelaars
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|1956|4|14}}
+|meet = –
+|country = NED
+|city = Schiedam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 24
+|time = 1:03.3
+|recordinfo = 
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|8|25}}
+|meet = Australian Olympic Squad Swimming Carnival
+|country = AUS
+|city = Townsville
+|ref =<ref>{{cite news|title=World swim times fall|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=36|date=26 August 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 25
+|time = 1:03.2
+|recordinfo = 
+|firstname = Lorraine
+|lastname = Crapp
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|10|20}}
+|meet = Australian Olympic Squad Swimming Carnival
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Five world times made by Lorraine|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=38|date=21 October 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 26
+|time = 1:02.4
+|recordinfo = 
+|firstname = Lorraine
+|lastname = Crapp
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|10|25}}
+|meet = Australian Trials
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=World swim time again to Lorraine|newspaper=[[The Sydney Morning Herald]]|page=8|date=26 October 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 27
+|time = 1:02.0
+|recordinfo = 
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1956|12|1}}
+|meet = [[Swimming at the 1956 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=3 places again to Australia – Dawn Fraser's swim record|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=43|date=2 December 1956}}</ref>
+}}
+{{Swimmingrecord
+|number = 28
+|time = 1:01.5
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1958|2|18}}
+|meet = Australian Championships
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Six world records set in 90 minutes|newspaper=[[The Sydney Morning Herald]]|page=15|date=19 February 1958}}</ref>
+}}
+{{Swimmingrecord
+|number = 29
+|time = 1:01.4
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1958|7|21}}
+|meet = [[Swimming at the 1958 British Empire and Commonwealth Games|British Empire & Commonwealth Games]]
+|country = UK
+|city = Cardiff
+|ref =<ref>{{cite news|author=Special reporter|title=Unbeaten night for Australia in swim events|agency=[[Australian Associated Press|AAP]]|newspaper=[[The Sydney Morning Herald]]|page=16|date=23 July 1958}}</ref>
+}}
+{{Swimmingrecord
+|number = 30
+|time = 1:01.2
+|recordinfo = 
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1958|8|10}}
+|meet = –
+|country = NED
+|city = Schiedam
+|ref = 
+}}
+{{Swimmingrecord
+|number = 31
+|time = 1:00.2
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1960|2|23}}
+|meet = Australian Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Six world times at swimming titles – 3 to Dawn Fraser|newspaper=[[The Sydney Morning Herald]]|page=17|date=24 February 1960}}</ref>
+}}
+{{Swimmingrecord
+|number = 32
+|time = 1:00.0
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1962|10|23}}
+|meet = Australian Trials
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Fraser, Berry at world swim times|newspaper=[[The Sydney Morning Herald]]|page=23|date=24 October 1962}}</ref>
+}}
+{{Swimmingrecord
+|number = 33
+|time = 59.9
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1962|10|27}}
+|meet = Australian Trials
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Champion's world time in 110 yds|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=67|date=28 October 1962}}</ref>
+}}
+{{Swimmingrecord
+|number = 34
+|time = 59.5
+|recordinfo = yd
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1962|10|24}}
+|meet = [[Swimming at the 1962 British Empire and Commonwealth Games|British Empire & Commonwealth Games]]
+|country = AUS
+|city = Perth
+|cityname = Perth, Western Australia
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Dawn Fraser's shock win to Canadian in 110 yards|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=52|date=25 November 1962}}</ref>
+}}
+{{Swimmingrecord
+|number = {{sort|34.1|35}}
+|time = 58.9
+|recordinfo = 
+|firstname = Dawn
+|lastname = Fraser
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1964|2|29}}
+|meet = Australian Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Alan|last=Clarkson|title=Fraser and Berry in great form|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=52|date=1 March 1964}}</ref>
+}}
+{{Swimmingrecord
+|number = 35
+|time = 58.9
+|recordinfo = =
+|firstname = Shane
+|lastname = Gould
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1971|4|30}}
+|meet = Coca-Cola International
+|country = UK
+|city = London
+|ref =<ref>{{cite news|title=Swim contest a spectacular of records|agency=[[Australian Associated Press|AAP]], [[Reuters]]|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|page=107|date=2 May 1971}}</ref>
+}}
+{{Swimmingrecord
+|number = 36
+|time = 58.5
+|recordinfo = 
+|firstname =Shane
+|lastname = Gould
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|1972|1|8}}
+|meet = NSW Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|title=Shane has done it again|newspaper=[[The Sun-Herald]]|publisher=[[Fairfax Media]]|pages=1–2|date=9 January 1972}}</ref>
+}}
+{{Swimmingrecord
+|number = 37
+|time = 58.25
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1973|7|13}}
+|meet = East German Championships
+|country = GDR
+|city = East Berlin
+|ref = 
+}}
+{{Swimmingrecord
+|number = 38
+|time = 58.12
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1973|8|18}}
+|meet = –
+|country = NED
+|city = Utrecht
+|cityname = Utrecht (city)
+|ref = 
+}}
+{{Swimmingrecord
+|number = 39
+|time = 57.61
+|recordinfo = r
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1973|9|8}}
+|meet = [[Swimming at the 1973 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|World Championships]]
+|country = YUG
+|city = Belgrade
+|ref = 
+}}
+{{Swimmingrecord
+|number = 40
+|time = 57.54
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1973|9|9}}
+|meet = [[Swimming at the 1973 World Aquatics Championships – Women's 100 metre freestyle|World Championships]]
+|country = YUG
+|city = Belgrade
+|ref = 
+}}
+{{Swimmingrecord
+|number = 41
+|time = 57.51
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1974|7|4}}
+|meet = East German Championships
+|country = GDR
+|city = Rostock
+|ref = 
+}}
+{{Swimmingrecord
+|number = 42
+|time = 56.96
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1974|8|19}}
+|meet = [[1974 European Aquatics Championships|European Championships]]
+|country = AUT
+|city = Vienna
+|ref = 
+}}
+{{Swimmingrecord
+|number = 43
+|time = 56.38
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1975|3|14}}
+|meet = GDRvURS Duel
+|country = GDR
+|city = Dresden
+|ref = 
+}}
+{{Swimmingrecord
+|number = 44
+|time = 56.22
+|recordinfo = r
+|firstname =Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1975|7|26}}
+|meet = [[Swimming at the 1975 World Aquatics Championships|World Championships]]
+|country = COL
+|city = Cali
+|ref = 
+}}
+{{Swimmingrecord
+|number = 45
+|time = 55.73
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|6|1}}
+|meet = East German Championships
+|country = GDR
+|city = East Berlin
+|ref = 
+}}
+{{Swimmingrecord
+|number = 46
+|time = 55.65
+|recordinfo = 
+|firstname = Kornelia
+|lastname = Ender
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1976|7|19}}
+|meet = [[Swimming at the 1976 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = CAN
+|city = Montréal
+|ref = 
+}}
+{{Swimmingrecord
+|number = 47
+|time = 55.41
+|recordinfo = 
+|firstname = Barbara
+|lastname = Krause
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1978|7|5}}
+|meet = East German Championships
+|country = GDR
+|city = East Berlin
+|ref = 
+}}
+{{Swimmingrecord
+|number = 48
+|time = 54.98
+|recordinfo = h
+|firstname = Barbara
+|lastname = Krause
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1980|7|20}}
+|meet = [[Swimming at the 1980 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = URS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecord
+|number = 49
+|time = 54.79
+|recordinfo = 
+|firstname = Barbara
+|lastname = Krause
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1980|7|21}}
+|meet = [[Swimming at the 1980 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = URS
+|city = Moscow
+|ref = 
+}}
+{{Swimmingrecord
+|number = 50
+|time = 54.73
+|recordinfo = r
+|firstname = Kristin
+|lastname = Otto
+|namearticle = 
+|nation = GDR
+|date = {{Dts|format=dmy|1986|8|19}}
+|meet = [[Swimming at the 1986 World Aquatics Championships|World Championships]]
+|country = ESP
+|city = Madrid
+|ref = 
+}}
+{{Swimmingrecord
+|number = 51
+|time = 54.48
+|recordinfo = h
+|firstname = Jenny
+|lastname = Thompson
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|1992|3|1}}
+|meet = US Olympic Trials
+|country = USA
+|city = Indianapolis
+|ref =<ref>{{cite news|first=Frank|last=Litsky|title=U.S. woman set 100 freestyle mark|url=https://www.nytimes.com/1992/03/02/sports/swimming-us-woman-sets-100-freestyle-mark.html|newspaper=[[The New York Times]]|date=2 March 1992|page=47 of sports|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 52
+|time = 54.01
+|recordinfo = 
+|chinesename = Jingyi Le
+|namearticle = Jingyi Le
+|nation = CHN
+|date = {{Dts|format=dmy|1994|9|5}}
+|meet = [[Swimming at the 1994 World Aquatics Championships|World Championships]]
+|country = ITA
+|city = Rome
+|ref =<ref>{{cite news|first=Christopher|last=Clarey|title=Chinese women continue to pile up the medals and suspicions|url=https://www.nytimes.com/1994/09/06/sports/swimming-chinese-women-continue-to-pile-up-the-medals-and-suspicions.html|newspaper=[[The New York Times]]|date=6 September 1994|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 53
+|time = 53.80
+|recordinfo = 
+|firstname = Inge de
+|lastname = Bruijn
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|May|28}}
+|meet = Super Speedo Grand Prix
+|country = UK
+|city = Sheffield
+|ref =<ref>{{cite news|first=Craig|last=Lord|title=De Bruijn makes waves|newspaper=[[The Times]]|date=29 May 2000|page=6 of sports}}</ref>
+}}
+{{Swimmingrecord
+|number = 54
+|time = 53.77
+|recordinfo = sf
+|firstname = Inge de
+|lastname = Bruijn
+|namearticle = 
+|nation = NED
+|date = {{Dts|format=dmy|2000|9|20}}
+|meet = [[Swimming at the 2000 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = AUS
+|city = Sydney
+|ref = <ref>{{cite web|title=2000 Olympic Games - Women's 100m Freestyle Semifinals Results|url=https://websitedevsa.blob.core.windows.net/sitefinity/docs/default-source/eventsdocuments/meet-results/international-event-results/olympic-games/2000-olympic-games.pdf#page=31|work=[[Omega SA|Omega Timing]]|date=17 September 2000|access-date=14 May 2024}}</ref>
+}}
+{{Swimmingrecord
+|number = 55
+|time = 53.66
+|recordinfo = sf
+|firstname = Libby
+|lastname = Lenton
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2004|3|31}}
+|meet = Australian Championships
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|first=Michael|last=Cowley|title=Lenton sizzles to 100m world record|url=http://www.smh.com.au/articles/2004/03/31/1080544563216.html|newspaper=[[The Sydney Morning Herald]]|date=1 April 2004|access-date=31 March 2007}}</ref>
+}}
+{{Swimmingrecord
+|number = 56
+|time = 53.52
+|recordinfo = sf
+|firstname = Jodie
+|lastname = Henry
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2004|8|18}}
+|meet = [[Swimming at the 2004 Summer Olympics – Women's 100 metre freestyle|Olympic Games]]
+|country = GRE
+|city = Athens
+|ref =<ref>{{cite news|first=Michael|last=Cowley|title=Henry breaks world record in semi-final|url=http://www.smh.com.au/olympics/articles/2004/08/19/1092765034542.html|newspaper=[[The Sydney Morning Herald]]|date=19 August 2004|access-date=31 March 2007|archive-date=14 December 2007|archive-url=https://web.archive.org/web/20071214182710/http://www.smh.com.au/olympics/articles/2004/08/19/1092765034542.html|url-status=dead}}</ref> 
+}}
+{{Swimmingrecord
+|number = 57
+|time = 53.42
+|recordinfo = sf
+|firstname = Libby
+|lastname = Lenton
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2006|1|31}}
+|meet = Australian Championships
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|first=Chloe|last=Saltau|title=Henry can only watch as Lenton grabs world record|url=http://www.smh.com.au/articles/2006/01/31/1138590503158.html|newspaper=[[The Sydney Morning Herald]]|date=1 February 2006|access-date=31 March 2007}}</ref>
+}}
+{{Swimmingrecord
+|number = 58
+|time = 53.30
+|recordinfo = 
+|firstname = Britta
+|lastname = Steffen
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2006|August|2}}
+|meet = [[2006 European Aquatics Championships|European Championships]]
+|country = HUN
+|city = Budapest
+|ref = <ref>{{cite web|title=2006 European Championships - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00010608002C000000FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=2 August 2006|access-date=14 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 59
+|time = 52.88
+|recordinfo = 
+|firstname = Libby
+|lastname = Trickett
+|namearticle = 
+|nation = AUS
+|date = {{Dts|format=dmy|2008|3|27}}
+|meet = [[2008 Australian Swimming Championships|Australian Championships]]
+|country = AUS
+|city = Sydney
+|ref =<ref>{{cite news|title=Two world records broken at Olympic trials|url=http://www.news.com.au/heraldsun/story/0,21985,23441720-11088,00.html|newspaper=[[Herald Sun]]|agency=[[Australian Associated Press|AAP]]|publisher=[[News Limited]]|date=27 March 2008|access-date=27 March 2008|archive-date=5 September 2012|archive-url=https://archive.today/20120905182605/http://www.heraldsun.com.au/news/two-world-records-broken-at-trials/story-e6frf8px-1111115904715|url-status=dead}}</ref>
+}}
+{{Swimmingrecord
+|number = 60
+|time = 52.85
+|recordinfo = h
+|firstname = Britta
+|lastname = Steffen
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2009|June|25}}
+|meet = German Championships
+|country = GER
+|city = Berlin
+|ref = <ref>{{cite magazine|title=German Long Course Nationals: Flash! Britta Steffen Clips World Record in Prelims|url=https://www.swimmingworldmagazine.com/news/german-long-course-nationals-flash-britta-steffen-clips-world-record-in-prelims/|magazine=[[Swimming World]]|date=25 June 2009|access-date=14 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 61
+|time = 52.56
+|recordinfo = 
+|firstname = Britta
+|lastname = Steffen
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2009|June|27}}
+|meet = German Championships
+|country = GER
+|city = Berlin
+|ref = <ref>{{cite magazine|title=German Long Course Nationals: Flash! Britta Steffen Demolishes World Record|url=https://www.swimmingworldmagazine.com/news/german-long-course-nationals-flash-britta-steffen-demolishes-world-record/|magazine=[[Swimming World]]|date=27 June 2009|access-date=14 May 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 62
+|time = 52.22
+|recordinfo = r
+|firstname = Britta
+|lastname = Steffen
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2009|July|26}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|World Championships]]
+|country = ITA
+|city = Rome
+|ref =<ref name=W2009WCr>{{cite web|title=13th FINA World Championships - Women's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/0001090B000E000000FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=26 July 2009|access-date=11 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 63
+|time = 52.07
+|recordinfo = 
+|firstname = Britta
+|lastname = Steffen
+|namearticle = 
+|nation = GER
+|date = {{Dts|format=dmy|2009|July|31}}
+|meet = [[Swimming at the 2009 World Aquatics Championships – Women's 100 metre freestyle|World Championships]]
+|country = ITA
+|city = Rome
+|ref = <ref name=W2009WC>{{cite web|title=13th FINA World Championships - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/0001090B004A000000FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=31 July 2009|access-date=11 March 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 64
+|time = 52.06
+|recordinfo = 
+|firstname = Cate
+|lastname = Campbell
+|namearticle = 
+|club = {{flagu|Australia}}
+|date = 2 July 2016
+|meet = Swimming Australia Grand Prix
+|city = Brisbane
+|country = AUS
+|ref = <ref name=2016Aus>{{cite magazine|title=Cate Campbell Breaks 100 Free World Record By .01 Seconds|url=https://swimswam.com/cate-campbell-breaks-100-free-world-record-01-seconds/|magazine=[[SwimSwam]]|author=Robert Gibbs|date=2 July 2016|access-date=2 July 2016}}</ref>
+}}
+{{Swimmingrecord
+|number = 65
+|time = 51.71
+|recordinfo = r
+|firstname = Sarah
+|lastname = Sjöström
+|namearticle = 
+|club = {{flagu|Sweden}}
+|date = 23 July 2017
+|meet = [[Swimming at the 2017 World Aquatics Championships – Women's 4 × 100 metre freestyle relay|World Championships]]
+|city = Budapest
+|country = HUN
+|ref = <ref name=W2017WCr>{{cite web|title=Women's 4×100m Freestyle Relay Final |url=https://www.omegatiming.com/File/000111010A0201F704FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=23 July 2017|access-date=11 March 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA|yd=yes}}
+
+===Short course===
+{{swimmingrecordlisttop|number=yes|name=yes|nationality=yes|date=yes|meet=yes}}
+|-
+{{Swimmingrecord
+|number = 1
+|time = 53.48
+|recordinfo = 
+|firstname = Livia 
+|lastname = Copariu
+|namearticle = 
+|nation = ROU
+|date = 6 April 1989
+|meet = Romanian National Championships
+|country = ROU
+|city = Bukarest
+|ref =<ref>{{cite news|title="Franzi" kraulte zweiten Weltrekord|url=https://www.nd-aktuell.de/artikel/396405.bfranzil-kraulte-zweiten-weltrekord.html|newspaper=[[Neues Deutschland]]|author=W. Koniecny|language=German|date=7 January 1993|access-date=7 November 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 2
+|time = 53.46
+|recordinfo = 
+|firstname = Franziska van
+|lastname = Almsick
+|namearticle = 
+|nation = GER
+|date = 6 January 1993
+|meet = [[FINA Swimming World Cup|World Cup]]
+|country = CHN
+|city = Shanghai
+|ref =<ref>{{cite news|title=Sports Shorts|url=https://apnews.com/aa5ca321a3df3cdcdbf82767260caa65|agency=[[Associated Press]], [[Xinhua News Agency]]|date=6 January 1993|access-date=11 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 3
+|time = 53.33
+|recordinfo = 
+|firstname = Franziska van
+|lastname = Almsick
+|namearticle = 
+|nation = GER
+|date = 10 January 1993
+|meet = [[FINA Swimming World Cup|World Cup]]
+|country = CHN
+|city = Beijing
+|ref =<ref>{{cite news|title=Swimming|url=https://www.latimes.com/archives/la-xpm-1993-01-11-sp-1069-story.html|newspaper=[[The Los Angeles Times]]|agency=[[Xinhua News Agency]]|date=11 January 1993|access-date=11 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 4
+|time = 53.01
+|recordinfo = 
+|chinesename = Jingyi Le
+|namearticle = Jingyi Le
+|nation = CHN
+|date = 2 December 1993
+|meet = [[1993 FINA World Swimming Championships (25 m)|World Championships]]
+|country = ESP
+|city = Palma de Mallorca
+|ref = 
+}}
+{{Swimmingrecord
+|number = 5
+|time = 52.80
+|recordinfo = 
+|firstname = Therese
+|lastname = Alshammar
+|namearticle = 
+|nation = SWE
+|date = 10 December 1999
+|meet = [[1999 European Short Course Swimming Championships|European Championships]]
+|country = POR
+|city = Lisbon
+|ref =<ref>{{cite news|title=Swimming – European Championships; 2 Swedes set records|url=https://www.nytimes.com/1999/12/11/sports/plus-swimming-european-championships-2-swedes-set-records.html|newspaper=[[The New York Times]]|date=11 December 1999|access-date=11 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 6
+|time = 52.17
+|recordinfo = 
+|firstname = Therese
+|lastname = Alshammar
+|namearticle = 
+|nation = SWE
+|date = 17 March 2000
+|meet = [[2000 FINA World Swimming Championships (25 m)|World Championships]]
+|country = GRE
+|city = Athens
+|ref =<ref>{{cite web|title=Women's 100&nbsp;m freestyle final results|url=http://www.omegatiming.com/File/Download?id=0001000E002D000000FFFFFFFFFFFF01|publisher=[[Omega SA|Omega Timing]]|date=17 March 2000|access-date=11 May 2013}}</ref><ref>{{cite news|title=Colleges: Swimming; American men set mark in 800 relay|url=https://www.nytimes.com/2000/03/18/sports/colleges-swimming-american-men-set-mark-in-800-relay.html|newspaper=[[The New York Times]]|date=18 March 2000|access-date=11 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 7
+|time = 51.91
+|recordinfo = sf
+|firstname = Libby
+|lastname = Lenton
+|namearticle = Libby Trickett
+|nation = AUS
+|date = 8 August 2005
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|city = Melbourne
+|ref =<ref>{{cite news|title=Lenton sets new mark|url=http://www.smh.com.au/news/sport/lenton-sets-new-mark/2005/08/08/1123353260238.html|newspaper=[[The Sydney Morning Herald]]|agency=[[Australian Associated Press|AAP]]|date=8 August 2005|access-date=31 March 2007}}</ref>
+}}
+{{Swimmingrecord
+|number = 8
+|time = 51.70
+|recordinfo = 
+|firstname = Libby
+|lastname = Lenton
+|namearticle = Libby Trickett
+|nation = AUS
+|date = 9 August 2005
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|country = AUS
+|city = Melbourne
+|ref =<ref>{{cite news|title=Lenton's in the pink with world record|url=http://www.theage.com.au/news/Sport/Lentons-in-the-pink-with-world-record/2005/08/09/1123353313941.html|newspaper=[[The Age]]|agency=[[Australian Associated Press|AAP]]|date=9 August 2005|access-date=31 March 2007}}</ref>
+}}
+{{Swimmingrecord
+|number = 9
+|time = 51.01
+|recordinfo = 
+|firstname = Libby
+|lastname = Trickett
+|namearticle = 
+|nation = AUS
+|date = 10 August 2009
+|meet = [[2009 Australian Short Course Swimming Championships|Australian Championships]]
+|country = AUS
+|city = Hobart
+|ref =<ref name=W2009Aus>{{cite news|title=Three WRs fall at short course champs|url=http://www.abc.net.au/news/2009-08-10/three-wrs-fall-at-short-course-champs/1385858|newspaper=[[ABC News (Australia)|ABC News]]|publisher=[[Australian Broadcasting Corporation]]|date=11 August 2009|access-date=10 May 2013}}</ref>
+}}
+{{Swimmingrecord
+|number = 10
+|time = 50.91
+|recordinfo = †
+|firstname = Cate
+|lastname = Campbell
+|namearticle = 
+|nation = AUS
+|date = 28 November 2015
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|country = AUS
+|city = Sydney
+|ref = <ref name=W2015Aus>{{cite web |url=http://www.swimvortex.com/cate-campbell-50-91-the-fastest-four-lap-free-in-history-wr-down-to-sw12-12/ |title=Cate Campbell: 50.91 The Fastest Four-Lap Free In History, WR Down To SW12.12 |first1=Craig |last1=Lord |date=November 28, 2015 |publisher=Swimvortex |access-date=November 28, 2015 |archive-date=7 December 2015 |archive-url=https://web.archive.org/web/20151207205918/http://www.swimvortex.com/cate-campbell-50-91-the-fastest-four-lap-free-in-history-wr-down-to-sw12-12/ |url-status=dead }}</ref>
+}}
+{{Swimmingrecord
+|number = 11
+|time = 50.77
+|recordinfo =
+|firstname = Sarah 
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = 3 August 2017
+|meet = [[2017 FINA Swimming World Cup|World Cup]]
+|country = RUS
+|city = Moscow
+|ref = <ref name=W2017CupMoscow>{{cite web|title=Women's 100m Freestyle Results|url=http://omegatiming.com/File/Download?id=00011101010201EC04FFFFFFFFFFFF01|publisher=Omega Timing|access-date=3 August 2017|date=3 August 2017}}</ref>
+}}
+{{Swimmingrecord
+|number = 12
+|time = 50.58
+|recordinfo =
+|firstname = Sarah 
+|lastname = Sjöström
+|namearticle = 
+|nation = SWE
+|date = 11 August 2017
+|meet = [[2017 FINA Swimming World Cup|World Cup]]
+|country = NED
+|city = Eindhoven
+|ref = <ref name=W2017CupEindhoven>{{cite web|title=Women's 100m Freestyle Results|url=http://omegatiming.com/File/Download?id=00011101030201EC04FFFFFFFFFFFF01|publisher=Omega Timing|access-date=11 August 2017|date=11 August 2017|archive-date=17 September 2017|archive-url=https://web.archive.org/web/20170917155509/http://omegatiming.com/File/Download?id=00011101030201EC04FFFFFFFFFFFF01|url-status=dead}}</ref>[https://www.youtube.com/watch?v=W093oTdO220 link]
+}}
+{{Swimmingrecord
+|number = 13
+|time = 50.25
+|recordinfo =
+|firstname = Cate
+|lastname = Campbell
+|namearticle = 
+|nation = AUS
+|date = 26 October 2017
+|meet = [[Australian Swimming Championships|Australian Championships]]
+|country = AUS
+|city = Adelaide
+|ref = <ref name=W2017Aus>{{cite web|last1=Race|first1=Loretta|title=She's Back: Cate Campbell Eclipses Sjostrom's 100 SC Free World Record|url=https://swimswam.com/shes-back-cate-campbell-eclipses-sjostroms-100-sc-free-world-record/|access-date=26 October 2017|date=26 October 2017}}</ref>[https://www.youtube.com/watch?v=GzUNwsGXlhc&t=2s link]
+}}
+{{Swimmingrecord
+|number = 14
+|time = 50.19
+|recordinfo = 
+|firstname = Kate
+|lastname = Douglass
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2025|10|19}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|country = USA
+|city = Westmont
+|cityarticle = Westmont, Illinois
+|ref = <ref name=W2025Westmont>{{cite web|title=2025 World Aquatics Cup (Westmont) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900070201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 October 2025|access-date=20 October 2025}}</ref>
+}}
+{{Swimmingrecord
+|number = 15
+|time = 49.93
+|recordinfo = 
+|firstname = Kate
+|lastname = Douglass
+|namearticle = 
+|nation = USA
+|date = {{Dts|format=dmy|2025|10|25}}
+|meet = [[2025 World Aquatics Swimming World Cup|World Cup]]
+|city = Toronto
+|country = CAN
+|ref = <ref name=W2025Toronto>{{cite web|title=2025 World Aquatics Cup (Toronto) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900080103EE0104FFFFFFFFFF01.pdf|work=Omega Timing|date=25 October 2025|access-date=25 October 2025}}</ref>
+}}
+{{end}}
+{{swimmingrecordlegend|ratifier=FINA}}
+
+==All-time top 25==
+{| style="wikitable"
+|-
+| Tables show data for two definitions of "Top 25" - the top 25 '''100 m freestyle times''' and the top 25 '''athletes''':
+|-
+| style="background: #f6F5CE" |''- denotes top performance for '''athletes''' in the top 25 '''100 m freestyle times'''''
+|-
+|''- denotes lesser performances, still in the top 25 '''100 m freestyle times''', by repeat athletes''
+|-
+| style="background: #CCFFCC" |''- denotes top performance (only) for other top 25 '''athletes''' who fall outside the top 25 100 m freestyle times''
+|}
+
+===Men long course===
+*Correct as of October 2025<ref>{{cite web|title=Men's 100m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=9 June 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 46.40
+| [[Pan Zhanle]]
+| {{CHN}}
+| 31 July 2024
+| [[Paris]]
+| <ref name=M2024OG/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 46.51
+| [[David Popovici]]
+| {{ROU}}
+| 31 July 2025
+| [[Singapore]]
+| <ref name=M2025WC>{{cite web|title=2025 World Aquatics Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900010101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=31 July 2025|access-date=31 July 2025}}</ref>
+|-
+| rowspan="2" |
+| align=center | 3
+| 46.71
+|''Popovici #2''
+| rowspan="2" |
+| 28 June 2025
+| [[Šamorín]]
+| <ref>{{cite magazine|title=David Popovici Swims 46.71 100 Free, #2 Performance All-Time, First-Ever Sub-24 Backhalf|url=https://swimswam.com/david-popovici-swims-46-71-100-free-2-performance-all-time-first-ever-sub-24-backhalf/|magazine=[[SwimSwam]]|author=Sean Griffin|date=28 June 2025|access-date=28 June 2025}}</ref>
+|-
+| align=center | 4
+| 46.80
+|''Pan #2''
+| 11 February 2024
+| [[Doha]]
+| <ref name=M2024WCr/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align="center" | 5
+| 46.81
+| [[Jack Alexy]]
+|{{USA}}
+| 30 July 2025
+| Singapore
+| <ref name=M2025WCsf>{{cite web|title=2025 World Aquatics Championships - Men's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011900010101EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=30 July 2025|access-date=30 July 2025}}</ref>
+|-
+| rowspan="3" |
+| align=center | 6
+| 46.84
+|''Popovici #3''
+| rowspan="3" |
+| 30 July 2025
+| Singapore
+| <ref name=M2025WCsf/>
+|-
+| align=center | 7
+| 46.86
+|''Popovici #4''
+| 13 August 2022
+| [[Rome]]
+| <ref name=2022EC/>
+|- 
+| align=center | 8
+| 46.88
+|''Popovici #5''
+| 19 June 2024
+| [[Belgrade]]
+| <ref name=M2024EC>{{cite web|title=2024 European Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800040101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 June 2024|access-date=19 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 9
+| 46.91
+| [[César Cielo]]
+| {{BRA}}
+| 30 July 2009
+| Rome
+| <ref name=M2009WC/>
+|-
+| rowspan="3" |
+| align="center" |9
+|46.91
+|''Alexy #2''
+| rowspan="3" |
+|2 August 2025
+| Singapore
+|<ref>{{cite web|title=2025 World Aquatics Championships - Mixed 4×100 Freestyle Relay Final Results |url=https://www.omegatiming.com/File/00011900010301F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=2 August 2025|access-date=6 August 2025}}</ref>
+|-
+| rowspan="2" align="center" | 11
+| rowspan="2" | 46.92
+|''Pan #3''
+| 27 July 2024
+| Paris
+| <ref>{{Cite web|title=2024 Olympic Games - Men's 4×100m Freestyle Relay Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMM4X100MFR----------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240817130628/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMM4X100MFR----------FNL-000100--.pdf |archive-date=2024-08-17 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+|''Alexy #3''
+| 31 July 2025
+| Singapore
+| <ref name="M2025WC" />
+|- bgcolor="f6F5CE"
+| align="center" | 5
+| align="center" | 13
+| 46.94
+| [[Alain Bernard]]
+| {{FRA}}
+| 23 April 2009
+| [[Montpellier]]
+| <ref name="2009French" />
+|- bgcolor="f6F5CE"
+| align="center" | 6
+| align="center" | 14
+| 46.96
+| [[Caeleb Dressel]]
+| {{USA}}
+| 25 July 2019
+| [[Gwangju]]
+| <ref name="M2019WC">{{cite web |title=18th FINA World Championships - Men's 100m Freestyle Final Results |url=https://www.omegatiming.com/File/00011301070101EC04FFFFFFFFFFFF01.pdf |work=Omega Timing |date=25 July 2019 |access-date=19 April 2025}}</ref>
+|-
+| rowspan="5" |
+| rowspan="2" align="center" | 15
+| rowspan="2" | 46.97
+|''Pan #4''
+| rowspan="5" |
+| 24 September 2023
+| [[Hangzhou]]
+| <ref>{{cite web|title=2022 Asian Games - Men's 100m Freestyle Final Results|url=https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf|work=hangzhou2022.cn|date=24 September 2023|accessdate=24 September 2023|archive-date=27 September 2023|archive-url=https://web.archive.org/web/20230927204219/https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+|''Pan #5''
+| 23 April 2024
+| [[Shenzhen]]
+| <ref>{{cite magazine|title=Pan Zhanle Unleashes 46.97 100 Free At 2024 Chinese Nationals (Race Video)|url=https://swimswam.com/pan-zhanle-unleashes-46-97-100free-at-2024-chinese-nationals-race-video/|magazine=[[SwimSwam]]|author=Retta Race|date=23 April 2024|access-date=19 April 2025}}</ref>
+|-
+| align="center" | 17
+| 46.98
+|''Popovici #6''
+| 12 August 2022
+| Rome
+| <ref>{{cite web|title=2022 European Championships - Men's 100m Freestyle Semifinals Results|url=https://roma2022.microplustimingservices.com/export/NU_ROMA2022/NU/pdf/SWMM100MFR------------SFNL--------_74A%201.0.pdf|publisher=microplustiming.com|date=12 August 2022|access-date=19 April 2025}}</ref>
+|-
+| align="center" | 18
+| 46.99
+|''Alexy #4''
+| 3 June 2025
+| [[Indianapolis]]
+| <ref>{{cite web |date=3 June 2025 |title=2025 US National Championships - Men's 100m Freestyle Heats Results |url=https://www.omegatiming.com/File/00011900040101EC0101FFFFFFFFFF01.pdf |access-date=3 June 2025 |work=Omega Timing}}</ref>
+|-
+| align="center" | 19
+| 47.02
+| ''Dressel #2''
+| 29 July 2021 
+|[[Tokyo]]
+|<ref name="M2020OG">{{Cite web |title=2020 Olympic Games - Men's 100m Freestyle Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20210729024423/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMM100MFR------------FNL-000100--.pdf |archive-date=29 July 2021 |access-date=30 July 2021}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 20
+| 47.04
+| [[Cameron McEvoy]]
+| {{AUS}}
+| 10 April 2016
+| [[Adelaide]]
+| <ref>{{cite web|title=2016 Australian Championships - Men's 100m Freestyle Results|url=http://liveresults.swimming.org.au/SAL/2016OPEN/160407F026.htm|publisher=[[Swimming Australia]]|date=11 April 2016|access-date=11 April 2016|archive-url=https://web.archive.org/web/20160414023449/http://liveresults.swimming.org.au/SAL/2016OPEN/160407F026.htm|archive-date=14 April 2016|url-status=dead}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 21
+| 47.05
+| [[Eamon Sullivan]]
+| {{AUS}}
+| 13 August 2008
+| [[Beijing]]
+| <ref name=2008OGsf/>
+|-
+| rowspan="2" |
+| align=center | 22
+| 47.06
+|''Pan #6''
+| rowspan="2" | 
+| 28 September 2023
+| Hangzhou
+| <ref>{{cite web|title=2022 Asian Games - Men's 4x100m Freestyle Relay Final Results|url=https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73B1_SWMM4X100MFR----------FNL-000100--.pdf|publisher=hangzhou2022.cn|date=28 September 2023|access-date=28 September 2023|archive-date=28 September 2023|archive-url=https://web.archive.org/web/20230928150341/https://info.hangzhou2022.cn/resAG2022-/pdf/AG2022-/SWM/AG2022-_SWM_C73B1_SWMM4X100MFR----------FNL-000100--.pdf|url-status=dead}}</ref>
+|-
+| align=center | 23
+| 47.07
+|''Popovici #7''
+| 30 August 2022
+| [[Lima]]
+| <ref>{{cite web|title=8th FINA World Junior Championships - Men's 4x100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011700050101F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=30 August 2022|access-date=19 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| rowspan="2" align="center" | 9
+| rowspan="2" align="center" | 24
+| rowspan="2" | 47.08
+| rowspan="2" | [[Kyle Chalmers]] 
+| rowspan="2" | {{AUS}} 
+| 25 July 2019
+| Gwangju
+| <ref name=M2019WC/>
+|- bgcolor=f6F5CE
+| 29 July 2021
+| Tokyo
+| <ref name=M2020OG/>
+|-
+|
+| align=center | 24
+| 47.08
+|''Alexy #5''
+|
+|18 June 2024
+| Indianapolis
+|<ref>{{cite web |date=18 June 2024 |title=2024 US Olympic Trials - Men's 100m Freestyle Heats Results |url=https://www.omegatiming.com/File/00011800030101EC0101FFFFFFFFFF01.pdf |access-date=18 June 2024 |work=Omega Timing}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 10
+| rowspan="17" |
+| rowspan="2" | 47.10
+| [[James Magnussen]]
+| {{AUS}}
+| 19 March 2012
+| Adelaide
+| <ref>{{cite web|title=2012 Australian Championships - Men's 100m Freestyle Final Results|url=http://www.clubsonline.com.au/uploads/swimresults/National/2012Open/120315F026.htm|archive-url=https://web.archive.org/web/20130513180548/http://www.clubsonline.com.au/uploads/swimresults/National/2012Open/120315F026.htm|url-status=dead|archive-date=13 May 2013|publisher=swimming.org.au|date=19 March 2012|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Guilherme Caribé]]
+| {{BRA}}
+| 23 April 2025
+| [[Rio de Janeiro]]
+| <ref>{{cite magazine|title=Gui Caribe Rips World-Leading 47.10 LCM 100 FR, Now 10th-Fastest Swimmer In History (Video)|url=https://swimswam.com/gui-caribe-rips-world-leading-47-10-lcm-100-fr-now-10th-fastest-swimmer-in-history-video/|magazine=[[SwimSwam]]|author=Spencer Penland|date=23 April 2025|access-date=24 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 47.11
+| [[Kliment Kolesnikov]]
+| {{RUS}}
+| 28 July 2021
+| Tokyo
+| <ref>{{cite web|title=2020 Olympic Games - Men's 100m Freestyle Semifinals Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MFR------------SFNL--------.pdf|publisher=olympics.com|date=28 July 2021|accessdate=11 August 2021|archive-date=28 July 2021|archive-url=https://web.archive.org/web/20210728014729/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMM100MFR------------SFNL--------.pdf|url-status=dead}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 47.15
+| [[Frédérick Bousquet]]
+| {{FRA}}
+| 24 April 2009
+| Montpellier
+| <ref>{{cite magazine|title=French Long Course Championships: Alain Bernard Upset, Rafael Munoz Perez Posts Sizzling Time in 100 Fly Semis|url=https://www.swimmingworldmagazine.com/news/french-long-course-championships-alain-bernard-upset-rafael-munoz-perez-posts-sizzling-time-in-100-fly-semis/|date=24 April 2009|access-date=19 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 47.25
+| [[Chris Guiliano]]
+| {{USA}}
+| 18 June 2024
+| Indianapolis
+| <ref>{{cite web|title=2024 US Olympic Trials - Men's 100m Freestyle Semifinal Results|url=https://www.omegatiming.com/File/00011800030101EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=18 June 2024|access-date=18 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 47.27
+| [[Brent Hayden]]
+| {{CAN}}
+| 30 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor="CCFFCC"
+| align=center | 16
+| 47.29
+| [[Egor Kornev]]
+| {{RUS}}
+| 30 July 2025
+| Singapore
+| <ref name=M2025WCsf/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 17
+| rowspan="2" | 47.33
+| [[David Walters (swimmer)|David Walters]]
+| {{USA}}
+| 30 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| [[Maxime Grousset]]
+| {{FRA}}
+| 18 June 2024
+| [[Chartres]]
+| <ref>{{cite magazine|title=French Trials, Day 3 Finals: Maxime Grousset Drops 47.33 100 Free PB For Ticket To Home Games|url=https://www.swimmingworldmagazine.com/news/french-trials-maxime-grousset-drops-47-33-100-free-pb-for-ticket-to-home-games/|magazine=[[Swimming World]]|author=Liz Byrnes|date=18 June 2024|access-date=20 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 47.37
+| [[Stefan Nystrand]]
+| {{SWE}}
+| 30 July 2009
+| Rome
+| <ref name=M2009WC/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 20
+| rowspan="2" | 47.39
+| [[Ryan Held]]
+| {{USA}}
+| 31 July 2019
+| [[Stanford]]
+| <ref>{{cite web|title=2019 US National Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/000113010B0101EC04FFFFFFFFFFFF01.pdf|work=Omega Timing|date=31 July 2019|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Kim Youngbeom]]
+| {{KOR}}
+| 22 October 2025
+| [[Busan]]
+| <ref>{{cite magazine|title=Watch: Continuing Korean Record Siege, 19-year-old Kim Youngbeom Rips 47.39 100 Free|url=https://swimswam.com/continuing-korean-record-siege-19-year-old-kim-youngbeom-rips-47-39-100free/|magazine=[[SwimSwam]]|author=Retta Race|date=22 October 2025|access-date=22 October 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 47.43
+| [[Vladislav Grinev]]
+| {{RUS}}
+| 9 April 2019
+| [[Moscow]]
+| <ref>{{cite magazine|title=Watch: Vladislav Grinev's Russian Record In 100 Free (47.43)|url=https://swimswam.com/watch-vladislav-grinevs-russian-record-in-100-free-47-43/|magazine=[[SwimSwam]]|author=Braden Keith|date=9 April 2019|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 23
+| rowspan="2" | 47.45
+| [[Alessandro Miressi]]
+| {{ITA}}
+| 19 May 2021
+| [[Budapest]]
+| <ref>{{cite web|title=2020 European Championships - Men's 100m Freestyle Final Results|url=http://budapest2020.microplustiming.com/export/NU_Budapest2021/NU/pdf/SWMM100MFR------------FNL-000100--_73A1%201.0.pdf|publisher=microplustiming.com|date=19 May 2021|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Matt Richards (swimmer)|Matt Richards]]
+| {{GBR2}}
+| 27 July 2023
+| [[Fukuoka]]
+| <ref>{{cite web|title=2023 World Aquatics Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=27 July 2023|access-date=19 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 25
+| rowspan="2" | 47.47
+| [[Kristóf Milák]]
+| {{HUN}}
+| 13 August 2022
+| Rome
+| <ref name=2022EC/>
+|- bgcolor=CCFFCC
+| [[Patrick Sammon]]
+| {{USA}}
+| 3 June 2025
+| Indianapolis
+| <ref>{{cite web|date=3 June 2025|title=2025 US National Championships - Men's 100m Freestyle Final Results |url=https://www.omegatiming.com/File/00011900040101EC0104FFFFFFFFFF01.pdf|access-date=3 June 2025|work=Omega Timing}}</ref>
+|}
+
+===Men short course===
+*Correct as of December 2025<ref>{{cite web|title=Men's 100m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=M&distance=100&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=23 March 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 44.84
+| [[Kyle Chalmers]]
+| {{AUS}}
+| 29 October 2021
+| [[Kazan]]
+| <ref name=M2021Kazan/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 44.94
+| [[Amaury Leveaux]]
+| {{FRA}}
+| 13 December 2008
+| [[Rijeka]]
+| <ref name=M2008EC/>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 3
+| rowspan="2" align=center | 3
+| rowspan="2" | 44.95
+| [[Vladimir Morozov (swimmer)|Vladimir Morozov]]
+| {{RUS}}
+| 16 November 2018
+| [[Singapore]]
+| <ref>[[FINA]] (16 November 2018). [https://www.omegatiming.com/File/000112010B0101EC04FFFFFFFFFFFF01.pdf "FINA Swimming World Cup 2018 Singapore: Men's 100m Freestyle Final Results"]. ''[[Omega Timing]]''. Retrieved 22 October 2021.</ref>
+|- bgcolor=f6F5CE
+| [[Jordan Crooks]]
+| {{CAY}}
+| 11 December 2024
+| [[Budapest]]
+| <ref>{{cite web |date=11 December 2024 |title=2024 World Aquatics Championships (25m) - Men's 100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011800080101EC0101FFFFFFFFFF01.pdf |access-date=10 December 2024|publisher=Omega Timing}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 5
+| 44.99
+| [[Egor Kornev]]
+| {{RUS}}
+| 9 November 2025
+| Kazan
+| <ref>{{cite web|title=2025 Russian Championships - Men's 100m Freestyle Final Results|url=https://russwimming.ru/upload/live/4R_SC_2025/ResultList_112F.pdf|publisher=Russian Swimming Federation|date=9 November 2025|accessdate=11 November 2025}}</ref>
+|-
+| 
+| align=center | 6
+| 45.03
+|''Chalmers #2''
+| 
+| 21 October 2021
+| [[Doha]]
+| <ref>{{cite web|title=2021 FINA World Cup (Doha) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500110101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 October 2021|accessdate=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 7
+| 45.04
+| [[Florent Manaudou]]
+| {{FRA}}
+| 5 December 2013
+| [[Dijon]]
+| <ref>{{cite magazine|title=Manaudou Sets New World Textile Best 100 Free At French Short-Course Championships Finals|url=https://swimswam.com/manaudou-sets-new-world-textile-best-100-free-french-short-course-championships-prelims/|magazine=[[SwimSwam]]|author=Jared Anderson|date=5 December 2013|access-date=24 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 8
+| 45.05
+| [[Jack Alexy]]
+| {{USA}}
+| 10 December 2024
+| Budapest
+| <ref>{{cite web |date=10 December 2024 |title=2024 World Aquatics Championships (25m) - Men's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011800080101F70104FFFFFFFFFF01.pdf|access-date=10 December 2024 |publisher=Omega Timing}}</ref>
+|- bgcolor=f6F5CE
+| rowspan="2" align=center | 8
+| rowspan="2" align=center | 9
+| rowspan="2" | 45.08
+| [[Nathan Adrian]]
+| {{USA}}
+| 19 December 2009
+| [[Manchester]]
+| <ref>{{cite web|title=2009 Duel in the Pool - Men's 100m Freestyle Results|url=https://www.omegatiming.com/File/000109000005000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=19 December 2009|accessdate=23 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| [[Caeleb Dressel]]
+| {{USA}}
+| 22 November 2020	
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Final) - Men's 100m Freestyle Results|url=https://www.omegatiming.com/File/000114020F0101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=22 November 2020|accessdate=23 April 2025}}</ref>
+|-
+| rowspan="3" |
+| align=center | 11
+| 45.12
+|''Leveaux #2''
+| rowspan="3" |
+| 12 December 2008
+| Rijeka
+| <ref name=M2008ECsf/>
+|-
+| rowspan="2" align=center | 12
+| rowspan="2" | 45.16
+|''Morozov #2''
+| 10 November 2018
+| [[Tokyo]]
+| <ref>{{cite web|title=2018 FINA World Cup (Tokyo) - Men's 100m Freestyle Final Final Results|url=https://www.omegatiming.com/File/000112010A0101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 November 2018|accessdate=24 April 2025}}</ref>
+|-
+|''Chalmers #3''
+| 15 December 2022
+| [[Melbourne]]
+| <ref name=M2022WC>{{cite web|title=2022 FINA World Championships (25m) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011700030101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=15 December 2022|access-date=18 December 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center| 10
+| align=center| 14
+| 45.17
+|[[Maxime Grousset]]
+|{{FRA}}
+|6 December 2025
+|[[Lublin]]
+|<ref name=M2025EC>{{cite web|title=2025 European Championships (25m) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=6 December 2025|access-date=8 December 2025}}</ref>
+|-
+| rowspan="9" |
+| rowspan="2" align=center | 15
+| rowspan="2" | 45.18
+|''Dressel #2''
+| rowspan="9" |
+| 21 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Final) - Men's 4×100m Freestyle Relay Results|url=https://www.omegatiming.com/File/000114020F0101F704FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 November 2020|accessdate=23 April 2025}}</ref>
+|-
+|''Kornev #2''
+| 19 December 2025
+| [[Saint Petersburg]]
+| <ref>{{cite magazine|title=PAVEL SAMUSENKO UPSETS 100 BACK FIELD IN RUSSIA TO BECOME #6 PERFORMER ALL-TIME|url=https://swimswam.com/pavel-samusenko-upsets-100back-field-in-russia-to-become-6-performer-all-time/|magazine=[[SwimSwam]]|author=Retta Race|date=19 December 2025|access-date=9 January 2026}}</ref>
+|-
+| align="center" | 17
+| 45.20
+|''Dressel #3''
+| 16 November 2020
+| Budapest
+| <ref>{{cite web |title=2020 International Swimming League (Final) - Men's 100m Freestyle Results |url=https://www.omegatiming.com/File/000114020E0101EC04FFFFFFFFFFFF01.pdf |publisher=Omega Timing |date=16 November 2020 |accessdate=23 April 2025}}</ref>
+|-
+| align="center" | 18
+| 45.21
+|''Kornev #3''
+| 8 November 2025
+| Kazan
+| <ref>{{cite web |title=2025 Russian Championships - Men's 100m Freestyle Semifinals Results |url=https://russwimming.ru/upload/live/4R_SC_2025/ResultList_212S.pdf |publisher=Russian Swimming Federation |date=8 November 2025 |accessdate=11 November 2025}}</ref>
+|-
+| rowspan="2" align="center" | 19
+| rowspan="2" | 45.22
+|''Dressel #4''
+| 20 December 2019
+| [[Las Vegas]]
+| <ref>{{cite magazine|title=Caeleb Dressel Hits American, US Open Records In 100 Free (SCM) – 45.22
+|url=https://swimswam.com/caeleb-dressel-hits-american-us-open-records-in-100-free-scm-45-22/|magazine=[[SwimSwam]]|author=Torrey Hart|date=20 December 2019|access-date=24 April 2025}}</ref>
+|-
+|''Crooks #2''
+| 11 December 2024
+| Budapest
+| <ref name=M2024WCsf>{{cite web|date=10 December 2024 |title=2024 World Aquatics Championships (25m) - Men's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011800080101EC0102FFFFFFFFFF01.pdf |access-date=10 December 2024 |publisher=Omega Timing}}</ref>
+|-
+| align=center | 21
+| 45.23
+|''Morozov #3''
+| 5 August 2017
+| [[Berlin]]
+| <ref>{{cite web|title=2017 FINA World Cup (Berlin) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011101020101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=5 August 2017|accessdate=24 April 2025}}</ref>
+|-
+| align=center | 22
+| 45.29
+|''Alexy #2''
+| 11 December 2024
+| Budapest
+| <ref name=M2024WCsf/>
+|-
+| align=center | 23
+| 45.30
+|''Morozov #4''
+| 4 October 2018
+| Budapest
+| <ref>{{cite web|title=2018 FINA World Cup (Budapest) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011201080101EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 October 2018|accessdate=24 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 11
+| align=center | 23
+| 45.30
+| [[Joshua Liendo]]
+| {{CAN}}
+| 24 October 2025
+| [[Toronto]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Toronto) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900080101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=24 October 2025|access-date=24 October 2025}}</ref>
+|-
+|
+| align=center | 25
+| 45.33
+|''Alexy #3''
+|
+| 11 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref>{{cite web|title=2025 World Aquatics Cup (Carmel) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900060101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=11 October 2025|access-date=13 October 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 12
+| rowspan="14" |
+| 45.36
+| [[Evgeny Lagunov]]
+| {{RUS}}
+| 11 December 2009
+| [[Istanbul]]
+| <ref name=M2009EC>{{cite web|title=2009 European Championships - Men's 100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00010901001F000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=11 December 2009|accessdate=23 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 13
+| 45.46
+| [[Matthew Abood]]
+| {{AUS}}
+| 21 November 2009
+| Singapore
+| <ref>{{cite web|title=2009 FINA World Cup (Singapore) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/000109040012000000FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 November 2009|accessdate=23 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 45.47
+| [[Guilherme Caribé]]
+| {{BRA}}
+| 12 December 2024
+| Budapest
+| <ref>{{cite web|url=https://www.omegatiming.com/File/00011800080101EC0104FFFFFFFFFF01.pdf|title=2024 World Aquatics Championships (25m) - Men's 100m Freestyle Final Results|publisher=Omega Timing|date=10 December 2024|access-date=10 December 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 45.50
+| [[Chris Guiliano]]
+| {{USA}}
+| 11 October 2025
+| Carmel
+| <ref>{{cite web|title=2025 World Aquatics Cup (Carmel) - Men's 100m Freestyle Heats Results|url=https://www.omegatiming.com/File/00011900060101EC0101FFFFFFFFFF01.pdf|work=Omega Timing|date=11 October 2025|access-date=13 October 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 16
+| 45.51
+| [[Alessandro Miressi]]
+| {{ITA}}
+| 10 December 2023
+| [[Otopeni]]
+| <ref>{{cite web|title=2023 European Championships - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600090101EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2023|access-date=12 December 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 45.54
+| [[Stefan Nystrand]]
+| {{SWE}}
+| 10 November 2009
+| [[Stockholm]]
+| <ref>{{cite web|title=2009 FINA World Cup (Stockholm) - Men's 100m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000109060011000000FFFFFFFFFFFF01|publisher=Omega Timing|date=10 November 2009|access-date=10 August 2017}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 18
+| 45.56
+| [[Brent Hayden]]
+| {{CAN}}
+| 14 November 2009
+| Berlin
+| <ref>{{cite web|title=2009 FINA World Cup (Berlin) - Men's 100m Freestyle Final Results|url=http://www.omegatiming.com/File/Download?id=000109050012000000FFFFFFFFFFFF01|work=Omega Timing|date=14 November 2009|access-date=12 August 2017}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 19
+| 45.58
+| [[Kliment Kolesnikov]]
+| {{RUS}}
+| 7 November 2021
+| Kazan
+| <ref>{{cite web|title=Men's 100m Freestyle Final Results|url=http://kazan2021.microplustiming.com/export/NU_Kazan2021/NU/pdf/SWMM100MFR------------FNL-000100--_73A1%201.0.pdf?x=00:52:22|work=microplustiming.com|date=7 November 2021|accessdate=25 November 2021}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 45.60
+| [[James Magnussen]]
+| {{AUS}}
+| 7 August 2013
+| [[Eindhoven]]
+| <ref>{{cite web|title=2013 FINA World Cup (Eindhoven) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00010D020500000102FFFFFFFFFFFF02.pdf|publisher=Omega Timing|date=7 August 2013|accessdate=23 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 45.63
+| [[Ryan Held]]
+| {{USA}}
+| 21 December 2021
+| [[Abu Dhabi]]
+| <ref>{{cite web|title=2021 FINA World Championships (25m) - Men's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011500190101EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 December 2021|access-date=21 December 2021}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align="center" | 22
+| rowspan="2" | 45.64
+| [[David Popovici]]
+| {{ROU}}
+| 15 December 2022
+| Melbourne
+| <ref name=M2022WC/>
+|- bgcolor=CCFFCC
+|[[Jere Hribar]]
+|{{CRO}}
+|6 December 2025
+| Lublin
+|<ref name=M2025EC/>
+|- bgcolor="CCFFCC"
+| align="center" | 24
+| 45.68
+| [[Danila Izotov]]
+| {{RUS}}
+| 11 December 2009
+| Istanbul
+| <ref name="M2009EC" />
+|- bgcolor="CCFFCC"
+| align="center" | 25
+| 45.69
+| [[Alain Bernard]]
+| {{FRA}}
+| 7 December 2008
+| Angers
+| <ref name="M2008French" />
+|}
+
+===Women long course===
+*Correct as of October 2025<ref>{{cite web|title=Women's 100m Freestyle Long Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=FREESTYLE&poolConfiguration=LCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=31 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 51.71
+| [[Sarah Sjöström]]
+| {{SWE}}
+| 23 July 2017
+| [[Budapest]]
+| <ref name=W2017WCr/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 2
+| 51.96
+| [[Emma McKeon]]
+| {{AUS}}
+| 30 July 2021
+| [[Tokyo]]
+| <ref name=W2020OG>{{cite web|title=2020 Olympic Games - Women's 100m Freestyle Final Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MFR------------FNL-000100--.pdf|publisher=olympics.com|date=30 July 2021|accessdate=9 August 2021|archive-date=19 August 2021|archive-url=https://web.archive.org/web/20210819080448/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C73A1_SWMW100MFR------------FNL-000100--.pdf|url-status=dead}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 3
+| 52.02
+| [[Siobhán Haughey]]
+| {{HKG}}
+| 8 October 2023
+| [[Berlin]]
+| <ref>{{cite web|title=2023 World Aquatics Cup - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600050201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=8 October 2023|access-date=9 October 2023}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 4
+| align=center | 4
+| 52.03
+| [[Cate Campbell]]
+| {{AUS}}
+| 10 August 2018
+| Tokyo
+| <ref name=2018PP>{{cite web|title=2018 Pan Pacific Swimming Championships - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600050201EC0104FFFFFFFFFF01.pdf|work=Seiko|date=10 August 2018|access-date=25 March 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 5
+| align=center | 5
+| 52.04
+| [[Simone Manuel]]
+| {{USA}}
+| 26 July 2019
+| [[Gwangju]]
+| <ref>{{cite web|title=18th FINA World Championships - Women's 100m Freestyle Final |url=https://www.omegatiming.com/File/00011301070201EC04FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=26 July 2019|access-date=11 March 2025}}</ref>
+|-
+| 
+| align=center | 6
+| 52.06
+|''C. Campbell #2''
+| 
+| 2 July 2016
+| [[Brisbane]]
+| <ref name=2016Aus/>
+|- bgcolor=f6F5CE
+| align=center | 6
+| align=center | 7
+| 52.07
+| [[Britta Steffen]]
+| {{GER}}
+| 31 July 2009
+| [[Rome]]
+| <ref name=W2009WC/>
+|-
+| 
+| align=center | 8
+| 52.08
+|''Sjöström #2''
+| 
+| 18 June 2017
+| [[Canet-en-Roussillon]]
+| <ref>{{cite magazine|title=Sjostrom Flirts with WR to Close Mare Nostrum|url=https://www.swimmingworldmagazine.com/news/sjostrom-flirts-with-wr-to-close-mare-nostrum/|magazine=[[Swimming World]]|author=Katie Wingert|date=18 June 2017|access-date=22 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 7
+| align=center | 8
+| 52.08
+| [[Mollie O'Callaghan]]
+| {{AUS}}
+| 23 July 2023
+| [[Fukuoka]]
+| <ref name=W2023WCr>{{cite web|title=2023 World Aquatics Championships - Women's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011600010201F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=23 July 2023|access-date=24 July 2023}}</ref>
+|-
+| rowspan="10" |
+| align=center | 10
+| 52.12
+|''C. Campbell #3''
+| rowspan="10" |
+| 13 June 2019
+| Brisbane
+| <ref>{{cite web|title=2019 Australian Trials - Women's 100m Freestyle Final Results|url=https://liveresults.swimming.org.au/SAL/2019TRI_021365/190609F019.htm|publisher=swimming.org.au|date=13 June 2019|access-date=22 April 2025}}</ref>
+|-
+| align=center | 11
+| 52.13
+|''McKeon #2''
+| 28 July 2021
+| Tokyo
+| <ref name=W2020OGh>{{Cite web|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW100MFR------------HEAT--------.pdf |title=2020 Olympic Games - Women's 100m Freestyle Heats Results|access-date=28 July 2021 |archive-date=28 July 2021 |archive-url=https://web.archive.org/web/20210728110520/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/SWM/OG2020-_SWM_C74A_SWMW100MFR------------HEAT--------.pdf |url-status=dead }}</ref>
+|-
+| rowspan="2" align=center | 12
+| rowspan="2" | 52.16
+|''O'Callaghan #2''
+| 28 July 2023
+| Fukuoka
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011600010201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=26 July 2023|access-date=22 April 2025}}</ref>
+|-
+|''Sjöström #3''
+| 31 July 2024
+| [[Paris]]
+| <ref name=W2024OG>{{Cite web|title=2024 Olympic Games - Women's 100m Freestyle Final Results |url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW100MFR------------FNL-000100--.pdf |url-status=dead |archive-url=https://web.archive.org/web/20240815165819/https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73A1_SWMW100MFR------------FNL-000100--.pdf |archive-date=2024-08-15 |access-date=2024-12-18 |website=olympics.com |publisher=[[International Olympic Committee]]}}</ref>
+|-
+| align=center | 14
+| 52.17
+|''Haughey #2''
+| 26 September 2023
+| [[Hangzhou]]
+| <ref>{{cite magazine|title=China Rattles WR In Men's Medley Relay At Asian Games; Siobhan Haughey Sets Asian 100 Free Record|url=https://www.swimmingworldmagazine.com/news/china-rattles-wr-in-mens-medley-relay-at-asian-games-siobhan-haughey-sets-asian-100-free-record/|magazine=[[Swimming World]]|date=26 September 2023|access-date=22 April 2025}}</ref>
+|-
+| align=center | 15
+| 52.19
+|''McKeon #3''
+| 16 June 2021
+| [[Adelaide]]
+| <ref>{{cite web|title=2021 Australian Trials - Women's 100m Freestyle Heats Results|url=https://liveresults.swimming.org.au/SAL/2021TRIALS/210612P045.htm|publisher=swimming.org.au|date=16 June 2021|access-date=22 April 2025}}</ref>
+|-
+| align=center | 16
+| 52.22
+|''Steffen #2''
+| 26 July 2009
+| Rome
+| <ref name=W2009WCr/>
+|-
+| align=center | 17
+| 52.23
+|''Sjöström #4''
+| 21 July 2019
+| Gwangju
+| <ref>{{cite web|title=18th FINA World Championships - Women's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011301070201F704FFFFFFFFFFFF01.pdf|work=Omega Timing|date=21 July 2019|access-date=22 April 2025}}</ref>
+|-
+| rowspan="2" align=center | 18
+| rowspan="2" | 52.24
+|''Sjöström #5''
+| 23 July 2023
+| Fukuoka
+| <ref name=W2023WCr/>
+|-
+|''O'Callaghan #3''
+| 27 July 2024
+| Paris
+| <ref name=W2024OGr>{{cite web|title=2024 Olympic Games - Women's 4×100m Freestyle Relay Final Results|url=https://olympics.com/OG2024/pdf/OG2024/SWM/OG2024_SWM_C73B1_SWMW4X100MFR----------FNL-000100--.pdf|publisher=olympics.com|date=27 July 2024|access-date=28 July 2024}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 20
+| 52.26
+| [[Marrit Steenbergen]]
+| {{NED}}
+| 16 February 2024
+| [[Doha]]
+| <ref>{{cite web|title=2024 World Aquatics Championships - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800000201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=16 February 2024|access-date=17 February 2024}}</ref>
+|-
+|
+| align=center | 21
+| 52.27
+|''Manuel #2''
+| 
+| 28 July 2017
+| Budapest
+| <ref name=W2017WC>{{cite web|title=Women's 100m Freestyle Final |url=https://www.omegatiming.com/File/000111010A0201EC04FFFFFFFFFFFF01.pdf|work=[[Omega SA|Omega Timing]]|date=28 July 2017|access-date=11 March 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 21
+| 52.27
+| [[Bronte Campbell]]
+| {{AUS}}
+| 9 April 2018
+| [[Gold Coast, Queensland|Gold Coast]]
+| <ref>{{Cite magazine|last=Tillotson|first=Jason|date=9 April 2018 |title=Campbell Sisters Go 1-2 in 100 Free, Bronte Campbell Earns Record|url=https://www.swimmingworldmagazine.com/news/campbell-sisters-go-1-2-in-100-free-bronte-campbell-earns-record/|access-date=12 March 2025 |magazine=[[Swimming World]]}}</ref>
+|-
+| rowspan="3" |
+| rowspan="2" align=center | 21
+| rowspan="2" | 52.27
+|''Haughey #3''
+| rowspan="3" |
+| 30 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|-
+| ''O'Callaghan #4''
+| 17 April 2024
+| Gold Coast
+| <ref>{{cite web|title=2024 Australian Championships - Women's 100m Freestyle Final Results|url=https://liveresults.swimming.org.au/sal/2024Opens/240417F008.htm|publisher=swimming.org.au|date=17 April 2024|access-date=22 April 2025}}</ref>
+|-
+| align=center | 25
+| 52.28
+|''Sjöström #6''
+| 14 June 2017
+| [[Barcelona]]
+| <ref>{{cite magazine|title=Seebohm, Sjostrom Double Winners at Mare Nostrum Series Barcelona|url=https://www.swimmingworldmagazine.com/news/mare-nostrum-barcelona-day-two/|magazine=[[Swimming World]]|author=Katie Wingert|date=14 June 2017|access-date=22 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 25
+| 52.28
+| [[Shayna Jack]]
+| {{AUS}}
+| 23 July 2023
+| Fukuoka
+| <ref>{{cite web|title=2023 World Aquatics Championships - Women's 4×100m Freestyle Relay Heats Results|url=https://www.omegatiming.com/File/00011600010201F70101FFFFFFFFFF01.pdf|work=Omega Timing|date=23 July 2023|access-date=23 July 2023}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 11
+| rowspan="15" |
+| 52.29
+| [[Torri Huske]]
+| {{USA}}
+| 31 July 2024
+| Paris
+| <ref name=W2024OG/>
+|- bgcolor=CCFFCC
+| align=center | 12
+| 52.48
+| [[Yang Junxuan]]
+| {{CHN}}
+| 27 July 2024
+| Paris
+| <ref name=W2024OGr/>
+|- bgcolor=CCFFCC
+| align=center | 13
+| 52.52
+| [[Meg Harris]]
+| {{AUS}}
+| 14 June 2024
+| Brisbane
+| <ref>{{cite web|title=2024 Australian Trials - Women's 100m Freestyle Heats Results|url=https://liveresults.swimming.org.au/sal/2024Trials/240610P022.htm|publisher=swimming.org.au|date=14 June 2024|access-date=14 June 2024}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 14
+| 52.56
+| [[Kate Douglass]]
+| {{USA}}
+| 19 June 2024
+| [[Indianapolis]]
+| <ref>{{cite web|title=2024 US Olympic Trials - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800030201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=19 June 2023|access-date=19 June 2023}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 15
+| rowspan="2" | 52.59
+| [[Mallory Comerford]]
+| {{USA}}
+| 23 July 2017
+| Budapest
+| <ref name=W2017WCr/>
+|- bgcolor=CCFFCC
+| [[Penny Oleksiak]]
+| {{CAN}}
+| 30 July 2021
+| Tokyo
+| <ref name=W2020OG/>
+|- bgcolor=CCFFCC
+| align=center | 17
+| 52.62
+| [[Libby Trickett]]
+| {{AUS}}
+| 26 July 2009
+| Rome
+| <ref name=W2009WCr/>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 18
+| rowspan="2" | 52.69
+| [[Femke Heemskerk]]
+| {{NED}}
+| 5 April 2015
+| [[Eindhoven]]
+| <ref>{{cite magazine|title=Sarah Sjostrom Rattles World Record in 50 Fly in Eindhoven|url=http://www.swimmingworldmagazine.com/news/sarah-sjostrom-rattles-world-record-in-50-fly-in-eindhoven/|magazine=[[Swimming World]]|date=5 April 2015|access-date=5 April 2015}}</ref>
+|- bgcolor=CCFFCC
+| [[Pernille Blume]]
+| {{DEN}}
+| 28 July 2017
+| Budapest
+| <ref name=W2017WC/>
+|- bgcolor=CCFFCC
+| align=center | 20
+| 52.72
+| [[Taylor Ruck]]
+| {{CAN}}
+| 10 August 2018
+| Tokyo
+| <ref name=2018PP/>
+|- bgcolor=CCFFCC
+| align=center | 21
+| 52.74
+| [[Charlotte Bonnet]]
+| {{FRA}}
+| 26 May 2018
+| [[Saint-Raphaël, Var|Saint-Raphaël]]
+| <ref>{{cite web|title=2018 French Championships - Women's 100m Freestyle Results|url=http://www.liveffn.com/cgi-bin/resultats.php?competition=53735&langue=gbr&go=epreuve&epreuve=2|publisher=liveffn.com|date=26 May 2018|access-date=26 May 2018}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align=center | 22
+| rowspan="2" | 52.75
+| [[Ranomi Kromowidjojo]]
+| {{NED}}
+| 12 April 2012
+| Eindhoven
+| <ref>{{cite magazine|title=Eindhoven Swim Cup: Ranomi Kromowidjojo Sprints to Textile Best in 100 Free — Race Footage Included|url=https://www.swimmingworldmagazine.com/news/eindhoven-swim-cup-ranomi-kromowidjojo-sprints-to-textile-best-in-100-free-race-footage-included/|date=13 April 2012|access-date=22 April 2025|magazine=[[Swimming World]]}}</ref>
+|- bgcolor=CCFFCC
+| [[Anna Hopkin]]
+| {{GBR2}}
+| 28 July 2021
+| Tokyo
+| <ref name=W2020OGh/>
+|- bgcolor=CCFFCC
+| align=center | 24
+| 52.76
+| [[Madison Wilson]]
+| {{AUS}}
+| 16 June 2021
+| Adelaide
+| <ref>{{cite web|title=2021 Australian Trials - Women's 100m Freestyle Final Results|url=https://liveresults.swimming.org.au/SAL/2021TRIALS/210612F045.htm|publisher=swimming.org.au|date=16 June 2021|access-date=22 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 25
+| 52.78
+| [[Gretchen Walsh]]
+| {{USA}}
+| 3 June 2025
+| Indianapolis
+| <ref>{{cite web |date=3 June 2025 |title=2025 US National Championships - Women's 100m Freestyle Final Results |url=https://www.omegatiming.com/File/00011900040201EC0104FFFFFFFFFF01.pdf |access-date=3 June 2025 |website=Omega Timing |publisher=}}</ref>
+|}
+
+===Women short course===
+*Correct as of December 2025<ref>{{cite web|title=Women's 100m Freestyle Short Course All-Time Ranking|url=https://api.worldaquatics.com/fina/rankings/swimming/report/pdf?gender=F&distance=100&stroke=FREESTYLE&poolConfiguration=SCM&year=&startDate=&endDate=&timesMode=ALL_TIMES&regionId=&countryId=&pageSize=200|publisher=World Aquatics|access-date=14 October 2025}}</ref>
+{| class="wikitable sortable"
+! {{abbr|Ath.#|Athlete rank}}  
+! {{abbr|Perf.#|Performance rank}} 
+! Time 
+! Athlete 
+! Nation 
+! Date 
+! Place 
+! class="unsortable" | {{refh}}
+|- bgcolor=f6F5CE
+| align=center | 1
+| align=center | 1
+| 49.93
+| [[Kate Douglass]]
+| {{USA}}
+| 25 October 2025
+| [[Toronto]]
+| <ref name=W2025Toronto/>
+|-
+|
+| align=center | 2
+| 50.19
+|''Douglass #2''
+|
+| 19 October 2025
+| [[Westmont, Illinois|Westmont]]
+| <ref name=W2025Westmont/>
+|- bgcolor=f6F5CE
+| align=center | 2
+| align=center | 3
+| 50.25
+| [[Cate Campbell]]
+| {{AUS}}
+| 26 October 2017
+| [[Adelaide]]
+| <ref name=W2017Aus/>
+|- bgcolor=f6F5CE
+| align=center | 3
+| align=center | 4
+| 50.31
+| [[Gretchen Walsh]]
+| {{USA}}
+| 12 December 2024
+| [[Budapest]]
+| <ref name=W2024WC(25)>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800080201EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=12 December 2024|access-date=28 December 2024}}</ref>
+|- bgcolor=f6F5CE
+| align="center" | 4
+| align="center" | 5
+| 50.42
+|[[Marrit Steenbergen|Marritt Steenbergen]]
+|{{NED}}
+|6 December 2025
+|[[Lublin]]
+|<ref name=W2025EC>{{cite web|title=2025 European Championships (25m) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/000119000A0201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=6 December 2025|access-date=8 December 2025}}</ref>
+|-
+|
+| align="center" | 6
+| 50.49
+|''Walsh #2''
+|
+| 11 December 2024
+| Budapest
+| <ref>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/00011800080201EC0102FFFFFFFFFF01.pdf|date=11 December 2024|access-date=20 December 2024|publisher=Omega Timing}}</ref>
+|- bgcolor="f6F5CE"
+| rowspan="2" align="center" | 5
+| rowspan="2" align="center" | 7
+| rowspan="2" | 50.58
+| [[Sarah Sjöström]]
+| {{SWE}}
+| 11 August 2017
+| [[Eindhoven]]
+| <ref name="W2017CupEindhoven" />
+|- bgcolor=f6F5CE
+| [[Emma McKeon]]
+| {{AUS}}
+| 9 October 2021
+| Budapest
+| <ref>{{cite web|title=2021 FINA World Cup (Budapest) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/00011500100201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=9 October 2021|access-date=20 October 2021}}</ref>
+|- bgcolor="f6F5CE"
+| align="center" |7
+| align="center" |9
+|50.60
+|[[Béryl Gastaldello]]
+|{{FRA}}
+|6 December 2025
+| Lublin
+|<ref name=W2025EC/>
+|-
+| rowspan="5" align="center" |
+| align="center" | 10
+| 50.63
+| ''Gastaldello #2''
+| rowspan="5" |
+| 12 December 2024
+| Budapest
+| <ref name="W2024WC(25)" />
+|-
+| align="center" | 11
+| 50.67
+|''McKeon #2''
+| 30 October 2021
+| [[Kazan]]
+| <ref>{{cite web|title=2021 FINA World Cup (Kazan) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/00011500120201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=30 October 2021|access-date=26 April 2025}}</ref>
+|-
+| align="center" | 12
+| 50.73
+|''Douglass #3''
+| 12 December 2024
+| Budapest
+| <ref name="W2024WC(25)" />
+|-
+| rowspan="2" align="center" | 13
+| rowspan="2" | 50.77
+|''Sjöström #2''
+| 3 August 2017
+| [[Moscow]]
+| <ref name="W2017CupMoscow" />
+|-
+|''McKeon #3''
+| 15 December 2022
+| [[Melbourne]]
+| <ref name=W2022WC>{{cite web|url=https://www.omegatiming.com/File/00011700030201EC0104FFFFFFFFFF01.pdf|title=16th FINA World Championships (25m) - Women's 100m Freestyle Final Results|publisher=Omega Timing|date=15 December 2022|access-date=15 December 2022}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 8
+| align=center | 15
+| 50.79
+| [[Siobhán Haughey]]
+| {{HKG}}
+| 4 December 2021
+| Eindhoven
+| <ref>{{cite web|title=2021 International Swimming League (Final) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/000115001B0201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=4 December 2021|access-date=5 December 2021}}</ref>
+|-
+|
+| align=center | 16
+| 50.82
+|''Douglass #4''
+|
+| 2 November 2024
+| [[Singapore]]
+| <ref>{{cite web|title=2024 World Aquatics Cup (Singapore) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011800070201EC0104FFFFFFFFFF01.pdf|publisher=Omega Timing|date=2 November 2024|access-date=26 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 9
+| align=center | 16
+| 50.82
+| [[Mollie O'Callaghan]]
+| {{AUS}}
+| 25 October 2025
+| Toronto
+| <ref name=W2025Toronto/>
+|-
+| rowspan="5" | 
+| align=center | 18
+| 50.83
+|''Douglass #5''
+| rowspan="5" | 
+| 12 October 2025
+| [[Carmel, Indiana|Carmel]]
+| <ref name=W2025Carmel>{{cite web|title=2025 World Aquatics Cup (Carmel) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011900060201EC0104FFFFFFFFFF01.pdf|work=Omega Timing|date=12 October 2025|access-date=13 October 2025}}</ref>
+|-
+| align=center | 19
+| 50.85
+|''Campbell #2''
+| 18 November 2017
+| Singapore
+| <ref name=W2017Singapore>{{cite web|title=2017 FINA World Cup (Singapore) - Women's 100m Freestyle Final Results|url=https://www.omegatiming.com/File/00011101090201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=18 November 2017|access-date=26 April 2025}}</ref>
+|-
+| align=center | 20
+| 50.87
+|''Haughey #2''
+| 15 December 2022
+| Melbourne
+| <ref name=W2022WC/>
+|-
+| align=center | 21
+| 50.91
+|''Campbell #3''
+| 28 November 2015
+| [[Sydney]]
+| <ref name=W2015Aus/>
+|-
+| align=center | 22
+| 50.94
+|''Haughey #3''
+| 21 November 2020
+| Budapest
+| <ref name=W2020ISLr>{{cite web|title=2020 International Swimming League (Final) - Women's 4×100m Freestyle Relay Results|url=https://www.omegatiming.com/File/000114020F0201F704FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=21 November 2020|access-date=26 April 2025}}</ref>
+|- bgcolor=f6F5CE
+| align=center | 10
+| align=center | 23
+| 50.95
+| [[Ranomi Kromowidjojo]]
+| {{NED}}
+| 15 December 2017
+| [[Copenhagen]]
+| <ref name=W2017EC>{{cite web|title=2017 European Championships - Women's 100m Freestyle Final Results|url=http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-100FR-FIN-ALL.pdf|work=microplustiming.com|date=15 December 2017|access-date=15 December 2017|archive-url=https://web.archive.org/web/20171215221413/http://copenhagen2017.microplustiming.com/export/NU/NU/pdf/CLS-ASF-100FR-FIN-ALL.pdf|archive-date=15 December 2017|url-status=dead}}</ref>
+|-
+| rowspan="2" |
+| align=center | 23
+| 50.95
+|''Douglass #6''
+| rowspan="2" |
+| 10 December 2024
+| Budapest
+| <ref>{{cite web|title=2024 World Aquatics Championships (25m) - Women's 4×100m Freestyle Relay Final Results|url=https://www.omegatiming.com/File/00011800080201F70104FFFFFFFFFF01.pdf|work=Omega Timing|date=10 December 2024|access-date=26 April 2025}}</ref>
+|-
+| align=center | 25
+| 50.96
+|''McKeon #4''
+| 3 October 2021
+| [[Berlin]]
+| <ref>{{cite web|title=2021 FINA World Cup (Berlin) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/000115000F0201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=3 October 2021|access-date=26 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 11
+| rowspan="19" |
+| 51.01
+| [[Libby Trickett]]
+| {{AUS}}
+| 11 August 2009
+| [[Hobart]]
+| <ref name="W2009Aus" />
+|- bgcolor=CCFFCC
+| align=center | 12
+| 51.19
+| [[Fran Halsall]]
+| {{GBR2}}
+| 22 November 2009
+| Singapore
+| <ref>{{cite web|url=https://www.omegatiming.com/File/000109040032000000FFFFFFFFFFFF01.pdf|title=2009 FINA World Cup (Singapore) - Women's 100m Freestyle Final Results|publisher=Omega Timing|date=22 November 2009|access-date=28 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| rowspan="2" align="center" | 13
+| rowspan="2" | 51.26
+| [[Abbey Weitzeil]]
+| {{USA}}
+| 10 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Final) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/000114020C0201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=10 November 2020|access-date=26 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+|[[Sara Curtis]]
+|{{ITA}}
+|6 December 2025
+|Lublin
+|<ref name=W2025EC/>
+|- bgcolor=CCFFCC
+| align=center | 15
+| 51.29
+| [[Femke Heemskerk]]
+| {{NED}}
+| 17 November 2018
+| Singapore
+| <ref>{{cite web |title=2018 FINA World Cup (Singapore) - Women's 100m Freestyle Final Results |url=https://www.omegatiming.com/File/000112010B0201EC04FFFFFFFFFFFF01.pdf |publisher=Omega Timing |date=17 November 2018 |access-date=28 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 16
+| 51.35
+| [[Inge Dekker]]
+| {{NED}}
+| 11 December 2009
+| Istanbul
+| <ref>{{cite web |url=https://www.omegatiming.com/File/000109010028000000FFFFFFFFFFFF01.pdf |title=2009 European Championships - Women's 100m Freestyle Final Results |publisher=Omega Timing |date=11 December 2009 |access-date=28 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 17
+| 51.40
+| [[Madison Wilson]]
+| {{AUS}}
+| 25 August 2022
+| Sydney
+| <ref>{{cite web |title=2022 Australian Championships (25m) - Women's 100m Freestyle Final Results |url=https://liveresults.swimming.org.au/sal/2022SC/220824F028.htm |work=Swimming Australia |date=25 August 2022 |access-date=18 September 2022}}</ref>
+|- bgcolor="CCFFCC"
+| rowspan="4" align="center" | 18
+| rowspan="4" | 51.43
+| rowspan="4" | [[Freya Anderson]]
+| rowspan="4" | {{GBR2}}
+| 31 October 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Match 5) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/00011402070201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=31 October 2020|access-date=26 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| 15 November 2020
+| Budapest
+| <ref>{{cite web|title=2020 International Swimming League (Semifinal 1) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/000114020D0201EC04FFFFFFFFFFFF01.pdf|publisher=Omega Timing|date=15 November 2020|access-date=26 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| 21 November 2020
+| Budapest
+| <ref name=W2020ISLr/>
+|- bgcolor="CCFFCC"
+|22 November 2020
+|Budapest
+|<ref>{{cite web |date=21 November 2020 |title=2020 International Swimming League (Final) - Women's 100m Freestyle Results |url=https://www.omegatiming.com/File/000114020F0201EC04FFFFFFFFFFFF01.pdf |access-date=26 April 2025 |publisher=Omega Timing}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 19
+| 51.44
+| [[Katarzyna Wasick]]
+| {{POL}}
+| 17 September 2021
+| [[Naples]]
+| <ref>{{cite web|title=2021 International Swimming League (Match 7) - Women's 100m Freestyle Results|url=https://www.omegatiming.com/File/000115000A0201EC04FFFFFFFFFFFF01.pdf|publisher=omegatiming.com|date=17 September 2021|access-date=30 September 2021}}</ref>
+|- bgcolor="CCFFCC"
+| rowspan="2" align="center" | 20
+| rowspan="2" | 51.45
+| [[Kayla Sanchez]]
+| {{CAN}}
+| 14 December 2018
+| [[Sheffield]]
+| <ref>{{cite web |title=2018 Swim England Winter Championships - Women's 100m Freestyle Final Results |url=https://swimmingresults.org.uk/swimming/results/2018/sesc18/RW2F171.HTM |publisher=swimmingresults.org.uk |date=14 December 2018 |access-date=14 December 2018}}</ref>
+|- bgcolor=CCFFCC
+| [[Marie Wattel]]
+| {{FRA}}
+| 12 December 2019
+| [[Angers]]
+| <ref>{{cite web|title=2019 French Championships - Women's 100m Freestyle Final Results|url=https://www.liveffn.com/cgi-bin/resultats.php?competition=64651&langue=fra&go=epreuve&epreuve=2|work=liveffn.com|date=12 December 2019|accessdate=12 December 2019}}</ref>
+|- bgcolor=CCFFCC
+| align=center | 22
+| 51.47
+| [[Michelle Coleman]]
+| {{SWE}}
+| 17 November 2019
+| [[Eskilstuna]]
+| <ref>{{cite news|title=Coleman Clocks Lifetime Best SCM 100 Free To Close Out Swedish C'ships|url=https://swimswam.com/coleman-clocks-lifetime-best-scm-100free-to-close-out-swedish-cships/|work=[[SwimSwam]]|author=Retta Race|date=17 November 2019|access-date=28 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 23
+| 51.48
+|[[Eva Okaro]]
+|{{GBR2}}
+|5 December 2025
+| Lublin
+|<ref>{{cite web|title=2025 European Championships (25m) - Women's 100m Freestyle Semifinals Results|url=https://www.omegatiming.com/File/000119000A0201EC0102FFFFFFFFFF01.pdf|work=Omega Timing|date=5 December 2025|access-date=8 December 2025}}</ref>
+|- bgcolor="CCFFCC"
+| align="center" | 24
+| 51.58
+| [[Jeanette Ottesen]]
+| {{DEN}}
+| 9 October 2016
+| [[Doha]]
+| <ref>{{cite web |title=2016 FINA World Cup (Doha) - Women's 100m Freestyle Final Results |url=https://www.omegatiming.com/File/000110000901001502FFFFFFFFFFFF02.pdf |publisher=Omega Timing |date=9 October 2016 |access-date=28 April 2025}}</ref>
+|- bgcolor="CCFFCC"
+| rowspan="2" align="center" | 25
+| rowspan="2" | 51.62
+| [[Rikako Ikee]]
+| {{JPN}}
+| 14 January 2018
+| [[Tokyo]]
+| <ref>{{cite news|title=Teen Phenom Rikako Ikee Crushes 4 National Records Over 2 Days|url=https://swimswam.com/teen-phenom-rikako-ikee-crushes-4-nat-records-over-2-days/|work=[[SwimSwam]]|author=Retta Race|date=14 January 2018|access-date=28 April 2025}}</ref>
+|- bgcolor=CCFFCC
+| [[Daria Klepikova]]
+| {{RUS}}
+| 12 December 2024
+| Budapest
+| <ref name=W2024WC(25)/>
+|}
+
+==References==
+{{reflist|30em}}
+
+{{World records in swimming}}
+
+[[Category:World record progressions in swimming|Freestyle 0100 metres]]
+[[Category:Freestyle swimming|World record progression 0100 metres freestyle]]

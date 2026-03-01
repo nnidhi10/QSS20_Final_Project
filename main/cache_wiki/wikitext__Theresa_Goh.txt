@@ -1,0 +1,403 @@
+{{short description|Singaporean Paralympic swimmer}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox swimmer
+| name           = Theresa Goh<br/>{{small|[[Pingat Bakti Masyarakat|PBM]] [[Bintang Bakti Masyarakat|BBM]]}}
+| image          = 
+| imagesize      = 
+| caption        = 
+| fullname       = Theresa Goh Rui Si
+| nicknames      = 
+| strokes        = [[Breaststroke]], [[freestyle swimming|freestyle]]
+| club           = 
+| collegeteam    = 
+| birth_date     = {{birth date and age|1987|2|16|df=yes}}
+| birth_place    = [[Singapore]]
+| death_date     = 
+| death_place    = 
+| height         = {{convert|1.29|m|ftin|abbr=on}} (2002)<ref name="2002 Commonwealth">{{citation|title=Athlete biography: Rui Si Theresa GOH – Singapore &#91;SIN&#93; |url=http://m2002.thecgf.com/results/default.asp?ath=2597 |archive-url=https://web.archive.org/web/20110723001047/http://m2002.thecgf.com/results/default.asp?ath=2597 |archive-date= 23 July 2011 |publisher=[[2002 Commonwealth Games|2002 Manchester: The XVII Commonwealth Games]] |year=2002 |access-date=5 September 2008 |url-status=dead }}.</ref>
+| weight         = {{convert|50|kg|lb|0|abbr=on}} (2008)<ref name="ST 20080906">{{citation|author=Jeanette Wang|title=Super-fast strokes: Pin Xiu and Goh make up for their disability by training twice a day|newspaper=[[The Straits Times]] (Sport)|date=6 September 2008|page=C34}}.</ref>
+| classification = [[S5 (classification)|S5/SB4]]
+| medaltemplates = 
+{{MedalSport       | [[swimming (sport)|Swimming]]}}
+{{MedalCountry     | {{SIN}}}}
+{{MedalCompetition|[[Paralympic Games]]}}
+{{MedalBronze | [[2016 Summer Paralympics|2016 Rio]] | 100&nbsp;m [[breaststroke]]}}
+{{MedalCompetition | [[ASEAN Para Games]]}}
+{{MedalGold        | [[2005 ASEAN Para Games|2005 Manila]] | 50&nbsp;[[butterfly stroke|butterfly]]}}
+{{MedalGold        | 2005 Manila | 100&nbsp;m butterfly}}
+{{MedalGold        | 2005 Manila | 100&nbsp;m [[freestyle swimming|freestyle]]}}
+{{MedalGold        | [[2008 ASEAN Para Games|2008 Nakhon Ratchasima]] | 50&nbsp;m [[breaststroke]]}}
+{{MedalGold        | 2008 Nakhon Ratchasima | 200&nbsp;m freestyle}}
+{{MedalCompetition | British Paralympic Trials}}
+{{MedalGold        | 2004 United Kingdom | 200&nbsp;m individual [[medley swimming|medley]]}}
+{{MedalCompetition | Danish Open}}
+{{MedalGold        | 2007 Esbjerg | 100&nbsp;m breaststroke}}
+{{MedalGold        | 2007 Esbjerg | 100&nbsp;m butterfly}}
+{{MedalGold        | 2007 Esbjerg | 100&nbsp;m freestyle}}
+{{MedalGold        | 2007 Esbjerg | 200&nbsp;m individual medley}}
+{{MedalCompetition | International German Disability Swimming Championships}}
+{{MedalGold        | 2007 Berlin | 50&nbsp;m breaststroke}}
+{{MedalGold        | 2007 Berlin | 100&nbsp;m breaststroke}}
+{{MedalGold        | 2007 Berlin | 200&nbsp;m breaststroke}}
+{{MedalCompetition | [[IPC Swimming World Championships]]}}
+{{MedalGold        | 2006 South Africa | 200&nbsp;m individual medley}}
+{{MedalGold        | 2006 Kuala Lumpur | 100&nbsp;m freestyle}}
+{{MedalGold        | 2006 Kuala Lumpur | 200&nbsp;m freestyle}}
+{{MedalCompetition | Telkom South African National Swimming Championships}}
+{{MedalGold        | 2006 Durban | 50&nbsp;m breaststroke}}
+{{MedalCompetition | US Paralympics Swimming National Championships}}
+{{MedalGold        | 2006 San Antonio | 200&nbsp;m breaststroke}}
+{{MedalGold        | 2006 San Antonio | 50&nbsp;m freestyle}}
+{{MedalCompetition | US Paralympics Trials}}
+{{MedalGold        | 2008 Minneapolis | 100&nbsp;m breaststroke}}
+{{MedalGold        | 2008 Minneapolis | 50&nbsp;m freestyle}}
+{{MedalGold        | 2008 Minneapolis | 200&nbsp;m freestyle}}
+{{MedalCompetition | [[VISA Paralympic World Cup]]}}
+{{MedalSilver      | 2005 Manchester | 200&nbsp;m breaststroke}}
+{{MedalCompetition | [[World Wheelchair Games]]}}
+{{MedalGold        | 2003 Christchurch | 50&nbsp;m [[backstroke]]}}
+{{MedalGold        | 2003 Christchurch | 100&nbsp;m breaststroke}}
+{{MedalGold        | 2003 Christchurch | 200&nbsp;m individual medley}}
+{{MedalSport       | [[Shooting (sport)|Shooting]]}}
+{{MedalCountry     | {{SIN}}}}
+{{MedalCompetition|[[ASEAN Para Games]]}}
+{{MedalGold        | [[2025 ASEAN Para Games|2025 Nakhon Ratchasima]] | [[ISSF 10 meter air pistol |P2 - 10m air pistol SH1]]}}
+{{MedalSilver        | [[2025 ASEAN Para Games|2025 Nakhon Ratchasima]] | [[ISSF 10 meter air pistol | Mixed P6 - team 10M air pistol SH1]]}}
+}}
+{{family name hatnote|[[Wu (surname)|Goh]] ({{zh|c=吴|p=Wú}})|lang=Chinese}}
+
+'''Theresa Goh Rui Si''' ({{zh|s=吴蕊思|zh|t=吳蕊思|p=Wú Ruǐ Sī}}; born 16 February 1987) is a [[Singapore]]an [[swimmer]] and [[Paralympic]] medalist, with a bronze at the SB4 100m breaststroke at the [[2016 Summer Paralympics]]. She previously held [[List of IPC world records in swimming – Women's long course|world records]] for the SB4 50&nbsp;metres and 200&nbsp;metres breaststroke events.
+
+Due to [[spina bifida]], she does not have use of her legs. Nonetheless, she started swimming at the age of five years, and began taking part in competitions at age 12. She soon established herself as a top competitor, winning medals at, among others, the [[ASEAN Para Games]] (2001, 2003, 2005 and 2008), the Far East and South Pacific Games Federation for the Disabled (FESPIC) Games (now known as the [[Asian Para Games]]) (2002), [[World Wheelchair Games]] (2003), National Swimming Championships (2004), and [[International Paralympic Committee]] (IPC) World Swimming Championships (2006).
+
+In March 2007, at the Danish Open in [[Esbjerg]], Denmark, Goh took top honours in the 100&nbsp;metres breaststroke, 100&nbsp;metres butterfly, 100&nbsp;freestyle and 200&nbsp;metres individual [[medley swimming|medley]]. At the [[4th ASEAN Para Games]] held in [[Nakhon Ratchasima]] (Korat), Thailand, in January 2008, Goh broke the record she set in May 2007 at the German International Disability Swimming Championships to win the gold in the 50&nbsp;metres breaststroke in a world and FESPIC record time of 52.62&nbsp;seconds. She achieved another gold in the 200&nbsp;metres freestyle. Goh took part at the [[2008 Summer Paralympics]] in [[Beijing]] in the 50&nbsp;metres, 100&nbsp;metres and 200&nbsp;metres freestyle, and in the 100&nbsp;metres breaststroke.
+
+Goh competed in sport class S5 for the freestyle, SB4 for the breaststroke and SM5 for the individual medley. As of 22 August 2008, she was ranked second in the world for the 100&nbsp;metres breaststroke and third for the 200&nbsp;metres individual medley. Goh received the 2001 Sportsgirl Merit Award from the Singapore Disability Sports Council (SDSC) and was named Sportsgirl of the Year in 2002 and 2003. From 2004 to 2006, she was the SDSC's Sportswoman of the Year. On 27 February 2008 Goh received a special award at the SDSC's Sports Superstar Awards 2007 for outstanding achievements in swimming, and in August that year she was conferred the [[Pingat Bakti Masyarakat]] (Public Service Medal) in the National Day Awards.
+
+At the 2016 Rio Paralympics, she snagged a Bronze medal in the SB4 50 metres breaststroke. In the same year, she was presented the [[Bintang Bakti Masyarakat]] (Public Service Star) in the National Day Awards.<ref>{{Cite news |title=Joseph Schooling, Theresa Goh to receive National Day awards |newspaper=The Straits Times |date=8 October 2016 |url=https://www.straitstimes.com/sport/schooling-theresa-goh-to-receive-national-day-awards}}</ref>
+
+She announced her retirement from sports in 2019.<ref>{{cite web |last1=Chia |first1=Nicole |title=Swimming: Theresa Goh, unicorn of the water, hangs up her goggles |url=https://www.straitstimes.com/sport/swimming-theresa-goh-unicorn-of-the-water-hangs-up-her-goggles |website=The Straits Times |access-date=7 August 2021 |date=16 September 2019}}</ref> However, in 2024, she began training in [[Shooting sports|shooting]]. In 2025, she competed in the [[World Shooting Para Sport Championships|World Shooting Para Sport World Cup]]<ref>
+{{Cite web |title=Paralympic swimmer Theresa Goh comes out of retirement, takes aim at new sport |url=https://www.channelnewsasia.com/sport/paralympics-theresa-goh-team-singapore-swimming-shooting-para-sports-5186191 |access-date=2025-11-05 |website=CNA |language=en}}
+</ref> and in 2026, she won a gold medal in the women's P2 - 10m air pistol SH1 event and a silver medal in the Mixed P6 - team 10M air pistol SH1 event with fellow Singapore shooter Daniel Chan at the [[2025 ASEAN Para Games]]. 
+
+==Early and personal life==
+Theresa Goh was born on 16 February 1987 in [[Singapore]],<ref name="2002 Commonwealth"/> the eldest of three children<ref>Goh's siblings are Marisa (aged 20 in 2008), a graphic designer, and Nicholas (aged 17), a first-year junior college student: {{citation|author=June Cheong|title='I want to own a car and a place of my own'|url=http://www.asiaone.com/Just%2BWoman/News/Women%2BIn%2BThe%2BNews/Story/A1Story20080723-78269.html|newspaper=The Straits Times (Mind Your Body) (reproduced on [[AsiaOne]])|date=23 July 2008|access-date=4 September 2008|url-status=dead|archive-url=https://web.archive.org/web/20080814190729/http://www.asiaone.com/Just+Woman/News/Women+In+The+News/Story/A1Story20080723-78269.html|archive-date=14 August 2008}}.</ref> of Bernard Goh,<ref>{{citation|title=Singapore's next big Olympic hope: Two days in the life of our paralympic swimmer Therasa Goh|url=http://newpaper.asia1.com.sg/news/story/0,4136,175483,00.html|newspaper=[[The New Paper|The Electric New Paper]]|date=4 September 2008|access-date=5 September 2008|url-status=dead|archive-url=https://web.archive.org/web/20080905080142/http://newpaper.asia1.com.sg/news/story/0,4136,175483,00.html|archive-date=5 September 2008}}.</ref> the general manager of an engineering company, and Rose, a housewife.<ref name="ST 20080723">{{citation|author=June Cheong|title='I want to own a car and a place of my own'|url=http://www.asiaone.com/Just%2BWoman/News/Women%2BIn%2BThe%2BNews/Story/A1Story20080723-78269.html|newspaper=The Straits Times (Mind Your Body) (reproduced on AsiaOne)|date=23 July 2008|access-date=4 September 2008|url-status=dead|archive-url=https://web.archive.org/web/20080814190729/http://www.asiaone.com/Just+Woman/News/Women+In+The+News/Story/A1Story20080723-78269.html|archive-date=14 August 2008}}.</ref> Because she was [[born prematurely]] at seven months, her parents were worried she might not survive. They were also shocked to discover that she had [[spina bifida]], which results in an incompletely formed [[spinal cord]], as the condition had not been detected during her mother's pregnancy.<ref name="ST 20080723"/><ref name="ST 20080902">{{citation|author=Jeanette Wang|title=Breakthrough? Theresa and Pin Xiu look set to win medals|newspaper=The Straits Times (Sport)|date=2 September 2008|page=B11}}.</ref> Goh had surgery at four months to close the opening at the base of her spine where her spinal cord was protruding. Due to her condition, she does not have use of her legs and relies on a wheelchair for mobility. She is also partially hearing-impaired due to an undeveloped left ear. Regarding her disabilities, she has said: "I'm fine with it. I [wouldn't] be swimming or where I am today if I weren't disabled."<ref name="ST 20080723"/>
+
+Goh, who was introduced to swimming at the age of five years,<ref name="SYA 2005">{{citation|title=Singapore Youth Awards 2005: Sports and adventure (individual): Ms Theresa Goh Rui Si|url=http://www.sya.sg/awardees2000s/SYA2005/2005_Sports%20&%20Adventure_Theresa%20Goh.pdf|archive-url=https://web.archive.org/web/20081003190903/http://www.sya.sg/awardees2000s/SYA2005/2005_Sports%20&%20Adventure_Theresa%20Goh.pdf|archive-date=3 October 2008|url-status=dead|publisher=[[National Youth Council of Singapore|National Youth Council]]|year=2005|access-date=4 September 2008}}.</ref> attended [[Tampines North Primary School]] and [[Dunman Secondary School]].<ref name="ST 20080723"/> She embarked on a Diploma in Moving Images at [[Temasek Polytechnic]] in 2005.<ref>{{citation|title=Gutsy Theresa wins Singapore Youth Award|url=http://www.tp.edu.sg/ezines/intempo/aug_-_oct_2005/student2.htm|archive-url=https://web.archive.org/web/20090427172814/http://www.tp.edu.sg/ezines/intempo/aug_-_oct_2005/student2.htm|archive-date=27 April 2009|url-status=dead|journal=Intempo|location=Singapore|publisher=[[Temasek Polytechnic]]|date=August 2005}}.</ref> As of January 2008, she was studying [[applied psychology]] at Raffles College, a private educational institute in Singapore.<ref>{{citation|title=Kudos to Theresa for making Singapore proud|url=http://www.raffles-college.edu.sg/rsp_event_popup/Theresa/Theresa.html|archive-url=https://archive.today/20080822075431/http://www.raffles-college.edu.sg/rsp_event_popup/Theresa/Theresa.html|url-status=dead|archive-date=22 August 2008|publisher=Raffles College|date=January 2008|access-date=5 September 2008}}.</ref> She identifies as queer.<ref>{{Cite web|url=https://dearstraightpeople.com/2017/06/14/out-of-the-closet-theresa-goh-shares-her-story/|title=Out Of The Closet: Theresa Goh Shares Her Story|first=Dear Straight|last=People|date=13 June 2017|website=Dear Straight People}}</ref>
+
+==Sporting career==
+Goh competes in sport class S5 for the [[freestyle swimming|freestyle]], SB4 for the [[breaststroke]] and SM5 for the individual [[medley swimming|medley]].<ref name="SDSC 200612">{{Citation |title=Thrashing ex-Paralympians and world record holders, Theresa brings back world champion title |date=December 2006 |url=http://www.sdsc.org.sg/news_and_media/news_detail/257/ |archive-url=https://web.archive.org/web/20081201114058/http://www.sdsc.org.sg/news_and_media/news_detail/257/ |publisher=Singapore Disability Sports Council |access-date=3 September 2008 |url-status=dead |archive-date=1 December 2008}}.</ref><ref>{{Citation |title=IPC Swimming: Swimming Classification Manual |date=February 2005 |url=http://www.ipc-swimming.org/export/sites/ipc_sports_swimming/Classification/IPC_Swimming_Classification_Manual_2005-2008.pdf |pages=10, 47–48, 65–66 |archive-url=https://web.archive.org/web/20110716100507/http://www.ipc-swimming.org/export/sites/ipc_sports_swimming/Classification/IPC_Swimming_Classification_Manual_2005-2008.pdf |publisher=[[International Paralympic Committee]] |access-date=4 September 2008 |url-status=dead |archive-date=16 July 2011}}.</ref> She began swimming at 12 years, winning two [[gold medal]]s at the National Swimming Championships in 1999.<ref name="SYA 2005"/> She soon established herself as a top competitor, achieving a run of four gold medals at the 10th&nbsp;Malaysian Paralympic Games and ASEAN Invitation Championships in 2000. At the [[2001 ASEAN Para Games]] in [[Kuala Lumpur]], she garnered six gold and two [[silver medal]]s, and broke the world record in the 50&nbsp;metres breaststroke. She was named Sportswoman of the Games, and also picked up the 2001 Sportsgirl Merit Award from the Singapore Disability Sports Council (SDSC).<ref name="SDSC 20031212">{{Citation |title=Sports Award Night 2003 |date=12 December 2003 |url=http://www.sdsc.org.sg/news_and_media/media_detail/153/ |archive-url=https://web.archive.org/web/20081201132703/http://www.sdsc.org.sg/news_and_media/media_detail/153/ |publisher=Singapore Disability Sports Association |access-date=5 September 2008 |url-status=dead |archive-date=1 December 2008}}.</ref> In the same year at the Australian National Junior Disabled Games, she won five gold and two silver medals, and broke four games records. She achieved three gold and one silver medal at the Far East and South Pacific Games Federation for the Disabled [[2002 FESPIC Games|(FESPIC) Games]] (now known as the [[Asian Para Games]]) held between 26 October and 1 November 2002 in [[Busan]], South Korea.<ref>{{Citation |last=Sim Chi Yin |title=Triple gold triumph: Singapore athletes won nine medals at the Far East and South Pacific Games for the Disabled in Busan |date=November 2002 |work=The Straits Times}}.</ref> At the [[2002 Commonwealth Games]] in [[Manchester]], although she did not pick up any medals she achieved games records of 51.05&nbsp;seconds in the 50&nbsp;metres freestyle and 1&nbsp;minute 48.00&nbsp;seconds in the 100&nbsp;metres freestyle.<ref name="2002 Commonwealth"/> In 2003, at the 2nd ASEAN Para Games in [[Hanoi]], Goh gained three golds, breaking three games records at the same time. She also swept the golds in the 50&nbsp;metres backstroke, 100&nbsp;metres breaststroke, 50&nbsp;metres [[butterfly stroke|butterfly]], and the 50, 100 and 200&nbsp;metres freestyle in [[Christchurch]] at the [[World Wheelchair Games]] in 2003. She was named Sportsgirl of the Year in 2002 and 2003.<ref name="SYA 2005"/><ref name="SDSC 20031212" />
+
+At the 2004 British Paralympic Trials, she was first in the 200&nbsp;metres individual medley and broke her personal best in six events. That year she also took home a stunning ten gold medals at the National Swimming Championships.<ref name="SYA 2005"/> In her [[Paralympics]] début at the [[2004 Summer Paralympics]] in [[Athens]], she finished fifth in the 100&nbsp;metres freestyle.<ref name="ST 20080902"/><ref>{{Citation |title=Paralympic results for 24 September |date=6 October 2004 |url=http://news.bbc.co.uk/sport1/hi/other_sports/disability_sport/paralympics/results/3663160.stm |publisher=[[BBC Sport]]}}.</ref> She went on to complete three record-breaking swims at the [[3rd ASEAN Para Games]] in [[Manila]] in December 2005, breaking her own games records set at the 2003 Para Games in the 50&nbsp;metres butterfly and 100&nbsp;metres freestyle events, and setting a new FESPIC record in the 100&nbsp;metres butterfly.<ref name="TS 20051219">{{Citation |title=&#91;Results for Singaporean swimmers at the 3rd ASEAN ParaGames&#93; |date=19 December 2005 |url=http://www.teamsingapore.com.sg/publish/etc/medialib/games/manila05/apg_-_swimming.Par.0006.File.tmp/swimming191205.xls |archive-url=https://web.archive.org/web/20080920162620/http://www.teamsingapore.com.sg/publish/etc/medialib/games/manila05/apg_-_swimming.Par.0006.File.tmp/swimming191205.xls |publisher=Team Singapore, [[Singapore Sports Council]] |format=XLS |access-date=5 September 2008 |url-status=dead |archive-date=20 September 2008}}.</ref> In March 2006, ''[[Her World]]'' magazine named her Young Woman Achiever 2005.<ref>{{Citation |title=Woman of the Year 2005: Her World's tribute to two outstanding women |date=1 March 2006 |url=http://www.sph.com.sg/news/latest/press_060301_003.html |archive-url=https://web.archive.org/web/20071003044620/http://www.sph.com.sg/news/latest/press_060301_003.html |publisher=[[Singapore Press Holdings]] |access-date=4 September 2008 |archive-date=3 October 2007}}.</ref> She competed at the [[International Paralympic Committee]] (IPC) World Swimming Championships in South Africa in December 2006, winning a gold medal in the 200&nbsp;metres individual [[medley swimming|medley]] and being pipped to first place in the 100&nbsp;metres [[breaststroke]] by Israel's [[Inbal Pezaro]] by just 0.04&nbsp;seconds. She also achieved a personal best time of 3&nbsp;minutes 22.66&nbsp;seconds in the 200&nbsp;metres [[freestyle swimming|freestyle]].<ref name="SDSC 200612" />
+
+Goh broke the SB4 50&nbsp;metres breaststroke world record<ref>{{Cite news |last=TAN |first=YO-HINN |date=12 March 2007 |title=Dazzling Goh sets world record |edition=2nd |pages=36 |work=[[Today (Singapore newspaper)|Today]] |url=https://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20070312-2.2.51.1 |access-date=8 April 2022}}</ref> and took the top honours in the 100&nbsp;metres breaststroke, 100&nbsp;metres butterfly, 100&nbsp;freestyle and 200&nbsp;metres individual medley at the Danish Open in [[Esbjerg]], Denmark, between 9 and 11 March 2007.<ref>See the "[[#Medals|Medals]]" section below, and {{Citation |last=Ashikin Hashim |title=Breaking barriers |date=2 April 2007 |url=http://newpaper.asia1.com.sg/printfriendly/0,4139,126408,00.html |work=The Electric New Paper |access-date=5 September 2008}}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}.</ref> In August, at the Paralympic Swimming Championships in [[Osaka]], she broke competition records in the 50&nbsp;metres butterfly, 100&nbsp;metres backstroke and 200&nbsp;metres individual medley, and took a silver in the 200&nbsp;metres freestyle.<ref name="ST-Today 20070821">{{Citation |title=Singapore win seven medals in Japan |date=21 August 2007 |work=The Straits Times (Sport)}}; {{citation|title=Theresa stars|newspaper=Today|date=21 August 2007|page=36}}.</ref> 
+
+At the [[International Wheelchair and Amputee Sports Federation]] (IWAS) World Wheelchair and Amputee Games 2007 in [[Taipei]] the following month, she gained three gold, three silver and one bronze medal and attained two personal bests.<ref>{{Citation |title=Disabled athletes win 14 medals at World Games in Taipei |date=18 September 2007 |publisher=[[Channel NewsAsia]]}}; {{citation|title=S'poreans shine at world meet|newspaper=Today|date=21 September 2007|page=73}}.</ref> 
+
+Despite not training intensively for the [[4th ASEAN Para Games]] held in [[Nakhon Ratchasima]] (Korat), Thailand, between 20 and 26 January 2008, and regarding the competition as part of her training for the [[2008 Summer Paralympics]] in [[Beijing]] in September, Goh broke the record she set in May 2007 at the German International Disability Swimming Championships to win the gold in the 50&nbsp;metres breaststroke in a world and FESPIC record time of 52.62&nbsp;seconds. She also achieved golds in the 100&nbsp;metres breaststroke and 200&nbsp;metres freestyle.<ref name="2008 ASEAN ParaGames">{{Citation |last=Low Lin Fhoong |title=3 more golds |date=26 January 2008 |work=Today |page=54}}; {{citation|author=Arun Raj|title=Goh-ing for world glory: She is the toast of the town right now with her record-breaking feats|url=http://newpaper.asia1.com.sg/printfriendly/0,4139,154770,00.html|newspaper=The Electric New Paper|date=28 January 2008|access-date=5 September 2008}}{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}. See also {{citation|title=Theresa Goh rewrites 50m Breaststroke (SB4) a second time|url=http://www.sdsc.org.sg/news_and_media/media_detail/486/|archive-url=https://www.webcitation.org/5jbGbjmyB?url=http://www.sdsc.org.sg/news_and_media/media_detail/486/|archive-date=6 September 2009|publisher=Singapore Disability Sports Council|date=22 January 2008|access-date=5 September 2008}}.</ref> In April, she participated in the US Paralympics Trials in [[Minneapolis]]. She took gold medals in the 100&nbsp;metres breaststroke and the 50&nbsp;metres and 200&nbsp;metres freestyle, and achieved a FESPIC record time of 55.09&nbsp;seconds in the heats of the 50&nbsp;metres butterfly.<ref name="IPC">{{Citation |title=IPC swimming Asian region records, long course, women |date=15 September 2008 |url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/13_08_08_Fespic_records_LongC_Women.pdf |archive-url=https://www.webcitation.org/5bGrf5FiQ?url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_Asian_Region_Records_LongC_Women.pdf |publisher=International Paralympic Committee |access-date=2 October 2008 |url-status=dead |archive-date=2 October 2008}}.</ref><ref name="US Para 2008">{{Citation |title=&#91;Results of US Paralympics 2008 SIN&#93; |date=April 2008 |url=http://www.sdsc.org.sg/download/Results%20of%20US%20Paralympics%202008%20SIN.pdf |archive-url=https://web.archive.org/web/20081003190905/http://www.sdsc.org.sg/download/Results%20of%20US%20Paralympics%202008%20SIN.pdf |publisher=Singapore Disability Sports Council |access-date=5 September 2008 |url-status=dead |archive-date=3 October 2008}}.</ref> 
+
+Goh's personal best times as of September 2008 were 43.55&nbsp;seconds for the 50&nbsp;metres freestyle, 54.99&nbsp;seconds for the 50&nbsp;metres butterfly,<ref name="US Para 2008" /> 1&nbsp;minute 32.92&nbsp;seconds for the 100&nbsp;metres freestyle,<ref name="ST-Today 20080908">{{Citation |title=Goh sixth in 100m free |date=8 September 2008 |work=The Straits Times (Sport) |page=B11}}; {{citation|author=Shamir Osman|title=Goh posts two personal bests in one day|url=http://www.todayonline.com/articles/274672.asp|archive-url=https://www.webcitation.org/5bGpSDEeX?url=http://www.todayonline.com/articles/274672.asp|archive-date=2 October 2008|newspaper=Today|date=8 September 2008|page=28}}.</ref> 1&nbsp;minute 58.14&nbsp;seconds for the 100&nbsp;metres breaststroke,<ref name="US Para 2008" /> and 3&nbsp;minutes 14.22&nbsp;seconds for the 200&nbsp;metres freestyle.<ref name="ST-Today 20080910">{{Citation |title=Goh sets another national record |date=10 September 2008 |work=The Straits Times (Sport) |page=B14}}; {{citation|author=Tan Yo-Hinn|title=Tan the history-maker: She keeps her cool to win Singapore's first Paralympic medal|url=http://www.todayonline.com/articles/275052.asp|archive-url=https://www.webcitation.org/5bGpbn8vM?url=http://www.todayonline.com/articles/275052.asp|archive-date=2 October 2008|newspaper=Today|date=10 September 2008|page=32}}.</ref> As of 22 August 2008, Goh held the world record for the 50&nbsp;metres and 200&nbsp;metres breaststroke.<ref name="IPC world">{{Citation |title=IPC swimming world records, long course, women |date=15 September 2008 |url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_WR-Long_Course_Women.pdf |archive-url=https://web.archive.org/web/20081003190903/http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_WR-Long_Course_Women.pdf |publisher=International Paralympic Committee |access-date=2 October 2008 |url-status=dead |archive-date=3 October 2008}}.</ref> She was ranked second in the world for the 100&nbsp;metres breaststroke, third for the 200&nbsp;metres individual medley, sixth for the 100 and 200&nbsp;metres freestyle, seventh for the 50&nbsp;metres butterfly and eighth for the 50&nbsp;metres freestyle.<ref>{{Citation |title=IPC swimmer ranking |date=22 August 2008 |url=http://www.paralympic.org/release/Summer_Sports/Swimming/Rankings/22_08_2008_womens_LC.pdf |archive-url=https://web.archive.org/web/20081003190909/http://www.paralympic.org/release/Summer_Sports/Swimming/Rankings/22_08_2008_womens_LC.pdf |publisher=International Paralympic Committee |access-date=4 September 2008 |url-status=dead |archive-date=3 October 2008}}.</ref> Her current training schedule involves two-hour sessions at the [[Farrer Park]] Swimming Complex twice a day, except on Wednesday mornings and Sundays, which works out to about {{convert|42|km|mi}} a week.<ref name="ST 20080906" /> She also works out in the gym three times a week.<ref name="ST 20080723" />
+
+=== 2008 Summer Paralympics ===
+Goh was the flagbearer for Team Singapore at the opening ceremony of the [[2008 Summer Paralympics]] in [[Beijing]],<ref>{{Citation |last=Tan Yo-Hinn |title=Goh will carry the flag: Swimmer will lead Team Singapore out at the opening ceremony of Paralympic Games |date=6 September 2008 |url=http://www.todayonline.com/articles/274580.asp |work=Today |page=65 |archive-url=https://archive.today/20081002141300/http://www.todayonline.com/articles/274580.asp |url-status=dead |archive-date=2 October 2008}}.</ref> and competed in the 50&nbsp;metres, 100&nbsp;metres and 200&nbsp;metres freestyle, and in the 100&nbsp;metres breaststroke.<ref name="ST 20080902"/><ref>{{Citation |last=Tan Yo-Hinn |title=The swim's on her mind: Singapore's medal hope Goh not getting all excited over the Water Cube |date=4 September 2008 |url=http://www.todayonline.com/articles/274472.asp |work=Today |page=63 |archive-url=https://archive.today/20081002141541/http://www.todayonline.com/articles/274472.asp |url-status=dead |archive-date=2 October 2008}}.</ref> On the first day of competition, 7 September, she finished sixth in the 100&nbsp;metres freestyle but achieved two personal bests in the heats (1&nbsp;minute 33.20&nbsp;seconds) and finals (1&nbsp;minute 32.92&nbsp;seconds).<ref name="ST-Today 20080908" /> Two days later she narrowly missed a bronze in the 200&nbsp;metres freestyle, finishing fourth with a new personal best time and national record of 3&nbsp;minutes 14.22&nbsp;seconds. Her split time of 1&nbsp;minute 32.54&nbsp;seconds was also a new national record for the 100&nbsp;metres freestyle.<ref name="ST-Today 20080910" /><ref>{{Citation |last=Mindy Tan |title=She's totally focused: S'pore's Theresa Goh is calm as she prepares for her best event on Friday |date=11 September 2008 |url=http://newpaper.asia1.com.sg/news/story/0,4136,176231,00.html |archive-url=https://web.archive.org/web/20080912091219/http://newpaper.asia1.com.sg/news/story/0,4136,176231,00.html |publisher=The Electric New Paper |access-date=13 September 2008 |archive-date=12 September 2008 |url-status=dead}}.</ref> According to her coach, former [[Olympic Games|Olympian]] [[Ang Peng Siong]], her best chance of a medal lay in the 100&nbsp;metres breaststroke. Her personal best time for this event is 1&nbsp;minute 58.14&nbsp;seconds, which she achieved in May 2007 at the International German Championships in [[Berlin]].<ref name="TNP 20080904">{{Citation |last=Ernest Luis |title=Made in Singapore, will they make it in Beijing? |date=4 September 2008 |url=http://www.tnp.sg/sports/story/0,4136,175536,00.html |work=The Electric New Paper |archive-url=https://web.archive.org/web/20080907011333/http://www.tnp.sg/sports/story/0%2C4136%2C175536%2C00.html |access-date=5 September 2008 |archive-date=7 September 2008 |url-status=dead}}. See also {{citation |author=Ernest Luis |title=Don't count them out: If Singapore fails to bring home an Olympic medal from Beijing in August, there's still hope from the Paralympics, held there a month after |url=http://newpaper.asia1.com.sg/printfriendly/0,4139,161386,00.html |newspaper=The Electric New Paper |date=7 April 2008 |access-date=5 September 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080412043835/http://newpaper.asia1.com.sg/printfriendly/0,4139,161386,00.html |archive-date=12 April 2008  }}.</ref> However, on 12 September, despite leading in the first 50&nbsp;m with a split time of 53.26&nbsp;seconds, she eventually finished fourth in a time of 2&nbsp;minutes 1.99&nbsp;seconds. Nonetheless, she looked forward to the [[2012 Summer Paralympics]] in London, saying "In another four years, another round. In Athens, I was fifth and, now, I'm fourth. The next time, hopefully, I won't be third but higher up."<ref>{{Citation |last=Sim Chi Yin |title=Goh fails in bid for gold: She finishes fourth in 100m breaststroke final, no thanks to slow finish |date=13 September 2008 |work=The Straits Times (Sport) |page=C31}}; {{citation|author=Low Lin Fhoong|title=Agony for Goh at the Water Cube|url=http://www.todayonline.com/articles/275703.asp|archive-url=https://www.webcitation.org/5bGqGN4A9?url=http://www.todayonline.com/articles/275703.asp|archive-date=2 October 2008|newspaper=[[Today (Singapore newspaper)|Weekend Today]]|date=13 September 2008|page=48}}.</ref> Unusually, in her final event, the 50&nbsp;metres freestyle, she chose to use the breaststroke rather than the faster [[front crawl]], finishing in 53.67&nbsp;seconds and thus failing to qualify for the final. She said she did so to gain "mental closure" after having missed the bronze in the 100&nbsp;metres breaststroke.<ref>{{Citation |last=Sim Chi Yin |title=Goh gains closure in final race |date=16 September 2008 |work=The Straits Times (Sport) |page=B12}}.</ref>
+
+=== 2016 Summer Paralympics ===
+In the [[2016 Summer Paralympics]], Goh won a bronze medal in the SB4 100m breaststroke final, with a time of 1 minute and 55.55 seconds. It was her first medal since her Paralympic debut in 2004.<ref name="16Para100mbreastFinals">{{Cite news |title=Paralympics: Singapore's Theresa Goh wins bronze in 100m breaststroke SB4 final |url=https://www.channelnewsasia.com/news/sport/paralympics-singapore-s-theresa-goh-wins-bronze-in-100m/3119242.html |url-status=dead |archive-url=https://web.archive.org/web/20160915113114/https://www.channelnewsasia.com/news/sport/paralympics-singapore-s-theresa-goh-wins-bronze-in-100m/3119242.html |archive-date=15 September 2016}}</ref> While qualifying for the finals, she set a new Asian record in the heats at 1 minute and 54.50 seconds.<ref name="16Para100mbreastHeats">{{Cite web |title=Theresa Goh sets new Asian mark en route to reaching breaststroke final |url=https://www.todayonline.com/sports/theresa-goh-sets-new-asian-mark-en-route-reaching-breaststroke-final |website=TODAYonline}}</ref>
+
+== Career ==
+As of January 2008, Goh was employed by [[Standard Chartered Bank]] as a marketing services officer while on their Programme for Elite Athletes. She hopes to continue swimming full-time and to become a swimming coach.<ref name="2008 ASEAN ParaGames" />
+
+==Medals==
+{| class=wikitable width=100%
+|- valign=top
+!width=20%|Time<br/>([[minute|min]] : [[second|s]])
+!width=10%|Medal
+!width=35%|Date
+!width=35%|Competition
+|-
+|colspan=4 bgcolor=silver|'''50&nbsp;m backstroke (''S5'')'''
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|-
+|colspan=4 bgcolor=silver|'''100&nbsp;m backstroke (''S5'')'''
+|- valign=top
+|align=center|1:58.30<ref name="ST-Today 20070821"/><br/>(competition record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|August 2007
+|Paralympic Swimming Championships<br/>[[Osaka]], Japan
+|-
+|colspan=4 bgcolor=silver|'''50&nbsp;m breaststroke (SB4)'''
+|- valign=top
+|align=center|0:52.62<ref name="2008 ASEAN ParaGames"/><ref name=IPC/><ref name="IPC world"/><br/>(world and FESPIC record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|21 January 2008
+|[[4th ASEAN Para Games]]<br/>[[Nakhon Ratchasima]] (Korat), Thailand
+|- valign=top
+|align=center|0:52.94<ref>{{citation|author=Patwant Singh|title=Disabled swimmer Theresa Goh rewrites two world records in Europe|url=http://www.channelnewsasia.com/stories/singaporelocalnews/view/279088/1/.html|publisher=[[Channel NewsAsia]]|date=29 May 2007|access-date=4 September 2008|archive-date=20 July 2008|archive-url=https://web.archive.org/web/20080720163215/http://www.channelnewsasia.com/stories/singaporelocalnews/view/279088/1/.html|url-status=dead}}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|24–27 May 2007
+|21st International German Disability Swimming Championships<br/>[[Berlin]], Germany
+|- valign=top
+|align=center|0:53.90<ref>{{citation|title=Event-No. I21: 50m Breaststroke Women – Final|url=http://www.swim.dhif.dk/danishopen/2007/result/ri.pdf|archive-url=https://web.archive.org/web/20081031013228/http://www.swim.dhif.dk/danishopen/2007/result/ri.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=March 2007|access-date=5 September 2008}}.</ref>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|9–11 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|- valign=top
+|align=center|0:54.24<ref>{{citation|title=National swimming results|url=http://www.news24.com/News24/Sport/More_Sport/0,,2-9-32_1921488,00.html|archive-url=https://archive.today/20240524113902/https://www.webcitation.org/5jbHd6Tqx?url=http://www.news24.com/Content/xArchive/Sport/MoreSport/1085/a69e8f489eb3421d8caa6c55545c5dea/23-04-2006-08-32/National_swimming_results|archive-date=24 May 2024|url-status=dead|publisher=[[News24 (website)|News24]]|date=23 April 2006|access-date=4 September 2008}}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|April 2006
+|Telkom South African National Swimming Championships<br/>[[Durban]], South Africa
+|-
+|colspan=4 bgcolor=silver|'''100&nbsp;m breaststroke (SB4)'''
+|- valign=top
+|align=center|1:55.55<ref name=16Para100mbreastFinals/><br/>(finals)<br/>1:54.50<ref name=16Para100mbreastHeats/><br/>(heats, Asian record)
+|align=center bgcolor=#CD7F32|[[Bronze medal|Bronze]]
+|align=center|7–18 September 2016
+|[[2016 Summer Paralympics]]<br/>[[Rio de Janeiro]], Brazil
+|- valign=top
+|align=center|1:58.14<ref name="TNP 20080904"/><br/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|24–27 May 2007
+|21st International German Disability Swimming Championships<br/>[[Berlin]], Germany
+|- valign=top
+|align=center|1:59.31<ref name="SDSC 200612"/>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|4 December 2006
+|[[International Paralympic Committee]] (IPC) World Swimming Championships<br/>[[South Africa]]
+|- valign=top
+|align=center|2:01.66<ref name="US Para 2008"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|April 2008
+|US Paralympic Trials<br/>[[Minneapolis]], Minnesota, United States
+|- valign=top
+|align=center|2:02.49<ref>{{citation|title=Final Womens SB4 100m Breaststroke|url=http://www.btparalympicworldcup.com/2005/results/swimming/swimming_results_05.php|archive-url=https://web.archive.org/web/20110708102530/http://www.btparalympicworldcup.com/2005/results/swimming/swimming_results_05.php|archive-date=8 July 2011|url-status=dead|publisher=[[BT Paralympic World Cup]]|year=2005|access-date=4 September 2008}}.</ref>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|2005
+|[[VISA Paralympic World Cup]]<br/>[[Manchester]], England, United Kingdom
+|- valign=top
+|align=center|2:06.12<ref>{{citation|title=Event-No. 7: 100m Breaststroke Women|url=http://www.swim.dhif.dk/danishopen/2007/result/r7.pdf|archive-url=https://web.archive.org/web/20081031013236/http://www.swim.dhif.dk/danishopen/2007/result/r7.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=9 March 2007|access-date=5 September 2008}}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|9 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|- valign=top
+|align=center|2:08.96<ref>{{citation|title=Van Biljon rounds off a successful season |url=http://www.int.iol.co.za/index.php?set_id=6&click_id=3020&art_id=qw1145483282274S163 |archive-url=https://archive.today/20090907024716/http://www.int.iol.co.za/index.php?set_id=6&click_id=3020&art_id=qw1145483282274S163 |archive-date= 7 September 2009 |publisher=[[Independent Online (South Africa)|Independent Online]] |date=20 April 2006 |access-date=6 September 2008 |url-status=dead }}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|April 2006
+|Telkom South African National Swimming Championships<br/>[[Durban]], South Africa
+|- valign=top
+|align=center|2:16.19<ref>{{cite news|title=Theresa Goh wins S'pore first medal at the Asian Para Games|url=http://news.asiaone.com/news/singapore/theresa-goh-wins-spore-first-medal-asian-para-games|access-date=20 October 2014|agency=AsiaOne|publisher=Singapore Press Holdings|date=19 October 2014|archive-date=27 October 2014|archive-url=https://web.archive.org/web/20141027171747/http://news.asiaone.com/news/singapore/theresa-goh-wins-spore-first-medal-asian-para-games|url-status=dead}}</ref><br/>
+|align=center bgcolor=#CD7F32|[[Bronze medal|Bronze]]
+|align=center|18-24 October 2014
+|[[2014 Asian Para Games]]<br/>[[Incheon]], South Korea
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair and Amputee Games|International Stoke Mandeville Wheelchair Sports Federation (ISMWSF) World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|-
+|colspan=4 bgcolor=silver|'''200&nbsp;m breaststroke (SB4)'''
+|- valign=top
+|align=center|4:17.38<ref name=IPC/><ref name="IPC world"/><br/>(world and FESPIC record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|27 May 2007
+|21st International German Disability Swimming Championships<br/>[[Berlin]], Germany
+|- valign=top
+|align=center|4:30.67<ref>{{citation|title=Paralympic Championships |url=http://www.usaswimming.org/USASWeb/ViewNewsArticle.aspx?TabId=0&Alias=Rainbow&Lang=en&ItemId=1207&mid=45 |archive-url=https://web.archive.org/web/20070213042909/http://www.usaswimming.org/USASWeb/ViewNewsArticle.aspx?TabId=0&Alias=Rainbow&Lang=en&ItemId=1207&mid=45 |archive-date= 13 February 2007 |publisher=USA Swimming |date=14 August 2006 |access-date=4 September 2008 |url-status=dead }}.</ref><br/>(world record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|12 August 2006
+|US Paralympics Swimming National Championships<br/>[[San Antonio]], Texas, United States
+|-
+|colspan=4 bgcolor=silver|'''50&nbsp;m butterfly (S5)'''
+|- valign=top
+|align=center|0:56.62<ref name="ST-Today 20070821"/><br/>(competition record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|August 2007
+|Paralympic Swimming Championships<br/>[[Osaka]], Japan
+|- valign=top
+|align=center|0:56.80<ref name="TS 20051219"/><br/>(competition record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|16 December 2005
+|[[3rd ASEAN Para Games]]<br/>[[Manila]], Philippines
+|- valign=top
+|align=center|1:00.42<ref>{{citation|title=Event-No. 13: 50m Butterfly Women|url=http://www.swim.dhif.dk/danishopen/2007/result/r13.pdf|archive-url=https://web.archive.org/web/20081031013233/http://www.swim.dhif.dk/danishopen/2007/result/r13.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=9 March 2007|access-date=5 September 2008}}.</ref>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|9 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|-
+|colspan=4 bgcolor=silver|'''100&nbsp;m butterfly (S5)'''
+|- valign=top
+|align=center|2:08.16<ref name="TS 20051219"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|18 December 2005
+|[[3rd ASEAN Para Games]]<br/>[[Manila]], Philippines
+|- valign=top
+|align=center|2:10.10<ref name=IPC/><ref>{{citation|title=Event-No. 23: 100m Butterfly Women|url=http://www.swim.dhif.dk/danishopen/2007/result/r23.pdf|archive-url=https://web.archive.org/web/20081031013242/http://www.swim.dhif.dk/danishopen/2007/result/r23.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=9 March 2007|access-date=5 September 2008}}.</ref><br/>(FESPIC record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|11 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|-
+|colspan=4 bgcolor=silver|'''50&nbsp;m freestyle (S5)'''
+|- valign=top
+|align=center|0:44.97<ref>{{citation|title=Paralympians put on show in San Antonio |url=http://www.swimmingworldmagazine.com/lane9/news/11826.asp?q=Paralympians%20Put%20on%20Show%20in%20San%20Antonio |archive-url=https://web.archive.org/web/20120213175136/http://www.swimmingworldmagazine.com/lane9/news/11826.asp?q=Paralympians%20Put%20on%20Show%20in%20San%20Antonio |archive-date= 13 February 2012 |publisher=USA Swimming |magazine=[[Swimming World Magazine]] |date=13 August 2006 |access-date=4 September 2008 |url-status=dead }}.</ref><br/>(competition record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|11 August 2006
+|US Paralympics Swimming National Championships<br/>[[San Antonio]], Texas, United States
+|- valign=top
+|align=center|0:45.42<ref name="US Para 2008"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|April 2008
+|US Paralympic Trials<br/>[[Minneapolis]], Minnesota, United States
+|- valign=top
+|align=center|0:46.80<ref>{{cite web|title=Para-swimmer wins first silver for Singapore at Asian Para Games 2014|url=http://www.theonlinecitizen.com/2014/10/para-swimmer-wins-first-silver-for-singapore-at-asian-para-games-2014/|website=The Online Citizen|access-date=22 October 2014|archive-date=25 October 2014|archive-url=https://web.archive.org/web/20141025003020/http://www.theonlinecitizen.com/2014/10/para-swimmer-wins-first-silver-for-singapore-at-asian-para-games-2014/|url-status=dead}}</ref>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|18-24 October 2014
+|[[2014 Asian Para Games]]<br/>[[Incheon]], South Korea
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|-
+|colspan=4 bgcolor=silver|'''100&nbsp;m freestyle (S5)'''
+|- valign=top
+|align=center|1:33.62<ref name=IPC/><br/>(FESPIC record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|27 November 2006
+|[[International Paralympic Committee]] (IPC) World Swimming Championships<br/>[[Kuala Lumpur]], Malaysia
+|- valign=top
+|align=center|1:34.62<ref name="TS 20051219"/><br/>(competition record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|15 December 2005
+|[[3rd ASEAN Para Games]]<br/>[[Manila]], Philippines
+|- valign=top
+|align=center|1:36.51<ref>{{citation|title=Event-No. 1: 100m Freestyle Women|url=http://www.swim.dhif.dk/danishopen/2007/result/r1.pdf|archive-url=https://web.archive.org/web/20081031013239/http://www.swim.dhif.dk/danishopen/2007/result/r1.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=9 March 2007|access-date=5 September 2008}}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|9 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|- valign=top
+|align=center|1:59.26<ref name="US Para 2008"/>
+|align=center bgcolor=#CD7F32|[[Bronze medal|Bronze]]
+|align=center|April 2008
+|US Paralympic Trials<br/>[[Minneapolis]], Minnesota, United States
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|-
+|colspan=4 bgcolor=silver|'''200&nbsp;m freestyle (S5)'''
+|- valign=top
+|align=center|3:22.50<ref name="2008 ASEAN ParaGames"/><ref name=IPC/><br/>(FESPIC record)
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|28 November 2006
+|[[International Paralympic Committee]] (IPC) World Swimming Championships<br/>[[Kuala Lumpur]], Malaysia
+|- valign=top
+|align=center|3:24.20<ref name=IPC/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|22 January 2008
+|[[4th ASEAN Para Games]]<br/>[[Nakhon Ratchasima]] (Korat), Thailand
+|- valign=top
+|align=center|3:30.11<ref name="US Para 2008"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|April 2008
+|US Paralympic Trials<br/>[[Minneapolis]], Minnesota, United States
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="ST-Today 20070821"/>
+|align=center bgcolor=silver|[[Silver medal|Silver]]
+|align=center|August 2007
+|Paralympic Swimming Championships<br/>[[Osaka]], Japan
+|-
+|colspan=4 bgcolor=silver|'''200&nbsp;m individual medley (SM5)'''
+|- valign=top
+|align=center|4:01.03<ref name="ST-Today 20070821"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|August 2007
+|Paralympic Swimming Championships<br/>[[Osaka]], Japan
+|- valign=top
+|align=center|4:06.39<ref name="SDSC 200612"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2 December 2006
+|[[International Paralympic Committee]] (IPC) World Swimming Championships<br/>[[South Africa]]
+|- valign=top
+|align=center|4:13.66<ref>{{citation|title=Event-No. 5: 200m Individual Medley Women|url=http://www.swim.dhif.dk/danishopen/2007/result/r5.pdf|archive-url=https://web.archive.org/web/20081031013230/http://www.swim.dhif.dk/danishopen/2007/result/r5.pdf|archive-date=31 October 2008|url-status=dead|publisher=Dansk Handicap Idræts-Forbund|date=9 March 2007|access-date=5 September 2008}}.</ref>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|9 March 2007
+|Danish Open<br/>[[Esbjerg]], Denmark
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SDSC 20031212"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2003
+|[[World Wheelchair Games]]<br/>[[Christchurch]], New Zealand
+|- valign=top
+|align=center|[''Currently unknown'']<ref name="SYA 2005"/>
+|align=center bgcolor=gold|[[Gold medal|Gold]]
+|align=center|2004
+|British Paralympic Trials
+|}
+
+== Honours ==
+Goh was the SDSC's Sportswoman of the Year from 2004 to 2006.<ref name="Today 20080903">{{Citation|last=Tan Yo-Hinn|title=Singapore's Paralympians settle in well at Games Village|date=3 September 2008|url=http://www.todayonline.com/articles/274407.asp|work=[[Today (Singapore newspaper)|Today]]|page=30|archive-url=https://archive.today/20081002133619/http://www.todayonline.com/articles/274407.asp|url-status=dead|archive-date=2 October 2008}}.</ref>
+
+Goh was one of three people given the Youth Inspiration Award at the Stars of SHINE Award 2008 organized by the [[National Youth Council of Singapore]] and the [[Ministry of Community Development, Youth and Sports]] to recognize outstanding young people who have overcome personal difficulties and contributed to the community,<ref>{{Citation|last=Hedy Khoo|title=Good things come in threes|date=4 August 2008|url=http://newpaper.asia1.com.sg/printfriendly/0,4139,172337,00.html|work=The Electric New Paper|archive-url=https://web.archive.org/web/20080926052842/http://newpaper.asia1.com.sg/printfriendly/0,4139,172337,00.html|access-date=4 September 2008|archive-date=26 September 2008|url-status=dead}}.</ref> and on 27 February 2008 received a special award at the SDSC's Sports Superstar Awards 2007 for outstanding achievements in swimming.<ref>{{Citation|title=13 athletes honoured|date=28 February 2008|work=The Straits Times}}.</ref> 
+
+In August 2008, Goh was conferred the ''[[Pingat Bakti Masyarakat]]'' (Public Service Medal) in the National Day Awards.<ref>{{Citation|title=The Public Service Medal: Ministry of Community Development, Youth and Sports|date=14 August 2008|url=http://www.pmo.gov.sg/NationalHonoursandAwards/2008/ThePublicServiceMedal/Page3|archive-url=https://web.archive.org/web/20080815222032/http://www.pmo.gov.sg/NationalHonoursandAwards/2008/ThePublicServiceMedal/Page3 <!--Added by H3llBot-->|publisher=[[Prime Minister's Office (Singapore)|Prime Minister's Office]]|access-date=5 September 2008|archive-date=15 August 2008}}.</ref>
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+<!--Please arrange alphabetically by the author's surname, or by title if there is no author.-->
+
+*{{citation|title=Athlete biography: Rui Si Theresa GOH – Singapore &#91;SIN&#93; |url=http://m2002.thecgf.com/results/default.asp?ath=2597 |archive-url=https://web.archive.org/web/20110723001047/http://m2002.thecgf.com/results/default.asp?ath=2597 |archive-date= 23 July 2011 |publisher=[[2002 Commonwealth Games|2002 Manchester: The XVII Commonwealth Games]] |year=2002 |access-date=5 September 2008 |url-status=dead }}.
+*{{citation|last=Cheong|first=June|title='I want to own a car and a place of my own'|url=http://www.asiaone.com/Just%2BWoman/News/Women%2BIn%2BThe%2BNews/Story/A1Story20080723-78269.html|newspaper=The Straits Times (Mind Your Body) (reproduced on [[AsiaOne]])|date=23 July 2008|access-date=4 September 2008|url-status=dead|archive-url=https://web.archive.org/web/20080814190729/http://www.asiaone.com/Just+Woman/News/Women+In+The+News/Story/A1Story20080723-78269.html|archive-date=14 August 2008}}.
+*{{citation|title=IPC swimming FESPIC records, long course, women|url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/13_08_08_Fespic_records_LongC_Women.pdf|archive-url=https://www.webcitation.org/5bGrf5FiQ?url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_Asian_Region_Records_LongC_Women.pdf|archive-date=2 October 2008|url-status=dead|publisher=[[International Paralympic Committee]]|date=13 August 2008|access-date=4 September 2008}}.
+*{{citation|title=IPC swimming world records, long course, women|url=http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_WR-Long_Course_Women.pdf|archive-url=https://web.archive.org/web/20081003190903/http://www.paralympic.org/release/Summer_Sports/Swimming/Records/15_09_08_WR-Long_Course_Women.pdf|archive-date=3 October 2008|url-status=dead|publisher=International Paralympic Committee|date=15 September 2008|access-date=2 October 2008}}.
+*{{citation|title=Singapore Youth Awards 2005: Sports and adventure (individual): Ms Theresa Goh Rui Si|url=http://www.sya.sg/awardees2000s/SYA2005/2005_Sports%20&%20Adventure_Theresa%20Goh.pdf|archive-url=https://web.archive.org/web/20081003190903/http://www.sya.sg/awardees2000s/SYA2005/2005_Sports%20&%20Adventure_Theresa%20Goh.pdf|archive-date=3 October 2008|url-status=dead|publisher=[[National Youth Council of Singapore|National Youth Council]]|year=2005|access-date=4 September 2008}}.
+*{{citation|title=Sports Award Night 2003|url=http://www.sdsc.org.sg/news_and_media/media_detail/153/|archive-url=https://web.archive.org/web/20081201132703/http://www.sdsc.org.sg/news_and_media/media_detail/153/|archive-date=1 December 2008|url-status=dead|publisher=Singapore Disability Sports Association|date=12 December 2003|access-date=5 September 2008}}.
+
+==Further reading==
+*{{citation|title=Profile: (Ms) Theresa Goh Rui Si, 21 years old, (spina bifida), national swimmer|url=http://www.mcdonalds.com.sg/mck/Theresa_Goh(2008).pdf|archive-url=https://web.archive.org/web/20081031013228/http://www.mcdonalds.com.sg/mck/Theresa_Goh(2008).pdf|archive-date=31 October 2008|publisher=[[McDonald's|McDonald's Champion Kids]]|year=2008|access-date=5 September 2008|url-status=dead}}.
+*{{citation|author=Zhen-Kuang|title=Disability? It's just a tiny hurdle|url=http://www.youth.sg/content/view/5826/63/|archive-url=https://web.archive.org/web/20100301230754/http://www.youth.sg/content/view/5826/63/|archive-date=1 March 2010|url-status=dead|publisher=Youth.SG, Youth Division, [[Ministry of Community Development, Youth and Sports]]|date=14 August 2008|access-date=5 September 2008}}.
+
+==External links==
+*[http://www.paralympic.org Official website of the International Paralympic Committee]
+*[http://www.snoc.org.sg Official website of the Singapore National Olympic Council]
+*[http://www.sdsc.org.sg Official website of the Singapore Disability Sports Council]
+*[http://www.teamsingapore.com.sg Official website of Team Singapore, managed by the Singapore Sports Council]
+
+{{DEFAULTSORT:Goh, Theresa}}
+[[Category:1987 births]]
+[[Category:Living people]]
+[[Category:Paralympic swimmers for Singapore]]
+[[Category:World record holders in paralympic swimming]]
+[[Category:Temasek Polytechnic alumni]]
+[[Category:Singaporean people of Chinese descent]]
+[[Category:Sportspeople of Chinese descent]]
+[[Category:People with spina bifida]]
+[[Category:Swimmers at the 2016 Summer Paralympics]]
+[[Category:Medalists at the 2016 Summer Paralympics]]
+[[Category:Paralympic bronze medalists for Singapore]]
+[[Category:Recipients of the Pingat Bakti Masyarakat]]
+[[Category:Recipients of the Bintang Bakti Masyarakat]]
+[[Category:Singaporean LGBTQ sportspeople]]
+[[Category:21st-century Singaporean LGBTQ people]]
+[[Category:21st-century Singaporean sportswomen]]
+[[Category:LGBTQ swimmers]]
+[[Category:Paralympic medalists in swimming]]
+[[Category:FESPIC Games competitors]]
+[[Category:Singaporean female freestyle swimmers]]
+[[Category:Singaporean female backstroke swimmers]]
+[[Category:Singaporean female breaststroke swimmers]]
+[[Category:Singaporean female butterfly swimmers]]
+[[Category:Singaporean female medley swimmers]]
+[[Category:S5-classified para swimmers]]
+[[Category:Medalists at the 2017 ASEAN Para Games]]
+[[Category:Medalists at the 2015 ASEAN Para Games]]
