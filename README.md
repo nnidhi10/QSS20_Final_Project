@@ -70,8 +70,8 @@ Market data sources used at runtime:
 - Yahoo Finance (`yfinance`) for prices/volume
 - Ken French / Fama–French factors via `pandas_datareader`
 
-Key design choice:
-- If a medal date falls on a non-trading day, it is **shifted to the next NYSE trading day** (using `pandas_market_calendars`).
+Design choice:
+- If a medal date falls on a non-trading day, it is shifted to the next NYSE trading day (using `pandas_market_calendars`).
 
 Tickers used (defaults):
 - Broad market: `SPY`
@@ -112,9 +112,9 @@ Exports to `results/`:
 **Goal:** generate a small number of figures directly from `results/*.csv`.
 
 Design choices:
-- show values in **percent / basis points**
+- show values in percent / basis points
 - symmetric axes around 0
-- prefer **error bars (≈95% CI)** when possible
+- prefer error bars (≈95% CI) when possible
 - reduce the number of plots to those that answer the main questions quickly
 
 ---
@@ -140,7 +140,7 @@ These notebooks use (at minimum):
 - scipy
 - matplotlib
 
-Note: Notebooks 2 and 3 use **online data sources** (Yahoo Finance + Ken French factors). If your environment blocks internet access, you will need to download those datasets manually and point the notebooks to local files.
+Note: Notebooks 2 and 3 use online data sources (Yahoo Finance + Ken French factors).
 
 ---
 
