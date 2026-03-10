@@ -1,0 +1,55 @@
+{{Short description|Austrian cross-country skier (born 1994)}}
+{{Expand German|topic=bio|date=June 2025}}
+{{Use dmy dates|date=June 2025}}
+{{Infobox skier
+| name              = Martin Fritz
+| image             = 20190227_Seefeld_NK_5859.jpg
+| caption           = Fritz in 2019
+| birth_date        = {{birth date and age|1994|10|24|df=y}}<ref name="Beijing 2022" />
+| birth_place       = [[Murau]], Austria<ref name="Beijing 2022" />
+| nationality       = {{AUT}}
+| height            = 
+| club              = WSV Murau-Steiermark
+| seasons           = 11 – ([[2013–14 FIS Cross-Country World Cup|2014]]–present)
+| wins              = 0
+| totalpodiums      = 1
+| teamwins          = 
+| teampodiums       = 0
+| individual_starts = 143
+| team_starts       = 
+| wcoveralls        = 0 – (''12th in [[2019–20 FIS Cross-Country World Cup|2020]]'')
+| wctitles          = 0
+| updated           = 11 February 2024
+| medaltemplates    = 
+{{Medal|Sport|Men's [[nordic combined]]}}
+{{Medal|Country|{{AUT}}}}
+{{Medal|Competition|[[FIS Nordic World Ski Championships|World Championships]]}}
+{{Medal|Silver|[[FIS Nordic World Ski Championships 2025|2025 Trondheim]]|[[FIS Nordic World Ski Championships 2025 – Team large hill/4 × 5 km|Team LH]]}}
+{{Medal|Bronze|[[FIS Nordic World Ski Championships 2023|2023 Planica]]|[[FIS Nordic World Ski Championships 2023 – Team large hill/4 × 5 km|Team LH]]}}
+}}
+
+'''Martin Fritz''' (born 24 October 1994) is an Austrian [[nordic combined]] skier.<ref name=fis>{{cite web |url=https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=149550 |title=Martin Fritz |website=FIS-ski.com |access-date=4 December 2023 |archive-date=1 April 2023 |archive-url=https://web.archive.org/web/20230401205935/https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=NK&competitorid=149550 |url-status=live}}</ref> He won a bronze medal in the [[FIS Nordic World Ski Championships 2023 – Team large hill/4 × 5 km|Team LH]] event at the [[FIS Nordic World Ski Championships 2023]] and competed in the [[Nordic combined at the 2022 Winter Olympics – Individual normal hill/10 km|individual normal hill]] and [[Nordic combined at the 2022 Winter Olympics – Team large hill/4 × 5 km|team LH]] events at the [[2022 Winter Olympics]].<ref>{{cite web |url=https://data.fis-ski.com/pdf/2023/NK/4162/2023NK4162ROF.pdf |title=Final results: Nordic Combined - Men Team Gundersen LH/4x5.0km |website=FIS-ski.com |date=1 March 2023 |access-date=1 March 2023}}</ref><ref>{{Cite web |url=https://data.fis-ski.com/pdf/2022/NK/4251/2022NK4251RL.pdf |title=Ski jumping results: Nordic Combined - Individual Gundersen Normal Hill/10km - Ski Jumping Competition Round |website=FIS-ski.com |date=9 February 2022 |access-date=5 December 2023 |archive-date=28 March 2022 |archive-url=https://web.archive.org/web/20220328063526/https://medias2.fis-ski.com/pdf/2022/NK/4251/2022NK4251RL.pdf |url-status=live}}</ref><ref>{{Cite web |url=https://data.fis-ski.com/pdf/2022/NK/4255/2022NK4255RL.pdf |title=Ski jumping results: Nordic Combined - Team Gundersen Large Hill/4x5km - Ski Jumping Competition Round |website=FIS-ski.com |date=17 February 2022 |access-date=21 May 2023 |archive-date=28 March 2022 |archive-url=https://web.archive.org/web/20220328063514/https://medias3.fis-ski.com/pdf/2022/NK/4255/2022NK4255RL.pdf |url-status=live}}</ref><ref name="Beijing 2022">{{cite web |url=https://olympics.com/beijing-2022/olympic-games/en/results/nordic-combined/athlete-profile-n1005616-martin-fritz.htm |title=Martin FRITZ |work=[[Beijing 2022 Olympics]] |archive-url=https://web.archive.org/web/20220319075620/https://olympics.com/beijing-2022/olympic-games/en/results/nordic-combined/athlete-profile-n1005616-martin-fritz.htm |archive-date=19 March 2022  |url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FIS Nordic combined skier}}
+* {{Olympics.com}}
+* {{Olympedia}}
+* {{InterSportStats}}
+* {{Team Austria|martin-fritz/2863}}
+* {{Official website|https://martinfritz.at/}} {{in lang|de}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fritz, Martin}}
+[[Category:1994 births]]
+[[Category:Living people]]
+[[Category:Austrian male Nordic combined skiers]]
+[[Category:FIS Nordic World Ski Championships medalists in Nordic combined]]
+[[Category:Olympic Nordic combined skiers for Austria]]
+[[Category:Nordic combined skiers at the 2022 Winter Olympics]]
+[[Category:21st-century Austrian sportsmen]]
+
+{{Austria-crosscountry-skiing-bio-stub}}

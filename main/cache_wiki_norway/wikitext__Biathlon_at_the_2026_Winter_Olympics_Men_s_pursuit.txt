@@ -1,0 +1,162 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event       = Men's pursuit
+|games       = 2026 Winter
+|image       = [[File:Biathlon pictogram.svg|100px|class=skin-invert]]
+|caption     = [[Biathlon]]
+|venue       = [[South Tyrol Arena|Anterselva Biathlon Arena]]
+|date        = 15 February 2026
+|competitors = 60
+|nations     = 24
+|win_value   = 31:11.9
+|gold        = [[Martin Ponsiluoma]]
+|goldNOC     = SWE
+|silver      = [[Sturla Holm Lægreid]]
+|silverNOC   = NOR
+|bronze      = [[Émilien Jacquelin]]
+|bronzeNOC   = FRA
+|prev        = [[Biathlon at the 2022 Winter Olympics – Men's pursuit|2022]]
+|next        = [[Biathlon at the 2030 Winter Olympics – Men's pursuit|2030]]
+}}
+{{Biathlon at the 2026 Winter Olympics}}
+The '''men's pursuit''' competition of the [[Biathlon at the 2026 Winter Olympics|2026 Winter Olympics]] was held on 15 February,<!-- 2026--> at the [[South Tyrol Arena|Anterselva Biathlon Arena]] in [[Rasen-Antholz]].<ref name="schedule">{{cite web|url=https://www.biathlonworld.com/calendar?SeasonId=2526&CupLevel=1&EventId=BT2526SWRLOG__|title=2026 Olympic Games – Antholz-Anterselva|publisher=[[International Biathlon Union|IBU]]|access-date=13 February 2026}}</ref> [[Martin Ponsiluoma]] of Sweden won the event, his first Olympic gold. [[Sturla Holm Lægreid]] of Norway won the silver medal, and [[Émilien Jacquelin]] of France won bronze, his first individual Olympic medal.<ref>{{cite web|url=https://www.espn.co.uk/olympics/story/_/id/47936484/sweden-martin-ponsiluoma-wins-olympic-gold-pursuit-biathlon|title=Sweden's Martin Ponsiluoma wins Olympic gold in pursuit biathlon|publisher=ESPN|accessdate=27 February 2026}}</ref><ref>{{cite web|url=https://apnews.com/article/biathlon-olympics-pursuit-a2932229ef38d8c32bcf8aa8f5f251dc|title=Martin Ponsiluoma secures Olympic gold for Sweden in pursuit biathlon race|publisher=APNews|accessdate=27 February 2026}}</ref>
+
+==Background==
+The pursuit is contingent on the results of the sprint held two days earlier. [[Quentin Fillon Maillet]], the winner of the sprint, and also the defending champion in pursuit, started first, followed by the silver medalist [[Vetle Sjåstad Christiansen]] in 14 seconds and [[Sturla Holm Lægreid]] (3rd) and [[Émilien Jacquelin]] (4th) in 16 seconds. The 2022 silver medalist [[Tarjei Bø]] retired from competitions, and the bronze medalist [[Eduard Latypov]] was banned from participation because of the Russian invasion of Ukraine. Prior to the Olympics, [[Éric Perrot]] was leading the total as well as the pursuit standings of the [[2025–26 Biathlon World Cup]]. The [[Biathlon World Championships 2025 – Men's pursuit|2025 World champion]] was [[Johannes Thingnes Bø]], he retired from competitions in the meanwhile.
+
+==Qualification==
+{{main| Biathlon at the 2026 Winter Olympics – Qualification}}
+
+==Results==
+The race was started at 11:15.<ref name="schedule"/><ref>{{Cite web|url=https://ibu.blob.core.windows.net/docs/2526/BT/SWRL/OG__/SMPU/C73D_v1.pdf|title=Biathlon – Men's 12.5km Pursuit – Results|website=ibu.blob.core.windows.net|date=15 February 2026|access-date=15 February 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Start !! Time !! Penalties (P+P+S+S) !! Deficit
+|-
+| {{gold1}} || 7 || align=left|{{sortname|Martin|Ponsiluoma}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 0:47 || 31:11.9 || 1 (0+1+0+0) ||
+|-
+| {{silver2}} || 3 || align=left|{{sortname|Sturla Holm|Lægreid}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 0:16 || 31:32.5 || 2 (1+0+1+0) || {{sort|+0:20.6|+20.6}}
+|-
+| {{bronze3}} || 4 || align=left|{{sortname|Émilien|Jacquelin}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 0:16 || 31:41.6 || 3 (1+0+0+2) || {{sort|+0:29.7|+29.7}}
+|-
+| 4 || 9 || align=left|{{sortname|Éric|Perrot}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 1:02 || 31:51.4 || 1 (0+0+0+1) || {{sort|+0:39.5|+39.5}}
+|-
+| 5 || 2 || align=left|{{sortname|Vetle Sjåstad|Christiansen}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 0:14 || 31:56.7 || 3 (1+0+1+1) || {{sort|+0:44.8|+44.8}}
+|-
+| 6 || 6 || align=left|{{sortname|Johannes|Dale-Skjevdal}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 0:43 || 32:18.5 || 3 (1+0+1+1) || +1:06.6
+|-
+| 7 || 1 || align=left|{{sortname|Quentin|Fillon Maillet}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 0:00 || 32:25.4 || 5 (1+2+0+2) || +1:13.5
+|-
+| 8 || 12 || align=left|{{sortname|Campbell|Wright}} || align=left|{{FlagIOC|USA|2026 Winter}} || 1:10 || 32:25.4 || 3 (2+0+1+0) || +1:13.5
+|-
+| 9 || 22 || align=left|{{sortname|Tommaso|Giacomel}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 1:43 || 32:27.1 || 2 (1+1+0+0) || +1:15.2
+|-
+| 10 || 8 || align=left|{{sortname|Johan-Olav|Botn}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 0:58 || 32:46.9 || 3 (0+2+1+0) || +1:35.0
+|-
+| 11 || 10 || align=left|{{sortname|Philipp|Horn}} || align=left|{{FlagIOC|GER|2026 Winter}} || 1:09 || 33:22.7 || 3 (0+0+2+1) || +2:10.8
+|-
+| 12 || 5 || align=left|{{sortname|Sebastian|Samuelsson}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 0:25 || 33:34.6 || 5 (1+0+1+3) || +2:22.7
+|-
+| 13 || 13 || align=left|{{sortname|Lukas|Hofer}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 1:22 || 33:39.8 || 3 (0+1+1+1) || +2:27.9
+|-
+| 14 || 25 || align=left|{{sortname|Jakov|Fak}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 1:52 || 33:47.5 || 1 (0+1+0+0) || +2:35.6
+|-
+| 15 || 18 || align=left|{{sortname|Tero|Seppälä}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 1:41 || 33:48.5 || 4 (1+0+2+1) || +2:36.6
+|-
+| 16 || 24 || align=left|{{sortname|Vitalii|Mandzyn}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 1:47 || 33:56.0 || 3 (1+1+1+0) || +2:44.1
+|-
+| 17 || 11 || align=left|{{sortname|Olli|Hiidensalo}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 1:09 || 34:00.3 || 4 (1+0+2+1) || +2:48.4
+|-
+| 18 || 28 || align=left|{{sortname|Michal|Krčmář}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 1:57 || 34:02.7 || 2 (1+0+0+1) || +2:50.8
+|-
+| 19 || 20 || align=left|{{sortname|Vítězslav|Hornig}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 1:42 || 34:07.7 || 3 (1+0+0+2) || +2:55.8
+|-
+| 20 || 27 || align=left|{{sortname|Dmytro|Pidruchnyi}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 1:55 || 34:13.2 || 2 (1+0+0+1) || +3:01.3
+|-
+| 21 || 21 || align=left|{{sortname|Tuomas|Harjula}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 1:43 || 34:16.5 || 3 (0+0+3+0) || +3:04.6
+|-
+| 22 || 40 || align=left|{{sortname|Otto|Invenius}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 2:27 || 34:18.9 || 2 (1+0+1+0) || +3:07.0
+|-
+| 23 || 35 || align=left|{{sortname|Anton|Vidmar}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 2:17 || 34:20.9 || 2 (1+1+0+0) || +3:09.0
+|-
+| 24 || 41 || align=left|{{sortname|Fabien|Claude}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 2:30 || 34:22.4 || 4 (1+0+1+2) || +3:10.5
+|-
+| 25 || 26 || align=left|{{sortname|Philipp|Nawrath}} || align=left|{{FlagIOC|GER|2026 Winter}} || 1:53 || 34:22.9 || 6 (2+1+1+2) || +3:11.0
+|-
+| 26 || 15 || align=left|{{sortname|Sebastian|Stalder}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 1:34 || 34:23.2 || 2 (1+0+1+0) || +3:11.3
+|-
+| 27 || 17 || align=left|{{sortname|Niklas|Hartweg}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 1:39 || 34:24.2 || 5 (1+0+2+2) || +3:12.3
+|-
+| 28 || 16 || align=left|{{sortname|Nicola|Romanin}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 1:34 || 34:29.5 || 4 (1+1+1+1) || +3:17.6
+|-
+| 29 || 30 || align=left|{{sortname|Andrejs|Rastorgujevs}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 2:04 || 34:40.8 || 3 (0+0+1+2) || +3:28.9
+|-
+| 30 || 23 || align=left|{{sortname|Justus|Strelow}} || align=left|{{FlagIOC|GER|2026 Winter}} || 1:46 || 34:47.4 || 4 (0+0+1+3) || +3:35.5
+|-
+| 31 || 34 || align=left|{{sortname|Lovro|Planko}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 2:13 || 34:52.2 || 4 (0+0+2+2) || +3:40.3
+|-
+| 32 || 29 || align=left|{{sortname|Jan|Guńka}} || align=left|{{FlagIOC|POL|2026 Winter}} || 1:57 || 34:59.5 || 3 (0+0+2+1) || +3:47.6
+|-
+| 33 || 14 || align=left|{{sortname|Joscha|Burkhalter}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 1:22 || 35:01.4 || 4 (1+1+1+1) || +3:49.5
+|-
+| 34 || 19 || align=left|{{sortname|David|Zobel}} || align=left|{{FlagIOC|GER|2026 Winter}} || 1:42 || 35:21.8 || 5 (2+1+1+1) || +4:09.9
+|-
+| 35 || 45 || align=left|{{sortname|Mikuláš|Karlík}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 2:37 || 35:30.5 || 5 (1+1+1+2) || +4:18.6
+|-
+| 36 || 46 || align=left|{{sortname|Simon|Eder}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 2:38 || 35:34.0 || 3 (0+0+2+1) || +4:22.1
+|-
+| 37 || 39 || align=left|{{sortname|Fabian|Müllauer}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 2:24 || 35:36.7 || 5 (1+0+1+3) || +4:24.8
+|-
+| 38 || 54 || align=left|{{sortname|Dmitrii|Shamaev}} || align=left|{{FlagIOC|ROU|2026 Winter}} || 2:50 || 35:37.4 || 1 (1+0+0+0) || +4:25.5
+|-
+| 39 || 49 || align=left|{{sortname|Vytautas|Strolia}} || align=left|{{FlagIOC|LTU|2026 Winter}} || 2:44 || 35:38.4 || 3 (1+1+0+1) || +4:26.5
+|-
+| 40 || 37 || align=left|{{sortname|Grzegorz|Galica}} || align=left|{{FlagIOC|POL|2026 Winter}} || 2:18 || 35:40.8 || 5 (2+0+1+2) || +4:28.9
+|-
+| 41 || 48 || align=left|{{sortname|Zachary|Connelly}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 2:40 || 35:51.3 || 5 (3+0+1+1) || +4:39.4
+|-
+| 42 || 51 || align=left|{{sortname|Vladislav|Kireyev}} || align=left|{{FlagIOC|KAZ|2026 Winter}} || 2:49 || 35:52.0 || 4 (1+2+1+0) || +4:40.1
+|-
+| 43 || 57 || align=left|{{sortname|Konrad|Badacz}} || align=left|{{FlagIOC|POL|2026 Winter}} || 3:00 || 35:52.6 || 1 (0+0+1+0) || +4:40.7
+|-
+| 44 || 53 || align=left|{{sortname|Kristo|Siimer}} || align=left|{{FlagIOC|EST|2026 Winter}} || 2:50 || 36:02.0 || 3 (0+1+2+0) || +4:50.1
+|-
+| 45 || 33 || align=left|{{sortname|Tomáš|Mikyska}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 2:12 || 36:25.6 || 4 (0+3+0+1) || +5:13.7
+|-
+| 46 || 36 || align=left|{{sortname|Miha|Dovžan}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 2:17 || 36:29.0 || 6 (1+1+2+2) || +5:17.1
+|-
+| 47 || 32 || align=left|{{sortname|Rihards|Lozbers}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 2:12 || 36:29.2 || 7 (3+1+1+2) || +5:17.3
+|-
+| 48 || 47 || align=left|{{sortname|Paul|Schommer}} || align=left|{{FlagIOC|USA|2026 Winter}} || 2:38 || 36:41.4 || 4 (1+2+0+1) || +5:29.5
+|-
+| 49 || 31 || align=left|{{sortname|Adam|Runnalls}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 2:09 || 36:48.3 || 7 (1+1+4+1) || +5:36.4
+|-
+| 50 || 38 || align=left|{{sortname|Florent|Claude}} || align=left|{{FlagIOC|BEL|2026 Winter}} || 2:21 || 36:52.6 || 6 (2+1+2+1) || +5:40.7
+|-
+| 51 || 44 || align=left|{{sortname|Rene|Zahkna}} || align=left|{{FlagIOC|EST|2026 Winter}} || 2:34 || 36:54.1 || 6 (2+1+1+2) || +5:42.2
+|-
+| 52 || 43 || align=left|{{sortname|Malte|Stefansson}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 2:31 || 37:01.4 || 6 (3+0+1+2) || +5:49.5
+|-
+| 53 || 55 || align=left|{{sortname|Logan|Pletz}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 2:54 || 37:28.0 || 5 (1+1+2+1) || +6:16.1
+|-
+| 54 || 60 || align=left|{{sortname|Sondre|Slettemark}} || align=left|{{FlagIOC|DEN|2026 Winter}} || 3:06 || 37:41.2 || 4 (1+0+3+0) || +6:29.3
+|-
+| 55 || 50 || align=left|{{sortname|Patrick|Jakob}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 2:44 || 37:54.6 || 5 (0+3+2+0) || +6:42.7
+|-
+| 56 || 58 || align=left|{{sortname|Jakub|Borguľa}} || align=left|{{FlagIOC|SVK|2026 Winter}} || 3:02 || 38:16.0 || 4 (1+1+1+1) || +7:04.1
+|-
+| 57 || 56 || align=left|{{sortname|Konstantin|Vasilev}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 2:59 || 40:00.7 || 7 (1+3+1+2) || +8:48.8
+|-
+| rowspan=3|{{hs|58}} || 42 || align=left|{{sortname|Blagoy|Todev}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 2:31 || rowspan=3|LAP || {{hs|20}} (3+2+0+) || rowspan=3|{{sort|9|—}}
+|-
+| 52 || align=left|{{sortname|Edgars|Mise}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 2:50 ||{{hs|20}} (4+1+2+)
+|-
+| 59 || align=left|{{sortname|Matija|Legović}} || align=left|{{FlagIOC|CRO|2026 Winter}} || 3:06 ||{{hs|20}} (2+2+3+)
+|}
+
+==References==
+{{Reflist}}
+{{Footer Olympic Champions Biathlon 12.5km Pursuit Men}}
+{{DEFAULTSORT:Biathlon at the 2026 Winter Olympics - Men's pursuit}}
+[[Category: Biathlon at the 2026 Winter Olympics]]
+[[Category:Men's biathlon at the 2026 Winter Olympics]]

@@ -1,0 +1,116 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event       = Men's mass start
+|games       = 2026 Winter
+|image       = [[File:Biathlon pictogram.svg|100px|class=skin-invert]]
+|caption     = [[Biathlon]]
+|venue       = [[South Tyrol Arena|Anterselva Biathlon Arena]]
+|date        = 20 February 2026
+|competitors = 30
+|nations     = 11
+|win_value   = 39:17.1
+|gold        = [[Johannes Dale-Skjevdal]]
+|goldNOC     = NOR
+|silver      = [[Sturla Holm Lægreid]]
+|silverNOC   = NOR
+|bronze      = [[Quentin Fillon Maillet]]
+|bronzeNOC   = FRA
+|prev        = [[Biathlon at the 2022 Winter Olympics – Men's mass start|2022]]
+|next        = [[Biathlon at the 2030 Winter Olympics – Men's mass start|2030]]
+}}
+{{Biathlon at the 2026 Winter Olympics}}
+The '''men's mass start''' competition of the [[Biathlon at the 2026 Winter Olympics|2026 Winter Olympics]] was held on 20 February,<!-- 2026--> at the [[South Tyrol Arena|Anterselva Biathlon Arena]] in [[Rasen-Antholz]].<ref name="schedule">{{cite web|url=https://www.biathlonworld.com/calendar?SeasonId=2526&CupLevel=1&EventId=BT2526SWRLOG__|title=2026 Olympic Games – Antholz-Anterselva|publisher=[[International Biathlon Union|IBU]]|access-date=20 February 2026}}</ref> [[Johannes Dale-Skjevdal]] of Norway won the event, thus getting his first Olympic medal. His teammate [[Sturla Holm Lægreid]] won the silver medal, and [[Quentin Fillon Maillet]] of France bronze.<ref>{{cite web|url=https://www.reuters.com/sports/biathlon-perfect-shooting-secures-gold-norways-dale-skjevdal-mens-mass-start-2026-02-20/|title=Dale-Skjevdal's biathlon win gives Norway record gold tally for a Winter Olympics|publisher=Reuters|accessdate=27 February 2026}}</ref><ref>{{cite web|url=https://www.biathlonworld.com/news/johannes-dale-skjevdal-wins-milan-cortina-mens-mass-start/BQFAghST4Cmv9Ax4Z58Yo|title=Johannes Dale-Skjevdal’s Mass Start Perfection Brings Milano Cortina Gold|publisher=biathlonworld.com|accessdate=27 February 2026}}</ref> Holm Lægreid thereby won a medal in all five men's biathlon events at the 2026 Winter Olympics, none of them gold though.
+
+==Background==
+The defending champion, [[Johannes Thingnes Bø]], retired from competitions. The silver medalist, [[Martin Ponsiluoma]], qualified for the Olympics, as did the bronze medalist, [[Vetle Sjåstad Christiansen]]. Prior to the Olympics, [[Éric Perrot]] was leading the total as well as mass start standings of the [[2025–26 Biathlon World Cup]]. [[Endre Strømsheim]] was the [[Biathlon World Championships 2025 – Men's mass start|2025 World champion]].
+
+==Qualification==
+{{main| Biathlon at the 2026 Winter Olympics – Qualification}}
+
+==Race description==
+
+The whole pack got off the line well, with [[Quentin Fillon Maillet]] arriving at the shooting range for shooting 1 first. Fellow Frenchman [[Émilien Jacquelin]] shot extremely quickly, hitting all five targets. This meant a small gap of 5 seconds to [[Otto Invenius]] and [[Vetle Sjåstad Christiansen]], who were leading the group of athletes who also went through shooting 1 without a mistake. Jacquelin extended his lead to 20 seconds going in to shooting 2, with Invenius dropping back. Behind Jacquelin a group of 4 athletes formed, including Christiansen, [[Sturla Holm Lægreid]], [[Johannes Dale-Skjevdal]] and [[Tommaso Giacomel]]. 
+
+Jacquelin made one mistake in his second shooting session, with the group of four all making no mistakes. After his penalty lap, Jacquelin entered the group going up to the third shooting session. Midway through the cross-country section, Giacomel suddenly dropped back, retiring from the race. 
+
+Shooting 3 started with Fillon Maillet having caught up to the group of four, thus again consisting of five athletes. The wind had picked up speed, which caused many athletes to miss multiple shots in this shooting round. Jacquelin made 4 mistakes in shooting 3, which ruled him out for the medal places. Lægreid missed one target, with Christiansen and Fillon Maillet missing two. Dale-Skjevdal remained without mistake and led the field out of shooting 3. The Norwegian was followed by [[Philipp Horn]], who had not made any mistake up until that point, but had dropped behind due to slower cross-country sections.
+
+Horn was caught by Lægreid before the shooting stadium and entered third, behind both Norwegians. Dale-Skjevdal remained without mistake in shooting 4, making him the first flawless athlete in this discipline since [[Emil Hegle Svendsen]] and [[Ondřej Moravec]], gold and bronze medalists at the [[2014 Winter Olympics|2014 Olympics]]. Lægreid was also flawless through shooting 4, but had to settle for silver, following 20 seconds behind his fellow countrymen Dale-Skjevdal. Horn and Fillon Maillet both made one mistake, which set up an exciting battle for bronze.
+
+Horn led Fillon Maillet by 5 seconds coming out of the shooting stadium, but the Frenchman caught up to the German very quickly, passing him on the hill leading up to the 13.8 km mark. Horn was not able to follow the pace of Fillon Maillet, which meant the bronze medal went to France. Dale-Skjevdal received a standing ovation from the crowd in the stadium section, finishing 10.5 seconds ahead of Lægreid and 25.6 seconds ahead of Fillon Maillet.
+
+[[Éric Perrot]], who was leading the total as well as mass start standings of the [[2025–26 Biathlon World Cup]] prior to the Olympics, and [[Martin Ponsiluoma]], silver medalist in [[2022 Winter Olympics|Beijing]], both had a disappointing race. Finishing in 20th and 21st respectively, the gap to Dale-Skjevdal was almost 4 minutes.
+
+==Results==
+The race was started at 14:15.<ref name="schedule"/><ref>{{Cite web|url=https://ibu.blob.core.windows.net/docs/2526/BT/SWRL/OG__/SMMS/C73E_v1.pdf|title=Biathlon – Men's 15km Mass Start – Results|website=ibu.blob.core.windows.net|date=20 February 2026|access-date=20 February 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Time !! Penalties (P+P+S+S) !! Deficit
+|-
+| {{gold1}} || 10 || align=left|{{sortname|Johannes|Dale-Skjevdal}} || align=left|{{FlagIOC|NOR|2026 Winter}} ||39:17.1 || 0 (0+0+0+0) || —
+|-
+| {{silver2}} || 6 || align=left|{{sortname|Sturla Holm|Lægreid}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 39:27.6 || 1 (0+0+1+0) || {{sort|+0:10.5|+10.5}}
+|-
+| {{bronze3}} || 2 || align=left|{{sortname|Quentin|Fillon Maillet}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 39:42.7 || 4 (1+0+2+1) || {{sort|+0:25.6|+25.6}}
+|-
+| 4 || 16 || align=left|{{sortname|Philipp|Horn}} || align=left|{{FlagIOC|GER|2026 Winter}} || 39:52.6 || 1 (0+0+0+1) || {{sort|+0:35.5|+35.5}}
+|-
+| 5 || 5 || align=left|{{sortname|Vetle Sjåstad|Christiansen}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 41:05.2 || 3 (0+0+2+1) || +1:48.1
+|-
+| 6 || 27 || align=left|{{sortname|Michal|Krčmář}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 41:20.7 || 5 (0+0+1+4) || +2:03.6
+|-
+| 7 || 12 || align=left|{{sortname|Philipp|Nawrath}} || align=left|{{FlagIOC|GER|2026 Winter}} || 41:22.4 || 5 (0+1+1+3) || +2:05.3
+|-
+| 8 || 1 || align=left|{{sortname|Johan-Olav|Botn}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 41:24.5 || 5 (1+2+0+2) || +2:07.4
+|-
+| 9 || 21 || align=left|{{sortname|Otto|Invenius}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 41:41.8 || 5 (0+0+3+2) || +2:24.7
+|-
+| 10 || 20 || align=left|{{sortname|Vitalii|Mandzyn}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 41:47.8 || 5 (0+0+2+3) || +2:30.7
+|-
+| 11 || 26 || align=left|{{sortname|Joscha|Burkhalter}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 41:49.1 || 2 (1+0+1+0) || +2:32.0
+|-
+| 12 || 7 || align=left|{{sortname|Émilien|Jacquelin}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 41:56.7 || 6 (0+1+4+1) || +2:39.6
+|-
+| 13 || 24 || align=left|{{sortname|Sebastian|Stalder}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 42:07.0 || 1 (0+0+1+0) || +2:49.9
+|-
+| 14 || 14 || align=left|{{sortname|Olli|Hiidensalo}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 42:09.0 || 4 (0+1+2+1) || +2:51.9
+|-
+| 15 || 15 || align=left|{{sortname|Tuomas|Harjula}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 42:16.0 || 3 (0+0+2+1) || +2:58.9
+|-
+| 16 || 19 || align=left|{{sortname|Jakov|Fak}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 42:23.2 || 1 (0+0+1+0) || +3:06.1
+|-
+| 17 || 17 || align=left|{{sortname|Dmytro|Pidruchnyi}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 42:31.7 || 5 (2+0+2+1) || +3:14.6
+|-
+| 18 || 9 || align=left|{{sortname|Sebastian|Samuelsson}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 42:52.1 || 4 (0+2+1+1) || +3:35.0
+|-
+| 19 || 18 || align=left|{{sortname|Vítězslav|Hornig}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 42:56.0 || 5 (2+0+1+2) || +3:38.9
+|-
+| 20 || 4 || align=left|{{sortname|Éric|Perrot}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 43:01.5 || 7 (1+2+3+1) || +3:44.4
+|-
+| 21 || 3 || align=left|{{sortname|Martin|Ponsiluoma}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 43:03.8 || 7 (2+3+1+1) || +3:46.7
+|-
+| 22 || 22 || align=left|{{sortname|Tero|Seppälä}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 43:10.1 || 7 (0+3+2+2) || +3:53.0
+|-
+| 23 || 23 || align=left|{{sortname|David|Zobel}} || align=left|{{FlagIOC|GER|2026 Winter}} || 43:49.5 || 7 (0+2+4+1) || +4:32.4
+|-
+| 24 || 29 || align=left|{{sortname|Niklas|Hartweg}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 44:07.5 || 6 (1+1+3+1) || +4:50.4
+|-
+| 25 || 13 || align=left|{{sortname|Lukas|Hofer}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 44:09.5 || 8 (1+1+4+2) || +4:52.4
+|-
+| 26 || 30 || align=left|{{sortname|Jesper|Nelin}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 44:17.3 || 7 (0+1+3+3) || +5:00.2
+|-
+| 27 || 25 || align=left|{{sortname|Fabien|Claude}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 45:13.7 || 9 (3+1+4+1) || +5:56.6
+|-
+| 28 || 28 || align=left|{{sortname|Nicola|Romanin}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 45:14.0 || 8 (2+2+2+2) || +5:56.9
+|-
+| 29 || 11 || align=left|{{sortname|Campbell|Wright}} || align=left|{{FlagIOC|USA|2026 Winter}} || 45:14.0 || 7 (0+1+5+1) || +5:56.9
+|-
+| {{hs|30}} || 8 || align=left|{{sortname|Tommaso|Giacomel}} || align=left|{{FlagIOC|ITA|2026 Winter}} || DNF || {{hs|10}} (0+0+ + ) || {{hs|+9}}
+|}
+
+==References==
+{{Reflist}}
+{{Footer Olympic Champions Biathlon 15km Mass Start Men}}
+{{DEFAULTSORT:Biathlon at the 2026 Winter Olympics - Men's mass start}}
+[[Category: Biathlon at the 2026 Winter Olympics]]
+[[Category:Men's biathlon at the 2026 Winter Olympics]]

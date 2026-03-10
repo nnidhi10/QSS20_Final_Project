@@ -1,0 +1,667 @@
+{{Short description|International sports competition}}
+{{Infobox Double Wintersport World Cup
+| title=2018–19 FIS Alpine Ski World Cup
+| competition1=Overall
+| competition1men={{flagicon|AUT}} [[Marcel Hirscher]]
+| competition1ladies={{flagicon|USA}} [[Mikaela Shiffrin]]
+| competition2=Downhill
+| competition2men=&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]
+| competition2ladies={{flagicon|AUT}} [[Nicole Schmidhofer]]
+| competition3=Super-G
+| competition3men={{flagicon|ITA}} [[Dominik Paris]]
+| competition3ladies={{flagicon|USA}} [[Mikaela Shiffrin]]
+| competition4=Giant Slalom
+| competition4men={{flagicon|AUT}} [[Marcel Hirscher]]
+| competition4ladies={{flagicon|USA}} [[Mikaela Shiffrin]]
+| competition5=Slalom
+| competition5men={{flagicon|AUT}} [[Marcel Hirscher]]
+| competition5ladies={{flagicon|USA}} [[Mikaela Shiffrin]]
+| competition6=Combined
+| competition6men={{flagicon|FRA}} [[Alexis Pinturault]]
+| competition6ladies={{flagicon|ITA}} [[Federica Brignone]]
+| competition7=Nations Cup 
+| competition7men={{flagicon|AUT}} [[Austria]]
+| competition7ladies={{flagicon|AUT}} [[Austria]]
+| mixedcompetition1=Nations Cup Overall
+| mixedcompetition1both={{flagicon|AUT}} [[Austria]]
+| menlocations={{center|20 venues}}
+| ladieslocations={{center|21 venues}}
+| menindividual={{center|39 events}}
+| ladiesindividual={{center|35 events}}
+| cancelledmen={{center|5 events}}
+| cancelledladies={{center|4 events}}
+| rescheduledmen={{center|4 events}}
+| rescheduledladies={{center|3 events}}
+| mixedmen={{center|1 event}}
+| mixedladies={{center|1 event}}
+| previous=[[2017–18 FIS Alpine Ski World Cup|2017–18]]
+| next=[[2019–20 FIS Alpine Ski World Cup|2019–20]]
+}}
+
+{{multiple image|width=180|header=Overall Champions|image1= Hirscher-001.jpg|caption1=[[Marcel Hirscher]] won the overall title for the eighth successive year.|image2=Mikaela Shiffrin 2012 cropped.jpg|caption2=[[Mikaela Shiffrin]] won the overall title for the third successive year.|direction=horizontal}}
+The [[International Ski Federation]] (FIS) '''Alpine Ski World Cup''' was the premier circuit for [[alpine skiing]] competition. The inaugural season launched in January [[1967 FIS Alpine Ski World Cup|1967]], and the {{nowrap|2018–19}} season marks the 53rd consecutive year for the [[International Ski Federation|FIS]] [[FIS Alpine Ski World Cup|World Cup]].
+
+This season began in October 2018 in [[Sölden]], [[Austria]], and concluded in mid-March 2019 at the finals in [[Soldeu]], [[Andorra]]. The biennial [[FIS Alpine World Ski Championships 2019|World Championships]] interrupted the tour in early February in [[Åre ski resort|Åre]], [[Sweden]]. During the season, the most successful female skier of all time, four-time overall World Cup champion [[Lindsey Vonn]] of the United States, retired after the [[FIS Alpine World Ski Championships 2019|World Championships]], at which she won a bronze medal in downhill.  Also, two-time overall champion [[Aksel Lund Svindal]] of [[Norway]] retired at the same meet, at which he won a silver medal in downhill.<ref name="party">{{cite news |url=https://www.cdapress.com/article/20190203/AP/302039987 |first=Andrew |last=Dampf |title=RETIREMENT PARTY: Vonn and Svindal to Say Goodbye at Worlds |work=[[Coeur d'Alene Press]] |date=3 February 2019 |access-date=3 February 2018 |archive-url=https://web.archive.org/web/20190204231113/https://www.cdapress.com/article/20190203/AP/302039987 |archive-date=4 February 2019 |url-status=dead }}</ref>
+
+[[Marcel Hirscher]] of Austria won his eighth straight men's overall championship, an all-time record, and moved in third place in overall wins (68) behind only Ingemar Stenmark (86) and Vonn (82).  [[Mikaela Shiffrin]] of the United States won her third straight women's overall championship and moved into 5th place on the overall win list (60).  After the season, Hirscher also retired.<ref>{{cite news |url=https://olympics.nbcsports.com/2019/09/04/marcel-hirscher-retire/| first=Nick |last=Zaccardi |title=Marcel Hirscher retires atop Alpine skiing rather than chase record |work=[[NBC Sports]] |date=4 September 2019 |access-date=4 September 2019}}</ref>
+
+==Men==
+
+===Calendar===
+{| class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+ Event Key: DH – [[Downhill (ski competition)|Downhill]], SL – [[Slalom skiing|Slalom]], GS – [[Giant Slalom]], SG – [[Super-G|Super Giant Slalom]], AC – [[Alpine skiing combined|Alpine Combined]], CE – [[FIS Alpine Ski World Cup#Parallel slalom|City Event (Parallel)]], PG – [[FIS Alpine Ski World Cup#Parallel giant slalom|Parallel Giant Slalom]]
+|-
+! style="width:30px;"| #
+! style="width:33px;"| Event
+! style="width:137px;"| Date
+! style="width:178px;"| Venue
+! style="width:45px;"| Type
+! style="width:185px;"| Winner
+! style="width:185px;"| Second
+! style="width:185px;"| Third
+! style="width:10px;"| Details
+|-
+|bgcolor="EDCCD5" colspan=2 | ||align=right|28 October 2018 &nbsp;||{{flagicon|AUT}} [[Sölden]]||bgcolor="EDCCD5" align=right|GS <sub>cnx</sub>&nbsp;|| colspan="4" align="center" |''heavy snowfall and excessive high winds; rescheduled to [[Saalbach-Hinterglemm]] on 19 December<!--2018-->''<ref>{{cite web|url=http://www.fis-ski.com/alpine-skiing/news-multimedia/official-communications/article=cancelled-men-giant-slalom-from-solden-aut-rescheduled-saalbach-hinterglemm-aut.html|title=Cancelled men’s Giant Slalom from Sölden (AUT) to be rescheduled in Saalbach-Hinterglemm (AUT)|publisher=International Ski Federation|date=29 October 2017|access-date=29 October 2018|archive-url=https://web.archive.org/web/20181029232346/http://www.fis-ski.com/alpine-skiing/news-multimedia/official-communications/article=cancelled-men-giant-slalom-from-solden-aut-rescheduled-saalbach-hinterglemm-aut.html|archive-date=29 October 2018|url-status=dead|df=dmy-all}}</ref><ref>{{cite web|url=http://www.fis-ski.com/alpine-skiing/news-multimedia/news/article=men-solden-dogged-bad-luck.html|title=Men’s GS in Sölden dogged by bad luck|publisher=International Ski Federation|date=28 October 2018|access-date=28 October 2018|archive-url=https://web.archive.org/web/20181028151526/http://www.fis-ski.com/alpine-skiing/news-multimedia/news/article=men-solden-dogged-bad-luck.html|archive-date=28 October 2018|url-status=dead|df=dmy-all}}</ref>
+|-
+|1709||align=center|1||align=right|18 November 2018 &nbsp;||{{flagicon|FIN}} [[Levi, Finland|Levi]]||align=right|SL <sub>479</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|SWE}} [[André Myhrer]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95459|title=Audi FIS Ski World Cup Levi (FIN)|website=www.fis-ski.com}}</ref>
+|-
+|1710||align=center|2||align=right|24 November 2018 &nbsp;||rowspan=2|{{flagicon|CAN}} [[Lake Louise Ski Resort|Lake Louise]]||align=right|DH <sub>480</sub>&nbsp;||{{flagicon|AUT}} [[Max Franz]]||{{flagicon|ITA}} [[Christof Innerhofer]]||{{flagicon|ITA}} [[Dominik Paris]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95465|title=Audi FIS Ski World Cup Lake Louise (CAN)|website=www.fis-ski.com}}</ref>
+|-
+|1711||align=center|3||align=right|25 November 2018 &nbsp;||align=right|SG <sub>205</sub>&nbsp;||{{flagicon|NOR}} [[Kjetil Jansrud]] ||{{flagicon|AUT}} [[Vincent Kriechmayr]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]] ||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95466|title=Audi FIS Ski World Cup Lake Louise (CAN)|website=www.fis-ski.com}}</ref>
+|-
+|1712||align=center|4||align=right|<small>{{#tag:ref|heavy snowfall; Downhill in [[Birds of Prey (ski course)|Beaver Creek]] was switched with super giant slalom and rescheduled from 1 December 2018 to 30 November 2018|group="nb"}}</small>30 November 2018 &nbsp;||rowspan=3|{{flagicon|USA}} [[Birds of Prey (ski course)|Beaver Creek]]||align=right|DH <sub>481</sub>&nbsp;||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]]||{{flagicon|NOR}} [[Aksel Lund Svindal]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95476|title=Audi FIS Ski World Cup Beaver Creek (USA)|website=www.fis-ski.com}}</ref>
+|-
+|1713||align=center|5||align=right|<small>{{#tag:ref|heavy snowfall; Super giant slalom in [[Birds of Prey (ski course)|Beaver Creek]] was switched with downhill and rescheduled from 30 November 2018 to 1 December 2018; start of competition was postponed for one hour and moved lower because of the heavy snowfall|group="nb"}}</small>1 December 2018 &nbsp;||align=right|SG <sub>206</sub>&nbsp;||{{flagicon|AUT}} [[Max Franz]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]]||{{flagicon|NOR}} [[Aleksander Aamodt Kilde]]<br />{{flagicon|ITA}} [[Dominik Paris]]<br />{{flagicon|NOR}} [[Aksel Lund Svindal]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95475|title=Audi FIS Ski World Cup Beaver Creek (USA)|website=www.fis-ski.com}}</ref>
+|-
+|1714||align=center|6||align=right|<small>{{#tag:ref|FIS disqualified [[Stefan Luitz]] from the GS victory at [[Birds of Prey (ski course)|Beaver Creek]] for breaking the organisation's rule by inhaling oxygen before the competition. However, he didn't break the rules of doping and he can continue to compete on normally. [[Marcel Hirscher]] initially inherited the race victory. However, later Luitz has successfully overturned his disqualification at the [[Court of Arbitration for Sport]] (CAS) and his result was reinstated.|group="nb"}}</small>2 December 2018 &nbsp;||align=right|GS <sub>405</sub>&nbsp;||{{flagicon|GER}} [[Stefan Luitz]]||{{flagicon|AUT}} [[Marcel Hirscher]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Thomas Tumler]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95477|title=Audi FIS Ski World Cup Beaver Creek (USA)|website=www.fis-ski.com}}</ref>
+|-
+|1715||align=center|7||align=right|8 December 2018 &nbsp;||rowspan=2|{{flagicon|FRA}} [[Val d'Isère]]||align=right|GS <sub>406</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|SWE}} [[Matts Olsson]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95481|title=Audi FIS Ski World Cup Val d'Isere (FRA)|website=www.fis-ski.com}}</ref>
+|-
+|bgcolor="EDCCD5" colspan=2 | ||align=right|9 December 2018 &nbsp;||bgcolor="EDCCD5" align=right|SL <sub>cnx</sub>&nbsp;|| align=center colspan=4|''heavy snowfall and strong wind; rescheduled to [[Saalbach-Hinterglemm]] on 20 December<!-- 2018 -->''
+|-
+|1716||align=center|8||align=right|14 December 2018 &nbsp;||rowspan=2|{{flagicon|ITA}} [[Val Gardena|Val Gardena/Gröden]]||align=right|SG <sub>207</sub>&nbsp;||{{flagicon|NOR}} [[Aksel Lund Svindal]]||{{flagicon|ITA}} [[Christof Innerhofer]]||{{flagicon|NOR}} [[Kjetil Jansrud]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95485|title=Audi FIS Ski World Cup Val Gardena / Groeden (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1717||align=center|9||align=right|15 December 2018 &nbsp;||align=right|DH <sub>482</sub>&nbsp;||{{flagicon|NOR}} [[Aleksander Aamodt Kilde]]||{{flagicon|AUT}} [[Max Franz]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95486|title=Audi FIS Ski World Cup Val Gardena / Groeden (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1718||align=center|10||align=right|16 December 2018 &nbsp;||rowspan=2|{{flagicon|ITA}} [[Alta Badia]]||align=right|GS <sub>407</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Thomas Fanara]]||{{flagicon|FRA}} [[Alexis Pinturault]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95493|title=Audi FIS Ski World Cup Alta Badia (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1719||align=center|11||align=right|17 December 2018 &nbsp;||align=right|{{Abbr|PG <sub>004</sub>|Men's Parallel Giant Slalom No. 4 (in a row)}}&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Thibaut Favrot]]||{{flagicon|FRA}} [[Alexis Pinturault]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95494|title=Audi FIS Ski World Cup Alta Badia (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1720||align=center|12||align=right|<small>{{#tag:ref|opening Giant Slalom from [[Sölden]] scheduled on 28 October 2018 is rescheduled to [[Saalbach-Hinterglemm]] on 19 December 2018.|group="nb"}}</small>19 December 2018 &nbsp;||rowspan=2|{{flagicon|AUT}} [[Saalbach-Hinterglemm]]||align=right|GS <sub>408</sub>&nbsp;||{{flagicon|SLO}} [[Žan Kranjec]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Loïc Meillard]]||{{flagicon|FRA}} [[Mathieu Faivre]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95457|title=Audi FIS Ski World Cup Saalbach-Hinterglemm (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1721||align=center|13||align=right|<small>{{#tag:ref|Slalom from [[Val d'Isère]] is rescheduled to [[Saalbach-Hinterglemm]] on 20 December 2018.|group="nb"}}</small>20 December 2018 &nbsp;||align=right|SL <sub>480</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Loïc Meillard]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95482|title=Audi FIS Ski World Cup Saalbach-Hinterglemm (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1722||align=center|14||align=right|22 December 2018 &nbsp;||{{flagicon|ITA}} [[Madonna di Campiglio]]||align=right|SL <sub>481</sub>&nbsp;||&nbsp;{{flagicon|SUI}}&nbsp; [[Daniel Yule]]||{{flagicon|AUT}} [[Marco Schwarz]]||{{flagicon|AUT}} [[Michael Matt]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95497|title=Audi FIS Ski World Cup Madonna di Campiglio (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1723||align=center|15||align=right|28 December 2018 &nbsp;||rowspan=2|{{flagicon|ITA}} [[Bormio]]||align=right|DH <sub>483</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||{{flagicon|ITA}} [[Christof Innerhofer]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95500|title=Audi FIS Ski World Cup Bormio (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1724||align=center|16||align=right|29 December 2018 &nbsp;||align=right|SG <sub>208</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||{{flagicon|AUT}} [[Matthias Mayer]]||{{flagicon|NOR}} [[Aleksander Aamodt Kilde]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95501|title=Audi FIS Ski World Cup Bormio (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1725||align=center|17||align=right|1 January 2019 &nbsp;||{{flagicon|NOR}} [[Holmenkollbakken|Oslo]]||align=right|{{Abbr|CE <sub>009</sub>|Men's Parallel Slalom/City Event No. 9 (in a row)}}&nbsp;||{{flagicon|AUT}} [[Marco Schwarz]]||{{flagicon|GBR}} [[Dave Ryding]]|| &nbsp;{{flagicon|SUI}}&nbsp; [[Ramon Zenhäusern]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95711|title=Audi FIS Ski World Cup Oslo (NOR)|website=www.fis-ski.com}}</ref>
+|-
+|1726||align=center|18||align=right|6 January 2019 &nbsp;||{{flagicon|CRO}} [[Snow Queen Trophy|Zagreb]]||align=right|SL <sub>482</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Alexis Pinturault]]||{{flagicon|AUT}} [[Manuel Feller]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95506|title=Audi FIS Ski World Cup Zagreb (CRO)|website=www.fis-ski.com}}</ref>
+|-
+|1727||align=center|19||align=right|12 January 2019 &nbsp;||rowspan=2|&nbsp;{{flagicon|SUI}}&nbsp; [[Adelboden]]||align=right|GS <sub>409</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|FRA}} [[Thomas Fanara]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95508|title=Audi FIS Ski World Cup Adelboden (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1728||align=center|20||align=right|13 January 2019 &nbsp;||align=right|SL <sub>483</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Clément Noël]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95509|title=Audi FIS Ski World Cup Adelboden (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1729||align=center|21||align=right|18 January 2019 &nbsp;||rowspan=3|&nbsp;{{flagicon|SUI}}&nbsp; [[Lauberhorn ski races|Wengen]]||align=right|AC <sub>130</sub>&nbsp;||{{flagicon|AUT}} [[Marco Schwarz]]||{{flagicon|FRA}} [[Victor Muffat-Jeandet]]||{{flagicon|FRA}} [[Alexis Pinturault]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95514|title=Audi FIS Ski World Cup Wengen (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1730||align=center|22||align=right|19 January 2019 &nbsp;||align=right|DH <sub>484</sub>&nbsp;||{{flagicon|AUT}} [[Vincent Kriechmayr]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||{{flagicon|NOR}} [[Aleksander Aamodt Kilde]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95516|title=Audi FIS Ski World Cup Wengen (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1731||align=center|23||align=right|20 January 2019 &nbsp;||align=right|SL <sub>484</sub>&nbsp;||{{flagicon|FRA}} [[Clément Noël]]||{{flagicon|AUT}} [[Manuel Feller]]||{{flagicon|AUT}} [[Marcel Hirscher]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95517|title=Audi FIS Ski World Cup Wengen (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1732||align=center|24||align=right|<small>{{#tag:ref|Because of the worst weather forecast on Saturday, Downhill in [[Kitzbühel]] was rescheduled from 26 to 25 January 2019 on Friday. It was switched with original Super-G date.|group="nb"}}</small>25 January 2019 &nbsp;||rowspan=3|{{flagicon|AUT}} [[Hahnenkamm, Kitzbühel|Kitzbühel]]||align=right|DH <sub>485</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||{{flagicon|AUT}} [[Otmar Striedinger]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95526|title=Audi FIS Ski World Cup Kitzbuehel (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1733||align=center|25||align=right|<small>{{#tag:ref|Because of the worst weather forecast in the weekend, Slalom in [[Kitzbühel]] which is easier to organize, is rescheduled from 27 to 26 January 2019. It will be switched with original downhill date.|group="nb"}}</small>26 January 2019 &nbsp;||align=right|SL <sub>485</sub>&nbsp;||{{flagicon|FRA}} [[Clément Noël]]||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Alexis Pinturault]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95527|title=Audi FIS Ski World Cup Kitzbuehel (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1734||align=center|26||align=right|<small>{{#tag:ref|Because of the downhill switch date on Friday, Super-G in [[Kitzbühel]] is rescheduled from 25 to 27 January 2019.|group="nb"}}</small>≥27 January 2019 &nbsp;||align=right|SG <sub>209</sub>&nbsp;||{{flagicon|GER}} [[Josef Ferstl]]||{{flagicon|FRA}} [[Johan Clarey]]||{{flagicon|ITA}} [[Dominik Paris]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95525|title=Audi FIS Ski World Cup Kitzbuehel (AUT)|website=www.fis-ski.com}}</ref>  
+|-
+|1735||align=center|27||align=right|29 January 2019 &nbsp;||{{flagicon|AUT}} [[Planai|Schladming]]||align=right|SL <sub>486</sub>&nbsp;||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Alexis Pinturault]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Daniel Yule]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95532|title=Audi FIS Ski World Cup Schladming (AUT)|website=www.fis-ski.com}}</ref>
+|-
+| colspan="2" rowspan="2" bgcolor="EDCCD5" |  ||align=right|2 February 2019 &nbsp;||rowspan=2|{{flagicon|GER}} [[Garmisch Classic|Garmisch-Partenkirchen]]||align=right bgcolor="EDCCD5"|DH <sub>cnx</sub>&nbsp;||colspan="4" align="center" |''fog, rain and heavy snowfall, rescheduled to [[Kvitfjell]] on 1 March''
+|-
+| align="right" |3 February 2019 &nbsp;||align=right bgcolor="EDCCD5"|GS <sub>cnx</sub>&nbsp;||colspan="4" align="center" |''fog, rain and heavy snowfall''
+|- style="background:#FFEBAD"
+| colspan="9" style="text-align:center;"|'''[[FIS Alpine World Ski Championships 2019|World Championships]] (5–17 February)'''
+|-
+|1736|| align="center" |28||align=right|19 February 2019 &nbsp;||{{flagicon|SWE}} [[Stockholm]]||align=right|{{Abbr|CE <sub>010</sub>|Men's Parallel Slalom/City Event No. 10 (in a row)}}&nbsp;||&nbsp;{{flagicon|SUI}}&nbsp; [[Ramon Zenhäusern]]||{{flagicon|SWE}} [[André Myhrer]]||{{flagicon|AUT}} [[Marco Schwarz]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95565|title=Audi FIS Ski World Cup Stockholm (SWE)|website=www.fis-ski.com}}</ref>
+|-
+|1737|| align="center" |29||align=right|22 February 2019 &nbsp;||rowspan=3|{{flagicon|BUL}} [[Bansko]]||align=right|AC <sub>131</sub>&nbsp;||{{flagicon|FRA}} [[Alexis Pinturault]]||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|SVN}} [[Štefan Hadalin]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95571|title=Audi FIS Ski World Cup Bansko (BUL)|website=www.fis-ski.com}}</ref>
+|-
+| bgcolor="EDCCD5" colspan=2| ||align=right|23 February 2019 &nbsp;||align=right bgcolor="EDCCD5"|SG <sub>cnx</sub>&nbsp;|| align=center colspan=4|''heavy snowfall''
+|-
+|1738|| align="center" |30||align=right|24 February 2019 &nbsp;||align=right|GS <sub>410</sub>&nbsp;||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|AUT}} [[Marcel Hirscher]]||{{flagicon|FRA}} [[Thomas Fanara]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95574|title=Audi FIS Ski World Cup Bansko (BUL)|website=www.fis-ski.com}}</ref>
+|- 
+| bgcolor="EDCCD5" colspan="2" | || align="right" |1 March 2019 &nbsp;|| rowspan="3" |{{flagicon|NOR}} [[Kvitfjell]]||align=right bgcolor="EDCCD5"|DH <sub>cnx</sub>&nbsp;||  align=center colspan=4|''heavy snowfall''
+|-
+|1739|| align="center" |31|| align="right" |2 March 2019 &nbsp;|| align="right" |DH <sub>486</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||{{flagicon|AUT}} [[Matthias Mayer]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95581|title=Audi FIS Ski World Cup Kvitfjell (NOR)|website=www.fis-ski.com}}</ref>
+|-
+|1740|| align="center" |32|| align="right" |3 March 2019 &nbsp;|| align="right" |SG <sub>210</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||{{flagicon|NOR}} [[Kjetil Jansrud]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95582|title=Audi FIS Ski World Cup Kvitfjell (NOR)|website=www.fis-ski.com}}</ref>
+|-
+|1741|| align="center" |33|| align="right" |9 March 2019 &nbsp;|| rowspan="2" |{{flagicon|SLO}} [[Kranjska Gora Ski Resort|Kranjska Gora]]|| align="right" |GS <sub>411</sub>&nbsp;||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|NOR}} [[Rasmus Windingstad]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Marco Odermatt]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95585|title=Audi FIS Ski World Cup Kranjska Gora (SLO)|website=www.fis-ski.com}}</ref>
+|-
+|1742|| align="center" |34|| align="right" |10 March 2019 &nbsp;|| align="right" |SL <sub>487</sub>&nbsp;||&nbsp;{{flagicon|SUI}}&nbsp; [[Ramon Zenhäusern]]||{{flagicon|NOR}} [[Henrik Kristoffersen]]||{{flagicon|AUT}} [[Marcel Hirscher]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95586|title=Audi FIS Ski World Cup Kranjska Gora (SLO)|website=www.fis-ski.com}}</ref>
+|-
+|1743|| align="center" |35|| align="right" |13 March 2019 &nbsp;|| rowspan="4" |{{flagicon|AND}} [[Soldeu]]|| align="right" |DH <sub>487</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||{{flagicon|NOR}} [[Kjetil Jansrud]]||{{flagicon|AUT}} [[Otmar Striedinger]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95592|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1744|| align="center" |36|| align="right" |14 March 2019 &nbsp;|| align="right" |SG <sub>211</sub>&nbsp;||{{flagicon|ITA}} [[Dominik Paris]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]]||{{flagicon|AUT}} [[Vincent Kriechmayr]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95594|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1745|| align="center" |37|| align="right" |16 March 2019 &nbsp;|| align="right" |GS <sub>412</sub>&nbsp;||{{flagicon|FRA}} [[Alexis Pinturault]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Marco Odermatt]]||{{flagicon|SLO}} [[Žan Kranjec]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95596|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1746|| align="center" |38|| align="right" |17 March 2019 &nbsp;|| align="right" |SL <sub>488</sub>&nbsp;||{{flagicon|FRA}} [[Clément Noël]]||{{flagicon|AUT}} [[Manuel Feller]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Daniel Yule]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95598|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|}
+
+===Rankings===
+{{col-begin}}
+{{col-3}}
+
+====Overall====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 38 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || {{flagicon|AUT}} '''[[Marcel Hirscher]]''' ||align="right"| 1546
+|-
+| style="text-align:center;"| 2 || {{flagicon|FRA}} [[Alexis Pinturault]] ||align="right"| 1145
+|-
+| style="text-align:center;"| 3 || {{flagicon|NOR}} [[Henrik Kristoffersen]] ||align="right"| 1047
+|-
+| style="text-align:center;"| 4 || {{flagicon|ITA}} [[Dominik Paris]] ||align="right"| 950
+|-
+| style="text-align:center;"| 5 || {{flagicon|AUT}} [[Vincent Kriechmayr]] ||align="right"| 739
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's overall|l1=2019 Men's overall}}
+{{col-3}}
+
+====Downhill====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 8 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''&nbsp;{{flagicon|SUI}}&nbsp; [[Beat Feuz]]''' ||align="right"| 540
+|-
+| style="text-align:center;"| 2 || {{flagicon|ITA}} [[Dominik Paris]] ||align="right"| 520
+|-
+| style="text-align:center;"| 3 || {{flagicon|AUT}} [[Vincent Kriechmayr]] ||align="right"| 339
+|-
+| style="text-align:center;"| 4 || {{flagicon|NOR}} [[Aleksander Aamodt Kilde]] ||align="right"| 284
+|-
+| style="text-align:center;"| 5 || &nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]] ||align="right"| 282
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's downhill|l1=2019 Men's downhill}}
+{{col-3}}
+
+====Super G====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 7 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|ITA}} [[Dominik Paris]]''' ||align="right"| 430
+|-
+| style="text-align:center;"| 2 || {{flagicon|AUT}} [[Vincent Kriechmayr]] ||align="right"| 346
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]] ||align="right"| 324
+|-
+| style="text-align:center;"| 4 || {{flagicon|NOR}} [[Kjetil Jansrud]] ||align="right"| 316
+|-
+| style="text-align:center;"| 5 || {{flagicon|NOR}} [[Aleksander Aamodt Kilde]] ||align="right"| 299
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's super-G|l1=2019 Men's super-G}}
+{{col-end}}
+{{col-begin}}
+{{col-3}}
+
+====Giant Slalom/Parallel Giant Slalom====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 9 races'' 
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|AUT}} [[Marcel Hirscher]] '''||align="right"| 680
+|-
+| style="text-align:center;"| 2 || {{flagicon|NOR}} [[Henrik Kristoffersen]] ||align="right"| 516
+|-
+| style="text-align:center;"| 3 || {{flagicon|FRA}} [[Alexis Pinturault]] ||align="right"| 469
+|-
+| style="text-align:center;"| 4 || {{flagicon|SLO}} [[Žan Kranjec]] ||align="right"| 344
+|-
+| style="text-align:center;"| 5 || &nbsp;{{flagicon|SUI}}&nbsp; [[Loic Meillard]] ||align="right"| 313
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's giant slalom|l1=2019 Men's giant slalom}}
+{{col-3}}
+
+====Slalom/Parallel Slalom====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 12 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || {{flagicon|AUT}} '''[[Marcel Hirscher]]''' ||align="right"| 786
+|-
+| style="text-align:center;"| 2 || {{flagicon|FRA}} [[Clément Noël]] ||align="right"| 551
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Daniel Yule]] ||align="right"| 551
+|-
+| style="text-align:center;"| 4 || &nbsp;{{flagicon|SUI}}&nbsp; [[Ramon Zenhäusern]] ||align="right"| 521
+|-
+| style="text-align:center;"| 5 || {{flagicon|NOR}} [[Henrik Kristoffersen]] ||align="right"| 516
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's slalom|l1=2019 Men's slalom}}
+{{col-3}}
+
+====Combined====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 2 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || {{flagicon|FRA}} '''[[Alexis Pinturault]]''' ||align="right"| 160
+|-
+| style="text-align:center;"| 2 || {{flagicon|AUT}} [[Marco Schwarz]] ||align="right"| 100
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Mauro Caviezel]] ||align="right"| 90
+|-
+| style="text-align:center;"| 4 || {{flagicon|ITA}} [[Riccardo Tonetti]] ||align="right"| 82
+|-
+| style="text-align:center;"| 5 || {{flagicon|AUT}} [[Marcel Hirscher]] ||align="right"| 80
+|-
+| style="text-align:center;"|  || {{flagicon|FRA}} [[Victor Muffat-Jeandet]] ||align="right"| 80
+|}
+{{Main|2019 Alpine Skiing World Cup – Men's combined|l1=2019 Men's combined}}
+{{col-end}}
+
+==Women==
+Prior to the start of the season, 4-time overall World Cup champion (and 20-time crystal globe winner) [[Lindsey Vonn]] of the [[United States]] announced her retirement effective as of the end of the season.<ref>{{cite web |url=https://people.com/sports/lindsey-vonn-retiring-after-ski-season/ |first=Lindsay |last=Kimble |title=Lindsey Vonn to Retire After 2018-2019 Ski Season: 'It Has Been a Great Ride' |website=[[People (magazine)|People]] |date=October 12, 2018 |access-date=November 23, 2018}}</ref> Due to lingering injuries, she moved her retirement date up to the World Championships in February.<ref name="party" />
+
+In December, Mikaela Shiffrin became the eighth athlete (four men, four women) to win [[FIS Alpine Ski World Cup#Most races won|at least 50 World Cup races across all disciplines]], as well as the youngest (at age 23) to do so.<ref>{{cite web |url=https://www.latimes.com/sports/olympics/la-sp-skiiing-shiffrin-20181222-story.html |author=[[Associated Press]] |title=Mikaela Shiffrin continues to make World Cup history with 35th slalom win, her 50th overall |website=[[Los Angeles Times]]| date=22 January 2018 |access-date=22 January 2018}}</ref> Shiffrin ended the season with 17 race victories (3 Super Gs, 4 giant slaloms, 8 slaloms, and 2 parallel slaloms/city events), breaking [[Vreni Schneider]]'s 30-year-old record of 14 wins in a (much shorter) season, which was set in the [[1988–89 FIS Alpine Ski World Cup|1988-89 season]].<ref>{{cite news |url=https://edition.cnn.com/2019/03/16/sport/mikaela-shiffrin-marcel-hirscher-skiing-world-cup-andorra-spt-intl/index.html |first=Rob |last=Hodgetts |title=Mikaela Shiffrin extends record run as Marcel Hirscher hints at retirement |work=[[CNN]] |date=March 16, 2019 |access-date=March 17, 2019}}</ref> Shiffrin also won four crystal globes for the season, tying the women's record held by Vonn and [[Tina Maze]].<ref>{{cite news |url=https://www.yahoo.com/news/shiffrin-leads-giant-slalom-set-4th-wcup-trophy-092925429.html |title=Shiffrin wins giant slalom race to seal World Cup title |work=[[Associated Press]] |date=March 17, 2019 |access-date=March 17, 2019}}</ref>
+
+On 6 March 2019, former slalom season champion (and Olympic gold medalist) [[Frida Hansdotter]] announced her retirement from alpine skiing following the 2018–2019 season.<ref>{{cite news|url=https://www.aftonbladet.se/sportbladet/a/jP6QQq/hansdotter-slutar-kanner-mig-klar|title=Hansdotter slutar|publisher=Sportbladet|language=sv|author=Ibraheem Alsalman|date=6 March 2019|access-date=6 March 2019}}</ref><ref>{{cite news|url=https://www.gp.se/sport/frida-hansdotter-avslutar-karri%C3%A4ren-1.13853817|title=Frida Hansdotter avslutar karriären|publisher=Göteborgsposten|language=sv|author=Jonatan Andersson|date=6 March 2019|access-date=6 March 2019}}</ref>
+
+===Calendar===
+{| class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+ Event Key: DH – [[Downhill (ski competition)|Downhill]], SL – [[Slalom skiing|Slalom]], GS – [[Giant Slalom]], SG – [[Super-G|Super Giant Slalom]], AC – [[Alpine skiing combined|Alpine Combined]], CE – [[FIS Alpine Ski World Cup#Parallel slalom|City Event (Parallel)]], PS – [[FIS Alpine Ski World Cup#Parallel slalom|Parallel slalom]] <small>(qualification run)</small>
+|-
+! style="width:30px;"| #
+! style="width:33px;"| Event
+! style="width:137px;"| Date
+! style="width:178px;"| Venue
+! style="width:45px;"| Type
+! style="width:185px;"| Winner
+! style="width:185px;"| Second
+! style="width:185px;"| Third
+! style="width:10px;"| Details
+|-
+|1602||align=center|1||align=right|27 October 2018 &nbsp;||{{flagicon|AUT}} [[Sölden]]||align=right|GS <sub>405</sub>&nbsp;||{{flagicon|FRA}} [[Tessa Worley]]||{{flagicon|ITA}} [[Federica Brignone]]||{{flagicon|USA}} [[Mikaela Shiffrin]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sector=AL&raceid=95456|title=Audi FIS Ski World Cup Soelden (AUT)|website=www.fis-ski.com}}</ref> 
+|-
+|1603||align=center|2||align=right|<small>{{#tag:ref|Slalom start in [[Levi, Finland|Levi]] on 17 November 2018 was moved lower; strong wind on top of the course|group="nb"}}</small>17 November 2018 &nbsp;||{{flagicon|FIN}} [[Levi, Finland|Levi]]||align=right|SL <sub>455</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|AUT}} [[Bernadette Schild]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95458|title=Audi FIS Ski World Cup Levi (FIN)|website=www.fis-ski.com}}</ref> 
+|-
+|1604||align=center|3||align=right|24 November 2018 &nbsp;||rowspan=2|{{flagicon|USA}} [[Killington Ski Resort|Killington]]||align=right|GS <sub>406</sub>&nbsp;||{{flagicon|ITA}} [[Federica Brignone]]
+||{{flagicon|NOR}} [[Ragnhild Mowinckel]]||{{flagicon|AUT}} [[Stephanie Brunner]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95460|title=Audi FIS Ski World Cup Killington (USA)|website=www.fis-ski.com}}</ref>
+|-
+|1605||align=center|4||align=right|25 November 2018 &nbsp;||align=right|SL <sub>456</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|SWE}} [[Frida Hansdotter]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95461|title=Audi FIS Ski World Cup Killington (USA)|website=www.fis-ski.com}}</ref>
+|-
+|1606||align=center|5||align=right|30 November 2018 &nbsp;||rowspan=3|{{flagicon|CAN}} [[Lake Louise Ski Resort|Lake Louise]]||align=right|DH <sub>402</sub>&nbsp;||{{flagicon|AUT}} [[Nicole Schmidhofer]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Michelle Gisin]]||{{flagicon|GER}} [[Kira Weidle]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95470|title=Audi FIS Ski World Cup Lake Louise (CAN)|website=www.fis-ski.com}}</ref>
+|-
+|1607||align=center|6||align=right|1 December 2018 &nbsp;||align=right|DH <sub>403</sub>&nbsp;||{{flagicon|AUT}} [[Nicole Schmidhofer]]||{{flagicon|AUT}} [[Cornelia Hütter]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Michelle Gisin]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95471|title=Audi FIS Ski World Cup Lake Louise (CAN)|website=www.fis-ski.com}}</ref>
+|-
+|1608||align=center|7||align=right|2 December 2018 &nbsp;||align=right|SG <sub>227</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|NOR}} [[Ragnhild Mowinckel]]||{{flagicon|GER}} [[Viktoria Rebensburg]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95472|title=Audi FIS Ski World Cup Lake Louise (CAN)|website=www.fis-ski.com}}</ref>
+|-
+|1609||align=center|8||align=right|8 December 2018 &nbsp;||rowspan=2|&nbsp;{{flagicon|SUI}}&nbsp; [[Piz Nair|St. Moritz]]||align=right|SG <sub>228</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Lara Gut|Lara Gut-Behrami]]||{{flagicon|LIE}} [[Tina Weirather]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95478|title=Audi FIS Ski World Cup St. Moritz (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1610||align=center|9||align=right|9 December 2018 &nbsp;||align=right|{{Abbr|PS <sub>005</sub>|Ladies' Parallel Slalom No. 5 (in a row)}}&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]|||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95479|title=Audi FIS Ski World Cup St. Moritz (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|bgcolor="EDCCD5" colspan=2 rowspan=3| ||align=right|14 December 2018 &nbsp;||rowspan=3|{{flagicon|FRA}} [[Val d'Isère]]||bgcolor="EDCCD5" align=right|AC <sub>cnx</sub>&nbsp;|| align=center colspan=4|''warm weather and lack of snow<ref>{{cite web|url=https://www.fis-ski.com/en/alpine-skiing/alpine-news-multimedia/news-multimedia/news/2018-19/12-december/ladies-audi-fis-ski-world-cup-speed-races-in-val-d-isere-fra-cancelled|title=Ladies' Audi FIS Ski World Cup races in Val d'Isère (FRA) cancelled|publisher=International Ski Federation|date=7 December 2018}}</ref><ref>{{cite web|url=https://www.fis-ski.com/en/alpine-skiing/alpine-news-multimedia/news-multimedia/news/2018-19/12-december/cancelled-ladies-val-d-isere-fra-races-rescheduled-in-val-gardena-groden-ita|title=Cancelled ladies' Val d'Isere (FRA) races rescheduled in Val Gardena/Gröden (ITA) |publisher=International Ski Federation|date=7 December 2018}}</ref>''
+|-
+|align=right|15 December 2018 &nbsp;||bgcolor="EDCCD5" align=right|DH <sub>cnx</sub>&nbsp;|| align=center colspan=4|''warm weather and lack of snow; rescheduled in [[Val Gardena<!--|Val Gardena/Gröden-->]] on 18 December<!--2018-->''
+|-
+|align=right|16 December 2018 &nbsp;||bgcolor="EDCCD5" align=right|SG <sub>cnx</sub>&nbsp;|| align=center colspan=4|''warm weather and lack of snow; rescheduled in [[Val Gardena<!--|Val Gardena/Gröden-->]] on 19 December<!--2018-->''
+|-
+|1611||align=center|10||align=right|<small>{{#tag:ref|Downhill from [[Val d'Isère]] was rescheduled in [[Val Gardena|Val Gardena/Gröden]] on 18 December 2018|group="nb"}}</small>18 December 2018 &nbsp;||rowspan=2|{{flagicon|ITA}} [[Val Gardena|Val Gardena/Gröden]]||align=right|DH <sub>404</sub>&nbsp;||{{flagicon|SLO}} [[Ilka Štuhec]]||{{flagicon|ITA}} [[Nicol Delago]]||{{flagicon|AUT}} [[Ramona Siebenhofer]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95491|title=Audi FIS Ski World Cup Val Gardena / Groeden (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1612||align=center|11||align=right|<small>{{#tag:ref|Super giant slalom from [[Val d'Isère]] was rescheduled in [[Val Gardena|Val Gardena/Gröden]] on 19 December 2018|group="nb"}}</small>19 December 2018 &nbsp;||align=right|SG <sub>229</sub>&nbsp;||{{flagicon|SLO}} [[Ilka Štuhec]]||{{flagicon|AUT}} [[Nicole Schmidhofer]]<br />{{flagicon|LIE}} [[Tina Weirather]]||bgcolor="E6E8FA"| ||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95492|title=Audi FIS Ski World Cup Val Gardena / Groeden (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1613||align=center|12||align=right|21 December 2018 &nbsp;||rowspan=2|{{flagicon|FRA}} [[Courchevel]]||align=right|GS <sub>407</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|GER}} [[Viktoria Rebensburg]]||{{flagicon|FRA}} [[Tessa Worley]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95495|title=Audi FIS Ski World Cup Courchevel (FRA)|website=www.fis-ski.com}}</ref>
+|-
+|1614||align=center|13||align=right|22 December 2018 &nbsp;||align=right|SL <sub>457</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|SWE}} [[Frida Hansdotter]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95496|title=Audi FIS Ski World Cup Courchevel (FRA)|website=www.fis-ski.com}}</ref>
+|-
+|1615||align=center|14||align=right|28 December 2018 &nbsp;||rowspan=2|{{flagicon|AUT}} [[Semmering (ski resort)|Semmering]]||align=right|GS <sub>408</sub>&nbsp;||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|GER}} [[Viktoria Rebensburg]]||{{flagicon|FRA}} [[Tessa Worley]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95502|title=Audi FIS Ski World Cup Semmering (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1616||align=center|15||align=right|29 December 2018 &nbsp;||align=right|SL <sub>458</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95503|title=Audi FIS Ski World Cup Semmering (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|1617||align=center|16||align=right|1 January 2019 &nbsp;||{{flagicon|NOR}} [[Holmenkollbakken|Oslo]]||align=right|{{Abbr|CE <sub>009</sub>|Ladies' Parallel Slalom/City Event No. 9 (in a row)}}&nbsp;||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|USA}} [[Mikaela Shiffrin]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95504|title=Audi FIS Ski World Cup Oslo (NOR)|website=www.fis-ski.com}}</ref>
+|-
+|1618||align=center|17||align=right|5 January 2019 &nbsp;||{{flagicon|CRO}} [[Snow Queen Trophy|Zagreb]]||align=right|SL <sub>459</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SVK}} [[Petra Vlhová]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95505|title=Audi FIS Ski World Cup Zagreb (CRO)|website=www.fis-ski.com}}</ref>
+|-
+|1619||align=center|18||align=right|8 January 2019 &nbsp;||{{flagicon|AUT}} [[Flachau]]||align=right|SL <sub>460</sub>&nbsp;||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|AUT}} [[Katharina Liensberger]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95507|title=Audi FIS Ski World Cup Flachau (AUT)|website=www.fis-ski.com}}</ref>
+|-
+|bgcolor="EDCCD5" colspan=2 rowspan=2| || align=right|12 January 2019 &nbsp;||rowspan=2|{{flagicon|AUT}} [[St Anton am Arlberg|St. Anton]]||align=right bgcolor="EDCCD5"|DH <sub>cnx</sub>&nbsp;|| colspan="4" align="center" |''heavy snowfall with over three metres of snow; rescheduled in [[Cortina d'Ampezzo]] on 18 January''
+|-
+|align=right|13 January 2019 &nbsp;||align=right bgcolor="EDCCD5"|SG <sub>cnx</sub>&nbsp;|| colspan=4 align=center|''heavy snowfall with over three metres of snow''
+|-
+|1620|| align=center|19|| align=right|15 January 2019 &nbsp;||{{flagicon|ITA}} [[Kronplatz]]||align=right|GS <sub>409</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|FRA}} [[Tessa Worley]]||{{flagicon|ITA}} [[Marta Bassino]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95510|title=Audi FIS Ski World Cup Kronplatz (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1621|| align=center|20|| align=right|<small>{{#tag:ref|Downhill from [[St Anton am Arlberg|St. Anton]] was rescheduled in [[Cortina d'Ampezzo]] on 18 January 2019|group="nb"}}</small>18 January 2019 &nbsp;|| rowspan=3|{{flagicon|ITA}} [[Cortina d'Ampezzo]]||align=right|DH <sub>405</sub>&nbsp;||{{flagicon|AUT}} [[Ramona Siebenhofer]]||{{flagicon|SLO}} [[Ilka Štuhec]]||{{flagicon|AUT}} [[Stephanie Venier]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95663|title=Audi FIS Ski World Cup Cortina d'Ampezzo (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1622|| align="center" |21|| align="right" |19 January 2019 &nbsp;|| align="right" |DH <sub>406</sub>&nbsp;||{{flagicon|AUT}} [[Ramona Siebenhofer]]||{{flagicon|AUT}} [[Nicole Schmidhofer]]||{{flagicon|SLO}} [[Ilka Štuhec]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95520|title=Audi FIS Ski World Cup Cortina d'Ampezzo (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1623|| align="center" |22|| align="right" |20 January 2019 &nbsp;|| align="right" |SG <sub>230</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|LIE}} [[Tina Weirather]]||{{flagicon|AUT}} [[Tamara Tippler]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95521|title=Audi FIS Ski World Cup Cortina d'Ampezzo (ITA)|website=www.fis-ski.com}}</ref>
+|-
+|1624|| align="center" |23|| align="right" |<small>{{#tag:ref|Because of the bad weather forecast, program in [[Garmisch-Partenkirchen]] is switched. Super-G is rescheduled from 27 to 26 January 2019.|group="nb"}}</small>26 January 2019 &nbsp;|| rowspan="2" |{{flagicon|GER}} [[Garmisch Classic|Garmisch-Partenkirchen]]|| align="right" |SG <sub>231</sub>&nbsp;||{{flagicon|AUT}} [[Nicole Schmidhofer]]||{{flagicon|ITA}} [[Sofia Goggia]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Lara Gut-Behrami]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95531|title=Audi FIS Ski World Cup Garmisch-Partenkirchen (GER)|website=www.fis-ski.com}}</ref>
+|-
+|1625|| align="center" |24|| align="right" |<small>{{#tag:ref|Because of the bad weather forecast, program in [[Garmisch-Partenkirchen]] is switched. Downhill is rescheduled from 26 to 27 January 2019.|group="nb"}}</small>27 January 2019 &nbsp;|| align="right" |DH <sub>407</sub>&nbsp;||{{flagicon|AUT}} [[Stephanie Venier]]||{{flagicon|ITA}} [[Sofia Goggia]]||{{flagicon|GER}} [[Kira Weidle]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95530|title=Audi FIS Ski World Cup Garmisch-Partenkirchen (GER)|website=www.fis-ski.com}}</ref>
+|-
+|1626|| align="center" |25|| align="right" |1 February 2019 &nbsp;|| rowspan="2" |{{flagicon|SLO}} [[Maribor Pohorje Ski Resort|Maribor]]|| align="right" |GS <sub>410</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]<br />{{flagicon|SVK}} [[Petra Vlhová]]|| bgcolor="E6E8FA"| ||{{flagicon|NOR}} [[Ragnhild Mowinckel]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95537|title=Audi FIS Ski World Cup Maribor (SLO)|website=www.fis-ski.com}}</ref>
+|-
+|1627|| align="center" |26|| align="right" |2 February 2019 &nbsp;|| align="right" |SL <sub>461</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|SWE}} [[Anna Swenn-Larsson]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95538|title=Audi FIS Ski World Cup Maribor (SLO)|website=www.fis-ski.com}}</ref>
+|- style="background:#FFEBAD"
+| colspan="9" style="text-align:center;"|'''[[FIS Alpine World Ski Championships 2019|World Championships]] (5–17 February)'''
+|-
+|1628||align=center|27|| align="right" |19 February 2019 &nbsp;||{{flagicon|SWE}} [[Stockholm]]||align=right|{{Abbr|CE <sub>010</sub>|Ladies' Parallel Slalom/City Event No. 10 (in a row)}}&nbsp;|| {{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|GER}} [[Christina Geiger]]||{{flagicon|SWE}} [[Anna Swenn-Larsson]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95564|title=Audi FIS Ski World Cup Stockholm (SWE)|website=www.fis-ski.com}}</ref>
+|-
+|1629||align=center|28|| align="right" |23 February 2019 &nbsp;||rowspan=2|&nbsp;{{flagicon|SUI}}&nbsp; [[Crans-Montana]]||align=right|DH <sub>408</sub>&nbsp;||{{flagicon|ITA}} [[Sofia Goggia]]||{{flagicon|AUT}} [[Nicole Schmidhofer]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Corinne Suter]]|||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95568|title=Audi FIS Ski World Cup Crans-Montana (SUI)|website=www.fis-ski.com}}</ref>
+|-
+|1630||align=center|29|| align="right" |24 February 2019 &nbsp;||align=right|AC <sub>104</sub>&nbsp;||{{flagicon|ITA}} [[Federica Brignone]]||&nbsp;{{flagicon|CAN}}&nbsp;[[Roni Remme]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95569|title=Audi FIS Ski World Cup Crans-Montana (SUI)|website=www.fis-ski.com}}</ref>
+|-
+| colspan="2" rowspan="3" bgcolor="EDCCD5 " |  || align="right" |1 March 2019 &nbsp;|| rowspan="3" |{{flagicon|RUS}} [[Rosa Khutor Alpine Resort|Rosa Khutor]]||align=right bgcolor="EDCCD5"|DH  <sub>cnx</sub>&nbsp;|| colspan="4" rowspan="3" align="center" |''heavy snowfall''
+|-
+| align="right" |2 March 2019 &nbsp;||align=right bgcolor="EDCCD5"|SG <sub>cnx</sub>&nbsp;
+|-
+| align="right" |3 March 2019 &nbsp;|| align="right" bgcolor="EDCCD5"|SG <sub>cnx</sub>&nbsp;
+|-
+|1631|| align="center" |30|| align="right" |8 March 2019 &nbsp;||rowspan=2|{{flagicon|CZE}} [[Špindlerův Mlýn]]||align=right|GS <sub>411</sub>&nbsp;||{{flagicon|SVK}} [[Petra Vlhová]]||{{flagicon|GER}} [[Viktoria Rebensburg]]||{{flagicon|USA}} [[Mikaela Shiffrin]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95583|title=Audi FIS Ski World Cup Spindleruv Mlyn (CZE)|website=www.fis-ski.com}}</ref>
+|-
+|1632|| align="center" |31|| align="right" |9 March 2019 &nbsp;||align=right|SL <sub>462</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||{{flagicon|SVK}} [[Petra Vlhová]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95584|title=Audi FIS Ski World Cup Spindleruv Mlyn (CZE)|website=www.fis-ski.com}}</ref>
+|-
+|1633|| align="center" |32|| align="right" |13 March 2019 &nbsp;||rowspan=4|{{flagicon|AND}} [[Soldeu]]||align="right" |DH <sub>409</sub>&nbsp;||{{flagicon|AUT}} [[Mirjam Puchner]]||{{flagicon|GER}} [[Viktoria Rebensburg]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Corinne Suter]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95591|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1634|| align="center" |33|| align="right" |14 March 2019 &nbsp;||align=right|SG <sub>232</sub>&nbsp;||{{flagicon|GER}} [[Viktoria Rebensburg]]||{{flagicon|AUT}} [[Tamara Tippler]]||{{flagicon|ITA}} [[Federica Brignone]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95593|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1635|| align="center" |34|| align="right" |16 March 2019 &nbsp;||align=right|SL <sub>463</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||&nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]]||{{flagicon|SVK}} [[Petra Vlhová]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95595|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|-
+|1636|| align="center" |35|| align="right" |17 March 2019 &nbsp;||align=right|GS <sub>412</sub>&nbsp;||{{flagicon|USA}} [[Mikaela Shiffrin]]||{{flagicon|NZL}} [[Alice Robinson]]||{{flagicon|SVK}} [[Petra Vlhová]]||<ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95597|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|}
+
+===Rankings=== 
+{{col-begin}}
+{{col-3}}
+
+====Overall====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 35 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|USA}} [[Mikaela Shiffrin]]''' ||align="right"| 2204
+|-
+| style="text-align:center;"| 2 || {{flagicon|SVK}} [[Petra Vlhová]] ||align="right"| 1355
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]] ||align="right"| 1079
+|-
+| style="text-align:center;"| 4 || {{flagicon|GER}} [[Viktoria Rebensburg]] ||align="right"| 814
+|-
+| style="text-align:center;"| 5 || {{flagicon|AUT}} [[Nicole Schmidhofer]] ||align="right"| 771
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's overall|l1=2019 Women's overall}}
+{{col-3}}
+
+====Downhill====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 8 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|AUT}} [[Nicole Schmidhofer]]''' ||align="right"| 468
+|-
+| style="text-align:center;"| 2 || {{flagicon|AUT}} [[Stephanie Venier]] ||align="right"| 372
+|-
+| style="text-align:center;"| 3 || {{flagicon|AUT}} [[Ramona Siebenhofer]] ||align="right"| 354
+|-
+| style="text-align:center;"| 4 || {{flagicon|SLO}} [[Ilka Štuhec]] ||align="right"| 343
+|-
+| style="text-align:center;"| 5 || {{flagicon|GER}} [[Kira Weidle]] ||align="right"| 307
+|-
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's downhill|l1=2019 Women's downhill}}
+{{col-3}}
+
+====Super G====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 6 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|USA}} [[Mikaela Shiffrin]]''' ||align="right"| 350
+|-
+| style="text-align:center;"| 2 || {{flagicon|AUT}} [[Nicole Schmidhofer]] ||align="right"| 303
+|-
+| style="text-align:center;"| 3 || {{flagicon|LIE}} [[Tina Weirather]] ||align="right"| 268
+|-
+| style="text-align:center;"| 4 || {{flagicon|GER}} [[Viktoria Rebensburg]] ||align="right"| 257
+|-
+| style="text-align:center;"| 5 || {{flagicon|NOR}} [[Ragnhild Mowinckel]] ||align="right"| 247
+|-
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's super-G|l1=2019 Women's super-G}}
+{{col-end}}
+{{col-begin}}
+{{col-3}}
+
+====Giant Slalom====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 8 races'' 
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || {{flagicon|USA}} '''[[Mikaela Shiffrin]]''' ||align="right"| 615
+|-
+| style="text-align:center;"| 2 || {{flagicon|SVK}} [[Petra Vlhová]] ||align="right"| 478
+|-
+| style="text-align:center;"| 3 || {{flagicon|FRA}} [[Tessa Worley]] ||align="right"| 460
+|-
+| style="text-align:center;"| 4 || {{flagicon|GER}} [[Viktoria Rebensburg]] ||align="right"| 380
+|-
+| style="text-align:center;"| 5 || {{flagicon|ITA}} [[Federica Brignone]] ||align="right"| 360
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's giant slalom|l1=2019 Women's giant slalom}}
+{{col-3}}
+
+====Slalom/Parallel Slalom====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 12 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || {{flagicon|USA}} '''[[Mikaela Shiffrin]]''' ||align="right"|1160
+|-
+| style="text-align:center;"| 2 || {{flagicon|SVK}} [[Petra Vlhová]] ||align="right"|877
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]] ||align="right"| 681
+|-
+| style="text-align:center;"| 4 || {{flagicon|SWE}} [[Anna Swenn-Larsson]] ||align="right"| 486
+|-
+| style="text-align:center;"| 5 ||  {{flagicon|SWE}} [[Frida Hansdotter]] ||align="right"| 479
+|-
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's slalom|l1=2019 Women's slalom}}
+{{col-3}}
+
+====Combined====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 1 race''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|ITA}} [[Federica Brignone]]''' ||align="right"| 100
+|-
+| style="text-align:center;"| 2 || {{flagicon|CAN}} [[Roni Remme]] ||align="right"| 80
+|-
+| style="text-align:center;"| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]] ||align="right"| 60
+|-
+| style="text-align:center;"| 4 || &nbsp;{{flagicon|SUI}}&nbsp; [[Rahel Kopp]] ||align="right"| 50
+|-
+| style="text-align:center;"| 5 || {{flagicon|GER}} [[Patrizia Dorsch]] ||align="right"| 45
+|-
+|}
+{{Main|2019 Alpine Skiing World Cup – Women's combined|l1=2019 Women's combined}}
+{{col-end}}
+
+==Alpine team event==
+
+===Calendar===
+{| class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+ Event Key: PG – [[FIS Alpine Ski World Cup#Parallel giant slalom|Parallel Giant Slalom]]
+|-
+! style="width:30px;"| #
+! style="width:33px;"| Event
+! style="width:132px;"| Date
+! style="width:180px;"| Venue
+! style="width:42px;"| Type
+! style="width:185px;"| Winner
+! style="width:185px;"| Second
+! style="width:185px;"| Third
+! style="width:10px;"| Details
+|-
+|align=center|14||align=center|1||align=right|15 March 2019 &nbsp;||{{flagicon|AND}} [[Soldeu]] ||align=right|{{Abbr|PG <sub>011</sub>|Alpine team parallel giant slalom event No. 11 (in a row)}}&nbsp;
+| style="vertical-align: top;" |{{Relay|{{SUI}}|[[Aline Danioth]]|[[Wendy Holdener]]|[[Sandro Simonet]]*|[[Daniel Yule]]|[[Ramon Zenhäusern]]}}
+| style="vertical-align: top;" |{{Relay|{{NOR}}|[[Mina Fürst Holtmann]]|[[Sebastian Foss-Solevåg]]|[[Kristin Lysdahl]]*|[[Leif Kristian Nestvold-Haugen]]|[[Thea Louise Stjernesund]]|[[Rasmus Windingstad]]*}}
+| style="vertical-align: top;" |{{Relay|{{GER}}|[[Lena Dürr]]|[[Christina Geiger]]|[[Fabian Himmelsbach]]|[[Alexander Schmid]]*|[[Anton Tremmel]]}}
+| <ref>{{cite web|url=https://www.fis-ski.com/DB/general/results.html?sectorcode=AL&raceid=95731|title=Audi FIS Ski World Cup Grandvalira Soldeu - El Tarter (AND)|website=www.fis-ski.com}}</ref>
+|}
+<nowiki>*</nowiki> reserve skiers
+
+==Nations Cup==
+{{col-begin}}
+{{col-3}}
+'''Overall'''
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 74 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points 
+|-
+| style="text-align:center;"| 1 || '''{{AUT}}''' ||align="right"| 11581
+|-
+| style="text-align:center;"| 2 || &nbsp;{{SUI}}&nbsp; ||align="right"| 8102
+|-
+| style="text-align:center;"| 3 || {{NOR}} ||align="right"| 5716
+|-
+| style="text-align:center;"| 4 || {{ITA}} ||align="right"| 5685
+|-
+| style="text-align:center;"| 5 || {{FRA}} ||align="right"| 5543
+|}
+<!--THE TEAM EVENT COUNTS TOWARDS OVERALL NATIONS CUP or MEN + WOMEN + TEAM EVENT-->
+{{col-3}}
+
+'''Men'''
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 39 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{AUT}}''' ||align="right"| 6102
+|-
+| style="text-align:center;"| 2 || &nbsp;{{SUI}}&nbsp; ||align="right"| 4650
+|-
+| style="text-align:center;"| 3 || {{FRA}} ||align="right"| 4202
+|-
+| style="text-align:center;"| 4 || {{NOR}} ||align="right"| 3754
+|-
+| style="text-align:center;"| 5 || {{ITA}} ||align="right"| 2881
+|-
+|}
+{{col-3}}
+
+'''Ladies'''
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 36 races''
+!  style="border-bottom:1px solid #aaa; width:20px;"|Points
+|-
+| style="text-align:center;"| 1 || '''{{AUT}}''' ||align="right"| 5479
+|-
+| style="text-align:center;"| 2 || &nbsp;{{SUI}}&nbsp; ||align="right"| 3452
+|-
+| style="text-align:center;"| 3 || {{ITA}} ||align="right"| 2804
+|-
+| style="text-align:center;"| 4 || {{USA}} ||align="right"| 2498
+|-
+| style="text-align:center;"| 5 || {{NOR}} ||align="right"| 1962
+|}
+{{col-3}}
+{{col-end}}
+
+==Prize money==
+{{col-begin}}
+{{col-break|width=33%}}
+
+'''Top-5 men'''
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 38 races''
+!  style="border-bottom:1px solid #aaa; width:50px;"|[[Swiss Franc|CHF]]
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|AUT}} [[Marcel Hirscher]]''' ||align="right"| 565,111
+|-
+| style="text-align:center;"| 2 || {{flagicon|ITA}} [[Dominik Paris]] ||align="right"| 382,710
+|-
+| style="text-align:center;"| 3 || {{flagicon|FRA}} [[Alexis Pinturault]] ||align="right"| 242,631
+|-
+| style="text-align:center;"| 4 || {{flagicon|NOR}} [[Henrik Kristoffersen]] ||align="right"| 234,150
+|-
+| style="text-align:center;"| 5 || {{flagicon|FRA}} [[Clément Noël]] ||align="right"| 207,860
+|}
+{{col-break|width=33%}}
+
+'''Top-5 ladies'''
+{| cellspacing="1" cellpadding="3" style="border:1px solid #aaa; font-size:86%;"
+|- style="background:#e4e4e4;"
+!  style="border-bottom:1px solid #aaa; width:10px;"|Rank
+!  style="border-bottom:1px solid #aaa; width:200px; white-space:nowrap;"|''after all 35 races''
+!  style="border-bottom:1px solid #aaa; width:50px;"|[[Swiss Franc|CHF]]
+|-
+| style="text-align:center;"| 1 || '''{{flagicon|USA}} [[Mikaela Shiffrin]]''' ||align="right"| 886,386
+|-
+| style="text-align:center;"| 2 || {{flagicon|SVK}} [[Petra Vlhová]] ||align="right"| 428,195
+|-
+| style="text-align:center;"| 3 || {{flagicon|AUT}} [[Nicole Schmidhofer]] ||align="right"| 209,450
+|-
+| style="text-align:center;"| 4 || {{flagicon|GER}} [[Viktoria Rebensburg]] ||align="right"| 174,750
+|-
+| style="text-align:center;"| 5 || &nbsp;{{flagicon|SUI}}&nbsp; [[Wendy Holdener]] ||align="right"| 166,909
+|}
+{{col-break|width=36%}}
+{{col-end}}
+
+== Footnotes ==
+{{Reflist|group=nb}}
+
+== References ==
+{{Reflist}}
+
+{{Alpine Skiing World Cup}}
+{{Wintersport season 2018–19}}
+
+{{DEFAULTSORT:2018-19 Alpine Skiing World Cup}}
+[[Category:2018–19 FIS Alpine Ski World Cup| ]]
+[[Category:FIS Alpine Ski World Cup]]
+[[Category:2018 in alpine skiing|World Cup]]
+[[Category:2019 in alpine skiing|World Cup]]

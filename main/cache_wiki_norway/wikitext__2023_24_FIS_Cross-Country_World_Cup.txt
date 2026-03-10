@@ -1,0 +1,1566 @@
+{{Short description|Cross-country skiing competition}}
+{{Infobox Double Wintersport World Cup
+| title=2023–24 FIS Cross-Country World Cup
+| competition1       = [[Image:Bib Yellow.png|link=|alt=|18px]] Overall
+| competition1men    = {{flagicon|NOR}} '''[[Harald Østberg Amundsen]]''' '''<small>[[FIS Cross-Country World Cup# World Cup Standings|(1)]]</small>'''
+| competition1ladies = {{flagicon|USA}} '''[[Jessie Diggins]]''' '''<small>[[FIS Cross-Country World Cup# World Cup Standings|(2)]]</small>'''
+| competition2       = [[Image:Bib Red.png|link=|alt=|18px]] Distance
+| competition2men    = {{flagicon|NOR}} '''[[Harald Østberg Amundsen]]''' '''<small>[[FIS Cross-Country World Cup#Distance World Cup Standings|(1)]]</small>'''
+| competition2ladies = {{flagicon|USA}} '''[[Jessie Diggins]]''' '''<small>[[FIS Cross-Country World Cup#Distance World Cup Standings|(2)]]</small>'''
+| competition3       = [[Image:Bib Red.png|link=|alt=|18px]] Sprint
+| competition3men    = {{flagicon|NOR}} '''[[Johannes Høsflot Klæbo]]''' '''<small>[[FIS Cross-Country World Cup#Sprint World Cup Standings|(6)]]</small>'''
+| competition3ladies = {{flagicon|SWE}} '''[[Linn Svahn]]''' '''<small>[[FIS Cross-Country World Cup#Sprint World Cup Standings|(2)]]</small>'''
+| competition4       = [[Image:Bib Green.png|link=|alt=|18px]] U23
+| competition4men    = {{flagicon|SWE}} '''[[Edvin Anger]]''' '''<small>[[FIS Cross-Country World Cup#U23 World Cup Standings|(1)]]</small>'''
+| competition4ladies = {{flagicon|NOR}} '''[[Margrethe Bergane]]''' '''<small>[[FIS Cross-Country World Cup#U23 World Cup Standings|(1)]]</small>'''
+| competition5       = Bonus ranking
+| competition5men    = {{flagicon|NOR}} '''[[Johannes Høsflot Klæbo]]''' '''<small>[[FIS Cross-Country World Cup#Bonus Ranking Standings|(4)]]</small>'''
+| competition5ladies = {{flagicon|USA}} '''[[Jessie Diggins]]''' '''<small>[[FIS Cross-Country World Cup#Bonus Ranking Standings|(1)]]</small>'''
+| competition6       = Nations Cup
+| competition6men    = '''{{NOR}} <small>[[FIS Cross-Country World Cup#Nations Cup|(35)]]</small>'''
+| competition6ladies = '''{{SWE}} <small>[[FIS Cross-Country World Cup#Nations Cup|(3)]]</small>'''
+| mixedcompetition1  = Nations Cup overall
+| mixedcompetition1both= '''{{NOR}} <small>[[FIS Cross-Country World Cup#Nations Cup|(35)]]</small>'''
+| stageevent1=[[2023–24 Tour de Ski|Tour de Ski]]
+| stageevent1men     = {{flagicon|NOR}} '''[[Harald Østberg Amundsen]] <small>[[List of Tour de Ski men's overall winners|(1)]]</small>'''
+| stageevent1ladies  = {{flagicon|USA}} '''[[Jessie Diggins]] <small>[[List of Tour de Ski women's overall winners|(2)]]</small>'''
+| menseason          = 43rd
+| ladiesseason       = 43rd
+| menlocations       = 15
+| ladieslocations    = 15
+| menindividual      = 33
+| ladiesindividual   = 33
+| relaymen           = 3
+| relayladies        = 3
+| mixedmen           = 1
+| mixedladies        = 1
+| cancelledmen       = 
+| cancelledladies    = 
+| rescheduledmen     = 
+| rescheduledladies  = 
+| previous           = [[2022–23 FIS Cross-Country World Cup|2022–23]]
+| next               = [[2024–25 FIS Cross-Country World Cup|2024–25]]
+}}
+
+The '''2023–24 FIS Cross-Country World Cup''', organized by the [[International Ski Federation]] (FIS) was the 43rd [[FIS Cross-Country World Cup|World Cup]] in [[cross-country skiing (sport)|cross-country skiing]] for men and women.<ref>{{cite web|url=https://www.fis-ski.com/en/cross-country|title=FIS Cross-Country|website=www.fis-ski.com}}</ref><ref>{{Cite web|title=Rules for the FIS Cross Countrz World Cup Edition 2023/24|url=https://assets.fis-ski.com/image/upload/fis-prod/assets/1_World_Cup_Rules_Cross-Country2024_full.pdf|access-date=10 November 2023|website=fis-ski.com}}</ref> 
+
+The season started on 24 November 2023 in [[Rukatunturi|Ruka]], Finland, and concluded on 17 March 2024 in [[Falun]], Sweden.<ref>{{cite web|title=FIS Cross-Country World Cup 2023/24|url=https://assets.fis-ski.com/image/upload/fis-prod/assets/WC_Calendar_CC_2023-24.pdf|publisher=fis-ski.com|access-date=2 November 2023}}</ref>
+
+[[Johannes Høsflot Klæbo]] (men's) and [[Tiril Udnes Weng]] (women's), both of Norway, were the reigning champions from the [[2022–23 FIS Cross-Country World Cup|previous season]]. However, they did not defend their title.
+
+[[Harald Østberg Amundsen]] from Norway and [[Jessie Diggins]] from United States, became the new overall champions.
+
+In October 2023, FIS decided to prolong the suspension of the Russian and Belarusian national team from competitions due to the [[Russian invasion of Ukraine]].<ref>{{cite web|title=Decisions of the FIS Council Fall 2023|url=https://www.fis-ski.com/en/international-ski-federation/news-multimedia/news-2022/decisions-of-the-fis-council-fall-2023|publisher=fis-ski.com|access-date=25 October 2023}}</ref> 
+
+With a stop at the [[2024 Stifel Loppet Cup]] in Minneapolis, the season featured the first World Cup event in the United States in 23 years.<ref>{{cite web|title=Minnesota to host 1st World Cup XC ski event in US since '01|website=[[Associated Press News]] |date=15 February 2023 |url=https://apnews.com/article/sports-mexico-national-soccer-team-jessie-diggins-minnesota-covid-6dff348e948c94a9bd758d1275956bf3|access-date=15 February 2024}}</ref>
+
+== Map of world cup hosts ==
+All 15 locations hosting world cup events in this season.
+{| class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|-
+!colspan="5"|
+Europe
+{{location map+|Europe|float=center|width=875|caption=|places=
+{{Location map~|Europe|lat=66.1713|long=29.1608|label=[[Rukatunturi|Ruka]]|mark=Blue pog.svg|position=left}}
+{{Location map~|Europe|lat=67.13|long=20.66|label=[[Gällivare]]|mark=Blue pog.svg|position=top}}
+{{Location map~|Europe|lat=63.1902|long=14.6580|label=[[Östersund]]|mark=Blue pog.svg|position=right}}
+{{Location map~|Europe|lat=63.3775|long=10.3091|label=[[Trondheim]]|mark=Blue pog.svg|position=left}}
+{{Location map~|Europe|lat=46.7333|long=12.2167|label=[[Toblach]]|mark=Red pog.svg|position=right}}
+{{Location map~|Europe|lat=46.8|long=9.8333|label=[[Davos]]|mark=Red pog.svg|position=top}}
+{{Location map~|Europe|lat=46.2829|long=11.5238|label=[[Val di Fiemme]]|mark=Red pog.svg|position=bottom}}
+{{Location map~|Europe|lat=50.7080|long=10.6931|label=[[Oberhof, Germany|Oberhof]]|mark=Orange pog.svg|position=bottom}}
+{{Location map~|Europe|lat=46.45|long=8.2167|label=[[Goms, Valais|Goms]]|mark=Orange pog.svg|position=left}}
+{{Location map~|Europe|lat=60.9833|long=25.6294|label=[[Lahti]]|mark=Pink pog.svg|position=left}}
+{{Location map~|Europe|lat=59.9628|long=10.6645|label=[[Oslo]]|mark=Pink pog.svg|position=right}}
+{{Location map~|Europe|lat=59.7378|long=10.205|label=[[Drammen]]|mark=Pink pog.svg|position=left}}
+{{Location map~|Europe|lat=60.6208|long=15.6583|label=[[Falun]]|mark=Pink pog.svg|position=right}}
+}}
+|-
+!colspan=2|
+North America
+{{location map+|North America|float=center|width=260|caption=|places=
+{{Location map~|North America|lat=51.0925|long=-115.39|label=[[Canmore, Alberta|Canmore]]|mark=Orange pog.svg|position=left}}
+{{Location map~|North America|lat=44.9819|long=-93.2692|label=[[Minneapolis]]|mark=Orange pog.svg|position=top}}
+}}
+
+[[File:Blue pog.svg|10px]] <small>'''Period I'''</small>
+[[File:Red pog.svg|10px]] <small>'''Period II – Tour de Ski'''</small>
+[[File:Orange pog.svg|10px]] <small>'''Period III'''</small>
+[[File:Pink pog.svg|10px]] <small>'''Period IV'''</small>
+|}
+
+==Men==
+
+===Calendar===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+Key: C – Classic / F – Freestyle ; MSS – Mass Start / PUR – Pursuit
+! scope="col" style="width=10 px;"|{{Abbr|#|Season competition number}}
+! scope="col" style="width=10 px;"|{{Abbr|WC|Stage event at Tours counts only half points}}
+! scope="col" style="width:150px;"|Date
+! scope="col" style="width:120px;"|Place
+! scope="col" style="width:110px;"|Discipline
+! scope="col" style="background:gold; width:230px;" |Winner
+! scope="col" style="background:silver; width:230px;" |Second
+! scope="col" style="background:#c96; width:230px;" |Third
+! scope="col" style="width:10px;" |{{Abbr|R.|Reference}}
+|- 
+| align=center|1
+| align=center|1
+| align=right|24 November 2023
+| rowspan=3|{{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| Sprint C 
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|FRA}} [[Richard Jouve]]
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| <ref>{{cite web|title=Men's Sprint Classic – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2236/2024CC2236RL.pdf|website=[[International Ski Federation|FIS]]|date=24 November 2023}}</ref>
+|-
+| align=center|2
+| align=center|2
+| align=right|25 November 2023
+| 10 km C
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| {{flagicon|FIN}} [[Iivo Niskanen]]
+| {{flagicon|NOR}} [[Erik Valnes]]
+| <ref>{{cite web|title=Men's 10 km Individual Classic – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2238/2024CC2238RL.pdf|website=[[International Ski Federation|FIS]]|date=25 November 2023}}</ref>
+|-
+| align=center|3
+| align=center|3
+| align=right|26 November 2023
+| 20 km F MSS
+| {{flagicon|NOR}} [[Jan Thomas Jenssen]]
+| {{flagicon|CZE}} [[Michal Novák (skier)|Michal Novák]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| <ref>{{cite web|title=Men's 20 km Mass Start Free – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2240/2024CC2240RL.pdf|website=[[International Ski Federation|FIS]]|date=26 November 2023}}</ref>
+|-
+| align=center|4
+| align=center|4
+| align=right|2 December 2023
+| {{flagicon|SWE}} [[Gällivare]]
+| 10 km F
+| {{flagicon|NOR}} [[Pål Golberg]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|NOR}} [[Iver Tildheim Andersen]]
+| <ref>{{cite web|title=Men's 10 km Individual Free – Gällivare|url=http://medias1.fis-ski.com/pdf/2024/CC/2242/2024CC2242RL.pdf|website=[[International Ski Federation|FIS]]|date=2 December 2023}}</ref>
+|-
+| align=center|5
+| align=center|5
+| align=right|9 December 2023
+| rowspan=2|{{flagicon|SWE}} [[Östersund]]
+| Sprint C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|USA}} [[JC Schoonmaker]]
+| <ref>{{cite web|title=Men's Sprint Classic – Östersund|url=http://medias1.fis-ski.com/pdf/2024/CC/2248/2024CC2248RL.pdf|website=[[International Ski Federation|FIS]]|date=9 December 2023}}</ref>
+|- 
+| align=center|6
+| align=center|6
+| align=right|10 December 2023
+| 10 km F
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|NOR}} [[Simen Hegstad Krüger]]
+| {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]]
+| <ref>{{cite web|title=Men's 10 km Individual Free – Östersund|url=http://medias1.fis-ski.com/pdf/2024/CC/2250/2024CC2250RL.pdf|website=[[International Ski Federation|FIS]]|date=10 December 2023}}</ref>
+|-
+| align=center|7
+| align=center|7
+| align=right|15 December 2023
+| rowspan=3|{{flagicon|NOR}} [[Trondheim]]
+| Sprint F
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|FRA}} [[Lucas Chanavat]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| <ref>{{cite web|title=Men's Sprint Free – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2254/2024CC2254RL.pdf|website=[[International Ski Federation|FIS]]|date=15 December 2023}}</ref>
+|-
+| align=center|8
+| align=center|8
+| align=right|16 December 2023
+| 20 km skiathlon
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|GBR}} [[Andrew Musgrave]]
+| {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]]
+| <ref>{{cite web|title=Men's 20 km Skiathlon – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2256/2024CC2256RL.pdf|website=[[International Ski Federation|FIS]]|date=16 December 2023}}</ref>
+|-
+| align=center|9
+| align=center|9
+| align=right|17 December 2023
+| 10 km C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|NOR}} [[Pål Golberg]]
+| {{flagicon|NOR}} [[Henrik Dønnestad]]
+| <ref>{{cite web|title=Men's 10 km Individual Classic – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2258/2024CC2258RL.pdf|website=[[International Ski Federation|FIS]]|date=17 December 2023}}</ref>
+|- bgcolor=#BCD4E6
+| align=center rowspan=7|<small>[[Tour de Ski|TdS]]</small>
+| align=center|10
+| align=right|30 December 2023
+| rowspan=3| {{flagicon|ITA}} [[Toblach]]
+| Sprint F
+| {{flagicon|FRA}} [[Lucas Chanavat]] 
+| {{flagicon|FRA}} [[Jules Chappaz]]
+| {{flagicon|USA}} [[Ben Ogden]]
+| <ref>{{cite web|title=Men's Sprint Free – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2262/2024CC2262RL.pdf|website=[[International Ski Federation|FIS]]|date=30 December 2023}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|11
+| align=right|31 December 2023
+| 10 km C
+| {{flagicon|FIN}} [[Perttu Hyvärinen]]
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| <ref>{{cite web|title=Men's 10 km Individual Classic – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2264/2024CC2264RL.pdf|website=[[International Ski Federation|FIS]]|date=31 December 2023}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|12
+| align=right|1 January 2024
+| 20 km F PUR
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|NOR}} [[Jan Thomas Jenssen]]
+| <ref>{{cite web|title=Men's 20 km Pursuit Free – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2266/2024CC2266RL.pdf|website=[[International Ski Federation|FIS]]|date=1 January 2024}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|13
+| align=right|3 January 2024
+| rowspan=2| &nbsp;{{flagicon|SUI}}&nbsp; [[Davos]]
+| Sprint F
+| {{flagicon|FRA}} [[Lucas Chanavat]] 
+| {{flagicon|SWE}} [[Edvin Anger]]
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| <ref>{{cite web|title=Men's Sprint Free – Davos|url=http://medias1.fis-ski.com/pdf/2024/CC/2272/2024CC2272RL.pdf|website=[[International Ski Federation|FIS]]|date=3 January 2024}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|14
+| align=right|4 January 2024
+| 20 km C PUR
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|NOR}} [[Henrik Dønnestad]]
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| <ref>{{cite web|title=Men's 20 km Pursuit Classic – Davos|url=http://medias1.fis-ski.com/pdf/2024/CC/2274/2024CC2274RL.pdf|website=[[International Ski Federation|FIS]]|date=4 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|15
+| align=right|6 January 2024
+| rowspan=2|{{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| 15 km C MSS
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|SWE}} [[William Poromaa]]
+| &nbsp;{{flagicon|SUI}}&nbsp; [[Cyril Fähndrich]]
+| <ref>{{cite web|title=Men's 15 km Mass Start Classic – Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2024/CC/2276/2024CC2276RL.pdf|website=[[International Ski Federation|FIS]]|date=6 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|16
+| align=right|7 January 2024
+| 10 km F MSS Climb
+| {{flagicon|FRA}} [[Jules Lapierre]]
+| {{flagicon|GER}} [[Friedrich Moch]]
+| {{flagicon|FRA}} [[Hugo Lapalus]]
+| <ref>{{cite web|title=Men's 10 km Mass Start Free – Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2024/CC/2278/2024CC2278RL.pdf|website=[[International Ski Federation|FIS]]|date=7 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|10
+| colspan="4" align="center" |[[2023–24 Tour de Ski|18th Tour de Ski]] Overall<br><small>(30 December 2023 – 7 January 2024)</small>
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|GER}} [[Friedrich Moch]]
+| {{flagicon|FRA}} [[Hugo Lapalus]]
+| <ref>{{cite web|title=Men's 18th Tour de Ski Overall Standing|url=http://medias1.fis-ski.com/pdf/2024/CC/2278/2024CC2278TDS.pdf|website=[[International Ski Federation|FIS]]|date=7 January 2024}}</ref>
+|-
+| align=center|11
+| align=center|17
+| align=right|19 January 2024
+| rowspan=2|{{flagicon|GER}} [[Oberhof, Germany|Oberhof]]
+| Sprint C
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|NOR}} [[Ansgar Evensen]]
+| {{flagicon|NOR}} [[Even Northug]]
+| <ref>{{cite web|title=Men's Sprint Classic – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2282/2024CC2282RL.pdf|website=[[International Ski Federation|FIS]]|date=19 January 2024}}</ref>
+|-
+| align=center|12
+| align=center|18
+| align=right|20 January 2024
+| 20 km C MSS
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| {{flagicon|NOR}} [[Pål Golberg]]
+| <ref>{{cite web|title=Men's 20 km Mass Start Classic – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2284/2024CC2284RL.pdf|website=[[International Ski Federation|FIS]]|date=20 January 2024}}</ref>
+|- 
+| align=center|13
+| align=center|19
+| align=right|27 January 2024
+| rowspan=2|&nbsp;{{flagicon|SUI}}&nbsp; [[Goms, Valais|Goms]]
+| Sprint F
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|FRA}} [[Lucas Chanavat]]
+| {{flagicon|NOR}} [[Håvard Solås Taugbøl]]
+| <ref>{{cite web|title=Men's Sprint Free – Goms|url=http://medias1.fis-ski.com/pdf/2024/CC/2291/2024CC2291RL.pdf|website=[[International Ski Federation|FIS]]|date=27 January 2024}}</ref>
+|- 
+| align=center|14
+| align=center|20
+| align=right|28 January 2024
+| 20 km F MSS
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| {{flagicon|NOR}} [[Simen Hegstad Krüger]]
+| {{flagicon|FRA}} [[Jules Lapierre]]
+| <ref>{{cite web|title=Men's 20 km Mass Start Free – Goms|url=http://medias1.fis-ski.com/pdf/2024/CC/2293/2024CC2293RL.pdf|website=[[International Ski Federation|FIS]]|date=28 January 2024}}</ref>
+|- 
+| align=center|15
+| align=center|21
+| align=right|9 February 2024
+| rowspan=4|{{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| 15 km F MSS
+| {{flagicon|NOR}} [[Simen Hegstad Krüger]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|AUT}} [[Mika Vermeulen]]
+| <ref>{{cite web|title=Men's 15 km Mass Start Free – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2295/2024CC2295RL.pdf|website=[[International Ski Federation|FIS]]|date=9 February 2024}}</ref>
+|- 
+| align=center|16
+| align=center|22
+| align=right|10 February 2024
+| Sprint F
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|NOR}} [[Erik Valnes]]
+| {{flagicon|SWE}} [[Edvin Anger]]
+| <ref>{{cite web|title=Men's Sprint Free – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2299/2024CC2299RL.pdf|website=[[International Ski Federation|FIS]]|date=10 February 2024}}</ref>
+|- 
+| align=center|17
+| align=center|23
+| align=right|11 February 2024
+| 20 km C MSS
+| {{flagicon|NOR}} [[Pål Golberg]]
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|NOR}} [[Mattis Stenshagen]]
+| <ref>{{cite web|title=Men's 20 km Mass Start Classic – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2301/2024CC2301RL.pdf|website=[[International Ski Federation|FIS]]|date=11 February 2024}}</ref>
+|- 
+| align=center|18
+| align=center|24
+| align=right|13 February 2024
+| Sprint C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|FRA}} [[Richard Jouve]]
+| {{flagicon|NOR}} [[Erik Valnes]]
+| <ref>{{cite web|title=Men's Sprint Classic – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2305/2024CC2305RL.pdf|website=[[International Ski Federation|FIS]]|date=13 February 2024}}</ref>
+|-
+| align=center|19
+| align=center|25
+| align=right|17 February 2024
+| rowspan=2|{{flagicon|USA}} [[Theodore Wirth Park|Minneapolis]]
+| Sprint F
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|NOR}} [[Håvard Solås Taugbøl]]
+| <ref>{{cite web|title=Men's Sprint Free – Minneapolis|url=http://medias1.fis-ski.com/pdf/2024/CC/2309/2024CC2309RL.pdf|website=[[International Ski Federation|FIS]]|date=17 February 2024}}</ref>
+|-
+| align=center|20
+| align=center|26
+| align=right|18 February 2024
+| 10 km F
+| {{flagicon|USA}} [[Gus Schumacher (skier)|Gus Schumacher]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| {{flagicon|NOR}} [[Pål Golberg]]
+| <ref>{{cite web|title=Men's 10 km Individual Free – Minneapolis|url=http://medias1.fis-ski.com/pdf/2024/CC/2311/2024CC2311RL.pdf|website=[[International Ski Federation|FIS]]|date=18 February 2024}}</ref>
+|-
+| align=center|21
+| align=center|27
+| align=right|2 March 2024
+| rowspan=2|{{flagicon|FIN}} [[Lahti]]
+| 20 km C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| {{flagicon|FIN}} [[Iivo Niskanen]]
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| <ref>{{cite web|title=Men's 20 km Individual Classic – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2317/2024CC2317RL.pdf|website=[[International Ski Federation|FIS]]|date=2 March 2024}}</ref>
+|-
+| align=center|22
+| align=center|28
+| align=right|3 March 2024
+| Sprint F
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|FRA}} [[Lucas Chanavat]]
+| &nbsp;{{flagicon|SUI}}&nbsp; [[Valerio Grond]]
+| <ref>{{cite web|title=Men's Sprint Free – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2321/2024CC2321RL.pdf|website=[[International Ski Federation|FIS]]|date=3 March 2024}}</ref>
+|-
+| align=center|23
+| align=center|29
+| align=right|10 March 2024
+| {{flagicon|NOR}} [[Oslo]]
+| 50 km C MSS
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]  
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]  
+| {{flagicon|NOR}} [[Pål Golberg]]  
+| <ref>{{cite web|title=Men's 50 km Mass Start Classic – Oslo|url=http://medias1.fis-ski.com/pdf/2024/CC/2324/2024CC2324RL.pdf|website=[[International Ski Federation|FIS]]|date=10 March 2024}}</ref>
+|- 
+| align=center|24
+| align=center|30
+| align=right|12 March 2024
+| {{flagicon|NOR}} [[Drammen]]
+| Sprint C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|NOR}} [[Håvard Solås Taugbøl]]
+| {{flagicon|NOR}} [[Even Northug]]
+| <ref>{{cite web|title=Men's Sprint Classic – Drammen|url=http://medias1.fis-ski.com/pdf/2024/CC/2328/2024CC2328RL.pdf|website=[[International Ski Federation|FIS]]|date=12 March 2024}}</ref>
+|-
+| align=center|25
+| align=center|31
+| align=right|15 March 2024
+| rowspan=3|{{flagicon|SWE}} [[Falun]]
+| Sprint C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] 
+| {{flagicon|FIN}} [[Lauri Vuorinen]]
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| <ref>{{cite web|title=Men's Sprint Classic – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2332/2024CC2332RL.pdf|website=[[International Ski Federation|FIS]]|date=15 March 2024}}</ref>
+|-
+| align=center|26
+| align=center|32
+| align=right|16 March 2024
+| 10 km C
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| {{flagicon|FIN}} [[Iivo Niskanen]]
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| <ref>{{cite web|title=Men's 10 km Individual Classic – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2334/2024CC2334RL.pdf|website=[[International Ski Federation|FIS]]|date=16 March 2024}}</ref>
+|-
+| align=center|27
+| align=center|33
+| align=right|17 March 2024
+| 20 km F MSS
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| {{flagicon|NOR}} [[Gjøran Tefre]]
+| {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]]
+| <ref>{{cite web|title=Men's 20 km Mass Start Free – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2336/2024CC2336RL.pdf|website=[[International Ski Federation|FIS]]|date=17 March 2024}}</ref>
+|}
+
+=== Men's relay ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+Key: C – Classic / F – Freestyle
+!scope="col" style="width=10 px;"|{{Abbr|#|Season competition number}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:120px;"|Place
+!scope="col" style="width:120px;"|Discipline
+! scope="col" style="background:gold; width:220px;" |Winner
+! scope="col" style="background:silver; width:220px;" |Second
+! scope="col" style="background:#c96; width:220px;" |Third
+! scope="col" style="width:150px;" |Red bib<br>{{small|(After competition)}}<br>[[Image:Bib Red.png|link=|alt=|18px]]
+! scope="col" style="width:10px;" |{{Abbr|R.|Reference}}
+|-
+| align=center|1
+| align=right|{{nowrap|3 December 2023}}
+| {{flagicon|SWE}} [[Gällivare]]
+| 4 × 7.5 km relay C/F
+| {{Relay|{{NOR}}|1. [[Pål Golberg]]|2. [[Martin Løwstrøm Nyenget]]|3. [[Simen Hegstad Krüger]]|4. [[Jan Thomas Jenssen]]}}
+| {{Relay|{{SWE}} I|1. [[Johan Häggström]]|2. [[Calle Halfvarsson]]|3. [[Leo Johansson]]|4. [[Edvin Anger]]}}
+| {{Relay|{{GER}}|1. [[Janosch Brugger]]|2. [[Albert Kuchler (skier)|Albert Kuchler]]|3. [[Friedrich Moch]]|4. [[Anian Sossau]]}}
+| rowspan=3| {{NOR}}
+| <ref>{{cite web|title=Men's 4 x 7.5 km Relay Classic/Free – Gällivare|url=http://medias1.fis-ski.com/pdf/2024/CC/2244/2024CC2244RL.pdf|website=[[International Ski Federation|FIS]]|date=3 December 2023}}</ref>
+|-
+| align=center|2
+| align=right|21 January 2024
+| {{flagicon|GER}} [[Oberhof, Germany|Oberhof]]
+| 4 × 7.5 km relay C/F
+| {{Relay|{{NOR}} I|1. [[Martin Løwstrøm Nyenget]]|2. [[Erik Valnes]]|3. [[Pål Golberg]]|4. [[Johannes Høsflot Klæbo]]}}
+| {{Relay|{{ITA}} I|1. [[Dietmar Nöckler]]|2. [[Elia Barp]]|3. [[Simone Daprà]]|4. [[Federico Pellegrino]]}}
+| {{Relay|{{NOR}} II|1. [[Håvard Solås Taugbøl]]|2. [[Didrik Tønseth (skier)|Didrik Tønseth]]|3. [[Simen Hegstad Krüger]]|4. [[Mattis Stenshagen]]}} 
+| <ref>{{cite web|title=Men's 4 x 7.5 km Relay Classic/Free – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2286/2024CC2286RL.pdf|website=[[International Ski Federation|FIS]]|date=21 January 2024}}</ref>
+|- 
+| align=center|3
+| align=right|1 March 2024
+| {{flagicon|FIN}} [[Lahti]]
+| Team sprint C
+| {{Relay|{{NOR}} I|1. [[Pål Golberg]]|2. [[Johannes Høsflot Klæbo]]}}
+| {{Relay|{{NOR}} II|1. [[Håvard Solås Taugbøl]]|2. [[Even Northug]]}}
+| {{Relay|{{FIN}} I|1. [[Iivo Niskanen]]|2. [[Lauri Vuorinen]]}}
+| <ref>{{cite web|title=Men's Team Sprint Classic – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2315/2024CC2315RLTF.pdf|website=[[International Ski Federation|FIS]]|date=1 March 2024}}</ref>
+|}
+
+===Overall leaders [[Image:Bib Yellow.png|link=|alt=|18px]]===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+! style="width:1em;" | No.
+! style="width:14em;" | Holder
+! style="width:9em;" | Date gained
+! style="width:9em;" | Place
+! style="width:9em;" | Date lost
+! style="width:9em;" | Place
+! style="width:9em;" | Number of competitions
+|-
+| 1.
+| {{flagicon|NOR}} [[Erik Valnes]]
+| 24 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| 26 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| align=center|2
+|-
+| 2.
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| 26 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| 9 December 2023
+| {{flagicon|SWE}} [[Östersund]]
+| align=center|2
+|-
+| 3.
+| {{flagicon|NOR}} [[Pål Golberg]]
+| 9 December 2023
+| {{flagicon|SWE}} [[Östersund]]
+| 10 December 2023
+| {{flagicon|SWE}} [[Östersund]]
+| align=center|1
+|-
+| 4.
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| 10 December 2023
+| {{flagicon|SWE}} [[Östersund]]
+| 17 December 2023
+| {{flagicon|NOR}} [[Trondheim]]
+| align=center|3 
+|-
+| 5.
+| {{flagicon|NOR}} [[Johannes Høsflot Klæbo]]
+| 17 December 2023
+| {{flagicon|NOR}} [[Trondheim]]
+| 30 December 2023
+| {{flagicon|ITA}} [[Toblach]]
+| align=center|1
+|-
+| 6.
+| {{flagicon|NOR}} [[Harald Østberg Amundsen]]
+| 30 December 2023
+| {{flagicon|ITA}} [[Toblach]]
+| align=center colspan=2| '''Overall Winner'''
+| align=center|25
+|}
+
+=== Standings ===
+{{col-begin}}
+{{col-break|width=33%}}
+
+==== Overall ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=220|''after all 34 events''<ref>{{Cite web|title=Men's Overall standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=ALL&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Yellow.png|link=|alt=|18px]] || {{flagicon|NOR}} '''[[Harald Østberg Amundsen]]''' [[File:FIS Crystal Globe.svg|25px]] || align=right|'''2654'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] || align=right|2600
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|NOR}} [[Erik Valnes]] || align=right|2106
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Pål Golberg]] || align=right|1869
+|-
+| align=center| 5 || {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]] || align=right|1409
+|-
+| align=center| 6 || {{flagicon|GER}} [[Friedrich Moch]] || align=right|1305
+|-
+| align=center| 7 || {{flagicon|AUT}} [[Mika Vermeulen]] || align=right|1286
+|-
+| align=center| 8 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right|1229
+|-
+| align=center| 9 || {{flagicon|FRA}} [[Hugo Lapalus]] || align=right|1201
+|-
+| align=center| 10 || {{flagicon|CAN}} [[Antoine Cyr]]  || align=right|1095
+|}
+{{col-break|width=33%}}
+
+==== Distance ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=230|''after all 20 events''<ref>{{Cite web|title=Men's Distance standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=DI&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Red.png|link=|alt=|18px]] || {{flagicon|NOR}} '''[[Harald Østberg Amundsen]]''' [[File:FIS Crystal Globe.svg|20px]] || align=right|'''1571'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Johannes Høsflot Klæbo]] || align=right| 1389
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|NOR}} [[Pål Golberg]] || align=right| 1334
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]] || align=right| 1154
+|-
+| align=center| 5 || {{flagicon|AUT}} [[Mika Vermeulen]] || align=right| 1029
+|-
+| align=center| 6 || {{flagicon|GER}} [[Friedrich Moch]] || align=right| 1016
+|-
+| align=center| 7 || {{flagicon|FRA}} [[Hugo Lapalus]] || align=right| 931
+|-
+| align=center| 8 || {{flagicon|GBR}} [[Andrew Musgrave]] || align=right| 910
+|-
+| align=center| 9 || {{flagicon|NOR}} [[Erik Valnes]] || align=right| 877
+|-
+| align=center| 10 || {{flagicon|NOR}} [[Simen Hegstad Krüger]] || align=right| 862
+|}
+{{col-break|width=33%}}
+
+==== Sprint ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 13 events''<ref>{{Cite web|title=Men's Sprint standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=SP&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Red.png|link=|alt=|18px]] || {{flagicon|NOR}} '''[[Johannes Høsflot Klæbo]]''' [[File:FIS Crystal Globe.svg|20px]] || align=right|'''1211'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Erik Valnes]] || align=right|1004
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|FRA}} [[Lucas Chanavat]] || align=right|937
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Håvard Solås Taugbøl]] || align=right|803
+|-
+| align=center| 5 || {{flagicon|NOR}} [[Harald Østberg Amundsen]] || align=right|783
+|-
+| align=center| 6 || {{flagicon|NOR}} [[Even Northug]] || align=right|773
+|-
+| align=center| 7 || &nbsp;{{flagicon|SUI}}&nbsp; [[Valerio Grond]] || align=right|735
+|-
+| align=center| 8 || {{flagicon|SWE}} [[Edvin Anger]] || align=right|675
+|-
+| align=center| 9 || {{flagicon|FIN}} [[Lauri Vuorinen]] || align=right|645
+|-
+| align=center| 10 || {{flagicon|USA}} [[JC Schoonmaker]] || align=right|639
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+==== U23 ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 34 events''<ref>{{Cite web|title=Men's U23 standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WCU23&disciplinecode=ALL&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Green.png|link=|alt=|18px]] || {{flagicon|SWE}} '''[[Edvin Anger]]''' || align=right|'''942'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|ITA}} [[Elia Barp]] || align=right|654
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|USA}} [[Zanden McMullen]] || align=right|483
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Matz William Jenssen]] || align=right|383
+|-
+| align=center| 5 || {{flagicon|SWE}} [[Emil Danielsson (skier)|Emil Danielsson]] || align=right|352
+|-
+| align=center| 6 || {{flagicon|FIN}} [[Niilo Moilanen]] || align=right|347
+|-
+| align=center| 7 || {{flagicon|FIN}} [[Emil Liekari]] || align=right|245
+|-
+| align=center| 8 || {{flagicon|FRA}} [[Rémi Bourdin]] || align=right|240
+|-
+| align=center| 9 || {{flagicon|GER}} [[Jan Stölben]] || align=right|225
+|-
+| align=center| 10 || {{flagicon|NOR}} [[Martin Kirkeberg Mørk]] || align=right|196
+|}
+{{col-break|width=33%}}
+
+==== Bonus ranking ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 11 events''<ref>{{Cite web|title=Men's Bonus Ranking standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=BON&disciplinecode=ALL&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| 1 || {{flagicon|NOR}} '''[[Johannes Høsflot Klæbo]]''' || align=right|'''243'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Harald Østberg Amundsen]] || align=right|212
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|NOR}} [[Erik Valnes]] || align=right|140
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]] || align=right|126
+|-
+| align=center| 5 || {{flagicon|FRA}} [[Lucas Chanavat]] || align=right|120
+|-
+| align=center| 6 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right|88
+|-
+| align=center| 7 || {{flagicon|GBR}} [[Andrew Musgrave]] || align=right|84
+|-
+| align=center| 8 || {{flagicon|NOR}} [[Pål Golberg]] || align=right|83
+|-
+| align=center| 9 || {{flagicon|AUT}} [[Mika Vermeulen]] || align=right|80
+|-
+| align=center| 10 || &nbsp;{{flagicon|SUI}}&nbsp; [[Valerio Grond]] || align=right|76
+|}
+{{col-break|width=33%}}
+
+==== Prize money ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA; width: 10px;"|Rank
+!style="border-bottom:1px solid #AAAAAA; width: 200px;"|''after all 47 payouts''<ref>{{Cite web|title=Men's Prize Money standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WCPR&disciplinecode=ALL&gendercode=M&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA; width: 50px;"|[[Swiss Franc|CHF]]
+|- style="background:#f7f6a8;"
+| align=center| 1 || {{flagicon|NOR}} '''[[Johannes Høsflot Klæbo]]'''  || align=right| '''326 950'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Harald Østberg Amundsen]] || align=right| 247 800
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|NOR}} [[Erik Valnes]] || align=right| 171 750
+|-
+| align=center| 4 || {{flagicon|NOR}} [[Pål Golberg]] || align=right| 124 300
+|-
+| align=center| 5 || {{flagicon|NOR}} [[Martin Løwstrøm Nyenget]] || align=right| 116 600
+|-
+| align=center| 6 || {{flagicon|GER}} [[Friedrich Moch]] || align=right| 94 325
+|-
+| align=center| 7 || {{flagicon|FRA}} [[Hugo Lapalus]] || align=right| 61 000
+|-
+| align=center| 8 || {{flagicon|NOR}} [[Simen Hegstad Krüger]] || align=right| 58 450
+|-
+| align=center| 9 || {{flagicon|FRA}} [[Lucas Chanavat]] || align=right| 54 000
+|-
+| align=center| 10 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right| 44 475
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+==Women==
+
+===Calendar===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+Key: C – Classic / F – Freestyle ; MSS – Mass Start / PUR – Pursuit
+! scope="col" style="width=10 px;"|{{Abbr|#|Season competition number}}
+! scope="col" style="width=10 px;"|{{Abbr|WC|Stage event at Tours counts only half points}}
+! scope="col" style="width:150px;"|Date
+! scope="col" style="width:120px;"|Place
+! scope="col" style="width:95px;"|Discipline
+! scope="col" style="background:gold; width:235px;" |Winner
+! scope="col" style="background:silver; width:235px;" |Second
+! scope="col" style="background:#c96; width:235px;" |Third
+! scope="col" style="width:10px;" |{{Abbr|R.|Reference}}
+|- 
+| align=center|1
+| align=center|1
+| align=right|24 November 2023
+| rowspan=3|{{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| Sprint C 
+| {{flagicon|SWE}} [[Emma Ribom]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| <ref>{{cite web|title=Women's Sprint Classic – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2235/2024CC2235RL.pdf|website=[[International Ski Federation|FIS]]|date=24 November 2023}}</ref>
+|-
+| align=center|2
+| align=center|2
+| align=right|25 November 2023
+| 10 km C
+| {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+| {{flagicon|USA}} [[Rosie Brennan]]
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| <ref>{{cite web|title=Women's 10 km Individual Classic – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2237/2024CC2237RL.pdf|website=[[International Ski Federation|FIS]]|date=25 November 2023}}</ref>
+|-
+| align=center|3
+| align=center|3
+| align=right|26 November 2023
+| 20 km F MSS
+| {{flagicon|SWE}} [[Moa Ilar]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|USA}} [[Rosie Brennan]]
+| <ref>{{cite web|title=Women's 20 km Mass Start Free – Ruka|url=http://medias1.fis-ski.com/pdf/2024/CC/2239/2024CC2239RL.pdf|website=[[International Ski Federation|FIS]]|date=26 November 2023}}</ref>
+|-
+| align=center|4
+| align=center|4
+| align=right|2 December 2023
+| {{flagicon|SWE}} [[Gällivare]]
+| 10 km F
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+| {{flagicon|SWE}} [[Moa Ilar]]
+| <ref>{{cite web|title=Women's 10 km Individual Free – Gällivare|url=http://medias1.fis-ski.com/pdf/2024/CC/2241/2024CC2241RL.pdf|website=[[International Ski Federation|FIS]]|date=2 December 2023}}</ref>
+|-
+| align=center|5
+| align=center|5
+| align=right|9 December 2023
+| rowspan=2|{{flagicon|SWE}} [[Östersund]]
+| Sprint C 
+| {{flagicon|SWE}} [[Emma Ribom]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| <ref>{{cite web|title=Women's Sprint Classic – Östersund|url=http://medias1.fis-ski.com/pdf/2024/CC/2247/2024CC2247RL.pdf|website=[[International Ski Federation|FIS]]|date=9 December 2023}}</ref>
+|- 
+| align=center|6
+| align=center|6
+| align=right|10 December 2023
+| 10 km F
+| {{flagicon|USA}} [[Jessie Diggins]] 
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|GER}} [[Victoria Carl]]
+| <ref>{{cite web|title=Women's 10 km Individual Free – Östersund|url=http://medias1.fis-ski.com/pdf/2024/CC/2249/2024CC2249RL.pdf|website=[[International Ski Federation|FIS]]|date=10 December 2023}}</ref>
+|-
+| align=center|7
+| align=center|7
+| align=right|15 December 2023
+| rowspan=3|{{flagicon|NOR}} [[Trondheim]]
+| Sprint F
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Emma Ribom]]
+| <ref>{{cite web|title=Women's Sprint Free – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2253/2024CC2253RL.pdf|website=[[International Ski Federation|FIS]]|date=15 December 2023}}</ref>
+|-
+| align=center|8
+| align=center|8
+| align=right|16 December 2023
+| 20 km skiathlon
+| {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Women's 20 km Skiathlon – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2255/2024CC2255RL.pdf|website=[[International Ski Federation|FIS]]|date=16 December 2023}}</ref>
+|-
+| align=center|9
+| align=center|9
+| align=right|17 December 2023
+| 10 km C
+| {{flagicon|GER}} [[Victoria Carl]]
+| {{flagicon|USA}} [[Rosie Brennan]]
+| {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+| <ref>{{cite web|title=Women's 10 km Individual Classic – Trondheim|url=http://medias1.fis-ski.com/pdf/2024/CC/2257/2024CC2257RL.pdf|website=[[International Ski Federation|FIS]]|date=17 December 2023}}</ref>
+|- bgcolor=#BCD4E6
+| align=center rowspan=7|<small>[[Tour de Ski|TdS]]</small>
+| align=center|10
+| align=right|30 December 2023
+| rowspan=3| {{flagicon|ITA}} [[Toblach]]
+| Sprint F
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| <ref>{{cite web|title=Women's Sprint Free – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2261/2024CC2261RL.pdf|website=[[International Ski Federation|FIS]]|date=30 December 2023}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|11
+| align=right|31 December 2023
+| 10 km C
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| {{flagicon|GER}} [[Victoria Carl]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Women's 10 km Individual Classic – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2263/2024CC2263RL.pdf|website=[[International Ski Federation|FIS]]|date=31 December 2023}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|12
+| align=right|1 January 2024
+| 20 km F PUR
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|GER}} [[Victoria Carl]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| <ref>{{cite web|title=Women's 20 km Pursuit Free – Toblach|url=http://medias1.fis-ski.com/pdf/2024/CC/2265/2024CC2265RL.pdf|website=[[International Ski Federation|FIS]]|date=1 January 2024}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|13
+| align=right|3 January 2024
+| rowspan=2| &nbsp;{{flagicon|SUI}}&nbsp; [[Davos]]
+| Sprint F
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Women's Sprint Free – Davos|url=http://medias1.fis-ski.com/pdf/2024/CC/2271/2024CC2271RL.pdf|website=[[International Ski Federation|FIS]]|date=3 January 2024}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|14
+| align=right|4 January 2024
+| 20 km C PUR
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| {{flagicon|USA}} [[Rosie Brennan]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Women's 20 km Pursuit Classic – Davos|url=http://medias1.fis-ski.com/pdf/2024/CC/2273/2024CC2273RL.pdf|website=[[International Ski Federation|FIS]]|date=4 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|15
+| align=right|6 January 2024
+| rowspan=2|{{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| 15 km C MSS
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|GER}} [[Katharina Hennig]]
+| <ref>{{cite web|title=Women's 15 km Mass Start Classic – Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2024/CC/2275/2024CC2275RL.pdf|website=[[International Ski Federation|FIS]]|date=6 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|16
+| align=right|7 January 2024
+| 10 km F MSS climb
+| {{flagicon|USA}} [[Sophia Laukli]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|FRA}} [[Delphine Claudel]]
+| <ref>{{cite web|title=Women's 10 km Mass Start Free – Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2024/CC/2277/2024CC2277RL.pdf|website=[[International Ski Federation|FIS]]|date=7 January 2024}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|10
+| colspan="4" align="center" |[[2023–24 Tour de Ski|18th Tour de Ski]] Overall<br><small>(30 December 2023 – 7 January 2024)</small>
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| <ref>{{cite web|title=Women's 18th Tour de Ski Overall Standing|url=http://medias1.fis-ski.com/pdf/2024/CC/2277/2024CC2277TDS.pdf|website=[[International Ski Federation|FIS]]|date=7 January 2024}}</ref>
+|-
+| align=center|11
+| align=center|17
+| align=right|19 January 2024
+| rowspan=2|{{flagicon|GER}} [[Oberhof, Germany|Oberhof]]
+| Sprint C
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| <ref>{{cite web|title=Women's Sprint Classic – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2281/2024CC2281RL.pdf|website=[[International Ski Federation|FIS]]|date=19 January 2024}}</ref>
+|-
+| align=center|12
+| align=center|18
+| align=right|20 January 2024
+| 20 km C MSS
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|GER}} [[Katharina Hennig]]
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| <ref>{{cite web|title=Women's 20 km Mass Start Classic – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2283/2024CC2283RL.pdf|website=[[International Ski Federation|FIS]]|date=20 January 2024}}</ref>
+|- 
+| align=center|13
+| align=center|19
+| align=right|27 January 2024
+| rowspan=2|&nbsp;{{flagicon|SUI}}&nbsp; [[Goms, Valais|Goms]]
+| Sprint F
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Maja Dahlqvist]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| <ref>{{cite web|title=Women's Sprint Free – Goms|url=http://medias1.fis-ski.com/pdf/2024/CC/2290/2024CC2290RL.pdf|website=[[International Ski Federation|FIS]]|date=27 January 2024}}</ref>
+|- 
+| align=center|14
+| align=center|20
+| align=right|28 January 2024
+| 20 km F MSS
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| &nbsp;{{flagicon|SUI}}&nbsp; [[Nadine Fähndrich]]
+| <ref>{{cite web|title=Women's 20 km Mass Start Free – Goms|url=http://medias1.fis-ski.com/pdf/2024/CC/2292/2024CC2292RL.pdf|website=[[International Ski Federation|FIS]]|date=28 January 2024}}</ref>
+|- 
+| align=center|15
+| align=center|21
+| align=right|9 February 2024
+| rowspan=4|{{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| 15 km F MSS
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|FRA}} [[Delphine Claudel]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Women's 15 km Mass Start Free – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2294/2024CC2294RL.pdf|website=[[International Ski Federation|FIS]]|date=9 February 2024}}</ref>
+|- 
+| align=center|16
+| align=center|22
+| align=right|10 February 2024
+| Sprint F
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Maja Dahlqvist]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| <ref>{{cite web|title=Women's Sprint Free – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2298/2024CC2298RL.pdf|website=[[International Ski Federation|FIS]]|date=10 February 2024}}</ref>
+|- 
+| align=center|17
+| align=center|23
+| align=right|11 February 2024
+| 20 km C MSS
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Women's 20 km Mass Start Classic – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2300/2024CC2300RL.pdf|website=[[International Ski Federation|FIS]]|date=11 February 2024}}</ref>
+|- 
+| align=center|18
+| align=center|24
+| align=right|13 February 2024
+| Sprint C
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| <ref>{{cite web|title=Women's Sprint Classic – Canmore|url=http://medias1.fis-ski.com/pdf/2024/CC/2304/2024CC2304RL.pdf|website=[[International Ski Federation|FIS]]|date=13 February 2024}}</ref>
+|-
+| align=center|19
+| align=center|25
+| align=right|17 February 2024
+| rowspan=2|{{flagicon|USA}} [[Theodore Wirth Park|Minneapolis]]
+| Sprint F
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| <ref>{{cite web|title=Women's Sprint Free – Minneapolis|url=http://medias1.fis-ski.com/pdf/2024/CC/2308/2024CC2308RL.pdf|website=[[International Ski Federation|FIS]]|date=17 February 2024}}</ref>
+|-
+| align=center|20
+| align=center|26
+| align=right|18 February 2024
+| 10 km F
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Women's 10 km Individual Free – Minneapolis|url=http://medias1.fis-ski.com/pdf/2024/CC/2310/2024CC2310RL.pdf|website=[[International Ski Federation|FIS]]|date=18 February 2024}}</ref>
+|-
+| align=center|21
+| align=center|27
+| align=right|2 March 2024
+| rowspan=2|{{flagicon|FIN}} [[Lahti]]
+| 20 km C
+| {{flagicon|FIN}} [[Krista Pärmäkoski]]
+| {{flagicon|GER}} [[Victoria Carl]]
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| <ref>{{cite web|title=Women's 20 km Individual Classic – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2316/2024CC2316RL.pdf|website=[[International Ski Federation|FIS]]|date=2 March 2024}}</ref>
+|-
+| align=center|22
+| align=center|28
+| align=right|3 March 2024
+| Sprint F
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|GER}} [[Coletta Rydzek]]
+| {{flagicon|SWE}} [[Maja Dahlqvist]]
+| <ref>{{cite web|title=Women's Sprint Free – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2320/2024CC2320RL.pdf|website=[[International Ski Federation|FIS]]|date=3 March 2024}}</ref>
+|-
+| align=center|23
+| align=center|29
+| align=right|9 March 2024
+| {{flagicon|NOR}} [[Oslo]]
+| 50 km C MSS
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+| {{flagicon|GER}} [[Katharina Hennig]]
+| <ref>{{cite web|title=Women's 50 km Mass Start Classic – Oslo|url=http://medias1.fis-ski.com/pdf/2024/CC/2323/2024CC2323RL.pdf|website=[[International Ski Federation|FIS]]|date=9 March 2024}}</ref>
+|- 
+| align=center|24
+| align=center|30
+| align=right|12 March 2024
+| {{flagicon|NOR}} [[Drammen]]
+| Sprint C
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|USA}} [[Rosie Brennan]]
+| <ref>{{cite web|title=Women's Sprint Classic – Drammen|url=http://medias1.fis-ski.com/pdf/2024/CC/2327/2024CC2327RL.pdf|website=[[International Ski Federation|FIS]]|date=12 March 2024}}</ref>
+|-
+| align=center|25
+| align=center|31
+| align=right|15 March 2024
+| rowspan=3|{{flagicon|SWE}} [[Falun]]
+| Sprint C
+| {{flagicon|NOR}} [[Kristine Stavås Skistad]]
+| {{flagicon|SWE}} [[Linn Svahn]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| <ref>{{cite web|title=Women's Sprint Classic – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2331/2024CC2331RL.pdf|website=[[International Ski Federation|FIS]]|date=15 March 2024}}</ref>
+|-
+| align=center|26
+| align=center|32
+| align=right|16 March 2024
+| 10 km C
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| {{flagicon|FIN}} [[Johanna Matintalo]]
+| {{flagicon|SWE}} [[Jonna Sundling]]
+| <ref>{{cite web|title=Women's 10 km Individual Classic – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2333/2024CC2333RL.pdf|website=[[International Ski Federation|FIS]]|date=16 March 2024}}</ref>
+|-
+| align=center|27
+| align=center|33
+| align=right|17 March 2024
+| 20 km F MSS
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Anne Kjersti Kalvå]]
+| <ref>{{cite web|title=Women's 20 km Mass Start Free – Falun|url=http://medias1.fis-ski.com/pdf/2024/CC/2335/2024CC2335RL.pdf|website=[[International Ski Federation|FIS]]|date=17 March 2024}}</ref>
+|}
+
+=== Women's relay ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+Key: C – Classic / F – Freestyle
+!scope="col" style="width=10 px;"|{{Abbr|#|Season competition number}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:120px;"|Place
+!scope="col" style="width:120px;"|Discipline
+! scope="col" style="background:gold; width:220px;" |Winner
+! scope="col" style="background:silver; width:220px;" |Second
+! scope="col" style="background:#c96; width:220px;" |Third
+! scope="col" style="width:150px;" |Red bib<br>{{small|(After competition)}}<br>[[Image:Bib Red.png|link=|alt=|18px]]
+! scope="col" style="width:10px;" |{{Abbr|R.|Reference}}
+|-
+| align=center|1
+| align=right|3 December 2023
+| {{flagicon|SWE}} [[Gällivare]]
+| 4 × 7.5 km relay C/F
+| {{Relay|{{SWE}} I|1. [[Moa Lundgren]]|2. [[Emma Ribom]]|3. [[Ebba Andersson (cross-country skier)|Ebba Andersson]]|4. [[Moa Ilar]]}}
+| {{Relay|{{GER}} I|1. [[Laura Gimmler]]|2. [[Katharina Hennig]]|3. [[Pia Fink]]|4. [[Victoria Carl]]}}
+| {{Relay|{{USA}} |1. [[Jessie Diggins]]|2. [[Rosie Brennan]]|3. [[Sophia Laukli]]|4. [[Julia Kern]]}}
+| rowspan=3| {{SWE}}
+| <ref>{{cite web|title=Women's 4 x 7.5 km Relay Classic/Free – Gällivare|url=http://medias1.fis-ski.com/pdf/2024/CC/2243/2024CC2243RL.pdf|website=[[International Ski Federation|FIS]]|date=3 December 2023}}</ref>
+|-
+| align=center|2
+| align=right|21 January 2024
+| {{flagicon|GER}} [[Oberhof, Germany|Oberhof]]
+| 4 × 7.5 km relay C/F
+| {{Relay|{{SWE}} I|1. [[Linn Svahn]]|2. [[Frida Karlsson]]|3. [[Ebba Andersson (cross-country skier)|Ebba Andersson]]|4. [[Jonna Sundling]]}}
+| {{Relay|{{GER}} I|1. [[Katherine Sauerbrey]]|2. [[Katharina Hennig]]|3. [[Pia Fink]]|4. [[Victoria Carl]]}}
+| {{Relay|{{FIN}} |1. [[Johanna Matintalo]]|2. [[Anne Kyllönen]]|3. [[Krista Pärmäkoski]]|4. [[Jasmi Joensuu]]}}
+| <ref>{{cite web|title=Women's 4 x 7.5 km Relay Classic/Free – Oberhof|url=http://medias1.fis-ski.com/pdf/2024/CC/2285/2024CC2285RL.pdf|website=[[International Ski Federation|FIS]]|date=21 January 2024}}</ref>
+|- 
+| align=center|3
+| align=right|1 March 2024
+| {{flagicon|FIN}} [[Lahti]]
+| Team sprint C
+| {{Relay|{{SWE}} I|1. [[Jonna Sundling]]|2. [[Linn Svahn]]}}
+| {{Relay|{{FIN}} I|1. [[Krista Pärmäkoski]]|2. [[Johanna Matintalo]]}}
+| {{Relay|{{GER}} I|1. [[Katharina Hennig]]|2. [[Laura Gimmler]]}}
+| <ref>{{cite web|title=Women's Team Sprint Classic – Lahti|url=http://medias1.fis-ski.com/pdf/2024/CC/2314/2024CC2314RLTF.pdf|website=[[International Ski Federation|FIS]]|date=1 March 2024}}</ref>
+|}
+
+===Overall leaders [[Image:Bib Yellow.png|link=|alt=|18px]]===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+! style="width:1em;" | No.
+! style="width:14em;" | Holder
+! style="width:9em;" | Date gained
+! style="width:9em;" | Place
+! style="width:9em;" | Date lost
+! style="width:9em;" | Place
+! style="width:9em;" | Number of competitions
+|-
+| 1.
+| {{flagicon|SWE}} [[Emma Ribom]]
+| 24 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| 25 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| align=center|1
+|-
+| 2.
+| {{flagicon|SWE}} [[Frida Karlsson]]
+| 25 November 2023
+| {{flagicon|FIN}} [[Rukatunturi|Ruka]]
+| 2 December 2023
+| {{flagicon|SWE}} [[Gällivare]]
+| align=center|2
+|-
+| 3.
+| {{flagicon|USA}} [[Jessie Diggins]]
+| 2 December 2023
+| {{flagicon|SWE}} [[Gällivare]] 
+| align=center colspan=2| '''Overall Winner'''
+| align=center|31
+|}
+
+=== Standings ===
+{{col-begin}}
+{{col-break|width=33%}}
+
+==== Overall ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 34 events''<ref>{{Cite web|title=Women's Overall standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=ALL&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Yellow.png|link=|alt=|18px]] || {{flagicon|USA}} '''[[Jessie Diggins]]''' [[File:FIS Crystal Globe.svg|25px]] || align=right|'''2746'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|SWE}} [[Linn Svahn]] || align=right|2571
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|SWE}} [[Frida Karlsson]] || align=right|2309
+|-
+| align=center| 4 || {{flagicon|GER}} [[Victoria Carl]] || align=right|2114
+|-
+| align=center| 5 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|2080
+|-
+| align=center| 6 || {{flagicon|SWE}} [[Jonna Sundling]] || align=right|2066
+|-
+| align=center| 7 || {{flagicon|USA}} [[Rosie Brennan]] || align=right|2019
+|-
+| align=center| 8 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|1673
+|-
+| align=center| 9 || {{flagicon|SWE}} [[Emma Ribom]] || align=right|1636
+|-
+| align=center| 10 || {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]] || align=right|1409
+|}
+{{col-break|width=33%}}
+
+==== Distance ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 20 events''<ref>{{Cite web|title=Women's Distance standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=DI&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Red.png|link=|alt=|18px]] || {{flagicon|USA}} '''[[Jessie Diggins]]''' [[File:FIS Crystal Globe.svg|20px]]  || align=right|'''1623'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|GER}} [[Victoria Carl]] || align=right|1399
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]] || align=right|1355
+|-
+| align=center| 4 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|1354
+|-
+| align=center| 5 || {{flagicon|SWE}} [[Frida Karlsson]] || align=right|1321
+|-
+| align=center| 6 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|1275
+|-
+| align=center| 7 || {{flagicon|USA}} [[Rosie Brennan]] || align=right|1221
+|-
+| align=center| 8 || {{flagicon|SWE}} [[Linn Svahn]] || align=right|1072
+|-
+| align=center| 9 || {{flagicon|AUT}} [[Teresa Stadlober]] || align=right|1022
+|-
+| align=center| 10 || {{flagicon|GER}} [[Katharina Hennig]] || align=right|964
+|}
+{{col-break|width=33%}}
+
+==== Sprint ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 13 events''<ref>{{Cite web|title=Women's Sprint standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WC&disciplinecode=SP&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Red.png|link=|alt=|18px]] || {{flagicon|SWE}} '''[[Linn Svahn]]''' [[File:FIS Crystal Globe.svg|20px]] || align=right|'''1274'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|NOR}} [[Kristine Stavås Skistad]] || align=right|1101
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|SWE}} [[Jonna Sundling]] || align=right|918
+|-
+| align=center| 4 || {{flagicon|SWE}} [[Maja Dahlqvist]] || align=right|823
+|-
+| align=center| 5 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|823
+|-
+| align=center| 6 || {{flagicon|SWE}} [[Emma Ribom]] || align=right|785
+|-
+| align=center| 7 || {{flagicon|SWE}} [[Frida Karlsson]] || align=right|733
+|-
+| align=center| 8 || {{flagicon|SWE}} [[Johanna Hagström]] || align=right|718
+|-
+| align=center| 9 || &nbsp;{{flagicon|SUI}}&nbsp; [[Nadine Fähndrich]] || align=right|661
+|-
+| align=center| 10 || {{flagicon|USA}} [[Rosie Brennan]] || align=right|624
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+==== U23 ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 34 events''<ref>{{Cite web|title=Women's U23 standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WCU23&disciplinecode=ALL&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| [[Image:Bib Green.png|link=|alt=|18px]] || {{flagicon|NOR}} '''[[Margrethe Bergane]]''' || align=right|'''808'''
+|- style="background:#dce5e5;"
+| align=center| 2 || &nbsp;{{flagicon|SUI}}&nbsp; [[Nadja Kälin]] || align=right|340
+|- style="background:#ffdab9;"
+| align=center| 3 || &nbsp;{{flagicon|SUI}}&nbsp; [[Anja Weber]] || align=right|302
+|-
+| align=center| 4 || {{flagicon|USA}} [[Novie McCabe]] || align=right|296
+|-
+| align=center| 5 || {{flagicon|USA}} [[Samantha Smith (skier)|Samantha Smith]] || align=right|285
+|-
+| align=center| 6 || {{flagicon|NOR}} [[Maria Hartz Melling]] || align=right|190
+|-
+| align=center| 7 || {{flagicon|FIN}} [[Vilma Ryytty]] || align=right|158
+|-
+| align=center| 8 || {{flagicon|SWE}} [[Märta Rosenberg]] || align=right|144
+|-
+| align=center| 9 || {{flagicon|FIN}} [[Hilla Niemelä]] || align=right|143
+|-
+| align=center| 10 || &nbsp;{{flagicon|SUI}}&nbsp; [[Marina Kälin]] || align=right|131
+|}
+{{col-break|width=33%}}
+
+==== Bonus ranking ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 11 events''<ref>{{Cite web|title=Women's Bonus Ranking standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=BON&disciplinecode=ALL&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| 1 || {{flagicon|USA}} '''[[Jessie Diggins]]''' || align=right|'''259'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|SWE}} [[Linn Svahn]] || align=right|202
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|SWE}} [[Frida Karlsson]] || align=right|197
+|-
+| align=center| 4 || {{flagicon|GER}} [[Victoria Carl]] || align=right|169
+|-
+| align=center| 5 || {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]] || align=right|166
+|-
+| align=center| 6 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|118
+|-
+| align=center| 7 || {{flagicon|SWE}} [[Jonna Sundling]] || align=right|113
+|-
+| align=center| 8 || {{flagicon|NOR}} [[Kristine Stavås Skistad]] || align=right|102
+|-
+| align=center| 9 || &nbsp;{{flagicon|SUI}}&nbsp; [[Nadine Fähndrich]] || align=right|86
+|-
+| align=center| 10 || {{flagicon|SWE}} [[Johanna Hagström]] || align=right|86
+|}
+{{col-break|width=33%}}
+
+==== Prize money ====
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA; width: 10px;"|Rank
+!style="border-bottom:1px solid #AAAAAA; width: 200px;"|''after all 47 payouts''<ref>{{Cite web|title=Women's Prize Money standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=WCPR&disciplinecode=ALL&gendercode=W&nationcode=|publisher=FIS Ski}}</ref>
+!style="border-bottom:1px solid #AAAAAA; width: 50px;"|[[Swiss Franc|CHF]]
+|- style="background:#f7f6a8;"
+| align=center| 1 || {{flagicon|USA}} '''[[Jessie Diggins]]''' || align=right|'''291 600'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{flagicon|SWE}} [[Linn Svahn]] || align=right|225 900
+|- style="background:#ffdab9;"
+| align=center| 3 || {{flagicon|SWE}} [[Frida Karlsson]] || align=right|187 500
+|-
+| align=center| 4 || {{flagicon|SWE}} [[Jonna Sundling]] || align=right|136 350
+|-
+| align=center| 5 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|128 300
+|-
+| align=center| 6 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|119 850
+|-
+| align=center| 7 || {{flagicon|NOR}} [[Kristine Stavås Skistad]] || align=right|117 300
+|-
+| align=center| 8 || {{flagicon|GER}} [[Victoria Carl]] || align=right|107 850
+|-
+| align=center| 9 || {{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]] || align=right|92 000
+|-
+| align=center| 10 || {{flagicon|SWE}} [[Emma Ribom]] || align=right|78 450
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+== Mixed team ==
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+Key: C – Classic / F – Freestyle
+!scope="col" style="width=10 px;"|{{Abbr|#|Season competition number}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:120px;"|Place
+!scope="col" style="width:120px;"|Discipline
+! scope="col" style="background:gold; width:220px;" |Winner
+! scope="col" style="background:silver; width:220px;" |Second
+! scope="col" style="background:#c96; width:220px;" |Third
+! scope="col" style="width:150px;" |Red bib<br>{{small|(After competition)}}<br>[[Image:Bib Red.png|link=|alt=|18px]]
+! scope="col" style="width:10px;" |{{Abbr|R.|Reference}}
+|- 
+| align=center| 1
+| align=right|{{nowrap|26 January 2024}}
+| align=left|&nbsp;{{flagicon|SUI}}&nbsp; [[Goms, Valais|Goms]]
+| 4 × 5 km relay C/F
+| {{Relay|{{SWE}} I|1. [[William Poromaa]]|2. [[Frida Karlsson]]|3. [[Jens Burman]]|4. [[Linn Svahn]]}}
+| {{Relay|{{SWE}} II|1. [[Johan Häggström]]|2. [[Ebba Andersson (cross-country skier)|Ebba Andersson]]|3. [[Edvin Anger]]|4. [[Maja Dahlqvist]]}}
+| {{Relay|{{NOR}} I|1. [[Martin Løwstrøm Nyenget]]|2. [[Margrethe Bergane]]|3. [[Simen Hegstad Krüger]]|4. [[Tiril Udnes Weng]]}}
+| {{NOR}}
+| <ref>{{cite web|title=Mixed 4 x 5 km Relay Classic/Free – Goms|url=http://medias1.fis-ski.com/pdf/2024/CC/2287/2024CC2287RL.pdf|website=[[International Ski Federation|FIS]]|date=26 January 2024}}</ref>
+|}
+
+== Nations Cup ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA; font-size:86%;" 
+|-bgcolor="#E4E4E4"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 75 events''<ref>{{Cite web|title=Nations Cup overall standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=NC-WC&disciplinecode=ALL&gendercode=A&nationcode=|publisher=fis-ski.com}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| 1 || '''{{NOR}}''' || align=right|'''17300'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{SWE}} || align=right|15249
+|- style="background:#ffdab9;"
+| align=center| 3 || {{FIN}} || align=right|10336
+|-
+| align=center| 4 || {{USA}} || align=right|10266
+|-
+| align=center| 5 || {{GER}} || align=right|9030
+|-
+| align=center| 6 || {{FRA}} || align=right|8003
+|-
+| align=center| 7 || &nbsp;{{SUI}}&nbsp; || align=right|6347
+|-
+| align=center| 8 || {{ITA}} || align=right|5301
+|-
+| align=center| 9 || {{AUT}} || align=right|2990
+|-
+| align=center| 10 || {{CZE}} || align=right|2824
+|}
+{{col-break|width=33%}}
+
+=== Men ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA; font-size:86%;" 
+|-bgcolor="#E4E4E4"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 38 events''<ref>{{Cite web|title=Men's Nations Cup overall standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=NC-WC&disciplinecode=ALL&gendercode=M&nationcode=|publisher=fis-ski.com}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| 1 || '''{{NOR}}''' || align=right|'''10223'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{SWE}} || align=right|5791
+|- style="background:#ffdab9;"
+| align=center| 3 || {{FRA}} || align=right|5361
+|-
+| align=center| 4 || {{FIN}} || align=right|4658
+|-
+| align=center| 5 || {{USA}} || align=right|3688
+|-
+| align=center| 6 || {{ITA}} || align=right|3635
+|-
+| align=center| 7 || &nbsp;{{SUI}}&nbsp; || align=right|3480
+|-
+| align=center| 8 || {{GER}} || align=right|2958
+|-
+| align=center| 9 || {{CAN}} || align=right|1887
+|-
+| align=center| 10 || {{AUT}} || align=right|1744
+|}
+{{col-break|width=33%}}
+
+=== Women ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA; font-size:86%;" 
+|-bgcolor="#E4E4E4"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after all 38 events''<ref>{{Cite web|title=Women's Nations Cup overall standing|url=https://www.fis-ski.com/DB/cross-country/cup-standings.html?sectorcode=CC&seasoncode=2024&cupcode=NC-WC&disciplinecode=ALL&gendercode=W&nationcode=|publisher=fis-ski.com}}</ref>
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- style="background:#f7f6a8;"
+| align=center| 1 || '''{{SWE}}''' || align=right|'''9458'''
+|- style="background:#dce5e5;"
+| align=center| 2 || {{NOR}} || align=right|7077
+|- style="background:#ffdab9;"
+| align=center| 3 || {{USA}} || align=right|6578
+|-
+| align=center| 4 || {{GER}} || align=right|6072
+|-
+| align=center| 5 || {{FIN}} || align=right|5678
+|-
+| align=center| 6 || &nbsp;{{SUI}}&nbsp; || align=right|2867
+|-
+| align=center| 7 || {{FRA}} || align=right|2642
+|-
+| align=center| 8 || {{ITA}} || align=right|1666
+|-
+| align=center| 9 || {{CZE}} || align=right|1661
+|-
+| align=center| 10 || {{AUT}} || align=right|1246
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+== Podium table by nation ==
+Table showing the World Cup podium places (gold–1st place, silver–2nd place, bronze–3rd place) by the countries represented by the athletes.
+
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagcountry
+ | event          = 
+ | team           =
+ | gold_NOR = 37 | silver_NOR = 25 | bronze_NOR = 33
+ | gold_SWE = 20 | silver_SWE = 18 | bronze_SWE = 14
+ | gold_USA = 9 | silver_USA = 5 | bronze_USA = 9
+ | gold_FIN = 5 | silver_FIN = 7 | bronze_FIN = 5
+ | gold_FRA = 3 | silver_FRA = 7 | bronze_FRA = 4
+ | gold_GER = 1 | silver_GER = 9 | bronze_GER = 5
+ | gold_ITA = 0 | silver_ITA = 2 | bronze_ITA = 1
+ | gold_CZE = 0 | silver_CZE = 1 | bronze_CZE = 0
+ | gold_GBR = 0 | silver_GBR = 1 | bronze_GBR = 0
+ | gold_SUI = 0 | silver_SUI = 0 | bronze_SUI = 3
+ | gold_AUT = 0 | silver_AUT = 0 | bronze_AUT = 1
+|}}
+
+== Points distribution ==
+The table shows the number of points to win in every competition in the 2023–24 Cross-Country Skiing World Cup for men and women.
+{| border="1" cellpadding="2" cellspacing="0" style="border:1px solid #C0C0C0; border-collapse:collapse; font-size:86%; margin-top:1em; text-align:center" width="800"
+|- bgcolor="#F0F0F0"
+| width=1000|'''Place'''
+| width=32|1 || width=32|2 || width=32|3 || width=32|4 || width=32|5 || width=32|6 || width=32|7 || width=32|8 || width=32|9 || width=32|10 || width=32|11 || width=32|12 || width=32|13 || width=32|14 || width=32|15 || width=32|16 || width=32|17 || width=32|18 || width=32|19 || width=32|20 || width=32|21 || width=32|22 || width=32|23 || width=32|24 || width=32|25 || width=32|26 || width=32|27 || width=32|28 || width=32|29 || width=32|30 || width=32|31 || width=32|32 || width=32|33 || width=32|34 || width=32|35 || width=32|36 || width=32|37 || width=32|38 || width=32|39 || width=32|40 || width=32|41 || width=32|42 || width=32|43 || width=32|44 || width=32|45 || width=32|46 || width=32|47 || width=32|48 || width=32|49 || width=32|50 
+|-
+| bgcolor="#F0F0F0" align=left| '''Individual'''
+| rowspan=1|100 || rowspan=1|95 || rowspan=1|90 || rowspan=1|85 || rowspan=1|80 || rowspan=1|75 || rowspan=1|72 || rowspan=1|69 || rowspan=1|66 || rowspan=1|63 || rowspan=1|60 || rowspan=1|58 || rowspan=1|56 || rowspan=1|54 || rowspan=1|52 || rowspan=1|50 || rowspan=1|48 || rowspan=1|46 || rowspan=1|44 || rowspan=1|42 || rowspan=1|40 || rowspan=1|38 || rowspan=1|36 || rowspan=1|34 || rowspan=1|32 || rowspan=1|30 || rowspan=1|28 || rowspan=1|26 || rowspan=1|24 || rowspan=1|22 || rowspan=1|20 || rowspan=1|19 || rowspan=1|18 || rowspan=1|17 || rowspan=1|16 || rowspan=1|15 || rowspan=1|14 || rowspan=1|13 || rowspan=1|12 || rowspan=1|11 || rowspan=1|10 || rowspan=1|9 || rowspan=1|8 || rowspan=1|7 || rowspan=1|6 || rowspan=1|5 || rowspan=1|4 || rowspan=1|3 || rowspan=1|2 || rowspan=1|1  
+|-
+| bgcolor="#F0F0F0" align=left| '''Relay'''
+| rowspan=2|200 || rowspan=2|160 || rowspan=2|120 || rowspan=2|100 || rowspan=2|90 || rowspan=2|80 || rowspan=2|72 || rowspan=2|64 || rowspan=2|58 || rowspan=2|52 || rowspan=2|48 || rowspan=2|44 || rowspan=2|40 || rowspan=2|36 || rowspan=2|32 || rowspan=2|30 || rowspan=2|28 || rowspan=2|26 || rowspan=2|24 || rowspan=2|22 || rowspan=2|20 || rowspan=2|18 || rowspan=2|16 || rowspan=2|14 || rowspan=2|12 || rowspan=2|10 || rowspan=2|8 || rowspan=2|6 || rowspan=2|4 || rowspan=2|2 || rowspan=2 colspan=20 style=background:#efefef|
+|-
+| bgcolor="#F0F0F0" align=left| '''Team sprint'''
+|-
+| bgcolor="#F0F0F0" align=left| '''Tour de Ski''' 
+| 300 || 285 || 270 || 255 || 240 || 225 || 216 || 207 || 198 || 189 || 180 || 174 || 168 || 162 || 156 || 150 || 144 || 138 || 132 || 126 || 120 || 114 || 108 || 102 || 96 || 90 || 84 || 78 || 72 || 66 || 60 || 57 || 54 || 51 || 48 || 45 || 42 || 39 || 36 || 33 || 30 || 27 || 24 || 21 || 18 || 15 || 12 || 9 || 6 || 3 
+|-
+| bgcolor="#F0F0F0" align=left| '''Stage Tour de Ski'''
+| rowspan=1|50 || rowspan=1|47 || rowspan=1|44 || rowspan=1|41 || rowspan=1|38 || rowspan=1|35 || rowspan=1|32 || rowspan=1|30 || rowspan=1|28 || rowspan=1|26 || rowspan=1|24 || rowspan=1|22 || rowspan=1|20 || rowspan=1|18 || rowspan=1|16 || rowspan=1|15 || rowspan=1|14 || rowspan=1|13 || rowspan=1|12 || rowspan=1|11 || rowspan=1|10 || rowspan=1|9 || rowspan=1|8 || rowspan=1|7 || rowspan=1|6 || rowspan=1|5 || rowspan=1|4 || rowspan=1|3 || rowspan=1|2 || rowspan=1|1 || rowspan=1 colspan=20 style=background:#efefef|
+|- 
+| bgcolor="#F0F0F0" align=left| '''Bonus points (MSS checkpoints)'''
+| rowspan=2|15 || rowspan=2|12 || rowspan=2|10 || rowspan=2|8 || rowspan=2|6 || rowspan=2|5 || rowspan=2|4 || rowspan=2|3 || rowspan=2|2 || rowspan=2|1 || rowspan=2 colspan=40 style=background:#efefef|
+|-
+| bgcolor="#F0F0F0" align=left| '''Sprint Q'''
+|}
+
+== Achievements ==
+<!--Updated: -->
+Only individual events.
+
+;First World Cup career victory: <!--Sort by date of achievement -->
+{{col-begin}}
+{{col-2}}
+;Men
+*{{flagicon|NOR}} [[Jan Thomas Jenssen]] (27), in his 4th season – the WC 3 (20 km mass start F) in Ruka; also first podium
+*{{flagicon|FIN}} [[Perttu Hyvärinen]] (32), in his 13th season – the WC 10 (10 km individual C) in Toblach; also first podium
+*{{flagicon|FRA}} [[Jules Lapierre]] (28), in his 6th season – the WC 10 (10 km mass start F) in Val di Fiemme; first podium was 2022–23 WC 11 (10 km mass start F) in Val di Fiemme
+*{{flagicon|USA}} [[Gus Schumacher (skier)|Gus Schumacher]] (23), in his 5th season – the WC 20 (10 km individual F) in Minneapolis; also first podium
+{{col-2}}
+;Women
+*{{flagicon|SWE}} [[Moa Ilar]] (26), in her 6th season – the WC 3 (20 km mass start F) in Ruka; also first podium
+*{{flagicon|GER}} [[Victoria Carl]] (28), in her 12th season – the WC 9 (10 km individual C) in Trondheim; first podium was 2023–24 WC 6 (10 km individual F) in Östersund
+*{{flagicon|USA}} [[Sophia Laukli]] (23), in her 4th season – the WC 10 (10 km mass start F) in Val di Fiemme; first podium was 2022–23 WC 11 (10 km mass start F) in Val di Fiemme
+{{col-end}}
+
+;First World Cup podium: <!--Sort by podium place, then by date of achievement -->
+{{col-begin}}
+{{col-2}}
+;Men
+*{{flagicon|NOR}} [[Jan Thomas Jenssen]] (27), in his 4th season – the WC 3 (20 km mass start F) in Ruka – 1st place
+*{{flagicon|FIN}} [[Perttu Hyvärinen]] (32), in his 13th season – the WC 10 (10 km individual C) in Toblach – 1st place
+*{{flagicon|USA}} [[Gus Schumacher (skier)|Gus Schumacher]] (23), in his 5th season – the WC 20 (10 km individual F) in Minneapolis – 1st place
+*{{flagicon|CZE}} [[Michal Novák (skier)|Michal Novák]] (27), in his 9th season – the WC 3 (20 km mass start F) in Ruka – 2nd place
+*{{flagicon|FRA}} [[Jules Chappaz]] (24), in his 5th season – the WC 10 (sprint F) in Toblach – 2nd place
+*{{flagicon|SWE}} [[Edvin Anger]] (21), in his 2nd season – the WC 10 (sprint F) in Davos – 2nd place
+*{{flagicon|NOR}} [[Ansgar Evensen]] (23), in his 3rd season – the WC 12 (sprint C) in Oberhof – 2nd place
+*{{flagicon|FIN}} [[Lauri Vuorinen]] (29), in his 12th season – the WC 25 (sprint C) in Falun – 2nd place
+*{{flagicon|NOR}} [[Gjøran Tefre]] (29), in his 7th season – the WC 27 (20 km mass start F) in Falun – 2nd place
+*{{flagicon|USA}} [[JC Schoonmaker]] (23), in his 5th season – the WC 5 (sprint C) in Östersund – 3rd place
+*{{flagicon|NOR}} [[Henrik Dønnestad]] (27), in his 3rd season – the WC 9 (10 km individual C) in Trondheim – 3rd place
+*{{flagicon|USA}} [[Ben Ogden]] (23), in his 5th season – the WC 10 (sprint F) in Toblach – 3rd place
+*{{flagicon|SUI}} [[Cyril Fähndrich]] (24), in his 4th season – the WC 10 (15 km mass start C) in Val di Fiemme – 3rd place
+*{{flagicon|FRA}} [[Hugo Lapalus]] (25), in his 6th season – the WC 10 (10 km mass start F) in Val di Fiemme – 3rd place
+*{{flagicon|AUT}} [[Mika Vermeulen]] (24), in his 4th season – the WC 15 (15 km mass start F) in Canmore – 3rd place
+*{{flagicon|NOR}} [[Mattis Stenshagen]] (27), in his 7th season – the WC 17 (20 km mass start C) in Canmore – 3rd place
+*{{flagicon|SUI}} [[Valerio Grond]] (23), in his 4th season – the WC 22 (sprint F) in Lahti – 3rd place
+{{col-2}}
+;Women
+*{{flagicon|SWE}} [[Moa Ilar]] (26), in her 6th season – the WC 3 (20 km mass start F) in Ruka – 1st place
+*{{flagicon|GER}} [[Coletta Rydzek]] (26), in her 6th season – the WC 22 (sprint F) in Lahti – 2nd place
+*{{flagicon|GER}} [[Victoria Carl]] (28), in her 12th season – the WC 6 (10 km individual F) in Östersund – 3rd place
+{{col-2}}
+{{col-end}}
+
+;Number of wins this season (in brackets are all-time wins): <!--Sort by number of season wins, then by total number of wins -->
+{{col-begin}}
+{{col-2}}
+;Men<ref>{{cite web|url=https://www.fis-ski.com/DB/general/statistics.html?statistictype=positions&positionstype=multi-position&sectorcode=CC&seasoncode=2024&categorycode=WC&disciplinecode=&gendercode=M&place=&competitornationcode=&position=2&positionsnumber=1|title=Men's individual winners}}</ref>
+*{{flagicon|NOR}} [[Johannes Høsflot Klæbo]] – 16 (84){{efn|name=Info1|Men's all-time record in World Cup history}}
+*{{flagicon|NOR}} [[Harald Østberg Amundsen]] – 4 (5)
+*{{flagicon|NOR}} [[Erik Valnes]] – 4 (5)
+*{{flagicon|NOR}} [[Pål Golberg]] – 2 (12)
+*{{flagicon|FRA}} [[Lucas Chanavat]] – 2 (4)
+*{{flagicon|NOR}} [[Simen Hegstad Krüger]] – 1 (10)
+*{{flagicon|NOR}} [[Martin Løwstrøm Nyenget]] – 1 (2)
+*{{flagicon|NOR}} [[Jan Thomas Jenssen]] – 1 (1)
+*{{flagicon|FIN}} [[Perttu Hyvärinen]] – 1 (1)
+*{{flagicon|FRA}} [[Jules Lapierre]] – 1 (1)
+*{{flagicon|USA}} [[Gus Schumacher (skier)|Gus Schumacher]] – 1 (1)
+{{col-2}}
+;Women<ref>{{cite web|url=https://www.fis-ski.com/DB/general/statistics.html?statistictype=positions&positionstype=multi-position&sectorcode=CC&seasoncode=2024&categorycode=WC&disciplinecode=&gendercode=W&place=&competitornationcode=&position=2&positionsnumber=1|title=Women's individual winners}}</ref>
+*{{flagicon|USA}} [[Jessie Diggins]] – 7 (21)
+*{{flagicon|SWE}} [[Linn Svahn]] – 6 (15)
+*{{flagicon|NOR}} [[Kristine Stavås Skistad]] – 5 (10)
+*{{flagicon|SWE}} [[Frida Karlsson]] – 3 (11)
+*{{flagicon|FIN}} [[Kerttu Niskanen]] – 3 (8)
+*{{flagicon|SWE}} [[Jonna Sundling]] – 2 (9)
+*{{flagicon|SWE}} [[Ebba Andersson (cross-country skier)|Ebba Andersson]] – 2 (7)
+*{{flagicon|SWE}} [[Emma Ribom]] – 2 (4)
+*{{flagicon|FIN}} [[Krista Pärmäkoski]] – 1 (6)
+*{{flagicon|SWE}} [[Moa Ilar]] – 1 (1)
+*{{flagicon|GER}} [[Victoria Carl]] – 1 (1)
+*{{flagicon|USA}} [[Sophia Laukli]] – 1 (1)
+{{col-end}}
+
+==Retirements==
+{{col-begin}}
+{{col-2}}
+;Men
+*{{flagicon|FRA}} [[Maurice Manificat]]<ref>{{Citation |url=https://www.fondoitalia.it/2024/03/06/mobile/leggi-notizia/argomenti/sci-di-fondo/articolo/sci-di-fondo-maurice-manificat-dice-addio-alla-coppa-del-mondo-la-50km-di-holmenkollen-sara-la-s.html |title=Sci di fondo - Maurice Manificat dice addio alla Coppa del Mondo: La 50km di Holmenkollen sarà la sua ultima gara |date=6 March 2024 }}</ref>
+*{{flagicon|NOR}} [[Daniel Stock]]<ref>{{Citation |url=https://www.langrenn.com/langrenn-allround/norsk-langrennsprofil-legger-opp-2/ |title=Norsk langrennsprofil legger opp |date=20 March 2024 }}</ref>
+*{{flagicon|USA}} [[Scott Patterson (skier, born 1992)|Scott Patterson]]<ref>{{Citation |url=https://www.proxcskiing.com/traditional-skiing/scott-patterson-retires-from-world-cup-ski-racing/ |title=Scott Patterson retires from World Cup ski racing |date=20 March 2024 }}</ref>
+*{{flagicon|FIN}} [[Verneri Poikonen]]<ref>{{Citation |url=https://www.is.fi/maastohiihto/art-2000010342593.html |title=Verneri Poikonen, 25, kertoi yllätysuutisen – hiihtoura ohi |date=6 April 2024 }}</ref>
+*{{flagicon|NOR}} [[Sjur Røthe]]<ref>{{Citation |url=https://www.vg.no/sport/langrenn/i/0V4GaJ/sjur-roethe-legger-opp-taerer-paa-selvtilliten |title=Sjur Røthe bekrefter at han legger opp: –⁠ Tærer på selvtilliten |date=5 June 2024 }}</ref>
+{{col-2}}
+;Women
+*{{flagicon|POL}} [[Karolina Kukuczka]]<ref>{{Cite web|title=21 lat i koniec. Nagła decyzja polskiej olimpijki|url=https://przegladsportowy.onet.pl/sporty-zimowe/biegi-narciarskie/21-lat-i-koniec-nagla-decyzja-polskiej-olimpijki/0mxnjjm|access-date=18 December 2023|website=przegladsportowy.onet.pl}}</ref>
+*{{flagicon|ITA}} [[Federica Sanfilippo]]<ref>{{Citation |url=https://www.fondoitalia.it/2024/03/20/notizie/argomenti/biathlon/articolo/federica-sanfilippo-annuncia-il-suo-ritiro-e-torna-al-primo-amore-il-biathlon-la-vita-da-atleta-m.html |title=Federica Sanfilippo annuncia il suo ritiro e torna al primo amore, il biathlon: "La vita da atleta mi ha dato tanto, ora metterò la mia esperienza a disposizione dei giovani|date=20 March 2024 }}</ref>
+*{{flagicon|FRA}} [[Coralie Bentz]]<ref>{{Citation |url=https://www.nordicmag.info/ski-de-fond-fin-de-carriere-pour-coralie-bentz-0401/ |title=Ski de fond : Coralie Bentz range les skis|date=1 April 2024 }}</ref>
+*{{flagicon|NOR}} [[Anna Svendsen]]<ref>{{Citation |url=https://www.vg.no/sport/i/Ppr2Jz/langrennsprofilen-anna-svendsen-legger-opp |title=Langrennsprofilen Anna Svendsen legger opp: –⁠ Et nytt kapittel i livet står for tur|date=19 April 2024 }}</ref>
+{{col-end}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+{{FIS Cross-Country World Cup seasons |state=collapsed}}
+{{Wintersport season 2023–24}}
+
+{{DEFAULTSORT:2023-24 FIS Cross-Country World Cup}}
+[[Category:2023–24 FIS Cross-Country World Cup]]
+[[Category:FIS Cross-Country World Cup seasons]]
+[[Category:2023 in cross-country skiing|World Cup]]
+[[Category:2024 in cross-country skiing|World Cup]]

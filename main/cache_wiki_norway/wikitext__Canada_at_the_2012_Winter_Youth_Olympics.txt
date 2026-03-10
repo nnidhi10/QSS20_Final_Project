@@ -1,0 +1,1203 @@
+{{infobox country at games
+| NOC = CAN
+| NOCname = [[Canadian Olympic Committee]]
+| games = Winter Youth Olympics
+| year = 2012
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.olympic.ca }}&nbsp;{{in lang|en|fr}}
+| location = [[Innsbruck]]
+| competitors = 52
+| sports = 12
+| flagbearer = [[Corryn Brown]]<ref>[https://archive.today/20120527094838/http://www.globalnews.ca/health/sports/source+bc+curler+to+carry+flag+at+winter+youth+olympics+in+innsbruck/6442552272/story.html Source: B.C. curler to carry flag at Winter Youth Olympics in Innsbruck]</ref>
+| rank = 15
+| gold=2
+| silver=1
+| bronze=6
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| seealso = 
+}}
+
+'''[[Canada]]''' competed at the '''[[2012 Winter Youth Olympics]]''' in [[Innsbruck]].  [[Beckie Scott]] was named as the chef de mission.<ref>{{cite news | url=https://www.cbc.ca/sports/2.722/beckie-scott-named-chef-de-mission-for-2012-youth-olympics-1.1099424 | title=Beckie Scott named chef de mission for 2012 Youth Olympics | access-date=March 24, 2011 | date=March 24, 2011 | publisher=CBC}}</ref>
+
+Canada did not send any [[speed skating|speed skaters]] ([[long track speed skating|long]] and [[short track speed skating|short]] track), along with [[figure skating|figure skaters]] after the governing body for the sport in the country ([[Speed Skating Canada]] and [[Skate Canada]], respectively) deemed the event "not developmentally appropriate".<ref>[http://speedskating.ca/client/cmsUploads/speed_skating/File/AGM2011/Presentations/SSC%20AGM_2011%20Youth%20Olympic_Games_ver3.pdf Speed skating Canada 2012 Winter Youth Olympics]{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+{{TOC limit|3}}
+
+==Medallists==
+
+{| class="wikitable sortable" style="font-size:90%"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}}  ||  [[Michael Ciccarelli]] || [[Snowboarding at the 2012 Winter Youth Olympics|Snowboarding]] || [[Snowboarding at the 2012 Winter Youth Olympics – Boys' slopestyle|Boys' Slopestyle]] || 19 Jan
+|-
+| {{gold medal}}  ||  [[Audrey McManiman]] || [[Snowboarding at the 2012 Winter Youth Olympics|Snowboarding]] || [[Snowboarding at the 2012 Winter Youth Olympics – Girls' slopestyle|Girls' Slopestyle]] || 19 Jan
+|-
+| {{silver medal}}  ||  [[Roni Remme]] || [[Alpine skiing at the 2012 Winter Youth Olympics|Alpine Skiing]] || [[Alpine skiing at the 2012 Winter Youth Olympics – Girls' slalom|Girls' slalom]] || 20 Jan
+|-
+| {{bronze medal}}  ||  [[Thomas Scoffin]]<br/>[[Corryn Brown]]<br/>[[Derek Oryniak]]<br/>[[Emily Best (curler)|Emily Gray]] || [[Curling at the 2012 Winter Youth Olympics|Curling]] || [[Curling at the 2012 Winter Youth Olympics – Mixed team|Mixed Team]] || 18 Jan
+|-
+| {{bronze medal}}  ||  |[[Matt Herauf]] || |[[Freestyle skiing at the 2012 Winter Youth Olympics|Freestyle Skiing]] || |[[Freestyle skiing at the 2012 Winter Youth Olympics – Boys' ski cross|Boys' ski cross]] || 21 Jan
+|-
+| {{bronze medal}} || {{flagicon|CAN}} [[Canada men's national under-16 ice hockey team|Canada]] || [[Ice hockey at the 2012 Winter Youth Olympics|Ice hockey]] || [[Ice hockey at the 2012 Winter Youth Olympics – Boys' tournament|Boys]] || 21 Jan
+|-
+| {{bronze medal}}  ||  |[[Corey Gillies]] || |[[Skeleton at the 2012 Winter Youth Olympics|Skeleton]] || |[[Skeleton at the 2012 Winter Youth Olympics – Boys'|Boys' Skeleton]] || 21 Jan
+|-
+| {{bronze medal}}  ||  |[[Carli Brockway]] || |[[Skeleton at the 2012 Winter Youth Olympics|Skeleton]] || |[[Skeleton at the 2012 Winter Youth Olympics – Girls'|Girls' Skeleton]] || 21 Jan
+|-
+| {{bronze medal}}  ||  [[Taylor Henrich]]<br/>[[Nathaniel Mah]]<br/>[[Dusty Korek]] || [[Ski jumping at the 2012 Winter Youth Olympics|Ski Jumping]] || [[Ski jumping at the 2012 Winter Youth Olympics – Team competition|Mixed Team]] || 21 Jan
+|}
+
+==Alpine skiing==
+{{Main|Alpine skiing at the 2012 Winter Youth Olympics}}
+Canada had qualified a full team of two boys and two girls. The team was announced on June 22, 2011.<ref>{{cite web | url=http://canski.org/four-skiers-to-represent-canada-at-winter-youth-olympic-games | title=Four skiers to represent Canada at Winter Youth Olympic Games | work=Alpine Canada | date=June 22, 2011 | accessdate=June 23, 2011 }}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+{|class="wikitable" 
+|+ Boys
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|rowspan=4|[[Martin Grasic]]
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' slalom|Slalom]]
+|align="center"|41.57
+|align="center"|40.75
+|align="center"|1:22.32
+|align="center"|10
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' giant slalom|Giant slalom]]
+|align="center" colspan=4|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' super-G|Super-G]]
+|colspan=2 style="background:wheat"|
+|align="center" colspan=2|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' combined|Combined]]
+|align="center"|1:06.88
+|align="center"|39.49
+|align="center"|1:46.37
+|align="center"|20
+|-
+|rowspan=4|[[Lambert Quezel]]
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' slalom|Slalom]]
+|align="center" colspan=4|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' giant slalom|Giant slalom]]
+|align="center"|1:00.75
+|align="center"|56.66
+|align="center"|1:57.41
+|align="center"|16
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' super-G|Super-G]]
+|colspan=2 style="background:wheat"|
+|align="center"|1:07.40
+|align="center"|20
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Boys' combined|Combined]]
+|align="center"|1:05.96
+|align="center"|40.23
+|align="center"|1:46.19
+|align="center"|18
+|}
+
+{|class="wikitable" 
+|+ Girls
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|rowspan=4|[[Roni Remme]]
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' slalom|Slalom]]
+|align="center"|42.05
+|align="center"|39.20
+|align="center"|1:21.25
+|align="center"|{{silver02}}
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' giant slalom|Giant slalom]]
+|align="center"|1:00.04
+|align="center"|1:00.03
+|align="center"|2:00.07
+|align="center"|15
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' super-G|Super-G]]
+|colspan=2 style="background:wheat"|
+|align="center" colspan=2|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' combined|Combined]]
+|align="center"|1:06.37
+|align="center"|36.89
+|align="center"|1:43.26
+|align="center"|9
+|-
+|rowspan=4|[[Mikaela Tommy]]
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' slalom|Slalom]]
+|align="center" colspan=4|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' giant slalom|Giant slalom]]
+|align="center"|57.69
+|align="center" colspan=3|DNF
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' super-G|Super-G]]
+|colspan=2 style="background:wheat"|
+|align="center"|1:07.06
+|align="center"|11
+|-
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Girls' combined|Combined]]
+|align="center" colspan=4|DNF
+|}
+
+{|class="wikitable" 
+|+ Team
+|-
+!Athlete
+!Event
+!Quarterfinals
+!Semifinals
+!Final
+!Rank
+|-
+|[[Mikaela Tommy]]<br/>[[Martin Grasic]]<br/>[[Roni Remme]]<br/>[[Lambert Quezel]]
+|[[Alpine skiing at the 2012 Winter Youth Olympics – Parallel mixed team|Parallel mixed team]]
+|align="center"|{{flagIOC|AUT|2012 Winter Youth}}<br/>'''L''' '''0'''-4
+|align="center" colspan=3|did not advance|
+|}
+
+==Biathlon==
+{{Main|Biathlon at the 2012 Winter Youth Olympics}}
+Canada had qualified a full biathlon team of 2 boys and 2 girls. Canada's roster was announced on April 19, 2011.<ref>{{cite news|url=http://biathlon.ca/documents/YouthOlympics.pdf|title=Biathlon Canada Submits Four Athletes for Nomination to Canada's Inaugural Youth Olympic Winter Games Team|publisher=Biathlon Canada|date=2011-04-19|access-date=2011-05-04|archive-url=https://web.archive.org/web/20110812102138/http://biathlon.ca/documents/YouthOlympics.pdf|archive-date=2011-08-12|url-status=dead}}</ref>
+
+{|class="wikitable" 
+|+ Boys
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Final
+|-
+!Time
+!Misses
+!Rank
+|-
+|rowspan=2|[[Stuart Harden]]
+|[[Biathlon at the 2012 Winter Youth Olympics – Boys' sprint|Sprint]]
+|align="center"|19:51.3
+|align="center"|0
+|align="center"|4
+|-
+|[[Biathlon at the 2012 Winter Youth Olympics – Boys' pursuit|Pursuit]]
+|align="center"|30:05.7
+|align="center"|1
+|align="center"|7
+|-
+|rowspan=2|[[Aidan Millar]]
+|[[Biathlon at the 2012 Winter Youth Olympics – Boys' sprint|Sprint]]
+|align="center"|23:23.1
+|align="center"|7
+|align="center"|43
+|-
+|[[Biathlon at the 2012 Winter Youth Olympics – Boys' pursuit|Pursuit]]
+|align="center"|34:.16.5
+|align="center"|5
+|align="center"|32
+|}
+
+{|class="wikitable" 
+|+ Girls
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Final
+|-
+!Time
+!Misses
+!Rank
+|-
+|rowspan=2|[[Sarah Beaudry]]
+|[[Biathlon at the 2012 Winter Youth Olympics – Girls' sprint|Sprint]]
+|align="center"|19:49.9
+|align="center"|4
+|align="center"|22
+|-
+|[[Biathlon at the 2012 Winter Youth Olympics – Girls' pursuit|Pursuit]]
+|align="center"|31:05.4
+|align="center"|2
+|align="center"|14
+|-
+|rowspan=2|[[Danielle Vrielink]]
+|[[Biathlon at the 2012 Winter Youth Olympics – Girls' sprint|Sprint]]
+|align="center"|18:45.9
+|align="center"|1
+|align="center"|9
+|-
+|[[Biathlon at the 2012 Winter Youth Olympics – Girls' pursuit|Pursuit]]
+|align="center"|30:34.8
+|align="center"|2
+|align="center"|11
+|}
+
+{|class="wikitable" 
+|+ Mixed
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Final
+|-
+!Time
+!Misses
+!Rank
+|-
+|[[Sarah Beaudry]]<br/>[[Danielle Vrielink]]<br/>[[Aidan Millar]]<br/>[[Stuart Harden]]
+|[[Biathlon at the 2012 Winter Youth Olympics – Mixed relay|Mixed relay]]
+|align="center"|1:17:29.7
+|align="center"|5+13
+|align="center"|9
+|-
+|[[Danielle Vrielink]]<br/>[[Maya Macisaac-Jones]]<br/>[[Stuart Harden]]<br/>[[Matthew Saurette]]
+|[[Cross country skiing at the 2012 Winter Youth Olympics – Cross-country Biathlon mixed relay|Cross-Country-Biathlon Mixed Relay]]
+|align="center"|1:08:10.9
+|align="center"|0+4
+|align="center"|13
+|}
+
+== Bobsleigh==
+{{Main|Bobsleigh at the 2012 Winter Youth Olympics}}
+Canada had qualified one boy and one girl sled.
+
+{|class="wikitable" 
+|+ Boys
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[Payton Berezowski]]<br/>[[Clay Sparks]]
+|[[Bobsleigh at the 2012 Winter Youth Olympics – Two-boys|Two-Boys]]
+|align="center"|55.26
+|align="center"|55.28
+|align="center"|1:50.54
+|align="center"|9
+|}
+
+{|class="wikitable" 
+|+ Girls
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[Mercedes Miller]]<br/>[[Casey Froese]]
+|[[Bobsleigh at the 2012 Winter Youth Olympics – Two-girls|Two-Girls]]
+|align="center"|57.29
+|align="center"|57.29
+|align="center"|1:54.58
+|align="center"|7
+|}
+
+==Cross country skiing==
+{{Main|Cross-country skiing at the 2012 Winter Youth Olympics}}
+Canada had qualified a team of 1 boy and 1 girl.<ref>{{cite web | url=http://www.cccski.com/main.asp?cmd=doc&ID=8330&lan=0 | title=2012 Winter Youth Olympic Games Athlete Nominations | publisher=Cross Country skiing Canada | date=June 21, 2011 | accessdate=June 21, 2011 }}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+{|class="wikitable" 
+|+ Boy
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|-
+!Time
+!Rank
+|-
+|rowspan=1|[[Matthew Saurette]]
+|[[Cross-country skiing at the 2012 Winter Youth Olympics – Boys' 10 kilometre classical|10km classical]]
+|align="center"|32:55.8
+|align="center"|29
+|}
+
+{|class="wikitable" 
+|+ Girl
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|-
+!Time
+!Rank
+|-
+|rowspan=1|[[Maya Macisaac-Jones]]
+|[[Cross-country skiing at the 2012 Winter Youth Olympics – Girls' 5 kilometre classical|5km classical]]
+|align="center"|16:31.0
+|align="center"|17
+|}
+
+{|class="wikitable"
+|+ Sprint
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|-
+!Total
+!Rank
+!Total
+!Rank
+!Total
+!Rank
+!Total
+!Rank
+|-
+|[[Matthew Saurette]]
+|[[Cross-country skiing at the 2012 Winter Youth Olympics – Boys' sprint|Boys' sprint]]
+|align="center"|1:49.26
+|align="center"|23 '''Q'''
+|align="center"|1:48.4
+|align="center"|6
+|align="center" colspan=4|did not advance
+|-
+|[[Maya Macisaac-Jones]]
+|[[Cross-country skiing at the 2012 Winter Youth Olympics – Girls' sprint|Girls' sprint]]
+|align="center"|2:01.99
+|align="center"|15 '''Q'''
+|align="center"|2:01.3
+|align="center"|1 '''Q'''
+|align="center"|2:02.4
+|align="center"|4
+|align="center" colspan=2|did not advance
+|}
+
+{|class="wikitable" 
+|+ Mixed
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Final
+|-
+!Time
+!Misses
+!Rank
+|-
+|[[Danielle Vrielink]]<br/>[[Maya Macisaac-Jones]]<br/>[[Stuart Harden]]<br/>[[Matthew Saurette]]
+|[[Cross country skiing at the 2012 Winter Youth Olympics – Cross-country Biathlon mixed relay|Cross-Country-Biathlon Mixed Relay]]
+|align="center"|1:08:10.9
+|align="center"|0+4
+|align="center"|13
+|}
+
+==Curling==
+{{Main|Curling at the 2012 Winter Youth Olympics}}
+Canada had qualified a mixed curling team of 2 boys and 2 girls. Canada's roster was announced on April 8, 2011.<ref>{{cite news|url=https://whitehorsestar.com/archive/story/yukon-curler-picked-to-represent-canada-at-2012-world-youth-olympics/|title=Yukon curler picked to represent Canada at 2012 World Youth Olympics|publisher=[[Whitehorse Star]]|date=2011-04-08|accessdate=2011-04-09}}</ref>
+
+'''Skip:''' [[Thomas Scoffin]]<br/>
+'''Third:''' [[Corryn Brown]]<br/>
+'''Second:''' [[Derek Oryniak]]<br/>
+'''Lead:''' [[Emily Best (curler)|Emily Gray]]
+
+The mixed team event took place 14–18 January, while the mixed doubles tournament took place 20–22 January.
+
+===Mixed team===
+{{Redgroup2012WYOG}}
+
+====Round-robin results====
+{{col-begin}}
+{{col-2}}
+;Draw 1
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOC|GER|2012 Winter Youth}} (Rothballer) {{X}}
+|2|1|0|0|0|0|1|0| |4
+| team2 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|0|0|2|1|0|2|0|1| |6
+}}
+;Draw 2
+{{ Curlingbox8
+| sheet = A
+| team1 = {{flagIOC|AUT|2012 Winter Youth}} (Genner)
+|0|0|0|1|0|3|0|2| |6
+| team2 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin) {{X}}
+|0|3|0|0|1|0|1|0| |5
+}}
+;Draw 3
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin) {{X}}
+|0|1|0|0|1|1|3|X| |6
+| team2 = {{flagIOC|ITA|2012 Winter Youth}} (Mosaner)
+|0|0|0|0|0|0|0|X| |0
+}}
+;Draw 4
+{{ Curlingbox8
+| sheet = D
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin) {{X}}
+|1|2|0|4|0|1|X|X| |8
+| team2 = {{flagIOC|GBR|2012 Winter Youth}} (Menzies)
+|0|0|0|0|2|0|X|X| |2
+}}
+{{col-2}}
+;Draw 5
+{{ Curlingbox8
+| sheet = B
+| team1 = {{flagIOC|RUS|2012 Winter Youth}} (Vaskov) {{X}}
+|0|0|0|0|1|0|X|X| |1
+| team2 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|1|2|2|1|0|1|X|X| |7
+}}
+;Draw 6
+{{ Curlingbox8
+| sheet = D
+| team1 = {{flagIOC|SWE|2012 Winter Youth}} (Wranå) {{X}}
+|0|1|0|0|2|0|2|0|1|6
+| team2 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|1|0|1|0|0|1|0|2|0|5
+}}
+;Draw 7
+{{ Curlingbox8
+| sheet = A
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin) {{X}}
+|3|0|0|0|4|0|2|X| |9
+| team2 = {{flagIOC|JPN|2012 Winter Youth}} (Usui)
+|0|1|0|1|0|2|0|X| |4
+}}
+{{col-end}}
+
+====Quarterfinals====
+{{ Curlingbox8
+| sheet = A
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|2|0|1|0|0|2|1|0| |7
+| team2 = {{flagIOC|CZE|2012 Winter Youth}} (Černovský) {{X}}
+|0|2|0|3|2|0|0|0| |6
+}}
+
+====Semifinals====
+{{ Curlingbox8
+| sheet = D
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|0|1|0|0|1|0|0|X| |2
+| team2 = {{flagIOC|ITA|2012 Winter Youth}} (Mosaner) {{X}}
+|2|0|1|3|0|1|1|X| |8
+}}
+
+====Bronze-medal game====
+{{ Curlingbox8
+| sheet = B
+| team1 = {{flagIOC|CAN|2012 Winter Youth}} (Scoffin)
+|1|0|2|0|1|1|0|1| |6
+| team2 = {{flagIOC|SWE|2012 Winter Youth}} (Wranå) {{X}}
+|0|1|0|3|0|0|0|0| |4
+}}
+Final rank: {{bronze03}}
+
+===Mixed doubles===
+
+====Round of 32====
+{{col-begin}}
+{{col-2}}
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOCathlete|[[Thomas Scoffin]]|CAN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Kelsi Heath]]|NZL|2012 Winter Youth}}
+|0|0|4|1|1|0|3|X| |9
+| team2 = {{flagIOCathlete|[[Mizuki Kitaguchi]]|JPN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Thomas Muirhead (curler)|Thomas Muirhead]]|GBR|2012 Winter Youth}} {{X}}
+|1|2|0|0|0|2|0|X| |5
+}}
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOCathlete|[[Corryn Brown]]|CAN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Martin Reichel (curler)|Martin Reichel]]|AUT|2012 Winter Youth}} {{X}}
+|1|0|0|3|0|1|1|0| |6
+| team2 = {{flagIOCathlete|[[Shingo Usui]]|JPN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Cao Ying (curler)|Cao Ying]]|CHN|2012 Winter Youth}}
+|0|1|1|0|1|0|0|1| |4
+}}
+{{col-2}}
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOCathlete|[[Robert-Kent Päll]]|EST|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Emily Best (curler)|Emily Gray]]|CAN|2012 Winter Youth}}
+|0|0|0|2|0|0|0|X| |2
+| team2 = {{flagIOCathlete|[[Anastasia Moskaleva]]|RUS|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Tsukasa Horigome]]|JPN|2012 Winter Youth}} {{X}}
+|1|1|3|0|1|1|1|X| |8
+}}
+{{ Curlingbox8
+| sheet = C
+| team1 = {{flagIOCathlete|[[Frederike Manner]]|GER|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Derek Oryniak]]|CAN|2012 Winter Youth}}
+|0|0|0|1|0|0|X|X| |1
+| team2 = {{flagIOCathlete|[[Yoo Min-hyeon]]|KOR|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Mako Tamakuma]]|JPN|2012 Winter Youth}} {{X}}
+|3|2|3|0|5|1|X|X| |14
+}}
+{{col-end}}
+
+====Round of 16====
+{{col-begin}}
+{{col-2}}
+{{ Curlingbox8
+| sheet = A
+| team1 = {{flagIOCathlete|[[Corryn Brown]]|CAN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Martin Reichel (curler)|Martin Reichel]]|AUT|2012 Winter Youth}} {{X}}
+|1|1|1|2|0|1|1|0| |7
+| team2 = {{flagIOCathlete|[[Kang Sue-yeon]]|KOR|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Krystof Krupanský]]|CZE|2012 Winter Youth}}
+|0|0|0|0|2|0|0|2| |4
+}}
+{{col-2}}
+{{ Curlingbox8
+| sheet = A
+| team1 = {{flagIOCathlete|[[Thomas Scoffin]]|CAN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Kelsi Heath]]|NZL|2012 Winter Youth}} 
+|0|1|0|1|1|0|2|0| |5
+| team2 = {{flagIOCathlete|[[Mikhail Vaskov]]|RUS|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Zuzana Hrůzová]]|CZE|2012 Winter Youth}} {{X}}
+|2|0|1|0|0|1|0|2| |6
+}}
+{{col-end}}
+
+====Quarterfinals====
+{{ Curlingbox8
+| sheet = D
+| team1 = {{flagIOCathlete|[[Korey Dropkin]]|USA|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Marina Verenich]]|RUS|2012 Winter Youth}}
+|1|2|2|0|4|0|0|X| |9
+| team2 = {{flagIOCathlete|[[Corryn Brown]]|CAN|2012 Winter Youth}}<br/>{{flagIOCathlete|[[Martin Reichel (curler)|Martin Reichel]]|AUT|2012 Winter Youth}} {{X}}
+|0|0|0|1|0|1|1|X| |3
+}}
+
+== Figure skating==
+{{Main|Figure skating at the 2012 Winter Youth Olympics}}
+Canada had qualified an ice dancing team, a pair, and 2 boys' singles skaters. However, on January 4, 2012, it was announced that, due to a scheduling conflict with the Canadian nationals (held in [[Moncton, NB]]), Canada would not send figure skaters after all.<ref>[http://news.ca.msn.com/sports/article.aspx?cp-documentid=31904710 Canadian skaters not going to Youth Olympics]{{Dead link|date=November 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Freestyle skiing==
+{{Main|Freestyle skiing at the 2012 Winter Youth Olympics}}
+Canada had qualified a full freestyle skiing team of 4 athletes.<ref>[http://www.innsbruck2012.com/en/sports/athletes Canada freestyle skiing athletes]</ref>
+
+{| class="wikitable" style="font-size:90%;"
+|+ Half-pipe
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-
+!Time
+!Rank
+!Time
+!Rank
+|-
+|[[Aaron MacKay]]
+|[[Freestyle skiing at the 2012 Winter Youth Olympics – Boys' halfpipe|Boys' halfpipe]]
+|align=center|72.25
+|align=center|5 '''Q'''
+|align=center|76.50
+|align=center|6
+|-
+|[[Shannon Gunning]]
+|[[Freestyle skiing at the 2012 Winter Youth Olympics – Girls' halfpipe|Girls' halfpipe]]
+|align=center|64.00
+|align=center|4 '''Q'''
+|align=center|62.00
+|align=center|4
+|}
+
+{|class="wikitable" 
+|+ Ski cross
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualifying
+!colspan=1|1/4 finals
+!colspan=1|Semifinals
+!colspan=1|Final
+|-
+!Time
+!Rank
+!Rank
+!Rank
+!Rank
+|-
+|[[Matt Herauf]]
+|[[Freestyle skiing at the 2012 Winter Youth Olympics – Boys' ski cross|Boys' ski cross]]
+|align="center"|57.34
+|align="center"|{{bronze03}}
+|align="center" colspan=3|Cancelled
+|-
+|[[India Sherret]]
+|[[Freestyle skiing at the 2012 Winter Youth Olympics – Girls' ski cross|Girls' ski cross]]
+|align="center"|1:00.21
+|align="center"|4
+|align="center" colspan=3|Cancelled
+|}
+
+==Ice hockey==
+{{Main|Ice hockey at the 2012 Winter Youth Olympics}}
+Canada would enter a boys team and it consisted of 17 athletes.<ref>{{Cite web |url=http://corporate.olympics.com.au/files/41/QualificationSystem_2012YOG_IceHockey_April2010.pdf |title=QUALIFICATION SYSTEM - 1STWINTER YOUTH OLYMPIC GAMES IN 2012 INTERNATIONAL ICE HOCKEY FEDERATION |access-date=2011-03-05 |archive-url=https://web.archive.org/web/20120826002332/http://corporate.olympics.com.au/files/41/QualificationSystem_2012YOG_IceHockey_April2010.pdf |archive-date=2012-08-26 |url-status=dead }}</ref>
+
+The co-coaches were announced October 14, 2011, and would be Jim Hulton and Curtis Hunt.<ref>[http://www.hockeycanada.ca/index.php/ci_id/176224/la_id/1/ss_id/7158/ JIM HULTON AND CURTIS HUNT NAMED CO-COACHES FOR MEN’S TEAM AT 2012 WINTER YOUTH OLYMPIC GAMES]</ref>
+
+The players were announced October 21, 2011, and were selected through a process that involved a random draw from a list of 39 names established by Hockey Canada's thirteen branches, with each branch guaranteed at least one representative (Ontario, Québec and Alberta were guaranteed one extra representative each).<ref>[http://www.hockeycanada.ca/index.php/ci_id/176587/la_id/1/ss_id/7158/ HOCKEY CANADA ANNOUNCES MEN'S HOCKEY PLAYERS NOMINATED FOR 2012 WINTER YOUTH OLYMPIC GAMES]</ref> The players selected are as follows.<ref>[http://www.hockeycanada.ca/index.php/ci_id/176208/la_id/1.htm CANADA ROSTER - 2012 YOUTH OLYMPIC GAMES]</ref>
+
+Goaltenders:
+* Keven Bouchard (QC)
+* Sam Walsh (PEI)
+
+Defence:
+* Josh Carrick (ON)
+* Jarrett Crossman (NB)
+* Joe Hicketts (BC)
+* Brycen Martin (AB)
+* Brendan Nickerson (NS)
+* Ryan Pilon (SK)
+
+Forwards:
+* Adam Brooks (MB)
+* Ryan Burton (ON)
+* Eric Cornel (ON)
+* Reid Duke (AB)
+* Reid Gardiner (SK)
+* Ryan Gropp (BC)
+* Nicolas Hébert (QC)
+* Garrett James (ON)
+* Nathan Yetman (NL)
+
+{| class="wikitable"
+! Legend
+|-
+|-style="background:#ccffcc"
+| Advance to the semifinals
+|}
+
+;Group A
+{| class="wikitable"
+|-
+!colspan=2| Legend
+|-
+|style="background:#ccffcc" width=20|  || Teams to Playoffs
+|}
+{| class="wikitable" style="text-align:center;"
+|-
+!width=165|Team
+!width=40|GP
+!width=40|W
+!width=40|OTW
+!width=40|OTL
+!width=40|L
+!width=40|GF
+!width=40|GA
+!width=40|Diff
+!width=40|PTS
+|- style="background:#ccffcc"
+|style="text-align:left;"|{{flagicon|RUS}} [[Russia men's national under-16 ice hockey team|Russia]]
+|4||3||0||0||1||25||9||+16||'''9'''
+|- style="background:#ccffcc"
+|style="text-align:left;"|{{flagicon|CAN}} [[Canada men's national under-16 ice hockey team|Canada]]
+|4||2||1||0||1||20||7||+13||'''8'''
+|- style="background:#ccffcc"
+|style="text-align:left;"|{{flagicon|FIN}} [[Finland men's national under-16 ice hockey team|Finland]]
+|4||2||0||1||1||13||11||+2||'''7'''
+|- style="background:#ccffcc"
+|style="text-align:left;"|{{flagicon|USA}} [[United States men's national under-16 ice hockey team|United States]]
+|4||2||0||0||2||14||18||–4||'''6'''
+|- 
+|style="text-align:left;"|{{flagicon|AUT}} [[Austria men's national under-16 ice hockey team|Austria]]
+|4||0||0||0||4||3||30||–27||'''0'''
+|}
+
+{{Hockeybox2
+| bg          = #eeeeee
+| date        = January 13, 2012
+| time        = 14:45
+| team1       = '''[[Russia men's national under-16 ice hockey team|Russia]] {{flagicon|RUS}}'''
+| team2       = {{flagicon|CAN}} [[Canada men's national under-16 ice hockey team|Canada]]
+| score       = 4–3
+| periods     = (2–1, 2–1, 0–1)
+| reference   = http://www.innsbruck2012.com/uploads/yog_pdf/IHM400902_C74A_3.0.pdf
+| goalie1     = [[Sergey Korobov]]
+| goalie2     = [[Keven Bouchard]]
+| progression = 1–0<br/>1–1<br/>2–1<br/>3–1<br/>3–2<br/>4–2<br/>4–3
+| goals1      = [[Alexander Protapovich|A. Protapovich]] ([[Egor Tsvetkov|E. Tsvetkov]]) – 5:08<br/><br/>E. Tsvetkov – 11:56<br/>M. Lazarev ([[Ivan Nikolishin|I. Nikolishin]]) (SH) – 18:58<br/><br/>[[Daniil Vovchenko|D. Vovchenko]] (I. Nikolishin) – 26:38
+| goals2      = <br/>5:33 – [[Ryan Pilon|R. Pilon]] ([[Joseph Hicketts|J. Hicketts]], [[Reid Gardiner|R. Gardiner]])<br/><br/><br/>21:37 – [[Adam Brooks (ice hockey)|A. Brooks]] ([[Josh Carrick (ice hockey)|J. Carrick]])<br/><br/>42:05 – R. Gardiner (J. Hicketts)
+| official    = {{flagicon|SWE}} Andreas Harnebring
+| official2   =
+| linesman    = {{flagicon|SWE}} Daniel Persson
+| linesman2   = {{flagicon|AUT}} Martin Smeibidlo
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 932
+| penalties1  = 2
+| penalties2  = 4
+| shots1      = 29
+| shots2      = 23
+}}
+{{Hockeybox2
+| bg          = #eeffff
+| date        = January 15, 2012
+| time        = 18:00
+| team1       = '''[[Canada men's national under-16 ice hockey team|Canada]] {{flagicon|CAN}}'''
+| team2       = {{flagicon|USA}} [[United States men's national under-16 ice hockey team|United States]]
+| score       = 5–1
+| periods     = (1–0, 2–1, 2–0)
+| reference   = [https://web.archive.org/web/20181220093807/http://reports.iihf.hockey/Hydra/WYOG2012/1/IHM400905_C74A_3.0.pdf]
+| goalie1     = [[Keven Bouchard]]
+| goalie2     = [[Logan Halladay]]
+| progression = 1–0<br/>2–0<br/>2–1<br/>3–1<br/>4–1<br/>5–1
+| goals1      = [[Eric Cornel|E. Cornel]] – 3:58<br/>R. Gropp (E. Cornel) – 16:30<br/><br/>[[Reid Duke (ice hockey)|R. Duke]] ([[Adam Brooks (ice hockey)|A. Brooks]], [[Ryan Pilon|R. Pilon]]) – 28:54<br/>A. Brooks ([[Brycen Martin|B. Martin]], [[Reid Gardiner|R. Gardiner]]) (PP) – 43:21<br/>R. Gropp (R. Gardiner, E. Cornel) (PP) – 44:06
+| goals2      = <br/><br/>17:39 – B. Clarke ([[Joshua Jacobs|J. Jacobs]])
+| official    = {{flagicon|GER}} Simon Aicher
+| official2   =
+| linesman    = {{flagicon|BLR}} Andrei Haurylenka
+| linesman2   = {{flagicon|SLO}} Tilen Pahor
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 2,575
+| penalties1  = 2
+| penalties2  = 12
+| shots1      = 27
+| shots2      = 16
+}}
+{{Hockeybox2
+| bg          = #eeeeee
+| date        = January 17, 2012
+| time        = 11:15
+| team1       = [[Austria men's national under-16 ice hockey team|Austria]] {{flagicon|AUT}}
+| team2       = '''{{flagicon|CAN}} [[Canada men's national under-16 ice hockey team|Canada]]'''
+| score       = 0–9
+| periods     = (0–4, 0–2, 0–3)
+| reference   = [https://web.archive.org/web/20181220093811/http://reports.iihf.hockey/Hydra/WYOG2012/1/IHM400907_C74A_3.0.pdf]
+| goalie1     = [[Stefan Müller (ice hockey)|Stefan Müller]]
+| goalie2     = [[Sam Walsh (ice hockey)|Sam Walsh]]
+| progression = 0–1<br/>0–2<br/>0–3<br/>0–4<br/>0–5<br/>0–6<br/>0–7<br/>0–8<br/>0–9
+| goals1      =
+| goals2      = 0:40 – [[Adam Brooks (ice hockey)|A. Brooks]] ([[Nicholas Hébert|N. Hébert]], [[Brycen Martin|B. Martin]])<br/>2:16 – [[Ryan Burton|R. Burton]] ([[Nathan Yetman|N. Yetman]], [[Jarrett Crossman|J. Crossman]])<br/>6:15 – R. Gropp ([[Eric Cornel|E. Cornel]]) (PP)<br/>12:07 – E. Cornel (R. Gropp)<br/>16:42 – [[Reid Gardiner|R. Gardiner]] (R. Gropp)<br/>24:35 – [[Garrett James|G. James]]<br/>38:31 – [[Reid Duke (ice hockey)|R. Duke]] (B. Martin, A. Brooks) (PP)<br/>40:14 – [[Ryan Pilon|R. Pilon]]<br/>41:24 – R. Duke (B. Martin, [[Josh Carrick (ice hockey)|J. Carrick]])
+| official    = {{flagicon|NOR}} Stian Halm
+| official2   =
+| linesman    = {{flagicon|BLR}} Andrei Haurylenka
+| linesman2   = {{flagicon|GER}} Benjamin Hoppe
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 749
+| penalties1  = 10
+| penalties2  = 6
+| shots1      = 16
+| shots2      = 44
+}}
+{{Hockeybox2
+| bg          = #eeffff
+| date        = January 18, 2012
+| time        = 11:45
+| team1       = '''[[Canada men's national under-16 ice hockey team|Canada]] {{flagicon|CAN}}'''
+| team2       = {{flagicon|FIN}} [[Finland men's national under-16 ice hockey team|Finland]]
+| score       = 3–2 {{small|[[Shootout (ice hockey)|GWS]]}}
+| periods     = (0–0, 2–1, 0–1)<br/>([[Overtime (ice hockey)#Overtime periods|OT:]] 0–0)<br/>([[Shootout (ice hockey)|SO:]] 2–1)
+| reference   = [https://web.archive.org/web/20181220093816/http://reports.iihf.hockey/Hydra/WYOG2012/1/IHM400909_C74A_5.1.pdf]
+| goalie1     = [[Keven Bouchard]]
+| goalie2     = [[Kaapo Kahkonen]]
+| progression = 1–0<br/>1–1<br/>2–1<br/>2–2
+| goals1      = [[Adam Brooks (ice hockey)|A. Brooks]] ([[Reid Duke (ice hockey)|R. Duke]]) – 15:11<br/>[[Eric Cornel|E. Cornel]] (R. Gropp, [[Joseph Hicketts|J. Hicketts]]) – 22:01
+| soshots1 = E. Cornel {{SO miss}}<br/>R. Gropp {{SO goal}}<br/>[[Reid Gardiner|R. Gardiner]] {{SO goal}}
+| goals2      = <br/>21:05 – [[Joel Kiviranta|J. Kiviranta]] ([[Miikka Pitkanen|M. Pitkanen]])<br/>36:42 – J. Kiviranta (M. Pitkanen, [[Otto Nieminen|O. Nieminen]])
+| soshots2 = {{SO miss}} J. Kiviranta<br/>{{SO goal}} [[Kasperi Kapanen|K. Kapanen]]<br/>{{SO miss}} [[Manu Honkanen|M. Honkanen]]
+| official    = {{flagicon|SWE}} Andreas Harnebring
+| official2   =
+| linesman    = {{flagicon|BLR}} Andrei Haurylenka
+| linesman2   = {{flagicon|AUT}} Martin Smeibidlo
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 1,261
+| penalties1  = 6
+| penalties2  = 8
+| shots1      = 27
+| shots2      = 25
+}}
+
+===Semifinals===
+{{Hockeybox2
+| bg          = #eeffff
+| date        = January 20, 2012
+| time        = 18:45
+| team1       = [[Canada men's national under-16 ice hockey team|Canada]] {{flagicon|CAN}}
+| team2       = '''{{flagicon|FIN}} [[Finland men's national under-16 ice hockey team|Finland]]'''
+| score       = 1–2
+| periods     = (1–1, 0–0, 0–1)
+| reference   = [https://web.archive.org/web/20181220093822/http://reports.iihf.hockey/Hydra/WYOG2012/1/IHM400202_C74A_3.0.pdf]
+| goalie1     = [[Keven Bouchard]]
+| goalie2     = [[Kaapo Kahkonen]]
+| progression = 1–0<br/>1–1<br/>1–2
+| goals1      = [[Josh Carrick (ice hockey)|J. Carrick]] ([[Reid Gardiner|R. Gardiner]], [[Eric Cornel|E. Cornel]]) (PP) – 4:17
+| goals2      = <br/>11:29 – [[Otto Nieminen|O. Nieminen]] ([[Joel Kiviranta|J. Kiviranta]], [[Miikka Pitkanen|M. Pitkanen]])<br/>40:26 – [[Eetu Sopanen|E. Sopanen]] (O. Nieminen, M. Pitkanen) (PP)
+| official    = {{flagicon|GER}} Simon Aicher
+| official2   =
+| linesman    = {{flagicon|GER}} Benjamin Hoppe
+| linesman2   = {{flagicon|SLO}} Tilen Pahor
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 1,426
+| penalties1  = 8
+| penalties2  = 10
+| shots1      = 17
+| shots2      = 19
+}}
+
+===Bronze-medal game===
+{{Hockeybox2
+| bg          = #FFDAB9
+| date        = January 21, 2012
+| time        = 14:45
+| team1       = '''[[Canada men's national under-16 ice hockey team|Canada]] {{flagicon|CAN}}'''
+| team2       = {{flagicon|USA}} [[United States men's national under-16 ice hockey team|United States]]
+| score       = 7 – 5
+| periods     = (3–1, 4–1, 0–3)
+| reference   = [https://web.archive.org/web/20181220093824/http://reports.iihf.hockey/Hydra/WYOG2012/1/IHM400102_C74A_3.0.pdf]
+| goalie1     = [[Keven Bouchard]]
+| goalie2     = [[Logan Halladay]]
+| progression = 1–0<br/>2–0<br/>3–0<br/>3–1<br/>3–2<br/>4–2<br/>5–2<br/>6–2<br/>7–2<br/>7–3<br/>7–4<br/>7–5
+| goals1      = [[Eric Cornel|E. Cornel]] ([[Reid Gardiner|R. Gardiner]], [[Joseph Hicketts|J. Hicketts]]) (PP) – 4:19<br/>[[Ryan Pilon|R. Pilon]] (R. Gardiner, E. Cornel) – 6:58<br/>R. Gropp (R. Gardiner, R. Pilon) (PP) – 13:22<br/><br/><br/>[[Adam Brooks (ice hockey)|A. Brooks]] ([[Reid Duke (ice hockey)|R. Duke]], [[Brycen Martin|B. Martin]]) – 21:27<br/>R. Gardiner (J. Hicketts) – 22:35<br/>R. Gropp – 23:10<br/>R. Gropp (R. Gardiner) – 25:40
+| goals2      = <br/><br/><br/>14:53 – [[Nate Billitier|N. Billitier]] ([[Adam Baughman|A. Baughman]])<br/>19:40 – [[Ryan MacInnis|R. MacInnis]] ([[Jack Eichel|J. Eichel]])<br/><br/><br/><br/><br/>31:44 – J. Eichel ([[Nick Schmaltz|N. Schmaltz]])<br/>38:54 – [[Nicholas Magyar|N. Magyar]] ([[Joshua Jacobs|J. Jacobs]], [[Joe Wegwerth|J. Wegwerth]])<br/>40:10 – N. Schmaltz (R. MacInnis, [[Marcel Godbout|M. Godbout]]) (PP)
+| official    = {{flagicon|NOR}} Stian Halm
+| official2   =
+| linesman    = {{flagicon|GER}} Benjamin Hoppe
+| linesman2   = {{flagicon|AUT}} Martin Smeibidlo
+| stadium     = [[Tyrolean Ice Arena]]
+| attendance  = 1,592
+| penalties1  = 8
+| penalties2  = 12
+| shots1      = 19
+| shots2      = 40
+}}
+Final rank: {{bronze03}}
+
+== Luge==
+{{Main|Luge at the 2012 Winter Youth Olympics}}
+Canada had qualified a team of two boys and one girl.
+
+{| class="wikitable" style="font-size:90%;"
+|+ Boys
+|-
+!Athlete
+!Event
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[John Fenell]]
+|[[Luge at the 2012 Winter Youth Olympics – Boys' singles|Boys' singles]]
+|align=center|40.162
+|align=center|40.029
+|align=center|1:20.191
+|align=center|7
+|-
+|[[Mitchel Malyk]]
+|[[Luge at the 2012 Winter Youth Olympics – Boys' singles|Boys' singles]]
+|align=center|40.096
+|align=center|39.947
+|align=center|1:20.043
+|align=center|5
+|}
+
+{| class="wikitable" style="font-size:90%;"
+|+ Girls
+|-
+!Athlete
+!Event
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[Tara Disturnal]]
+|[[Luge at the 2012 Winter Youth Olympics – Girls' singles|Girls' singles]]
+|align=center|40.793
+|align=center|40.903
+|align=center|1:21.696
+|align=center|11
+|}
+
+== Nordic combined==
+{{Main|Nordic combined at the 2012 Winter Youth Olympics}}
+Canada had qualified one boy athlete.
+
+{|class="wikitable" 
+|+ Boy
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Ski jumping
+!colspan=2|Cross-country
+!colspan=2|Final
+|-
+!Points
+!Rank
+!Deficit
+!Ski Time
+!Total Time
+!Rank
+|-
+|[[Nathaniel Mah]]
+|[[Nordic combined at the 2012 Winter Youth Olympics – Individual|Boys' individual]]
+|align="center"|122.6
+|align="center"|9
+|align="center"|1:00
+|align="center"|28:35.0
+|align="center"|29:35.0
+|align="center"|11
+|}
+
+==Skeleton==
+{{Main|Skeleton at the 2012 Winter Youth Olympics}}
+Canada had qualified one boy and one girl in skeleton.
+
+{|class="wikitable" 
+|+ Boy
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[Corey Gillies]]
+|[[Skeleton at the 2012 Winter Youth Olympics – Boys'|Boys' individual]]
+|align="center"|58.35
+|align="center"|57.47
+|align="center"|1:55.82
+|align="center"|{{bronze03}}
+|}
+
+{|class="wikitable" 
+|+ Girl
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Final
+|-
+!Run 1
+!Run 2
+!Total
+!Rank
+|-
+|[[Carli Brockway]]
+|[[Skeleton at the 2012 Winter Youth Olympics – Girls'|Girls' individual]]
+|align="center"|CAN
+|align="center"|58.48
+|align="center"|58.48
+|align="center"|{{bronze03}}
+|}
+
+== Ski jumping==
+{{Main|Ski jumping at the 2012 Winter Youth Olympics}}
+Canada had qualified one boy and one girl athlete.
+
+{|class="wikitable" 
+|+ Boys
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|1st Jump
+!colspan=2|2nd Jump
+!colspan=2|Overall
+|-
+!Distance
+!Points
+!Distance
+!Points
+!Points
+!Rank
+|-
+|[[Dusty Korek]]
+|[[Ski jumping at the 2012 Winter Youth Olympics – Boys' individual|Boys' individual]]
+|align="center"|72.5m
+|align="center"|123.8
+|align="center"|70.5m
+|align="center"|117.0
+|align="center"|240.8
+|align="center"|8
+|}
+
+{|class="wikitable" 
+|+ Girls
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|1st Jump
+!colspan=2|2nd Jump
+!colspan=2|Overall
+|-
+!Distance
+!Points
+!Distance
+!Points
+!Points
+!Rank
+|-
+|[[Taylor Henrich]]
+|[[Ski jumping at the 2012 Winter Youth Olympics – Girls' individual|Girls' individual]]
+|align="center"|64.0m
+|align="center"|99.4
+|align="center"|66.0m
+|align="center"|105.2
+|align="center"|204.6
+|align="center"|5
+|}
+
+{|class="wikitable" 
+|+ Team w/Nordic Combined
+|-
+!Athlete
+!Event
+!1st Round
+!2nd Round
+!Total
+!Rank
+|-
+|[[Taylor Henrich]]<br/>[[Nathaniel Mah]]<br/>[[Dusty Korek]]
+|[[Ski jumping at the 2012 Winter Youth Olympics – Team competition|Mixed Team]]
+|align="center"|277.1
+|align="center"|309.9
+|align="center"|587.0
+|align="center"|{{bronze03}}
+|}
+
+==Snowboarding==
+{{Main|Snowboarding at the 2012 Winter Youth Olympics}}
+Canada had qualified a full team of 4 athletes (2 boys and 2 girls).<ref>[[Snowboarding at the 2012 Winter Youth Olympics]]</ref>
+
+{|class="wikitable"
+|+ Men
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Qualifying
+!colspan=3|Semifinal
+!colspan=3|Final
+|-
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+|-
+|rowspan=2|[[Michael Ciccarelli]]
+|[[Snowboarding at the 2012 Winter Youth Olympics – Boys' halfpipe|Boys' halfpipe]]
+|align="center"|53.25
+|align="center"|78.75
+|align="center"|4 '''q'''
+|align="center"|84.75
+|align="center"|77.25
+|align="center"|1 '''Q'''
+|align="center"|74.50
+|align="center"|84.00
+|align="center"|4
+|-
+|[[Snowboarding at the 2012 Winter Youth Olympics – Boys' slopestyle|Boys' slopestyle]]
+|align="center"|86.50
+|align="center"|90.75
+|align="center"|1 '''Q'''
+|colspan=3 style="background:wheat"|
+|align="center"|85.75
+|align="center"|94.25
+|align="center"|{{gold01}}
+|-
+|[[Tyler Nicholson]]
+|[[Snowboarding at the 2012 Winter Youth Olympics – Boys' slopestyle|Boys' slopestyle]]
+|align="center"|55.75
+|align="center"|82.75
+|align="center"|3 '''Q'''
+|colspan=3 style="background:wheat"|
+|align="center"|44.25
+|align="center"|84.00
+|align="center"|6
+|}
+
+{|class="wikitable"
+|+ Women
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=3|Qualifying
+!colspan=3|Semifinal
+!colspan=3|Final
+|-
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+!Run 1
+!Run 2
+!Rank
+|-
+|rowspan=2|[[Audrey McManiman]]
+|[[Snowboarding at the 2012 Winter Youth Olympics – Girls' halfpipe|Girls' halfpipe]]
+|align="center"|51.50
+|align="center"|37.00
+|align="center"|7 '''q'''
+|align="center"|64.25
+|align="center"|34.00
+|align="center"|4
+|align="center" colspan=3|did not advance
+|-
+|[[Snowboarding at the 2012 Winter Youth Olympics – Girls' slopestyle|Girls' slopestyle]]
+|align="center"|83.00
+|align="center"|30.00
+|align="center"|1 '''Q'''
+|colspan=3 style="background:wheat"|
+|align="center"|84.25
+|align="center"|62.75
+|align="center"|{{gold01}}
+|-
+|rowspan=2|[[Quincy Korte-King]]
+|[[Snowboarding at the 2012 Winter Youth Olympics – Girls' halfpipe|Girls' halfpipe]]
+|align="center"|57.00
+|align="center"|59.00
+|align="center"|5 '''q'''
+|align="center"|48.25
+|align="center"|71.75
+|align="center"|3 '''Q'''
+|align="center"|61.25
+|align="center"|69.75
+|align="center"|5
+|-
+|[[Snowboarding at the 2012 Winter Youth Olympics – Girls' slopestyle|Girls' slopestyle]]
+|align="center"|75.75
+|align="center"|66.00
+|align="center"|6 '''Q'''
+|colspan=3 style="background:wheat"|
+|align="center"|49.00
+|align="center"|51.50
+|align="center"|7
+|}
+
+==See also==
+*[[Canada at the 2012 Summer Olympics]]
+
+==References==
+{{Reflist}}
+
+{{NOCin2012WinterYouthOlympics}}
+
+[[Category:2012 in Canadian sports]]
+[[Category:Nations at the 2012 Winter Youth Olympics]]
+[[Category:Canada at the Youth Olympics|2012]]
+[[Category:Austria–Canada sports relations|2012-01-13]]
+[[Category:Canada at winter multi-sport events|2012 Youth]]

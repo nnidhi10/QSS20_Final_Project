@@ -1,0 +1,40 @@
+{{Short description|Romanian biathlete (1941–2001)}}
+'''Gheorghe Vilmoș''' (3 February 1941 – 16 December 2001)<ref name="Death">[https://www.3szek.ro/load/cikk/66162/egyetemes_magyar_sport_%E2%80%93_lapozgato_51 Mention of Vilmoș Gheorghe's death] {{in lang|hu}}</ref><ref>[https://web.archive.org/web/20200418112913/https://www.sports-reference.com/olympics/athletes/gh/vilmos-gheorghe-1.html sports-reference] retrieved 1st August 2010</ref> was a [[Romania]]n [[biathlete]] who competed in the [[1964 Winter Olympics]],<ref name="Innsbruck20">{{cite web |title=Innsbruck 1964 20km men Result - Olympic biathlon |url=https://olympics.com/en/olympic-games/innsbruck-1964/results/biathlon/20km-men |website=olympics.com |publisher=International Olympic Committee |access-date=2 May 2024}}</ref><ref name="RADOR">{{cite news|url=https://www.rador.ro/2018/02/09/documentar-jocurile-olimpice-de-iarna-pyeongchang-2018/|language=ro| title=Documentar: Jocurile Olimpice de Iarnă PyeongChang 2018|publisher=[[Agenția de presă RADOR|RADOR]] | first=Răzvan |last=Moceanu|date=9 February 2018|access-date=3 May 2024}}</ref><ref name="Gandul">{{cite news|url=https://www.gandul.ro/sport/cate-medalii-a-obtinut-romania-in-86-de-ani-de-participari-la-jo-de-iarna-11998238|language=ro| title=Câte medalii a obținut România în 86 de ani de participări la JO de iarnă|newspaper=[[Gândul]] | first=Mihai |last=Schiau|date=31 January 2014|access-date=3 May 2024}}</ref><ref name="citysport">{{cite news|url=https://citysport.ro/evolutia-romaniei-la-jocurile-olimpice-de-iarna/|language=ro| title=Evoluția României la Jocurile Olimpice de iarnă|website=citysport.ro | first=Dragoș |last= Cotirlea
+|date=4 June 2021|access-date=3 May 2024}}</ref> [[1968 Winter Olympics]],<ref name="Grenoble 20">{{cite web |title=Grenoble 1968 20km men Result - Olympic biathlon |url=https://olympics.com/en/olympic-games/grenoble-1968/results/biathlon/20km-men |website=olympics.com |publisher=International Olympic Committee |access-date=2 May 2024}}</ref><ref name="Grenoble4x7.5">{{cite web |title=Grenoble 1968 4x7.5 relay men Result - Olympic biathlon |url=https://olympics.com/en/olympic-games/grenoble-1968/results/biathlon/4x75km-relay-men |website=olympics.com |publisher=International Olympic Committee |access-date=2 May 2024}}</ref><ref name="cosr">{{cite web|url=https://www.cosr.ro/sportiv/gheorghe-vilmos|language=ro| title=Gheorghe Vilmoș. Biatlon|website=www.cosr.ro | publisher=[[Romanian Olympic and Sports Committee]]|access-date=3 May 2024}}</ref> and [[1972 Winter Olympics]].<ref name="Sapporo20">{{cite web |title=Sapporo 1972 20km men Result - Olympic biathlon |url=https://olympics.com/en/olympic-games/sapporo-1972/results/biathlon/20km-men |website=olympics.com |publisher=International Olympic Committee |access-date=2 May 2024}}</ref><ref name="Sapporo4x7.5">{{cite web |title=Sapporo 1972 4x7.5 relay men Result - Olympic biathlon |url=https://olympics.com/en/olympic-games/sapporo-1972/results/biathlon/4x75km-relay-men |website=olympics.com |publisher=International Olympic Committee |access-date=2 May 2024}}</ref>
+
+He was born in [[Suseni, Harghita|Valea Strâmbă]], [[Harghita County]] (at that time Tekerőpatak, Hungary) and was affiliated with the sports club Dinamo Brașov. He died in [[Brașov]] at age 60.<ref>{{cite web|url=https://www.olympedia.org/athletes/86341|title=Vilmoș Gheorghe. Biographical information|website=www.olympedia.org|access-date=3 May 2024}}</ref>
+
+==Olympic results==
+
+{| class="wikitable"
+|-
+!Event!!Place!!Date!!Venue
+|- 
+|20&nbsp;km||5<ref name="Innsbruck20" /><ref name="RADOR"/><ref name="Gandul"/><ref name="citysport"/>
+||4 February 1964||[[Innsbruck]]
+|- 
+|20&nbsp;km||22<ref name="Grenoble 20" /><ref name="cosr"/>||12 February 1968||[[Grenoble]]
+|- 
+|4 × 7.5&nbsp;km||7<ref name="Grenoble4x7.5" /><ref name="cosr"/>||15 February 1968||[[Grenoble]]
+|- 
+|20&nbsp;km||32<ref name="Sapporo20" />||9 February 1972||[[Sapporo]]
+|- 
+|4 × 7.5&nbsp;km||9<ref name="Sapporo4x7.5" />||11 February 1972||[[Sapporo]]
+|}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Vilmos, Gheorghe}}
+[[Category:1941 births]]
+[[Category:2001 deaths]]
+[[Category:Romanian male biathletes]]
+[[Category:Olympic biathletes for Romania]]
+[[Category:Biathletes at the 1964 Winter Olympics]]
+[[Category:Biathletes at the 1968 Winter Olympics]]
+[[Category:Biathletes at the 1972 Winter Olympics]]
+[[Category:Sportspeople from Harghita County]]
+[[Category:20th-century Romanian sportsmen]]
+
+
+{{Romania-biathlon-bio-stub}}

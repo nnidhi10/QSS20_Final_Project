@@ -1,0 +1,81 @@
+{{short description|Winter sport combining the events of cross-country skiing and ski jumping}}
+{{distinguish|text=[[Alpine skiing combined|Alpine combined]], in which athletes compete in downhill and slalom ski racing}}
+
+{{Infobox sport
+|name       = Nordic combined
+|image      = [[File:Nordic combined pictogram.svg|150px|class=skin-invert]]
+|imagesize  = 
+|caption    = 
+|union      = [[International Ski Federation]]
+|nickname   =
+|first      = 1892, [[Holmenkollen Ski Festival]], [[Oslo]]
+|registered = 
+|clubs      = 
+|contact    = 
+|team       = Individuals or groups
+|mgender    = no
+|category   =
+|equipment  =
+|venue      =
+|obsolete   =
+|olympic    = Since the first [[1924 Winter Olympics|Winter Olympics in 1924]]
+}}
+'''Nordic combined''' is a [[winter sport]] in which athletes compete in [[cross-country skiing (sport)|cross-country skiing]] and [[ski jumping]]. The [[Nordic combined at the Winter Olympics]] has been held since the first [[1924 Winter Olympics|Winter Olympics in 1924]], while the [[FIS Nordic Combined World Cup]] has been held since 1983. Many Nordic combined competitions use the [[Gundersen method]], where placement in the ski jumping segment results in time (dis)advantages added to the contestant's total in the cross-country skiing segment (e.g. the ski jumping winner starts the cross-country skiing race at 00:00:00 while the one with the lowest jumping score starts with the longest time penalty).
+
+== History ==
+The first major competition was held in 1892 in [[Oslo]] at the first [[Holmenkollen ski jump]]. [[Olav V of Norway|King Olav V of Norway]] was an able jumper and competed in the Holmenkollen Ski Festival in the 1920s. Nordic combined was in the [[1924 Winter Olympics]] and has been on the program ever since. Until the 1950s, the cross-country race was held first, followed by the ski jumping. This was reversed as the difference in the cross-country race tended to be too big to overcome in ski jumping. The sport has been dominated by the Norwegians, supported by the Finns. It was not until 1960 that the Nordic grip on this discipline was broken when [[West Germany|West German]] [[Georg Thoma]] won the gold medal at the [[Nordic combined at the 1960 Winter Olympics|1960 Winter Olympics]].<ref name=fis>{{cite web|title=Nordic Combined Equipment and History|url=http://www.olympic.org/nordic-combined-equipment-and-history|publisher=FIS|access-date=11 November 2014}}</ref>
+
+It was decided in early-November 2016 that women's competitions were to be established on FIS-level starting during the second half of the 2010s with inclusion at world championships starting in 2021 and at the Olympic Winter Games in 2022.<ref>{{cite web|url=http://www.fis-ski.com/news-multimedia/news/article=decisions-the-autumn-2016-fis-council-meeting-oberhofen-sui.html|title=Decisions of the Autumn 2016 FIS Council Meeting|publisher=International Ski Federation|language=en|date=5 November 2016|access-date=7 November 2016|archive-url=https://web.archive.org/web/20161108133608/http://www.fis-ski.com/news-multimedia/news/article=decisions-the-autumn-2016-fis-council-meeting-oberhofen-sui.html|archive-date=8 November 2016|url-status=dead}}</ref> The Olympic debut for women in 2022 was cancelled in July 2018 by the IOC. In May 2018 the FIS Congress made several decisions regarding the inclusion of women in the sport of Nordic Combined.<ref>{{Cite web|url=https://www.fis-ski.com/en/nordic-combined/nordic-combined-news-multimedia/news-multimedia/news/2018-19/article=fis-congress-historic-milestones-for-ladies-nordic-combined|title=FIS Congress: Historic steps for Nordic Combined Ladies|website=www.fis-ski.com|language=en|access-date=2018-11-28}}</ref>  At the [[2022 Winter Olympics|2022]] and [[2026 Winter Olympics]], Nordic combined was the only sport with exclusively men's events. As of 2019, women will be officially included in FIS Junior World Championships. It was confirmed that 2021 will mark the start of the FIS World Championship program for women (senior level).  2018 marks the second year of the Continental Cup program for women, which will include a total of 12 events.
+
+== Competition ==
+{{Multiple image|perrow=2|total_width=300
+| image1 = 20180128 FIS NC Worldcup Seefeld Ilka Herola 850 2666.jpg
+| alt1   = Ilkka Herola in the middle of a ski jump.
+| image2 = 20180126 FIS NC WC Seefeld 850 0524.jpg
+| alt2   = Multiple skiers in the middle of cross country skiing race.
+| footer = Competitions held in [[Seefeld in Tirol|Seefeld]] during the [[2017–18 FIS Nordic Combined World Cup|2017–18 World Cup]].
+}}
+Formats and variations currently used in the World Cup are:<ref>{{cite web|url=http://www.fis-ski.com/nordic-combined/extra/faq.html|title=Nordic Combined World Cup|publisher=FIS|access-date=11 November 2014|archive-url=https://web.archive.org/web/20170526221801/http://www.fis-ski.com/nordic-combined/extra/faq.html|archive-date=26 May 2017|url-status=dead}}</ref>
+
+* Individual [[Gundersen method|Gundersen]]: competition starts with one competition jump from a normal or large hill. Later on the same day, the {{convert|10|km|mi|2|abbr=on}} cross-country race takes place. The winner starts at 00:00:00 and all other athletes start with time disadvantages according to their jumping score. The first to cross the finish line is the winner. A variation of this is the Final Individual Gundersen, consisting of two jumps and {{convert|15|km|mi|2|abbr=on}} of cross-country skiing in free technique.
+*  Nordic Combined Triple: introduced in the [[2013–14 FIS Nordic Combined World Cup]], it features three different events on three days and one overall winner who is awarded extra World Cup points and prize money:
+** Day 1: 1 jump & {{convert|10|km|mi|2|abbr=on}} Prologue
+** Day 2: 1 jump & {{convert|15|km|mi|2|abbr=on}} Individual Gundersen (Top 50 from Day 1's competition)
+** Day 3: 2 jumps & {{convert|20|km|mi|2|abbr=on}} Final Individual Gundersen (Top 30 from Day 2's competition)
+* Team Event: introduced in the 1980s, one team consists of four athletes who have one competition jump each. The total score of all four athletes determines the time disadvantages for the start of the ensuing {{convert|5|km|mi|2|abbr=on}} cross-country race. The first team to cross the finish line wins.
+* Team Sprint: teams consist of two athletes each. In the ski jumping part, every athlete makes one competition jump like in the Individual Gundersen or Team Event formats and the time behind for the start of the successive cross-country race. The team to arrive first at the finish line wins the competition.
+* Mass Start: the only format in which the cross-country part takes place before the ski jumping. All competitors start into a {{convert|10|km|mi|2|abbr=on}} cross-country race in free technique at the same time. The final cross-country times are then converted into points for the ski jumping part. The winner is determined in a points-based system. The Nordic Combined World Cup saw the return of the mass start format in 2018, following a ten-year hiatus.<ref>{{Cite web |url=https://www.fis-ski.com/en/nordic-combined/nordic-combined-news-multimedia/news-multimedia/news/2018-19/lillehammer-tour-features-first-mass-start-in-10-years |title=Lillehammer Tour features first Mass Start in 10 years |publisher=FIS |access-date=2024-03-04}}</ref>
+* Individual Compact: introduced November 2023 combines one jump and a {{convert|7.5|km|mi|2|abbr=on}} race with a fixed start time disadvantage based on the jump ranking: 2nd +6 seconds, 3rd +12, 4th +17, 5th +22, …, 34th-36th +85, 37th and others +90. <ref>{{Cite web |url=https://assets.fis-ski.com/f/252177/x/f63b359d80/icr_nc_24-25_e-marked-up.pdf |title=THE INTERNATIONAL SKI AND SNOW-BOARD COMPETITION RULES (ICR) BOOK VII NORDIC COMBINED |at=sec. 541.1.4 |publisher=FIS |access-date=2026-02-27}}</ref>
+
+Included in the rules but currently not used in World Cup:
+* Penalty Race: instead of adding a time disadvantage, distance is added to the cross-country part.
+
+Events in the [[Olympic Games|Olympics]] are: the men's sprint K120 individual, ski jumping K90 (70m), and Team/4x5km.<ref>{{cite web|title=Nordic Combined|url=http://www.olympic.org/nordic-combined|publisher=IOC|access-date=11 November 2014}}</ref>. There is no women's Nordic Combined at the Olympics.<ref>{{Cite web |date=2022-06-24 |title=IOC keeps women's Nordic combined skiing out of 2026 Olympics |url=https://www.espn.com/olympics/story/_/id/34143184/ioc-keeps-women-nordic-combined-2026-olympics |access-date=2026-01-23 |website=ESPN.com |language=en}}</ref>
+
+==Equipment==
+* [[Ski bindings]]: secure only the toe of the boot to the ski. In cross-country, it must be placed so that not more than 57% of the entire ski length is used as the front part. In jumping, a cord or aluminum post attaches the heel of the boot to the ski to prevent tips from dropping and/or wobbling of skis during flight.
+* [[Ski boot]]
+** For jumping, high-backed, flexible yet firm boots with a low cut at the front, designed to allow the skier to lean forward during flight.
+** For cross-country a skating boot is used.
+* [[Ski suit]] and [[ski helmet|helmet]]
+* [[Skis]]: jumping skis may have a length of a maximum 145% of the total body height of the competitor. Cross-country skis may be up to 2 meters long.
+* [[Ski poles]] 
+* [[Ski wax]]: glide wax for speed is used in both types, and kick wax is used in cross-country.<ref name=fis/>
+
+== Health risks ==
+Because it's a combination of cross country and ski jumping, the health risks in nordic combined, including injuries and the risk of [[eating disorder]]s,<ref>{{Cite web|url=https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/47300/pdf/GESAMTFASSUNG_fertig02.pdf?sequence=1|title=Frauen mit Eßstörungen im Ausdauersport|publisher=[[Eberhard Karls Universität Tübingen]]|author=Annette Bös|date=2003|access-date=2025-09-07|language=de}}</ref> are similar to them. The Swiss athlete [[Matthias Lötscher]] for example suffered serious spinal injuries and a [[paralysis]] of the leg after an accident at the hill of [[Kandersteg]].<ref>{{Cite web|url=https://www.paraplegie.ch/sites/default/files/2017-12/paraplegie_1_2015_de1.pdf|title=«Wer aufgibt, hat verloren»|publisher=paraplegie - Das Magazin der Gönner-Vereinigung der Schweizer Paraplegiker-Stiftung No. 153 page 10|access-date=2025-09-07|language=de}}</ref> His countryman [[Pascal Müller]] suffered from an eating disorder.<ref>{{Cite web|url=https://www.tagesanzeiger.ch/nordisch-kombinierer-pascal-mueller-sein-spezieller-weg-zur-wm-896774476890|title=Nordisch-Kombinierer Pascal Müller: Sein spezieller Weg zur WM|publisher=[[tagesanzeiger.ch]]|author=Angelo Rocchinotti|date=2025-02-25|access-date=2025-09-07|language=de}}</ref>
+
+==References==
+{{reflist}}
+{{Skiing}}
+{{Winter Olympic sports}}
+
+{{Authority control}}
+
+[[Category:Nordic combined| ]]
+[[Category:Cross-country skiing]]
+[[Category:Ski jumping]]
+[[Category:Sports originating in Norway]]
+[[Category:Winter Olympic sports]]
+[[Category:Nordic skiing]]
+[[Category:Combination events]]

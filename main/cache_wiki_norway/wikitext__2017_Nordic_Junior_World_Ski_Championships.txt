@@ -1,0 +1,281 @@
+{{Infobox games
+| name      = FIS Nordic Junior and U23 World Ski Championships 2017
+| logo      =
+| size      = 
+| caption   = Official logo for the FIS Nordic World Ski Championships 2017.
+| host_city = [[Park City, Utah|Park City]], [[United States]]
+| nations   = 
+| athletes  = 
+| events    = 22
+| opening   = 30 January
+| closing   = 5 February
+| opened_by = 
+| stadium   = [[Utah Olympic Park]], [[Soldier Hollow]]
+| motto     = 
+| website   = [http://utah2017.com Utah2017.com]
+| previous  = [[2016 Nordic Junior World Ski Championships|2016 Râșnov]]
+| next      = [[2018 Nordic Junior World Ski Championships|Goms 2018]] 
+}}
+
+The '''FIS Nordic Junior and U23 World Ski Championships 2017''' took place in [[Park City, Utah|Park City]], [[United States]] from 30 January to 5 February 2017.  It was the 40th [[FIS Nordic Junior World Ski Championships|Junior World Championships]] and the 12th Under-23 World Championships in [[nordic skiing]].
+
+==Schedule==
+''All times are local ([[Mountain Standard Time|UTC-7]]).''<ref>[http://utah2017.com/wp-content/uploads/2016/10/2017-FIS-Nordic-Junior-U23-World-Ski-Championship-Team-Invitation.pdf Competition schedule]{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+{{col-begin}}
+{{col-3}}
+;Cross-country
+{| class="wikitable"
+|-
+! Date
+! Time
+! Event
+|-
+| 30 January || 12:00 || Men's junior sprint<br>Ladies' junior sprint
+|-
+| 31 January || 12:00 || Men's under-23 sprint<br>Ladies' under-23 sprint
+|-
+| rowspan=2 | 1 February || 10:00 || Ladies' junior 5&nbsp;km free
+|-
+| 12:00 || Men's junior 10&nbsp;km free
+|-
+| rowspan=2 | 2 February || 10:00 || Ladies' under-23 10&nbsp;km free
+|-
+| 12:00 || Men's under-23 15&nbsp;km free
+|-
+| rowspan=2 | 3 February || 10:00 || Ladies' junior 10&nbsp;km skiathlon
+|-
+| 12:00 || Men's junior 20&nbsp;km skiathlon
+|-
+| rowspan=2 | 4 February || 10:00 || Ladies' under-23 15&nbsp;km skiathlon
+|-
+| 12:00 || Men's under-23 30&nbsp;km skiathlon
+|-
+| rowspan=2 | 5 February || 10:00 || Ladies' junior 4×3.33&nbsp;km relay
+|-
+| 12:00 || Men's junior 4×5&nbsp;km relay
+|-
+|}
+{{col-3}}
+;Nordic combined
+{| class="wikitable"
+|-
+! Date
+! Time
+! Event
+|-
+| 31 January || 10:00<br>15:30 || HS100 / 10&nbsp;km
+|-
+| 2 February || 10:00<br>15:30 || Team HS100 / 4x5&nbsp;km
+|-
+| 4 February || 10:00<br>15:30 || HS100 / 5&nbsp;km
+|-
+|}
+{{col-3}}
+;Ski jumping
+{| class="wikitable"
+|-
+! Date
+! Time
+! Event
+|-
+| rowspan=2 |1 February || 12:00 || Ladies' HS100
+|-
+| 15:00 || Men's HS100
+|-
+| rowspan=2 |3 February || 12:15 || Ladies' team HS100
+|-
+| 15:00 || Men's team HS100
+|-
+| 5 February || 14:00 || Mixed team HS100
+|-
+|}
+{{col-end}}
+
+==Medal summary==
+
+===Junior events===
+
+====Cross-country skiing====
+{| {{MedalistTable|type=Event|columns=2}}
+|- style="background:#ccc;"
+| colspan=7 | '''Men's Junior Events'''
+|-
+| Men's junior sprint classic<ref>[http://summittiming.com/race_results/2017/world_juniors_2017/wjsc_sprints/sprint_bracket_results_for_junior_world_championships_classic_sprints_170130.pdf Sprint junior results]</ref>
+|[[Janosch Brugger]]<br>{{GER}} || 3:43.00
+|[[Petter Stakston]]<br>{{NOR}} || 3:43.04
+|[[Herman Martens Meyer]]<br>{{NOR}} || 3:46.83
+|-
+| Men's junior 10 kilometre free<ref>[http://medias2.fis-ski.com/pdf/2017/CC/2371/2017CC2371RL.pdf Men's junior 10km results]</ref>
+|[[Vladislav Vechkanov]]<br>{{RUS}}|| 23:08.6
+|[[Egor Kazarinov]]<br>{{RUS}}|| 23:16.5
+|[[Yaroslav Rybochkin]]<br>{{RUS}}|| 23:21.9
+|-
+| Men's junior 20 kilometre skiathlon<ref>[http://medias1.fis-ski.com/pdf/2017/CC/2376/2017CC2376RL.pdf Men's junior skiathlon results]</ref>
+|[[Vladislav Vechkanov]]<br>{{RUS}} || 49:40.5
+|[[Thomas Helland Larsen]]<br>{{NOR}} || 49:42.4
+|[[Harald Østberg Amundsen]]<br>{{NOR}} || 49:42.7
+|-
+| Men's junior 4 × 5 kilometre relay<ref>[http://medias1.fis-ski.com/pdf/2017/CC/2380/2017CC2380RL.pdf Men's junior relay results]</ref>
+| {{NOR}}<br /><small>[[Herman Martens Meyer]]<br />[[Jon Rolf Skamo Hope]]<br />[[Harald Østberg Amundsen]]<br />[[Thomas Helland Larsen]]</small>|| 49:36.1
+| {{RUS}}<br /><small>[[Egor Kazarinov]]<br />[[Kirill Kilivnyuk]]<br />[[Yaroslav Rybochkin]]<br />[[Vladislav Vechanov]]</small>|| 49:36.5
+| {{FRA}}<br /><small>[[Martin Collet]]<br />[[Camille Laude]]<br />[[Hugo Lapalus]]<br />[[Arnaud Chautemps]]</small>|| 50:41.5
+|- style="background:#ccc;"
+| colspan=7 | '''Ladies' Junior Events'''
+|-
+| Ladies' junior sprint classic<ref>[http://summittiming.com/race_results/2017/world_juniors_2017/wjsc_sprints/sprint_bracket_results_for_junior_world_championships_classic_sprints_170130.pdf Sprint junior results]</ref>
+|[[Polina Nekrasova]]<br>{{RUS}} || 3:34.60
+|[[Antonia Fräbel]]<br>{{GER}} || 3:38.16
+|[[Coletta Rydzek]]<br>{{GER}} || 3:39.16
+|-
+| Ladies' junior 5 kilometre free<ref>[http://medias3.fis-ski.com/pdf/2017/CC/2372/2017CC2372RL.pdf Ladies' junior 5km results]</ref>
+|[[Ebba Andersson (cross-country skier)|Ebba Andersson]]<br>{{SWE}}|| 12:45.4
+|[[Marte Mæhlum Johansen]]<br>{{NOR}}|| 12:59.2
+|[[Mariya Istomina]]<br>{{RUS}}|| 13:00.7
+|-
+| Ladies' junior 10 kilometre skiathlon<ref>[http://medias4.fis-ski.com/pdf/2017/CC/2375/2017CC2375RL.pdf Ladies' junior skiathlon results]</ref>
+|[[Marte Mæhlum Johansen]]<br>{{NOR}} || 27:17.3
+|[[Ebba Andersson (cross-country skier)|Ebba Andersson]]<br>{{SWE}} || 27:23.9
+|[[Katharine Ogden]]<br>{{USA}} || 27:27.7
+|-
+| {{nowrap|Ladies' junior 4 × 3.33 kilometre relay<ref>[http://medias4.fis-ski.com/pdf/2017/CC/2379/2017CC2379RL.pdf Ladies' junior relay results]</ref>}}
+| {{RUS}}<br /><small>[[Polina Nekrasova]]<br />[[Lidia Durkina]]<br />[[Anna Zherebyateva]]<br />[[Mariya Istomina]]</small>|| 34:45.3
+| {{ITA}}<br /><small>[[Martina Bellini]]<br />[[Anna Comarella]]<br />[[Francesca Franchi]]<br />[[Cristina Pittin]]</small>|| 35:05.9
+| {{USA}}<br /><small>[[Hailey Swirbul]]<br />[[Julia Kern]]<br />[[Hannah Halvorsen]]<br />[[Katharine Ogden]]</small>|| 35:11.2
+|-
+|}
+
+====Nordic combined====
+{| {{MedalistTable|type=Event|columns=2}}
+|-
+| Individual normal hill/10&nbsp;km<ref>[http://medias1.fis-ski.com/pdf/2017/NK/4142/2017NK4142ROF.pdf Individual normal hill/10 km results]</ref>
+|[[Arttu Mäkiaho]]<br>{{FIN}}|| 25:54.5
+|[[Mika Vermeulen]]<br>{{AUT}}|| 26:16.1
+|[[Martin Hahn (nordic combined)|Martin Hahn]]<br>{{GER}} ||  26:20.1
+|-
+| Individual normal hill/5&nbsp;km<ref>[http://medias1.fis-ski.com/pdf/2017/NK/4144/2017NK4144ROF.pdf Individual normal hill/5 km results]</ref>
+|[[Vinzenz Geiger]]<br>{{GER}} || 12:14.9
+|[[Arttu Mäkiaho]]<br>{{FIN}} || 12:37.5
+|[[Laurent Muhlethaler]]<br>{{FRA}} || 12:38.8
+|-
+| Team normal hill/4 × 5&nbsp;km<ref>[http://medias3.fis-ski.com/pdf/2017/NK/4143/2017NK4143ROF.pdf Normal hill team 4x5km results]</ref><ref>[http://summittiming.com/race_results/2017/world_juniors_2017/nc_relay/results_for_junior_world_championships_4_x_5k_free_nordic_combined_relay_170202.pdf Nordic Combined Relay 4x5km results]</ref>
+| {{AUT}}<br /><small>[[Samuel Mraz (Nordic combined)|Samuel Mraz]]<br />[[Marc-Luis Rainer]]<br />[[Florian Dagn]]<br />[[Mika Vermeulen]]</small>|| 46:17.3
+| {{FRA}}<br /><small>[[Lilian Vaxelaire]]<br />[[Laurent Muhlethaler]]<br />[[Théo Rochat]]<br />[[Maël Tyrode]]</small>|| 46:27.0
+| {{CZE}}<br /><small>[[Ondřej Pažout]]<br />[[David Zemek]]<br />[[Jan Vytrval]]<br />[[Lukáš Daněk]]</small>|| 46:32.6
+|-
+|}
+
+====Ski jumping====
+{| {{MedalistTable|type=Event|columns=2}}
+|- style="background:#ccc;" 
+| colspan=7 | '''Men's Junior Events'''
+|-
+| Men's junior individual normal hill<ref>[http://medias3.fis-ski.com/pdf/2017/JP/3855/2017JP3855RL.pdf Men's normal hill individual results]</ref>
+|[[Viktor Polášek]]<br>{{CZE}}|| 263.2
+|[[Alex Insam]]<br>{{ITA}}|| 260.6
+|[[Constantin Schmid]]<br>{{GER}}|| 260.4
+|-
+| Men's junior team normal hill<ref>[http://medias4.fis-ski.com/pdf/2017/JP/3858/2017JP3858RL.pdf Men's team normal hill results]</ref>
+| {{SLO}}<br /><small>[[Žiga Jelar]]<br />[[Tilen Bartol]]<br />Aljaž Osterc<br />[[Bor Pavlovčič]]</small>|| 932.3
+| {{GER}}<br /><small>[[Martin Hamann]]<br />[[Tim Fuchs]]<br />[[Felix Hoffman (ski jumper)|Felix Hoffman]]<br />[[Constantin Schmid]]</small>|| 929.0
+| {{AUT}}<br /><small>[[Markus Rupitsch]]<br />[[Mika Schwann]]<br />[[Clemens Leitner]]<br />[[Janni Reisenauer]]</small>|| 870.8
+|- style="background:#ccc;"
+| colspan=7 | '''Ladies' Junior Events'''
+|-
+| {{nowrap|Ladies' junior individual normal hill<ref>[http://medias4.fis-ski.com/pdf/2017/JP/3856/2017JP3856RL.pdf Ladies' normal hill individual results]</ref>}}
+|[[Manuela Malsiner]]<br>{{ITA}}|| 239.8
+|[[Ema Klinec]]<br>{{SLO}}|| 238.0
+|[[Nika Križnar]]<br>{{SLO}}|| 237.9
+|-
+| Ladies' junior team normal hill<ref>[http://medias1.fis-ski.com/pdf/2017/JP/3857/2017JP3857RL.pdf Ladies' team normal hill results]</ref>
+| {{GER}}<br /><small>[[Agnes Reisch]]<br />[[Luisa Görlich]]<br />[[Pauline Heßler]]<br />[[Gianina Ernst]]</small>|| 772.1
+| {{SLO}}<br /><small>[[Jerneja Brecl]]<br />[[Katra Komar]]<br />[[Nika Križnar]]<br />[[Ema Klinec]]</small>|| 733.2
+| {{AUT}}<br /><small>[[Claudia Purker]]<br />[[Sophie Mair]]<br />[[Elisabeth Raudaschl]]<br />[[Julia Huber]]</small>|| 672.9
+|- style="background:#ccc;"
+| colspan=7 | '''Mixed Junior Events'''
+|-
+| Mixed junior team normal hill<ref>[http://medias1.fis-ski.com/pdf/2017/JP/3859/2017JP3859RL.pdf Mixed team normal hill results]</ref>
+| {{SLO}}<br /><small>[[Nika Križnar]]<br />[[Tilen Bartol]]<br />[[Ema Klinec]]<br />[[Žiga Jelar]]</small>|| 925.3
+| {{GER}}<br /><small>[[Agnes Reisch]]<br />[[Martin Hamann]]<br />[[Gianina Ernst]]<br />[[Constantin Schmid]]</small>|| 890.6
+| {{JPN}}<br /><small>[[Minami Watanabe]]<br />[[Masamitsu Itō]]<br />[[Fumika Segawa]]<br />[[Yuken Iwasa]]</small>|| 840.5
+|}
+
+===Under-23 events===
+
+====Cross-country skiing====
+{| {{MedalistTable|type=Event|columns=2}}
+|- style="background:#ccc;"
+| colspan=7 | '''Men's Under-23 Events'''
+|-
+| Men's under-23 sprint classic<ref>[http://summittiming.com/race_results/2017/world_juniors_2017/u23_sprints/sprint_bracket_results_for_u23_championships_classic_sprints_170131.pdf U23 Sprint results]</ref>
+|[[Fredrik Riseth]]<br>{{NOR}}|| 3:32.78
+|[[Alexander Bolshunov]]<br>{{RUS}}|| 3:33.83
+|[[Joachim Aurland]]<br>{{NOR}}|| 3:35.08
+|-
+| Men's under-23 15 kilometre free<ref>[http://medias4.fis-ski.com/pdf/2017/CC/2374/2017CC2374RL.pdf Men's U23 15km results]</ref>
+|[[Alexander Bolshunov]]<br>{{RUS}} || 32:55.7
+|[[Aleksey Chervotkin]]<br>{{RUS}} || 33:17.5
+|[[Denis Spitsov]]<br>{{RUS}} || 33:23.9
+|-
+| Men's under-23 30 kilometre skiathlon<ref>[http://medias1.fis-ski.com/pdf/2017/CC/2378/2017CC2378RL.pdf Men's U23 skiathlon results]</ref>
+|[[Alexander Bolshunov]]<br>{{RUS}} || 1:15:31.5
+|[[Aleksey Chervotkin]]<br>{{RUS}} || 1:15:31.7
+|[[Denis Spitsov]]<br>{{RUS}} || 1:15:32.0
+|- style="background:#ccc;"
+| colspan=7 | '''Ladies' Under-23 Events'''
+|-
+| Ladies' under-23 sprint classic<ref>[http://summittiming.com/race_results/2017/world_juniors_2017/u23_sprints/sprint_bracket_results_for_u23_championships_classic_sprints_170131.pdf U23 Sprint results]</ref>
+|[[Anna Dyvik]]<br>{{SWE}} || 3:32.40
+|[[Thea Krokan Murud]]<br>{{NOR}} || 3:35.82
+|[[Maja Dahlqvist]]<br>{{SWE}} || 3:36.16
+|-
+| Ladies' under-23 10 kilometre free<ref>[http://medias3.fis-ski.com/pdf/2017/CC/2373/2017CC2373RL.pdf Ladies' U23 10km results]</ref>
+|[[Anna Dyvik]]<br>{{SWE}} || 26:14.0
+|[[Tiril Udnes Weng]]<br>{{NOR}} || 26:30.8
+|[[Lovise Heimdal]]<br>{{NOR}} || 26:37.0
+|-
+| {{nowrap|Ladies' under-23 15 kilometre skiathlon<ref>[http://medias4.fis-ski.com/pdf/2017/CC/2377/2017CC2377RL.pdf Ladies' U23 skiathlon results]</ref>}}
+|[[Lotta Udnes Weng]]<br>{{NOR}}|| 40:50.9
+|[[Johanna Matintalo]]<br>{{FIN}} || 40:54.7
+|[[Yana Kirpichenko]]<br>{{RUS}} || 41:04.8
+|}
+
+===Medal table===
+{{Medals table
+ | caption        = 
+ | host           = USA
+ | flag_template  = 
+ | event          = 
+ | team           = 
+ | gold_RUS = 6 | silver_RUS = 5 | bronze_RUS = 5
+ | gold_NOR = 4 | silver_NOR = 5 | bronze_NOR = 4
+ | gold_GER = 3 | silver_GER = 3 | bronze_GER = 3
+ | gold_SWE = 3 | silver_SWE = 1 | bronze_SWE = 1 
+ | gold_SLO = 2 | silver_SLO = 2 | bronze_SLO = 1
+ | gold_FIN = 1 | silver_FIN = 2 | bronze_FIN = 0
+ | gold_ITA = 1 | silver_ITA = 2 | bronze_ITA = 0
+ | gold_AUT = 1 | silver_AUT = 1 | bronze_AUT = 2
+ | gold_CZE = 1 | silver_CZE = 0 | bronze_CZE = 1
+ | gold_FRA = 0 | silver_FRA = 1 | bronze_FRA = 2
+ | gold_USA = 0 | silver_USA = 0 | bronze_USA = 2 | host_USA = yes
+ | gold_JPN = 0 | silver_JPN = 0 | bronze_JPN = 1
+ }}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://utah2017.com Utah2017.com]
+
+{{FIS Nordic Junior World Ski Championships}}
+
+{{DEFAULTSORT:Nordic Junior World Ski Championships, 2017}}
+[[Category:FIS Nordic Junior World Ski Championships|2017]]
+[[Category:2017 in cross-country skiing]]
+[[Category:2017 in ski jumping]]
+[[Category:2017 in Nordic combined|Junior World Ski Championships]]
+[[Category:2017 in sports in Utah]]
+[[Category:2017 in youth sport]]
+[[Category:International sports competitions hosted by the United States]]
+[[Category:January 2017 sports events in the United States]]
+[[Category:February 2017 sports events in the United States]]

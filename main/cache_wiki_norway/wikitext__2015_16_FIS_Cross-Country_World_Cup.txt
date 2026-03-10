@@ -1,0 +1,1414 @@
+{{Short description|Cross-country skiing competition}}
+{{Infobox Double Wintersport World Cup
+| title=<!--[[File:Fédération internationale de ski (logo).svg|28px]]--> 2015–16 FIS Cross-Country World Cup
+| competition1=Overall
+| competition1men={{flagicon|NOR}} [[Martin Johnsrud Sundby]]<br><small>(2nd title)</small>
+| competition1ladies={{flagicon|NOR}} [[Therese Johaug]] <small>(2nd title)</small>
+| competition2=Distance
+| competition2men={{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| competition2ladies={{flagicon|NOR}} [[Therese Johaug]]
+| competition3=Sprint
+| competition3men={{flagicon|ITA}} [[Federico Pellegrino]]
+| competition3ladies={{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| competition4=U-23
+| competition4men={{flagicon|ITA}} [[Francesco De Fabiani]]
+| competition4ladies={{flagicon|SWE}} [[Stina Nilsson]]
+| competition5=Nations Cup
+| competition5men={{flagicon|NOR}} [[Norway]]
+| competition5ladies={{flagicon|NOR}} [[Norway]]
+| mixedcompetition1=Nations Cup Overall
+| mixedcompetition1both={{flagicon|NOR}} [[Norway]]
+| stageevent1=[[2015 Nordic Opening|Nordic Opening]]
+| stageevent1men={{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| stageevent1ladies={{flagicon|NOR}} [[Therese Johaug]]
+| stageevent2=[[2016 Tour de Ski|Tour de Ski]]
+| stageevent2men={{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| stageevent2ladies={{flagicon|NOR}} [[Therese Johaug]]
+| stageevent3=[[2016 Ski Tour Canada|Ski Tour Canada]]
+| stageevent3men={{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| stageevent3ladies={{flagicon|NOR}} [[Therese Johaug]]
+| menlocations=19 venues
+| ladieslocations=19 venues
+| menindividual=33 events
+| ladiesindividual=33 events
+| relaymen=3 events
+| relayladies=3 events
+| previous=[[2014–15 FIS Cross-Country World Cup|2014–15]]
+| next=[[2016–17 FIS Cross-Country World Cup|2016–17]]
+}}
+
+The '''2015–16 FIS Cross-Country World Cup''' was the 35th official [[FIS Cross-Country World Cup|World Cup]] season in [[cross-country skiing (sport)|cross-country skiing]] for men and women. The season started on 27 November 2015 in [[Rukatunturi|Ruka]], Finland, and ended on 12 March 2016 in [[Canmore, Alberta]], Canada.
+
+[[Therese Johaug]] set a new record for total points in one season, with 2681. [[Martin Johnsrud Sundby]] set a new men's record for total points in one season, with 2634. Sundby won 14 races during the season and surpassed [[Petter Northug]]'s record of nine victories which he achieved in both [[2009–10 FIS Cross-Country World Cup|2009–10]] and [[2012–13 FIS Cross-Country World Cup|2012–13]]. Johaug won 17 races during this season and equaled [[Marit Bjørgen]]'s record from [[2011–12 FIS Cross-Country World Cup|2011–12]]; a record Johaug herself eclipsed with 20 victories in the [[2019–20 FIS Cross-Country World Cup|2019–20]] season.
+
+== Calendar ==
+
+=== Men ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+|+ C – Classic / F – Freestyle
+!scope="col" style="width=20 px;"|{{Abbr|WC|World Cup}}
+!scope="col" style="width=30 px;"|{{Abbr|Stage|Stage event at Tours counts only half points}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:160px;"|Place
+!scope="col" style="width:130px;"|Discipline
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:180px;"|Yellow bib
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}} 
+|-
+| colspan=10|
+|- bgcolor=#EFDECD 
+| rowspan=3|
+| align=center|1 
+| align=right|27 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Sondre Turvoll Fossli]]
+| {{flagicon|NOR}} [[Eirik Brandsdal]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Sondre Turvoll Fossli]]
+| <ref>{{cite web|title=Men's Sprint C: Ruka|url=http://medias3.fis-ski.com/pdf/2016/CC/2145/2016CC2145RL.pdf|publisher=[[International Ski Federation]]|date=27 November 2015}}</ref>
+|- bgcolor=#EFDECD
+| align=center|2 
+| align=right|28 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|10&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|CAN}} [[Alex Harvey (skier)|Alex Harvey]]
+| {{flagicon|SUI}} [[Dario Cologna]]
+| rowspan=3| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men's 10km Individual F: Ruka|url=http://medias1.fis-ski.com/pdf/2016/CC/2148/2016CC2148RL.pdf|publisher=[[International Ski Federation]]|date=28 November 2015}}</ref>
+|- bgcolor=#EFDECD
+| align=center|3 
+| align=right|29 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|15&nbsp;km C Pursuit &nbsp;
+| {{flagicon|NOR}} [[Niklas Dyrhaug]]
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Sjur Røthe]]
+| <ref>{{cite web|title=Men's 15km C Pursuit: Ruka|url=http://medias4.fis-ski.com/pdf/2016/CC/2151/2016CC2151PRL.pdf|publisher=[[International Ski Federation]]|date=29 November 2015}}</ref>
+|- style="background-color: #EFDECD;"
+| align=center|1 
+| colspan=4 align=center|[[2015 Nordic Opening|6th Nordic Opening]] Overall (27–29 November 2015)
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| <ref>{{cite web|title=Men's 3-day tour overall: Ruka|url=http://medias3.fis-ski.com/pdf/2016/CC/2151/2016CC2151RL.pdf|publisher=[[International Ski Federation]]|date=29 November 2015}}</ref>
+|-
+| colspan=10|
+|- 
+| align=center|2 
+| align=center|4
+| align=right|5 December 2015 &nbsp;
+| {{flagicon|NOR}} [[Lillehammer]]
+| align=right|30&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Niklas Dyrhaug]]
+| {{flagicon|NOR}} [[Hans Christer Holund]]
+| rowspan=5|{{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men's 30km Skiathlon: Lillehammer|url=http://data.fis-ski.com/pdf/2016/CC/2190/2016CC2190RL.pdf|publisher=[[International Ski Federation]]|date=5 December 2015}}</ref>
+|-
+| align=center|3
+| align=center|5
+| align=right|12 December 2015 &nbsp; 
+| {{flagicon|SUI}} [[Davos]]
+| align=right|30&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| {{flagicon|NOR}} [[Anders Gløersen]]
+| <ref>{{cite web|title=Men 30.0 km Individual Free: Davos|url=http://medias4.fis-ski.com/pdf/2016/CC/2224/2016CC2224RL.pdf|publisher=[[International Ski Federation]]|date=12 December 2015}}</ref>
+|-
+| align=center|4
+| align=center|6
+| align=right|13 December 2015 &nbsp; 
+| {{flagicon|SUI}} [[Davos]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|FRA}} [[Baptiste Gros]]
+| {{flagicon|NOR}} [[Sondre Turvoll Fossli]]
+| <ref>{{cite web|title=Men Sprint F: Davos|url=http://medias1.fis-ski.com/pdf/2016/CC/2221/2016CC2221RL.pdf|publisher=[[International Ski Federation]]|date=13 December 2015}}</ref>
+|-
+| align=center|5
+| align=center|7
+| align=right|19 December 2015 &nbsp; 
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|USA}} [[Simeon Hamilton]]
+| {{flagicon|GBR}} [[Andrew Young (skier)|Andrew Young]]
+| <ref>{{cite web|title=Men Sprint F: Toblach|url=http://medias1.fis-ski.com/pdf/2016/CC/2179/2016CC2179RL.pdf|publisher=[[International Ski Federation]]|date=19 December 2015}}</ref>
+|-
+| align=center|6
+| align=center|8
+| align=right|20 December 2015 &nbsp;
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|15&nbsp;km C &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|RUS}} [[Alexander Bessmertnykh (skier)|Alexander Bessmertnykh]]
+| {{flagicon|NOR}} [[Sjur Røthe]]
+| <ref>{{cite web|title=Men 15km C: Toblach|url=http://medias2.fis-ski.com/pdf/2016/CC/2182/2016CC2182RL.pdf|publisher=[[International Ski Federation]]|date=20 December 2015}}</ref>
+|-
+| colspan=10|
+|- bgcolor=#BCD4E6 
+| rowspan=8|
+| align=center|9 
+| align=right|1 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| rowspan=9|{{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men Sprint F: Lenzerheide|url=http://medias4.fis-ski.com/pdf/2016/CC/2228/2016CC2228RL.pdf|publisher=[[International Ski Federation]]|date=1 January 2016}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|10
+| align=right|2 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|30&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]]
+| <ref>{{cite web|title=Men 30km C Mass start: Lenzerheide|url=http://medias3.fis-ski.com/pdf/2016/CC/2230/2016CC2230RL.pdf|publisher=[[International Ski Federation]]|date=2 January 2016}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|11 
+| align=right|3 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|10&nbsp;km F Pursuit &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| <ref>{{cite web|title=Men 10km Pursuit Free: Lenzerheide|url=http://medias4.fis-ski.com/pdf/2016/CC/2232/2016CC2232RL.pdf|publisher=[[International Ski Federation]]|date=3 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|12 
+| align=right|5 January 2016 &nbsp;
+| {{flagicon|GER}} [[Oberstdorf]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Emil Iversen]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|KAZ}} [[Alexey Poltoranin]]
+| <ref>{{cite web|title=Men Sprint C: Oberstdorf|url=http://medias2.fis-ski.com/pdf/2016/CC/2166/2016CC2166RL.pdf|publisher=[[International Ski Federation]]|date=5 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|13
+| align=right|6 January 2016 &nbsp;
+| {{flagicon|GER}} [[Oberstdorf]]
+| align=right|15&nbsp;km C Mass Start &nbsp;
+| {{flagicon|KAZ}} [[Alexey Poltoranin]]
+| {{flagicon|SUI}} [[Dario Cologna]]
+| {{flagicon|ITA}} [[Francesco De Fabiani]]
+| <ref>{{cite web|title=Men 15km C Mass Start: Oberstdorf|url=http://medias1.fis-ski.com/pdf/2016/CC/2162/2016CC2162RL.pdf|publisher=[[International Ski Federation]]|date=6 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|14  
+| align=right|8 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|10&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| <ref>{{cite web|title=Men 10km F: Toblach|url=http://medias3.fis-ski.com/pdf/2016/CC/2184/2016CC2184RL.pdf|publisher=[[International Ski Federation]]|date=8 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|15 
+| align=right|9 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| align=right|15&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Niklas Dyrhaug]]
+| {{flagicon|KAZ}} [[Alexey Poltoranin]]
+| <ref>{{cite web|title=Men 15km C Mass Start: Val di Fiemme|url=http://medias2.fis-ski.com/pdf/2016/CC/2186/2016CC2186RL.pdf|publisher=[[International Ski Federation]]|date=9 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|16 
+| align=right|10 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| align=right|9&nbsp;km F Pursuit climb &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|FRA}} [[Robin Duvillard]]
+| {{flagicon|FIN}} [[Matti Heikkinen]]
+| <ref>{{cite web|title=Men 9km F Pursuit climb: Val di Fiemme|url=http://medias4.fis-ski.com/pdf/2016/CC/2188/2016CC2188PRL.pdf|publisher=[[International Ski Federation]]|date=10 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|7 
+| colspan=4 align=center|[[2016 Tour de Ski|10th Tour de Ski Overall]] (1–10 January 2016)
+| bgcolor=#BCD4E6| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| <ref>{{cite web|title=Men Tour de Ski Overall Standing|url=http://medias3.fis-ski.com/pdf/2016/CC/2188/2016CC2188TDS.pdf|publisher=[[International Ski Federation]]|date=10 January 2016}}</ref>
+|-
+| colspan=10|
+|-
+| align=center|8
+| align=center|17
+| align=right|16 January 2016 &nbsp; 
+| {{flagicon|SLO}} [[Planica]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|FRA}} [[Baptiste Gros]]
+| {{flagicon|FRA}} [[Richard Jouve]]
+| rowspan=9| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men Sprint F: Planica|url=http://medias1.fis-ski.com/pdf/2016/CC/2215/2016CC2215RL.pdf|publisher=[[International Ski Federation]]|date=16 January 2016}}</ref>
+|-
+| align=center|9
+| align=center|18
+| align=right|23 January 2016 &nbsp; 
+| {{flagicon|CZE}} [[Nové Město na Moravě]]
+| align=right|15&nbsp;km F &nbsp;
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| <ref>{{cite web|title=Men 15km F: Nové Město na Moravě|url=http://medias4.fis-ski.com/pdf/2016/CC/2140/2016CC2140RL.pdf|publisher=[[International Ski Federation]]|date=23 January 2016}}</ref>
+|-
+| align=center|10
+| align=center|19
+| align=right|3 February 2016 &nbsp; 
+| {{flagicon|NOR}} [[Drammen]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Ola Vigen Hattestad]]
+| {{flagicon|NOR}} [[Eirik Brandsdal]]
+| <ref>{{cite web|title=Men Sprint C: Drammen|url=http://medias3.fis-ski.com/pdf/2016/CC/2196/2016CC2196RL.pdf|publisher=[[International Ski Federation]]|date=3 February 2016}}</ref>
+|-
+| align=center|11
+| align=center|20
+| align=right|6 February 2016 &nbsp; 
+| {{flagicon|NOR}} [[Oslo]]
+| align=right|50&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Niklas Dyrhaug]]
+| {{flagicon|RUS}} [[Maxim Vylegzhanin]]
+| <ref>{{cite web|title=Men 50km C: Oslo|url=http://medias1.fis-ski.com/pdf/2016/CC/2197/2016CC2197RL.pdf|publisher=[[International Ski Federation]]|date=6 February 2016}}</ref>
+|-
+| align=center|12
+| align=center|21
+| align=right|11 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Stockholm]]
+| align=right|Sprint C &nbsp; 
+| {{flagicon|RUS}} [[Nikita Kryukov]]
+| {{flagicon|NOR}} [[Ola Vigen Hattestad]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| <ref>{{cite web|title=Men Sprint C: Stockholm|url=http://medias4.fis-ski.com/pdf/2016/CC/2241/2016CC2241RL.pdf|publisher=[[International Ski Federation]]|date=11 February 2016}}</ref>
+|-
+| align=center|13
+| align=center|22
+| align=right|13 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Falun]]
+| align=right|10&nbsp;km C &nbsp; 
+| {{flagicon|RUS}} [[Maxim Vylegzhanin]]
+| {{flagicon|RUS}} [[Alexander Bessmertnykh (skier)|Alexander Bessmertnykh]]
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| <ref>{{cite web|title=Men 10km C: Falun|url=http://medias3.fis-ski.com/pdf/2016/CC/2244/2016CC2244RL.pdf|publisher=[[International Ski Federation]]|date=13 February 2016}}</ref>
+|-
+| align=center|14
+| align=center|23
+| align=right|14 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Falun]]
+| align=right|15&nbsp;km F Mass Start &nbsp;
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|ITA}} [[Francesco De Fabiani]]
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men 15km F Mass Start: Falun|url=http://medias4.fis-ski.com/pdf/2016/CC/2246/2016CC2246RL.pdf|publisher=[[International Ski Federation]]|date=14 February 2016}}</ref>
+|-
+| align=center|15
+| align=center|24
+| align=right|20 February 2016 &nbsp; 
+| {{flagicon|FIN}} [[Lahti]]
+| align=right|Sprint F &nbsp; 
+| {{flagicon|NOR}} [[Emil Iversen]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| <ref>{{cite web|title=Men Sprint F: Falun|url=http://medias4.fis-ski.com/pdf/2016/CC/2156/2016CC2156RL.pdf|publisher=[[International Ski Federation]]|date=20 February 2016}}</ref>
+|-
+| align=center|16
+| align=center|25
+| align=right|21 February 2016 &nbsp; 
+| {{flagicon|FIN}} [[Lahti]]
+| align=right|30&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|NOR}} [[Finn Hågen Krogh]]
+| {{flagicon|NOR}} [[Hans Christer Holund]]
+| <ref>{{cite web|title=Men 30km Skiathlon: Falun|url=http://medias4.fis-ski.com/pdf/2016/CC/2158/2016CC2158RL.pdf|publisher=[[International Ski Federation]]|date=21 February 2016}}</ref>
+|-
+| colspan=10|
+|- bgcolor=#D0D4FF
+| rowspan=8|
+| align=center|26
+| align=right|1 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Gatineau]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|FRA}} [[Richard Jouve]]
+| {{flagicon|USA}} [[Simeon Hamilton]]
+| rowspan=9|{{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| <ref>{{cite web|title=Men Sprint F: Gatineau|url=http://medias2.fis-ski.com/pdf/2016/CC/2123/2016CC2123RL.pdf|publisher=[[International Ski Federation]]|date=1 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|27
+| align=right|2 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Montreal]]
+| align=right|17.5&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Emil Iversen]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| <ref>{{cite web|title=Men 17.5 km C Mass Start: Montreal|url=http://medias3.fis-ski.com/pdf/2016/CC/2126/2016CC2126RL.pdf|publisher=[[International Ski Federation]]|date=2 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|28
+| align=right|4 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Quebec City]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|FRA}} [[Baptiste Gros]] 
+| {{flagicon|CAN}} [[Alex Harvey (skier)|Alex Harvey]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| <ref>{{cite web|title=Men Sprint F: Quebec City|url=http://medias2.fis-ski.com/pdf/2016/CC/2130/2016CC2130RL.pdf|publisher=[[International Ski Federation]]|date=4 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|29
+| align=right|5 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Quebec City]]
+| align=right|15&nbsp;km F Pursuit &nbsp;
+| {{flagicon|RUS}} [[Sergey Ustiugov]] 
+| {{flagicon|NOR}} [[Petter Northug]]
+| {{flagicon|NOR}} [[Emil Iversen]] 
+| <ref>{{cite web|title=Men 15 km F Pursuit: Quebec City|url=http://medias2.fis-ski.com/pdf/2016/CC/2130/2016CC2130RL.pdf|publisher=[[International Ski Federation]]|date=5 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|30
+| align=right|8 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|ITA}} [[Federico Pellegrino]]
+| {{flagicon|NOR}} [[Eirik Brandsdal]]
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| <ref>{{cite web|title=Men Sprint C: Canmore|url=http://medias3.fis-ski.com/pdf/2016/CC/2115/2016CC2115RL.pdf|publisher=[[International Ski Federation]]|date=8 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|31
+| align=right|9 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|30&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|FIN}} [[Matti Heikkinen]]
+| <ref>{{cite web|title=Men 30&nbsp;km Skiathlon: Canmore|url=http://medias1.fis-ski.com/pdf/2016/CC/2118/2016CC2118RL.pdf|publisher=[[International Ski Federation]]|date=9 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|32
+| align=right|11 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Lake Louise Ski Area|Lake Louise]]
+| align=right|15&nbsp;km F &nbsp;
+| {{flagicon|FIN}} [[Matti Heikkinen]]
+| {{flagicon|RUS}} [[Evgeniy Belov]]
+| {{flagicon|SWE}} [[Marcus Hellner]]
+| <ref>{{cite web|title=Men 15 km F: Canmore|url=http://medias1.fis-ski.com/pdf/2016/CC/2134/2016CC2134RL.pdf|publisher=[[International Ski Federation]]|date=11 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|33
+| align=right|12 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|15&nbsp;km C Pursuit &nbsp;
+| {{flagicon|FRA}} [[Maurice Manificat]]
+| {{flagicon|FIN}} [[Matti Heikkinen]]
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+|
+|- style="background-color: #D0D4FF;"
+| align=center|17 
+| colspan=4 align=center|[[2016 Ski Tour Canada|1st Ski Tour Canada Overall]] (1–12 March 2016)
+| {{flagicon|NOR}} [[Martin Johnsrud Sundby]]
+| {{flagicon|RUS}} [[Sergey Ustiugov]]
+| {{flagicon|NOR}} [[Petter Northug]]
+| 
+|-
+| colspan=10|
+|}
+
+=== Women ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|WC|World Cup}}
+!scope="col" style="width=30 px;"|{{Abbr|Stage|Stage event at Tours counts only half points}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:160px;"|Place
+!scope="col" style="width:130px;"|Discipline
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:180px;"|Yellow bib
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}} 
+|-
+| colspan=10|
+|- bgcolor=#EFDECD
+| rowspan=3|
+| align=center|1 
+| align=right|27 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|NOR}} [[Ragnhild Haga]]
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| <ref>{{cite web|title=Ladies Sprint C: Ruka|url=http://medias3.fis-ski.com/pdf/2016/CC/2144/2016CC2144RL.pdf|publisher=[[International Ski Federation]]|date=27 November 2015}}</ref>
+|- bgcolor=#EFDECD
+| align=center|2 
+| align=right|28 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|5&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|SWE}} [[Charlotte Kalla]]
+| {{flagicon|SWE}} [[Ida Ingemarsdotter]]
+| {{flagicon|SWE}} [[Ida Ingemarsdotter]]
+| <ref>{{cite web|title=Ladies 5km Individual F: Ruka|url=http://medias4.fis-ski.com/pdf/2016/CC/2147/2016CC2147RL.pdf|publisher=[[International Ski Federation]]|date=28 November 2015}}</ref>
+|- bgcolor=#EFDECD
+| align=center|3 
+| align=right|29 November 2015 &nbsp;
+| {{flagicon|FIN}} [[Kuusamo|Ruka]]
+| align=right|10&nbsp;km C Pursuit &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|FIN}} [[Kerttu Niskanen]]
+| rowspan=2|{{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies 10km Pursuit C: Ruka|url=http://medias4.fis-ski.com/pdf/2016/CC/2149/2016CC2149PRL.pdf|publisher=[[International Ski Federation]]|date=29 November 2015}}</ref>
+|- style="background-color: #EFDECD;"
+| align=center|1 
+| colspan=4 align=center|[[2015 Nordic Opening|6th Nordic Opening]] Overall (27–29 November 2015)
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=3-DAYS TOUR STANDING LADIES|url=http://medias3.fis-ski.com/pdf/2016/CC/2149/2016CC2149STC.pdf|publisher=[[International Ski Federation]]|date=29 November 2015}}</ref>
+|-
+| colspan=10|
+|- 
+| align=center|2 
+| align=center|4
+| align=right|5 December 2015 &nbsp;
+| {{flagicon|NOR}} [[Lillehammer]]
+| align=right|15&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|SWE}} [[Charlotte Kalla]]
+| rowspan=5|{{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies Skiathlon 7.5kmC +7.5km F: Lillehammer|url=http://medias4.fis-ski.com/pdf/2016/CC/2189/2016CC2189RL.pdf|publisher=[[International Ski Federation]]|date=5 December 2015}}</ref>
+|-
+| align=center|3
+| align=center|5
+| align=right|12 December 2015 &nbsp; 
+| {{flagicon|SUI}} [[Davos]]
+| align=right|15&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies 15.0 km Individual Free: Davos|url=http://medias2.fis-ski.com/pdf/2016/CC/2223/2016CC2223RL.pdf|publisher=[[International Ski Federation]]|date=12 December 2015}}</ref>
+|-
+| align=center|4
+| align=center|6
+| align=right|13 December 2015 &nbsp; 
+| {{flagicon|SUI}} [[Davos]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies Sprint F: Davos|url=http://medias1.fis-ski.com/pdf/2016/CC/2220/2016CC2220RL.pdf|publisher=[[International Ski Federation]]|date=13 December 2015}}</ref>
+|-
+| align=center|5
+| align=center|7
+| align=right|19 December 2015 &nbsp; 
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| <ref>{{cite web|title=Ladies Sprint F: Toblach|url=http://medias1.fis-ski.com/pdf/2016/CC/2178/2016CC2178RL.pdf|publisher=[[International Ski Federation]]|date=19 December 2015}}</ref>
+|-
+| align=center|6
+| align=center|8
+| align=right|20 December 2015 &nbsp; 
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|10&nbsp;km C &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|FIN}} [[Krista Pärmäkoski]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies 10km C: Toblach|url=http://medias1.fis-ski.com/pdf/2016/CC/2181/2016CC2181RL.pdf|publisher=[[International Ski Federation]]|date=20 December 2015}}</ref>
+|-
+| colspan=10|
+|- bgcolor=#BCD4E6 
+| rowspan=8|
+| align=center|9 
+| align=right|1 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|SWE}} [[Ida Ingemarsdotter]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| rowspan=9|{{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies Sprint F: Lenzerheide|url=http://medias2.fis-ski.com/pdf/2016/CC/2226/2016CC2226RL.pdf|publisher=[[International Ski Federation]]|date=1 January 2016}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|10
+| align=right|2 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|15&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies 15km C Mass start: Lenzerheide|url=http://medias2.fis-ski.com/pdf/2016/CC/2229/2016CC2229RL.pdf|publisher=[[International Ski Federation]]|date=2 January 2016}}</ref>
+|- bgcolor=#BCD4E6 
+| align=center|11 
+| align=right|3 January 2016 &nbsp;
+| {{flagicon|SUI}} [[Lenzerheide]]
+| align=right|5&nbsp;km F Pursuit &nbsp;
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies 5km Pursuit Free: Lenzerheide|url=http://medias1.fis-ski.com/pdf/2016/CC/2231/2016CC2231RL.pdf|publisher=[[International Ski Federation]]|date=3 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|12 
+| align=right|5 January 2016 &nbsp;
+| {{flagicon|GER}} [[Oberstdorf]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|USA}} [[Sophie Caldwell]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies Sprint C: Oberstdorf|url=http://medias2.fis-ski.com/pdf/2016/CC/2163/2016CC2163RL.pdf|publisher=[[International Ski Federation]]|date=5 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|13
+| align=right|6 January 2016 &nbsp;
+| {{flagicon|GER}} [[Oberstdorf]]
+| align=right|10&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies 10km C Mass Start: Oberstdorf|url=http://medias2.fis-ski.com/pdf/2016/CC/2161/2016CC2161RL.pdf|publisher=[[International Ski Federation]]|date=6 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|14  
+| align=right|8 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Toblach]]
+| align=right|5&nbsp;km F &nbsp;
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies 5km F: Toblach|url=http://medias4.fis-ski.com/pdf/2016/CC/2183/2016CC2183RL.pdf|publisher=[[International Ski Federation]]|date=8 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|15 
+| align=right|9 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| align=right|10&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies 10km C Mass Start: Val di Fiemme|url=http://medias4.fis-ski.com/pdf/2016/CC/2185/2016CC2185RL.pdf|publisher=[[International Ski Federation]]|date=9 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|16 
+| align=right|10 January 2016 &nbsp;
+| {{flagicon|ITA}} [[Fiemme Valley|Val di Fiemme]]
+| align=right|9&nbsp;km F Pursuit climb &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|USA}} [[Liz Stephen|Elizabeth Stephen]]
+| <ref>{{cite web|title=Ladies 9km Pursuit climb: Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2016/CC/2187/2016CC2187PRL.pdf|publisher=[[International Ski Federation]]|date=10 January 2016}}</ref>
+|- bgcolor=#BCD4E6
+| align=center|7 
+| colspan=4 align=center|[[2016 Tour de Ski|10th Tour de Ski Overall]] (1–10 January 2016)
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies Tour de Ski Overall: Val di Fiemme|url=http://medias1.fis-ski.com/pdf/2016/CC/2187/2016CC2187TDS.pdf|publisher=[[International Ski Federation]]|date=10 January 2016}}</ref>
+|-
+| colspan=10|
+|-
+| align=center|8
+| align=center|17
+| align=right|16 January 2016 &nbsp; 
+| {{flagicon|SLO}} [[Planica]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| rowspan=9|{{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies Sprint F: Planica|url=http://medias4.fis-ski.com/pdf/2016/CC/2214/2016CC2214RL.pdf|publisher=[[International Ski Federation]]|date=16 January 2016}}</ref>
+|-
+| align=center|9
+| align=center|18
+| align=right|23 January 2016 &nbsp; 
+| {{flagicon|CZE}} [[Nové Město na Moravě]]
+| align=right|10&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Ladies 10km F: Nové Město na Moravě|url=http://medias4.fis-ski.com/pdf/2016/CC/2139/2016CC2139RL.pdf|publisher=[[International Ski Federation]]|date=23 January 2016}}</ref>
+|-
+| align=center|10
+| align=center|19
+| align=right|3 February 2016 &nbsp; 
+| {{flagicon|NOR}} [[Drammen]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|RUS}} [[Natalya Matveyeva]]
+| <ref>{{cite web|title=Ladies Sprint C: Drammen|url=http://medias3.fis-ski.com/pdf/2016/CC/2194/2016CC2194RL.pdf|publisher=[[International Ski Federation]]|date=3 February 2016}}</ref>
+|-
+| align=center|11
+| align=center|20
+| align=right|7 February 2016 &nbsp; 
+| {{flagicon|NOR}} [[Oslo]]
+| align=right|30&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|FIN}} [[Anne Kyllönen]]
+| <ref>{{cite web|title=Ladies 30km C: Oslo|url=http://medias2.fis-ski.com/pdf/2016/CC/2198/2016CC2198RL.pdf|publisher=[[International Ski Federation]]|date=7 February 2016}}</ref>
+|-
+| align=center|12
+| align=center|21
+| align=right|11 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Stockholm]]
+| align=right|Sprint C &nbsp; 
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| <ref>{{cite web|title=Ladies Sprint C: Stockholm|url=http://medias3.fis-ski.com/pdf/2016/CC/2240/2016CC2240RL.pdf|publisher=[[International Ski Federation]]|date=11 February 2016}}</ref>
+|-
+| align=center|13
+| align=center|22
+| align=right|13 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Falun]]
+| align=right|5&nbsp;km C &nbsp; 
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies 5km C: Falun|url=http://medias1.fis-ski.com/pdf/2016/CC/2243/2016CC2243RL.pdf|publisher=[[International Ski Federation]]|date=13 February 2016}}</ref>
+|-
+| align=center|14
+| align=center|23
+| align=right|14 February 2016 &nbsp; 
+| {{flagicon|SWE}} [[Falun]]
+| align=right|10&nbsp;km F Mass Start &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| <ref>{{cite web|title=Ladies 10km F: Falun|url=http://medias2.fis-ski.com/pdf/2016/CC/2245/2016CC2245RL.pdf|publisher=[[International Ski Federation]]|date=14 February 2016}}</ref>
+|-
+| align=center|15
+| align=center|24
+| align=right|20 February 2016 &nbsp; 
+| {{flagicon|FIN}} [[Lahti]]
+| align=right|Sprint F &nbsp; 
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies Sprint F: Lahti|url=http://medias3.fis-ski.com/pdf/2016/CC/2154/2016CC2154RL.pdf|publisher=[[International Ski Federation]]|date=20 February 2016}}</ref>
+|-
+| align=center|16
+| align=center|25
+| align=right|21 February 2016 &nbsp; 
+| {{flagicon|FIN}} [[Lahti]]
+| align=right|15&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies 15km Skiathlon: Lahti|url=http://medias4.fis-ski.com/pdf/2016/CC/2157/2016CC2157RL.pdf|publisher=[[International Ski Federation]]|date=21 February 2016}}</ref>
+|-
+| colspan=10|
+|- bgcolor=#D0D4FF
+| rowspan=8|
+| align=center|26
+| align=right|1 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Gatineau]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| rowspan=9|{{flagicon|NOR}} [[Therese Johaug]]
+| <ref>{{cite web|title=Ladies Sprint F: Gatineau|url=http://medias3.fis-ski.com/pdf/2016/CC/2122/2016CC2122RL.pdf|publisher=[[International Ski Federation]]|date=1 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|27
+| align=right|2 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Montreal]]
+| align=right|10.5&nbsp;km C Mass Start &nbsp;
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| <ref>{{cite web|title=Ladies 10.5 km C Mass Start: Montreal|url=http://medias1.fis-ski.com/pdf/2016/CC/2125/2016CC2125RL.pdf|publisher=[[International Ski Federation]]|date=2 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|28
+| align=right|4 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Quebec City]]
+| align=right|Sprint F &nbsp;
+| {{flagicon|SWE}} [[Stina Nilsson]]
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| <ref>{{cite web|title=Ladies Sprint F: Quebec City|url=http://medias3.fis-ski.com/pdf/2016/CC/2128/2016CC2128RL.pdf|publisher=[[International Ski Federation]]|date=4 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|29
+| align=right|5 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Quebec City]]
+| align=right|10&nbsp;km F Pursuit &nbsp;
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| <ref>{{cite web|title=Ladies 10 km F Pursuit: Quebec City|url=http://medias2.fis-ski.com/pdf/2016/CC/2131/2016CC2131RL.pdf|publisher=[[International Ski Federation]]|date=5 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|30
+| align=right|8 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|Sprint C &nbsp;
+| {{flagicon|NOR}} [[Maiken Caspersen Falla]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies Sprint C: Canmore|url=http://medias4.fis-ski.com/pdf/2016/CC/2114/2016CC2114RL.pdf|publisher=[[International Ski Federation]]|date=8 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|31
+| align=right|9 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|15&nbsp;km Skiathlon &nbsp;
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]]
+| <ref>{{cite web|title=Ladies Skiathlon: Canmore|url=http://medias3.fis-ski.com/pdf/2016/CC/2117/2016CC2117RL.pdf|publisher=[[International Ski Federation]]|date=9 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|32
+| align=right|11 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Lake Louise Ski Area|Lake Louise]]
+| align=right|10&nbsp;km F &nbsp;
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|FIN}} [[Krista Pärmäkoski]]
+| <ref>{{cite web|title=Ladies 10 km F: Canmore|url=http://medias1.fis-ski.com/pdf/2016/CC/2133/2016CC2133RL.pdf|publisher=[[International Ski Federation]]|date=11 March 2016}}</ref>
+|- bgcolor=#D0D4FF
+| align=center|33
+| align=right|12 March 2016 &nbsp; 
+| {{flagicon|CAN}} [[Canmore, Alberta|Canmore]]
+| align=right|10&nbsp;km C Pursuit &nbsp;
+| {{flagicon|FIN}} [[Krista Pärmäkoski]]
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|USA}} [[Jessie Diggins]]
+| <ref>{{cite web|title=Ladies 10 km C WINNER OF THE DAY: Canmore|url=http://medias3.fis-ski.com/pdf/2016/CC/2119/2016CC2119PRL.pdf|publisher=[[International Ski Federation]]|date=12 March 2016}}</ref>
+|- style="background-color: #D0D4FF;"
+| align=center|17 
+| colspan=4 align=center|[[2016 Ski Tour Canada|1st Ski Tour Canada Overall]] (1–12 March 2016)
+| {{flagicon|NOR}} [[Therese Johaug]]
+| {{flagicon|NOR}} [[Heidi Weng]]
+| {{flagicon|NOR}} [[Ingvild Flugstad Østberg]]
+| <ref>{{cite web|title=Ladies 10 km C Pursuit: Canmore|url=http://medias3.fis-ski.com/pdf/2016/CC/2119/2016CC2119RL.pdf|publisher=[[International Ski Federation]]|date=12 March 2016}}</ref>
+|-
+| colspan=10|
+|}
+
+=== Men's team ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|WC|World Cup}}
+!scope="col" style="width=30 px;"|{{Abbr|Stage|Stage event at Tours counts only half points}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:160px;"|Place
+!scope="col" style="width:130px;"|Discipline
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}}
+|- 
+| align=center|1 
+| align=center|1
+| align=right|6 December 2015 &nbsp;
+| {{flagicon|NOR}} [[Lillehammer]]
+| align=right|4 x 7.5&nbsp;km Relay C/F &nbsp;
+| {{Relay|{{NOR}} I|[[Niklas Dyrhaug]]|[[Hans Christer Holund]]|[[Martin Johnsrud Sundby]]|[[Petter Northug]]}}
+| {{Relay|{{NOR}} III|[[Martin Løwstrøm Nyenget]]|[[Mathias Rundgreen]]|[[Simen Andreas Sveen]]|[[Finn Hågen Krogh]]}}
+| {{Relay|{{NOR}} II|[[Emil Iversen]]|[[Didrik Tønseth (skier)|Didrik Tønseth]]|[[Sjur Røthe]]|[[Anders Gløersen]]}}
+| <ref>{{cite web|title=Men 4x7.5 km Relay C/F: Lillehammer|url=http://medias2.fis-ski.com/pdf/2016/CC/2192/2016CC2192RL.pdf|publisher=[[International Ski Federation]]|date=6 December 2015}}</ref>
+|-
+| align=center|2
+| align=center|2
+| align=right|17 January 2016 &nbsp;
+| {{flagicon|SLO}} [[Planica]]
+| align=right|Team Sprint F &nbsp;
+| {{Relay|{{ITA}} I|[[Dietmar Nöckler]]|[[Federico Pellegrino]]}}
+| {{Relay|{{FRA}} I|[[Renaud Jay]]|[[Baptiste Gros]]}}
+| {{Relay|{{FRA}} II|[[Valentin Chauvin]]|[[Richard Jouve]]}}
+| <ref>{{cite web|title=Men 6x1.2 km Team Sprint F: Planica|url=http://medias3.fis-ski.com/pdf/2016/CC/2218/2016CC2218RL.pdf|publisher=[[International Ski Federation]]|date=17 January 2016}}</ref>
+|-
+| align=center|3
+| align=center|3
+| align=right|24 January 2016 &nbsp; 
+| {{flagicon|CZE}} [[Nové Město na Moravě]]
+| align=right|4 x 7.5&nbsp;km Relay &nbsp;
+| {{Relay|{{NOR}} I|[[Sjur Røthe]]|[[Martin Johnsrud Sundby]]|[[Mathias Rundgreen]]|[[Finn Hågen Krogh]]}}
+| {{Relay|{{RUS}} I|[[Evgeniy Belov]]|[[Alexander Legkov]]|[[Aleksey Chervotkin]]|[[Sergey Ustiugov]]}}
+| {{Relay|{{ITA}}|[[Dietmar Nöckler]]|[[Francesco De Fabiani]]|[[Roland Clara]]|[[Federico Pellegrino]]}}
+| <ref>{{cite web|title=Men 4x7.5 km Relay C/F: Nové Město na Moravě|url=http://medias1.fis-ski.com/pdf/2016/CC/2142/2016CC2142RL.pdf|publisher=[[International Ski Federation]]|date=24 January 2016}}</ref>
+|}
+
+===Women's team ===
+{|class="wikitable plainrowheaders" style="background:#fff; font-size:86%; line-height:16px;"
+!scope="col" style="width=20 px;"|{{Abbr|WC|World Cup}}
+!scope="col" style="width=30 px;"|{{Abbr|Stage|Stage event at Tours counts only half points}}
+!scope="col" style="width:120px;"|Date
+!scope="col" style="width:160px;"|Place
+!scope="col" style="width:130px;"|Discipline
+!scope="col" style="width:185px;"|Winner
+!scope="col" style="width:185px;"|Second
+!scope="col" style="width:185px;"|Third
+!scope="col" style="width:10px;" |{{Abbr|Ref.|Reference}} 
+|- 
+| align=center|1 
+| align=center|1
+| align=right|6 December 2015 &nbsp;
+| {{flagicon|NOR}} [[Lillehammer]]
+| align=right|4 x 5&nbsp;km Relay C/F &nbsp; 
+| {{Relay|{{NOR}} I|[[Maiken Caspersen Falla]]|[[Ingvild Flugstad Østberg]]|[[Therese Johaug]]|[[Heidi Weng]]}}
+| {{Relay|{{FIN}}|[[Krista Pärmäkoski]]|[[Kerttu Niskanen]]|[[Laura Mononen]]|[[Anne Kyllönen]]}}
+| {{Relay|{{USA}}|[[Rosie Brennan]]|[[Sadie Bjornsen]]|[[Liz Stephen|Elizabeth Stephen]]|[[Jessie Diggins]]}}
+| <ref>{{cite web|title=Ladies 4x5 km Relay C/F: Lillehammer|url=http://medias1.fis-ski.com/pdf/2016/CC/2191/2016CC2191RL.pdf|publisher=[[International Ski Federation]]|date=6 December 2015}}</ref>
+|-
+| align=center|2
+| align=center|2
+| align=right|17 January 2016 &nbsp;
+| {{flagicon|SLO}} [[Planica]]
+| align=right|Team Sprint F &nbsp;
+| {{Relay|{{SWE}} I|[[Ida Ingemarsdotter]]|[[Stina Nilsson]]}}
+| {{Relay|{{NOR}} I|[[Heidi Weng]]|[[Astrid Uhrenholdt Jacobsen]]}}
+| {{Relay|{{GER}} I|[[Sandra Ringwald]]|[[Hanna Kolb]]}}
+| <ref>{{cite web|title=Ladies 6x1.2 km Team Sprint F: Planica|url=http://medias3.fis-ski.com/pdf/2016/CC/2217/2016CC2217RL.pdf|publisher=[[International Ski Federation]]|date=17 January 2016}}</ref>
+|-
+| align=center|3
+| align=center|3
+| align=right|24 January 2016 &nbsp; 
+| {{flagicon|CZE}} [[Nové Město na Moravě]]
+| align=right|4 x 5&nbsp;km Relay &nbsp;
+| {{Relay|{{NOR}} |[[Ingvild Flugstad Østberg]]|[[Heidi Weng]]|[[Therese Johaug]]|[[Astrid Uhrenholdt Jacobsen]]}}
+| {{Relay|{{USA}}|[[Sophie Caldwell]]|[[Sadie Bjornsen]]|[[Liz Stephen|Elizabeth Stephen]]|[[Jessie Diggins]]}}
+| {{Relay|{{FIN}}|[[Anne Kyllönen]]|[[Krista Pärmäkoski]]|[[Riitta-Liisa Roponen]]|[[Kerttu Niskanen]]}}
+| <ref>{{cite web|title=Ladies 4x5 km Relay C/F: Nové Město na Moravě|url=http://medias3.fis-ski.com/pdf/2016/CC/2141/2016CC2141RL.pdf|publisher=[[International Ski Federation]]|date=24 January 2015}}</ref>
+|}
+
+== Men's standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 36 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Martin Johnsrud Sundby]] || align=right|2634
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Petter Northug]] || align=right|1602
+|-   
+| align=center|3 || {{flagicon|NOR}} [[Finn Hågen Krogh]] || align=right|1584
+|- 
+| align=center|4 || {{flagicon|RUS}} [[Sergey Ustiugov]] || align=right|1476
+|- 
+| align=center|5 || {{flagicon|FRA}} [[Maurice Manificat]] || align=right|1131
+|-     
+| align=center|6 || {{flagicon|NOR}} [[Niklas Dyrhaug]] || align=right|995
+|-  
+| align=center|7 || {{flagicon|CAN}} [[Alex Harvey (skier)|Alex Harvey]] || align=right|889
+|- 
+| align=center|8 || {{flagicon|NOR}} [[Emil Iversen]] || align=right|874
+|- 
+| align=center|9 || {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]] || align=right|871
+|- 
+| align=center|10 || {{flagicon|NOR}} [[Hans Christer Holund]] || align=right|834
+|}
+{{col-break|width=33%}}
+
+=== Distance ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 21 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Martin Johnsrud Sundby]] || align=right|1444
+|- 
+| align=center|2 || {{flagicon|FRA}} [[Maurice Manificat]] || align=right|763
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Niklas Dyrhaug]] || align=right|729
+|-  
+| align=center|4 || {{flagicon|NOR}} [[Finn Hågen Krogh]] || align=right|614
+|- 
+| align=center|5 || {{flagicon|RUS}} [[Sergey Ustiugov]] || align=right|605
+|-     
+| align=center|6 || {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]] || align=right|604
+|- 
+| align=center|7 || {{flagicon|NOR}} [[Hans Christer Holund]] || align=right|572
+|- 
+| align=center|8 || {{flagicon|NOR}} [[Petter Northug]] || align=right|526
+|- 
+| align=center|9 || {{flagicon|RUS}} [[Maxim Vylegzhanin]] || align=right|488
+|- 
+| align=center|10 || {{flagicon|RUS}} [[Alexander Legkov]] || align=right|480
+|}
+{{col-break|width=33%}}
+
+=== Sprint ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 12 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right|553
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Petter Northug]] || align=right|476
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Finn Hågen Krogh]] || align=right|414
+|- 
+| align=center|4 || {{flagicon|FRA}} [[Baptiste Gros]] || align=right|324
+|- 
+| align=center|5 || {{flagicon|NOR}} [[Eirik Brandsdal]] || align=right|307
+|-     
+| align=center|6 || {{flagicon|RUS}} [[Sergey Ustiugov]] || align=right|294
+|-     
+| align=center|7 || {{flagicon|NOR}} [[Ola Vigen Hattestad]] || align=right|291
+|-   
+| align=center|8 || {{flagicon|NOR}} [[Sondre Turvoll Fossli]] || align=right|268
+|-  
+| align=center|9 || {{flagicon|NOR}} [[Emil Iversen]] || align=right|244
+|- 
+| align=center|10 || {{flagicon|USA}} [[Simeon Hamilton]] || align=right|222
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Prize money ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 57 payouts''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|CHF
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Martin Johnsrud Sundby]] || align=right|407,200
+|- 
+| align=center|2 || {{flagicon|RUS}} [[Sergey Ustiugov]] || align=right|159,250
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Petter Northug]] || align=right|144,750
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Finn Hågen Krogh]] || align=right|133,000
+|- 
+| align=center|5 || {{flagicon|FRA}} [[Maurice Manificat]] || align=right|65,550
+|- 
+| align=center|6 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right|62,750
+|- 
+| align=center|7 || {{flagicon|NOR}} [[Niklas Dyrhaug]] || align=right|52,625
+|- 
+| align=center|8 || {{flagicon|NOR}} [[Emil Iversen]] || align=right|37,250
+|- 
+| align=center|9 || {{flagicon|ITA}} [[Francesco De Fabiani]] || align=right|34,624
+|- 
+| align=center|10 || {{flagicon|FRA}} [[Baptiste Gros]] || align=right|30,000
+|}
+{{col-break|width=33%}}
+
+=== Helvetia U23 ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 36 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|ITA}} [[Francesco De Fabiani]] || align=right|717
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Sondre Turvoll Fossli]] || align=right|268
+|- 
+| align=center|3 || {{flagicon|FRA}} [[Richard Jouve]] || align=right|174
+|-     
+| align=center|4 || {{flagicon|SWE}} [[Oskar Svensson]] || align=right|135
+|- 
+| align=center|5 || {{flagicon|NOR}} [[Håvard Solås Taugbøl]] || align=right|108
+|- 
+| align=center|6 || {{flagicon|NOR}} [[Simen Hegstad Krüger]] || align=right|81
+|- 
+| align=center|7 || {{flagicon|SUI}} [[Roman Schaad]] || align=right|55
+|-  
+| align=center|8 || {{flagicon|NOR}} [[Even Northug]] || align=right|44
+|-   
+| align=center|9 || {{flagicon|RUS}} [[Aleksey Chervotkin]] || align=right|40
+|- 
+| align=center|10 || {{flagicon|FRA}} [[Lucas Chanavat]] || align=right|35
+|}
+{{col-break|width=33%}}
+
+=== Audi Quattro Bonus Ranking ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 19 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Martin Johnsrud Sundby]] || align=right|608
+|-   
+| align=center|2 || {{flagicon|RUS}} [[Sergey Ustiugov]] || align=right|386
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Petter Northug]] || align=right|368
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Finn Hågen Krogh]] || align=right|312
+|-  
+| align=center|5 || {{flagicon|NOR}} [[Didrik Tønseth (skier)|Didrik Tønseth]] || align=right|264
+|- 
+| align=center|6 || {{flagicon|NOR}} [[Emil Iversen]] || align=right|244
+|- 
+| align=center|7 || {{flagicon|NOR}} [[Niklas Dyrhaug]] || align=right|236
+|- 
+| align=center|8 || {{flagicon|ITA}} [[Federico Pellegrino]] || align=right|199
+|- 
+| align=center|9 || {{flagicon|FRA}} [[Maurice Manificat]] || align=right|194
+|-     
+| align=center|10 || {{flagicon|CAN}} [[Alex Harvey (skier)|Alex Harvey]] || align=right|172
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+== Women's standings ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 36 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|-   
+| align=center|1 || {{flagicon|NOR}} [[Therese Johaug]] || align=right|2681
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Ingvild Flugstad Østberg]] || align=right|2302
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|2172
+|- 
+| align=center|4 || {{flagicon|FIN}} [[Krista Pärmäkoski]] || align=right|1335
+|- 
+| align=center|5 || {{flagicon|SWE}} [[Charlotte Kalla]] || align=right|1217
+|-     
+| align=center|6 || {{flagicon|NOR}} [[Maiken Caspersen Falla]] || align=right|1151
+|- 
+| align=center|7 || {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]] || align=right|1142
+|- 
+| align=center|8 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|1128
+|-  
+| align=center|9 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|1120
+|- 
+| align=center|10 || {{flagicon|FIN}} [[Anne Kyllönen]] || align=right|1025
+|}
+{{col-break|width=33%}}
+
+=== Distance ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 21 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Therese Johaug]] || align=right|1533
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|1145
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Ingvild Flugstad Østberg]] || align=right|976
+|- 
+| align=center|4 || {{flagicon|SWE}} [[Charlotte Kalla]] || align=right|730
+|- 
+| align=center|5 || {{flagicon|FIN}} [[Krista Pärmäkoski]] || align=right|664
+|-  
+| align=center|6 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|638
+|- 
+| align=center|7 || {{flagicon|FIN}} [[Anne Kyllönen]] || align=right|602
+|-   
+| align=center|8 || {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]] || align=right|555
+|-
+| align=center|9 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|547
+|- 
+| align=center|10 || {{flagicon|NOR}} [[Ragnhild Haga]] || align=right|470
+|}
+{{col-break|width=33%}}
+
+=== Sprint ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 12 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Maiken Caspersen Falla]] || align=right|726
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Ingvild Flugstad Østberg]] || align=right|646
+|- 
+| align=center|3 || {{flagicon|SWE}} [[Stina Nilsson]] || align=right|602
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|409
+|-   
+| align=center|5 || {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]] || align=right|355
+|-     
+| align=center|6 || {{flagicon|SWE}} [[Ida Ingemarsdotter]] || align=right|321
+|- 
+| align=center|7 || {{flagicon|USA}} [[Sophie Caldwell]] || align=right|303
+|- 
+| align=center|8 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|297
+|- 
+| align=center|9 || {{flagicon|FIN}} [[Krista Pärmäkoski]] || align=right|279
+|-  
+| align=center|10 || {{flagicon|GER}} [[Sandra Ringwald]] || align=right|248
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Prize money ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 57 payouts''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|CHF
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Therese Johaug]] || align=right|430,700
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Ingvild Flugstad Østberg]] || align=right|236,750
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|224,625
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Maiken Caspersen Falla]] || align=right|106,563
+|- 
+| align=center|5 || {{flagicon|SWE}} [[Stina Nilsson]] || align=right|91,749
+|- 
+| align=center|6 || {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]] || align=right|63,500
+|- 
+| align=center|7 || {{flagicon|FIN}} [[Krista Pärmäkoski]] || align=right|58,937
+|- 
+| align=center|8 || {{flagicon|SWE}} [[Charlotte Kalla]] || align=right|48,675
+|- 
+| align=center|9 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|46,500
+|- 
+| align=center|10 || {{flagicon|FIN}} [[Kerttu Niskanen]] || align=right|36,125
+|}
+{{col-break|width=33%}}
+
+=== Helvetia U23 ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 36 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|SWE}} [[Stina Nilsson]] || align=right|995
+|- 
+| align=center|2 || {{flagicon|SUI}} [[Nathalie von Siebenthal]] || align=right|518
+|-   
+| align=center|3 || {{flagicon|AUT}} [[Teresa Stadlober]] || align=right|486
+|- 
+| align=center|4 || {{flagicon|CZE}} [[Petra Novaková]] || align=right|322
+|- 
+| align=center|5 || {{flagicon|RUS}} [[Yuliya Belorukova]] || align=right|125
+|-     
+| align=center|6 || {{flagicon|SLO}} [[Anamarija Lampič]] || align=right|85
+|- 
+| align=center|7 || {{flagicon|SLO}} [[Nika Razinger]] || align=right|68
+|-  
+| align=center|8 || {{flagicon|RUS}} [[Daria Storozhilova]] || align=right|67
+|- 
+| align=center|9 || {{flagicon|SWE}} [[Jonna Sundling]] || align=right|56
+|- 
+| align=center|10 || {{flagicon|SUI}} [[Nadine Fähndrich]] || align=right|44
+|}
+{{col-break|width=33%}}
+
+=== Audi Quattro Bonus Ranking ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 19 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{flagicon|NOR}} [[Ingvild Flugstad Østberg]] || align=right|489
+|- 
+| align=center|2 || {{flagicon|NOR}} [[Heidi Weng]] || align=right|470
+|- 
+| align=center|3 || {{flagicon|NOR}} [[Therese Johaug]] || align=right|430
+|- 
+| align=center|4 || {{flagicon|NOR}} [[Maiken Caspersen Falla]] || align=right|302
+|- 
+| align=center|5 || {{flagicon|NOR}} [[Astrid Uhrenholdt Jacobsen]] || align=right|235
+|- 
+| align=center|6 || {{flagicon|SWE}} [[Stina Nilsson]] || align=right|231
+|- 
+| align=center|7 || {{flagicon|SWE}} [[Ida Ingemarsdotter]] || align=right|217
+|-   
+| align=center|8 || {{flagicon|FIN}} [[Krista Pärmäkoski]] || align=right|207
+|- 
+| align=center|9 || {{flagicon|SWE}} [[Charlotte Kalla]] || align=right|198
+|-  
+| align=center|10 || {{flagicon|USA}} [[Jessie Diggins]] || align=right|193
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+== Nations Cup ==
+{{col-begin}}
+{{col-break|width=33%}}
+
+=== Overall ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 78 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{NOR}} || align=right|24234
+|- 
+| align=center|2 || {{RUS}} || align=right|6743
+|- 
+| align=center|3 || {{FIN}} || align=right|6247
+|- 
+| align=center|4 || {{SWE}} || align=right|6039
+|-   
+| align=center|5 || {{GER}} || align=right|3532
+|- 
+| align=center|6 || {{USA}} || align=right|3525
+|- 
+| align=center|7 || {{FRA}} || align=right|2916
+|- 
+| align=center|8 || {{ITA}} || align=right|2549
+|-  
+| align=center|9 || {{SUI}} || align=right|2144
+|-     
+| align=center|10 || {{CAN}} || align=right|1659
+|}
+{{col-break|width=33%}}
+
+=== Men ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 39 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{NOR}} || align=right|12546
+|- 
+| align=center|2 || {{RUS}} || align=right|5689
+|-  
+| align=center|3 || {{FRA}} || align=right|2840
+|- 
+| align=center|4 || {{ITA}} || align=right|1913
+|-   
+| align=center|5 || {{CAN}} || align=right|1561
+|-     
+| align=center|6 || {{FIN}} || align=right|1516
+|- 
+| align=center|7 || {{SWE}} || align=right|1368
+|- 
+| align=center|8 || {{SUI}} || align=right|1284
+|- 
+| align=center|9 || {{GER}} || align=right|1024
+|- 
+| align=center|10 || {{KAZ}} || align=right|830
+|}
+{{col-break|width=33%}}
+
+=== Women ===
+{| cellspacing="1" cellpadding="3" style="border:1px solid #AAAAAA;font-size:86%" 
+|-style="background-color: #E4E4E4;"
+!style="border-bottom:1px solid #AAAAAA" width=10|Rank
+!style="border-bottom:1px solid #AAAAAA" width=200|''after 39 events''
+!style="border-bottom:1px solid #AAAAAA" width=20 align=right|Points
+|- 
+| align=center|1 || {{NOR}} || align=right|11688
+|- 
+| align=center|2 || {{FIN}} || align=right|4731
+|- 
+| align=center|3 || {{SWE}} || align=right|4671
+|- 
+| align=center|4 || {{USA}} || align=right|2908
+|- 
+| align=center|5 || {{GER}} || align=right|2508
+|- 
+| align=center|6 || {{RUS}} || align=right|1054
+|- 
+| align=center|7 || {{SUI}} || align=right|860
+|- 
+| align=center|8 || {{ITA}} || align=right|636
+|- 
+| align=center|9 || {{POL}} || align=right|598
+|- 
+| align=center|10 || {{SLO}} || align=right|579
+|}
+{{col-break|width=1%}}
+{{col-end}}
+
+==Achievements==
+New official FIS count from 2015/16 season.<ref>{{Cite web|url=http://www.langrenn.com/slik-telles-naa-antall-verdenscupseire.5827304-1743.html|title = Slik telles nå antall verdenscupseire}}</ref> Only individual events.
+
+;First World Cup career victory:
+{{col-begin}}
+{{col-2}}
+;Men
+* {{flagicon|NOR}} [[Sondre Turvoll Fossli]], 22, in his 6th season – the WC 1 (Sprint C) in Kuusamo; first podium was 2014-15 WC 1 (Sprint C) in Ruka
+* {{flagicon|NOR}} [[Niklas Dyrhaug]], 28, in his 7th season – the WC 1 (15&nbsp;km C Pursuit) in Ruka; also first podium
+* {{flagicon|NOR}} [[Emil Iversen]], 24, in his 3rd season – the WC 7 (Sprint C) in Oberstdorf; also first podium
+* {{flagicon|FRA}} [[Baptiste Gros]], 25, in his 6th season – the WC 17 (Sprint F) in Quebec City; first podium was 2013-14 WC 8 (Sprint F) in Szklarska Poręba
+{{col-2}}
+;Women
+* {{flagicon|SWE}} [[Stina Nilsson]], 22, in her 5th season – the WC 4 (Sprint F) in Davos; first podium was 2013-14 WC 14 (Sprint C) in Drammen
+* {{flagicon|USA}} [[Sophie Caldwell]], 25, in her 4th season – the WC 7 (Sprint C) in Oberstdorf; first podium was 2013-14 WC 12 (Sprint F) in Lahti
+* {{flagicon|USA}} [[Jessie Diggins]], 24, in her 6th season – the WC 7 (5&nbsp;km F) in Toblach; also first podium
+* {{flagicon|NOR}} [[Heidi Weng]], 24, in her 7th season – the WC 7 (10&nbsp;km C Mass Start) in Val di Fiemme; first podium was 2011-12 WC 18 (15&nbsp;km Skiathlon) in Lahti
+* {{flagicon|FIN}} [[Krista Pärmäkoski]], 25, in her 8th season – the WC 17 (10 km C Pursuit) in Canmore; first podium was 2010-11 WC 11 (10 km C Handicap start) in Oberhof
+{{col-end}}
+
+;First World Cup podium:
+{{col-begin}}
+{{col-2}}
+;Men
+* {{flagicon|NOR}} [[Niklas Dyrhaug]], 28, in his 7th season – no. 1 in the WC 1 (15&nbsp;km C Pursuit) in Ruka
+* {{flagicon|NOR}} [[Hans Christer Holund]], 26, in his 8th season – no. 3 in the WC 2 (30&nbsp;km Skiathlon) in Lillehammer
+* {{flagicon|GBR}} [[Andrew Young (skier)|Andrew Young]], 23, in his 8th season – no. 3 in the WC 5 (Sprint F) in Toblach
+* {{flagicon|NOR}} [[Emil Iversen]], 24, in his 3rd season – no. 1 in the WC 7 (Sprint C) in Oberstdorf
+* {{flagicon|FRA}} [[Robin Duvillard]], 32, in his 13th season – no. 2 in the WC 7 (9&nbsp;km Pursuit climb) in Val di Fiemme
+{{col-2}}
+;Women
+* {{flagicon|USA}} [[Jessie Diggins]], 24, in her 6th season – no. 1 in the WC 7 (5&nbsp;km F) in Toblach
+{{col-end}}
+
+;Victories in this World Cup (all-time number of victories as of 2015/16 season in parentheses):
+{{col-begin}}
+{{col-2}}
+;Men
+* {{flagicon|NOR}} [[Martin Johnsrud Sundby]], 14 (26) first places
+* {{flagicon|ITA}} [[Federico Pellegrino]], 5 (8) first places
+* {{flagicon|RUS}} [[Sergey Ustiugov]], 3 (4) first places
+* {{flagicon|NOR}} [[Emil Iversen]], 3 (3) first places
+* {{flagicon|FRA}} [[Maurice Manificat]], 2 (6) first places
+* {{flagicon|NOR}} [[Petter Northug]], 1 (36) first place
+* {{flagicon|KAZ}} [[Alexey Poltoranin]], 1 (9) first place
+* {{flagicon|RUS}} [[Maxim Vylegzhanin]], 1 (7) first place
+* {{flagicon|NOR}} [[Finn Hågen Krogh]], 1 (7) first place
+* {{flagicon|RUS}} [[Nikita Kryukov]], 1 (5) first place
+* {{flagicon|FIN}} [[Matti Heikkinen]], 1 (3) first place
+* {{flagicon|NOR}} [[Sondre Turvoll Fossli]], 1 (1) first place
+* {{flagicon|NOR}} [[Niklas Dyrhaug]], 1 (1) first place
+* {{flagicon|FRA}} [[Baptiste Gros]], 1 (1) first place
+{{col-2}}
+;Women
+* {{flagicon|NOR}} [[Therese Johaug]], 17 (42) first places
+* {{flagicon|NOR}} [[Maiken Caspersen Falla]], 8 (12) first places
+* {{flagicon|SWE}} [[Stina Nilsson]], 3 (3) first places
+* {{flagicon|NOR}} [[Heidi Weng]], 3 (3) first places
+* {{flagicon|NOR}} [[Ingvild Flugstad Østberg]], 2 (5) first places
+* {{flagicon|USA}} [[Sophie Caldwell]], 1 (1) first place
+* {{flagicon|USA}} [[Jessie Diggins]], 1 (1) first place
+* {{flagicon|FIN}} [[Krista Pärmäkoski]], 1 (1) first place
+{{col-end}}
+
+==Retirements==
+Following are notable cross-country skiers who announced their retirement:
+{{col-begin}}
+{{col-2}}
+;Men
+*{{flagathlete|[[Ivan Babikov]]|CAN}}<ref>{{cite web |url=http://www.fis-ski.com/cross-country/news-multimedia/news/article=ivan-babikov-retires.html |title=Ivan Babikov retires |author=<!--Staff writer(s); no by-line.--> |date=24 June 2016 |website=fis-ski.com |access-date=14 October 2016 |archive-date=28 June 2016 |archive-url=https://web.archive.org/web/20160628091945/http://www.fis-ski.com/cross-country/news-multimedia/news/article=ivan-babikov-retires.html |url-status=dead }}</ref>
+*{{flagathlete|[[Roland Clara]]|ITA}}<ref>{{cite web |url=http://www.fis-ski.com/cross-country/news-multimedia/news/article=roland-clara-has-ended-racing-career.html |title=Roland Clara has ended racing career |author=<!--Staff writer(s); no by-line.--> |date=11 August 2016 |website=fis-ski.com|access-date=14 October 2016}}</ref>
+*{{flagathlete|[[Jesper Modin]]|SWE}}<ref>{{cite web |url=http://www.fis-ski.com/cross-country/news-multimedia/news/article=jesper-modin-ends-professional-skiing-career.html |title=Jesper Modin ends professional skiing career|author=<!--Staff writer(s); no by-line.--> |date=8 April 2016 |website=[[skidor.com]] |access-date=8 April 2016}}</ref>
+*{{flagathlete|[[Eldar Rønning]]|NOR}}<ref>{{cite web |url=http://www.vg.no/sport/langrenn/langrennsveteran-legger-opp-jeg-blir-syk-av-aa-trene/a/23678642/ |title=Langrennsveteran legger opp: -Jeg blir syk av å trene |author=<!--Staff writer(s); no by-line.--> |date=9 May 2016 |website=[[vg.no]] |access-date=22 May 2016}}</ref>
+{{col-2}}
+;Women
+*{{flagathlete|[[Maria Rydqvist]]|SWE}}<ref>{{cite web |url=http://www.skidor.com/Grenar/Langdakning/Foljoss/Nyheter/Aktuelltlangdakning/2016/MariaRydqvistavslutarsinelitkarriar/ |title=Maria Rydqvist avslutar sin elitkarriär |author=<!--Staff writer(s); no by-line.--> |date=16 March 2016 |website=[[skidor.com]] |access-date=18 March 2016 |archive-url=https://web.archive.org/web/20160319025126/http://www.skidor.com/Grenar/Langdakning/Foljoss/Nyheter/Aktuelltlangdakning/2016/MariaRydqvistavslutarsinelitkarriar |archive-date=19 March 2016 |url-status=dead }}</ref>
+{{col-end}}
+
+==References==
+{{Reflist|2}}
+
+{{FIS Cross-Country World Cup seasons |state=collapsed}}
+{{Wintersport season 2015–16}}
+
+{{DEFAULTSORT:2015-16 FIS Cross-Country World Cup}}
+[[Category:2015–16 FIS Cross-Country World Cup| ]]
+[[Category:FIS Cross-Country World Cup seasons]]
+[[Category:2015 in cross-country skiing]]
+[[Category:2016 in cross-country skiing]]

@@ -1,0 +1,941 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2024}}
+{{Infobox Olympic event
+| event = Men's 400 metres hurdles 
+| games = 2024 Summer
+| image = 
+| caption = 
+| venue = [[Stade de France]], [[Paris]], France<ref name="schedule"/>
+| dates = {{ubl|5 August 2024 (round 1)|6 August 2024 (repechage round)|7 August 2024 (semi-finals)|9 August 2024 (final)}}
+| competitors = 39
+| nations = 
+| teams = 
+| win_value = 46.46
+| gold = [[Rai Benjamin]]
+| goldNOC = USA
+| silver = [[Karsten Warholm]]
+| silverNOC = NOR
+| bronze = [[Alison dos Santos]]
+| bronzeNOC = BRA
+| prev = [[Athletics at the 2020 Summer Olympics – Men's 400 metres hurdles|2020]]
+| next = [[Athletics at the 2028 Summer Olympics – Men's 400 metres hurdles|2028]]
+}}
+<!--[[Image:TV-icon-2.svg|thumb|110px|'''[https://www.youtube.com/watch?v=  Official Video]''']]-->
+{{Athletics at the 2024 Summer Olympics}}
+
+The men's [[400 metres hurdles]] at the [[2024 Summer Olympics]] was held in four rounds at the [[Stade de France]] in [[Paris]], France, from 5 to 9 August 2024. This was 28th time that the men's 400 metres hurdles was contested at the [[Summer Olympics]]. A total of 40 athletes were able to qualify for the event by entry standard or ranking.
+{{TOC limit|3}}
+
+==Summary==
+In the build up to the Games, World Athletics touted [[Athletics at the 2020 Summer Olympics – Men's 400 metres hurdles|reigning Olympic champion]] and world record holder [[Karsten Warholm]], 2020 Olympic silver medallist and world leader [[Rai Benjamin]],<ref>{{cite web|url=https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/all/men/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=2024-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=10229612&ageCategory=senior|title=Men's 400 metres hurdles - Toplists - to 1 August 2024|website=World Athletics|access-date=6 September 2025}}</ref> and [[2022 World Athletics Championships – Men's 400 metres hurdles|2022 world champion]] [[Alison Dos Santos]] for a battle for the gold.<ref name="WApreview">{{cite web|url=https://worldathletics.org/competitions/olympic-games/the-xxxiii-olympic-games-7153115/news/article/paris-olympics-preview-400m-hurdles|title=Paris Olympics preview: 400m hurdles|website=World Athletics|date=27 July 2024|access-date=6 September 2025|last=Jeffery|first=Nicole}}</ref> Other athletes seen as medal contenders included 2023 world silver medallist [[Kyron McMaster]], 2023 world fourth-placer [[Roshawn Clarke]] and fellow Jamaican [[Malik James-King]].<ref name=WApreview />
+
+Rain on the day of the final may have precluded the possibility of a world record. In the final, Warholm went out to the fastest start, reaching the third hurdle first in 12.73&nbsp;s.<ref name="Analysis">{{cite web |title=Men's 400m Hurdles - Final race analysis |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C77A_ATHM400MHURD----------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024}}</ref> Clarke and Benjamin following in second (12.77&nbsp;s). By the halfway mark at the fifth hurdle, dos Santos has passed [[Clement Ducos]] for the third placed spot. Benjamin took the lead over the eighth hurdle, with Warholm in second and dos Santos in third. They maintained their positions up until the line.<ref name=Analysis />
+
+==Background==
+
+The men's 400 m hurdles has been present on the [[Athletics at the Summer Olympics|Olympic athletics programme]] since [[1900 Summer Olympics|1900]], with a sole gap at the [[1912 Summer Olympics]].
+
+{| class="wikitable"
+|+Global records before the 2024 Summer Olympics
+|-
+!scope="col"|Record
+!scope="col"|Athlete (Nation)
+!scope="col" style="text-align:center"|Time&nbsp;([[second|s]])
+!scope="col"|Location
+!scope="col"|Date
+|-
+!scope="row"|[[List of world records in athletics|World record]]
+| rowspan="2" |{{flagathlete|[[Karsten Warholm]]|NOR}}
+| rowspan="2" style="text-align:center" |'''45.94<ref name="WR">"[https://worldathletics.org/records/all-time-toplists/hurdles/400-metres-hurdles/all/women/senior?regionType=world&timing=electronic&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-07-09&maxResultsByCountry=all&eventId=10229523&ageCategory=senior All-time Top lists – Senior – 400 Metres Hurdles men]", ''[[World Athletics]]'', 29 June 2024. Retrieved 29 June 2024.</ref>'''
+| rowspan="2" |[[Tokyo]], Japan
+| rowspan="2" |3 August 2021 
+|-
+!scope="row"|[[List of Olympic records in athletics|Olympic record]]
+|-
+!scope="row"|World leading
+|{{flagathlete|[[Rai Benjamin]]|USA}}
+|style="text-align:center"|'''46.46<ref name="WL">"[https://worldathletics.org/records/toplists/hurdles/400-metres-hurdles/all/men/senior/2024?regionType=world&timing=electronic&page=1&bestResultsOnly=true&maxResultsByCountry=all&eventId=10229612&ageCategory=senior Season Top Lists – Senior 2024 – 400 Metres Hurdles men]", ''[[World Athletics]]'', 2024. Retrieved 29 June 2024.</ref>'''
+|[[Eugene, Oregon|Eugene]], United States
+|30 June 2024
+|}
+
+{| class="wikitable"
+|+Area records before the 2024 Summer Olympics<ref>{{Cite web |date=8 July 2024 |title=Records - 400 Metres Hurdles men |url=https://worldathletics.org/records/by-discipline/hurdles/400-metres-hurdles/all/men |access-date=8 July 2024 |website=[[World Athletics]]}}</ref>
+|-
+!Area Record
+! Athlete (Nation)
+! Time (s)
+|-
+| '''[[Confederation of African Athletics|Africa]] {{small|(''[[List of African records in athletics|records]]'')}}''' || {{Flagathlete|[[Samuel Matete]]|ZAM}}|| '''47.10'''
+|-
+|'''[[Asian Athletics Association|Asia]] {{small|(''[[List of Asian records in athletics|records]]'')}}'''|| {{Flagathlete|[[Abderrahman Samba]]|QAT}}||'''46.98'''
+|-
+| '''[[European Athletic Association|Europe]] {{small|(''[[List of European records in athletics|records]]'')}}'''||	{{flagathlete|[[Karsten Warholm]]|NOR}}|| '''45.94''' {{WR}}
+|-
+|'''[[North America, Central America and Caribbean Athletic Association|North, Central America<br /> and Caribbean]] {{small|(''[[List of North, Central American and Caribbean records in athletics|records]]'')}}'''
+|{{flagathlete|[[Rai Benjamin]]|USA}}|| '''46.17'''
+|-
+| '''[[Oceania Athletics Association|Oceania]] {{small|(''[[List of Oceanian records in athletics|records]]'')}}'''|| {{Flagathlete|[[Rohan Robinson]]|AUS}}|| '''48.28'''
+|-
+| '''[[Atletismo Sudamericano|South America]] {{small|(''[[List of South American records in athletics|records]]'')}}'''|| {{Flagathlete|[[Alison dos Santos]]|BRA}}|| '''46.29'''
+|}
+
+==Qualification==
+{{main|Athletics at the 2024 Summer Olympics – Qualification#Men's 400 m hurdles}}
+
+For the men's 400 metres hurdles event, the qualification period was between 1 July 2023 and 30 June 2024.<ref name="qualification">Sean McAlister, "[https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained How to qualify for athletics at Paris 2024. The Olympics qualification system explained]", ''[[Olympics.com]]'', 20 December 2022. Retrieved 29 June 2024.</ref> Forty athletes were able to qualify for the event, with a maximum of three athletes per nation, by running the entry standard of 48.70&nbsp;seconds or faster or by their [[World Athletics Ranking]] for this event.<ref name="qualification"/>
+
+==Results==
+
+=== Round 1 ===
+Round 1 was held on 5 August, starting at 10:05 (UTC+2) in the morning.<ref name="schedule">{{Cite web |title=Paris 2024 - Olympic Schedule - Athletics|url=https://olympics.com/en/paris-2024/schedule/athletics|website=[[Olympics.com]]|access-date=29 June 2024}}</ref>
+
+Qualification Rules: First 3 in each heat (Q) and the next 3 fastest (q) advance to the semifinals. All others advance to Repechage round (except DNS, DNF, DQ).<ref>{{Cite web |title=Men's 400m Hurdles Round 1 - Athletics |url=https://olympics.com/en/paris-2024/results/athletics/men-s-400m-hurdles/rnd1-------- |access-date=4 August 2024 |website=Olympics.com}}</ref>
+
+==== Heat 1 ====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|7
+| align="left" |[[Rai Benjamin]]
+| align="left" |{{flagIOC|USA|2024 Summer}}
+|0.190
+|48.82
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|6
+| align="left" |[[Jaheel Hyde]]
+| align="left" |{{flagIOC|JAM|2024 Summer}}
+|0.175
+|49.08
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|3
+|2
+| align="left" |[[Kyron McMaster]]
+| align="left" |{{flagIOC|IVB|2024 Summer}}
+|0.166
+|49.24
+|{{AthAbbr|Q}}
+|-
+|4
+|4
+| align="left" |[[Carl Bengtström]]
+| align="left" |{{flagIOC|SWE|2024 Summer}}
+|0.172
+|49.34
+|
+|-
+|5
+|5
+| align="left" |[[Bassem Hemeida]]
+| align="left" |{{flagIOC|QAT|2024 Summer}}
+|0.141
+|49.82
+|{{AthAbbr|SB}}
+|-
+|6
+|8
+| align="left" |[[Daiki Ogawa]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|0.174
+|50.21
+|
+|-
+|7
+|3
+| align="left" |[[Matic Ian Guček]]
+| align="left" |{{flagIOC|SLO|2024 Summer}}
+|0.147
+|50.30
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Round 1 - Heat 1/5 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------RND1000100--.pdf |website=Olympics |access-date=7 August 2024 |date=5 August 2024}}</ref>
+
+==== Heat 2 ====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|5
+| align="left" |[[Karsten Warholm]]
+| align="left" |{{flagIOC|NOR|2024 Summer}}
+|0.148
+|47.57
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|9
+| align="left" |[[Clément Ducos]]
+| align="left" |{{flagIOC|FRA|2024 Summer}}
+|0.157
+|47.69
+|{{AthAbbr|Q}}, {{AthAbbr|PB}}
+|-bgcolor=bbf3bb
+|3
+|7
+| align="left" |[[Abderrahman Samba]]
+| align="left" |{{flagIOC|QAT|2024 Summer}}
+|0.182
+|48.35
+|{{AthAbbr|Q}}
+|-
+|4
+|8
+| align="left" |[[Yeral Nuñez]]
+| align="left" |{{flagIOC|DOM|2024 Summer}}
+|0.187
+|48.67
+| 
+|-
+|5
+|4
+| align="left" |[[Trevor Bassitt]]
+| align="left" |{{flagIOC|USA|2024 Summer}}
+|0.185
+|49.38
+|
+|-
+|6
+|2
+| align="left" |[[Vít Müller]]
+| align="left" |{{flagIOC|CZE|2024 Summer}}
+|0.150
+|49.44
+| 
+|-
+|7
+|6
+| align="left" |[[Oskar Edlund]]
+| align="left" |{{flagIOC|SWE|2024 Summer}}
+|0.188
+|49.74
+| 
+|-
+|8
+|3
+| align="left" |[[Xie Zhiyu (hurdler)|Xie Zhiyu]]
+| align="left" |{{flagIOC|CHN|2024 Summer}}
+|0.191
+|49.90
+| 
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Round 1 - Heat 2/5 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------RND1000200--.pdf |website=Olympics |access-date=7 August 2024 |date=5 August 2024}}</ref>
+
+==== Heat 3 ====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|5
+| align="left" |[[Rasmus Mägi]]
+| align="left" |{{flagIOC|EST|2024 Summer}}
+|0.196
+|48.62
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|6
+| align="left" |[[CJ Allen]]
+| align="left" |{{flagIOC|USA|2024 Summer}}
+|0.144
+|48.64
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|3
+|2
+| align="left" |[[Alison dos Santos]]
+| align="left" |{{flagIOC|BRA|2024 Summer}}
+|0.165
+|48.75
+|{{AthAbbr|Q}}
+|-
+|4
+|9
+| align="left" |[[Emil Agyekum]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.207
+|49.38
+| 
+|-
+|5
+|3
+| align="left" |[[Victor Ntweng]]
+| align="left" |{{flagIOC|BOT|2024 Summer}}
+|0.138
+|49.59
+| 
+|-
+|6
+|8
+| align="left" |[[Julien Bonvin]]
+| align="left" |{{flagIOC|SUI|2024 Summer}}
+|0.167
+|49.82
+| 
+|-
+|7
+|7
+| align="left" |[[Kaito Tsutsue]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|0.149
+|50.50
+| 
+|-
+|8
+|4
+| align="left" |[[Yasmani Copello]]
+| align="left" |{{flagIOC|TUR|2024 Summer}}
+|0.224
+|50.72
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Round 1 - Heat 3/5 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------RND1000300--.pdf |website=Olympics |access-date=7 August 2024 |date=5 August 2024}}</ref>
+
+==== Heat 4 ====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|8
+| align="left" |[[Roshawn Clarke]]
+| align="left" |{{flagIOC|JAM|2024 Summer}}
+|0.191
+|48.17
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|3
+| align="left" |[[Ezekiel Nathaniel]]
+| align="left" |{{flagIOC|NGR|2024 Summer}}
+|0.181
+|48.38
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|3
+|7
+| align="left" |[[Wilfried Happio]]
+| align="left" |{{flagIOC|FRA|2024 Summer}}
+|0.152
+|48.42
+|{{AthAbbr|Q}}
+|-bgcolor=ccf9cc
+|4
+|4
+| align="left" |[[Alessandro Sibilio]]
+| align="left" |{{flagIOC|ITA|2024 Summer}}
+|0.157
+|48.43
+|{{AthAbbr|q}}
+|-bgcolor=ccf9cc
+|5
+|5
+| align="left" |[[Wiseman Were Mukhobe]]
+| align="left" |{{flagIOC|KEN|2024 Summer}}
+|0.198
+|48.58
+| {{AthAbbr|q}}
+|-bgcolor=ccf9cc
+|6
+|9
+| align="left" |[[Nick Smidt]]
+| align="left" |{{flagIOC|NED|2024 Summer}}
+|0.168
+|48.64
+|{{AthAbbr|q}}, {{AthAbbr|SB}}
+|-
+|7
+|6
+| align="left" |[[Gerald Drummond (athlete)|Gerald Drummond]]
+| align="left" |{{flagIOC|CRC|2024 Summer}}
+|0.213
+|48.80
+|
+|-
+|8
+|2
+| align="left" |[[Constantin Preis]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.221
+|49.99
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Round 1 - Heat 4/5 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------RND1000400--.pdf |website=Olympics |access-date=7 August 2024 |date=5 August 2024}}</ref>
+
+==== Heat 5 ====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|2
+| align="left" |[[Malik James-King]]
+| align="left" |{{flagIOC|JAM|2024 Summer}}
+|0.150
+|48.21
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|6
+| align="left" |[[Matheus Lima]]
+| align="left" |{{flagIOC|BRA|2024 Summer}}
+|0.180
+|48.90
+|{{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=bbf3bb
+|3
+|9
+| align="left" |[[Alastair Chalmers]]
+| align="left" |{{flagIOC|GBR|2024 Summer}}
+|0.179
+|48.98
+|{{AthAbbr|Q}}
+|-
+|4
+|7
+| align="left" |[[Joshua Abuaku]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.151
+|49.00
+|
+|-
+|5
+|3
+| align="left" |[[Berke Akçam]]
+| align="left" |{{flagIOC|TUR|2024 Summer}}
+|0.143
+|49.48
+| 
+|-
+|6
+|4
+| align="left" |[[Ken Toyoda]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|0.136
+|53.62
+| 
+|-
+|
+|8
+| align="left" |[[Ismail Doudai Abakar]]
+| align="left" |{{flagIOC|QAT|2024 Summer}}
+|0.177
+|{{AthAbbr|DNF}}
+|
+|-
+|
+|5
+| align="left" |[[Peng Ming-yang]]
+| align="left" |{{flagIOC|TPE|2024 Summer}}
+|0.209
+|{{AthAbbr|DNF}}
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Round 1 - Heat 5/5 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------RND1000500--.pdf |website=Olympics |access-date=7 August 2024 |date=5 August 2024}}</ref>
+
+===Repechage round===
+The [[repechage]] round was held on 6 August, starting at 12:00 (UTC+2) in the afternoon.<ref name="schedule"/>
+
+====Heat 1====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|6
+| align="left" |[[Trevor Bassitt]]
+| align="left" |{{flagIOC|USA|2024 Summer}}
+|0.177
+|48.64
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|4
+| align="left" |[[Emil Agyekum]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.194
+|48.67
+|{{AthAbbr|Q}} 
+|-
+|3
+|7
+| align="left" |[[Vít Müller]]
+| align="left" |{{flagIOC|CZE|2024 Summer}}
+|0.157
+|48.96
+| 
+|-
+|4
+|8
+| align="left" |[[Oskar Edlund]]
+| align="left" |{{flagIOC|SWE|2024 Summer}}
+|0.168
+|48.99
+| 
+|-
+|5
+|3
+| align="left" |[[Daiki Ogawa]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|0.136
+|49.25
+| 
+|-
+|6
+|2
+| align="left" |[[Bassem Hemeida]]
+| align="left" |{{flagIOC|QAT|2024 Summer}}
+|0.146
+|49.64
+|{{AthAbbr|SB}}
+|-
+|
+|5
+| align="left" |[[Yasmani Copello]]
+| align="left" |{{flagIOC|TUR|2024 Summer}}
+|
+|{{AthAbbr|DNS}}
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Repechage - Heat 1/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------REP-000100--.pdf |website=Olympics |access-date=7 August 2024 |date=6 August 2024}}</ref>
+
+====Heat 2====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|8
+| align="left" |[[Carl Bengtström]]
+| align="left" |{{flagIOC|SWE|2024 Summer}}
+|0.171
+|48.63
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|4
+| align="left" |[[Gerald Drummond (athlete)|Gerald Drummond]]
+| align="left" |{{flagIOC|CRC|2024 Summer}}
+|0.216
+|48.78
+|{{AthAbbr|Q}} 
+|- 
+|3
+|5
+| align="left" |[[Victor Ntweng]]
+| align="left" |{{flagIOC|BOT|2024 Summer}}
+|0.168
+|48.88
+| 
+|-
+|4
+|7
+| align="left" |[[Matic Ian Guček]]
+| align="left" |{{flagIOC|SLO|2024 Summer}}
+|0.146
+|49.06
+| 
+|-
+|5
+|6
+| align="left" |[[Constantin Preis]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.218
+|51.02
+| 
+|-
+|
+|3
+| align="left" |[[Kaito Tsutsue]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|
+|{{AthAbbr|DNS}}
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Repechage - Heat 2/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------REP-000200--.pdf |website=Olympics |access-date=7 August 2024 |date=6 August 2024}}</ref>
+
+====Heat 3====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+!Rank
+!Lane
+!Athlete
+!Nation
+!Reaction
+!Time
+!Notes
+|-bgcolor=bbf3bb
+|1
+|5
+| align="left" |[[Berke Akçam]]
+| align="left" |{{flagIOC|TUR|2024 Summer}}
+|0.146
+|48.72
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|6
+| align="left" |[[Joshua Abuaku]]
+| align="left" |{{flagIOC|GER|2024 Summer}}
+|0.159
+|48.87
+|{{AthAbbr|Q}}, {{AthAbbr|SB}}  
+|- 
+|3
+|3
+| align="left" |[[Julien Bonvin]]
+| align="left" |{{flagIOC|SUI|2024 Summer}}
+|0.165
+|49.08
+| 
+|-
+|4
+|8
+| align="left" |[[Xie Zhiyu (hurdler)|Xie Zhiyu]]
+| align="left" |{{flagIOC|CHN|2024 Summer}}
+|0.224
+|49.59
+| 
+|-
+|5
+|7
+| align="left" |[[Yeral Nuñez]]
+| align="left" |{{flagIOC|DOM|2024 Summer}}
+|0.204
+|53.68
+| 
+|-
+|
+|4
+| align="left" |[[Ken Toyoda]]
+| align="left" |{{flagIOC|JPN|2024 Summer}}
+|
+|{{AthAbbr|DNS}}
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Repechage - Heat 3/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------REP-000300--.pdf |website=Olympics |access-date=7 August 2024 |date=6 August 2024}}</ref>
+
+===Semi-finals===
+The semi-finals were held on 7 August, starting at 19:35 (UTC+2) in the evening.<ref name="schedule"/>
+
+====Semifinal 1====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+! Rank
+! Lane
+! Athlete
+! Nation
+! Time
+! Notes
+|-bgcolor=bbf3bb
+|1
+|7
+| align=left |[[Karsten Warholm]]
+| align=left |{{flagIOC|NOR|2024 Summer}}
+|47.67
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|6
+| align=left |[[Clément Ducos]]
+| align=left |{{flagIOC|FRA|2024 Summer}}
+|47.85
+|{{AthAbbr|Q}}
+|-bgcolor=ccf9cc
+|3
+|9
+| align=left |[[Alison dos Santos]]
+| align=left |{{flagIOC|BRA|2024 Summer}}
+|47.95
+|{{AthAbbr|q}}
+|- 
+|4
+|2
+| align=left |[[Trevor Bassitt]]
+| align=left |{{flagIOC|USA|2024 Summer}}
+|48.29
+|
+|-
+|5
+|5
+| align=left |[[Ezekiel Nathaniel]]
+| align=left |{{flagIOC|NGR|2024 Summer}}
+|48.65
+| 
+|-
+|6
+|4
+| align=left |[[Nick Smidt]]
+| align=left |{{flagIOC|NED|2024 Summer}}
+|49.61
+|
+|- 
+|7
+|8
+| align=left |[[Jaheel Hyde]]
+| align=left |{{flagIOC|JAM|2024 Summer}}
+|50.03
+|
+|- 
+|8
+|3
+| align=left |[[Joshua Abuaku]]
+| align=left |{{flagIOC|GER|2024 Summer}}
+|50.19
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Semi-Final 1/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------SFNL000100--.pdf |website=Olympics |access-date=7 August 2024 |date=7 August 2024}}</ref>
+
+====Semifinal 2====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+! Rank
+! Lane
+! Athlete
+! Nation
+! Time
+! Notes
+|-bgcolor=bbf3bb
+|1
+|4
+| align=left |[[Kyron McMaster]]
+| align=left |{{flagIOC|IVB|2024 Summer}}
+|48.15
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|7
+| align=left |[[Rasmus Mägi]]
+| align=left |{{flagIOC|EST|2024 Summer}}
+|48.16
+|{{AthAbbr|Q}}
+|-bgcolor=ccf9cc
+|3
+|5
+| align=left |[[Abderrahman Samba]]
+| align=left |{{flagIOC|QAT|2024 Summer}}
+|48.20
+|{{AthAbbr|q}}
+|- 
+|4
+|8
+| align=left |[[CJ Allen]]
+| align=left |{{flagIOC|USA|2024 Summer}}
+|48.44
+|
+|-
+|5
+|3
+| align=left |[[Emil Agyekum]]
+| align=left |{{flagIOC|GER|2024 Summer}}
+|48.78
+| 
+|-
+|6
+|9
+| align=left |[[Alessandro Sibilio]]
+| align=left |{{flagIOC|ITA|2024 Summer}}
+|48.79
+|
+|- 
+|7
+|6
+| align=left |[[Malik James-King]]
+| align=left |{{flagIOC|JAM|2024 Summer}}
+|48.85
+|
+|- 
+|8
+|2
+| align=left |[[Berke Akçam]]
+| align=left |{{flagIOC|TUR|2024 Summer}}
+|49.12
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Semi-Final 2/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------SFNL000200--.pdf |website=Olympics |access-date=7 August 2024 |date=7 August 2024}}</ref>
+
+====Semifinal 3====
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+! Rank
+! Lane
+! Athlete
+! Nation
+! Time
+! Notes
+|-bgcolor=bbf3bb
+|1
+|5
+| align=left |[[Rai Benjamin]]
+| align=left |{{flagIOC|USA|2024 Summer}}
+|47.85
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|8
+| align=left |[[Roshawn Clarke]]
+| align=left |{{flagIOC|JAM|2024 Summer}}
+|48.34
+|{{AthAbbr|Q}}
+|- 
+|3
+|7
+| align=left |[[Wilfried Happio]]
+| align=left |{{flagIOC|FRA|2024 Summer}}
+|48.66
+|
+|- 
+|4
+|6
+| align=left |[[Matheus Lima]]
+| align=left |{{flagIOC|BRA|2024 Summer}}
+|49.08
+|
+|-
+|5
+|4
+| align=left |[[Wiseman Mukhobe]]
+| align=left |{{flagIOC|KEN|2024 Summer}}
+|49.22
+| 
+|-
+|6
+|3
+| align=left |[[Carl Bengtström]]
+| align=left |{{flagIOC|SWE|2024 Summer}}
+|49.56
+|
+|- 
+|7
+|2
+| align=left |[[Gerald Drummond (athlete)|Gerald Drummond]]
+| align=left |{{flagIOC|CRC|2024 Summer}}
+|49.68
+|
+|- 
+|8
+|9
+| align=left |[[Alastair Chalmers]]
+| align=left |{{flagIOC|GBR|2024 Summer}}
+|56.52
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Semi-Final 3/3 results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------SFNL000300--.pdf |website=Olympics |access-date=7 August 2024 |date=7 August 2024}}</ref>
+
+===Final===
+The final was held on 9 August, starting at 21:45 (UTC+2) in the evening.<ref name="schedule"/>
+
+{| class="wikitable sortable" style="text-align:center;width: 70%;"
+! Rank
+! Lane
+! Athlete
+! Nation
+! Time
+! Notes
+|- 
+| {{gold1}}
+| 8
+| align=left |[[Rai Benjamin]]
+| align=left |{{flagIOC|USA|2024 Summer}}
+| 46.46
+| ={{AthAbbr|SB}}
+|- 
+| {{silver2}}
+| 7
+| align=left |[[Karsten Warholm]]
+| align=left |{{flagIOC|NOR|2024 Summer}}
+| 47.06
+|
+|- 
+| {{bronze3}}
+| 3
+| align=left |[[Alison dos Santos]]
+| align=left |{{flagIOC|BRA|2024 Summer}}
+| 47.26
+|
+|- 
+| 4
+| 5
+| align=left |[[Clément Ducos]]
+| align=left |{{flagIOC|FRA|2024 Summer}}
+| 47.76
+|
+|- 
+| 5
+| 6
+| align=left |[[Kyron McMaster]]
+| align=left |{{flagIOC|IVB|2024 Summer}}
+| 47.79
+| {{AthAbbr|SB}}
+|- 
+| 6
+| 2
+| align=left |[[Abderrahman Samba]]
+| align=left |{{flagIOC|QAT|2024 Summer}}
+| 47.98
+|
+|- 
+| 7
+| 4
+| align=left |[[Rasmus Mägi]]
+| align=left |{{flagIOC|EST|2024 Summer}}
+| 52.53
+|
+|- 
+| -
+| 9
+| align=left |[[Roshawn Clarke]]
+| align=left |{{flagIOC|JAM|2024 Summer}}
+| {{AthAbbr|DNF}}
+|
+|}
+<ref>{{cite web |title=Men's 400m Hurdles - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73B1_ATHM400MHURD----------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024 |date=9 August 2024}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Olympics400metresHurdles}}
+{{Footer Olympic Champions 400 m hurdles Men}}
+
+{{DEFAULTSORT:Athletics at the 2024 Summer Olympics - Men's 400 metres hurdles}}
+[[Category:2024 in men's sport of athletics]]
+[[Category:400 metres hurdles at the Olympics|2024]]
+[[Category:Athletics at the 2024 Summer Olympics|Men's 400 metres hurdles]]
+[[Category:Men's events at the 2024 Summer Olympics]]

@@ -1,0 +1,66 @@
+{{short description|American speed skater}}
+{{Use mdy dates|date=June 2025}}
+{{Use American English|date=June 2025}}
+{{Infobox speed skater
+| image = Tucker Fredricks (23-02-2008).jpg
+| caption = Fredricks in February 2008 in Heerenveen
+| full_name = Tucker Daniel Fredricks
+| birth_date = {{Birth-date and age|April 16, 1984}}
+| birth_place = [[Janesville, Wisconsin]], U.S.
+| height = 5 ft 6 in
+| country = {{USA}}
+}}
+
+'''Tucker Daniel Fredricks''' (born April 16, 1984) is an American [[speed skater]] and the former US record holder in the 500 meter event. He competed at the [[2006 Winter Olympics|2006]], [[2010 Winter Olympics|2010]], and [[2014 Winter Olympics|2014]] Winter Olympics.<ref>{{cite Sports-Reference |title=Tucker Fredricks |url=https://www.sports-reference.com/olympics/athletes/fr/tucker-fredricks-1.html |archive-url=https://web.archive.org/web/20161203051029/https://www.sports-reference.com/olympics/athletes/fr/tucker-fredricks-1.html |archive-date=December 3, 2016}}</ref>
+
+Fredricks was born in [[Janesville, Wisconsin]], where he graduated in 2002 from [[Joseph A. Craig High School]]. He began skating in 1994 when a friend of his father took him skating in lieu of playing [[ice hockey|hockey]].  He considers his greatest accomplishment to be winning the gold medal in 500m at the 2003 World Junior Championships.{{citation needed|date=April 2018}}
+
+On November 17, 2007, at the World Cup Race in [[Calgary, Alberta]], [[Canada]], Fredricks beat the previous American 500m record (34.42) which was originally held by 2002 Olympic gold medalist [[Casey FitzRandolph|Casey Fitzrandolph]], with a time of 34.31.
+
+== Career wins ==
+* 1st, 500m 2003 World Junior Speedskating Championships
+* 3rd, 500m 2002 World Junior Speedskating Championships
+* 1st, overall 2002 U.S. Junior Speedskating Championships
+* 1st, overall 2003 U.S. Junior Speedskating Championships
+* 1st, overall 2003 U.S. Junior Speedskating Championships
+* 25th, 2006 Olympic Winter Games, Men’s 500m
+* 12th, 2010 Olympic Winter Games, Men’s 500m (World Cup overall 500m champion)
+* 26th, 2014 Olympic Winter Games, Men’s 500m
+
+== Current record ==
+{{PersonalRecordsTop}}
+{{PersonalRecordsSport| Men's [[speed skating]]}}
+{{PersonalRecordsMiddle|500 m|34.31|November 17, 2007|[[Calgary]], [[Alberta]], [[Canada]] | American record }}
+{{PersonalRecordsMiddle|500 m x 2|68.98|November 17, 2007|[[Calgary]], [[Alberta]], [[Canada]] | American record }}
+{{PersonalRecordsMiddle|1000 m|1:09.65|December 31, 2005|[[Salt Lake City]], [[Utah]] | }}
+{{PersonalRecordsMiddle|1500 m|1:51.84|November 25, 2001|[[Calgary]], [[Alberta]], [[Canada]] | }}
+{{PersonalRecordsMiddle|3000 m|4:02.39|November 24, 2001|[[Calgary]], [[Alberta]], [[Canada]] | }}
+{{PersonalRecordsBottom}}
+
+==Highlights==
+Fredericks has been a World Cup 500m medalist winner 30 times (11 times gold, six times silver and 13 times bronze). In addition, in 2007 he won the bronze for the World Single Distance Championships, and was the World Cup overall 500m champion.<ref>{{cite web |title=Tucker Fredericks US SpeedSkating |url=http://www.teamusa.org/Athletes/FR/Tucker-Fredricks |archive-url=https://web.archive.org/web/20140109212322/http://www.teamusa.org/Athletes/FR/Tucker-Fredricks |url-status=dead |archive-date=January 9, 2014 |publisher=Team USA |accessdate=May 13, 2014}}</ref>
+
+== References ==
+<references />
+
+== External links ==
+* {{ISU speed skater|new_id=tucker-fredricks|old_id=162577}}
+* {{Team USA|new_id=tucker-fredricks|old_id=FR/Tucker-Fredricks}}
+* {{Olympics.com}}
+* {{Olympedia}}
+* {{webarchive |url=https://web.archive.org/web/20070311132445/http://www.skateresults.com/skater/show/3928 |title=Profile on SkateResults.com |date=mdy}}
+* {{webarchive |url=https://web.archive.org/web/20070311003646/http://www.usspeedskating.org/rosters/Fredricks.html |title=US Speedskating bio |date=mdy}}
+* {{webarchive |url=https://web.archive.org/web/20070310215234/http://www.nbcolympics.com/athletes/5058131/detail.html |title=NBC Olympics bio |date=mdy}}
+* {{webarchive |url=https://archive.today/20070803122836/http://www.fotos.desg.de/athletes.php?showAthletes=all&id=311 |title=Photos of Tucker Fredricks |date=mdy}}
+
+{{DEFAULTSORT:Fredricks, Tucker}}
+[[Category:1984 births]]
+[[Category:Living people]]
+[[Category:American male speed skaters]]
+[[Category:Olympic speed skaters for the United States]]
+[[Category:Sportspeople from Janesville, Wisconsin]]
+[[Category:Speed skaters at the 2006 Winter Olympics]]
+[[Category:Speed skaters at the 2010 Winter Olympics]]
+[[Category:Speed skaters at the 2014 Winter Olympics]]
+[[Category:Joseph A. Craig High School alumni]]
+[[Category:21st-century American sportsmen]]

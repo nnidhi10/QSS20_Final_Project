@@ -1,0 +1,350 @@
+{{Use dmy dates|date=July 2021}}
+{{Infobox Olympic event
+| event       = Men's Laser
+| games       = 2020 Summer
+| image       = 
+| image_size  = 100px
+| caption     = 
+| venues = [[Enoshima]], Japan<br/>[[Sagami Bay]], Japan
+| dates       = 25 July – 1 August 2021
+| competitors = 35
+| nations     = 35
+| win_label   = 
+| win_value   =
+| gold        = [[Matthew Wearn]] 
+| goldNOC     = AUS
+| silver      = [[Tonči Stipanović]] 
+| silverNOC   = CRO
+| bronze      = [[Hermann Tomasgaard]] 
+| bronzeNOC   = NOR
+| prev        = [[Sailing at the 2016 Summer Olympics – Laser|2016]]
+| next        = [[Sailing at the 2024 Summer Olympics – Laser|2024]]
+}}
+{{Sailing at the 2020 Summer Olympics}}
+
+The [[Laser (dinghy)|Laser]] competition at the [[2020 Summer Olympics]] was the men's one-person dinghy event and was held in [[Enoshima]], Japan, from 25 July to 1 August 2021.<ref name=olympedia-sal>{{cite web | url=https://www.olympedia.org/editions/61/sports/SAL | title=Olympedia – Sailing at the 2020 Summer Olympics }}</ref> 35 sailors from 35 nations competed in 11 races, including one medal-race where points were doubled.<ref>{{cite web | url=https://www.olympedia.org/results/19008725 | title=Olympedia – One Person Dinghy (Laser), Men }}</ref><ref>{{cite web |title=Sailing - Men's One Person Dinghy - Laser Schedule |url=https://olympics.com/tokyo-2020/olympic-games/en/results/sailing/event-schedule-laser-men.htm |work=[[Tokyo 2020 Olympics]] |access-date=28 July 2021 |archive-date=28 July 2021 |archive-url=https://web.archive.org/web/20210728214913/https://olympics.com/tokyo-2020/olympic-games/en/results/sailing/event-schedule-laser-men.htm |url-status=dead }}</ref> The land venue was [[Enoshima Yacht Harbour]] and races were held on [[Sagami Bay]].<ref name=olympedia-sal/>
+
+Medals were presented by IOC Member for Cuba Mrs [[María Caridad Colón]] and [[World Sailing]] chief executive officer David Graham.
+
+== Schedule ==
+{| class="wikitable" style="text-align: center;"
+! Sun 25 Jul !! Mon 26 Jul !! Tue 27 Jul !! Wed 28 Jul !! Thu 29 Jul !! Fri 30 Jul !! Sat 31 Jul !! Sun 1 Aug
+|-
+| Race 1
+| Race 2<br/>Race 3
+| Race 4<br/>Race 5<br/>Race 6
+| {{n/a|Rest day}}
+| Race 7<br/>Race 8
+| Race 9<br/>Race 10
+| {{n/a|Rest day}}
+|style=background:lemonchiffon|'''Medal race'''
+|}
+
+{{clear}}
+
+== Results ==
+{{Sailing result top| crew=helmsman | nationality=yes | races = 10 | mr = 1| total = yes | netto = yes}}
+{{Sailresult games
+| qualified = yes
+| pos= final1
+| games = 2020 Summer | nation = AUS
+| skipper = {{sortname|Matthew|Wearn}}  | 17 | {{discard|28}} | 2 | 4 | 2 | 2 | 1 | 1 | 12 | 8 | 4
+| total = 81
+| netto = 53
+}}
+{{Sailresult games
+| qualified = yes
+| pos= final2
+| games = 2020 Summer | nation = CRO
+| skipper = {{sortname|Tonči|Stipanović}}  | 15 | 6 | 3 | {{discard|22}} | 13 | 4 | 5 | 11 | 7 | 10 | 8
+| total = 104
+| netto = 82
+}} 
+{{Sailresult games
+| qualified = yes
+| pos= final3
+| games = 2020 Summer | nation = NOR
+| skipper = {{sortname|Hermann|Tomasgaard}}  | 3 | 18 | 15 | 2 | 6 | 8 | 10 | 5 | {{discard|19}} | 4 | 14
+| total = 104
+| netto = 85
+}}
+{{Sailresult games
+| qualified = yes
+| pos= 4
+| games = 2020 Summer | nation = CYP
+| skipper = {{sortname|Pavlos|Kontides}}  | 4 | 7 | 5 | 1 | 20 | 1 | {{discard|36}}<br>(RET) | 6 | 8 | 24 | 12
+| total = 124
+| netto = 88
+}}
+{{Sailresult games
+| qualified = yes
+| pos= 5
+| games = 2020 Summer | nation = GER
+| skipper = {{sortname|Philipp|Buhl}}  | 10 | 2 | 10 | 21 | 12 | 22 | 4 | 3 | {{discard|32}} | 1 | 6
+| total = 123 
+| netto = 91 
+}}
+{{Sailresult games
+| qualified = yes
+| pos=6
+| games = 2020 Summer | nation = FRA
+| skipper = {{sortname|Jean-Baptiste|Bernaz}}  | 1 | 9 | 13 | 9 | {{discard|23}} | 7 | 16 | 4 | 9 | 22 | 2
+| total = 115
+| netto = 92
+}}
+{{Sailresult games
+| qualified = yes
+| pos= 7
+| games = 2020 Summer | nation = KOR
+| skipper = [[Ha Jee-min]]  | 20 | 8 | {{discard|26}} | 7 | 7 | 10 | 6 | 14 | 10 | 6 | 10
+| total = 124
+| netto = 98
+}}
+{{Sailresult games
+| qualified = yes
+| pos= 8
+| games = 2020 Summer | nation = BRA
+| skipper = {{sortname|Robert|Scheidt}}  | 11 | 10 | 4 | 3 | 17 | 5 | 8 | 12 | {{discard|24}} | 16 | 18 
+| total = 128
+| netto = 104
+}}
+{{Sailresult games
+| qualified = yes
+| pos=9
+| games = 2020 Summer | nation = FIN
+| skipper = {{sortname|Kaarle|Tapper}}  | 2 | 3 | 14 | 11 | 8 | 29 | {{discard|36}}<br>(RET) | 8 | 6 | 12 | 16
+| total = 145
+| netto = 109
+}} 
+{{Sailresult games
+| qualified = yes
+| pos= 10
+| games = 2020 Summer | nation = NZL
+| skipper = {{sortname|Sam|Meech}}  | {{discard|19}} | 19 | 8 | 16 | 14 | 3 | 2 | 13 | 11 | 3 | 20 
+| total = 128
+| netto = 109
+}}
+{{Sailresult games
+| qualified = no
+| pos= 11
+| games = 2020 Summer | nation = ROC
+| skipper = {{sortname|Sergey|Komissarov}}  | 24 | 16 | 7 | 6 | 15 | 6 | 13 | 7 | 4 | {{discard|29}} | &nbsp; 
+| total = 127
+| netto = 98
+}}
+{{Sailresult games
+| qualified = no
+| pos= 12
+| games = 2020 Summer | nation = GBR
+| skipper = {{sortname|Elliot|Hanson}}  | 5 | 12 | 17 | 10 | 3 | 28 | 7 | 20 | 2 | {{discard|36}}<br>(RET) | &nbsp;  
+| total = 140
+| netto = 104
+}}
+{{Sailresult games
+| qualified = no
+| pos= 13
+| games = 2020 Summer | nation = USA
+| skipper = {{sortname|Charlie|Buckingham}}  | 9 | 22 | 18 | 5 | {{discard|26}} | 9 | 3 | 2 | 16 | 23 | &nbsp;  
+| total = 133
+| netto = 107
+}}
+{{Sailresult games
+| qualified = no
+| pos= 14
+| games = 2020 Summer | nation = SWE
+| skipper = {{sortname|Jesper|Stålheim}}  | 22 | 11 | 1 | 20 | 4 | 17 | 11 | 9 | {{discard|29}} | 13 | &nbsp; 
+| total = 137
+| netto = 108
+}}
+{{Sailresult games
+| qualified = no
+| pos= 15
+| games = 2020 Summer | nation = EST
+| skipper = {{sortname|Karl-Martin|Rammo}}  | 16 | 13 | 19 | 8 | 1 | 21 | 12 | 25 | 1 | {{discard|26}} | &nbsp;   
+| total = 142
+| netto = 116
+}}
+{{Sailresult games
+| qualified = no
+| pos= 16
+| games = 2020 Summer | nation = ESP
+| skipper = {{sortname|Joel|Rodríguez|dab=sailor}}  | 21 | 4 | 23 | 13 | 9 | 25 | 9 | 10 | {{discard|27}} | 21 | &nbsp;  
+| total = 162
+| netto = 135
+}}
+{{Sailresult games
+| qualified = no
+| pos= 17
+| games = 2020 Summer | nation = MNE
+| skipper = {{sortname|Milivoj|Dukić}}  | {{discard|29}} | 1 | 12 | 26 | 5 | 11 | 15 | 27 | 26 | 14 | &nbsp; 
+| total = 166
+| netto = 137
+}}
+{{Sailresult games
+| qualified = no
+| pos= 18
+| games = 2020 Summer | nation = HUN
+| skipper = {{sortname|Benjámin|Vadnai}}  | 7 | {{discard|21}} | 9 | 15 | 16 | 18 | 17 | 21 | 21 | 25 | &nbsp; 
+| total = 170
+| netto = 145
+}}
+{{Sailresult games
+| qualified = no
+| pos= 19
+| games = 2020 Summer | nation = GUA
+| skipper = {{sortname|Juan Ignacio|Maegli}}  | 6 | 24 | {{discard|25}} | 24 | 10 | 23 | 18 | 19 | 20 | 5 | &nbsp; 
+| total = 174
+| netto = 149
+}}
+{{Sailresult games
+| qualified = no
+| pos= 20
+| games = 2020 Summer | nation = IND
+| skipper = {{sortname|Vishnu|Saravanan}}  | 14 | 20 | 24 | 23 | 22 | 12 | {{discard|27}} | 23 | 3 | 15 | &nbsp;  
+| total = 183
+| netto = 156
+}}
+{{Sailresult games
+| qualified = no
+| pos=21
+| games = 2020 Summer | nation = SGP
+| skipper = {{sortname|Ryan|Lo}}  | 18 | 15 | 6 | 28 | 21 | 24 | 22 | {{discard|36}}<br>(UFD) | 22 | 2 | &nbsp; 
+| total = 194
+| netto = 158
+}}
+
+{{Sailresult games
+| qualified = no
+| pos= 22
+| games = 2020 Summer | nation = CHI
+| skipper = {{sortname|Clemente|Seguel}}  | 25 | 5 | 16 | 27 | 11 | 20 | 21 | 22 | 18 | {{discard|31}} | &nbsp;  
+| total = 196
+| netto = 165
+}}
+{{Sailresult games
+| qualified = no
+| pos= 23
+| games = 2020 Summer | nation = ESA
+| skipper = {{sortname|Enrique|Arathoon}}  | {{discard|28}} | 17 | 11 | 25 | 27 | 19 | 25 | 17 | 15 | 9 | &nbsp;   
+| total = 193
+| netto = 165
+}}
+{{Sailresult games
+| qualified = no
+| pos= 24
+| games = 2020 Summer | nation = ARG
+| skipper = {{sortname|Francisco|Guaragna}}  | 13 | 32 | 22 | 12 | 24 | 26 | {{discard|36}}<br>(BFD) | 16 | 17 | 11 | &nbsp;  
+| total = 209
+| netto = 173
+}}
+{{Sailresult games
+| qualified = no
+| pos= 25
+| games = 2020 Summer | nation = PER
+| skipper = {{sortname|Stefano|Peschiera}}  | 12 | 26 | 21 | 18 | 19 | 33 | 19 | 15 | 14 | {{discard|36}}<br>(RET) | &nbsp;  
+| total = 213
+| netto = 177
+}}
+{{Sailresult games
+| qualified = no
+| pos= 26
+| games = 2020 Summer | nation = SLO
+| skipper = {{sortname|Žan Luka|Zelko}}  | 8 | 23 | 29 | 17 | 31 | {{discard|36}} | 20 | 26 | 5 | 19 | &nbsp; 
+| total = 214
+| netto = 178
+}}
+{{Sailresult games
+| qualified = no
+| pos= 27
+| games = 2020 Summer | nation = BEL
+| skipper = {{sortname|Wannes|Van Laer}}  | {{discard|33}} | 25 | 20 | 14 | 28 | 31 | 14 | 18 | 13 | 17 | &nbsp;  
+| total = 213
+| netto = 180
+}}
+{{Sailresult games
+| qualified = no
+| pos= 28
+| games = 2020 Summer | nation = MAS
+| skipper = {{sortname|Khairulnizam|Afendy}}  | 26 | 14 | 28 | {{discard|29}} | 18 | 13 | 26 | 28 | 23 | 20 | &nbsp; 
+| total = 225
+| netto = 196
+}}
+{{Sailresult games
+| qualified = no
+| pos= 29
+| games = 2020 Summer | nation = TTO
+| skipper = {{sortname|Andrew|Lewis|dab=sailor}}  | 23 | 29 | 27 | {{discard|31}} | 30 | 15 | 23 | 24 | 25 | 7 | &nbsp;  
+| total = 234
+| netto = 203
+}}
+{{Sailresult games
+| qualified = no
+| pos= 30
+| games = 2020 Summer | nation = JPN
+| skipper = {{sortname|Kenji|Nanri}}  | 27 | 30 | {{discard|34}} | 19 | 25 | 16 | 24 | 29 | 31 | 18 | &nbsp;  
+| total = 252
+| netto = 219
+}}
+{{Sailresult games
+| qualified = no
+| pos= 31
+| games = 2020 Summer | nation = LCA
+| skipper = {{sortname|Luc|Chevrier}}  | 30 | {{discard|34}} | 32 | 33 | 34 | 14 | 28 | 30 | 30 | 30 | &nbsp; 
+| total = 295
+| netto = 261
+}}
+{{Sailresult games
+| qualified = no
+| pos= 32
+| games = 2020 Summer | nation = SAM
+| skipper = {{sortname|Eroni|Leilua}}  | 31 | 27 | 30 | 32 | 32 | 27 | 30 | 31 | {{discard|35}} | 28 | &nbsp;  
+| total = 303
+| netto = 268
+}}
+{{Sailresult games
+| qualified = no
+| pos= 33
+| games = 2020 Summer | nation = SEY
+| skipper = {{sortname|Rodney|Govinden}}  | {{discard|34}} | 31 | 34 | 30 | 29 | 32 | 29 | 32 | 28 | 33 | &nbsp;  
+| total = 312
+| netto = 278
+}}
+{{Sailresult games
+| qualified = no
+| pos=34
+| games = 2020 Summer | nation = EGY
+| skipper = {{sortname|Aly|Badawy}}  | 32 | 33 | 31 | {{discard|34}} | 33 | 30 | 31 | 33 | 33 | 27 | &nbsp;  
+| total = 317
+| netto = 283
+}}
+{{Sailresult games
+| qualified = no
+| pos= 35
+| games = 2020 Summer | nation = PNG
+| skipper = {{sortname|Teariki|Numa}}  | {{discard|35}} | 35 | 35 | 35 | 35 | 34 | 32 | 34 | 34 | 32 | &nbsp; 
+| total = 341
+| netto = 306
+}}
+{{end}}
+{{sailing result legend
+|discard2 = yes
+|BFD = yes
+|DNF = yes
+|RDG = yes
+|UFD = yes
+|DPI = yes
+|MR = yes
+|OCS = yes
+|RET = yes
+|system = [[low-point system]]
+}}
+
+== References ==
+{{reflist}}
+
+{{Footer Olympic Champions Laser}}
+
+{{DEFAULTSORT:Sailing at the 2020 Summer Olympics - Laser}}
+[[Category:Sailing at the 2020 Summer Olympics|Men's Laser]]
+[[Category:Men's events at the 2020 Summer Olympics]]
+[[Category:Laser (dinghy) class sailing competitions]]

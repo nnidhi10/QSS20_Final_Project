@@ -1,0 +1,452 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event = Men's 1500 metres
+|games = 2008 Summer
+| image       = Olympic Athletics.svg
+| image_size  = 200
+| caption     = Olympic Athletics
+|venue = [[Beijing National Stadium]]
+|dates = August 15 (heats)<br/>August 17 (semifinals)<br/>August 19 (final)
+|competitors = 48
+|nations = 30
+|longnames = yes
+|gold = [[Asbel Kiprop]]
+|goldNOC = KEN
+|silver = [[Nicholas Willis]]
+|silverNOC = NZL
+|bronze = [[Mehdi Baala]]
+|bronzeNOC = FRA
+| win_value=3:33.11
+|prev = [[Athletics at the 2004 Summer Olympics – Men's 1500 metres|2004]]
+|next = [[Athletics at the 2012 Summer Olympics – Men's 1500 metres|2012]]
+}}
+{{AthleticsAt2008SummerOlympics}}
+The '''men's [[1500 metres]]''' at the '''[[2008 Summer Olympics]]''' took place on 15–19 August at the [[Beijing National Stadium]].<ref>{{cite web|url=http://www.iaaf.org/OLY08/results/eventCode=3659/bydiscipline/index.html |title=Olympic Athletics Competition Schedule |access-date=2008-08-04 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080913131714/http://www.iaaf.org/OLY08/results/eventCode%3D3659/bydiscipline/index.html |archive-date=13 September 2008 |url-status=dead }}</ref> Forty-eight athletes from 30 nations competed.<ref name=Olympedia/>
+
+The qualifying standards were 3:36.60 (A standard) and 3:39.00 (B standard).<ref>{{cite web|url=http://www.iaaf.org/OLY08/standards/index.html |title=Entry Standards - The XXIX Olympic Games - Beijing, China - 8/24 August 2008 |access-date=2008-08-04|publisher=[[IAAF]]| archive-url= https://web.archive.org/web/20080913131730/http://www.iaaf.org/OLY08/standards/index.html| archive-date= 13 September 2008 | url-status= live}}</ref>
+
+The initial winner, [[Rashid Ramzi]] of Bahrain, tested positive for the blood-booster [[Continuous erythropoietin receptor activator|CERA]] and was disqualified on November 18, 2009.<ref name=IOC18Nov2009>{{cite web|url=https://www.olympic.org/news/ioc-sanctions-five-athletes-who-competed-in-beijing|title= IOC sanctions five athletes who competed in Beijing|access-date=2016-11-11|publisher =IOC}}</ref> After the disqualification, the event was won by [[Asbel Kiprop]] of Kenya, the nation's fourth title in the event. It was the fourth straight Games with a Kenyan on the podium in the event; the United States (six times from 1896 to 1920) and Great Britain (four times from 1908 to 1924) were the only other nations to have accomplished that. [[Nicholas Willis]]'s silver was New Zealand's first medal in the men's 1500 metres since 1976. [[Mehdi Baala]]'s bronze was France's first medal in the event since 1960.
+{{TOC limit|3}}
+
+==Background==
+
+This was the 26th appearance of the event, which is one of 12 athletics events to have been held at every Summer Olympics. Five finalists from 2004 returned: silver medalist [[Bernard Lagat]] (who since immigrated from Kenya to the United States), fifth-place finisher [[Ivan Heshko]] of Ukraine, seventh-place finisher [[Reyes Estévez]] of Spain, tenth-place finisher [[Mulugeta Wendimu]] of Ethiopia, and eleventh-place finisher [[Kamal Boulahfane]] of Algeria. [[Rashid Ramzi]] of Bahrain, a semifinalist in 2004, was now the favorite, with the two men who had medalled in both 2000 and 2004 either retired ([[Hicham El Guerrouj]]) or competing but injured (Lagat).<ref name=Olympedia>{{cite web |url=https://www.olympedia.org/results/257212 |work=Olympedia |title=1500 metres, Men |access-date=17 August 2020}}</ref>
+
+Ecuador, Eritrea, and Serbia each made their first appearance in the event. The United States made its 25th appearance, most of all nations (having missed only the boycotted 1980 Games).
+
+==Qualification==
+
+Each [[National Olympic Committee]] (NOC) was able to enter up to three entrants providing they had met the A [[Athletics at the 2008 Summer Olympics – Qualification|qualifying standard]] (3:36.00) in the qualifying period (1 January 2007 to 23 July 2008). NOCs were also permitted to enter one athlete providing he had met the B standard (3:39.00) in the same qualifying period.<ref>{{cite web|url=http://www.iaaf.org/OLY08/standards/index.html |title=Entry Standards - The XXIX Olympic Games - Beijing, China - 8/24 August 2008 |access-date=2008-08-04|publisher=[[IAAF]]| archive-url= https://web.archive.org/web/20080913131730/http://www.iaaf.org/OLY08/standards/index.html| archive-date= 13 September 2008 | url-status= live}}</ref>
+
+==Competition format==
+
+The competition was again three rounds (used previously in 1952 and since 1964). The "fastest loser" system introduced in 1964 was used for both the first round and semifinals. The 12-man semifinals and finals introduced in 1984 and used since 1992 were retained. The field was slightly larger than in past Games, expanding the number of heats from three to four.
+
+There were four heats in the first round, each with 12 or 13 runners (before withdrawals). The top five runners in each heat, along with the next four fastest overall, advanced to the semifinals. The 24 semifinalists were divided into two semifinals, each with 12 runners. The top five men in each semifinal, plus the next two fastest overall, advanced to the 12-man final.<ref name=Olympedia/>
+
+==Records==
+
+Prior to this competition, the existing world record, Olympic record, and world leading time were as follows:
+
+{{World Olympic Record World Leading
+| world_athlete   = {{flagathlete|[[Hicham El Guerrouj]]|MAR}}
+| world_mark      = 3:26.00
+| world_place     = [[Rome]], [[Italy]]
+| world_date      = 14 July 1998
+| olympic_athlete = {{flagIOCathlete|[[Noah Ngeny]]|KEN|2000 Summer}}
+| olympic_mark    = 3:32.07
+| olympic_place   = [[Sydney]], [[Australia]]
+| olympic_date    = 29 September 2000
+| lead_athlete = {{flagathlete|[[Daniel Komen]]|KEN}}
+| lead_mark = 3:31.49
+| lead_place = [[Fontvieille, Monaco|Fontvieille]], Monaco
+| lead_date = 29 July 2008
+| lead_ref =
+}}
+
+No new world or Olympic records were set for this event. The following national records were established during the competition:
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Nation !! Athlete !! Round !! Time
+|-
+|align=left| {{flagIOC|EST|2008 Summer}} ||align=left | [[Tiidrek Nurme]] || Heat 3 || 3:38.59
+|}
+
+==Schedule==
+
+<small>All times are [[Time in China|China Standard Time]] ([[UTC+8]])</small>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Friday, 15 August 2008 || '''19:10''' || '''Round 1'''
+|-
+| Sunday, 17 August 2008 || '''21:55''' || '''Semifinals'''
+|-style=background:lemonchiffon
+| Tuesday, 19 August 2008 || '''22:50''' || '''Final'''
+|}
+
+==Results==
+
+===Round 1===
+
+====Heat 1====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Lane || Athlete || Nation || Time || Notes
+|-bgcolor=bbf3bb
+| 1 || 7 ||align=left| [[Mehdi Baala]] ||align=left| {{flagIOC|FRA|2008 Summer}} || 3:35.87 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 2 || 2 ||align=left| [[Nicholas Willis]] ||align=left| {{flagIOC|NZL|2008 Summer}} || 3:36.01 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 9 ||align=left| [[Daham Naim Bashir]] ||align=left| {{flagIOC|QAT|2008 Summer}} || 3:36.05 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 1 ||align=left| [[Tarek Boukensa]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:36.11 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 5 || 11 ||align=left| [[Deresse Mekonnen]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:36.22 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=ccf9cc
+| 6 || 4 ||align=left| [[Leonel Manzano]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:36.67 || {{abbr|Q|Qualified for semifinals by time}}
+|-
+| 7 || 3 ||align=left| [[Javier Carriqueo]] ||align=left| {{flagIOC|ARG|2008 Summer}} || 3:39.36 ||
+|-
+| 8 || 12 ||align=left| [[Reyes Estevez]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:39.62 ||
+|-
+| 9 || 5 ||align=left| [[Taylor Milne]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:41.56 ||
+|-
+| 10 || 8 ||align=left| [[Youssef Baba]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:42.13 ||
+|-
+| 11 || 10 ||align=left| [[Vyacheslav Shabunin]] ||align=left| {{flagIOC|RUS|2008 Summer}} || 3:42.53 ||
+|-
+|data-sort-value=12| — || 6 ||align=left| [[Juan Luis Barrios]] ||align=left| {{flagIOC|MEX|2008 Summer}} || {{abbr|DNS|Did not start}} || 
+|}
+
+====Heat 2====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Lane || Athlete || Nation || Time || Notes
+|-bgcolor=bbf3bb
+| 1 || 3 ||align=left| [[Asbel Kiprop]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:41.28 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 2 || 1 ||align=left| [[Nathan Brannen]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:41.45 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 2 ||align=left| [[Juan Carlos Higuero]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:41.70 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 5 ||align=left| [[Bernard Lagat]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:41.98 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 5 || 13 ||align=left| [[Antar Zerguelaine]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:42.30 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 6 || 12 ||align=left| [[Goran Nava]] ||align=left| {{flagIOC|SRB|2008 Summer}} || 3:42.92 ||
+|-
+| 7 || 11 ||align=left| [[Thomas Lancashire]] ||align=left| {{flagIOC|GBR|2008 Summer}} || 3:43.40 ||
+|-
+| 8 || 8 ||align=left| [[Alistair Cragg]] ||align=left| {{flagIOC|IRL|2008 Summer}} || 3:44.90 ||
+|-
+| 9 || 6 ||align=left| [[Hais Welday]] ||align=left| {{flagIOC|ERI|2008 Summer}} || 3:45.06 ||
+|-
+| 10 || 9 ||align=left| [[Mohammed Othman Shaween]] ||align=left| {{flagIOC|KSA|2008 Summer}} || 3:45.82 ||
+|-
+| 11 || 4 ||align=left| [[Mitchell Kealey]] ||align=left| {{flagIOC|AUS|2008 Summer}} || 3:46.31 ||
+|-
+| 12 || 10 ||align=left| [[Isiah Msibi]] ||align=left| {{flagIOC|SWZ|2008 Summer}} || 3:51.35 || {{abbr|PB|Personal best}}
+|-
+|data-sort-value=13| — || 7 ||align=left| [[Ivan Heshko]] ||align=left| {{flagIOC|UKR|2008 Summer}} || {{abbr|DNS|Did not start}} || 
+|}
+
+====Heat 3====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Lane || Athlete || Nation || Time || Notes
+|-bgcolor=bbf3bb
+| 1 || 9 ||align=left| [[Juan van Deventer]] ||align=left| {{flagIOC|RSA|2008 Summer}} || 3:36.32 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 2 || 5 ||align=left| [[Arturo Casado]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:36.42 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 8 ||align=left| [[Andrew Baddeley]] ||align=left| {{flagIOC|GBR|2008 Summer}} || 3:36.47 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 7 ||align=left| [[Abdalaati Iguider]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:36.48 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 5 || 6 ||align=left| [[Lopez Lomong]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:36.70 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=ccf9cc
+| 6 || 12 ||align=left| [[Belal Mansoor Ali]] ||align=left| {{flagIOC|BRN|2008 Summer}} || 3:36.84 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 7 || 2 ||align=left| [[Hudson de Souza]] ||align=left| {{flagIOC|BRA|2008 Summer}} || 3:37.06 ||
+|-
+| 8 || 4 ||align=left| [[Demma Daba]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:37.78 ||
+|-
+| 9 || 11 ||align=left| [[Tiidrek Nurme]] ||align=left| {{flagIOC|EST|2008 Summer}} || 3:38.59 || {{abbr|PB|Personal best}}, {{abbr|NR|National record}}
+|-
+| 10 || 1 ||align=left| [[David Freeman (athlete)|David Freeman]] ||align=left| {{flagIOC|PUR|2008 Summer}} || 3:39.70 || {{abbr|SB|Season best}}
+|-
+| 11 || 10 ||align=left| [[Nicholas Kemboi (1989)|Nicholas Kemboi]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:41.56 ||
+|-
+| 12 || 3 ||align=left| [[Byron Piedra]] ||align=left| {{flagIOC|ECU|2008 Summer}} || 3:45.57 ||
+|-
+| 13 || 13 ||align=left| [[Abdalla Abdelgadir]] ||align=left| {{flagIOC|SUD|2008 Summer}} || 3:47.65 ||
+|}
+
+====Heat 4====
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank || Lane || Athlete || Nation || Time || Notes
+|-bgcolor=bbf3bb
+| <s>1</s> || 3 ||align=left| [[Rashid Ramzi]] ||align=left| {{flagIOC|BRN|2008 Summer}} || <s>3:32.89</s> || {{abbr|Q|Qualified for semifinals by place}}, {{abbr|DPG|Disqualified for doping}}<ref name=IOC18Nov2009/>
+|-bgcolor=bbf3bb
+| 2 || 4 ||align=left| [[Mohamed Moustaoui]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:34.80 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 9 ||align=left| [[Augustine Kiprono Choge]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:35.47 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 6 ||align=left| [[Christian Obrist]] ||align=left| {{flagIOC|ITA|2008 Summer}} || 3:35.91 || {{abbr|Q|Qualified for semifinals by place}}, {{abbr|SB|Season best}}
+|-bgcolor=bbf3bb
+| 5 || 5 ||align=left| [[Kevin Sullivan (runner)|Kevin Sullivan]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:36.05 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=ccf9cc
+| 6 || 7 ||align=left| [[Carsten Schlangen]] ||align=left| {{flagIOC|GER|2008 Summer}} || 3:36.34 || {{abbr|q|Qualified for semifinals by time}}
+|-bgcolor=ccf9cc
+| 7 || 1 ||align=left| [[Mulugeta Wendimu]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:36.67 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 8 || 2 ||align=left| [[Kamal Thamer Ali]] ||align=left| {{flagIOC|QAT|2008 Summer}} || 3:41.08 || 
+|-
+| 9 || 10 ||align=left| [[Mahamoud Farah]] ||align=left| {{flagIOC|DJI|2008 Summer}} || 3:43.62 ||
+|-
+| 10 || 8 ||align=left| [[Chauncy Master]] ||align=left| {{flagIOC|MAW|2008 Summer}} || 3:44.96 ||
+|-
+| 11 || 11 ||align=left| [[Kamel Boulahfane]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:45.59 ||
+|-
+| 12 || 12 ||align=left| [[Jeffrey Riseley]] ||align=left| {{flagIOC|AUS|2008 Summer}} || 3:53.95 ||
+|}
+
+====Overall results for round 1====
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Heat<ref>{{cite web |url=http://www.iaaf.org/oly08/results/eventCode=3659/bydiscipline/disctype=4/sex=M/discCode=1500/combCode=hash/roundCode=h/startlist.html#det |title=1500 Metres - M. Heats |access-date=2008-08-13 |publisher=[[IAAF]] |archive-url=https://web.archive.org/web/20080820225620/http://www.iaaf.org/oly08/results/eventCode%3D3659/bydiscipline/disctype%3D4/sex%3DM/discCode%3D1500/combCode%3Dhash/roundCode%3Dh/startlist.html#det |archive-date=2008-08-20 |url-status=dead }}</ref> !! Lane !! Athlete !! Country !! PB !! SB !! Time !! Notes
+|-bgcolor=bbf3bb
+| 1 || 1 ||align=left| [[Tarek Boukensa]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:30.92 || 3:31.98 || 3:36.11 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 1 || 2 ||align=left| [[Nicholas Willis]] ||align=left| {{flagIOC|NZL|2008 Summer}} || 3:32.17 || 3:33.51 || 3:36.01 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 1 || 3 ||align=left| [[Javier Carriqueo]] ||align=left| {{flagIOC|ARG|2008 Summer}} || 3:38.62 || 3:39.36 || 3:39.36 ||
+|-bgcolor=ccf9cc
+| 1 || 4 ||align=left| [[Leonel Manzano]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:35.29 || 3:36.67 || 3:36.67 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 1 || 5 ||align=left| [[Taylor Milne]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:36.00 || 3:36.00 || 3:41.56 ||
+|-
+| 1 || 6 ||align=left| [[Juan Luis Barrios]] ||align=left| {{flagIOC|MEX|2008 Summer}} || 3:37.71 || 3:37.87 || {{abbr|DNS|Did not start}} || 
+|-bgcolor=bbf3bb
+| 1 || 7 ||align=left| [[Mehdi Baala]] ||align=left| {{flagIOC|FRA|2008 Summer}} || 3:28.98 || 3:32.00 || 3:35.87 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 1 || 8 ||align=left| [[Youssef Baba]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:32.13 || 3:33.85 || 3:42.13 ||
+|-bgcolor=bbf3bb
+| 1 || 9 ||align=left| [[Daham Naim Bashir]] ||align=left| {{flagIOC|QAT|2008 Summer}} || 3:31.04 || 3:34.77 || 3:36.05 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 1 || 10 ||align=left| [[Vyacheslav Shabunin]] ||align=left| {{flagIOC|RUS|2008 Summer}} || 3:32.28 || 3:37.99 || 3:42.53 ||
+|-bgcolor=bbf3bb
+| 1 || 11 ||align=left| [[Deresse Mekonnen]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:33.71 || 3:33.71 || 3:36.22 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 1 || 12 ||align=left| [[Reyes Estevez]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:30.57 || 3:34.98 || 3:39.62 ||
+|-bgcolor=bbf3bb
+| 2 || 1 ||align=left| [[Nathan Brannen]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:34.65 || 3:34.65 || 3:41.45 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 2 || 2 ||align=left| [[Juan Carlos Higuero]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:31.57 || 3:32.57 || 3:41.70 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 2 || 3 ||align=left| [[Asbel Kiprop]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:31.64 || 3:31.64 || 3:41.28 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 2 || 4 ||align=left| [[Mitchell Kealey]] ||align=left| {{flagIOC|AUS|2008 Summer}} || 3:36.21 || 3:36.21 || 3:46.31 ||
+|-bgcolor=bbf3bb
+| 2 || 5 ||align=left| [[Bernard Lagat]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:26.34 || 3:35.14 || 3:41.98 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 2 || 6 ||align=left| [[Hais Welday]] ||align=left| {{flagIOC|ERI|2008 Summer}} || 3:37.25 || 3:37.25 || 3:45.06 ||
+|-
+| 2 || 7 ||align=left| [[Ivan Heshko]] ||align=left| {{flagIOC|UKR|2008 Summer}} || 3:30.33 || 3:43.95 || {{abbr|DNS|Did not start}} || 
+|-
+| 2 || 8 ||align=left| [[Alistair Cragg]] ||align=left| {{flagIOC|IRL|2008 Summer}} || 3:36.18 || 3:39.12 || 3:44.90 ||
+|-
+| 2 || 9 ||align=left| [[Mohammed Othman Shaween]] ||align=left| {{flagIOC|KSA|2008 Summer}} || 3:33.90 || 3:33.90 || 3:45.82 ||
+|-
+| 2 || 10 ||align=left| [[Isiah Msibi]] ||align=left| {{flagIOC|SWZ|2008 Summer}} || 3:51.35 || 3:51.35 || 3:51.35 || {{abbr|PB|Personal best}}
+|-
+| 2 || 11 ||align=left| [[Thomas Lancashire]] ||align=left| {{flagIOC|GBR|2008 Summer}} || 3:35.33 || 3:35.33 || 3:43.40 ||
+|-
+| 2 || 12 ||align=left| [[Goran Nava]] ||align=left| {{flagIOC|SRB|2008 Summer}} || 3:38.35 || 3:38.35 || 3:42.92 ||
+|-bgcolor=bbf3bb
+| 2 || 13 ||align=left| [[Antar Zerguelaine]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:31.95 || 3:33.32 || 3:42.30 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 3 || 1 ||align=left| [[David Freeman (athlete)|David Freeman]] ||align=left| {{flagIOC|PUR|2008 Summer}} || 3:38.90 || 3:39.70 || 3:39.70 || {{abbr|SB|Season best}}
+|-
+| 3 || 2 ||align=left| [[Hudson de Souza]] ||align=left| {{flagIOC|BRA|2008 Summer}} || 3:33.25 || 3:36.89 || 3:37.06 ||
+|-
+| 3 || 3 ||align=left| [[Byron Piedra]] ||align=left| {{flagIOC|ECU|2008 Summer}} || 3:37.88 || 3:45.17 || 3:45.57 ||
+|-
+| 3 || 4 ||align=left| [[Demma Daba]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:35.27 || 3:35.27 || 3:37.78 ||
+|-bgcolor=bbf3bb
+| 3 || 5 ||align=left| [[Arturo Casado]] ||align=left| {{flagIOC|ESP|2008 Summer}} || 3:33.14 || 3:33.14 || 3:36.42 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 6 ||align=left| [[Lopez Lomong]] ||align=left| {{flagIOC|USA|2008 Summer}} || 3:36.36 || 3:36.36 || 3:36.70 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 7 ||align=left| [[Abdalaati Iguider]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:31.88 || 3:31.88 || 3:36.48 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 8 ||align=left| [[Andrew Baddeley]] ||align=left| {{flagIOC|GBR|2008 Summer}} || 3:34.36 || 3:34.36 || 3:36.47 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 3 || 9 ||align=left| [[Juan van Deventer]] ||align=left| {{flagIOC|RSA|2008 Summer}} || 3:34.46 || 3:34.46 || 3:36.32 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 3 || 10 ||align=left| [[Nicholas Kemboi (1989)|Nicholas Kemboi]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:33.72 || 3:35.25 || 3:41.56 ||
+|-
+| 3 || 11 ||align=left| [[Tiidrek Nurme]] ||align=left| {{flagIOC|EST|2008 Summer}} || 3:38.59 || 3:38.59 || 3:38.59 || {{abbr|PB|Personal best}}, {{abbr|NR|National record}}
+|-bgcolor=ccf9cc
+| 3 || 12 ||align=left| [[Belal Mansoor Ali]] ||align=left| {{flagIOC|BRN|2008 Summer}} || 3:31.49 || 3:33.12 || 3:36.84 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 3 || 13 ||align=left| [[Abdalla Abdelgadir]] ||align=left| {{flagIOC|SUD|2008 Summer}} || 3:38.93 || 3:38.93 || 3:47.65 ||
+|-bgcolor=ccf9cc
+| 4 || 1 ||align=left| [[Mulugeta Wendimu]] ||align=left| {{flagIOC|ETH|2008 Summer}} || 3:31.13 || 3:34.67 || 3:36.67 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 4 || 2 ||align=left| [[Kamal Thamer Ali]] ||align=left| {{flagIOC|QAT|2008 Summer}} || 3:35.56 || 3:35.56 || 3:41.08 || 
+|-bgcolor=bbf3bb
+| 4 || 3 ||align=left| [[Rashid Ramzi]] ||align=left| {{flagIOC|BRN|2008 Summer}} || 3:29.14 || 3:32.89 || <s>3:32.89</s> || {{abbr|Q|Qualified for semifinals by place}}, {{abbr|DPG|Disqualified for doping}}<ref name=IOC18Nov2009/>
+|-bgcolor=bbf3bb
+| 4 || 4 ||align=left| [[Mohamed Moustaoui]] ||align=left| {{flagIOC|MAR|2008 Summer}} || 3:32.06 || 3:32.06 || 3:34.80 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 5 ||align=left| [[Kevin Sullivan (athletics)|Kevin Sullivan]] ||align=left| {{flagIOC|CAN|2008 Summer}} || 3:31.71 || 3:35.78 || 3:36.05 || {{abbr|Q|Qualified for semifinals by place}}
+|-bgcolor=bbf3bb
+| 4 || 6 ||align=left| [[Christian Obrist]] ||align=left| {{flagIOC|ITA|2008 Summer}} || 3:35.32 || 3:35.91 || 3:35.91 || {{abbr|Q|Qualified for semifinals by place}}, {{abbr|SB|Season best}}
+|-bgcolor=ccf9cc
+| 4 || 7 ||align=left| [[Carsten Schlangen]] ||align=left| {{flagIOC|GER|2008 Summer}} || 3:34.99 || 3:34.99 || 3:36.34 || {{abbr|q|Qualified for semifinals by time}}
+|-
+| 4 || 8 ||align=left| [[Chauncy Master]] ||align=left| {{flagIOC|MAW|2008 Summer}} || 3:42.73 || 3:42.73 || 3:44.96 ||
+|-bgcolor=bbf3bb
+| 4 || 9 ||align=left| [[Augustine Kiprono Choge]] ||align=left| {{flagIOC|KEN|2008 Summer}} || 3:31.57 || 3:31.57 || 3:35.47 || {{abbr|Q|Qualified for semifinals by place}}
+|-
+| 4 || 10 ||align=left| [[Mahamoud Farah]] ||align=left| {{flagIOC|DJI|2008 Summer}} || 3:39.29 || 3:39.29 || 3:43.62 ||
+|-
+| 4 || 11 ||align=left| [[Kamel Boulahfane]] ||align=left| {{flagIOC|ALG|2008 Summer}} || 3:32.44 || 3:33.33 || 3:45.59 ||
+|-
+| 4 || 12 ||align=left| [[Jeffrey Riseley]] ||align=left| {{flagIOC|AUS|2008 Summer}} || 3:36.03 || 3:36.03 || 3:53.95 ||
+|}
+
+===Semifinals===
+
+Qual. rule: first 5 of each heat (Q) plus the 2 fastest times (q) qualified.<ref>{{cite web|url=http://www.iaaf.org/oly08/results/eventCode=3659/racedate=08-17-2008/sex=M/discCode=1500/combCode=hash/roundCode=sf/results.html#det |title=Iaaf.org - Olympic Games 2008 - Results 08-17-2008 - 1500 Metres M Semi-Final |access-date=2008-08-20 |url-status=dead |archive-url=https://web.archive.org/web/20080819213829/http://www.iaaf.org/oly08/results/eventCode%3D3659/racedate%3D08-17-2008/sex%3DM/discCode%3D1500/combCode%3Dhash/roundCode%3Dsf/results.html |archive-date=2008-08-19 }} Retrieved 2008-08-19.</ref>
+
+====Semifinal 1====
+
+The first semifinal was held on 17 August 2008 at 21:55.
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Athlete !! Nation !! Time !! Notes
+|-bgcolor=bbf3bb
+|1||align="left"| [[Asbel Kiprop]] ||align="left"| {{flagIOC|KEN|2008 Summer}}||3:37.04|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+|2||align="left"| [[Abdalaati Iguider]] ||align="left"| {{flagIOC|MAR|2008 Summer}}||3:37.21|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+|3||align="left"| [[Juan Carlos Higuero]] ||align="left"| {{flagIOC|ESP|2008 Summer}}||3:37.31|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+|4||align="left"| [[Christian Obrist]] ||align="left"| {{flagIOC|ITA|2008 Summer}}||3:37.47|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+|5||align="left"| [[Belal Mansoor Ali]] ||align="left"| {{flagIOC|BRN|2008 Summer}}||3:37.60|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+|6||align="left"| [[Juan van Deventer]] ||align="left"| {{flagIOC|RSA|2008 Summer}}||3:37.75|| {{abbr|q|Qualified for final by time}}
+|-bgcolor=bbf3bb
+|7||align="left"| [[Daham Najim Bashir]] ||align="left"| {{flagIOC|QAT|2008 Summer}}||3:37.77|| {{abbr|q|Qualified for final by time}}
+|-
+|8||align="left"| [[Carsten Schlangen]] ||align="left"| {{flagIOC|GER|2008 Summer}}||3:37.94||
+|-
+|9||align="left"| [[Nathan Brannen]] ||align="left"| {{flagIOC|CAN|2008 Summer}}||3:39.10||
+|-
+|10||align="left"| [[Mulugeta Wendimu]] ||align="left"| {{flagIOC|ETH|2008 Summer}}||3:40.16||
+|-
+|11||align="left"| [[Antar Zerguelaine]] ||align="left"| {{flagIOC|ALG|2008 Summer}}||3:40.64||
+|-
+|12||align="left"| [[Lopez Lomong]] ||align="left"| {{flagIOC|USA|2008 Summer}}||3:41.00||
+|}
+
+====Semifinal 2====
+
+The second semifinal was held on 17 August 2008 at 22:04.
+
+{| class="wikitable sortable" style="text-align:center"
+!Rank!!Athlete!!Nation!!Time!!Notes
+|-bgcolor=bbf3bb
+| <s>1</s> ||align="left"| [[Rashid Ramzi]] ||align="left"| {{flagIOC|BRN|2008 Summer}}|| <s>3:37.11</s> || {{abbr|Q|Qualified for final by place}}, {{abbr|DPG|Disqualified for doping}}<ref name=IOC18Nov2009/>
+|-bgcolor=bbf3bb
+| 2 ||align="left"| [[Mehdi Baala]] ||align="left"| {{flagIOC|FRA|2008 Summer}}||3:37.47|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+| 3 ||align="left"| [[Andrew Baddeley]] ||align="left"| {{flagIOC|GBR|2008 Summer}}||3:37.47|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+| 4 ||align="left"| [[Augustine Kiprono Choge]] ||align="left"| {{flagIOC|KEN|2008 Summer}}||3:37.54|| {{abbr|Q|Qualified for final by place}}
+|-bgcolor=bbf3bb
+| 5 ||align="left"| [[Nicholas Willis]] ||align="left"| {{flagIOC|NZL|2008 Summer}}||3:37.54|| {{abbr|Q|Qualified for final by place}}
+|-
+| 6 ||align="left"| [[Bernard Lagat]] ||align="left"| {{flagIOC|USA|2008 Summer}}||3:37.79||
+|-
+| 7 ||align="left"| [[Deresse Mekonnen]] ||align="left"| {{flagIOC|ETH|2008 Summer}}||3:37.85||
+|-
+| 8 ||align="left"| [[Tarek Boukensa]] ||align="left"| {{flagIOC|ALG|2008 Summer}}||3:39.73||
+|-
+| 9 ||align="left"| [[Kevin Sullivan (athletics)|Kevin Sullivan]] ||align="left"| {{flagIOC|CAN|2008 Summer}}||3:40.30||
+|-
+| 10 ||align="left"| [[Mohamed Moustaoui]] ||align="left"| {{flagIOC|MAR|2008 Summer}}||3:40.90||
+|-
+| 11 ||align="left"| [[Arturo Casado]] ||align="left"| {{flagIOC|ESP|2008 Summer}}||3:41.57||
+|-
+| 12 ||align="left"| [[Leonel Manzano]] ||align="left"| {{flagIOC|USA|2008 Summer}}||3:50.33||
+|}
+
+===Final===
+
+The final was held on 19 August 2008 at 22:50.<ref>{{cite web|url=http://www.iaaf.org/oly08/results/eventCode=3659/racedate=08-19-2008/sex=M/discCode=1500/combCode=hash/roundCode=f/results.html#det |title=Iaaf.org - Olympic Games 2008 - Results 08-19-2008 - 1500 Metres M Final |access-date=2008-08-20 |url-status=dead |archive-url=https://web.archive.org/web/20080820153728/http://www.iaaf.org/oly08/results/eventCode%3D3659/racedate%3D08-19-2008/sex%3DM/discCode%3D1500/combCode%3Dhash/roundCode%3Df/results.html |archive-date=2008-08-20 }} Retrieved 2008-08-19.</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+!Rank!!Athlete!!Nation!!Time!!Notes
+|-
+| {{Gold1}} ||align="left"| [[Asbel Kiprop]] ||align="left"| {{flagIOC|KEN|2008 Summer}}||3:33.11||
+|-
+| {{Silver2}} ||align="left"| [[Nicholas Willis]] ||align="left"| {{flagIOC|NZL|2008 Summer}}||3:34.16||
+|-
+| {{Bronze3}} ||align="left"| [[Mehdi Baala]] ||align="left"| {{flagIOC|FRA|2008 Summer}}||3:34.21||
+|-
+|4||align="left"| [[Juan Carlos Higuero]] ||align="left"| {{flagIOC|ESP|2008 Summer}}||3:34.44||
+|-
+|5||align="left"| [[Abdalaati Iguider]] ||align="left"| {{flagIOC|MAR|2008 Summer}}||3:34.66||
+|-
+|6||align="left"| [[Juan van Deventer]] ||align="left"| {{flagIOC|RSA|2008 Summer}}||3:34.77||
+|-
+|7||align="left"| [[Belal Mansoor Ali]] ||align="left"| {{flagIOC|BRN|2008 Summer}}||3:35.23||
+|-
+|8||align="left"| [[Andrew Baddeley]] ||align="left"| {{flagIOC|GBR|2008 Summer}}||3:35.37||
+|-
+|9||align="left"| [[Augustine Kiprono Choge]] ||align="left"| {{flagIOC|KEN|2008 Summer}}||3:35.50||
+|-
+|10||align="left"| [[Daham Najim Bashir]] ||align="left"| {{flagIOC|QAT|2008 Summer}}||3:37.68||
+|-
+|11||align="left"| [[Christian Obrist]] ||align="left"| {{flagIOC|ITA|2008 Summer}}||3:39.87||
+|-
+|DQ||align="left"| [[Rashid Ramzi]] ||align="left"| {{flagIOC|BRN|2008 Summer}}|| <s>3:32.94</s> || {{abbr|DPG|Disqualified for doping}}<ref name=IOC18Nov2009/>
+|-
+|}
+
+; Splits
+
+{| class="wikitable"
+|-
+! Intermediate !! Athlete !! Nation !! Mark
+|-
+| 400 m || [[Asbel Kiprop]] || {{flagIOC|KEN|2008 Summer}} || 56.48
+|-
+| 800 m || [[Augustine Kiprono Choge]] || {{flagIOC|KEN|2008 Summer}} || 1:56.06
+|-
+| 1200 m || [[Augustine Kiprono Choge]] || {{flagIOC|KEN|2008 Summer}} || 2:53.67
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Olympics1500metres}}
+{{Footer Olympic Champions 1500 m Men}}
+
+{{DEFAULTSORT:Athletics At The 2008 Summer Olympics - Men's 1500 Metres}}
+[[Category:Athletics at the 2008 Summer Olympics]]
+[[Category:2008 in men's sport of athletics]]
+[[Category:1500 metres at the Olympics]]
+[[Category:Men's events at the 2008 Summer Olympics]]

@@ -1,0 +1,224 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event       = Women's sprint
+|games       = 2026 Winter
+|image       = [[File:Biathlon pictogram.svg|100px|class=skin-invert]]
+|caption     = [[Biathlon]]
+|venue       = [[South Tyrol Arena|Anterselva Biathlon Arena]]
+|date        = 14 February 2026
+|competitors = 91
+|nations     = 29
+|win_value   = 20:40.8
+|gold        = [[Maren Kirkeeide]]
+|goldNOC     = NOR
+|silver      = [[Océane Michelon]]
+|silverNOC   = FRA
+|bronze      = [[Lou Jeanmonnot]]
+|bronzeNOC   = FRA
+|prev        = [[Biathlon at the 2022 Winter Olympics – Women's sprint|2022]]
+|next        = [[Biathlon at the 2030 Winter Olympics – Women's sprint|2030]]
+}}
+{{Biathlon at the 2026 Winter Olympics}}
+The '''women's sprint''' competition of the [[Biathlon at the 2026 Winter Olympics|2026 Winter Olympics]] was held on 14 February,<!-- 2026--> at the [[South Tyrol Arena|Anterselva Biathlon Arena]] in [[Rasen-Antholz]].<ref name="schedule">{{cite web|url=https://www.biathlonworld.com/calendar?SeasonId=2526&CupLevel=1&EventId=BT2526SWRLOG__|title=2026 Olympic Games – Antholz-Anterselva|publisher=[[International Biathlon Union|IBU]]|access-date=13 February 2026}}</ref> [[Maren Kirkeeide]] of Norway won the event, [[Océane Michelon]] of France won the silver medal, and her teammate [[Lou Jeanmonnot]] won bronze.<ref>{{cite web|url=https://www.espn.co.uk/olympics/story/_/id/47927924/maren-kirkeeide-takes-biathlon-sprint-gold-olympic-debut|title=Maren Kirkeeide takes biathlon sprint gold in Olympic debut|publisher=ESPN|accessdate=27 February 2026}}</ref><ref>{{cite web|url=https://www.biathlonworld.com/news/maren-kirkeeide-wins-milan-cortina-womens-7-5-km-sprint/3MLXg4tjkeMsKatmiHeeqV|title=Kirkeeide wins Milano Cortina 2026 Sprint Gold with Spectacular Last Loop|publisher=biathlonworld.com|accessdate=27 February 2026}}</ref> For Kirkeide and Michelon these were the first Olympic medals.
+
+==Background==
+The 2022 champion, [[Marte Olsbu Røiseland]], retired from competitions. The silver medalist, [[Elvira Öberg]], and the bronze medalist, [[Dorothea Wierer]], were competing. Prior to the Olympics, [[Lou Jeanmonnot]] was leading the total as well as sprint standings of the [[2025–26 Biathlon World Cup]]. [[Justine Braisaz-Bouchet]] was the [[Biathlon World Championships 2025 – Women's sprint|2025 World champion]]. 
+
+==Qualification==
+{{main| Biathlon at the 2026 Winter Olympics – Qualification}}
+
+==Results==
+The race was started at 14:45.<ref name="schedule"/><ref>{{Cite web|url=https://ibu.blob.core.windows.net/docs/2526/BT/SWRL/OG__/SWSP/C73B_v1.pdf|title=Biathlon – Women's 7.5km Sprint – Results|website=ibu.blob.core.windows.net|date=14 February 2026|access-date=14 February 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! Time !! Penalties (P+S) !! Deficit
+|-
+| {{gold1}} || 64 || align=left|{{sortname|Maren|Kirkeeide}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 20:40.8 || 0 (0+0) ||
+|-
+| {{silver2}} || 56 || align=left|{{sortname|Océane|Michelon}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 20:44.6 || 0 (0+0) || {{sort|+0:03.8|+3.8}}
+|-
+| {{bronze3}} || 42 || align=left|{{sortname|Lou|Jeanmonnot}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 21:04.5 || 1 (0+1) || {{sort|+0:23.7|+23.7}}
+|-
+| 4 || 55 || align=left|{{sortname|Milena|Todorova}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 21:20.8 || 1 (1+0) || {{sort|+0:40.0|+40.0}}
+|-
+| 5 || 54 || align=left|{{sortname|Lisa|Vittozzi}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 21:21.4 || 0 (0+0) || {{sort|+0:40.6|+40.6}}
+|-
+| 6 || 62 || align=left|{{sortname|Suvi|Minkkinen}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 21:30.4 || 0 (0+0) || {{sort|+0:49.6|+49.6}}
+|-
+| 7 || 40 || align=left|{{sortname|Franziska|Preuß}} || align=left|{{FlagIOC|GER|2026 Winter}} || 21:40.9 || 1 (0+1) || +1:00.1
+|-
+| 8 || 19 || align=left|{{sortname|Kamila|Żuk}} || align=left|{{FlagIOC|POL|2026 Winter}} || 21:50.1 || 1 (1+0) || +1:09.3
+|-
+| 9 || 79 || align=left|{{sortname|Anna|Andexer}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 21:50.2 || 0 (0+0) || +1:09.4
+|-
+| 10 || 57 || align=left|{{sortname|Ingrid Landmark|Tandrevold}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 21:52.6 || 2 (0+2) || +1:11.8
+|-
+| 11 || 25 || align=left|{{sortname|Lora|Hristova}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 21:54.1 || 1 (1+0) || +1:13.3
+|-
+| 12 || 32 || align=left|{{sortname|Vanessa|Voigt}} || align=left|{{FlagIOC|GER|2026 Winter}} || 21:54.8 || 0 (0+0) || +1:14.0
+|-
+| 13 || 23 || align=left|{{sortname|Lea|Meier}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 21:57.3 || 0 (0+0) || +1:16.5
+|-
+| 14 || 38 || align=left|{{sortname|Karoline Offigstad|Knotten}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 22:00.0 || 0 (0+0) || +1:19.2
+|-
+| 15 || 33 || align=left|{{sortname|Baiba|Bendika}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 22:03.5 || 2 (0+2) || +1:22.7
+|-
+| 16 || 27 || align=left|{{sortname|Estere|Volfa}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 22:07.6 || 1 (0+1) || +1:26.8
+|-
+| 16 || 71 || align=left|{{sortname|Anne|de Besche}} || align=left|{{FlagIOC|DEN|2026 Winter}} || 22:07.6 || 1 (0+1) || +1:26.8
+|-
+| 18 || 52 || align=left|{{sortname|Hanna|Öberg}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 22:07.8 || 2 (0+2) || +1:27.0
+|-
+| 19 || 20 || align=left|{{sortname|Tereza|Voborníková}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 22:09.8 || 1 (1+0) || +1:29.0
+|-
+| 20 || 34 || align=left|{{sortname|Julia|Tannheimer}} || align=left|{{FlagIOC|GER|2026 Winter}} || 22:13.1 || 2 (2+0) || +1:32.3
+|-
+| 21 || 70 || align=left|{{sortname|Lena|Repinc}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 22:13.6 || 0 (0+0) || +1:32.8
+|-
+| 22 || 53 || align=left|{{sortname|Linn|Gestblom}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 22:13.7 || 2 (0+2) || +1:32.9
+|-
+| 23 || 61 || align=left|{{sortname|Michela|Carrara}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 22:14.3 || 2 (0+2) || +1:33.5
+|-
+| 24 || 72 || align=left|{{sortname|Yuliia|Dzhima}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 22:15.4 || 0 (0+0) || +1:34.6
+|-
+| 25 || 26 || align=left|{{sortname|Polona|Klemenčič}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 22:17.5 || 2 (0+2) || +1:36.7
+|-
+| 26 || 18 || align=left|{{sortname|Maya|Cloetens}} || align=left|{{FlagIOC|BEL|2026 Winter}} || 22:17.8 || 0 (0+0) || +1:37.0
+|-
+| 27 || 58 || align=left|{{sortname|Elvira|Öberg}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 22:18.7 || 2 (0+2) || +1:37.9
+|-
+| 28 || 77 || align=left|{{sortname|Joanna|Jakieła}} || align=left|{{FlagIOC|POL|2026 Winter}} || 22:21.0 || 2 (0+2) || +1:40.2
+|-
+| 29 || 44 || align=left|{{sortname|Amy|Baserga}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 22:27.0 || 1 (0+1) || +1:46.2
+|- 
+| 30 || 66 || align=left|{{sortname|Lisa Theresa|Hauser}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 22:31.2 || 2 (1+1) || +1:50.4
+|-
+| 31 || 35 || align=left|[[Chu Yuanmeng]]<!--NO SORT--> || align=left|{{FlagIOC|CHN|2026 Winter}} || 22:32.7 || 0 (0+0) || +1:51.9
+|-
+| 32 || 43 || align=left|{{sortname|Anna|Gandler}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 22:35.2 || 1 (0+1) || +1:54.4
+|-
+| 33 || 28 || align=left|{{sortname|Marthe Kråkstad|Johansen}} || align=left|{{FlagIOC|NOR|2026 Winter}} || 22:35.3 || 2 (0+2) || +1:54.5
+|-
+| 34 || 48 || align=left|{{sortname|Julia|Simon|dab=biathlete}} || align=left| {{FlagIOC|FRA|2026 Winter}} || 22:36.6 || 2 (0+2) || +1:55.8
+|-
+| 35 || 50 || align=left|{{sortname|Anna|Magnusson}} || align=left|{{FlagIOC|SWE|2026 Winter}} || 22:37.9 || 3 (2+1) || +1:57.1
+|-
+| 36 || 29 || align=left|{{sortname|Anastasiya|Kuzmina}} || align=left|{{FlagIOC|SVK|2026 Winter}} || 22:40.6 || 1 (0+1) || +1:59.8
+|-
+| 37 || 65 || align=left|{{sortname|Susan|Külm}} || align=left|{{FlagIOC|EST|2026 Winter}} || 22:43.9 || 1 (1+0) || +2:03.1
+|-
+| 38 || 68 || align=left|{{sortname|Sanita|Buliņa}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 22:48.2 || 0 (0+0) || +2:07.4
+|-
+| 39 || 37 || align=left|{{sortname|Lotte|Lie}} || align=left|{{FlagIOC|BEL|2026 Winter}} || 22:48.8 || 1 (0+1) || +2:08.0
+|-
+| 40 || 16 || align=left|{{sortname|Paulína|Bátovská Fialková}} || align=left|{{FlagIOC|SVK|2026 Winter}} || 22:50.6 || 3 (1+2) || +2:09.8
+|-
+| 41 || 63 || align=left|{{sortname|Natalia|Sidorowicz}} || align=left|{{FlagIOC|POL|2026 Winter}} || 22:50.8 || 2 (0+2) || +2:10.0
+|-
+| 42 || 1 || align=left|{{sortname|Oleksandra|Merkushyna}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 22:51.8 || 1 (0+1) || +2:11.0
+|-
+| 43 || 76 || align=left|{{sortname|Hannah|Auchentaller}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 22:52.4 || 2 (1+1) || +2:11.6
+|-
+| 44 || 46 || align=left|{{sortname|Dorothea|Wierer}} || align=left|{{FlagIOC|ITA|2026 Winter}} || 22:53.7 || 3 (2+1) || +2:12.9
+|-
+| 45 || 14 || align=left|{{sortname|Anna|Mąka|dab=biathlete}} || align=left|{{FlagIOC|POL|2026 Winter}} || 22:55.2 || 2 (0+2) || +2:14.4
+|-
+| 46 || 21 || align=left|{{sortname|Lucie|Charvátová}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 22:55.5 || 2 (0+2) || +2:14.7
+|-
+| 47 || 30 || align=left|{{sortname|Deedra|Irwin}} || align=left|{{FlagIOC|USA|2026 Winter}} || 22:59.5 || 0 (0+0) || +2:18.7
+|-
+| 48 || 12 || align=left|[[Meng Fanqi]]<!--NO SORT--> || align=left|{{FlagIOC|CHN|2026 Winter}} || 22:59.8 || 1 (1+0) || +2:19.0
+|-
+| 49 || 10 || align=left|{{sortname|Judita|Traubaitė}} || align=left|{{FlagIOC|LTU|2026 Winter}} || 23:00.2 || 1 (1+0) || +2:19.4
+|-
+| 50 || 78 || align=left|{{sortname|Tereza|Vinklárková}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 23:01.2 || 2 (0+2) || +2:20.4
+|-
+| 51 || 7 || align=left|{{sortname|Mária|Remeňová}} || align=left|{{FlagIOC|SVK|2026 Winter}} || 23:01.8 || 1 (1+0) || +2:21.0
+|-
+| 52 || 36 || align=left|{{sortname|Selina|Grotian}} || align=left|{{FlagIOC|GER|2026 Winter}} || 23:03.4 || 3 (2+1) || +2:22.6
+|-
+| 53 || 69 || align=left|{{sortname|Ema|Kapustová}} || align=left|{{FlagIOC|SVK|2026 Winter}} || 23:03.5 || 1 (0+1) || +2:22.7
+|-
+| 54 || 41 || align=left|{{sortname|Khrystyna|Dmytrenko}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 23:04.6 || 1 (1+0) || +2:23.8
+|-
+| 55 || 11 || align=left|{{sortname|Aita|Gasparin}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 23:04.9 || 1 (1+0) || +2:24.1
+|-
+| 56 || 87 || align=left|{{sortname|Benita|Peiffer}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 23:08.5 || 1 (1+0) || +2:27.7
+|-
+| 57 || 8 || align=left|{{sortname|Tuuli|Tomingas}} || align=left|{{FlagIOC|EST|2026 Winter}} || 23:14.0 || 1 (1+0) || +2:33.2
+|-
+| 58 || 49 || align=left|{{sortname|Ekaterina|Avvakumova}} || align=left|{{FlagIOC|KOR|2026 Winter}} || 23:18.3 || 1 (1+0) || +2:37.5
+|-
+| 59 || 15 || align=left|{{sortname|Anastasia|Tolmacheva}} || align=left|{{FlagIOC|ROU|2026 Winter}} || 23:18.9 || 1 (0+1) || +2:38.1
+|-
+| 60 || 80 || align=left|{{sortname|Lena|Häcki-Groß}} || align=left|{{FlagIOC|SUI|2026 Winter}} || 23:20.3 || 4 (3+1) || +2:39.5
+|-
+| 61 || 45 || align=left|{{sortname|Nadia|Moser}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 23:22.6 || 3 (0+3) || +2:41.8
+|-
+| 62 || 60 || align=left|{{sortname|Justine|Braisaz-Bouchet}} || align=left|{{FlagIOC|FRA|2026 Winter}} || 23:24.4 || 4 (2+2) || +2:43.6
+|-
+| 63 || 6 || align=left|{{sortname|Venla|Lehtonen}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 23:36.1 || 2 (1+1) || +2:55.3	
+|-
+| 64 || 82 || align=left|{{sortname|Lidija|Žurauskaitė}} || align=left|{{FlagIOC|LTU|2026 Winter}} || 23:39.9 || 2 (2+0) || +2:59.1
+|-
+| 65 || 89 || align=left|{{sortname|Manca|Caserman}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 23:41.8 || 1 (0+1) || +3:01.0	
+|-
+| 66 || 59 || align=left|{{sortname|Margie|Freed}} || align=left|{{FlagIOC|USA|2026 Winter}} || 23:43.2 || 3 (0+3) || +3:02.4
+|-
+| 67 || 74 || align=left|{{sortname|Pascale|Paradis|dab=biathlete}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 23:46.7 || 3 (3+0) || +3:05.9	
+|-
+| 68 || 4 || align=left|{{sortname|Anika|Kožica}} || align=left|{{FlagIOC|CRO|2026 Winter}} || 23:50.6 || 0 (0+0) || +3:09.8
+|-
+| 69 || 24 || align=left|{{sortname|Regina|Ermits}} || align=left|{{FlagIOC|EST|2026 Winter}} || 23:50.9 || 2 (1+1) || +3:10.1
+|-
+| 70 || 31 || align=left|{{sortname|Sonja|Leinamo}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 23:52.2 || 5 (3+2) || +3:11.4
+|-
+| 71 || 5 || align=left|{{sortname|Annija|Sabule}} || align=left|{{FlagIOC|LAT|2026 Winter}} || 24:00.3 || 2 (1+1) || +3:19.5	
+|-
+| 72 || 9 || align=left|{{sortname|Joanne|Reid}} || align=left|{{FlagIOC|USA|2026 Winter}} || 24:01.9 || 1 (0+1) || +3:21.1
+|-
+| 73 || 17 || align=left|{{sortname|Alina|Stremous}} || align=left|{{FlagIOC|MDA|2026 Winter}} || 24:04.2 || 3 (1+2) || +3:23.4
+|-
+| 74 || 86 || align=left|{{sortname|Eve|Bouvard}} || align=left|{{FlagIOC|BEL|2026 Winter}} || 24:06.3 || 2 (1+1) || +3:25.5
+|-
+| 75 || 13 || align=left|{{sortname|Anna|Juppe}} || align=left|{{FlagIOC|AUT|2026 Winter}} || 24:08.8 || 3 (2+1) || +3:28.0
+|-
+| 76 || 51 || align=left|{{sortname|Olena|Horodna}} || align=left|{{FlagIOC|UKR|2026 Winter}} || 24:11.3 || 2 (0+2) || +3:30.5
+|-
+| 77 || 81 || align=left|{{sortname|Inka|Hämäläinen}} || align=left|{{FlagIOC|FIN|2026 Winter}} || 24:21.4 || 4 (3+1) || +3:40.6
+|-
+| 78 || 39 || align=left|{{sortname|Anamarija|Lampič}} || align=left|{{FlagIOC|SLO|2026 Winter}} || 24:25.7 || 6 (3+3) || +3:44.9
+|-
+| 79 || 67 || align=left|{{sortname|Lucinda|Anderson}} || align=left|{{FlagIOC|USA|2026 Winter}} || 24:28.7 || 3 (0+3) || +3:47.9
+|-
+| 80 || 2 || align=left|{{sortname|Shilo|Rousseau}} || align=left|{{FlagIOC|CAN|2026 Winter}} || 24:32.0 || 3 (2+1) || +3:51.2
+|-
+| 81 || 22 || align=left|{{sortname|Markéta|Davidová}} || align=left|{{FlagIOC|CZE|2026 Winter}} || 24:42.1 || 4 (3+1) || +4:01.3
+|-
+| 82 || 73 || align=left|{{sortname|Johanna|Talihärm}} || align=left|{{FlagIOC|EST|2026 Winter}} || 24:43.2 || 2 (0+2) || +4:02.4
+|-
+| 83 || 3 || align=left|{{sortname|Maria|Zdravkova}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 24:44.2 || 4 (1+3) || +4:03.4
+|-
+| 84 || 85 || align=left|{{sortname|Sara|Urumova}} || align=left|{{FlagIOC|LTU|2026 Winter}} || 24:49.9 || 0 (0+0) || +4:09.1
+|-
+| 85 || 75 || align=left|{{sortname|Valentina|Dimitrova|dab=biathlete}} || align=left|{{FlagIOC|BUL|2026 Winter}} || 24:56.1 || 3 (2+1) || +4:15.3
+|-
+| 86 || 47 || align=left|{{sortname|Ukaleq|Slettemark}} || align=left|{{FlagIOC|DEN|2026 Winter}} || 24:59.0 || 3 (1+2) || +4:18.2
+|-
+| 87 || 91 || align=left|{{sortname|Darcie|Morton}} || align=left|{{FlagIOC|AUS|2026 Winter}} || 25:09.8 || 3 (1+2) || +4:29.0
+|-
+| 88 || 90 || align=left|{{sortname|Milana|Geneva}} || align=left|{{FlagIOC|KAZ|2026 Winter}} || 25:18.5 || 3 (1+2) || +4:37.7
+|-
+| 89 || 88 || align=left|{{sortname|Shawna|Pendry}} || align=left|{{FlagIOC|GBR|2026 Winter}} || 25:27.8 || 2 (1+1) || +4:47.0
+|-
+| 90 || 84 || align=left|{{sortname|Natalija|Kočergina}} || align=left|{{FlagIOC|LTU|2026 Winter}} || 25:35.9 || 5 (3+2) || +4:55.1
+|-
+| 91 || 83 || align=left|{{sortname|Aisha|Rakisheva}} || align=left|{{FlagIOC|KAZ|2026 Winter}} || 25:52.3 || 5 (2+3) || +5:11.5
+|}
+
+==References==
+{{Reflist}}
+{{Footer Olympic Champions Biathlon 7.5km Women}}
+{{DEFAULTSORT:Biathlon at the 2026 Winter Olympics - Women's sprint}}
+[[Category: Biathlon at the 2026 Winter Olympics]]
+[[Category:Women's biathlon at the 2026 Winter Olympics]]

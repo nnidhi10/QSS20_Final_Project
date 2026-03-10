@@ -1,0 +1,187 @@
+{{Short description|none}}
+{{Infobox Olympic event
+|event          = Women's 20 kilometre skiathlon
+|games          = 2026 Winter
+|image          = [[File:Cross country skiing pictogram.svg|100px|class=skin-invert]]
+|caption        = [[Cross-country skiing (sport)|Cross-country skiing]]
+|venue          = [[Cross country and biathlon center Fabio Canal]],<br>[[Tesero]]
+|date           = 7 February 2026
+|competitors    = 70
+|nations        = 26
+|win_value      = 53:45.2
+|gold           = [[Frida Karlsson]] 
+|goldNOC        = SWE
+|silver         = [[Ebba Andersson (cross-country skier)|Ebba Andersson]]
+|silverNOC      = SWE
+|bronze         = [[Heidi Weng]]
+|bronzeNOC      = NOR
+|prev           = [[Cross-country skiing at the 2022 Winter Olympics – Women's 15 kilometre skiathlon|2022]]
+|next           = 2030
+}}
+{{ Cross-country skiing at the 2026 Winter Olympics}}
+
+The '''women's 20 kilometre skiathlon''' competition in [[Cross-country skiing at the 2026 Winter Olympics|cross-country skiing]] at the [[2026 Winter Olympics]] was held on 7 February,<!-- 2026--> at the [[Cross country and biathlon center Fabio Canal]] in [[Tesero]].<ref name=schedule>{{cite web|url=https://www.olympics.com/en/milano-cortina-2026/schedule/ccs|title=2026 Olympic Winter Games Competition Schedule Version - Cross-country skiing|access-date=1 February 2026}}</ref> [[Frida Karlsson]] of Sweden won the race, and her teammate [[Ebba Andersson (cross-country skier)|Ebba Andersson]] finished second. [[Heidi Weng]] of Norway won the bronze medal.<ref>{{cite web|url=https://www.cbc.ca/sports/olympics/winter/cross-country-skiing/sweden-frida-karlsson-wins-gold-in-skiathlon-9.7078962|title=Sweden's Frida Karlsson wins Olympic gold in skiathlon|publisher=CBC|accessdate=28 February 2026}}</ref><ref>{{cite web|url=https://www.nbcolympics.com/news/frida-karlsson-wins-gold-skiathlon-jessie-diggins-caught-lap-mishap|title=Frida Karlsson wins gold in skiathlon, Jessie Diggins caught in lap mishap|publisher=NBC Olympics|accessdate=28 February 2026}}</ref> For Karlsson, it was the first individual Olympic medal and the first gold (after a team bronze in 2022). It was also the first individual Olympic medal for Andersson.
+
+==Background==
+At the previous Olympics, the women's skiathlon was 15 km; it was extended to 20 km for the 2026 Winter Olympics by FIS to match men's and women's event distances. The 2022 champion, [[Therese Johaug]], retired from competitions,<ref>{{cite news |title=Ski great Therese Johaug puts family first and ends career before 2026 Winter Olympics |url=https://apnews.com/article/therese-johaug-retires-2026-olympics-skiing-9c89754f9c9900633d2a34ad0fecc1ba |access-date=26 May 2025 |work=AP News}}</ref> the silver medalist [[Natalya Nepryayeva]] took a maternity leave and effectively stopped competing, while the bronze medalist, [[Teresa Stadlober]], qualified for the event. [[Jessie Diggins]] was leading both overall and distance standings of the [[2025–26 FIS Cross-Country World Cup|FIS Cross-Country World Cup]] before the Olympics. [[Ebba Andersson (cross-country skier)|Ebba Andersson]] was the [[FIS Nordic World Ski Championships 2025 – Women's 20 kilometre skiathlon|2025 world champion]] in the event.
+
+==Qualification==
+{{main| Cross-country skiing at the 2026 Winter Olympics – Qualification}}
+
+==Results==
+The race was started at 13:00.<ref name="schedule"/><ref>{{Cite web|url=https://data.fis-ski.com/pdf/2026/CC/2461/2026CC2461RL.pdf|title=Cross-Country Skiing – Women's 10km + 10km Skiathlon – Results|website=fis-ski.com|date=7 February 2026|access-date=11 February 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center"
+! Rank !! Bib !! Name !! Country !! 10&nbsp;km classic !! Rank !! Pitstop !! 10&nbsp;km free !! Rank !! Finish time !! Deficit
+|-
+| {{gold1}} || 8 || align=left|[[Frida Karlsson]] || align=left|{{FlagIOC|SWE|2026 Winter}} || 27:24.4 || 1 || 31.1 || 25:49.7 || 1 || 53:45.2 ||
+|-
+| {{silver2}} || 4 || align=left|[[Ebba Andersson (cross-country skier)|Ebba Andersson]] || align=left|{{FlagIOC|SWE|2026 Winter}} || 27:25.3 || 3 || 29.8 || 26:41.1 || 4 || 54:36.2 || {{sort|+0:51.0|+51.0}}
+|-
+| {{bronze3}} || 7 || align=left|[[Heidi Weng]] || align=left|{{FlagIOC|NOR|2026 Winter}} || 28:03.6 || 5 || 33.5 || 26:34.8 || 2 || 55:11.9 || +1:26.7
+|-
+| 4 || 16 || align=left|[[Nadja Kälin]] || align=left|{{FlagIOC|SUI|2026 Winter}} || 28:05.4 || 8 || 31.4 || 26:59.9 || 6 || 55:36.7 || +1:51.5
+|-
+| 5 || 11 || align=left|[[Kerttu Niskanen]] || align=left|{{FlagIOC|FIN|2026 Winter}} || 28:04.2 || 6 || 31.0 || 27:04.0 || 7 || 55:39.2 || +1:54.0
+|-
+| 6 || 6 || align=left|[[Astrid Øyre Slind]] || align=left|{{FlagIOC|NOR|2026 Winter}} || 27:25.0 || 2 || 32.1 || 27:44.2 || 13 || 55:41.3 || +1:56.1
+|-
+| 7 || 14 || align=left|[[Kateřina Janatová]] || align=left|{{FlagIOC|CZE|2026 Winter}} || 28:15.4 || 9 || 29.0 || 27:14.6 || 8 || 55:59.0 || +2:13.8
+|-
+| 8 || 1 || align=left|[[Jessie Diggins]] || align=left|{{FlagIOC|USA|2026 Winter}} || 28:52.8 || 15 || 34.4 || 26:39.1 || 3 || 56:06.3 || +2:21.1
+|-
+| 9 || 5 || align=left|[[Teresa Stadlober]] || align=left|{{FlagIOC|AUT|2026 Winter}} || 28:53.9 || 17 || 30.5 || 26:47.2 || 5 || 56:11.6 || +2:26.4
+|-
+| 10 || 12 || align=left|[[Kristin Austgulen Fosnæs]] || align=left|{{FlagIOC|NOR|2026 Winter}} || 28:04.9 || 7 || 31.8 || 27:48.9 || 16 || 56:25.6 || +2:40.4
+|-
+| 11 || 13 || align=left|[[Jonna Sundling]] || align=left|{{FlagIOC|SWE|2026 Winter}} || 27:57.6 || 4 || 34.5 || 28:17.4 || 22 || 56:49.5 || +3:04.3
+|-
+| 12 || 9 || align=left|[[Pia Fink]] || align=left|{{FlagIOC|GER|2026 Winter}} || 28:49.5 || 14 || 30.3 || 27:30.3 || 9 || 56:50.1 || +3:04.9
+|-
+| 13 || 3 || align=left|[[Karoline Simpson-Larsen]] || align=left|{{FlagIOC|NOR|2026 Winter}} || 28:49.0 || 13 || 33.3 || 27:35.5 || 10 || 56:57.8 || +3:12.6
+|-
+| 14 || 2 || align=left|[[Moa Ilar]] || align=left|{{FlagIOC|SWE|2026 Winter}} || 28:18.3 || 10 || 29.9 || 28:38.0 || 29 || 57:26.2 || +3:41.0
+|-
+| 15 || 20 || align=left|[[Vilma Ryytty]] || align=left|{{FlagIOC|FIN|2026 Winter}} || 28:42.8 || 12 || 32.8 || 28:21.7 || 24 || 57:37.3 || +3:52.1
+|-
+| 16 || 23 || align=left|[[Léonie Perry]] || align=left|{{FlagIOC|FRA|2026 Winter}} || 29:20.2 || 25 || 40.6 || 27:39.6 || 11 || 57:40.4 || +3:55.2
+|-
+| 17 || 17 || align=left|[[Dariya Nepryaeva]] || align=left|{{FlagIOC|AIN|2026 Winter}} || 29:01.4 || 20 || 32.2 || 28:07.7 || 19 || 57:41.3 || +3:56.1
+|-
+| 18 || 10 || align=left|[[Helen Hoffmann]] || align=left|{{FlagIOC|GER|2026 Winter}} || 29:05.5 || 23 || 35.3 || 28:03.8 || 18 || 57:44.6 || +3:59.4
+|-
+| 19 || 32 || align=left|[[Marina Kälin]] || align=left|{{FlagIOC|SUI|2026 Winter}} || 28:55.0 || 18 || 30.3 || 28:21.2 || 23 || 57:46.5 || +4:01.3
+|-
+| 20 || 18 || align=left|[[Krista Pärmäkoski]] || align=left|{{FlagIOC|FIN|2026 Winter}} || 29:38.6 || 28 || 27.6 || 27:40.5 || 12 || 57:46.7 || +4:01.5
+|-
+| 21 || 33 || align=left|[[Julie Pierrel]] || align=left|{{FlagIOC|FRA|2026 Winter}} || 29:04.8 || 22 || 30.8 || 28:11.9 || 20 || 57:47.5 || +4:02.3
+|-
+| 22 || 25 || align=left|[[Alison Mackie]] || align=left|{{FlagIOC|CAN|2026 Winter}} || 29:21.2 || 26 || 36.4 || 27:50.7 || 17 || 57:48.3 || +4:03.1
+|-
+| 23 || 28 || align=left|[[Patrīcija Eiduka]] || align=left|{{FlagIOC|LAT|2026 Winter}} || 29:42.1 || 29 || 33.9 || 27:46.4 || 14 || 58:02.4 || +4:17.2
+|-
+| 24 || 19 || align=left|[[Julia Kern]] || align=left|{{FlagIOC|USA|2026 Winter}} || 29:06.2 || 24 || 29.0 || 28:27.2 || 27 || 58:02.4 || +4:17.2
+|-
+| 25 || 21 || align=left|[[Anja Weber]] || align=left|{{FlagIOC|SUI|2026 Winter}} || 29:00.8 || 19 || 31.5 || 28:33.5 || 28 || 58:05.8 || +4:20.6
+|-
+| 26 || 48 || align=left|[[Novie McCabe]] || align=left|{{FlagIOC|USA|2026 Winter}} || 29:43.5 || 31 || 36.1 || 27:46.5 || 15 || 58:06.1 || +4:20.9
+|-
+| 27 || 42 || align=left|[[Cloé Pagnier]] || align=left|{{FlagIOC|FRA|2026 Winter}} || 29:03.1 || 21 || 33.0 || 28:53.3 || 33 || 58:29.4 || +4:44.2
+|-
+| 28 || 37 || align=left|[[Martina Di Centa]] || align=left|{{FlagIOC|ITA|2026 Winter}} || 29:37.9 || 27 || 31.7 || 28:25.6 || 26 || 58:35.2 || +4:50.0
+|-
+| 29 || 31 || align=left|[[Eliza Rucka-Michałek]] || align=left|{{FlagIOC|POL|2026 Winter}} || 29:52.4 || 32 || 30.7 || 28:12.4 || 21 || 58:35.5 || +4:50.3
+|-
+| 30 || 15 || align=left|[[Katharina Hennig Dotzler]] || align=left|{{FlagIOC|GER|2026 Winter}} || 28:37.8 || 11 || 30.7 || 29:37.1 || 39 || 58:45.6 || +5:00.4
+|-
+| 31 || 45 || align=left|[[Delphine Claudel]] || align=left|{{FlagIOC|FRA|2026 Winter}} || 30:04.5 || 38 || 30.4 || 28:25.4 || 25 || 59:00.3 || +5:15.1
+|-
+| 32 || 49 || align=left|[[Sandra Schützová]] || align=left|{{FlagIOC|CZE|2026 Winter}} || 29:53.5 || 33 || 32.2 || 28:52.8 || 32 || 59:18.5 || +5:33.3
+|-
+| 33 || 24 || align=left|[[Katherine Sauerbrey]] || align=left|{{FlagIOC|GER|2026 Winter}} || 30:05.0 || 39 || 34.3 || 28:47.6 || 31 || 59:26.9 || +5:41.7
+|-
+| 34 || 44 || align=left|[[Hanna Karaliova]] || align=left|{{FlagIOC|AIN|2026 Winter}} || 30:00.5 || 35 || 32.2 || 29:12.9 || 34 || 59:45.6 || +6:00.4
+|-
+| 35 || 38 || align=left|[[Masae Tsuchiya]] || align=left|{{FlagIOC|JPN|2026 Winter}} || 30:05.6 || 40 || 31.0 || 29:13.8 || 35 || 59:50.4 || +6:05.2
+|-
+| 36 || 34 || align=left|[[Anna Comarella]] || align=left|{{FlagIOC|ITA|2026 Winter}} || 30:06.1 || 41 || 32.0 || 29:15.6 || 36 || 59:53.7 || +6:08.5
+|-
+| 37 || 29 || align=left|[[Rosie Brennan]] || align=left|{{FlagIOC|USA|2026 Winter}} || 28:53.4 || 16 || 34.2 || 30:38.4 || 49 || {{sort|60:06.0|1:00:06.0}} || +6:20.8
+|-
+| 38 || 47 || align=left|[[Jasmine Drolet]] || align=left|{{FlagIOC|CAN|2026 Winter}} || 29:42.9 || 30 || 36.3 || 29:59.6 || 42 || {{sort|60:18.8|1:00:18.8}} || +6:33.6
+|-
+| 39 || 39 || align=left|[[Barbora Havlíčková]] || align=left|{{FlagIOC|CZE|2026 Winter}} || 30:04.0 || 37 || 32.0 || 29:52.5 || 41 || {{sort|60:28.5|1:00:28.5}} || +6:43.3
+|-
+| 40 || 22 || align=left|[[Vilma Nissinen]] || align=left|{{FlagIOC|FIN|2026 Winter}} || 29:54.8 || 34 || 33.1 || 30:09.8 || 43 || {{sort|60:37.7|1:00:37.7}} || +6:52.5
+|-
+| 41 || 40 || align=left|[[Monika Skinder]] || align=left|{{FlagIOC|POL|2026 Winter}} || 30:46.5 || 44 || 32.9 || 29:46.8 || 40 || {{sort|61:06.2|1:01:06.2}} || +7:21.0
+|-
+| 42 || 51 || align=left|[[Anna Pryce]] || align=left|{{FlagIOC|GBR|2026 Winter}} || 30:03.4 || 36 || 38.8 || 30:27.3 || 47 || {{sort|61:09.5|1:01:09.5}} || +7:24.3
+|-
+| 43 || 36 || align=left|[[Kaidy Kaasiku]] || align=left|{{FlagIOC|EST|2026 Winter}} || 31:25.8 || 48 || 31.9 || 29:20.8 || 37 || {{sort|61:18.5|1:01:18.5}} || +7:33.3
+|-
+| 44 || 27 || align=left|[[Gina del Rio]] || align=left|{{FlagIOC|AND|2026 Winter}} || 30:46.0 || 43 || 30.3 || 30:19.7 || 46 || {{sort|61:36.0|1:01:36.0}} || +7:50.8
+|-
+| 45 || 30 || align=left|[[Katherine Stewart-Jones]] || align=left|{{FlagIOC|CAN|2026 Winter}} || 30:07.6 || 42 || 34.7 || 31:05.1 || 50 || {{sort|61:47.4|1:01:47.4}} || +8:02.2
+|-
+| 46 || 46 || align=left|[[Fabienne Alder]] || align=left|{{FlagIOC|SUI|2026 Winter}} || 30:58.3 || 45 || 36.8 || 30:16.4 || 45 || {{sort|61:51.5|1:01:51.5}} || +8:06.3
+|-
+| 47 || 41 || align=left|[[Keidy Kaasiku]] || align=left|{{FlagIOC|EST|2026 Winter}} || 32:00.3 || 51 || 30.1 || 29:21.3 || 38 || {{sort|61:51.7|1:01:51.7}} || +8:06.5
+|-
+| 48 || 26 || align=left|[[Maria Gismondi]] || align=left|{{FlagIOC|ITA|2026 Winter}} || 31:31.4 || 49 || 29.6 || 30:10.9 || 44 || {{sort|62:11.9|1:02:11.9}} || +8:26.7
+|-
+| 49 || 35 || align=left|[[Rosie Fordham]] || align=left|{{FlagIOC|AUS|2026 Winter}} || 33:00.8 || 56 || 30.8 || 28:46.2 || 30 || {{sort|62:17.8|1:02:17.8}} || +8:32.6
+|-
+| 50 || 53 || align=left|[[Amelia Wells]] || align=left|{{FlagIOC|CAN|2026 Winter}} || 31:22.7 || 47 || 34.5 || 30:32.2 || 48 || {{sort|62:29.4|1:02:29.4}} || +8:44.2
+|-
+| 51 || 50 || align=left|[[Anna Milerská]] || align=left|{{FlagIOC|CZE|2026 Winter}} || 31:21.7 || 46 || 33.5 || 31:09.2 || 51 || {{sort|63:04.4|1:03:04.4}} || +9:19.2
+|-
+| 52 || 52 || align=left|[[Sophia Tsu Velicer]] || align=left|{{FlagIOC|TPE|2026 Winter}} || 31:45.7 || 50 || 33.4 || 31:38.4 || 52 || {{sort|63:57.5|1:03:57.5}} || +10:12.3
+|-
+| 53 || 59 || align=left|[[Xeniya Shalygina]] || align=left|{{FlagIOC|KAZ|2026 Winter}} || 32:18.3 || 52 || 36.2 || colspan=4 rowspan=18|{{sort|99|Lapped}}
+|-
+| 54 || 56 || align=left|[[Lee Eui-jin]] || align=left|{{FlagIOC|KOR|2026 Winter}} || 32:24.9 || 53 || 31.6
+|-
+| 55 || 58 || align=left|[[Chi Chunxue]] || align=left|{{FlagIOC|CHN|2026 Winter}} || 32:27.7 || 54 || 35.7
+|-
+| 56 || 66 || align=left|[[Neža Žerjav]] || align=left|{{FlagIOC|SLO|2026 Winter}} || 32:53.4 || 55 || 37.3
+|-
+| 57 || 55 || align=left|[[Ellen Søhol Lie]] || align=left|{{FlagIOC|AUS|2026 Winter}} || 33:25.7 || 57 || 32.2
+|-
+| 58 || 43 || align=left|[[Phoebe Cridland]] || align=left|{{FlagIOC|AUS|2026 Winter}} || 33:39.0 || 58 || 34.6
+|-
+| 59 || 61 || align=left|[[Maddie Hooker]] || align=left|{{FlagIOC|AUS|2026 Winter}} || 33:58.1 || 60 || 33.6
+|-
+| 60 || 54 || align=left|[[Nadezhda Stepashkina]] || align=left|{{FlagIOC|KAZ|2026 Winter}} || 33:53.1 || 59 || 32.1
+|-
+| 61 || 60 || align=left|[[Anastasiia Nikon]] || align=left|{{FlagIOC|UKR|2026 Winter}} || 34:00.7 || 61 || 35.6
+|-
+| 62 || 63 || align=left|[[Wang Yundi]] || align=left|{{FlagIOC|CHN|2026 Winter}} || 34:14.1 || 63 || 42.6
+|-
+| 63 || 65 || align=left|[[Daryna Myhal]] || align=left|{{FlagIOC|UKR|2026 Winter}} || 34:34.5 || 66 || 33.0
+|-
+| 64 || 67 || align=left|[[He Kaile]] || align=left|{{FlagIOC|CHN|2026 Winter}} || 34:25.7 || 64 || 36.7
+|-
+| 65 || 57 || align=left|[[Han Da-som]] || align=left|{{FlagIOC|KOR|2026 Winter}} || 34:11.2 || 62 || 55.3
+|-
+| 66 || 68 || align=left|[[Teiloora Ojaste]] || align=left|{{FlagIOC|EST|2026 Winter}} || 34:33.2 || 65 || 43.0
+|-
+| 67 || 64 || align=left|[[Sofiia Shkatula]] || align=left|{{FlagIOC|UKR|2026 Winter}} || 35:27.3 || 67 || 33.2
+|-
+| 68 || 62 || align=left|[[Dilnigar Ilhamjan]] || align=left|{{FlagIOC|CHN|2026 Winter}} || 35:41.1 || 68 || 34.0
+|-
+| 69 || 70 || align=left|[[Katya Galstyan]] || align=left|{{FlagIOC|ARM|2026 Winter}} || 35:41.9 || 69 || 38.7
+|-
+| 70 || 69 || align=left|[[Yelizaveta Nopriienko]] || align=left|{{FlagIOC|UKR|2026 Winter}} || 36:04.2 || 70 || {{sort|99|LAP}}
+|}
+
+== References ==
+{{Reflist}}
+
+{{-}}
+{{Footer Olympic Champions Cross Country Combined/Double Pursuit Women}}
+
+{{auth}}
+
+{{DEFAULTSORT:Cross-country skiing at the 2026 Winter Olympics - Women's 20 kilometre skiathlon}}
+[[Category:Women's cross-country skiing at the 2026 Winter Olympics]]
