@@ -42,7 +42,7 @@ We build a clean “medal-day” dataset for the U.S., map medals to calendar da
 
 ---
 
-## Methodology (high level)
+## Methodology
 
 ### 1) Build medal-day dataset (Notebook: `olympics_event_date_scraper.ipynb`)
 
