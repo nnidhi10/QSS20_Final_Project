@@ -1,0 +1,1951 @@
+{{short description|none}}
+{{use dmy dates|date=May 2016}}
+{{infobox country at games
+| NOC               = SUI
+| NOCname           = [[Swiss Olympic Association]]
+| games             = Summer Olympics
+| year              = 2020
+| start_date        = {{start date|2021|7|23|df=y}}
+| end_date          = {{end date|2021|8|8|df=y}}
+| flagcaption       = 
+| oldcode           = 
+| website           = {{URL|www.swissolympic.ch }}&nbsp;{{in lang|de|fr}}
+| location          = [[Tokyo]], Japan
+| competitors       = 107
+| sports            = 19
+| flagbearer_open   = [[Mujinga Kambundji]]<br>[[Max Heinzer]]
+| flagbearer_close  = [[Elena Quirici]]
+| rank              = 24
+| gold              = 3
+| silver            = 4
+| bronze            = 6
+| officials         = 
+| appearances       = auto
+| app_begin_year    = 
+| app_end_year      = 
+| summerappearances = 
+| winterappearances = 
+| seealso           = 
+}}
+[[Switzerland]] competed at the [[2020 Summer Olympics]] in [[Tokyo]]. Originally scheduled to take place from 24 July to 9 August 2020, the Games were postponed to 23 July to 8 August 2021, because of the [[COVID-19 pandemic]].<ref>{{cite news|title=Joint Statement from the International Olympic Committee and the Tokyo 2020 Organising Committee|url=https://www.olympic.org/news/joint-statement-from-the-international-olympic-committee-and-the-tokyo-2020-organising-committee|access-date=28 March 2020|publisher=[[Olympics]]|date=24 March 2020}}</ref> Swiss athletes have appeared in every edition of the [[Summer Olympic Games]] in the modern era, except for a partial boycott of the [[1956 Summer Olympics]] in Melbourne in protest at the Soviet invasion of Hungary.
+
+Switzerland not only repeated its gold medal tally from the [[Switzerland at the 2016 Summer Olympics|previous games]] but also increased its overall medal tally from 7 medals last time to 13 medals. They won medals in double digit for the first time since [[Switzerland at the 1952 Summer Olympics|1952 Helsinki]].
+
+==Competitors==
+The following is the list of number of competitors in the Games.
+{| class="wikitable sortable" style="text-align:center;"
+|-
+! width=180|Sport
+! width=55|Men
+! width=55|Women
+! width=55|Total
+|-
+| align=left|[[Athletics at the 2020 Summer Olympics|Athletics]]
+| 5 || 11 || 16
+|-
+| align=left|[[Badminton at the 2020 Summer Olympics|Badminton]]
+| 0 || 1 || 1
+|-
+| align=left|[[Canoeing at the 2020 Summer Olympics|Canoeing]]
+| 2 || 1 || 3
+|-
+| align=left|[[Cycling at the 2020 Summer Olympics|Cycling]]
+| 16 || 6 || 22
+|-
+| align=left|[[Diving at the 2020 Summer Olympics|Diving]]
+| 0 || 1 || 1
+|-
+| align=left|[[Equestrian at the 2020 Summer Olympics|Equestrian]]
+| 5 || 2 || 7
+|-
+| align=left|[[Fencing at the 2020 Summer Olympics|Fencing]]
+| 3 || 0 || 3
+|-
+| align=left|[[Gymnastics at the 2020 Summer Olympics|Gymnastics]]
+| 4 || 1 || 5
+|-
+| align=left|[[Judo at the 2020 Summer Olympics|Judo]]
+| 1 || 1 || 2
+|-
+| align=left|[[Karate at the 2020 Summer Olympics|Karate]]
+| 0 || 1 || 1
+|-
+| align=left|[[Rowing at the 2020 Summer Olympics|Rowing]]
+| 6 || 3 || 9
+|-
+| align=left|[[Sailing at the 2020 Summer Olympics|Sailing]]
+| 3 || 3 || 6
+|-
+| align=left|[[Shooting at the 2020 Summer Olympics|Shooting]]
+| 0 || 2 || 2
+|-
+| align=left|[[Sport climbing at the 2020 Summer Olympics|Sport climbing]]
+| 0 || 1 || 1
+|-
+| align=left|[[Swimming at the 2020 Summer Olympics|Swimming]]
+| 9 || 4 || 13
+|-
+| align=left|[[Table tennis at the 2020 Summer Olympics|Table tennis]]
+| 0 || 1 || 1
+|-
+| align=left|[[Tennis at the 2020 Summer Olympics|Tennis]]
+| 1 || 2 || 3
+|-
+| align=left|[[Triathlon at the 2020 Summer Olympics|Triathlon]]
+| 2 || 2 || 4
+|-
+| align=left|[[Volleyball at the 2020 Summer Olympics|Volleyball]]
+| 2 || 4 || 6
+|-
+| align=left|[[Wrestling at the 2020 Summer Olympics|Wrestling]]
+| 1 || 0 || 1
+|-
+! Total || 60 || 47 || 107
+|}
+
+==Medalists==
+{{further|2020 Summer Olympics medal table|List of 2020 Summer Olympics medal winners}}
+{{col-begin}}
+| width="78%" align="left" valign="top" |
+
+{| class="wikitable sortable" style="font-size: 95%;"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}} || [[Jolanda Neff]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's cross-country|Women's cross-country]] || {{dts|27 July}}
+|-
+| {{gold medal}} || [[Nina Christen]] || [[Shooting at the 2020 Summer Olympics|Shooting]] ||[[Shooting at the 2020 Summer Olympics – Women's 50 metre rifle three positions|Women's 50 metre rifle 3 positions]] || {{dts|31 July}}
+|-
+| {{gold medal}} || [[Belinda Bencic]] || [[Tennis at the 2020 Summer Olympics|Tennis]] || [[Tennis at the 2020 Summer Olympics – Women's singles|Women's singles]] || {{dts|31 July}}
+|-
+| {{silver medal}} || [[Mathias Flückiger]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Men's cross-country|Men's cross-country]] || {{dts|26 July}}
+|-
+| {{silver medal}} || [[Sina Frei]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's cross-country|Women's cross-country]] || {{dts|27 July}}
+|-
+| {{silver medal}} || [[Marlen Reusser]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's road time trial|Women's road time trial]] || {{dts|28 July}}
+|-
+| {{silver medal}} || [[Belinda Bencic]]<br />[[Viktorija Golubic]] || [[Tennis at the 2020 Summer Olympics|Tennis]] ||[[Tennis at the 2020 Summer Olympics – Women's doubles|Women's doubles]] || {{dts|1 August}}
+|-
+| {{bronze medal}} || [[Nina Christen]] || [[Shooting at the 2020 Summer Olympics|Shooting]] ||[[Shooting at the 2020 Summer Olympics – Women's 10 metre air rifle|Women's 10 metre air rifle]] || {{dts|24 July}}
+|-
+| {{bronze medal}} || [[Linda Indergand]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's cross-country|Women's cross-country]] || {{dts|27 July}}
+|-
+| {{bronze medal}} || [[Jérémy Desplanches]] || [[Swimming at the 2020 Summer Olympics|Swimming]] ||[[Swimming at the 2020 Summer Olympics – Men's 200 metre individual medley|Men's 200 metre individual medley]] || {{dts|30 July}}
+|-
+| {{bronze medal}} || [[Noè Ponti]] || [[Swimming at the 2020 Summer Olympics|Swimming]] ||[[Swimming at the 2020 Summer Olympics – Men's 100 metre butterfly|Men's 100 metre butterfly]] || {{dts|31 July}}
+|-
+| {{bronze medal}} || [[Nikita Ducarroz]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's BMX freestyle|Women's BMX freestyle]] || {{dts|1 August}}
+|-
+| {{bronze medal}} || [[Joana Heidrich]]<br />[[Anouk Vergé-Dépré]] || [[Volleyball at the 2020 Summer Olympics|Volleyball]] ||[[Beach volleyball at the 2020 Summer Olympics – Women's tournament|Women's beach]] || {{dts|6 August}}
+|}
+
+| width="22%" align="left" valign="top" |
+{{Clear}}
+{| class="wikitable" style="font-size:85%"
+|-
+!colspan=7|'''Medals by sport'''
+|-align=center
+|'''Sport'''
+| bgcolor=#f7f6a8 | {{gold01}}
+| bgcolor=#dce5e5 | {{silver02}}
+| bgcolor=#ffdab9 | {{bronze03}}
+|'''Total'''
+|-align=center
+|[[#Cycling|Cycling]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |3
+| style="background:#FFDAB9;" |2
+|'''6'''
+|-align=center
+|[[#Shooting|Shooting]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''2'''
+|-align=center
+|[[#Swimming|Swimming]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |2
+|'''2'''
+|-align=center
+|[[#Tennis|Tennis]]
+| style="background:#F7F6A8;" |1
+| style="background:#DCE5E5;" |1
+| style="background:#FFDAB9;" |0
+|'''2'''
+|-align=center
+|[[#Volleyball|Volleyball]]
+| style="background:#F7F6A8;" |0
+| style="background:#DCE5E5;" |0
+| style="background:#FFDAB9;" |1
+|'''1'''
+|-align=center
+!'''Total'''
+! style="background:gold;" |'''3'''
+! style="background:silver;" |'''4'''
+! style="background:#c96;" |'''6'''
+!'''13'''
+|}
+{{col-end}}
+
+==Athletics==
+{{main|Athletics at the 2020 Summer Olympics|Athletics at the 2020 Summer Olympics – Qualification}}
+Swiss athletes further achieved the entry standards, either by qualifying time or by world ranking, in the following track and field events (up to a maximum of 3 athletes in each event):<ref>{{cite web|title=iaaf.org – Top Lists|url=http://www.iaaf.org/statistics/toplists/index.html|publisher=IAAF|access-date=8 April 2019}}</ref><ref>{{cite web|title=IAAF Games of the XXXII Olympiad – Tokyo 2020 Entry Standards|url=https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/internationale_Qualifikationskriterien/IAAF_-_Athletics_20180806.pdf|publisher=[[IAAF]]|access-date=8 April 2019|archive-date=8 April 2019|archive-url=https://web.archive.org/web/20190408160334/https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/internationale_Qualifikationskriterien/IAAF_-_Athletics_20180806.pdf|url-status=dead}}</ref>
+
+{{smalldiv|1=<nowiki/>
+
+;Key
+*'''Note'''–Ranks given for track events are within the athlete's heat only
+*'''Q''' = Qualified for the next round
+*'''q''' = Qualified for the next round as a fastest loser ''or'', in field events, by position without achieving the qualifying target
+*'''NR''' = National record
+*N/A = Round not applicable for the event
+*Bye = Athlete not required to compete in round}}
+
+;Track & road events
+;Men
+{| class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+|-
+|align=left|[[Julien Wanders]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Men's 10,000 metres|10000 m]]
+|28:55.29 '''SB'''
+|21
+|-
+|align=left|[[Tadesse Abraham]]
+|align=left |[[Athletics at the 2020 Summer Olympics – Men's marathon|Marathon]]
+|{{abbr|DNF|Did not finish}}
+| –
+|}
+
+;Women
+{| class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heat 
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|-style=font-size:95%
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Ajla Del Ponte]]
+|align=left rowspan=3|[[Athletics at the 2020 Summer Olympics – Women's 100 metres|100 m]]
+|colspan=2 {{bye}}
+|10.91
+|2 '''Q'''
+|11.01
+|2 '''Q'''
+|10.97
+|5
+|-
+|align=left|[[Mujinga Kambundji]]
+|colspan=2 {{bye}}
+|10.95
+|2 '''Q'''
+|10.96
+|2 '''Q'''
+|10.99
+|6
+|-
+|align=left|[[Salomé Kora]]
+|colspan=2 {{bye}}
+|11.25
+|5
+|colspan=4|Did not advance
+|-
+|align=left|[[Mujinga Kambundji]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 200 metres|200 m]]
+|22.26 '''[[Swiss records in athletics|=NR]]'''
+|1 '''Q'''
+|colspan=2 {{n/a}}
+|22.26 '''[[Swiss records in athletics|=NR]]'''
+|3 '''Q'''
+|22.30
+|7
+|-
+|align=left|[[Léa Sprunger]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 400 metres hurdles|400 m hurdles]]
+|57.03
+|6
+|colspan=2 {{n/a}}
+|colspan=4|Did not advance
+|-
+|align=left|[[Ajla del Ponte]]<br />[[Riccarda Dietsche]]<br />[[Mujinga Kambundji]]<br />[[Salome Kora]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 4 × 100 metres relay|4 × 100 m relay]]
+|42.05 '''[[Swiss records in athletics|NR]]'''
+|2 '''Q'''
+|colspan=4 {{n/a}}
+|42.08
+|4
+|-
+|align=left|[[Yasmin Giger]]<br />[[Silke Lemmens]]<br />[[Rachel Pellaud]]<br />[[Léa Sprunger]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's 4 × 400 metres relay|4 × 400 m relay]]
+|3:25.90 '''[[Swiss records in athletics|NR]]'''
+|6
+|colspan=4 {{n/a}}
+|colspan=2|Did not advance
+|-
+|align=left|[[Fabienne Schlumpf]]
+|align=left rowspan=2|[[Athletics at the 2020 Summer Olympics – Women's marathon|Marathon]]
+|colspan=6 rowspan=2 {{n/a}}
+|2:31:36
+|12
+|-
+|align=left|[[Martina Strähl]]
+|2:39:25 '''SB'''
+|51
+|}
+
+;Field events
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style=font-size:95%
+!Distance
+!Position
+!Distance
+!Position
+|-
+|align=left|[[Loïc Gasch]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Men's high jump|Men's high jump]]
+|2.21
+| =23
+|colspan=2|Did not advance
+|-
+|align=left|[[Salome Lang]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's high jump|Women's high jump]]
+|1.86
+| =22
+|colspan=2|Did not advance
+|-
+|align=left|[[Angelica Moser]]
+|align=left|[[Athletics at the 2020 Summer Olympics – Women's pole vault|Women's pole vault]]
+|4.40
+|20
+|colspan=2|Did not advance
+|}
+
+==Badminton==
+{{main|Badminton at the 2020 Summer Olympics|Badminton at the 2020 Summer Olympics – Qualification}}
+Switzerland entered one badminton player into the Olympic tournament based on the [[Badminton World Federation|BWF]] Race to Tokyo Rankings. [[Sabrina Jaquet]] will be competing in her third straight Olympics.<ref>{{cite web |title=Tokyo 2020: Possible participant lists published |url=https://badminton.ch/en/tokyo-2020-moegliche-teilnehmerlisten-veroeffentlicht/ |website=Swiss Badminton |date=18 June 2021 |access-date=14 July 2021 |url-status=live |archive-url=https://web.archive.org/web/20210714092916/https://badminton.ch/en/tokyo-2020-moegliche-teilnehmerlisten-veroeffentlicht/ |archive-date=14 July 2021}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Group stage
+!Elimination
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|[[Sabrina Jaquet]]
+|align="left" |[[Badminton at the 2020 Summer Olympics – Women's singles|Women's singles]]
+|{{flagIOCathlete|[[Tai Tzu-ying|Tai T-y]]|TPE|2020 Summer}}<br />'''L''' (7–21, 13–21)
+|{{flagIOCathlete|[[Qi Xuefei|Qi Xf]]|FRA|2020 Summer}}<br />'''L''' (10–21, 14–21)
+|{{flagIOCathlete|[[Nguyễn Thùy Linh|Nguyễn]]|VIE|2020 Summer}}<br />'''L''' (8–21, 17–21)
+|4
+|colspan=5|Did not advance
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2020 Summer Olympics|Canoeing at the 2020 Summer Olympics – Qualification}}
+
+===Slalom===
+Swiss canoeists qualified one boat for each of the following classes through the [[2019 ICF Canoe Slalom World Championships]] in [[La Seu d'Urgell]], [[Spain]] and the [[2021 European Canoe Slalom Championships]] in [[Ivrea]], [[Italy]].<ref>{{cite news|title=Olympic quota places take shape after first day of slalom heats|url=https://www.canoeicf.com/news/olympic-quota-places-take-shape-after-first-day-slalom-heats|publisher=[[International Canoe Federation]]|date=27 September 2019|access-date=27 September 2019}}</ref><ref>{{cite news|title=Kunhnle and Prindis land second European titles|url=https://www.canoeicf.com/news/kunhnle-and-prindis-land-second-european-titles|publisher=[[International Canoe Federation]]|date=9 May 2021|access-date=14 May 2021}}</ref> The slalom canoeists were named to the Swiss team on November 11, 2019.<ref>{{cite news|title=Zwei Schweizer Kanuten in Tokio|trans-title=Two Swiss canoeists in Tokyo|language=de|url=https://www.swissolympicteam.ch/de/news/details.html?pageId=074d6510-17c8-49fe-b27c-54c9ed3bf9fb&entryId=S42208|publisher=[[Swiss Olympic Association]]|date=11 November 2019|access-date=23 February 2020}}</ref> The Africa quota was initially reallocated to Hungary, but was further reallocated to Switzerland following the [[Hungarian Olympic Committee]]'s decision to only send athletes vaccinated against [[COVID-19]] to the Games.<ref name="knee">{{Cite news |author=MTI |date=July 19, 2021 |title=Lemondott az olimpiai szereplésről Schmid Julia, miután előírták a Covid-védettséget [Julia Schmid resigned from the Olympic show after being granted Covid protection] |language=hu |work=hvg.hu |url=https://hvg.hu/sport/20210717_Lemondott_az_olimpiai_szereplesrol_Schmid_Julia_miutan_eloirtak_a_Covidvedettseget |access-date=20 July 2021}}</ref><ref>{{Cite news |date=July 19, 2021 |title=Kanutin Marx für Olympia nachselektioniert [Canoeist Marx selected for the Olympics] |language=de |work=srf.ch |url=https://www.srf.ch/sport/tokyo-2020/nachtraeglicher-startplatz-kanutin-marx-fuer-olympia-nachselektioniert |access-date=20 July 2021}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=6|Preliminary
+!colspan=2|Semifinal
+!colspan=2|Final
+|- style="font-size:95%"
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Best
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left|[[Thomas Koechlin]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Men's slalom C-1|Men's C-1]]
+|105.66
+|10
+|104.57
+|10
+|104.57
+|12 '''Q'''
+|111.20
+|13
+| colspan="2" |Did not advance
+|- align=center
+|align=left|[[Martin Dougoud]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Men's slalom K-1|Men's K-1]]
+|93.70
+|6
+|100.58
+|18
+|93.70
+|14 '''Q'''
+|99.28
+|13
+| colspan="2" |Did not advance
+|- align=center
+|align=left|[[Alena Marx]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's slalom C-1|Women's C-1]]
+|120.12
+|10
+|150.84
+|18
+|120.12
+|16 '''Q'''
+|163.09
+|16
+| colspan="2" |Did not advance
+|- align=center
+|align=left|[[Naemi Brändle]]
+|align=left|[[Canoeing at the 2020 Summer Olympics – Women's slalom K-1|Women's K-1]]
+|230.37
+|27
+|135.00
+|22
+|135.00
+|24 '''Q'''
+|121.91
+|18
+| colspan="2" |Did not advance
+|}
+
+==Cycling==
+{{main|Cycling at the 2020 Summer Olympics|Cycling at the 2020 Summer Olympics – Qualification}}
+
+===Road===
+Switzerland entered a squad of five riders (four men and one woman) to compete in their respective Olympic road races, by virtue of their top 50 national finish (for men) and top 22 (for women) in the [[UCI World Ranking]].<ref>{{cite news|title=Athletes' quotas for Road Cycling events at the Tokyo 2020 Olympic Games|url=https://www.uci.org/inside-uci/press-releases/athletes--quotas-for-road-cycling-events-at-the-tokyo-2020-olympic-games|publisher=[[International Cycling Union|UCI]]|date=18 November 2019|access-date=23 November 2019}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-align=center
+|align=left|[[Marc Hirschi]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's individual road race|Men's road race]]
+|6:11.46
+|25
+|-align=center
+|align=left rowspan=2|[[Stefan Küng]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's individual road race|Men's road race]]
+|6:15.38
+|40
+|-align=center
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's road time trial|Men's time trial]]
+|56:08:49
+|4
+|-align=center
+|align=left|[[Gino Mäder]]
+|align=left rowspan=2|[[Cycling at the 2020 Summer Olympics – Men's individual road race|Men's road race]]
+|6:21.46
+|74
+|-align=center
+|align=left|[[Michael Schär]]
+|6:13.17
+|31
+|-align=center
+|align=left rowspan=2|'''[[Marlen Reusser]]'''
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's individual road race|Women's road race]]
+|4:02:16
+|46
+|-align=center
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's road time trial|Women's time trial]]
+|31:09:96
+|{{silver2}}
+|}
+
+===Track===
+Following the completion of the [[2020 UCI Track Cycling World Championships]], Swiss riders accumulated spots in the men's team pursuit, omnium, and madison based on their country's results in the final UCI Olympic rankings. The [[Swiss Olympic Association]] announced the track cycling squad for the Games on May 12, 2021.<ref name=swiss-cyc-sai>{{cite news|title=Schweizer Bahnrad-Team und Seglerin Maud Jayet für Tokio 2020 selektioniert|trans-title=Swiss track cycling team and sailor Maud Jayet selected for Tokyo 2020|language=de|url=https://www.swissolympicteam.ch/de/news/details?pageId=72ebf13b-6073-41e9-9a35-a313fa38f1d5&entryId=S90941|publisher=[[Swiss Olympic Association]]|date=12 May 2021|access-date=14 May 2021}}</ref>
+
+;Pursuit
+{|class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Qualification
+!colspan=2|Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Opponent<br />Results
+!Rank
+!Opponent<br />Results
+!Rank
+|-align=center
+|align=left|[[Stefan Bissegger]]<br>[[Robin Froidevaux]]<br>[[Mauro Schmid]]<br>[[Valère Thiébaud]]<br />[[Théry Schir]]<br>[[Cyrille Thièry]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|3:51.514
+|8
+|{{flagIOC|AUS|2020 Summer}}<br>3:49.111
+|7 
+|{{flagIOC|GBR|2020 Summer}}<br>3:50.041
+|8
+|}
+
+;Omnium
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Scratch race
+!colspan=2|Tempo race
+!colspan=2|Elimination race
+!colspan=2|Points race
+!rowspan=2|Total points
+!rowspan=2|Rank
+|-style="font-size:95%"
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+!Points
+|- align=center
+|align=left|[[Théry Schir]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's omnium|Men's omnium]]
+|24
+|9
+|4
+|34
+|3
+|36
+|1
+|15
+|109
+|7
+|}
+
+;Madison
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Points
+!Laps
+!Rank
+|-
+|align=left|[[Robin Froidevaux]]<br />[[Théry Schir]]
+|align=left|[[Cycling at the 2020 Summer Olympics – Men's Madison|Men's madison]]
+|8
+|0
+|7
+|}
+
+===Mountain biking===
+Switzerland qualified six mountain bikers, three man and three women, based on the UCI Olympic Mountain Biking rankings.
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|align=left|[[Filippo Colombo]]
+|align=left rowspan=3|[[Cycling at the 2020 Summer Olympics – Men's cross-country|Men's cross-country]]
+|1:28:04
+|12
+|-
+|align=left|'''[[Mathias Flückiger]]'''
+|1:25:34
+|{{silver2}}
+|-
+|align=left|[[Nino Schurter]]
+|1:25:56
+|4
+|-
+|align=left|'''[[Sina Frei]]'''
+|align=left rowspan=3|[[Cycling at the 2020 Summer Olympics – Women's cross-country|Women's cross-country]]
+|1:16:57
+|{{silver2}}
+|-
+|align=left|'''[[Linda Indergand]]'''
+|1:17:05
+|{{bronze3}}
+|-
+|align=left|'''[[Jolanda Neff]]'''
+|1:15:46
+|{{gold1}}
+|}
+
+===BMX===
+Swiss riders qualified for three quota place (two men and one women) for BMX at the Olympics, as a result in the UCI BMX Olympic Qualification Ranking List of 1 June 2021.<ref>{{cite news|title=Tokyo 2020 Olympic Games – BMX Racing – Olympic Qualification Men Ranking – Final – As of 01.06.2021|url=https://www.uci.org/docs/default-source/official-documents/tokyo-2020---olympic-games/bmx-nationalranking-men---final.pdf|publisher=[[Union Cycliste Internationale|UCI]]|date=1 June 2021|access-date=2 June 2021}}</ref><ref>{{cite news|title=Tokyo 2020 Olympic Games – BMX Racing – Olympic Qualification Women Ranking – Final – As of 01.06.2021|url=https://www.uci.org/docs/default-source/official-documents/tokyo-2020---olympic-games/bmx-nationalranking-women---final.pdf|publisher=[[Union Cycliste Internationale|UCI]]|date=1 June 2021|access-date=2 June 2021}}</ref>
+
+;Race
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Quarterfinal
+!colspan=2|Semifinal
+!colspan=2|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Result
+!Rank
+|-align=center
+|align=left|[[Simon Marquart]]
+| rowspan="2" align="left" |[[Cycling at the 2020 Summer Olympics – Men's BMX racing|Men's race]]
+|14
+|5
+|colspan="4"|Did not advance
+|-align=center
+|align=left|[[David Graf (BMX rider)|David Graf]]
+|6
+|2 '''Q'''
+|18
+|5
+|colspan="2"|Did not advance
+|}
+
+;Freestyle
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Seeding
+!colspan=2|Final
+|-style=font-size:95%
+!Score
+!Rank
+!Score
+!Rank
+|-
+|align=left|'''[[Nikita Ducarroz]]'''
+|align=left|[[Cycling at the 2020 Summer Olympics – Women's BMX freestyle|Women's freestyle]]
+|83.55
+|3
+|89.20
+|{{Bronze3}}
+|}
+
+==Diving==
+{{main article|Diving at the 2020 Summer Olympics|Diving at the 2020 Summer Olympics – Qualification}}
+Switzerland sent one diver into the Olympic competition, after finishing the top 18 in the women's springboard at the [[2021 FINA Diving World Cup]] in [[Tokyo]], Japan.
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminary
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left|[[Michelle Heimberg]]
+|align=left|[[Diving at the 2020 Summer Olympics – Women's 3 metre springboard|Women's 3 m springboard]]
+|289.95
+|11 '''Q'''
+|289.80
+|12 '''Q'''
+|283.35
+|11
+|}
+
+==Equestrian==
+{{main|Equestrian at the 2020 Summer Olympics|Equestrian at the 2020 Summer Olympics – Qualification}}
+Swiss equestrians qualified a full squad in the jumping competition by virtue of a top-six finish at the [[2018 FEI World Equestrian Games]] in [[Tryon, North Carolina]], [[United States]].<ref>{{cite news|first=Steve|last=Keating|title=Equestrian-Ward rides to rescue as U.S. win team jumping gold|url=https://www.reuters.com/article/us-equestrian-world-jumping-team/equestrian-ward-rides-to-rescue-as-u-s-win-team-jumping-gold-idUSKCN1M12TZ|publisher=[[Reuters]]|date=21 September 2018|access-date=22 September 2018}}</ref> A team of eventing riders was added to the Swiss equestrian roster by securing an outright berth, as the highest-ranked eligible nation, not yet qualified, in the 2019 Eventing Nations Cup overall rankings.<ref>{{cite news|title=Germany wins, Sweden takes series title and Swiss book ticket to Tokyo|url=https://inside.fei.org/content/germany-wins-sweden-takes-series-title-and-swiss-book-ticket-tokyo|publisher=[[International Federation for Equestrian Sports|FEI]]|date=13 October 2019|access-date=13 October 2019}}</ref> MeanwhIle, one dressage rider was added to the Swiss roster by finishing in the top two, outside the group selection, of the individual FEI Olympic Rankings for Group B (South Western Europe).<ref>{{cite news|title=Tokyo 2020 team and individual quota places confirmed by FEI|url=https://inside.fei.org/content/tokyo-2020-team-and-individual-quota-places-confirmed-fei|publisher=[[International Federation for Equestrian Sports|FEI]]|date=17 February 2020|access-date=1 March 2020}}</ref>
+
+===Dressage===
+{|class=wikitable style=font-size:90%;
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Grand Prix 
+!colspan="2"|Grand Prix Freestyle
+!colspan="2"|Overall
+|-style="font-size:95%"
+!Score
+!Rank
+!Technical
+!Artistic
+!Score
+!Rank
+|-align=center
+|align=left|[[Estelle Wettstein]]
+|align=left|West Side Story
+|align=left|[[Equestrian at the 2020 Summer Olympics – Individual dressage|Individual]]
+|67.748
+|41
+|colspan=4|Did not advance
+|}
+<small>Qualification Legend: '''Q''' = Qualified for the final; '''q''' = Qualified for the final as a lucky loser</small>
+
+===Eventing===
+The Swiss eventing team was named on July 1, 2021. [[Eveline Bodenmüller]] and Violine de la Brasserie have been named the travelling alternates.<ref>{{cite web|title=Selektionen für die Teilnahme an den Olympischen Spielen von Tokio (JPN) in der Pferdesportdisziplin Concours Complet (Eventing) |language=de|url=https://www.fnch.ch/de/Disziplinen/Concours-Complet/News-aus-der-Disziplin-2/Selektionen-fuer-die-Teilnahme-an-den-Olympischen-Spielen-von-Tokio-JPN-in-der-Pferdesportdisziplin-Concours-Complet-Eventing.html|publisher=Swiss Equestrian Federation |date=1 July 2021 |access-date=1 July 2021}}</ref>
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="3"|Athlete
+!rowspan="3"|Horse
+!rowspan="3"|Event
+!colspan="2" rowspan="2"|Dressage
+!colspan="3" rowspan="2"|Cross-country
+!colspan="6"|Jumping
+!colspan="2" rowspan="2"|Total
+|-style="font-size:95%"
+!colspan="3"|Qualifier
+!colspan="3"|Final
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+|-align=center
+|align=left|[[Robin Godel]]
+|align=left|Jet Set
+|rowspan=3 align=left|[[Equestrian at the 2020 Summer Olympics – Individual eventing|Individual]]
+|37.10
+|47
+| colspan="3" |Eliminated
+| colspan="8" |Did not advance
+|-align=center
+|align=left|[[Mélody Johner]]
+|align=left|Toubleu de Rueire
+|36.10
+|44
+|0.40
+|36.50
+|19
+|0.00
+|36.50
+|14
+|13.20
+|49.70
+|17
+|49.70
+|17
+|-align=center
+|align=left|[[Felix Vogg]]
+|align=left|Colero
+|26.70
+|8
+|11.80
+|38.50
+|21
+|8.00
+|46.50
+|24
+|5.20
+|51.70
+|19
+|51.70
+|19
+|- align="center"
+| align="left" |[[Robin Godel]]<br />[[Mélody Johner]]<br />[[Felix Vogg]]<br>[[Eveline Bodenmüller]] (s)
+| align="left" |Jet Set<br>Toubleu de Rueire<br>Colero<br>Violine de la Brasserie
+| align="left" |[[Equestrian at the 2020 Summer Olympics – Team eventing|Team]]
+|99.20
+|10
+|212.20
+|311.40
+|11
+|8.00+20.00
+|339.40
+|10
+|colspan=3 {{n/a}}
+|339.40
+|10
+|}
+<small>(s) – substituted before jumping – 20 replacement penalties</small>
+
+===Jumping===
+[[Bryan Balsiger]] and Twentytwo des Biches have been named the travelling alternates.
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="3"|Final
+|-style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Time
+!Rank
+|-align=center
+|align=left|[[Martin Fuchs]]
+|align=left|Clooney
+|align=left rowspan=3|[[Equestrian at the 2020 Summer Olympics – Individual jumping|Individual]]
+|0
+|=1 '''Q'''
+|8
+|84.99
+|16
+|-align=center
+|align=left|[[Steve Guerdat]]
+|align=left|Venard de Cerisy
+|4
+|=31
+|colspan="3" |Did not advance
+|-align=center
+|align=left|[[Beat Mändli]]
+|align=left|Dsarie
+|1
+|=26 '''Q'''
+|colspan=3|Retired
+|-align=center
+|align=left|[[Bryan Balsiger]]<br />[[Martin Fuchs]]<br />[[Steve Guerdat]]
+|align=left|Twentytwo des Biches<br />Clooney<br />Venard de Cerisy
+|align=left|[[Equestrian at the 2020 Summer Olympics – Team jumping|Team]]
+|10
+|4 '''Q'''
+|28
+|238.18
+|5
+|}
+
+==Fencing==
+{{main|Fencing at the 2020 Summer Olympics|Fencing at the 2020 Summer Olympics – Qualification}}
+Swiss fencers qualified a full squad each in the men's team épée for the Games by finishing among the top four nations in the FIE Olympic Team Rankings.
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|-align=center
+|align=left|[[Benjamin Steffen]]
+|align=left rowspan=3|[[Fencing at the 2020 Summer Olympics – Men's épée|Men's épée]]
+|{{flagIOCathlete|[[Pavel Sukhov|Sukhov]]|ROC|2020 Summer}}<br>'''W''' 15–12
+|{{flagIOCathlete|[[Ihor Reizlin|Reizlin]]|UKR|2020 Summer}}<br>'''L''' 11–15
+|colspan=5|Did not advance
+|-align=center
+|align=left|[[Max Heinzer]]
+|{{Bye}}
+|{{flagIOCathlete|[[Roman Svichkar|Svichkar]]|UKR|2020 Summer}}<br>'''W''' 15–11
+|{{flagIOCathlete|[[Ihor Reizlin|Reizlin]]|UKR|2020 Summer}}<br>'''L''' 12–15
+|colspan=4|Did not advance
+|-align=center
+|align=left|[[Michele Niggeler]]
+|{{flagIOCathlete|[[Yeisser Ramirez|Ramirez]]|USA|2020 Summer}}<br>'''L''' 6–15
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Max Heinzer]]<br />[[Lucas Malcotti]]<br />[[Michele Niggeler]]<br />[[Benjamin Steffen]]
+|align=left|[[Fencing at the 2020 Summer Olympics – Men's team épée|Men's team épée]]
+|colspan=2 {{n/a}}
+|{{Bye}}
+|{{flagIOC|KOR|2020 Summer}}<br />'''L''' 39–44
+|''Classification semifinal''<br />{{flagIOC|FRA|2020 Summer}}<br />'''L''' 37–45
+|''Seventh place final''<br />{{flagIOC|ITA|2020 Summer}}<br />'''L''' 34–36
+|8
+|}
+
+==Golf==
+{{main|Golf at the 2020 Summer Olympics|Golf at the 2020 Summer Olympics – Qualification}}
+Switzerland entered two female golfers into the Olympic tournament. [[Morgane Métraux]] qualified but chose not to play. [[Kim Métraux]] gained a late place.
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round 1
+!Round 2
+!Round 3
+!Round 4
+!colspan=3|Total
+|-style=font-size:95%
+!Score
+!Score
+!Score
+!Score
+!Score
+!Par
+!Rank
+|-
+|align=left|[[Kim Métraux]]
+|align=left rowspan=2|[[Golf at the 2020 Summer Olympics – Women's individual|Women's]]
+|74
+|70
+|74
+|73
+|291
+| +7
+|54
+|-
+|align=left|[[Albane Valenzuela]]
+|71
+|69
+|67
+|69
+|276
+|−8
+|=18
+|}
+
+==Gymnastics==
+{{main|Gymnastics at the 2020 Summer Olympics|Gymnastics at the 2020 Summer Olympics – Qualification}}
+
+===Artistic===
+Switzerland fielded a full team of five artistic gymnasts (four men and one woman) into the Olympic competition. The men's squad claimed one of the remaining nine spots in the team all-around, while Rio 2016 vault bronze medalist [[Giulia Steingruber]] set her third straight trip to the Games, by finishing second out of twenty qualified gymnasts in the individual all-around and apparatus events at the [[2019 World Artistic Gymnastics Championships|2019 World Championships]] in [[Stuttgart]], [[Germany]].<ref>{{cite news|title=Russians retain top qualification spots at Stuttgart Worlds|url=https://live.gymnastics.sport/news_display.php?idevent=14274&idnews=2697&keyword=|publisher=[[International Gymnastics Federation|FIG]]|date=7 October 2019|access-date=8 October 2019|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729112206/https://live.gymnastics.sport/news_display.php?idevent=14274&idnews=2697&keyword=|url-status=dead}}</ref> The men's team was announced on 24 June 2021.<ref name=SUI-MAG>{{cite instagram|postid=CQf5-EQL_8m|user=swissgymnastics|title=Das ist unser Team für Tokio!|trans-title=This is our team for Tokyo!|lang=de|author=Schweizerischer Turnverband|date=24 June 2021}}</ref>
+
+;Men
+;Team
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan =8|Qualification
+!colspan =8|Final
+|-style="font-size:95%"
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+|-align=center
+|align=left|[[Christian Baumann]]
+|align=left rowspan=5|[[Gymnastics at the 2020 Summer Olympics – Men's artistic team all-around|Team]]
+|13.833
+|12.700
+|13.766
+|13.566
+|15.200
+|<s>12.566</s>
+|81.631
+|33
+|colspan=2 {{n/a}}
+|13.166
+|{{n/a}}
+|14.600
+|13.966
+|colspan=2 rowspan=4 {{n/a}}
+|-align=center
+|align=left|[[Pablo Brägger]]
+|14.133
+|13.566
+|13.466
+|<s>12.733</s>
+|15.066
+|12.600
+|81.564
+|35
+|14.233
+|13.400
+|13.466
+|13.833
+|14.833
+|13.933
+|-align=center
+|align=left|[[Benjamin Gischard]]
+|14.266
+|13.833
+|<s>13.333</s>
+|14.166
+|<s>13.800</s>
+|13.100
+|82.498
+|26 '''Q'''
+|14.000
+|13.866
+|{{n/a}}
+|14.000
+|colspan=2 {{n/a}}
+|-align=center
+|align=left|[[Eddy Yusof]]
+|<s>13.500</s>
+|<s>12.466</s>
+|13.533
+|14.333
+|14.700
+|13.366
+|81.898
+|31 '''Q'''
+|13.833
+|13.833
+|13.666
+|14.166
+|14.633
+|13.500
+|-align=center
+|align=left|'''Total'''
+|42.232
+|40.099
+|40.765
+|42.065
+|44.966
+|39.066
+|249.193
+|7 '''Q'''
+|42.066 
+|41.099 
+|40.298 
+|41.999 
+|44.066 
+|41.399 
+|250.927
+|6
+|}
+
+;Individual
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan =8|Qualification
+!colspan =8|Final
+|-style="font-size:95%"
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+!{{Tooltip| F | Floor}}
+!{{Tooltip| PH | Pommel horse }}
+!{{Tooltip| R | Rings}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| PB | Parallel bars}}
+!{{Tooltip| HB | Horizontal bar}}
+|-align=center
+|align=left|[[Benjamin Gischard]]
+|align=left rowspan=2|[[Gymnastics at the 2020 Summer Olympics – Men's artistic individual all-around|All-around]]
+|rowspan=2 colspan=8|''See team results''
+|14.300
+|13.666
+|13.433
+|14.300
+|13.700
+|13.333
+|82.732
+|13
+|-align=center
+|align=left|[[Eddy Yusof]]
+|13.800
+|13.866
+|13.300
+|13.033
+|14.533
+|13.200
+|81.732
+|16
+|}
+
+;Women
+;Individual
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|- style="font-size:95%"
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|- style="font-size:95%"
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+!{{Tooltip| F | Floor exercise}}
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+!{{Tooltip| F | Floor exercise}}
+|-align=center
+|align=left rowspan=2|[[Giulia Steingruber]]
+|align=left|[[Gymnastics at the 2020 Summer Olympics – Women's artistic individual all-around|All-around]]
+|14.833
+|12.800
+|12.600
+|13.300
+|53.533
+|30 '''Q'''
+|14.833			
+|12.800
+|12.400
+|13.333
+|53.366
+|15
+|-
+|align=left|[[Gymnastics at the 2020 Summer Olympics – Women's vault|Vault]]
+|14.566
+|colspan=3 {{n/a}}
+|14.566
+|10
+|colspan=6|Did not advance
+|}
+
+==Judo==
+{{main|Judo at the 2020 Summer Olympics|Judo at the 2020 Summer Olympics – Qualification}} 
+Switzerland entered two judoka (one men and one women) into the Olympic tournament based on the [[International Judo Federation]] Olympics Individual Ranking.<ref>[https://www.ijf.org/wrl_olympic International Judo Federation Olympics Ranking]</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Nils Stump]]
+|align=left|[[Judo at the 2020 Summer Olympics – Men's 73 kg|Men's −73 kg]]
+|{{bye}}
+|{{flagIOCathlete|[[Akil Gjakova|Gjakova]]|KOS|2020 Summer}}<br>'''L''' 00–11
+|colspan=6|Did not advance
+|-align=center
+|align=left|[[Fabienne Kocher]]
+|align=left|[[Judo at the 2020 Summer Olympics – Women's 52 kg|Women's −52 kg]]
+|{{n/a}}
+|{{flagIOCathlete|[[Ana Pérez Box|Pérez]]|ESP|2020 Summer}}<br>'''W''' 01–00
+|{{flagIOCathlete|[[Lkhagvasürengiin Sosorbaram|Lkhagvasüren]]|MGL|2020 Summer}}<br>'''W''' 01–00
+|{{flagIOCathlete|[[Réka Pupp|Pupp]]|HUN|2020 Summer}}<br>'''W''' 10–00
+|{{flagIOCathlete|[[Amandine Buchard|Buchard]]|FRA|2020 Summer}}<br>'''L''' 00–10
+|{{bye}}
+|{{flagIOCathlete|[[Chelsie Giles|Giles]]|GBR|2020 Summer}}<br>'''L''' 00–10
+|5
+|}
+
+==Karate==
+{{main|Karate at the 2020 Summer Olympics|Karate at the 2020 Summer Olympics – Qualification}} 
+Switzerland entered one karateka into the inaugural Olympic tournament. [[Elena Quirici]] qualified directly for the women's kumite +61&nbsp;kg category by finishing top three at [[2021 Karate World Olympic Qualification Tournament|2021 World Olympic Qualification Tournament]] in [[Paris]], [[France]].
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=5|Round robin
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|-align=center
+|align=left|[[Elena Quirici]]
+|align=left|[[Karate at the 2020 Summer Olympics – Women's +61 kg|Women's +61 kg]]
+|{{flagIOCathlete|[[Lamya Matoub|Matoub]]|ALG|2020 Summer}}<br />'''W''' 2–1
+|{{flagIOCathlete|[[Feryal Abdelaziz|Abdelaziz]]|EGY|2020 Summer}}<br />'''L''' 3–3<sup>+S</sup>
+|{{flagIOCathlete|[[Hamideh Abbasali|Abbasali]]|IRI|2020 Summer}}<br />'''W''' 4–0
+|{{flagIOCathlete|[[Gong Li (karateka)|Gong L]]|CHN|2020 Summer}}<br />'''D''' 1–1
+|3
+|colspan="3"|Did not advance 
+|}
+
+==Rowing==
+{{main|Rowing at the 2020 Summer Olympics|Rowing at the 2020 Summer Olympics – Qualification}}
+Switzerland qualified four boats for each of the following rowing classes into the Olympic regatta, with the majority of crews confirming Olympic places for their boats at the [[2019 World Rowing Championships|2019 FISA World Championships]] in [[Ottensheim]], [[Austria]].<ref>{{cite news|title=Plenty of Tokyo 2020 qualifiers, loads of pride at World Rowing Championships|url=https://worldrowing.com/news/plenty-olympic-qualifiers-loads-pride|publisher=[[International Rowing Federation]]|date=29 August 2019|access-date=31 August 2019}}</ref><ref>{{cite news|title=First crews to qualify for the Tokyo Olympics at World Rowing Championships|url=https://worldrowing.com/news/first-crews-qualify-for-the-tokyo-olympics-world-rowing-championships|publisher=[[International Rowing Federation]]|date=27 August 2019|access-date=31 August 2019}}</ref><ref>{{cite news|title=B-finals take on new meaning when Tokyo 2020 spots are available|url=http://www.worldrowing.com/news/finals-take-new-meaning-when-tokyo-2020-spots-are-available|publisher=[[International Rowing Federation]]|date=31 August 2019|access-date=31 August 2019}}</ref>
+
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left|[[Barnabé Delarze]]<br>[[Roman Röösli]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Men's double sculls|Double sculls]]
+|6:11.24
+|2 '''QF'''
+|colspan=2 {{bye}}
+|6:25.89
+|3 '''FA'''
+|6:09.05
+|5
+|-align=center
+|align=left|[[Andrin Gulich]]<br />[[Paul Jacquot]]<br />[[Markus Kessler]]<br />[[Joel Schürch]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Men's coxless four|Four]]
+|6:04.09
+|4 '''R'''
+|6:27.80
+|5 '''FB'''
+|colspan=2 {{bye}}
+|6:02.32
+|9
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Quarterfinals
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|- align=center
+|align=left|[[Jeannine Gmelin]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Women's single sculls|Single sculls]]
+|7:47.20
+|2 '''QF'''
+|colspan=2 {{bye}}
+|8:02.10
+|2 '''SA/B'''
+|7:25.80
+|2 '''FA'''
+|7:20.91
+|5
+|- align=center
+|align=left|[[Patricia Merz]]<br>[[Frédérique Rol]]
+|align=left|[[Rowing at the 2020 Summer Olympics – Women's lightweight double sculls|Lightweight double sculls]]
+|7:08.66
+|4 '''R'''
+|7:22.02
+|1 '''SA/B'''
+|colspan=2 {{n/a}}
+|6:48.92
+|4 '''FB'''
+|6:49.16
+|7
+|}
+<small>Qualification Legend: '''FA'''=Final A (medal); '''FB'''=Final B (non-medal); '''FC'''=Final C (non-medal); '''FD'''=Final D (non-medal); '''FE'''=Final E (non-medal); '''FF'''=Final F (non-medal); '''SA/B'''=Semifinals A/B; '''SC/D'''=Semifinals C/D; '''SE/F'''=Semifinals E/F; '''QF'''=Quarterfinals; '''R'''=Repechage</small>
+
+==Sailing==
+{{main|Sailing at the 2020 Summer Olympics|Sailing at the 2020 Summer Olympics – Qualification}}
+Swiss sailors qualified one boat in each of the following classes through the [[2018 Sailing World Championships]], the class-associated Worlds, and the continental regattas.<ref>{{cite news|title=First Laser, Radial and 49erFX nations confirmed for Tokyo 2020|url=http://www.sailing.org/news/87623.php#.W22T6tgza8o|publisher=[[World Sailing]]|date=10 August 2018|access-date=10 August 2018}}</ref> Additionally, they received an unused berth from Oceania to send the women's 470 crew to the Games based on the results at the 2019 World Championships.
+
+On June 2, 2020, the [[Swiss Sailing]] selected Rio 2016 windsurfer [[Mateo Sanz Lanz]], along with skiff crew [[Lucien Cujean]] and [[Sébastien Schneiter]], to compete at the [[Enoshima]] regatta.<ref>{{cite news|title=Zwei Segler und ein Windsurfer nehmen Kurs auf Tokio|trans-title=Two sailors and a windsurfer head for Tokyo|language=de|url=https://www.swissolympicteam.ch/de/news/details.html?pageId=72ebf13b-6073-41e9-9a35-a313fa38f1d5&entryId=S53774|publisher=[[Swiss Olympic Association]]|date=2 June 2020|access-date=11 June 2020}}</ref> The women's 470 crew [[Linda Fahrni]] and [[Maja Siegenthaler]] was officially named to the Swiss sailing roster on April 1, 2021, while Laser Radial sailor Maud Jayet completed the lineup one month later.<ref>{{cite news|title=Linda Fahrni und Maja Siegenthaler zum zweiten Mal an Olympischen Spielen dabei|trans-title=Linda Fahrni and Maja Siegenthaler will compete at the Olympics for the second time|language=de|url=https://www.swissolympicteam.ch/de/news/details?pageId=72ebf13b-6073-41e9-9a35-a313fa38f1d5&entryId=S89398|publisher=[[Swiss Olympic Association]]|date=1 April 2021|access-date=2 April 2021}}</ref><ref name=swiss-cyc-sai/>
+
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=13|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!M*
+|- align=center
+|align=left|[[Mateo Sanz Lanz]]
+|align=left|[[Sailing at the 2020 Summer Olympics – Men's RS:X|Men's RS:X]]
+|1 
+|1 
+|9 
+|10 
+|3 
+|4 
+|16 
+|{{s|17}}
+|12 
+|10 
+|13 
+|15 
+|6
+|100
+|8
+|- align=center
+|align=left|[[Lucien Cujean]]<br />[[Sébastien Schneiter]]
+|align=left|[[Sailing at the 2020 Summer Olympics – 49er|Men's 49er]]
+|16	
+|10		
+|14		
+|10		
+|3		
+|{{s|20}}
+|9		
+|9		
+|9		
+|18		
+|13		
+|12	
+|EL
+|123
+|14
+|- align=center
+|align=left|[[Maud Jayet]]
+|align=left|[[Sailing at the 2020 Summer Olympics – Laser Radial|Women's Laser Radial]]
+|22
+|7
+|22
+|{{s|34}}
+|13
+|1
+|21
+|25
+|28
+|24
+|colspan=2 {{n/a}}
+|EL
+|163
+|19
+|- align=center
+|align=left|[[Linda Fahrni]]<br>[[Maja Siegenthaler]]
+|align=left|[[Sailing at the 2020 Summer Olympics – Women's 470|Women's 470]]
+|{{s|12}}
+|4		
+|8		
+|2		
+|5		
+|10		
+|9		
+|7
+|12
+|5
+|colspan=2 {{n/a}}
+|2
+|64
+|4
+|}
+<small>'''M''' = Medal race; EL = Eliminated – did not advance into the medal race</small>
+
+==Shooting==
+{{main|Shooting at the 2020 Summer Olympics|Shooting at the 2020 Summer Olympics – Qualification}}
+Swiss shooters achieved quota places for the following events by virtue of their best finishes at the [[2018 ISSF World Shooting Championships|2018 ISSF World Championships]], the 2019 ISSF World Cup series, European Championships or Games, and European Qualifying Tournament, as long as they obtained a minimum qualifying score (MQS) by May 31, 2020.<ref>{{cite web|url=https://www.issf-sports.org/competitions/ogqualification/quota_places_by_nation_and_number.ashx|title=Quota Places by Nation and Number|date=1 January 2018|website=www.issf-sports.org/|publisher=[[International Shooting Sport Federation|ISSF]]|access-date=2 September 2018}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+|-align=center
+|align=left rowspan=2|'''[[Nina Christen]]'''
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 10 metre air rifle|Women's 10 m air rifle]]
+|628.5
+|7 '''Q'''
+|230.6
+|{{bronze3}}
+|-align=center
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 50 metre rifle three positions|Women's 50 m rifle 3 positions]]
+|1174
+|6 '''Q'''
+|463.9
+|{{gold1}}
+|-align=center
+|align=left rowspan=2|[[Heidi Diethelm Gerber]]
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 10 metre air pistol|Women's 10 m air pistol]]
+|569
+|28
+|colspan=2|Did not advance
+|-align=center
+|align=left|[[Shooting at the 2020 Summer Olympics – Women's 25 metre pistol|Women's 25 m pistol]]
+|579
+|22
+|colspan=2|Did not advance
+|}
+
+==Sport climbing==
+{{main|Sport climbing at the 2020 Summer Olympics|Sport climbing at the 2020 Summer Olympics – Qualification}}
+Switzerland entered one sport climber into the Olympic tournament. [[Petra Klingler]] qualified directly for the women's combined event, by advancing to the final and securing one of the seven provisional berths at the [[2019 IFSC Climbing World Championships|2019 IFSC World Championships]] in [[Hachioji]], [[Japan]].<ref>{{cite news|url=https://www.olympicchannel.com/en/stories/news/detail/tokyo-2020-olympic-qualification-sport-climbing/|title=Coxsey and Garnbret lead women's qualifiers|publisher=[[Olympic Channel]]|date=19 August 2019|access-date=21 August 2019}}</ref>
+
+{| class="wikitable" style="font-size:90%"
+! rowspan="3" |Athlete
+! rowspan="3" |Event
+! colspan="9" |Qualification
+! colspan="9" |Final
+|- style="font-size: 95%"
+! colspan="2" |Speed
+! colspan="2" |Boulder
+! colspan="3" |Lead
+! rowspan="2" |Total
+! rowspan="2" |Rank
+! colspan="2" |Speed
+! colspan="2" |Boulder
+! colspan="3" |Lead
+! rowspan="2" |Total
+! rowspan="2" |Rank
+|- style="font-size: 95%"
+!Best !! Place !! Result !! Place !! Hold !! Time !! Place
+!Best !! Place !! Result !! Place !! Hold !! Time !! Place
+|- align="center"
+| align="left" |[[Petra Klingler]]
+| align="left" |[[Sport climbing at the 2020 Summer Olympics – Women's combined|Women's]]
+|8.42  || 10 || 1T3z 3 8 || 10 || 16+ || 1:49 || 14 || 1400.00 || 16
+| colspan=9| did not advance
+|}
+
+==Swimming ==
+{{main|Swimming at the 2020 Summer Olympics|Swimming at the 2020 Summer Olympics – Qualification}}
+Swiss swimmers further achieved qualifying standards in the following events (up to a maximum of 2 swimmers in each event at the Olympic Qualifying Time (OQT), and potentially 1 at the Olympic Selection Time (OST)):<ref>{{cite web|title=FINA – Olympic Games Tokyo 2020 Qualification|url=https://www.fina.org/competitions/5/olympic-games-tokyo-2020/qualifications?gender=M&distance=50&stroke=FREESTYLE&standard=all&regionId=all&countryId=|publisher=[[FINA]] |access-date=23 March 2019}}</ref><ref>{{cite news|title=Tokyo 2020 – FINA Swimming Qualification System|url=https://www.fina.org/sites/default/files/final_-_2020_07_15_-_tokyo_2020_-_revised_qualification_system_-_swimming_-_eng.pdf|work=[[2020 Summer Olympics|Tokyo 2020]] |publisher=[[FINA]] |access-date=6 March 2021}}</ref>
+
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|'''[[Jérémy Desplanches]]'''
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 100 metre breaststroke|100 m breaststroke]]
+|1:00.29
+|28
+|colspan="4"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 200 metre individual medley|200 m individual medley]]
+|1:56.89
+|2 '''Q'''
+|1:57.38
+|5 '''Q'''
+|1:56.17
+|{{bronze3}}
+|-align=center
+|align=left rowspan=2|[[Antonio Djakovic]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 200 metre freestyle|200 m freestyle]]
+|1:46.37
+|15 '''Q'''
+|1:45.92
+|11
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 400 metre freestyle|400 m freestyle]]
+|3:45.82 '''[[List of Swiss records in swimming|NR]]'''
+|9
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left rowspan=2|[[Roman Mityukov]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 100 metre freestyle|100 m freestyle]]
+|48.43
+|15 '''Q'''
+|48.53
+|16
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 200 metre backstroke|200 m backstroke]]
+|1:57.45
+|11 '''Q'''
+|1:57.07
+|13
+|colspan="2"|Did not advance
+|-align=center
+|align=left rowspan=2|'''[[Noè Ponti]]'''
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 100 metre butterfly|100 m butterfly]]
+|51.24
+|5 '''Q'''
+|50.76
+|3 '''Q'''
+|50.74 '''[[List of Swiss records in swimming|NR]]'''
+|{{bronze3}}
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 200 metre butterfly|200 m butterfly]]
+|1:55.05
+|5 '''Q'''
+|1:55.37
+|10
+|colspan="2"|Did not advance
+|- align=center
+|align=left|[[Antonio Djakovic]]<br>[[Nils Liess]]<br>[[Roman Mityukov]]<br>[[Noè Ponti]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|3:14.65
+|14
+|colspan=2 {{n/a}}
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Antonio Djakovic]]<br>[[Nils Liess]]<br>[[Roman Mityukov]]<br>[[Noè Ponti]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Men's 4 × 200 metre freestyle relay|4 × 200 m freestyle relay]]
+|7:06.59
+|6 '''Q'''
+|colspan=2 {{n/a}}
+|7:06.12
+|6
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-align=center
+|align=left rowspan=2|[[Lisa Mamié]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 100 metre breaststroke|100 m breaststroke]]
+|1:06.76
+|13 '''Q'''
+|1:07.41
+|15
+|colspan="2"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 200 metre breaststroke|200 m breaststroke]]
+|2:23.91
+|14 '''Q'''
+|2:25.11
+|14
+|colspan="2"|Did not advance
+|-align=center
+|align=left rowspan=2|[[Maria Ugolkova]]
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 100 metre freestyle|100 m freestyle]]
+|54.86
+|26
+|colspan="4"|Did not advance
+|-align=center
+|align=left|[[Swimming at the 2020 Summer Olympics – Women's 200 metre individual medley|200 m individual medley]]
+|2:10.04
+|5 '''Q'''
+|2:10.65
+|9
+|colspan="2"|Did not advance
+|}
+
+==Table tennis==
+{{main|Table tennis at the 2020 Summer Olympics|Table tennis at the 2020 Summer Olympics – Qualification}}
+For the first time since [[1996 Summer Olympics|Atlanta 1996]], Switzerland entered an athlete into the table tennis competition at the Games, based on the World Rankings as of June 1, 2021.
+
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Preliminary
+!Round 1
+!Round 2
+!Round 3
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|- align=center
+|align=left|[[Rachel Moret]]
+|align=left|[[Table tennis at the 2020 Summer Olympics – Women's singles|Women's singles]]
+|{{bye}}
+|{{flagIOCathlete|[[Jéssica Yamada|Yamada]]|BRA|2020 Summer}}<br />'''W''' 4–2
+|{{flagIOCathlete|[[Georgina Póta|Póta]]|HUN|2020 Summer}}<br />'''W''' 4–1
+|{{flagIOCathlete|[[Chen Meng|Chen M]]|CHN|2020 Summer}}<br />'''L''' 0–4
+|colspan=5|Did not advance
+|}
+
+==Tennis==
+{{main|Tennis at the 2020 Summer Olympics|Tennis at the 2020 Summer Olympics – Qualification}}
+
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- align=center
+|align=left|'''[[Belinda Bencic]]'''
+| rowspan="2" align="left" |[[Tennis at the 2020 Summer Olympics – Women's singles|Women's singles]]
+|{{flagIOCathlete|[[Jessica Pegula|Pegula]]|USA|2020 Summer}}<br />'''W''' 6–3, 6–3
+|{{flagIOCathlete|[[Misaki Doi|Doi]]|JPN|2020 Summer}}<br />'''W''' 6–2, 6–4
+|{{flagIOCathlete|[[Barbora Krejčíková|Krejčíková]]|CZE|2020 Summer}}<br />'''W''' 1–6, 6–2, 6–3
+|{{flagIOCathlete|[[Anastasia Pavlyuchenkova|Pavlyuchenkova]]|ROC|2020 Summer}}<br />'''W''' 6–0, 3–6, 6–3
+|{{flagIOCathlete|[[Elena Rybakina|Rybakina]]|KAZ|2020 Summer}}<br />'''W''' 7–6<sup>(7–2)</sup>, 4–6, 6–3
+|{{flagIOCathlete|[[Markéta Vondroušová|Vondroušová]]|CZE|2020 Summer}}<br />'''W''' 7–5, 2–6, 6–3
+||{{gold1}}
+|- align=center
+|align=left|[[Viktorija Golubic]]
+|{{flagIOCathlete|[[Camila Osorio|Osorio]]|COL|2020 Summer}}<br />'''W''' 6–4, 6–1
+|{{flagIOCathlete|[[Naomi Osaka|Osaka]]|JPN|2020 Summer}}<br />'''L''' 3–6, 2–6
+|colspan=5|Did not advance
+|- align="center"
+| align="left" |'''[[Belinda Bencic]]<br />[[Viktorija Golubic]]'''
+| align="left" |[[Tennis at the 2020 Summer Olympics – Women's doubles|Women's doubles]]
+|{{n/a}}
+|{{flagIOCathlete|[[Shuko Aoyama|Aoyama]] / <br />[[Ena Shibahara|Shibahara]]|JPN|2020 Summer}}<br />'''W''' 6–4, 6–7<sup>(5–7)</sup>, [10–5]
+|{{flagIOCathlete|[[Garbiñe Muguruza|Muguruza]] / <br />[[Carla Suárez Navarro|Suárez]]|ESP|2020 Summer}}<br />'''W''' 3–6, 6–1, [11–9]
+|{{flagIOCathlete|[[Ellen Perez|Perez]] / <br />[[Samantha Stosur|Stosur]]|AUS|2020 Summer}}<br />'''W''' 6–4, 6–4
+|{{flagIOCathlete|[[Laura Pigossi|Pigossi]] / <br />[[Luisa Stefani|Stefani]]|BRA|2020 Summer}}<br />'''W''' 7–5, 6–3
+|{{flagIOCathlete|[[Barbora Krejčíková|Krejčíková]] / <br />[[Kateřina Siniaková|Siniaková]]|CZE|2020 Summer}}<br />'''L''' 5–7, 1–6
+|{{silver2}}
+|}
+
+==Triathlon==
+{{main|Triathlon at the 2020 Summer Olympics|Triathlon at the 2020 Summer Olympics – Qualification}}
+Switzerland qualified for the Mixed Relay events by finishing third at the 2021 World Triathlon Mixed Relay Olympic Qualification Event in Lisbon on May 21, 2021.
+
+;Individual
+{| class="wikitable" style="font-size:90%"
+! rowspan=2 | Athlete
+! rowspan=2 | Event
+! colspan=6 | Time
+! rowspan=2 | Rank
+|- style="font-size:95%"
+! Swim (1.5&nbsp;km)
+! Trans 1
+! Bike (40&nbsp;km)
+! Trans 2
+! Run (10&nbsp;km)
+! Total
+|- align=center
+|align=left|[[Andrea Salvisberg]]
+|align=left rowspan=2|[[Triathlon at the 2020 Summer Olympics – Men's|Men's]]
+| 18:02
+| 0:40
+| 56:03
+| 0:30
+| 32:10
+| 1:47:25
+| 22
+|- align=center
+|align=left|[[Max Studer (triathlete)|Max Studer]]
+| 18:25
+| 0:39
+| 55:59
+| 0:28
+| 30:35
+| 1:46:06
+| 9
+|- align=center
+|align=left|[[Jolanda Annen]]
+|align=left rowspan=2|[[Triathlon at the 2020 Summer Olympics – Women's|Women's]]
+|19:32
+|0:44
+|1:05:04
+|0:35
+|35:36
+|2:01:31
+|19
+|- align=center
+|align=left|[[Nicola Spirig]]
+|19:32
+|0:43
+|1:02:50
+|0:32
+|34:28
+|1:58:05
+|6
+|}
+
+;Relay
+{| class="wikitable" style="font-size:90%;text-align:center"
+! rowspan=2 | Athlete
+! rowspan=2 | Event
+! colspan=6 | Time
+! rowspan=2 | Rank
+|- style="font-size:95%"
+! Swim (300&nbsp;m)
+! Trans 1
+! Bike (7&nbsp;km)
+! Trans 2
+! Run (2&nbsp;km)
+! Total group
+|-
+|align=left|[[Andrea Salvisberg]]
+|align=left rowspan=5|[[Triathlon at the 2020 Summer Olympics – Mixed relay|Mixed relay]]
+|3:59
+|0:37
+|9:35
+|0:28
+|5:44
+|20:23
+|rowspan=4 {{n/a}}
+|- 
+|align=left|[[Max Studer (triathlete)|Max Studer]]
+|4:11
+|0:37
+|9:50
+|0:29
+|5:33
+|20:40
+|- 
+|align=left|[[Jolanda Annen]]
+|3:51
+|0:40
+|10:32
+|0:30
+|6:27
+|22:00
+|- 
+|align=left|[[Nicola Spirig]]
+|4:35
+|0:40
+|10:20
+|0:30
+|6:19
+|22:24
+|-align=center
+|align=left|'''Total'''
+|colspan=5 {{n/a}}
+|1:25:27
+|7
+|}
+
+==Volleyball==
+{{main|Volleyball at the 2020 Summer Olympics}}
+
+===Beach===
+Swiss women's beach volleyball pair qualified for the Games, as the result in the FIVB Beach volleyball Olympic Ranking List of 13 June 2021.<ref>{{cite web|title=Provisional Olympic Ranking – Women|url=http://www.fivb.org/EN/BeachVolleyball/OGRanking_W.asp|publisher=[[FIVB]]|access-date=5 June 2021}}</ref>
+
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=4|Preliminary round
+!Repechage
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style=font-size:95%
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Mirco Gerson]]<br>[[Adrian Heidrich]]
+|align=left|[[Beach volleyball at the 2020 Summer Olympics – Men's tournament|Men's]]
+|{{flagIOCathlete|[[Ahmed Tijan|Ahmed]] / <br>[[Cherif Younousse|Cherif]]|QAT|2020 Summer}}<br>'''L''' (17–21, 16–21)
+|{{flagIOCathlete|[[Tri Bourne|Bourne]] / <br>[[Jake Gibb|Gibb]]|USA|2020 Summer}}<br>'''L''' (19–21, 21–23)
+|{{flagIOCathlete|[[Adrian Carambula|Carambula]] / <br>[[Enrico Rossi (beach volleyball)|Rossi]]|ITA|2020 Summer}}<br>'''W''' (21–14, 24–26, 15–13)
+|3 '''R'''
+|{{flagIOCathlete|[[Esteban Grimalt|E Grimalt]] / <br>[[Marco Grimalt|M Grimalt]]|CHI|2020 Summer}}<br>'''L''' (17–21, 18–21)
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Nina Betschart]]<br>[[Tanja Hüberli]]
+|align=left rowspan=2|[[Beach volleyball at the 2020 Summer Olympics – Women's tournament|Women's]]
+|{{flagIOCathlete|[[Margareta Kozuch|Kozuch]] / <br>[[Laura Ludwig|Ludwig]]|GER|2020 Summer}}<br>'''W''' (23–25, 22–20, 16–14)
+|{{flagIOCathlete|{{nowrap|[[Barbora Hermannová|Hermannová]] / }}<br>[[Markéta Sluková|Sluková]]|CZE|2020 Summer}}<br>'''W''' (21–0, 21–0)
+|{{flagIOCathlete|[[Miki Ishii|Ishii]] / <br>[[Megumi Murakami (volleyball)|Murakami]]|JPN|2020 Summer}}<br>'''W''' (14–21, 21–19, 15–12)
+|1 '''Q'''
+|{{bye}}
+|{{flagIOCathlete|[[Joana Heidrich|Heidrich]] / <br>[[Anouk Vergé-Dépré|Vergé-Dépré]]|SUI|2020 Summer}}<br>'''L''' (12–21, 21–19, 21–23)
+|colspan=4|Did not advance
+|- align=center
+|align=left|{{nowrap|'''[[Joana Heidrich]]<br />[[Anouk Vergé-Dépré]]'''}}
+|{{flagIOCathlete|[[Karla Borger|Borger]] / <br>[[Julia Sude|Sude]]|GER|2020 Summer}}<br>'''W''' (21–8, 21–23, 15–6)
+|{{flagIOCathlete|[[Raïsa Schoon|Schoon]] / <br>[[Katja Stam|Stam]]|NED|2020 Summer}}<br>'''W''' (22–20, 21–18)
+|{{flagIOCathlete|{{nowrap|[[Melissa Humana-Paredes|Humana-Paredes]] / }}<br>[[Sarah Pavan|Pavan]]|CAN|2020 Summer}}<br>'''L''' (13–21, 22–24)
+|2
+|{{bye}}
+|{{flagIOCathlete|[[Nina Betschart|Betschart]] / <br>[[Tanja Hüberli|Hüberli]]|SUI|2020 Summer}}<br>'''W''' (21–12, 19–21, 23–21)
+|{{flagIOCathlete|[[Ana Patrícia Ramos|Ana Patrícia]] / <br>[[Rebecca Cavalcanti|Rebecca]]|BRA|2020 Summer}}<br>'''W''' (21–19, 18–21, 15–12)
+|{{flagIOCathlete|[[Alix Klineman|Klineman]] / <br>[[April Ross|Ross]]|USA|2020 Summer}}<br>'''L''' (12–21, 11–21)
+|{{flagIOCathlete|[[Tīna Graudiņa|Graudiņa]] / <br>[[Anastasija Kravčenoka|Kravčenoka]]|LAT|2020 Summer}}<br>'''W''' (21–19, 21–15)
+|{{Bronze3}}
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2020 Summer Olympics|Wrestling at the 2020 Summer Olympics – Qualification}}
+For the first time since [[London 2012]], Switzerland qualified one wrestler for the men's freestyle 86&nbsp;kg into the Olympic competition, as a result of his top six finish at the [[2019 World Wrestling Championships|2019 World Championships]].
+
+{{smalldiv|1=<nowiki/>
+'''Key''':
+* VF (ranking points: 5–0 or 0–5) – [[Pin (amateur wrestling)|Victory by fall]].
+* VB (ranking points: 5–0 or 0–5) – Victory by injury (VF for forfeit, VA for withdrawal or disqualification)
+* PP (ranking points: 3–1 or 1–3) – Decision by points – the loser with technical points.
+* PO (ranking points: 3–0 or 0–3) – Decision by points – the loser without technical points.
+* ST (ranking points: 4–0 or 0–4) – Great superiority – the loser without technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+* SP (ranking points: 4–1 or 1–4) – Technical superiority – the loser with technical points and a margin of victory of at least 8 (Greco-Roman) or 10 (freestyle) points.
+}}
+
+;Freestyle
+{|class="wikitable" style="font-size:90%"
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinal
+!Semifinal
+!Repechage
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-align=center
+|align=left|[[Stefan Reichmuth]]
+|align=left|[[Wrestling at the 2020 Summer Olympics – Men's freestyle 86 kg|Men's −86 kg]]
+|{{flagIOCathlete|[[Fateh Benferdjallah|Benferdjallah]]|ALG|2020 Summer}}<br /> '''W''' 3–1 <sup>PP</sup>
+|{{flagIOCathlete|[[Hassan Yazdani|Yazdani]]|IRI|2020 Summer}}<br />'''L''' 1–4 <sup>PP</sup>
+|Did not advance
+|{{flagIOCathlete|[[Javrail Shapiev|Shapiev]]|UZB|2020 Summer}}<br />'''L''' 1–3 <sup>PP</sup>
+|Did not advance
+|8
+|}
+
+==References==
+{{reflist}}<br />{{Nations at the 2020 Summer Olympics}}
+{{Country at games navbox|Switzerland|Olympics}}
+
+[[Category:Nations at the 2020 Summer Olympics]]
+[[Category:Switzerland at the Summer Olympics by year|2020]]
+[[Category:2021 in Swiss sport]]

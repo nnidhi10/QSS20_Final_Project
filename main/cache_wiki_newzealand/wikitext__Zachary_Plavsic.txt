@@ -1,0 +1,65 @@
+{{short description|Canadian windsurfer}}
+{{Infobox sportsperson
+| headercolor      = lightblue
+| name             = Zachary Plavsic
+| image            = <!-- {{URL|http://www.canada.com/travel/6731978.bin?size=620x400/}} -->
+| image_size       =
+| caption          = 
+| birth_name       = 
+| fullname         = 
+| nickname         = 
+| native_name      = 
+| native_name_lang = 
+| nationality      = {{flag|Canada}}
+| birth_date       = {{birth date and age|1983|01|15}}
+| birth_place      = [[Vancouver]], [[British Columbia]], Canada
+| death_date       = 
+| death_place      = 
+| height           = {{height|m=1.85}}
+| weight           = {{convert|78|kg|0|abbr=on}}
+| website          = {{URL|http://zacplav.blogspot.ca/}}
+| country          = 
+| sport            = [[Windsurfing]]
+| event            = [[RS:X (sailboard)|RS:X]]
+| collegeteam      = 
+| universityteam   = 
+| club             = [[Royal Vancouver Yacht Club]]
+| team             = 
+| turnedpro        = 
+| partner          = 
+| former_partner   = 
+| coach            = 
+| retired          = 
+| coaching         = 
+| worlds           = 
+| regionals        = 
+| nationals        = 
+| olympics         = 
+| paralympics      = 
+| highestranking   = 
+| pb               = 
+| medaltemplates   = 
+| show-medals      = 
+| updated          = 19 August 2012 
+}}
+
+'''Zachary Plavsic''' ({{langx|sr|Захари Плавишић}}; born January 15, 1983) is a Canadian [[Windsurfing|windsurfer]] of [[Serbs|Serbian]] background. Plavsic was born and raised in the city of Vancouver, BC, Canada.<ref>{{Cite web|url=http://www.ebritic.com/?p=202598&lang=SR|title=Olympic Serbs in the Diaspora|access-date=2012-10-05|archive-date=2016-03-04|archive-url=https://web.archive.org/web/20160304043037/http://www.ebritic.com/?p=202598&lang=SR|url-status=dead}}</ref> He has represented Canada in two [[Olympic Games]]. In the [[2008 Summer Olympics]] in [[Beijing, China]], Plavsic finished 23rd.<ref>{{Cite web|url=http://olympic.ca/team-canada/zachary-plavsic#news|title = Zachary Plavsic}}</ref> In the [[2012 Summer Olympics]] in [[London, United Kingdom]], Plavsic placed in 8th.<ref>{{Cite web|url=http://www.london2012.com/sailing/event/rs-x-men/phase=sam102101/index.html|title=London 2012 RSX - Windsurfer men Results - Olympic sailing|access-date=2012-08-19|archive-date=2012-08-05|archive-url=https://web.archive.org/web/20120805113740/http://www.london2012.com/sailing/event/rs-x-men/phase=sam102101/index.html|url-status=dead}}</ref> In the [[2011 ISAF Sailing World Cup]], Plavsic finished Second and at the [[2011 ISAF Sailing World Championships]], Plavsic finished in 12th spot.<ref>{{Cite web|url=http://olympic.ca/team-canada/zachary-plavsic#news|title = Zachary Plavsic}}</ref>
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Plavsic, Zachary}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:Sailors (sport) from Vancouver]]
+[[Category:Canadian windsurfers]]
+[[Category:Olympic sailors for Canada]]
+[[Category:Canadian male sailors (sport)]]
+[[Category:Sailors at the 2008 Summer Olympics – RS:X]]
+[[Category:Sailors at the 2012 Summer Olympics – RS:X]]
+[[Category:Canadian people of Serbian descent]]
+[[Category:Sailors at the 2015 Pan American Games]]
+[[Category:Pan American Games sailors for Canada]]
+[[Category:21st-century Canadian sportsmen]]
+
+{{Canada-yachtracing-bio-stub}}

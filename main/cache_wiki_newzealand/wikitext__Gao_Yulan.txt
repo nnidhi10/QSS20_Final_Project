@@ -1,0 +1,40 @@
+{{short description|Chinese rower}}
+{{Use dmy dates|date=April 2018}}
+{{Infobox sportsperson
+|birth_date=1982
+|birth_place=
+|native_name=高玉兰
+|medaltemplates={{MedalSport | Women's [[Rowing (sport)|Rowing]]}}
+{{MedalCountry | {{CHN}} }}
+{{MedalCompetition|[[Rowing at the Summer Olympics|Olympic Games]]}}
+{{MedalSilver| [[2008 Summer Olympics|2008 Beijing]] | [[Rowing at the 2008 Summer Olympics – Women's coxless pair|Coxless pair]]}}
+}}
+
+{{family name hatnote|[[Gao (surname)|Gao]]|lang=Chinese}}
+'''Gao Yulan''' (born 3 October 1982 in [[Ruichang]], [[Jiujiang]], [[Jiangxi]]) is a female [[PR China|Chinese]] [[Rowing (sport)|rower]], who won silver medal in the [[Rowing at the 2008 Summer Olympics – Women's double sculls|Women's double sculls]] at the [[Rowing at the 2008 Summer Olympics|2008 Summer Olympics]]. Her race partner was [[Wu You]].
+
+At the [[2012 Summer Olympics]], she and partner Zhang Yage did not qualify for the final.<ref>{{cite web|url=http://www.olympic.org/olympic-results/london-2012/rowing/pair-without-coxswain-2-w|title=London 2012 pair without coxswain 2 women - Olympic Rowing|date=3 June 2017|website=Olympic.org|accessdate=16 April 2018}}</ref>
+
+==Records==
+*2008 World Cup [[Lucerne]] – 1st W2-
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Gao, Yulan}}
+[[Category:1982 births]]
+[[Category:Living people]]
+[[Category:Olympic rowers for China]]
+[[Category:Olympic silver medalists for China]]
+[[Category:People from Jiujiang]]
+[[Category:Rowers at the 2008 Summer Olympics]]
+[[Category:Rowers at the 2012 Summer Olympics]]
+[[Category:Olympic medalists in rowing]]
+[[Category:Chinese female rowers]]
+[[Category:Rowers from Jiangxi]]
+[[Category:Medalists at the 2008 Summer Olympics]]
+[[Category:20th-century Chinese women]]
+[[Category:21st-century Chinese sportswomen]]
+
+{{PRChina-rowing-bio-stub}}
+{{PRChina-Olympic-medalist-stub}}

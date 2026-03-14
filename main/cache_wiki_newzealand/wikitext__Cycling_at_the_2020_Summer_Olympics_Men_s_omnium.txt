@@ -1,0 +1,255 @@
+{{Short description|Olympic cycling event}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox Olympic event
+| event = Men's Omnium
+| games = 2020 Summer
+| image = Cycling (track) pictogram.svg
+| caption = Olympic track cycling
+| venues = [[Izu Velodrome]]
+| date = 5 August 2021
+| competitors = 20
+| nations  = 20
+| win_label = Winning points
+| win_value = 153
+| gold = [[Matthew Walls]]
+| goldNOC = GBR
+| silver = [[Campbell Stewart]]
+| silverNOC = NZL
+| bronze = [[Elia Viviani]]
+| bronzeNOC = ITA
+| prev = [[Cycling at the 2016 Summer Olympics – Men's omnium|2016]]
+| next = [[Cycling at the 2024 Summer Olympics – Men's omnium|2024]]
+}}
+{{Cycling at the 2020 Summer Olympics}}
+
+The men's [[omnium]] event at the [[2020 Summer Olympics]] took place on 5 August 2021 at the [[Izu Velodrome]].<ref name="Dates">{{cite web |url=https://olympics.com/tokyo-2020/en/schedule/cycling-track-schedule |title=Cycling Track Competition Schedule |publisher=Tokyo 2020 |accessdate=18 November 2020 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709041230/https://olympics.com/tokyo-2020/en/schedule/cycling-track-schedule |url-status=dead }}</ref> 20 cyclists from 20 nations competed.<ref name=Qualifying>{{cite web |url = https://www.uci.org/docs/default-source/default-document-library/tokyo2020olympicgames-qualificationsystem-roadcycling-en_english.pdf |title = Qualification System – Games of the XXXII Olympiad – ''Road Cycling'' |publisher = [[Union Cycliste Internationale]] |format = [[PDF]] |accessdate = 14 February 2015}}</ref>
+{{TOC limit|3}}
+
+==Background==
+This was the 3rd appearance of the event, which was introduced in 2012.
+
+The previous reigning Olympic champion was [[Elia Viviani]] of Italy. The reigning (2020) World Champion was [[Benjamin Thomas (cyclist)|Benjamin Thomas]] of France.
+
+France, Italy, Russia, Germany, China, Great Britain, Australia, and the Netherlands are traditionally strong track cycling nations.<ref name=Tokyo2020Summary>{{cite web |url=https://olympics.com/en/featured-news/olympic-track-cycling-at-tokyo-2020-top-five-things-to-know |title=Olympic Track Cycling at Tokyo 2020: Top Five Things to Know |access-date=28 June 2021}}</ref>
+
+==Qualification==
+{{main|Cycling at the 2020 Summer Olympics – Qualification}}
+
+A [[National Olympic Committee]] (NOC) could enter up to 1 cyclist in the omnium. Quota places are allocated to the NOC, which selects the cyclists. Qualification is entirely through the 2018–20 UCI nation rankings. The best 8 NOCs in the madison rankings (not already qualified through the team pursuit) directly qualified to enter madison teams as well as earning 1 quota place in the omnium. There were another 12 places in the omnium available based on the omnium rankings; NOCs qualified through the madison were not eligible. Each continent was guaranteed at least one place in the omnium.<ref name=Qualifying/> Because qualification was complete by the end of the [[2020 UCI Track Cycling World Championships]] on 1 March 2020 (the last event that contributed to the 2018–20 rankings), qualification was unaffected by the [[COVID-19 pandemic]].
+
+==Competition format==
+
+An omnium is a multiple-race event. The current event features four different types of races. The format has changed significantly from 2016, with three of the six race types dropped and one replacement added. The omnium also moved from a two-day format in prior Games to a one-day format in 2020. The winner of the omnium is the cyclist who obtains the most points through the four races. The winner of each of the first three races earns 40 points, the second-place cyclist earns 38, the third-place rider 36, and so forth. The final race has special scoring rules. The races in the omnium are:
+
+* Scratch race: Mass start race; first to finish is the winner. Distance is 10&nbsp;km (40 laps).
+* Tempo race: The new race for 2020. The distance is 10&nbsp;km (40 laps). After the first 5 laps, the winner of each lap earns 1 point. Lapping the field earns 20 points. The winner of the race is the cyclist with the most points (the points earned within the tempo race do not count for the omnium total; they are used only to place cyclists for the race).
+* Elimination race: Every 2 laps, the last-place cyclist is eliminated.
+* Points race: A 25&nbsp;km (100 lap) points race, with points earned for sprints (5/3/2/1, every 10 laps with double points for final sprint) and for lapping the field (20 points).
+
+There is only one round of competition.<ref name=CompFormat>{{cite web | url = https://www.uci.org/docs/default-source/rules-and-regulations/3-pis-e_english.pdf | title = UCI CYCLING REGULATIONS PART 3 TRACK RACES | date = 2020-12-06 | accessdate = 2020-11-18 | publisher = UCI}}</ref><ref name=NBCformat>{{cite news |url=https://www.nbcolympics.com/news/cycling-101-competition-format |publisher=NBC |title=Cycling 101: Competition format |author=Liam Nee |date=26 March 2021 |access-date=28 June 2021}}</ref>
+
+==Schedule==
+<small>All times are [[Japan Standard Time]] ([[UTC+9]])</small><ref>{{cite web|title=Cycling Track – Competition Schedule|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C08_CTR-------------------------------.pdf|website=olympics.com|publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games|TOCOG]]|date=12 July 2021|access-date=4 August 2021|archive-date=6 August 2021|archive-url=https://web.archive.org/web/20210806093431/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73H_CTRWMADISON-----------FNL-000100--.pdf|url-status=dead}}</ref>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|- style="background:lemonchiffon"
+| 5 August 2021 || '''15:30<br>16:27<br>17:07<br>17:55''' || '''Scratch race<br>Tempo race<br>Elimination race<br>Points race'''
+|}
+
+==Results==
+===Scratch race===
+{|class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Cyclist !! Nation !! Laps down<ref>{{cite web|title=Cycling Track – Men's Omnium – Scratch Race 1/4 Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73I_CTRMOMNIUM------------SCR-000100--.pdf|website=olympics.com|publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games|TOCOG]]|date=5 August 2021|access-date=5 August 2021|archive-date=5 August 2021|archive-url=https://web.archive.org/web/20210805065402/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73I_CTRMOMNIUM------------SCR-000100--.pdf|url-status=dead}}</ref> !! Event points
+|-
+| 1 || align=left|[[Matthew Walls]] || align=left|{{flagIOC|GBR|2020 Summer}} || || 40
+|-
+| 2 || align=left|[[Benjamin Thomas (cyclist)|Benjamin Thomas]] || align=left|{{flagIOC|FRA|2020 Summer}} || || 38
+|-
+| 3 || align=left|[[Jan-Willem van Schip]] || align=left|{{flagIOC|NED|2020 Summer}} || || 36
+|-
+| 4 || align=left|[[Artyom Zakharov]] || align=left|{{flagIOC|KAZ|2020 Summer}} || || 34
+|-
+| 5 || align=left|[[Niklas Larsen]] || align=left|{{flagIOC|DEN|2020 Summer}} || || 32
+|-
+| 6 || align=left|[[Sam Welsford]] || align=left|{{flagIOC|AUS|2020 Summer}} || –1 || 30
+|-
+| 7 || align=left|[[Campbell Stewart]] || align=left|{{flagIOC|NZL|2020 Summer}} || –1 || 28
+|-
+| 8 || align=left|[[Eiya Hashimoto]] || align=left|{{flagIOC|JPN|2020 Summer}} || –1 || 26
+|-
+| 9 || align=left|[[Théry Schir]] || align=left|{{flagIOC|SUI|2020 Summer}} || –1 || 24
+|-
+| 10 || align=left|[[Gavin Hoover]] || align=left|{{flagIOC|USA|2020 Summer}} || –1 || 22
+|-
+| 11 || align=left|[[Kenny De Ketele]] || align=left|{{flagIOC|BEL|2020 Summer}} || –1 || 20
+|-
+| 12 || align=left|[[Roger Kluge]] || align=left|{{flagIOC|GER|2020 Summer}} || –1 || 18
+|-
+| 13 || align=left|[[Elia Viviani]] || align=left|{{flagIOC|ITA|2020 Summer}} || –1 || 16
+|-
+| 14 || align=left|[[Szymon Sajnok]] || align=left|{{flagIOC|POL|2020 Summer}} || –1 || 14
+|-
+| 15 || align=left|[[Albert Torres (cyclist)|Albert Torres]] || align=left|{{flagIOC|ESP|2020 Summer}} || –1 || 12
+|-
+| 16 || align=left|[[Mark Downey]] || align=left|{{flagIOC|IRL|2020 Summer}} || –1 || 10
+|-
+| 17 || align=left|[[Christos Volikakis]] || align=left|{{flagIOC|GRE|2020 Summer}} || –1 || 8
+|-
+| 18 || align=left|[[Yauheni Karaliok]] || align=left|{{flagIOC|BLR|2020 Summer}} || –1 || 6
+|-
+| 19 || align=left|[[Andreas Müller (cyclist)|Andreas Müller]] || align=left|{{flagIOC|AUT|2020 Summer}} || –1 || 4
+|-
+| 20 || align=left|[[David Maree]] || align=left|{{flagIOC|RSA|2020 Summer}} || –2 || 2
+|}
+
+===Tempo race===
+{|  class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Name !! Nation !! Race points<ref>{{cite web|title=Cycling Track – Men's Omnium – Tempo Race 2/4 Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73K_CTRMOMNIUM------------TEMP000100--.pdf|website=olympics.com|publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games|TOCOG]]|date=5 August 2021|access-date=5 August 2021|archive-date=5 August 2021|archive-url=https://web.archive.org/web/20210805075803/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73K_CTRMOMNIUM------------TEMP000100--.pdf|url-status=dead}}</ref> !! Event points
+|-
+| 1 || align=left|[[Jan-Willem van Schip]] || align=left|{{flagIOC|NED|2020 Summer}} || 30 || 40
+|-
+| 2 || align=left|[[Benjamin Thomas (cyclist)|Benjamin Thomas]] || align=left|{{flagIOC|FRA|2020 Summer}} || 23 || 38
+|-
+| 3 || align=left|[[Matthew Walls]] || align=left|{{flagIOC|GBR|2020 Summer}} || 23 || 36
+|-
+| 4 || align=left|[[Théry Schir]] || align=left|{{flagIOC|SUI|2020 Summer}} || 23 || 34
+|-
+| 5 || align=left|[[Gavin Hoover]] || align=left|{{flagIOC|USA|2020 Summer}} || 22 ||32
+|-
+| 6 || align=left|[[Niklas Larsen]] || align=left|{{flagIOC|DEN|2020 Summer}} || 22 || 30
+|-
+| 7 || align=left|[[Kenny De Ketele]] || align=left|{{flagIOC|BEL|2020 Summer}} || 21 || 28
+|-
+| 8 || align=left|[[Elia Viviani]] || align=left|{{flagIOC|ITA|2020 Summer}} || 21 || 26
+|-
+| 9 || align=left|[[Szymon Sajnok]] || align=left|{{flagIOC|POL|2020 Summer}} || 21 || 24
+|-
+| 10 || align=left|[[Albert Torres (cyclist)|Albert Torres]] || align=left|{{flagIOC|ESP|2020 Summer}} || 21 || 22
+|-
+| 11 || align=left|[[Roger Kluge]] || align=left|{{flagIOC|GER|2020 Summer}} || 3 || 20
+|-
+| 12 || align=left|[[Campbell Stewart]] || align=left|{{flagIOC|NZL|2020 Summer}} || 2 || 18
+|-
+| 13 || align=left|[[Sam Welsford]] || align=left|{{flagIOC|AUS|2020 Summer}} || 1 || 16
+|-
+| 14 || align=left|[[Yauheni Karaliok]] || align=left|{{flagIOC|BLR|2020 Summer}} || 1 || 14
+|-
+| 15 || align=left|[[Artyom Zakharov]] || align=left|{{flagIOC|KAZ|2020 Summer}} || 1 || 12
+|-
+| 16 || align=left|[[Eiya Hashimoto]] || align=left|{{flagIOC|JPN|2020 Summer}} || 1 || 10
+|-
+| 17 || align=left|[[Christos Volikakis]] || align=left|{{flagIOC|GRE|2020 Summer}} || 0 || 8
+|-
+| 18 || align=left|[[David Maree]] || align=left|{{flagIOC|RSA|2020 Summer}} || 0 || 6
+|-
+| 19 || align=left|[[Mark Downey]] || align=left|{{flagIOC|IRL|2020 Summer}} || –20 || 4
+|-
+| 20 || align=left|[[Andreas Müller (cyclist)|Andreas Müller]] || align=left|{{flagIOC|AUT|2020 Summer}} || –20 || 2
+|}
+
+===Elimination race===
+{|class="wikitable sortable" style="text-align:center"
+|-
+! Rank !! Name !! Nation !! Event points<ref>{{cite web|title=Cycling Track – Men's Omnium – Elimination Race 3/4 Results|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73J_CTRMOMNIUM------------ELIM000100--.pdf|website=olympics.com|publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games|TOCOG]]|date=5 August 2021|access-date=5 August 2021|archive-date=5 August 2021|archive-url=https://web.archive.org/web/20210805083832/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C73J_CTRMOMNIUM------------ELIM000100--.pdf|url-status=dead}}</ref>
+|-
+| 1 || align=left|[[Elia Viviani]] || align=left|{{flagIOC|ITA|2020 Summer}} || 40
+|-
+| 2 || align=left|[[Matthew Walls]] || align=left|{{flagIOC|GBR|2020 Summer}} || 38
+|-
+| 3 || align=left|[[Théry Schir]] || align=left|{{flagIOC|SUI|2020 Summer}} || 36
+|-
+| 4 || align=left|[[Jan-Willem van Schip]] || align=left|{{flagIOC|NED|2020 Summer}} || 34
+|-
+| 5 || align=left|[[Campbell Stewart]] || align=left|{{flagIOC|NZL|2020 Summer}} || 32
+|-
+| 6 || align=left|[[Benjamin Thomas (cyclist)|Benjamin Thomas]] || align=left|{{flagIOC|FRA|2020 Summer}} || 30
+|-
+| 7 || align=left|[[Albert Torres (cyclist)|Albert Torres]] || align=left|{{flagIOC|ESP|2020 Summer}} || 28
+|-
+| 8 || align=left|[[Niklas Larsen]] || align=left|{{flagIOC|DEN|2020 Summer}} || 26
+|-
+| 9 || align=left|[[Sam Welsford]] || align=left|{{flagIOC|AUS|2020 Summer}} || 24
+|-
+| 10 || align=left|[[Kenny De Ketele]] || align=left|{{flagIOC|BEL|2020 Summer}} || 22
+|-
+| 11 || align=left|[[Gavin Hoover]] || align=left|{{flagIOC|USA|2020 Summer}} || 20
+|-
+| 12 || align=left|[[Eiya Hashimoto]] || align=left|{{flagIOC|JPN|2020 Summer}} || 18
+|-
+| 13 || align=left|[[Artyom Zakharov]] || align=left|{{flagIOC|KAZ|2020 Summer}} || 16
+|-
+| 14 || align=left|[[Christos Volikakis]] || align=left|{{flagIOC|GRE|2020 Summer}} || 14
+|-
+| 15 || align=left|[[David Maree]] || align=left|{{flagIOC|RSA|2020 Summer}} || 12
+|-
+| 16 || align=left|[[Szymon Sajnok]] || align=left|{{flagIOC|POL|2020 Summer}} || 10
+|-
+| 17 || align=left|[[Roger Kluge]] || align=left|{{flagIOC|GER|2020 Summer}} || 8
+|-
+| 18 || align=left|[[Yauheni Karaliok]] || align=left|{{flagIOC|BLR|2020 Summer}} || 6
+|-
+| 19 || align=left|[[Mark Downey]] || align=left|{{flagIOC|IRL|2020 Summer}} || 4
+|-
+| 20 || align=left|[[Andreas Müller (cyclist)|Andreas Müller]] || align=left|{{flagIOC|AUT|2020 Summer}} || 2
+|}
+
+===Points race and final standings===
+{| class="wikitable sortable" style="text-align:center"
+|-
+! width=50|Rank !! Name !! Nation !! width=50|{{abbr|SR|Scratch race}} !! width=50|{{abbr|TR|Tempo race}} !! width=50|{{abbr|ER|Elimination race}} !! width=50|Subtotal !! width=50|Sprint points !! width=50|Lap points !! width=50|Finish order !! width=50|Total points<ref>{{cite web|title=Cycling Track – Men's Omnium – Final Classification|url=https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRMOMNIUM------------------------.pdf|website=olympics.com|publisher=[[Tokyo Organising Committee of the Olympic and Paralympic Games|TOCOG]]|date=5 August 2021|access-date=5 August 2021|archive-date=5 August 2021|archive-url=https://web.archive.org/web/20210805115411/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/CTR/OG2020-_CTR_C74J_CTRMOMNIUM------------------------.pdf|url-status=dead}}</ref>
+|-
+| {{gold01}} || align=left|[[Matthew Walls]] || align=left|{{flagIOC|GBR|2020 Summer}} || 40 || 36 || 38 || '''114''' || 19 || 20 || 2 || '''153'''
+|-
+| {{silver02}} || align=left|[[Campbell Stewart]] || align=left|{{flagIOC|NZL|2020 Summer}} || 28 || 18 || 32 || '''78''' || 11 || 40 || 17 || '''129'''
+|-
+| {{bronze03}} || align=left|[[Elia Viviani]] || align=left|{{flagIOC|ITA|2020 Summer}} || 16 || 26 || 40 || '''82''' || 22 || 20 || 4 || '''124'''
+|-
+| 4 || align=left|[[Benjamin Thomas (cyclist)|Benjamin Thomas]] || align=left|{{flagIOC|FRA|2020 Summer}} || 38 || 38 || 30 || '''106''' || 12 || 0 || 19 || '''118'''
+|-
+| 5 || align=left|[[Niklas Larsen]] || align=left|{{flagIOC|DEN|2020 Summer}} || 32 || 30 || 26 || '''88''' || 5 || 20 || 13 || '''113'''
+|-
+| 6 || align=left|[[Jan-Willem van Schip]] || align=left|{{flagIOC|NED|2020 Summer}} || 36 || 40 || 34 || '''110''' || 2 || 0 || 7 || '''112'''
+|-
+| 7 || align=left|[[Théry Schir]] || align=left|{{flagIOC|SUI|2020 Summer}} || 24 || 34 || 36 || '''94''' || 15 || 0 || 1 || '''109'''
+|-
+| 8 || align=left|[[Gavin Hoover]] || align=left|{{flagIOC|USA|2020 Summer}} || 22 || 32 || 20 || '''74''' || 5 || 20 || 8 || '''99'''
+|-
+| 9 || align=left|[[Roger Kluge]] || align=left|{{flagIOC|GER|2020 Summer}} || 18 || 20 || 8 || '''46''' || 5 || 40 || 12 || '''91'''
+|-
+| 10 || align=left|[[Albert Torres (cyclist)|Albert Torres]] || align=left|{{flagIOC|ESP|2020 Summer}} || 12 || 22 || 28 || '''62''' || 2 || 20 || 11 || '''84'''
+|-
+| 11 || align=left|[[Sam Welsford]] || align=left|{{flagIOC|AUS|2020 Summer}} || 30 || 16 || 24 || '''70''' || 9 || 0 || 3 || '''79'''
+|-
+| 12 || align=left|[[Yauheni Karaliok]] || align=left|{{flagIOC|BLR|2020 Summer}} || 6 || 14 || 6 || '''26''' || 10 || 40 || 10 || '''76'''
+|-
+| 13 || align=left|[[Kenny De Ketele]] || align=left|{{flagIOC|BEL|2020 Summer}} || 20 || 28 || 22 || '''70''' || 0 || 0 || 6 || '''70'''
+|-
+| 14 || align=left|[[Artyom Zakharov]] || align=left|{{flagIOC|KAZ|2020 Summer}} || 34 || 12 || 16 || '''62''' || 0 || 0 || 15 || '''62'''
+|-
+| 15 || align=left|[[Eiya Hashimoto]] || align=left|{{flagIOC|JPN|2020 Summer}} || 26 || 10 || 18 || '''54''' || 0 || 0 || 5 || '''54'''
+|-
+| 16 || align=left|[[Szymon Sajnok]] || align=left|{{flagIOC|POL|2020 Summer}} || 14 || 24 || 10 || '''48''' || 0 || 0 || 14 || '''48'''
+|-
+| 17 || align=left|[[Mark Downey]] || align=left|{{flagIOC|IRL|2020 Summer}} || 10 || 4 || 4 || '''18''' || 0 || 0 || 9 || '''18'''
+|-
+| 18 || align=left|[[Andreas Müller (cyclist)|Andreas Müller]] || align=left|{{flagIOC|AUT|2020 Summer}} || 4 || 2 || 2 || '''8''' || 0 || 0 || 16 || '''8'''
+|-
+| 19 || align=left|[[David Maree]] || align=left|{{flagIOC|RSA|2020 Summer}} || 2 || 6 || 12 || '''20''' || 3 || {{sort|-40|–40}} || 18 || '''{{sort|-17|–17}}'''
+|-
+| {{hs|20}} || align=left|[[Christos Volikakis]] || align=left|{{flagIOC|GRE|2020 Summer}} || 8 || 8 || 14 || '''30''' || 1 || {{sort|-20|–20}} || {{sort|20|DNF}} || '''{{sort|-99|–}}'''
+|}
+
+==References==
+{{Reflist}}
+
+{{Footer Olympic Champions Omnium Men}}
+
+{{DEFAULTSORT:Cycling at the 2020 Summer Olympics - Men's omnium}}
+[[Category:Track cycling at the 2020 Summer Olympics|Men's omnium]]
+[[Category:Cycling at the Summer Olympics – Men's omnium]]
+[[Category:Men's events at the 2020 Summer Olympics]]

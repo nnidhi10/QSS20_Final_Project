@@ -1,0 +1,596 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox Olympic event
+| event    = Women's shot put
+| games    = 2020 Summer
+| image    = Olympic Athletics.svg
+| caption   = Olympic Athletics
+| venue    = [[Japan National Stadium]]
+| dates    = 30 July 2021 <br />(qualifying)<br />1 August 2021<br />(final)
+| competitors = 32
+| nations   = 22
+| win_value  = 20.58 m
+| win_label  = Winning distance
+| gold    = [[Gong Lijiao]]
+| goldNOC   = CHN
+| silver   = [[Raven Saunders]]
+| silverNOC  = USA
+| bronze   = [[Valerie Adams]]
+| bronzeNOC  = NZL
+| prev    = [[Athletics at the 2016 Summer Olympics – Women's shot put|2016]]
+| next    = [[Athletics at the 2024 Summer Olympics – Women's shot put|2024]]
+}}
+{{Athletics at the 2020 Summer Olympics}}
+
+The women's [[shot put]] event at the [[2020 Summer Olympics]] took place on 30 July and 1 August 2021 at the [[Japan National Stadium]].<ref name="Dates">{{cite web |url=https://olympics.com/tokyo-2020/en/schedule/athletics-schedule |title=Athletics Competition Schedule |publisher=Tokyo 2020 |access-date=22 June 2021 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709200259/https://olympics.com/tokyo-2020/en/schedule/athletics-schedule |url-status=live }}</ref> Approximately 35 athletes are expected to compete; the exact number will depend on how many nations use universality places to enter athletes in addition to the 32 qualifying through distance or ranking (2 universality places were used in 2016).<ref name=Qualifying>{{cite news|url=https://www.atleticalive.it/wp-content/uploads/2019/03/Olympic-Games-Tokyo-2020-qualification-system.pdf|title=Qualification System – Games of the XXXI Olympiad – ''Athletics''|publisher=[[IAAF]]|access-date=31 March 2019|archive-date=31 March 2019|archive-url=https://web.archive.org/web/20190331115642/https://www.atleticalive.it/wp-content/uploads/2019/03/Olympic-Games-Tokyo-2020-qualification-system.pdf|url-status=live}}</ref>
+{{TOC limit|3}}
+
+==Summary==
+[[File:Tokyo 2020 Olympic Games women's shot put podium.jpg|thumb|Tokyo 2020 Olympic Games women's shot put podium, from left: silver medalist Raven Saunders, gold medalist Lijao Gong and bronze medalist Valerie Adams]]
+On the first throw of the final [[Raven Saunders]] dropped a 19.65m, which proved sufficient to nail down silver. As the fifth thrower, [[Gong Lijao]]'s 19.95m would prove to be better than anyone else could muster. The only other thrower over 19 metres in the first round was [[Auriol Dongmo]] with 19.29m. In the second round, two time Olympic Champion, in her fifth Olympics, [[Valerie Adams]] tossed 19.49m to move into third and the medal order had been decided. Adams threw her best in the third round with a 19.62m, followed shortly by Gong improving to 19.98m. In the fourth round, Dongmo made her best effort 19.57m, but not enough to pass Adams. In the fifth round, Saunders threw her best 19.79m, but on the next throw, Gong hit 20.53 to extend her lead. Saunders made one more effort in the final round, her shot landing well beyond the 20 meter tape shortly after her foot landed over the toe board making it a foul. Relaxed as the winner, Gong followed with her best effort, {{T&Fcalc|20.58}} to take gold.<ref>{{Cite web |url=https://www.nasdaq.com/articles/olympics-athletics-chinas-gong-lijiao-wins-womens-shot-put-gold-2021-08-01 |title=Olympics-Athletics-China's Gong Lijiao wins women's shot put gold &#124; Nasdaq |access-date=1 August 2021 |archive-date=1 August 2021 |archive-url=https://web.archive.org/web/20210801064717/https://www.nasdaq.com/articles/olympics-athletics-chinas-gong-lijiao-wins-womens-shot-put-gold-2021-08-01 |url-status=live }}</ref>
+
+==Background==
+
+This will be the 19th appearance of the event, having appeared at every Summer Olympics since 1948.
+
+==Qualification==
+{{main|Athletics at the 2020 Summer Olympics – Qualification}}
+
+A [[National Olympic Committee]] (NOC) could enter up to 3 qualified athletes in the women's shot put event if all athletes meet the entry standard or qualify by ranking during the qualifying period. (The limit of 3 has been in place since the 1930 Olympic Congress.) The qualifying standard is 18.50 metres. This standard was "set for the sole purpose of qualifying athletes with exceptional performances unable to qualify through the [[IAAF World Rankings]] pathway." The world rankings, based on the average of the best five results for the athlete over the qualifying period and weighted by the importance of the meet, will then be used to qualify athletes until the cap of 32 is reached.<ref name=Qualifying/><ref name=BBC>{{cite news|url=https://www.bbc.com/sport/athletics/43259616|title=IAAF to follow other sports with world ranking system for athletes|publisher=[[BBC Sport]]|date=7 March 2018|access-date=2 August 2018|archive-date=15 March 2018|archive-url=https://web.archive.org/web/20180315005932/http://www.bbc.com/sport/athletics/43259616|url-status=live}}</ref>
+
+The qualifying period was originally from 1 May 2019 to 29 June 2020. Due to the [[COVID-19 pandemic]], the period was suspended from 6 April 2020 to 30 November 2020, with the end date extended to 29 June 2021. The world rankings period start date was also changed from 1 May 2019 to 30 June 2020; athletes who had met the qualifying standard during that time were still qualified, but those using world rankings would not be able to count performances during that time. The qualifying time standards could be obtained in various meets during the given period that have the approval of the [[IAAF]]. Both outdoor and indoor meets are eligible. The most recent Area Championships may be counted in the ranking, even if not during the qualifying period.<ref name=Qualifying/><ref name=QualSuspension>{{cite news|url=https://www.worldathletics.org/news/press-releases/olympic-qualification-suspended-2020|title=Olympic qualification period suspended until 1 December 2020|publisher=[[World Athletics]]|date=6 April 2020|access-date=9 April 2020|archive-date=9 April 2020|archive-url=https://web.archive.org/web/20200409184416/https://www.worldathletics.org/news/press-releases/olympic-qualification-suspended-2020|url-status=live}}</ref>
+
+NOCs can also use their universality place—each NOC can enter one female athlete regardless of time if they had no female athletes meeting the entry standard for an athletics event—in the shot put.<ref name=Qualifying/>
+
+==Competition format==
+
+The 2020 competition will continue to use the two-round format with divided final introduced in 1936. The qualifying round gives each competitor three throws to achieve a qualifying distance (not yet set; 2016 used 18.40 metres); if fewer than 12 women do so, the top 12 will advance. The final provides each thrower with three throws; the top eight throwers receive an additional three throws for a total of six, with the best to count (qualifying round throws are not considered for the final).<ref name=Format>{{cite news | title=Athletics Explanatory Guide | publisher=Tokyo 2020 | date=August 2019 | url=https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/Sport_Explanatory_Guide/Athletics_Sport_Explanatory_Guide_Olympic.pdf | access-date=22 June 2021 | archive-date=24 June 2021 | archive-url=https://web.archive.org/web/20210624203848/https://cdn.dosb.de/user_upload/Olympische_Spiele/Tokio_2020/Sport_Explanatory_Guide/Athletics_Sport_Explanatory_Guide_Olympic.pdf | url-status=live }}</ref>
+
+==Records==
+Prior to this competition, the existing world, Olympic, and area records are as follows.
+
+{{World Olympic Record
+| world_athlete = {{flagathlete|[[Natalya Lisovskaya]]|URS}}
+| world_mark  = 22.63
+| world_place  = [[Moscow]], [[Soviet Union]]
+| world_date  = 7 June 1987
+| olympic_athlete = {{flagIOCathlete|[[Ilona Slupianek]]|GDR|1980 Summer}}
+| olympic_mark = 22.41
+| olympic_place = [[Moscow]], Soviet Union
+| olympic_date = 24 July 1980
+}}
+
+{| class="wikitable"
+! Area
+! Distance (m)
+! Athlete
+! Nation
+|-
+| [[Confederation of African Athletics|Africa]] {{small|(''[[List of African records in athletics|records]]'')}} || '''18.43''' || [[Vivian Chukwuemeka]] || {{Flagu|Nigeria}} 
+|-
+| [[Asian Athletics Association|Asia]] {{small|(''[[List of Asian records in athletics|records]]'')}} || '''21.76''' || [[Li Meisu]] || {{Flagu|China}}
+|-
+| [[European Athletic Association|Europe]] {{small|(''[[List of European records in athletics|records]]'')}} || '''22.63''' {{WR|athletics}} || [[Natalya Lisovskaya]] || {{Flagu|Soviet Union}} 
+|-
+| [[North American, Central American and Caribbean Athletic Association|North, Central America<br />and the Caribbean]] {{small|(''[[List of North, Central American and Caribbean records in athletics|records]]'')}} || '''20.96''' || [[Belsy Laza]]  || {{Flagu|Cuba}}
+|-
+| [[Oceania Athletics Association|Oceania]] {{small|(''[[List of Oceanian records in athletics|records]]'')}} || '''21.24''' || [[Valerie Adams]] || {{Flagu|New Zealand}}
+|-
+| [[CONSUDATLE|South America]] {{small|(''[[List of South American records in athletics|records]]'')}} || '''19.30''' || [[Elisângela Adriano]] || {{Flagu|Brazil}}
+|}
+
+==Schedule==
+
+<small>All times are [[Japan Standard Time]] ([[UTC+9]])</small>
+
+The women's shot put will take place over two separate days.<ref name="Dates"/>
+
+{| class="wikitable"
+! Date
+! Time
+! Round
+|-
+| Friday, 30 July 2021 || '''19:00''' || '''Qualifying'''
+|- style=background:lemonchiffon
+| Sunday, 1 August 2021 || '''9:10'''|| '''Final'''
+|}
+
+== Results ==
+
+=== Qualifying ===
+Qualification Rules: Qualifying performance 18.80 (Q) or at least 12 best performers (q) advance to the Final.
+
+{| class="wikitable sortable" style="text-align:center;"
+!Rank
+!Group
+!Athlete
+!Nation
+!1
+!2
+!3
+! Distance
+!Notes
+|-bgcolor=bbf3bb
+|1
+|B
+|align="left" |[[Gong Lijiao]]
+|align="left" |{{FlagIOC|CHN|2020 Summer}}
+|'''19.46'''
+| –
+| –
+|'''19.46'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|2
+|B
+|align="left" |[[Song Jiayuan]]
+|align="left" |{{FlagIOC|CHN|2020 Summer}}
+|x
+|'''19.23'''
+| –
+|'''19.23'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|3
+|A
+|align="left" |[[Raven Saunders]]
+|align="left" |{{FlagIOC|USA|2020 Summer}}
+|x
+|'''19.22'''
+| –
+|'''19.22'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|4
+|A
+|align="left" |[[Fanny Roos]]
+|align="left" |{{FlagIOC|SWE|2020 Summer}}
+|'''19.01'''
+| –
+| –
+|'''19.01'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|5
+|A
+|align="left" |[[Aliona Dubitskaya]]
+|align="left" |{{FlagIOC|BLR|2020 Summer}}
+|18.61
+|x
+|'''18.89'''
+|'''18.89'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|6
+|B
+|align="left" |[[Valerie Adams]]
+|align="left" |{{FlagIOC|NZL|2020 Summer}}
+|18.75
+|18.59
+|'''18.83'''
+|'''18.83'''
+|{{AthAbbr|Q}}
+|-bgcolor=bbf3bb
+|7
+|A
+|align="left" |[[Gao Yang (shot putter)|Gao Yang]]
+|align="left" |{{FlagIOC|CHN|2020 Summer}}
+|18.51
+|'''18.80'''
+| –
+|'''18.80'''
+|{{AthAbbr|Q}}, {{AthAbbr|SB}}
+|-bgcolor=bbf3bb
+|7
+|B
+|align="left" |[[Auriol Dongmo]]
+|align="left" |{{FlagIOC|POR|2020 Summer}}
+|'''18.80'''
+| –
+| –
+|'''18.80'''
+|{{AthAbbr|Q}}
+|-bgcolor=ccf3cc
+|9
+|A
+|align="left" |[[Portious Warren]]
+|align="left" |{{FlagIOC|TTO|2020 Summer}}
+|18.21
+|18.23
+|'''18.75'''
+|'''18.75'''
+|{{AthAbbr|q}}, {{AthAbbr|PB}}
+|-bgcolor=ccf3cc
+|9
+|A
+|align="left" |[[Jessica Ramsey]]
+|align="left" |{{FlagIOC|USA|2020 Summer}}
+|x
+|x
+|'''18.75'''
+|'''18.75'''
+|{{AthAbbr|q}}
+|-bgcolor=ccf3cc
+|11
+|A
+|align="left" |[[Maddi Wesche]]
+|align="left" |{{FlagIOC|NZL|2020 Summer}}
+|'''18.65'''
+|16.80
+|18.53
+|'''18.65'''
+|{{AthAbbr|q}}, {{AthAbbr|PB}}
+|-bgcolor=ccf3cc
+|12
+|B
+|align="left" |[[Sara Gambetta]]
+|align="left" |{{FlagIOC|GER|2020 Summer}}
+|x
+|'''18.57'''
+|17.35
+|'''18.57'''
+|{{AthAbbr|q}}
+|-
+|13
+|B
+|align="left" |[[Danniel Thomas-Dodd]]
+|align="left" |{{FlagIOC|JAM|2020 Summer}}
+|x
+|'''18.37'''
+|18.24
+|'''18.37'''
+|
+|-
+|14
+|A
+|align="left" |[[Christina Schwanitz]]
+|align="left" |{{FlagIOC|GER|2020 Summer}}
+|17.51
+|17.72
+|'''18.08'''
+|'''18.08'''
+|
+|-
+|15
+|A
+|align="left" |[[Katharina Maisch]]
+|align="left" |{{FlagIOC|GER|2020 Summer}}
+|16.92
+|'''17.89'''
+|17.72
+|'''17.89'''
+|
+|-
+|16
+|B
+|align="left" |[[Emel Dereli]]
+|align="left" |{{FlagIOC|TUR|2020 Summer}}
+|x
+|'''17.81'''
+|17.69
+|'''17.81'''
+|
+|-
+|16
+|B
+|align="left" |[[Sophie McKinna]]
+|align="left" |{{FlagIOC|GBR|2020 Summer}}
+|'''17.81'''
+|x
+|17.60
+|'''17.81'''
+|
+|-
+|18
+|A
+|align="left" |[[Klaudia Kardasz]]
+|align="left" |{{FlagIOC|POL|2020 Summer}}
+|x
+|17.29
+|'''17.76'''
+|'''17.76'''
+|
+|-
+|19
+|A
+|align="left" |[[Jessica Schilder]]
+|align="left" |{{FlagIOC|NED|2020 Summer}}
+|16.69
+|'''17.74'''
+|16.82
+|'''17.74'''
+|
+|-
+|20
+|B
+|align="left" |[[Adelaide Aquilla]]
+|align="left" |{{FlagIOC|USA|2020 Summer}}
+|17.38
+|'''17.68'''
+|16.62
+|'''17.68'''
+|
+|-
+|21
+|B
+|align="left" |[[Anita Márton]]
+|align="left" |{{FlagIOC|HUN|2020 Summer}}
+|17.42
+|'''17.59'''
+|x
+|'''17.59'''
+|{{AthAbbr|SB}}
+|-
+|22
+|A
+|align="left" |[[Lloydricia Cameron]]
+|align="left" |{{FlagIOC|JAM|2020 Summer}}
+|17.29
+|x
+|'''17.43'''
+|'''17.43'''
+|
+|-
+|23
+|A
+|align="left" |[[María Belén Toimil]]
+|align="left" |{{FlagIOC|ESP|2020 Summer}}
+|x
+|x
+|'''17.38'''
+|'''17.38'''
+|
+|-
+|24
+|B
+|align="left" |[[Markéta Červenková]]
+|align="left" |{{FlagIOC|CZE|2020 Summer}}
+|'''17.33'''
+|x
+|17.05
+|'''17.33'''
+|
+|-
+|25
+|B
+|align="left" |[[Ahymara Espinoza]]
+|align="left" |{{FlagIOC|VEN|2020 Summer}}
+|'''17.17'''
+|16.74
+|16.50
+|'''17.17'''
+|
+|-
+|26
+|A
+|align="left" |[[Ol'ha Holodna|Olha Golodna]]
+|align="left" |{{FlagIOC|UKR|2020 Summer}}
+|16.07
+|'''17.15'''
+|17.08
+|'''17.15'''
+|
+|-
+|27
+|B
+|align="left" |[[Paulina Guba]]
+|align="left" |{{FlagIOC|POL|2020 Summer}}
+|x
+|'''16.98'''
+|16.96
+|'''16.98'''
+|
+|-
+|28
+|B
+|align="left" |[[Sarah Mitton]]
+|align="left" |{{FlagIOC|CAN|2020 Summer}}
+|'''16.62'''
+|x
+|x
+|'''16.62'''
+|
+|-
+|29
+|A
+|align="left" |[[Dimitriana Surdu]]
+|align="left" |{{FlagIOC|MDA|2020 Summer}}
+|15.61
+|'''16.55'''
+|x
+|'''16.55'''
+|
+|-
+|30
+|B
+|align="left" |[[Geisa Arcanjo]]
+|align="left" |{{FlagIOC|BRA|2020 Summer}}
+|'''16.46'''
+|x
+|x
+|'''16.46'''
+|
+|-
+|31
+|B
+|align="left" |[[Sopo Shatirishvili]]
+|align="left" |{{FlagIOC|GEO|2020 Summer}}
+|14.91
+|'''15.31'''
+|x
+|'''15.31'''
+|
+|-
+| –
+|A
+|align="left" |[[Brittany Crew]]
+|align="left" |{{FlagIOC|CAN|2020 Summer}}
+|x
+|x
+|x
+|'''—'''
+|{{AthAbbr|NM}}
+|}
+
+=== Final ===
+{| class="wikitable sortable" style="text-align:center"
+!Rank
+!Athlete
+!Nation
+!1
+!2
+!3
+!4
+!5
+!6
+!Distance
+!Notes
+|-
+|{{gold1}}
+| align="left" |[[Gong Lijiao]]
+| align="left" |{{FlagIOC|CHN|2020 Summer}}
+|19.95
+|x
+|19.98
+|19.80
+|20.53
+|'''20.58'''
+|'''20.58'''
+|{{AthAbbr|PB}}
+|-
+|{{silver2}}
+| align="left" |[[Raven Saunders]]
+| align="left" |{{FlagIOC|USA|2020 Summer}}
+|19.65
+|x
+|19.62
+|19.49
+|'''19.79'''
+|x
+|'''19.79'''
+|
+|-
+|{{bronze3}}
+| align="left" |[[Valerie Adams]]
+| align="left" |{{FlagIOC|NZL|2020 Summer}}
+|18.62
+|19.49
+|'''19.62'''
+|x
+|x
+|18.76
+|'''19.62'''
+|
+|-
+|4
+| align="left" |[[Auriol Dongmo]]
+| align="left" |{{FlagIOC|POR|2020 Summer}}
+|19.29
+|18.95
+|19.17
+|'''19.57'''
+|19.45
+|19.45
+|'''19.57'''
+|
+|-
+|5
+| align="left" |[[Song Jiayuan]]
+| align="left" |{{FlagIOC|CHN|2020 Summer}}
+|18.11
+|'''19.14'''
+|18.74
+|x
+|x
+|18.26
+|'''19.14'''
+|
+|-
+|6
+| align="left" |[[Maddi Wesche]]
+| align="left" |{{FlagIOC|NZL|2020 Summer}}
+|17.45
+|18.42
+|'''18.98'''
+|18.18
+|18.50
+|18.47
+|'''18.98'''
+|{{AthAbbr|PB}}
+|-
+|7
+| align="left" |[[Fanny Roos]]
+| align="left" |{{FlagIOC|SWE|2020 Summer}}
+|17.99
+|18.02
+|'''18.91'''
+|x
+|18.72
+|18.76
+|'''18.91'''
+|
+|-
+|8
+| align="left" |[[Sara Gambetta]]
+| align="left" |{{FlagIOC|GER|2020 Summer}}
+|18.37
+|18.04
+|'''18.88'''
+|x
+|18.48
+|18.38
+|'''18.88'''
+|{{AthAbbr|PB}}
+|-
+|9
+| align="left" |[[Aliona Dubitskaya]]
+| align="left" |{{FlagIOC|BLR|2020 Summer}}
+|17.76
+|18.57
+|'''18.73'''
+| colspan="3" |Did not advance
+|'''18.73'''
+|
+|-
+|10
+| align="left" |[[Gao Yang (shot putter)|Gao Yang]]
+| align="left" |{{FlagIOC|CHN|2020 Summer}}
+|18.45
+|'''18.67'''
+|18.51
+| colspan="3" |Did not advance
+|'''18.67'''
+|
+|-
+|11
+| align="left" |[[Portious Warren]]
+| align="left" |{{FlagIOC|TTO|2020 Summer}}
+|18.01
+|18.01
+|'''18.32'''
+| colspan="3" |Did not advance
+|'''18.32'''
+|
+|-
+|{{hs|12}}
+| align="left" |[[Jessica Ramsey]]
+| align="left" |{{FlagIOC|USA|2020 Summer}}
+|x
+|x
+|x
+| colspan="3" |Did not advance
+|'''−'''
+|{{AthAbbr|NM}}
+|}
+
+==References==
+{{Reflist}}
+
+{{OlympicsShotPut}}
+{{Footer Olympic Champions Shot Put Women}}
+
+{{DEFAULTSORT:Athletics at the 2020 Summer Olympics - Women's shot put}}
+[[Category:Athletics at the 2020 Summer Olympics|Women's shot put]]
+[[Category:Shot put at the Olympics|2020]]
+[[Category:Women's events at the 2020 Summer Olympics]]
+[[Category:2021 in women's sport of athletics|Olympics]]

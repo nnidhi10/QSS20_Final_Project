@@ -1,0 +1,460 @@
+{{short description|none}}
+{{Infobox Olympic event
+|event=Women's pole vault
+|games=2024 Summer
+|image=
+|caption=
+|venue=[[Stade de France]], [[Paris]], France
+|competitors=
+|nations=
+|teams=
+|win_label=Winning height
+|win_value= 4.90 m
+|gold=[[Nina Kennedy]]
+|goldNOC=AUS
+|silver=[[Katie Moon]]
+|silverNOC=USA
+|bronze=[[Alysha Newman]]
+|bronzeNOC=CAN
+|prev=[[Athletics at the 2020 Summer Olympics – Women's pole vault|2020]]
+|next=[[Athletics at the 2028 Summer Olympics – Women's pole vault|2028]]
+|date={{ubl|5 August 2024 (qualification)<br>7 August 2024 (final)}}}}
+<!--[[Image:TV-icon-2.svg|thumb|110px|'''[https://www.youtube.com/watch?v=  Official Video]''']]-->
+{{Athletics at the 2024 Summer Olympics}}
+
+The women's [[pole vault]] at the [[2024 Summer Olympics]] was held in [[Paris]], France, on 5 and 7 August 2024. This was the seventh time that the event was contested at the [[Summer Olympics]]. 
+
+==Summary==
+Two of the medalists from the previous Olympics, returned, [[Katie Moon|Katie Nageotte]] and [[Holly Bradshaw]].  Russian athletes were not invited to these Olympics, eliminating [[Anzhelika Sidorova]].  2016 champion [[Aikaterini Stefanidi]], bronze medalist [[Eliza McCartney]], [[2023 World Athletics Championships – Women's pole vault|2023 World Co-Champion]] [[Nina Kennedy]] and bronze medalist [[Wilma Murto]] also competed.  The seasonal world leader and World Indoor Champion [[Molly Caudery]] was expected{{fact|date=March 2025}} to be a favorite. [[Angelica Moser]] was #2 on the list this year.<ref>https://worldathletics.org/records/toplists/jumps/pole-vault/all/women/senior/2024?regionType=world&page=1&bestResultsOnly=false&maxResultsByCountry=all&eventId=10229527&ageCategory=senior</ref>
+
+In the qualification round, Bradshaw topped out early with three misses at {{height|m=4.40|frac=8}}.  Caudery did not start until 4.55 m and then failed to clear the bar on any of her attempts.  Eleven athletes cleared 4.55 m, so to include the top twelve plus ties, nine more athletes who cleared 4.40 on their first attempt moved on for a final of twenty competitors.
+
+With [[Ariadni Adamopoulou]] having to withdraw due to injury, nineteen athletes started the final. All got over 4.40 m except [[Eliza McCartney]], who passed.  Effectively the 9 who failed to clear 4.55 m in the qualification round, now had the opportunity to try 4.60 m a day later, [[Robeilys Peinado]], [[Marie-Julie Bonnin]] and [[Imogen Ayris]] succeeding.  Nine got over {{height|m=4.70|frac=8}}, with only [[Amalie Svabikova]] and Kennedy not making it on the first attempt.  At 4.80, [[Alysha Newman]], Kennedy, Moon and Moser got over on their first attempt, Moon and Moser maintaining a perfect round.  Svabikova took until her last attempt to get over.  At {{height|m=4.85|frac=8}}, Kennedy was the only one to get over on her first attempt, putting her into the lead.  Newman and Moon made it on their second attempt. Svabikova missed all three while Moser missed her first two and passed to take one attempt at {{height|m=4.90|frac=8}}.  Newman missed, then Moon missed on her first attempt.  When Moser missed her attempt, the medalists were determined.
+
+In the final round, Kennedy cleared first.  On fewer misses, Moon was in silver position.  She chose to pass to take two attempts for the win.  Newman, with an earlier miss at 4.60, took two more attempts and failed.  If Moon didn't clear, Kennedy had the win. Moon was the only one of the three who had previously cleared five meters, but failed her first attempt.  Kennedy failed and Moon was down to her last attempt.  When she missed, Kennedy withdrew to celebrate her Olympic gold medal.<ref>{{cite web |title=Women's Pole Vault - Final extended start list |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_N59A_ATHWPLEVAULT----------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024 |date=7 August 2024}}</ref><ref>{{cite web |title=Women's Pole Vault - Final results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73G2_ATHWPLEVAULT----------FNL-000100--.pdf |website=Olympics |access-date=11 August 2024 |date=7 August 2024}}</ref>
+
+== Background ==
+The women's [[Pole vault at the Olympics|pole vault]] has been present on the [[Athletics at the Summer Olympics|Olympic athletics programme]] since [[2000 Summer Olympics|2000]].
+{| class="wikitable"
+|+Global records before the 2024 Summer Olympics
+!Record
+!Athlete (Nation)
+!Height (m)
+!Location
+!Date
+|-
+![[List of world records in athletics|World record]]
+| rowspan="2" |{{Flagathlete|[[Yelena Isinbayeva]]|RUS}}
+|'''5.06<ref name="WR">"[https://worldathletics.org/records/all-time-toplists/jumps/pole-vault/all/women/senior?regionType=world&page=1&bestResultsOnly=true&firstDay=1900-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=10229527&ageCategory=senior All time Top lists – Senior – Pole vault women]", ''[[World Athletics]]'', 29 June 2024. Retrieved 29 June 2024.</ref>'''
+|[[Zurich|Zürich]], Switzerland
+|28 August 2009
+|-
+![[List of Olympic records in athletics|Olympic record]]
+|'''5.05'''
+|[[Beijing]], China
+|18 August 2008
+|-
+!World leading
+|{{Flagathlete|[[Molly Caudery]]|GBR}}
+|'''4.92<ref name="WL">"[https://worldathletics.org/records/all-time-toplists/jumps/pole-vault/all/women/senior?regionType=world&page=1&bestResultsOnly=true&firstDay=2024-01-01&lastDay=2024-08-01&maxResultsByCountry=all&eventId=10229527&ageCategory=senior Season Top Lists – Senior 2024 – Pole vault women]", ''[[World Athletics]]'', 2024. Retrieved 29 June 2024.</ref>'''
+|[[Toulouse]], France
+|22 June 2024
+|}
+{| class="wikitable"
+|+Area records before the 2024 Summer Olympics<ref>{{Cite web |date=3 July 2024 |title=Records – Pole vault women |url=https://worldathletics.org/records/by-discipline/jumps/pole-vault/all/women |access-date=3 July 2024 |website=[[World Athletics]]}}</ref>
+!Area Record
+!Athlete (Nation)
+!Height (m)
+|-
+|'''[[Confederation of African Athletics|Africa]] (''[[List of African records in athletics|records]]'')'''
+|{{Flagathlete|[[Elmarie Gerryts]]|RSA}}
+|'''4.42'''
+|-
+|'''[[Asian Athletics Association|Asia]] (''[[List of Asian records in athletics|records]]'')'''
+|{{Flagathlete|[[Li Ling (pole vaulter)|Li Ling]]|CHN}}
+|'''4.72'''
+|-
+|'''[[European Athletic Association|Europe]] (''[[List of European records in athletics|records]]'')'''
+|{{Flagathlete|[[Yelena Isinbayeva]]|RUS}}
+|'''5.06 [[List of world records in athletics|<abbr>WR</abbr>]]'''
+|-
+|'''[[North America, Central America and Caribbean Athletic Association|North, Central America<br>and Caribbean]]''' '''(''[[List of North, Central American and Caribbean records in athletics|records]]'')'''
+|{{Flagathlete|[[Sandi Morris]]|USA}}
+|'''5.00'''
+|-
+|'''[[Oceania Athletics Association|Oceania]] (''[[List of Oceanian records in athletics|records]]'')'''
+|{{Flagathlete|[[Eliza McCartney]]|NZL}}
+|'''4.94'''
+|-
+|'''[[Atletismo Sudamericano|South America]] (''[[List of South American records in athletics|records]]'')'''
+|{{Flagathlete|[[Fabiana Murer]]|BRA}}
+|'''4.87'''
+|}
+
+== Qualification ==
+{{main|Athletics at the 2024 Summer Olympics – Qualification#Women's pole vault}}
+
+For the women's pole vault event, the qualification period was between 1 July 2023 and 30 June 2024. 32 athletes were able to qualify for the event, with a maximum of three athletes per nation, by jumping the entry standard of {{height|m=4.73|frac=16}} or higher or by their [[World Athletics Ranking]] for this event.<ref name="qualification2">Sean McAlister, "[https://olympics.com/en/news/how-to-qualify-paris-2024-athletics-qualification-system-explained How to qualify for athletics at Paris 2024. The Olympics qualification system explained]", ''[[Olympics.com]]'', 20 December 2022. Retrieved 29 June 2024.</ref>
+
+== Results ==
+
+=== Qualification ===
+The qualification was held on 5 August, starting at 10:40 (UTC+2) in the morning. 32 athletes qualified for the first round by qualification standard or world ranking.<ref name="schedule2">"[https://olympics.com/en/paris-2024/schedule/athletics Paris 2024 - Olympic Schedule - Athletics]", ''[[Olympics.com]]''. Retrieved 29 June 2024.</ref><ref name=":0">{{Cite web |title=Road To {{!}} World Athletics |url=https://worldathletics.org/stats-zone/road-to/7153115?eventId=10229511 |access-date=2024-07-07 |website=worldathletics.org}}</ref> All athletes meeting the qualification standard of 4.70 (Q) or at least 12 best performers (q) advance to final
+{| class="wikitable sortable" style="text-align:center;"
+!Rank
+!Group
+!Athlete
+!Nation
+!4.20
+!4.40
+!4.55
+!Height
+!Notes
+|- bgcolor="#ccf9cc"
+| rowspan="6" |1
+|A
+| align="left" |[[Roberta Bruni]]
+| align="left" |{{FlagIOC|ITA|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Nina Kennedy]]
+| align="left" |{{FlagIOC|AUS|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Elisa Molinarolo]]
+| align="left" |{{FlagIOC|ITA|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Katie Moon]]
+| align="left" |{{FlagIOC|USA|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Angelica Moser]]
+| align="left" |{{FlagIOC|SUI|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Amálie Švábíková]]
+| align="left" |{{FlagIOC|CZE|2024 Summer}}
+|o
+|o
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+| rowspan="2" |7
+|A
+| align="left" |[[Elina Lampela]]
+| align="left" |{{FlagIOC|FIN|2024 Summer}}
+|o
+|xo
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Alysha Newman]]
+| align="left" |{{FlagIOC|CAN|2024 Summer}}
+|o
+|xo
+|'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+| rowspan="3" |9
+|B
+| align="left" |[[Eliza McCartney]]
+| align="left" |{{FlagIOC|NZL|2024 Summer}}
+|–
+|o
+|x'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Wilma Murto]]
+| align="left" |{{FlagIOC|FIN|2024 Summer}}
+|–
+|o
+|x'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Katerina Stefanidi|Aikaterini Stefanidi]]
+| align="left" |{{FlagIOC|GRE|2024 Summer}}
+|o
+|o
+|x'''o'''
+|'''4.55'''
+|q
+|- bgcolor="#ccf9cc"
+| rowspan="9" |12{{refn|group=n|name=heats|All athletes finishing in joint-12th advanced to the final}}
+|B
+| align="left" |[[Ariadni Adamopoulou]]
+| align="left" |{{FlagIOC|GRE|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Imogen Ayris]]
+| align="left" |{{FlagIOC|NZL|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Marie-Julie Bonnin]]
+| align="left" |{{FlagIOC|FRA|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Ninon Chapelle]]
+| align="left" |{{FlagIOC|FRA|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Anjuli Knäsche]]
+| align="left" |{{FlagIOC|GER|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|A
+| align="left" |[[Olivia McTaggart]]
+| align="left" |{{FlagIOC|NZL|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Robeilys Peinado]]
+| align="left" |{{FlagIOC|VEN|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Lene Retzius|Lene Onsrud Retzius]]
+| align="left" |{{FlagIOC|NOR|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|- bgcolor="#ccf9cc"
+|B
+| align="left" |[[Tina Šutej]]
+| align="left" |{{FlagIOC|SLO|2024 Summer}}
+|o
+|'''o'''
+|xxx
+|'''4.40'''
+|q
+|-
+|21
+|A
+| align="left" |[[Juliana Campos|Juliana de Campos]]
+| align="left" |{{FlagIOC|BRA|2024 Summer}}
+|xxo
+|'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+| rowspan="3" |22
+|B
+| align="left" |[[Brynn King]]
+| align="left" |{{FlagIOC|USA|2024 Summer}}
+|o
+|x'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+|B
+| align="left" |[[Niu Chunge]]
+| align="left" |{{FlagIOC|CHN|2024 Summer}}
+|o
+|x'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+|A
+| align="left" |[[Bridget Williams (athlete)|Bridget Williams]]
+| align="left" |{{FlagIOC|USA|2024 Summer}}
+|o
+|x'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+|25
+|A
+| align="left" |[[Hanga Klekner]]
+| align="left" |{{FlagIOC|HUN|2024 Summer}}
+|xo
+|x'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+|26
+|B
+| align="left" |[[Anicka Newell]]
+| align="left" |{{FlagIOC|CAN|2024 Summer}}
+|o
+|xx'''o'''
+|xxx
+|'''4.40'''
+|
+|-
+|27
+|B
+| align="left" |[[Pascale Stöcklin]]
+| align="left" |{{FlagIOC|SUI|2024 Summer}}
+|'''o'''
+|xxx
+|
+|'''4.20'''
+|
+|-
+|28
+|A
+| align="left" |[[Holly Bradshaw]]
+| align="left" |{{FlagIOC|GBR|2024 Summer}}
+|x'''o'''
+|xxx
+|
+|'''4.20'''
+|
+|-
+|29
+|B
+| align="left" |[[Molly Caudery]]
+| align="left" |{{FlagIOC|GBR|2024 Summer}}
+|–
+|–
+|xxx
+|'''{{AthAbbr|NM}}'''
+|
+|-
+|bgcolor="#ff4242" rowspan="2" |DQ{{refn|group=n|name=DQ|On 6 August 2024 Polak was provisionally suspended due to an Adverse Analytical Finding receiving a DQ according to anti-doping Rule 10.1.}}<ref>{{cite web |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C67_ATHWPLEVAULT----------QUAL--------6.pdf |title=Provisional Suspension (GRE) – Women's Pole Vault |publisher=Paris 2024 |date=6 August 2024 |access-date=8 August 2024 |archive-url=https://web.archive.org/web/20240808205212/https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C67_ATHWPLEVAULT----------QUAL--------6.pdf |archive-date=8 August 2024}}</ref>
+|A
+| align="left" |[[Eleni-Klaoudia Polak]]
+| align="left" |{{FlagIOC|GRE|2024 Summer}}
+|'''{{strikethrough|o}}'''
+|{{strikethrough|xxx}}
+|
+|'''{{strikethrough|4.20}}'''
+|
+|-
+|}
+
+{{reflist|group=n}}
+<ref>{{cite web |title=Women's Pole Vault - Qualification results |url=https://olympics.com/OG2024/pdf/OG2024/ATH/OG2024_ATH_C73G1_ATHWPLEVAULT----------QUAL--------.pdf |website=Olympics |access-date=11 August 2024 |date=6 August 2024}}</ref>
+
+=== Final ===
+The final was held on 7 August, starting at 19:00 (UTC+2) in the evening.<ref name="schedule2" /><ref name=":0" />
+
+{| class="wikitable" style="text-align: center;"
+|+ Final results
+|-
+! Rank !! Athlete !! Nation !! 4.40 !! 4.60 !! 4.70 !! 4.80 !! 4.85 !! 4.90 !! 4.95 !! Result !! Notes
+|-
+| {{gold1}} || align=left|[[Nina Kennedy]] || align=left|{{FlagIOC|AUS|2024 Summer}} || o || o || xo || o || o || '''o''' || xr || '''4.90''' || {{AthAbbr|SB|Season best}}
+|-
+| {{silver2}} || align=left|[[Katie Moon]] || align=left|{{FlagIOC|USA|2024 Summer}} || o || o || o || o || x'''o''' || x- || xx || '''4.85''' || ={{AthAbbr|SB|Season best}}
+|-
+| {{bronze3}} || align=left|[[Alysha Newman]] || align=left|{{FlagIOC|CAN|2024 Summer}} || o || xo || o || o || x'''o''' || xxx || || '''4.85''' || {{AthAbbr|NR|Canadian}} 
+|-
+| 4 || align=left|[[Angelica Moser]] || align=left|{{FlagIOC|SUI|2024 Summer}} || o || o || o || '''o''' || xx- || x || || '''4.80''' || 
+|-
+| 5 || align=left|[[Amálie Švábíková]] || align=left|{{FlagIOC|CZE|2024 Summer}} || o || o || xo || xx'''o''' || xxx || || || '''4.80''' || {{AthAbbr|NR|Czech}}
+|-
+| 6 || align=left|[[Eliza McCartney]] || align=left|{{FlagIOC|NZL|2024 Summer}} || – || o || '''o''' || xxx || || || || '''4.70''' || 
+|-
+| 6 || align=left|[[Elisa Molinarolo]] || align=left|{{FlagIOC|ITA|2024 Summer}} || o || o || '''o''' || xxx || || || || '''4.70''' || {{AthAbbr|PB|Personal best}}
+|-
+| 6 || align=left|[[Wilma Murto]] || align=left|{{FlagIOC|FIN|2024 Summer}} || o || o || '''o''' || xxx || || || || '''4.70''' || 
+|-
+| 9 || align=left|[[Aikaterini Stefanidi]] || align=left|{{FlagIOC|GRE|2024 Summer}} || xo || o || '''o''' || xxx || || || || '''4.70''' || 
+|-
+| 10 || align=left|[[Robeilys Peinado]] || align=left|{{FlagIOC|VEN|2024 Summer}} || o || x'''o''' || xxx || || || || || '''4.60''' || {{AthAbbr|SB|Season best}}
+|-
+| 11 || align=left|[[Marie-Julie Bonnin]] || align=left|{{FlagIOC|FRA|2024 Summer}} || xo || x'''o''' || xxx || || || || || '''4.60''' || 
+|-
+| 12 || align=left|[[Imogen Ayris]] || align=left|{{FlagIOC|NZL|2024 Summer}} || xxo || x'''o''' || xxx || || || || || '''4.60''' || | {{AthAbbr|PB|Personal best}}
+|-
+| 13 || align=left|[[Olivia McTaggart]] || align=left|{{FlagIOC|NZL|2024 Summer}} || o || xx'''o''' || xxx || || || || || '''4.60''' || 
+|-
+| 14 || align=left|[[Roberta Bruni]] || align=left|{{FlagIOC|ITA|2024 Summer}} || '''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+| 14 || align=left|[[Ninon Chapelle]] || align=left|{{FlagIOC|FRA|2024 Summer}} || '''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+| 14 || align=left|[[Anjuli Knäsche]] || align=left|{{FlagIOC|GER|2024 Summer}} || '''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+| 14 || align=left|[[Elina Lampela]] || align=left|{{FlagIOC|FIN|2024 Summer}} || '''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+| 18 || align=left|[[Lene Onsrud Retzius]] || align=left|{{FlagIOC|NOR|2024 Summer}} || x'''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+| 19 || align=left|[[Tina Šutej]] || align=left|{{FlagIOC|SLO|2024 Summer}} || xx'''o''' || xxx || || || ||  || || '''4.40''' || 
+|-
+|  || align=left|[[Ariadni Adamopoulou]] || align=left|{{FlagIOC|GRE|2024 Summer}} ||  ||  ||  || || ||  || || '''DNS''' || 
+|}
+
+== References ==
+<references ></references>
+
+{{OlympicsPoleVault}}
+{{Footer Olympic Champions Pole Vault Women}}
+
+{{DEFAULTSORT:Athletics at the 2024 Summer Olympics - Women's pole vault}}
+[[Category:Athletics at the 2024 Summer Olympics|Women's pole vault]]
+[[Category:2024 in women's sport of athletics|Women's pole vault]]
+[[Category:Pole vault at the Olympics]]
+[[Category:Women's events at the 2024 Summer Olympics]]

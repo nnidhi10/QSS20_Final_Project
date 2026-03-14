@@ -1,0 +1,343 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox Olympic event
+ |event           = Sailing
+ |games           = 1996 Summer
+ |image           = Sailing pictogram.svg
+ |caption         = 
+ |venues          = [[Savannah, Georgia|Savannah]]
+ |dates           = First race: {{Start date|df=yes|1996|07|22}}<br/>Last race: {{End date|df=yes|1996|08|02}}
+ |competitors     = 458
+ |teams           = 312
+ |team_descriptor = Boats 
+ |nations         = 78
+ |prev            = [[Sailing at the 1992 Summer Olympics|1992]]
+ |next            = [[Sailing at the 2000 Summer Olympics|2000]]
+}}
+{{SailingAt1996SummerOlympics}}
+[[Sailing (sport)|Sailing/Yachting]] is an [[Olympic sport]] starting from the Games of the 1st [[Olympiad]] ([[Sailing at the 1896 Summer Olympics|1896 Olympics]] in [[Athens]], Greece). With the exception of [[1904 Summer Olympics|1904]] and possibly the canceled [[1916 Summer Olympics]], sailing has always been included on the Olympic schedule. The Sailing program of 1996 consisted of a total of ten sailing classes (disciplines). For each class, with the exception of the Soling, eleven races were scheduled from 22 July to 2 August 1996 off the coast of Savannah at the [[Wassaw Sound]] (an area of the Atlantic Ocean). For the Soling ten fleetraces were scheduled followed by a series of matchraces for the top 6 boats of the fleetrace result.<ref>{{cite web|url=https://www.olympedia.org/games/24/sports/SAI |title=Sailing at the 1996 Summer Olympics |work=Olympedia |access-date=24 June 2020}}</ref>
+
+== Venue ==
+{{Infobox settlement
+| name                    = Day Marina
+| image_seal              =
+| image_skyline           = 1996 Olympics Day Marina.jpg
+| image_flag              = 
+| pushpin_map_caption     = 
+|coordinates             = {{coord|31|56|01|N|80|56|59|W|display=inline}}
+}}
+
+According to the IOC statutes the contests in all sport disciplines must be held either in, or as close as possible to the city which the IOC has chosen. An exception was made for the Olympic yachting events, which customarily must be staged on the open sea. On account of this principle, the city of [[Savannah, Georgia|Savannah]] was chosen for the organization of the sailing events. Spectators were given the opportunity to board boats that will sail out to the courses to provide a close look at the competition. About 1000 spectators per day made use of the opportunity.
+
+The sailing events were held off the coast of Savannah at the Wassaw Sound and the Atlantic Ocean. The venue used three locations: 
+* Satellite Olympic Village in Savannah
+* Olympic marina on Wilmington Island. The Stars and Solings, were towed between the Olympic marina and their race areas.
+* Day marina, a temporary [[barge]] system (14,000 m<sup>2</sup>) near the north side of Wassaw Sound at the mouth of the Wilmington River. The day marina was used as a forward launch area for the dinghies and windsurf boards.
+[[File:1996 Olympic Sailing Venues (OpenStreetMap).png|thumb|Black = Marinas<br/>Blue = Alpha course<br/>Green = Bravo course<br/>Yellow = Charly course<br/>Red = Delta course]]
+Separate course areas were used for the following pairs of classes:
+* Mistral one-design (men and women)
+* Europe and Laser
+* Finn and Star
+* 470 (men and women)
+* Tornado and Soling (fleetracing)
+* Soling (matchracing)
+
+== Competition ==
+
+=== Overview ===
+{|  class="wikitable"
+!width=50|Continents
+!width=50|Countries
+!width=50|Classes
+!width=50|Boats
+!width=50|Male
+!width=50|Female
+|-
+| align="center"| 6 || align="center"| 78 || align="center"| 10 || align="center"| 312 || align="center"| 358 || align="center"| 100
+|-
+|}
+
+=== Continents ===
+* Africa
+* Asia
+* Oceania
+* Europe
+* Americas
+
+=== Countries ===
+{|
+|style="vertical-align:top;"|[[Image:Sailingmap OG 1996.png|thumb|260px|left|Countries that participated in the Sailing event of the 1996 Olympic Games.
+<br/><span style="color:#D7EEFF;"> '''Blue:'''</span> Water
+<br/><span style="color:#EAEBDF;"> '''Gray:'''</span> Never participated in OG
+<br/><span style="color:#AAA793;"> '''Dark Gray:'''</span> Participated in earlier OG
+<br/><span style="color:#005E2B;"> '''Green:'''</span> Country participated for the first time
+<br/><span style="color:#003964;"> '''Dark Blue:'''</span> Country participated also on previous games
+<br/><span style="color:#C00000;"> '''Red:'''</span> Country boycotted the sailing event of the OG]]
+||
+{|
+|{{flagIOC|AHO|1996 Summer}}||{{flagIOC|AND|1996 Summer}}||{{flagIOC|ANT|1996 Summer}}
+|-
+|{{flagIOC|ARG|1996 Summer}}||{{flagIOC|ASA|1996 Summer}}||{{flagIOC|AUS|1996 Summer}}
+|-
+|{{flagIOC|AUT|1996 Summer}}||{{flagIOC|BAH|1996 Summer}}||{{flagIOC|BAR|1996 Summer}}
+|-
+|{{flagIOC|BEL|1996 Summer}}||{{flagIOC|BER|1996 Summer}}||{{flagIOC|BLR|1996 Summer}}
+|-
+|{{flagIOC|BRA|1996 Summer}}||{{flagIOC|BRN|1996 Summer}}||{{flagIOC|CAN|1996 Summer}}
+|-
+|{{flagIOC|CAY|1996 Summer}}||{{flagIOC|CHI|1996 Summer}}||{{flagIOC|CHN|1996 Summer}}
+|-
+|{{flagIOC|COK|1996 Summer}}||{{flagIOC|CRO|1996 Summer}}||{{flagIOC|CUB|1996 Summer}}
+|-
+|{{flagIOC|CYP|1996 Summer}}||{{flagIOC|CZE|1996 Summer}}||{{flagIOC|DEN|1996 Summer}}
+|-
+|{{flagIOC|DJI|1996 Summer}}||{{flagIOC|ECU|1996 Summer}}||{{flagIOC|ESP|1996 Summer}}
+|-
+|{{flagIOC|EST|1996 Summer}}||{{flagIOC|FIJ|1996 Summer}}||{{flagIOC|FIN|1996 Summer}}
+|-
+|{{flagIOC|FRA|1996 Summer}}||{{flagIOC|GBR|1996 Summer}}||{{flagIOC|GEO|1996 Summer}}
+|-
+|{{flagIOC|GER|1996 Summer}}||{{flagIOC|GRE|1996 Summer}}||{{flagIOC|GUA|1996 Summer}}
+|-
+|{{flagIOC|GUM|1996 Summer}}||{{flagIOC|HKG|1996 Summer}}||{{flagIOC|HUN|1996 Summer}}
+|-
+|{{flagIOC|INA|1996 Summer}}||{{flagIOC|IRL|1996 Summer}}||{{flagIOC|ISR|1996 Summer}}
+|-
+|{{flagIOC|ISV|1996 Summer}}||{{flagIOC|ITA|1996 Summer}}||{{flagIOC|IVB|1996 Summer}}
+|-
+|{{flagIOC|JAM|1996 Summer}}||{{flagIOC|JPN|1996 Summer}}||{{flagIOC|KOR|1996 Summer}}
+|-
+|{{flagIOC|LAT|1996 Summer}}||{{flagIOC|LCA|1996 Summer}}||{{flagIOC|MAS|1996 Summer}}
+|-
+|{{flagIOC|MEX|1996 Summer}}||{{flagIOC|MLT|1996 Summer}}||{{flagIOC|NED|1996 Summer}}
+|-
+|{{flagIOC|NOR|1996 Summer}}||{{flagIOC|NZL|1996 Summer}}||{{flagIOC|PAR|1996 Summer}}
+|-
+|{{flagIOC|POL|1996 Summer}}||{{flagIOC|POR|1996 Summer}}||{{flagIOC|PUR|1996 Summer}}
+|-
+|{{flagIOC|QAT|1996 Summer}}||{{flagIOC|ROM|1996 Summer}}||{{flagIOC|RSA|1996 Summer}}
+|-
+|{{flagIOC|RUS|1996 Summer}}||{{flagIOC|SEY|1996 Summer}}||{{flagIOC|SIN|1996 Summer}}
+|-
+|{{flagIOC|SLO|1996 Summer}}||{{flagIOC|SMR|1996 Summer}}||{{flagIOC|SUI|1996 Summer}}
+|-
+|{{flagIOC|SVK|1996 Summer}}||{{flagIOC|SWE|1996 Summer}}||{{flagIOC|THA|1996 Summer}}
+|-
+|{{flagIOC|TPE|1996 Summer}}||{{flagIOC|TUR|1996 Summer}}||{{flagIOC|UKR|1996 Summer}}
+|-
+|{{flagIOC|URU|1996 Summer}}||{{flagIOC|USA|1996 Summer}}||{{flagIOC|VEN|1996 Summer}}
+|}
+|}
+
+=== Classes (equipment) ===
+{|class="wikitable" style="text-align:center"
+! Class !! Type !! Event !! Sailors !! [[Trapeze (sailing)|Trapeze]] !! [[Mainsail]] !! [[Jib|Jibb/Genoa]] !! [[Spinnaker]] !! First OG !! Olympics so far
+|-
+|style="text-align:left"| [[Mistral One Design Class]] || [[Surfboard]] || [[Image:Venus symbol.svg|15px]] || 1 || 0 || + || – || – || 1996 || 1 
+|-
+|style="text-align:left"| [[Mistral One Design Class]] || [[Surfboard]] || [[Image:Mars symbol.svg|17px]] || 1 || 0 || + || – || – || 1996 || 1 
+|-
+|style="text-align:left"| [[Europe (dinghy)|Europe]] || [[Dinghy]] || [[Image:Venus symbol.svg|15px]] || 1 || 0 || + || – || – || 1992 || 2 
+|-
+|style="text-align:left"| [[Laser (dinghy)|Laser]] || Dinghy || [[Image:Cercle noir 100%.svg|9px]] || 1 || 0 || + || – || – || 1996 || 1 
+|-
+|style="text-align:left"| [[Finn (dinghy)|Finn]] || Dinghy || [[Image:Mars symbol.svg|17px]] || 1 || 0 || + || – || – || 1952 || 12 
+|-
+|style="text-align:left"| [[470 (dinghy)|470]] || Dinghy || [[Image:Venus symbol.svg|15px]] || 2 || 1 || + || + || + || 1988 || 3
+|-
+|style="text-align:left"| [[470 (dinghy)|470]] || Dinghy || [[Image:Mars symbol.svg|17px]] || 2 || 1 || + || + || + || 1976 || 6
+|-
+|style="text-align:left"| [[Tornado (sailboat)|Tornado]] || [[Multihull]] || [[Image:Cercle noir 100%.svg|9px]] || 2 || 1 || + || + || – || 1976 || 6
+|-
+|style="text-align:left"| [[Star (sailboat)|Star]] || [[Keelboat]] || [[Image:Cercle noir 100%.svg|9px]] || 2 || 0 || + || + || – || 1932 || 14
+|-
+|style="text-align:left"| [[Soling]] || Keelboat || [[Image:Cercle noir 100%.svg|9px]] || 3 || 0 || + || + || + || 1972 || 7
+|-
+|}
+
+{{Gallery
+|title=1996 Olympic Classes designs
+|width=735
+|height=200
+|File:Olympic Classes 1996.svg|
+}}
+
+==Medal summary==
+===Women's events===
+{| {{MedalistTable| width=225|labelwidth=200}}
+ |-
+| style="align:center;" | [[File:NO Class insigna.png|x20px]]<br/>
+'''1996: Women's Mistral One Design''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Women's Mistral One Design}} 
+  |style="vertical-align:top;"|[[File:Flag of Hong Kong 1959.svg|22x20px|border|alt=|link=|Hong Kong]]&nbsp;[[Hong Kong at the 1996 Summer Olympics|Hong Kong]]&nbsp;<span style="font-size:90%;">(HKG)</span><br/>[[Lee Lai-shan]]
+                                                     |style="vertical-align:top;"|[[File:Flag of New Zealand.svg|22x20px|border|alt=|link=|New Zealand]]&nbsp;[[New Zealand at the 1996 Summer Olympics|New Zealand]]&nbsp;<span style="font-size:90%;">(NZL)</span><br/>[[Barbara Kendall]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Italy.svg|22x20px|border|alt=|link=|Italy]]&nbsp;[[Italy at the 1996 Summer Olympics|Italy]]&nbsp;<span style="font-size:90%;">(ITA)</span><br/>[[Alessandra Sensini]]
+
+  |-
+| style="align:center;" | [[File:Europe insigna.png|x20px]]<br/>
+'''1996: Europe''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Europe}} 
+  |style="vertical-align:top;"|[[File:Flag of Denmark.svg|22x20px|border|alt=|link=|Denmark]]&nbsp;[[Denmark at the 1996 Summer Olympics|Denmark]]&nbsp;<span style="font-size:90%;">(DEN)</span><br/>[[Kristine Roug]]
+                                        |style="vertical-align:top;"|[[File:Flag of the Netherlands.svg|22x20px|border|alt=|link=|Netherlands]]&nbsp;[[Netherlands at the 1996 Summer Olympics|Netherlands]]&nbsp;<span style="font-size:90%;">(NED)</span><br/>[[Margriet Matthijsse]]
+                                        |style="vertical-align:top;"|[[File:Flag of the United States.svg|22x20px|border|alt=|link=|United States]]&nbsp;[[United States at the 1996 Summer Olympics|United States]]&nbsp;<span style="font-size:90%;">(USA)</span><br/>[[Courtenay Becker-Dey]]
+
+  |-
+| style="align:center;" | [[File:470 insigna.png|x20px]]<br/>
+'''1996: Women's 470''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Women's 470}} 
+  |style="vertical-align:top;"|[[File:Flag of Spain.svg|22x20px|border|alt=|link=|Spain]]&nbsp;[[Spain at the 1996 Summer Olympics|Spain]]&nbsp;<span style="font-size:90%;">(ESP)</span><br/>[[Theresa Zabell]]<br/>[[Begoña Vía Dufresne]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Japan.svg|22x20px|border|alt=|link=|Japan]]&nbsp;[[Japan at the 1996 Summer Olympics|Japan]]&nbsp;<span style="font-size:90%;">(JPN)</span><br/>[[Yumiko Shige]]<br/>[[Alicia Kinoshita]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Ukraine.svg|22x20px|border|alt=|link=|Ukraine]]&nbsp;[[Ukraine at the 1996 Summer Olympics|Ukraine]]&nbsp;<span style="font-size:90%;">(UKR)</span><br/>[[Ruslana Taran]]<br/>[[Olena Pakholchik]]
+
+|}
+
+===Men's events===
+{| {{MedalistTable| width=225|labelwidth=200}}
+ |-
+| style="align:center;" | [[File:NO Class insigna.png|x20px]]<br/>
+'''1996: Men's Mistral One Design''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Men's Mistral One Design}} 
+  |style="vertical-align:top;"|[[File:Flag of Greece.svg|22x20px|border|alt=|link=|Greece]]&nbsp;[[Greece at the 1996 Summer Olympics|Greece]]&nbsp;<span style="font-size:90%;">(GRE)</span><br/>[[Nikolaos Kaklamanakis]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Argentina.svg|22x20px|border|alt=|link=|Argentina]]&nbsp;[[Argentina at the 1996 Summer Olympics|Argentina]]&nbsp;<span style="font-size:90%;">(ARG)</span><br/>[[Carlos Espínola (sailor)|Carlos Espinola]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Israel.svg|22x20px|border|alt=|link=|Israel]]&nbsp;[[Israel at the 1996 Summer Olympics|Israel]]&nbsp;<span style="font-size:90%;">(ISR)</span><br/>[[Gal Fridman]]
+
+  |-
+| style="align:center;" | [[File:Finn insigna.png|x20px]]<br/>
+'''1996: Finn''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Finn}} 
+  |style="vertical-align:top;"|[[File:Flag of Poland.svg|22x20px|border|alt=|link=|Poland]]&nbsp;[[Poland at the 1996 Summer Olympics|Poland]]&nbsp;<span style="font-size:90%;">(POL)</span><br/>[[Mateusz Kusznierewicz]]
+                                        |style="vertical-align:top;"|[[File:Flag of Belgium (civil).svg|22x20px|border|alt=|link=|Belgium]]&nbsp;[[Belgium at the 1996 Summer Olympics|Belgium]]&nbsp;<span style="font-size:90%;">(BEL)</span><br/>[[Sébastien Godefroid]]
+                                        |style="vertical-align:top;"|[[File:Flag of the Netherlands.svg|22x20px|border|alt=|link=|Netherlands]]&nbsp;[[Netherlands at the 1996 Summer Olympics|Netherlands]]&nbsp;<span style="font-size:90%;">(NED)</span><br/>[[Roy Heiner]]
+
+  |-
+| style="align:center;" | [[File:470 insigna.png|x20px]]<br/>
+'''1996: Men's 470''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Men's 470}} 
+  |style="vertical-align:top;"|[[File:Flag of Ukraine.svg|22x20px|border|alt=|link=|Ukraine]]&nbsp;[[Ukraine at the 1996 Summer Olympics|Ukraine]]&nbsp;<span style="font-size:90%;">(UKR)</span><br/>[[Yevhen Braslavets]]<br/>[[Ihor Matviyenko]]
+                                                     |style="vertical-align:top;"|[[File:Flag of the United Kingdom.svg|22x20px|border|alt=|link=|Great Britain]]&nbsp;[[Great Britain at the 1996 Summer Olympics|Great Britain]]&nbsp;<span style="font-size:90%;">(GBR)</span><br/>[[John Merricks]]<br/>[[Ian Walker (sailor)|Ian Walker]]
+                                                     |style="vertical-align:top;"|[[File:Flag of Portugal.svg|22x20px|border|alt=|link=|Portugal]]&nbsp;[[Portugal at the 1996 Summer Olympics|Portugal]]&nbsp;<span style="font-size:90%;">(POR)</span><br/>[[Victor Rocha]]<br/>[[Nuno Barreto]]
+
+|}
+
+===Open events===
+{| {{MedalistTable| width=225|labelwidth=200}}
+ |-
+| style="align:center;" | [[File:Sailing laser.svg|x20px]]<br/>
+'''1996: Laser''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Laser}} 
+  |style="vertical-align:top;"|[[File:Flag of Brazil.svg|22x20px|border|alt=|link=|Brazil]]&nbsp;[[Brazil at the 1996 Summer Olympics|Brazil]]&nbsp;<span style="font-size:90%;">(BRA)</span><br/>[[Robert Scheidt]]
+                                        |style="vertical-align:top;"|[[File:Flag of the United Kingdom.svg|22x20px|border|alt=|link=|Great Britain]]&nbsp;[[Great Britain at the 1996 Summer Olympics|Great Britain]]&nbsp;<span style="font-size:90%;">(GBR)</span><br/>[[Ben Ainslie]]
+                                        |style="vertical-align:top;"|[[File:Flag of Norway.svg|22x20px|border|alt=|link=|Norway]]&nbsp;[[Norway at the 1996 Summer Olympics|Norway]]&nbsp;<span style="font-size:90%;">(NOR)</span><br/>[[Peer Moberg]]
+
+  |-
+| style="align:center;" | [[File:Tornado insigna.png|x20px]]<br/>
+'''1996: Tornado''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Tornado}} 
+  |style="vertical-align:top;"|[[File:Flag of Spain.svg|22x20px|border|alt=|link=|Spain]]&nbsp;[[Spain at the 1996 Summer Olympics|Spain]]&nbsp;<span style="font-size:90%;">(ESP)</span><br/>[[Fernando León (sailor)|Fernando León]]<br/>[[José Luis Ballester (sailor)|José Luis Ballester]]
+                                        |style="vertical-align:top;"|[[File:Flag of Australia.svg|22x20px|border|alt=|link=|Australia]]&nbsp;[[Australia at the 1996 Summer Olympics|Australia]]&nbsp;<span style="font-size:90%;">(AUS)</span><br/>[[Mitch Booth]]<br/>[[Andrew Landenberger]]
+                                        |style="vertical-align:top;"|[[File:Flag of Brazil.svg|22x20px|border|alt=|link=|Brazil]]&nbsp;[[Brazil at the 1996 Summer Olympics|Brazil]]&nbsp;<span style="font-size:90%;">(BRA)</span><br/>[[Lars Grael]]<br/>[[Henrique Pellicano]]
+
+  |-
+| style="align:center;" | [[File:NO Class insigna.png|x20px]]<br/>
+'''1996: Star''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Star}} 
+  |style="vertical-align:top;"|[[File:Flag of Brazil.svg|22x20px|border|alt=|link=|Brazil]]&nbsp;[[Brazil at the 1996 Summer Olympics|Brazil]]&nbsp;<span style="font-size:90%;">(BRA)</span><br/>[[Torben Grael]]<br/>[[Marcelo Ferreira]]
+                                        |style="vertical-align:top;"|[[File:Flag of Sweden.svg|22x20px|border|alt=|link=|Sweden]]&nbsp;[[Sweden at the 1996 Summer Olympics|Sweden]]&nbsp;<span style="font-size:90%;">(SWE)</span><br/>[[Hans Wallén]]<br/>[[Bobby Lohse]]
+                                        |style="vertical-align:top;"|[[File:Flag of Australia.svg|22x20px|border|alt=|link=|Australia]]&nbsp;[[Australia at the 1996 Summer Olympics|Australia]]&nbsp;<span style="font-size:90%;">(AUS)</span><br/>[[Colin Beashel]]<br/>[[David Giles (sailor)|David Giles]]
+
+  |-
+| style="align:center;" | [[File:Soling insigna.png|x20px]]<br/>
+'''1996: Soling''' <br/>{{DetailsLink|Sailing at the 1996 Summer Olympics – Soling}} 
+  |style="vertical-align:top;"|[[File:Flag of Germany.svg|22x20px|border|alt=|link=|Germany]]&nbsp;[[Germany at the 1996 Summer Olympics|Germany]]&nbsp;<span style="font-size:90%;">(GER)</span><br/>[[Jochen Schümann]]<br/>[[Thomas Flach]]<br/>[[Bernd Jäkel]]
+                                        |style="vertical-align:top;"|[[File:Flag of Russia.svg|22x20px|border|alt=|link=|Russia]]&nbsp;[[Russia at the 1996 Summer Olympics|Russia]]&nbsp;<span style="font-size:90%;">(RUS)</span><br/>[[Georgy Shayduko]]<br/>[[Dmitri Shabanov]]<br/>[[Igor Skalin]]
+                                        |style="vertical-align:top;"|[[File:Flag of the United States.svg|22x20px|border|alt=|link=|United States]]&nbsp;[[United States at the 1996 Summer Olympics|United States]]&nbsp;<span style="font-size:90%;">(USA)</span><br/>[[Jeff Madrigali]]<br/>[[Jim Barton (sailor)|Jim Barton]]<br/>[[Kent Massey]]
+
+|}
+
+==Medal table==
+
+{{Medals table
+ | caption        = 
+ | host           = 
+ | flag_template  = flagIOC
+ | event          = 1996 Summer
+ | team           = 
+ | gold_BRA = 2 | silver_BRA = 0 | bronze_BRA = 1
+ | gold_ESP = 2 | silver_ESP = 0 | bronze_ESP = 0
+ | gold_UKR = 1 | silver_UKR = 0 | bronze_UKR = 1
+ | gold_DEN = 1 | silver_DEN = 0 | bronze_DEN = 0
+ | gold_GER = 1 | silver_GER = 0 | bronze_GER = 0
+ | gold_GRE = 1 | silver_GRE = 0 | bronze_GRE = 0
+ | gold_HKG = 1 | silver_HKG = 0 | bronze_HKG = 0
+ | gold_POL = 1 | silver_POL = 0 | bronze_POL = 0
+ | gold_GBR = 0 | silver_GBR = 2 | bronze_GBR = 0
+ | gold_AUS = 0 | silver_AUS = 1 | bronze_AUS = 1
+ | gold_NED = 0 | silver_NED = 1 | bronze_NED = 1
+ | gold_ARG = 0 | silver_ARG = 1 | bronze_ARG = 0
+ | gold_BEL = 0 | silver_BEL = 1 | bronze_BEL = 0
+ | gold_JPN = 0 | silver_JPN = 1 | bronze_JPN = 0
+ | gold_NZL = 0 | silver_NZL = 1 | bronze_NZL = 0
+ | gold_RUS = 0 | silver_RUS = 1 | bronze_RUS = 0
+ | gold_SWE = 0 | silver_SWE = 1 | bronze_SWE = 0
+ | gold_USA = 0 | silver_USA = 0 | bronze_USA = 2
+ | gold_ISR = 0 | silver_ISR = 0 | bronze_ISR = 1
+ | gold_ITA = 0 | silver_ITA = 0 | bronze_ITA = 1
+ | gold_NOR = 0 | silver_NOR = 0 | bronze_NOR = 1
+ | gold_POR = 0 | silver_POR = 0 | bronze_POR = 1
+}}
+
+== Remarks ==
+
+=== Wildcards ===
+After the qualification was finished the following sailors were granted a wildcard:
+* {{flagIOC|ALG|1996 Summer}} – Mistral One Design Men, (No show)
+* {{flagIOC|GUA|1996 Summer}} – Mistral One Design Men, [[Cristian Ruata]] (45th)
+* {{flagIOC|INA|1996 Summer}} – Mistral One Design Men, [[I Gusti Made Oka Sulaksana]] (13th)
+* {{flagIOC|THA|1996 Summer}} – Mistral One Design Men, [[Arun Homraruen]] (21st)
+* {{flagIOC|GUM|1996 Summer}} – Laser, [[Brett Chivers]], (44th)
+* {{flagIOC|SMR|1996 Summer}} – Laser, [[Luca Belluzzi]] (56th)
+* {{flagIOC|SUD|1996 Summer}} – Laser, (No show)
+* {{flagIOC|CUB|1996 Summer}} – 470 Men, [[Pedro Fernández (sailor)|Pedro Fernández]] & [[Angel Alfredo Jimenez]] (26th)
+* {{flagIOC|SUD|1996 Summer}} – 470 Men, (No show)
+
+=== Incidents ===
+[[File:Bertha 1996-07-09 0645Z.png|thumb|Hurricane Bertha]]
+* The Olympic sailing facility at Savannah was before the opening of the Olympic Games (10 July) within the [[Hurricane Bertha (1996)|Hurricane Bertha]] warning area. Tornados, Stars and Solings were moved to the Sheraton facility. The Day Marina and the Sheraton were evacuated; the evacuation was complete by 6 PM.
+
+=== Weather conditions ===
+The winds on a typical day in Savannah begin is as follows:
+* In the morning a light breeze from the west to the Northwest at about 5 knots
+* The winds diminish in the late mornings
+* By midday, the sea breeze circulation begins. When the sea breeze does rise, the winds backs to the south and Southeast
+* Wind speed in the afternoon average between 7 and 12 knots
+
+Olympic weather reports were provided by the National Weather Service from the locations [[Atlanta]] and Savannah. Doppler weather radar was used from Charleston, South Carolina. From Jacksonville, Florida the weather above the offshore courses was observed.
+
+=== Sailors ===
+During the Sailing regattas at the 1996 Summer Olympics among others the following persons were competing in the various classes:
+{{Gallery
+|title=Sailors at the 1996 Olympic Games
+|width=100
+|height=100
+|File:Galfridman.jpg|{{Bronze03}}<br/>[[Image:Mistral One Design insignia.png|220x20px]]<br/>{{ISR}}<br/>[[Gal Fridman]]
+|File:Alessandra Sensini.jpg|{{Bronze03}}<br/>[[Image:Mistral One Design insignia.png|220x20px]]<br/>{{ITA}}<br/>[[Alessandra Sensini]]
+|File:Scheidt robert sac.jpg|{{Gold01}}<br/>[[Image:Sailing laser.svg|220x20px]]<br/>{{BRA}}<br/>[[Robert Scheidt]]
+|File:Mateusz Kusznierewicz.jpg|{{Gold01}}<br/>[[Image:Finn insigna.png|220x20px]]<br/>{{POL}}<br/>[[Mateusz Kusznierewicz]]
+|File:IRL Toomas Tõniste.jpg| <br/>[[Image:470 insigna.png|220x20px]]<br/>{{EST}}<br/>[[Toomas Tõniste]]
+|File:Gaebler portrait.jpg| <br/>[[Image:Tornado insigna.png|220x20px]]<br/>{{GER}}<br/>[[Roland Gäbler]]
+|File:Torben Grael.jpg|{{Gold01}}<br/><br/>{{BRA}}<br/>[[Torben Grael]]
+|File:Ldoreste.jpg| <br/>[[Image:Soling_insigna.png|220x20px]]<br/>{{ESP}}<br/>[[Luis Doreste]]
+}}
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* {{cite book|title=The Official Report of the Centennial Olympic Games, Volume I Planning and Organization|publisher=Peachtree Publishers|author=The Atlanta Committee for the Olympic Games|location=Atlanta|year=1997|url=http://la84foundation.org/6oic/OfficialReports/1996/1996v1.pdf|format=PDF|access-date=14 September 2011|archive-date=16 June 2012|archive-url=https://web.archive.org/web/20120616041701/http://www.la84foundation.org/6oic/OfficialReports/1996/1996v1.pdf|url-status=dead}}
+* {{cite book|title=The Official Report of the Centennial Olympic Games, Volume II The Centennial Olympic Games|publisher=Peachtree Publishers|author=The Atlanta Committee for the Olympic Games|location=Atlanta|year=1997|url=http://la84foundation.org/6oic/OfficialReports/1996/1996v2.pdf|format=PDF|access-date=14 September 2011|archive-date=15 July 2012|archive-url=https://web.archive.org/web/20120715195716/http://www.la84foundation.org/6oic/OfficialReports/1996/1996v2.pdf|url-status=dead}}
+* {{cite book|title=The Official Report of the Centennial Olympic Games, Volume III The Competition Results|publisher=Peachtree Publishers|author=The Atlanta Committee for the Olympic Games|location=Atlanta|year=1997|url=http://la84foundation.org/6oic/OfficialReports/1996/1996v3.pdf|format=PDF|access-date=14 September 2011|archive-date=16 July 2012|archive-url=https://web.archive.org/web/20120716071036/http://www.la84foundation.org/6oic/OfficialReports/1996/1996v3.pdf|url-status=dead}}
+* {{cite book|title=Canada's Olympic Sailing Legacy, Paris 1924 - Beijing 2008|author=Hugh Drake & [[Paul Henderson (sailor)|Paul Henderson]]|publisher=CYA|location=Toronto|year=2009}}
+* {{cite Sports-Reference|title=Sailing at the 1996 Atlanta Summer Games|url=https://www.sports-reference.com/olympics/summer/1996/SAI/ |archive-url=https://web.archive.org/web/20200417040933/https://www.sports-reference.com/olympics/summer/1996/SAI/ |url-status=dead |archive-date=17 April 2020 |access-date=17 September 2011}}
+* {{cite web|title=IYRU Olympic Update|url=http://www2.sailing.org/96olympics/|publisher=ISAF|access-date=18 September 2011|url-status=dead|archive-url=https://web.archive.org/web/20120402140751/http://www2.sailing.org/96olympics/|archive-date=2 April 2012}}
+
+{{EventsAt1996SummerOlympics}}
+{{Sailing at the Summer Olympics}}
+{{Olympic venues sailing}}
+
+{{DEFAULTSORT:Sailing At The 1996 Summer Olympics}}
+[[Category:Sailing at the 1996 Summer Olympics| ]]
+[[Category:Events at the 1996 Summer Olympics]]
+[[Category:Sailing at the Summer Olympics|1996]]
+[[Category:1996 in sailing]]
+[[Category:Sailing in Georgia (U.S. state)]]

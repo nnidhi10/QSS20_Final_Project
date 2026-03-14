@@ -1,0 +1,2755 @@
+{{infobox country at games
+| NOC = DEN
+| NOCname = [[National Olympic Committee and Sports Confederation of Denmark]]
+| games = Olympics
+| year = 
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.dif.dk }}&nbsp;{{in lang|da|en}}
+| location = 
+| competitors = 
+| sports = 
+| flagbearer = 
+| rank = 30
+| gold = 50
+| silver = 82
+| bronze = 84
+| officials = 
+| appearances = 
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = {{Team appearances list|team=Denmark|competition=Summer Olympics|begin_year=|end_year= }}
+| winterappearances = {{Team appearances list|team=Denmark|competition=Winter Olympics|begin_year=1948|end_year= }}
+| seealso = [[Denmark at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+[[Kingdom of Denmark|Denmark]] first participated at the [[Olympic Games]] at the inaugural 1896 Games. Since then, the nation has maintained a consistent presence at the [[Summer Olympic Games|Summer Olympics]], participating in every edition except for the [[1904 Summer Olympics|1904 Games]] in [[St. Louis]], which were attended by only a handful of countries due to travel difficulties and limited international participation. Denmark has also participated in the [[Winter Olympic Games]] several times since 1948, including every Games since 1988.
+
+Danish athletes have competed across a wide range of sports, with [[Sailing (sport)|sailing]] emerging as the country's most successful discipline in terms of medal achievements. Other sports in which Denmark has performed well include [[Cycle sport|cycling]], [[Rowing (sport)|rowing]], [[handball]] (leading nation at the Olympics), and [[badminton]]—the latter gaining prominence in recent decades.
+While the country does not have a strong tradition in winter sports compared to its summer achievements, it secured its first Winter Olympic medal at the [[1998 Winter Olympics|1998 Nagano Games]], where the [[curling at the 1998 Winter Olympics|women's curling team]] won a silver medal, marking a historic moment for Danish winter sports.<ref name="DEN_profile">{{cite web | url=https://www.olympics.com/en/paris-2024/profile/denmark | title=Denmark - NOC Profile | website=olympics.com| publisher=[[International Olympic Committee]] (IOC) | date=2024 |access-date=2024-10-06 |archive-url=https://web.archive.org/web/20241006042823/https://www.olympics.com/en/paris-2024/profile/denmark |archive-date=6 October 2024 |url-status=dead}}</ref>
+
+In addition to its sporting achievements, Denmark have won medals in one of the three discontinued [[Olympic sports#Feats and artistic events|Olympic non-sport competitions]], winning five silver and four bronze medals at the [[Art competitions at the Summer Olympics|art competitions]].<ref name="DEN_profile" />
+
+The [[National Olympic Committee and Sports Confederation of Denmark|National Olympic Committee]] representing Denmark, known as Danmarks Idrætsforbund, was established in 1905, playing a central role in organizing Denmark's Olympic efforts and supporting its athletes across both Summer and Winter Games.
+{{clear}}
+
+== Medal tables ==
+{{See also|All-time Olympic Games medal table}}
+{{col-flex}}
+
+=== Medals by Summer Games ===
+{{Medals table country
+| country = Denmark
+| season = summer
+| show_games_flag = yes
+| total_col_bold = yes
+| total_athletes = yes
+
+| row1_games = {{GamesName|SOG|1896}} | row1_athletes = 3 | row1_gold = 1 | row1_silver = 2 | row1_bronze = 3 | row1_rank = 9
+| row2_games = {{GamesName|SOG|1900}} | row2_athletes = 13 | row2_gold = 1 | row2_silver = 3 | row2_bronze = 2 | row2_rank = 10
+| row3_games = {{GamesName|SOG|1904}} | row3_participation = ''did not participate''
+| row4_games = {{GamesName|SOG|1908}} | row4_athletes = 101 | row4_gold = 0 | row4_silver = 2 | row4_bronze = 3 | row4_rank = 16
+| row5_games = {{GamesName|SOG|1912}} | row5_athletes = 152 | row5_gold = 1 | row5_silver = 6 | row5_bronze = 5 | row5_rank = 14
+| row6_games = {{GamesName|SOG|1920}} | row6_athletes = 154 | row6_gold = 3 | row6_silver = 9 | row6_bronze = 1 | row6_rank = 10
+| row7_games = {{GamesName|SOG|1924}} | row7_athletes = 89 | row7_gold = 2 | row7_silver = 5 | row7_bronze = 2 | row7_rank = 12
+| row8_games = {{GamesName|SOG|1928}} | row8_athletes = 91 | row8_gold = 3 | row8_silver = 1 | row8_bronze = 2 | row8_rank = 13
+| row9_games = {{GamesName|SOG|1932}} | row9_athletes = 43 | row9_gold = 0 | row9_silver = 3 | row9_bronze = 3 | row9_rank = 20
+| row10_games = {{GamesName|SOG|1936}} | row10_athletes = 121 | row10_gold = 0 | row10_silver = 2 | row10_bronze = 3 | row10_rank = 23
+| row11_games = {{GamesName|SOG|1948}} | row11_athletes = 162 | row11_gold = 5 | row11_silver = 7 | row11_bronze = 8 | row11_rank = 10
+| row12_games = {{GamesName|SOG|1952}} | row12_athletes = 129 | row12_gold = 2 | row12_silver = 1 | row12_bronze = 3 | row12_rank = 15
+| row13_games = {{GamesName|SOG|1956}} | row13_athletes = 31 | row13_gold = 1 | row13_silver = 2 | row13_bronze = 1 | row13_rank = 20
+| row14_games = {{GamesName|SOG|1960}} | row14_athletes = 100 | row14_gold = 2 | row14_silver = 3 | row14_bronze = 1 | row14_rank = 13
+| row15_games = {{GamesName|SOG|1964}} | row15_athletes = 60 | row15_gold = 2 | row15_silver = 1 | row15_bronze = 3 | row15_rank = 18
+| row16_games = {{GamesName|SOG|1968}} | row16_athletes = 64 | row16_gold = 1 | row16_silver = 4 | row16_bronze = 3 | row16_rank = 22
+| row17_games = {{GamesName|SOG|1972}} | row17_athletes = 126 | row17_gold = 1 | row17_silver = 0 | row17_bronze = 0 | row17_rank = 25
+| row18_games = {{GamesName|SOG|1976}} | row18_athletes = 66 | row18_gold = 1 | row18_silver = 0 | row18_bronze = 2 | row18_rank = 24
+| row19_games = {{GamesName|SOG|1980}} | row19_athletes = 58 | row19_gold = 2 | row19_silver = 1 | row19_bronze = 2 | row19_rank = 16
+| row20_games = {{GamesName|SOG|1984}} | row20_athletes = 60 | row20_gold = 0 | row20_silver = 3 | row20_bronze = 3 | row20_rank = 27
+| row21_games = {{GamesName|SOG|1988}} | row21_athletes = 78 | row21_gold = 2 | row21_silver = 1 | row21_bronze = 1 | row21_rank = 23
+| row22_games = {{GamesName|SOG|1992}} | row22_athletes = 110 | row22_gold = 1 | row22_silver = 1 | row22_bronze = 4 | row22_rank = 30
+| row23_games = {{GamesName|SOG|1996}} | row23_athletes = 119 | row23_gold = 4 | row23_silver = 1 | row23_bronze = 1 | row23_rank = 19
+| row24_games = {{GamesName|SOG|2000}} | row24_athletes = 97 | row24_gold = 2 | row24_silver = 3 | row24_bronze = 1 | row24_rank = 30
+| row25_games = {{GamesName|SOG|2004}} | row25_athletes = 92 | row25_gold = 2 | row25_silver = 1 | row25_bronze = 5 | row25_rank = 34
+| row26_games = {{GamesName|SOG|2008}} | row26_athletes = 84 | row26_gold = 2 | row26_silver = 2 | row26_bronze = 3 | row26_rank = 30
+| row27_games = {{GamesName|SOG|2012}} | row27_athletes = 113 | row27_gold = 2 | row27_silver = 4 | row27_bronze = 3 | row27_rank = 29
+| row28_games = {{GamesName|SOG|2016}} | row28_athletes = 121 | row28_gold = 2 | row28_silver = 6 | row28_bronze = 7 | row28_rank = 28
+| row29_games = {{GamesName|SOG|2020}} | row29_athletes = 108 | row29_gold = 3 | row29_silver = 4 | row29_bronze = 4 | row29_rank = 25
+| row30_games = {{GamesName|SOG|2024}} | row30_athletes = 124 | row30_gold = 2 | row30_silver = 2 | row30_bronze = 5 | row30_rank = 29
+| row31_games = {{GamesName|SOG|2028}} | row31_participation = ''future event''
+}}
+{{col-flex-break}}
+
+=== Medals by Winter Games ===
+{{Medals table country
+| country = Denmark
+| season = winter
+| show_games_flag = yes
+| total_athletes = yes
+
+| row1_games = {{GamesName|WOG|1948}} | row1_athletes = 2 | row1_gold = 0 | row1_silver = 0 | row1_bronze = 0
+| row2_games = {{GamesName|WOG|1952}} | row2_athletes = 1 | row2_gold = 0 | row2_silver = 0 | row2_bronze = 0
+| row3_games = {{GamesName|WOG|1956}} | row3_participation = ''did not participate''
+| row4_games = {{GamesName|WOG|1960}} | row4_athletes = 1 | row4_gold = 0 | row4_silver = 0 | row4_bronze = 0
+| row5_games = {{GamesName|WOG|1964}} | row5_athletes = 2 | row5_gold = 0 | row5_silver = 0 | row5_bronze = 0
+| row6_games = {{GamesName|WOG|1968}} | row6_athletes = 3 | row6_gold = 0 | row6_silver = 0 | row6_bronze = 0
+| row7_games = 1972–1984 | row7_participation = ''did not participate''
+| row11_games = {{GamesName|WOG|1988}} | row11_athletes = 1 | row11_gold = 0 | row11_silver = 0 | row11_bronze = 0
+| row12_games = {{GamesName|WOG|1992}} | row12_athletes = 6 | row12_gold = 0 | row12_silver = 0 | row12_bronze = 0
+| row13_games = {{GamesName|WOG|1994}} | row13_athletes = 4 | row13_gold = 0 | row13_silver = 0 | row13_bronze = 0
+| row14_games = {{GamesName|WOG|1998}} | row14_athletes = 12 | row14_gold = 0 | row14_silver = 1 | row14_bronze = 0 | row14_rank = 18
+| row15_games = {{GamesName|WOG|2002}} | row15_athletes = 11 | row15_gold = 0 | row15_silver = 0 | row15_bronze = 0
+| row16_games = {{GamesName|WOG|2006}} | row16_athletes = 5 | row16_gold = 0 | row16_silver = 0 | row16_bronze = 0
+| row17_games = {{GamesName|WOG|2010}} | row17_athletes = 18 | row17_gold = 0 | row17_silver = 0 | row17_bronze = 0
+| row18_games = {{GamesName|WOG|2014}} | row18_athletes = 12 | row18_gold = 0 | row18_silver = 0 | row18_bronze = 0
+| row19_games = {{GamesName|WOG|2018}} | row19_athletes = 17 | row19_gold = 0 | row19_silver = 0 | row19_bronze = 0
+| row20_games = {{GamesName|WOG|2022}} | row20_athletes = 62 | row20_gold = 0 | row20_silver = 0 | row20_bronze = 0
+| row21_games = {{GamesName|WOG|2026}} | row21_athletes = 39 | row21_gold = 0 | row21_silver = 1 | row21_bronze = 0 | row21_rank = 25
+}}
+{{col-flex-end}}
+
+{{col-flex}}
+
+=== Medals by summer sport ===
+{{Medals table
+ | caption    = 
+ | team       = Sport
+ | hide_rank  = yes
+ | leading    = yes
+ | gold_1  = 13 | silver_1  = 10  | bronze_1  = 9  | name_1  = {{GamesSport|Sailing|Format=d}} 
+ | gold_2  = 8  | silver_2  = 11 | bronze_2  = 11 | name_2  = {{GamesSport|Cycling|Format=d}} 
+ | gold_3  = 7  | silver_3  = 5  | bronze_3  = 13 | name_3  = {{GamesSport|Rowing|Format=d}} 
+ | gold_4  = 5  | silver_4  = 1  | bronze_4  = 1  | name_4  = {{GamesSport|Handball|Format=d}}| leading_4 = yes
+ | gold_5  = 3  | silver_5  = 11 | bronze_5  = 5  | name_5  = {{GamesSport|Shooting|Format=d}} 
+ | gold_6  = 3  | silver_6  = 6  | bronze_6  = 8  | name_6  = {{GamesSport|Canoeing|Format=d}} 
+ | gold_7  = 3  | silver_7  = 5  | bronze_7  = 7  | name_7  = {{GamesSport|Swimming|Format=d}} 
+ | gold_8  = 3  | silver_8  = 3  | bronze_8  = 4  | name_8  = {{GamesSport|Badminton|Format=d}} 
+ | gold_9  = 1  | silver_9  = 5  | bronze_9  = 6  | name_9  = {{GamesSport|Boxing|Format=d}} 
+ | gold_10 = 1  | silver_10 = 2  | bronze_10 = 3  | name_10 = {{GamesSport|Fencing|Format=d}} 
+ | gold_11 = 1  | silver_11 = 2  | bronze_11 = 1  | name_11 = {{GamesSport|Gymnastics|Format=d}} 
+ | gold_12 = 1  | silver_12 = 2  | bronze_12 = 0  | name_12 = {{GamesSport|Weightlifting|Format=d}} 
+ | gold_13 = 1  | silver_13 = 0  | bronze_13 = 1  | name_13 = {{GamesSport|Diving|Format=d}} 
+ | gold_15 = 0  | silver_15 = 5  | bronze_15 = 2  | name_15 = {{GamesSport|Equestrian|Format=d}} 
+ | gold_14 = 0  | silver_14 = 4  | bronze_14 = 3  | name_14 = {{GamesSport|Athletics|Format=d}} 
+ | gold_16 = 0  | silver_16 = 3  | bronze_16 = 7  | name_16 = {{GamesSport|Wrestling|Format=d}} 
+ | gold_17 = 0  | silver_17 = 3  | bronze_17 = 1  | name_17 = {{GamesSport|Football|Format=d}} 
+ | gold_18 = 0  | silver_18 = 1  | bronze_18 = 0  | name_18 = {{GamesSport|Field hockey|Format=d}} 
+ | gold_19 = 0  | silver_19 = 1  | bronze_19 = 0  | name_19 = {{GamesSport|Tennis|Format=d}} 
+ | gold_20 = 0  | silver_20 = 0  | bronze_20 = 1  | name_20 = {{GamesSport|Table tennis|Format=d}} 
+ | gold_21 = 0  | silver_21 = 0  | bronze_21 = 1  | name_21 = {{GamesSport|Taekwondo|Format=d}} 
+}}
+{{col-flex-break}}
+
+=== Medals by winter sport ===
+<div>&nbsp;</div>
+{{Medals table
+ | caption    = 
+ | team       = Sport
+ | hide_rank  = yes
+ | leading    = 
+ | gold_1  = 0  | silver_1  = 1  | bronze_1  = 0  | name_1  = {{GamesSport|Curling|Format=d}} 
+ | gold_2  = 0  | silver_2  = 1 | bronze_2  = 0 | name_2  = {{GamesSport|Speed skating|Format=d}} 
+}}
+{{col-flex-end}}
+
+== List of medalists ==
+=== Athletes with most medals ===
+According to official data of the [[International Olympic Committee]], this is a list of Danish athletes who have won two or more Olympic gold medals or three or more Olympic medals with at least one gold medal and one silver medal. Medals won in the [[1906 Intercalated Games]] are not included. It includes top-three placings in 1896 and 1900, before medals were awarded for top-three placings.
+
+{| class="wikitable" width=68% style="font-size:90%; text-align:center;"
+! width=150 | Athlete
+! width=200 | Sport
+! Games
+! [[File:Gold medal olympic.svg|20px]]
+! [[File:Silver medal olympic.svg|20px]]
+! [[File:Bronze medal olympic.svg|20px]]
+! width=50 | Total
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Paul Elvstrøm]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1948 Summer Olympics|1948]], [[Denmark at the 1952 Summer Olympics|1952]], [[Denmark at the 1956 Summer Olympics|1956]], [[Denmark at the 1960 Summer Olympics|1960]]
+| style="background:#F7F6A8;" | 4
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Eskild Ebbesen]]
+|align=left| {{GamesSport|Rowing|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]], [[Denmark at the 2008 Summer Olympics|2008]], [[Denmark at the 2012 Summer Olympics|2012]]
+| style="background:#F7F6A8;" | 3
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 2
+|  '''5'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Lars Jørgen Madsen]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| align=left|[[Denmark at the 1900 Summer Olympics|1900]], [[Denmark at the 1912 Summer Olympics|1912]], [[Denmark at the 1920 Summer Olympics|1920]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 1
+|  '''5'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Lasse Norman Hansen]]
+|align=left| {{GamesSport|Track cycling|Format=d}}
+| align=left|[[Denmark at the 2012 Summer Olympics|2012]], [[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 2
+|  '''5'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Henry Hansen (cyclist)|Henry Hansen]]
+|align=left| {{GamesSport|Cycling|Format=d}}
+| align=left|[[Denmark at the 1928 Summer Olympics|1928]], [[Denmark at the 1932 Summer Olympics|1932]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Mikkel Hansen]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Henrik Møllgaard]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Niklas Landin Jacobsen]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 0
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Jesper Bank]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1988 Summer Olympics|1988]], [[Denmark at the 1992 Summer Olympics|1992]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Thomas Ebert]]
+|align=left| {{GamesSport|Rowing|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]], [[Denmark at the 2008 Summer Olympics|2008]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Viktor Axelsen]]
+|align=left| {{GamesSport|Badminton|Format=d}}
+| align=left|[[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Valdemar Bandolowski]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1976 Summer Olympics|1976]], [[Denmark at the 1980 Summer Olympics|1980]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Erik Hansen (sailor)|Erik Hansen]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1976 Summer Olympics|1976]], [[Denmark at the 1980 Summer Olympics|1980]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Poul Richard Høj Jensen]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1976 Summer Olympics|1976]], [[Denmark at the 1980 Summer Olympics|1980]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Camilla Andersen]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Tina Bøttzau]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anette Hoffman]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Tonje Kjærgaard]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Janne Kolling]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Lene Rantala]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2000 Summer Olympics|2000]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Kristine Andersen]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 1996 Summer Olympics|1996]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Karen Brødsgaard]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Katrine Fruelund]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Lotte Kiærskou]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Karin Mortensen]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Rikke Schmidt]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Mette Vestergaard]]
+|align=left| {{GamesSport|Handball|Format=d}}
+| align=left|[[Denmark at the 2000 Summer Olympics|2000]], [[Denmark at the 2004 Summer Olympics|2004]]
+| style="background:#F7F6A8;" | 2
+| style="background:#DCE5E5;" | 0
+| style="background:#FFDAB9;" | 0
+|  '''2'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anders Peter Nielsen]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| align=left|[[Denmark at the 1900 Summer Olympics|1900]], [[Denmark at the 1920 Summer Olympics|1920]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 3
+| style="background:#FFDAB9;" | 0
+|  '''4'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Karen Margrethe Harup]]
+|align=left| {{GamesSport|Swimming|Format=d}}
+| align=left|[[Denmark at the 1948 Summer Olympics|1948]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 2
+| style="background:#FFDAB9;" | 0
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Niels Larsen]]
+|align=left| {{GamesSport|Shooting|Format=d}}
+| align=left|[[Denmark at the 1912 Summer Olympics|1912]], [[Denmark at the 1920 Summer Olympics|1920]], [[Denmark at the 1924 Summer Olympics|1924]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 3
+|  '''5'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Viggo Jensen]]
+|align=left| {{GamesSport|Weightlifting|Format=d}}, {{GamesSport|Shooting|Format=d}}
+| align=left|[[Denmark at the 1896 Summer Olympics|1896]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Willy Hansen]]
+|align=left| {{GamesSport|Track cycling|Format=d}}
+| align=left|[[Denmark at the 1924 Summer Olympics|1924]], [[Denmark at the 1928 Summer Olympics|1928]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Ole Berntsen]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 1948 Summer Olympics|1948]], [[Denmark at the 1956 Summer Olympics|1956]], [[Denmark at the 1964 Summer Olympics|1964]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Niels Fredborg]]
+|align=left| {{GamesSport|Track cycling|Format=d}}
+| align=left|[[Denmark at the 1968 Summer Olympics|1968]], [[Denmark at the 1972 Summer Olympics|1972]], [[Denmark at the 1976 Summer Olympics|1976]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Michael Mørkøv]]
+|align=left| {{GamesSport|Track cycling|Format=d}}
+| align=left|[[Denmark at the 2008 Summer Olympics|2008]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|- align="center" valign="middle" bgcolor="#FFFFFF"
+|align=left| [[Anne-Marie Rindom]]
+|align=left| {{GamesSport|Sailing|Format=d}}
+| align=left|[[Denmark at the 2016 Summer Olympics|2016]], [[Denmark at the 2020 Summer Olympics|2020]], [[Denmark at the 2024 Summer Olympics|2024]]
+| style="background:#F7F6A8;" | 1
+| style="background:#DCE5E5;" | 1
+| style="background:#FFDAB9;" | 1
+|  '''3'''
+|}
+
+=== Medals by team ===
+Denmark has been successful at the Olympics in team sports like [[Association football|football]], [[Team handball|handball]] and team [[gymnastics]]. In football [[Denmark national football team|Denmark]] has won four medals. Also team gymnastics has given Denmark four medals. In women's handball [[Denmark women's national handball team|Denmark]] has won three gold medals.
+
+=== Summer Olympics ===
+All Danish medals are listed.
+{{Table TOC |1896|1900|1908|1912|1920|1924|1928|1932|1936|1948|1952|1956|1960|1964|1968|1972|1976|1980|1984|1988|1992|1996|2000|2004|2008|2012|2016|2020|2024}}
+{| class="sortable wikitable"
+|-
+!style="width:10em"| Games
+!style="width:5em"| Medal
+!class="unsortable" style="width:15em"| Name
+!style="width:6em"| Sport
+!class="unsortable" | Event
+|- {{anchor|1896}}
+| rowspan="6" | {{GamesName|SOG|1896}}<br />{{details link|Denmark at the 1896 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Viggo Jensen]] || [[Weightlifting at the 1896 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1896 Summer Olympics – Men's two hand lift|Men's two hand lift]]
+|-
+| {{silver medal}} || [[Holger Nielsen]] || [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 30 metre pistol|Men's 30 m free pistol]]
+|-
+| {{silver medal}} || [[Viggo Jensen]] || [[Weightlifting at the 1896 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1896 Summer Olympics – Men's one hand lift|Men's one hand lift]]
+|-
+| {{bronze medal}} || [[Holger Nielsen]] || [[Fencing at the 1896 Summer Olympics|Fencing]] || [[Fencing at the 1896 Summer Olympics – Men's sabre|Men's sabre]]
+|-
+| {{bronze medal}} || [[Viggo Jensen]] || [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 300 metre free rifle|Men's 300 m free rifle, three positions]]
+|-
+| {{bronze medal}} || [[Holger Nielsen]] || [[Shooting at the 1896 Summer Olympics|Shooting]] || [[Shooting at the 1896 Summer Olympics – Men's 25 metre rapid fire pistol|Men's 25 m rapid fire pistol]]
+|- {{anchor|1900}}
+| rowspan="7" | {{GamesName|SOG|1900}}<br />{{details link|Denmark at the 1900 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Lars Jørgen Madsen]] || [[Shooting at the 1900 Summer Olympics|Shooting]] || [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, standing|Men's 300 metre free rifle, standing]]
+|-
+| {{silver medal}} || [[Anders Peter Nielsen]] || [[Shooting at the 1900 Summer Olympics|Shooting]] || [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, kneeling|Men's 300 metre free rifle, kneeling]]
+|-
+| {{silver medal}} || [[Anders Peter Nielsen]]  || [[Shooting at the 1900 Summer Olympics|Shooting]] || [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, prone|Men's 300 metre free rifle, prone]]
+|-
+| {{silver medal}} || [[Anders Peter Nielsen]] || [[Shooting at the 1900 Summer Olympics|Shooting]] || [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, three positions|Men's 300 metre free rifle, three positions]]
+|-
+| {{bronze medal}} || [[Peder Lykkeberg]] || [[Swimming at the 1900 Summer Olympics|Swimming]] || [[Swimming at the 1900 Summer Olympics – Men's underwater swimming|Men's underwater swimming]]
+|-
+| {{bronze medal}} || [[Ernst Schultz]] || [[Athletics at the 1900 Summer Olympics|Athletics]] || [[Athletics at the 1900 Summer Olympics – Men's 400 metres|Men's 400 metres]]
+|-
+| {{gold medal}} || [[Edgar Aabye]]<br />[[Eugen Schmidt]]<br />[[Charles Winckler]]<br />([[Mixed team at the 1900 Summer Olympics|mixed team]] with Sweden) || colspan="2" | [[Tug of war at the 1900 Summer Olympics|Tug of war]]
+|- {{anchor|1908}}
+| rowspan="5" | {{GamesName|SOG|1908}}<br />{{details link|Denmark at the 1908 Summer Olympics|text=Denmark}} || {{silver medal}} || [[Denmark national football team]] ([[Football at the 1908 Summer Olympics – Men's team squads#Denmark|squad]]) || colspan="2" | [[Football at the 1908 Summer Olympics|Football]], men's team competition
+|-
+| {{silver medal}} || [[Ludvig Dam]] || [[Swimming at the 1908 Summer Olympics|Swimming]] || [[Swimming at the 1908 Summer Olympics – Men's 100 metre backstroke|Men's 100 m backstroke]]
+|-
+| {{bronze medal}} || [[Anders Andersen (wrestler)|Anders Andersen]] || [[Wrestling at the 1908 Summer Olympics|Wrestling]] || [[Wrestling at the 1908 Summer Olympics – Men's Greco-Roman middleweight|Men's Greco-Roman middleweight]]
+|-
+| {{bronze medal}} || [[Carl Jensen (wrestler)|Carl Jensen]] || [[Wrestling at the 1908 Summer Olympics|Wrestling]] || [[Wrestling at the 1908 Summer Olympics – Men's Greco-Roman light heavyweight|Men's Greco-Roman light heavyweight]]
+|-
+| {{bronze medal}} || [[Søren Marinus Jensen]] || [[Wrestling at the 1908 Summer Olympics|Wrestling]] || [[Wrestling at the 1908 Summer Olympics – Men's Greco-Roman super heavyweight|Men's Greco-Roman super heavyweight]]
+|- {{anchor|1912}}
+| rowspan="12" | {{GamesName|SOG|1912}}<br />{{details link|Denmark at the 1912 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Ejler Allert]]<br />[[Christian Hansen (rower)|Christian Hansen]]<br />[[Carl Møller]]<br />[[Carl Pedersen (rower)|Carl Pedersen]]<br />[[Poul Hartmann]] || [[Rowing at the 1912 Summer Olympics|Rowing]] || [[Rowing at the 1912 Summer Olympics – Men's coxed four, inriggers|Men's coxed fours, inriggers]]
+|-
+| {{silver medal}} || [[Ivan Joseph Martin Osiier]] || [[Fencing at the 1912 Summer Olympics|Fencing]] || [[Fencing at the 1912 Summer Olympics – Men's épée|Men's Épée]]
+|-
+| {{silver medal}} || [[Denmark national football team]] ([[Football at the 1912 Summer Olympics – Men's team squads#Denmark|squad]]) || colspan="2" | [[Football at the 1912 Summer Olympics|Football]], men's team competition
+|-
+| {{silver medal}} || [[Gymnastics at the 1912 Summer Olympics – Men's team, Swedish system#Results|Danish gymnastics team]] || [[Gymnastics at the 1912 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1912 Summer Olympics – Men's team, free system|Men's team (Swedish system)]]
+|-
+| {{silver medal}} || [[Steen Herschend]]<br />[[Sven Thomsen]]<br />[[Hans Meulengracht-Madsen]] || [[Sailing at the 1912 Summer Olympics|Sailing]] || [[Sailing at the 1912 Summer Olympics – 6 Metre|Men's 6m class]]
+|-
+| {{silver medal}} || [[Lars Jørgen Madsen|Lars Madsen]] || [[Shooting at the 1912 Summer Olympics|Shooting]] || [[Shooting at the 1912 Summer Olympics – Men's 300 metre free rifle, three positions|Men's 300m free rifle, three positions]]
+|-
+| {{silver medal}} || [[Sofie Castenschiold]] || [[Tennis at the 1912 Summer Olympics|Tennis]] || [[Tennis at the 1912 Summer Olympics – Women's indoor singles|Women's singles indoor]]
+|-
+| {{bronze medal}} || [[Gymnastics at the 1912 Summer Olympics – Men's team, free system#Final standings|Danish gymnastics team]] || [[Gymnastics at the 1912 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1912 Summer Olympics – Men's team, free system|Men's team, free system]]
+|-
+| {{bronze medal}} || [[Erik Bisgaard]]<br />[[Rasmus Frandsen]]<br />[[Mikael Simonsen]]<br />[[Poul Thymann]]<br />[[Ejgil Clemmensen]] || [[Rowing at the 1912 Summer Olympics|Rowing]] || [[Rowing at the 1912 Summer Olympics – Men's coxed four|Men's coxed fours]]
+|-
+| {{bronze medal}} || [[Niels Larsen]] || [[Shooting at the 1912 Summer Olympics|Shooting]] || [[Shooting at the 1912 Summer Olympics – Men's 300 metre free rifle, three positions|Men's 300m free rifle, three positions]]
+|-
+| {{bronze medal}} || [[Ole Olsen (sport shooter)|Ole Olsen]]<br />[[Lars Jørgen Madsen|Lars Madsen]]<br />[[Niels Larsen]]<br />[[Niels Andersen (sport shooter)|Niels Andersen]]<br />[[Laurits Larsen]]<br />[[Jens Hajslund]] || [[Shooting at the 1912 Summer Olympics|Shooting]] || [[Shooting at the 1912 Summer Olympics – Men's team free rifle|Men's team free rifle]]
+|-
+| {{bronze medal}} || [[Søren Marinus Jensen]] || [[Wrestling at the 1912 Summer Olympics|Wrestling]] || [[Wrestling at the 1912 Summer Olympics – Men's Greco-Roman heavyweight|Greco-Roman heavyweight]]
+|- {{anchor|1920}}
+| rowspan="13" | {{GamesName|SOG|1920}}<br />{{details link|Denmark at the 1920 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Stefanie Clausen]] || [[Diving at the 1920 Summer Olympics|Diving]] || [[Diving at the 1920 Summer Olympics – Women's 10 metre platform|Women's 10m Platform]]
+|-
+| {{gold medal}} || [[Gymnastics at the 1920 Summer Olympics#Medal summary|Danish gymnastics team]] || [[Gymnastics at the 1920 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1920 Summer Olympics – Men's team, free system|Men's team (free system)]]
+|-
+| {{gold medal}} || [[Lars Jørgen Madsen|Lars Madsen]]<br />[[Niels Larsen]]<br />[[Anders Petersen (sport shooter)|Anders Petersen]]<br />[[Erik Sætter-Lassen]]<br />[[Anders Peter Nielsen]] || [[Shooting at the 1920 Summer Olympics|Shooting]] || [[Shooting at the 1920 Summer Olympics – Men's 300 metre team military rifle, standing|Men's team 300m military rifle, standing]]
+|-
+| {{silver medal}} || [[Henry Petersen]] || [[Athletics at the 1920 Summer Olympics|Athletics]] || [[Athletics at the 1920 Summer Olympics – Men's pole vault|Pole vault]]
+|-
+| {{silver medal}} || [[Søren Petersen]] || [[Boxing at the 1920 Summer Olympics|Boxing]] || [[Boxing at the 1920 Summer Olympics – Heavyweight|Heavyweight]]
+|-
+| {{silver medal}} || [[Anders Petersen (boxer)|Anders Petersen]] || [[Boxing at the 1920 Summer Olympics|Boxing]] || [[Boxing at the 1920 Summer Olympics – Flyweight|Flyweight]]
+|-
+| {{silver medal}} || [[Gotfred Johansen]] || [[Boxing at the 1920 Summer Olympics|Boxing]] || [[Boxing at the 1920 Summer Olympics – Lightweight|Lightweight]]
+|-
+| {{silver medal}} || [[Gymnastics at the 1920 Summer Olympics#Medal summary|Danish gymnastics team]] || [[Gymnastics at the 1920 Summer Olympics|Gymnastics]] || [[Gymnastics at the 1920 Summer Olympics – Men's team, Swedish system|Men's team (Swedish system)]]
+|-
+| {{silver medal}} || [[Field hockey at the 1920 Summer Olympics#Medalists|Danish field hockey team]] || colspan="2" | [[Field hockey at the 1920 Summer Olympics|Field Hockey]], men's team competition
+|-
+| {{silver medal}} || [[Niels Larsen]] || [[Shooting at the 1920 Summer Olympics|Shooting]] || [[Shooting at the 1920 Summer Olympics – Men's 300 metre free rifle, three positions|Men's 300m free rifle, 3 positions]]
+|-
+| {{silver medal}} || [[Lars Jørgen Madsen|Lars Madsen]] || [[Shooting at the 1920 Summer Olympics|Shooting]] || [[Shooting at the 1920 Summer Olympics – Men's 300 metre military rifle, standing|Men's 300m military rifle, standing]]
+|-
+| {{silver medal}} || [[Poul Hansen (sport wrestler)|Poul Hansen]] || [[Wrestling at the 1920 Summer Olympics|Wrestling]] || [[Wrestling at the 1920 Summer Olympics – Men's Greco-Roman heavyweight|Greco-Roman heavyweight]]
+|-
+| {{bronze medal}} || [[Johannes Eriksen]] || [[Wrestling at the 1920 Summer Olympics|Wrestling]] || [[Wrestling at the 1920 Summer Olympics – Men's Greco-Roman light heavyweight|Greco-Roman light heavyweight]]
+|- {{anchor|1924}}
+| rowspan="9" | {{GamesName|SOG|1924}}<br />{{details link|Denmark at the 1924 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Hans Jacob Nielsen]] || [[Boxing at the 1924 Summer Olympics|Boxing]] || [[Boxing at the 1924 Summer Olympics – Lightweight|Men's lightweight]]
+|-
+| {{gold medal}} || [[Ellen Osiier]] || [[Fencing at the 1924 Summer Olympics|Fencing]] || [[Fencing at the 1924 Summer Olympics – Women's foil|Women's foil]]
+|-
+| {{silver medal}} || [[Thyge Petersen]] || [[Boxing at the 1924 Summer Olympics|Boxing]] || [[Boxing at the 1924 Summer Olympics – Light heavyweight|Men's light heavyweight]]
+|-
+| {{silver medal}} || [[Søren Petersen]] || [[Boxing at the 1924 Summer Olympics|Boxing]] || [[Boxing at the 1924 Summer Olympics – Heavyweight|Men's heavyweight]]
+|-
+| {{silver medal}} || [[Edmund Hansen (cyclist)|Edmund Hansen]]<br />[[Willy Hansen]] || [[Cycling at the 1924 Summer Olympics|Cycling]] || [[Cycling at the 1924 Summer Olympics – Men's tandem|Men's tandem]]
+|-
+| {{silver medal}} || [[Frode Kirkebjerg]] || [[Equestrian at the 1924 Summer Olympics|Equestrian]] || [[Equestrian at the 1924 Summer Olympics – Individual eventing|Individual eventing]]
+|-
+| {{silver medal}} || [[Knud Degn]], [[Christian Nielsen (Danish sailor)|Christian Nielsen]]<br />[[Vilhelm Vett]] || [[Sailing at the 1924 Summer Olympics|Sailing]] || [[Sailing at the 1924 Summer Olympics – 6 Metre|6 m Class]]
+|-
+| {{bronze medal}} || [[Grete Heckscher]] || [[Fencing at the 1924 Summer Olympics|Fencing]] || [[Fencing at the 1924 Summer Olympics – Women's foil|Women's foil]]
+|-
+| {{bronze medal}} || [[Niels Larsen]] || [[Shooting at the 1924 Summer Olympics|Shooting]] || [[Shooting at the 1924 Summer Olympics – Men's 600 metre free rifle prone|Men's 600 m free rifle]]
+|- {{anchor|1928}}
+| rowspan="6" | {{GamesName|SOG|1928}}<br />{{details link|Denmark at the 1928 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Henry Hansen (cyclist)|Henry Hansen]] || [[Cycling at the 1928 Summer Olympics|Cycling]] || [[Cycling at the 1928 Summer Olympics – Men's individual time trial|Men's individual road race]]
+|-
+| {{gold medal}} || [[Henry Hansen (cyclist)|Henry Hansen]]<br />[[Orla Jørgensen]]<br />[[Leo Nielsen]] || [[Cycling at the 1928 Summer Olympics|Cycling]] || [[Cycling at the 1928 Summer Olympics – Men's team time trial|Men's team road race]]
+|-
+| {{gold medal}} || [[Willy Hansen]] || [[Cycling at the 1928 Summer Olympics|Cycling]] || [[Cycling at the 1928 Summer Olympics – Men's track time trial|Men's track time trial]]
+|-
+| {{silver medal}} || [[Aage Høy-Petersen]]<br />[[Sven Linck]]<br>[[Niels Otto Møller]]<br />[[Peter Schlütter]]<br />[[Vilhelm Vett]] || [[Sailing at the 1928 Summer Olympics|Sailing]] || [[Sailing at the 1928 Summer Olympics – 6 Metre|6 m class]]
+|-
+| {{bronze medal}} || [[Michael Michaelsen]] || [[Boxing at the 1928 Summer Olympics|Boxing]] || [[Boxing at the 1928 Summer Olympics – Heavyweight|Men's heavyweight]]
+|-
+| {{bronze medal}} || [[Willy Hansen]] || [[Cycling at the 1928 Summer Olympics|Cycling]] || [[Cycling at the 1928 Summer Olympics – Men's sprint|Men's sprint]]
+|- {{anchor|1932}}
+| rowspan="6" | {{GamesName|SOG|1932}}<br />{{details link|Denmark at the 1932 Summer Olympics|text=Denmark}} || {{silver medal}} || [[Henry Hansen (cyclist)|Henry Hansen]]<br />[[Leo Nielsen]]<br />[[Frode Sørensen (cyclist)|Frode Sørensen]] || [[Cycling at the 1932 Summer Olympics|Cycling]] || [[Cycling at the 1932 Summer Olympics – Men's team time trial|Men's team road race]]
+|-
+| {{silver medal}} || [[Svend Olsen]] || [[Weightlifting at the 1932 Summer Olympics|Weightlifting]] || [[Weightlifting at the 1932 Summer Olympics – Men's 82.5 kg|Men's Light Heavyweight]]
+|-
+| {{silver medal}} || [[Abraham Kurland]] || [[Wrestling at the 1932 Summer Olympics|Wrestling]] || [[Wrestling at the 1932 Summer Olympics – Men's Greco-Roman lightweight|Men's Greco-Roman Lightweight]]
+|-
+| {{bronze medal}} || [[Peter Jørgensen (boxer)|Peter Jørgensen]] || [[Boxing at the 1932 Summer Olympics|Boxing]] || [[Boxing at the 1932 Summer Olympics – Light heavyweight|Men's Light Heavyweight]]
+|-
+| {{bronze medal}} || [[Harald Christensen (cyclist)|Harald Christensen]]<br />[[Willy Gervin]] || [[Cycling at the 1932 Summer Olympics|Cycling]] || [[Cycling at the 1932 Summer Olympics – Men's tandem|Men's 2000m Tandem]]
+|-
+| {{bronze medal}} || [[Else Jacobsen]] || [[Swimming at the 1932 Summer Olympics|Swimming]] || [[Swimming at the 1932 Summer Olympics – Women's 200 metre breaststroke|Women's 200m Breaststroke]]
+|- {{anchor|1936}}
+| rowspan="5" | {{GamesName|SOG|1936}}<br />{{details link|Denmark at the 1936 Summer Olympics|text=Denmark}} || {{silver medal}} || [[Ragnhild Hveger]] || [[Swimming at the 1936 Summer Olympics|Swimming]] || [[Swimming at the 1936 Summer Olympics – Women's 400 metre freestyle|Women's 400m freestyle]]
+|-
+| {{silver medal}} || [[Harry Larsen]]<br />[[Richard Olsen]] || [[Rowing at the 1936 Summer Olympics|Rowing]] || [[Rowing at the 1936 Summer Olympics – Men's coxless pair|Men's coxless pair]]
+|-
+| {{bronze medal}} || [[Gerhard Pedersen]] || [[Boxing at the 1936 Summer Olympics|Boxing]] || [[Boxing at the 1936 Summer Olympics – Welterweight|Men's welterweight]]
+|-
+| {{bronze medal}} || [[Hans Lunding]] || [[Equestrian at the 1936 Summer Olympics|Equestrian]] || [[Equestrian at the 1936 Summer Olympics – Individual eventing|Three day event – Individual]]
+|-
+| {{bronze medal}} || [[Inge Sørensen]] || [[Swimming at the 1936 Summer Olympics|Swimming]] || [[Swimming at the 1936 Summer Olympics – Women's 200 metre breaststroke|Women's 200m breaststroke]]
+|- {{anchor|1948}}
+| rowspan="20" | {{GamesName|SOG|1948}}<br />{{details link|Denmark at the 1948 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Greta Andersen]] || [[Swimming at the 1948 Summer Olympics|Swimming]] || [[Swimming at the 1948 Summer Olympics – Women's 100 metre freestyle|Women's 100 m freestyle]]
+|-
+| {{gold medal}} || [[Karen Harup]] || [[Swimming at the 1948 Summer Olympics|Swimming]] || [[Swimming at the 1948 Summer Olympics – Women's 100 metre backstroke|Women's 100 m backstroke]]
+|-
+| {{gold medal}} || [[Carl-Ebbe Andersen]]<br />[[Tage Henriksen]]<br />[[Finn Pedersen]]|| [[Rowing at the 1948 Summer Olympics|Rowing]] || [[Rowing at the 1948 Summer Olympics – Men's coxed pair|Men's coxed pair]]
+|-
+| {{gold medal}} || [[Karen Hoff]] || [[Canoeing at the 1948 Summer Olympics|Canoeing]] || [[Canoeing at the 1948 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 m]]
+|-
+| {{gold medal}} || [[Paul Elvstrøm]] || [[Rowing at the 1948 Summer Olympics|Sailing]] || [[Sailing at the 1948 Summer Olympics – Firefly|Men's Firefly]]
+|-
+| {{silver medal}} || [[Eva Arndt|Eva Riise]]<br />[[Greta Andersen]]<br />[[Fritze Carstensen]]<br />[[Karen Harup]] || [[Swimming at the 1948 Summer Olympics|Swimming]] || [[Swimming at the 1948 Summer Olympics – Women's 4 × 100 metre freestyle relay|Women's 4 × 100 m freestyle relay]]
+|-
+| {{silver medal}} || [[Karen Harup]] || [[Swimming at the 1948 Summer Olympics|Swimming]] || [[Swimming at the 1948 Summer Olympics – Women's 400 metre freestyle|Women's 400 m freestyle]]
+|-
+| {{silver medal}} || [[Aage Larsen]]<br />[[Ebbe Parsner]] || [[Rowing at the 1948 Summer Olympics|Rowing]] || [[Rowing at the 1948 Summer Olympics – Men's double sculls|Men's doubles sculls]]
+|-
+| {{silver medal}} || [[Ib Storm Larsen]]<br />[[Helge Muxoll Schrøder|Helge Schrøder]]<br />[[Helge Halkjær]]<br />[[Aksel Bonde|Aksel Hansen]] || [[Rowing at the 1948 Summer Olympics|Rowing]] || [[Rowing at the 1948 Summer Olympics – Men's coxless four|Men's coxless four]]
+|-
+| {{silver medal}} || [[Johan Andersen (canoeist)|Johan Andersen]] || [[Canoeing at the 1948 Summer Olympics|Canoeing]] || [[Canoeing at the 1948 Summer Olympics – Men's K-1 1000 metres|Men's K-1 1000 m]]
+|-
+| {{silver medal}} || [[Ejvind Hansen]]<br />[[Bernhard Jensen|Jacob Jensen]] || [[Canoeing at the 1948 Summer Olympics|Canoeing]] || [[Canoeing at the 1948 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000 m]]
+|-
+| {{silver medal}} || [[Karen Lachmann]] || [[Fencing at the 1948 Summer Olympics|Fencing]] || [[Fencing at the 1948 Summer Olympics – Women's foil|Women's foil individual]]
+|-
+| {{bronze medal}} || [[Lily Carlstedt]] || [[Athletics at the 1948 Summer Olympics|Athletics]] || [[Athletics at the 1948 Summer Olympics – Women's javelin throw|Women's javelin throw]]
+|-
+| {{bronze medal}} || [[Henrik Hansen (wrestler)|Christian Hansen]] || [[Wrestling at the 1948 Summer Olympics|Wrestling]] || [[Wrestling at the 1948 Summer Olympics – Men's Greco-Roman welterweight|Men's Greco-Roman welterweight]]
+|-
+| {{bronze medal}} || [[Birte Christoffersen]] || [[Diving at the 1948 Summer Olympics|Diving]] || [[Diving at the 1948 Summer Olympics – Women's 10 metre platform|Women's 10 m platform]]
+|-
+| {{bronze medal}} || [[Axel Schandorff]] || [[Cycling at the 1948 Summer Olympics|Cycling]] || [[Cycling at the 1948 Summer Olympics – Men's sprint|Men's Sprint]]
+|-
+| {{bronze medal}} || [[Børge Raahauge Nielsen|Børge Nielsen]]<br />[[Ib Olsen|Jørgen Olsen]]<br />[[Harry Knudsen]]<br />[[Erik Larsen (rower)|Erik Larsen]]<br />[[Henry Larsen (Danish rower)|Henry Larsen]] || [[Rowing at the 1948 Summer Olympics|Rowing]] || [[Rowing at the 1948 Summer Olympics – Men's coxed four|Men's coxed four]]
+|-
+| {{bronze medal}} || [[Klaus Baess]]<br />[[Ole Berntsen]]<br />[[William Berntsen]] || [[Sailing at the 1948 Summer Olympics|Sailing]] || [[Sailing at the 1948 Summer Olympics – Dragon|Men's Dragon]]
+|-
+| {{bronze medal}} || [[Svend Wad]] || [[Boxing at the 1948 Summer Olympics|Boxing]] || [[Boxing at the 1948 Summer Olympics – Lightweight|Men's Lightweight]]
+|-
+| {{bronze medal}} || [[Denmark national football team]] ([[Football at the 1948 Summer Olympics – Men's team squads#Denmark|squad]]) || colspan="2" | [[Football at the 1948 Summer Olympics|Football]], men's team competition
+|- {{anchor|1952}}
+| rowspan="6" | {{GamesName|SOG|1952}}<br />{{details link|Denmark at the 1952 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Bent Peder Rasch|Bent Rasch]]<br />[[Finn Haunstoft]] || [[Canoeing at the 1952 Summer Olympics|Canoeing]] || [[Canoeing at the 1952 Summer Olympics – Men's C-2 1000 metres|Men's C-2 1000 m]]
+|-
+| {{gold medal}} || [[Paul Elvstrøm]] || [[Rowing at the 1952 Summer Olympics|Sailing]] || [[Sailing at the 1952 Summer Olympics – Finn|Men's Finn]]
+|-
+| {{silver medal}} || [[Lis Hartel]] || [[Equestrian at the 1952 Summer Olympics|Equestrian]] || [[Equestrian at the 1952 Summer Olympics – Individual dressage|Dressage individual]]
+|-
+| {{bronze medal}} || [[Jørgen Frantzen]]<br />[[Svend Ove Pedersen|Svend Pedersen]]<br />[[Poul Svendsen]] || [[Rowing at the 1952 Summer Olympics|Rowing]] || [[Rowing at the 1952 Summer Olympics – Men's coxed pair|Men's coxed pair]]
+|-
+| {{bronze medal}} || [[Karen Lachmann]] || [[Fencing at the 1952 Summer Olympics|Fencing]] || [[Fencing at the 1952 Summer Olympics – Women's foil|Women's foil individual]]
+|-
+| {{bronze medal}} || [[Victor Jörgensen]] || [[Boxing at the 1952 Summer Olympics|Boxing]] || [[Boxing at the 1952 Summer Olympics – Welterweight|Men's Welterweight]]
+|- {{anchor|1956}}
+| rowspan="4" | {{GamesName|SOG|1956}}<br />{{details link|Denmark at the 1956 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Paul Elvstrøm]] || [[Sailing at the 1956 Summer Olympics|Sailing]] || [[Sailing at the 1956 Summer Olympics – Finn|Men's Finn Individual Competition]]
+|-
+| {{silver medal}} || [[Lis Hartel]] || [[Equestrian at the 1956 Summer Olympics|Equestrian]] || [[Equestrian at the 1956 Summer Olympics – Individual dressage|Dressage Individual]]
+|-
+| {{silver medal}} || [[Ole Berntsen]]<br />[[Christian von Bülow]]<br />[[Cyril Andresen]] || [[Sailing at the 1956 Summer Olympics|Sailing]] || [[Sailing at the 1956 Summer Olympics – Dragon|Men's Dragon Team Competition]]
+|-
+| {{bronze medal}} || [[Tove Søby]] || [[Canoeing at the 1956 Summer Olympics|Canoeing]] || [[Canoeing at the 1956 Summer Olympics – Women's K-1 500 metres|Women's K1 500 metres Kayak Singles]]
+|- {{anchor|1960}}
+| rowspan="6" | {{GamesName|SOG|1960}}<br />{{details link|Denmark at the 1960 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Paul Elvstrøm]] || [[Sailing at the 1960 Summer Olympics|Sailing]] || [[Sailing at the 1960 Summer Olympics – Finn|men's Finn individual competition]]
+|-
+| {{gold medal}} || [[Erik Hansen (canoeist)|Erik Hansen]] || [[Canoeing at the 1960 Summer Olympics|Canoeing]] || [[Canoeing at the 1960 Summer Olympics – Men's K-1 1000 metres|men's K1 1,000 metres kayak singles]]
+|-
+| {{silver medal}} || [[Hans Fogh]]<br />[[Ole Gunnar Petersen]] || [[Sailing at the 1960 Summer Olympics|Sailing]] || [[Sailing at the 1960 Summer Olympics – Flying Dutchman|Flying Dutchman]]
+|-
+| {{silver medal}} || [[William Berntsen]]<br />[[Steen Christensen (sailor)|Steen Christensen]]<br />[[Søren Hancke]] || [[Sailing at the 1960 Summer Olympics|Sailing]] || [[Sailing at the 1960 Summer Olympics – 5.5 Metre|5.5 Metre]]
+|-
+| {{silver medal}} || [[Denmark national football team]] ([[Football at the 1960 Summer Olympics – Men's team squads#Denmark|squad]]) || colspan="2" | [[Football at the 1960 Summer Olympics|Football]], men's team competition
+|-
+| {{bronze medal}} || [[Erik Hansen (canoeist)|Erik Hansen]]<br />[[Arne Høyer]]<br />[[Erling Jessen]]<br />[[Helmuth Nyborg]] || [[Canoeing at the 1960 Summer Olympics|Canoeing]] || [[Canoeing at the 1960 Summer Olympics – Men's K-1 4 × 500 metres|men's K1 4x500 metres kayak relay]]
+|- {{anchor|1964}}
+| rowspan="6" | {{GamesName|SOG|1964}}<br />{{details link|Denmark at the 1964 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Ole Berntsen]]<br />[[Christian von Bülow]]<br />[[Ole Poulsen]] || [[Sailing at the 1964 Summer Olympics|Sailing]] || [[Sailing at the 1964 Summer Olympics – Dragon|Men's Dragon Class]]
+|-
+| {{gold medal}} || [[John Hansen (rower)|John Hansen]]<br />[[Bjørn Hasløv]]<br />[[Erik Petersen (rower)|Erik Petersen]]<br />[[Kurt Helmudt]] || [[Rowing at the 1964 Summer Olympics|Rowing]] || [[Rowing at the 1964 Summer Olympics – Men's coxless four|Men's Coxless Fours]]
+|-
+| {{silver medal}} || [[Kjell Rodian]] || [[Cycling at the 1964 Summer Olympics|Cycling]] || [[Cycling at the 1964 Summer Olympics – Men's individual road race|Men's Individual Road Race]]
+|-
+| {{bronze medal}} || [[Henning Wind]] || [[Sailing at the 1964 Summer Olympics|Sailing]] || [[Sailing at the 1964 Summer Olympics – Finn|Men's Finn Class]]
+|-
+| {{bronze medal}} || [[Preben Isaksson]] || [[Cycling at the 1964 Summer Olympics|Cycling]] || [[Cycling at the 1964 Summer Olympics – Men's individual pursuit|Men's 4.000m Individual Pursuit]]
+|-
+| {{bronze medal}} || [[Peer Nielsen]]<br />[[John Sørensen]] || [[Canoeing at the 1964 Summer Olympics|Canoeing]] || [[Canoeing at the 1964 Summer Olympics – Men's C-2 1000 metres|Men's C-2 1.000m]]
+|- {{anchor|1968}}
+| rowspan="8" | {{GamesName|SOG|1968}}<br />{{details link|Denmark at the 1968 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Gunnar Asmussen]]<br />[[Per Lyngemark]]<br />[[Reno Olsen]]<br />[[Mogens Frey|Mogens Jensen]] || [[Cycling at the 1968 Summer Olympics|Cycling]] || [[Cycling at the 1968 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|-
+| {{silver medal}} || [[Niels Fredborg]] || [[Cycling at the 1968 Summer Olympics|Cycling]] || [[Cycling at the 1968 Summer Olympics – Men's track time trial|Men's 1000 metre time trial]]
+|-
+| {{silver medal}} || [[Mogens Frey|Mogens Jensen]] || [[Cycling at the 1968 Summer Olympics|Cycling]] || [[Cycling at the 1968 Summer Olympics – Men's individual pursuit|Men's individual pursuit]]
+|-
+| {{silver medal}} || [[Leif Mortensen]] || [[Cycling at the 1968 Summer Olympics|Cycling]] || [[Cycling at the 1968 Summer Olympics – Men's individual road race|Men's individual road race]]
+|-
+| {{silver medal}} || [[Aage Birch]]<br />[[Poul Richard Høj Jensen]]<br />[[Niels Markussen]] || [[Sailing at the 1968 Summer Olympics|Sailing]] || [[Sailing at the 1968 Summer Olympics – Dragon|Men's Dragon class]]
+|-
+| {{bronze medal}} || [[Erik Hansen (canoeist)|Erik Hansen]] || [[Canoeing at the 1968 Summer Olympics|Canoeing]] || [[Canoeing at the 1968 Summer Olympics – Men's K-1 1000 metres|Men's K-1 1000 metres]]
+|-
+| {{bronze medal}} || [[Peter Christiansen (rower)|Peter Christiansen]]<br />[[Ib Larsen]] || [[Rowing at the 1968 Summer Olympics|Rowing]] || [[Rowing at the 1968 Summer Olympics – Men's coxless pair|Men's coxless pair]]
+|-
+| {{bronze medal}} || [[Harry Jørgensen]]<br />[[Jørn Krab]]<br />[[Preben Krab]] || [[Rowing at the 1968 Summer Olympics|Rowing]] || [[Rowing at the 1968 Summer Olympics – Men's coxed pair|Men's coxed pair]]
+|- {{anchor|1972}}
+| rowspan="1" | {{GamesName|SOG|1972}}<br />{{details link|Denmark at the 1972 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Niels Fredborg]] || [[Cycling at the 1972 Summer Olympics|Cycling]] || [[Cycling at the 1972 Summer Olympics – Men's track time trial|Men's 1000 metres time trial]]
+|- {{anchor|1976}}
+| rowspan="3" | {{GamesName|SOG|1976}}<br />{{details link|Denmark at the 1976 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Valdemar Bandolowski]]<br />[[Erik Hansen (sailor)|Erik Hansen]]<br />[[Poul Richard Høj Jensen]] || [[Sailing at the 1976 Summer Olympics|Sailing]] || [[Sailing at the 1976 Summer Olympics – Soling|Men's Soling class]]
+|-
+| {{bronze medal}} || [[Niels Fredborg]] || [[Cycling at the 1976 Summer Olympics|Cycling]] || [[Cycling at the 1976 Summer Olympics – Men's track time trial|Men's 1000 metres time trial]]
+|-
+| {{bronze medal}} || [[Verner Blaudzun]]<br />[[Gert Frank]]<br />[[Jørgen Hansen (cyclist)|Jørgen Hansen]]<br />[[Jørn Lund (cyclist)|Jørn Lund]] || [[Cycling at the 1976 Summer Olympics|Cycling]] || [[Cycling at the 1976 Summer Olympics – Men's team time trial|Men's team time trial]]
+|- {{anchor|1980}}
+| rowspan="5" | {{GamesName|SOG|1980}}<br />{{details link|Denmark at the 1980 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Hans Kjeld Rasmussen]] || [[Shooting at the 1980 Summer Olympics|Shooting]] || [[Shooting at the 1980 Summer Olympics – Mixed skeet|Men's Skeet]]
+|-
+| {{gold medal}} || [[Valdemar Bandolowski]]<br />[[Erik Hansen (sailor)|Erik Hansen]]<br />[[Poul Richard Høj Jensen]] || [[Sailing at the 1980 Summer Olympics|Sailing]] || [[Sailing at the 1980 Summer Olympics – Soling|Men's Soling]]
+|-
+| {{silver medal}} || [[Peter Due]]<br />[[Per Kjærgaard Nielsen|Per Kjærgaard]] || [[Sailing at the 1980 Summer Olympics|Sailing]] || [[Sailing at the 1980 Summer Olympics – Tornado|Men's Tornado]]
+|-
+| {{bronze medal}} || [[Hans-Henrik Ørsted]] || [[Cycling at the 1980 Summer Olympics|Cycling]] || [[Cycling at the 1980 Summer Olympics – Men's individual pursuit|Men's 4.000 metres Individual Pursuit]]
+|-
+| {{bronze medal}} || [[Susanne Nielsson]] || [[Swimming at the 1980 Summer Olympics|Swimming]] || [[Swimming at the 1980 Summer Olympics – Women's 100 metre breaststroke|Women's 100 metres Breaststroke]]
+|- {{anchor|1984}}
+| rowspan="6" | {{GamesName|SOG|1984}}<br />{{details link|Denmark at the 1984 Summer Olympics|text=Denmark}} || {{silver medal}} || [[Henning Lynge Jakobsen]] || [[Canoeing at the 1984 Summer Olympics|Canoeing]] || [[Canoeing at the 1984 Summer Olympics – Men's C-1 500 metres|Men's C-1 500 metres]]
+|-
+| {{silver medal}} || [[Anne Grethe Jensen]] || [[Equestrian at the 1984 Summer Olympics|Equestrian]] || [[Equestrian at the 1984 Summer Olympics – Individual dressage|individual dressage]]
+|-
+| {{silver medal}} || [[Ole Riber Rasmussen]] || [[Shooting at the 1984 Summer Olympics|Shooting]] || [[Shooting at the 1984 Summer Olympics – Mixed skeet|Men's Skeet]]
+|-
+| {{bronze medal}} || [[Henning Lynge Jakobsen]] || [[Canoeing at the 1984 Summer Olympics|Canoeing]] || [[Canoeing at the 1984 Summer Olympics – Men's C-1 1000 metres|Men's C-1 1000 metres]]
+|-
+| {{bronze medal}} || [[Erik Christiansen]]<br />[[Michael Jessen]]<br />[[Lars Nielsen (rower)|Lars Nielsen]]<br />[[Per Rasmussen]] || [[Rowing at the 1984 Summer Olympics|Rowing]] || [[Rowing at the 1984 Summer Olympics – Men's coxless four|Men's Coxless Four]]
+|-
+| {{bronze medal}} || [[Hanne Eriksen]]<br />[[Birgitte Hanel]]<br />[[Lotte Koefoed]]<br />[[Bodil Rasmussen]]<br />[[Jette Sørensen]] || [[Rowing at the 1984 Summer Olympics|Rowing]] || [[Rowing at the 1984 Summer Olympics – Women's quadruple sculls|Women's Coxed Quadruple Sculls]]
+|- {{anchor|1988}}
+| rowspan="4" | {{GamesName|SOG|1988}}<br />{{details link|Denmark at the 1988 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Dan Frost (cyclist)|Dan Frost]] || [[Cycling at the 1988 Summer Olympics|Cycling]] || [[Cycling at the 1988 Summer Olympics – Men's points race|Men's Points Race]]
+|-
+| {{gold medal}} || [[Jørgen Bojsen-Møller]]<br />[[Christian Grønborg]] || [[Sailing at the 1988 Summer Olympics|Sailing]] || [[Sailing at the 1988 Summer Olympics – Flying Dutchman|Men's Flying Dutchman Class]]
+|-
+| {{silver medal}} || [[Benny Nielsen (swimmer)|Benny Nielsen]] || [[Swimming at the 1988 Summer Olympics|Swimming]] || [[Swimming at the 1988 Summer Olympics – Men's 200 metre butterfly|Men's 200 metres Butterfly]]
+|-
+| {{bronze medal}} || [[Jesper Bank]]<br />[[Steen Secher]]<br />[[Jan Mathiasen]] || [[Sailing at the 1988 Summer Olympics|Sailing]] || [[Sailing at the 1988 Summer Olympics – Soling|Men's Soling Class]]
+|- {{anchor|1992}}
+| rowspan="6" | {{GamesName|SOG|1992}}<br />{{details link|Denmark at the 1992 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Jesper Bank]]<br />[[Steen Secher]]<br />[[Jesper Seier]] || [[Sailing at the 1992 Summer Olympics|Sailing]] || [[Sailing at the 1992 Summer Olympics – Soling|Men's Soling Class]]
+|-
+| {{silver medal}} || [[Arne Nielsson]]<br />[[Christian Frederiksen]] || [[Canoeing at the 1992 Summer Olympics|Canoeing]] || [[Canoeing at the 1992 Summer Olympics – Men's C-2 1000 metres|Men's C-2 1000 metres]]
+|-
+| {{bronze medal}} || [[Thomas Stuer-Lauridsen]] || [[Badminton at the 1992 Summer Olympics|Badminton]] || [[Badminton at the 1992 Summer Olympics – Men's singles|Men's Singles]]
+|-
+| {{bronze medal}} || [[Brian Nielsen (boxer)|Brian Nielsen]] || [[Boxing at the 1992 Summer Olympics|Boxing]] || [[Boxing at the 1992 Summer Olympics – Super heavyweight|Men's Super Heavyweight]]
+|-
+| {{bronze medal}} || [[Jørgen Bojsen-Møller]]<br />[[Jens Bojsen-Møller]] || [[Sailing at the 1992 Summer Olympics|Sailing]] || [[Sailing at the 1992 Summer Olympics – Flying Dutchman|Men's Flying Dutchman Class]]
+|-
+| {{bronze medal}} || [[Ken Frost (cyclist)|Ken Frost]]<br />[[Jimmi Madsen]]<br />[[Klaus Kynde Nielsen]]<br />[[Jan Petersen (cyclist)|Jan Petersen]]<br />[[Michael Sandstød]] || [[Cycling at the 1992 Summer Olympics|Cycling]] || [[Cycling at the 1992 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|- {{anchor|1996}}
+| rowspan="6" | {{GamesName|SOG|1996}}<br />{{details link|Denmark at the 1996 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Poul-Erik Høyer Larsen]] || [[Badminton at the 1996 Summer Olympics|Badminton]] || [[Badminton at the 1996 Summer Olympics – Men's singles|Men's Singles Competition]]
+|-
+| {{gold medal}} || [[Thomas Poulsen]]<br />[[Eskild Ebbesen]]<br />[[Victor Feddersen]]<br />[[Niels Henriksen]] || [[Rowing at the 1996 Summer Olympics|Rowing]] || [[Rowing at the 1996 Summer Olympics – Men's lightweight coxless four|Men's Lightweight Coxless Four]]
+|-
+| {{gold medal}} || [[Kristine Roug]] || [[Sailing at the 1996 Summer Olympics|Sailing]] || [[Sailing at the 1996 Summer Olympics – Europe|Women's Europe Class]]
+|-
+| {{gold medal}} || [[Denmark women's national handball team|National handball team]]  ([[Handball at the 1996 Summer Olympics – Women's team squads#Denmark|squad]]) || [[Handball at the 1996 Summer Olympics|Handball]] || [[Handball at the 1996 Summer Olympics – Women's tournament|Women's Team Competition]]
+|-
+| {{silver medal}} || [[Rolf Sørensen]] || [[Cycling at the 1996 Summer Olympics|Cycling]] || [[Cycling at the 1996 Summer Olympics – Men's individual road race|Men's Individual Road Race]]
+|-
+| {{bronze medal}} || [[Trine Hansen]] || [[Rowing at the 1996 Summer Olympics|Rowing]] || [[Rowing at the 1996 Summer Olympics – Women's single sculls|Women's Single Sculls]]
+|- {{anchor|2000}}
+| rowspan="6" | {{GamesName|SOG|2000}}<br />{{details link|Denmark at the 2000 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Denmark women's national handball team|National handball team]] ([[Handball at the 2000 Summer Olympics – Women's team rosters#Denmark|squad]]) || [[Handball at the 2000 Summer Olympics|Handball]] || [[Handball at the 2000 Summer Olympics – Women's tournament|Women's competition]]
+|-
+| {{gold medal}} || [[Jesper Bank]]<br>[[Henrik Blakskjær]]<br>[[Thomas Jacobsen (sailor)|Thomas Jacobsen]] || [[Sailing at the 2000 Summer Olympics|Sailing]] || [[Sailing at the 2000 Summer Olympics – Soling|Men's Soling class]]
+|-
+| {{silver medal}} || [[Wilson Kipketer]] || [[Athletics at the 2000 Summer Olympics|Athletics]] || [[Athletics at the 2000 Summer Olympics – Men's 800 metres|Men's 800m]]
+|-
+| {{silver medal}} || [[Camilla Martin]] || [[Badminton at the 2000 Summer Olympics|Badminton]] || [[Badminton at the 2000 Summer Olympics – Women's singles|Women's singles]]
+|-
+| {{silver medal}} || [[Torben Grimmel]] || [[Shooting at the 2000 Summer Olympics|Shooting]] || [[Shooting at the 2000 Summer Olympics – Men's 50 metre rifle prone|Men's 50m rifle prone]]
+|-
+| {{bronze medal}} || [[Eskild Ebbesen]]<br>[[Thomas Ebert]]<br>[[Victor Feddersen]]<br>[[Søren Madsen]] || [[Rowing at the 2000 Summer Olympics|Rowing]] || [[Rowing at the 2000 Summer Olympics – Men's lightweight coxless four|Men's lightweight coxless four]]
+|- {{anchor|2004}}
+| rowspan="8" | {{GamesName|SOG|2004}}<br />{{details link|Denmark at the 2004 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Denmark women's national handball team|National handball team]] ([[Handball at the 2004 Summer Olympics – Women's team rosters#Denmark|squad]])|| [[Handball at the 2004 Summer Olympics|Handball]] || [[Handball at the 2004 Summer Olympics – Women's tournament|Women's competition]]
+|-
+| {{gold medal}} || [[Eskild Ebbesen]]<br>[[Thomas Ebert]]<br>[[Thor Kristensen]]<br>[[Stephan Mølvig]] || [[Rowing at the 2004 Summer Olympics|Rowing]] || [[Rowing at the 2004 Summer Olympics – Men's lightweight coxless four|Men's lightweight coxless four]]
+|-
+| {{silver medal}} || [[Joachim B. Olsen]] || [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Men's shot put|Men's shot put]]
+|-
+| {{bronze medal}} || [[Wilson Kipketer]] || [[Athletics at the 2004 Summer Olympics|Athletics]] || [[Athletics at the 2004 Summer Olympics – Men's 800 metres|Men's 800m]]
+|- 
+| {{bronze medal}} || [[Jens Eriksen]]<br />[[Mette Schjoldager]] || [[Badminton at the 2004 Summer Olympics|Badminton]] || [[Badminton at the 2004 Summer Olympics – Mixed doubles|Mixed doubles]]
+|-
+| {{bronze medal}} || [[Michael Maze]]<br>[[Finn Tugwell]] || [[Table tennis at the 2004 Summer Olympics|Table tennis]] || [[Table tennis at the 2004 Summer Olympics – Men's doubles|Men's doubles]]
+|-
+| {{bronze medal}} || [[Signe Livbjerg]] || [[Sailing at the 2004 Summer Olympics|Sailing]] || [[Sailing at the 2004 Summer Olympics – Europe|Women's Europe class]]
+|-
+| {{bronze medal}} || [[Dorte Jensen]]<br>[[Helle Jespersen]]<br>[[Christina Otzen]] || [[Sailing at the 2004 Summer Olympics|Sailing]] || [[Sailing at the 2004 Summer Olympics – Yngling|Women's yngling class]]
+|- {{anchor|2008}}
+| rowspan="7" | {{GamesName|SOG|2008}}<br />{{details link|Denmark at the 2008 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Mads Andersen (rower)|Mads Andersen]]<br>[[Thomas Ebert]]<br>[[Eskild Ebbesen]]<br>[[Morten Jørgensen]] || [[Rowing at the 2008 Summer Olympics|Rowing]] || [[Rowing at the 2008 Summer Olympics – Men's lightweight coxless four|Men's lightweight coxless four]]
+|-
+| {{gold medal}} || [[Martin Kirketerp Ibsen]]<br>[[Jonas Warrer]] || [[Sailing at the 2008 Summer Olympics|Sailing]] || [[Sailing at the 2008 Summer Olympics – 49er|Men's 49er class]]
+|-
+| {{silver medal}} || [[Casper Jørgensen]]<br>[[Jens-Erik Madsen]]<br>[[Michael Mørkøv]]<br>[[Alex Nicki Rasmussen]] || [[Cycling at the 2008 Summer Olympics|Cycling (track)]] || [[Cycling at the 2008 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|-
+| {{silver medal}} || [[Kim Wraae Knudsen]]<br />[[René Holten Poulsen]] || [[Canoeing at the 2008 Summer Olympics|Canoeing]] || [[Canoeing at the 2008 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000 m]]
+|-
+| {{bronze medal}} || [[Andreas Helgstrand]]<br>[[Anne van Olst]]<br>[[Nathalie zu Sayn-Wittgenstein]] || [[Equestrian at the 2008 Summer Olympics|Equestrian]] || [[Equestrian at the 2008 Summer Olympics – Team dressage|Dressage team]]
+|-
+| {{bronze medal}} || [[Rasmus Quist]]<br>[[Mads Reinholdt Rasmussen]] || [[Rowing at the 2008 Summer Olympics|Rowing]] || [[Rowing at the 2008 Summer Olympics – Men's double sculls|Men's double sculls]]
+|-
+| {{bronze medal}} || [[Lotte Friis]] || [[Swimming at the 2008 Summer Olympics|Swimming]] || [[Swimming at the 2008 Summer Olympics – Women's 800 metre freestyle|Women's 800 m freestyle]]
+|- {{anchor|2012}}
+| rowspan="9" | {{GamesName|SOG|2012}}<br />{{details link|Denmark at the 2012 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Rasmus Quist]]<br />[[Mads Rasmussen]] || [[Rowing at the 2012 Summer Olympics|Rowing]] || [[Rowing at the 2012 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]]
+|-
+| {{gold medal}} || [[Lasse Norman Hansen]] || [[Cycling at the 2012 Summer Olympics|Cycling (track)]] || [[Cycling at the 2012 Summer Olympics – Men's omnium|Men's omnium]]
+|-
+| {{silver medal}} || [[Anders Golding]] || [[Shooting at the 2012 Summer Olympics|Shooting]] || [[Shooting at the 2012 Summer Olympics – Men's skeet|Men's skeet]]
+|-
+| {{silver medal}} || [[Fie Udby Erichsen]] || [[Rowing at the 2012 Summer Olympics|Rowing]] || [[Rowing at the 2012 Summer Olympics – Women's single sculls|Women's single sculls]]
+|-
+| {{silver medal}} || [[Jonas Høgh-Christensen]] || [[Sailing at the 2012 Summer Olympics|Sailing]] || [[Sailing at the 2012 Summer Olympics – Finn|Men's Finn]]
+|-
+| {{silver medal}} || [[Mathias Boe]]<br />[[Carsten Mogensen]] || [[Badminton at the 2012 Summer Olympics|Badminton]] || [[Badminton at the 2012 Summer Olympics – Men's doubles|Men's doubles]]
+|-
+| {{bronze medal}} || [[Kasper Winther Jørgensen]]<br />[[Morten Jørgensen]]<br />[[Jacob Barsøe]]<br />[[Eskild Ebbesen]] || [[Rowing at the 2012 Summer Olympics|Rowing]] || [[Rowing at the 2012 Summer Olympics – Men's lightweight coxless four|Men's lightweight coxless four]]
+|-
+| {{bronze medal}} || [[Joachim Fischer Nielsen|Joachim Fischer]]<br />[[Christinna Pedersen]] || [[Badminton at the 2012 Summer Olympics|Badminton]] || [[Badminton at the 2012 Summer Olympics – Mixed doubles|Mixed doubles]]
+|-
+| {{bronze medal}} || [[Peter Lang (sailor, born 1989)|Peter Lang]]<br />[[Allan Nørregaard]]|| [[Sailing at the 2012 Summer Olympics|Sailing]] || |[[Sailing at the 2012 Summer Olympics – 49er|Men's 49er]]
+|- {{anchor|2016}}
+| rowspan="15" | {{GamesName|SOG|2016}}<br />{{details link|Denmark at the 2016 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Denmark men's national handball team|National handball team]] ([[Handball at the 2016 Summer Olympics – Men's team rosters#Denmark|squad]]) || [[Handball at the 2016 Summer Olympics|Handball]] || [[Handball at the 2016 Summer Olympics – Men's tournament|Men's competition]]
+|-
+| {{gold medal}} || [[Pernille Blume]] || [[Swimming at the 2016 Summer Olympics|Swimming]] ||[[Swimming at the 2016 Summer Olympics – Women's 50 metre freestyle|Women's 50 m freestyle]]
+|-
+| {{silver medal}} || [[Jakob Fuglsang]] || [[Cycling at the 2016 Summer Olympics|Cycling (road)]] ||[[Cycling at the 2016 Summer Olympics – Men's individual road race|Men's road race]]
+|-
+| {{silver medal}} || [[Jacob Barsøe]]<br />[[Kasper Winther Jørgensen]]<br />[[Morten Jørgensen]]<br />[[Jacob Larsen (rower)|Jacob Larsen]] || [[Rowing at the 2016 Summer Olympics|Rowing]] || [[Rowing at the 2016 Summer Olympics – Men's lightweight coxless four|Men's lightweight four]]
+|-
+| {{silver medal}} || [[Mark Madsen (wrestler)|Mark Madsen]] || [[Wrestling at the 2016 Summer Olympics|Wrestling]] ||[[Wrestling at the 2016 Summer Olympics – Men's Greco-Roman 75 kg|Men's Greco-Roman 75 kg]]
+|-
+| {{silver medal}} || [[Emma Åstrand Jørgensen]] || [[Canoeing at the 2016 Summer Olympics|Canoeing]] || [[Canoeing at the 2016 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 m]]
+|-
+| {{silver medal}} || [[Kamilla Rytter Juhl]]<br />[[Christinna Pedersen]] || [[Badminton at the 2016 Summer Olympics|Badminton]] || [[Badminton at the 2016 Summer Olympics – Women's doubles|Women's doubles]]
+|-
+| {{silver medal}} || [[Sara Slott Petersen]] || [[Athletics at the 2016 Summer Olympics|Athletics]] || [[Athletics at the 2016 Summer Olympics – Women's 400 metres hurdles|Women's 400 m hurdles]]
+|-
+| {{bronze medal}} || [[Anne Dsane Andersen]]<br />[[Lærke Rasmussen]] || [[Rowing at the 2016 Summer Olympics|Rowing]] || [[Rowing at the 2016 Summer Olympics – Women's coxless pair|Women's coxless pair]]
+|-
+| {{bronze medal}} || [[Casper Folsach]]<br />[[Lasse Norman Hansen]]<br />[[Niklas Larsen]]<br />[[Frederik Madsen]]<br />[[Rasmus Quaade]] || [[Cycling at the 2016 Summer Olympics|Cycling (track)]] || [[Cycling at the 2016 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|-
+| {{bronze medal}} || [[Lasse Norman Hansen]] || [[Cycling at the 2016 Summer Olympics|Cycling (track)]] || [[Cycling at the 2016 Summer Olympics – Men's omnium|Men's omnium]]
+|-
+| {{bronze medal}} || [[Mie Nielsen]]<br />[[Rikke Møller Pedersen]]<br />[[Jeanette Ottesen]]<br />[[Pernille Blume]] || [[Swimming at the 2016 Summer Olympics|Swimming]] || [[Swimming at the 2016 Summer Olympics – Women's 4 × 100 metre medley relay|Women's 4 × 100 m medley relay]]
+|-
+| {{bronze medal}} || [[Anne-Marie Rindom]] || [[Sailing at the 2016 Summer Olympics|Sailing]] || [[Sailing at the 2016 Summer Olympics – Laser Radial|Laser Radial]]
+|-
+| {{bronze medal}} || [[Jena Mai Hansen]]<br />[[Katja Salskov-Iversen]] || [[Sailing at the 2016 Summer Olympics|Sailing]] || [[Sailing at the 2016 Summer Olympics – 49er FX|Women's 49er FX]]
+|-
+| {{bronze medal}} || [[Viktor Axelsen]] || [[Badminton at the 2016 Summer Olympics|Badminton]] || [[Badminton at the 2016 Summer Olympics – Men's singles|Men's singles]]
+
+|- {{anchor|2020}}
+| rowspan="11" | {{GamesName|SOG|2020}}<br />{{details link|Denmark at the 2020 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Anne-Marie Rindom]] || [[Sailing at the 2020 Summer Olympics|Sailing]] || [[Sailing at the 2020 Summer Olympics – Laser Radial|Laser Radial]]
+|-
+| {{gold medal}} || [[Viktor Axelsen]] || [[Badminton at the 2020 Summer Olympics|Badminton]] || [[Badminton at the 2020 Summer Olympics – Men's singles|Men's singles]]
+|-
+| {{gold medal}} || [[Lasse Norman Hansen]] <br /> [[Michael Mørkøv]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Men's Madison|Men's madison]]
+|-
+| {{silver medal}} || [[Jesper Hansen (sport shooter)|Jesper Hansen]] || [[Shooting at the 2020 Summer Olympics|Shooting]] ||[[Shooting at the 2020 Summer Olympics – Men's skeet|Men's skeet]]
+|-
+| {{silver medal}} || [[Lasse Norman Hansen]] <br /> [[Niklas Larsen]]<br />[[Frederik Rodenberg]]<br />[[Rasmus Pedersen]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Men's team pursuit|Men's team pursuit]]
+|-
+| {{silver medal}} || [[Amalie Dideriksen]] <br /> [[Julie Leth]] || [[Cycling at the 2020 Summer Olympics|Cycling]] ||[[Cycling at the 2020 Summer Olympics – Women's Madison|Women's madison]]
+|-
+| {{silver medal}} || [[Denmark men's national handball team|National handball team]] ([[Handball at the 2020 Summer Olympics – Men's team rosters#Denmark|squad]])
+|| [[Handball at the 2020 Summer Olympics|Handball]] || [[Handball at the 2020 Summer Olympics – Men's tournament|Men's competition]]
+|-
+| {{bronze medal}} || [[Joachim Sutton]]<br />[[Frederic Vystavel]] || [[Rowing at the 2020 Summer Olympics|Rowing]] ||[[Rowing at the 2020 Summer Olympics – Men's coxless pair|Men's coxless pair]]
+|-
+| {{bronze medal}} || [[Pernille Blume]] || [[Swimming at the 2020 Summer Olympics|Swimming]] ||[[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|Women's 50 m freestyle]]
+|-
+| {{bronze medal}} || [[Emma Aastrand Jørgensen]] || [[Canoeing at the 2020 Summer Olympics|Canoeing]] || [[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|Women's K-1 200 metres]]
+|-
+| {{bronze medal}} || [[Emma Aastrand Jørgensen]] || [[Canoeing at the 2020 Summer Olympics|Canoeing]] || [[Canoeing at the 2020 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 metres]]
+|- {{anchor|2024}}
+| rowspan="9 | {{GamesName|SOG|2024}}<br />{{details link|Denmark at the 2024 Summer Olympics|text=Denmark}} || {{gold medal}} || [[Viktor Axelsen]] || [[Badminton at the 2024 Summer Olympics|Badminton]] || [[Badminton at the 2024 Summer Olympics – Men's singles|Men's singles]]
+|-
+| {{gold medal}} || {{sortname|Denmark|men's national handball team}}<br />{{columns-list|colwidth=10em|small=yes|style=width:22em|{{ubl|[[Lasse Andersson]]|[[Thomas Sommer Arnoldsen|Thomas Arnoldsen]]|[[Mathias Gidsel]]|[[Simon Hald]]|[[Mikkel Hansen]]|[[Emil Jakobsen]]|[[Lukas Jørgensen]]|[[Niclas Kirkeløkke]]|[[Magnus Landin Jacobsen|Magnus Landin]]|[[Niklas Landin Jacobsen|Niklas Landin]]|[[Rasmus Lauge]]|[[Hans Lindberg]]|[[Henrik Møllgaard]]|[[Emil Nielsen (handballer)|Emil Nielsen]]|[[Simon Pytlick]]|[[Magnus Saugstrup]]}}}}
+|| [[Handball at the 2024 Summer Olympics|Handball]] || [[Handball at the 2024 Summer Olympics – Men's tournament|Men's tournament]]
+|-
+| {{silver medal}} || [[Cathrine Dufour]]<br />[[Nanna Skodborg Merrald]]<br />[[Daniel Bachmann Andersen]] || [[Equestrian at the 2024 Summer Olympics|Equestrian]] ||[[Equestrian at the 2024 Summer Olympics – Team dressage|Team dressage]]
+|-
+| {{silver medal}} ||[[Anne-Marie Rindom]] || [[Sailing at the 2024 Summer Olympics|Sailing]] || [[Sailing at the 2024 Summer Olympics – Laser Radial|ILCA 6]]
+|-
+| {{bronze medal}} ||[[Turpal Bisultanov]] || [[Wrestling at the 2024 Summer Olympics|Wrestling]] || [[Wrestling at the 2024 Summer Olympics – Men's Greco-Roman 87 kg|Men's Greco-Roman 87 kg]]
+|-
+| {{bronze medal}} ||[[Edi Hrnic]] || [[Taekwondo at the 2024 Summer Olympics|Taekwondo]] || [[Taekwondo at the 2024 Summer Olympics – Men's 80 kg|Men's 80 kg]]
+|-
+| {{bronze medal}} || {{sortname|Denmark|women's national handball team}}<br />{{columns-list|colwidth=10em|small=yes|style=width:22em|{{ubl|[[Louise Burgaard]]|[[Helena Elver]]|[[Emma Friis]]|[[Anne Mette Hansen]]|[[Line Haugsted]]|[[Kathrine Heindahl]]|[[Mie Højlund]]|[[Rikke Iversen]]|[[Sarah Iversen]]|[[Kristina Jørgensen]]|[[Michala Møller]]|[[Trine Østergaard]]|[[Althea Reinhardt]]|[[Mette Tranborg]]|[[Sandra Toft]]}}}}
+|| [[Handball at the 2024 Summer Olympics|Handball]] || [[Handball at the 2024 Summer Olympics – Women's tournament|Women's tournament]]
+|-
+| {{bronze medal}} ||[[Emma Aastrand Jørgensen]] || [[Canoeing at the 2024 Summer Olympics|Canoeing]] || [[Canoeing at the 2024 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 m]]
+|-
+| {{bronze medal}} ||[[Michael Mørkøv]]<br />[[Niklas Larsen]] || [[Cycling at the 2024 Summer Olympics|Cycling]] || [[Cycling at the 2024 Summer Olympics – Men's Madison|Men's Madison]]
+<!-- Sort by medal, not by date -->
+|}
+
+=== Winter Olympics ===
+Denmark has won two silver medals at the Winter Olympics.
+{| class="wikitable"
+|-
+!style="width:12em"| Games
+!style="width:6em"| Medal
+!style="width:15em"| Name
+!style="width:12em"| Sport
+!style="width:12em"| Event
+|-
+| {{GamesName|WOG|1998}} || {{silver medal}} || [[Helena Blach Lavrsen]]<br>[[Margit Pörtner]]<br>[[Dorthe Holm]]<br>[[Trine Qvist]]<br>[[Jane Bidstrup]] || [[Image:Curling pictogram.svg|25px]] [[Curling at the 1998 Winter Olympics|Curling]] || [[Curling at the 1998 Winter Olympics#Women's|Women's competition]]
+|-
+| {{GamesName|WOG|2026}} || {{silver medal}} || [[Viktor Hald Thorup]] || [[Image:Speed skating pictogram.svg|25px]] [[Speed skating at the 2026 Winter Olympics|Speed Skating]] || [[Speed skating at the 2026 Winter Olympics – Men's mass start|Men's Mass Start]]
+|}
+
+==Summary by summer sport==
+
+===Non-participations===
+Denmark has participated in most summer sports, but they have yet to participate in: [[Artistic swimming at the Summer Olympics|Artistic swimming]], [[Baseball at the Summer Olympics|Baseball]]/[[Softball at the Summer Olympics|Softball]], [[Basketball at the Summer Olympics|Basketball]], [[Cricket at the Summer Olympics|Cricket]], [[Lacrosse at the Summer Olympics|Lacrosse]], [[Rugby football]] (neither [[Rugby sevens at the Summer Olympics|Rugby sevens]] or the discontinued discipline [[Rugby union at the Summer Olympics|Rugby union]]), [[Sport climbing at the Summer Olympics|Sport climbing]], [[Surfing at the Summer Olympics|Surfing]], [[Volleyball at the Summer Olympics|Volleyball]] and [[Water polo at the Summer Olympics|Water polo]].
+
+Denmark never participated in the following discontinued sports: [[Basque pelota at the 1900 Summer Olympics|Basque pelota]], [[Croquet at the 1900 Summer Olympics|Croquet]], [[Jeu de paume at the 1908 Summer Olympics|Jeu de paume]], [[Karate at the Summer Olympics|Karate]], [[Polo at the Summer Olympics|Polo]], [[Rackets at the 1908 Summer Olympics|Rackets]], [[Roque at the 1904 Summer Olympics|Roque]] and [[Water motorsports at the 1908 Summer Olympics|Water motorsports]].
+
+===Aquatics===
+For aquatics disciplines, follow these links: [[#Diving|Diving]] and [[#Swimming|Swimming]].
+
+Denmark has yet to participate in [[Artistic swimming at the Summer Olympics|Artistic swimming]] and [[Water polo at the Summer Olympics|Water polo]].
+
+===[[Archery at the Summer Olympics|Archery]]===
+Archery was included in the Olympic programme four times between 1900 and 1920. It returned in 1972 and has remained in the Olympic programme ever since.
+
+Denmark's best placement in the sport was 8th by [[Arne Jacobsen (archer)|Arne Jacobsen]] in [[Archery at the 1972 Summer Olympics – Men's individual|men's individual in 1972]]. That result was matched by [[Carina Christiansen]], [[Maja Jager]] and [[Louise Laursen]] in [[Archery at the 2012 Summer Olympics – Women's team|women's team in 2012]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Archers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Archery at the 1972 Summer Olympics|1972 Munich]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 1976 Summer Olympics|1976 Montreal]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 1988 Summer Olympics|1988 Seoul]] || 3 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 1992 Summer Olympics|1992 Barcelona]] || 3 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 2000 Summer Olympics|2000 Sydney]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 2004 Summer Olympics|2004 Athens]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 2008 Summer Olympics|2008 Beijing]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 2012 Summer Olympics|2012 London]] || 3 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Archery at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Athletics at the Summer Olympics|Athletics]]===
+Athletics has been included in the Olympic programme since the inaugural 1896 Summer Olympics.
+
+Denmark has won 7 medals in athletics; 4 silver and 3 bronze.
+
+Their most successful athlete in the sport is [[Wilson Kipketer]] who competed in men's 800m, winning silver in [[Athletics at the 2000 Summer Olympics – Men's 800 metres|2000]] and bronze in [[Athletics at the 2004 Summer Olympics – Men's 800 metres|2004]].
+
+Denmark's most successful female athlete in the sport is [[Sara Slott Petersen]] who won silver in [[Athletics at the 2016 Summer Olympics – Women's 400 metres hurdles|women's 400m hurdles in 2016]].
+
+Denmark's remaining silver medalists are [[Henry Petersen]] who won his medal in [[Athletics at the 1920 Summer Olympics – Men's pole vault|men's pole vault in 1920]] and [[Joachim Olsen]] who won his medal in [[Athletics at the 2004 Summer Olympics – Men's shot put|men's shot put in 2004]].
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Games
+! Athletes
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Athletics at the 1896 Summer Olympics|1896 Athens]] || 3 || 3/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1900 Summer Olympics|1900 Paris]] || 4 || 6/23 || 0 || 0 || 1 || 1 || =10
+|-
+|align=left| [[Athletics at the 1908 Summer Olympics|1908 London]] || 8 || 9/26 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1912 Summer Olympics|1912 Stockholm]] || 14 || 6/30 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1920 Summer Olympics|1920 Antwerp]] || 18 || 15/29 || 0 || 1 || 0 || 1 || =10
+|-
+|align=left| [[Athletics at the 1924 Summer Olympics|1924 Paris]] || 9 || 12/27 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1928 Summer Olympics|1928 Amsterdam]] || 10 || 11/27 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1932 Summer Olympics|1932 Los Angeles]] || 2 || 2/29 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1936 Summer Olympics|1936 Berlin]] || 10 || 11/29 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1948 Summer Olympics|1948 London]] || 16 || 11/33 || 0 || 0 || 1 || 1 || =20
+|-
+|align=left| [[Athletics at the 1952 Summer Olympics|1952 Helsinki]] || 11 || 10/33 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1956 Summer Olympics|1956 Melbourne]] || 2 || 4/33 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1960 Summer Olympics|1960 Rome]] || 9 || 7/34 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1964 Summer Olympics|1964 Tokyo]] || 4 || 5/36 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1968 Summer Olympics|1968 Mexico City]] || 6 || 6/36 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1972 Summer Olympics|1972 Munich]] || 13 || 11/38 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1976 Summer Olympics|1976 Montreal]] || 3 || 3/37 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1980 Summer Olympics|1980 Moscow]] || 2 || 2/38 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1984 Summer Olympics|1984 Los Angeles]] || 3 || 2/41 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1988 Summer Olympics|1988 Seoul]] || 5 || 5/42 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1992 Summer Olympics|1992 Barcelona]] || 3 || 3/43 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 1996 Summer Olympics|1996 Atlanta]] || 7 || 7/44 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 2000 Summer Olympics|2000 Sydney]] || 4 || 4/46 || 0 || 1 || 0 || 1 || =32
+|-
+|align=left| [[Athletics at the 2004 Summer Olympics|2004 Athens]] || 5 || 5/46 || 0 || 1 || 1 || 2 || =28
+|-
+|align=left| [[Athletics at the 2008 Summer Olympics|2008 Beijing]] || 3 || 3/47 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 2012 Summer Olympics|2012 London]] || 6 || 6/47 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Athletics at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 8 || 6/47 || 0 || 1 || 0 || 1 || =26
+|-
+|align=left| [[Athletics at the 2020 Summer Olympics|2020 Tokyo]] || 13 || 7/48 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 4 || 3 || 7 || 77
+|}
+
+===[[Badminton at the Summer Olympics|Badminton]]===
+Badminton has been included in the Olympic programme since 1992. Denmark has participated in every event held in the sport.
+
+Denmark has been quite successful in the sport, winning 2 gold, 3 silver and 4 bronze medals.
+
+[[Viktor Axelsen]] won gold in [[Badminton at the 2020 Summer Olympics – Men's singles|men's singles in 2020]] and bronze in the same event in [[Badminton at the 2016 Summer Olympics – Men's singles|2016]].
+
+[[Poul-Erik Høyer Larsen]] won gold in [[Badminton at the 1996 Summer Olympics – Men's singles|men's singles in 1996]].
+
+Denmark's most successful female athlete is [[Christinna Pedersen]] who won silver in [[Badminton at the 2016 Summer Olympics – Women's doubles|women's doubles in 2016]] together with [[Kamilla Rytter Juhl]], and won bronze in [[Badminton at the 2012 Summer Olympics – Mixed doubles|mixed doubles in 2012]] together with [[Joachim Fischer Nielsen]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Badminton at the 1992 Summer Olympics|1992 Barcelona]] || 12 || 4/4 || 0 || 0 || 1 || 1 || =4
+|-
+|align=left| [[Badminton at the 1996 Summer Olympics|1996 Atlanta]] || 16 || 5/5 || 1 || 0 || 0 || 1 || 4
+|-
+|align=left| [[Badminton at the 2000 Summer Olympics|2000 Sydney]] || 18 || 5/5 || 0 || 1 || 0 || 1 || 4
+|-
+|align=left| [[Badminton at the 2004 Summer Olympics|2004 Athens]] || 12 || 5/5 || 0 || 0 || 1 || 1 || 6
+|-
+|align=left| [[Badminton at the 2008 Summer Olympics|2008 Beijing]] || 10 || 5/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Badminton at the 2012 Summer Olympics|2012 London]] || 9 || 5/5 || 0 || 1 || 1 || 2 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Badminton at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 8 || 5/5 || 0 || 1 || 1 || 2 || 6
+|-
+|align=left| [[Badminton at the 2020 Summer Olympics|2020 Tokyo]] || 9 || 5/5 || 1 || 0 || 0 || 1 || 4
+|-
+! Total ||  ||  || 2 || 3 || 4 || 9 || 4
+|}
+
+===[[Boxing at the Summer Olympics|Boxing]]===
+Boxing has been included in the Olympic programme since 1904 with the exception of 1912.
+
+Denmark has won a total of 12 medals in the sport; 1 gold, 5 silver and 6 bronze.
+
+[[Hans Jacob Nielsen]] won their only Olympic title in the sport by winning [[Boxing at the 1924 Summer Olympics – Lightweight|men's lightweight in 1924]].
+
+[[Søren Petersen]] is their only double medalist in the sport, winning silver in men's heavyweight in both [[Boxing at the 1920 Summer Olympics – Heavyweight|1920]] and [[Boxing at the 1924 Summer Olympics – Heavyweight|1924]].
+
+Denmark has yet to participate in women's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Boxers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Boxing at the 1908 Summer Olympics|1908 London]] || 2 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1920 Summer Olympics|1920 Antwerp]] || 12 || 7/8 || 0 || 3 || 0 || 3 || 6
+|-
+|align=left| [[Boxing at the 1924 Summer Olympics|1924 Paris]] || 8 || 4/8 || 1 || 2 || 0 || 3 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Boxing at the 1928 Summer Olympics|1928 Amsterdam]] || 6 || 6/8 || 0 || 0 || 1 || 1 || =11
+|-
+|align=left| [[Boxing at the 1932 Summer Olympics|1932 Los Angeles]] || 2 || 2/8 || 0 || 0 || 1 || 1 || =10
+|-
+|align=left| [[Boxing at the 1936 Summer Olympics|1936 Berlin]] || 8 || 8/8 || 0 || 0 || 1 || 1 || =11
+|-
+|align=left| [[Boxing at the 1948 Summer Olympics|1948 London]] || 6 || 6/8 || 0 || 0 || 1 || 1 || =10
+|-
+|align=left| [[Boxing at the 1952 Summer Olympics|1952 Helsinki]] || 5 || 5/10 || 0 || 0 || 1 || 1 || =14
+|-
+|align=left| [[Boxing at the 1956 Summer Olympics|1956 Melbourne]] || 3 || 3/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1960 Summer Olympics|1960 Rome]] || 5 || 5/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1964 Summer Olympics|1964 Tokyo]] || 4 || 4/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1968 Summer Olympics|1968 Mexico City]] || 2 || 2/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1972 Summer Olympics|1972 Munich]] || 3 || 3/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1976 Summer Olympics|1976 Montreal]] || 3 || 3/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1980 Summer Olympics|1980 Moscow]] || 3 || 3/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1988 Summer Olympics|1988 Seoul]] || 5 || 5/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 1992 Summer Olympics|1992 Barcelona]] || 4 || 4/12 || 0 || 0 || 1 || 1 || =14
+|-
+|align=left| [[Boxing at the 1996 Summer Olympics|1996 Atlanta]] || 2 || 2/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Boxing at the 2012 Summer Olympics|2012 London]] || 1 || 1/13 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 1 || 5 || 6 || 12 || 31
+|}
+
+===[[Canoeing at the Summer Olympics|Canoeing]]===
+====[[Canoeing at the Summer Olympics#Canoe slalom|Slalom]]====
+Canoe slalom was first included in the Olympic programme in 1972. It returned in 1992 and has remained in the programme since then.
+
+Denmark has yet to participate in the discipline.
+
+====[[Canoeing at the Summer Olympics#Canoe sprint|Sprint]]====
+Canoe sprint (including the discontinued discipline canoe marathon) has been included in the Olympic programme since 1936. Denmark has participated in the discipline every time it has been included in the programme.
+
+Denmark has had some success in the discipline, winning 3 gold, 6 silver and 7 bronze medals.
+
+Their most successful canoeist is [[Erik Hansen (canoeist)|Erik Hansen]] who won gold in [[Canoeing at the 1960 Summer Olympics – Men's K-1 1000 metres|men's K1 1000m in 1960]] and bronze medals in [[Canoeing at the 1960 Summer Olympics – Men's K-1 4 × 500 metres|men's K1x4 500m in 1960]] (together with [[Arne Høyer]], [[Erling Jessen]] and [[Helmuth Sørensen]]) and [[Canoeing at the 1968 Summer Olympics – Men's K-1 1000 metres|men's K1 1000m in 1968]].
+
+Denmark's remaining Olympic champions are [[Karen Hoff]] who won [[Canoeing at the 1948 Summer Olympics – Women's K-1 500 metres|women's K1 500m in 1948]] and [[Finn Haunstoft]] & [[Bent Peder Rasch]] who won [[Canoeing at the 1952 Summer Olympics – Men's C-2 1000 metres|men's C2 1000m in 1952]].
+
+The female Danish canoeist with most medals is [[Emma Jørgensen]] who won silver in [[Canoeing at the 2016 Summer Olympics – Women's K-1 500 metres|women's K1 500m in 2016]] and bronze in both [[Canoeing at the 2020 Summer Olympics – Women's K-1 200 metres|K1 200m]] and [[Canoeing at the 2020 Summer Olympics – Women's K-1 500 metres|K1 500m]] in 2020.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Canoeists
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Canoeing at the 1936 Summer Olympics|1936 Berlin]] || 4 || 4/9 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 1948 Summer Olympics|1948 London]] || 7 || 5/9 || 1 || 2 || 0 || 3 ||bgcolor=ffdab9| =3
+|-
+|align=left| [[Canoeing at the 1952 Summer Olympics|1952 Helsinki]] || 9 || 6/9 || 1 || 0 || 0 || 1 || =5
+|-
+|align=left| [[Canoeing at the 1956 Summer Olympics|1956 Melbourne]] || 7 || 5/9 || 0 || 0 || 1 || 1 || =7
+|-
+|align=left| [[Canoeing at the 1960 Summer Olympics|1960 Rome]] || 9 || 6/7 || 1 || 0 || 1 || 2 || =4
+|-
+|align=left| [[Canoeing at the 1964 Summer Olympics|1964 Tokyo]] || 7 || 5/7 || 0 || 0 || 1 || 1 || 9
+|-
+|align=left| [[Canoeing at the 1968 Summer Olympics|1968 Mexico City]] || 5 || 2/7 || 0 || 0 || 1 || 1 || =6
+|-
+|align=left| [[Canoeing at the 1972 Summer Olympics|1972 Munich]] || 6 || 4/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 1976 Summer Olympics|1976 Montreal]] || 1 || 1/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 1980 Summer Olympics|1980 Moscow]] || 1 || 1/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 1984 Summer Olympics|1984 Los Angeles]] || 1 || 2/12 || 0 || 1 || 1 || 2 || 8
+|-
+|align=left| [[Canoeing at the 1988 Summer Olympics|1988 Seoul]] || 6 || 5/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 1992 Summer Olympics|1992 Barcelona]] || 6 || 6/12 || 0 || 1 || 0 || 1 || =14
+|-
+|align=left| [[Canoeing at the 1996 Summer Olympics|1996 Atlanta]] || 4 || 4/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 2000 Summer Olympics|2000 Sydney]] || 3 || 3/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 2004 Summer Olympics|2004 Athens]] || 2 || 2/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 2008 Summer Olympics|2008 Beijing]] || 4 || 4/12 || 0 || 1 || 0 || 1 || =14
+|-
+|align=left| [[Canoeing at the 2012 Summer Olympics|2012 London]] || 5 || 6/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Canoeing at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 5 || 5/12 || 0 || 1 || 0 || 1 || =13
+|-
+|align=left| [[Canoeing at the 2020 Summer Olympics|2020 Tokyo]] || 4 || 4/12 || 0 || 0 || 2 || 2 || 19
+|-
+! Total ||  ||  || 3 || 6 || 7 || 16 || 18
+|}
+
+===[[Cycling at the Summer Olympics|Cycling]]===
+====[[Cycling at the Summer Olympics#BMX freestyle|BMX freestyle]]====
+BMX freestyle has been included in the Olympic programme since 2020. Denmark has yet to participate in the discipline.
+
+====[[Cycling at the Summer Olympics#BMX racing|BMX racing]]====
+BMX racing has been included in the Olympic programme since 2008.
+
+Denmark's best placement in the sport was 6th by [[Simone Christensen]] in [[Cycling at the 2020 Summer Olympics – Women's BMX racing|women's BMX racing in 2020]].
+
+Denmark's best placement in a men's event in the discipline was 19th by [[Morten Therkildsen]] in [[Cycling at the 2012 Summer Olympics – Men's BMX|men's BMX in 2012]]. [[Henrik Baltzersen]] ranked similarly in the [[Cycling at the 2008 Summer Olympics – Men's BMX|men's BMX in 2008]], but cyclists eliminated in the heats weren't given an overall ranking then.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Cyclists
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Cycling at the 2008 Summer Olympics|2008 Beijing]] || 2 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2012 Summer Olympics|2012 London]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 2 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+====[[Cycling at the Summer Olympics#Mountain biking|Mountain biking]]====
+Mountain biking has been included in the Olympic programme since 1996.
+
+Denmark's best placement in the sport was 7th by [[Lennie Kristensen]] in [[Cycling at the 1996 Summer Olympics – Men's cross-country|men's cross-country in 1996]].
+
+Denmark's best placement in a women's event in the discipline was 11th by [[Annika Langvad]] in [[Cycling at the 2016 Summer Olympics – Women's cross-country|women's cross-country in 2016]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Cyclists
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Cycling at the 1996 Summer Olympics|1996 Atlanta]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2000 Summer Olympics|2000 Sydney]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2004 Summer Olympics|2004 Athens]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2008 Summer Olympics|2008 Beijing]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 2 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2020 Summer Olympics|2020 Tokyo]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+====[[Cycling at the Summer Olympics#Road cycling|Road cycling]]====
+Road cycling was included in the Olympic programme in 1896. It returned in 1912 and has remained in the Olympic programme ever since. Denmark has participated in the discipline every Games since 1912.
+
+Denmark has won 2 gold, 5 silver and 1 bronze medal in the discipline.
+
+Their most successful road cyclist was [[Henry Hansen (cyclist)|Henry Hansen]] who won gold in [[Cycling at the 1928 Summer Olympics – Men's individual time trial|men's individual time trial]] and [[Cycling at the 1928 Summer Olympics – Men's team time trial|men's team time trial]] (together with [[Orla Jørgensen]] and [[Leo Nielsen]]) in 1928, and silver in [[Cycling at the 1932 Summer Olympics – Men's team time trial|men's team time trial in 1932]] (together with Leo Nielsen again but also [[Frode Sørensen (cyclist)|Frode Sørensen]]).
+
+[[Leo Nielsen]] is the second most successful Danish cyclists in the discipline with his 1 gold and 1 silver mentioned above.
+
+Denmark's best placement in a women's event in the discipline was 5th by [[Linda Villumsen]] in [[Cycling at the 2008 Summer Olympics – Women's individual road race|women's individual road race in 2008]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Cyclists
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Cycling at the 1912 Summer Olympics|1912 Stockholm]] || 8 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1920 Summer Olympics|1920 Antwerp]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1924 Summer Olympics|1924 Paris]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1928 Summer Olympics|1928 Amsterdam]] || 4 || 2/2 || 2 || 0 || 0 || 2 ||bgcolor=F7F6A8| 1
+|-
+|align=left| [[Cycling at the 1932 Summer Olympics|1932 Los Angeles]] || 4 || 2/2 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Cycling at the 1936 Summer Olympics|1936 Berlin]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1948 Summer Olympics|1948 London]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1952 Summer Olympics|1952 Helsinki]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1956 Summer Olympics|1956 Melbourne]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1960 Summer Olympics|1960 Rome]] || 4 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1964 Summer Olympics|1964 Tokyo]] || 5 || 2/2 || 0 || 1 || 0 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Cycling at the 1968 Summer Olympics|1968 Mexico City]] || 5 || 2/2 || 0 || 1 || 0 || 1 || 4
+|-
+|align=left| [[Cycling at the 1972 Summer Olympics|1972 Munich]] || 7 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1976 Summer Olympics|1976 Montreal]] || 6 || 2/2 || 0 || 0 || 1 || 1 || 5
+|-
+|align=left| [[Cycling at the 1980 Summer Olympics|1980 Moscow]] || 8 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1984 Summer Olympics|1984 Los Angeles]] || 7 || 3/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1988 Summer Olympics|1988 Seoul]] || 3 || 2/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1992 Summer Olympics|1992 Barcelona]] || 4 || 2/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1996 Summer Olympics|1996 Atlanta]] || 5 || 2/4 || 0 || 1 || 0 || 1 || =5
+|-
+|align=left| [[Cycling at the 2000 Summer Olympics|2000 Sydney]] || 5 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2004 Summer Olympics|2004 Athens]] || 5 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2008 Summer Olympics|2008 Beijing]] || 4 || 4/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2012 Summer Olympics|2012 London]] || 4 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 3 || 2/4 || 0 || 1 || 0 || 1 || =5
+|-
+|align=left| [[Cycling at the 2020 Summer Olympics|2020 Tokyo]] || 6 || 4/4 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 2 || 5 || 1 || 8 || 12
+|}
+
+====[[Cycling at the Summer Olympics#Track cycling|Track cycling]]====
+Track cycling was included in the inaugural 1896 Summer Olympic programme and has been included in all Summer Games except for 1912.
+
+Denmark has obtained 21 medals in the discipline, 6 gold, 6 silver and 9 bronze.
+
+Their most successful track cyclist is [[Lasse Norman Hansen]] with 2 gold, 1 silver and 2 bronze medals. He won his Olympic titles in [[Cycling at the 2012 Summer Olympics – Men's omnium|men's omnium in 2012]] and [[Cycling at the 2020 Summer Olympics – Men's Madison|men's Madison in 2020]], the latter together with [[Michael Mørkøv]].
+
+Denmark has two more track cyclists with 3 medals. [[Willy Falck Hansen]] won 1 gold, 1 silver and 1 bronze. His Olympic title came in [[Cycling at the 1928 Summer Olympics – Men's track time trial|men's time trial in 1928]]. [[Niels Fredborg]] also won 1 gold, 1 silver and 1 bronze. His Olympic title came in [[Cycling at the 1972 Summer Olympics – Men's track time trial|men's time trial in 1972]].
+
+Denmark's most successful female track cyclists are [[Amalie Dideriksen]] and [[Julie Leth]] who won silver together in [[Cycling at the 2020 Summer Olympics – Women's Madison|women's Madison in 2020]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Cyclists
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Cycling at the 1920 Summer Olympics|1920 Antwerp]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1924 Summer Olympics|1924 Paris]] || 4 || 4/4 || 0 || 1 || 0 || 1 || =5
+|-
+|align=left| [[Cycling at the 1928 Summer Olympics|1928 Amsterdam]] || 1 || 2/4 || 1 || 0 || 1 || 2 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Cycling at the 1932 Summer Olympics|1932 Los Angeles]] || 2 || 3/4 || 0 || 0 || 1 || 1 || 6
+|-
+|align=left| [[Cycling at the 1936 Summer Olympics|1936 Berlin]] || 7 || 4/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1948 Summer Olympics|1948 London]] || 7 || 4/4 || 0 || 0 || 1 || 1 || 5
+|-
+|align=left| [[Cycling at the 1952 Summer Olympics|1952 Helsinki]] || 9 || 4/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1956 Summer Olympics|1956 Melbourne]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1960 Summer Olympics|1960 Rome]] || 4 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1964 Summer Olympics|1964 Tokyo]] || 7 || 5/5 || 0 || 0 || 1 || 1 || =7
+|-
+|align=left| [[Cycling at the 1968 Summer Olympics|1968 Mexico City]] || 8 || 5/5 || 1 || 2 || 0 || 3 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Cycling at the 1972 Summer Olympics|1972 Munich]] || 6 || 4/5 || 1 || 0 || 0 || 1 ||bgcolor=ffdab9| =3
+|-
+|align=left| [[Cycling at the 1976 Summer Olympics|1976 Montreal]] || 5 || 3/4 || 0 || 0 || 1 || 1 || =8
+|-
+|align=left| [[Cycling at the 1980 Summer Olympics|1980 Moscow]] || 3 || 3/4 || 0 || 0 || 1 || 1 || =5
+|-
+|align=left| [[Cycling at the 1984 Summer Olympics|1984 Los Angeles]] || 6 || 4/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 1988 Summer Olympics|1988 Seoul]] || 6 || 4/6 || 1 || 0 || 0 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Cycling at the 1992 Summer Olympics|1992 Barcelona]] || 7 || 4/7 || 0 || 0 || 1 || 1 || =9
+|-
+|align=left| [[Cycling at the 1996 Summer Olympics|1996 Atlanta]] || 5 || 2/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2000 Summer Olympics|2000 Sydney]] || 2 || 2/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cycling at the 2008 Summer Olympics|2008 Beijing]] || 7 || 4/10 || 0 || 1 || 0 || 1 || =7
+|-
+|align=left| [[Cycling at the 2012 Summer Olympics|2012 London]] || 5 || 2/10 || 1 || 0 || 0 || 1 || 4
+|-
+|align=left| [[Cycling at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 6 || 3/10 || 0 || 0 || 2 || 2 || 10
+|-
+|align=left| [[Cycling at the 2020 Summer Olympics|2020 Tokyo]] || 7 || 5/12 || 1 || 2 || 0 || 3 ||bgcolor=ffdab9| 3
+|-
+! Total ||  ||  || 6 || 6 || 9 || 21 || 8
+|}
+
+===[[Diving at the Summer Olympics|Diving]]===
+Diving has been included in the Olympic programme since 1904.
+
+Denmark has won two medals in the sport, a gold and a bronze. [[Stefanie Clausen]] won gold in [[Diving at the 1920 Summer Olympics – Women's 10 metre platform|women's 10m platform in 1920]]. [[Birte Christoffersen]] won bronze in [[Diving at the 1948 Summer Olympics – Women's 10 metre platform|women's 10m platform in 1948]].
+
+Denmark's best placement in a men's event in the sport was 6th, a record shared between [[Herold Jansson]] in [[Diving at the 1920 Summer Olympics – Men's plain high diving|men's plain high diving in 1920]] and [[Thomas Christiansen]] in [[Diving at the 1948 Summer Olympics – Men's 10 metre platform|men's 10m platform in 1948]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Divers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Diving at the 1920 Summer Olympics|1920 Antwerp]] || 5 || 3/5 || 1 || 0 || 0 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Diving at the 1924 Summer Olympics|1924 Paris]] || 4 || 3/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1928 Summer Olympics|1928 Amsterdam]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1932 Summer Olympics|1932 Los Angeles]] || 1 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1936 Summer Olympics|1936 Berlin]] || 2 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1948 Summer Olympics|1948 London]] || 3 || 4/4 || 0 || 0 || 1 || 1 ||bgcolor=dce5e5| =2
+|-
+|align=left| [[Diving at the 1952 Summer Olympics|1952 Helsinki]] || 2 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1956 Summer Olympics|1956 Melbourne]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1960 Summer Olympics|1960 Rome]] || 2 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1964 Summer Olympics|1964 Tokyo]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Diving at the 1980 Summer Olympics|1980 Moscow]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 1 || 0 || 1 || 2 || 15
+|}
+
+===[[Equestrian at the Summer Olympics|Equestrian]]===
+====Dressage====
+Dressage had one event included in 1900. It returned to the Olympic programme in 1912 and has remained in the Olympic programme ever since.
+
+Denmark has won 4 medals in the sport; 3 silver and 1 bronze.
+
+[[Lis Hartel]] won silver in the individual event both in [[Equestrian at the 1952 Summer Olympics – Individual dressage|1952]] and [[Equestrian at the 1956 Summer Olympics – Individual dressage|1956]]. [[Anne Grethe Jensen]] also earned silver in the individual event, in [[Equestrian at the 1984 Summer Olympics – Individual dressage|1984]].
+
+Their bronze medal was won by [[Andreas Helgstrand]], [[Anne van Olst]] and [[Princess Nathalie of Sayn-Wittgenstein-Berleburg]] in the [[Equestrian at the 2008 Summer Olympics – Team dressage|team event in 2008]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Riders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Equestrian at the 1912 Summer Olympics|1912 Stockholm]] || 2 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1928 Summer Olympics|1928 Amsterdam]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1936 Summer Olympics|1936 Berlin]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1952 Summer Olympics|1952 Helsinki]] || 2 || 1/2 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| =2
+|-
+|align=left| [[Equestrian at the 1956 Summer Olympics|1956 Melbourne / Stockholm]] || 3 || 2/2 || 0 || 1 || 0 || 1||bgcolor=dce5e5| 2
+|-
+|align=left| [[Equestrian at the 1972 Summer Olympics|1972 Munich]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1976 Summer Olympics|1976 Montreal]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1984 Summer Olympics|1984 Los Angeles]] || 3 || 2/2 || 0 || 1 || 0 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Equestrian at the 1988 Summer Olympics|1988 Seoul]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1992 Summer Olympics|1992 Barcelona]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1996 Summer Olympics|1996 Atlanta]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2000 Summer Olympics|2000 Sydney]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2004 Summer Olympics|2004 Athens]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2008 Summer Olympics|2008 Beijing / Hongkong]] || 3 || 2/2 || 0 || 0 || 1 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Equestrian at the 2012 Summer Olympics|2012 London]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2020 Summer Olympics|2020 Tokyo]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 3 || 1 || 4 || 11
+|}
+
+====Eventing====
+Eventing has been included in the Olympic programme since 1912.
+
+Denmark has won two medals in the discipline, a silver and a bronze. [[Frode Kirkebjerg]] won silver in [[Equestrian at the 1924 Summer Olympics – Individual eventing|individual eventing in 1924]] and [[Hans Lunding]] won bronze in the same event in [[Equestrian at the 1936 Summer Olympics – Individual eventing|1936]].
+
+Denmark has yet to send female riders to compete in the discipline.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Riders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Equestrian at the 1912 Summer Olympics|1912 Stockholm]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1924 Summer Olympics|1924 Paris]] || 1 || 1/2 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| =2
+|-
+|align=left| [[Equestrian at the 1928 Summer Olympics|1928 Amsterdam]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1936 Summer Olympics|1936 Berlin]] || 3 || 2/2 || 0 || 0 || 1 || 1 || =4
+|-
+|align=left| [[Equestrian at the 1948 Summer Olympics|1948 London]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1952 Summer Olympics|1952 Helsinki]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1956 Summer Olympics|1956 Melbourne / Stockholm]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1960 Summer Olympics|1960 Rome]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1992 Summer Olympics|1992 Barcelona]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1996 Summer Olympics|1996 Atlanta]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2000 Summer Olympics|2000 Sydney]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2008 Summer Olympics|2008 Beijing / Hongkong]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 1 || 1 || 2 || =13
+|}
+
+====Show jumping====
+Show Jumping was included in the Olympic programme in 1900. It returned in 1912 and has remained in the Olympic programme ever since.
+
+Denmark's best placement in the discipline was 8th by [[Merethe Jensen]] in the [[Equestrian at the 1992 Summer Olympics – Individual jumping|individual event in 1992]].
+
+Denmark's best placement by a male rider in the discipline was shared 10th by [[Thomas Velin]] in the individual event in both [[Equestrian at the 2000 Summer Olympics – Individual jumping|2000]] and [[Equestrian at the 2004 Summer Olympics – Individual jumping|2004]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Riders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Equestrian at the 1948 Summer Olympics|1948 London]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 1992 Summer Olympics|1992 Barcelona]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2000 Summer Olympics|2000 Sydney]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2004 Summer Olympics|2004 Athens]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Equestrian at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+====Discontinued disciplines====
+Equestrian driving was conducted during the [[1900 Summer Olympics]] and equestrian vaulting during the [[1920 Summer Olympics]]. Denmark did not participate in the disciplines.
+
+===[[Fencing at the Summer Olympics|Fencing]]===
+Fencing has been included in the Olympic programme since the inaugural 1896 Games.
+
+Denmark has won six medals in the sport, 1 gold, 2 silver and 3 bronze.
+
+Their Olympic gold was won by [[Ellen Osiier]] in [[Fencing at the 1924 Summer Olympics – Women's foil|women's foil in 1924]]. [[Grete Heckscher]] won bronze in the same event.
+
+[[Karen Lachmann]] is the Danish fencer with most medals as she won silver in [[Fencing at the 1948 Summer Olympics – Women's foil|women's foil in 1948]] and bronze in the [[Fencing at the 1952 Summer Olympics – Women's foil|same event in 1952]].
+
+Two Danish men have earned medals. [[Ivan Osiier]] won silver in [[Fencing at the 1912 Summer Olympics – Men's épée|men's épée in 1912]] and [[Holger Nielsen]] won bronze in [[Fencing at the 1896 Summer Olympics – Men's sabre|men's sabre in 1896]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Athletes
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Fencing at the 1896 Summer Olympics|1896 Athens]] || 1 || 1/3 || 0 || 0 || 1 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Fencing at the 1900 Summer Olympics|1900 Paris]] || 1 || 1/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1908 Summer Olympics|1908 London]] || 8 || 4/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1912 Summer Olympics|1912 Stockholm]] || 6 || 5/5 || 0 || 1 || 0 || 1 || =5
+|-
+|align=left| [[Fencing at the 1920 Summer Olympics|1920 Antwerp]] || 8 || 6/6 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1924 Summer Olympics|1924 Paris]] || 11 || 7/7 || 1 || 0 || 1 || 2 || =4
+|-
+|align=left| [[Fencing at the 1928 Summer Olympics|1928 Amsterdam]] || 10 || 6/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1932 Summer Olympics|1932 Los Angeles]] || 7 || 7/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1936 Summer Olympics|1936 Berlin]] || 9 || 7/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1948 Summer Olympics|1948 London]] || 15 || 6/7 || 0 || 1 || 0 || 1 || =4
+|-
+|align=left| [[Fencing at the 1952 Summer Olympics|1952 Helsinki]] || 12 || 5/7 || 0 || 0 || 1 || 1 || 6
+|-
+|align=left| [[Fencing at the 1956 Summer Olympics|1956 Melbourne]] || 1 || 1/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1960 Summer Olympics|1960 Rome]] || 1 || 1/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1972 Summer Olympics|1972 Munich]] || 6 || 3/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1976 Summer Olympics|1976 Montreal]] || 1 || 1/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1980 Summer Olympics|1980 Moscow]] || 1 || 1/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Fencing at the 1996 Summer Olympics|1996 Atlanta]] || 1 || 1/10 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 1 || 2 || 3 || 6 || 21
+|}
+
+===[[Field hockey at the Summer Olympics|Field hockey]]===
+Field hockey was first included in the Olympic programme in 1908. It returned in 1920 before becoming a permanent Olympic sport in 1928.
+
+Denmark only medal so far is the silver [[Denmark men's national field hockey team]] won in [[Field hockey at the 1920 Summer Olympics|1920]].
+
+Denmark has yet to participate in women's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Field hockey at the 1920 Summer Olympics|1920 Antwerp]] || 12 || 1/1 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Field hockey at the 1928 Summer Olympics|1928 Amsterdam]] || 13 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Field hockey at the 1936 Summer Olympics|1936 Berlin]] || 16 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Field hockey at the 1948 Summer Olympics|1948 London]] || 16 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Field hockey at the 1960 Summer Olympics|1960 Rome]] || 12 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 1 || 0 || 1 || =14
+|}
+
+===[[Football at the Summer Olympics|Football]]===
+Football has been included in the Olympic programme since 1900 with the exception of 1932.¨
+
+Denmark has won four medals so far, [[Denmark men's national football team]] won silver medals in [[Football at the 1908 Summer Olympics|1908]], [[Football at the 1912 Summer Olympics|1912]] and [[Football at the 1960 Summer Olympics|1960]] and a bronze medal in [[Football at the 1948 Summer Olympics|1948]].
+
+Six Danish footballers won two silver medals, [[Charles Buchwald]], [[Harald Hansen (footballer)|Harald Hansen]], [[Nils Middelboe]], [[Oscar Nielsen]], [[Sophus Nielsen]] and [[Vilhelm Wolfhagen]] were all part of the teams in both 1908 and 1912.
+
+[[Denmark women's national football team]]'s best placement is [[Football at the 1996 Summer Olympics – Women's tournament|8th in 1996]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Footballers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Football at the 1908 Summer Olympics|1908 London]] || 13 || 1/1 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Football at the 1912 Summer Olympics|1912 Stockholm]] || 15 || 1/1 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Football at the 1920 Summer Olympics|1920 Antwerp]] || 11 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Football at the 1948 Summer Olympics|1948 London]] || 13 || 1/1 || 0 || 0 || 1 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Football at the 1952 Summer Olympics|1952 Helsinki]] || 11 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Football at the 1960 Summer Olympics|1960 Rome]] || 12 || 1/1 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Football at the 1972 Summer Olympics|1972 Munich]] || 16 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Football at the 1992 Summer Olympics|1992 Barcelona]] || 16 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Football at the 1996 Summer Olympics|1996 Atlanta]] || 15 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Football at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 17 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 3 || 1 || 4 || 23
+|}
+
+Denmark also won the gold medal in football at the [[1906 Intercalated Games]]. IOC has retroactively decided to no longer recognize those games as official Olympic games.
+
+===[[Golf at the Summer Olympics|Golf]]===
+Golf was included in the Olympic programme in 1900 and 1904. It returned in 2016 and has remained in the Olympic programme ever since.
+
+Denmark's best placement in the sport was shared 5th by [[Emily Pedersen]] in [[Golf at the 2020 Summer Olympics – Women's individual|women's individual in 2020]].
+
+Denmark's best placement in a men's event in the sport was shared 21st by [[Søren Kjeldsen]] in [[Golf at the 2016 Summer Olympics – Men's individual|men's individual in 2016]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Golf at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Golf at the 2020 Summer Olympics|2020 Tokyo]] || 4 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Gymnastics at the Summer Olympics|Gymnastics]]===
+====[[Gymnastics at the Summer Olympics#Artistic gymnastics|Artistic gymnastics]]====
+Artistic gymnastics has been included in the Summer Olympic programme since the inaugural 1896 Games.
+
+Denmark has won four medals in the discipline. They won gold in gold in [[Gymnastics at the 1920 Summer Olympics – Men's team, free system|men's team free system in 1920]], silver in men's team Swedish system in [[Gymnastics at the 1912 Summer Olympics – Men's team, Swedish system|1912]] and [[Gymnastics at the 1920 Summer Olympics – Men's team, Swedish system|1920]] and a bronze in [[Gymnastics at the 1912 Summer Olympics – Men's team, free system|men's team free system in 1912]].
+
+The only multi medalists were [[Steen Olsen]] who participated in the free system in both 1912 and 1920 (winning bronze and gold respectively) and [[Hans Pedersen]] who participated in the Swedish system in both 1912 and 1920, winning silver both times.
+
+Their best placement in a women's event in the sport was shared 62nd by [[Else Trangbæk]] in [[Gymnastics at the 1968 Summer Olympics – Women's balance beam|women's balance beam in 1968]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Gymnasts
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Gymnastics at the 1896 Summer Olympics|1896 Athens]] || 1 || 1/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1908 Summer Olympics|1908 London]] || 24 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1912 Summer Olympics|1912 Stockholm]] || 49 || 3/4 || 0 || 1 || 1 || 2 || 4
+|-
+|align=left| [[Gymnastics at the 1920 Summer Olympics|1920 Antwerp]] || 45 || 2/4 || 1 || 1 || 0 || 2 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Gymnastics at the 1948 Summer Olympics|1948 London]] || 8 || 8/9 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1952 Summer Olympics|1952 Helsinki]] || 7 || 8/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1968 Summer Olympics|1968 Mexico City]] || 3 || 12/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1972 Summer Olympics|1972 Munich]] || 1 || 7/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 1976 Summer Olympics|1976 Montreal]] || 1 || 7/14 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 1 || 2 || 1 || 4 || =28
+|}
+
+Denmark also won a silver medal in artistic gymnastics at the [[1906 Intercalated Games]]. IOC has retroactively decided to no longer recognize those games as official Olympic games.
+
+====[[Gymnastics at the Summer Olympics#Rhythmic gymnastics|Rhythmic gymnastics]]====
+Rhythmic gymnastics has been included in the Olympic programme since 1984.
+
+Denmark's best placement in the sport was 34th by [[Malene Franzen]] in [[Gymnastics at the 1988 Summer Olympics – Women's rhythmic individual all-around|women's rhythmic individual all-around in 1988]].
+
+No men's events are held in the discipline.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Gymnasts
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Gymnastics at the 1988 Summer Olympics|1988 Seoul]] || 1 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+====[[Gymnastics at the Summer Olympics#Trampoline|Trampoline]]====
+Trampoline has been included in the Olympic programme since 2000.
+
+Denmark's best placement in the discipline was 10th by [[Peter Jensen (gymnast)|Peter Jensen]]. He obtained that placement in men's trampoline in both [[Gymnastics at the 2008 Summer Olympics – Men's trampoline|2008]] and [[Gymnastics at the 2012 Summer Olympics – Men's trampoline|2012]].
+
+Denmark has yet to participate in women's events in the discipline.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Gymnasts
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Gymnastics at the 2004 Summer Olympics|2004 Athens]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 2008 Summer Olympics|2008 Beijing]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Gymnastics at the 2012 Summer Olympics|2012 London]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Handball at the Summer Olympics|Handball]]===
+Handball was included in the Olympic programme in 1936. It returned in 1972 and has remained in the Olympic programme ever since.
+
+Denmark has won 5 medals in the sport, 4 gold and 1 silver. [[Denmark women's national handball team]] won gold in the women's events in [[Handball at the 1996 Summer Olympics – Women's tournament|1996]], [[Handball at the 2000 Summer Olympics – Women's tournament|2000]] and [[Handball at the 2004 Summer Olympics – Women's tournament|2004]]. [[Denmark men's national handball team]] won gold in the men's event in [[Handball at the 2016 Summer Olympics – Men's tournament|2016]] and silver in [[Handball at the 2020 Summer Olympics – Men's tournament|2020]].
+
+12 Danish handballers are double Olympic champions; [[Camilla Andersen]], [[Tina Bøttzau]], [[Anette Hoffmann]], [[Tonje Kjærgaard]], [[Janne Kolling]] and [[Lene Rantala]] won gold with the women's team in 1996 and 2000, while [[Karen Brødsgaard]], [[Katrine Fruelund]], [[Lotte Kiærskou]], [[Karin Mortensen]], [[Rikke Petersen-Schmidt]] and [[Mette Vestergaard]] won gold in 2000 and 2004.
+
+Denmark's most successful male handballers are [[Henrik Toft Hansen]], [[Mikkel Hansen]], [[Niklas Landin]], [[Mads Mensah Larsen]], [[Henrik Møllgaard]], [[Morten Olsen]] and [[Lasse Svan Hansen]] who won gold in 2016 and silver in 2020 with the men's team.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Handballers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Handball at the 1972 Summer Olympics|1972 Munich]] || 16 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 1976 Summer Olympics|1976 Montreal]] || 13 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 1980 Summer Olympics|1980 Moscow]] || 14 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 1984 Summer Olympics|1984 Los Angeles]] || 14 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 1996 Summer Olympics|1996 Atlanta]] || 15 || 1/2 || 1 || 0 || 0 || 1 ||bgcolor=F7F6A8| =1
+|-
+|align=left| [[Handball at the 2000 Summer Olympics|2000 Sydney]] || 15 || 1/2 || 1 || 0 || 0 || 1 ||bgcolor=F7F6A8| =1
+|-
+|align=left| [[Handball at the 2004 Summer Olympics|2004 Athens]] || 15 || 1/2 || 1 || 0 || 0 || 1 ||bgcolor=F7F6A8| =1
+|-
+|align=left| [[Handball at the 2008 Summer Olympics|2008 Beijing]] || 14 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 2012 Summer Olympics|2012 London]] || 29 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Handball at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 14 || 1/2 || 1 || 0 || 0 || 1 ||bgcolor=F7F6A8| =1
+|-
+|align=left| [[Handball at the 2020 Summer Olympics|2020 Tokyo]] || 15 || 1/2 || 0 || 1 || 0 || 1 ||bgcolor=dce5e5| =2
+|-
+! Total ||  ||  || 4 || 1 || 0 || 5 ||bgcolor=ffdab9| 3
+|}
+
+===[[Judo at the Summer Olympics|Judo]]===
+Judo has been included in the Olympic programme since 1964 with the exception of the 1968 Games.
+
+Denmark's best placement in the sport was 11th by [[Tommy Mortensen]] in [[Judo at the 1988 Summer Olympics – Men's 65 kg|men's 65 kg in 1988]].
+
+Denmark's best placement in a women's event in the sport was shared 17th by [[Lærke Olsen]] in [[Judo at the 2020 Summer Olympics – Women's 63 kg|women's 63 kg in 2020]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Judoka
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Judo at the 1984 Summer Olympics|1984 Los Angeles]] || 1 || 1/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Judo at the 1988 Summer Olympics|1988 Seoul]] || 1 || 1/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Judo at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/15 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Modern pentathlon at the Summer Olympics|Modern pentathlon]]===
+Modern pentathlon has been included in the Olympic programme since 1912.
+
+Denmark's best placement in the sport was 5th by [[Marius Christensen]] in [[Modern pentathlon at the 1920 Summer Olympics|men's individual in 1920]].
+
+Denmark's best placement in a women's event in the sport was 19rd by [[Pernille Svarre]] in [[Modern pentathlon at the 2000 Summer Olympics – Women's|women's individual in 2000]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Pentathletes
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Modern pentathlon at the 1912 Summer Olympics|1912 Stockholm]] || 4 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1920 Summer Olympics|1920 Antwerp]] || 4 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1924 Summer Olympics|1924 Paris]] || 3 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1928 Summer Olympics|1928 Amsterdam]] || 2 || 1/1 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1960 Summer Olympics|1960 Rome]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1968 Summer Olympics|1968 Mexico City]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1972 Summer Olympics|1972 Munich]] || 3 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1976 Summer Olympics|1976 Montreal]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 1988 Summer Olympics|1988 Seoul]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Modern pentathlon at the 2000 Summer Olympics|2000 Sydney]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Rowing at the Summer Olympics|Rowing]]===
+Rowing has been included in the Olympic programme since 1900.
+
+Denmark has won 7 gold, 5 silver and 13 bronze medals for a total medal count of 25 in the sport.
+
+Denmark's most successful rower is [[Eskild Ebbesen]] who won three gold medals and two bronze medals in men's lightweight coxless four. He won his Olympic titles in [[Rowing at the 1996 Summer Olympics – Men's lightweight coxless four|1996]] (together with [[Victor Feddersen]], [[Niels Henriksen]] and [[Thomas Poulsen]]), [[Rowing at the 2004 Summer Olympics – Men's lightweight coxless four|2004]] (together with [[Thomas Ebert]], [[Stephan Mølvig]] and [[Thor Kristensen]]) and [[Rowing at the 2008 Summer Olympics – Men's lightweight coxless four|2008]] (together with [[Mads Andersen (rower)|Mads Andersen]], Thomas Ebert and [[Morten Jørgensen]]).
+
+[[Thomas Ebert]] who was present for two of those Olympic titles, and also won a bronze medal, is Denmark's second most successful rower.
+
+Denmark's most successful female rower is [[Fie Udby Erichsen]] who won silver in [[Rowing at the 2012 Summer Olympics – Women's single sculls|women's single sculls in 2012]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Rowers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Rowing at the 1912 Summer Olympics|1912 Stockholm]] || 15 || 3/4 || 1 || 0 || 1 || 2 ||bgcolor=dce5e5| =2
+|-
+|align=left| [[Rowing at the 1920 Summer Olympics|1920 Antwerp]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1928 Summer Olympics|1928 Amsterdam]] || 10 || 2/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1936 Summer Olympics|1936 Berlin]] || 16 || 5/7 || 0 || 1 || 0 || 1 || =6
+|-
+|align=left| [[Rowing at the 1948 Summer Olympics|1948 London]] || 25 || 6/7 || 1 || 2 || 1 || 4 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Rowing at the 1952 Summer Olympics|1952 Helsinki]] || 25 || 6/7 || 0 || 0 || 1 || 1 || =11
+|-
+|align=left| [[Rowing at the 1956 Summer Olympics|1956 Melbourne]] || 7 || 3/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1960 Summer Olympics|1960 Rome]] || 16 || 5/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1964 Summer Olympics|1964 Tokyo]] || 14 || 4/7 || 1 || 0 || 0 || 1 || =4
+|-
+|align=left| [[Rowing at the 1968 Summer Olympics|1968 Mexico City]] || 10 || 4/7 || 0 || 0 || 2 || 2 || 10
+|-
+|align=left| [[Rowing at the 1972 Summer Olympics|1972 Munich]] || 12 || 4/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1976 Summer Olympics|1976 Montreal]] || 7 || 2/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1980 Summer Olympics|1980 Moscow]] || 7 || 3/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1984 Summer Olympics|1984 Los Angeles]] || 10 || 3/14 || 0 || 0 || 2 || 2 || 13
+|-
+|align=left| [[Rowing at the 1988 Summer Olympics|1988 Seoul]] || 3 || 2/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1992 Summer Olympics|1992 Barcelona]] || 13 || 2/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Rowing at the 1996 Summer Olympics|1996 Atlanta]] || 13 || 5/14 || 1 || 0 || 1 || 2 || =7
+|-
+|align=left| [[Rowing at the 2000 Summer Olympics|2000 Sydney]] || 10 || 3/14 || 0 || 0 || 1 || 1 || =16
+|-
+|align=left| [[Rowing at the 2004 Summer Olympics|2004 Athens]] || 12 || 4/14 || 1 || 0 || 0 || 1 || =7
+|-
+|align=left| [[Rowing at the 2008 Summer Olympics|2008 Beijing]] || 10 || 4/14 || 1 || 0 || 1 || 2 || =9
+|-
+|align=left| [[Rowing at the 2012 Summer Olympics|2012 London]] || 10 || 5/14 || 1 || 1 || 1 || 3 || 4
+|-
+|align=left| [[Rowing at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 13 || 6/14 || 0 || 1 || 1 || 2 || =11
+|-
+|align=left| [[Rowing at the 2020 Summer Olympics|2020 Tokyo]] || 9 || 4/14 || 0 || 0 || 1 || 1 || =17
+|-
+! Total ||  ||  || 7 || 5 || 13 || 25 || 14
+|}
+
+===[[Sailing at the Summer Olympics|Sailing]]===
+Sailing has been included in the Olympic programme since 1900 with the exception of 1904.
+
+Denmark has been highly successful in the sport, winning 31 medals of which 13 are gold.
+
+Their most successful athlete in the sport is [[Paul Elvstrøm]] who won four Olympic titles; [[Sailing at the 1948 Summer Olympics – Firefly|Firefly in 1948]] and Finn in [[Sailing at the 1952 Summer Olympics – Finn|1952]], [[Sailing at the 1956 Summer Olympics – Finn|1956]] and [[Sailing at the 1960 Summer Olympics – Finn|1960]].
+
+Denmark also has four double Olympic champions. 
+[[Valdemar Bandolowski]], [[Erik Hansen (sailor)|Erik Hansen]] and [[Poul Richard Høj Jensen]] won the Soling class together in [[Sailing at the 1976 Summer Olympics – Soling|1976]] and [[Sailing at the 1980 Summer Olympics – Soling|1980]].
+
+[[Jesper Bank]] won the Soling class in [[Sailing at the 1992 Summer Olympics – Soling|1992]] with [[Steen Secher]] and [[Jesper Seier]] and again in [[Sailing at the 2000 Summer Olympics – Soling|2000]], then with [[Henrik Blakskjær]] and [[Thomas Jacobsen (sailor)|Thomas Jacobsen]].
+
+Their most successful female athlete in the sport is [[Anne-Marie Rindom]] who won gold in [[Sailing at the 2016 Summer Olympics – Laser Radial|Laser Radial in 2020]] after earning bronze in [[Sailing at the 2016 Summer Olympics – Laser Radial|the same event in 2016]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! No. Sailors
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Sailing at the 1900 Summer Olympics|1900 Paris]] || ''0'' || 0/13 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1908 Summer Olympics|1908 London]] || 0 || 0/4 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1912 Summer Olympics|1912 Stockholm]] || 3 || 1/4 || 0 || 1 || 0 || 1 || 5
+|-
+|align=left| [[Sailing at the 1920 Summer Olympics|1920 Antwerp]] || 0 || 0/14 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1924 Summer Olympics|1924 Paris]] || 4 || 2/3 || 0 || 1 || 0 || 1 ||  bgcolor=ffdab9| 3 
+|-
+|align=left| [[Sailing at the 1928 Summer Olympics|1928 Amsterdam]] || 5 || 2/3 || 0 || 1 || 0 || 1 || 4
+|-
+|align=left| [[Sailing at the 1932 Summer Olympics|1932 Los Angeles]] || 0 || 0/4 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1936 Summer Olympics|1936 Berlin]] || 7 || 2/4 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1948 Summer Olympics|1948 London]] || 13 || 4/5 || 1 || 0 || 1 || 2 ||  bgcolor=dce5e5| 2 
+|-
+|align=left| [[Sailing at the 1952 Summer Olympics|1952 Helsinki]] || 7 || 3/5 || 1 || 0 || 0 || 1 ||  bgcolor=ffdab9| 3 
+|-
+|align=left| [[Sailing at the 1956 Summer Olympics|1956 Melbourne]] || 4 || 2/5 || 1 || 1 || 0 || 2 ||  bgcolor=dce5e5| 2 
+|-
+|align=left| [[Sailing at the 1960 Summer Olympics|1960 Rome]] || 9 || 4/5 || 1 || 2 || 0 || 3 ||  bgcolor=F7F6A8| 1 
+|-
+|align=left| [[Sailing at the 1964 Summer Olympics|1964 Tokyo]] || 9 || 4/5 || 1 || 0 || 1 || 2 ||  bgcolor=dce5e5| 2 
+|-
+|align=left| [[Sailing at the 1968 Summer Olympics|1968 Mexico City]] || 11 || 5/5 || 0 || 1 || 0 || 1 || 5
+|-
+|align=left| [[Sailing at the 1972 Summer Olympics|1972 Munich]] || 11 || 5/6 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1976 Summer Olympics|1976 Montreal]] || 10 || 5/6 || 1 || 0 || 0 || 1 || 4
+|-
+|align=left| [[Sailing at the 1980 Summer Olympics|1980 Moscow]] || 10 || 5/6 || 1 || 1 || 0 || 2 ||  bgcolor=ffdab9| 3 
+|-
+|align=left| [[Sailing at the 1984 Summer Olympics|1984 Los Angeles]] || 8 || 4/7 || 0 || 0 || 0 || 0 || 
+|-
+|align=left| [[Sailing at the 1988 Summer Olympics|1988 Seoul]] || 14 || 7/8 || 1 || 0 || 1 || 2 || 4
+|-
+|align=left| [[Sailing at the 1992 Summer Olympics|1992 Barcelona]] || 16 || 9/10 || 1 || 0 || 1 || 2 || 5
+|-
+|align=left| [[Sailing at the 1996 Summer Olympics|1996 Atlanta]] || 11 || 7/10 || 1 || 0 || 0 || 1 || 4
+|-
+|align=left| [[Sailing at the 2000 Summer Olympics|2000 Sydney]] || 12 || 7/11 || 1 || 0 || 0 || 1 || 6
+|-
+|align=left| [[Sailing at the 2004 Summer Olympics|2004 Athens]] || 14 || 8/11 || 0 || 0 || 2 || 2 || 14
+|-
+|align=left| [[Sailing at the 2008 Summer Olympics|2008 Beijing]] || 6 || 5/11 || 1 || 0 || 0 || 1 || 6
+|-
+|align=left| [[Sailing at the 2012 Summer Olympics|2012 London]] || 13 || 8/10 || 0 || 1 || 1 || 2 || 8
+|-
+|align=left| [[Sailing at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 11 || 8/10 || 0 || 0 || 2 || 2 || 12
+|-
+|align=left| [[Sailing at the 2020 Summer Olympics|2020 Tokyo]] || 8 || 5/10 || 1 || 0 || 0 || 1 || =5
+|- 
+!align=left| [[Sailing at the Summer Olympics|Total]] ||  ||  || 13 || 9 || 9 || 31 || 5
+|}
+
+===[[Shooting at the Summer Olympics|Shooting]]===
+Shooting was included in the inaugural 1896 Summer Olympic programme and has been included in all Summer Games except for 1904 and 1928. Denmark has participated in the sport every time except for 1932.
+
+Denmark most successful shooter was [[Lars Jørgen Madsen]] who won 5 medals; 2 gold, 2 silver and 1 bronze. His Olympic titles came in [[Shooting at the 1900 Summer Olympics – Men's 300 metre free rifle, standing|standing military rifle in 1900]] and in [[Shooting at the 1920 Summer Olympics – Men's 300 metre team military rifle, standing|men's 300m team military rifle standing]], the latter together with [[Niels Larsen]], [[Anders Peter Nielsen]], [[Anders Petersen (sport shooter)|Anders Petersen]] and [[Erik Sætter-Lassen]].
+
+Anders Peter Nielsen mentioned above is Denmark's second most successful shooter, as he also won three silver medals on top of his gold.
+
+Denmark's remaining Olympic champion in the sport is [[Kjeld Rasmussen]] who won gold in [[Shooting at the 1980 Summer Olympics – Mixed skeet|mixed skeet in 1980]].
+
+Denmark's best placement in a women's event in the sport is 6th by [[Anni Bissø]] in [[Shooting at the 2000 Summer Olympics – Women's 50 metre rifle three positions|women's 50m rifle 3 positions in 2000]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Shooters
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Shooting at the 1896 Summer Olympics|1896 Athens]] || 3 || 5/5 || 0 || 1 || 2 || 3 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Shooting at the 1900 Summer Olympics|1900 Paris]] || 5 || 5/9 || 1 || 3 || 0 || 4 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Shooting at the 1908 Summer Olympics|1908 London]] || 10 || 3/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1912 Summer Olympics|1912 Stockholm]] || 14 || 9/18 || 0 || 1 || 2 || 3 || 6
+|-
+|align=left| [[Shooting at the 1920 Summer Olympics|1920 Antwerp]] || 15 || 11/21 || 1 || 2 || 0 || 3 || 4
+|-
+|align=left| [[Shooting at the 1924 Summer Olympics|1924 Paris]] || 7 || 4/10 || 0 || 0 || 1 || 1 || =9
+|-
+|align=left| [[Shooting at the 1936 Summer Olympics|1936 Berlin]] || 6 || 3/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1948 Summer Olympics|1948 London]] || 7 || 3/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1952 Summer Olympics|1952 Helsinki]] || 5 || 5/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1956 Summer Olympics|1956 Melbourne]] || 2 || 2/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1960 Summer Olympics|1960 Rome]] || 4 || 4/6 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1964 Summer Olympics|1964 Tokyo]] || 2 || 2/6 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1968 Summer Olympics|1968 Mexico City]] || 6 || 4/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1972 Summer Olympics|1972 Munich]] || 7 || 6/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1976 Summer Olympics|1976 Montreal]] || 7 || 5/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1980 Summer Olympics|1980 Moscow]] || 4 || 3/7 || 1 || 0 || 0 || 1 ||bgcolor=dce5e5| =2
+|-
+|align=left| [[Shooting at the 1984 Summer Olympics|1984 Los Angeles]] || 3 || 4/11 || 0 || 1 || 0 || 1 || =8
+|-
+|align=left| [[Shooting at the 1988 Summer Olympics|1988 Seoul]] || 6 || 7/13 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1992 Summer Olympics|1992 Barcelona]] || 7 || 4/13 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 1996 Summer Olympics|1996 Atlanta]] || 8 || 9/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 2000 Summer Olympics|2000 Sydney]] || 4 || 5/17 || 0 || 1 || 0 || 1 || =17
+|-
+|align=left| [[Shooting at the 2004 Summer Olympics|2004 Athens]] || 5 || 5/17 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 2008 Summer Olympics|2008 Beijing]] || 1 || 1/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 2012 Summer Olympics|2012 London]] || 5 || 4/15 || 0 || 1 || 0 || 1 || =14
+|-
+|align=left| [[Shooting at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 3 || 4/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Shooting at the 2020 Summer Olympics|2020 Tokyo]] || 4 || 5/15 || 0 || 1 || 0 || 1 || =12
+|-
+! Total ||  ||  || 3 || 11 || 5 || 19 || 25
+|}
+
+===[[Skateboarding at the Summer Olympics|Skateboarding]]===
+Skateboarding has been included in the Olympic programme since 2020.
+
+Denmark's best placement in the sport was 19th by [[Rune Glifberg]] in [[Skateboarding at the 2020 Summer Olympics – Men's park|men's park in 2020]].
+
+Denmark has yet to participate in women's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Skateboarders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Skateboarding at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Swimming at the Summer Olympics|Swimming]]===
+====[[Swimming at the Summer Olympics#Long course swimming|Long course swimming]]====
+Long course swimming has been included in the Olympic programme since the inaugural 1896 Summer Olympics.
+
+Denmark first competed in swimming in 1900. They have won 15 medals in all, 3 gold, 5 silver and 7 bronze.
+
+Denmark's most successful swimmer is [[Karen Harup]] who won gold in [[Swimming at the 1948 Summer Olympics – Women's 100 metre backstroke|women's 100m backstroke]] and silver in both [[Swimming at the 1948 Summer Olympics – Women's 400 metre freestyle|women's 400m freestyle]] and [[Swimming at the 1948 Summer Olympics – Women's 4 × 100 metre freestyle relay|women's {{nowrap|4 × 100 m}} freestyle relay]] (the latter together with [[Greta Andersen]], [[Eva Arndt]] and [[Fritze Carstensen]]), all in 1948.
+
+Aside from winning a silver medal in that relay, [[Greta Andersen]] also won gold in [[Swimming at the 1948 Summer Olympics – Women's 100 metre freestyle|women's 100m freestyle in 1948]].
+
+Denmark's remaining gold medal was won by [[Pernille Blume]] in [[Swimming at the 2016 Summer Olympics – Women's 50 metre freestyle|women's 50m freestyle in 2016]]. She also won bronze in [[Swimming at the 2020 Summer Olympics – Women's 50 metre freestyle|the same event in 2020]] and in [[Swimming at the 2016 Summer Olympics – Women's 4 × 100 metre medley relay|women's {{nowrap|4 × 100 m}} medley relay in 2016]] (together with [[Rikke Møller Pedersen]], [[Mie Nielsen]] and [[Jeanette Ottesen]]).
+
+The most successful male Danish swimmer were [[Ludvig Dam]] who won silver in [[Swimming at the 1908 Summer Olympics – Men's 100 metre backstroke|men's 100m backstroke in 1908]] and [[Benny Nielsen (swimmer)|Benny Nielsen]] who won silver in [[Swimming at the 1988 Summer Olympics – Men's 200 metre butterfly|men's 200m butterfly in 1988]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Swimmers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Swimming at the 1900 Summer Olympics|1900 Paris]] || 1 || 1/7 || 0 || 0 || 1 || 1 || =7
+|-
+|align=left| [[Swimming at the 1908 Summer Olympics|1908 London]] || 5 || 5/6 || 0 || 1 || 0 || 1 || 6
+|-
+|align=left| [[Swimming at the 1912 Summer Olympics|1912 Stockholm]] || 1 || 2/9 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1924 Summer Olympics|1924 Paris]] || 4 || 3/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1928 Summer Olympics|1928 Amsterdam]] || 5 || 4/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1932 Summer Olympics|1932 Los Angeles]] || 2 || 3/11 || 0 || 0 || 1 || 1 || =7
+|-
+|align=left| [[Swimming at the 1936 Summer Olympics|1936 Berlin]] || 18 || 11/11 || 0 || 1 || 1 || 2 || 6
+|-
+|align=left| [[Swimming at the 1948 Summer Olympics|1948 London]] || 6 || 5/11 || 2 || 2 || 0 || 4 ||bgcolor=dce5e5| 2
+|-
+|align=left| [[Swimming at the 1952 Summer Olympics|1952 Helsinki]] || 9 || 6/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1956 Summer Olympics|1956 Melbourne]] || 2 || 2/13 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1960 Summer Olympics|1960 Rome]] || 4 || 2/15 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1964 Summer Olympics|1964 Tokyo]] || 3 || 4/18 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1968 Summer Olympics|1968 Mexico City]] || 3 || 7/29 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1972 Summer Olympics|1972 Munich]] || 6 || 11/29 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1976 Summer Olympics|1976 Montreal]] || 2 || 2/26 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1980 Summer Olympics|1980 Moscow]] || 1 || 2/26 || 0 || 0 || 1 || 1 || =7
+|-
+|align=left| [[Swimming at the 1984 Summer Olympics|1984 Los Angeles]] || 3 || 6/29 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1988 Summer Olympics|1988 Seoul]] || 15 || 24/31 || 0 || 1 || 0 || 1 || =14
+|-
+|align=left| [[Swimming at the 1992 Summer Olympics|1992 Barcelona]] || 8 || 18/31 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 1996 Summer Olympics|1996 Atlanta]] || 10 || 15/32 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 2000 Summer Olympics|2000 Sydney]] || 7 || 10/32 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 2004 Summer Olympics|2004 Athens]] || 6 || 14/32 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 2008 Summer Olympics|2008 Beijing]] || 9 || 17/32 || 0 || 0 || 1 || 1 || =19
+|-
+|align=left| [[Swimming at the 2012 Summer Olympics|2012 London]] || 10 || 16/32 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Swimming at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 15 || 14/32 || 1 || 0 || 1 || 2 || =11
+|-
+|align=left| [[Swimming at the 2020 Summer Olympics|2020 Tokyo]] || 11 || 10/35 || 0 || 0 || 1 || 1 || =20
+|-
+! Total ||  ||  || 3 || 5 || 7 || 15 || 20
+|}
+
+====[[Swimming at the Summer Olympics#Marathon swimming|Marathon swimming]]====
+Marathon swimming has been included in the Olympic programme since 2008. Denmark has yet to participate in the discipline.
+
+===[[Table tennis at the Summer Olympics|Table tennis]]===
+Table tennis has been included in the Olympic programme since 1988.
+
+Denmark has won one medal in the sport; [[Michael Maze]] and [[Finn Tugwell]] won bronze in [[Table tennis at the 2004 Summer Olympics – Men's doubles|men's doubles in 2004]].
+
+Denmark's best placement in a women's event in the sport was shared 33rd by [[Mie Skov]] in [[Table tennis at the 2012 Summer Olympics – Women's singles|women's singles in 2012]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Table tennis at the 2000 Summer Olympics|2000 Sydney]] || 2 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Table tennis at the 2004 Summer Olympics|2004 Athens]] || 2 || 2/4 || 0 || 0 || 1 || 1 || 5
+|-
+|align=left| [[Table tennis at the 2008 Summer Olympics|2008 Beijing]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Table tennis at the 2012 Summer Olympics|2012 London]] || 3 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Table tennis at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Table tennis at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 1 || 1 || 12
+|}
+
+===[[Taekwondo at the Summer Olympics|Taekwondo]]===
+Taekwondo has been included in the Olympic programme since 2000.
+
+Denmark's best placement in the sport was 4th by [[Hanne Høegh Poulsen]] in [[Taekwondo at the 2000 Summer Olympics – Women's 49 kg|women's 49 kg in 2000]].
+
+Denmark's best placement in a men's event in the sport was shared 9th by [[Jesper Roesen]] in [[Taekwondo at the 2004 Summer Olympics – Men's 68 kg|men's 68 kg in 2004]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Practitioners
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Taekwondo at the 2000 Summer Olympics|2000 Sydney]] || 2 || 2/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Taekwondo at the 2004 Summer Olympics|2004 Athens]] || 2 || 2/8 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Tennis at the Summer Olympics|Tennis]]===
+Tennis was originally included in the Olympic programme between 1896 and 1924. Tennis returned to the games in 1988 and has remained in the programme since then.
+
+Denmark has won one medal in the sport; [[Sofie Castenschiold]] won silver in [[Tennis at the 1912 Summer Olympics – Women's indoor singles|women's indoor singles in 1912]].
+
+Denmark's best placement by a male athlete in the sport is 4th, which [[Erik Tegner]] accomplished together with [[Amory Hansen]] in [[Tennis at the 1920 Summer Olympics – Mixed doubles|mixed doubles in 1920]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Tennis at the 1912 Summer Olympics|1912 Stockholm]] || 10 || 5/8 || 0 || 1 || 0 || 1 || =6
+|-
+|align=left| [[Tennis at the 1920 Summer Olympics|1920 Antwerp]] || 3 || 4/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 1924 Summer Olympics|1924 Paris]] || 5 || 4/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 1988 Summer Olympics|1988 Seoul]] || 3 || 3/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 1992 Summer Olympics|1992 Barcelona]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 1996 Summer Olympics|1996 Atlanta]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 2000 Summer Olympics|2000 Sydney]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 2008 Summer Olympics|2008 Beijing]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 2012 Summer Olympics|2012 London]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Tennis at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 1 || 0 || 1 || =27
+|}
+
+===[[Triathlon at the Summer Olympics|Triathlon]]===
+Triathlon has been included in the Olympic programme since 2000.
+
+Denmark's best placement in the sport was 7th by [[Rasmus Henning]] in [[Triathlon at the 2004 Summer Olympics – Men's|men's individual in 2004]].
+
+Denmark's best placement in a women's event in the sport was 23rd by [[Line Jensen (triathlete)|Line Jensen]] in [[Triathlon at the 2012 Summer Olympics – Women's|women's individual in 2012]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Triathletes
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Triathlon at the 2000 Summer Olympics|2000 Sydney]] || 2 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Triathlon at the 2004 Summer Olympics|2004 Athens]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Triathlon at the 2008 Summer Olympics|2008 Beijing]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Triathlon at the 2012 Summer Olympics|2012 London]] || 2 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Triathlon at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 1 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Tug of war at the Summer Olympics|Tug of war]]===
+Tug of war was included in the Olympic programme between 1900 and 1920.
+
+Denmark never participated as a separate team, but in 1900, three Danish and three Swedish athletes teamed up and [[Tug of war at the 1900 Summer Olympics|won the gold medal as a mixed team]].
+
+The three Danish Olympic champions in tug of war were [[Edgar Aabye]], [[Eugen Schmidt]] and [[Charles Winckler]].
+
+===[[Weightlifting at the Summer Olympics|Weightlifting]]===
+Weightlifting was first included in the Olympic programme at the inaugural 1896 Summer Olympics. It was excluded from the 1900, 1908 and 1912 Games but have been included every other time.
+
+Denmark has won three medals in the sport, 1 gold and 2 silver. They first competed in weightlifting at the inaugural 1896 Games, with one lifter competing. [[Viggo Jensen]] won gold in the [[Weightlifting at the 1896 Summer Olympics – Men's two hand lift|men's two-hand lift]] (based on a style tie-breaker), but was injured in the attempt and placed second for silver in [[Weightlifting at the 1896 Summer Olympics – Men's one hand lift|men's one-hand lift]].
+
+Denmark's remaining silver medal was won by [[Svend Olsen]] in [[Weightlifting at the 1932 Summer Olympics – Men's 82.5 kg|men's 82.5 kg in 1932]].
+
+Denmark has yet to participate in women's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Games
+! Lifters
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Weightlifting at the 1896 Summer Olympics|1896 Athens]] || 1 || 2/2 || 1 || 1 || 0 || 2 ||bgcolor=F7F6A8| =1
+|-
+|align=left| [[Weightlifting at the 1920 Summer Olympics|1920 Antwerp]] || 5 || 5/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1928 Summer Olympics|1928 Amsterdam]] || 1 || 1/5 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1932 Summer Olympics|1932 Los Angeles]] || 1 || 1/5 || 0 || 1 || 0 || 1 || 6
+|-
+|align=left| [[Weightlifting at the 1948 Summer Olympics|1948 London]] || 4 || 4/6 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1952 Summer Olympics|1952 Helsinki]] || 3 || 3/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1972 Summer Olympics|1972 Munich]] || 3 || 3/9 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1976 Summer Olympics|1976 Montreal]] || 1 || 1/9 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1980 Summer Olympics|1980 Moscow]] || 1 || 1/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1984 Summer Olympics|1984 Los Angeles]] || 1 || 1/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1988 Summer Olympics|1988 Seoul]] || 2 || 2/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Weightlifting at the 1992 Summer Olympics|1992 Barcelona]] || 2 || 2/10 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 1 || 2 || 0 || 3 || 37
+|}
+
+===[[Wrestling at the Summer Olympics|Wrestling]]===
+Wrestling was included in the inaugural 1896 Summer Olympic programme and has been included in all Summer Games except for 1900.
+
+Denmark has won 9 medals in the sport, 3 silver and 6 bronze.
+
+Their silver medals were won by [[Poul Hansen (sport wrestler)|Poul Hansen]] in [[Wrestling at the 1920 Summer Olympics – Men's Greco-Roman heavyweight|men's Greco-Roman heavyweight in 1920]], [[Abraham Kurland]] in [[Wrestling at the 1932 Summer Olympics – Men's Greco-Roman lightweight|men's Greco-Roman lightweight in 1932]] and [[Mark Madsen (fighter)|Mark Madsen]] in [[Wrestling at the 2016 Summer Olympics – Men's Greco-Roman 75 kg|men's Greco-Roman 75 kg in 2016]].
+
+The Danish wrestler with most Olympic medals is [[Søren Marinus Jensen]] who won 2 bronze medals, in men's Greco-Roman [[Wrestling at the 1908 Summer Olympics – Men's Greco-Roman heavyweight|super heavyweight in 1908]] and [[Wrestling at the 1912 Summer Olympics – Men's Greco-Roman heavyweight|heavyweight in 1912]].
+
+Denmark has yet to participate in women's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Wrestlers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Wrestling at the 1908 Summer Olympics|1908 London]] || 10 || 4/9 || 0 || 0 || 3 || 3 || 9
+|-
+|align=left| [[Wrestling at the 1912 Summer Olympics|1912 Stockholm]] || 9 || 5/5 || 0 || 0 || 1 || 1 || =5
+|-
+|align=left| [[Wrestling at the 1920 Summer Olympics|1920 Antwerp]] || 10 || 5/10 || 0 || 1 || 1 || 2 || 5
+|-
+|align=left| [[Wrestling at the 1924 Summer Olympics|1924 Paris]] || 11 || 10/13 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1928 Summer Olympics|1928 Amsterdam]] || 7 || 8/13 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1932 Summer Olympics|1932 Los Angeles]] || 3 || 5/14 || 0 || 1 || 0 || 1 || =8
+|-
+|align=left| [[Wrestling at the 1936 Summer Olympics|1936 Berlin]] || 5 || 6/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1948 Summer Olympics|1948 London]] || 5 || 5/16 || 0 || 0 || 1 || 1 || =11
+|-
+|align=left| [[Wrestling at the 1952 Summer Olympics|1952 Helsinki]] || 5 || 5/16 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1960 Summer Olympics|1960 Rome]] || 4 || 4/16 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1964 Summer Olympics|1964 Tokyo]] || 3 || 3/16 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1968 Summer Olympics|1968 Mexico City]] || 3 || 3/16 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1972 Summer Olympics|1972 Munich]] || 3 || 3/20 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 1980 Summer Olympics|1980 Moscow]] || 2 || 2/20 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 2004 Summer Olympics|2004 Athens]] || 1 || 1/18 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 2008 Summer Olympics|2008 Beijing]] || 2 || 2/18 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 2012 Summer Olympics|2012 London]] || 2 || 2/18 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Wrestling at the 2016 Summer Olympics|2016 Rio de Janeiro]] || 1 || 1/18 || 0 || 1 || 0 || 1 || =14
+|-
+|align=left| [[Wrestling at the 2020 Summer Olympics|2020 Tokyo]] || 1 || 1/18 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 3 || 6 || 9 || 43
+|}
+
+Denmark also won two gold medals, one silver medal and one bronze medal in wrestling at the [[1906 Intercalated Games]]. IOC has retroactively decided to no longer recognize those games as official Olympic games.
+
+==Summary by winter sport==
+
+===Non-participations===
+Denmark has participated in most winter sports but has yet to participate in [[Luge at the Winter Olympics|Luge]], [[Nordic combined at the Winter Olympics|Nordic combined]], [[Short track speed skating at the Winter Olympics|Short track speed skating]] and [[Ski jumping at the Winter Olympics|Ski jumping]] and the temporary sport [[Ski mountaineering at the Winter Olympics|Ski Mountaineering]].
+
+(They also didn't participate in [[Military patrol at the 1924 Winter Olympics|Military Patrol in 1924]], which sometimes is counted separately from Biathlon.)
+
+===[[Alpine skiing at the Winter Olympics|Alpine skiing]]===
+Alpine skiing has been included in the Olympic programme since 1936.
+
+Denmark's best placement in the sport was 20th by [[Christian Borgnæs]] in [[Alpine skiing at the 2026 Winter Olympics – Men's giant slalom|men's giant slalom in 2026]].
+
+Denmark's best placement in a women's event in the sport was 28th by [[Tine Kongsholm]] in [[Alpine skiing at the 1992 Winter Olympics – Women's slalom|women's slalom in 1992]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Alpine skiers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Alpine skiing at the 1992 Winter Olympics|1992 Albertville]] || 2 || 4/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 1994 Winter Olympics|1994 Lillehammer]] || 1 || 1/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 1998 Winter Olympics|1998 Nagano]] || 3 || 6/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 2010 Winter Olympics|2010 Vancouver]] || 3 || 5/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 2014 Winter Olympics|2014 Sochi]] || 1 || 3/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 2018 Winter Olympics|2018 Pyeongchang]] || 2 || 5/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 2022 Winter Olympics|2022 Beijing]] || 1 || 1/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Alpine skiing at the 2026 Winter Olympics|2026 Milano Cortina]] || 2 || 2/10 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Biathlon at the Winter Olympics|Biathlon]]===
+Biathlon events were conducted at the 1924 Winter Olympics under the designation [[Military patrol at the Winter Olympics|Military patrol]]. Biathlon arrived as its own sport at the 1960 Winter Olympics.
+
+Denmark's best placement in the sport was 16th by [[Anne de Besche]] in [[Biathlon at the 2026 Winter Olympics – Women's sprint|women's sprint in 2026]].
+
+Denmark's best placement in a men's event in the sport was 54th by [[Sondre Slettemark]] in [[Biathlon at the 2026 Winter Olympics – Men's pursuit|men's pursuit in 2026]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Biathletes
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Biathlon at the 2010 Winter Olympics|2010 Vancouver]] || 1 || 2/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Biathlon at the 2022 Winter Olympics|2022 Beijing]] || 1 || 2/11 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Biathlon at the 2026 Winter Olympics|2026 Milano Cortina]] || 3 || 7/11 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Bobsleigh at the Winter Olympics|Bobsleigh]]===
+Bobsleigh has been included in the Olympic programme since the inaugural 1924 Winter Olympics, with the exception of the 1960 Games.
+
+Denmark's only placement in the sport so far is 9th, by [[Maja Voigt]] in [[Bobsleigh at the 2026 Winter Olympics – Women's monobob|women's monobob in 2026]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Bobsledders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Bobsleigh at the 2026 Winter Olympics|2026 Milano Cortina]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Cross-country skiing at the Winter Olympics|Cross-country skiing]]===
+Cross-country skiing has been was included in the Olympic programme since the inaugural 1924 Winter Olympics.
+
+Denmark's best placement in the sport was 32nd by [[Kirsten Carlsen]] in [[Cross-country skiing at the 1968 Winter Olympics – Women's 10 kilometre|women's 10 km in 1968]].
+
+Denmark's best placement in a men's event in the sport was 41st by [[Michael Binzer]] in both [[Cross-country skiing at the 1998 Winter Olympics – Men's 15 kilometre freestyle pursuit|men's 15 km pursuit in 1998]] and [[Cross-country skiing at the 1998 Winter Olympics – Men's 50 kilometre freestyle|men's 50 km freestyle in 1998]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Skiers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Cross-country skiing at the 1964 Winter Olympics|1964 Innsbruck]] || 1 || 2/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 1968 Winter Olympics|1968 Grenoble]] || 3 || 4/7 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 1992 Winter Olympics|1992 Albertville]] || 2 || 4/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 1994 Winter Olympics|1994 Lillehammer]] || 2 || 4/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 1998 Winter Olympics|1998 Nagano]] || 1 || 4/10 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 2010 Winter Olympics|2010 Vancouver]] || 1 || 3/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 2014 Winter Olympics|2014 Sochi]] || 1 || 4/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Cross-country skiing at the 2018 Winter Olympics|2018 Pyeongchang]] || 1 || 2/12 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Curling at the Winter Olympics|Curling]]===
+Curling was included in the Olympic programme during the inaugural 1924 Winter Olympics. It didn't return until 1998, but has remained in the Games since then.
+
+[[Jane Bidstrup]], [[Helena Blach Lavrsen]], [[Dorthe Holm]], [[Margit Pörtner]] and [[Trine Qvist]] won silver in the [[Curling at the 1998 Winter Olympics|women's event in 1998]], earning Denmark's first Winter Olympic medal ever.
+
+Denmark's best placement in a men's event is 6th, which [[Johnny Frederiksen]], [[Troels Harry]], [[Mikkel Poulsen]], [[Rasmus Stjerne]] and [[Lars Vilandt]] got in the [[Curling at the 2014 Winter Olympics – Men's tournament|men's event in 2014]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Curlers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Curling at the 1998 Winter Olympics|1998 Nagano]] || 5 || 1/2 || 0 || 1 || 0 || 1 ||bgcolor=ffdab9| 3
+|-
+|align=left| [[Curling at the 2002 Winter Olympics|2002 Salt Lake City]] || 10 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2006 Winter Olympics|2006 Turin]] || 4 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2010 Winter Olympics|2010 Vancouver]] || 9 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2014 Winter Olympics|2014 Sochi]] || 8 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2018 Winter Olympics|2018 Pyeongchang]] || 9 || 2/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2022 Winter Olympics|2022 Beijing]] || 10 || 2/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Curling at the 2026 Winter Olympics|2026 Milano Cortina]] || 5 || 1/3 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 1 || 0 || 1 || =9
+|}
+
+===[[Figure skating at the Olympic Games|Figure skating]]===
+Figure skating was first included in the Olympic programme in the 1908 and 1920 Summer Olympics. It was moved to the Winter Olympics with the inaugural 1924 Winter Olympics and has been included in every Winter Olympic Games.
+
+Denmark's best placement in the sport was 9th by [[Michael Tyllesen]] in [[Figure skating at the 1998 Winter Olympics|men's singles in 1998]].
+
+Denmark's best placement in a women's event in the sport was 15th by [[Anisette Torp-Lind]] in [[Figure skating at the 1992 Winter Olympics|ladies' singles in 1992]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Figure skaters
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Figure skating at the 1948 Winter Olympics|1948 St. Moritz]] || 1 || 1/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Figure skating at the 1952 Winter Olympics|1952 Oslo]] || 1 || 1/3 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Figure skating at the 1988 Winter Olympics|1988 Calgary]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Figure skating at the 1992 Winter Olympics|1992 Albertville]] || 2 || 2/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Figure skating at the 1994 Winter Olympics|1994 Lillehammer]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Figure skating at the 1998 Winter Olympics|1998 Nagano]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Freestyle skiing at the Winter Olympics|Freestyle skiing]]===
+Freestyle skiing has been included in the Olympic programme since 1992.
+
+Denmark's best placement in the sport is 13th by [[Anja Bolbjerg]] in [[Freestyle skiing at the 1998 Winter Olympics – Women's moguls|women's moguls in 1998]].
+
+Denmark has yet to participate in men's events in the sport.
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Skiers
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Freestyle skiing at the 1998 Winter Olympics|1998 Nagano]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Freestyle skiing at the 2002 Winter Olympics|2002 Salt Lake City]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Freestyle skiing at the 2010 Winter Olympics|2010 Vancouver]] || 1 || 1/6 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Freestyle skiing at the 2018 Winter Olympics|2018 Pyeongchang]] || 1 || 1/10 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Ice hockey at the Olympic Games|Ice hockey]]===
+Ice hockey was first included in the Olympic programme in the 1920 Summer Olympics. It was moved to the Winter Olympics with the inaugural 1924 Winter Olympics and has been included in every Winter Olympic Games.
+
+Denmark men's and women's ice hockey teams have both competed.
+
+[[Denmark men's national ice hockey team]]'s best placement is [[Ice hockey at the 2022 Winter Olympics – Men's tournament|7th in 2022]].
+[[Denmark women's national ice hockey team]] best placement is [[Ice hockey at the 2022 Winter Olympics – Women's tournament|10th in 2022]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Players
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Ice hockey at the 2022 Winter Olympics|2022 Beijing]] || 45 || 2/2 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Ice hockey at the 2026 Winter Olympics|2026 Milano Cortina]] || 25 || 1/2 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Skeleton at the Winter Olympics|Skeleton]]===
+Skeleton has been included in the Olympic programme in 1928, 1948 and from 2002 until today.
+
+Denmark has three placements in the sport so far.
+
+[[Rasmus Johansen]]	finished 11th in the [[Skeleton at the 2026 Winter Olympics – Men's|men's event in 2026]]. 
+
+[[Nanna Johansen]] finished 20th in the [[Skeleton at the 2026 Winter Olympics – Women's|women's event in 2026]].
+
+Together, Rasmus Johansen and Nanna Johansen finished 12th in [[Skeleton at the 2026 Winter Olympics – Mixed team|the mixed team event in 2026]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Bobsledders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Skeleton at the 2026 Winter Olympics|2026 Milano Cortina]] || 2 || 3/3 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Snowboarding at the Winter Olympics|Snowboarding]]===
+Snowboarding has been included in the Olympic programme since 1998.
+
+Denmark has competed in two snowboarding events. [[Mike Kildevæld]] finished 15th in [[Snowboarding at the 1998 Winter Olympics – Men's giant slalom|men's giant slalom 1998]]. [[Julie Lundholdt]] finished 15th too, but in [[Snowboarding at the 2010 Winter Olympics – Women's snowboard cross|women's snowboard cross in 2010]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Snowboarders
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Snowboarding at the 1998 Winter Olympics|1998 Nagano]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Snowboarding at the 2010 Winter Olympics|2010 Vancouver]] || 1 || 1/6 || 0 || 0 || 0 || 0 ||
+|-
+! Total ||  ||  || 0 || 0 || 0 || 0 || –
+|}
+
+===[[Speed skating at the Winter Olympics|Speed skating]]===
+Speed skating has been included in the Olympic programme since the inaugural 1924 Winter Olympics.
+
+Denmark's has won one medal in the sport; [[Viktor Hald Thorup]] won silver in [[Speed skating at the 2026 Winter Olympics – Men's mass start|men's mass start in 2026]].
+
+Denmark's best placement in a women's event in the sport was 14th by [[Cathrine Grage]] in [[Speed skating at the 2010 Winter Olympics – Women's 5000 metres|women's 5000m in 2010]].
+
+{| class="wikitable sortable" style="text-align:center"
+! Games
+! Skaters
+! Events ||style="background-color:gold;"| Gold ||style="background-color:silver;"| Silver ||style="background-color:#c96;"| Bronze
+! Total
+! Ranking
+|-
+|align=left| [[Speed skating at the 1948 Winter Olympics|1948 St. Moritz]] || 1 || 1/4 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 1960 Winter Olympics|1960 Squaw Valley]] || 1 || 3/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 1964 Winter Olympics|1964 Innsbruck]] || 1 || 3/8 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 2010 Winter Olympics|2010 Vancouver]] || 1 || 2/12 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 2018 Winter Olympics|2018 Pyeongchang]] || 3 || 2/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 2022 Winter Olympics|2022 Beijing]] || 2 || 2/14 || 0 || 0 || 0 || 0 ||
+|-
+|align=left| [[Speed skating at the 2026 Winter Olympics|2026 Milano Cortina]] || 1 || 2/14 || 0 || 1 || 0 || 1 || =8
+|-
+! Total ||  ||  || 0 || 1 || 0 || 0 || =22
+|}
+
+==Medals at subsequently de-recognized competitions==
+[[Art competitions at the Summer Olympics|Art competitions]] held at Summer Olympics between 1912 and 1948, and the [[1906 Intercalated Games]] are no longer recognized as official Olympic medal competitions by the IOC.
+
+Denmark won 5 silver and 4 bronze medals in art competitions,<ref name="DEN_profile" /> and 3 gold, 2 silver and 1 bronze medal at the Intercalated Games.
+
+==See also==
+* [[List of flag bearers for Denmark at the Olympics]]
+* [[:Category:Olympic competitors for Denmark]]
+* [[Denmark at the Paralympics]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web |title=Denmark |date=27 July 2021 |publisher=International Olympic Committee |url=https://www.olympic.org/denmark }}
+* {{cite web |title=Denmark |publisher=Olympedia.com |url=http://www.olympedia.org/countries/DEN }}
+* {{cite web |title=Olympic Analytics/DEN |publisher=olympanalyt.com |url=http://olympanalyt.com/OlympAnalytics.php?param_pagetype=MedalsByGames&param_country=DEN }}
+* {{cite web |title=Olympic Statistics |publisher=[[National Olympic Committee and Sports Confederation of Denmark]] |url=http://www.ol2016.dif.dk/da/historie/ol-statistik |access-date=2016-01-07 |language=da |archive-date=2016-09-30 |archive-url=https://web.archive.org/web/20160930223907/http://www.ol2016.dif.dk/da/historie/ol-statistik |url-status=dead }}
+
+{{country at games navbox|Denmark|Olympics}}
+{{Nations at the Olympics}}
+{{National sports teams of Denmark}}
+
+[[Category:Denmark at the Olympics| ]]

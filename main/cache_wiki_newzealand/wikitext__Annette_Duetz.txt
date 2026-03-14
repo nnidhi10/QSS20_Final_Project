@@ -1,0 +1,85 @@
+{{short description|Dutch competitive sailor}}
+{{Use dmy dates|date=August 2016}}
+{{Infobox sailor
+| name           = Annette Duetz
+| image          = 
+| image_size     = 
+| caption        = 
+| birth_name     = 
+| fullname       = 
+| nickname       = 
+| nationality    = 
+| birth_date     = {{birth date and age|1993|6|29|df=y}}
+| birth_place    = [[Zeddam]], the Netherlands
+| death_date     = 
+| death_place    = 
+| height         =  
+| weight         =  
+| classes        = [[49er FX]]
+| club           = 
+| collegeteam    = 
+| coach          = 
+| show-medals    = yes
+| medaltemplates = 
+{{MedalSport | Women's [[Sailing (sport)|sailing]]}}
+{{MedalCountry | {{NED}} }}
+{{MedalCompetition|[[Sailing at the Summer Olympics|Olympic Games]]}}
+{{MedalGold | [[Sailing at the 2024 Summer Olympics – 49er FX|2024 Paris]] | 49er FX }}
+{{MedalBronze| [[2020 Summer Olympics|2020 Tokyo]] | [[Sailing at the 2020 Summer Olympics – 49er FX|49er FX]]}}
+{{MedalCompetition | World Championships }}
+{{MedalGold | [[2018 Sailing World Championships|2018 Aarhus]] | 49er FX }}
+{{MedalGold | [[49er & 49er FX World Championships|2019 Auckland]] | 49er FX }}
+{{MedalGold | [[49er & 49er FX World Championships|2022 St. Margarets Bay]] | 49er FX }}
+{{MedalGold | [[49er & 49er FX World Championships|2024 Lanzarote]] | 49er FX }}
+{{MedalSilver | [[2023 Sailing World Championships|2023 The Hague]] | 49er FX }}
+{{MedalCompetition | European Championships }}
+{{MedalGold | [[49er & 49er FX European Championships|2019 Weymouth]] | 49er FX }}
+{{MedalGold | [[49er & 49er FX European Championships|2022 Aarhus]] | 49er FX }}
+| updated          = 8 March 2023
+}}
+
+'''Annette Duetz''' (born 29 June 1993 in [[Zeddam]])<ref>{{cite web |url=http://kernploeg.watersporters.nl/delta-lloyd-talentploeg/49erfx/annette-duetz/ |title=Annette Duetz |publisher=Wateesportverbond |language=Dutch |accessdate=4 May 2016}}</ref> is a [[sailing (sport)|sailor]] from the [[Netherlands]].  Together with [[Annemiek Bekkering]], she is the bronze medalist of the 2020 Summer Olympics in [[Sailing at the 2020 Summer Olympics – 49er FX|Skiff – 49er FX]]. She is, together with [[Odile van Aanholt]], the gold medalist of the [[2024 Paris Olympics]] in the [[Sailing at the 2024 Summer Olympics – 49er FX|woman's 49er FX]].
+
+Bekkering and Duetz qualified for the [[2016 Summer Olympics]] in [[Sailing at the 2016 Summer Olympics – 49er FX|Skiff – 49er FX]]. They earlier lost the national selection to [[Nina Keizer]] en [[Claire Blom]], but Keizer and Blom failed to fulfill the qualification criteria of NOC/NSF.<ref>{{cite web |url=http://nos.nl/artikel/2102398-olympisch-ticket-zeilduo-bekkering-duetz.html |title=Olympisch ticket zeilduo Bekkering/Duetz |date=30 April 2016 |publisher=NOS |language=Dutch |accessdate=4 May 2016}}</ref> At the Olympics, Bekkering and Duetz finished in the seventh position.<ref>{{cite web |title=Rio 2016 Sailing 49er FX Women women Results |url=https://olympics.com/en/olympic-games/rio-2016/results/sailing/49er-fx-women-women |work=Rio 2016 Olympics |publisher=[[Rio 2016 Organising Committee for the Olympic and Paralympic Games]] |access-date=22 November 2021 |archive-date=22 November 2021 |archive-url=https://web.archive.org/web/20211122062015/https://olympics.com/en/olympic-games/rio-2016/results/sailing/49er-fx-women-women |url-status=dead }}</ref>
+
+Since 2011, Duetz studied Applied Physics at [[Delft University of Technology]].<ref>{{cite web |url=http://delta.tudelft.nl/artikel/annette-duetz-definitief-naar-rio/31581 |title=Annette Duetz definitief naar Rio |date=2 May 2016 |work=Delta |publisher=Delft University of Technology |language=Dutch |access-date=4 May 2016}}</ref> 
+
+==References==
+{{reflist}}
+
+==External links==
+* {{World Sailing|id=NEDAD15|www=annette-duetz}}
+* {{Olympics.com|annette-duetz}}
+* {{Olympedia}}
+* {{InterSportStats}}
+* {{TeamNL|annette-duetz|old_id=6104-annette-duetz}}
+* {{Instagram}}
+
+{{Footer Olympic Champions 49erFX}}
+{{Footer World Champions 49er FX}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Duetz, Annette}}
+[[Category:1993 births]]
+[[Category:Living people]]
+[[Category:Dutch female sailors (sport)]]
+[[Category:People from Montferland]]
+[[Category:Sportspeople from Gelderland]]
+[[Category:Olympic sailors for the Netherlands]]
+[[Category:Sailors at the 2016 Summer Olympics – 49er FX]]
+[[Category:Sailors at the 2020 Summer Olympics – 49er FX]]
+[[Category:Medalists at the 2020 Summer Olympics]]
+[[Category:Olympic medalists in sailing]]
+[[Category:Olympic bronze medalists for the Netherlands]]
+[[Category:49er FX class sailors]]
+[[Category:World champions in sailing for the Netherlands]]
+[[Category:49er FX class world champions]]
+[[Category:Sailors at the 2024 Summer Olympics – 49er FX]]
+[[Category:Olympic gold medalists for the Netherlands]]
+[[Category:Medalists at the 2024 Summer Olympics]]
+[[Category:21st-century Dutch sportswomen]]
+
+
+{{Netherlands-yachtracing-bio-stub}}
+{{Netherlands-Olympic-medalist-stub}}

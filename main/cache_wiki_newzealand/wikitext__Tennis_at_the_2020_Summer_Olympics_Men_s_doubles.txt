@@ -1,0 +1,511 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox tennis tournament event|2020|Summer Olympics|s
+| champ = {{flagicon|CRO}} [[Nikola Mektić]]<br />{{flagicon|CRO}} [[Mate Pavić]]
+| runner = {{flagicon|CRO}} [[Marin Čilić]]<br />{{flagicon|CRO}} [[Ivan Dodig]]
+| score = 6–4, 3–6, [10–6]
+| quadrennial = yes
+| multi = yes
+| type = mixed
+| qual_type = qual
+}}
+{{Infobox Olympic event
+| event = Men's doubles
+| games = 2020 Summer
+| image = File:Tennis pictogram.svg
+| caption = Olympic tennis pictogram
+| venue = [[Ariake Coliseum]]
+| dates = 24–30 July 2021
+| competitors = 32 teams
+| nations  = 22
+| longnames =
+| gold = [[Nikola Mektić]]<br />[[Mate Pavić]]
+| goldNOC = CRO
+| silver = [[Marin Čilić]]<br />[[Ivan Dodig]]
+| silverNOC = CRO
+| bronze = [[Marcus Daniell]]<br />[[Michael Venus (tennis)|Michael Venus]]
+| bronzeNOC = NZL
+| prev = [[Tennis at the 2016 Summer Olympics – Men's doubles|2016]]
+| next = [[Tennis at the 2024 Summer Olympics – Men's doubles|2024]]
+}}
+{{main|Tennis at the 2020 Summer Olympics}}
+
+[[Croatia at the 2020 Summer Olympics|Croatia]]'s [[Nikola Mektić]] and [[Mate Pavić]] defeated compatriots [[Marin Čilić]] and [[Ivan Dodig]] in the final, 6–4, 3–6, [10–6] to win the gold medal in Men's Doubles [[tennis]] at the [[2020 Summer Olympics]].<ref>{{cite web|url=https://www.itftennis.com/en/news-and-media/articles/tokyo-2020-olympics-mens-doubles-gold-medal-match/|title=Mektic and Pavic clinch men's doubles gold for Croatia|publisher=International Tennis Federation|accessdate=9 July 2025}}</ref> This was Croatia's first Olympic tennis gold and silver medals.<ref>{{cite web|url=https://www.reuters.com/lifestyle/sports/2020-tennis-croatias-mektic-pavic-win-mens-doubles-gold-2021-07-30/|title=Tennis-Mektic and Pavic win first tennis gold for Croatia|publisher=Reuters|accessdate=9 July 2025}}</ref> For the first time since [[Tennis at the 1908 Summer Olympics – Men's doubles|1908]], the gold medal match was contested by pairs representing the same country. In the bronze medal match, [[New Zealand at the 2020 Summer Olympics|New Zealand]]'s [[Marcus Daniell]] and [[Michael Venus (tennis)|Michael Venus]] defeated the [[United States at the 2020 Summer Olympics|United States]]' [[Austin Krajicek]] and [[Tennys Sandgren]], 7–6<sup>(7–3)</sup>, 6–2.<ref>{{cite web|url=https://www.rnz.co.nz/news/sport/448137/bronze-medallists-hopeful-more-new-zealanders-will-take-up-tennis|title=Bronze medallists hopeful more New Zealanders will take up tennis|publisher=RNZ|accessdate=9 July 2025}}</ref> It was New Zealand's first Olympic tennis medal.<ref>{{cite web|url=https://www.stuff.co.nz/sport/olympics/125925474/tokyo-olympics-marcus-daniell-michael-venus-create-history-winning-bronze-medal|title=Tokyo Olympics: Marcus Daniell, Michael Venus create history winning bronze medal|publisher=Stuff|accessdate=9 July 2025}}</ref>
+
+Spain's [[Marc López]] and [[Rafael Nadal]] were the reigning gold medalists from [[Tennis at the 2016 Summer Olympics – Men's doubles|2016]], but they chose not to participate.
+
+This was the 16th (medal) appearance of the men's doubles tennis event. The event has been held at every Summer Olympics where tennis has been on the program: from 1896 to 1924 and then from 1988 to the current program. A demonstration event was held in 1968.{{cn|date=July 2021}}
+
+The competition was a single-elimination tournament with a bronze medal match. Matches were best-of-3 sets, except that the third set was a match tiebreak (first to 10 points) instead of a typical set.<ref>{{Cite web|url=https://www.bbc.co.uk/sport/tennis/47807003|title=Olympic men's final down to three sets|via=www.bbc.co.uk|access-date=28 December 2020|archive-date=13 July 2021|archive-url=https://web.archive.org/web/20210713182306/https://www.bbc.co.uk/sport/tennis/47807003|url-status=live}}</ref><ref>{{Cite web|url=https://event.itftennis.com/olympics/news//olympics/news/articles/itf-announces-changes-for-2020-olympic-tennis-event|title=Olympic Tennis Event - Tokyo 2020|website=event.itftennis.com|access-date=29 July 2021|archive-date=29 July 2021|archive-url=https://web.archive.org/web/20210729121034/https://event.itftennis.com/olympics/news//olympics/news/articles/itf-announces-changes-for-2020-olympic-tennis-event|url-status=live}}</ref><ref>{{Cite web|url=https://olympics.com/tokyo-2020/en/sports/tennis/|title=Tennis &#124; Olympic Sport|website=Tokyo 2020|access-date=29 July 2021|archive-date=6 August 2021|archive-url=https://web.archive.org/web/20210806042248/https://olympics.com/tokyo-2020/en/sports/tennis/|url-status=live}}</ref> A [[tiebreak]] was played if one of the first two sets reached 6–6.
+
+==Qualification==
+{{main|Tennis at the 2020 Summer Olympics – Qualification}}
+
+Each [[National Olympic Committee]] (NOC) can enter up to two pairs (four players). The total number of male players, in both singles and doubles, for each nation may not exceed six. There are 32 pairs places (64 players) in the event. Qualification is based primarily on the ranking lists of 7 June 2021.<ref name=Qualifying>{{cite news|title=Tokyo 2020 – ITF Tennis Qualification System|url=https://www.itftennis.com/media/2619/qualification-system.pdf|publisher=[[International Tennis Federation|ITF]]|access-date=23 December 2020|archive-date=27 July 2021|archive-url=https://web.archive.org/web/20210727092912/https://www.itftennis.com/media/2619/qualification-system.pdf|url-status=live}}</ref>
+
+Up to 10 pairs are selected through individual doubles ranking. The top 10 players in the doubles ranking qualify and may bring any partner with a ranking in the top 300 in either singles or doubles.<ref name=Qualifying/>
+
+The draw is then filled to 24 pairs (that is, at least 14 additional pairs and possibly more depending on how the top 10 use their spots) through combined ranking. The better of a player's singles or doubles ranking is used, and the two rankings of a pair of players are added to give a combined ranking, with the lowest rankings earning qualifying spots.<ref name=Qualifying/>
+
+If the quota of 86 total male players in singles and doubles has not been reached, the combined ranking continues until either the 86 total quota places are filled or the 32 pair maximum is reached.<ref name=Qualifying/>
+
+Once the 86 player quota is met, priority is given to pairs with both members playing in singles (with combined ranking used to select within that group). In the unlikely event that this does not finish filling the 32 pairs, additional spots will be qualified with priority given to pairs with one member playing in singles; finally, if the 32 pair spots still are not filled, the combined ranking of pairs without any singles players is used.<ref name=Qualifying/>
+
+==Schedule==
+The competition was held over seven days from 24 July to 30 July. Times given are the start of tennis sessions, though the men's doubles shares courts with other tennis events.<ref name="Dates">{{cite web |url=https://olympics.com/tokyo-2020/olympic-games/en/results/tennis/event-schedule-men-s-doubles.htm |title=Tennis - Men's Doubles Schedule |publisher=Tokyo 2020 |access-date=28 July 2021 |archive-date=28 July 2021 |archive-url=https://web.archive.org/web/20210728215600/https://olympics.com/tokyo-2020/olympic-games/en/results/tennis/event-schedule-men-s-doubles.htm |url-status=live }}</ref>
+
+{| class="wikitable" style="text-align: center; font-size: 90%;"
+!colspan=7|July
+|-
+!width=100|24
+!width=100|25
+!width=100|26
+!width=100|27
+!width=100|28
+!width=100|29
+!width=100|30
+|-
+!11:00
+!11:00
+!11:00
+!11:00
+!11:00
+!15:00
+!15:00
+|-
+| colspan="2" rowspan="2" bgcolor="#afeeee" |Round of 32
+| colspan="2" rowspan="2" bgcolor="#afeeee" |Round of 16
+| rowspan="2" bgcolor="#ffebcd" |Quarter-finals
+| rowspan="2" bgcolor="#FFFF00" |Semi-finals
+|bgcolor=#D8BFD8|{{nowrap|Bronze medal match}}
+|-
+|bgcolor=#ffdf00|{{nowrap|Gold medal match}}
+|}
+<small>All times are [[Japan Standard Time]] ([[UTC+9]])</small>
+
+==Seeds==
+{{colbegin}}
+{{seeds|1}} '''{{flagIOCathlete|[[Nikola Mektić]]|CRO|2020 Summer}}''' / '''{{flagIOCathlete|[[Mate Pavić]]|CRO|2020 Summer}} (champions, gold medalists)'''
+{{seeds|2}} {{flagIOCathlete|[[Pierre-Hugues Herbert]]|FRA|2020 Summer}} / {{flagIOCathlete|[[Nicolas Mahut]]|FRA|2020 Summer}} ''(first round)''
+{{seeds|3}} {{flagIOCathlete|[[Juan Sebastián Cabal]]|COL|2020 Summer}} / {{flagIOCathlete|[[Robert Farah]]|COL|2020 Summer}} ''(quarterfinals)''
+{{seeds|4}} {{flagIOCathlete|[[Aslan Karatsev]]|ROC|2020 Summer}} / {{flagIOCathlete|[[Daniil Medvedev]]|ROC|2020 Summer}} ''(first round)''
+
+{{seeds|5}} {{flagIOCathlete|[[Hubert Hurkacz]]|POL|2020 Summer}} / {{flagIOCathlete|[[Łukasz Kubot]]|POL|2020 Summer}} ''(first round)''
+{{seeds|6}} {{flagIOCathlete|[[Karen Khachanov]]|ROC|2020 Summer}} / {{flagIOCathlete|[[Andrey Rublev]]|ROC|2020 Summer}} ''(first round)''
+{{seeds|7}} {{flagIOCathlete|[[Jamie Murray]]|GBR|2020 Summer}} / {{flagIOCathlete|[[Neal Skupski]]|GBR|2020 Summer}} ''(second round)''
+{{seeds|8}} {{flagIOCathlete|[[Wesley Koolhof]]|NED|2020 Summer}} / {{flagIOCathlete|[[Jean-Julien Rojer]]|NED|2020 Summer}} ''(second round, withdrew due to a positive test for COVID-19)''
+{{colend}}
+
+==Draw==
+{{Draw key}}
+===Finals===
+{{4TeamBracket-Tennis3-with third
+|RD1=Semi-finals
+|RD2=Final
+|3rd=Bronze medal
+
+|RD1-seed1=1
+|RD1-team1='''{{flagIOCathlete|[[Nikola Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić]]|CRO|2020 Summer}}'''
+|RD1-score1-1='''6'''
+|RD1-score1-2='''6'''
+|RD1-score1-3=
+|RD1-seed2=
+|RD1-team2={{flagIOCathlete|[[Austin Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren]]|USA|2020 Summer}}
+|RD1-score2-1=4
+|RD1-score2-2=4
+|RD1-score2-3=
+
+|RD1-seed3=&nbsp;
+|RD1-team3={{flagIOCathlete|[[Marcus Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus]]|NZL|2020 Summer}}
+|RD1-score3-1=2
+|RD1-score3-2=2
+|RD1-score3-3=
+|RD1-seed4=&nbsp;
+|RD1-team4='''{{flagIOCathlete|[[Marin Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig]]|CRO|2020 Summer}}'''
+|RD1-score4-1='''6'''
+|RD1-score4-2='''6'''
+|RD1-score4-3=
+
+|RD2-seed1=1
+|RD2-team1='''{{flagIOCathlete|[[Nikola Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić]]|CRO|2020 Summer}}'''
+|RD2-score1-1='''6'''
+|RD2-score1-2=3
+|RD2-score1-3='''[10]'''
+|RD2-seed2=&nbsp;
+|RD2-team2={{flagIOCathlete|[[Marin Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig]]|CRO|2020 Summer}}
+|RD2-score2-1=4
+|RD2-score2-2='''6'''
+|RD2-score2-3=[6]
+
+|3rd-seed1=&nbsp;
+|3rd-team1={{flagIOCathlete|[[Austin Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren]]|USA|2020 Summer}}
+|3rd-score1-1=6<sup>3</sup>
+|3rd-score1-2=2
+|3rd-score1-3=
+|3rd-seed2=&nbsp;
+|3rd-team2='''{{flagIOCathlete|[[Marcus Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus]]|NZL|2020 Summer}}'''
+|3rd-score2-1='''7<sup>7</sup>'''
+|3rd-score2-2='''6'''
+|3rd-score2-3=
+}}
+
+===Top half===
+{{16TeamBracket-Compact-Tennis3
+|RD1=First round
+|RD2=Second round
+|RD3=Quarter-finals
+|RD4=Semi-finals
+
+|RD1-seed01=1
+|RD1-team01='''{{flagIOCathlete|[[Nikola Mektić|N Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić|M Pavić]]|CRO|2020 Summer}}'''
+|RD1-score01-1='''7<sup>8</sup>'''
+|RD1-score01-2='''6'''
+|RD1-score01-3=
+|RD1-seed02=
+|RD1-team02={{flagIOCathlete|[[Marcelo Demoliner|M Demoliner]]|BRA|2020 Summer}}<br />{{flagIOCathlete|[[Marcelo Melo|M Melo]]|BRA|2020 Summer}}
+|RD1-score02-1=6<sup>6</sup>
+|RD1-score02-2=4
+|RD1-score02-3=
+
+|RD1-seed03=
+|RD1-team03={{flagIOCathlete|[[Pablo Andújar|P Andújar]]|ESP|2020 Summer}}<br />{{flagIOCathlete|[[Roberto Carballés Baena|R Carballés Baena]]|ESP|2020 Summer}}
+|RD1-score03-1=5
+|RD1-score03-2=4
+|RD1-score03-3=
+|RD1-seed04=
+|RD1-team04='''{{flagIOCathlete|[[Lorenzo Musetti|L Musetti]]|ITA|2020 Summer}}<br />{{flagIOCathlete|[[Lorenzo Sonego|L Sonego]]|ITA|2020 Summer}}'''
+|RD1-score04-1='''7'''
+|RD1-score04-2='''6'''
+|RD1-score04-3=
+
+|RD1-seed05=ITF
+|RD1-team05='''{{flagIOCathlete|[[Ben McLachlan|B McLachlan]]|JPN|2020 Summer}}<br />{{flagIOCathlete|[[Kei Nishikori|K Nishikori]]|JPN|2020 Summer}}'''
+|RD1-score05-1='''6'''
+|RD1-score05-2='''6'''
+|RD1-score05-3=
+|RD1-seed06=
+|RD1-team06={{flagIOCathlete|[[João Sousa|J Sousa]]|POR|2020 Summer}}<br />{{flagIOCathlete|[[Pedro Sousa|P Sousa]]|POR|2020 Summer}}
+|RD1-score06-1=1
+|RD1-score06-2=4
+|RD1-score06-3=
+
+|RD1-seed07=
+|RD1-team07={{flagIOCathlete|[[Andrés Molteni|A Molteni]]|ARG|2020 Summer}}<br />{{flagIOCathlete|[[Horacio Zeballos|H Zeballos]]|ARG|2020 Summer}}
+|RD1-score07-1='''7<sup>7</sup>'''
+|RD1-score07-2=4
+|RD1-score07-3=[11]
+|RD1-seed08=7
+|RD1-team08='''{{flagIOCathlete|[[Jamie Murray|J Murray]]|GBR|2020 Summer}}<br />{{flagIOCathlete|[[Neal Skupski|N Skupski]]|GBR|2020 Summer}}'''
+|RD1-score08-1=6<sup>3</sup>
+|RD1-score08-2='''6'''
+|RD1-score08-3='''[13]'''
+
+|RD1-seed09=4
+|RD1-team09={{flagIOCathlete|[[Aslan Karatsev|A Karatsev]]|ROC|2020 Summer}}<br />{{flagIOCathlete|[[Daniil Medvedev|D Medvedev]]|ROC|2020 Summer}}
+|RD1-score09-1=5
+|RD1-score09-2=4
+|RD1-score09-3=
+|RD1-seed10=
+|RD1-team10='''{{flagIOCathlete|[[Lukáš Klein|L Klein]]|SVK|2020 Summer}}<br />{{flagIOCathlete|[[Filip Polášek|F Polášek]]|SVK|2020 Summer}}'''
+|RD1-score10-1='''7'''
+|RD1-score10-2='''6'''
+|RD1-score10-3=
+
+|RD1-seed11=
+|RD1-team11={{flagIOCathlete|[[John Peers|J Peers]]|AUS|2020 Summer}}<br />{{flagIOCathlete|[[Max Purcell|M Purcell]]|AUS|2020 Summer}}
+|RD1-score11-1='''6'''
+|RD1-score11-2=6<sup>5</sup>
+|RD1-score11-3=[5]
+|RD1-seed12=
+|RD1-team12='''{{flagIOCathlete|[[Austin Krajicek|A Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren|T Sandgren]]|USA|2020 Summer}}'''
+|RD1-score12-1=3
+|RD1-score12-2='''7<sup>7</sup>'''
+|RD1-score12-3='''[10]'''
+
+|RD1-seed13=
+|RD1-team13={{flagIOCathlete|[[Alexander Bublik|A Bublik]]|KAZ|2020 Summer}}<br />{{flagIOCathlete|[[Andrey Golubev|A Golubev]]|KAZ|2020 Summer}}
+|RD1-score13-1='''7<sup>7</sup>'''
+|RD1-score13-2=6<sup>3</sup>
+|RD1-score13-3=[8]
+|RD1-seed14=
+|RD1-team14='''{{flagIOCathlete|[[Jérémy Chardy|J Chardy]]|FRA|2020 Summer}}<br />{{flagIOCathlete|[[Gaël Monfils|G Monfils]]|FRA|2020 Summer}}'''
+|RD1-score14-1=6<sup>4</sup>
+|RD1-score14-2='''7<sup>7</sup>'''
+|RD1-score14-3='''[10]'''
+
+|RD1-seed15=
+|RD1-team15='''{{flagIOCathlete|[[Jan-Lennard Struff|J-L Struff]]|GER|2020 Summer}}<br />{{flagIOCathlete|[[Alexander Zverev|A Zverev]]|GER|2020 Summer}}'''
+|RD1-score15-1='''6'''
+|RD1-score15-2='''7<sup>7</sup>'''
+|RD1-score15-3=
+|RD1-seed16=5
+|RD1-team16={{flagIOCathlete|[[Hubert Hurkacz|H Hurkacz]]|POL|2020 Summer}}<br />{{flagIOCathlete|[[Łukasz Kubot|Ł Kubot]]|POL|2020 Summer}}
+|RD1-score16-1=2
+|RD1-score16-2=6<sup>5</sup>
+|RD1-score16-3=
+
+|RD2-seed01=1
+|RD2-team01='''{{flagIOCathlete|[[Nikola Mektić|N Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić|M Pavić]]|CRO|2020 Summer}}'''
+|RD2-score01-1='''7'''
+|RD2-score01-2=6<sup>5</sup>
+|RD2-score01-3='''[10]'''
+|RD2-seed02=
+|RD2-team02={{flagIOCathlete|[[Lorenzo Musetti|L Musetti]]|ITA|2020 Summer}}<br />{{flagIOCathlete|[[Lorenzo Sonego|L Sonego]]|ITA|2020 Summer}}
+|RD2-score02-1=5
+|RD2-score02-2='''7<sup>7</sup>'''
+|RD2-score02-3=[7]
+
+|RD2-seed03=ITF
+|RD2-team03='''{{flagIOCathlete|[[Ben McLachlan|B McLachlan]]|JPN|2020 Summer}}<br />{{flagIOCathlete|[[Kei Nishikori|K Nishikori]]|JPN|2020 Summer}}'''
+|RD2-score03-1='''6'''
+|RD2-score03-2='''6'''
+|RD2-score03-3=
+|RD2-seed04=7
+|RD2-team04={{flagIOCathlete|[[Jamie Murray|J Murray]]|GBR|2020 Summer}}<br />{{flagIOCathlete|[[Neal Skupski|N Skupski]]|GBR|2020 Summer}}
+|RD2-score04-1=3
+|RD2-score04-2=4
+|RD2-score04-3=
+
+|RD2-seed05=
+|RD2-team05={{flagIOCathlete|[[Lukáš Klein|L Klein]]|SVK|2020 Summer}}<br />{{flagIOCathlete|[[Filip Polášek|F Polášek]]|SVK|2020 Summer}}
+|RD2-score05-1='''7<sup>7</sup>'''
+|RD2-score05-2=2
+|RD2-score05-3=[5]
+|RD2-seed06=
+|RD2-team06='''{{flagIOCathlete|[[Austin Krajicek|A Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren|T Sandgren]]|USA|2020 Summer}}'''
+|RD2-score06-1=6<sup>2</sup>
+|RD2-score06-2='''6'''
+|RD2-score06-3='''[10]'''
+
+|RD2-seed07=
+|RD2-team07={{flagIOCathlete|[[Jérémy Chardy|J Chardy]]|FRA|2020 Summer}}<br />{{flagIOCathlete|[[Gaël Monfils|G Monfils]]|FRA|2020 Summer}}
+|RD2-score07-1=4
+|RD2-score07-2=5
+|RD2-score07-3=
+|RD2-seed08=
+|RD2-team08='''{{flagIOCathlete|[[Jan-Lennard Struff|J-L Struff]]|GER|2020 Summer}}<br />{{flagIOCathlete|[[Alexander Zverev|A Zverev]]|GER|2020 Summer}}'''
+|RD2-score08-1='''6'''
+|RD2-score08-2='''7'''
+|RD2-score08-3=
+
+|RD3-seed01=1
+|RD3-team01='''{{flagIOCathlete|[[Nikola Mektić|N Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić|M Pavić]]|CRO|2020 Summer}}'''
+|RD3-score01-1='''6'''
+|RD3-score01-2='''6'''
+|RD3-score01-3=
+|RD3-seed02=ITF
+|RD3-team02={{flagIOCathlete|[[Ben McLachlan|B McLachlan]]|JPN|2020 Summer}}<br />{{flagIOCathlete|[[Kei Nishikori|K Nishikori]]|JPN|2020 Summer}}
+|RD3-score02-1=3
+|RD3-score02-2=3
+|RD3-score02-3=
+
+|RD3-seed03=
+|RD3-team03='''{{flagIOCathlete|[[Austin Krajicek|A Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren|T Sandgren]]|USA|2020 Summer}}'''
+|RD3-score03-1='''6'''
+|RD3-score03-2='''7<sup>7</sup>'''
+|RD3-score03-3=
+|RD3-seed04=
+|RD3-team04={{flagIOCathlete|[[Jan-Lennard Struff|J-L Struff]]|GER|2020 Summer}}<br />{{flagIOCathlete|[[Alexander Zverev|A Zverev]]|GER|2020 Summer}}
+|RD3-score04-1=3
+|RD3-score04-2=6<sup>4</sup>
+|RD3-score04-3=
+
+|RD4-seed01=1
+|RD4-team01='''{{flagIOCathlete|[[Nikola Mektić|N Mektić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Mate Pavić|M Pavić]]|CRO|2020 Summer}}'''
+|RD4-score01-1='''6'''
+|RD4-score01-2='''6'''
+|RD4-score01-3=
+|RD4-seed02=
+|RD4-team02={{flagIOCathlete|[[Austin Krajicek|A Krajicek]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Tennys Sandgren|T Sandgren]]|USA|2020 Summer}}
+|RD4-score02-1=4
+|RD4-score02-2=4
+|RD4-score02-3=
+}}
+
+===Bottom half===
+{{16TeamBracket-Compact-Tennis3
+|RD1=First round
+|RD2=Second round
+|RD3=Quarter-finals
+|RD4=Semi-finals
+
+|RD1-seed01=8
+|RD1-team01='''{{flagIOCathlete|[[Wesley Koolhof|W Koolhof]]|NED|2020 Summer}}<br />{{flagIOCathlete|[[Jean-Julien Rojer|J-J Rojer]]|NED|2020 Summer}}'''
+|RD1-score01-1='''6'''
+|RD1-score01-2='''7<sup>7</sup>'''
+|RD1-score01-3=
+|RD1-seed02=
+|RD1-team02={{flagIOCathlete|[[Sander Gillé|S Gillé]]|BEL|2020 Summer}}<br />{{flagIOCathlete|[[Joran Vliegen|J Vliegen]]|BEL|2020 Summer}}
+|RD1-score02-1=3
+|RD1-score02-2=6<sup>5</sup>
+|RD1-score02-3=
+
+|RD1-seed03=
+|RD1-team03={{flagIOCathlete|[[Egor Gerasimov|E Gerasimov]]|BLR|2020 Summer}}<br />{{flagIOCathlete|[[Ilya Ivashka|I Ivashka]]|BLR|2020 Summer}}
+|RD1-score03-1=3
+|RD1-score03-2=6<sup>6</sup>
+|RD1-score03-3=
+|RD1-seed04=
+|RD1-team04='''{{flagIOCathlete|[[Marcus Daniell|M Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus|M Venus]]|NZL|2020 Summer}}'''
+|RD1-score04-1='''6'''
+|RD1-score04-2='''7<sup>8</sup>'''
+|RD1-score04-3=
+
+|RD1-seed05=
+|RD1-team05={{flagIOCathlete|[[John Millman|J Millman]]|AUS|2020 Summer}}<br />{{flagIOCathlete|[[Luke Saville|L Saville]]|AUS|2020 Summer}}
+|RD1-score05-1=5
+|RD1-score05-2=2
+|RD1-score05-3=
+|RD1-seed06=
+|RD1-team06='''{{flagIOCathlete|[[Oliver Marach|O Marach]]|AUT|2020 Summer}}<br />{{flagIOCathlete|[[Philipp Oswald|P Oswald]]|AUT|2020 Summer}}'''
+|RD1-score06-1='''7'''
+|RD1-score06-2='''6'''
+|RD1-score06-3=
+
+|RD1-seed07=
+|RD1-team07={{flagIOCathlete|[[Pablo Carreño Busta|P Carreño Busta]]|ESP|2020 Summer}}<br />{{flagIOCathlete|[[Alejandro Davidovich Fokina|A Davidovich Fokina]]|ESP|2020 Summer}}
+|RD1-score07-1=2
+|RD1-score07-2=4
+|RD1-score07-3=
+|RD1-seed08=3
+|RD1-team08='''{{flagIOCathlete|[[Juan Sebastián Cabal|JS Cabal]]|COL|2020 Summer}}<br />{{flagIOCathlete|[[Robert Farah|R Farah]]|COL|2020 Summer}}'''
+|RD1-score08-1='''6'''
+|RD1-score08-2='''6'''
+|RD1-score08-3=
+
+|RD1-seed09=6
+|RD1-team09={{flagIOCathlete|[[Karen Khachanov|K Khachanov]]|ROC|2020 Summer}}<br />{{flagIOCathlete|[[Andrey Rublev|A Rublev]]|ROC|2020 Summer}}
+|RD1-score09-1='''7<sup>7</sup>'''
+|RD1-score09-2=6<sup>5</sup>
+|RD1-score09-3=[10]
+|RD1-seed10=
+|RD1-team10='''{{flagIOCathlete|[[Rajeev Ram|R Ram]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Frances Tiafoe|F Tiafoe]]|USA|2020 Summer}}'''
+|RD1-score10-1=6<sup>3</sup>
+|RD1-score10-2='''7<sup>7</sup>'''
+|RD1-score10-3='''[12]'''
+
+|RD1-seed11=
+|RD1-team11={{flagIOCathlete|[[Taro Daniel|T Daniel]]|JPN|2020 Summer}}<br />{{flagIOCathlete|[[Yoshihito Nishioka|Y Nishioka]]|JPN|2020 Summer}}
+|RD1-score11-1=2
+|RD1-score11-2=4
+|RD1-score11-3=
+|RD1-seed12=
+|RD1-team12='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2020 Summer}}'''
+|RD1-score12-1='''6'''
+|RD1-score12-2='''6'''
+|RD1-score12-3=
+
+|RD1-seed13=
+|RD1-team13='''{{flagIOCathlete|[[Kevin Krawietz|K Krawietz]]|GER|2020 Summer}}<br />{{flagIOCathlete|[[Tim Pütz|T Pütz]]|GER|2020 Summer}}'''
+|RD1-score13-1='''6'''
+|RD1-score13-2='''6'''
+|RD1-score13-3=
+|RD1-seed14=
+|RD1-team14={{flagIOCathlete|[[Facundo Bagnis|F Bagnis]]|ARG|2020 Summer}}<br />{{flagIOCathlete|[[Diego Schwartzman|D Schwartzman]]|ARG|2020 Summer}}
+|RD1-score14-1=2
+|RD1-score14-2=1
+|RD1-score14-3=
+
+|RD1-seed15=
+|RD1-team15='''{{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2020 Summer}}<br />{{flagIOCathlete|[[Joe Salisbury|J Salisbury]]|GBR|2020 Summer}}'''
+|RD1-score15-1='''6'''
+|RD1-score15-2='''6'''
+|RD1-score15-3=
+|RD1-seed16=2
+|RD1-team16={{flagIOCathlete|[[Pierre-Hugues Herbert|P-H Herbert]]|FRA|2020 Summer}}<br />{{flagIOCathlete|[[Nicolas Mahut|N Mahut]]|FRA|2020 Summer}}
+|RD1-score16-1=3
+|RD1-score16-2=2
+|RD1-score16-3=
+
+|RD2-seed01=8
+|RD2-team01={{flagIOCathlete|[[Wesley Koolhof|W Koolhof]]|NED|2020 Summer}}<br />{{flagIOCathlete|[[Jean-Julien Rojer|J-J Rojer]]|NED|2020 Summer}}
+|RD2-score01-1=
+|RD2-score01-2=
+|RD2-score01-3=
+|RD2-seed02=
+|RD2-team02='''{{flagIOCathlete|[[Marcus Daniell|M Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus|M Venus]]|NZL|2020 Summer}}'''
+|RD2-score02-1=<small>w/o</small>
+|RD2-score02-2=
+|RD2-score02-3=
+
+|RD2-seed03=
+|RD2-team03={{flagIOCathlete|[[Oliver Marach|O Marach]]|AUT|2020 Summer}}<br />{{flagIOCathlete|[[Philipp Oswald|P Oswald]]|AUT|2020 Summer}}
+|RD2-score03-1=4
+|RD2-score03-2=1
+|RD2-score03-3=
+|RD2-seed04=3
+|RD2-team04='''{{flagIOCathlete|[[Juan Sebastián Cabal|JS Cabal]]|COL|2020 Summer}}<br />{{flagIOCathlete|[[Robert Farah|R Farah]]|COL|2020 Summer}}'''
+|RD2-score04-1='''6'''
+|RD2-score04-2='''6'''
+|RD2-score04-3=
+
+|RD2-seed05=
+|RD2-team05={{flagIOCathlete|[[Rajeev Ram|R Ram]]|USA|2020 Summer}}<br />{{flagIOCathlete|[[Frances Tiafoe|F Tiafoe]]|USA|2020 Summer}}
+|RD2-score05-1=3
+|RD2-score05-2=5
+|RD2-score05-3=
+|RD2-seed06=
+|RD2-team06='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2020 Summer}}'''
+|RD2-score06-1='''6'''
+|RD2-score06-2='''7'''
+|RD2-score06-3=
+
+|RD2-seed07=
+|RD2-team07={{flagIOCathlete|[[Kevin Krawietz|K Krawietz]]|GER|2020 Summer}}<br />{{flagIOCathlete|[[Tim Pütz|T Pütz]]|GER|2020 Summer}}
+|RD2-score07-1=2
+|RD2-score07-2=6<sup>2</sup>
+|RD2-score07-3=
+|RD2-seed08=
+|RD2-team08='''{{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2020 Summer}}<br />{{flagIOCathlete|[[Joe Salisbury|J Salisbury]]|GBR|2020 Summer}}'''
+|RD2-score08-1='''6'''
+|RD2-score08-2='''7<sup>7</sup>'''
+|RD2-score08-3=
+
+|RD3-seed01=
+|RD3-team01='''{{flagIOCathlete|[[Marcus Daniell|M Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus|M Venus]]|NZL|2020 Summer}}'''
+|RD3-score01-1='''6'''
+|RD3-score01-2=3
+|RD3-score01-3='''[10]'''
+|RD3-seed02=3
+|RD3-team02={{flagIOCathlete|[[Juan Sebastián Cabal|JS Cabal]]|COL|2020 Summer}}<br />{{flagIOCathlete|[[Robert Farah|R Farah]]|COL|2020 Summer}}
+|RD3-score02-1=3
+|RD3-score02-2='''6'''
+|RD3-score02-3=[7]
+
+|RD3-seed03=
+|RD3-team03='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2020 Summer}}'''
+|RD3-score03-1=4
+|RD3-score03-2='''7<sup>7</sup>'''
+|RD3-score03-3='''[10]'''
+|RD3-seed04=
+|RD3-team04={{flagIOCathlete|[[Andy Murray|A Murray]]|GBR|2020 Summer}}<br />{{flagIOCathlete|[[Joe Salisbury|J Salisbury]]|GBR|2020 Summer}}
+|RD3-score04-1='''6'''
+|RD3-score04-2=6<sup>2</sup>
+|RD3-score04-3=[7]
+
+|RD4-seed01=
+|RD4-team01={{flagIOCathlete|[[Marcus Daniell|M Daniell]]|NZL|2020 Summer}}<br />{{flagIOCathlete|[[Michael Venus|M Venus]]|NZL|2020 Summer}}
+|RD4-score01-1=2
+|RD4-score01-2=2
+|RD4-score01-3=
+|RD4-seed02=
+|RD4-team02='''{{flagIOCathlete|[[Marin Čilić|M Čilić]]|CRO|2020 Summer}}<br />{{flagIOCathlete|[[Ivan Dodig|I Dodig]]|CRO|2020 Summer}}'''
+|RD4-score02-1='''6'''
+|RD4-score02-2='''6'''
+|RD4-score02-3=
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/TEN/OG2020-_TEN_C75_TENMDOUBLES-----------------------.pdf Draw] {{Webarchive|url=https://web.archive.org/web/20210726163851/https://olympics.com/tokyo-2020/olympic-games/resOG2020-/pdf/OG2020-/TEN/OG2020-_TEN_C75_TENMDOUBLES-----------------------.pdf |date=26 July 2021 }}
+
+{{Footer Olympic Champions Tennis Men's Doubles}}
+{{Men's Doubles Tennis at the Summer Olympics}}
+
+{{DEFAULTSORT:Tennis at the 2020 Summer Olympics - Men's doubles}}
+[[Category:Tennis at the 2020 Summer Olympics]]
+[[Category:2021 in men's tennis]]
+[[Category:Men's events at the 2020 Summer Olympics]]
+[[Category:Men's doubles tennis at the Summer Olympics]]

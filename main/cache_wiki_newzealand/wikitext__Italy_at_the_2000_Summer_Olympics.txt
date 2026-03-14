@@ -1,0 +1,3318 @@
+{{Use dmy dates|date=July 2022}}
+{{infobox country at games
+| NOC = ITA
+| NOCname = [[Italian National Olympic Committee]]
+| games = Summer Olympics
+| year = 2000
+| flagcaption = 
+| oldcode = 
+| website = {{URL|www.coni.it }}&nbsp;{{in lang|it}}
+| location = [[Sydney]]
+| competitors = 361 (246 men, 115 women)
+| sports = 29
+| flagbearer = [[Carlton Myers]]
+| rank = 7
+| gold = 13
+| silver = 8
+| bronze = 13
+| officials = 
+| appearances = auto
+| app_begin_year = 
+| app_end_year = 
+| summerappearances = 
+| winterappearances = 
+| seealso = [[Italy at the 1906 Intercalated Games|1906]] Intercalated Games
+}}
+
+Italy competed at the [[2000 Summer Olympics]] in [[Sydney]], Australia. 361 competitors, 246 men and 115 women, took part in 175 events in 29 sports.<ref name="sports-reference">{{cite web|url=https://www.sports-reference.com/olympics/countries/ITA/summer/2000/ |title=Italy at the 2000 Summer Games |access-date=2012-03-05 |work=sports-reference.com |url-status=dead |archive-url=https://web.archive.org/web/20110914114859/http://www.sports-reference.com/olympics/countries/ITA/summer/2000/ |archive-date=14 September 2011 }}</ref>
+
+==Medalists==
+{| class="wikitable sortable" style="font-size:90%"
+|-
+! Medal
+! Name
+! Sport
+! Event
+! Date
+|-
+| {{gold medal}}
+| {{sortname|Beniamino|Bonomi}},<br />{{sortname|Antonio|Rossi}}
+| [[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2000 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000 m]]
+| 30 September
+|-
+| {{gold medal}}
+| {{sortname|Josefa|Idem}}
+| [[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2000 Summer Olympics – Women's K-1 500 metres|Women's K-1 500 m]]
+| 1 October
+|-
+| {{gold medal}}
+| {{sortname|Paola|Pezzo}}
+| [[Cycling at the 2000 Summer Olympics|Cycling]]
+| [[Cycling at the 2000 Summer Olympics – Women's cross-country|Women's cross-country]]
+| 23 September
+|-
+| {{gold medal}}
+| {{sortname|Antonella|Bellutti}}
+| [[Cycling at the 2000 Summer Olympics|Cycling]]
+| [[Cycling at the 2000 Summer Olympics – Women's points race|Women's points race]]
+| 21 September
+|-
+| {{gold medal}}
+| {{sortname|Angelo|Mazzoni}},<br />{{sortname|Paolo|Milanoli}},<br />{{sortname|Maurizio|Randazzo}},<br />{{sortname|Alfredo|Rota}}
+| [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Men's team épée|Men's team épée]]
+| 18 September
+|-
+| {{gold medal}}
+| {{sortname|Valentina|Vezzali}}
+| [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Women's foil|Women's foil]]
+| 21 September
+|-
+| {{gold medal}}
+| {{sortname|Diana|Bianchedi}},<br />{{sortname|Giovanna|Trillini}},<br />{{sortname|Valentina|Vezzali}}
+| [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Women's team foil|Women's team foil]]
+| 23 September
+|-
+| {{gold medal}}
+| {{sortname|Giuseppe|Maddaloni}}
+| [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Men's 73&nbsp;kg|Men's 73&nbsp;kg]]
+| 18 September
+|-
+| {{gold medal}}
+| {{sortname|Agostino|Abbagnale}},<br />{{sortname|Rossano|Galtarossa}},<br />{{sortname|Simone|Raineri}},<br />{{sortname|Alessio|Sartori}}
+| [[Rowing at the 2000 Summer Olympics|Rowing]]
+| [[Rowing at the 2000 Summer Olympics – Men's quadruple sculls|Men's quadruple sculls]]
+| 24 September
+|-
+| {{gold medal}}
+| {{sortname|Alessandra|Sensini}}
+| [[Sailing at the 2000 Summer Olympics|Sailing]]
+| [[Sailing at the 2000 Summer Olympics – Mistral One Design Women's|Women's Mistral]]
+| 24 September
+|-
+| {{gold medal}}
+| {{sortname|Domenico|Fioravanti}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 100 metre breaststroke|Men's 100&nbsp;m breaststroke]]
+| 17 September
+|-
+| {{gold medal}}
+| {{sortname|Domenico|Fioravanti}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 200 metre breaststroke|Men's 200&nbsp;m breaststroke]]
+| 20 September
+|-
+| {{gold medal}}
+| {{sortname|Massimiliano|Rosolino}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 200 metre individual medley|Men's 200&nbsp;m individual medley]]
+| 21 September
+|-
+| {{silver medal}}
+| {{sortname|Matteo|Bisiani}},<br />{{sortname|Ilario|Di Buò}},<br />{{sortname|Michele|Frangilli}}
+| [[Archery at the 2000 Summer Olympics|Archery]]
+| [[Archery at the 2000 Summer Olympics – Men's team|Men's team]]
+| 22 September
+|-
+| {{silver medal}}
+| {{sortname|Nicola|Vizzoni}}
+| [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Men's hammer throw|Men's hammer throw]]
+| 24 September
+|-
+| {{silver medal}}
+| {{sortname|Fiona|May}}
+| [[Athletics at the 2000 Summer Olympics|Athletics]]
+| [[Athletics at the 2000 Summer Olympics – Women's long jump|Women's long jump]]
+| 29 September
+|-
+| {{silver medal}}
+| {{sortname|Elia|Luini}},<br />{{sortname|Leonardo|Pettinari|Leonardo Pettinari (rower)}}
+| [[Rowing at the 2000 Summer Olympics|Rowing]]
+| [[Rowing at the 2000 Summer Olympics – Men's lightweight double sculls|Men's lightweight double sculls]]
+| 24 September
+|-
+| {{silver medal}}
+| {{sortname|Lorenzo|Carboncini}},<br />{{sortname|Riccardo|Dei Rossi}},<br />{{sortname|Valter|Molea}},<br />{{sortname|Carlo|Mornati}}
+| [[Rowing at the 2000 Summer Olympics|Rowing]]
+| [[Rowing at the 2000 Summer Olympics – Men's coxless four|Men's coxless four]]
+| 23 September
+|-
+| {{silver medal}}
+| {{sortname|Luca|Devoti}}
+| [[Sailing at the 2000 Summer Olympics|Sailing]]
+| [[Sailing at the 2000 Summer Olympics – Finn|Finn]]
+| 30 September
+|-
+| {{silver medal}}
+| {{sortname|Deborah|Gelisio}}
+| [[Shooting at the 2000 Summer Olympics|Shooting]]
+| [[Shooting at the 2000 Summer Olympics – Women's double trap|Women's double trap]]
+| 19 September
+|-
+| {{silver medal}}
+| {{sortname|Massimiliano|Rosolino}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 400 metre freestyle|Men's 400&nbsp;m freestyle]]
+| 16 September
+|-
+| {{bronze medal}}
+| {{sortname|Paolo|Vidoz}}
+| [[Boxing at the 2000 Summer Olympics|Boxing]]
+| [[Boxing at the 2000 Summer Olympics#Super Heavyweight (> 91&nbsp;kg)|Super Heavyweight]]
+| 29 September
+|-
+| {{bronze medal}}
+| {{sortname|Pierpaolo|Ferrazzi}}
+| [[Canoeing at the 2000 Summer Olympics|Canoeing]]
+| [[Canoeing at the 2000 Summer Olympics – Men's slalom K-1|Men's slalom K-1]]
+| 20 September
+|-
+| {{bronze medal}}
+| {{sortname|Silvio|Martinello}},<br />{{sortname|Marco|Villa}}
+| [[Cycling at the 2000 Summer Olympics|Cycling]]
+| [[Cycling at the 2000 Summer Olympics – Men's Madison|Men's Madison]]
+| 21 September
+|-
+| {{bronze medal}}
+| {{sortname|Giovanna|Trillini}}
+| [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Women's foil|Women's foil]]
+| 21 September
+|-
+| {{bronze medal}}
+| {{sortname|Daniele|Crosta}},<br />{{sortname|Gabriele|Magni}},<br />{{sortname|Salvatore|Sanzo}},<br />{{sortname|Matteo|Zennaro}}
+| [[Fencing at the 2000 Summer Olympics|Fencing]]
+| [[Fencing at the 2000 Summer Olympics – Men's team foil|Men's team foil]]
+| 22 September
+|-
+| {{bronze medal}}
+| {{sortname|Girolamo|Giovinazzo}}
+| [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Men's 66&nbsp;kg|Men's 66&nbsp;kg]]
+| 17 September
+|-
+| {{bronze medal}}
+| {{sortname|Ylenia|Scapin}}
+| [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's 70&nbsp;kg|Women's 70&nbsp;kg]]
+| 18 September
+|-
+| {{bronze medal}}
+| {{sortname|Emanuela|Pierantozzi}}
+| [[Judo at the 2000 Summer Olympics|Judo]]
+| [[Judo at the 2000 Summer Olympics – Women's 78&nbsp;kg|Women's 78&nbsp;kg]]
+| 21 September
+|-
+| {{bronze medal}}
+| {{sortname|Giovanni|Calabrese}},<br />{{sortname|Nicola|Sartori}}
+| [[Rowing at the 2000 Summer Olympics|Rowing]]
+| [[Rowing at the 2000 Summer Olympics – Men's double sculls|Men's double sculls]]
+| 23 September
+|-
+| {{bronze medal}}
+| {{sortname|Giovanni|Pellielo}}
+| [[Shooting at the 2000 Summer Olympics|Shooting]]
+| [[Shooting at the 2000 Summer Olympics – Men's trap|Men's trap]]
+| 17 September
+|-
+| {{bronze medal}}
+| {{sortname|Massimiliano|Rosolino}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 200 metre freestyle|Men's 200&nbsp;m freestyle]]
+| 18 September
+|-
+| {{bronze medal}}
+| {{sortname|Davide|Rummolo}}
+| [[Swimming at the 2000 Summer Olympics|Swimming]]
+| [[Swimming at the 2000 Summer Olympics – Men's 200 metre breaststroke|Men's 200&nbsp;m breaststroke]]
+| 20 September
+|-
+| {{bronze medal}}
+| {{sortname|Italy|men's national volleyball team}}<br />{{columns-list|colwidth=10em|small=yes|style=width:22em|{{unbulleted list|[[Marco Bracci]]|[[Mirko Corsano]]|[[Alessandro Fei (volleyball)|Alessandro Fei]]|[[Andrea Gardini]]|[[Andrea Giani]]|[[Pasquale Gravina]]|[[Luigi Mastrangelo]]|[[Marco Meoni]]|[[Samuele Papi]]|[[Simone Rosalba]]|[[Andrea Sartoretti]]|[[Paolo Tofoli]]}}}}
+| [[Volleyball at the 2000 Summer Olympics|Volleyball]]
+| [[Volleyball at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+| 1 October
+|}
+
+==Archery==
+{{main|Archery at the 2000 Summer Olympics}}
+
+The men's team, which returned two members of the [[bronze medal]]-winning 1996 squad, did even better in 2000. They defeated the United States in the semifinal to guarantee themselves at least a silver medal. The Korean men, however, ensured that the Italians did not win the gold medal by defeating them in the final.
+
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Matteo Bisiani]]
+|align=left rowspan=3|[[Archery at the 2000 Summer Olympics – Men's individual|Men's individual]]
+|align=center|634
+|align=center|18
+|align=center|{{flagIOCathlete|[[Martinus Grov|Grov]]|NOR|2000 Summer}}<br>'''W''' 166–158
+|align=center|{{flagIOCathlete|[[Masafumi Makiyama|Makiyama]]|JPN|2000 Summer}}<br>'''L''' 159–162
+|align=center colspan=5|Did not advance
+|-
+|align=left|[[Ilario Di Buò]]
+|align=center|627
+|align=center|30
+|align=center|{{flagIOCathlete|[[Yuji Hamano|Hamano]]|JPN|2000 Summer}}<br>'''W''' 163–158
+|align=center|{{flagIOCathlete|[[Kim Chung-tae (archer)|Kim C-t]]|KOR|2000 Summer}}<br>'''L''' 159–162
+|align=center colspan=5|Did not advance
+|-
+|align=left|[[Michele Frangilli]]
+|align=center|634
+|align=center|19
+|align=center|{{flagIOCathlete|[[Lars Erik Humlekjær|Humlekjær]]|NOR|2000 Summer}}<br>'''W''' 168–158
+|align=center|{{flagIOCathlete|[[Scott Hunter-Russell|Hunter-Russell]]|AUS|2000 Summer}}<br>'''W''' 164–154
+|align=center|{{flagIOCathlete|[[Kim Chung-tae (archer)|Kim C-t]]|KOR|2000 Summer}}<br>'''L''' 108–169
+|align=center colspan=4|Did not advance
+|-
+|align=left|'''[[Matteo Bisiani]]'''<br/> '''[[Ilario Di Buò]]'''<br/> '''[[Michele Frangilli]]'''
+|align=left|[[Archery at the 2000 Summer Olympics – Men's team|Men's team]]
+|align=center|1895
+|align=center|6
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOC|FRA|2000 Summer}}<br>'''W''' 250–239
+|align=center|{{flagIOC|KAZ|2000 Summer}}<br>'''W''' 249–244
+|align=center|{{flagIOC|USA|2000 Summer}}<br>'''W''' 244–241
+|align=center|{{flagIOC|KOR|2000 Summer}}<br>'''L''' 247–255
+|align=center|{{silver02}}
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Ranking round
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan="2"|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Score
+!Seed
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Irene Franchini]]
+|align=left rowspan=3|[[Archery at the 2000 Summer Olympics – Women's individual|Women's individual]]
+|align=center|611
+|align=center|55
+|align=center|{{flagIOCathlete|[[Kateryna Serdyuk (archer)|Serdyuk]]|UKR|2000 Summer}}<br>'''L''' 157–144
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Cristina Ioriatti]]
+|align=center|618
+|align=center|47
+|align=center|{{flagIOCathlete|[[Jill Borresen|Borresen]]|RSA|2000 Summer}}<br>'''W''' 154–145
+|align=center|{{flagIOCathlete|[[Hamdiah]]|INA|2000 Summer}}<br>'''W''' 156 (7) – 156 (6)
+|align=center|{{flagIOCathlete|[[Natalia Valeeva|Valeeva]]|ITA|2000 Summer}}<br>'''L''' 156–163
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Natalia Valeeva]]
+|align=center|667
+|align=center|2
+|align=center|{{flagIOCathlete|[[Henriette Youanga|Youanga]]|CAF|2000 Summer}}<br>'''W''' 166–126
+|align=center|{{flagIOCathlete|[[Karin Larsson (archer)|Larsson]]|SWE|2000 Summer}}<br>'''W''' 162–160
+|align=center|{{flagIOCathlete|[[Cristina Ioriatti|Ioriatti]]|ITA|2000 Summer}}<br>'''W''' 163–156
+|align=center|{{flagIOCathlete|[[Choe Ok-sil|Choe]]|PRK|2000 Summer}}<br>'''L''' 103–107
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Irene Franchini]]<br/> [[Cristina Ioriatti]]<br/> [[Natalia Valeeva]]
+|align=left|[[Archery at the 2000 Summer Olympics – Women's team|Women's team]]
+|align=center|1896
+|align=center|7
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 237–236
+|align=center|{{flagIOC|UKR|2000 Summer}}<br>'''L''' 230–237
+|align=center colspan=3|Did not advance
+|}
+
+==Athletics==
+{{main|Athletics at the 2000 Summer Olympics}}
+
+===Men's track===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-
+|align=left|[[Andrea Colombo]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Men's 100 metres|100m]]
+|align=center|10.52
+|align=center|4
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Francesco Scuderi (athlete)|Francesco Scuderi]]
+|align=center|10.50
+|align=center|6
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Stefano Tilli]]
+|align=center|10.40
+|align=center|4 '''q'''
+|align=center|10.27
+|align=center|6
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Alessandro Cavallaro]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 200 metres|200m]]
+|align=center|20.58
+|align=center|3 '''Q'''
+|align=center|20.95
+|align=center|6
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Alessandro Attene]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 400 metres|400m]]
+|align=center|45.79
+|align=center|3 '''Q'''
+|align=center|45.35
+|align=center|3 '''Q'''
+|align=center|46.41
+|align=center|7
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Andrea Longo (runner)|Andrea Longo]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 800 metres|800m]]
+|align=center|1:46.32
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|1:44.49
+|align=center|2 '''Q'''
+|align=center colspan=2|DSQ
+|-
+|align=left|[[Rachid Berradi]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's 10,000 metres|10000m]]
+|align=center|28:01.18
+|align=center|12 '''q'''
+|align=center colspan=4 {{N/A}}
+|align=center|28:45.96
+|align=center|17
+|-
+|align=left|[[Daniele Caimmi]]
+|align=center|29:01.26
+|align=center|15
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Andrea Giaconi]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's 110 metres hurdles|110m hurdles]]
+|align=center|13.62
+|align=center|3 '''Q'''
+|align=center|13.93
+|align=center|7
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Emiliano Pizzoli]]
+|align=center|13.65
+|align=center|4 '''Q'''
+|align=center|13.69
+|align=center|5
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Giorgio Frinolli Puzzilli]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's 400 metres hurdles|400m hurdles]]
+|align=center|50.27
+|align=center|2 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|50.10
+|align=center|8
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Fabrizio Mori]]
+|align=center|49.35
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|48.40
+|align=center|2 '''Q'''
+|align=center|48.78
+|align=center|7
+|-
+|align=left|[[Giuseppe Maffei]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 3000 metres steeplechase|3000m steeplechase]]
+|align=center|8:48.88
+|align=center|12
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Stefano Baldini]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Men's marathon|Marathon]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Giacomo Leone]]
+|align=center colspan=6 {{N/A}}
+|align=center|2:12:14
+|align=center|5
+|-
+|align=left|[[Vincenzo Modica]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Giovanni de Benedictis]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Men's 20 kilometres walk|20km walk]]
+|align=center colspan=6 {{N/A}}
+|align=center|1:23:14
+|align=center|16
+|-
+|align=left|[[Michele Didoni]]
+|align=center colspan=6 {{N/A}}
+|align=center|1:21:43
+|align=center|12
+|-
+|align=left|[[Alessandro Gandellini]]
+|align=center colspan=6 {{N/A}}
+|align=center|1:21:14
+|align=center|9
+|-
+|align=left|[[Ivano Brugnetti]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Men's 50 kilometres walk|50km walk]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Arturo Di Mezza]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Giovanni Perricelli]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Alessandro Cavallaro]]<br/> [[Maurizio Checcucci]]<br/> [[Andrea Colombo]]<br/> [[Francesco Scuderi (athlete)|Francesco Scuderi]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's 4 × 100 metres relay|4 × 100 m relay]]
+|align=center|38.84
+|align=center|2 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|38.67
+|align=center|4 '''q'''
+|align=center|38.67
+|align=center|7
+|}
+
+===Men's field===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-
+|align=left|[[Diego Fortuna]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's discus throw|Discus throw]]
+|align=center|62.26
+|align=center|14
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Loris Paoluzzi]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's hammer throw|Hammer throw]]
+|align=center|76.91
+|align=center|9 '''q'''
+|align=center|78.18
+|align=center|6
+|-
+|align=left|'''[[Nicola Vizzoni]]'''
+|align=center|77.56
+|align=center|5 '''Q'''
+|align=center|79.64
+|align=center|{{silver02}}
+|-
+|align=left|[[Giuseppe Gibilisco]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's pole vault|Pole vault]]
+|align=center|5.70
+|align=center|6 '''Q'''
+|align=center|5.50
+|align=center|10
+|-
+|align=left|[[Paolo Dal Soglio]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Men's shot put|Shot put]]
+|align=center|19.39
+|align=center|19
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Paolo Camossi]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Men's triple jump|Triple jump]]
+|align=center|16.87
+|align=center|11 '''q'''
+|align=center|16.96
+|align=center|8
+|-
+|align=left|[[Fabrizio Donato]]
+|align=center|16.34
+|align=center|25
+|align=center colspan=2|Did not advance
+|}
+
+===Women's track===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Quarterfinal
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|- style="font-size:95%"
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+!Result
+!Rank
+|-
+|align=left|[[Manuela Levorato]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 200 metres|200m]]
+|align=center colspan=2|DNS
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Roberta Brunet]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 5000 metres|5000m]]
+|align=center|15:27.32
+|align=center|6
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Silvia Sommaggio]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 10,000 metres|10000m]]
+|align=center|33:24.13
+|align=center|13
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Monika Niederstatter]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 400 metres hurdles|400m hurdles]]
+|align=center|58.02
+|align=center|5
+|align=center colspan=6|Did not advance
+|-
+|align=left|[[Ornella Ferrara]]
+|align=left rowspan=2|[[Athletics at the 2000 Summer Olympics – Women's marathon|Marathon]]
+|align=center colspan=6 {{N/A}}
+|align=center|2:31:32
+|align=center|18
+|-
+|align=left|[[Maura Viceconte]]
+|align=center colspan=6 {{N/A}}
+|align=center|2:29:26
+|align=center|12
+|-
+|align=left|[[Erica Alfridi]]
+|align=left rowspan=3|[[Athletics at the 2000 Summer Olympics – Women's 20 kilometres walk|20km walk]]
+|align=center colspan=6 {{N/A}}
+|align=center|1:31:25
+|align=center|4
+|-
+|align=left|[[Elisabetta Perrone]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DSQ
+|-
+|align=left|[[Annarita Sidoti]]
+|align=center colspan=6 {{N/A}}
+|align=center colspan=2|DNF
+|-
+|align=left|[[Francesca Carbone]]<br/> [[Virna De Angeli]]<br/> [[Daniela Graglia]]<br/> [[Fabiola Piroddi]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's 4 × 400 metres relay|4 × 400 m relay]]
+|align=center|3:27.23
+|align=center|4
+|align=center colspan=6|Did not advance
+|}
+
+===Women's field===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Final
+|- style="font-size:95%"
+!Distance
+!Position
+!Distance
+!Position
+|-
+|align=left|[[Ester Balassini]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's hammer throw|Hammer throw]]
+|align=center colspan=2|NM
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Claudia Coslovich]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's javelin throw|Javelin throw]]
+|align=center|60.12
+|align=center|10 '''q'''
+|align=center|56.74
+|align=center|12
+|-
+|align=left|[[Mara Rosolen]]
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's shot put|Shot put]]
+|align=center|16.66
+|align=center|19
+|align=center colspan=2|Did not advance
+|-
+|align=left|'''[[Fiona May]]'''
+|align=left|[[Athletics at the 2000 Summer Olympics – Women's long jump|Long jump]]
+|align=center|6.81
+|align=center|2 '''Q'''
+|align=center|6.92
+|align=center|{{silver02}}
+|}
+
+===Combined events===
+;Women's heptathlon
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!{{Tooltip| 100H |100 m hurdles}}
+!{{Tooltip| HJ | High jump }}
+!{{Tooltip| SP | Shot put}}
+!{{Tooltip| 200 m}}
+!{{Tooltip| LJ | Long jump }}
+!{{Tooltip| JT | Javelin throw}}
+!{{Tooltip| 800 m}}
+!Final
+!Rank
+|-
+|align=left rowspan=2|[[Gertrud Bacher]]
+!style="font-size:95%"|Result
+|align=center|13.82
+|align=center|1.75
+|align=center|12.75
+|align=center|24.96
+|align=center|5.84
+|align=center|41.14
+|align=center|2:09.08
+|align=center rowspan=2|5989
+|align=center rowspan=2|14
+|-
+!style="font-size:95%"|Points
+|align=center|1004
+|align=center|916
+|align=center|711
+|align=center|890
+|align=center|801
+|align=center|689
+|align=center|978
+|}
+
+==Baseball==
+{{main|Baseball at the 2000 Summer Olympics}}
+
+Italy was one of the four nations for which the third Olympic baseball tournament continued their streak of unbroken appearances. The Italians went 2–5 in the preliminary round, defeating the [[Netherlands at the 2000 Summer Olympics|Netherlands]] and [[South Africa at the 2000 Summer Olympics|South Africa]]. This put them in sixth place and eliminated them from competition.
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=8|Group stage
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Italy national baseball team|Italy men's]]
+|align=left|[[Baseball at the 2000 Summer Olympics|Men's tournament]]
+|{{flagIOC|KOR|2000 Summer}}<br>'''L''' 2-10
+|{{flagIOC|CUB|2000 Summer}}<br>'''L''' 5-13
+|{{flagIOC|RSA|2000 Summer}}<br>'''W''' 13–0
+|{{flagIOC|JPN|2000 Summer}}<br>'''L''' 1–6
+|{{flagIOC|USA|2000 Summer}}<br>'''L''' 2–4
+|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 8–7
+|{{flagIOC|NED|2000 Summer}}<br>'''L''' 2–3
+|6
+|colspan=3|Did not advance
+|}
+
+==Basketball==
+{{main|Basketball at the 2000 Summer Olympics}}
+
+===Men's ===
+;Team roster
+* [[Alessandro Abbio]]
+* [[Gianluca Basile]]
+* [[Roberto Chiacig]]
+* [[Marcelo Dilglay Damiao]]
+* [[Gregor Fučka]]
+* [[Giacomo Galanda]]
+* [[Agostino Antonio Li Vecchi]]
+* [[Denis Marconato]]
+* [[Andrea Meneghin]]
+* [[Michele Mian]]
+* [[Carlton Myers]]
+* [[German Claudio Scarone]]
+
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Italy national basketball team|Italy men's]]
+|align=left|[[Basketball at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+|{{flagIOC|LTU|2000 Summer}}<br>'''W''' 50–48
+|{{flagIOC|USA|2000 Summer}}<br>'''L''' 61–93
+|{{flagIOC|NZL|2000 Summer}}<br>'''W''' 78–66
+|{{flagIOC|FRA|2000 Summer}}<br>'''W''' 67–57
+|{{flagIOC|CHN|2000 Summer}}<br>'''L''' 85–76
+|2
+|{{bk|AUS}}<br />'''L''' 62–65
+|colspan=1 {{N/A}}
+|''5/6th classification match''<br>{{flagIOC|YUG|2000 Summer}}<br>'''W''' 69–59
+|5
+|}
+
+==Beach volleyball==
+{{main|Beach volleyball at the 2000 Summer Olympics}}
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Preliminary round
+!Preliminary elimination
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|- 
+|align=left|[[Maurizio Pimponi]]<br>[[Andrea Raffaelli]]
+|align=left|[[Beach volleyball at the 2000 Summer Olympics – Men's tournament|Men's]]
+|align=center|{{flagIOCathlete|[[Martín Conde|Conde]] – [[Eduardo Martínez (volleyball)|Martinez]]|ARG|2000 Summer}}<br>'''L''' 15–7
+|align=center|{{flagIOCathlete|[[Nikolas Berger|Berger]] – [[Oliver Stamm|Stamm]]|AUT|2000 Summer}}<br>'''L''' 15–9
+|align=center colspan=4|Did not advance
+|align=center| =19
+|-
+|align=left|[[Laura Bruschini]]<br> [[Annamaria Solazzi]]
+|align=left rowspan=2|[[Beach volleyball at the 2000 Summer Olympics – Women's tournament|Women's]]
+|align=center|{{flagIOCathlete|[[Vasso Karadassiou|Karadassiou]] – [[Efi Sfyri|Sfyri]]|GRE|2000 Summer}}<br>'''W''' 15–2
+|align=center {{n/a|Bye}}
+|align=center|{{flagIOCathlete|[[Ulrike Schmidt (volleyball)|Schmidt]] – [[Gudi Staub|Staub]]|GER|2000 Summer}}<br>'''W''' 15–12
+|align=center|{{flagIOCathlete|[[Natalie Cook|Cook]] – [[Kerri Pottharst|Pottharst]]|AUS|2000 Summer}}<br>'''L''' 11–15
+|align=center colspan=2|Did not advance
+|align=center| =5
+|-
+|align=left|[[Daniela Gattelli]]<br> [[Lucilla Perrotta]]
+|align=center|{{flagIOCathlete|[[Tania Gooley-Humphry|Gooley]] – [[Pauline Manser|Manser]]|AUS|2000 Summer}}<br>'''L''' 9–15
+|align=center|{{flagIOCathlete|[[Yuki Ishizaka|Ishizaka]] – [[Rii Seike|Seike]]|JPN|2000 Summer}}<br>'''W''' 15–5
+|align=center|{{flagIOCathlete|[[Misty May-Treanor|May-Treanor]] – [[Holly McPeak|McPeak]]|USA|2000 Summer}}<br>'''L''' 13–15
+|align=center colspan=3|Did not advance
+|align=center| =9
+|}
+
+==Boxing==
+{{main|Boxing at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final
+|-style="font-size:95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-
+|align=left|[[Sven Paris]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Light welterweight|Light welterweight]]
+|align=center|{{flagIOCathlete|[[Pongsak Rientuanthong|Rientuanthong]]|THA|2000 Summer}}<br>'''W''' 14–3
+|align=center|{{flagIOCathlete|[[Kay Huste|Huste]]|GER|2000 Summer}}<br>'''W''' 17–11
+|align=center|{{flagIOCathlete|[[Mohamed Allalou|Allalou]]|ALG|2000 Summer}}<br>'''L''' 8–22
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Leonard Bundu]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Welterweight|Welterweight]]
+|align=center|{{flagIOCathlete|[[Daniel Geale|Geale]]|AUS|2000 Summer}}<br>'''W''' 4–2
+|align=center|{{flagIOCathlete|[[Daniyar Munaytbasov|Munaytbasov]]|KAZ|2000 Summer}}<br>'''L''' 4–13
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Ciro Di Corcia]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Light middleweight|Light middleweight]]
+|align=center|{{flagIOCathlete|[[Marian Simion|Simion]]|ROM|2000 Summer}}<br>'''L''' 8–19
+|align=center colspan=5|Did not advance
+|-
+|align=left|[[Ottavio Barone]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Middleweight|Middleweight]]
+|align=center|{{flagIOCathlete|[[Antonios Giannoulas|Giannoulas]]|GRE|2000 Summer}}<br>'''L''' 10–17
+|align=center colspan=5|Did not advance
+|-
+|align=left|[[Giacobbe Fragomeni]]
+|align=left|[[Boxing at the 2000 Summer Olympics – Light heavyweight|Light heavyweight]]
+|align=center|{{flagIOCathlete|[[Isael Alvarez|Alvarez]]|CUB|2000 Summer}}<br>'''RSC'''
+|align=center colspan=5|Did not advance
+|-
+|align=left|'''[[Paolo Vidoz]]'''
+|align=left|[[Boxing at the 2000 Summer Olympics – Super heavyweight|Super heavyweight]]
+|align=center {{N/A}}
+|align=center|{{flagIOCathlete|[[Calvin Brock|Brock]]|USA|2000 Summer}}<br>'''RSC'''
+|align=center|{{flagIOCathlete|[[Samuel Peter|Peter]]|NGR|2000 Summer}}<br>'''W''' 14–3
+|align=center|{{flagIOCathlete|[[Audley Harrison|Harrison]]|GBR|2000 Summer}}<br>'''L''' 16–32
+|align=center|Did not advance
+|align=center|{{bronze03}}
+|}
+
+==Canoeing==
+{{main|Canoeing at the 2000 Summer Olympics}}
+;Slalom
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="6"|Preliminary
+!colspan="6"|Final
+|- style="font-size:95%"
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Total
+!Rank
+!Run 1
+!Rank
+!Run 2
+!Rank
+!Total
+!Rank
+|-
+|align=left|'''[[Pierpaolo Ferrazzi]]'''
+|align=left rowspan=2|[[Canoeing at the 2000 Summer Olympics – Men's slalom K-1|Men's K-1]]
+|align=center|127.59
+|align=center|4
+|align=center|127.04
+|align=center|5
+|align=center|261.19
+|align=center|11 '''Q'''
+|align=center|111.79
+|align=center|2
+|align=center|113.24
+|align=center|8
+|align=center|225.03
+|align=center|{{bronze03}}
+|-
+|align=left|[[Enrico Lazzarotto]]
+|align=center|135.18
+|align=center|18
+|align=center|127.04
+|align=center|5
+|align=center|262.22
+|align=center|13 '''Q'''
+|align=center|115.03
+|align=center|14
+|align=center|115.03
+|align=center|12
+|align=center|235.92
+|align=center|14
+|-
+|align=left|[[Cristina Giai Pron]]
+|align=left|[[Canoeing at the 2000 Summer Olympics – Women's slalom K-1|Women's K-1]]
+|align=center|157.34
+|align=center|13
+|align=center|164.55
+|align=center|20
+|align=center|321.89
+|align=center|16
+|align=center colspan=6|Did not advance
+|}
+
+;Sprint
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=2|Heats
+!colspan=2|Semifinals
+!colspan=2|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Antonio Scaduto]]
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's K-1 500 metres|Men's K-1 500m]]
+|align=center|1:43.289
+|align=center|5 '''Q'''
+|align=center|1:43.432
+|align=center|6
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Jacopo Majochi]]
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's K-1 1000 metres|Men's K-1 1000m]]
+|align=center|3:39.176
+|align=center|4 '''Q'''
+|align=center|3:39.157
+|align=center|3 '''Q'''
+|align=center|3:38.105
+|align=center|8
+|-
+|align=left rowspan=2|'''[[Beniamino Bonomi]]'''<br/> '''[[Antonio Rossi]]'''
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's K-2 500 metres|Men's K-2 500m]]
+|align=center|1:32.902
+|align=center|3 '''q'''
+|align=center|1:29.886
+|align=center|1 '''Q'''
+|align=center|1:32.635
+|align=center|7
+|-
+|align=left|[[Canoeing at the 2000 Summer Olympics – Men's K-2 1000 metres|Men's K-2 1000m]]
+|align=center|3:14.316
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|3:14.461
+|align=center|{{gold01}}
+|-
+|align=left|'''[[Josefa Idem Guerrini]]'''
+|align=left|[[Canoeing at the 2000 Summer Olympics – Women's K-1 500 metres|Women's K-1 500m]]
+|align=center|1:49.889
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|2:13.848
+|align=center|{{gold01}}
+|}
+
+==Cycling==
+{{main|Cycling at the 2000 Summer Olympics}}
+
+===Cross country===
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Marco Bui]]
+|align=left rowspan=2|[[Cycling at the 2000 Summer Olympics – Men's cross-country|Men's cross-country]]
+|2:16.09
+|16
+|- align=center
+|align=left|[[Hubert Pallhuber]]
+|2:22.55
+|31
+|- align=center
+|align=left|'''[[Paola Pezzo]]'''
+|align=left|[[Cycling at the 2000 Summer Olympics – Women's cross-country|Women's cross-country]]
+|1:49.24
+|{{gold01}}
+|}
+
+===Road cycling===
+
+;Road race
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|- align=center
+|align=left|[[Michele Bartoli]]
+|align=left rowspan=5|[[Cycling at the 2000 Summer Olympics – Men's individual road race|Men's road race]]
+|5:30:34
+|4
+|- align=center
+|align=left|[[Paolo Bettini]]
+|5:30:34
+|9
+|- align=center
+|align=left|[[Francesco Casagrande]]
+|5:30:46
+|66
+|- align=center
+|align=left|[[Danilo Di Luca]]
+|5:30:37
+|11
+|- align=center
+|align=left|[[Marco Pantani]]
+|5:30:46
+|69
+|- align=center
+|align=left|[[Roberta Bonanomi]]
+|align=left rowspan=3|[[Cycling at the 2000 Summer Olympics – Women's individual road race|Women's road race]]
+|colspan=2|DNF
+|- align=center
+|align=left|[[Alessandra Cappellotto]]
+|3:06:31
+|15
+|- align=center
+|align=left|[[Valeria Cappellotto]]
+|3:09:17
+|31
+|}
+
+;Road time trial
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Time
+!Rank
+|-
+|align=left|[[Alessandra Cappellotto]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Women's road time trial|Women's road time trial]]
+|align=center colspan=2|DNF
+|}
+
+===Track cycling===
+;Points race
+{|class=wikitable style="font-size:90%"
+|-
+!Athlete
+!Event
+!Points
+!Laps
+!Rank
+|- align=center
+|align=left|[[Silvio Martinello]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's points race|Men's]]
+|5
+|1
+|8
+|- align=center
+|align=left|'''[[Antonella Bellutti]]'''
+|align=left|[[Cycling at the 2000 Summer Olympics – Women's points race|Women's]]
+|19
+|0
+|{{gold01}}
+|- align=center
+|align=left|'''[[Silvio Martinello]]<br>[[Marco Villa]]'''
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's Madison|Madison]]
+|15
+|0
+|{{bronze03}}
+|}
+
+;Keirin
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!1st round
+!Repechage
+!2nd round
+!Final
+|- style="font-size:95%"
+!Rank
+!Rank
+!Rank
+!Rank
+|- align=center
+|align=left|[[Roberto Chiappa]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's keirin|Keirin]]
+|2 '''Q'''
+|4
+|colspan=2|Did not advance
+|}
+
+;Pursuit
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Qualification
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|- style="font-size:95%"
+!Time
+!Rank
+!Opponent<br />Results
+!Rank
+!Opponent<br />Results
+!Rank
+|- align=center
+|align=left|[[Antonella Bellutti]]
+|align=left |[[Cycling at the 2000 Summer Olympics – Women's individual pursuit|Women's individual pursuit]]
+|3:36.967
+|5
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Mario Benetton]]<br> [[Adler Capelli]]<br> [[Cristiano Citton]]<br> [[Marco Villa]]
+|align=left|[[Cycling at the 2000 Summer Olympics – Men's team pursuit|Team pursuit]]
+|4:15.451
+|11
+|colspan=4|Did not advance
+|}
+
+==Diving==
+{{main|Diving at the 2000 Summer Olympics}}
+;Men
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="4"|Semifinals
+!colspan="3"|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Total
+!Rank
+!Points
+!Total
+!Rank
+|-
+|align=left|[[Nicola Marconi]]
+|align=left rowspan=2|[[Diving at the 2000 Summer Olympics – Men's 3 metre springboard|3m springboard]]
+|align=center|351.12
+|align=center|26
+|align=center colspan=7|Did not advance
+|-
+|align=left|[[Donald Miranda]]
+|align=center|377.01
+|align=center|18 '''Q'''
+|align=center|207.03
+|align=center|14
+|align=center|584.04
+|align=center|16
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Massimiliano Mazzucchi]]
+|align=left|[[Diving at the 2000 Summer Olympics – Men's 10 metre platform|10m platform]]
+|align=center|386.91
+|align=center|18 '''Q'''
+|align=center|172.80
+|align=center|18
+|align=center|559.71
+|align=center|18
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Nicola Marconi]]<br> [[Donald Miranda]]
+|align=left|[[Diving at the 2000 Summer Olympics – Men's synchronized 3 metre springboard|Synchronized 3m springboard]]
+|align=center colspan=7 {{N/A}}
+|align=center|286.38
+|align=center|8
+|}
+
+;Women
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Preliminaries
+!colspan="4"|Semifinals
+!colspan="3"|Final
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Rank
+!Total
+!Rank
+!Points
+!Total
+!Rank
+|-
+|align=left|[[Tania Cagnotto]]
+|align=left rowspan=2|[[Diving at the 2000 Summer Olympics – Women's 3 metre springboard|3m springboard]]
+|align=center|259.74
+|align=center|18 '''Q'''
+|align=center|206.55
+|align=center|18
+|align=center|466.29
+|align=center|18
+|align=center colspan=3|Did not advance
+|-
+|align=left|[[Maria Marconi]]
+|align=center|229.11
+|align=center|30
+|align=center colspan=7|Did not advance
+|}
+
+==Equestrian==
+{{main|Equestrian at the 2000 Summer Olympics}}
+;Dressage
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Grand Prix
+!colspan="3"|Grand Prix Special
+!colspan="2"|Grand Prix Freestyle
+!colspan="2"|Overall
+|- style="font-size:95%"
+!Score
+!Rank
+!Score
+!Total
+!Rank
+!Score
+!Rank
+!Score
+!Rank
+|- align=center
+|align=left|[[Pia Laus]]
+|align=left|Renoir
+|align=left|[[Equestrian at the 2000 Summer Olympics – Individual dressage|Individual]]
+|67.68
+|16 '''Q'''
+|68.41
+|136.09
+|17 '''Q'''
+|69.35
+|4
+|205.44
+|14
+|}
+
+;Eventing
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Horse
+!rowspan="2"|Event
+!colspan="2"|Dressage
+!colspan="2"|Cross-country
+!colspan="2"|Show jumping
+!colspan="2"|Total
+|- style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Rank
+!Penalties
+!Rank
+!Penalties
+!Rank
+|- align=center
+|align=left|[[Fabio Magni]]
+|align=left|Cool N' Breezy
+|rowspan=2 align=left|[[Equestrian at the 2000 Summer Olympics – Individual eventing|Individual]]
+|44.0
+|10
+|0
+|1
+|5.0
+|7
+|49.0
+|5
+|- align=center
+|align=left|[[Andrea Verdina]]
+|align=left|Donnizeti
+|53.8
+|27
+|20
+|16
+|14.0
+|22
+|87.8
+|15
+|}
+
+;Show jumping
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="3"|Athlete
+!rowspan="3"|Horse
+!rowspan="3"|Event
+!colspan="8"|Qualification
+!colspan="4"|Final
+!rowspan=2 colspan=2|Total
+|- style="font-size:95%"
+!colspan="2"|Round 1
+!colspan="3"|Round 2
+!colspan="3"|Round 3
+!colspan="2"|Round A
+!colspan="2"|Round B
+|- style="font-size:95%"
+!Penalties
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Total
+!Rank
+!Penalties
+!Rank
+!Penalties
+!Rank
+!Penalties
+!Rank
+|- align=center
+|align=left|[[Jerry Smit]]
+|align=left|Lux Z
+|rowspan=2 align=left|[[Equestrian at the 2000 Summer Olympics – Individual jumping|Individual]]
+|16.00
+|49
+|16.00
+|32.00
+|15
+|16.00
+|48.00
+|54
+|colspan=6|Did not advance
+|- align=center
+|align=left|[[Gianni Tovoni]]
+|align=left|Las Vegas
+|9.00
+|27
+|4.00
+|13.00
+|15
+|0.00
+|13.00
+|8 '''Q'''
+|4.00
+|5 '''Q'''
+|13.50
+|18
+|17.50
+|18
+|}
+
+==Fencing==
+{{main|Fencing at the 2000 Summer Olympics}}
+
+17 fencers, 12 men and 5 women, represented Italy in 2000.
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|- align=center
+|align=left|[[Angelo Mazzoni]]
+|rowspan=3 align=left|[[Fencing at the 2000 Summer Olympics – Men's épée|Men's épée]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Paolo Milanoli|Milanoli]]|ITA|2000 Summer}}<br>'''L''' 13–15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Paolo Milanoli]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Angelo Mazzoni|Mazzoni]]|ITA|2000 Summer}}<br>'''W''' 15–13
+|{{flagIOCathlete|[[Peter Vánky|Vánky]]|SWE|2000 Summer}}<br>'''L''' 6–15
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Alfredo Rota]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Michael Switak|Switak]]|AUT|2000 Summer}}<br>'''W''' 15–11
+|{{flagIOCathlete|[[Ivan Trevejo|Trevejo]]|CUB|2000 Summer}}<br>'''L''' 12–15
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Daniele Crosta]]
+|rowspan=3 align=left|[[Fencing at the 2000 Summer Olympics – Men's foil|Men's foil]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Matteo Zennaro|Zennaro]]|ITA|2000 Summer}}<br>'''L''' 11–15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Salvatore Sanzo]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Wang Haibin|Wang H]]|CHN|2000 Summer}}<br>'''W''' 15–10
+|{{flagIOCathlete|[[Carlos Rodriguez (fencer)|C Rodriguez]]|VEN|2000 Summer}}<br>'''W''' 15–7
+|{{flagIOCathlete|[[Dmitry Shevchenko (fencer)|Shevchenko]]|RUS|2000 Summer}}<br>'''L''' 14–15
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Matteo Zennaro]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Daniele Crosta|Crosta]]|ITA|2000 Summer}}<br>'''W''' 15–11
+|{{flagIOCathlete|[[Serhiy Holubytskiy|Holubytskiy]]|UKR|2000 Summer}}<br>'''L''' 12–15
+|colspan=4|Did not advance
+|- align=center
+|align=left|[[Raffaelo Caserta]]
+|rowspan=3 align=left|[[Fencing at the 2000 Summer Olympics – Men's sabre|Men's sabre]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Dmitry Lapkes|Lapkes]]|BLR|2000 Summer}}<br>'''L''' 9–15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Luigi Tarantino]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Victor Găureanu|Găureanu]]|ROU|2000 Summer}}<br>'''L''' 10–15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Tonhi Terenzi]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Volodymyr Kaliuzhniy|Kaliuzhyniy]]|UKR|2000 Summer}}<br>'''W''' 15–10
+|{{flagIOCathlete|[[Csaba Köves|Köves]]|HUN|2000 Summer}}<br>'''W''' 15–14
+|{{flagIOCathlete|[[Domonkos Ferjancsik|Ferjancsik]]|HUN|2000 Summer}}<br>'''L''' 13–15
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Angelo Mazzoni]]'''<br>'''[[Paolo Milanoli]]'''<br>'''[[Alfredo Rota]]'''<br>'''[[Maurizio Randazzo]]'''
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's team épée|Men's team épée]]
+|colspan=3 {{N/A}}
+|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 45–34
+|{{flagIOC|KOR|2000 Summer}}<br>'''W''' 44–43
+|{{flagIOC|FRA|2000 Summer}}<br>'''W''' 39–38
+|{{gold01}}
+|- align=center
+|align=left|'''[[Daniele Crosta]]'''<br>'''[[Gabriele Magni]]'''<br>'''[[Salvatore Sanzo]]'''<br>'''[[Matteo Zennaro]]'''
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's team foil|Men's team foil]]
+|colspan=3 {{N/A}}
+|{{flagIOC|UKR|2000 Summer}}<br>'''W''' 41–40
+|{{flagIOC|CHN|2000 Summer}}<br>'''L''' 32–45
+|{{flagIOC|POL|2000 Summer}}<br>'''W''' 45–38
+|{{bronze03}}
+|- align=center
+|align=left|[[Raffaelo Caserta]]<br>[[Gianpiero Pastore]]<br>[[Luigi Tarantino]]<br>[[Tonhi Terenzi]]
+|align=left|[[Fencing at the 2000 Summer Olympics – Men's team sabre|Men's team sabre]]
+|colspan=3 {{N/A}}
+|{{flagIOC|GER|2000 Summer}}<br>'''L''' 42–45
+|''5/8th classification''<br>{{flagIOC|UKR|2000 Summer}}<br>'''L''' 29–45
+|''7/8th classification''<br>{{flagIOC|POL|2000 Summer}}<br>'''L''' 39–45
+|8
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Opposition <br /> Score
+!Rank
+|- align=center
+|align=left|[[Cristiana Cascioli]]
+|rowspan=2 align=left|[[Fencing at the 2000 Summer Olympics – Women's épée|Women's épée]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Sophie Lamon|Lamon]]|SUI|2000 Summer}}<br>'''L''' 12–15
+|colspan=5|Did not advance
+|- align=center
+|align=left|[[Margherita Zalaffi]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Liang Qin|Liang Q]]|CHN|2000 Summer}}<br>'''W''' 15–11
+|{{flagIOCathlete|[[Mariya Mazina|Mazina]]|RUS|2000 Summer}}<br>'''W''' 15–13
+|{{flagIOCathlete|[[Laura Flessel-Colovic|Flessel-Colovic]]|FRA|2000 Summer}}<br>'''L''' 11–15
+|colspan=3|Did not advance
+|- align=center
+|align=left|[[Diana Bianchedi]]
+|rowspan=3 align=left|[[Fencing at the 2000 Summer Olympics – Women's foil|Women's foil]]
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Yuan Li|Yuan L]]|CHN|2000 Summer}}<br>'''W''' 15–7
+|{{flagIOCathlete|[[Ayelet Ohayon|Ohayon]]|ISR|2000 Summer}}<br>'''W''' 15–12
+|{{flagIOCathlete|[[Laura Badea-Cârlescu|Badea-Cârlescu]]|ROU|2000 Summer}}<br>'''L''' 4–15
+|colspan=3|Did not advance
+|- align=center
+|align=left|'''[[Giovanna Trillini]]'''
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Eloise Smith (fencer)|Smith]]|GBR|2000 Summer}}<br>'''W''' 15–2
+|{{flagIOCathlete|[[Iris Zimmermann|Zimmermann]]|USA|2000 Summer}}<br>'''W''' 15–4
+|{{flagIOCathlete|[[Xiao Aihua|Xiao A]]|CHN|2000 Summer}}<br>'''W''' 9–8
+|{{flagIOCathlete|[[Rita König|König]]|GER|2000 Summer}}<br>'''L''' 10–15
+|{{flagIOCathlete|[[Laura Badea-Cârlescu|Badea-Cârlescu]]|ROU|2000 Summer}}<br>'''W''' 15–9
+|{{bronze03}}
+|- align=center
+|align=left|'''[[Valentina Vezzali]]'''
+|{{n/a|Bye}}
+|{{flagIOCathlete|[[Seo Mi-Jeong|Seo M-J]]|KOR|2000 Summer}}<br>'''W''' 15–3
+|{{flagIOCathlete|[[Sylwia Gruchała|Gruchała]]|POL|2000 Summer}}<br>'''W''' 15–8
+|{{flagIOCathlete|[[Reka Zsofia Lazăr-Szabo|Lazăr-Szabo]]|ROU|2000 Summer}}<br>'''W''' 9–8
+|{{flagIOCathlete|[[Laura Badea-Cârlescu|Badea-Cârlescu]]|ROU|2000 Summer}}<br>'''W''' 15–8
+|{{flagIOCathlete|[[Rita König|König]]|GER|2000 Summer}}<br>'''W''' 15–5
+|{{gold01}}
+|- align=center
+|align=left|'''[[Diana Bianchedi]]'''<br>'''[[Giovanna Trillini]]'''<br>'''[[Valentina Vezzali]]'''
+|align=left|[[Fencing at the 2000 Summer Olympics – Women's team foil|Women's team foil]]
+|colspan=3 {{n/a|Bye}}
+|{{flagIOC|UKR|2000 Summer}}<br>'''W''' 45–39
+|{{flagIOC|USA|2000 Summer}}<br>'''W''' 45–38
+|{{flagIOC|POL|2000 Summer}}<br>'''W''' 45–36
+|{{gold01}}
+|}
+
+==Football==
+{{main|Football at the 2000 Summer Olympics}}
+
+===Men's team competition===
+;Team roster
+{{colbegin|colwidth=18em}}
+* ( 1.) [[Morgan De Sanctis]]
+* ( 2.) [[Alessandro Grandoni]]
+* ( 3.) [[Luca Mezzano]]
+* ( 4.) [[Marco Zanchi]]
+* ( 5.) [[Matteo Ferrari]]
+* ( 6.) [[Gennaro Gattuso]]
+* ( 7.) [[Gianni Comandini]]
+* ( 8.) [[Roberto Baronio]]
+* ( 9.) [[Nicola Ventola]]
+* (10.) [[Andrea Pirlo]]
+* (11.) [[Gianluca Zambrotta]]
+* (12.) [[Massimo Margiotta]]
+* (13.) [[Massimo Ambrosini]]
+* (14.) [[Claudio Rivalta]]
+* (15.) [[Bruno Cirillo]]
+* (16.) [[Ighli Vannucchi]]
+* (17.) [[Cristiano Zanetti]]
+* (18.) [[Christian Abbiati]]
+* (19.) [[Gennaro Scarlato]]
+* (20.) [[Stefano Morrone]]
+* (21.) [[Fabio Firmani]]
+* (22.) [[Cristiano Lupatelli]]
+{{colend}}
+;Group stage
+{{#lst:Football at the 2000 Summer Olympics – Men's tournament|A}}
+{{#lst:Football at the 2000 Summer Olympics – Men's tournament|A2}}
+----
+{{#lst:Football at the 2000 Summer Olympics – Men's tournament|A3}}
+----
+{{#lst:Football at the 2000 Summer Olympics – Men's tournament|A5}}
+;Quarter-finals
+{{#lst:Football at the 2000 Summer Olympics – Men's tournament|E3}}
+
+==Gymnastics==
+{{main|Gymnastics at the 2000 Summer Olympics}}
+
+=== Men ===
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=8|Qualification
+!colspan=8|Final
+|-style=font-size:95%
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=6|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style=font-size:95%
+!{{tooltip|F|Floor}}
+!{{tooltip|PH|Pommel horse}}
+!{{tooltip|R|Rings}}
+!{{tooltip|V|Vault}}
+!{{tooltip|PB|Parallel bars}}
+!{{tooltip|HB|Horizontal bar}}
+!{{tooltip|F|Floor}}
+!{{tooltip|PH|Pommel horse}}
+!{{tooltip|R|Rings}}
+!{{tooltip|V|Vault}}
+!{{tooltip|PB|Parallel bars}}
+!{{tooltip|HB|Horizontal bar}}
+|-
+|align=left|[[Alberto Busnari]]
+|align=left rowspan=2|[[Gymnastics at the 2000 Summer Olympics – Men's artistic individual all-around|Individual]]
+|align=center|9.162
+|align=center|9.650
+|align=center|8.362
+|align=center|8.637
+|align=center|9.175
+|align=center|9.700
+|align=center|54.686
+|align=center|40
+|align=center colspan=8|Did not advance
+|-
+|align=left|[[Igor Cassina]]
+|align=center|8.387
+|align=center|9.500
+|align=center|8.537
+|align=center|9.300
+|align=center|8.737
+|align=center|9.650
+|align=center|54.111
+|align=center|45
+|align=center colspan=8|Did not advance
+|}
+
+=== Women ===
+;Team
+{|class=wikitable style=font-size:90%;text-align:center
+|-
+!rowspan=3|Athlete
+!rowspan=3|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|-style=font-size:95%
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+!colspan=4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style=font-size:95%
+!{{tooltip|V|Vault}}
+!{{tooltip|UB|Uneven bars}}
+!{{tooltip|BB|Balance beam}}
+!{{tooltip|F|Floor}}
+!{{tooltip|V|Vault}}
+!{{tooltip|UB|Uneven bars}}
+!{{tooltip|BB|Balance beam}}
+!{{tooltip|F|Floor}}
+|-
+|align=left|[[Monica Bergamelli]]
+|align=left rowspan=7|[[Gymnastics at the 2000 Summer Olympics – Women's artistic team all-around|Team]]
+|align=center|9.449
+|align=center|9.387
+|align=center|9.325
+|align=center|9.300
+|align=center|37.461
+|align=center|26 '''Q'''
+|align=center colspan=6 rowspan=7|Did not advance
+|-
+|align=left|[[Martina Bremini]]
+|align=center|9.043
+|align=center|9.550
+|align=center|9.275
+|align=center|9.137
+|align=center|37.005
+|align=center|36 '''Q'''
+|-
+|align=left|[[Alice Capitani]]
+|align=center|9.324
+|align=center {{N/A}}
+|align=center|9.325
+|align=center|9.100
+|align=center|27.749
+|align=center|73
+|-
+|align=left|[[Irene Castelli]]
+|align=center|''9.075''
+|align=center|''8.812''
+|align=center|''8.437''
+|align=center {{N/A}}
+|align=center|35.361
+|align=center|56
+|-
+|align=left|[[Adriana Crisci]]
+|align=center|''8.937''
+|align=center|9.500
+|align=center|9.437
+|align=center|9.312
+|align=center|37.186
+|align=center|31 '''Q'''
+|-
+|align=left|[[Laura Trefiletti]]
+|align=center {{N/A}}
+|align=center|9.137
+|align=center colspan=2 {{N/A}}
+|align=center|9.137
+|align=center|96
+|-
+|align=left|'''Total'''
+|align=center|36.853
+|align=center|37.574
+|align=center|37.362
+|align=center|36.849
+|align=center|148.638
+|align=center|11
+|}
+
+;Individual
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan =4|Apparatus
+!rowspan=2|Total
+!rowspan=2|Rank
+|-style="font-size:95%"
+!{{Tooltip| V | Vault}}
+!{{Tooltip| UB | Uneven bars}}
+!{{Tooltip| BB | Balance beam}}
+!{{Tooltip| F | Floor}}
+|-
+|align=left|[[Monica Bergamelli]]
+|align=left rowspan=3|[[Gymnastics at the 2000 Summer Olympics – Women's artistic individual all-around|All-around]]      
+|align=center|9.449
+|align=center|9.525
+|align=center|8.975
+|align=center|9.500
+|align=center|37.449
+|align=center|18
+|-
+|align=left|[[Martina Bremini]]
+|align=center|9.325
+|align=center|9.600
+|align=center|9.375
+|align=center|9.187
+|align=center|37.487
+|align=center|17
+|-
+|align=left|[[Adriana Crisci]]
+|align=center|9.187
+|align=center|9.062
+|align=center|8.962
+|align=center|9.675
+|align=center|36.886
+|align=center|25
+|}
+
+==Judo==
+{{main|Judo at the 2000 Summer Olympics}}
+;Men
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-
+|align=left|'''[[Girolamo Giovinazzo]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 66&nbsp;kg|66kg]]
+|align=center|{{flagIOCathlete|[[Melvin Mendez|Mendez]]|PUR|2000 Summer}}<br>'''W''' 1000–0000
+|align=center|{{flagIOCathlete|[[Henrique Guimarães|Guimarães]]|BRA|2000 Summer}}<br>'''W''' 1000–0000
+|align=center|{{flagIOCathlete|[[Giorgi Vazagashvili|Vazagashvili]]|GEO|2000 Summer}}<br>'''W''' 1010–0000
+|align=center|{{flagIOCathlete|[[Larbi Benboudaoud|Benboudaoud]]|FRA|2000 Summer}}<br>'''L''' 0000–1000
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Arash Miresmaeili|Miresmaeili]]|IRI|2000 Summer}}<br>'''W''' 0100–0010
+|align=center|{{bronze03}}
+|-
+|align=left|'''[[Giuseppe Maddaloni]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 73&nbsp;kg|73kg]]
+|align=center|{{flagIOCathlete|[[Travolta Waterhouse|Waterhouse]]|SAM|2000 Summer}}<br>'''W''' 0201–0000
+|align=center|{{flagIOCathlete|[[Hassen Moussa|Moussa]]|TUN|2000 Summer}}<br>'''W''' 1000–0000
+|align=center|{{flagIOCathlete|[[Vsevolods Zeļonijs|Zeļonijs]]|LAT|2000 Summer}}<br>'''W''' 0011–0001
+|align=center|{{flagIOCathlete|[[Anatoly Laryukhov|Laryukhov]]|BLR|2000 Summer}}<br>'''W''' 1000–0010
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Tiago Camilo|Camilo]]|BRA|2000 Summer}}<br>'''W''' 1002–0000
+|align=center|{{gold01}}
+|-
+|align=left|[[Francesco Lepre]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 81&nbsp;kg|81kg]]
+|align=center|{{flagIOCathlete|[[Nuno Delgado|Delgado]]|POR|2000 Summer}}<br>'''L''' 0000–0001
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Daniel Kelly (judoka)|Kelly]]|AUS|2000 Summer}}<br>'''L''' 0001–0010
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Michele Monti]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 90&nbsp;kg|90kg]]
+|align=center|{{flagIOCathlete|[[Eduardo Costa (judoka)|Costa]]|ARG|2000 Summer}}<br>'''L''' 0100–1010
+|align=center colspan=8|Did not advance
+|-
+|align=left|[[Luigi Guido]]
+|align=left|[[Judo at the 2000 Summer Olympics – Men's 100&nbsp;kg|100kg]]
+|align=center|{{flagIOCathlete|[[Armen Bagdasarov|Bagdasarov]]|UZB|2000 Summer}}<br>'''W''' 0100–0022
+|align=center|{{flagIOCathlete|[[Sadok Khalki|Khalki]]|TUN|2000 Summer}}<br>'''W''' 1010–0000
+|align=center|{{flagIOCathlete|[[Mário Sabino|Sabino]]|BRA|2000 Summer}}<br>'''W''' 1001–0001
+|align=center|{{flagIOCathlete|[[Kosei Inoue|Inoue]]|JPN|2000 Summer}}<br>'''L''' 0000–0210
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Yury Styopkin|Styopkin]]|RUS|2000 Summer}}<br>'''L''' 0000–1000
+|align=center|5
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!Repechage 3
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-
+|align=left|[[Cinzia Cavazzuti]]
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 57&nbsp;kg|57kg]]
+|align=center|{{flagIOCathlete|[[Michaela Vernerová|Vernerová]]|CZE|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Filipa Cavalleri|Cavalleri]]|POR|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Shen Jun (judoka)|Shen]]|CHN|2000 Summer}}<br>'''L'''
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOCathlete|[[Tânia Ferreira|Ferreira]]|BRA|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Barbara Harel|Harel]]|FRA|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Maria Pekli|Pekli]]|AUS|2000 Summer}}<br>'''L'''
+|align=center|5
+|-
+|align=left|[[Jenny Gal]]
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 63&nbsp;kg|63kg]]
+|align=center {{n/a|Bye}}
+|align=center|{{flagIOCathlete|[[Anna Saraeva|Saraeva]]|RUS|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Vânia Ishii|Ishii]]|BRA|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Li Shufang|Li S]]|CHN|2000 Summer}}<br>'''L'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Jung Sung-Sook|Jung]]|KOR|2000 Summer}}<br>'''L'''
+|align=center|5
+|-
+|align=left|'''[[Ylenia Scapin]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 70&nbsp;kg|70kg]]
+|align=center|{{flagIOCathlete|[[Xiomara Griffith|Griffith]]|VEN|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Cho Min-Sun|Cho]]|KOR|2000 Summer}}<br>'''L'''
+|align=center colspan=3 {{N/A}}
+|align=center|{{flagIOCathlete|[[Yulia Kuzina|Kuzina]]|RUS|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Yvonne Wansart|Wansart]]|GER|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Ursula Martin|Martin]]|ESP|2000 Summer}}<br>'''W'''
+|align=center|{{bronze03}}
+|-
+|align=left|'''[[Emanuela Pierantozzi]]'''
+|align=left|[[Judo at the 2000 Summer Olympics – Women's 78&nbsp;kg|78kg]]
+|align=center {{n/a|Bye}}
+|align=center|{{flagIOCathlete|[[Noriko Anno|Anno]]|JPN|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Heidi Rakels|Rakels]]|BEL|2000 Summer}}<br>'''L'''
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOCathlete|[[Karin Keinhuis|Keinhuis]]|NED|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Edinanci Silva|Silva]]|BRA|2000 Summer}}<br>'''W'''
+|align=center|{{flagIOCathlete|[[Diadenis Luna|Luna]]|CUB|2000 Summer}}<br>'''W'''
+|align=center|{{bronze03}}
+|}
+
+==Modern pentathlon==
+{{main|Modern pentathlon at the 2000 Summer Olympics}}
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=3|Shooting<br/><span style="font-size:95%">(10 m air pistol)</span>
+!colspan=3|Fencing<br/><span style="font-size:95%">(épée one touch)</span>
+!colspan=3|Swimming<br/><span style="font-size:95%">(200 m freestyle)</span>
+!colspan=3|Riding<br/><span style="font-size:95%">(show jumping)</span>
+!colspan=3|Running<br/><span style="font-size:95%">(3000 m)</span>
+!rowspan=2|Total points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!Points
+!Rank
+!MP Points
+!Results
+!Rank
+!MP points
+!Time
+!Rank
+!MP points
+!Penalties
+!Rank
+!MP points
+!Time
+!Rank
+!MP Points
+|- align=center
+|align=left|[[Stefano Pecci]]
+|align=left|[[Modern pentathlon at the 2000 Summer Olympics – Men's|Men's]]
+|175
+|17
+|1036
+|13
+|8
+|880
+|2:09.72
+|14
+|1203
+|150
+|15
+|950
+|9:47.35
+|16
+|1052
+|5121
+|13
+|- align=center
+|align=left|[[Claudia Cerutti]]
+|align=left rowspan=2|[[Modern pentathlon at the 2000 Summer Olympics – Women's|Women's]]
+|178
+|18
+|1072
+|11
+|13
+|800
+|2:17.18
+|2
+|1229
+|97
+|10
+|1003
+|11:39.90
+|16
+|922
+|5026
+|9
+|- align=center
+|align=left|[[Fabiana Fares]]
+|161
+|24
+|868
+|13
+|6
+|880
+|2:28.56
+|19
+|1115
+|DNF
+| –
+|0
+|DNS
+| – 
+|0
+|2863
+|24
+|}
+
+==Rhythmic gymnastics==
+{{main|Rhythmic gymnastics at the 2000 Summer Olympics}}
+;Individual
+{| class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=6|Qualification
+!colspan=6|Final
+|-style="font-size:95%"
+!Rope
+!Hoop
+!Ball
+!Ribbon
+!Total
+!Rank
+!Rope
+!Hoop
+!Ball
+!Ribbon
+!Total
+!Rank
+|-
+|align=left|[[Susanna Marchesi]]
+|align=left|[[Gymnastics at the 2000 Summer Olympics – Women's rhythmic individual all-around|Individual]]
+|align=center|9.725
+|align=center|9.725
+|align=center|9.741
+|align=center|9.733
+|align=center|38.924
+|align=center|7 '''Q'''
+|align=center|9.750
+|align=center|9.600
+|align=center|9.775
+|align=center|9.725
+|align=center|38.850
+|align=center|10
+|}
+
+;Team
+{| class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=4|Qualification
+!colspan=4|Final
+|-style="font-size:95%"
+!Clubs
+!Hoops + Ribbon
+!Total
+!Rank
+!Clubs
+!Hoops + Ribbon
+!Total
+!Rank
+|-
+|align=left|[[Elena Amato]]<br/> [[Eva D'Amore]]<br/> [[Silvia Gregorini]]<br/> [[Noemi Iezzi]]<br/> [[Roberta Lucentini]]<br/> [[Arianna Rusca]]
+|align=left|[[Gymnastics at the 2000 Summer Olympics – Women's rhythmic team all-around|Team]]
+|align=center|19.250
+|align=center|18.933
+|align=center|38.183
+|align=center|8 '''Q'''
+|align=center|19.250
+|align=center|19.233
+|align=center|38.483
+|align=center|6
+|}
+
+==Rowing==
+{{main|Rowing at the 2000 Summer Olympics}}
+27 Italian rowers, all male, competed.<ref>{{cite sports-reference|url=https://www.sports-reference.com/olympics/countries/ITA/summer/2000/ROW/ |title=Italy Rowing at the 2000 Sydney Summer Games |access-date=2015-06-20 |url-status=dead |archive-url=https://web.archive.org/web/20150708043005/http://www.sports-reference.com/olympics/countries/ITA/summer/2000/ROW/ |archive-date= 8 July 2015 }}</ref>
+{|class="wikitable" style="font-size:90%;"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heats
+!colspan="2"|Repechage
+!colspan="2"|Semifinals
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left|[[Mattia Righetti]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's single sculls|Single sculls]]
+|align=center|7:24.80
+|align=center|4 '''R'''
+|align=center|7:21.20
+|align=center|3 '''SC/D'''
+|align=center|7:20.78
+|align=center|2 '''FC'''
+|align=center|7:08.16
+|align=center|14
+|-
+|align=left|'''[[Giovanni Calabrese]]'''<br/> '''[[Nicola Sartori]]'''
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's double sculls|Double sculls]]
+|align=center|6:33.11
+|align=center|2 '''R'''
+|align=center|6:25.98
+|align=center|1 '''SA/B'''
+|align=center|6:24.99
+|align=center|2 '''FA'''
+|align=center|6:20.49
+|align=center|{{bronze03}}
+|-
+|align=left|'''[[Agostino Abbagnale]]'''<br/> '''[[Rossano Galtarossa]]'''<br/> '''[[Simone Raineri]]'''<br/> '''[[Alessio Sartori]]'''
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's quadruple sculls|Quadruple sculls]]
+|align=center|5:45.67
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|5:44.08
+|align=center|1 '''FA'''
+|align=center|5:45.56
+|align=center|{{gold01}}
+|-
+|align=left|[[Pasquale Panzarino]]<br/> [[Luigi Sorrentino (rower)|Luigi Sorrentino]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's coxless pair|Coxless pair]]
+|align=center|6:48.26
+|align=center|2 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|6:53.57
+|align=center|6 '''FB'''
+|align=center|6:40.35
+|align=center|12
+|-
+|align=left|'''[[Lorenzo Carboncini]]'''<br/> '''[[Riccardo Dei Rossi]]'''<br/> '''[[Valter Molea]]'''<br/> '''[[Carlo Mornati]]'''
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's coxless four|Coxless four]]
+|align=center|6:04.59
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|6:02.31
+|align=center|2 '''FA'''
+|align=center|5:56.62
+|align=center|{{silver02}}
+|-
+|align=left|[[Franco Berra]]<br/> [[Gioacchino Cascone]]<br/> [[Alessandro Corona]]<br/> [[Luca Ghezzi]]<br/> [[Gaetano Iannuzzi]]<br/> [[Raffaello Leonardo]]<br/> [[Mario Palmisano]]<br/> [[Marco Penna]]<br/> [[Valerio Pinton]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's eight|Eight]]
+|align=center|5:39.69
+|align=center|5 '''R'''
+|align=center|5:41.23
+|align=center|2 '''FA'''
+|align=center colspan=2 {{N/A}}
+|align=center|5:35.37
+|align=center|4
+|-
+|align=left|'''[[Elia Luini]]'''<br/> '''[[Leonardo Pettinari (rower)|Leonardo Pettinari]]'''
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's lightweight double sculls|Lightweight double sculls]]
+|align=center|6:24.73
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|6:21.59
+|align=center|2 '''FA'''
+|align=center|6:23.47
+|align=center|{{silver02}}
+|-
+|align=left|[[Catello Amarante (rower, born 1979)|Catello Amarante]]<br/> [[Salvatore Amitrano]]<br/> [[Carlo Gaddi]]<br/> [[Franco Sancassani]]
+|align=left|[[Rowing at the 2000 Summer Olympics – Men's lightweight coxless four|Lightweight coxless four]]
+|align=center|6:14.89
+|align=center|1 '''SA/B'''
+|align=center colspan=2 {{N/A}}
+|align=center|6:00.82
+|align=center|1 '''FA'''
+|align=center|6:03.77
+|align=center|4
+|}
+
+==Sailing==
+{{main|Sailing at the 2000 Summer Olympics}}
+
+Italy competed in ten of the sailing events at the 2000 Sydney Olympics and won two medals.
+;Men
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+|- align=center
+|align=left|[[Riccardo Giordano]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Men's Mistral One Design|Mistral]]
+|<s>25</s>
+|14
+|22
+|<s>29</s>
+|6
+|21
+|11
+|21
+|3
+|18
+|12
+|182
+|17
+|- align=center
+|align=left|'''[[Luca Devoti]]'''
+|align=left|[[Sailing at the 2000 Summer Olympics – Finn|Finn]]
+|<s>19</s>
+|2
+|2
+|<s>18</s>
+|4
+|2
+|3
+|15
+|11
+|1
+|6
+|83
+|{{silver02}}
+|- align=center
+|align=left|[[Francesco Ivaldi]]<br> [[Matteo Ivaldi]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Men's 470|470]]
+|12
+|8
+|16
+|22
+|21
+|<s>28</s>
+|9
+|10
+|<s>26</s>
+|19
+|22
+|139
+|19
+|}
+
+;Women
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=11|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+|- align=center
+|align=left|'''[[Alessandra Sensini]]'''
+|align=left|[[Sailing at the 2000 Summer Olympics – Women's Mistral One Design|Mistral]]
+|3
+|1
+|3
+|2
+|1
+|<s>4</s>
+|1
+|2
+|1
+|<s>12</s>
+|1
+|31
+|{{gold01}}
+|- align=center
+|align=left|[[Larissa Nevierov]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Europe|Europe]]
+|3
+|9
+|4
+|<s>19</s>
+|13
+|<s>18</s>
+|7
+|11
+|8
+|8
+|12
+|75
+|8
+|- align=center
+|align=left|[[Federica Salva]]<br>[[Emanuela Sossi]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Women's 470|470]]
+|4
+|4
+|9
+|<s>16</s>
+|2
+|<s>18</s>
+|12
+|8
+|10
+|7
+|4
+|60
+|7
+|}
+
+;Open events
+{|class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!colspan=16|Race
+!rowspan=2|Net points
+!rowspan=2|Final rank
+|- style="font-size:95%"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+!11
+!12
+!13
+!14
+!15
+!16
+|- align=center
+|align=left|[[Diego Negri]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Laser|Laser]]
+|9
+|17
+|<s>18</s>
+|11
+|8
+|15
+|1
+|8
+|13
+|<s>20</s>
+|9
+|colspan=5 {{N/A}}
+|91
+|8
+|- align=center
+|align=left|[[Lorenzo Giacomo Bodini]]<br> [[Marco Bruno Bodini]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Tornado|Tornado]]
+|OCS<br>(−17)
+|12
+|11
+|12
+|12
+|15
+|OCS<br>(−17)
+|6
+|11
+|10
+|9
+|colspan=5 {{N/A}}
+|98
+|14
+|- align=center
+|align=left|[[Ferdinando Colaninno]]<br>[[Pietro D'Alì]]
+|align=left|[[Sailing at the 2000 Summer Olympics – Star|Star]]
+|9
+|2
+|8
+|6
+|13
+|12
+|10
+|OCS<br> (−17)
+|DNC<br> (−17)
+|2
+|OCS<br> (−17)
+|colspan=5 {{N/A}}
+|79
+|10
+|- align=center
+|align=left|[[Francesco Bruni (sailor)|Francesco Bruni]]<br> [[Gabriele Bruni]]
+|align=left|[[Sailing at the 2000 Summer Olympics – 49er|49er]]
+|10
+|12
+|9
+|11
+|13
+|11
+|<s>16</s>
+|OCS<br>(−18)
+|5
+|7
+|9
+|7
+|11
+|8
+|16
+|5
+|134
+|11
+|}
+
+==Shooting==
+{{main|Shooting at the 2000 Summer Olympics}}
+;Men
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Total
+!Rank
+|- align=center
+|align=left|[[Andrea Benelli]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's skeet|Skeet]]
+|122
+|5 '''Q'''
+|146
+|5
+|- align=center
+|align=left rowspan=2|[[Marco De Nicolo]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 10 metre air rifle|10m air rifle]]
+|587
+|27
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 50 metre rifle prone|50m rifle prone]]
+|595
+|10
+|colspan=2|Did not advance
+|- align=center
+|align=left rowspan=2|[[Roberto Di Donna]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 10 metre air pistol|10m air pistol]]
+|581
+|6 '''Q'''
+|680.5
+|6
+|- align=center
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 50 metre pistol|50m pistol]]
+|560
+|8 '''Q'''
+|657.3
+|7
+|- align=center
+|align=left|[[Daniele Di Spigno]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's double trap|Double trap]]
+|129
+|17
+|colspan=2|Did not advance
+|- align=center
+|align=left rowspan=2|[[Vigilio Fait]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 10 metre air pistol|10m air pistol]]
+|571
+|27
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 50 metre pistol|50m pistol]]
+|553
+|20
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Ennio Falco]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's skeet|Skeet]]
+|121
+|14
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Pietro Genga]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's skeet|Skeet]]
+|116
+|39
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Marco Innocenti]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's double trap|Double trap]]
+|135
+|8
+|colspan=2|Did not advance
+|- align=center
+|align=left|'''[[Giovanni Pellielo]]'''
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's trap|Trap]]
+|116
+|4 '''Q'''
+|140
+|{{bronze03}}
+|- align=center
+|align=left|[[Paolo Ranno]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's 10 metre air pistol|10m air pistol]]
+|575
+|20
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Marco Venturini]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's trap|Trap]]
+|115
+|6 '''Q'''
+|138
+|5
+|- align=center
+|align=left|[[Rodolfo Vigano]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Men's trap|Trap]]
+|111
+|18
+|colspan=2|Did not advance
+|}
+
+;Women
+{| class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Qualification
+!colspan=2|Final
+|-style="font-size:95%"
+!Points
+!Rank
+!Total
+!Rank
+|- align=center
+|align=left|'''[[Deborah Gelisio]]'''
+|align=left|[[Shooting at the 2000 Summer Olympics – Women's double trap|Double trap]]
+|107
+|2 '''Q'''
+|144
+|{{silver02}}
+|- align=center
+|align=left|[[Giulia Iannotti]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Women's trap|Trap]]
+|52
+|17
+|colspan=2|Did not advance
+|- align=center
+|align=left|[[Cristina Vitali]]
+|align=left|[[Shooting at the 2000 Summer Olympics – Women's skeet|Skeet]]
+|68
+|11
+|colspan=2|Did not advance
+|}
+
+==Softball==
+{{main|Softball at the 2000 Summer Olympics}}
+;Team roster
+* [[Marta Gambella]]
+* [[Daniela Castellani]]
+* [[Susan Bugliarello]]
+* [[Francesca Francolini]]
+* [[Nicole Di Salvio]]
+* [[Verusca Paternoster]]
+* [[Giovanna Palermi]]
+* [[Jie Hua]]
+* [[Clelia Ailara]]
+* [[Sabrina Comberlato]]
+* [[Claudia Petracchi]]
+* [[Loredana Auletta]]
+* [[Yue-Fen Sun]]
+* [[Alessandra Gorla]]
+* [[Marina Cergol]]
+
+;Results
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=8|Group stage
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|Italy's women
+|align=left|[[Softball at the 2000 Summer Olympics|Women's tournament]]
+|{{flagIOC|CHN|2000 Summer}}<br>'''L''' 0–5
+|{{flagIOC|AUS|2000 Summer}}<br>'''L''' 0–7
+|{{flagIOC|CUB|2000 Summer}}<br>'''W''' 1–0
+|{{flagIOC|CAN|2000 Summer}}<br>'''L''' 1–7
+|{{flagIOC|NZL|2000 Summer}}<br>'''W''' 1–0
+|{{flagIOC|JPN|2000 Summer}}<br>'''L''' 0–2
+|{{flagIOC|USA|2000 Summer}}<br>'''L''' 0–6
+|5
+|colspan=3|Did not advance
+|}
+
+==Swimming==
+{{main|Swimming at the 2000 Summer Olympics}}
+
+=== Men ===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left rowspan=2|[[Lorenzo Vismara]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 50 metre freestyle|50m freestyle]]
+|align=center|22.62
+|align=center|13 '''Q'''
+|align=center|22.30
+|align=center|5 '''Q'''
+|align=center|22.11
+|align=center|4
+|-
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre freestyle|100m freestyle]]
+|align=center|49.74
+|align=center|10 '''Q'''
+|align=center|49.67
+|align=center|11
+|align=center colspan=2|Did not advance
+|-
+|align=left|'''[[Massimiliano Rosolino]]'''
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre freestyle|200m freestyle]]
+|align=center|1:47.37
+|align=center|3 '''Q'''
+|align=center|1:46.60
+|align=center|3 '''Q'''
+|align=center|1:46.65
+|align=center|{{bronze03}}
+|-
+|align=left|[[Emiliano Brembilla]]
+|align=left rowspan=2|[[Swimming at the 2000 Summer Olympics – Men's 400 metre freestyle|400m freestyle]]
+|align=center|3:48.41
+|align=center|4 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|3:47.01
+|align=center|4
+|-
+|align=left|'''[[Massimiliano Rosolino]]'''
+|align=center|3:45.65
+|align=center|2 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|3:43.40
+|align=center|{{silver02}}
+|-
+|align=left|[[Emiliano Brembilla]]
+|align=left rowspan=2|[[Swimming at the 2000 Summer Olympics – Men's 1500 metre freestyle|1500m freestyle]]
+|align=center|15:27.65
+|align=center|19
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Christian Minotti]]
+|align=center|15:12.72
+|align=center|10
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Emanuele Merisi]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre backstroke|100m backstroke]]
+|align=center|56.35
+|align=center|21
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Mirko Mazzari]]
+|align=left rowspan=2|[[Swimming at the 2000 Summer Olympics – Men's 200 metre backstroke|200m backstroke]]
+|align=center|2:02.13
+|align=center|25
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Emanuele Merisi]]
+|align=center|1:59.92
+|align=center|7 '''Q'''
+|align=center|1:59.78
+|align=center|8 '''Q'''
+|align=center|1:59.01
+|align=center|5
+|-
+|align=left rowspan=2|'''[[Domenico Fioravanti]]'''
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 100 metre breaststroke|100m breaststroke]]
+|align=center|1:01.32 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center|1:00.84 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center|1:00.46 [[List of Olympic records in swimming|OR]]
+|align=center|{{gold01}}
+|-
+|align=left rowspan=2|[[Swimming at the 2000 Summer Olympics – Men's 200 metre breaststroke|200m breaststroke]]
+|align=center|2:15.04
+|align=center|9 '''Q'''
+|align=center|2:12.37 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center|2:10.87 [[List of European records in swimming|EU]]
+|align=center|{{gold01}}
+|-
+|align=left|'''[[Davide Rummolo]]'''
+|align=center|2:12.75 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center|2:13.23
+|align=center|2 '''Q'''
+|align=center|2:12.73
+|align=center|{{bronze03}}
+|-
+|align=left|[[Massimiliano Eroli]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre butterfly|200m butterfly]]
+|align=center|2:01.32
+|align=center|30
+|align=center colspan=4|Did not advance
+|-
+|align=left|'''[[Massimiliano Rosolino]]'''
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 200 metre individual medley|200m individual medley]]
+|align=center|2:00.92 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center|2:01.14
+|align=center|2 '''Q'''
+|align=center|1:58.98 [[List of Olympic records in swimming|OR]]
+|align=center|{{gold01}}
+|-
+|align=left|[[Alessio Boggiatto]]
+|align=left rowspan=2|[[Swimming at the 2000 Summer Olympics – Men's 400 metre individual medley|400m individual medley]]
+|align=center|4:14.26 [[List of Italian records in swimming|NR]]
+|align=center|1 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|4:15.93
+|align=center|4
+|-
+|align=left|[[Massimiliano Eroli]]
+|align=center|4:22.38
+|align=center|19
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Simone Cercato]]<br/> [[Mauro Gallo]]<br/> [[Klaus Lanzarini]]<br/> [[Massimiliano Rosolino]]<br/> [[Lorenzo Vismara]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|align=center|3:18.86
+|align=center|4 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|3:17.85
+|align=center|5
+|-
+|align=left|[[Andrea Beccari]]<br/> [[Emiliano Brembilla]]<br/> [[Simone Cercato]]<br/> [[Klaus Lanzarini]]<br/> [[Matteo Pelliciari]]<br/> [[Massimiliano Rosolino]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Men's 4 × 200 metre freestyle relay|4 × 200 m freestyle relay]]
+|align=center|7:17.69
+|align=center|3 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|7:12.91
+|align=center|4
+|}
+
+=== Women ===
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan="2"|Heat
+!colspan="2"|Semifinal
+!colspan="2"|Final
+|-style="font-size:95%"
+!Time
+!Rank
+!Time
+!Rank
+!Time
+!Rank
+|-
+|align=left rowspan=2|[[Cristina Chiuso]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 50 metre freestyle|50m freestyle]]
+|align=center|25.99
+|align=center|19
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 100 metre freestyle|100m freestyle]]
+|align=center|57.09
+|align=center|21
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Sara Parise]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 200 metre freestyle|200m freestyle]]
+|align=center|2:01.31
+|align=center|16 '''Q'''
+|align=center|2:00.07
+|align=center|10
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Sara Goffi]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 400 metre freestyle|400m freestyle]]
+|align=center|4:18.16
+|align=center|28
+|align=center colspan=4|Did not advance
+|-
+|align=left rowspan=2|[[Federica Biscia]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 200 metre individual medley|200m individual medley]]
+|align=center|2:16.09
+|align=center|10 '''Q'''
+|align=center|2:15.71
+|align=center|10
+|align=center colspan=2|Did not advance
+|-
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 400 metre individual medley|400m individual medley]]
+|align=center|4:47.56
+|align=center|15
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Cristina Chiuso]]<br/> [[Sara Parise]]<br/> [[Luisa Striani]]<br/> [[Cecilia Vianini]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 4 × 100 metre freestyle relay|4 × 100 m freestyle relay]]
+|align=center|3:43.97
+|align=center|8 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|3:44.49
+|align=center|8
+|-
+|align=left|[[Sara Goffi]]<br/> [[Sara Parise]]<br/> [[Luisa Striani]]<br/> [[Cecilia Vianini]]
+|align=left|[[Swimming at the 2000 Summer Olympics – Women's 4 × 200 metre freestyle relay|4 × 200 m freestyle relay]]
+|align=center|8:06.18
+|align=center|4 '''Q'''
+|align=center colspan=2 {{N/A}}
+|align=center|8:04.68
+|align=center|7
+|}
+
+==Synchronized swimming==
+{{main|Synchronized swimming at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=2|Technical routine
+!colspan=3|Free routine (preliminary)
+!colspan=3|Free routine (final)
+|- style="font-size:95%"
+!Points
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+!Points
+!Total (technical + free)
+!Rank
+|-
+|align=left|[[Maurizia Cecconi]]<br> [[Alessia Lucchini]]
+|align=left|[[Synchronized swimming at the 2000 Summer Olympics – Women's duet|Duet]]
+|align=center|33.203
+|align=center|7
+|align=center|61.750
+|align=center|94.953
+|align=center|6 '''Q'''
+|align=center|33.203
+|align=center|95.387
+|align=center|6
+|-
+|align=left|[[Giada Ballan]]<br> [[Serena Bianchi]]<br> [[Mara Brunetti]]<br> [[Chiara Cassin]]<br> [[Maurizia Cecconi]]<br> [[Alice Dominici]]<br> [[Alessia Lucchini]]<br> [[Clara Porchetto]]
+|align=left|[[Synchronized swimming at the 2000 Summer Olympics – Women's team|Team]]
+|align=center colspan=5 {{N/A}}
+|align=center|32.993
+|align=center|95.177
+|align=center|6
+|}
+
+==Taekwondo==
+{{main|Taekwondo at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!rowspan=2|Athlete
+!rowspan=2|Event
+!Round of 16
+!Quarterfinals
+!Semifinals
+!Repechage 1
+!Repechage 2
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|- style="font-size:95%"
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Opposition<br/>Result
+!Rank
+|-
+|align=left|[[Claudio Nolano]]
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Men's 68&nbsp;kg|Men's 68&nbsp;kg]]
+|align=center|{{flagIOCathlete|[[Steven López|López]]|USA|2000 Summer}}<br>'''L''' 0–7
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOCathlete|[[Carlo Massimino|Massimino]]|AUS|2000 Summer}}<br>'''L''' 7–9
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Mario de Meo]]
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Men's 80&nbsp;kg|Men's 80&nbsp;kg]]
+|align=center|{{flagIOCathlete|[[Mokete Mokhosi|Mokhosi]]|LES|2000 Summer}}<br>'''W''' 3+ – 3
+|align=center|{{flagIOCathlete|[[Sebastien Konan|Konan]]|CIV|2000 Summer}}<br>'''L''' 3–4
+|align=center colspan=5|Did not advance
+|-
+|align=left|[[Cristiana Corsi]]
+|align=left|[[Taekwondo at the 2000 Summer Olympics – Women's 57&nbsp;kg|Women's 57&nbsp;kg]]
+|align=center|{{flagIOCathlete|[[Carmen Silva (taekwondo)|C Silva]]|BRA|2000 Summer}}<br>'''W''' 5–2
+|align=center|{{flagIOCathlete|[[Jung Jae-eun (taekwondo)|Jung]]|KOR|2000 Summer}}<br>'''L''' 1–8
+|align=center colspan=2 {{N/A}}
+|align=center|{{flagIOCathlete|[[Virginia Lourens|Lourens]]|NED|2000 Summer}}<br>'''L''' 5–6
+|align=center colspan=2|Did not advance
+|}
+
+==Tennis==
+{{main|Tennis at the 2000 Summer Olympics}}
+{|class=wikitable style="font-size:90%"
+|-
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!Round of 64
+!Round of 32
+!Round of 16
+!Quarterfinals
+!Semifinals
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-
+|align=left|[[Gianluca Pozzi]]
+|align=left|[[Tennis at the 2000 Summer Olympics – Men's singles|Men's singles]]
+|align=center|{{flagIOCathlete|[[Jiří Novák|Novák]]|CZE|2000 Summer}}<br>'''W''' 6–1, 6–2
+|align=center|{{flagIOCathlete|[[Karim Alami|Alami]]|MAR|2000 Summer}}<br>'''L''' 6–2, 6–4, 8–6
+|align=center colspan=5|Did not advance
+|}
+
+==Triathlon==
+{{main|Triathlon at the 2000 Summer Olympics}}
+{| class="wikitable" style="font-size:90%"
+|-
+!Athlete
+!Event
+!Swim (1.5&nbsp;km)
+!Bike (40&nbsp;km)
+!Run (10&nbsp;km)
+!Total time
+!Rank
+|- align=center
+|align=left|[[Alessandro Bottoni]]
+|align=left|[[Triathlon at the 2000 Summer Olympics – Men's|Men's]]
+|18:48.79
+|58:44.21
+|33:45.46
+|1:51:18.13
+|32
+|- align=center
+|align=left|[[Edith Cigana]]
+|align=left rowspan=2|[[Triathlon at the 2000 Summer Olympics – Women's|Women's]]
+|20:42.28
+|1:06:52.10
+|39:32.43
+|2:07:05.01
+|27
+|- align=center
+|align=left|[[Silvia Gemignani]]
+|19:46.58
+|1:07:46.30
+|37:48.38
+|2:05:21.26
+|20
+|}
+
+==Volleyball==
+{{main|Volleyball at the 2000 Summer Olympics}}
+
+===Men's team competition===
+;Team roster
+* [[Marco Bracci]]
+* [[Mirko Corsano]]
+* [[Alessandro Fei (volleyball)|Alessandro Fei]]
+* [[Andrea Gardini]]
+* [[Andrea Giani]]
+* [[Pasquale Gravina]]
+* [[Luigi Mastrangelo]]
+* [[Marco Meoni]]
+* [[Samuele Papi]]
+* [[Simone Rosalba]]
+* [[Andrea Sartoretti]]
+* [[Paolo Tofoli]]
+* [[Nyembo Mwarabu]]
+* '''Head coach''': [[Andrea Anastasi]]
+
+;Results
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|'''[[Italy men's national volleyball team|Italy men's]]'''
+|align=left|[[Volleyball at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+|{{flagIOC|KOR|2000 Summer}}<br>'''W''' 3–0
+|{{flagIOC|YUG|2000 Summer}}<br>'''W''' 3–2
+|{{flagIOC|ARG|2000 Summer}}<br>'''W''' 3–0
+|{{flagIOC|RUS|2000 Summer}}<br>'''W''' 3–1
+|{{flagIOC|USA|2000 Summer}}<br>'''W''' 3–1
+|1 '''Q'''
+|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 3–1
+|{{flagIOC|YUG|2000 Summer}}<br>'''L''' 3–0
+|{{flagIOC|ARG|2000 Summer}}<br>'''W''' 3–0
+|{{bronze03}}
+|}
+
+===Women's team competition===
+;Team roster
+* [[Sabrina Bertini]]
+* [[Antonella Bragaglia]]
+* [[Maurizia Cacciatori]]
+* [[Ana Paula de Tassis]]
+* [[Manuela Leggeri]]
+* [[Eleonora Lo Bianco]]
+* [[Anna Vania Mello]]
+* [[Darina Mifkova]]
+* [[Paola Paggi]]
+* [[Francesca Piccinini]]
+* [[Simona Rinieri]]
+* [[Elisa Togut]]
+* '''Head coach''': [[Angelo Frigoni]]
+
+;Results
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Italy women's national volleyball team|Italy women's]]
+|align=left|[[Volleyball at the 2000 Summer Olympics – Women's tournament|Women's tournament]]
+|{{flagIOC|KOR|2000 Summer}}<br>'''L''' 2–3
+|{{flagIOC|PER|2000 Summer}}<br>'''W''' 3–0
+|{{flagIOC|RUS|2000 Summer}}<br>'''L''' 1–3
+|{{flagIOC|CUB|2000 Summer}}<br>'''L''' 0–3
+|{{flagIOC|GER|2000 Summer}}<br>'''L''' 1–3
+|5
+|colspan=3|Did not advance
+| =9
+|}
+
+==Water polo==
+{{main|Water polo at the 2000 Summer Olympics}}
+;Team roster
+:* [[Alberto Angelini]]
+:* [[Francesco Attolico]]
+:* [[Fabio Bencivenga]]
+:* [[Leonardo Binchi]]
+:* [[Alberto Ghibellini]]
+:* [[Amedeo Pomilio]]
+:* [[Francesco Postiglione]]
+:* [[Carlo Silipo]]
+:* [[Leonardo Sottani]]
+:* [[Stefano Tempesti]]
+:* [[Antonio Vittorioso]]
+
+;Summary
+{| class="wikitable" style="font-size:90%"
+|-
+!rowspan=2|Team
+!rowspan=2|Event
+!colspan=6|Group stage
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size:95%"
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+!Opposition<br />Score
+!Opposition<br />Score
+!Opposition<br />Score
+!Rank
+|-align=center
+|align=left|[[Italy men's national water polo team|Italy men's]]
+|align=left|[[Water polo at the 2000 Summer Olympics – Men's tournament|Men's tournament]]
+|align=center|{{flagIOC|SVK|2000 Summer}}<br>'''W''' 11–8
+|align=center|{{flagIOC|RUS|2000 Summer}}<br>'''D''' 7–7
+|align=center|{{flagIOC|ESP|2000 Summer}}<br>'''W''' 6–5
+|align=center|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 6–5
+|align=center|{{flagIOC|KAZ|2000 Summer}}<br>'''W''' 13–7
+|align=center|2 '''Q'''
+|align=center|{{flagIOC|HUN|2000 Summer}}<br>'''L''' 5–8
+|align=center|{{flagIOC|AUS|2000 Summer}}<br>'''W''' 8–4
+|align=center|''5–6th place match''<br> {{flagIOC|USA|2000 Summer}}<br>'''W''' 10–8
+|align=center|5
+|}
+
+==Weightlifting==
+{{main|Weightlifting at the 2000 Summer Olympics}}
+
+'''Men'''
+{| class=wikitable style="font-size:95%" width="90%"
+|-
+! rowspan="2" | Athlete
+! rowspan="2" | Event
+! colspan="3" | Snatch
+! colspan="3" | Clean & jerk
+! rowspan="2" | Total
+! rowspan="2" | Rank
+|-
+! 1
+! 2
+! 3
+! 1
+! 2
+! 3
+|-
+| width=30%|[[Giuseppe Ficco]]
+| align=center | [[Weightlifting at the 2000 Summer Olympics – Men's 69&nbsp;kg|– 69&nbsp;kg]]
+| align=center | 127.5
+| align=center | <s>132.5</s>
+| align=center | 132.5
+| align=center | 165.0
+| align=center | 170.0
+| align=center | —
+| align=center | 302.5
+| align=center | 13
+|-
+| width=30%|[[Sergio Mannironi]]
+| align=center | [[Weightlifting at the 2000 Summer Olympics – Men's 85&nbsp;kg|– 85&nbsp;kg]]
+| align=center | <s>150.0</s>
+| align=center | 150.0
+| align=center | <s>155.0</s>
+| align=center | 180.0
+| align=center | <s>190.0</s>
+| align=center | <s>190.0</s>
+| align=center | 330.0
+| align=center | 17
+|-
+| width=30%|[[Moreno Boer]]
+| align=center | [[Weightlifting at the 2000 Summer Olympics – Men's 105&nbsp;kg|– 105&nbsp;kg]]
+| align=center | <s>165.0</s>
+| align=center | 165.0
+| align=center | <s>172.5</s>
+| align=center | 200.0
+| align=center | <s>210.0</s>
+| align=center | <s>210.0</s>
+| align=center | 365.0
+| align=center | 12
+|}
+
+==Wrestling==
+{{main|Wrestling at the 2000 Summer Olympics}}
+;Greco-Roman
+{|class="wikitable" style="font-size:90%"
+!rowspan="2"|Athlete
+!rowspan="2"|Event
+!colspan=4|Elimination pool
+!Quarterfinal
+!Semifinal
+!colspan=2|Final / {{abbr|BM|Bronze medal match}}
+|-style="font-size: 95%"
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+!Opposition<br />Result
+!Opposition<br />Result
+!Opposition<br />Result
+!Rank
+|-
+|align=left|[[Riccardo Magni]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 63&nbsp;kg|Men's 63&nbsp;kg]]
+|align=center|{{flagIOCathlete|[[Kevin Bracken|Bracken]]|USA|2000 Summer}}<br>'''L''' 2–2 
+|align=center|{{flagIOCathlete|[[Choi Sang-sun|Choi S-s]]|KOR|2000 Summer}}<br>'''L''' 1–5
+|align=center {{N/A}}
+|align=center|3
+|align=center colspan=4|Did not advance
+|-
+|align=left|[[Giuseppe Giunta]]
+|align=left|[[Wrestling at the 2000 Summer Olympics – Men's Greco-Roman 130&nbsp;kg|Men's 130&nbsp;kg]]
+|align=center|{{flagIOCathlete|[[Haykaz Galstyan|Galstyan]]|ARM|2000 Summer}}<br>'''W''' 1–0
+|align=center|{{flagIOCathlete|[[Omrane Ayari|Ayari]]|TUN|2000 Summer}}<br>'''W''' 4–0
+|align=center|{{flagIOCathlete|[[Rulon Gardner|Gardner]]|USA|2000 Summer}}<br>'''L''' 1–2
+|align=center|2
+|align=center colspan=4|Did not advance
+|}
+
+==See also==
+*[[Italy at the 2000 Summer Paralympics]]
+
+==Sources==
+{{refbegin}}
+* Wallechinsky, David (2004). ''The Complete Book of the Summer Olympics (Athens 2004 Edition)''. Toronto, Canada. {{ISBN|1-894963-32-6}}.
+* International Olympic Committee (2001). [https://webarchive.nla.gov.au/awa/20020918140000/http://pandora.nla.gov.au/pan/13323/20020919-0000/www.gamesinfo.com.au/results/results.pdf The Results]{{cbignore|bot=medic}}. Retrieved 12 November 2005.
+* Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20001109071400/http://www.olympics.com/eng/ Official Report of the XXVII Olympiad Volume 1: Preparing for the Games]. Retrieved 20 November 2005.
+* Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20090327000622/http://www.la84foundation.org/6oic/OfficialReports/2000/2000v2.pdf Official Report of the XXVII Olympiad Volume 2: Celebrating the Games]. Retrieved 20 November 2005.
+* Sydney Organising Committee for the Olympic Games (2001). [https://web.archive.org/web/20070927222411/http://www.la84foundation.org/6oic/OfficialReports/2000/Results.pdf The Results]. Retrieved 20 November 2005.
+* [https://web.archive.org/web/20150705032224/http://www.olympic.org/ International Olympic Committee Web Site]
+{{refend}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commons category-inline}}
+
+{{country at games navbox|Italy|Olympics}}
+{{Nations at the 2000 Summer Olympics}}
+
+[[Category:Nations at the 2000 Summer Olympics]]
+[[Category:Italy at the Summer Olympics by year|2000 Summer Olympics]]
+[[Category:2000 in Italian sport|Olympics]]

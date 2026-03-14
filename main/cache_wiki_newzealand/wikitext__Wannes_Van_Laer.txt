@@ -1,0 +1,95 @@
+{{short description|Belgian sailor}}
+{{Infobox sailor
+|name           = Wannes Van Laer
+|image          = Wannes Van Laer London Olympics.jpg
+|imagesize      = 300
+|caption        = Van Laer during the London 2012 Olympics
+|nationality    = Belgian
+|classes        = [[Laser (dinghy)|Laser Standard]]
+|club           = BRYC
+|coach          = Gonçalo Pereira de Carvahlo
+|birth_date     = {{birth date and age |1985|03|05|df=yes}}
+|birth_place    = [[Ostend]], [[West Flanders]], [[Belgium]]
+|death_date     = 
+|death_place    = 
+|height         = 1.81 m
+|weight         = 82 kg
+|olympics       = [[2012 Summer Olympics]]: 34th
+|updated        = 17 November 2013
+}}
+
+'''Wannes Van Laer''' (born 5 March 1985 in [[Ostend]]) is a professional Belgian [[sailing (sport)|sailor]].<ref name="OlympicBotGeneratedRef">{{cite web|title=Wannes Van Laer|url=http://www.london2012.com/athlete/van-laer-wannes-1128999/|website=London2012.com|publisher=[[The London Organising Committee of the Olympic Games and Paralympic Games Limited]]|access-date=13 September 2012|url-status=dead|archive-date=11 September 2012|archive-url=https://web.archive.org/web/20120911224441/http://www.london2012.com/athlete/van-laer-wannes-1128999/}}</ref> He competed at the [[2012 Summer Olympics]] in the [[Sailing at the 2012 Summer Olympics – Men's Laser class|Men's Laser class]], where he finished in 34th place.{{refn|name=London 2012 Results - Laser - Men|{{cite web|title=Olympic Results: London 2012, Sailing, Laser - One Person Dinghy men|url=http://www.olympic.org/olympic-results/london-2012/sailing/laser-one-person-dinghy-m}}}} Since 2013 he became Belgian Champion [[Laser (dinghy)|Laser Standard]] for the sixth time.
+
+Van Laer sails under the colours of the [[French Community of Belgium|Wallonia-Brussels Federation]], for the [[Fédération Francophone du Yachting Belge|FFYB]].
+
+==World ranking==
+Highest position on the [[International Sailing Federation|ISAF]] world ranking so far (updated: 17 juni 2013): '''16th'''<ref>[http://www.sailing.org/rankings_table.php?includeref=ranking22666&rankdiscipline=2&ranktype=2&rankclass=64&rankdate=latest ISAF World Ranking - Men - Laser]</ref>
+
+==Results==
+
+===Laser Standard===
+{| class="wikitable"
+!Year
+!Regatta
+|-
+| 2013 ||
+* SOF La Rochelle: 10th
+* World Cup [[Sail for Gold]] Regatta: 11th
+* World Cup [[Kiel Week|Kieler Woche]]: 10th
+|-
+| 2012 || 
+* [[Sailing at the 2012 Summer Olympics – Men's Laser class|Sailing at the 2012 Summer Olympics]]: 34th
+* World Cup [[Sail Melbourne]]: 8th
+* World Cup Kieler Woche: 11th
+|-
+| 2011 ||
+* EC Helsinki, Finland: 19th
+* Eurolymp Riva del Garda: 12th
+* World Cup Kieler Woche: 16th
+* World Cup Rolex [[US Sailing's Miami Olympic Classes Regatta|Miami OCR]]: 11th
+|-
+| 2010 ||
+* World Cup Sail Melbourne: 15th
+* World Cup Kieler Woche: 8th
+|}
+
+===Other classes===
+{| class="wikitable"
+!Result
+!Year
+!Class
+!Regatta
+{{MedalGold|2009| / }} || [[Voiles de Saint-Tropez]] (Yachting)
+{{MedalBronze|2003|[[Finn (dinghy)|Finn]]}}|| EC youth Sweden
+|-
+| {{center|7th}} || {{center|2000}} || {{center|[[Europe (dinghy)|Europe]]}} || {{center|EC Spain}}
+{{MedalBronze|1999|[[Ponant (dinghy)|Ponant]]}} || EC France
+{{MedalBronze|1998|[[Optimist (dinghy)|Optimist]]}} || EC Croatia
+{{MedalGold|1996|[[Optimist (dinghy)|Optimist]]}} || WC (U13) South-Africa
+|}
+----
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{World Sailing|id=BELWV2|www=wannes-van-laer}}
+* {{Olympics.com profile|wannes-van-laer}}
+* {{Team Belgium|Wannes-Van-Laer-354}}
+* {{Olympedia}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Van Laer, Wannes}}
+[[Category:1985 births]]
+[[Category:Living people]]
+[[Category:Belgian male sailors (sport)]]
+[[Category:Olympic sailors for Belgium]]
+[[Category:Sailors at the 2012 Summer Olympics – Laser]]
+[[Category:Sportspeople from Ostend]]
+[[Category:Sailors at the 2016 Summer Olympics – Laser]]
+[[Category:Sailors at the 2020 Summer Olympics – Laser]]
+[[Category:21st-century Belgian sportsmen]]
+
+
+{{Belgium-yachtracing-bio-stub}}

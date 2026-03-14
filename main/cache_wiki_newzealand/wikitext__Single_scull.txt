@@ -1,0 +1,73 @@
+{{short description|Type of rowing boat}}
+{{More citations needed|date=June 2020}}
+[[Image:Single scull (rowing).svg|thumb|right|Single scull icon]]
+[[Image:Single Sculls.JPG|thumb|Modern composite single scull, above a 1920s wooden single scull]]
+A '''single scull''' (also known as a '''scull''' or '''1x''')  <ref>[https://www.britishrowing.org/go-rowing/types-of-rowing/sliding-seat-rowing/ "Classic Rowing" (see also "Types of 'sculling' boats").]</ref> [[racing shell]] is a boat used in the [[Sculling|sculling]] category of the sport of [[Rowing (sport)|rowing]] where a single person propels the boat with two [[Oar (sport rowing)|oars]], one in each hand.
+
+==Design and construction== 
+Racing boats (often called "shells") are long, narrow, and broadly semi-circular in cross-section in order to minimize drag. They have [[Outrigger|rigger]]s, which apply the forces exerted by the sculler symmetrically to each side of the boat and (usually) a fin towards the rear which helps prevent roll and yaw. Originally made from [[wood]], shells are now almost always made from a [[composite material]] (usually [[carbon-fibre reinforced plastic]]) for strength and weight advantages.
+
+Recreational single sculls tend to be shorter and a little wider than racing boats and can have a slightly flattened hull shape to provide more stability. Recreational single sculls can be made of a variety of materials including carbon fiber, fiberglass, wood or rotomoulded polyethylene.
+
+A single [[Thames skiff]] has a similar layout to a single scull but is clinker-built with fixed seats and tholes instead of outriggers and can be [[skiffing|skiffed]] for leisure outings or in competitive races.
+
+==Competative rowing class==
+The single scull class is recognized by the [[World Rowing]] and the [[Olympic Games|Olympics]], who set the minimum weight of the hull at {{convert |14|kg|lbs|abbr=on}}. The minimum length is {{convert|7.2|m|ft|abbr=on}} with an average length of around {{convert |8.2|m|ft|abbr=on}}.<ref>{{usurped|1=[https://web.archive.org/web/20070928162404/http://www.ara-rowing.org/render.aspx?siteID=1&navIDs=1,39,52,924 Amateur Rowing Association equipment regulations]}}</ref> The typical beam is about {{convert |28|cm|in|abbr=on}} and draft  about {{convert|17|cm|in|abbr=on}}. The regulations also specify a maximum Oar length of {{convert|300|cm|ft|abbr=on}}.<ref>{{cite web
+ | title = Equipment Compliance
+ | website = World Rowing
+ | url = https://worldrowing.com/technical/equipment-technology/equipment-compliance/
+ | publisher = World Rowing
+ | access-date = 10 March 2026
+}}</ref>
+
+The single scull is the 2nd slowest category of racing boat (faster than the coxed pair), and competitors are recognised by other rowers as among the toughest, both physically and mentally: single sculling is sometimes known as 'king's class'.{{Citation needed|reason=The only meaningful results for a Google a search for '"king's class" sculling' are from this page.  Also, is there a citation for the "2nd slowest category" assertion?|date=June 2009}}
+[[Image:Scull.jpg|thumb|left|Rower in a scull on the [[Great Ouse]] river, England]] 
+Single sculls are also used for the [[training]] of team rowers, serving primarily to enhance the rowers' individual technique and watermanship.  The main reason for this is that in the single scull the sculler is responsible for all movement in the boat and therefore receives direct [[feedback]] on the effect of their movements on balance and speed.
+
+Single sculling time trials and races are sometimes used to measure individuals' rowing ability for selection into larger boats, since each rower's ability can be measured directly and there is no contribution from other crew members.  However sculling ability and sweep-oar rowing ability are not the same. Powerful and accomplished sweep-oar rowers may be unable to demonstrate their ability in a single scull, where balance and technique are more critical.
+
+==Major competitions==
+[[Image:Max Schmitt in a Single Scull.jpg|thumb|''[[Max Schmitt in a single scull]]'' (1871) by painter [[Thomas Eakins]].]]
+===Wingfield Sculls===
+{{excerpt |Wingfield Sculls|paragraphs=1|only=paragraphs}}
+
+===World Sculling Championship===
+{{excerpt |World Sculling Championship|paragraphs=1|only=paragraphs}}
+
+===Diamond Challenge Sculls===
+{{excerpt |Diamond Challenge Sculls|paragraphs=1|only=paragraphs}}
+
+===Single sculls at the Olympics===
+{{excerpt |Single sculls at the Olympics|paragraphs=1|only=paragraphs}}
+
+===World Rowing Championships===
+{{excerpt |World Rowing Championships|paragraphs=1|only=paragraphs}}
+
+===World best times===
+{{as of|2002|alt=In 2002}} Bulgarian sculler Rumyana Neykova achieved a world best time of 7 minutes 7.71 seconds in the F1x class at the World Rowing Championships in Seville, Spain. <ref>{{cite web
+ | title = Fastest row, Women’s Single Sculls (W1X)
+ | website = Guinness World Records
+ | url = https://www.guinnessworldrecords.com/world-records/fastest-row-single-sculls-(female)
+ | publisher = Guinness World Records Limited
+ | access-date = 10 March 2026
+}}</ref>
+
+{{as of |2017}} New Zealand sculler [[Robbie Manson]] set a world best time for the M1x class of 6:30.74 over {{convert|2000|m|mi|abbr=on}} at the World Rowing Championships in Poznań, Poland.
+<ref>https://www.guinnessworldrecords.com/world-records/84079-fastest-row-single-sculls-male?utm_source=copilot.com</ref>{{AI-retrieved source|date=March 2026|checked=no}}
+
+==See also==
+{{sister project links |auto=y|d=y}}
+
+*[[Double scull]]
+*[[Quad scull]]
+
+==References==
+{{reflist}}
+
+{{fineboats}}
+{{World champions – Women's single sculls}}
+{{World champions – Men's single sculls}}
+{{World champions – Lightweight women's single sculls}}
+{{World champions – Lightweight men's single sculls}}
+
+[[Category:Rowing racing boats]]
