@@ -48,9 +48,9 @@ QSS20_Final_Project/
 │   └── nz_results_*.csv
 │
 ├── figures/
-│   ├── us_presentation_figures/
-│   ├── norway_presentation_figures/
-│   └── nz_presentation_figures/
+│   ├── us/
+│   ├── norway/
+│   └── nz/
 │
 ├── cache/
 │   ├── cache_wiki/
